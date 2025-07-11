@@ -723,9 +723,9 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
     
     return `# 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Real opportunities from ${totalCompanies}+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from ${totalCompanies}+ top companies • Updated daily • US Positions**
 
-> Fresh software engineering jobs scraped directly from company career pages. Real positions from FAANG, unicorns, and elite startups, updated every 24 hours. **Filtered for US-based positions.**
+> Fresh software engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 24 hours. **Filtered for US-based positions.**
 
 ## 🌟 **Join Our Community**
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
@@ -820,18 +820,6 @@ ${Object.entries(stats.byLocation)
     .slice(0, 8)
     .map(([location, count]) => `- **${location}**: ${count} positions`)
     .join('\n')}
-
----
-
-## 🔮 **What Makes This Special**
-
-✅ **100% Real Jobs**: Scraped directly from company career APIs, no fake data<br>
-✅ **Elite Companies**: Only top-tier tech companies and unicorns<br>
-✅ **Fresh Daily**: Updated every 24 hours automatically<br>
-✅ **Smart Filtering**: AI-powered categorization and deduplication<br>
-✅ **Experience Levels**: Clear indicators for entry, mid, and senior roles<br>
-✅ **Direct Links**: Apply directly on company websites<br>
-✅ **Mobile Optimized**: Perfect experience on any device<br>
 
 ---
 
