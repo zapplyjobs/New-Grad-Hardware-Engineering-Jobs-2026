@@ -369,6 +369,9 @@
         .feature:hover {
             transform: translateY(-12px);
             box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
+            background: var(--black);
+            color: var(--white);
+            cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="%23FFFFFF" stroke="%23000000" stroke-width="2" stroke-linejoin="round" d="M15 3H8L4 14h6l-3 8 13-12h-7.5L15 3z"></path></svg>'), auto;
         }
 
         .feature-icon {
@@ -385,9 +388,17 @@
         }
 
         .feature:hover .feature-icon {
-            background: var(--accent);
-            color: var(--white);
+            background: var(--white);
+            color: var(--black);
             transform: scale(1.1);
+        }
+
+        .feature:hover .feature-title {
+            color: var(--white);
+        }
+
+        .feature:hover .feature-description {
+            color: var(--gray-300);
         }
 
         .feature-title {
