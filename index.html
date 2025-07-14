@@ -189,6 +189,14 @@
             font-weight: 300;
         }
 
+        .typed-highlight {
+            background: var(--black);
+            color: var(--white);
+            padding: 4px 16px;
+            border-radius: 8px;
+            display: inline-block;
+        }
+
         @keyframes blink {
             0%, 50% { opacity: 1; }
             51%, 100% { opacity: 0; }
@@ -306,13 +314,22 @@
             padding: 24px 16px;
             text-align: center;
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-            cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="48" viewBox="0 0 24 24"><path fill="%23FFF" stroke="%23000" stroke-width="2" stroke-linejoin="round" d="M10 11V8.99c0-.88.59-1.64 1.44-1.86h.05A1.99 1.99 0 0 1 14 9.05V12v-2c0-.88.6-1.65 1.46-1.87h.05A1.98 1.98 0 0 1 18 10.06V13v-1.94a2 2 0 0 1 1.51-1.94h0A2 2 0 0 1 22 11.06V14c0 .6-.08 1.27-.21 1.97a7.96 7.96 0 0 1-7.55 6.48 54.98 54.98 0 0 1-4.48 0 7.96 7.96 0 0 1-7.55-6.48C2.08 15.27 2 14.59 2 14v-1.49c0-1.11.9-2.01 2.01-2.01h0a2 2 0 0 1 2.01 2.03l-.01.97v-10c0-1.1.9-2 2-2h0a2 2 0 0 1 2 2V11Z"></path></svg>'), pointer;
+            cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="48" viewBox="0 0 24 24"><path fill="%23FFF" stroke="%23000" stroke-width="2" stroke-linejoin="round" d="M10 11V8.99c0-.88.59-1.64 1.44-1.86h.05A1.99 1.99 0 0 1 14 9.05V12v-2c0-.88.6-1.65 1.46-1.87h.05A1.98 1.98 0 0 1 18 10.06V13v-1.94a2 2 0 0 1 1.51-1.94h0A2 2 0 0 1 22 11.06V14c0 .6-.08 1.27-.21 1.97a7.96 7.96 0 0 1-7.55 6.48 54.98 54.98 0 0 1-4.48 0 7.96 7.96 0 0 1-7.55-6.48C2.08 15.27 2 14.59 2 14v-1.49c0-1.11.9-2.01 2.01-2.01h0a2 2 0 0 1 2.01 2.03l-.01.97v-10c0-1.l.9-2 2-2h0a2 2 0 0 1 2 2V11Z"></path></svg>'), pointer;
+            text-decoration: none;
+            display: block;
         }
 
         .company:hover {
             transform: translateY(-8px);
             box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
             border-color: var(--gray-300);
+            background: var(--black);
+            color: var(--white);
+            cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="%23FFFFFF" stroke="%23000000" stroke-width="2" stroke-linejoin="round" d="M15 3H8L4 14h6l-3 8 13-12h-7.5L15 3z"></path></svg>'), auto;
+        }
+
+        .company:hover .company-name {
+            color: var(--white);
         }
 
         .company-icon {
@@ -627,7 +644,7 @@
                     <span>825+ Live Positions</span>
                 </div>
                 
-                <h1 class="hero-title">Elite Tech Jobs<br>for New Grads<span class="cursor">|</span></h1>
+                <h1 class="hero-title">Elite Tech Jobs<br>for <span id="typed-text" class="typed-highlight">New Grads</span><span class="cursor">|</span></h1>
                 
                 <p class="hero-subtitle">
                     Curated opportunities from top tech companies.<br>
@@ -684,54 +701,54 @@
         </div>
         <div class="container">
             <div class="companies-grid">
-                <div class="company">
+                <a href="https://careers.google.com/" target="_blank" class="company">
                     <span class="company-icon">🟢</span>
                     <div class="company-name">Google</div>
-                </div>
-                <div class="company">
+                </a>
+                <a href="https://jobs.apple.com/" target="_blank" class="company">
                     <span class="company-icon">🍎</span>
                     <div class="company-name">Apple</div>
-                </div>
-                <div class="company">
+                </a>
+                <a href="https://careers.meta.com/" target="_blank" class="company">
                     <span class="company-icon">🔵</span>
                     <div class="company-name">Meta</div>
-                </div>
-                <div class="company">
+                </a>
+                <a href="https://amazon.jobs/" target="_blank" class="company">
                     <span class="company-icon">📦</span>
                     <div class="company-name">Amazon</div>
-                </div>
-                <div class="company">
+                </a>
+                <a href="https://jobs.netflix.com/" target="_blank" class="company">
                     <span class="company-icon">🎬</span>
                     <div class="company-name">Netflix</div>
-                </div>
-                <div class="company">
+                </a>
+                <a href="https://openai.com/careers/" target="_blank" class="company">
                     <span class="company-icon">🤖</span>
                     <div class="company-name">OpenAI</div>
-                </div>
-                <div class="company">
+                </a>
+                <a href="https://stripe.com/jobs/" target="_blank" class="company">
                     <span class="company-icon">💳</span>
                     <div class="company-name">Stripe</div>
-                </div>
-                <div class="company">
+                </a>
+                <a href="https://figma.com/careers/" target="_blank" class="company">
                     <span class="company-icon">🎨</span>
                     <div class="company-name">Figma</div>
-                </div>
-                <div class="company">
+                </a>
+                <a href="https://careers.airbnb.com/" target="_blank" class="company">
                     <span class="company-icon">🏠</span>
                     <div class="company-name">Airbnb</div>
-                </div>
-                <div class="company">
+                </a>
+                <a href="https://palantir.com/careers/" target="_blank" class="company">
                     <span class="company-icon">👁️</span>
                     <div class="company-name">Palantir</div>
-                </div>
-                <div class="company">
+                </a>
+                <a href="https://tesla.com/careers/" target="_blank" class="company">
                     <span class="company-icon">⚡</span>
                     <div class="company-name">Tesla</div>
-                </div>
-                <div class="company">
+                </a>
+                <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/" target="_blank" class="company">
                     <span class="company-icon">🎮</span>
                     <div class="company-name">Nvidia</div>
-                </div>
+                </a>
             </div>
         </div>
     </section>
@@ -873,6 +890,42 @@
                 }, 150);
             });
         });
+
+        // Typing effect for hero title
+        const typedTextElement = document.getElementById('typed-text');
+        const words = ['New Grads', 'Mid-Level', 'Early-Career'];
+        let currentWordIndex = 0;
+        let currentCharIndex = 0;
+        let isDeleting = false;
+
+        function typeEffect() {
+            const currentWord = words[currentWordIndex];
+            
+            if (isDeleting) {
+                typedTextElement.textContent = currentWord.substring(0, currentCharIndex - 1);
+                currentCharIndex--;
+            } else {
+                typedTextElement.textContent = currentWord.substring(0, currentCharIndex + 1);
+                currentCharIndex++;
+            }
+
+            let typeSpeed = isDeleting ? 100 : 150;
+
+            if (!isDeleting && currentCharIndex === currentWord.length) {
+                // Pause at end of word
+                typeSpeed = 2000;
+                isDeleting = true;
+            } else if (isDeleting && currentCharIndex === 0) {
+                isDeleting = false;
+                currentWordIndex = (currentWordIndex + 1) % words.length;
+                typeSpeed = 500;
+            }
+
+            setTimeout(typeEffect, typeSpeed);
+        }
+
+        // Start the typing effect after page load
+        setTimeout(typeEffect, 1000);
     </script>
 </body>
 </html>
