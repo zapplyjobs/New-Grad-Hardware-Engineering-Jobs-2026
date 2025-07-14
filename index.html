@@ -255,15 +255,21 @@
         /* Companies Section */
         .companies {
             padding: 100px 0;
+            background: var(--white);
+        }
+
+        .companies-header {
             background: var(--black);
+            padding: 60px 0;
+            margin: -100px 0 60px 0;
             cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="%23FFFFFF" stroke="%23000000" stroke-width="2" stroke-linejoin="round" d="M15 3H8L4 14h6l-3 8 13-12h-7.5L15 3z"></path></svg>'), auto;
         }
 
-        .companies .section-title {
+        .companies-header .section-title {
             color: var(--white);
         }
 
-        .companies .section-subtitle {
+        .companies-header .section-subtitle {
             color: var(--gray-300);
         }
 
@@ -657,12 +663,15 @@
 
     <!-- Companies Section -->
     <section class="companies scroll-reveal">
+        <div class="companies-header">
+            <div class="container">
+                <h2 class="section-title">Trusted by the best</h2>
+                <p class="section-subtitle">
+                    Direct access to opportunities from the world's most innovative companies
+                </p>
+            </div>
+        </div>
         <div class="container">
-            <h2 class="section-title">Trusted by the best</h2>
-            <p class="section-subtitle">
-                Direct access to opportunities from the world's most innovative companies
-            </p>
-            
             <div class="companies-grid">
                 <div class="company">
                     <span class="company-icon">🟢</span>
