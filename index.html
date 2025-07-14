@@ -909,16 +909,16 @@
                 currentCharIndex++;
             }
 
-            let typeSpeed = isDeleting ? 100 : 150;
+            let typeSpeed = isDeleting ? 50 : 80;
 
             if (!isDeleting && currentCharIndex === currentWord.length) {
                 // Pause at end of word
-                typeSpeed = 2000;
+                typeSpeed = 1000;
                 isDeleting = true;
             } else if (isDeleting && currentCharIndex === 0) {
                 isDeleting = false;
                 currentWordIndex = (currentWordIndex + 1) % words.length;
-                typeSpeed = 500;
+                typeSpeed = 200;
             }
 
             setTimeout(typeEffect, typeSpeed);
