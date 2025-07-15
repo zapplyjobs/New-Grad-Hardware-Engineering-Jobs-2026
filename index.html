@@ -195,8 +195,6 @@
             padding: 4px 16px;
             border-radius: 8px;
             display: inline-block;
-            min-height: 1.2em;
-            vertical-align: baseline;
         }
 
         @keyframes blink {
@@ -904,7 +902,8 @@
             const currentWord = words[currentWordIndex];
             
             if (isDeleting) {
-                typedTextElement.textContent = currentWord.substring(0, currentCharIndex - 1);
+                const newText = currentWord.substring(0, currentCharIndex - 1);
+                typedTextElement.textContent = newText || '\u00A0'; // Use non-breaking space if empty
                 currentCharIndex--;
             } else {
                 typedTextElement.textContent = currentWord.substring(0, currentCharIndex + 1);
