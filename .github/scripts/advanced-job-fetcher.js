@@ -2,7 +2,7 @@ const fs = require('fs');
 const { fetchAllRealJobs } = require('./real-career-scraper');
 
 // Load comprehensive company database
-const companies = JSON.parse(fs.readFileSync('./companies.json', 'utf8'));
+const companies = JSON.parse(fs.readFileSync('.github/scripts/companies.json', 'utf8'));
 
 // Configuration
 const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || '315e3cea2bmshd51ab0ee7309328p18cecfjsna0f6b8e72f39';
