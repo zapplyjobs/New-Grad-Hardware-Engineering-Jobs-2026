@@ -145,7 +145,7 @@
     {
       "name": "Figma",
       "emoji": "🎨",
-      "career_url": "https://figma.com/careers?utm_source=Zapply&ref=Zapply",
+      "career_url": "https://figma.com/careers",
       "api_names": ["figma"]
     },
     {
