@@ -1,7 +1,7 @@
 // utils/githubStats.js
 export const fetchGitHubStats = async () => {
   try {
-    const repo = 'zapplyjobs/New-Grad-Jobs-by-Zapply'; // Your repo
+    const repo = 'zapplyjobs/New-Grad-Positions'; // Your repo
     const response = await fetch(
       `https://raw.githubusercontent.com/${repo}/main/README.md`
     );
