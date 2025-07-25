@@ -243,7 +243,9 @@ const JobTable = ({ jobs }) => {
           onChange={handleFilterChange}
           placeholder="Search roles, companies, locations..."
           className="search-input"
+          style={{ color: 'white' }}
         />
+
       </div>
 
       {/* Filters */}

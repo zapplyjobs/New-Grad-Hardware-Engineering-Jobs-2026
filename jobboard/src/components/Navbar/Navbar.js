@@ -43,18 +43,18 @@ const Navbar = () => {
           
           {/* Desktop Navigation */}
           <div className="nav-actions desktop-nav">
-            <button
+            <Button
               variant="secondary"
               onClick={() => scrollToSection('companies')}
             >
               Companies
-            </button>
-            <button
+            </Button>
+            <Button
               variant="secondary"
               onClick={() => scrollToSection('jobs')}
             >
               Jobs
-            </button>
+            </Button>
             <Button
               href="https://discord.gg/yKWw28q7Yq"
               variant="secondary"
