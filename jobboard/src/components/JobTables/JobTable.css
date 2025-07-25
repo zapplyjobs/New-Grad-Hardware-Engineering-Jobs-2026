@@ -234,7 +234,7 @@
 }
 
 .job-table th {
-  background: var(--gray-50);
+  background: var(--white);
   padding: 20px 16px;
   text-align: left;
   font-weight: 600;
@@ -257,6 +257,7 @@
 }
 
 .job-table td {
+  background: var(--white);
   padding: 20px 16px;
   border-bottom: 1px solid var(--gray-100);
   vertical-align: top;
@@ -708,8 +709,8 @@
 /* Dark Mode Support (if you add it later) */
 @media (prefers-color-scheme: dark) {
   .job-table-container {
-    background: var(--gray-900);
-    border-color: var(--gray-700);
+    background: var(--white);
+    border-color: var(--gray-200);
   }
   
   .search-input {
@@ -733,11 +734,11 @@
   }
   
   .job-table {
-    background: var(--gray-900);
+    background: var(--white);
   }
   
   .job-table th {
-    background: var(--gray-800);
+    background: var(--white);
     color: var(--black);
   }
   
