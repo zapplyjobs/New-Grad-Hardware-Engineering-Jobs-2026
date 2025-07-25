@@ -54,7 +54,7 @@ const Home = () => {
         // Debug: Show a sample of the README content
         const sampleContent = readmeContent.substring(0, 1000);
         console.log('📋 README sample:', sampleContent);
-        setDebugInfo(`README loaded: ${readmeContent.length} chars`);
+        // setDebugInfo(`README loaded: ${readmeContent.length} chars`);
         
         // Parse jobs from README
         console.log('🔧 Parsing jobs from README...');
@@ -76,24 +76,24 @@ const Home = () => {
         // Debug: Show sample jobs
         if (parsedJobs.length > 0) {
           console.log('📋 Sample jobs:', parsedJobs.slice(0, 3));
-          setDebugInfo(`Found ${parsedJobs.length} jobs from ${finalCompanies.length} companies: ${finalCompanies.slice(0, 5).join(', ')}${finalCompanies.length > 5 ? '...' : ''}`);
+          // setDebugInfo(`Found ${parsedJobs.length} jobs from ${finalCompanies.length} companies: ${finalCompanies.slice(0, 5).join(', ')}${finalCompanies.length > 5 ? '...' : ''}`);
         } else {
           console.warn('⚠️ No jobs found in README');
-          setDebugInfo('No jobs found in README');
+          // setDebugInfo('No jobs found in README');
           
           // Try to find table structures
           const tableCount = (readmeContent.match(/\|.*\|.*\|.*\|/g) || []).length;
           const companyHeaders = (readmeContent.match(/###.*\*\*.*\*\*/g) || []).length;
           const summaryTags = (readmeContent.match(/<summary>/g) || []).length;
           console.log(`🔍 Debug: Found ${tableCount} table rows, ${companyHeaders} company headers, ${summaryTags} summary tags`);
-          setDebugInfo(`Debug: ${tableCount} table rows, ${companyHeaders} company headers, ${summaryTags} summary tags found`);
+          // setDebugInfo(`Debug: ${tableCount} table rows, ${companyHeaders} company headers, ${summaryTags} summary tags found`);
         }
         
         setJobs(parsedJobs);
         
       } catch (error) {
         console.error('❌ Failed to load data:', error);
-        setDebugInfo(`Error: ${error.message}`);
+        // setDebugInfo(`Error: ${error.message}`);
         // Keep default stats if fetch fails
       } finally {
         setIsLoading(false);
