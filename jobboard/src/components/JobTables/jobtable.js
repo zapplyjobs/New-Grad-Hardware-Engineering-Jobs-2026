@@ -311,16 +311,17 @@ const JobTable = ({ jobs }) => {
           </select>
           
           <select 
-            name="remote" 
-            value={filters.remote}
-            onChange={handleFilterChange}
-            className="filter-select"
-          >
-            <option value="">Mode</option>
-            <option value="Yes">Remote Only</option>
-            <option value="No">On-site Only</option>
-          </select>
-          
+          name="remote" 
+          value={filters.remote}
+          onChange={handleFilterChange}
+          className="filter-select"
+          style={{ display: 'none' }}
+        >
+          <option value="">Mode</option>
+          <option value="Yes">Remote Only</option>
+          <option value="No">On-site Only</option>
+        </select>
+
           <select 
             name="sponsorship" 
             value={filters.sponsorship}
