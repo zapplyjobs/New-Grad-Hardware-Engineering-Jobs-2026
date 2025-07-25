@@ -44,13 +44,13 @@ const Navbar = () => {
           {/* Desktop Navigation */}
           <div className="nav-actions desktop-nav">
             <button
-              className="nav-link"
+              variant="secondary"
               onClick={() => scrollToSection('companies')}
             >
               Companies
             </button>
             <button
-              className="nav-link"
+              variant="secondary"
               onClick={() => scrollToSection('jobs')}
             >
               Jobs
