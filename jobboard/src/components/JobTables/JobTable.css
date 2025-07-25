@@ -37,19 +37,20 @@
 .search-input {
   width: 100%;
   padding: 16px 24px;
-  border: 1px solid var(--gray-300);
-  border-radius: 100px;
+  border: 2px solid var(--gray-200);
+  border-radius: 12px;
   font-size: 16px;
   font-weight: 500;
   background: var(--white);
+  color: var(--gray-800) !important;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="48" viewBox="0 0 24 24"><path fill="%23FFF" stroke="%23000" stroke-width="2" stroke-linejoin="round" d="M10 11V8.99c0-.88.59-1.64 1.44-1.86h.05A1.99 1.99 0 0 1 14 9.05V12v-2c0-.88.6-1.65 1.46-1.87h.05A1.98 1.98 0 0 1 18 10.06V13v-1.94a2 2 0 0 1 1.51-1.94h0A2 2 0 0 1 22 11.06V14c0 .6-.08 1.27-.21 1.97a7.96 7.96 0 0 1-7.55 6.48 54.98 54.98 0 0 1-4.48 0 7.96 7.96 0 0 1-7.55-6.48C2.08 15.27 2 14.59 2 14v-1.49c0-1.11.9-2.01 2.01-2.01h0a2 2 0 0 1 2.01 2.03l-.01.97v-10c0-1.1.9-2 2-2h0a2 2 0 0 1 2 2V11Z"></path></svg>'), text;
+  cursor: text;
 }
 
 .search-input:focus {
   outline: none;
-  border-color: var(--gray-400);
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  border-color: var(--black);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
   transform: translateY(-2px);
 }
 
@@ -67,9 +68,9 @@
 
 .filter-row {
   display: flex;
-  gap: 10px; /* Reduced from 16px */
+  gap: 12px;
   margin-bottom: 0;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: flex-start;
 }
@@ -86,11 +87,13 @@
   color: var(--gray-800) !important;
   font-size: 14px;
   font-weight: 500;
-  min-width: 120px;
+  min-width: 140px;
   flex: 1;
-  max-width: 180px;
+  max-width: 200px;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
   cursor: pointer;
   appearance: none;
   background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12"><path fill="%23666" d="M6 8L2 4h8z"/></svg>');
@@ -567,14 +570,17 @@
   }
   
   .filter-row {
-    gap: 8px; /* Further reduced for mobile */
-    justify-content: center;
+    gap: 10px;
+    justify-content: flex-start;
+    flex-wrap: wrap;
   }
   
   .filter-select {
-    min-width: 90px; /* Smaller for mobile */
-    font-size: 12px;
-    padding: 8px 12px;
+    min-width: 120px;
+    max-width: none;
+    font-size: 13px;
+    padding: 10px 16px;
+    padding-right: 35px;
   }
   
   .reset-filters {
