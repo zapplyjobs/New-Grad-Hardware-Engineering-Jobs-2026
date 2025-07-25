@@ -103,8 +103,8 @@
 
 .reset-filters {
   padding: 10px 20px; /* Reduced from 12px 24px */
-  background: var(--black);
-  color: var(--white);
+  background: var(--white);
+  color: var(--black);
   border: none;
   border-radius: 100px;
   font-size: 13px; /* Reduced from 14px */
@@ -116,7 +116,7 @@
 }
 
 .reset-filters:hover {
-  background: var(--gray-800);
+  background: var(--gray-100);
   transform: translateY(-2px);
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
 }
@@ -187,8 +187,8 @@
 }
 
 .pagination-number.active {
-  background: var(--black);
-  color: var(--white);
+  background: var(--white);
+  color: var(--black);
   border-color: var(--black);
   transform: translateY(-1px);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
@@ -252,8 +252,8 @@
 }
 
 .job-table th.sortable:hover {
-  background: var(--black);
-  color: var(--white);
+  background: var(--white);
+  color: var(--black);
 }
 
 .job-table td {
@@ -344,8 +344,8 @@
 }
 
 .job-row:hover .badge {
-  background: var(--black);
-  color: var(--white);
+  background: var(--white);
+  color: var(--black);
   transform: translateY(-1px);
 }
 
@@ -389,8 +389,8 @@
 }
 
 .job-row:hover .level-badge {
-  background: var(--black);
-  color: var(--white);
+  background: var(--white);
+  color: var(--black);
   transform: translateY(-1px);
 }
 
@@ -399,8 +399,8 @@
   display: inline-flex;
   align-items: center;
   padding: 12px 24px;
-  background: var(--black);
-  color: var(--white);
+  background: var(--white);
+  color: var(--black);
   text-decoration: none;
   border-radius: 100px;
   font-size: 14px;
@@ -411,7 +411,7 @@
 }
 
 .apply-button:hover {
-  background: var(--gray-800);
+  background: var(--gray-100);
   transform: translateY(-2px);
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
 }
@@ -444,8 +444,8 @@
 
 .clear-filters-btn {
   padding: 12px 24px;
-  background: var(--black);
-  color: var(--white);
+  background: var(--white);
+  color: var(--black);
   border: none;
   border-radius: 100px;
   font-weight: 600;
@@ -454,7 +454,7 @@
 }
 
 .clear-filters-btn:hover {
-  background: var(--gray-800);
+  background: var(--gray-100);
   transform: translateY(-2px);
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
 }
@@ -715,7 +715,7 @@
   .search-input {
     background: var(--gray-800);
     border-color: var(--gray-600);
-    color: var(--white);
+    color: var(--black);
   }
   
   .search-input::placeholder {
@@ -729,7 +729,7 @@
   .filter-select {
     background: var(--gray-700);
     border-color: var(--gray-600);
-    color: var(--white);
+    color: var(--black);
   }
   
   .job-table {
@@ -738,16 +738,16 @@
   
   .job-table th {
     background: var(--gray-800);
-    color: var(--white);
+    color: var(--black);
   }
   
   .job-row:hover {
-    background: var(--gray-800);
+    background: var(--gray-50);
   }
   
   .company-name,
   .role-title {
-    color: var(--white);
+    color: var(--black);
   }
 }
 
