@@ -1,8 +1,8 @@
-import React, { useEffect, useState, useRef } from 'react';
+import React, { useEffect, useState, useRef, useMemo } from 'react';
 import './TypingEffect.css';
 
 const TypingEffect = () => {
-  const words = ['New Grads', 'Mid-Level', 'Early-Career'];
+  const words = useMemo(() => ['New Grads', 'Mid-Level', 'Juniors'], []);
 
   const [text, setText] = useState('');
   const [isDeleting, setIsDeleting] = useState(false);

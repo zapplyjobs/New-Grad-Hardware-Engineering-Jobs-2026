@@ -139,7 +139,7 @@ export const parseJobsFromReadme = (readmeContent) => {
       }
       
       // Reset when we hit a new section or end of company section
-      if (line.startsWith('---') || line.startsWith('##') && !line.startsWith('###')) {
+      if (line.startsWith('---') || (line.startsWith('##') && !line.startsWith('###'))) {
         inJobTable = false;
         currentCompany = '';
         currentEmoji = '';
@@ -287,7 +287,7 @@ const parseJobsAlternative = (readmeContent) => {
   if (!matches) return jobs;
   
   // Look for company context before each table
-  const lines = readmeContent.split('\n');
+  // const lines = readmeContent.split('\n');
   
   matches.forEach(match => {
     const cells = match.split('|').map(cell => cell.trim()).filter(cell => cell);
@@ -426,14 +426,14 @@ export const validateAndCleanJobs = (jobs) => {
       .replace(/&amp;/g, '&')
       .replace(/&lt;/g, '<')
       .replace(/&gt;/g, '>')
-      .replace(/[^\w\s&.\-]/g, '') // More selective character removal, keep hyphens and periods
+      .replace(/[^\w\s&.-]/g, '') // More selective character removal, keep hyphens and periods
       .replace(/\s+/g, ' ') // Normalize whitespace
       .trim(),
     role: job.role
       .replace(/<[^>]*>/g, '') // Remove all HTML tags
       .replace(/&nbsp;/g, ' ') // Replace HTML entities
       .replace(/&amp;/g, '&')
-      .replace(/[^\w\s&.\-]/g, '') // More selective character removal
+      .replace(/[^\w\s&.-]/g, '') // More selective character removal
       .replace(/\s+/g, ' ') // Normalize whitespace
       .trim(),
     emoji: job.emoji && job.emoji.length <= 2 && /[\u{1F600}-\u{1F6FF}]|[\u{2600}-\u{26FF}]|[\u{1F300}-\u{1F5FF}]/u.test(job.emoji) 

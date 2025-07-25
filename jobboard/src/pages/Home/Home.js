@@ -20,7 +20,7 @@ const Home = () => {
   const [jobs, setJobs] = useState([]);
   const [isLoadingStats, setIsLoadingStats] = useState(true);
   const [isLoading, setIsLoading] = useState(true);
-  const [debugInfo, setDebugInfo] = useState('');
+  // const [debugInfo, setDebugInfo] = useState('');
 
   useEffect(() => {
     const loadData = async () => {
