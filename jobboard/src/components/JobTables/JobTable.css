@@ -61,7 +61,7 @@
 /* Filters Section */
 .job-filters {
   padding: 30px 40px;
-  background: var(--gray-50);
+  background: var(--white);
   border-bottom: 1px solid var(--gray-200);
 }
 
