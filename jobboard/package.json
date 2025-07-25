@@ -2,6 +2,7 @@
   "name": "jobboard",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "description": "Real-time job scraping API for Zapply Jobs",
   "main": "server.js",
   "dependencies": {
