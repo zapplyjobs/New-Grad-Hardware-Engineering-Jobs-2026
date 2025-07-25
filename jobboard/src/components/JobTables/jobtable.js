@@ -338,13 +338,6 @@ const JobTable = ({ jobs }) => {
         </div>
       </div>
       
-      {/* Results Summary */}
-      <div className="results-summary">
-        <span>
-          Showing {startIndex + 1}-{Math.min(endIndex, filteredJobs.length)} of {filteredJobs.length} jobs
-          {filteredJobs.length !== jobs.length && ` (filtered from ${jobs.length} total)`}
-        </span>
-      </div>
       
       {/* Job Table */}
       <div className="job-table-wrapper">
