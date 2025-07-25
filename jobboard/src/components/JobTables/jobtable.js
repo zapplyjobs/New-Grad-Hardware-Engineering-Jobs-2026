@@ -309,7 +309,7 @@ const JobTable = ({ jobs }) => {
               <option key={i} value={cat}>{cat}</option>
             ))}
           </select>
-          
+{/*           
           <select 
             name="remote" 
             value={filters.remote}
@@ -319,7 +319,7 @@ const JobTable = ({ jobs }) => {
             <option value="">Mode</option>
             <option value="Yes">Remote Only</option>
             <option value="No">On-site Only</option>
-          </select>
+          </select> */}
           
           <select 
             name="sponsorship" 
