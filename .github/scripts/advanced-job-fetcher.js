@@ -922,3 +922,31 @@ async function updateReadme() {
 
 // Run the update
 updateReadme();
+
+
+
+// 1️⃣ require fs at top if not already
+const fs = require('fs');
+
+// 2️⃣ helper to diff & dump new jobs
+function writeNewJobsJson(currentJobs) {
+  const D = '.github/data';
+  if (!fs.existsSync(D)) fs.mkdirSync(D, { recursive: true });
+
+  let prev = [];
+  try { prev = JSON.parse(fs.readFileSync(`${D}/previous.json`, 'utf8')); }
+  catch {} // first run
+
+  const seen = new Set(prev.map(j=>j.job_apply_link));
+  const delta = currentJobs.filter(j=>!seen.has(j.job_apply_link));
+
+  fs.writeFileSync(`${D}/new_jobs.json`, JSON.stringify(delta, null,2));
+  fs.writeFileSync(`${D}/previous.json`, JSON.stringify(currentJobs, null,2));
+}
+
+// 3️⃣ hook it right after your fetcher builds currentJobs:
+updateReadme().then(()=>{
+  // assume currentJobs is in scope
+  writeNewJobsJson(currentJobs);
+});
+
