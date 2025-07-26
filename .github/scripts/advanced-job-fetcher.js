@@ -873,44 +873,6 @@ Spotted an issue or want to suggest improvements?
 </div>`;
 }
 
-const fs = require('fs');
-/**
- * Persist only newly added jobs to new_jobs.json and
- * store the full currentJobs array in previous_jobs.json.
- */
-function writeNewJobsJson(currentJobs) {
-  const dataDir = '.github/data';
-  if (!fs.existsSync(dataDir)) {
-    fs.mkdirSync(dataDir, { recursive: true });
-  }
-
-  // load last run
-  let prevJobs = [];
-  try {
-    prevJobs = JSON.parse(
-      fs.readFileSync(`${dataDir}/previous_jobs.json`, 'utf8')
-    );
-  } catch (_) {
-    // first run: no previous_jobs.json yet
-  }
-
-  // use the apply-link (or any unique field) as a key
-  const seen = new Set(prevJobs.map(j => j.job_apply_link));
-  const newJobs = currentJobs.filter(j => !seen.has(j.job_apply_link));
-
-  // write out only new jobs
-  fs.writeFileSync(
-    `${dataDir}/new_jobs.json`,
-    JSON.stringify(newJobs, null, 2)
-  );
-  // update the full-jobs store
-  fs.writeFileSync(
-    `${dataDir}/previous_jobs.json`,
-    JSON.stringify(currentJobs, null, 2)
-  );
-}
-
-
 // Main execution function
 async function updateReadme() {
     try {
@@ -937,9 +899,6 @@ async function updateReadme() {
         // Generate enhanced README
         const readmeContent = await generateReadme(currentJobs, archivedJobs, internshipData);
         
-		// 1️⃣ dump new_jobs.json + previous_jobs.json
-		writeNewJobsJson(currentJobs);
-		
         // Write to file
         fs.writeFileSync('README.md', readmeContent);
         console.log(`✅ Zapply job board updated with ${currentJobs.length} current opportunities!`);
@@ -954,7 +913,6 @@ async function updateReadme() {
         console.log(`- Companies: ${Object.keys(companyStats.totalByCompany).length}`);
         console.log(`- Categories: ${Object.keys(companyStats.byCategory).length}`);
         console.log(`- Locations: ${Object.keys(companyStats.byLocation).length}`);
-		console.log(`✅ Zapply job board updated with ${currentJobs.length} opportunities!`);
         
     } catch (error) {
         console.error('❌ Error updating README:', error);
