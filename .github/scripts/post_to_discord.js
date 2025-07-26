@@ -22,10 +22,11 @@ if (!WEBHOOK) {
     const payload = {
       username: 'JobBot',
       embeds: [{
-        title: job.title,
-        description: `**${job.company}** • ${job.location}`,
+        title: job.role,                                  // was job.title
+        description: `${job.location} • ${job.level}`,     // was company/location
         url: job.job_apply_link,
-        timestamp: job.job_posted_at_datetime_utc
+        footer: { text: `Posted: ${job.posted}` },        // use posted field
+        timestamp: new Date().toISOString()
       }]
     };
     const res = await fetch(WEBHOOK, {
