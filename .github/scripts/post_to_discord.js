@@ -1,6 +1,6 @@
-// .github/scripts/post_to_discord.js
-import fs from 'fs';
-import process from 'process';
+// CommonJS version
+const fs = require('fs');
+const fetch = global.fetch || require('node-fetch');
 
 const WEBHOOK = process.env.DISCORD_WEBHOOK;
 if (!WEBHOOK) {
@@ -8,12 +8,10 @@ if (!WEBHOOK) {
   process.exit(1);
 }
 
-(async function() {
+(async () => {
   let jobs = [];
   try {
-    jobs = JSON.parse(
-      fs.readFileSync('.github/data/new_jobs.json', 'utf8')
-    );
+    jobs = JSON.parse(fs.readFileSync('.github/data/new_jobs.json', 'utf8'));
   } catch {
     console.log('ℹ️ new_jobs.json not found or empty');
     return;
