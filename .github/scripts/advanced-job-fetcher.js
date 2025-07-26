@@ -873,80 +873,68 @@ Spotted an issue or want to suggest improvements?
 </div>`;
 }
 
-// Main execution function
-async function updateReadme() {
-    try {
-        console.log('🚀 Starting Zapply job board update...');
-        
-        // Fetch REAL jobs from actual career pages
-        const allJobs = await fetchAllRealJobs();
-        
-        if (allJobs.length === 0) {
-            console.log('⚠️ No jobs found, keeping existing README');
-            return;
-        }
-        
-        // Filter US-only jobs
-        const usJobs = allJobs.filter(job => isUSOnlyJob(job));
-        
-        // Separate current and archived jobs
-        const currentJobs = usJobs.filter(job => !isJobOlderThanWeek(job.job_posted_at_datetime_utc));
-        const archivedJobs = usJobs.filter(job => isJobOlderThanWeek(job.job_posted_at_datetime_utc));
-        
-        // Fetch internship data
-        const internshipData = await fetchInternshipData();
-        
-        // Generate enhanced README
-        const readmeContent = await generateReadme(currentJobs, archivedJobs, internshipData);
-        
-        // Write to file
-        fs.writeFileSync('README.md', readmeContent);
-        console.log(`✅ Zapply job board updated with ${currentJobs.length} current opportunities!`);
-        
-        // Log summary
-        const companyStats = generateCompanyStats(currentJobs);
-        console.log('\n📊 Summary:');
-        console.log(`- Total Jobs (All): ${allJobs.length}`);
-        console.log(`- US-Only Jobs: ${usJobs.length}`);
-        console.log(`- Current Jobs: ${currentJobs.length}`);
-        console.log(`- Archived Jobs: ${archivedJobs.length}`);
-        console.log(`- Companies: ${Object.keys(companyStats.totalByCompany).length}`);
-        console.log(`- Categories: ${Object.keys(companyStats.byCategory).length}`);
-        console.log(`- Locations: ${Object.keys(companyStats.byLocation).length}`);
-        
-    } catch (error) {
-        console.error('❌ Error updating README:', error);
-        process.exit(1);
-    }
-}
-
-// Run the update
-updateReadme();
-
-
-
-// 1️⃣ require fs at top if not already
-const fs = require('fs');
-
-// 2️⃣ helper to diff & dump new jobs
 function writeNewJobsJson(currentJobs) {
   const D = '.github/data';
   if (!fs.existsSync(D)) fs.mkdirSync(D, { recursive: true });
 
   let prev = [];
-  try { prev = JSON.parse(fs.readFileSync(`${D}/previous.json`, 'utf8')); }
-  catch {} // first run
+  try {
+    prev = JSON.parse(fs.readFileSync(`${D}/previous.json`, 'utf8'));
+  } catch {
+    // first run: no previous.json
+  }
 
-  const seen = new Set(prev.map(j=>j.job_apply_link));
-  const delta = currentJobs.filter(j=>!seen.has(j.job_apply_link));
+  const seen = new Set(prev.map(j => j.job_apply_link));
+  const delta = currentJobs.filter(j => !seen.has(j.job_apply_link));
 
-  fs.writeFileSync(`${D}/new_jobs.json`, JSON.stringify(delta, null,2));
-  fs.writeFileSync(`${D}/previous.json`, JSON.stringify(currentJobs, null,2));
+  fs.writeFileSync(`${D}/new_jobs.json`, JSON.stringify(delta, null, 2));
+  fs.writeFileSync(`${D}/previous.json`, JSON.stringify(currentJobs, null, 2));
 }
 
-// 3️⃣ hook it right after your fetcher builds currentJobs:
-updateReadme().then(()=>{
-  // assume currentJobs is in scope
-  writeNewJobsJson(currentJobs);
-});
+async function updateReadme() {
+  try {
+    console.log('🚀 Starting Zapply job board update...');
+
+    // Fetch REAL jobs from actual career pages
+    const allJobs = await fetchAllRealJobs();
+    if (allJobs.length === 0) {
+      console.log('⚠️ No jobs found, keeping existing README');
+      return;
+    }
+
+    // Filter US-only jobs
+    const usJobs = allJobs.filter(job => isUSOnlyJob(job));
+    // Separate current and archived jobs
+    const currentJobs = usJobs.filter(job => !isJobOlderThanWeek(job.job_posted_at_datetime_utc));
+    const archivedJobs = usJobs.filter(job => isJobOlderThanWeek(job.job_posted_at_datetime_utc));
+
+    // 1️⃣ Dump only the new jobs JSON
+    writeNewJobsJson(currentJobs);
+
+    // Fetch internship data and generate README
+    const internshipData = await fetchInternshipData();
+    const readmeContent = await generateReadme(currentJobs, archivedJobs, internshipData);
+
+    // Write README.md
+    fs.writeFileSync('README.md', readmeContent);
+    console.log(`✅ Zapply job board updated with ${currentJobs.length} current opportunities!`);
+
+    // Log summary
+    const stats = generateCompanyStats(currentJobs);
+    console.log('\n📊 Summary:');
+    console.log(`- Total Jobs (All): ${allJobs.length}`);
+    console.log(`- US-Only Jobs: ${usJobs.length}`);
+    console.log(`- Current Jobs: ${currentJobs.length}`);
+    console.log(`- Archived Jobs: ${archivedJobs.length}`);
+    console.log(`- Companies: ${Object.keys(stats.totalByCompany).length}`);
+    console.log(`- Categories: ${Object.keys(stats.byCategory).length}`);
+    console.log(`- Locations: ${Object.keys(stats.byLocation).length}`);
+  } catch (err) {
+    console.error('❌ Error updating README:', err);
+    process.exit(1);
+  }
+}
+
+// Run the update
+updateReadme();
 
