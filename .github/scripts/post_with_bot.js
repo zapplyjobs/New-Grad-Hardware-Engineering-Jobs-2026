@@ -1,8 +1,5 @@
 #!/usr/bin/env node
 
-// load .env
-require('dotenv').config();
-
 const fs    = require('fs');
 const { Client, GatewayIntentBits, EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js');
 
