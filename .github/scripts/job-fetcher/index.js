@@ -12,7 +12,7 @@
 
 const { processJobs } = require('./job-processor');
 const { updateReadme } = require('./readme-generator');
-const { fetchInternshipData } = require('./utils');
+const { fetchInternshipData, companies } = require('./utils');
 
 // Main execution function
 async function main() {
@@ -38,7 +38,7 @@ async function main() {
         console.log(`   • Archived jobs: ${archivedJobs.length}`);
         console.log(`   • Companies: ${Object.keys(stats.totalByCompany).length}`);
         console.log(`   • FAANG+ jobs: ${currentJobs.filter(job => 
-            require('./utils').companies.faang_plus.some(c => c.name === job.employer_name)
+            companies.faang_plus.some(c => c.name === job.employer_name)
         ).length}`);
         
         if (freshJobs.length > 0) {
