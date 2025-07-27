@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // Load company database
-const companies = JSON.parse(fs.readFileSync('./.github/scripts/companies.json', 'utf8'));
+const companies = JSON.parse(fs.readFileSync('./.github/scripts/job-fetcher/companies.json', 'utf8'));
 const ALL_COMPANIES = Object.values(companies).flat();
 
 // Real career page endpoints for major companies

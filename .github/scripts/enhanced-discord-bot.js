@@ -26,7 +26,7 @@ const dataDir = path.join(process.cwd(), '.github', 'data');
 const subscriptionsPath = path.join(dataDir, 'subscriptions.json');
 
 // Load company data for tier detection
-const companies = JSON.parse(fs.readFileSync('./.github/scripts/companies.json', 'utf8'));
+const companies = JSON.parse(fs.readFileSync('./.github/scripts/job-fetcher/companies.json', 'utf8'));
 
 // Initialize client
 const client = new Client({
