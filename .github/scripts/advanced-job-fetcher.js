@@ -1,7 +1,12 @@
 const fs   = require('fs');
 const path = require('path');
 const { fetchAllRealJobs } = require('./real-career-scraper');
-
+// Paths for data storage
+const dataDir  = path.join(process.cwd(), '.github', 'data');
+const seenPath = path.join(dataDir, 'seen_jobs.json');
+let seenIds = fs.existsSync(seenPath)
+  ? new Set(JSON.parse(fs.readFileSync(seenPath, 'utf8')))
+  : new Set();
 // Load comprehensive company database
 const companies = JSON.parse(fs.readFileSync('./.github/scripts/companies.json', 'utf8'));
 
@@ -876,14 +881,22 @@ Spotted an issue or want to suggest improvements?
 
 // 1) Write the new jobs JSON for Discord
 function writeNewJobsJson(jobs) {
-    const dataDir = path.join(process.cwd(), '.github', 'data');
-    if (!fs.existsSync(dataDir)) {
-      fs.mkdirSync(dataDir, { recursive: true });
-    }
-    const outPath = path.join(dataDir, 'new_jobs.json');
-    fs.writeFileSync(outPath, JSON.stringify(jobs, null, 2), 'utf8');
-    console.log(`✨ Wrote ${jobs.length} new jobs to ${outPath}`);
-  }
+  // ensure data folder exists
+  if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
+
+  // write the fresh jobs JSON
+  const outPath = path.join(dataDir, 'new_jobs.json');
+  fs.writeFileSync(outPath, JSON.stringify(jobs, null, 2), 'utf8');
+  console.log(`✨ Wrote ${jobs.length} new jobs to ${outPath}`);
+
+  // mark them as seen
+  jobs.forEach(job => seenIds.add(job.id));
+  fs.writeFileSync(
+    path.join(dataDir, 'seen_jobs.json'),
+    JSON.stringify([...seenIds], null, 2),
+    'utf8'
+  );
+}
   
   
   async function updateReadme(currentJobs, archivedJobs) {
@@ -907,23 +920,38 @@ function writeNewJobsJson(jobs) {
   }
   
   
-  (async () => {
-    // 1) Fetch all real jobs
+// Main execution - fetch jobs and update data files
+(async () => {
+  try {
     const allJobs = await fetchAllRealJobs();
-    if (!allJobs.length) {
-      console.log('⚠️ No jobs found, keeping existing README');
-      return;
+    const usJobs = allJobs.filter(isUSOnlyJob);
+    const currentJobs = usJobs.filter(j => !isJobOlderThanWeek(j.job_posted_at_datetime_utc));
+    
+    // Add unique IDs for deduplication
+    currentJobs.forEach(job => {
+      job.id = `${job.employer_name}-${job.job_title}-${job.job_city}`.replace(/\s+/g, '-').toLowerCase();
+    });
+    
+    // Filter for truly new jobs (not previously seen)
+    const freshJobs = currentJobs.filter(job => !seenIds.has(job.id));
+    
+    if (freshJobs.length === 0) {
+      console.log('ℹ️ No new jobs found - all current openings already processed');
+    } else {
+      console.log(`📬 Found ${freshJobs.length} new jobs to process`);
+      // Write new jobs for Discord bot consumption
+      writeNewJobsJson(freshJobs);
     }
-  
-    // 2) Filter & split
-    const usJobs       = allJobs.filter(isUSOnlyJob);
-    const currentJobs  = usJobs.filter(j => !isJobOlderThanWeek(j.job_posted_at_datetime_utc));
-    const archivedJobs = usJobs.filter(j =>  isJobOlderThanWeek(j.job_posted_at_datetime_utc));
-  
-    // 3) Dump JSON for Discord bot
-    writeNewJobsJson(currentJobs);
-  
-    // 4) Generate & write README.md
+    
+    // Always update README with current job state (including previously seen jobs)
+    const archivedJobs = usJobs.filter(j => isJobOlderThanWeek(j.job_posted_at_datetime_utc));
+    const internshipData = await fetchInternshipData();
     await updateReadme(currentJobs, archivedJobs);
-  })();
-
+    
+    console.log(`✅ Job fetching complete - ${currentJobs.length} current, ${archivedJobs.length} archived`);
+    
+  } catch (error) {
+    console.error('❌ Error in job fetching process:', error);
+    process.exit(1);
+  }
+})();
