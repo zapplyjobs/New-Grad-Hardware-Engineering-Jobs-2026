@@ -1,7 +1,5 @@
-import fs from 'fs';
-import path from 'path';
-
-const fs = require('fs');
+const fs   = require('fs');
+const path = require('path');
 const { fetchAllRealJobs } = require('./real-career-scraper');
 
 // Load comprehensive company database
@@ -876,23 +874,16 @@ Spotted an issue or want to suggest improvements?
 </div>`;
 }
 
-function writeNewJobsJson(currentJobs) {
-  const D = '.github/data';
-  if (!fs.existsSync(D)) fs.mkdirSync(D, { recursive: true });
-
-  let prev = [];
-  try {
-    prev = JSON.parse(fs.readFileSync(`${D}/previous.json`, 'utf8'));
-  } catch {
-    // first run: no previous.json
+function writeNewJobsJson(jobs) {
+  const dataDir = path.join(process.cwd(), '.github', 'data');
+  if (!fs.existsSync(dataDir)) {
+    fs.mkdirSync(dataDir, { recursive: true });
   }
-
-  const seen = new Set(prev.map(j => j.job_apply_link));
-  const delta = currentJobs.filter(j => !seen.has(j.job_apply_link));
-
-  fs.writeFileSync(`${D}/new_jobs.json`, JSON.stringify(delta, null, 2));
-  fs.writeFileSync(`${D}/previous.json`, JSON.stringify(currentJobs, null, 2));
+  const outPath = path.join(dataDir, 'new_jobs.json');
+  fs.writeFileSync(outPath, JSON.stringify(jobs, null, 2), 'utf8');
+  console.log(`✨ Wrote ${jobs.length} new jobs to ${outPath}`);
 }
+
 
 const dataDir = path.join(process.cwd(), '.github', 'data');
 if (!fs.existsSync(dataDir)) {
@@ -923,7 +914,8 @@ async function updateReadme() {
     const archivedJobs = usJobs.filter(job => isJobOlderThanWeek(job.job_posted_at_datetime_utc));
 
     // 1️⃣ Dump only the new jobs JSON
-    writeNewJobsJson(currentJobs);
+    writeNewJobsJson(newJobs);
+    await updateReadme(newJobs);
 
     // Fetch internship data and generate README
     const internshipData = await fetchInternshipData();
