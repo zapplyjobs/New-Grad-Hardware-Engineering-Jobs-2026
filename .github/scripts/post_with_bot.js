@@ -1,7 +1,10 @@
-// .github/scripts/post_with_bot.js
-import 'dotenv/config';
-import fs from 'fs';
-import { Client, GatewayIntentBits, EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle } from 'discord.js';
+#!/usr/bin/env node
+
+// load .env
+require('dotenv').config();
+
+const fs    = require('fs');
+const { Client, GatewayIntentBits, EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js');
 
 const TOKEN      = process.env.DISCORD_TOKEN;
 const CHANNEL_ID = process.env.DISCORD_CHANNEL_ID;
@@ -12,10 +15,10 @@ const client = new Client({
 
 function buildJobEmbed(job) {
   const tags = [];
-  if (job.job_remote)    tags.push('#Remote');
-  if (job.experience === 'Senior')   tags.push('#Senior');
+  if (job.job_remote)               tags.push('#Remote');
+  if (job.experience === 'Senior')  tags.push('#Senior');
   if (job.experience === 'Entry-Level') tags.push('#EntryLevel');
-  if (job.category)     tags.push(`#${job.category.replace(/\s+/g,'')}`);
+  if (job.category)                 tags.push(`#${job.category.replace(/\s+/g, '')}`);
 
   return new EmbedBuilder()
     .setTitle(job.job_title)
@@ -47,8 +50,8 @@ client.once('ready', () => {
 
   let jobs = [];
   try {
-    jobs = JSON.parse(fs.readFileSync('.github/data/new_jobs.json','utf8'));
-  } catch (e) {
+    jobs = JSON.parse(fs.readFileSync('.github/data/new_jobs.json', 'utf8'));
+  } catch {
     return console.log('ℹ️ No new jobs to post');
   }
   if (!jobs.length) return console.log('ℹ️ No new jobs to post');
@@ -59,7 +62,6 @@ client.once('ready', () => {
         embeds: [ buildJobEmbed(job) ],
         components: [ buildApplyButton(job) ]
       });
-      // spawn a discussion thread
       await msg.startThread({
         name: `Discuss: ${job.job_title}`,
         autoArchiveDuration: 60
