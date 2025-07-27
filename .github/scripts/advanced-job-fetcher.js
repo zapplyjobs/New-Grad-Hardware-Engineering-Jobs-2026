@@ -1,3 +1,6 @@
+import fs from 'fs';
+import path from 'path';
+
 const fs = require('fs');
 const { fetchAllRealJobs } = require('./real-career-scraper');
 
@@ -890,6 +893,16 @@ function writeNewJobsJson(currentJobs) {
   fs.writeFileSync(`${D}/new_jobs.json`, JSON.stringify(delta, null, 2));
   fs.writeFileSync(`${D}/previous.json`, JSON.stringify(currentJobs, null, 2));
 }
+
+const dataDir = path.join(process.cwd(), '.github', 'data');
+if (!fs.existsSync(dataDir)) {
+  fs.mkdirSync(dataDir, { recursive: true });
+}
+
+const outPath = path.join(dataDir, 'new_jobs.json');
+fs.writeFileSync(outPath, JSON.stringify(newJobs, null, 2), 'utf8');
+
+console.log(`✨ Wrote ${newJobs.length} new jobs to ${outPath}`);
 
 async function updateReadme() {
   try {
