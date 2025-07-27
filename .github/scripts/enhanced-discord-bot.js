@@ -177,15 +177,18 @@ function generateTags(job) {
     }
   }
 
-  // Role category tags
+  // Role category tags (only if not already added via tech stack)
+  if (!tags.includes('DataScience') && (title.includes('data scientist') || title.includes('analyst'))) {
+    tags.push('DataScience');
+  }
+  if (!tags.includes('ML') && (title.includes('machine learning') || title.includes('ml engineer'))) {
+    tags.push('ML');
+  }
   if (title.includes('product manager') || title.includes('pm ')) {
     tags.push('ProductManager');
-  } else if (title.includes('designer') || title.includes('ux') || title.includes('ui')) {
+  }
+  if (title.includes('designer') || title.includes('ux') || title.includes('ui')) {
     tags.push('Design');
-  } else if (title.includes('data scientist') || title.includes('analyst')) {
-    tags.push('DataScience');
-  } else if (title.includes('machine learning') || title.includes('ml engineer')) {
-    tags.push('ML');
   }
 
   return [...new Set(tags)]; // Remove duplicates
@@ -198,6 +201,8 @@ function buildJobEmbed(job) {
                   companies.unicorn_startups.find(c => c.name === job.employer_name) ||
                   companies.fintech.find(c => c.name === job.employer_name) ||
                   companies.gaming.find(c => c.name === job.employer_name) ||
+                  companies.top_tech.find(c => c.name === job.employer_name) ||
+                  companies.enterprise_saas.find(c => c.name === job.employer_name) ||
                   { emoji: '🏢' };
 
   const embed = new EmbedBuilder()
