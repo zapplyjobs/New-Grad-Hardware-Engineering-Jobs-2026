@@ -904,6 +904,7 @@ fs.writeFileSync(outPath, JSON.stringify(newJobs, null, 2), 'utf8');
 
 console.log(`✨ Wrote ${newJobs.length} new jobs to ${outPath}`);
 
+// Update readme function
 async function updateReadme() {
   try {
     console.log('🚀 Starting Zapply job board update...');
