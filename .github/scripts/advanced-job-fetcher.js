@@ -874,73 +874,56 @@ Spotted an issue or want to suggest improvements?
 </div>`;
 }
 
+// 1) Write the new jobs JSON for Discord
 function writeNewJobsJson(jobs) {
-  const dataDir = path.join(process.cwd(), '.github', 'data');
-  if (!fs.existsSync(dataDir)) {
-    fs.mkdirSync(dataDir, { recursive: true });
+    const dataDir = path.join(process.cwd(), '.github', 'data');
+    if (!fs.existsSync(dataDir)) {
+      fs.mkdirSync(dataDir, { recursive: true });
+    }
+    const outPath = path.join(dataDir, 'new_jobs.json');
+    fs.writeFileSync(outPath, JSON.stringify(jobs, null, 2), 'utf8');
+    console.log(`✨ Wrote ${jobs.length} new jobs to ${outPath}`);
   }
-  const outPath = path.join(dataDir, 'new_jobs.json');
-  fs.writeFileSync(outPath, JSON.stringify(jobs, null, 2), 'utf8');
-  console.log(`✨ Wrote ${jobs.length} new jobs to ${outPath}`);
-}
-
-
-const dataDir = path.join(process.cwd(), '.github', 'data');
-if (!fs.existsSync(dataDir)) {
-  fs.mkdirSync(dataDir, { recursive: true });
-}
-
-const outPath = path.join(dataDir, 'new_jobs.json');
-fs.writeFileSync(outPath, JSON.stringify(newJobs, null, 2), 'utf8');
-
-console.log(`✨ Wrote ${newJobs.length} new jobs to ${outPath}`);
-
-// Update readme function
-async function updateReadme() {
-  try {
-    console.log('🚀 Starting Zapply job board update...');
-
-    // Fetch REAL jobs from actual career pages
+  
+  
+  async function updateReadme(currentJobs, archivedJobs) {
+    try {
+      console.log('🚀 Starting Zapply job board update...');
+  
+      const internshipData = await fetchInternshipData();
+      const readmeContent  = await generateReadme(currentJobs, archivedJobs, internshipData);
+      fs.writeFileSync('README.md', readmeContent, 'utf8');
+      console.log(`✅ README.md updated with ${currentJobs.length} current jobs`);
+  
+      const stats = generateCompanyStats(currentJobs);
+      console.log('\n📊 Summary:');
+      console.log(`- Total current: ${currentJobs.length}`);
+      console.log(`- Archived:      ${archivedJobs.length}`);
+      console.log(`- Companies:     ${Object.keys(stats.totalByCompany).length}`);
+    } catch (err) {
+      console.error('❌ Error updating README:', err);
+      process.exit(1);
+    }
+  }
+  
+  
+  (async () => {
+    // 1) Fetch all real jobs
     const allJobs = await fetchAllRealJobs();
-    if (allJobs.length === 0) {
+    if (!allJobs.length) {
       console.log('⚠️ No jobs found, keeping existing README');
       return;
     }
-
-    // Filter US-only jobs
-    const usJobs = allJobs.filter(job => isUSOnlyJob(job));
-    // Separate current and archived jobs
-    const currentJobs = usJobs.filter(job => !isJobOlderThanWeek(job.job_posted_at_datetime_utc));
-    const archivedJobs = usJobs.filter(job => isJobOlderThanWeek(job.job_posted_at_datetime_utc));
-
-    // 1️⃣ Dump only the new jobs JSON
-    writeNewJobsJson(newJobs);
-    await updateReadme(newJobs);
-
-    // Fetch internship data and generate README
-    const internshipData = await fetchInternshipData();
-    const readmeContent = await generateReadme(currentJobs, archivedJobs, internshipData);
-
-    // Write README.md
-    fs.writeFileSync('README.md', readmeContent);
-    console.log(`✅ Zapply job board updated with ${currentJobs.length} current opportunities!`);
-
-    // Log summary
-    const stats = generateCompanyStats(currentJobs);
-    console.log('\n📊 Summary:');
-    console.log(`- Total Jobs (All): ${allJobs.length}`);
-    console.log(`- US-Only Jobs: ${usJobs.length}`);
-    console.log(`- Current Jobs: ${currentJobs.length}`);
-    console.log(`- Archived Jobs: ${archivedJobs.length}`);
-    console.log(`- Companies: ${Object.keys(stats.totalByCompany).length}`);
-    console.log(`- Categories: ${Object.keys(stats.byCategory).length}`);
-    console.log(`- Locations: ${Object.keys(stats.byLocation).length}`);
-  } catch (err) {
-    console.error('❌ Error updating README:', err);
-    process.exit(1);
-  }
-}
-
-// Run the update
-updateReadme();
+  
+    // 2) Filter & split
+    const usJobs       = allJobs.filter(isUSOnlyJob);
+    const currentJobs  = usJobs.filter(j => !isJobOlderThanWeek(j.job_posted_at_datetime_utc));
+    const archivedJobs = usJobs.filter(j =>  isJobOlderThanWeek(j.job_posted_at_datetime_utc));
+  
+    // 3) Dump JSON for Discord bot
+    writeNewJobsJson(currentJobs);
+  
+    // 4) Generate & write README.md
+    await updateReadme(currentJobs, archivedJobs);
+  })();
 
