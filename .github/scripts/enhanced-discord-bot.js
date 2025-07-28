@@ -437,6 +437,8 @@ client.once('ready', async () => {
   const channel = client.channels.cache.get(CHANNEL_ID);
   if (!channel) {
     console.error('❌ Channel not found:', CHANNEL_ID);
+    client.destroy();
+    process.exit(1);
     return;
   }
 
@@ -448,11 +450,15 @@ client.once('ready', async () => {
     }
   } catch (error) {
     console.log('ℹ️ No new jobs file found or error reading it');
+    client.destroy();
+    process.exit(0);
     return;
   }
 
   if (!jobs.length) {
     console.log('ℹ️ No new jobs to post');
+    client.destroy();
+    process.exit(0);
     return;
   }
 
@@ -470,6 +476,8 @@ client.once('ready', async () => {
 
   if (!unpostedJobs.length) {
     console.log('ℹ️ No new jobs to post - all jobs have been posted already');
+    client.destroy();
+    process.exit(0);
     return;
   }
 
