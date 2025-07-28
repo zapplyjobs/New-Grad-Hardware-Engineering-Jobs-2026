@@ -22,6 +22,39 @@ function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+/**
+ * Generate a standardized job ID for consistent deduplication across systems
+ * This ensures the same job gets the same ID in both the scraper and Discord posting
+ */
+function generateJobId(job) {
+    const title = (job.job_title || '').toLowerCase().trim().replace(/\s+/g, '-');
+    const company = (job.employer_name || '').toLowerCase().trim().replace(/\s+/g, '-');
+    const city = (job.job_city || '').toLowerCase().trim().replace(/\s+/g, '-');
+    
+    // Remove special characters and normalize
+    const normalize = (str) => str
+        .replace(/[^\w-]/g, '-')  // Replace special chars with dashes
+        .replace(/-+/g, '-')     // Collapse multiple dashes
+        .replace(/^-|-$/g, '');  // Remove leading/trailing dashes
+    
+    return `${normalize(company)}-${normalize(title)}-${normalize(city)}`;
+}
+
+/**
+ * Convert old job ID format to new standardized format
+ * This helps with migration from the old inconsistent ID system
+ */
+function migrateOldJobId(oldId) {
+    // Old format was: company-title-city with inconsistent normalization
+    // We can't perfectly reverse it, but we can normalize what we have
+    const normalized = oldId
+        .replace(/[^\w-]/g, '-')  // Replace special chars with dashes
+        .replace(/-+/g, '-')     // Collapse multiple dashes
+        .replace(/^-|-$/g, '');  // Remove leading/trailing dashes
+    
+    return normalized;
+}
+
 function normalizeCompanyName(companyName) {
     const company = COMPANY_BY_NAME[companyName.toLowerCase()];
     return company ? company.name : companyName;
@@ -258,6 +291,8 @@ module.exports = {
     ALL_COMPANIES,
     COMPANY_BY_NAME,
     delay,
+    generateJobId,
+    migrateOldJobId,
     normalizeCompanyName,
     getCompanyEmoji,
     getCompanyCareerUrl,

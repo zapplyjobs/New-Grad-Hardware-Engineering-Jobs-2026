@@ -32,8 +32,7 @@ const companies = JSON.parse(fs.readFileSync('./.github/scripts/job-fetcher/comp
 const client = new Client({
   intents: [
     GatewayIntentBits.Guilds,
-    GatewayIntentBits.GuildMessages,
-    GatewayIntentBits.MessageContent
+    GatewayIntentBits.GuildMessages
   ]
 });
 
