@@ -418,6 +418,8 @@ async function processJobs() {
         
         if (freshJobs.length === 0) {
             console.log('ℹ️ No new jobs found - all current openings already processed');
+            // Write empty array to clear stale data
+            writeNewJobsJson([]);
         } else {
             console.log(`📬 Found ${freshJobs.length} new jobs to process`);
             // Write new jobs for Discord bot consumption
