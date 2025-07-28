@@ -1,5 +1,16 @@
 const fs = require('fs');
 const { fetchAllRealJobs } = require('./real-career-scraper');
+const path = require('path');
+const microsoftPath = path.join(__dirname, '../../jobboard/src/backend/platforms/microsoft/microsoftScraping.json');
+const googlePath = path.join(__dirname, '../../jobboard/src/backend/platforms/google/googlescrapingdata.json');
+const amazonPath = path.join(__dirname, '../../jobboard/src/backend/platforms/amazon/amazonjobs.json');
+const MetaPath = path.join(__dirname, '../../jobboard/src/backend/platforms/meta/metajobs.json');
+
+
+const microsoftData = JSON.parse(fs.readFileSync(microsoftPath, 'utf8'));
+const googleData = JSON.parse(fs.readFileSync(googlePath, 'utf8'));
+const amazonData = JSON.parse(fs.readFileSync(amazonPath, 'utf8'));
+const metaData = JSON.parse(fs.readFileSync(MetaPath, 'utf8'));
 
 // Load comprehensive company database
 const companies = JSON.parse(fs.readFileSync('./.github/scripts/companies.json', 'utf8'));
@@ -579,6 +590,7 @@ ${internshipData.companyPrograms.map(program => {
 
 `;
 }
+//de na baad ba micro soft aw google razi
 
 function generateArchivedSection(archivedJobs) {
     if (archivedJobs.length === 0) return '';
@@ -707,15 +719,20 @@ function generateCompanyStats(jobs) {
     return stats;
 }
 
+
+
 // Generate comprehensive README
 async function generateReadme(currentJobs, archivedJobs = [], internshipData = null) {
+
     const stats = generateCompanyStats(currentJobs);
     const currentDate = new Date().toLocaleDateString('en-US', { 
         year: 'numeric', 
         month: 'long', 
         day: 'numeric' 
     });
-    
+     console.log('🔄 Generating README with current jobs...');
+
+
     const totalCompanies = Object.keys(stats.totalByCompany).length;
     const faangJobs = currentJobs.filter(job => 
         companies.faang_plus.some(c => c.name === job.employer_name)
@@ -734,6 +751,11 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
 ${internshipData ? generateInternshipSection(internshipData) : ''}
 
+
+
+
+ 
+=================================================================================================================================================
 ## 🎯 **Current Opportunities** (Fresh - Less than 1 week old)
 
 ${generateJobTable(currentJobs)}
@@ -896,11 +918,14 @@ async function updateReadme() {
     console.log('🚀 Starting Zapply job board update...');
 
     // Fetch REAL jobs from actual career pages
-    const allJobs = await fetchAllRealJobs();
+    const otherJobs = await fetchAllRealJobs();
+    const allJobs=[...googleData,...microsoftData,...amazonData,...metaData,...otherJobs];
     if (allJobs.length === 0) {
       console.log('⚠️ No jobs found, keeping existing README');
       return;
     }
+// ${generateJobTable(microsoftData)}
+// ${generateJobTable(googleData)}
 
     // Filter US-only jobs
     const usJobs = allJobs.filter(job => isUSOnlyJob(job));
