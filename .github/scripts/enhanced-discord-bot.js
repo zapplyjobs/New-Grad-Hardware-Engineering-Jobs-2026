@@ -24,9 +24,13 @@ const GUILD_ID = process.env.DISCORD_GUILD_ID;
 // Data paths
 const dataDir = path.join(process.cwd(), '.github', 'data');
 const subscriptionsPath = path.join(dataDir, 'subscriptions.json');
+const postedJobsPath = path.join(dataDir, 'posted_jobs.json');
 
 // Load company data for tier detection
 const companies = JSON.parse(fs.readFileSync('./.github/scripts/job-fetcher/companies.json', 'utf8'));
+
+// Import job ID generation for consistency
+const { generateJobId } = require('./job-fetcher/utils');
 
 // Initialize client
 const client = new Client({
@@ -107,6 +111,61 @@ class SubscriptionManager {
 }
 
 const subscriptionManager = new SubscriptionManager();
+
+// Posted jobs tracking
+class PostedJobsManager {
+  constructor() {
+    this.postedJobs = this.loadPostedJobs();
+  }
+
+  loadPostedJobs() {
+    try {
+      if (fs.existsSync(postedJobsPath)) {
+        const data = JSON.parse(fs.readFileSync(postedJobsPath, 'utf8'));
+        return new Set(Array.isArray(data) ? data : []);
+      }
+    } catch (error) {
+      console.error('Error loading posted jobs:', error);
+    }
+    return new Set();
+  }
+
+  savePostedJobs() {
+    try {
+      if (!fs.existsSync(dataDir)) {
+        fs.mkdirSync(dataDir, { recursive: true });
+      }
+      
+      // Convert Set to sorted array and limit size to prevent infinite growth
+      let postedJobsArray = [...this.postedJobs].sort();
+      const maxEntries = 5000; // Keep last 5000 posted jobs
+      
+      if (postedJobsArray.length > maxEntries) {
+        postedJobsArray = postedJobsArray.slice(-maxEntries);
+        this.postedJobs = new Set(postedJobsArray);
+      }
+      
+      // Atomic write
+      const tempPath = postedJobsPath + '.tmp';
+      fs.writeFileSync(tempPath, JSON.stringify(postedJobsArray, null, 2));
+      fs.renameSync(tempPath, postedJobsPath);
+      
+    } catch (error) {
+      console.error('Error saving posted jobs:', error);
+    }
+  }
+
+  hasBeenPosted(jobId) {
+    return this.postedJobs.has(jobId);
+  }
+
+  markAsPosted(jobId) {
+    this.postedJobs.add(jobId);
+    this.savePostedJobs();
+  }
+}
+
+const postedJobsManager = new PostedJobsManager();
 
 // Enhanced tag generation
 function generateTags(job) {
@@ -397,10 +456,28 @@ client.once('ready', async () => {
     return;
   }
 
-  console.log(`📬 Posting ${jobs.length} new jobs...`);
+  // Filter out jobs that have already been posted to Discord
+  const unpostedJobs = jobs.filter(job => {
+    const jobId = generateJobId(job);
+    const hasBeenPosted = postedJobsManager.hasBeenPosted(jobId);
+    
+    if (hasBeenPosted) {
+      console.log(`⏭️ Skipping already posted: ${job.job_title} at ${job.employer_name}`);
+      return false;
+    }
+    return true;
+  });
 
-  for (const job of jobs) {
+  if (!unpostedJobs.length) {
+    console.log('ℹ️ No new jobs to post - all jobs have been posted already');
+    return;
+  }
+
+  console.log(`📬 Posting ${unpostedJobs.length} new jobs (${jobs.length - unpostedJobs.length} already posted)...`);
+
+  for (const job of unpostedJobs) {
     try {
+      const jobId = generateJobId(job);
       const tags = generateTags(job);
       const embed = buildJobEmbed(job);
       const actionRow = buildActionRow(job);
@@ -426,6 +503,9 @@ client.once('ready', async () => {
         name: `💬 ${job.job_title} at ${job.employer_name}`,
         autoArchiveDuration: 1440 // 24 hours
       });
+
+      // Mark this job as posted AFTER successful posting
+      postedJobsManager.markAsPosted(jobId);
 
       console.log(`✅ Posted: ${job.job_title} at ${job.employer_name}`);
       
