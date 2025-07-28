@@ -292,8 +292,6 @@ function buildJobEmbed(job) {
     });
   }
 
-  embed.setTimestamp()
-       .setFooter({ text: 'Zapply Job Board • Apply quickly!' });
 
   return embed;
 }
@@ -302,13 +300,7 @@ function buildJobEmbed(job) {
 function buildActionRow(job) {
   const tags = generateTags(job);
   
-  const row = new ActionRowBuilder()
-    .addComponents(
-      new ButtonBuilder()
-        .setLabel('💼 Apply Now')
-        .setStyle(ButtonStyle.Link)
-        .setURL(job.job_apply_link)
-    );
+  const row = new ActionRowBuilder();
 
   // Only add subscription button if not in GitHub Actions
   if (!process.env.GITHUB_ACTIONS) {
