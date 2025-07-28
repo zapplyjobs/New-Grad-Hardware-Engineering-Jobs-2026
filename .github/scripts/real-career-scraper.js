@@ -1,4 +1,5 @@
 const fs = require('fs');
+const { generateJobId } = require('./job-fetcher/utils');
 
 // Load company database
 const companies = JSON.parse(fs.readFileSync('./.github/scripts/job-fetcher/companies.json', 'utf8'));
@@ -464,13 +465,10 @@ async function fetchAllRealJobs() {
     const externalJobs = await fetchSimplifyJobsData();
     allJobs.push(...externalJobs);
     
-    // Remove duplicates based on job title, company, and location
+    // Remove duplicates using standardized job ID generation
     const uniqueJobs = allJobs.filter((job, index, self) => {
-        const jobKey = `${job.job_title.toLowerCase().trim()}-${job.employer_name.toLowerCase().trim()}-${job.job_city.toLowerCase().trim()}`;
-        return index === self.findIndex(j => {
-            const jKey = `${j.job_title.toLowerCase().trim()}-${j.employer_name.toLowerCase().trim()}-${j.job_city.toLowerCase().trim()}`;
-            return jKey === jobKey;
-        });
+        const jobId = generateJobId(job);
+        return index === self.findIndex(j => generateJobId(j) === jobId);
     });
     
     // Sort by posting date (descending - latest first)
