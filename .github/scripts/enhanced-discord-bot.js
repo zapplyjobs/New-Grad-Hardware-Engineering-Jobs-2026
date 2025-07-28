@@ -492,11 +492,17 @@ client.once('ready', async () => {
         }
       }
 
-      const message = await channel.send({
+      const messageData = {
         content,
-        embeds: [embed],
-        components: [actionRow]
-      });
+        embeds: [embed]
+      };
+      
+      // Only add components if actionRow has buttons
+      if (actionRow.components.length > 0) {
+        messageData.components = [actionRow];
+      }
+      
+      const message = await channel.send(messageData);
 
       // Create discussion thread
       await message.startThread({
