@@ -1,35 +1,13 @@
 [
   {
-    "job_title": "Staff Analytics Engineer - Users & Contextualization Data & AI",
-    "employer_name": "Airbnb",
-    "job_city": "United States",
+    "job_title": "Software Engineer (L5), Ads Media Planning",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
     "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/7116761",
-    "job_posted_at_datetime_utc": "2025-07-29T20:22:59.000Z",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790303620790",
+    "job_posted_at_datetime_utc": "2025-07-28T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "airbnb-staff-analytics-engineer-users-contextualization-data-ai-united-states"
-  },
-  {
-    "job_title": "Director of Engineering, Databricks Mosaic AI",
-    "employer_name": "Databricks",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8096675002",
-    "job_posted_at_datetime_utc": "2025-07-29T20:03:05.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-director-of-engineering-databricks-mosaic-ai-san-francisco"
-  },
-  {
-    "job_title": "Senior iOS Engineer, Search Feed",
-    "employer_name": "Airbnb",
-    "job_city": "Remote",
-    "job_state": "USA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/6602371",
-    "job_posted_at_datetime_utc": "2025-07-29T19:54:22.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-ios-engineer-search-feed-remote"
+    "id": "netflix-software-engineer-l5-ads-media-planning-usa-remote"
   }
 ]
