@@ -14,9 +14,9 @@ const searchConfigs = [
       "TECHNICAL_WRITING", "USER_EXPERIENCE"
     ],
     // "jex": ["ENTRY_LEVEL","INTERN_AND_APPRENTICE", "EARLY"],
-"target_level": ["MID", "INTERN_AND_APPRENTICE", "EARLY"],
+    "target_level": ["MID", "INTERN_AND_APPRENTICE", "EARLY"],
     "employment_type": ["FULL_TIME", "PART_TIME", "TEMPORARY"],
-    "degree": ["BACHELORS","ASSOCIATE", "MASTERS"],
+    "degree": ["BACHELORS", "ASSOCIATE", "MASTERS"],
     "location": ["United%20States"],
     "categoryName": "Engineering and Technology"
   },
@@ -54,7 +54,7 @@ const searchConfigs = [
       "PARTNERSHIPS", "PEOPLEOPS", "PRODUCT_SUPPORT", "PROGRAM_MANAGEMENT",
       "REAL_ESTATE", "SALES", "SALES_OPERATIONS"
     ],
-  //  "jex": ["ENTRY_LEVEL","INTERN_AND_APPRENTICE", "EARLY"],
+    //  "jex": ["ENTRY_LEVEL","INTERN_AND_APPRENTICE", "EARLY"],
     "target_level": ["INTERN_AND_APPRENTICE", "EARLY", "MID"],
     "employment_type": ["INTERN", "FULL_TIME", "PART_TIME", "TEMPORARY"],
     "degree": ["BACHELORS", "MASTERS", "ASSOCIATE"],
@@ -75,12 +75,12 @@ function buildUrl(config, page = 1) {
       params.append(key, decodeURIComponent(config[key]));
     }
   });
-  
+
   // Add page parameter if it's not the first page
   if (page > 1) {
     params.append('page', page.toString());
   }
-  
+
   return baseUrl + params.toString();
 }
 
@@ -89,16 +89,16 @@ function parseLocation(locationString) {
   if (!locationString || locationString === 'N/A') {
     return { city: null, state: null };
   }
-  
+
   // Handle formats like "Mountain View, CA, USA" or "Mountain View, CA"
   const parts = locationString.split(',').map(part => part.trim());
-  
+
   if (parts.length >= 2) {
     const city = parts[0];
     const state = parts[1];
     return { city, state };
   }
-  
+
   // If only one part, assume it's the city
   return { city: parts[0], state: null };
 }
@@ -106,17 +106,17 @@ function parseLocation(locationString) {
 // Helper function to clean job title (extract main title only)
 function cleanJobTitle(title) {
   if (!title) return title;
-  
+
   // Split by comma and take the first part (main title)
   const mainTitle = title.split(',')[0].trim();
-  
+
   return mainTitle;
 }
 
 // Helper function to convert scraped data to required format
 function transformJobData(scrapedJob) {
   const { city, state } = parseLocation(scrapedJob.location);
-  
+
   return {
     employer_name: "Google", // Hard-coded since this is Google's scraper
     job_title: cleanJobTitle(scrapedJob.role), // Clean the title to get main part only
@@ -131,15 +131,15 @@ function transformJobData(scrapedJob) {
 async function scrapePage(page, config, pageNumber) {
   const url = buildUrl(config, pageNumber);
   console.log(`\n🔗 Scraping ${config.categoryName} - Page ${pageNumber} - URL: ${url}`);
-  
+
   await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
   console.log(`⏳ Waiting for job listings to load on page ${pageNumber}...`);
-  
+
   await new Promise(resolve => setTimeout(resolve, 5000));
 
   const jobs = await page.evaluate((categoryName) => {
     const results = [];
-    
+
     // Look for job containers
     const selectors = [
       'div[jsaction*="JObD"]',
@@ -174,7 +174,7 @@ async function scrapePage(page, config, pageNumber) {
 
         // Try to extract posted date from various possible elements
         let posted = 'Recently'; // Default value
-        
+
         // Look for date-related elements (these selectors might need adjustment based on actual HTML)
         const dateSelectors = [
           'span[class*="date"]',
@@ -184,18 +184,18 @@ async function scrapePage(page, config, pageNumber) {
           'span[class*="posted"]',
           'div[class*="posted"]'
         ];
-        
+
         for (const selector of dateSelectors) {
           const dateElement = job.querySelector(selector);
-          if (dateElement && dateElement.innerText.trim() && 
-              dateElement.innerText.trim() !== level && 
-              dateElement.innerText.trim() !== location &&
-              dateElement.innerText.trim() !== role) {
+          if (dateElement && dateElement.innerText.trim() &&
+            dateElement.innerText.trim() !== level &&
+            dateElement.innerText.trim() !== location &&
+            dateElement.innerText.trim() !== role) {
             const dateText = dateElement.innerText.trim();
             // Check if it looks like a date (contains words like "ago", "day", "week", etc.)
-            if (dateText.includes('ago') || dateText.includes('day') || 
-                dateText.includes('week') || dateText.includes('month') ||
-                dateText.match(/\d+[dwm]/)) {
+            if (dateText.includes('ago') || dateText.includes('day') ||
+              dateText.includes('week') || dateText.includes('month') ||
+              dateText.match(/\d+[dwm]/)) {
               posted = dateText;
               break;
             }
@@ -249,10 +249,10 @@ async function scrapeJobs(config, configIndex) {
     // Continue scraping until we find a page with less than 20 jobs
     while (hasMorePages) {
       const jobs = await scrapePage(page, config, currentPage);
-      
+
       if (jobs.length > 0) {
         allJobs.push(...jobs);
-        
+
         // Log the posted dates for debugging
         jobs.forEach((job, index) => {
           console.log(`Page ${currentPage} - Job ${index + 1}: ${job.role} - Posted: ${job.posted}`);
@@ -266,19 +266,19 @@ async function scrapeJobs(config, configIndex) {
       } else {
         console.log(`📄 Page ${currentPage} has ${jobs.length} jobs, checking for next page...`);
         currentPage++;
-        
+
         // Wait between pages to be respectful
         console.log('⏸ Waiting 3 seconds before next page...');
         await new Promise(resolve => setTimeout(resolve, 3000));
       }
-      
+
       // Safety check to prevent infinite loops
       if (currentPage > 10) {
         console.log('⚠️ Reached maximum page limit (10), stopping pagination.');
         hasMorePages = false;
       }
     }
-    
+
     console.log(`🎉 Total jobs scraped for ${config.categoryName}: ${allJobs.length} across ${currentPage} pages`);
     return allJobs;
 
@@ -298,7 +298,7 @@ async function googleScraper() {
   for (let i = 0; i < searchConfigs.length; i++) {
     const jobs = await scrapeJobs(searchConfigs[i], i);
     allScrapedJobs.push(...jobs);
-    
+
     // Wait between configurations to be respectful
     if (i < searchConfigs.length - 1) {
       console.log('⏸ Waiting 5 seconds before next configuration...');
@@ -330,7 +330,7 @@ async function googleScraper() {
   console.log(JSON.stringify(transformedJobs, null, 2));
 
   console.log('\n✅ Scraping completed!');
-  
+
   // Return the transformed jobs array
   return transformedJobs;
 }

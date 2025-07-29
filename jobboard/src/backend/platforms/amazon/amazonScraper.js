@@ -103,7 +103,7 @@ async function scrapeAmazonJobs() {
 
 
     // Transform to standard format
-    const transformedJobs = allJobs.map(job => ({
+    return allJobs.map(job => ({
         job_title: job.title,
         employer_name: 'Amazon',
         job_city: job.location.split(', ')[0] || 'Multiple',
@@ -113,17 +113,5 @@ async function scrapeAmazonJobs() {
         job_posted_at: parseAmazonDate(job.postedDate, job.timeElapsed),
 
     }));
-
-    console.log(`🎯 Amazon scraping completed: ${transformedJobs.length} jobs found`);
-    try {
-        const filename = path.join(__dirname, 'amazonjobs.json');
-        fs.writeFileSync(filename, JSON.stringify(transformedJobs, null, 2));
-        console.log(`💾 Saved ${transformedJobs.length} jobs to ${filename}`);
-        console.log(`📅 Save time: ${new Date().toLocaleString()}`);
-    } catch (error) {
-        console.error('❌ Error saving jobs to file:', error);
-    }
 }
-if (require.main === module) {
-    scrapeAmazonJobs();
-}
+module.exports = scrapeAmazonJobs;
