@@ -1,46 +1,13 @@
 [
   {
-    "job_title": "Director, Software Engineering - Platform Services",
-    "employer_name": "Figma",
+    "job_title": "Staff Machine Learning Engineer - Community Support Engineering",
+    "employer_name": "Airbnb",
     "job_city": "San Francisco",
-    "job_state": "CA • New York",
-    "job_description": "Join Figma to make design accessible to all.",
-    "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5600388004?gh_jid=5600388004",
-    "job_posted_at_datetime_utc": "2025-07-29T17:07:25.000Z",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/7116975",
+    "job_posted_at_datetime_utc": "2025-07-29T17:48:56.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "figma-director-software-engineering-platform-services-san-francisco"
-  },
-  {
-    "job_title": "Sr. Engineering Manager - AI Observability Platform",
-    "employer_name": "Databricks",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8040906002",
-    "job_posted_at_datetime_utc": "2025-07-29T17:05:55.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-engineering-manager-ai-observability-platform-san-francisco"
-  },
-  {
-    "job_title": "Sr. Systems Engineer ( IAM)",
-    "employer_name": "Databricks",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8048465002",
-    "job_posted_at_datetime_utc": "2025-07-29T17:05:47.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-systems-engineer-iam-bengaluru"
-  },
-  {
-    "job_title": "Systems Engineer ( IAM)",
-    "employer_name": "Databricks",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8048469002",
-    "job_posted_at_datetime_utc": "2025-07-29T17:05:47.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-systems-engineer-iam-bengaluru"
+    "id": "airbnb-staff-machine-learning-engineer-community-support-engineering-san-francisco"
   }
 ]
