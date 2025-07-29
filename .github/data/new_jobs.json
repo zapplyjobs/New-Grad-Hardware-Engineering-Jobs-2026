@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Software Engineer, Backend",
+    "employer_name": "Stripe",
+    "job_city": "Bucharest",
+    "job_state": "Romania ",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=6623781",
+    "job_posted_at_datetime_utc": "2025-07-29T09:30:13.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-software-engineer-backend-bucharest"
+  },
+  {
+    "job_title": "Sr Solutions Engineer - Retail & Consumer Goods Vertical",
+    "employer_name": "Databricks",
+    "job_city": "Munich",
+    "job_state": "Germany",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8005455002",
+    "job_posted_at_datetime_utc": "2025-07-29T09:27:49.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-sr-solutions-engineer-retail-consumer-goods-vertical-munich"
+  }
+]
