@@ -1,13 +1,13 @@
 [
   {
-    "job_title": "Software Engineer (L5), Ads Media Planning",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
+    "job_title": "Frontend Engineer, Link",
+    "employer_name": "Stripe",
+    "job_city": "US",
     "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790303620790",
-    "job_posted_at_datetime_utc": "2025-07-28T00:00:00.000Z",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=6894951",
+    "job_posted_at_datetime_utc": "2025-07-29T21:51:53.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-software-engineer-l5-ads-media-planning-usa-remote"
+    "id": "stripe-frontend-engineer-link-us"
   }
 ]
