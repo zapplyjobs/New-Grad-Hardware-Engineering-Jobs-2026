@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Consumer QA Analyst (non-engineering) - Remote in London",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - UK",
+    "job_title": "Data Scientist / Machine Learning Engineer",
+    "employer_name": "Databricks",
+    "job_city": "Remote - India",
     "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7078407?gh_jid=7078407",
-    "job_posted_at_datetime_utc": "2025-07-29T02:08:47.000Z",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8011992002",
+    "job_posted_at_datetime_utc": "2025-07-29T04:05:16.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-consumer-qa-analyst-non-engineering-remote-in-london-remote-uk"
-  },
-  {
-    "job_title": "Senior Full Stack Software Engineer, Tax Experience, BizTech",
-    "employer_name": "Airbnb",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/7114552",
-    "job_posted_at_datetime_utc": "2025-07-28T23:39:12.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-full-stack-software-engineer-tax-experience-biztech-san-francisco"
+    "id": "databricks-data-scientist-machine-learning-engineer-remote-india"
   }
 ]
