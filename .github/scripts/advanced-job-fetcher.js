@@ -5,7 +5,7 @@ const microsoftPath = path.join(__dirname, '../../jobboard/src/backend/platforms
 const googlePath = path.join(__dirname, '../../jobboard/src/backend/platforms/google/googlescrapingdata.json');
 const amazonPath = path.join(__dirname, '../../jobboard/src/backend/platforms/amazon/amazonjobs.json');
 const MetaPath = path.join(__dirname, '../../jobboard/src/backend/platforms/meta/metajobs.json');
-
+const companyPath = path.join(__dirname,'job-fetcher/companies.json');
 
 const microsoftData = JSON.parse(fs.readFileSync(microsoftPath, 'utf8'));
 const googleData = JSON.parse(fs.readFileSync(googlePath, 'utf8'));
@@ -13,7 +13,7 @@ const amazonData = JSON.parse(fs.readFileSync(amazonPath, 'utf8'));
 const metaData = JSON.parse(fs.readFileSync(MetaPath, 'utf8'));
 
 // Load comprehensive company database
-const companies = JSON.parse(fs.readFileSync('./.github/scripts/companies.json', 'utf8'));
+const companies = JSON.parse(fs.readFileSync(companyPath, 'utf8'));
 
 // Configuration
 const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || '315e3cea2bmshd51ab0ee7309328p18cecfjsna0f6b8e72f39';
