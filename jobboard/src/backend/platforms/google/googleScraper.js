@@ -20,47 +20,47 @@ const searchConfigs = [
     "location": ["United%20States"],
     "categoryName": "Engineering and Technology"
   },
-  {
-    "category": [
-      "DATA_CENTER_OPERATIONS", "DEVELOPER_RELATIONS", "HARDWARE_ENGINEERING",
-      "INFORMATION_TECHNOLOGY", "MANUFACTURING_SUPPLY_CHAIN", "NETWORK_ENGINEERING",
-      "PRODUCT_MANAGEMENT", "PROGRAM_MANAGEMENT", "SOFTWARE_ENGINEERING",
-      "TECHNICAL_INFRASTRUCTURE_ENGINEERING", "TECHNICAL_SOLUTIONS",
-      "TECHNICAL_WRITING", "USER_EXPERIENCE"
-    ],
-    // "jex": ["ENTRY_LEVEL","INTERN_AND_APPRENTICE", "EARLY"],
-    "target_level": ["MID", "INTERN_AND_APPRENTICE", "EARLY"],
-    "employment_type": ["INTERN", "FULL_TIME", "PART_TIME", "TEMPORARY"],
-    "degree": ["BACHELORS", "MASTERS", "ASSOCIATE"],
-    "location": ["United%20States"],
-    "categoryName": "Engineering and Technology Internship"
-  },
-  {
-    "category": [
-      "ADMINISTRATIVE", "BUSINESS_STRATEGY", "FINANCE", "LEGAL", "MARKETING",
-      "PARTNERSHIPS", "PEOPLEOPS", "PRODUCT_SUPPORT", "PROGRAM_MANAGEMENT",
-      "REAL_ESTATE", "SALES", "SALES_OPERATIONS"
-    ],
-    // "jex": ["ENTRY_LEVEL","INTERN_AND_APPRENTICE", "EARLY"],
-    "target_level": ["EARLY", "MID", "INTERN_AND_APPRENTICE"],
-    "employment_type": ["FULL_TIME", "PART_TIME", "TEMPORARY"],
-    "degree": ["BACHELORS", "MASTERS", "ASSOCIATE"],
-    "location": ["United%20States"],
-    "categoryName": "Business"
-  },
-  {
-    "category": [
-      "ADMINISTRATIVE", "BUSINESS_STRATEGY", "FINANCE", "LEGAL", "MARKETING",
-      "PARTNERSHIPS", "PEOPLEOPS", "PRODUCT_SUPPORT", "PROGRAM_MANAGEMENT",
-      "REAL_ESTATE", "SALES", "SALES_OPERATIONS"
-    ],
-    //  "jex": ["ENTRY_LEVEL","INTERN_AND_APPRENTICE", "EARLY"],
-    "target_level": ["INTERN_AND_APPRENTICE", "EARLY", "MID"],
-    "employment_type": ["INTERN", "FULL_TIME", "PART_TIME", "TEMPORARY"],
-    "degree": ["BACHELORS", "MASTERS", "ASSOCIATE"],
-    "location": ["United%20States"],
-    "categoryName": "Business Internship"
-  }
+  // {
+  //   "category": [
+  //     "DATA_CENTER_OPERATIONS", "DEVELOPER_RELATIONS", "HARDWARE_ENGINEERING",
+  //     "INFORMATION_TECHNOLOGY", "MANUFACTURING_SUPPLY_CHAIN", "NETWORK_ENGINEERING",
+  //     "PRODUCT_MANAGEMENT", "PROGRAM_MANAGEMENT", "SOFTWARE_ENGINEERING",
+  //     "TECHNICAL_INFRASTRUCTURE_ENGINEERING", "TECHNICAL_SOLUTIONS",
+  //     "TECHNICAL_WRITING", "USER_EXPERIENCE"
+  //   ],
+  //   // "jex": ["ENTRY_LEVEL","INTERN_AND_APPRENTICE", "EARLY"],
+  //   "target_level": ["MID", "INTERN_AND_APPRENTICE", "EARLY"],
+  //   "employment_type": ["INTERN", "FULL_TIME", "PART_TIME", "TEMPORARY"],
+  //   "degree": ["BACHELORS", "MASTERS", "ASSOCIATE"],
+  //   "location": ["United%20States"],
+  //   "categoryName": "Engineering and Technology Internship"
+  // },
+  // {
+  //   "category": [
+  //     "ADMINISTRATIVE", "BUSINESS_STRATEGY", "FINANCE", "LEGAL", "MARKETING",
+  //     "PARTNERSHIPS", "PEOPLEOPS", "PRODUCT_SUPPORT", "PROGRAM_MANAGEMENT",
+  //     "REAL_ESTATE", "SALES", "SALES_OPERATIONS"
+  //   ],
+  //   // "jex": ["ENTRY_LEVEL","INTERN_AND_APPRENTICE", "EARLY"],
+  //   "target_level": ["EARLY", "MID", "INTERN_AND_APPRENTICE"],
+  //   "employment_type": ["FULL_TIME", "PART_TIME", "TEMPORARY"],
+  //   "degree": ["BACHELORS", "MASTERS", "ASSOCIATE"],
+  //   "location": ["United%20States"],
+  //   "categoryName": "Business"
+  // },
+  // {
+  //   "category": [
+  //     "ADMINISTRATIVE", "BUSINESS_STRATEGY", "FINANCE", "LEGAL", "MARKETING",
+  //     "PARTNERSHIPS", "PEOPLEOPS", "PRODUCT_SUPPORT", "PROGRAM_MANAGEMENT",
+  //     "REAL_ESTATE", "SALES", "SALES_OPERATIONS"
+  //   ],
+  //   //  "jex": ["ENTRY_LEVEL","INTERN_AND_APPRENTICE", "EARLY"],
+  //   "target_level": ["INTERN_AND_APPRENTICE", "EARLY", "MID"],
+  //   "employment_type": ["INTERN", "FULL_TIME", "PART_TIME", "TEMPORARY"],
+  //   "degree": ["BACHELORS", "MASTERS", "ASSOCIATE"],
+  //   "location": ["United%20States"],
+  //   "categoryName": "Business Internship"
+  // }
 ];
 
 function buildUrl(config, page = 1) {
