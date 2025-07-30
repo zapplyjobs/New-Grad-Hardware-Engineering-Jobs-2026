@@ -1,57 +1,13 @@
 [
   {
-    "job_title": "Software Engineer I",
-    "employer_name": "Daifuku",
-    "job_city": "Clearwater",
-    "job_state": "FL",
-    "job_description": "Join Daifuku in this exciting opportunity.",
-    "job_apply_link": "https://careers-daifuku-america.icims.com/jobs/20436/ilus-software-engineer-i/job",
-    "job_posted_at_datetime_utc": "2025-07-30T19:10:54.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "daifuku-software-engineer-i-clearwater"
-  },
-  {
-    "job_title": "Software Engineer",
-    "employer_name": "Fable Security",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Join Fable Security in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/fable/c4c61b04-6215-447f-b6ac-16af7efc87b6",
-    "job_posted_at_datetime_utc": "2025-07-30T19:06:12.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "fable-security-software-engineer-san-francisco"
-  },
-  {
-    "job_title": "Associate Software Engineer",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Woodland Hills",
-    "job_state": "CA",
-    "job_description": "Join Northrop Grumman in this exciting opportunity.",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Associate----Software-Engineer_R10201149-1",
-    "job_posted_at_datetime_utc": "2025-07-30T19:02:56.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "northrop-grumman-associate-software-engineer-woodland-hills"
-  },
-  {
-    "job_title": "Software Development Engineer I",
-    "employer_name": "Blue Origin",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Join Blue Origin in this exciting opportunity.",
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
-    "job_posted_at_datetime_utc": "2025-07-30T19:01:17.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "blue-origin-software-development-engineer-i-seattle"
-  },
-  {
-    "job_title": "Senior Staff Machine Learning Engineer, Communication & Connectivity",
-    "employer_name": "Airbnb",
+    "job_title": "Senior Engineering Manager, Finance Analytics",
+    "employer_name": "Coinbase",
     "job_city": "Remote - USA",
     "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/7005605",
-    "job_posted_at_datetime_utc": "2025-07-30T18:52:08.000Z",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/6741679?gh_jid=6741679",
+    "job_posted_at_datetime_utc": "2025-07-30T19:34:56.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-staff-machine-learning-engineer-communication-connectivity-remote-usa"
+    "id": "coinbase-senior-engineering-manager-finance-analytics-remote-usa"
   }
 ]
