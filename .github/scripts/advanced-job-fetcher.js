@@ -14,6 +14,7 @@ const companyPath = path.join(__dirname, 'job-fetcher/companies.json');
 const scrapeAmazonJobs = require('../../jobboard/src/backend/platforms/amazon/amazonScraper');
 const { googleScraper } = require('../../jobboard/src/backend/platforms/google/googleScraper');
 const scrapeMetaJobs = require('../../jobboard/src/backend/platforms/meta/metaScraper');
+const { microsoftScraper } = require('../../jobboard/src/backend/platforms/microsoft/microsoftScraper');
 // Load comprehensive company database
 const companies = JSON.parse(fs.readFileSync(companyPath, 'utf8'));
 
@@ -921,13 +922,14 @@ async function updateReadme() {
         console.log('🚀 Starting Zapply job board update...');
 
         // Fetch REAL jobs from actual career pages
-        const [amazonJobs, metaJobs, googleJobs, otherJobs] = await Promise.all([
+        const [amazonJobs, metaJobs, microsoftJobs, googleJobs, otherJobs] = await Promise.all([
             scrapeAmazonJobs(),
             scrapeMetaJobs(),
+            microsoftScraper(),
             googleScraper(),
             fetchAllRealJobs()
         ]);
-        const allJobs = [...amazonJobs, ...metaJobs, googleJobs, ...otherJobs];
+        const allJobs = [...amazonJobs, ...metaJobs, microsoftJobs, googleJobs, ...otherJobs];
         if (allJobs.length === 0) {
             console.log('⚠️ No jobs found, keeping existing README');
             return;
