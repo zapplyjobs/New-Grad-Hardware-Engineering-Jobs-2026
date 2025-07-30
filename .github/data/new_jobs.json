@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Software Engineer I",
-    "employer_name": "RTX",
-    "job_city": "Richardson",
-    "job_state": "TX",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX38-1717-E-Cityline-Drive-1717-E-Cityline-Drive-Building-C17-Richardson-TX-75082-USA/Software-Engineer-I--Onsite-_01782360",
-    "job_posted_at_datetime_utc": "2025-07-29T23:09:05.000Z",
+    "job_title": "Engineering Manager, Trading",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - Singapore",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7010523?gh_jid=7010523",
+    "job_posted_at_datetime_utc": "2025-07-30T02:17:41.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-i-richardson"
-  },
-  {
-    "job_title": "Software Engineer",
-    "employer_name": "Unify",
-    "job_city": "San Francisco",
-    "job_state": "NY",
-    "job_description": "Join Unify in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/unify/762e3fd4-7813-4da8-bb02-cc6050e3626a",
-    "job_posted_at_datetime_utc": "2025-07-29T22:57:06.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "unify-software-engineer-san-francisco"
+    "id": "coinbase-engineering-manager-trading-remote-singapore"
   }
 ]
