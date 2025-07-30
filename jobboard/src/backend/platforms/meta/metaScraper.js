@@ -142,14 +142,14 @@ async function scrapeMetaJobs() {
     console.log(`🎯 Meta scraping completed: ${transformedJobs.length} unique jobs found`);
 
     // Save to JSON file
-    try {
-        const filename = path.join(__dirname, 'metajobs.json');
-        fs.writeFileSync(filename, JSON.stringify(transformedJobs, null, 2));
-        console.log(`💾 Saved ${transformedJobs.length} jobs to ${filename}`);
-        console.log(`📅 Save time: ${new Date().toLocaleString()}`);
-    } catch (error) {
-        console.error('❌ Error saving jobs to file:', error);
-    }
+    // try {
+    //     const filename = path.join(__dirname, 'metajobs.json');
+    //     fs.writeFileSync(filename, JSON.stringify(transformedJobs, null, 2));
+    //     console.log(`💾 Saved ${transformedJobs.length} jobs to ${filename}`);
+    //     console.log(`📅 Save time: ${new Date().toLocaleString()}`);
+    // } catch (error) {
+    //     console.error('❌ Error saving jobs to file:', error);
+    // }
 
     return transformedJobs;
 }
@@ -177,16 +177,16 @@ function parseLocation(locationStr) {
 }
 
 // Only run if this file is executed directly
-if (require.main === module) {
-    scrapeMetaJobs()
-        .then(() => {
-            console.log('\n✅ Meta job scraping and saving completed!');
-            process.exit(0);
-        })
-        .catch(error => {
-            console.error('\n❌ Meta job scraping failed:', error);
-            process.exit(1);
-        });
-}
+// if (require.main === module) {
+//     scrapeMetaJobs()
+//         .then(() => {
+//             console.log('\n✅ Meta job scraping and saving completed!');
+//             process.exit(0);
+//         })
+//         .catch(error => {
+//             console.error('\n❌ Meta job scraping failed:', error);
+//             process.exit(1);
+//         });
+// }
 
-module.exports = { scrapeMetaJobs };
+module.exports = scrapeMetaJobs;
