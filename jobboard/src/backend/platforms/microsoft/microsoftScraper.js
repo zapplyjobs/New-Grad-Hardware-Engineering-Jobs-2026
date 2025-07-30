@@ -46,39 +46,39 @@ function parseLocation(locationString) {
   if (!locationString || locationString === 'N/A') {
     return { city: null, state: null };
   }
-  
+
   const parts = locationString.split(',').map(part => part.trim());
-  return parts.length >= 2 
+  return parts.length >= 2
     ? { city: parts[0], state: parts[1] }
     : { city: parts[0], state: null };
 }
 
 function cleanJobTitle(title) {
   if (!title) return 'N/A';
-  
+
   if (title.includes(' - ')) {
     return title.split(' - ')[1].split(',')[0].trim();
   }
-  
+
   return title.split(',')[0].trim();
 }
 
 function extractCategory(title) {
   if (!title) return 'Software Engineering';
-  
+
   if (title.includes(' - ')) {
     return title.split(' - ')[0].trim();
   }
-  
+
   return 'Software Engineering';
 }
 
 function transformJobData(scrapedJob) {
   const { city, state } = parseLocation(scrapedJob.location);
-  const fullTitle = scrapedJob.category && scrapedJob.role ? 
-    `${scrapedJob.category} - ${scrapedJob.role}` : 
+  const fullTitle = scrapedJob.category && scrapedJob.role ?
+    `${scrapedJob.category} - ${scrapedJob.role}` :
     (scrapedJob.role || scrapedJob.category || 'N/A');
-  
+
   return {
     employer_name: "Microsoft",
     job_title: cleanJobTitle(fullTitle),
@@ -93,7 +93,7 @@ function transformJobData(scrapedJob) {
 // Enhanced element finding with multiple selectors
 async function findElement(page, selectors, timeout = 5000) {
   const selectorArray = Array.isArray(selectors) ? selectors : [selectors];
-  
+
   for (const selector of selectorArray) {
     try {
       const element = await page.waitForSelector(selector, { timeout });
@@ -102,7 +102,7 @@ async function findElement(page, selectors, timeout = 5000) {
       continue; // Try next selector
     }
   }
-  
+
   return null;
 }
 
@@ -110,10 +110,10 @@ async function findElement(page, selectors, timeout = 5000) {
 async function scrapeJobDetails(page, jobDiv, jobIndex) {
   try {
     console.log(`Processing job ${jobIndex}`);
-    
+
     // Find see details button with multiple selector options
     const seeDetailsButton = await findElement(jobDiv, SELECTORS.seeDetailsButton, 3000);
-    
+
     if (!seeDetailsButton) {
       console.log(`⚠️ No see details button found for job ${jobIndex} - skipping`);
       return null;
@@ -122,10 +122,10 @@ async function scrapeJobDetails(page, jobDiv, jobIndex) {
     // Click the see details button
     await seeDetailsButton.click();
     console.log(`✅ Clicked see details for job ${jobIndex}`);
-    
+
     // Wait for details page to load
     await new Promise(resolve => setTimeout(resolve, DELAYS.WAIT_FOR_DETAILS));
-    
+
     // Extract job details
     const jobData = await page.evaluate(() => {
       const job = {
@@ -145,13 +145,13 @@ async function scrapeJobDetails(page, jobDiv, jobIndex) {
         'h1[style*="font-size: 26px"]',
         'h1'
       ];
-      
+
       let titleElement = null;
       for (const selector of titleSelectors) {
         titleElement = document.querySelector(selector);
         if (titleElement && titleElement.textContent.trim()) break;
       }
-      
+
       if (titleElement) {
         const fullTitle = titleElement.textContent.trim();
         if (fullTitle) {
@@ -177,7 +177,7 @@ async function scrapeJobDetails(page, jobDiv, jobIndex) {
         '.posted-date',
         '[data-testid="posted-date"]'
       ];
-      
+
       for (const selector of dateSelectors) {
         const dateElement = document.querySelector(selector);
         if (dateElement && dateElement.textContent.trim()) {
@@ -191,15 +191,15 @@ async function scrapeJobDetails(page, jobDiv, jobIndex) {
 
     // Navigate back to job list
     await navigateBack(page, jobIndex);
-    
+
     // Wait before processing next job
     await new Promise(resolve => setTimeout(resolve, DELAYS.AFTER_CLICK));
-    
+
     if (jobData.role === 'N/A') {
       console.log(`⚠️ No valid job data extracted for job ${jobIndex}`);
       return null;
     }
-    
+
     console.log(`✅ Successfully extracted: ${jobData.category} - ${jobData.role}`);
     return jobData;
 
@@ -213,7 +213,7 @@ async function scrapeJobDetails(page, jobDiv, jobIndex) {
 async function navigateBack(page, jobIndex) {
   try {
     const backButton = await findElement(page, SELECTORS.backButton, 3000);
-    
+
     if (backButton) {
       await backButton.click();
       console.log(`✅ Clicked back button for job ${jobIndex}`);
@@ -231,42 +231,42 @@ async function navigateBack(page, jobIndex) {
 async function scrapePage(page, pageNumber) {
   const url = buildPageUrl(pageNumber);
   console.log(`\n🔗 Scraping Page ${pageNumber} - ${url}`);
-  
+
   try {
     await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
     console.log(`⏳ Loading job listings on page ${pageNumber}...`);
-    
+
     // Wait for job listings
     await page.waitForSelector(SELECTORS.jobListings, { timeout: 30000 });
     console.log('✅ Job listings loaded');
 
     // Get job divs
     const jobDivs = await page.$$(SELECTORS.jobListings);
-    
+
     if (!jobDivs || jobDivs.length === 0) {
       console.log(`❌ No job listings found on page ${pageNumber}`);
       return [];
     }
-    
+
     console.log(`📋 Found ${jobDivs.length} job listings on page ${pageNumber}`);
-    
+
     const pageJobs = [];
-    
+
     // Process each job
     for (let i = 0; i < jobDivs.length; i++) {
       const jobData = await scrapeJobDetails(page, jobDivs[i], i + 1);
-      
+
       if (jobData && jobData.role !== 'N/A') {
         pageJobs.push(jobData);
       }
-      
+
       // Wait between jobs
       await new Promise(resolve => setTimeout(resolve, DELAYS.BETWEEN_JOBS));
     }
-    
+
     console.log(`✅ Successfully scraped ${pageJobs.length} jobs from page ${pageNumber}`);
     return pageJobs;
-    
+
   } catch (error) {
     console.error(`❌ Error scraping page ${pageNumber}:`, error.message);
     return [];
@@ -276,14 +276,14 @@ async function scrapePage(page, pageNumber) {
 // Main scraping function
 async function microsoftScraper() {
   const browser = await puppeteer.launch({
-    headless: false,
+    headless: true,
     defaultViewport: null,
     args: ['--start-maximized', '--no-sandbox', '--disable-setuid-sandbox']
   });
 
   try {
     const page = await browser.newPage();
-    
+
     // Set user agent and headers
     await page.setUserAgent(
       'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
@@ -297,13 +297,13 @@ async function microsoftScraper() {
     // Scrape pages until no more jobs found
     while (hasMorePages && currentPage <= MAX_PAGES) {
       console.log(`\n📄 Processing page ${currentPage}...`);
-      
+
       const pageJobs = await scrapePage(page, currentPage);
-      
+
       if (pageJobs.length > 0) {
         allJobs.push(...pageJobs);
         console.log(`📊 Total jobs scraped: ${allJobs.length}`);
-        
+
         // If current page has less than 20 jobs, it's likely the last page
         if (pageJobs.length < 20) {
           console.log(`📄 Page ${currentPage} has only ${pageJobs.length} jobs - this appears to be the last page`);
@@ -311,13 +311,13 @@ async function microsoftScraper() {
         } else {
           currentPage++;
         }
-        
+
         // Wait between pages
         if (hasMorePages) {
           console.log(`⏸ Waiting ${DELAYS.BETWEEN_PAGES}ms before next page...`);
           await new Promise(resolve => setTimeout(resolve, DELAYS.BETWEEN_PAGES));
         }
-        
+
       } else {
         console.log(`📄 Page ${currentPage} has no jobs - stopping`);
         hasMorePages = false;
@@ -341,7 +341,7 @@ async function microsoftScraper() {
     console.log(`Total jobs found: ${allJobs.length}`);
     console.log(`Valid jobs saved: ${transformedJobs.length}`);
     console.log(`Pages processed: ${currentPage - 1}`);
-    
+
     return transformedJobs;
 
   } catch (error) {
@@ -353,8 +353,9 @@ async function microsoftScraper() {
 }
 
 // Execute if run directly
-if (require.main === module) {
-  microsoftScraper().catch(console.error);
-}
+// if (require.main === module) 
+//   const data = microsoftScraper().catch(console.error);
+//   console.log("data received after scrap", data);
+// }
 
 module.exports = { microsoftScraper };
