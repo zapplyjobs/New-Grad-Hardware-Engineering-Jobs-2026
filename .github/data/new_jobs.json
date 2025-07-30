@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "job_title": "Staff Software Engineer - AI Accelerator",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - India",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7120592?gh_jid=7120592",
+    "job_posted_at_datetime_utc": "2025-07-30T14:26:46.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-staff-software-engineer-ai-accelerator-remote-india"
+  },
+  {
+    "job_title": "Software Engineer - AI Accelerator",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - India",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7120571?gh_jid=7120571",
+    "job_posted_at_datetime_utc": "2025-07-30T14:26:19.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-software-engineer-ai-accelerator-remote-india"
+  },
+  {
+    "job_title": "Senior Software Engineer - AI Accelerator",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - India",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7120572?gh_jid=7120572",
+    "job_posted_at_datetime_utc": "2025-07-30T14:26:06.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-senior-software-engineer-ai-accelerator-remote-india"
+  },
+  {
+    "job_title": "Staff Software Engineer Engineer - AI Systems ",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/6915455",
+    "job_posted_at_datetime_utc": "2025-07-30T14:10:48.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-staff-software-engineer-engineer-ai-systems-united-states"
+  }
+]
