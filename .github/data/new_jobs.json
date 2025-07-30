@@ -1,57 +1,57 @@
 [
   {
-    "job_title": "Senior Software Engineer, Tax Platform, BizTech",
+    "job_title": "Software Engineer I",
+    "employer_name": "Daifuku",
+    "job_city": "Clearwater",
+    "job_state": "FL",
+    "job_description": "Join Daifuku in this exciting opportunity.",
+    "job_apply_link": "https://careers-daifuku-america.icims.com/jobs/20436/ilus-software-engineer-i/job",
+    "job_posted_at_datetime_utc": "2025-07-30T19:10:54.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "daifuku-software-engineer-i-clearwater"
+  },
+  {
+    "job_title": "Software Engineer",
+    "employer_name": "Fable Security",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Fable Security in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/fable/c4c61b04-6215-447f-b6ac-16af7efc87b6",
+    "job_posted_at_datetime_utc": "2025-07-30T19:06:12.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "fable-security-software-engineer-san-francisco"
+  },
+  {
+    "job_title": "Associate Software Engineer",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Woodland Hills",
+    "job_state": "CA",
+    "job_description": "Join Northrop Grumman in this exciting opportunity.",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Associate----Software-Engineer_R10201149-1",
+    "job_posted_at_datetime_utc": "2025-07-30T19:02:56.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "northrop-grumman-associate-software-engineer-woodland-hills"
+  },
+  {
+    "job_title": "Software Development Engineer I",
+    "employer_name": "Blue Origin",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Join Blue Origin in this exciting opportunity.",
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
+    "job_posted_at_datetime_utc": "2025-07-30T19:01:17.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "blue-origin-software-development-engineer-i-seattle"
+  },
+  {
+    "job_title": "Senior Staff Machine Learning Engineer, Communication & Connectivity",
     "employer_name": "Airbnb",
-    "job_city": "United States",
+    "job_city": "Remote - USA",
     "job_state": "CA",
     "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/7093527",
-    "job_posted_at_datetime_utc": "2025-07-30T18:28:09.000Z",
+    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/7005605",
+    "job_posted_at_datetime_utc": "2025-07-30T18:52:08.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-software-engineer-tax-platform-biztech-united-states"
-  },
-  {
-    "job_title": "Staff Machine Learning Engineer, Infrastructure",
-    "employer_name": "Airbnb",
-    "job_city": "United States",
-    "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/6764143",
-    "job_posted_at_datetime_utc": "2025-07-30T18:24:09.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "airbnb-staff-machine-learning-engineer-infrastructure-united-states"
-  },
-  {
-    "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-    "employer_name": "Databricks",
-    "job_city": "United States",
-    "job_state": "CA",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8093337002",
-    "job_posted_at_datetime_utc": "2025-07-30T18:19:02.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-ai-engineer-fde-forward-deployed-engineer-united-states"
-  },
-  {
-    "job_title": "Software Engineer I, Entry-Level",
-    "employer_name": "DoorDash",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Join DoorDash in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/6330949",
-    "job_posted_at_datetime_utc": "2025-07-30T17:55:31.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "doordash-software-engineer-i-entry-level-new-york"
-  },
-  {
-    "job_title": "Associate Machine Learning Engineer",
-    "employer_name": "Spotify",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Join Spotify in this exciting opportunity.",
-    "job_apply_link": "https://jobs.lever.co/spotify/21c24edb-f625-4895-ad23-5a6320d54813",
-    "job_posted_at_datetime_utc": "2025-07-30T17:51:29.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "spotify-associate-machine-learning-engineer-new-york"
+    "id": "airbnb-senior-staff-machine-learning-engineer-communication-connectivity-remote-usa"
   }
 ]
