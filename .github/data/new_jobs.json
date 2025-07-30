@@ -1,79 +1,35 @@
 [
   {
-    "job_title": "Senior Machine Learning Engineer - AI Platform",
-    "employer_name": "Coinbase",
+    "job_title": "Sr. Staff Engineer, Incident Response ",
+    "employer_name": "Databricks",
+    "job_city": "San Francisco",
+    "job_state": "California; Seattle",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8026636002",
+    "job_posted_at_datetime_utc": "2025-07-30T16:23:32.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-sr-staff-engineer-incident-response-san-francisco"
+  },
+  {
+    "job_title": "Software Engineer, Marketplace API",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/6992043",
+    "job_posted_at_datetime_utc": "2025-07-30T15:56:44.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-software-engineer-marketplace-api-united-states"
+  },
+  {
+    "job_title": "Staff Machine Learning Engineer - Community Support Engineering",
+    "employer_name": "Airbnb",
     "job_city": "Remote - USA",
     "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7120635?gh_jid=7120635",
-    "job_posted_at_datetime_utc": "2025-07-30T15:25:43.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-machine-learning-engineer-ai-platform-remote-usa"
-  },
-  {
-    "job_title": "Senior Full-Stack Engineer, Reservations and Additional Products",
-    "employer_name": "Airbnb",
-    "job_city": "Remote-USA",
-    "job_state": "CA",
     "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/6974527",
-    "job_posted_at_datetime_utc": "2025-07-30T15:24:49.000Z",
+    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/7116975",
+    "job_posted_at_datetime_utc": "2025-07-30T15:54:32.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-full-stack-engineer-reservations-and-additional-products-remote-usa"
-  },
-  {
-    "job_title": "Senior Software Engineer, Guest & Host",
-    "employer_name": "Airbnb",
-    "job_city": "Remote",
-    "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/5545290",
-    "job_posted_at_datetime_utc": "2025-07-30T15:03:13.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-software-engineer-guest-host-remote"
-  },
-  {
-    "job_title": "Senior Staff Software Engineer - AI Platform ",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - India",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7120619?gh_jid=7120619",
-    "job_posted_at_datetime_utc": "2025-07-30T14:35:25.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-staff-software-engineer-ai-platform-remote-india"
-  },
-  {
-    "job_title": "Engineering Manager - AI Platform ",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - India",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7074026?gh_jid=7074026",
-    "job_posted_at_datetime_utc": "2025-07-30T14:35:21.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-engineering-manager-ai-platform-remote-india"
-  },
-  {
-    "job_title": "Technology Development Program - Software Engineering",
-    "employer_name": "M&T Bank",
-    "job_city": "Buffalo",
-    "job_state": "NY",
-    "job_description": "Join M&T Bank in this exciting opportunity.",
-    "job_apply_link": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2026-Technology-Development-Program---Software-Engineering_R72033",
-    "job_posted_at_datetime_utc": "2025-07-30T14:34:05.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "m-t-bank-technology-development-program-software-engineering-buffalo"
-  },
-  {
-    "job_title": "UI Engineer (L6), Design System",
-    "employer_name": "Netflix",
-    "job_city": "Warsaw",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790304518807",
-    "job_posted_at_datetime_utc": "2025-07-30T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "netflix-ui-engineer-l6-design-system-warsaw"
+    "id": "airbnb-staff-machine-learning-engineer-community-support-engineering-remote-usa"
   }
 ]
