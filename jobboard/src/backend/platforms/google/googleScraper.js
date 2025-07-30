@@ -230,7 +230,7 @@ async function scrapePage(page, config, pageNumber) {
 
 async function scrapeJobs(config, configIndex) {
   const browser = await puppeteer.launch({
-    headless: false,
+    headless: true,
     defaultViewport: null,
     args: ['--start-maximized', '--no-sandbox', '--disable-setuid-sandbox']
   });
@@ -339,6 +339,6 @@ async function googleScraper() {
 module.exports = { googleScraper };
 
 // Execute the script if run directly
-// if (require.main === module) {
-//   googleScraper().catch(console.error);
-// }
+if (require.main === module) {
+  googleScraper().catch(console.error);
+}
