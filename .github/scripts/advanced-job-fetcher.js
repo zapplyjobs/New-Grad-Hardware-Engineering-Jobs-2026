@@ -929,7 +929,7 @@ async function updateReadme() {
             googleScraper(),
             fetchAllRealJobs()
         ]);
-        const allJobs = [...amazonJobs, ...metaJobs, microsoftJobs, googleJobs, ...otherJobs];
+        const allJobs = [...amazonJobs, ...metaJobs, ...microsoftJobs, ...googleJobs, ...otherJobs];
         if (allJobs.length === 0) {
             console.log('⚠️ No jobs found, keeping existing README');
             return;
