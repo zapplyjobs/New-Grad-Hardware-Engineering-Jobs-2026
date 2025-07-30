@@ -12,7 +12,7 @@ const companyPath = path.join(__dirname, 'job-fetcher/companies.json');
 // const amazonData = JSON.parse(fs.readFileSync(amazonPath, 'utf8'));
 // const metaData = JSON.parse(fs.readFileSync(MetaPath, 'utf8'));
 const scrapeAmazonJobs = require('../../jobboard/src/backend/platforms/amazon/amazonScraper');
-const googleScraper = require('../../jobboard/src/backend/platforms/google/googleScraper');
+const { googleScraper } = require('../../jobboard/src/backend/platforms/google/googleScraper');
 // Load comprehensive company database
 const companies = JSON.parse(fs.readFileSync(companyPath, 'utf8'));
 
@@ -152,6 +152,7 @@ function getCompanyEmoji(companyName) {
 }
 
 function getCompanyCareerUrl(companyName) {
+    if (!companyName) return '#';
     const company = COMPANY_BY_NAME[companyName.toLowerCase()];
     return company ? company.career_url : '#';
 }

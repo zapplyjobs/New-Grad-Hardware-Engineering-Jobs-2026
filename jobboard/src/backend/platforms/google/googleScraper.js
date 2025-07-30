@@ -339,6 +339,6 @@ async function googleScraper() {
 module.exports = { googleScraper };
 
 // Execute the script if run directly
-if (require.main === module) {
-  googleScraper().catch(console.error);
-}
+// if (require.main === module) {
+//   googleScraper().catch(console.error);
+// }
