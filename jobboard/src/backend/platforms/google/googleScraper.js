@@ -336,7 +336,7 @@ async function googleScraper() {
 }
 
 // Export the function for use in other modules
-module.exports = { googleScraper };
+module.exports = googleScraper;
 
 // Execute the script if run directly
 if (require.main === module) {
