@@ -1,6 +1,9 @@
 const fs = require('fs');
 const { generateJobId } = require('./job-fetcher/utils');
-
+const scrapeAmazonJobs = require('../../jobboard/src/backend/platforms/amazon/amazonScraper');
+const googleScraper = require('../../jobboard/src/backend/platforms/google/googleScraper');
+const scrapeMetaJobs = require('../../jobboard/src/backend/platforms/meta/metaScraper');
+const microsoftScraper = require('../../jobboard/src/backend/platforms/microsoft/microsoftScraper');
 // Load company database
 const companies = JSON.parse(fs.readFileSync('./.github/scripts/job-fetcher/companies.json', 'utf8'));
 const ALL_COMPANIES = Object.values(companies).flat();
@@ -14,8 +17,8 @@ const CAREER_APIS = {
         parser: (data) => {
             if (!Array.isArray(data.jobs)) return [];
             return data.jobs
-                .filter(job => job.title.toLowerCase().includes('engineer') || 
-                              job.title.toLowerCase().includes('developer'))
+                .filter(job => job.title.toLowerCase().includes('engineer') ||
+                    job.title.toLowerCase().includes('developer'))
                 .map(job => ({
                     job_title: job.title,
                     employer_name: 'Stripe',
@@ -35,8 +38,8 @@ const CAREER_APIS = {
         parser: (data) => {
             if (!Array.isArray(data.jobs)) return [];
             return data.jobs
-                .filter(job => job.title.toLowerCase().includes('engineer') || 
-                              job.title.toLowerCase().includes('developer'))
+                .filter(job => job.title.toLowerCase().includes('engineer') ||
+                    job.title.toLowerCase().includes('developer'))
                 .map(job => ({
                     job_title: job.title,
                     employer_name: 'Coinbase',
@@ -56,8 +59,8 @@ const CAREER_APIS = {
         parser: (data) => {
             if (!Array.isArray(data.jobs)) return [];
             return data.jobs
-                .filter(job => job.title.toLowerCase().includes('engineer') || 
-                              job.title.toLowerCase().includes('developer'))
+                .filter(job => job.title.toLowerCase().includes('engineer') ||
+                    job.title.toLowerCase().includes('developer'))
                 .map(job => ({
                     job_title: job.title,
                     employer_name: 'Airbnb',
@@ -77,8 +80,8 @@ const CAREER_APIS = {
         parser: (data) => {
             if (!Array.isArray(data.jobs)) return [];
             return data.jobs
-                .filter(job => job.title.toLowerCase().includes('engineer') || 
-                              job.title.toLowerCase().includes('developer'))
+                .filter(job => job.title.toLowerCase().includes('engineer') ||
+                    job.title.toLowerCase().includes('developer'))
                 .map(job => ({
                     job_title: job.title,
                     employer_name: 'Databricks',
@@ -98,8 +101,8 @@ const CAREER_APIS = {
         parser: (data) => {
             if (!Array.isArray(data.jobs)) return [];
             return data.jobs
-                .filter(job => job.title.toLowerCase().includes('engineer') || 
-                              job.title.toLowerCase().includes('developer'))
+                .filter(job => job.title.toLowerCase().includes('engineer') ||
+                    job.title.toLowerCase().includes('developer'))
                 .map(job => ({
                     job_title: job.title,
                     employer_name: 'Figma',
@@ -156,8 +159,8 @@ const CAREER_APIS = {
         parser: (data) => {
             if (!data.operationResult?.result?.jobs) return [];
             return data.operationResult.result.jobs
-                .filter(job => job.title.toLowerCase().includes('engineer') || 
-                              job.title.toLowerCase().includes('developer'))
+                .filter(job => job.title.toLowerCase().includes('engineer') ||
+                    job.title.toLowerCase().includes('developer'))
                 .map(job => ({
                     job_title: job.title,
                     employer_name: 'Microsoft',
@@ -177,8 +180,8 @@ const CAREER_APIS = {
         parser: (data) => {
             if (!data.jobs) return [];
             return data.jobs
-                .filter(job => job.title.toLowerCase().includes('engineer') || 
-                              job.title.toLowerCase().includes('developer'))
+                .filter(job => job.title.toLowerCase().includes('engineer') ||
+                    job.title.toLowerCase().includes('developer'))
                 .slice(0, 20)
                 .map(job => ({
                     job_title: job.title,
@@ -199,15 +202,15 @@ const CAREER_APIS = {
         pagination: true,
         parser: (data) => {
             if (!data.positions) return [];
-            
+
             // Filter for fresh jobs from past week and engineering roles
             const oneWeekAgo = Date.now() - (7 * 24 * 60 * 60 * 1000);
-            
+
             return data.positions
                 .filter(job => {
-                    const isEngineering = job.name.toLowerCase().includes('engineer') || 
-                                        job.name.toLowerCase().includes('developer') ||
-                                        job.department === 'Engineering';
+                    const isEngineering = job.name.toLowerCase().includes('engineer') ||
+                        job.name.toLowerCase().includes('developer') ||
+                        job.department === 'Engineering';
                     const isFresh = (job.t_create * 1000) > oneWeekAgo;
                     return isEngineering && isFresh;
                 })
@@ -230,8 +233,8 @@ const CAREER_APIS = {
         parser: (data) => {
             if (!data.positions) return [];
             return data.positions
-                .filter(job => job.name.toLowerCase().includes('engineer') || 
-                              job.name.toLowerCase().includes('developer'))
+                .filter(job => job.name.toLowerCase().includes('engineer') ||
+                    job.name.toLowerCase().includes('developer'))
                 .map(job => ({
                     job_title: job.name,
                     employer_name: 'Qualcomm',
@@ -251,8 +254,8 @@ const CAREER_APIS = {
         parser: (data) => {
             if (!data.positions) return [];
             return data.positions
-                .filter(job => job.name.toLowerCase().includes('engineer') || 
-                              job.name.toLowerCase().includes('developer'))
+                .filter(job => job.name.toLowerCase().includes('engineer') ||
+                    job.name.toLowerCase().includes('developer'))
                 .map(job => ({
                     job_title: job.name,
                     employer_name: 'PayPal',
@@ -274,8 +277,8 @@ const CAREER_APIS = {
             if (!Array.isArray(data)) return [];
             return data
                 .filter(job => job.categories?.commitment === 'Full-time' &&
-                              (job.text.toLowerCase().includes('engineer') || 
-                               job.text.toLowerCase().includes('developer')))
+                    (job.text.toLowerCase().includes('engineer') ||
+                        job.text.toLowerCase().includes('developer')))
                 .map(job => ({
                     job_title: job.text,
                     employer_name: 'Uber',
@@ -296,8 +299,8 @@ const CAREER_APIS = {
             if (!Array.isArray(data)) return [];
             return data
                 .filter(job => job.categories?.commitment === 'Full-time' &&
-                              (job.text.toLowerCase().includes('engineer') || 
-                               job.text.toLowerCase().includes('developer')))
+                    (job.text.toLowerCase().includes('engineer') ||
+                        job.text.toLowerCase().includes('developer')))
                 .map(job => ({
                     job_title: job.text,
                     employer_name: 'Discord',
@@ -318,8 +321,8 @@ const CAREER_APIS = {
             if (!Array.isArray(data)) return [];
             return data
                 .filter(job => job.categories?.commitment === 'Full-time' &&
-                              (job.text.toLowerCase().includes('engineer') || 
-                               job.text.toLowerCase().includes('developer')))
+                    (job.text.toLowerCase().includes('engineer') ||
+                        job.text.toLowerCase().includes('developer')))
                 .map(job => ({
                     job_title: job.text,
                     employer_name: 'Lyft',
@@ -340,8 +343,8 @@ const CAREER_APIS = {
             if (!Array.isArray(data)) return [];
             return data
                 .filter(job => job.categories?.commitment === 'Full-time' &&
-                              (job.text.toLowerCase().includes('engineer') || 
-                               job.text.toLowerCase().includes('developer')))
+                    (job.text.toLowerCase().includes('engineer') ||
+                        job.text.toLowerCase().includes('developer')))
                 .map(job => ({
                     job_title: job.text,
                     employer_name: 'Slack',
@@ -371,7 +374,7 @@ async function fetchCompanyJobs(companyName) {
 
     try {
         console.log(`🔍 Fetching jobs from ${companyName}...`);
-        
+
         const options = {
             method: config.method,
             headers: {
@@ -386,7 +389,7 @@ async function fetchCompanyJobs(companyName) {
         }
 
         const response = await fetch(config.api, options);
-        
+
         if (!response.ok) {
             console.log(`❌ ${companyName} API returned ${response.status}`);
             return [];
@@ -394,7 +397,7 @@ async function fetchCompanyJobs(companyName) {
 
         const data = await response.json();
         const jobs = config.parser(data);
-        
+
         console.log(`✅ Found ${jobs.length} jobs at ${companyName}`);
         return jobs;
 
@@ -410,21 +413,21 @@ async function fetchCompanyJobs(companyName) {
 async function fetchSimplifyJobsData() {
     try {
         console.log('📡 Fetching data from public sources...');
-        
+
         const newGradUrl = 'https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json';
         const response = await fetch(newGradUrl);
-        
+
         if (!response.ok) {
             console.log(`⚠️ Could not fetch external data: ${response.status}`);
             return [];
         }
-        
+
         const data = await response.json();
-        
+
         const activeJobs = data
-            .filter(job => job.active && job.url && 
-                          (job.title.toLowerCase().includes('engineer') || 
-                           job.title.toLowerCase().includes('developer')))
+            .filter(job => job.active && job.url &&
+                (job.title.toLowerCase().includes('engineer') ||
+                    job.title.toLowerCase().includes('developer')))
             .map(job => ({
                 job_title: job.title,
                 employer_name: job.company_name,
@@ -435,10 +438,10 @@ async function fetchSimplifyJobsData() {
                 job_posted_at_datetime_utc: new Date(job.date_posted * 1000).toISOString(),
                 job_employment_type: 'FULLTIME'
             }));
-            
+
         console.log(`📋 Found ${activeJobs.length} active positions from external sources`);
         return activeJobs;
-        
+
     } catch (error) {
         console.error(`❌ Error fetching external data:`, error.message);
         return [];
@@ -448,42 +451,49 @@ async function fetchSimplifyJobsData() {
 // Fetch jobs from all companies with real career APIs
 async function fetchAllRealJobs() {
     console.log('🚀 Starting REAL career page scraping...');
-    
+
     const allJobs = [];
+    const [amazonJobs, metaJobs, microsoftJobs, googleJobs] = await Promise.all([
+        scrapeAmazonJobs(),
+        scrapeMetaJobs(),
+        microsoftScraper(),
+        googleScraper(),
+    ]);
+    allJobs.push(...amazonJobs, ...metaJobs, ...microsoftJobs, ...googleJobs);
     const companiesWithAPIs = Object.keys(CAREER_APIS);
-    
+
     // Fetch real jobs from companies with APIs
     for (const company of companiesWithAPIs) {
         const jobs = await fetchCompanyJobs(company);
         allJobs.push(...jobs);
-        
+
         // Be respectful with rate limiting
         await delay(2000);
     }
-    
+
     // Fetch jobs from external sources
     const externalJobs = await fetchSimplifyJobsData();
     allJobs.push(...externalJobs);
-    
+
     // Remove duplicates using standardized job ID generation
     const uniqueJobs = allJobs.filter((job, index, self) => {
         const jobId = generateJobId(job);
         return index === self.findIndex(j => generateJobId(j) === jobId);
     });
-    
+
     // Sort by posting date (descending - latest first)
     uniqueJobs.sort((a, b) => {
         const dateA = new Date(a.job_posted_at_datetime_utc);
         const dateB = new Date(b.job_posted_at_datetime_utc);
         return dateB - dateA;
     });
-    
+
     console.log(`📊 Total jobs collected: ${allJobs.length}`);
     console.log(`🧹 After deduplication: ${uniqueJobs.length}`);
     console.log(`🏢 Companies with real API data: ${companiesWithAPIs.length}`);
     console.log(`📡 External job sources: ${externalJobs.length}`);
     console.log(`✅ REAL JOBS ONLY - No fake data!`);
-    
+
     return uniqueJobs;
 }
 

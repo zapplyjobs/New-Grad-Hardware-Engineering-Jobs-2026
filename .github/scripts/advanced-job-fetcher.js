@@ -1,20 +1,9 @@
 const fs = require('fs');
 const { fetchAllRealJobs } = require('./real-career-scraper');
 const path = require('path');
-// const microsoftPath = path.join(__dirname, '../../jobboard/src/backend/platforms/microsoft/microsoftScraping.json');
-// const googlePath = path.join(__dirname, '../../jobboard/src/backend/platforms/google/googlescrapingdata.json');
-// const amazonPath = path.join(__dirname, '../../jobboard/src/backend/platforms/amazon/amazonjobs.json');
-// const MetaPath = path.join(__dirname, '../../jobboard/src/backend/platforms/meta/metajobs.json');
 const companyPath = path.join(__dirname, 'job-fetcher/companies.json');
 
-// const microsoftData = JSON.parse(fs.readFileSync(microsoftPath, 'utf8'));
-// const googleData = JSON.parse(fs.readFileSync(googlePath, 'utf8'));
-// const amazonData = JSON.parse(fs.readFileSync(amazonPath, 'utf8'));
-// const metaData = JSON.parse(fs.readFileSync(MetaPath, 'utf8'));
-const scrapeAmazonJobs = require('../../jobboard/src/backend/platforms/amazon/amazonScraper');
-const { googleScraper } = require('../../jobboard/src/backend/platforms/google/googleScraper');
-const scrapeMetaJobs = require('../../jobboard/src/backend/platforms/meta/metaScraper');
-const { microsoftScraper } = require('../../jobboard/src/backend/platforms/microsoft/microsoftScraper');
+
 // Load comprehensive company database
 const companies = JSON.parse(fs.readFileSync(companyPath, 'utf8'));
 
@@ -920,16 +909,7 @@ function writeNewJobsJson(currentJobs) {
 async function updateReadme() {
     try {
         console.log('🚀 Starting Zapply job board update...');
-
-        // Fetch REAL jobs from actual career pages
-        const [amazonJobs, metaJobs, microsoftJobs, googleJobs, otherJobs] = await Promise.all([
-            scrapeAmazonJobs(),
-            scrapeMetaJobs(),
-            microsoftScraper(),
-            googleScraper(),
-            fetchAllRealJobs()
-        ]);
-        const allJobs = [...amazonJobs, ...metaJobs, ...microsoftJobs, ...googleJobs, ...otherJobs];
+        const allJobs = await fetchAllRealJobs();
         if (allJobs.length === 0) {
             console.log('⚠️ No jobs found, keeping existing README');
             return;

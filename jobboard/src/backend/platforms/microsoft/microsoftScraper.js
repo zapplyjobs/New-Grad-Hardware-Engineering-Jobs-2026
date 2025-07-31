@@ -492,4 +492,4 @@ if (require.main === module) {
   }).catch(console.error);
 }
 
-module.exports = { microsoftScraper };
+module.exports = microsoftScraper;
