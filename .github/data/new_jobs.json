@@ -1,13 +1,35 @@
 [
   {
-    "job_title": "Medical Devices, Verification and Validation Engineer",
-    "employer_name": "Meta",
-    "job_city": "Burlingame",
+    "job_title": "Senior Machine Learning Engineering (GenAI), Trust",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
     "job_state": "CA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/3777982059005093",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-medical-devices-verification-and-validation-engineer-burlingame"
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/7122010",
+    "job_posted_at_datetime_utc": "2025-07-31T22:31:52.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-senior-machine-learning-engineering-genai-trust-united-states"
+  },
+  {
+    "job_title": "Sr. Strategy & Execution Manager, Field Engineering",
+    "employer_name": "Databricks",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8097110002",
+    "job_posted_at_datetime_utc": "2025-07-31T22:18:45.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-sr-strategy-execution-manager-field-engineering-united-states"
+  },
+  {
+    "job_title": " Site Reliability Engineer - Platform",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/6367696?gh_jid=6367696",
+    "job_posted_at_datetime_utc": "2025-07-31T22:10:39.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-site-reliability-engineer-platform-remote-usa"
   }
 ]
