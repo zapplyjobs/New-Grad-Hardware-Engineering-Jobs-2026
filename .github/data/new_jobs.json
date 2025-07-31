@@ -1,13 +1,101 @@
 [
   {
-    "job_title": "Staff Software Engineer, Data Warehouse Compute",
-    "employer_name": "Airbnb",
-    "job_city": "Remote USA",
+    "job_title": "Production Engineering",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Production Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/7868993783158276",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-production-engineering-multiple"
+  },
+  {
+    "job_title": "Critical Facility Engineer",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1435494154152569",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-critical-facility-engineer-multiple"
+  },
+  {
+    "job_title": "Lead Building Engineer",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/697140496580988",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-lead-building-engineer-multiple"
+  },
+  {
+    "job_title": "Software Engineering Manager, Product",
+    "employer_name": "Meta",
+    "job_city": "Los Angeles",
+    "job_state": "CA +10 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1901003240752810",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineering-manager-product-los-angeles"
+  },
+  {
+    "job_title": "Engineering Manager (Institutional - Prime, Trade Interfaces)",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - Canada",
     "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/7094964",
-    "job_posted_at_datetime_utc": "2025-07-31T16:19:02.000Z",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7124541?gh_jid=7124541",
+    "job_posted_at_datetime_utc": "2025-07-31T17:19:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "airbnb-staff-software-engineer-data-warehouse-compute-remote-usa"
+    "id": "coinbase-engineering-manager-institutional-prime-trade-interfaces-remote-canada"
+  },
+  {
+    "job_title": "Sr. Solutions Engineer - Digital Native Business ",
+    "employer_name": "Databricks",
+    "job_city": "Northeast - United States",
+    "job_state": "CA",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8100385002",
+    "job_posted_at_datetime_utc": "2025-07-31T17:02:15.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-sr-solutions-engineer-digital-native-business-northeast-united-states"
+  },
+  {
+    "job_title": "Sr. Solutions Engineer - Digital Native Business",
+    "employer_name": "Databricks",
+    "job_city": "Central - United States",
+    "job_state": "CA",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8100380002",
+    "job_posted_at_datetime_utc": "2025-07-31T17:01:23.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-sr-solutions-engineer-digital-native-business-central-united-states"
+  },
+  {
+    "job_title": "Sr. Solutions Engineer - Digital Native Business ",
+    "employer_name": "Databricks",
+    "job_city": "West Coast - United States",
+    "job_state": "CA",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8100376002",
+    "job_posted_at_datetime_utc": "2025-07-31T17:00:42.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-sr-solutions-engineer-digital-native-business-west-coast-united-states"
+  },
+  {
+    "job_title": "Sr. Solutions Engineer",
+    "employer_name": "Databricks",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8090977002",
+    "job_posted_at_datetime_utc": "2025-07-31T16:59:57.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-sr-solutions-engineer-united-states"
   }
 ]
