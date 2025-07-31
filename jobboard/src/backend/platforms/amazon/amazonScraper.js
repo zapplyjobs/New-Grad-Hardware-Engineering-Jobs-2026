@@ -60,6 +60,7 @@ async function scrapeAmazonJobs() {
         try {
             await page.goto(` https://amazon.jobs/en-gb/search?offset=${offset}&result_limit=10&sort=relevant&country%5B%5D=USA&city%5B%5D=Bellevue&distanceType=Mi&radius=24km&industry_experience=less_than_1_year&industry_experience=one_to_three_years&latitude=&longitude=&loc_group_id=&loc_query=&base_query=manager&city=&country=&region=&county=&query_options=&`, {
                 waitUntil: 'networkidle2',
+                timeout: 10000
             });
 
             const jobs = await page.evaluate(() => {
