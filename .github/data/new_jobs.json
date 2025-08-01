@@ -1,254 +1,374 @@
 [
   {
-    "job_title": "BIE II, DEX Speed",
+    "job_title": "Data Center Engineering Operations Technician, Data Center Ops",
     "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3024330/bie-ii-dex-speed",
-    "job_posted_at": "2025-07-02T00:00:00.000Z",
-    "id": "amazon-bie-ii-dex-speed-bellevue"
-  },
-  {
-    "job_title": "Area Manager II - Bethel, PA",
-    "employer_name": "Amazon",
-    "job_city": "Bethel",
+    "job_city": "Fairless Hills",
     "job_state": "PA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2907739/area-manager-ii-bethel-pa",
-    "job_posted_at": "2025-02-20T00:00:00.000Z",
-    "id": "amazon-area-manager-ii-bethel-pa-bethel"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3002991/data-center-engineering-operations-technician-data-center-ops",
+    "job_posted_at": "2025-06-06T00:00:00.000Z",
+    "id": "amazon-data-center-engineering-operations-technician-data-center-ops-fairless-hills"
   },
   {
-    "job_title": "Business Intel Engineer, One Medical Finance",
+    "job_title": "IT Support Eng I, (OTS)",
+    "employer_name": "Amazon",
+    "job_city": "Louisville",
+    "job_state": "TN",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3019885/it-support-eng-i-ots",
+    "job_posted_at": "2025-06-26T00:00:00.000Z",
+    "id": "amazon-it-support-eng-i-ots-louisville"
+  },
+  {
+    "job_title": "Engineering Operations Technician, Data Center Engg Ops",
+    "employer_name": "Amazon",
+    "job_city": "Berwick",
+    "job_state": "PA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3008058/engineering-operations-technician-data-center-engg-ops",
+    "job_posted_at": "2025-06-12T00:00:00.000Z",
+    "id": "amazon-engineering-operations-technician-data-center-engg-ops-berwick"
+  },
+  {
+    "job_title": "Delivery Consultant - Security, Risk, and Compliance, AWSI Professional Services",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2923899/delivery-consultant-security-risk-and-compliance-awsi-professional-services",
+    "job_posted_at": "2025-03-11T00:00:00.000Z",
+    "id": "amazon-delivery-consultant-security-risk-and-compliance-awsi-professional-services-arlington"
+  },
+  {
+    "job_title": "IT Support Engineer II, Kuiper IT Services",
+    "employer_name": "Amazon",
+    "job_city": "Everett",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2981760/it-support-engineer-ii-kuiper-it-services",
+    "job_posted_at": "2025-05-13T00:00:00.000Z",
+    "id": "amazon-it-support-engineer-ii-kuiper-it-services-everett"
+  },
+  {
+    "job_title": "IT Support Engineer I, Kuiper IT Services",
+    "employer_name": "Amazon",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3029623/it-support-engineer-i-kuiper-it-services",
+    "job_posted_at": "2025-07-09T00:00:00.000Z",
+    "id": "amazon-it-support-engineer-i-kuiper-it-services-kirkland"
+  },
+  {
+    "job_title": "Applied Scientist, Systems Modeling, AWS Center for Quantum Computing",
+    "employer_name": "Amazon",
+    "job_city": "Pasadena",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3009838/applied-scientist-systems-modeling-aws-center-for-quantum-computing",
+    "job_posted_at": "2025-06-16T00:00:00.000Z",
+    "id": "amazon-applied-scientist-systems-modeling-aws-center-for-quantum-computing-pasadena"
+  },
+  {
+    "job_title": "Quantum Applied Scientist, Simulation Methods and Tools, AWS Center for Quantum Computing",
+    "employer_name": "Amazon",
+    "job_city": "Pasadena",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2999024/quantum-applied-scientist-simulation-methods-and-tools-aws-center-for-quantum-computing",
+    "job_posted_at": "2025-06-03T00:00:00.000Z",
+    "id": "amazon-quantum-applied-scientist-simulation-methods-and-tools-aws-center-for-quantum-computing-pasadena"
+  },
+  {
+    "job_title": "Quantum Research Scientist, Quantum error correction team, AWS Center for Quantum Computing",
+    "employer_name": "Amazon",
+    "job_city": "Pasadena",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2972383/quantum-research-scientist-quantum-error-correction-team-aws-center-for-quantum-computing",
+    "job_posted_at": "2025-05-02T00:00:00.000Z",
+    "id": "amazon-quantum-research-scientist-quantum-error-correction-team-aws-center-for-quantum-computing-pasadena"
+  },
+  {
+    "job_title": "Research Scientist, Design and Simulation",
+    "employer_name": "Amazon",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2927406/research-scientist-design-and-simulation",
+    "job_posted_at": "2025-03-13T00:00:00.000Z",
+    "id": "amazon-research-scientist-design-and-simulation-san-francisco"
+  },
+  {
+    "job_title": "Area Manager (Military Veterans Encouraged to Apply)",
+    "employer_name": "Amazon",
+    "job_city": "Country Club Hills",
+    "job_state": "IL",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050263/area-manager-military-veterans-encouraged-to-apply",
+    "job_posted_at": "2025-08-01T00:00:00.000Z",
+    "id": "amazon-area-manager-military-veterans-encouraged-to-apply-country-club-hills"
+  },
+  {
+    "job_title": "Data Center Engineering Operations Technician",
+    "employer_name": "Amazon",
+    "job_city": "Garland",
+    "job_state": "TX",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3044387/data-center-engineering-operations-technician",
+    "job_posted_at": "2025-07-28T00:00:00.000Z",
+    "id": "amazon-data-center-engineering-operations-technician-garland"
+  },
+  {
+    "job_title": "Business Analyst, Advertising, Support Products & Services",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3048372/business-intel-engineer-one-medical-finance",
-    "job_posted_at": "2025-07-30T00:00:00.000Z",
-    "id": "amazon-business-intel-engineer-one-medical-finance-seattle"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3013927/business-analyst-advertising-support-products-services",
+    "job_posted_at": "2025-06-20T00:00:00.000Z",
+    "id": "amazon-business-analyst-advertising-support-products-services-seattle"
   },
   {
-    "job_title": "Business Intel Engineer II, US Transportation Speed Improvement Team",
+    "job_title": "Business Intelligence Engineer, Defensive Security, Vulnerability Management",
     "employer_name": "Amazon",
-    "job_city": "Bellevue",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3041555/business-intelligence-engineer-defensive-security-vulnerability-management",
+    "job_posted_at": "2025-07-23T00:00:00.000Z",
+    "id": "amazon-business-intelligence-engineer-defensive-security-vulnerability-management-austin"
+  },
+  {
+    "job_title": "Executive Assistant, Last Mile Launch & Automation",
+    "employer_name": "Amazon",
+    "job_city": "Nashville",
+    "job_state": "TN",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050210/executive-assistant-last-mile-launch-automation",
+    "job_posted_at": "2025-08-01T00:00:00.000Z",
+    "id": "amazon-executive-assistant-last-mile-launch-automation-nashville"
+  },
+  {
+    "job_title": "Onsite Medical Representative (Military Veterans Encouraged to Apply)",
+    "employer_name": "Amazon",
+    "job_city": "Stockton",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3027854/onsite-medical-representative-military-veterans-encouraged-to-apply",
+    "job_posted_at": "2025-07-08T00:00:00.000Z",
+    "id": "amazon-onsite-medical-representative-military-veterans-encouraged-to-apply-stockton"
+  },
+  {
+    "job_title": "Business Operations Manager, Business Operations and Advisory",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3034451/business-operations-manager-business-operations-and-advisory",
+    "job_posted_at": "2025-07-15T00:00:00.000Z",
+    "id": "amazon-business-operations-manager-business-operations-and-advisory-arlington"
+  },
+  {
+    "job_title": "Executive Assistant, Region Flexibility, eCommerce Foundation",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
     "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3021998/business-intel-engineer-ii-us-transportation-speed-improvement-team",
-    "job_posted_at": "2025-06-30T00:00:00.000Z",
-    "id": "amazon-business-intel-engineer-ii-us-transportation-speed-improvement-team-bellevue"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3034501/executive-assistant-region-flexibility-ecommerce-foundation",
+    "job_posted_at": "2025-07-15T00:00:00.000Z",
+    "id": "amazon-executive-assistant-region-flexibility-ecommerce-foundation-seattle"
   },
   {
-    "job_title": "Team Manager, AGI-DS, AGI DS",
+    "job_title": "Amazon Dedicated Cloud Engineer, Kubernetes/Serverless",
     "employer_name": "Amazon",
-    "job_city": "Boston",
-    "job_state": "MA",
+    "job_city": "Denver",
+    "job_state": "CO",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3003306/team-manager-agi-ds-agi-ds",
-    "job_posted_at": "2025-06-08T00:00:00.000Z",
-    "id": "amazon-team-manager-agi-ds-agi-ds-boston"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3020830/amazon-dedicated-cloud-engineer-kubernetes-serverless",
+    "job_posted_at": "2025-08-01T17:40:58.970Z",
+    "id": "amazon-amazon-dedicated-cloud-engineer-kubernetes-serverless-denver"
   },
   {
-    "job_title": "App Engineer - TM1, Ops Finance - IPAT",
+    "job_title": "Amazon Dedicated Cloud Engineer, EC2, Edge, Frontier Outposts, Storage Gateway, Data Sync, AWS Backup",
     "employer_name": "Amazon",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_description": "Bachelor's degree in Finance, Accounting, Engineering, Mathematics or other technical discipline 7+ years of relevant IBM Cognos TM1/Planning Analytics experience including system configuration, model building and developing reports or dashboards with TM1 TM1 technical skills: Rules and TI coding, security setup, report development, ongoing maintenance of existing models TM1 soft skills: gathering requirements for new projects, providing user training Experience with writing SQL queries and stored procedures Experience with data modelling, data warehousing, and building ETL pipelines Corporate finance experience exhibiting knowledge of financial planning, budgeting and forecasting functions and processes Proficiency with MS Excel Bachelor's degree in Finance, Accounting, Engineering, Mathematics or other technical discipline",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2958624/app-engineer-tm1-ops-finance-ipat",
-    "job_posted_at": "2025-04-17T00:00:00.000Z",
-    "id": "amazon-app-engineer-tm1-ops-finance-ipat-dallas"
+    "job_city": "Denver",
+    "job_state": "CO",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3020837/amazon-dedicated-cloud-engineer-ec2-edge-frontier-outposts-storage-gateway-data-sync-aws-backup",
+    "job_posted_at": "2025-08-01T17:40:58.970Z",
+    "id": "amazon-amazon-dedicated-cloud-engineer-ec2-edge-frontier-outposts-storage-gateway-data-sync-aws-backup-denver"
   },
   {
-    "job_title": "Business Intel Engineer II - AMZ24205.1",
+    "job_title": "Area Manager II",
+    "employer_name": "Amazon",
+    "job_city": "York",
+    "job_state": "PA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3024117/area-manager-ii",
+    "job_posted_at": "2025-08-01T17:40:58.970Z",
+    "id": "amazon-area-manager-ii-york"
+  },
+  {
+    "job_title": "Area Manager II",
+    "employer_name": "Amazon",
+    "job_city": "Tremont",
+    "job_state": "PA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3038130/area-manager-ii",
+    "job_posted_at": "2025-08-01T17:40:58.970Z",
+    "id": "amazon-area-manager-ii-tremont"
+  },
+  {
+    "job_title": "Onsite Medical Representative",
+    "employer_name": "Amazon",
+    "job_city": "Imperial",
+    "job_state": "PA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3031212/onsite-medical-representative",
+    "job_posted_at": "2025-08-01T17:40:58.970Z",
+    "id": "amazon-onsite-medical-representative-imperial"
+  },
+  {
+    "job_title": "Area Manager II",
+    "employer_name": "Amazon",
+    "job_city": "Breinigsville",
+    "job_state": "PA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3040552/area-manager-ii",
+    "job_posted_at": "2025-08-01T17:40:58.970Z",
+    "id": "amazon-area-manager-ii-breinigsville"
+  },
+  {
+    "job_title": "Colocation Development Mgr, Data Center Supply Solutions",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2980994/colocation-development-mgr-data-center-supply-solutions",
+    "job_posted_at": "2025-08-01T17:40:58.970Z",
+    "id": "amazon-colocation-development-mgr-data-center-supply-solutions-seattle"
+  },
+  {
+    "job_title": "Area Manager II - Hazleton, PA",
+    "employer_name": "Amazon",
+    "job_city": "Hazleton",
+    "job_state": "PA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2938796/area-manager-ii-hazleton-pa",
+    "job_posted_at": "2025-08-01T17:40:58.970Z",
+    "id": "amazon-area-manager-ii-hazleton-pa-hazleton"
+  },
+  {
+    "job_title": "Applied Scientist",
+    "employer_name": "Amazon",
+    "job_city": "Newark",
+    "job_state": "NJ",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3032060/applied-scientist",
+    "job_posted_at": "2025-08-01T17:40:58.970Z",
+    "id": "amazon-applied-scientist-newark"
+  },
+  {
+    "job_title": "Data & Reporting Analyst , Relay Operations Center Tech & Ops integration",
     "employer_name": "Amazon",
     "job_city": "Atlanta",
     "job_state": "GA",
-    "job_description": "Master's degree or foreign equivalent in Computer Science, Engineering, Mathematics, Statistics, Economics, or a related field and one year of experience in the job offered, or as a Data Engineer, Data Miner, or a related occupation. Employer will accept a Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, Statistics, Economics, or a related field and five years of experience in the job offered or a related occupation as equivalent to the Master's degree and one year of experience. Must have one year of experience in the following skill(s): using SQL, ETL or Oracle; processing large, multi-dimensional datasets from multiple sources; performing statistical analysis; and developing automated reporting.",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3045393/business-intel-engineer-ii-amz24205-1",
-    "job_posted_at": "2025-07-28T00:00:00.000Z",
-    "id": "amazon-business-intel-engineer-ii-amz24205-1-atlanta"
-  },
-  {
-    "job_title": "Real Estate Portfolio Manager, Renewals, Data Center Supply Solutions",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3009482/real-estate-portfolio-manager-renewals-data-center-supply-solutions",
-    "job_posted_at": "2025-06-16T00:00:00.000Z",
-    "id": "amazon-real-estate-portfolio-manager-renewals-data-center-supply-solutions-austin"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2940319/data-reporting-analyst-relay-operations-center-tech-ops-integration",
+    "job_posted_at": "2025-08-01T17:40:58.970Z",
+    "id": "amazon-data-reporting-analyst-relay-operations-center-tech-ops-integration-atlanta"
   },
   {
-    "job_title": "Engineering Ops Technician, DCC Communities",
+    "job_title": "Transportation Analyst, ATS Fill Rate",
     "employer_name": "Amazon",
-    "job_city": "MS",
-    "job_state": "USA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050089/engineering-ops-technician-dcc-communities",
-    "job_posted_at": "2025-08-01T00:00:00.000Z",
-    "id": "amazon-engineering-ops-technician-dcc-communities-ms"
-  },
-  {
-    "job_title": "Product Marketing Manager, North America Stores Marketing, NASM COOP",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3011161/product-marketing-manager-north-america-stores-marketing-nasm-coop",
-    "job_posted_at": "2025-08-01T16:28:46.356Z",
-    "id": "amazon-product-marketing-manager-north-america-stores-marketing-nasm-coop-new-york"
-  },
-  {
-    "job_title": "Software Development Engineer, Amazon Fulfillment Technology - Outbound Flow",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3007912/software-development-engineer-amazon-fulfillment-technology-outbound-flow",
-    "job_posted_at": "2025-08-01T16:28:46.356Z",
-    "id": "amazon-software-development-engineer-amazon-fulfillment-technology-outbound-flow-bellevue"
-  },
-  {
-    "job_title": "2026 Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050077/2026-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting",
-    "job_posted_at": "2025-08-01T16:28:46.356Z",
-    "id": "amazon-2026-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting-seattle"
-  },
-  {
-    "job_title": "Executive Assistant, AWS Support",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050069/executive-assistant-aws-support",
-    "job_posted_at": "2025-08-01T16:28:46.356Z",
-    "id": "amazon-executive-assistant-aws-support-bellevue"
-  },
-  {
-    "job_title": "SDEII, SIVI",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050075/sdeii-sivi",
-    "job_posted_at": "2025-08-01T16:28:46.356Z",
-    "id": "amazon-sdeii-sivi-seattle"
-  },
-  {
-    "job_title": "2026 Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050073/2026-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting",
-    "job_posted_at": "2025-08-01T16:28:46.356Z",
-    "id": "amazon-2026-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting-seattle"
-  },
-  {
-    "job_title": "Program Manager II",
-    "employer_name": "Amazon",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050087/program-manager-ii",
-    "job_posted_at": "2025-08-01T16:28:46.356Z",
-    "id": "amazon-program-manager-ii-san-diego"
-  },
-  {
-    "job_title": "Manufacturing Engineer, Hardware Engineering - Manufacturing",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050040/manufacturing-engineer-hardware-engineering-manufacturing",
-    "job_posted_at": "2025-08-01T16:28:46.356Z",
-    "id": "amazon-manufacturing-engineer-hardware-engineering-manufacturing-austin"
-  },
-  {
-    "job_title": "AWS Account Manager, Enterprise Greenfield, Finserv",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050048/aws-account-manager-enterprise-greenfield-finserv",
-    "job_posted_at": "2025-08-01T16:28:46.356Z",
-    "id": "amazon-aws-account-manager-enterprise-greenfield-finserv-austin"
-  },
-  {
-    "job_title": "SDE II, KNFE",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050051/sde-ii-knfe",
-    "job_posted_at": "2025-08-01T16:28:46.356Z",
-    "id": "amazon-sde-ii-knfe-seattle"
-  },
-  {
-    "job_title": "Data Center Engineering Operations Technician, DCC Communities",
-    "employer_name": "Amazon",
-    "job_city": "Chantilly",
+    "job_city": "Arlington",
     "job_state": "VA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050043/data-center-engineering-operations-technician-dcc-communities",
-    "job_posted_at": "2025-08-01T16:28:46.356Z",
-    "id": "amazon-data-center-engineering-operations-technician-dcc-communities-chantilly"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2987565/transportation-analyst-ats-fill-rate",
+    "job_posted_at": "2025-08-01T17:40:58.970Z",
+    "id": "amazon-transportation-analyst-ats-fill-rate-arlington"
   },
   {
-    "job_title": "Amazon Dedicated Cloud Engineer, US ADC Compute Operations",
+    "job_title": "Propulsion Mechanical Engineer, Kuiper Guidance Navigation and Control & Propulsion",
     "employer_name": "Amazon",
-    "job_city": "Jessup",
-    "job_state": "MD",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050034/amazon-dedicated-cloud-engineer-us-adc-compute-operations",
-    "job_posted_at": "2025-08-01T15:28:46.356Z",
-    "id": "amazon-amazon-dedicated-cloud-engineer-us-adc-compute-operations-jessup"
-  },
-  {
-    "job_title": "Area Manager",
-    "employer_name": "Amazon",
-    "job_city": "Davenport",
-    "job_state": "IA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050044/area-manager",
-    "job_posted_at": "2025-08-01T15:28:46.356Z",
-    "id": "amazon-area-manager-davenport"
-  },
-  {
-    "job_title": "Research Scientist, Embodied AI (PhD)",
-    "employer_name": "Meta",
     "job_city": "Redmond",
-    "job_state": "WA +2 locations",
-    "job_description": "AI Research +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1267015544318703",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-embodied-ai-phd-redmond"
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050198/propulsion-mechanical-engineer-kuiper-guidance-navigation-and-control-propulsion",
+    "job_posted_at": "2025-08-01T17:40:58.970Z",
+    "id": "amazon-propulsion-mechanical-engineer-kuiper-guidance-navigation-and-control-propulsion-redmond"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Engineering Analyst",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Engineering Analyst, AdSpam Mobile",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/136919292045075142-engineering-analyst-adspam-mobile?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=6",
-    "id": "google-engineering-analyst-austin"
+    "job_title": "Software Development Engineer - Kuiper Network Services",
+    "employer_name": "Amazon",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050205/software-development-engineer-kuiper-network-services",
+    "job_posted_at": "2025-08-01T17:40:58.970Z",
+    "id": "amazon-software-development-engineer-kuiper-network-services-sunnyvale"
   },
   {
-    "job_title": "Software Engineer I - 3rd Eye",
-    "employer_name": "Terex",
+    "job_title": "Commissioning Engineer, Commissioning Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050202/commissioning-engineer-commissioning-engineering",
+    "job_posted_at": "2025-08-01T17:40:58.970Z",
+    "id": "amazon-commissioning-engineer-commissioning-engineering-herndon"
+  },
+  {
+    "job_title": "Pre-Construction Manager, AMER West Data Center Construction",
+    "employer_name": "Amazon",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050212/pre-construction-manager-amer-west-data-center-construction",
+    "job_posted_at": "2025-08-01T17:40:58.970Z",
+    "id": "amazon-pre-construction-manager-amer-west-data-center-construction-dallas"
+  },
+  {
+    "job_title": "Delivery Consultant - Solutions ABAP Developer, Professional Services, SAP",
+    "employer_name": "Amazon",
     "job_city": "Austin",
     "job_state": "TX",
-    "job_description": "Join Terex in this exciting opportunity.",
-    "job_apply_link": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-TX-Austin/Software-Engineer-I--3rd-Eye_REQ-9369",
-    "job_posted_at_datetime_utc": "2025-08-01T17:14:59.000Z",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2930990/delivery-consultant-solutions-abap-developer-professional-services-sap",
+    "job_posted_at": "2025-08-01T17:40:58.970Z",
+    "id": "amazon-delivery-consultant-solutions-abap-developer-professional-services-sap-austin"
+  },
+  {
+    "job_title": "Transportation Planning Analyst, Amazon Transportation Services",
+    "employer_name": "Amazon",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3042125/transportation-planning-analyst-amazon-transportation-services",
+    "job_posted_at": "2025-08-01T17:40:58.970Z",
+    "id": "amazon-transportation-planning-analyst-amazon-transportation-services-atlanta"
+  },
+  {
+    "job_title": "Backend Engineer, Privy",
+    "employer_name": "Stripe",
+    "job_city": "NYC -privy",
+    "job_state": "US Remote",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7088619",
+    "job_posted_at_datetime_utc": "2025-08-01T18:31:02.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "terex-software-engineer-i-3rd-eye-austin"
+    "id": "stripe-backend-engineer-privy-nyc-privy"
+  },
+  {
+    "job_title": "Staff Machine Learning Engineer, Payments",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/7121624",
+    "job_posted_at_datetime_utc": "2025-08-01T18:00:15.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-staff-machine-learning-engineer-payments-united-states"
   }
 ]
