@@ -58,7 +58,7 @@ async function scrapeAmazonJobs() {
     for (let offset = 0; offset < maxPages * 10; offset += 10) {
         console.log(`📄 Scraping Amazon page ${offset / 10 + 1}...`);
         try {
-            `https://amazon.jobs/en-gb/search?offset=${offset}&result_limit=10&sort=relevant&country%5B%5D=USA&distanceType=Mi&radius=24km&industry_experience=one_to_three_years&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&`, {
+            await page.goto(`https://amazon.jobs/en-gb/search?offset=${offset}&result_limit=10&sort=relevant&country%5B%5D=USA&distanceType=Mi&radius=24km&industry_experience=one_to_three_years&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&`, {
                 waitUntil: 'networkidle2',
                 timeout: 10000
             });
