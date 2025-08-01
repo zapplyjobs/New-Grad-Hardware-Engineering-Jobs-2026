@@ -1,193 +1,304 @@
 [
   {
-    "job_title": "Area Manager 2026 – KS, MO, OK (Recent and Upcoming Graduates)",
+    "job_title": "Energy & Sustainability Program Manager, Global Energy, Sustainability and Automation",
     "employer_name": "Amazon",
-    "job_city": "Blue Springs",
-    "job_state": "MO",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3048886/area-manager-2026-ks-mo-ok-recent-and-upcoming-graduates",
-    "job_posted_at": "2025-07-31T00:00:00.000Z",
-    "id": "amazon-area-manager-2026-ks-mo-ok-recent-and-upcoming-graduates-blue-springs"
-  },
-  {
-    "job_title": "Insights Program Manager, Alexa Preview",
-    "employer_name": "Amazon",
-    "job_city": "Herndon",
+    "job_city": "Arlington",
     "job_state": "VA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3034684/insights-program-manager-alexa-preview",
-    "job_posted_at": "2025-07-15T00:00:00.000Z",
-    "id": "amazon-insights-program-manager-alexa-preview-herndon"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2883339/energy-sustainability-program-manager-global-energy-sustainability-and-automation",
+    "job_posted_at": "2025-01-27T00:00:00.000Z",
+    "id": "amazon-energy-sustainability-program-manager-global-energy-sustainability-and-automation-arlington"
   },
   {
-    "job_title": "Engagement Program Manager II, Alexa Devices",
-    "employer_name": "Amazon",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3001226/engagement-program-manager-ii-alexa-devices",
-    "job_posted_at": "2025-06-05T00:00:00.000Z",
-    "id": "amazon-engagement-program-manager-ii-alexa-devices-herndon"
-  },
-  {
-    "job_title": "Investigation Specialist Sr., Executive Escalations",
+    "job_title": "Software Development Engineer, Amazon Aurora DSQL",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3034895/investigation-specialist-sr-executive-escalations",
-    "job_posted_at": "2025-07-15T00:00:00.000Z",
-    "id": "amazon-investigation-specialist-sr-executive-escalations-seattle"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3041014/software-development-engineer-amazon-aurora-dsql",
+    "job_posted_at": "2025-07-22T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-amazon-aurora-dsql-seattle"
   },
   {
-    "job_title": "Onsite Medical Representative",
+    "job_title": "Software Development Engineer II, AWS DynamoDB",
     "employer_name": "Amazon",
-    "job_city": "Fort Wayne",
-    "job_state": "IN",
+    "job_city": "Seattle",
+    "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3006495/onsite-medical-representative",
-    "job_posted_at": "2025-06-11T00:00:00.000Z",
-    "id": "amazon-onsite-medical-representative-fort-wayne"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3004156/software-development-engineer-ii-aws-dynamodb",
+    "job_posted_at": "2025-06-09T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-ii-aws-dynamodb-seattle"
   },
   {
-    "job_title": "Customer Success Manager, Amazon Robotics, Fulfillment",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Bachelor's degree in Engineering and/or relevant experience",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2994417/customer-success-manager-amazon-robotics-fulfillment",
-    "job_posted_at": "2025-05-28T00:00:00.000Z",
-    "id": "amazon-customer-success-manager-amazon-robotics-fulfillment-arlington"
-  },
-  {
-    "job_title": "Construction Manager, DC Construction, Data Center Construction",
-    "employer_name": "Amazon",
-    "job_city": "Sparks",
-    "job_state": "NV",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2997945/construction-manager-dc-construction-data-center-construction",
-    "job_posted_at": "2025-06-02T00:00:00.000Z",
-    "id": "amazon-construction-manager-dc-construction-data-center-construction-sparks"
-  },
-  {
-    "job_title": "Data Center Technician, DCC Communities",
-    "employer_name": "Amazon",
-    "job_city": "Berwick",
-    "job_state": "PA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2947441/data-center-technician-dcc-communities",
-    "job_posted_at": "2025-04-07T00:00:00.000Z",
-    "id": "amazon-data-center-technician-dcc-communities-berwick"
-  },
-  {
-    "job_title": "SIGINT Data Scientist, Data and Machine Learning, WWPS US Federal",
+    "job_title": "Litigation Paralegal , Litigation & Regulatory",
     "employer_name": "Amazon",
     "job_city": "Arlington",
     "job_state": "VA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050276/sigint-data-scientist-data-and-machine-learning-wwps-us-federal",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2991434/litigation-paralegal-litigation-regulatory",
+    "job_posted_at": "2025-05-23T00:00:00.000Z",
+    "id": "amazon-litigation-paralegal-litigation-regulatory-arlington"
+  },
+  {
+    "job_title": "Software Development Engineer, Project Kuiper",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3005050/software-development-engineer-project-kuiper",
+    "job_posted_at": "2025-06-10T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-project-kuiper-redmond"
+  },
+  {
+    "job_title": "Area Manager - (Military Veterans Encouraged to Apply)",
+    "employer_name": "Amazon",
+    "job_city": "Beltsville",
+    "job_state": "MD",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3007829/area-manager-military-veterans-encouraged-to-apply",
+    "job_posted_at": "2025-06-12T00:00:00.000Z",
+    "id": "amazon-area-manager-military-veterans-encouraged-to-apply-beltsville"
+  },
+  {
+    "job_title": "Area Manager (Military Veterans Encouraged to Apply)",
+    "employer_name": "Amazon",
+    "job_city": "Lanham",
+    "job_state": "MD",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3007717/area-manager-military-veterans-encouraged-to-apply",
+    "job_posted_at": "2025-06-12T00:00:00.000Z",
+    "id": "amazon-area-manager-military-veterans-encouraged-to-apply-lanham"
+  },
+  {
+    "job_title": "Software Dev Engineer, Amazon Aurora DSQL",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3009033/software-dev-engineer-amazon-aurora-dsql",
+    "job_posted_at": "2025-06-13T00:00:00.000Z",
+    "id": "amazon-software-dev-engineer-amazon-aurora-dsql-seattle"
+  },
+  {
+    "job_title": "Area Manager (Military Veterans Encouraged to Apply)",
+    "employer_name": "Amazon",
+    "job_city": "Laurel",
+    "job_state": "MD",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3007856/area-manager-military-veterans-encouraged-to-apply",
+    "job_posted_at": "2025-06-12T00:00:00.000Z",
+    "id": "amazon-area-manager-military-veterans-encouraged-to-apply-laurel"
+  },
+  {
+    "job_title": "Software Quality Assurance Engineer, Amazon Robotics Systems Quality and Performance Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Westborough",
+    "job_state": "MA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050343/software-quality-assurance-engineer-amazon-robotics-systems-quality-and-performance-engineering",
     "job_posted_at": "2025-08-01T00:00:00.000Z",
-    "id": "amazon-sigint-data-scientist-data-and-machine-learning-wwps-us-federal-arlington"
+    "id": "amazon-software-quality-assurance-engineer-amazon-robotics-systems-quality-and-performance-engineering-westborough"
   },
   {
-    "job_title": "Engagement Manager, Worldwide Public Sector Professional Services, State and Local Government & Education",
+    "job_title": "Product Manager - Tech, Content Discovery",
     "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
+    "job_city": "Newark",
+    "job_state": "NJ",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050281/engagement-manager-worldwide-public-sector-professional-services-state-and-local-government-education",
-    "job_posted_at": "2025-08-01T00:00:00.000Z",
-    "id": "amazon-engagement-manager-worldwide-public-sector-professional-services-state-and-local-government-education-arlington"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3023017/product-manager-tech-content-discovery",
+    "job_posted_at": "2025-07-01T00:00:00.000Z",
+    "id": "amazon-product-manager-tech-content-discovery-newark"
   },
   {
-    "job_title": "Staff Pharmacist, Amazon Pharmacy",
+    "job_title": "Software Development Engineer, AWS Web Application Firewall",
     "employer_name": "Amazon",
-    "job_city": "Englewood",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2999704/software-development-engineer-aws-web-application-firewall",
+    "job_posted_at": "2025-08-01T19:31:16.802Z",
+    "id": "amazon-software-development-engineer-aws-web-application-firewall-seattle"
+  },
+  {
+    "job_title": "Software Development Engineer II, AWS Web Application Firewall (WAF)",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3034301/software-development-engineer-ii-aws-web-application-firewall-waf",
+    "job_posted_at": "2025-08-01T19:31:16.802Z",
+    "id": "amazon-software-development-engineer-ii-aws-web-application-firewall-waf-seattle"
+  },
+  {
+    "job_title": "Software Development Engineer II, DSP",
+    "employer_name": "Amazon",
+    "job_city": "Denver",
     "job_state": "CO",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3021816/staff-pharmacist-amazon-pharmacy",
-    "job_posted_at": "2025-06-30T00:00:00.000Z",
-    "id": "amazon-staff-pharmacist-amazon-pharmacy-englewood"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2614342/software-development-engineer-ii-dsp",
+    "job_posted_at": "2025-08-01T19:31:16.802Z",
+    "id": "amazon-software-development-engineer-ii-dsp-denver"
   },
   {
-    "job_title": "Overnight Staff Pharmacist, Amazon Pharmacy",
+    "job_title": "Risk Manager, Extended Producer Responsibility, RISC (Program) - EPR",
     "employer_name": "Amazon",
-    "job_city": "Englewood",
-    "job_state": "CO",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3021831/overnight-staff-pharmacist-amazon-pharmacy",
-    "job_posted_at": "2025-06-30T00:00:00.000Z",
-    "id": "amazon-overnight-staff-pharmacist-amazon-pharmacy-englewood"
-  },
-  {
-    "job_title": "Sub Regional EHS Manager II",
-    "employer_name": "Amazon",
-    "job_city": "Maspeth",
-    "job_state": "NY",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050271/sub-regional-ehs-manager-ii",
-    "job_posted_at": "2025-08-01T00:00:00.000Z",
-    "id": "amazon-sub-regional-ehs-manager-ii-maspeth"
-  },
-  {
-    "job_title": "Data Center Engineering Operations Technician, DCC Communities",
-    "employer_name": "Amazon",
-    "job_city": "Manassas",
+    "job_city": "Arlington",
     "job_state": "VA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050291/data-center-engineering-operations-technician-dcc-communities",
-    "job_posted_at": "2025-08-01T00:00:00.000Z",
-    "id": "amazon-data-center-engineering-operations-technician-dcc-communities-manassas"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3047097/risk-manager-extended-producer-responsibility-risc-program-epr",
+    "job_posted_at": "2025-08-01T19:31:16.802Z",
+    "id": "amazon-risk-manager-extended-producer-responsibility-risc-program-epr-arlington"
   },
   {
-    "job_title": "2026 Operations Research Science Internship - United States, PhD Student Science Recruiting",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050304/2026-operations-research-science-internship-united-states-phd-student-science-recruiting",
-    "job_posted_at": "2025-08-01T18:24:06.276Z",
-    "id": "amazon-2026-operations-research-science-internship-united-states-phd-student-science-recruiting-seattle"
-  },
-  {
-    "job_title": "2026 Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050272/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting",
-    "job_posted_at": "2025-08-01T18:24:06.277Z",
-    "id": "amazon-2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting-seattle"
-  },
-  {
-    "job_title": "Supplier Qualification Manager, WW Engineering and Innovation",
+    "job_title": "Senior Finance Analyst, Supply Chain Optimization Technologies, Inbound Systems",
     "employer_name": "Amazon",
     "job_city": "Bellevue",
     "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050309/supplier-qualification-manager-ww-engineering-and-innovation",
-    "job_posted_at": "2025-08-01T18:24:06.277Z",
-    "id": "amazon-supplier-qualification-manager-ww-engineering-and-innovation-bellevue"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050342/senior-finance-analyst-supply-chain-optimization-technologies-inbound-systems",
+    "job_posted_at": "2025-08-01T19:31:16.802Z",
+    "id": "amazon-senior-finance-analyst-supply-chain-optimization-technologies-inbound-systems-bellevue"
   },
   {
-    "job_title": "Sr. Customer Success Manager, Strategic Account Services",
+    "job_title": "Software Development Engineer II, Fulfillment by Amazon (FBA)",
     "employer_name": "Amazon",
-    "job_city": "Tempe",
-    "job_state": "AZ",
+    "job_city": "Bellevue",
+    "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050207/sr-customer-success-manager-strategic-account-services",
-    "job_posted_at": "2025-08-01T17:24:06.277Z",
-    "id": "amazon-sr-customer-success-manager-strategic-account-services-tempe"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3016845/software-development-engineer-ii-fulfillment-by-amazon-fba",
+    "job_posted_at": "2025-08-01T19:31:16.802Z",
+    "id": "amazon-software-development-engineer-ii-fulfillment-by-amazon-fba-bellevue"
   },
   {
-    "job_title": "Staff Software Engineer, Guest Displays & Platforms ",
-    "employer_name": "Airbnb",
-    "job_city": "United States",
+    "job_title": "Software Dev Engineer II, Amazon Music, Community and Fandom",
+    "employer_name": "Amazon",
+    "job_city": "San Francisco",
     "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/7128674",
-    "job_posted_at_datetime_utc": "2025-08-01T18:54:28.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "airbnb-staff-software-engineer-guest-displays-platforms-united-states"
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3022822/software-dev-engineer-ii-amazon-music-community-and-fandom",
+    "job_posted_at": "2025-08-01T19:31:16.802Z",
+    "id": "amazon-software-dev-engineer-ii-amazon-music-community-and-fandom-san-francisco"
+  },
+  {
+    "job_title": "Network Deployment Lead, DCC Communities",
+    "employer_name": "Amazon",
+    "job_city": "New Carlisle",
+    "job_state": "IN",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050338/network-deployment-lead-dcc-communities",
+    "job_posted_at": "2025-08-01T19:31:16.802Z",
+    "id": "amazon-network-deployment-lead-dcc-communities-new-carlisle"
+  },
+  {
+    "job_title": "Software Development Engineer, DynamoDB Storage",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3041193/software-development-engineer-dynamodb-storage",
+    "job_posted_at": "2025-08-01T19:31:16.802Z",
+    "id": "amazon-software-development-engineer-dynamodb-storage-seattle"
+  },
+  {
+    "job_title": "Applied Scientist, Supply Chain Optimization Technologies",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050318/applied-scientist-supply-chain-optimization-technologies",
+    "job_posted_at": "2025-08-01T19:31:16.802Z",
+    "id": "amazon-applied-scientist-supply-chain-optimization-technologies-bellevue"
+  },
+  {
+    "job_title": "Account Manager - DSP Shared Services (Level 4), DSP Shared Services",
+    "employer_name": "Amazon",
+    "job_city": "Nashville",
+    "job_state": "TN",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050331/account-manager-dsp-shared-services-level-4-dsp-shared-services",
+    "job_posted_at": "2025-08-01T19:31:16.802Z",
+    "id": "amazon-account-manager-dsp-shared-services-level-4-dsp-shared-services-nashville"
+  },
+  {
+    "job_title": "Go-to-Market Specialist, GoodReads Sales & Marketing VAR",
+    "employer_name": "Amazon",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050325/go-to-market-specialist-goodreads-sales-marketing-var",
+    "job_posted_at": "2025-08-01T18:31:16.802Z",
+    "id": "amazon-go-to-market-specialist-goodreads-sales-marketing-var-san-francisco"
+  },
+  {
+    "job_title": "Area Manager II",
+    "employer_name": "Amazon",
+    "job_city": "Fredericksburg",
+    "job_state": "VA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3042953/area-manager-ii",
+    "job_posted_at": "2025-08-01T17:31:16.802Z",
+    "id": "amazon-area-manager-ii-fredericksburg"
+  },
+  {
+    "job_title": "Product Marketing Manager, Devices Go-To-Market",
+    "employer_name": "Meta",
+    "job_city": "Seattle",
+    "job_state": "WA +1 locations",
+    "job_description": "Product Marketing Management",
+    "job_apply_link": "https://www.metacareers.com/jobs/23875879282095705",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-product-marketing-manager-devices-go-to-market-seattle"
+  },
+  {
+    "job_title": "Product Marketing Manager, Devices Go-To-Market",
+    "employer_name": "Meta",
+    "job_city": "Los Angeles",
+    "job_state": "CA +3 locations",
+    "job_description": "Product Marketing Management",
+    "job_apply_link": "https://www.metacareers.com/jobs/1290675399106063",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-product-marketing-manager-devices-go-to-market-los-angeles"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Product Specialist",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Specialist, Core GTM Apps, Google Play",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/86234795301839558-product-specialist-core-gtm-apps-google-play?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=6",
+    "id": "google-product-specialist-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Financial Analyst",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Financial Analyst, Technical Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/97410250813907654-financial-analyst-technical-infrastructure?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
+    "id": "google-financial-analyst-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Technology Senior Auditor",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technology Senior Auditor, Internal Audit",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/83436887175242438-technology-senior-auditor-internal-audit?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
+    "id": "google-technology-senior-auditor-chicago"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Cloud Deals Revenue Recognition Lead",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Cloud Deals Revenue Recognition Lead",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/127561008741786310-cloud-deals-revenue-recognition-lead?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
+    "id": "google-cloud-deals-revenue-recognition-lead-austin"
   }
 ]
