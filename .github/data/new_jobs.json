@@ -1,35 +1,24 @@
 [
   {
-    "job_title": "Optomechanical Design Engineer",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/769794218907371",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-optomechanical-design-engineer-redmond"
-  },
-  {
-    "job_title": "Manager, Research Science - Generative AI, Voice",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/723372293926566",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-manager-research-science-generative-ai-voice-menlo-park"
-  },
-  {
     "job_title": "Optical 3D Printing Application and Product Development Engineering Manager",
     "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
+    "job_city": "Multiple",
+    "job_state": "Locations",
     "job_description": "3D Product Design +2 more",
     "job_apply_link": "https://www.metacareers.com/jobs/1483057479716079",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-optical-3d-printing-application-and-product-development-engineering-manager-redmond"
+    "id": "meta-optical-3d-printing-application-and-product-development-engineering-manager-multiple"
+  },
+  {
+    "job_title": "Junior Software Developer",
+    "employer_name": "Motorola",
+    "job_city": "West Valley City",
+    "job_state": "UT",
+    "job_description": "Join Motorola in this exciting opportunity.",
+    "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Junior-Software-Developer_R55998-1",
+    "job_posted_at_datetime_utc": "2025-07-31T23:36:25.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "motorola-junior-software-developer-west-valley-city"
   }
 ]
