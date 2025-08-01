@@ -1,72 +1,82 @@
 [
   {
-    "job_title": "Applied Scientist, Amazon Special Projects",
+    "job_title": "Embedded Software Dev Engineer, Project Kuiper Customer Terminal Software",
     "employer_name": "Amazon",
-    "job_city": "Boston",
-    "job_state": "MA",
+    "job_city": "Redmond",
+    "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3044663/applied-scientist-amazon-special-projects",
-    "job_posted_at": "2025-07-28T00:00:00.000Z",
-    "id": "amazon-applied-scientist-amazon-special-projects-boston"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3025252/embedded-software-dev-engineer-project-kuiper-customer-terminal-software",
+    "job_posted_at": "2025-07-03T00:00:00.000Z",
+    "id": "amazon-embedded-software-dev-engineer-project-kuiper-customer-terminal-software-redmond"
   },
   {
-    "job_title": "Manager II, Supply Chain, Amazon Freight , Amazon Freight",
+    "job_title": "Embedded Software Development Engineer, Kuiper Payload Radio",
     "employer_name": "Amazon",
-    "job_city": "Atlanta",
-    "job_state": "GA",
+    "job_city": "Redmond",
+    "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3042057/manager-ii-supply-chain-amazon-freight-amazon-freight",
-    "job_posted_at": "2025-07-23T00:00:00.000Z",
-    "id": "amazon-manager-ii-supply-chain-amazon-freight-amazon-freight-atlanta"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3034766/embedded-software-development-engineer-kuiper-payload-radio",
+    "job_posted_at": "2025-07-15T00:00:00.000Z",
+    "id": "amazon-embedded-software-development-engineer-kuiper-payload-radio-redmond"
   },
   {
-    "job_title": "Solutions Architect, Sports",
+    "job_title": "Machine Learning Engineer, Customer Engagement Technology",
     "employer_name": "Amazon",
-    "job_city": "Irvine",
+    "job_city": "Santa Clara",
     "job_state": "CA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3035022/solutions-architect-sports",
-    "job_posted_at": "2025-07-16T00:00:00.000Z",
-    "id": "amazon-solutions-architect-sports-irvine"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3021091/machine-learning-engineer-customer-engagement-technology",
+    "job_posted_at": "2025-06-29T00:00:00.000Z",
+    "id": "amazon-machine-learning-engineer-customer-engagement-technology-santa-clara"
   },
   {
-    "job_title": "Integ. & Change Engineer, Robotic Integration & Change",
+    "job_title": "SDE- Kuiper Network Services",
+    "employer_name": "Amazon",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3023527/sde-kuiper-network-services",
+    "job_posted_at": "2025-07-02T00:00:00.000Z",
+    "id": "amazon-sde-kuiper-network-services-sunnyvale"
+  },
+  {
+    "job_title": "Quality Assurance Engineer, Key",
     "employer_name": "Amazon",
     "job_city": "Austin",
     "job_state": "TX",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3037312/integ-change-engineer-robotic-integration-change",
-    "job_posted_at": "2025-07-17T00:00:00.000Z",
-    "id": "amazon-integ-change-engineer-robotic-integration-change-austin"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3031738/quality-assurance-engineer-key",
+    "job_posted_at": "2025-07-11T00:00:00.000Z",
+    "id": "amazon-quality-assurance-engineer-key-austin"
   },
   {
-    "job_title": "Software Dev Engineer, Game-Based Learning",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3022883/software-dev-engineer-game-based-learning",
-    "job_posted_at": "2025-07-01T00:00:00.000Z",
-    "id": "amazon-software-dev-engineer-game-based-learning-arlington"
-  },
-  {
-    "job_title": "Game Dev Engineer, Game-Based Learning",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3022891/game-dev-engineer-game-based-learning",
-    "job_posted_at": "2025-07-01T00:00:00.000Z",
-    "id": "amazon-game-dev-engineer-game-based-learning-arlington"
-  },
-  {
-    "job_title": "Sr. Risk Specialist, AWS Commerce Platform, Risk, Audit, Accounting, and Compliance (RAAC)",
+    "job_title": "Software Development Engineer, AI Business Automation, Prime Video",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2852501/sr-risk-specialist-aws-commerce-platform-risk-audit-accounting-and-compliance-raac",
-    "job_posted_at": "2024-12-12T00:00:00.000Z",
-    "id": "amazon-sr-risk-specialist-aws-commerce-platform-risk-audit-accounting-and-compliance-raac-seattle"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3043284/software-development-engineer-ai-business-automation-prime-video",
+    "job_posted_at": "2025-07-25T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-ai-business-automation-prime-video-seattle"
+  },
+  {
+    "job_title": "Systems Development Engineer, in-Rack Power",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3021863/systems-development-engineer-in-rack-power",
+    "job_posted_at": "2025-06-30T00:00:00.000Z",
+    "id": "amazon-systems-development-engineer-in-rack-power-seattle"
+  },
+  {
+    "job_title": "Hardware Development Eng/Signal Integrity, AWS Board Core Design and Services Team",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3023491/hardware-development-eng-signal-integrity-aws-board-core-design-and-services-team",
+    "job_posted_at": "2025-07-02T00:00:00.000Z",
+    "id": "amazon-hardware-development-eng-signal-integrity-aws-board-core-design-and-services-team-cupertino"
   }
 ]
