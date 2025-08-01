@@ -1,52 +1,72 @@
 [
   {
-    "job_title": "Water Infrastructure Manager, AWS Water Team",
+    "job_title": "Applied Scientist, Amazon Special Projects",
+    "employer_name": "Amazon",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3044663/applied-scientist-amazon-special-projects",
+    "job_posted_at": "2025-07-28T00:00:00.000Z",
+    "id": "amazon-applied-scientist-amazon-special-projects-boston"
+  },
+  {
+    "job_title": "Manager II, Supply Chain, Amazon Freight , Amazon Freight",
+    "employer_name": "Amazon",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3042057/manager-ii-supply-chain-amazon-freight-amazon-freight",
+    "job_posted_at": "2025-07-23T00:00:00.000Z",
+    "id": "amazon-manager-ii-supply-chain-amazon-freight-amazon-freight-atlanta"
+  },
+  {
+    "job_title": "Solutions Architect, Sports",
+    "employer_name": "Amazon",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3035022/solutions-architect-sports",
+    "job_posted_at": "2025-07-16T00:00:00.000Z",
+    "id": "amazon-solutions-architect-sports-irvine"
+  },
+  {
+    "job_title": "Integ. & Change Engineer, Robotic Integration & Change",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3037312/integ-change-engineer-robotic-integration-change",
+    "job_posted_at": "2025-07-17T00:00:00.000Z",
+    "id": "amazon-integ-change-engineer-robotic-integration-change-austin"
+  },
+  {
+    "job_title": "Software Dev Engineer, Game-Based Learning",
     "employer_name": "Amazon",
     "job_city": "Arlington",
     "job_state": "VA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3049861/water-infrastructure-manager-aws-water-team",
-    "job_posted_at": "2025-08-01T11:59:41.256Z",
-    "id": "amazon-water-infrastructure-manager-aws-water-team-arlington"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3022883/software-dev-engineer-game-based-learning",
+    "job_posted_at": "2025-07-01T00:00:00.000Z",
+    "id": "amazon-software-dev-engineer-game-based-learning-arlington"
   },
   {
-    "job_title": "Construction Manager, Data Center Construction, Data Center Construction",
+    "job_title": "Game Dev Engineer, Game-Based Learning",
     "employer_name": "Amazon",
-    "job_city": "Culpeper",
+    "job_city": "Arlington",
     "job_state": "VA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3049863/construction-manager-data-center-construction-data-center-construction",
-    "job_posted_at": "2025-08-01T11:59:41.256Z",
-    "id": "amazon-construction-manager-data-center-construction-data-center-construction-culpeper"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3022891/game-dev-engineer-game-based-learning",
+    "job_posted_at": "2025-07-01T00:00:00.000Z",
+    "id": "amazon-game-dev-engineer-game-based-learning-arlington"
   },
   {
-    "job_title": "Security and Loss Prevention Specialist, NA",
+    "job_title": "Sr. Risk Specialist, AWS Commerce Platform, Risk, Audit, Accounting, and Compliance (RAAC)",
     "employer_name": "Amazon",
-    "job_city": "Shreveport",
-    "job_state": "LA",
+    "job_city": "Seattle",
+    "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3049854/security-and-loss-prevention-specialist-na",
-    "job_posted_at": "2025-08-01T10:59:41.256Z",
-    "id": "amazon-security-and-loss-prevention-specialist-na-shreveport"
-  },
-  {
-    "job_title": "VFX Coordinator",
-    "employer_name": "Amazon",
-    "job_city": "Culver City",
-    "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3049848/vfx-coordinator",
-    "job_posted_at": "2025-08-01T10:59:41.256Z",
-    "id": "amazon-vfx-coordinator-culver-city"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Logic Designer",
-    "job_city": "Fremont",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Logic Designer, Raxium",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/106841258114065094-logic-designer-raxium?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=10",
-    "id": "google-logic-designer-fremont"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2852501/sr-risk-specialist-aws-commerce-platform-risk-audit-accounting-and-compliance-raac",
+    "job_posted_at": "2024-12-12T00:00:00.000Z",
+    "id": "amazon-sr-risk-specialist-aws-commerce-platform-risk-audit-accounting-and-compliance-raac-seattle"
   }
 ]
