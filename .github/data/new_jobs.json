@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "job_title": "Influencer Marketing Manager, Shopbop",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3047125/influencer-marketing-manager-shopbop",
+    "job_posted_at": "2025-07-29T00:00:00.000Z",
+    "id": "amazon-influencer-marketing-manager-shopbop-new-york"
+  },
+  {
+    "job_title": "Site Merchandising Operations Specialist , Zappos Site Merchandising Team",
+    "employer_name": "Amazon",
+    "job_city": "Madison",
+    "job_state": "WI",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3024192/site-merchandising-operations-specialist-zappos-site-merchandising-team",
+    "job_posted_at": "2025-07-02T00:00:00.000Z",
+    "id": "amazon-site-merchandising-operations-specialist-zappos-site-merchandising-team-madison"
+  },
+  {
+    "job_title": "Site Marketing Manager, Zappos Digital Commerce Team",
+    "employer_name": "Amazon",
+    "job_city": "Madison",
+    "job_state": "WI",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3024336/site-marketing-manager-zappos-digital-commerce-team",
+    "job_posted_at": "2025-07-02T00:00:00.000Z",
+    "id": "amazon-site-marketing-manager-zappos-digital-commerce-team-madison"
+  },
+  {
+    "job_title": "Software Dev Engineer (ML), AGI Customization",
+    "employer_name": "Amazon",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3025505/software-dev-engineer-ml-agi-customization",
+    "job_posted_at": "2025-08-02T19:29:40.475Z",
+    "id": "amazon-software-dev-engineer-ml-agi-customization-boston"
+  }
+]
