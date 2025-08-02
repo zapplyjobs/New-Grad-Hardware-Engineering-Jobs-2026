@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "job_title": "Program Manager, AWS Launch Marketing",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2978939/program-manager-aws-launch-marketing",
+    "job_posted_at": "2025-05-09T00:00:00.000Z",
+    "id": "amazon-program-manager-aws-launch-marketing-seattle"
+  },
+  {
+    "job_title": "Sales Account Manager, Beauty",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2998836/sales-account-manager-beauty",
+    "job_posted_at": "2025-06-03T00:00:00.000Z",
+    "id": "amazon-sales-account-manager-beauty-new-york"
+  },
+  {
+    "job_title": "Executive Assistant, WWPS Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3022541/executive-assistant-wwps-engineering",
+    "job_posted_at": "2025-07-01T00:00:00.000Z",
+    "id": "amazon-executive-assistant-wwps-engineering-arlington"
+  },
+  {
+    "job_title": "Sr Financial Analyst, Selling Partner Services Finance",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3001032/sr-financial-analyst-selling-partner-services-finance",
+    "job_posted_at": "2025-06-05T00:00:00.000Z",
+    "id": "amazon-sr-financial-analyst-selling-partner-services-finance-bellevue"
+  },
+  {
+    "job_title": "Contract Administration Manager, AMSD Global Deal Management",
+    "employer_name": "Amazon",
+    "job_city": "Culver City",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3034182/contract-administration-manager-amsd-global-deal-management",
+    "job_posted_at": "2025-07-15T00:00:00.000Z",
+    "id": "amazon-contract-administration-manager-amsd-global-deal-management-culver-city"
+  }
+]
