@@ -1,126 +1,112 @@
 [
   {
-    "job_title": "Software Development Engineer, Power Avionics - Test Development",
+    "job_title": "Amazon Q Builder, Amazon Q Customer Success Team (Q-CST)",
     "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
+    "job_city": "Arlington",
+    "job_state": "VA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3010143/software-development-engineer-power-avionics-test-development",
-    "job_posted_at": "2025-06-16T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-power-avionics-test-development-redmond"
-  },
-  {
-    "job_title": "Software Development Engineer, Integrated Vehicle Testing",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2921700/software-development-engineer-integrated-vehicle-testing",
-    "job_posted_at": "2025-03-07T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-integrated-vehicle-testing-redmond"
-  },
-  {
-    "job_title": "Software Development Engineer, Amazon Connect",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2907738/software-development-engineer-amazon-connect",
-    "job_posted_at": "2025-02-20T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-amazon-connect-new-york"
-  },
-  {
-    "job_title": "Software Development Engineer, Amazon One",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3042518/software-development-engineer-amazon-one",
-    "job_posted_at": "2025-08-02T01:12:48.266Z",
-    "id": "amazon-software-development-engineer-amazon-one-seattle"
-  },
-  {
-    "job_title": "Software Development Engineer, Amazon Customer Service",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3047522/software-development-engineer-amazon-customer-service",
-    "job_posted_at": "2025-08-02T00:12:48.266Z",
-    "id": "amazon-software-development-engineer-amazon-customer-service-seattle"
-  },
-  {
-    "job_title": "Technical Program Manager, Kuiper Software & Networking",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050466/technical-program-manager-kuiper-software-networking",
-    "job_posted_at": "2025-08-02T00:12:48.266Z",
-    "id": "amazon-technical-program-manager-kuiper-software-networking-redmond"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2998848/amazon-q-builder-amazon-q-customer-success-team-q-cst",
+    "job_posted_at": "2025-08-02T03:00:03.467Z",
+    "id": "amazon-amazon-q-builder-amazon-q-customer-success-team-q-cst-arlington"
   },
   {
     "employer_name": "Google",
-    "job_title": "Senior Software Engineer",
-    "job_city": "San Bruno",
-    "job_state": "CA",
+    "job_title": "Equity Accountant",
+    "job_city": "Chicago",
+    "job_state": "IL",
     "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareYouTube. Posted: Recently. Full Title: Senior Software Engineer, Mobile (Android), YouTube",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/136651844431553222-senior-software-engineer-mobile-android-youtube?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=10",
-    "id": "google-senior-software-engineer-san-bruno"
+    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Equity Accountant",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/78865758850818758-equity-accountant?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=4",
+    "id": "google-equity-accountant-chicago"
   },
   {
     "employer_name": "Google",
-    "job_title": "Engagement Manager",
-    "job_city": "Los Angeles",
+    "job_title": "Marketing Finance Analyst",
+    "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Engagement Manager, gTech Ads SDS",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/141665892332118726-engagement-manager-gtech-ads-sds?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=10",
-    "id": "google-engagement-manager-los-angeles"
+    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Marketing Finance Analyst",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/83704535578485446-marketing-finance-analyst?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=4",
+    "id": "google-marketing-finance-analyst-mountain-view"
   },
   {
-    "job_title": "Mainframe Software Engineer I or Above",
-    "employer_name": "Global Payments",
-    "job_city": "Columbus",
-    "job_state": "GA",
-    "job_description": "Join Global Payments in this exciting opportunity.",
-    "job_apply_link": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I-or-Above_R0064692",
-    "job_posted_at_datetime_utc": "2025-07-31T22:50:59.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "global-payments-mainframe-software-engineer-i-or-above-columbus"
+    "employer_name": "Google",
+    "job_title": "Senior Digital Strategy Lead",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Digital Strategy Lead, Accelerated Growth",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/95676925493551814-senior-digital-strategy-lead-accelerated-growth?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=4",
+    "id": "google-senior-digital-strategy-lead-san-francisco"
   },
   {
-    "job_title": "New Grad Software Engineer",
-    "employer_name": "Unify",
-    "job_city": "SF",
-    "job_state": "Locations",
-    "job_description": "Join Unify in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/unify/762e3fd4-7813-4da8-bb02-cc6050e3626a/application",
-    "job_posted_at_datetime_utc": "2025-07-29T18:33:58.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "unify-new-grad-software-engineer-sf"
+    "employer_name": "Google",
+    "job_title": "Sales Specialist",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Sales Specialist, Generative AI, SMB, Google Cloud",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/109206360238760646-sales-specialist-generative-ai-smb-google-cloud?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=4",
+    "id": "google-sales-specialist-austin"
   },
   {
-    "job_title": "Software Engineer I",
-    "employer_name": "TripAdvisor",
-    "job_city": "Remote in Canada",
-    "job_state": "Locations",
-    "job_description": "Join TripAdvisor in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/tripadvisor/jobs/7095831",
-    "job_posted_at_datetime_utc": "2025-07-28T15:18:43.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "tripadvisor-software-engineer-i-remote-in-canada"
+    "employer_name": "Google",
+    "job_title": "Technology Associate Auditor",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technology Associate Auditor",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/81975642127508166-technology-associate-auditor?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=4",
+    "id": "google-technology-associate-auditor-chicago"
   },
   {
-    "job_title": "Software Engineer I",
-    "employer_name": "Perforce",
-    "job_city": "Belfast",
-    "job_state": "UK",
-    "job_description": "Join Perforce in this exciting opportunity.",
-    "job_apply_link": "https://jobs.lever.co/perforce/44b37b45-6756-489d-bd3a-668ba2352f9b/apply",
-    "job_posted_at_datetime_utc": "2025-07-28T13:28:54.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "perforce-software-engineer-i-belfast"
+    "employer_name": "Google",
+    "job_title": "Financial Analyst",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Financial Analyst, Cloud Networking, Finance",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/100931597863133894-financial-analyst-cloud-networking-finance?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=4",
+    "id": "google-financial-analyst-chicago"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Cross-Google TPM Lead",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Cross-Google TPM Lead, Client Web Frameworks Development",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/93692017095123654-crossgoogle-tpm-lead-client-web-frameworks-development?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=4",
+    "id": "google-cross-google-tpm-lead-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Program Manager",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Program Manager, Data Governance",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/117007710917927622-program-manager-data-governance?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=4",
+    "id": "google-program-manager-chicago"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Technical Program Manager II",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Program Manager II, Network Capacity Planning, Cloud Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/141386867634250438-technical-program-manager-ii-network-capacity-planning-cloud-infrastructure?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=4",
+    "id": "google-technical-program-manager-ii-austin"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Program Manager",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Program Manager, Data Center Portfolio Management and Performance",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/132097558821380806-program-manager-data-center-portfolio-management-and-performance?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=4",
+    "id": "google-program-manager-reston"
   }
 ]
