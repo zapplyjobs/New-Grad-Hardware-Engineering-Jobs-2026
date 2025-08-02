@@ -1,42 +1,57 @@
 [
   {
-    "job_title": "Influencer Marketing Manager, Shopbop",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3047125/influencer-marketing-manager-shopbop",
-    "job_posted_at": "2025-07-29T00:00:00.000Z",
-    "id": "amazon-influencer-marketing-manager-shopbop-new-york"
+    "job_title": "SiteOps Data Center Production Operations Engineer",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1232667518868015",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-siteops-data-center-production-operations-engineer-multiple"
   },
   {
-    "job_title": "Site Merchandising Operations Specialist , Zappos Site Merchandising Team",
-    "employer_name": "Amazon",
-    "job_city": "Madison",
-    "job_state": "WI",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3024192/site-merchandising-operations-specialist-zappos-site-merchandising-team",
-    "job_posted_at": "2025-07-02T00:00:00.000Z",
-    "id": "amazon-site-merchandising-operations-specialist-zappos-site-merchandising-team-madison"
+    "job_title": "Group Manager, Product Technical Program Management",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +3 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/884632493477707",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-group-manager-product-technical-program-management-sunnyvale"
   },
   {
-    "job_title": "Site Marketing Manager, Zappos Digital Commerce Team",
-    "employer_name": "Amazon",
-    "job_city": "Madison",
-    "job_state": "WI",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3024336/site-marketing-manager-zappos-digital-commerce-team",
-    "job_posted_at": "2025-07-02T00:00:00.000Z",
-    "id": "amazon-site-marketing-manager-zappos-digital-commerce-team-madison"
+    "job_title": "Software Engineer - Product (Technical Leadership)",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +6 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/4043567932553615",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-product-technical-leadership-sunnyvale"
   },
   {
-    "job_title": "Software Dev Engineer (ML), AGI Customization",
-    "employer_name": "Amazon",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3025505/software-dev-engineer-ml-agi-customization",
-    "job_posted_at": "2025-08-02T19:29:40.475Z",
-    "id": "amazon-software-dev-engineer-ml-agi-customization-boston"
+    "job_title": "Software Engineer, Systems ML - PyTorch Compiler, PyTorch Framework, PyTorch Performance",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1170950811182386",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-systems-ml-pytorch-compiler-pytorch-framework-pytorch-performance-sunnyvale"
+  },
+  {
+    "job_title": "Product Marketing Manager - Wearables, Trust",
+    "employer_name": "Meta",
+    "job_city": "Los Angeles",
+    "job_state": "CA +3 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1485522892436798",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-product-marketing-manager-wearables-trust-los-angeles"
   }
 ]
