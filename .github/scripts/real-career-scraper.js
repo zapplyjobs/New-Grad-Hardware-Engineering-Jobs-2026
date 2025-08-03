@@ -4,6 +4,8 @@ const scrapeAmazonJobs = require('../../jobboard/src/backend/platforms/amazon/am
 const googleScraper = require('../../jobboard/src/backend/platforms/google/googleScraper');
 const scrapeMetaJobs = require('../../jobboard/src/backend/platforms/meta/metaScraper');
 const microsoftScraper = require('../../jobboard/src/backend/platforms/microsoft/microsoftScraper');
+const scrapeUberJobs = require('../../jobboard/src/backend/platforms/uber/uberScraper');
+const scrapeSlackJobs = require('../../jobboard/src/backend/platforms/slack/slackScraper');
 // Load company database
 const companies = JSON.parse(fs.readFileSync('./.github/scripts/job-fetcher/companies.json', 'utf8'));
 const ALL_COMPANIES = Object.values(companies).flat();
@@ -174,27 +176,7 @@ const CAREER_APIS = {
         }
     },
 
-    'Amazon': {
-        api: 'https://www.amazon.jobs/api/jobs/search?is_als=true',
-        method: 'GET',
-        parser: (data) => {
-            if (!data.jobs) return [];
-            return data.jobs
-                .filter(job => job.title.toLowerCase().includes('engineer') ||
-                    job.title.toLowerCase().includes('developer'))
-                .slice(0, 20)
-                .map(job => ({
-                    job_title: job.title,
-                    employer_name: 'Amazon',
-                    job_city: job.city || 'Seattle',
-                    job_state: job.state || 'WA',
-                    job_description: job.description || 'Join Amazon to deliver results that matter.',
-                    job_apply_link: `https://amazon.jobs${job.job_path}`,
-                    job_posted_at_datetime_utc: safeISOString(job.posted_date),
-                    job_employment_type: 'FULLTIME'
-                }));
-        }
-    },
+    // Amazon now uses dedicated scraper
 
     'Netflix': {
         api: 'https://explore.jobs.netflix.net/api/apply/v2/jobs?domain=netflix.com&query=engineer',
@@ -270,27 +252,7 @@ const CAREER_APIS = {
     },
 
     // Lever API Companies
-    'Uber': {
-        api: 'https://api.lever.co/v0/postings/uber?mode=json',
-        method: 'GET',
-        parser: (data) => {
-            if (!Array.isArray(data)) return [];
-            return data
-                .filter(job => job.categories?.commitment === 'Full-time' &&
-                    (job.text.toLowerCase().includes('engineer') ||
-                        job.text.toLowerCase().includes('developer')))
-                .map(job => ({
-                    job_title: job.text,
-                    employer_name: 'Uber',
-                    job_city: job.categories?.location?.split(', ')?.[0] || 'San Francisco',
-                    job_state: job.categories?.location?.split(', ')?.[1] || 'CA',
-                    job_description: job.description || 'Join Uber to move the world.',
-                    job_apply_link: job.hostedUrl,
-                    job_posted_at_datetime_utc: safeISOString(job.createdAt),
-                    job_employment_type: 'FULLTIME'
-                }));
-        }
-    },
+    // Uber now uses dedicated scraper
 
     'Discord': {
         api: 'https://boards-api.greenhouse.io/v1/boards/discord/jobs',
@@ -334,27 +296,7 @@ const CAREER_APIS = {
         }
     },
 
-    'Slack': {
-        api: 'https://api.lever.co/v0/postings/slack?mode=json',
-        method: 'GET',
-        parser: (data) => {
-            if (!Array.isArray(data)) return [];
-            return data
-                .filter(job => job.categories?.commitment === 'Full-time' &&
-                    (job.text.toLowerCase().includes('engineer') ||
-                        job.text.toLowerCase().includes('developer')))
-                .map(job => ({
-                    job_title: job.text,
-                    employer_name: 'Slack',
-                    job_city: job.categories?.location?.split(', ')?.[0] || 'San Francisco',
-                    job_state: job.categories?.location?.split(', ')?.[1] || 'CA',
-                    job_description: job.description || 'Join Slack to make work life simpler, more pleasant, and more productive.',
-                    job_apply_link: job.hostedUrl,
-                    job_posted_at_datetime_utc: safeISOString(job.createdAt),
-                    job_employment_type: 'FULLTIME'
-                }));
-        }
-    }
+    // Slack now uses dedicated scraper
 };
 
 // Utility functions
@@ -465,13 +407,15 @@ async function fetchAllRealJobs() {
     console.log('🚀 Starting REAL career page scraping...');
 
     const allJobs = [];
-    const [amazonJobs, metaJobs, microsoftJobs, googleJobs] = await Promise.all([
+    const [amazonJobs, metaJobs, microsoftJobs, googleJobs, uberJobs, slackJobs] = await Promise.all([
         scrapeAmazonJobs(),
         scrapeMetaJobs(),
         microsoftScraper(),
         googleScraper(),
+        scrapeUberJobs(),
+        scrapeSlackJobs(),
     ]);
-    allJobs.push(...amazonJobs, ...metaJobs, ...microsoftJobs, ...googleJobs);
+    allJobs.push(...amazonJobs, ...metaJobs, ...microsoftJobs, ...googleJobs, ...uberJobs, ...slackJobs);
     const companiesWithAPIs = Object.keys(CAREER_APIS);
 
     // Fetch real jobs from companies with APIs
