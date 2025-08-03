@@ -408,12 +408,12 @@ async function fetchAllRealJobs() {
 
     const allJobs = [];
     const [amazonJobs, metaJobs, microsoftJobs, googleJobs, uberJobs, slackJobs] = await Promise.all([
-        scrapeAmazonJobs(),
-        scrapeMetaJobs(),
-        microsoftScraper(),
-        googleScraper(),
-        scrapeUberJobs(),
-        scrapeSlackJobs(),
+        scrapeAmazonJobs().catch(err => { console.error('❌ Amazon scraper failed:', err.message); return []; }),
+        scrapeMetaJobs().catch(err => { console.error('❌ Meta scraper failed:', err.message); return []; }),
+        microsoftScraper().catch(err => { console.error('❌ Microsoft scraper failed:', err.message); return []; }),
+        googleScraper().catch(err => { console.error('❌ Google scraper failed:', err.message); return []; }),
+        scrapeUberJobs().catch(err => { console.error('❌ Uber scraper failed:', err.message); return []; }),
+        scrapeSlackJobs().catch(err => { console.error('❌ Slack scraper failed:', err.message); return []; }),
     ]);
     allJobs.push(...amazonJobs, ...metaJobs, ...microsoftJobs, ...googleJobs, ...uberJobs, ...slackJobs);
     const companiesWithAPIs = Object.keys(CAREER_APIS);
