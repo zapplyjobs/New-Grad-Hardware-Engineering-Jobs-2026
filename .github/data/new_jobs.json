@@ -1,34 +1,13 @@
 [
   {
-    "job_title": "Automation Engineer",
-    "employer_name": "Amazon",
-    "job_city": "Moreno Valley",
-    "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3041153/automation-engineer",
-    "job_posted_at": "2025-07-22T00:00:00.000Z",
-    "id": "amazon-automation-engineer-moreno-valley"
-  },
-  {
-    "job_title": "Digital Design Engineer",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/2508244182887943",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-digital-design-engineer-multiple"
-  },
-  {
-    "job_title": "Software Engineering Manager, Tel Aviv",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/789375966390137",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineering-manager-tel-aviv-multiple"
+    "job_title": "Principal/Mgr Engineer - Automotive Customer Engineer",
+    "employer_name": "Qualcomm",
+    "job_city": "Santa Clara",
+    "job_state": "California",
+    "job_description": "Join Qualcomm to invent breakthrough technologies.",
+    "job_apply_link": "https://careers.qualcomm.com/careers/job/446707156174",
+    "job_posted_at_datetime_utc": "2025-08-03T22:39:52.647Z",
+    "job_employment_type": "FULLTIME",
+    "id": "qualcomm-principal-mgr-engineer-automotive-customer-engineer-santa-clara"
   }
 ]
