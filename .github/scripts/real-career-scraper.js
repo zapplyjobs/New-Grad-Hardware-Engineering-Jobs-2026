@@ -293,44 +293,42 @@ const CAREER_APIS = {
     },
 
     'Discord': {
-        api: 'https://api.lever.co/v0/postings/discord?mode=json',
+        api: 'https://boards-api.greenhouse.io/v1/boards/discord/jobs',
         method: 'GET',
         parser: (data) => {
-            if (!Array.isArray(data)) return [];
-            return data
-                .filter(job => job.categories?.commitment === 'Full-time' &&
-                    (job.text.toLowerCase().includes('engineer') ||
-                        job.text.toLowerCase().includes('developer')))
+            if (!Array.isArray(data.jobs)) return [];
+            return data.jobs
+                .filter(job => job.title.toLowerCase().includes('engineer') ||
+                              job.title.toLowerCase().includes('developer'))
                 .map(job => ({
-                    job_title: job.text,
+                    job_title: job.title,
                     employer_name: 'Discord',
-                    job_city: job.categories?.location?.split(', ')?.[0] || 'San Francisco',
-                    job_state: job.categories?.location?.split(', ')?.[1] || 'CA',
-                    job_description: job.description || 'Join Discord to build connections.',
-                    job_apply_link: job.hostedUrl,
-                    job_posted_at_datetime_utc: safeISOString(job.createdAt),
+                    job_city: job.location?.name?.split(', ')?.[0] || 'San Francisco',
+                    job_state: job.location?.name?.split(', ')?.[1] || 'CA',
+                    job_description: job.content || 'Join Discord to build connections.',
+                    job_apply_link: job.absolute_url,
+                    job_posted_at_datetime_utc: safeISOString(job.updated_at),
                     job_employment_type: 'FULLTIME'
                 }));
         }
     },
 
     'Lyft': {
-        api: 'https://api.lever.co/v0/postings/lyft?mode=json',
+        api: 'https://boards-api.greenhouse.io/v1/boards/lyft/jobs',
         method: 'GET',
         parser: (data) => {
-            if (!Array.isArray(data)) return [];
-            return data
-                .filter(job => job.categories?.commitment === 'Full-time' &&
-                    (job.text.toLowerCase().includes('engineer') ||
-                        job.text.toLowerCase().includes('developer')))
+            if (!Array.isArray(data.jobs)) return [];
+            return data.jobs
+                .filter(job => job.title.toLowerCase().includes('engineer') ||
+                              job.title.toLowerCase().includes('developer'))
                 .map(job => ({
-                    job_title: job.text,
+                    job_title: job.title,
                     employer_name: 'Lyft',
-                    job_city: job.categories?.location?.split(', ')?.[0] || 'San Francisco',
-                    job_state: job.categories?.location?.split(', ')?.[1] || 'CA',
-                    job_description: job.description || 'Join Lyft to improve people\'s lives with the world\'s best transportation.',
-                    job_apply_link: job.hostedUrl,
-                    job_posted_at_datetime_utc: safeISOString(job.createdAt),
+                    job_city: job.location?.name?.split(', ')?.[0] || 'San Francisco',
+                    job_state: job.location?.name?.split(', ')?.[1] || 'CA',
+                    job_description: job.content || 'Join Lyft to improve people\'s lives with the world\'s best transportation.',
+                    job_apply_link: job.absolute_url,
+                    job_posted_at_datetime_utc: safeISOString(job.updated_at),
                     job_employment_type: 'FULLTIME'
                 }));
         }
