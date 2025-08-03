@@ -26,7 +26,7 @@ const CAREER_APIS = {
                     job_state: job.location?.name?.split(', ')?.[1] || 'CA',
                     job_description: job.content || 'Join Stripe to help build the economic infrastructure for the internet.',
                     job_apply_link: job.absolute_url,
-                    job_posted_at_datetime_utc: new Date(job.updated_at).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.updated_at),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -47,7 +47,7 @@ const CAREER_APIS = {
                     job_state: job.location?.name?.split(', ')?.[1] || 'CA',
                     job_description: job.content || 'Join Coinbase to build the future of cryptocurrency.',
                     job_apply_link: job.absolute_url,
-                    job_posted_at_datetime_utc: new Date(job.updated_at).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.updated_at),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -68,7 +68,7 @@ const CAREER_APIS = {
                     job_state: job.location?.name?.split(', ')?.[1] || 'CA',
                     job_description: job.content || 'Join Airbnb to create a world where anyone can belong anywhere.',
                     job_apply_link: job.absolute_url,
-                    job_posted_at_datetime_utc: new Date(job.updated_at).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.updated_at),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -89,7 +89,7 @@ const CAREER_APIS = {
                     job_state: job.location?.name?.split(', ')?.[1] || 'CA',
                     job_description: job.content || 'Join Databricks to unify analytics and AI.',
                     job_apply_link: job.absolute_url,
-                    job_posted_at_datetime_utc: new Date(job.updated_at).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.updated_at),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -110,7 +110,7 @@ const CAREER_APIS = {
                     job_state: job.location?.name?.split(', ')?.[1] || 'CA',
                     job_description: job.content || 'Join Figma to make design accessible to all.',
                     job_apply_link: job.absolute_url,
-                    job_posted_at_datetime_utc: new Date(job.updated_at).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.updated_at),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -147,7 +147,7 @@ const CAREER_APIS = {
                     job_state: job.locations?.[0]?.name?.split(', ')?.[1] || 'CA',
                     job_description: job.jobSummary || 'Join Apple to create products that change lives.',
                     job_apply_link: `https://jobs.apple.com/en-us/details/${job.positionId}`,
-                    job_posted_at_datetime_utc: new Date(job.postDateInGMT).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.postDateInGMT),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -168,7 +168,7 @@ const CAREER_APIS = {
                     job_state: job.primaryLocation?.state || 'WA',
                     job_description: job.description || 'Join Microsoft to empower every person and organization on the planet.',
                     job_apply_link: `https://jobs.careers.microsoft.com/global/en/job/${job.jobId}`,
-                    job_posted_at_datetime_utc: new Date(job.postedDate).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.postedDate),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -190,7 +190,7 @@ const CAREER_APIS = {
                     job_state: job.state || 'WA',
                     job_description: job.description || 'Join Amazon to deliver results that matter.',
                     job_apply_link: `https://amazon.jobs${job.job_path}`,
-                    job_posted_at_datetime_utc: new Date(job.posted_date).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.posted_date),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -221,7 +221,7 @@ const CAREER_APIS = {
                     job_state: job.location?.split(', ')?.[1] || 'CA',
                     job_description: job.job_description || 'Join Netflix to entertain the world.',
                     job_apply_link: job.canonicalPositionUrl,
-                    job_posted_at_datetime_utc: new Date(job.t_create * 1000).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.t_create * 1000),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -242,7 +242,7 @@ const CAREER_APIS = {
                     job_state: job.location?.split(', ')?.[1] || 'CA',
                     job_description: job.description || 'Join Qualcomm to invent breakthrough technologies.',
                     job_apply_link: job.canonicalPositionUrl,
-                    job_posted_at_datetime_utc: new Date(job.publishedDate).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.publishedDate),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -263,7 +263,7 @@ const CAREER_APIS = {
                     job_state: job.location?.split(', ')?.[1] || 'CA',
                     job_description: job.description || 'Join PayPal to democratize financial services.',
                     job_apply_link: job.canonicalPositionUrl,
-                    job_posted_at_datetime_utc: new Date(job.publishedDate).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.publishedDate),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -286,7 +286,7 @@ const CAREER_APIS = {
                     job_state: job.categories?.location?.split(', ')?.[1] || 'CA',
                     job_description: job.description || 'Join Uber to move the world.',
                     job_apply_link: job.hostedUrl,
-                    job_posted_at_datetime_utc: new Date(job.createdAt).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.createdAt),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -308,7 +308,7 @@ const CAREER_APIS = {
                     job_state: job.categories?.location?.split(', ')?.[1] || 'CA',
                     job_description: job.description || 'Join Discord to build connections.',
                     job_apply_link: job.hostedUrl,
-                    job_posted_at_datetime_utc: new Date(job.createdAt).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.createdAt),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -330,7 +330,7 @@ const CAREER_APIS = {
                     job_state: job.categories?.location?.split(', ')?.[1] || 'CA',
                     job_description: job.description || 'Join Lyft to improve people\'s lives with the world\'s best transportation.',
                     job_apply_link: job.hostedUrl,
-                    job_posted_at_datetime_utc: new Date(job.createdAt).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.createdAt),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -352,7 +352,7 @@ const CAREER_APIS = {
                     job_state: job.categories?.location?.split(', ')?.[1] || 'CA',
                     job_description: job.description || 'Join Slack to make work life simpler, more pleasant, and more productive.',
                     job_apply_link: job.hostedUrl,
-                    job_posted_at_datetime_utc: new Date(job.createdAt).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.createdAt),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -362,6 +362,20 @@ const CAREER_APIS = {
 // Utility functions
 function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function safeISOString(dateValue) {
+    if (!dateValue) return new Date().toISOString();
+    
+    try {
+        const date = new Date(dateValue);
+        if (isNaN(date.getTime())) {
+            return new Date().toISOString();
+        }
+        return date.toISOString();
+    } catch (error) {
+        return new Date().toISOString();
+    }
 }
 
 // Fetch jobs from a specific company's career API
@@ -435,7 +449,7 @@ async function fetchSimplifyJobsData() {
                 job_state: job.locations?.[0]?.split(', ')?.[1] || 'Locations',
                 job_description: `Join ${job.company_name} in this exciting opportunity.`,
                 job_apply_link: job.url,
-                job_posted_at_datetime_utc: new Date(job.date_posted * 1000).toISOString(),
+                job_posted_at_datetime_utc: safeISOString(job.date_posted * 1000),
                 job_employment_type: 'FULLTIME'
             }));
 
