@@ -1,12 +1,22 @@
 [
   {
-    "job_title": "Data Center Engineering Operations Technician, DCC Communities",
+    "job_title": "Network Deployment Lead, DCC Communities",
     "employer_name": "Amazon",
-    "job_city": "Sterling",
-    "job_state": "VA",
+    "job_city": "Mesa",
+    "job_state": "AZ",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050503/data-center-engineering-operations-technician-dcc-communities",
-    "job_posted_at": "2025-08-02T00:00:00.000Z",
-    "id": "amazon-data-center-engineering-operations-technician-dcc-communities-sterling"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050505/network-deployment-lead-dcc-communities",
+    "job_posted_at": "2025-08-03T01:34:39.669Z",
+    "id": "amazon-network-deployment-lead-dcc-communities-mesa"
+  },
+  {
+    "job_title": "Global Category Manager, Project Kuiper",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2905649/global-category-manager-project-kuiper",
+    "job_posted_at": "2025-08-03T00:34:39.669Z",
+    "id": "amazon-global-category-manager-project-kuiper-redmond"
   }
 ]
