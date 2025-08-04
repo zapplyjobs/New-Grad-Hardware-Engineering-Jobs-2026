@@ -1,6 +1,7 @@
 const Puppeteer = require('puppeteer');
-const fs = require('fs');        // ADD THIS LINE
-const path = require('path');    // ADD THIS LINE
+const fs = require('fs');
+const path = require('path');
+
 function parseAmazonDate(postedDate, timeElapsed) {
     try {
         // Try to parse timeElapsed first (e.g., "2 days ago", "1 week ago")
@@ -44,8 +45,41 @@ function parseAmazonDate(postedDate, timeElapsed) {
         return new Date().toISOString();
     }
 }
-async function scrapeAmazonJobs() {
+
+// Helper function to build Amazon jobs URL
+function buildAmazonUrl(jobTitle = null, offset = 0) {
+    const baseUrl = 'https://amazon.jobs/en-gb/search?';
+    const params = new URLSearchParams({
+        offset: offset.toString(),
+        result_limit: '10',
+        sort: 'relevant',
+        'country[]': 'USA',
+        distanceType: 'Mi',
+        radius: '24km',
+        industry_experience: 'one_to_three_years',
+        latitude: '',
+        longitude: '',
+        loc_group_id: '',
+        loc_query: '',
+        base_query: jobTitle || '', // Add job title here
+        city: '',
+        country: '',
+        region: '',
+        county: '',
+        query_options: ''
+    });
+    
+    return baseUrl + params.toString();
+}
+
+async function scrapeAmazonJobs(specificJobTitle = null) {
     console.log('🔍 Starting Amazon job scraping...');
+    
+    if (specificJobTitle) {
+        console.log(`🎯 Searching for specific job: "${specificJobTitle}"`);
+    } else {
+        console.log('🔍 Using default search: All available jobs');
+    }
 
     const browser = await Puppeteer.launch({
         headless: true,
@@ -55,16 +89,22 @@ async function scrapeAmazonJobs() {
     const page = await browser.newPage();
     const maxPages = 13;
     let allJobs = [];
+    
     for (let offset = 0; offset < maxPages * 10; offset += 10) {
-        console.log(`📄 Scraping Amazon page ${offset / 10 + 1}...`);
+        const pageNum = offset / 10 + 1;
+        const searchType = specificJobTitle || 'all available jobs';
+        console.log(`📄 Scraping ${searchType} - Amazon page ${pageNum}...`);
+        
         try {
-            await page.goto(`https://amazon.jobs/en-gb/search?offset=${offset}&result_limit=10&sort=relevant&country%5B%5D=USA&distanceType=Mi&radius=24km&industry_experience=one_to_three_years&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&`, {
+            const url = buildAmazonUrl(specificJobTitle, offset);
+            console.log(`🔗 URL: ${url}`);
+            
+            await page.goto(url, {
                 waitUntil: 'networkidle2',
                 timeout: 10000
             });
 
             const jobs = await page.evaluate(() => {
-
                 const jobDivs = document.querySelectorAll('.job-tile-lists .job-tile');
                 const jobsarray = Array.from(jobDivs).map(job => {
                     return {
@@ -77,34 +117,42 @@ async function scrapeAmazonJobs() {
                         // Get just the first part of qualifications
                         qualificationsPreview: job.querySelector('.qualifications-preview')?.innerText.split('\n')[0] || ''
                     };
-
                 });
                 return jobsarray;
-
-
             });
-            console.log(`   Found ${jobs.length} jobs`);
+            
+            console.log(`   Found ${jobs.length} jobs on page ${pageNum}`);
 
             if (jobs.length === 0) {
-                console.log('   No more jobs found at page', offset / 10);
+                console.log(`   No more jobs found at page ${pageNum}, stopping...`);
+                break;
             }
 
             allJobs = [...allJobs, ...jobs];
             await new Promise(resolve => setTimeout(resolve, 2000));
+            
         } catch (error) {
-            console.error(`❌ Error scraping page ${offset / 10 + 1}:`, error.message);
+            console.error(`❌ Error scraping page ${pageNum}:`, error.message);
             continue;
         }
     }
-    console.log('Jobs found:', allJobs.length);
-    allJobs.forEach((job) => {
-        console.log(`job-details`, job);
+    
+    console.log('Total jobs found:', allJobs.length);
+    
+    // Log all job details
+    allJobs.forEach((job, index) => {
+        console.log(`job-details ${index + 1}:`, job);
     });
+    
     await browser.close();
 
+    // Remove duplicates based on jobId
+    const uniqueJobs = allJobs.filter((job, index, self) =>
+        index === self.findIndex(j => j.jobId === job.jobId && j.jobId !== '')
+    );
 
     // Transform to standard format
-    return allJobs.map(job => ({
+    const transformedJobs = uniqueJobs.map(job => ({
         job_title: job.title,
         employer_name: 'Amazon',
         job_city: job.location.split(', ')[0] || 'Multiple',
@@ -112,8 +160,57 @@ async function scrapeAmazonJobs() {
         job_description: job.qualificationsPreview || 'Management position at Amazon',
         job_apply_link: job.url,
         job_posted_at: parseAmazonDate(job.postedDate, job.timeElapsed),
-
+        job_posted_at_datetime_utc: parseAmazonDate(job.postedDate, job.timeElapsed),
     }));
+
+    console.log(`🎯 Amazon scraping completed: ${transformedJobs.length} unique jobs found`);
+
+    // Determine the filename based on whether it's a specific job search
+    // let fileName;
+    // if (specificJobTitle) {
+    //     // Convert job title to a safe filename (replace spaces with underscores, remove special characters)
+    //     const safeJobTitle = specificJobTitle.toLowerCase()
+    //         .replace(/[^a-z0-9\s]/g, '')
+    //         .replace(/\s+/g, '_');
+    //     fileName = `amazon_${safeJobTitle}_jobs.json`;
+    // } else {
+    //     fileName = 'amazon_jobs.json';
+    // }
+
+    // Save to JSON file
+    // try {
+    //     const filename = path.join(__dirname, fileName);
+    //     fs.writeFileSync(filename, JSON.stringify(transformedJobs, null, 2));
+    //     console.log(`💾 Saved ${transformedJobs.length} jobs to ${filename}`);
+    //     console.log(`📅 Save time: ${new Date().toLocaleString()}`);
+    // } catch (error) {
+    //     console.error('❌ Error saving jobs to file:', error);
+    // }
+
+    return transformedJobs;
 }
-scrapeAmazonJobs();
+
+// Export the function for use in other modules
 module.exports = scrapeAmazonJobs;
+
+// // Execute the script if run directly
+// if (require.main === module) {
+//     // Check if a specific job title was provided as a command line argument
+//     const args = process.argv.slice(2);
+//     // Join all arguments with spaces to handle multi-word job titles
+//     const specificJobTitle = args.length > 0 ? args.join(' ') : null;
+    
+//     if (specificJobTitle) {
+//         console.log(`🎯 Job title argument received: "${specificJobTitle}"`);
+//     }
+    
+//     scrapeAmazonJobs(specificJobTitle)
+//         .then(() => {
+//             console.log('\n✅ Amazon job scraping and saving completed!');
+//             process.exit(0);
+//         })
+//         .catch(error => {
+//             console.error('\n❌ Amazon job scraping failed:', error);
+//             process.exit(1);
+//         });
+// }

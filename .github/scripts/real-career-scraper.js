@@ -460,6 +460,11 @@ async function fetchAllRealJobs() {
         googleScraper(),
     ]);
     allJobs.push(...amazonJobs, ...metaJobs, ...microsoftJobs, ...googleJobs);
+
+
+  
+
+  
     const companiesWithAPIs = Object.keys(CAREER_APIS);
 
     // Fetch real jobs from companies with APIs

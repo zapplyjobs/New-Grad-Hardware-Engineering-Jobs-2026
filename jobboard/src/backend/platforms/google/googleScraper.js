@@ -84,6 +84,41 @@ function buildUrl(config, page = 1) {
   return baseUrl + params.toString();
 }
 
+function buildSpecificJobUrl(jobTitle, page = 1) {
+  const params = new URLSearchParams();
+  
+  // Add the specific job title in quotes for exact search
+  params.append('q', `"${jobTitle}"`);
+  
+  // Add location
+  params.append('location', 'United States');
+  
+  // Add target levels (same order as in your URLs)
+  const targetLevels = ['INTERN_AND_APPRENTICE', 'EARLY', 'ADVANCED', 'MID'];
+  targetLevels.forEach(level => {
+    params.append('target_level', level);
+  });
+  
+  // Add degrees (same order as in your URLs)
+  const degrees = ['MASTERS', 'ASSOCIATE', 'BACHELORS'];
+  degrees.forEach(degree => {
+    params.append('degree', degree);
+  });
+  
+  // Add employment types (same order as in your URLs)
+  const employmentTypes = ['TEMPORARY', 'INTERN', 'PART_TIME', 'FULL_TIME'];
+  employmentTypes.forEach(type => {
+    params.append('employment_type', type);
+  });
+  
+  // Add page parameter if it's not the first page
+  if (page > 1) {
+    params.append('page', page.toString());
+  }
+
+  return baseUrl + params.toString();
+}
+
 // Helper function to parse location into city and state
 function parseLocation(locationString) {
   if (!locationString || locationString === 'N/A') {
@@ -128,9 +163,19 @@ function transformJobData(scrapedJob) {
   };
 }
 
-async function scrapePage(page, config, pageNumber) {
-  const url = buildUrl(config, pageNumber);
-  console.log(`\n🔗 Scraping ${config.categoryName} - Page ${pageNumber} - URL: ${url}`);
+async function scrapePage(page, config, pageNumber, isSpecificJob = false) {
+  let url;
+  let categoryName;
+  
+  if (isSpecificJob) {
+    url = buildSpecificJobUrl(config.jobTitle, pageNumber);
+    categoryName = config.jobTitle;
+  } else {
+    url = buildUrl(config, pageNumber);
+    categoryName = config.categoryName;
+  }
+  
+  console.log(`\n🔗 Scraping ${categoryName} - Page ${pageNumber} - URL: ${url}`);
 
   await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
   console.log(`⏳ Waiting for job listings to load on page ${pageNumber}...`);
@@ -222,13 +267,13 @@ async function scrapePage(page, config, pageNumber) {
     });
 
     return results;
-  }, config.categoryName);
+  }, categoryName);
 
-  console.log(`✅ Found ${jobs.length} jobs on page ${pageNumber} for ${config.categoryName}`);
+  console.log(`✅ Found ${jobs.length} jobs on page ${pageNumber} for ${categoryName}`);
   return jobs;
 }
 
-async function scrapeJobs(config, configIndex) {
+async function scrapeJobs(config, configIndex, isSpecificJob = false) {
   const browser = await puppeteer.launch({
     headless: true,
     defaultViewport: null,
@@ -248,7 +293,7 @@ async function scrapeJobs(config, configIndex) {
 
     // Continue scraping until we find a page with less than 20 jobs
     while (hasMorePages) {
-      const jobs = await scrapePage(page, config, currentPage);
+      const jobs = await scrapePage(page, config, currentPage, isSpecificJob);
 
       if (jobs.length > 0) {
         allJobs.push(...jobs);
@@ -279,40 +324,66 @@ async function scrapeJobs(config, configIndex) {
       }
     }
 
-    console.log(`🎉 Total jobs scraped for ${config.categoryName}: ${allJobs.length} across ${currentPage} pages`);
+    const categoryName = isSpecificJob ? config.jobTitle : config.categoryName;
+    console.log(`🎉 Total jobs scraped for ${categoryName}: ${allJobs.length} across ${currentPage} pages`);
     return allJobs;
 
   } catch (err) {
-    console.error(`❌ Error scraping ${config.categoryName}:`, err);
+    const categoryName = isSpecificJob ? config.jobTitle : config.categoryName;
+    console.error(`❌ Error scraping ${categoryName}:`, err);
     return [];
   } finally {
     await browser.close();
   }
 }
 
-async function googleScraper() {
+async function googleScraper(specificJobTitle = null) {
   console.log('🚀 Starting Google Jobs Scraper with Pagination...');
+  
+  if (specificJobTitle) {
+    console.log(`🎯 Searching for specific job: "${specificJobTitle}"`);
+  }
+  
   const allScrapedJobs = [];
 
-  // Scrape each configuration
-  for (let i = 0; i < searchConfigs.length; i++) {
-    const jobs = await scrapeJobs(searchConfigs[i], i);
+  if (specificJobTitle) {
+    // Scrape specific job title
+    const config = { jobTitle: specificJobTitle };
+    const jobs = await scrapeJobs(config, 0, true);
     allScrapedJobs.push(...jobs);
+  } else {
+    // Scrape each configuration as before
+    for (let i = 0; i < searchConfigs.length; i++) {
+      const jobs = await scrapeJobs(searchConfigs[i], i, false);
+      allScrapedJobs.push(...jobs);
 
-    // Wait between configurations to be respectful
-    if (i < searchConfigs.length - 1) {
-      console.log('⏸ Waiting 5 seconds before next configuration...');
-      await new Promise(resolve => setTimeout(resolve, 5000));
+      // Wait between configurations to be respectful
+      if (i < searchConfigs.length - 1) {
+        console.log('⏸ Waiting 5 seconds before next configuration...');
+        await new Promise(resolve => setTimeout(resolve, 5000));
+      }
     }
   }
 
   // Transform scraped data to the format required by generateJobTable
   const transformedJobs = allScrapedJobs.map(transformJobData);
 
-  // Save to googlescrapingdata.json in the same directory as the script
-  const filePath = path.join(__dirname, 'googlescrapingdata.json');
-  fs.writeFileSync(filePath, JSON.stringify(transformedJobs, null, 2));
-  console.log(`📝 Saved ${transformedJobs.length} jobs to ${filePath}`);
+  // // Determine the filename based on whether it's a specific job search
+  // let fileName;
+  // if (specificJobTitle) {
+  //   // Convert job title to a safe filename (replace spaces with underscores, remove special characters)
+  //   const safeJobTitle = specificJobTitle.toLowerCase()
+  //     .replace(/[^a-z0-9\s]/g, '')
+  //     .replace(/\s+/g, '_');
+  //   fileName = `${safeJobTitle}_jobs.json`;
+  // } else {
+  //   fileName = 'googlescrapingdata.json';
+  // }
+
+  // Save to the appropriate JSON file in the same directory as the script
+  // const filePath = path.join(__dirname, fileName);
+  // fs.writeFileSync(filePath, JSON.stringify(transformedJobs, null, 2));
+  // console.log(`📝 Saved ${transformedJobs.length} jobs to ${filePath}`);
 
   // Display results in original format for debugging
   console.log(`\n=== 🧾 Total Jobs Found: ${allScrapedJobs.length} ===`);
@@ -338,7 +409,16 @@ async function googleScraper() {
 // Export the function for use in other modules
 module.exports = googleScraper;
 
-// Execute the script if run directly
-if (require.main === module) {
-  googleScraper().catch(console.error);
-}
+// // Execute the script if run directly
+// if (require.main === module) {
+//   // Check if a specific job title was provided as a command line argument
+//   const args = process.argv.slice(2);
+//   // Join all arguments with spaces to handle multi-word job titles
+//   const specificJobTitle = args.length > 0 ? args.join(' ') : null;
+  
+//   if (specificJobTitle) {
+//     console.log(`🎯 Job title argument received: "${specificJobTitle}"`);
+//   }
+  
+//   googleScraper(specificJobTitle).catch(console.error);
+// }
