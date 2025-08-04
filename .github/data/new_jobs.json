@@ -1,84 +1,145 @@
 [
   {
-    "job_title": "Executive Assistant, AWS Billing, AWS Billing",
+    "job_title": "Onsite Medical Representative",
+    "employer_name": "Amazon",
+    "job_city": "Pooler",
+    "job_state": "GA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2965431/onsite-medical-representative",
+    "job_posted_at": "2025-04-24T00:00:00.000Z",
+    "id": "amazon-onsite-medical-representative-pooler"
+  },
+  {
+    "job_title": "Executive Assistant, AWS WWCO Partner Management",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2938920/executive-assistant-aws-billing-aws-billing",
-    "job_posted_at": "2025-03-27T00:00:00.000Z",
-    "id": "amazon-executive-assistant-aws-billing-aws-billing-seattle"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2994900/executive-assistant-aws-wwco-partner-management",
+    "job_posted_at": "2025-05-28T00:00:00.000Z",
+    "id": "amazon-executive-assistant-aws-wwco-partner-management-seattle"
   },
   {
-    "job_title": "Area Manager (Level 5)",
+    "job_title": "Executive Assistant, Amazon Fulfillment Tech",
     "employer_name": "Amazon",
-    "job_city": "Fargo",
-    "job_state": "ND",
+    "job_city": "Bellevue",
+    "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2999680/area-manager-level-5",
-    "job_posted_at": "2025-06-04T00:00:00.000Z",
-    "id": "amazon-area-manager-level-5-fargo"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3042588/executive-assistant-amazon-fulfillment-tech",
+    "job_posted_at": "2025-07-24T00:00:00.000Z",
+    "id": "amazon-executive-assistant-amazon-fulfillment-tech-bellevue"
   },
   {
-    "job_title": "Materials Manager, Devices Supply Chain & Logistics",
+    "job_title": "NTE Security Manager, Non-Traditional Environment Security",
     "employer_name": "Amazon",
-    "job_city": "Sunnyvale",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2982224/nte-security-manager-non-traditional-environment-security",
+    "job_posted_at": "2025-05-14T00:00:00.000Z",
+    "id": "amazon-nte-security-manager-non-traditional-environment-security-boston"
+  },
+  {
+    "job_title": "Executive Assistant, Annapurna Labs, AWS",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
     "job_state": "CA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050838/materials-manager-devices-supply-chain-logistics",
-    "job_posted_at": "2025-08-04T00:00:00.000Z",
-    "id": "amazon-materials-manager-devices-supply-chain-logistics-sunnyvale"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2915391/executive-assistant-annapurna-labs-aws",
+    "job_posted_at": "2025-03-02T00:00:00.000Z",
+    "id": "amazon-executive-assistant-annapurna-labs-aws-cupertino"
   },
   {
-    "job_title": "Data Center Operations Manager",
+    "job_title": "Executive Assistant, Drones Engineering Team, Prime Air",
     "employer_name": "Amazon",
-    "job_city": "Sterling",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2877114/executive-assistant-drones-engineering-team-prime-air",
+    "job_posted_at": "2025-01-18T00:00:00.000Z",
+    "id": "amazon-executive-assistant-drones-engineering-team-prime-air-seattle"
+  },
+  {
+    "job_title": "Executive Assistant, Shopping Design",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3012289/executive-assistant-shopping-design",
+    "job_posted_at": "2025-08-04T13:33:26.333Z",
+    "id": "amazon-executive-assistant-shopping-design-seattle"
+  },
+  {
+    "job_title": "Executive Assistant, Selling Partner Communities (SPC)",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2966368/executive-assistant-selling-partner-communities-spc",
+    "job_posted_at": "2025-08-04T13:33:26.333Z",
+    "id": "amazon-executive-assistant-selling-partner-communities-spc-seattle"
+  },
+  {
+    "job_title": "Accounts Receivable (AR) Analyst , FinOps HQ2",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
     "job_state": "VA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050798/data-center-operations-manager",
-    "job_posted_at": "2025-08-04T12:02:14.756Z",
-    "id": "amazon-data-center-operations-manager-sterling"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2808578/accounts-receivable-ar-analyst-finops-hq2",
+    "job_posted_at": "2025-08-04T13:33:26.333Z",
+    "id": "amazon-accounts-receivable-ar-analyst-finops-hq2-arlington"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Customer Engineer I",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Customer Engineer I, Platform, Retail, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/120511543090520774-customer-engineer-i-platform-retail-google-cloud?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=10",
-    "id": "google-customer-engineer-i-sunnyvale"
+    "job_title": "Software Development Engineer, EC2 Nitro Instance Networking",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3048253/software-development-engineer-ec2-nitro-instance-networking",
+    "job_posted_at": "2025-08-04T13:33:26.333Z",
+    "id": "amazon-software-development-engineer-ec2-nitro-instance-networking-seattle"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Senior Software Developer",
-    "job_city": "Boulder",
-    "job_state": "CO",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Software Developer, Front End, Google Workspace",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/93344675573703366-senior-software-developer-front-end-google-workspace?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=10",
-    "id": "google-senior-software-developer-boulder"
+    "job_title": "Area Manager II",
+    "employer_name": "Amazon",
+    "job_city": "Windsor",
+    "job_state": "CT",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2983474/area-manager-ii",
+    "job_posted_at": "2025-08-04T13:33:26.333Z",
+    "id": "amazon-area-manager-ii-windsor"
   },
   {
-    "job_title": "Cybersecurity Tech Support Engineer - Cloud Protection",
+    "job_title": "Technical Support Engineering-Directory Services",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852692",
-    "job_posted_at_datetime_utc": "2025-08-04T13:09:05.679Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849443",
+    "job_posted_at_datetime_utc": "2025-08-04T14:40:18.171Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-cybersecurity-tech-support-engineer-cloud-protection-redmond"
+    "id": "microsoft-technical-support-engineering-directory-services-redmond"
   },
   {
-    "job_title": "Principal Software Engineer",
+    "job_title": "Software Engineer II - CTJ - Poly",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856316",
-    "job_posted_at_datetime_utc": "2025-08-04T13:09:05.679Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856256",
+    "job_posted_at_datetime_utc": "2025-08-04T14:40:18.171Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-redmond"
+    "id": "microsoft-software-engineer-ii-ctj-poly-redmond"
+  },
+  {
+    "job_title": "AI Business Process Solutions Engineer: Customer Experience and Customer Service",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854883",
+    "job_posted_at_datetime_utc": "2025-08-04T14:40:18.171Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-ai-business-process-solutions-engineer-customer-experience-and-customer-service-redmond"
   }
 ]
