@@ -1,145 +1,125 @@
 [
   {
-    "job_title": "Onsite Medical Representative",
+    "job_title": "Overnight Staff Pharmacist, Amazon Pharmacy",
     "employer_name": "Amazon",
-    "job_city": "Pooler",
-    "job_state": "GA",
+    "job_city": "Elmwood",
+    "job_state": "LA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2965431/onsite-medical-representative",
-    "job_posted_at": "2025-04-24T00:00:00.000Z",
-    "id": "amazon-onsite-medical-representative-pooler"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3021752/overnight-staff-pharmacist-amazon-pharmacy",
+    "job_posted_at": "2025-06-30T00:00:00.000Z",
+    "id": "amazon-overnight-staff-pharmacist-amazon-pharmacy-elmwood"
   },
   {
-    "job_title": "Executive Assistant, AWS WWCO Partner Management",
+    "job_title": "Staff Pharmacist, Amazon Pharmacy",
+    "employer_name": "Amazon",
+    "job_city": "Elmwood",
+    "job_state": "LA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3021801/staff-pharmacist-amazon-pharmacy",
+    "job_posted_at": "2025-06-30T00:00:00.000Z",
+    "id": "amazon-staff-pharmacist-amazon-pharmacy-elmwood"
+  },
+  {
+    "job_title": "Controls Technician, Data Center Capacity Delivery",
+    "employer_name": "Amazon",
+    "job_city": "Plain City",
+    "job_state": "OH",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2986457/controls-technician-data-center-capacity-delivery",
+    "job_posted_at": "2025-05-19T00:00:00.000Z",
+    "id": "amazon-controls-technician-data-center-capacity-delivery-plain-city"
+  },
+  {
+    "job_title": "Applied Scientist, SPSE Titans Science",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2994900/executive-assistant-aws-wwco-partner-management",
-    "job_posted_at": "2025-05-28T00:00:00.000Z",
-    "id": "amazon-executive-assistant-aws-wwco-partner-management-seattle"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3019736/applied-scientist-spse-titans-science",
+    "job_posted_at": "2025-06-26T00:00:00.000Z",
+    "id": "amazon-applied-scientist-spse-titans-science-seattle"
   },
   {
-    "job_title": "Executive Assistant, Amazon Fulfillment Tech",
+    "job_title": "Health and Safety Auditor , AWS Health and Safety Program Team",
     "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3042588/executive-assistant-amazon-fulfillment-tech",
-    "job_posted_at": "2025-07-24T00:00:00.000Z",
-    "id": "amazon-executive-assistant-amazon-fulfillment-tech-bellevue"
-  },
-  {
-    "job_title": "NTE Security Manager, Non-Traditional Environment Security",
-    "employer_name": "Amazon",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2982224/nte-security-manager-non-traditional-environment-security",
-    "job_posted_at": "2025-05-14T00:00:00.000Z",
-    "id": "amazon-nte-security-manager-non-traditional-environment-security-boston"
-  },
-  {
-    "job_title": "Executive Assistant, Annapurna Labs, AWS",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2915391/executive-assistant-annapurna-labs-aws",
-    "job_posted_at": "2025-03-02T00:00:00.000Z",
-    "id": "amazon-executive-assistant-annapurna-labs-aws-cupertino"
-  },
-  {
-    "job_title": "Executive Assistant, Drones Engineering Team, Prime Air",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2877114/executive-assistant-drones-engineering-team-prime-air",
-    "job_posted_at": "2025-01-18T00:00:00.000Z",
-    "id": "amazon-executive-assistant-drones-engineering-team-prime-air-seattle"
-  },
-  {
-    "job_title": "Executive Assistant, Shopping Design",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3012289/executive-assistant-shopping-design",
-    "job_posted_at": "2025-08-04T13:33:26.333Z",
-    "id": "amazon-executive-assistant-shopping-design-seattle"
-  },
-  {
-    "job_title": "Executive Assistant, Selling Partner Communities (SPC)",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2966368/executive-assistant-selling-partner-communities-spc",
-    "job_posted_at": "2025-08-04T13:33:26.333Z",
-    "id": "amazon-executive-assistant-selling-partner-communities-spc-seattle"
-  },
-  {
-    "job_title": "Accounts Receivable (AR) Analyst , FinOps HQ2",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
+    "job_city": "Herndon",
     "job_state": "VA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2808578/accounts-receivable-ar-analyst-finops-hq2",
-    "job_posted_at": "2025-08-04T13:33:26.333Z",
-    "id": "amazon-accounts-receivable-ar-analyst-finops-hq2-arlington"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050988/health-and-safety-auditor-aws-health-and-safety-program-team",
+    "job_posted_at": "2025-08-04T00:00:00.000Z",
+    "id": "amazon-health-and-safety-auditor-aws-health-and-safety-program-team-herndon"
   },
   {
-    "job_title": "Software Development Engineer, EC2 Nitro Instance Networking",
+    "job_title": "EHS Specialist",
+    "employer_name": "Amazon",
+    "job_city": "Carrollton",
+    "job_state": "TX",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3046605/ehs-specialist",
+    "job_posted_at": "2025-08-04T14:33:14.887Z",
+    "id": "amazon-ehs-specialist-carrollton"
+  },
+  {
+    "job_title": "Onsite Medical Representative",
+    "employer_name": "Amazon",
+    "job_city": "Hagerstown",
+    "job_state": "MD",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2942899/onsite-medical-representative",
+    "job_posted_at": "2025-08-04T14:33:14.887Z",
+    "id": "amazon-onsite-medical-representative-hagerstown"
+  },
+  {
+    "job_title": "Executive Assistant, AWS Security Services (S2)",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3048253/software-development-engineer-ec2-nitro-instance-networking",
-    "job_posted_at": "2025-08-04T13:33:26.333Z",
-    "id": "amazon-software-development-engineer-ec2-nitro-instance-networking-seattle"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050973/executive-assistant-aws-security-services-s2",
+    "job_posted_at": "2025-08-04T14:33:14.887Z",
+    "id": "amazon-executive-assistant-aws-security-services-s2-seattle"
   },
   {
-    "job_title": "Area Manager II",
+    "job_title": "Applied Scientist, Ad Catalyst",
     "employer_name": "Amazon",
-    "job_city": "Windsor",
-    "job_state": "CT",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2983474/area-manager-ii",
-    "job_posted_at": "2025-08-04T13:33:26.333Z",
-    "id": "amazon-area-manager-ii-windsor"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050974/applied-scientist-ad-catalyst",
+    "job_posted_at": "2025-08-04T14:33:14.887Z",
+    "id": "amazon-applied-scientist-ad-catalyst-new-york"
   },
   {
-    "job_title": "Technical Support Engineering-Directory Services",
+    "job_title": "Solution Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849443",
-    "job_posted_at_datetime_utc": "2025-08-04T14:40:18.171Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849174",
+    "job_posted_at_datetime_utc": "2025-08-04T15:40:07.463Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-directory-services-redmond"
+    "id": "microsoft-solution-engineer-redmond"
   },
   {
-    "job_title": "Software Engineer II - CTJ - Poly",
+    "job_title": "Cloud & AI Solution Engineer – Data Platform",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856256",
-    "job_posted_at_datetime_utc": "2025-08-04T14:40:18.171Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1830436",
+    "job_posted_at_datetime_utc": "2025-08-04T15:40:07.463Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-ctj-poly-redmond"
+    "id": "microsoft-cloud-ai-solution-engineer-data-platform-redmond"
   },
   {
-    "job_title": "AI Business Process Solutions Engineer: Customer Experience and Customer Service",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854883",
-    "job_posted_at_datetime_utc": "2025-08-04T14:40:18.171Z",
+    "job_title": "Senior Business Solutions Engineer, BizTech",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/7120633",
+    "job_posted_at_datetime_utc": "2025-08-04T15:36:03.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-ai-business-process-solutions-engineer-customer-experience-and-customer-service-redmond"
+    "id": "airbnb-senior-business-solutions-engineer-biztech-united-states"
   }
 ]
