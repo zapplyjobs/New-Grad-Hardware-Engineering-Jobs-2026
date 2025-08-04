@@ -1,87 +1,76 @@
 [
   {
-    "job_title": "Applied Scientist, Buyer Abuse Prevention ML, Buyer Abuse Prevention Machine Learning",
+    "job_title": "Software Development Engineer II, BuilderWorks",
     "employer_name": "Amazon",
-    "job_city": "San Diego",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2965262/software-development-engineer-ii-builderworks",
+    "job_posted_at": "2025-04-24T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-ii-builderworks-seattle"
+  },
+  {
+    "job_title": "Machine Learning Engineer, Insights, Data Engineering, Econometrics, Analytics & Science (IDEAS)",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2997338/machine-learning-engineer-insights-data-engineering-econometrics-analytics-science-ideas",
+    "job_posted_at": "2025-08-04T04:42:14.928Z",
+    "id": "amazon-machine-learning-engineer-insights-data-engineering-econometrics-analytics-science-ideas-seattle"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Data Scientist",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050615/applied-scientist-buyer-abuse-prevention-ml-buyer-abuse-prevention-machine-learning",
-    "job_posted_at": "2025-08-04T03:20:41.544Z",
-    "id": "amazon-applied-scientist-buyer-abuse-prevention-ml-buyer-abuse-prevention-machine-learning-san-diego"
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Scientist, Energy Analytics, Google Cloud",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/117969823320679110-data-scientist-energy-analytics-google-cloud?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=10",
+    "id": "google-data-scientist-sunnyvale"
   },
   {
-    "job_title": "Delivery Consultant - Data Analytics, AWS Professional Services",
-    "employer_name": "Amazon",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050605/delivery-consultant-data-analytics-aws-professional-services",
-    "job_posted_at": "2025-08-04T02:20:41.544Z",
-    "id": "amazon-delivery-consultant-data-analytics-aws-professional-services-dallas"
-  },
-  {
-    "job_title": "Delivery Consultant - Cloud Infrastructure Architect, AWS Professional Services",
-    "employer_name": "Amazon",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050607/delivery-consultant-cloud-infrastructure-architect-aws-professional-services",
-    "job_posted_at": "2025-08-04T02:20:41.544Z",
-    "id": "amazon-delivery-consultant-cloud-infrastructure-architect-aws-professional-services-dallas"
-  },
-  {
-    "job_title": "Azure Infra Solution Engineer, Digital Native",
+    "job_title": "App Developer-Low Code",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1833534",
-    "job_posted_at_datetime_utc": "2025-08-04T04:27:32.073Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856609",
+    "job_posted_at_datetime_utc": "2025-08-04T05:49:08.199Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-azure-infra-solution-engineer-digital-native-redmond"
+    "id": "microsoft-app-developer-low-code-redmond"
   },
   {
-    "job_title": "Principal Applied AI Engineer",
+    "job_title": "Technical Support Engineering Manager - Dynamics CRM and Power Platform",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855330",
-    "job_posted_at_datetime_utc": "2025-08-04T04:27:32.073Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854796",
+    "job_posted_at_datetime_utc": "2025-08-04T05:49:08.199Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-applied-ai-engineer-redmond"
+    "id": "microsoft-technical-support-engineering-manager-dynamics-crm-and-power-platform-redmond"
   },
   {
-    "job_title": "Technical Support Engineer",
+    "job_title": "Critical Environment Technician/Engineer Electrical Chargeman",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856366",
-    "job_posted_at_datetime_utc": "2025-08-04T04:27:32.073Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1848785",
+    "job_posted_at_datetime_utc": "2025-08-04T05:49:08.199Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineer-redmond"
+    "id": "microsoft-critical-environment-technician-engineer-electrical-chargeman-redmond"
   },
   {
-    "job_title": "Technical Support Engineer-Microsoft Power Platform",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856364",
-    "job_posted_at_datetime_utc": "2025-08-04T04:27:32.073Z",
+    "job_title": "Software Engineer - Backend",
+    "employer_name": "Databricks",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6728479002",
+    "job_posted_at_datetime_utc": "2025-08-04T05:04:13.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineer-microsoft-power-platform-redmond"
-  },
-  {
-    "job_title": "Engineering Manager, Trading",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - India",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7010522?gh_jid=7010522",
-    "job_posted_at_datetime_utc": "2025-08-04T03:56:05.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-engineering-manager-trading-remote-india"
+    "id": "databricks-software-engineer-backend-bengaluru"
   }
 ]
