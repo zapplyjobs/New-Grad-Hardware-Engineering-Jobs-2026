@@ -1,125 +1,340 @@
 [
   {
-    "job_title": "Overnight Staff Pharmacist, Amazon Pharmacy",
-    "employer_name": "Amazon",
-    "job_city": "Elmwood",
-    "job_state": "LA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3021752/overnight-staff-pharmacist-amazon-pharmacy",
-    "job_posted_at": "2025-06-30T00:00:00.000Z",
-    "id": "amazon-overnight-staff-pharmacist-amazon-pharmacy-elmwood"
-  },
-  {
-    "job_title": "Staff Pharmacist, Amazon Pharmacy",
-    "employer_name": "Amazon",
-    "job_city": "Elmwood",
-    "job_state": "LA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3021801/staff-pharmacist-amazon-pharmacy",
-    "job_posted_at": "2025-06-30T00:00:00.000Z",
-    "id": "amazon-staff-pharmacist-amazon-pharmacy-elmwood"
-  },
-  {
-    "job_title": "Controls Technician, Data Center Capacity Delivery",
-    "employer_name": "Amazon",
-    "job_city": "Plain City",
-    "job_state": "OH",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2986457/controls-technician-data-center-capacity-delivery",
-    "job_posted_at": "2025-05-19T00:00:00.000Z",
-    "id": "amazon-controls-technician-data-center-capacity-delivery-plain-city"
-  },
-  {
-    "job_title": "Applied Scientist, SPSE Titans Science",
+    "job_title": "Security Engineer, Devices, Devices and Services Security",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3019736/applied-scientist-spse-titans-science",
-    "job_posted_at": "2025-06-26T00:00:00.000Z",
-    "id": "amazon-applied-scientist-spse-titans-science-seattle"
-  },
-  {
-    "job_title": "Health and Safety Auditor , AWS Health and Safety Program Team",
-    "employer_name": "Amazon",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050988/health-and-safety-auditor-aws-health-and-safety-program-team",
-    "job_posted_at": "2025-08-04T00:00:00.000Z",
-    "id": "amazon-health-and-safety-auditor-aws-health-and-safety-program-team-herndon"
-  },
-  {
-    "job_title": "EHS Specialist",
-    "employer_name": "Amazon",
-    "job_city": "Carrollton",
-    "job_state": "TX",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3046605/ehs-specialist",
-    "job_posted_at": "2025-08-04T14:33:14.887Z",
-    "id": "amazon-ehs-specialist-carrollton"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2947722/security-engineer-devices-devices-and-services-security",
+    "job_posted_at": "2025-04-07T00:00:00.000Z",
+    "id": "amazon-security-engineer-devices-devices-and-services-security-seattle"
   },
   {
     "job_title": "Onsite Medical Representative",
     "employer_name": "Amazon",
-    "job_city": "Hagerstown",
-    "job_state": "MD",
+    "job_city": "Tracy",
+    "job_state": "CA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2942899/onsite-medical-representative",
-    "job_posted_at": "2025-08-04T14:33:14.887Z",
-    "id": "amazon-onsite-medical-representative-hagerstown"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3036253/onsite-medical-representative",
+    "job_posted_at": "2025-07-16T00:00:00.000Z",
+    "id": "amazon-onsite-medical-representative-tracy"
   },
   {
-    "job_title": "Executive Assistant, AWS Security Services (S2)",
+    "job_title": "Solutions Architect, US ENT Energy",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3034513/solutions-architect-us-ent-energy",
+    "job_posted_at": "2025-07-15T00:00:00.000Z",
+    "id": "amazon-solutions-architect-us-ent-energy-arlington"
+  },
+  {
+    "job_title": "Lead Space Simulation Tech-2nd Shift, Project Kuiper",
+    "employer_name": "Amazon",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2927583/lead-space-simulation-tech-2nd-shift-project-kuiper",
+    "job_posted_at": "2025-03-14T00:00:00.000Z",
+    "id": "amazon-lead-space-simulation-tech-2nd-shift-project-kuiper-kirkland"
+  },
+  {
+    "job_title": "Lead Space Sim Tech-2nd Shift, Project Kuiper",
+    "employer_name": "Amazon",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3031202/lead-space-sim-tech-2nd-shift-project-kuiper",
+    "job_posted_at": "2025-07-10T00:00:00.000Z",
+    "id": "amazon-lead-space-sim-tech-2nd-shift-project-kuiper-kirkland"
+  },
+  {
+    "job_title": "Staff Pharmacist - Nights, Amazon Pharmacy",
+    "employer_name": "Amazon",
+    "job_city": "Corona",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3045504/staff-pharmacist-nights-amazon-pharmacy",
+    "job_posted_at": "2025-07-28T00:00:00.000Z",
+    "id": "amazon-staff-pharmacist-nights-amazon-pharmacy-corona"
+  },
+  {
+    "job_title": "Lead Space Sim Tech-1st Shift, Project Kuiper",
+    "employer_name": "Amazon",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3017089/lead-space-sim-tech-1st-shift-project-kuiper",
+    "job_posted_at": "2025-06-24T00:00:00.000Z",
+    "id": "amazon-lead-space-sim-tech-1st-shift-project-kuiper-kirkland"
+  },
+  {
+    "job_title": "Design Verification Engineer",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2819946/design-verification-engineer",
+    "job_posted_at": "2024-11-01T00:00:00.000Z",
+    "id": "amazon-design-verification-engineer-austin"
+  },
+  {
+    "job_title": "Automation Engineer",
+    "employer_name": "Amazon",
+    "job_city": "Richmond",
+    "job_state": "VA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3001304/automation-engineer",
+    "job_posted_at": "2025-06-05T00:00:00.000Z",
+    "id": "amazon-automation-engineer-richmond"
+  },
+  {
+    "job_title": "Research Scientist, Special Projects",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050973/executive-assistant-aws-security-services-s2",
-    "job_posted_at": "2025-08-04T14:33:14.887Z",
-    "id": "amazon-executive-assistant-aws-security-services-s2-seattle"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3051041/research-scientist-special-projects",
+    "job_posted_at": "2025-08-04T00:00:00.000Z",
+    "id": "amazon-research-scientist-special-projects-seattle"
   },
   {
-    "job_title": "Applied Scientist, Ad Catalyst",
+    "job_title": "Executive Assistant, Selling Partner Services",
     "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_city": "Bellevue",
+    "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050974/applied-scientist-ad-catalyst",
-    "job_posted_at": "2025-08-04T14:33:14.887Z",
-    "id": "amazon-applied-scientist-ad-catalyst-new-york"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3041183/executive-assistant-selling-partner-services",
+    "job_posted_at": "2025-08-04T15:39:06.141Z",
+    "id": "amazon-executive-assistant-selling-partner-services-bellevue"
   },
   {
-    "job_title": "Solution Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849174",
-    "job_posted_at_datetime_utc": "2025-08-04T15:40:07.463Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineer-redmond"
-  },
-  {
-    "job_title": "Cloud & AI Solution Engineer – Data Platform",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1830436",
-    "job_posted_at_datetime_utc": "2025-08-04T15:40:07.463Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-ai-solution-engineer-data-platform-redmond"
-  },
-  {
-    "job_title": "Senior Business Solutions Engineer, BizTech",
-    "employer_name": "Airbnb",
-    "job_city": "United States",
+    "job_title": "Jr. Software Development Engineer",
+    "employer_name": "Amazon",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/7120633",
-    "job_posted_at_datetime_utc": "2025-08-04T15:36:03.000Z",
+    "job_description": "Currently enrolled in an accredited college or university Bachelor's or Master's degree program. Majoring in Computer Science, Software Engineering, or related STEM field. Graduating June 2027 and beyond. Ability to work year-round until graduation (part-time during the school year and full-time during the summer). This role is not offered as remote or hybrid and working hours must be conducted in person at our corporate office in Sunnyvales, CA. Candidates must be living within commutable distance to Detroit and able to work in-person year-round. Able to start working with the cohort in January, June or September 2025. Programming experience with at least one modern language such as Java, Python, or C++ including object-oriented design.",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3051038/jr-software-development-engineer",
+    "job_posted_at": "2025-08-04T15:39:06.141Z",
+    "id": "amazon-jr-software-development-engineer-sunnyvale"
+  },
+  {
+    "job_title": "Sr Customer Success Mgr, Strategic Account Services",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3025168/sr-customer-success-mgr-strategic-account-services",
+    "job_posted_at": "2025-08-04T15:39:06.141Z",
+    "id": "amazon-sr-customer-success-mgr-strategic-account-services-austin"
+  },
+  {
+    "job_title": "Software Development Engineer, AWS Network Firewall",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3040847/software-development-engineer-aws-network-firewall",
+    "job_posted_at": "2025-08-04T15:39:06.141Z",
+    "id": "amazon-software-development-engineer-aws-network-firewall-herndon"
+  },
+  {
+    "job_title": "AWS Security TPM, SecOps Risk",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2966277/aws-security-tpm-secops-risk",
+    "job_posted_at": "2025-08-04T15:39:06.141Z",
+    "id": "amazon-aws-security-tpm-secops-risk-herndon"
+  },
+  {
+    "job_title": "Area Manager",
+    "employer_name": "Amazon",
+    "job_city": "Republic",
+    "job_state": "MO",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3013554/area-manager",
+    "job_posted_at": "2025-08-04T15:39:06.141Z",
+    "id": "amazon-area-manager-republic"
+  },
+  {
+    "job_title": "Executive Assistant, Regional Operations",
+    "employer_name": "Amazon",
+    "job_city": "Nashville",
+    "job_state": "TN",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3051011/executive-assistant-regional-operations",
+    "job_posted_at": "2025-08-04T15:39:06.141Z",
+    "id": "amazon-executive-assistant-regional-operations-nashville"
+  },
+  {
+    "job_title": "2026 Applied Science Internship - Information & Knowledge Management (Machine Learning) - United States, PhD Student Science Recruiting",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3051018/2026-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting",
+    "job_posted_at": "2025-08-04T15:39:06.141Z",
+    "id": "amazon-2026-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting-seattle"
+  },
+  {
+    "job_title": "2026 Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3051006/2026-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting",
+    "job_posted_at": "2025-08-04T15:39:06.141Z",
+    "id": "amazon-2026-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting-seattle"
+  },
+  {
+    "job_title": "2026 Applied Science Internship - Natural Language Processing and Speech Technologies - United States, PhD Student Science Recruiting",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3051025/2026-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting",
+    "job_posted_at": "2025-08-04T15:39:06.141Z",
+    "id": "amazon-2026-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting-seattle"
+  },
+  {
+    "job_title": "Health and Safety Lead Auditor, AWS Health and Safety Program Team",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3051014/health-and-safety-lead-auditor-aws-health-and-safety-program-team",
+    "job_posted_at": "2025-08-04T15:39:06.141Z",
+    "id": "amazon-health-and-safety-lead-auditor-aws-health-and-safety-program-team-herndon"
+  },
+  {
+    "job_title": "Front End Engineer - Alexa Endpoints, Alexa Endpoints",
+    "employer_name": "Amazon",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3051029/front-end-engineer-alexa-endpoints-alexa-endpoints",
+    "job_posted_at": "2025-08-04T15:39:06.141Z",
+    "id": "amazon-front-end-engineer-alexa-endpoints-alexa-endpoints-boston"
+  },
+  {
+    "job_title": "Amazon Robotics - Applied Scientist, Amazon Robotics",
+    "employer_name": "Amazon",
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3051026/amazon-robotics-applied-scientist-amazon-robotics",
+    "job_posted_at": "2025-08-04T15:39:06.141Z",
+    "id": "amazon-amazon-robotics-applied-scientist-amazon-robotics-north-reading"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Developer II",
+    "job_city": "Pittsburgh",
+    "job_state": "PA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Software Developer II, Site Reliability Engineering",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/77447322278994630-software-developer-ii-site-reliability-engineering?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=2",
+    "id": "google-software-developer-ii-pittsburgh"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Senior Software Engineer",
+    "job_city": "Boulder",
+    "job_state": "CO",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Software Engineer, Front End, Google Workspace",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/93344675573703366-senior-software-engineer-front-end-google-workspace?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=10",
+    "id": "google-senior-software-engineer-boulder"
+  },
+  {
+    "job_title": "Software Engineering Manager",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1848318",
+    "job_posted_at_datetime_utc": "2025-08-04T16:45:57.862Z",
     "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-business-solutions-engineer-biztech-united-states"
+    "id": "microsoft-software-engineering-manager-redmond"
+  },
+  {
+    "job_title": "Principal Software Engineer - MSAI",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1853999",
+    "job_posted_at_datetime_utc": "2025-08-04T16:45:57.862Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-software-engineer-msai-redmond"
+  },
+  {
+    "job_title": "Fullstack Engineer, Privy",
+    "employer_name": "Stripe",
+    "job_city": "NYC-Privy",
+    "job_state": "US-Remote",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7108501",
+    "job_posted_at_datetime_utc": "2025-08-04T15:56:08.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-fullstack-engineer-privy-nyc-privy"
+  },
+  {
+    "job_title": "Backend Platform Engineer, Privy",
+    "employer_name": "Stripe",
+    "job_city": "NYC-Privy",
+    "job_state": "US-Remote",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7088616",
+    "job_posted_at_datetime_utc": "2025-08-04T15:53:11.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-backend-platform-engineer-privy-nyc-privy"
+  },
+  {
+    "job_title": "Software Engineer",
+    "employer_name": "Lyft",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8083618002?gh_jid=8083618002",
+    "job_posted_at_datetime_utc": "2025-08-04T15:50:14.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-software-engineer-seattle"
+  },
+  {
+    "job_title": "Developer Experience Engineer, Privy",
+    "employer_name": "Stripe",
+    "job_city": "NYC-Privy",
+    "job_state": "US-Remote",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7104344",
+    "job_posted_at_datetime_utc": "2025-08-04T15:48:35.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-developer-experience-engineer-privy-nyc-privy"
+  },
+  {
+    "job_title": "Security Engineer, Privy",
+    "employer_name": "Stripe",
+    "job_city": "NYC-Privy",
+    "job_state": "US-Remote",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7104148",
+    "job_posted_at_datetime_utc": "2025-08-04T15:45:21.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-security-engineer-privy-nyc-privy"
+  },
+  {
+    "job_title": "Frontend Engineer, Privy",
+    "employer_name": "Stripe",
+    "job_city": "NYC-Privy",
+    "job_state": "US-Remote ",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7091959",
+    "job_posted_at_datetime_utc": "2025-08-04T15:42:07.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-frontend-engineer-privy-nyc-privy"
   }
 ]
