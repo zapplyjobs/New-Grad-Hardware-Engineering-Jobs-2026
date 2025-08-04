@@ -1,57 +1,87 @@
 [
   {
-    "job_title": "Technical Support Engineering IC3",
+    "job_title": "Applied Scientist, Buyer Abuse Prevention ML, Buyer Abuse Prevention Machine Learning",
+    "employer_name": "Amazon",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050615/applied-scientist-buyer-abuse-prevention-ml-buyer-abuse-prevention-machine-learning",
+    "job_posted_at": "2025-08-04T03:20:41.544Z",
+    "id": "amazon-applied-scientist-buyer-abuse-prevention-ml-buyer-abuse-prevention-machine-learning-san-diego"
+  },
+  {
+    "job_title": "Delivery Consultant - Data Analytics, AWS Professional Services",
+    "employer_name": "Amazon",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050605/delivery-consultant-data-analytics-aws-professional-services",
+    "job_posted_at": "2025-08-04T02:20:41.544Z",
+    "id": "amazon-delivery-consultant-data-analytics-aws-professional-services-dallas"
+  },
+  {
+    "job_title": "Delivery Consultant - Cloud Infrastructure Architect, AWS Professional Services",
+    "employer_name": "Amazon",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3050607/delivery-consultant-cloud-infrastructure-architect-aws-professional-services",
+    "job_posted_at": "2025-08-04T02:20:41.544Z",
+    "id": "amazon-delivery-consultant-cloud-infrastructure-architect-aws-professional-services-dallas"
+  },
+  {
+    "job_title": "Azure Infra Solution Engineer, Digital Native",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1833534",
+    "job_posted_at_datetime_utc": "2025-08-04T04:27:32.073Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-azure-infra-solution-engineer-digital-native-redmond"
+  },
+  {
+    "job_title": "Principal Applied AI Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855330",
+    "job_posted_at_datetime_utc": "2025-08-04T04:27:32.073Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-applied-ai-engineer-redmond"
+  },
+  {
+    "job_title": "Technical Support Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
     "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856366",
-    "job_posted_at_datetime_utc": "2025-08-04T02:40:41.682Z",
+    "job_posted_at_datetime_utc": "2025-08-04T04:27:32.073Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-ic3-redmond"
+    "id": "microsoft-technical-support-engineer-redmond"
   },
   {
-    "job_title": "Software Engineer Internship Opportunities",
+    "job_title": "Technical Support Engineer-Microsoft Power Platform",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855634",
-    "job_posted_at_datetime_utc": "2025-08-04T02:40:41.682Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856364",
+    "job_posted_at_datetime_utc": "2025-08-04T04:27:32.073Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-internship-opportunities-redmond"
+    "id": "microsoft-technical-support-engineer-microsoft-power-platform-redmond"
   },
   {
-    "job_title": "Technical Support Engineer- Dynamics 365 Finance",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854792",
-    "job_posted_at_datetime_utc": "2025-08-04T02:40:41.682Z",
+    "job_title": "Engineering Manager, Trading",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - India",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7010522?gh_jid=7010522",
+    "job_posted_at_datetime_utc": "2025-08-04T03:56:05.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineer-dynamics-365-finance-redmond"
-  },
-  {
-    "job_title": "Technical Support Engineer- Dynamics 365 Finance and Operations Platform",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854788",
-    "job_posted_at_datetime_utc": "2025-08-04T02:40:41.682Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineer-dynamics-365-finance-and-operations-platform-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer - Azure Storage Safety Services",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856601",
-    "job_posted_at_datetime_utc": "2025-08-04T02:40:41.682Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-azure-storage-safety-services-redmond"
+    "id": "coinbase-engineering-manager-trading-remote-india"
   }
 ]
