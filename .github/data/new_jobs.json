@@ -1,33 +1,67 @@
 [
   {
-    "job_title": "Software Development Engineer II, Life Sciences Applied AI",
-    "employer_name": "Amazon",
+    "employer_name": "Google",
+    "job_title": "Technical Program Manager III",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3042597/software-development-engineer-ii-life-sciences-applied-ai",
-    "job_posted_at": "2025-07-24T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-ii-life-sciences-applied-ai-seattle"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III",
-    "job_city": "Atlanta",
-    "job_state": "GA",
     "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Software Engineer III, Full Stack, Google Cloud Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/111930608938033862-software-engineer-iii-full-stack-google-cloud-platforms?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=2",
-    "id": "google-software-engineer-iii-atlanta"
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Program Manager III, Manufacturing Engineering NPI, Cloud Supply Chain",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/87426018440028870-technical-program-manager-iii-manufacturing-engineering-npi-cloud-supply-chain?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
+    "id": "google-technical-program-manager-iii-seattle"
   },
   {
-    "job_title": "Software Engineer",
+    "job_title": "Software Engineer II",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854904",
-    "job_posted_at_datetime_utc": "2025-08-04T08:47:10.022Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854043",
+    "job_posted_at_datetime_utc": "2025-08-04T09:47:28.478Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-redmond"
+    "id": "microsoft-software-engineer-ii-redmond"
+  },
+  {
+    "job_title": "Software Engineering Intern",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856658",
+    "job_posted_at_datetime_utc": "2025-08-04T09:47:28.478Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineering-intern-redmond"
+  },
+  {
+    "job_title": "Software Engineering IC2",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1851196",
+    "job_posted_at_datetime_utc": "2025-08-04T09:47:28.478Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineering-ic2-redmond"
+  },
+  {
+    "job_title": "Software Engineering II [Frontend]",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846983",
+    "job_posted_at_datetime_utc": "2025-08-04T09:47:28.478Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineering-ii-frontend-redmond"
+  },
+  {
+    "job_title": "Software Engineer Internship Opportunities - Neurodiversity Hiring Program",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856650",
+    "job_posted_at_datetime_utc": "2025-08-04T09:47:28.478Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-internship-opportunities-neurodiversity-hiring-program-redmond"
   }
 ]
