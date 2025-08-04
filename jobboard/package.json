@@ -11,6 +11,7 @@
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
     "cors": "^2.8.5",
+    "discord.js": "^14.0.0",
     "express": "^5.1.0",
     "node-fetch": "^3.3.2",
     "puppeteer": "^24.15.0",
@@ -18,8 +19,7 @@
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.6.3",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "discord.js": "^14.0.0"
+    "web-vitals": "^2.1.4"
   },
   "devDependencies": {
     "concurrently": "^9.2.0",
