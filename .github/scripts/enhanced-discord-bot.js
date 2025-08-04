@@ -504,11 +504,11 @@ client.once('ready', async () => {
       
       const message = await channel.send(messageData);
 
-      // Create discussion thread
-      await message.startThread({
-        name: `💬 ${job.job_title} at ${job.employer_name}`,
-        autoArchiveDuration: 1440 // 24 hours
-      });
+      // Thread creation disabled - bot lacks thread permissions
+      // await message.startThread({
+      //   name: `💬 ${job.job_title} at ${job.employer_name}`,
+      //   autoArchiveDuration: 1440 // 24 hours
+      // });
 
       // Mark this job as posted AFTER successful posting
       postedJobsManager.markAsPosted(jobId);

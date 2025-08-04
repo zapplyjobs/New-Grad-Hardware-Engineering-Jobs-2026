@@ -4,6 +4,8 @@ const scrapeAmazonJobs = require('../../jobboard/src/backend/platforms/amazon/am
 const googleScraper = require('../../jobboard/src/backend/platforms/google/googleScraper');
 const scrapeMetaJobs = require('../../jobboard/src/backend/platforms/meta/metaScraper');
 const microsoftScraper = require('../../jobboard/src/backend/platforms/microsoft/microsoftScraper');
+const scrapeUberJobs = require('../../jobboard/src/backend/platforms/uber/uberScraper');
+const scrapeSlackJobs = require('../../jobboard/src/backend/platforms/slack/slackScraper');
 // Load company database
 const companies = JSON.parse(fs.readFileSync('./.github/scripts/job-fetcher/companies.json', 'utf8'));
 const ALL_COMPANIES = Object.values(companies).flat();
@@ -26,7 +28,7 @@ const CAREER_APIS = {
                     job_state: job.location?.name?.split(', ')?.[1] || 'CA',
                     job_description: job.content || 'Join Stripe to help build the economic infrastructure for the internet.',
                     job_apply_link: job.absolute_url,
-                    job_posted_at_datetime_utc: new Date(job.updated_at).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.updated_at),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -47,7 +49,7 @@ const CAREER_APIS = {
                     job_state: job.location?.name?.split(', ')?.[1] || 'CA',
                     job_description: job.content || 'Join Coinbase to build the future of cryptocurrency.',
                     job_apply_link: job.absolute_url,
-                    job_posted_at_datetime_utc: new Date(job.updated_at).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.updated_at),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -68,7 +70,7 @@ const CAREER_APIS = {
                     job_state: job.location?.name?.split(', ')?.[1] || 'CA',
                     job_description: job.content || 'Join Airbnb to create a world where anyone can belong anywhere.',
                     job_apply_link: job.absolute_url,
-                    job_posted_at_datetime_utc: new Date(job.updated_at).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.updated_at),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -89,7 +91,7 @@ const CAREER_APIS = {
                     job_state: job.location?.name?.split(', ')?.[1] || 'CA',
                     job_description: job.content || 'Join Databricks to unify analytics and AI.',
                     job_apply_link: job.absolute_url,
-                    job_posted_at_datetime_utc: new Date(job.updated_at).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.updated_at),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -110,7 +112,7 @@ const CAREER_APIS = {
                     job_state: job.location?.name?.split(', ')?.[1] || 'CA',
                     job_description: job.content || 'Join Figma to make design accessible to all.',
                     job_apply_link: job.absolute_url,
-                    job_posted_at_datetime_utc: new Date(job.updated_at).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.updated_at),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -147,7 +149,7 @@ const CAREER_APIS = {
                     job_state: job.locations?.[0]?.name?.split(', ')?.[1] || 'CA',
                     job_description: job.jobSummary || 'Join Apple to create products that change lives.',
                     job_apply_link: `https://jobs.apple.com/en-us/details/${job.positionId}`,
-                    job_posted_at_datetime_utc: new Date(job.postDateInGMT).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.postDateInGMT),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -168,33 +170,13 @@ const CAREER_APIS = {
                     job_state: job.primaryLocation?.state || 'WA',
                     job_description: job.description || 'Join Microsoft to empower every person and organization on the planet.',
                     job_apply_link: `https://jobs.careers.microsoft.com/global/en/job/${job.jobId}`,
-                    job_posted_at_datetime_utc: new Date(job.postedDate).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.postedDate),
                     job_employment_type: 'FULLTIME'
                 }));
         }
     },
 
-    'Amazon': {
-        api: 'https://www.amazon.jobs/api/jobs/search?is_als=true',
-        method: 'GET',
-        parser: (data) => {
-            if (!data.jobs) return [];
-            return data.jobs
-                .filter(job => job.title.toLowerCase().includes('engineer') ||
-                    job.title.toLowerCase().includes('developer'))
-                .slice(0, 20)
-                .map(job => ({
-                    job_title: job.title,
-                    employer_name: 'Amazon',
-                    job_city: job.city || 'Seattle',
-                    job_state: job.state || 'WA',
-                    job_description: job.description || 'Join Amazon to deliver results that matter.',
-                    job_apply_link: `https://amazon.jobs${job.job_path}`,
-                    job_posted_at_datetime_utc: new Date(job.posted_date).toISOString(),
-                    job_employment_type: 'FULLTIME'
-                }));
-        }
-    },
+    // Amazon now uses dedicated scraper
 
     'Netflix': {
         api: 'https://explore.jobs.netflix.net/api/apply/v2/jobs?domain=netflix.com&query=engineer',
@@ -221,7 +203,7 @@ const CAREER_APIS = {
                     job_state: job.location?.split(', ')?.[1] || 'CA',
                     job_description: job.job_description || 'Join Netflix to entertain the world.',
                     job_apply_link: job.canonicalPositionUrl,
-                    job_posted_at_datetime_utc: new Date(job.t_create * 1000).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.t_create * 1000),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -242,7 +224,7 @@ const CAREER_APIS = {
                     job_state: job.location?.split(', ')?.[1] || 'CA',
                     job_description: job.description || 'Join Qualcomm to invent breakthrough technologies.',
                     job_apply_link: job.canonicalPositionUrl,
-                    job_posted_at_datetime_utc: new Date(job.publishedDate).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.publishedDate),
                     job_employment_type: 'FULLTIME'
                 }));
         }
@@ -263,105 +245,77 @@ const CAREER_APIS = {
                     job_state: job.location?.split(', ')?.[1] || 'CA',
                     job_description: job.description || 'Join PayPal to democratize financial services.',
                     job_apply_link: job.canonicalPositionUrl,
-                    job_posted_at_datetime_utc: new Date(job.publishedDate).toISOString(),
+                    job_posted_at_datetime_utc: safeISOString(job.publishedDate),
                     job_employment_type: 'FULLTIME'
                 }));
         }
     },
 
     // Lever API Companies
-    'Uber': {
-        api: 'https://api.lever.co/v0/postings/uber?mode=json',
-        method: 'GET',
-        parser: (data) => {
-            if (!Array.isArray(data)) return [];
-            return data
-                .filter(job => job.categories?.commitment === 'Full-time' &&
-                    (job.text.toLowerCase().includes('engineer') ||
-                        job.text.toLowerCase().includes('developer')))
-                .map(job => ({
-                    job_title: job.text,
-                    employer_name: 'Uber',
-                    job_city: job.categories?.location?.split(', ')?.[0] || 'San Francisco',
-                    job_state: job.categories?.location?.split(', ')?.[1] || 'CA',
-                    job_description: job.description || 'Join Uber to move the world.',
-                    job_apply_link: job.hostedUrl,
-                    job_posted_at_datetime_utc: new Date(job.createdAt).toISOString(),
-                    job_employment_type: 'FULLTIME'
-                }));
-        }
-    },
+    // Uber now uses dedicated scraper
 
     'Discord': {
-        api: 'https://api.lever.co/v0/postings/discord?mode=json',
+        api: 'https://boards-api.greenhouse.io/v1/boards/discord/jobs',
         method: 'GET',
         parser: (data) => {
-            if (!Array.isArray(data)) return [];
-            return data
-                .filter(job => job.categories?.commitment === 'Full-time' &&
-                    (job.text.toLowerCase().includes('engineer') ||
-                        job.text.toLowerCase().includes('developer')))
+            if (!Array.isArray(data.jobs)) return [];
+            return data.jobs
+                .filter(job => job.title.toLowerCase().includes('engineer') ||
+                              job.title.toLowerCase().includes('developer'))
                 .map(job => ({
-                    job_title: job.text,
+                    job_title: job.title,
                     employer_name: 'Discord',
-                    job_city: job.categories?.location?.split(', ')?.[0] || 'San Francisco',
-                    job_state: job.categories?.location?.split(', ')?.[1] || 'CA',
-                    job_description: job.description || 'Join Discord to build connections.',
-                    job_apply_link: job.hostedUrl,
-                    job_posted_at_datetime_utc: new Date(job.createdAt).toISOString(),
+                    job_city: job.location?.name?.split(', ')?.[0] || 'San Francisco',
+                    job_state: job.location?.name?.split(', ')?.[1] || 'CA',
+                    job_description: job.content || 'Join Discord to build connections.',
+                    job_apply_link: job.absolute_url,
+                    job_posted_at_datetime_utc: safeISOString(job.updated_at),
                     job_employment_type: 'FULLTIME'
                 }));
         }
     },
 
     'Lyft': {
-        api: 'https://api.lever.co/v0/postings/lyft?mode=json',
+        api: 'https://boards-api.greenhouse.io/v1/boards/lyft/jobs',
         method: 'GET',
         parser: (data) => {
-            if (!Array.isArray(data)) return [];
-            return data
-                .filter(job => job.categories?.commitment === 'Full-time' &&
-                    (job.text.toLowerCase().includes('engineer') ||
-                        job.text.toLowerCase().includes('developer')))
+            if (!Array.isArray(data.jobs)) return [];
+            return data.jobs
+                .filter(job => job.title.toLowerCase().includes('engineer') ||
+                              job.title.toLowerCase().includes('developer'))
                 .map(job => ({
-                    job_title: job.text,
+                    job_title: job.title,
                     employer_name: 'Lyft',
-                    job_city: job.categories?.location?.split(', ')?.[0] || 'San Francisco',
-                    job_state: job.categories?.location?.split(', ')?.[1] || 'CA',
-                    job_description: job.description || 'Join Lyft to improve people\'s lives with the world\'s best transportation.',
-                    job_apply_link: job.hostedUrl,
-                    job_posted_at_datetime_utc: new Date(job.createdAt).toISOString(),
+                    job_city: job.location?.name?.split(', ')?.[0] || 'San Francisco',
+                    job_state: job.location?.name?.split(', ')?.[1] || 'CA',
+                    job_description: job.content || 'Join Lyft to improve people\'s lives with the world\'s best transportation.',
+                    job_apply_link: job.absolute_url,
+                    job_posted_at_datetime_utc: safeISOString(job.updated_at),
                     job_employment_type: 'FULLTIME'
                 }));
         }
     },
 
-    'Slack': {
-        api: 'https://api.lever.co/v0/postings/slack?mode=json',
-        method: 'GET',
-        parser: (data) => {
-            if (!Array.isArray(data)) return [];
-            return data
-                .filter(job => job.categories?.commitment === 'Full-time' &&
-                    (job.text.toLowerCase().includes('engineer') ||
-                        job.text.toLowerCase().includes('developer')))
-                .map(job => ({
-                    job_title: job.text,
-                    employer_name: 'Slack',
-                    job_city: job.categories?.location?.split(', ')?.[0] || 'San Francisco',
-                    job_state: job.categories?.location?.split(', ')?.[1] || 'CA',
-                    job_description: job.description || 'Join Slack to make work life simpler, more pleasant, and more productive.',
-                    job_apply_link: job.hostedUrl,
-                    job_posted_at_datetime_utc: new Date(job.createdAt).toISOString(),
-                    job_employment_type: 'FULLTIME'
-                }));
-        }
-    }
+    // Slack now uses dedicated scraper
 };
 
 // Utility functions
 function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function safeISOString(dateValue) {
+    if (!dateValue) return new Date().toISOString();
+    
+    try {
+        const date = new Date(dateValue);
+        if (isNaN(date.getTime())) {
+            return new Date().toISOString();
+        }
+        return date.toISOString();
+    } catch (error) {
+        return new Date().toISOString();
+    }
 }
 
 // Fetch jobs from a specific company's career API
@@ -435,7 +389,7 @@ async function fetchSimplifyJobsData() {
                 job_state: job.locations?.[0]?.split(', ')?.[1] || 'Locations',
                 job_description: `Join ${job.company_name} in this exciting opportunity.`,
                 job_apply_link: job.url,
-                job_posted_at_datetime_utc: new Date(job.date_posted * 1000).toISOString(),
+                job_posted_at_datetime_utc: safeISOString(job.date_posted * 1000),
                 job_employment_type: 'FULLTIME'
             }));
 
@@ -453,18 +407,15 @@ async function fetchAllRealJobs() {
     console.log('🚀 Starting REAL career page scraping...');
 
     const allJobs = [];
-    const [amazonJobs, metaJobs, microsoftJobs, googleJobs] = await Promise.all([
-        scrapeAmazonJobs(),
-        scrapeMetaJobs(),
-        microsoftScraper(),
-        googleScraper(),
+    const [amazonJobs, metaJobs, microsoftJobs, googleJobs, uberJobs, slackJobs] = await Promise.all([
+        scrapeAmazonJobs().catch(err => { console.error('❌ Amazon scraper failed:', err.message); return []; }),
+        scrapeMetaJobs().catch(err => { console.error('❌ Meta scraper failed:', err.message); return []; }),
+        microsoftScraper().catch(err => { console.error('❌ Microsoft scraper failed:', err.message); return []; }),
+        googleScraper().catch(err => { console.error('❌ Google scraper failed:', err.message); return []; }),
+        scrapeUberJobs().catch(err => { console.error('❌ Uber scraper failed:', err.message); return []; }),
+        scrapeSlackJobs().catch(err => { console.error('❌ Slack scraper failed:', err.message); return []; }),
     ]);
-    allJobs.push(...amazonJobs, ...metaJobs, ...microsoftJobs, ...googleJobs);
-
-
-  
-
-  
+    allJobs.push(...amazonJobs, ...metaJobs, ...microsoftJobs, ...googleJobs, ...uberJobs, ...slackJobs);
     const companiesWithAPIs = Object.keys(CAREER_APIS);
 
     // Fetch real jobs from companies with APIs
