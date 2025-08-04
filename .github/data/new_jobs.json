@@ -1,53 +1,57 @@
 [
   {
-    "job_title": "Area Manager II, MEM1",
-    "employer_name": "Amazon",
-    "job_city": "Memphis",
-    "job_state": "TN",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3016964/area-manager-ii-mem1",
-    "job_posted_at": "2025-06-24T00:00:00.000Z",
-    "id": "amazon-area-manager-ii-mem1-memphis"
-  },
-  {
-    "job_title": "Area Manager II, MEM4",
-    "employer_name": "Amazon",
-    "job_city": "Memphis",
-    "job_state": "TN",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2971624/area-manager-ii-mem4",
-    "job_posted_at": "2025-05-01T00:00:00.000Z",
-    "id": "amazon-area-manager-ii-mem4-memphis"
-  },
-  {
-    "job_title": "Area Manager II, BNA3",
-    "employer_name": "Amazon",
-    "job_city": "Murfreesboro",
-    "job_state": "TN",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3021534/area-manager-ii-bna3",
-    "job_posted_at": "2025-06-30T00:00:00.000Z",
-    "id": "amazon-area-manager-ii-bna3-murfreesboro"
-  },
-  {
-    "job_title": "Data Center Operations Manager (Night Shift)",
-    "employer_name": "Amazon",
-    "job_city": "New Albany",
-    "job_state": "OH",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2934261/data-center-operations-manager-night-shift",
-    "job_posted_at": "2025-08-03T22:28:35.694Z",
-    "id": "amazon-data-center-operations-manager-night-shift-new-albany"
-  },
-  {
-    "job_title": "Senior Windows Performance Engineer",
-    "employer_name": "Qualcomm",
-    "job_city": "San Diego",
-    "job_state": "California",
-    "job_description": "Join Qualcomm to invent breakthrough technologies.",
-    "job_apply_link": "https://careers.qualcomm.com/careers/job/446707152043",
-    "job_posted_at_datetime_utc": "2025-08-04T00:35:35.007Z",
+    "job_title": "Technical Support Engineering IC3",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856366",
+    "job_posted_at_datetime_utc": "2025-08-04T02:40:41.682Z",
     "job_employment_type": "FULLTIME",
-    "id": "qualcomm-senior-windows-performance-engineer-san-diego"
+    "id": "microsoft-technical-support-engineering-ic3-redmond"
+  },
+  {
+    "job_title": "Software Engineer Internship Opportunities",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855634",
+    "job_posted_at_datetime_utc": "2025-08-04T02:40:41.682Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-internship-opportunities-redmond"
+  },
+  {
+    "job_title": "Technical Support Engineer- Dynamics 365 Finance",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854792",
+    "job_posted_at_datetime_utc": "2025-08-04T02:40:41.682Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineer-dynamics-365-finance-redmond"
+  },
+  {
+    "job_title": "Technical Support Engineer- Dynamics 365 Finance and Operations Platform",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854788",
+    "job_posted_at_datetime_utc": "2025-08-04T02:40:41.682Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineer-dynamics-365-finance-and-operations-platform-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer - Azure Storage Safety Services",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856601",
+    "job_posted_at_datetime_utc": "2025-08-04T02:40:41.682Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-azure-storage-safety-services-redmond"
   }
 ]
