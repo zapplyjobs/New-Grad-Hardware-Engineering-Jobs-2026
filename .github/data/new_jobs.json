@@ -1,68 +1,56 @@
 [
   {
-    "job_title": "Onsite Medical Representative",
+    "job_title": "Senior Mechatronics & Robotics Technician",
     "employer_name": "Amazon",
-    "job_city": "Prince George",
+    "job_city": "Suffolk",
     "job_state": "VA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3051634/onsite-medical-representative",
-    "job_posted_at": "2025-08-05T12:01:30.013Z",
-    "job_posted_at_datetime_utc": "2025-08-05T12:01:30.013Z",
-    "id": "amazon-onsite-medical-representative-prince-george"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3017387/senior-mechatronics-robotics-technician",
+    "job_posted_at": "2025-08-05T13:33:06.168Z",
+    "job_posted_at_datetime_utc": "2025-08-05T13:33:06.168Z",
+    "id": "amazon-senior-mechatronics-robotics-technician-suffolk"
   },
   {
-    "job_title": "Product Manager - Loyalty, Amazon Business, Business Prime",
+    "job_title": "Contracts Manager, Amazon Transportation",
     "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
+    "job_city": "Arlington",
+    "job_state": "VA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3038441/product-manager-loyalty-amazon-business-business-prime",
-    "job_posted_at": "2025-08-05T12:01:30.013Z",
-    "job_posted_at_datetime_utc": "2025-08-05T12:01:30.013Z",
-    "id": "amazon-product-manager-loyalty-amazon-business-business-prime-austin"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2990040/contracts-manager-amazon-transportation",
+    "job_posted_at": "2025-08-05T12:33:06.168Z",
+    "job_posted_at_datetime_utc": "2025-08-05T12:33:06.168Z",
+    "id": "amazon-contracts-manager-amazon-transportation-arlington"
   },
   {
-    "job_title": "Onsite Medical Representative",
+    "job_title": "2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics",
     "employer_name": "Amazon",
-    "job_city": "Las Vegas",
-    "job_state": "NV",
+    "job_city": "San Francisco",
+    "job_state": "CA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3051649/onsite-medical-representative",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3051686/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics",
     "job_posted_at": "2025-08-05T00:00:00.000Z",
     "job_posted_at_datetime_utc": "2025-08-05T00:00:00.000Z",
-    "id": "amazon-onsite-medical-representative-las-vegas"
+    "id": "amazon-2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-san-francisco"
   },
   {
-    "job_title": "Security Customer Experience Engineer",
+    "employer_name": "Google",
+    "job_title": "AI Transformation Manager",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: AI Transformation Manager, Professional Services, Google Cloud",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/103507422894531270-ai-transformation-manager-professional-services-google-cloud?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=3",
+    "id": "google-ai-transformation-manager-atlanta"
+  },
+  {
+    "job_title": "Principal Content Developer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849984",
-    "job_posted_at_datetime_utc": "2025-08-05T13:09:00.487Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1843908",
+    "job_posted_at_datetime_utc": "2025-08-05T14:40:09.440Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-security-customer-experience-engineer-redmond"
-  },
-  {
-    "job_title": "Cloud & AI Solution Engineer – Azure Platform",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1853497",
-    "job_posted_at_datetime_utc": "2025-08-05T13:09:00.487Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-ai-solution-engineer-azure-platform-redmond"
-  },
-  {
-    "job_title": "Senior Content Developer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1843882",
-    "job_posted_at_datetime_utc": "2025-08-05T13:09:00.487Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-content-developer-redmond"
+    "id": "microsoft-principal-content-developer-redmond"
   }
 ]
