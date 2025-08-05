@@ -24,7 +24,7 @@ async function scrapeMetaJobs(specificJobTitle = null) {
     const baseUrl = buildBaseUrl(specificJobTitle);
 
     for (let pageNum = 1; pageNum <= maxPages; pageNum++) {
-        const searchType = specificJobTitle || 'all tech roles';
+        const searchType = specificJobTitle || 'software engineering';
         console.log(`📄 Scraping ${searchType} - Meta page ${pageNum}...`);
 
         try {

@@ -1010,8 +1010,6 @@ function generateCompanyStats(jobs) {
 
 // Generate comprehensive README
 async function generateReadme(
- dataScienceJobs,
-  hardwareJobs ,
   currentJobs,
   archivedJobs = [],
   internshipData = null
