@@ -2,10 +2,7 @@ const fs = require("fs");
 const { fetchAllRealJobs } = require("./real-career-scraper");
 const path = require("path");
 const companyPath = path.join(__dirname, "job-fetcher/companies.json");
-const scrapeAmazonJobs = require('../../jobboard/src/backend/platforms/amazon/amazonScraper');
-const googleScraper = require('../../jobboard/src/backend/platforms/google/googleScraper');
-const scrapeMetaJobs = require('../../jobboard/src/backend/platforms/meta/metaScraper');
-const microsoftScraper = require('../../jobboard/src/backend/platforms/microsoft/microsoftScraper');
+
 // Load comprehensive company database
 const companies = JSON.parse(fs.readFileSync(companyPath, "utf8"));
 
@@ -1054,13 +1051,6 @@ ${internshipData ? generateInternshipSection(internshipData) : ""}
 
 ${generateJobTable(currentJobs)}
 
- ## 🖥️ **Hardware Engineering Roles**
-
- ${generateJobTable(hardwareJobs)}
-
- ## 📊 **Data Science & Analytics Roles**
-
-${generateJobTable(dataScienceJobs)}
 
 ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs) : ""}
 
@@ -1269,29 +1259,12 @@ async function updateReadme() {
 
     // Fetch internship data and generate README
     const internshipData = await fetchInternshipData();
-allHardwarejobs= [];
-allDataScienceJobs = [];
-    const [amazon_Hardware, meta_Hardware, microsoft_Hardware, google_Hardware] = await Promise.all([
-        scrapeAmazonJobs('hardware engineering'),
-        scrapeMetaJobs('hardware engineering'),
-        microsoftScraper('hardware engineering'),
-        googleScraper('Hardware Engineering'),
-    ]);
-    allHardwarejobs.push(...amazon_Hardware, ...meta_Hardware, ...microsoft_Hardware, ...google_Hardware);
-     const [amazon_DataScience, meta_DataScience, microsoft_DataScience, google_DataScience] = await Promise.all([
-        scrapeAmazonJobs('Data Science'),
-        scrapeMetaJobs('Data Science'),
-        microsoftScraper('data science'),
-        googleScraper('Data Science'),
-    ]);
-    allDataScienceJobs.push(...amazon_DataScience, ...meta_DataScience, ...microsoft_DataScience, ...google_DataScience);
+
 
 
     
  
     const readmeContent = await generateReadme(
-      allDataScienceJobs,
-      allHardwarejobs,
       currentJobs,
       archivedJobs,
       internshipData
