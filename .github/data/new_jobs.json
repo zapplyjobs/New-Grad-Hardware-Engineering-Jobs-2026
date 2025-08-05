@@ -1,46 +1,24 @@
 [
   {
-    "job_title": "Software Engineer - Azure Networking",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1848436",
-    "job_posted_at_datetime_utc": "2025-08-05T20:37:26.632Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-azure-networking-redmond"
+    "job_title": "Software Development Engineer, Sandstone",
+    "employer_name": "Amazon",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3025833/software-development-engineer-sandstone",
+    "job_posted_at": "2025-08-05T20:28:30.278Z",
+    "job_posted_at_datetime_utc": "2025-08-05T20:28:30.278Z",
+    "id": "amazon-software-development-engineer-sandstone-san-diego"
   },
   {
-    "job_title": "Senior Silicon Engineer",
+    "job_title": "Software Engineer II - Xbox Cloud Gaming",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857233",
-    "job_posted_at_datetime_utc": "2025-08-05T20:37:26.632Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846822",
+    "job_posted_at_datetime_utc": "2025-08-05T21:35:24.753Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-silicon-engineer-redmond"
-  },
-  {
-    "job_title": "Solution Engineering",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857070",
-    "job_posted_at_datetime_utc": "2025-08-05T20:37:26.632Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineering-redmond"
-  },
-  {
-    "job_title": "Digital Solution Engineer - Cloud & AI Apps, CEMA Market",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1853430",
-    "job_posted_at_datetime_utc": "2025-08-05T20:37:26.632Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-solution-engineer-cloud-ai-apps-cema-market-redmond"
+    "id": "microsoft-software-engineer-ii-xbox-cloud-gaming-redmond"
   }
 ]
