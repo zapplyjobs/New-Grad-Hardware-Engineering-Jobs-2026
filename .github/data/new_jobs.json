@@ -1,112 +1,46 @@
 [
   {
-    "job_title": "Hardware Systems Engineer",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +2 locations",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/2245795852535668",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-hardware-systems-engineer-sunnyvale"
-  },
-  {
-    "job_title": "Principal Software Engineer - MAI Data, Privacy, and Security, Microsoft AI - Copilot",
+    "job_title": "Software Engineer - Azure Networking",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854692",
-    "job_posted_at_datetime_utc": "2025-08-05T19:34:46.912Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1848436",
+    "job_posted_at_datetime_utc": "2025-08-05T20:37:26.632Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-mai-data-privacy-and-security-microsoft-ai-copilot-redmond"
+    "id": "microsoft-software-engineer-azure-networking-redmond"
   },
   {
-    "job_title": "Critical Environment Mechanical Engineer",
+    "job_title": "Senior Silicon Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854528",
-    "job_posted_at_datetime_utc": "2025-08-05T19:34:46.912Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857233",
+    "job_posted_at_datetime_utc": "2025-08-05T20:37:26.632Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-critical-environment-mechanical-engineer-redmond"
+    "id": "microsoft-senior-silicon-engineer-redmond"
   },
   {
-    "job_title": "Security Assurance Engineering Manager",
+    "job_title": "Solution Engineering",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1844250",
-    "job_posted_at_datetime_utc": "2025-08-05T19:34:46.912Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857070",
+    "job_posted_at_datetime_utc": "2025-08-05T20:37:26.632Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-security-assurance-engineering-manager-redmond"
+    "id": "microsoft-solution-engineering-redmond"
   },
   {
-    "job_title": "Industrial Control Systems Engineer",
+    "job_title": "Digital Solution Engineer - Cloud & AI Apps, CEMA Market",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1853726",
-    "job_posted_at_datetime_utc": "2025-08-05T19:34:46.912Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1853430",
+    "job_posted_at_datetime_utc": "2025-08-05T20:37:26.632Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-industrial-control-systems-engineer-redmond"
-  },
-  {
-    "job_title": "Industrial Controls Systems Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1853793",
-    "job_posted_at_datetime_utc": "2025-08-05T19:34:46.912Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-industrial-controls-systems-engineer-redmond"
-  },
-  {
-    "job_title": "Critical Environment Electrical Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854524",
-    "job_posted_at_datetime_utc": "2025-08-05T19:34:46.912Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-critical-environment-electrical-engineer-redmond"
-  },
-  {
-    "job_title": "Staff Security Engineer",
-    "employer_name": "Stripe",
-    "job_city": "NYC-Privy",
-    "job_state": "US-Remote",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7104148",
-    "job_posted_at_datetime_utc": "2025-08-05T19:12:09.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-staff-security-engineer-nyc-privy"
-  },
-  {
-    "job_title": "Developer Experience Engineer",
-    "employer_name": "Stripe",
-    "job_city": "NYC-Privy",
-    "job_state": "US-Remote",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7104344",
-    "job_posted_at_datetime_utc": "2025-08-05T19:09:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-developer-experience-engineer-nyc-privy"
-  },
-  {
-    "job_title": "Senior Staff Backend Engineer, Quality and Merchandising",
-    "employer_name": "Airbnb",
-    "job_city": "Remote - US",
-    "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/7129253",
-    "job_posted_at_datetime_utc": "2025-08-05T18:53:51.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-staff-backend-engineer-quality-and-merchandising-remote-us"
+    "id": "microsoft-digital-solution-engineer-cloud-ai-apps-cema-market-redmond"
   }
 ]
