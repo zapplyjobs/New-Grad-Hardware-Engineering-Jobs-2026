@@ -1,179 +1,24 @@
 [
   {
-    "job_title": "Software Development Engineer , Kuiper Commerce",
-    "employer_name": "Amazon",
+    "job_title": "Principal Software Engineer - Azure Storage",
+    "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3042203/software-development-engineer-kuiper-commerce",
-    "job_posted_at": "2025-07-31T17:07:31.948Z",
-    "job_posted_at_datetime_utc": "2025-07-31T17:07:31.948Z",
-    "id": "amazon-software-development-engineer-kuiper-commerce-redmond"
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1823191",
+    "job_posted_at_datetime_utc": "2025-08-05T17:34:53.894Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-software-engineer-azure-storage-redmond"
   },
   {
-    "job_title": "Software Development Engineer, Facility Operations Systems Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3049166/software-development-engineer-facility-operations-systems-engineering",
-    "job_posted_at": "2025-07-31T17:07:31.947Z",
-    "job_posted_at_datetime_utc": "2025-07-31T17:07:31.947Z",
-    "id": "amazon-software-development-engineer-facility-operations-systems-engineering-seattle"
-  },
-  {
-    "job_title": "Software Development Engineer II",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3046740/software-development-engineer-ii",
-    "job_posted_at": "2025-07-31T17:07:31.947Z",
-    "job_posted_at_datetime_utc": "2025-07-31T17:07:31.947Z",
-    "id": "amazon-software-development-engineer-ii-seattle"
-  },
-  {
-    "job_title": "Software Development Engineer, Bedrock",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3016557/software-development-engineer-bedrock",
-    "job_posted_at": "2025-07-30T17:07:31.948Z",
-    "job_posted_at_datetime_utc": "2025-07-30T17:07:31.948Z",
-    "id": "amazon-software-development-engineer-bedrock-seattle"
-  },
-  {
-    "job_title": "Software Development Engineer, IPC Simulation",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3008229/software-development-engineer-ipc-simulation",
-    "job_posted_at": "2025-07-30T17:07:31.948Z",
-    "job_posted_at_datetime_utc": "2025-07-30T17:07:31.948Z",
-    "id": "amazon-software-development-engineer-ipc-simulation-bellevue"
-  },
-  {
-    "job_title": "Software Engineer II, EngageTech",
-    "employer_name": "Amazon",
-    "job_city": "Las Vegas",
-    "job_state": "NV",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3028618/software-engineer-ii-engagetech",
-    "job_posted_at": "2025-07-30T17:07:31.947Z",
-    "job_posted_at_datetime_utc": "2025-07-30T17:07:31.947Z",
-    "id": "amazon-software-engineer-ii-engagetech-las-vegas"
-  },
-  {
-    "job_title": "Marketing Insights Researcher | Growth Marketing and Scaled Solutions",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA +1 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1736319430581136",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-marketing-insights-researcher-growth-marketing-and-scaled-solutions-menlo-park"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Product Operations Manager",
-    "job_city": "Mountain View",
+    "job_title": "Engineering Manager (Consumer - Stablecoin & Payments)",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Operations Manager, Content, Google Play",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/86234795301839558-product-operations-manager-content-google-play?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=7",
-    "id": "google-product-operations-manager-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Technical Writer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Writer, Technical Infrastructure Systems Software",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/91392013252862662-technical-writer-technical-infrastructure-systems-software?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=8",
-    "id": "google-technical-writer-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior Software Engineer",
-    "job_city": "Pittsburgh",
-    "job_state": "PA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Software Engineer, Commerce, AI/ML",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/93134512086491846-senior-software-engineer-commerce-aiml?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=8",
-    "id": "google-senior-software-engineer-pittsburgh"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Technical Writer",
-    "job_city": "Austell",
-    "job_state": "GA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Writer, Data Centers, Supply Chain Technical Writing",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/104524473297707718-technical-writer-data-centers-supply-chain-technical-writing?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=8",
-    "id": "google-technical-writer-austell"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III",
-    "job_city": "San Bruno",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareYouTube. Posted: Recently. Full Title: Software Engineer III, Mobile (iOS), YouTube",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/118311813849719494-software-engineer-iii-mobile-ios-youtube?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=8",
-    "id": "google-software-engineer-iii-san-bruno"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Scaled Abuse Analyst",
-    "job_city": "San Bruno",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Scaled Abuse Analyst",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/101788005752021702-scaled-abuse-analyst?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=8",
-    "id": "google-scaled-abuse-analyst-san-bruno"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Vertex AI Product Manager",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Vertex AI Product Manager",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/113759136050488006-vertex-ai-product-manager?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=9",
-    "id": "google-vertex-ai-product-manager-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Product Manager",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Manager, Spaces Engineering",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/142782238084211398-product-manager-spaces-engineering?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=9",
-    "id": "google-product-manager-kirkland"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior Motion and Visual Designer",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Motion and Visual Designer, Image Search",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/113249814249906886-senior-motion-and-visual-designer-image-search?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=10",
-    "id": "google-senior-motion-and-visual-designer-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III",
-    "job_city": "Boulder",
-    "job_state": "CO",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Software Engineer III, Engineering Productivity, Chrome OS",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/77814555941446342-software-engineer-iii-engineering-productivity-chrome-os?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=10",
-    "id": "google-software-engineer-iii-boulder"
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7137869?gh_jid=7137869",
+    "job_posted_at_datetime_utc": "2025-08-05T17:29:27.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-engineering-manager-consumer-stablecoin-payments-remote-usa"
   }
 ]
