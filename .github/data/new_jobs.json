@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "job_title": "Onsite Medical Representative",
+    "employer_name": "Amazon",
+    "job_city": "Prince George",
+    "job_state": "VA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3051634/onsite-medical-representative",
+    "job_posted_at": "2025-08-05T12:01:30.013Z",
+    "job_posted_at_datetime_utc": "2025-08-05T12:01:30.013Z",
+    "id": "amazon-onsite-medical-representative-prince-george"
+  },
+  {
+    "job_title": "Product Manager - Loyalty, Amazon Business, Business Prime",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3038441/product-manager-loyalty-amazon-business-business-prime",
+    "job_posted_at": "2025-08-05T12:01:30.013Z",
+    "job_posted_at_datetime_utc": "2025-08-05T12:01:30.013Z",
+    "id": "amazon-product-manager-loyalty-amazon-business-business-prime-austin"
+  },
+  {
+    "job_title": "Onsite Medical Representative",
+    "employer_name": "Amazon",
+    "job_city": "Las Vegas",
+    "job_state": "NV",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3051649/onsite-medical-representative",
+    "job_posted_at": "2025-08-05T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-08-05T00:00:00.000Z",
+    "id": "amazon-onsite-medical-representative-las-vegas"
+  },
+  {
+    "job_title": "Security Customer Experience Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849984",
+    "job_posted_at_datetime_utc": "2025-08-05T13:09:00.487Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-security-customer-experience-engineer-redmond"
+  },
+  {
+    "job_title": "Cloud & AI Solution Engineer – Azure Platform",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1853497",
+    "job_posted_at_datetime_utc": "2025-08-05T13:09:00.487Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-ai-solution-engineer-azure-platform-redmond"
+  },
+  {
+    "job_title": "Senior Content Developer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1843882",
+    "job_posted_at_datetime_utc": "2025-08-05T13:09:00.487Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-content-developer-redmond"
+  }
+]
