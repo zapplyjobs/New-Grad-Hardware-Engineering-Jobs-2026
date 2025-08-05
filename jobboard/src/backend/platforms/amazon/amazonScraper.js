@@ -61,7 +61,7 @@ function buildAmazonUrl(jobTitle = null, offset = 0) {
         longitude: '',
         loc_group_id: '',
         loc_query: '',
-        base_query: jobTitle || '', // Add job title here
+        base_query: jobTitle || 'software engineering', // Add job title here
         city: '',
         country: '',
         region: '',

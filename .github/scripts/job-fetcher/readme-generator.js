@@ -339,10 +339,12 @@ ${internshipData ? generateInternshipSection(internshipData) : ""}
 
 ${generateJobTable(currentJobs)}
 
+
  ## 🖥️ **Hardware Engineering Roles**
 
  ${generateJobTable(hardwareJobs)}
 
+ 
  ## 📊 **Data Science & Analytics Roles**
 
 ${generateJobTable(dataScienceJobs)}
