@@ -1,199 +1,23 @@
 [
   {
-    "job_title": "Signal Integrity Engineer",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1989698745102124",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-signal-integrity-engineer-menlo-park"
-  },
-  {
-    "job_title": "Product Manager (Leadership)",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA +4 locations",
-    "job_description": "Product Management",
-    "job_apply_link": "https://www.metacareers.com/jobs/300760325782735",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-manager-leadership-menlo-park"
-  },
-  {
-    "job_title": "Interaction/UX Sound Designer - Wearables",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA +1 locations",
-    "job_description": "Design",
-    "job_apply_link": "https://www.metacareers.com/jobs/1815243535703261",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-interaction-ux-sound-designer-wearables-menlo-park"
-  },
-  {
-    "job_title": "Research Engineer, On-Device Contextual AI",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "3D Software Engineering +3 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1384972749183942",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-engineer-on-device-contextual-ai-multiple"
-  },
-  {
-    "job_title": "Data Engineering Manager, Analytics (Data Infrastructure)",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +1 locations",
-    "job_description": "Data Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/741110038475501",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-data-engineering-manager-analytics-data-infrastructure-bellevue"
-  },
-  {
-    "job_title": "Electrical Engineer, Reality Labs Research, Hardware Engineering",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
+    "job_title": "Software Development Engineer, Amazon",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "Engineering +2 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1069554011988043",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-electrical-engineer-reality-labs-research-hardware-engineering-redmond"
-  },
-  {
-    "job_title": "Security Engineer, Enterprise Engineering",
-    "employer_name": "Meta",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1752660069013858",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-security-engineer-enterprise-engineering-new-york"
-  },
-  {
-    "job_title": "Software Engineer - iOS (Technical Leadership)",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA +2 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1061795906099278",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-ios-technical-leadership-menlo-park"
-  },
-  {
-    "job_title": "Software Engineer (Robotics)",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA +1 locations",
-    "job_description": "AI Research +4 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1570058567041872",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-robotics-redmond"
-  },
-  {
-    "job_title": "Software Engineer, Computer Vision - Reality Labs",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +6 locations",
-    "job_description": "AI Research +3 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1399403320839100",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-computer-vision-reality-labs-sunnyvale"
-  },
-  {
-    "job_title": "Software Engineer (Leadership) - Infrastructure",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Enterprise Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/743426334702725",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-leadership-infrastructure-multiple"
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3020643/software-development-engineer-amazon",
+    "job_posted_at": "2025-08-06T22:28:47.161Z",
+    "job_posted_at_datetime_utc": "2025-08-06T22:28:47.161Z",
+    "id": "amazon-software-development-engineer-amazon-seattle"
   },
   {
     "employer_name": "Google",
-    "job_title": "Policy Specialist",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "job_title": "UX Writer and Content Designer",
+    "job_city": "Kirkland",
+    "job_state": "WA",
     "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Policy Specialist, Google Play, Android, CWS Policies",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/143475203140133574-policy-specialist-google-play-android-cws-policies?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
-    "id": "google-policy-specialist-sunnyvale"
-  },
-  {
-    "job_title": "Digital Solution Engineer - Database, Analytics and Data Platform (French Speaker)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1851640",
-    "job_posted_at_datetime_utc": "2025-08-06T22:36:23.765Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-solution-engineer-database-analytics-and-data-platform-french-speaker-redmond"
-  },
-  {
-    "job_title": "Principal Security Operations Engineer - CTJ - TS/SCI",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857521",
-    "job_posted_at_datetime_utc": "2025-08-06T22:36:23.765Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-security-operations-engineer-ctj-ts-sci-redmond"
-  },
-  {
-    "job_title": "Digital Solution Engineer - Application Modernization and AI (French Speaker)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1851639",
-    "job_posted_at_datetime_utc": "2025-08-06T22:36:23.765Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-solution-engineer-application-modernization-and-ai-french-speaker-redmond"
-  },
-  {
-    "job_title": "Digital Solution Engineer - German Speaker",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1851632",
-    "job_posted_at_datetime_utc": "2025-08-06T22:36:23.765Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-solution-engineer-german-speaker-redmond"
-  },
-  {
-    "job_title": "Research Software Engineer | Azure Research - Systems | Cloud and AI Platform Efficiency",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1851515",
-    "job_posted_at_datetime_utc": "2025-08-06T22:36:23.765Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-research-software-engineer-azure-research-systems-cloud-and-ai-platform-efficiency-redmond"
-  },
-  {
-    "job_title": "Senior Security Engineer, Threat Detection & Response",
-    "employer_name": "Airbnb",
-    "job_city": "United States",
-    "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/7134785",
-    "job_posted_at_datetime_utc": "2025-08-06T22:19:54.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-security-engineer-threat-detection-response-united-states"
+    "job_description": "Category: Engineering and Technology Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: UX Writer and Content Designer, Android Automotive",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/122198348277916358-ux-writer-and-content-designer-android-automotive?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=8",
+    "id": "google-ux-writer-and-content-designer-kirkland"
   }
 ]
