@@ -1,156 +1,68 @@
 [
   {
-    "job_title": "Software Development Engineer (Full Stack), AWS Software Development",
-    "employer_name": "Amazon",
-    "job_city": "Mountain View",
-    "job_state": "USA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3024360/software-development-engineer-full-stack-aws-software-development",
-    "job_posted_at": "2025-08-05T22:29:06.550Z",
-    "job_posted_at_datetime_utc": "2025-08-05T22:29:06.550Z",
-    "id": "amazon-software-development-engineer-full-stack-aws-software-development-mountain-view"
+    "job_title": "Engineering Technician",
+    "employer_name": "Qualcomm",
+    "job_city": "Boxborough",
+    "job_state": "Massachusetts",
+    "job_description": "Join Qualcomm to invent breakthrough technologies.",
+    "job_apply_link": "https://careers.qualcomm.com/careers/job/446707211359",
+    "job_posted_at_datetime_utc": "2025-08-06T02:32:43.415Z",
+    "job_employment_type": "FULLTIME",
+    "id": "qualcomm-engineering-technician-boxborough"
   },
   {
-    "job_title": "Program Manager, Product Support & Insights",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA +2 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1688002578567299",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-program-manager-product-support-insights-menlo-park"
-  },
-  {
-    "job_title": "Software Engineer, iOS",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA +5 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1203016587809246",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-ios-redmond"
-  },
-  {
-    "job_title": "Product Designer, Reality Labs",
-    "employer_name": "Meta",
-    "job_city": "Los Angeles",
-    "job_state": "CA +4 locations",
-    "job_description": "Design & User Experience",
-    "job_apply_link": "https://www.metacareers.com/jobs/1088116780040391",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-designer-reality-labs-los-angeles"
-  },
-  {
-    "job_title": "Display Electrical Engineer",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1335428127515407",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-display-electrical-engineer-redmond"
-  },
-  {
-    "job_title": "User Experience Researcher, Qualitative",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Design & User Experience +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/516649978080468",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-user-experience-researcher-qualitative-multiple"
-  },
-  {
-    "job_title": "Software Engineering Manager",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/538769922267148",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineering-manager-multiple"
-  },
-  {
-    "job_title": "Software Engineering Manager, Machine Learning",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Machine Learning +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/953117303587864",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineering-manager-machine-learning-multiple"
-  },
-  {
-    "job_title": "Software Engineer (Leadership) - Machine Learning",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1058363622156402",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-leadership-machine-learning-multiple"
-  },
-  {
-    "job_title": "ASIC Engineer, Accelerator Systems",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/573638935794484",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-asic-engineer-accelerator-systems-multiple"
-  },
-  {
-    "job_title": "Software Engineer 2 - Azure Core Storage",
+    "job_title": "Senior Software Engineer - CoreAI",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1823024",
-    "job_posted_at_datetime_utc": "2025-08-05T23:36:00.036Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854100",
+    "job_posted_at_datetime_utc": "2025-08-06T02:32:38.370Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-2-azure-core-storage-redmond"
+    "id": "microsoft-senior-software-engineer-coreai-redmond"
   },
   {
-    "job_title": "Principal Software Engineering Manager - M365 Copilot App (Office Product Group)",
+    "job_title": "Quantum Software Engineer II",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854027",
-    "job_posted_at_datetime_utc": "2025-08-05T23:36:00.036Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856738",
+    "job_posted_at_datetime_utc": "2025-08-06T02:32:38.370Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineering-manager-m365-copilot-app-office-product-group-redmond"
+    "id": "microsoft-quantum-software-engineer-ii-redmond"
   },
   {
-    "job_title": "Senior Firmware Engineer",
+    "job_title": "Senior Quantum Software Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1841165",
-    "job_posted_at_datetime_utc": "2025-08-05T23:36:00.036Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856743",
+    "job_posted_at_datetime_utc": "2025-08-06T02:32:38.370Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-firmware-engineer-redmond"
+    "id": "microsoft-senior-quantum-software-engineer-redmond"
   },
   {
-    "job_title": "Software Engineer, Backend (Consumer)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - Singapore",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/6807295?gh_jid=6807295",
-    "job_posted_at_datetime_utc": "2025-08-05T22:52:54.000Z",
+    "job_title": "Software Engineer I - CRM",
+    "employer_name": "Medtronic",
+    "job_city": "Blaine",
+    "job_state": "MN",
+    "job_description": "Join Medtronic in this exciting opportunity.",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R38781-1",
+    "job_posted_at_datetime_utc": "2025-08-06T00:43:38.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-software-engineer-backend-consumer-remote-singapore"
+    "id": "medtronic-software-engineer-i-crm-blaine"
+  },
+  {
+    "job_title": "Entry level Mainframe Software Development Engineer",
+    "employer_name": "Broadcom Limited",
+    "job_city": "Downers Grove",
+    "job_state": "IL",
+    "job_description": "Join Broadcom Limited in this exciting opportunity.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-IL-Lisle-Warrenville-Road/Entry-level-Mainframe-Software-Development-Engineer_R023490-1",
+    "job_posted_at_datetime_utc": "2025-08-05T23:30:01.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "broadcom-limited-entry-level-mainframe-software-development-engineer-downers-grove"
   }
 ]
