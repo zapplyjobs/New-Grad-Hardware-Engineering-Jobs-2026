@@ -1,23 +1,66 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Strategic Partner Development Lead",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_title": "Prototype Build Engineer - Electrical",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1479785619794849",
     "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Strategic Partner Development Lead, Geo and Local Monetization",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/123031227530650310-strategic-partner-development-lead-geo-and-local-monetization?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=5",
-    "id": "google-strategic-partner-development-lead-new-york"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-prototype-build-engineer-electrical-redmond"
   },
   {
-    "job_title": "Principal Design Engineer",
+    "job_title": "Support Design Associate, Payment Operations (University Grad)",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/691200417291232",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-support-design-associate-payment-operations-university-grad-multiple"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Embedded Software Engineer",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Embedded Software Engineer, Android Automotive Perception",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/114675488915366598-embedded-software-engineer-android-automotive-perception?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=8",
+    "id": "google-embedded-software-engineer-san-jose"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Lead",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Lead, Global Product Solutions",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/116798645868602054-lead-global-product-solutions?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=6",
+    "id": "google-lead-atlanta"
+  },
+  {
+    "job_title": "Technical Support Engineer (SCIM - Endpoint Protection)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1848031",
-    "job_posted_at_datetime_utc": "2025-08-06T16:44:09.909Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1830383",
+    "job_posted_at_datetime_utc": "2025-08-06T17:36:06.483Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-design-engineer-redmond"
+    "id": "microsoft-technical-support-engineer-scim-endpoint-protection-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer - CTJ - Poly",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852230",
+    "job_posted_at_datetime_utc": "2025-08-06T17:36:06.483Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-ctj-poly-redmond"
   }
 ]
