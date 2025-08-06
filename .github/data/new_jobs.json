@@ -1,46 +1,35 @@
 [
   {
-    "job_title": "Solution Engineering - Cyber Security",
+    "job_title": "Azure Advanced Cloud Engineer 2 – Customer Focus",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857240",
-    "job_posted_at_datetime_utc": "2025-08-06T13:08:36.539Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1844313",
+    "job_posted_at_datetime_utc": "2025-08-06T14:39:11.981Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineering-cyber-security-redmond"
+    "id": "microsoft-azure-advanced-cloud-engineer-2-customer-focus-redmond"
   },
   {
-    "job_title": "Data Analytics Manager (Front End Dev/AI Engineer)",
+    "job_title": "Principal Power Hardware Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1830480",
-    "job_posted_at_datetime_utc": "2025-08-06T13:08:36.539Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1828903",
+    "job_posted_at_datetime_utc": "2025-08-06T14:39:11.981Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-data-analytics-manager-front-end-dev-ai-engineer-redmond"
+    "id": "microsoft-principal-power-hardware-engineer-redmond"
   },
   {
-    "job_title": "Junior Solution Engineer - Cyber Security",
+    "job_title": "Senior Power Hardware Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857251",
-    "job_posted_at_datetime_utc": "2025-08-06T13:08:36.539Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854292",
+    "job_posted_at_datetime_utc": "2025-08-06T14:39:11.981Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-junior-solution-engineer-cyber-security-redmond"
-  },
-  {
-    "job_title": "Solution Engineering - Power platform",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857184",
-    "job_posted_at_datetime_utc": "2025-08-06T13:08:36.539Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineering-power-platform-redmond"
+    "id": "microsoft-senior-power-hardware-engineer-redmond"
   }
 ]
