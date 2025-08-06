@@ -1,24 +1,35 @@
 [
   {
-    "job_title": "Critical Environment Instrumentation Engineer",
+    "job_title": "Director of Technical Support Engineering",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1853961",
-    "job_posted_at_datetime_utc": "2025-08-06T05:44:32.812Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854587",
+    "job_posted_at_datetime_utc": "2025-08-06T06:52:23.631Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-critical-environment-instrumentation-engineer-redmond"
+    "id": "microsoft-director-of-technical-support-engineering-redmond"
   },
   {
-    "job_title": "Enterprise Cloud & AI Platform Solution Engineer Manager (Financial Services)",
+    "job_title": "Senior Software Engineer - Hardware infra",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852595",
-    "job_posted_at_datetime_utc": "2025-08-06T05:44:32.812Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1824010",
+    "job_posted_at_datetime_utc": "2025-08-06T06:52:23.631Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-enterprise-cloud-ai-platform-solution-engineer-manager-financial-services-redmond"
+    "id": "microsoft-senior-software-engineer-hardware-infra-redmond"
+  },
+  {
+    "job_title": "Technical Support Engineering Manager - Compliance",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852630",
+    "job_posted_at_datetime_utc": "2025-08-06T06:52:23.631Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineering-manager-compliance-redmond"
   }
 ]
