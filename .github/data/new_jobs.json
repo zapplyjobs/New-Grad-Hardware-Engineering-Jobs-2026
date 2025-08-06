@@ -1,35 +1,13 @@
 [
   {
-    "job_title": "Senior Electrical Engineer",
+    "job_title": "Solution Engineer- Infra",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1853703",
-    "job_posted_at_datetime_utc": "2025-08-06T09:42:49.939Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856386",
+    "job_posted_at_datetime_utc": "2025-08-06T10:39:10.173Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-electrical-engineer-redmond"
-  },
-  {
-    "job_title": "Director Technical Support Engineering",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854781",
-    "job_posted_at_datetime_utc": "2025-08-06T09:42:49.939Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-director-technical-support-engineering-redmond"
-  },
-  {
-    "job_title": "Lead the Future: Cloud & AI Solution Engineer Manager",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1830226",
-    "job_posted_at_datetime_utc": "2025-08-06T09:42:49.939Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-lead-the-future-cloud-ai-solution-engineer-manager-redmond"
+    "id": "microsoft-solution-engineer-infra-redmond"
   }
 ]
