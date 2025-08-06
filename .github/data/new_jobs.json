@@ -1,35 +1,24 @@
 [
   {
-    "job_title": "Azure Advanced Cloud Engineer 2 – Customer Focus",
+    "job_title": "Senior Physical Design Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1844313",
-    "job_posted_at_datetime_utc": "2025-08-06T14:39:11.981Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845403",
+    "job_posted_at_datetime_utc": "2025-08-06T15:39:56.662Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-azure-advanced-cloud-engineer-2-customer-focus-redmond"
+    "id": "microsoft-senior-physical-design-engineer-redmond"
   },
   {
-    "job_title": "Principal Power Hardware Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1828903",
-    "job_posted_at_datetime_utc": "2025-08-06T14:39:11.981Z",
+    "job_title": "Software Engineer, Ads",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8101855002",
+    "job_posted_at_datetime_utc": "2025-08-06T15:17:56.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-power-hardware-engineer-redmond"
-  },
-  {
-    "job_title": "Senior Power Hardware Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854292",
-    "job_posted_at_datetime_utc": "2025-08-06T14:39:11.981Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-power-hardware-engineer-redmond"
+    "id": "discord-software-engineer-ads-san-francisco-bay-area"
   }
 ]
