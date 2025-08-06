@@ -1,46 +1,24 @@
 [
   {
-    "job_title": "Software Engineer II- Frontend",
+    "job_title": "Critical Environment Instrumentation Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1838840",
-    "job_posted_at_datetime_utc": "2025-08-06T04:17:16.333Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1853961",
+    "job_posted_at_datetime_utc": "2025-08-06T05:44:32.812Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-frontend-redmond"
+    "id": "microsoft-critical-environment-instrumentation-engineer-redmond"
   },
   {
-    "job_title": "Software Engineer – Entry Level or Associate",
-    "employer_name": "The Boeing Company",
-    "job_city": "Albuquerque",
-    "job_state": "NM",
-    "job_description": "Join The Boeing Company in this exciting opportunity.",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Kirtland-AFB-NM/Software-Engineer--Entry-Level-or-Associate-_JR2025466020-1",
-    "job_posted_at_datetime_utc": "2025-08-06T04:12:38.000Z",
+    "job_title": "Enterprise Cloud & AI Platform Solution Engineer Manager (Financial Services)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852595",
+    "job_posted_at_datetime_utc": "2025-08-06T05:44:32.812Z",
     "job_employment_type": "FULLTIME",
-    "id": "the-boeing-company-software-engineer-entry-level-or-associate-albuquerque"
-  },
-  {
-    "job_title": "Staff Software Engineer, Search - Data Platform ",
-    "employer_name": "Stripe",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7126646",
-    "job_posted_at_datetime_utc": "2025-08-06T03:14:32.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-staff-software-engineer-search-data-platform-bengaluru"
-  },
-  {
-    "job_title": "Sr. Engineering Manager - Photon Team - San Francisco",
-    "employer_name": "Databricks",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8107178002",
-    "job_posted_at_datetime_utc": "2025-08-06T03:09:51.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-engineering-manager-photon-team-san-francisco-san-francisco"
+    "id": "microsoft-enterprise-cloud-ai-platform-solution-engineer-manager-financial-services-redmond"
   }
 ]
