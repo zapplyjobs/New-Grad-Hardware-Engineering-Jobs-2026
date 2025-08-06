@@ -1,68 +1,46 @@
 [
   {
-    "job_title": "Engineering Technician",
-    "employer_name": "Qualcomm",
-    "job_city": "Boxborough",
-    "job_state": "Massachusetts",
-    "job_description": "Join Qualcomm to invent breakthrough technologies.",
-    "job_apply_link": "https://careers.qualcomm.com/careers/job/446707211359",
-    "job_posted_at_datetime_utc": "2025-08-06T02:32:43.415Z",
-    "job_employment_type": "FULLTIME",
-    "id": "qualcomm-engineering-technician-boxborough"
-  },
-  {
-    "job_title": "Senior Software Engineer - CoreAI",
+    "job_title": "Software Engineer II- Frontend",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854100",
-    "job_posted_at_datetime_utc": "2025-08-06T02:32:38.370Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1838840",
+    "job_posted_at_datetime_utc": "2025-08-06T04:17:16.333Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-coreai-redmond"
+    "id": "microsoft-software-engineer-ii-frontend-redmond"
   },
   {
-    "job_title": "Quantum Software Engineer II",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856738",
-    "job_posted_at_datetime_utc": "2025-08-06T02:32:38.370Z",
+    "job_title": "Software Engineer – Entry Level or Associate",
+    "employer_name": "The Boeing Company",
+    "job_city": "Albuquerque",
+    "job_state": "NM",
+    "job_description": "Join The Boeing Company in this exciting opportunity.",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Kirtland-AFB-NM/Software-Engineer--Entry-Level-or-Associate-_JR2025466020-1",
+    "job_posted_at_datetime_utc": "2025-08-06T04:12:38.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-quantum-software-engineer-ii-redmond"
+    "id": "the-boeing-company-software-engineer-entry-level-or-associate-albuquerque"
   },
   {
-    "job_title": "Senior Quantum Software Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856743",
-    "job_posted_at_datetime_utc": "2025-08-06T02:32:38.370Z",
+    "job_title": "Staff Software Engineer, Search - Data Platform ",
+    "employer_name": "Stripe",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7126646",
+    "job_posted_at_datetime_utc": "2025-08-06T03:14:32.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-quantum-software-engineer-redmond"
+    "id": "stripe-staff-software-engineer-search-data-platform-bengaluru"
   },
   {
-    "job_title": "Software Engineer I - CRM",
-    "employer_name": "Medtronic",
-    "job_city": "Blaine",
-    "job_state": "MN",
-    "job_description": "Join Medtronic in this exciting opportunity.",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R38781-1",
-    "job_posted_at_datetime_utc": "2025-08-06T00:43:38.000Z",
+    "job_title": "Sr. Engineering Manager - Photon Team - San Francisco",
+    "employer_name": "Databricks",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8107178002",
+    "job_posted_at_datetime_utc": "2025-08-06T03:09:51.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "medtronic-software-engineer-i-crm-blaine"
-  },
-  {
-    "job_title": "Entry level Mainframe Software Development Engineer",
-    "employer_name": "Broadcom Limited",
-    "job_city": "Downers Grove",
-    "job_state": "IL",
-    "job_description": "Join Broadcom Limited in this exciting opportunity.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-IL-Lisle-Warrenville-Road/Entry-level-Mainframe-Software-Development-Engineer_R023490-1",
-    "job_posted_at_datetime_utc": "2025-08-05T23:30:01.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "broadcom-limited-entry-level-mainframe-software-development-engineer-downers-grove"
+    "id": "databricks-sr-engineering-manager-photon-team-san-francisco-san-francisco"
   }
 ]
