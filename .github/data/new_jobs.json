@@ -1,34 +1,90 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Product Management: Internship Opportunities",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Product Management: Internship Opportunities",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858454/Product-Management%3A-Internship-Opportunities",
-    "id": "microsoft-product-management-internship-opportunities-redmond"
-  },
-  {
-    "job_title": "Embedded Escalation Engineer",
+    "job_title": "Senior Software Engineer-Purview Information Protection",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1850660",
-    "job_posted_at_datetime_utc": "2025-08-07T20:39:18.336Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1841252",
+    "job_posted_at_datetime_utc": "2025-08-07T23:35:28.503Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-embedded-escalation-engineer-redmond"
+    "id": "microsoft-senior-software-engineer-purview-information-protection-redmond"
   },
   {
-    "job_title": "Principal Software Engineer - Responsible AI",
+    "job_title": "Sr Software Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855335",
-    "job_posted_at_datetime_utc": "2025-08-07T20:39:18.336Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1819344",
+    "job_posted_at_datetime_utc": "2025-08-07T23:35:28.503Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-responsible-ai-redmond"
+    "id": "microsoft-sr-software-engineer-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer - Responsible AI",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855353",
+    "job_posted_at_datetime_utc": "2025-08-07T23:35:28.503Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-responsible-ai-redmond"
+  },
+  {
+    "job_title": "Senior Validation Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855484",
+    "job_posted_at_datetime_utc": "2025-08-07T23:35:28.503Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-validation-engineer-redmond"
+  },
+  {
+    "job_title": "Evergreen - Distributed Data Systems - Staff Software Engineer (L6)",
+    "employer_name": "Databricks",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8091371002",
+    "job_posted_at_datetime_utc": "2025-08-07T22:05:30.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-evergreen-distributed-data-systems-staff-software-engineer-l6-mountain-view"
+  },
+  {
+    "job_title": "Design Engineer, Presence",
+    "employer_name": "Stripe",
+    "job_city": "US Remote",
+    "job_state": "Canada",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7144975",
+    "job_posted_at_datetime_utc": "2025-08-07T21:33:26.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-design-engineer-presence-us-remote"
+  },
+  {
+    "job_title": "Senior Software Engineer, Machine Learning (Ads)",
+    "employer_name": "Discord",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8098628002",
+    "job_posted_at_datetime_utc": "2025-08-07T21:30:28.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "discord-senior-software-engineer-machine-learning-ads-san-francisco"
+  },
+  {
+    "job_title": "Manager, Software Engineering - Multi-Product Features",
+    "employer_name": "Figma",
+    "job_city": "San Francisco",
+    "job_state": "CA • New York",
+    "job_description": "Join Figma to make design accessible to all.",
+    "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5613911004?gh_jid=5613911004",
+    "job_posted_at_datetime_utc": "2025-08-07T21:14:43.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "figma-manager-software-engineering-multi-product-features-san-francisco"
   }
 ]
