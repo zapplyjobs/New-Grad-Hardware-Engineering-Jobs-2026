@@ -1,35 +1,24 @@
 [
   {
-    "job_title": "Software Engineer – Early Career",
-    "employer_name": "Roblox",
-    "job_city": "San Mateo",
-    "job_state": "CA",
-    "job_description": "Join Roblox in this exciting opportunity.",
-    "job_apply_link": "https://careers.roblox.com/jobs/7114754?gh_jid=7114754",
-    "job_posted_at_datetime_utc": "2025-08-07T06:27:48.000Z",
+    "job_title": "Software Engineer:  Internship Opportunity",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1841649",
+    "job_posted_at_datetime_utc": "2025-08-07T07:39:42.142Z",
     "job_employment_type": "FULLTIME",
-    "id": "roblox-software-engineer-early-career-san-mateo"
+    "id": "microsoft-software-engineer-internship-opportunity-redmond"
   },
   {
-    "job_title": "Software Engineer I - Backend",
-    "employer_name": "Uber",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "Join Uber in this exciting opportunity.",
-    "job_apply_link": "https://www.uber.com/global/en/careers/list/146900/",
-    "job_posted_at_datetime_utc": "2025-08-07T06:22:00.000Z",
+    "job_title": "Back-End Software Engineer IIs & Senior Software Engineers",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1838658",
+    "job_posted_at_datetime_utc": "2025-08-07T07:39:42.142Z",
     "job_employment_type": "FULLTIME",
-    "id": "uber-software-engineer-i-backend-sunnyvale"
-  },
-  {
-    "job_title": "Software Engineer I - Aws",
-    "employer_name": "The Travelers Companies",
-    "job_city": "Baltimore",
-    "job_state": "MD",
-    "job_description": "Join The Travelers Companies in this exciting opportunity.",
-    "job_apply_link": "https://travelers.wd5.myworkdayjobs.com/External/job/MD---Baltimore/Software-Engineer-I---AWS_R-46038",
-    "job_posted_at_datetime_utc": "2025-08-07T06:13:07.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "the-travelers-companies-software-engineer-i-aws-baltimore"
+    "id": "microsoft-back-end-software-engineer-iis-senior-software-engineers-redmond"
   }
 ]
