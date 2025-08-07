@@ -1,24 +1,34 @@
 [
   {
-    "job_title": "Senior Design Verification Engineer",
+    "employer_name": "Microsoft",
+    "job_title": "Product Management: Internship Opportunities",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Product Management: Internship Opportunities",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858454/Product-Management%3A-Internship-Opportunities",
+    "id": "microsoft-product-management-internship-opportunities-redmond"
+  },
+  {
+    "job_title": "Embedded Escalation Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855478",
-    "job_posted_at_datetime_utc": "2025-08-07T19:32:48.413Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1850660",
+    "job_posted_at_datetime_utc": "2025-08-07T20:39:18.336Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-design-verification-engineer-redmond"
+    "id": "microsoft-embedded-escalation-engineer-redmond"
   },
   {
-    "job_title": "Software Engineer - New Grad",
-    "employer_name": "Reddit",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_description": "Join Reddit in this exciting opportunity.",
-    "job_apply_link": "https://app.ripplematch.com/v2/public/job/340fb9c1",
-    "job_posted_at_datetime_utc": "2025-08-07T04:29:40.000Z",
+    "job_title": "Principal Software Engineer - Responsible AI",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855335",
+    "job_posted_at_datetime_utc": "2025-08-07T20:39:18.336Z",
     "job_employment_type": "FULLTIME",
-    "id": "reddit-software-engineer-new-grad-chicago"
+    "id": "microsoft-principal-software-engineer-responsible-ai-redmond"
   }
 ]
