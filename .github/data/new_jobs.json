@@ -1,24 +1,57 @@
 [
   {
-    "job_title": "Full-Stack Software Engineer, Guest Displays & Platforms",
-    "employer_name": "Airbnb",
-    "job_city": "United States",
-    "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/6786628?gh_jid=6786628",
-    "job_posted_at_datetime_utc": "2025-08-07T17:14:03.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "airbnb-full-stack-software-engineer-guest-displays-platforms-united-states"
+    "job_title": "Fundamental AI Research Scientist, Computer Vision - FAIR",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +2 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/599380786371862",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-fundamental-ai-research-scientist-computer-vision-fair-sunnyvale"
   },
   {
-    "job_title": "Sr. Solutions Engineer - Financial Services",
-    "employer_name": "Databricks",
-    "job_city": "Illinois; Massachusetts; New York; Washington",
-    "job_state": "D.C.",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099032002",
-    "job_posted_at_datetime_utc": "2025-08-07T16:57:23.000Z",
+    "job_title": "Product Design Hardware Engineering Manager",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1098755918849338",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-product-design-hardware-engineering-manager-redmond"
+  },
+  {
+    "job_title": "Digital Solution Engineer - Cloud & AI Data",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857899",
+    "job_posted_at_datetime_utc": "2025-08-07T18:50:18.701Z",
     "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-solutions-engineer-financial-services-illinois-massachusetts-new-york-washington"
+    "id": "microsoft-digital-solution-engineer-cloud-ai-data-redmond"
+  },
+  {
+    "job_title": "Solution Engineering - PowerPlatform",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854845",
+    "job_posted_at_datetime_utc": "2025-08-07T18:50:18.701Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-solution-engineering-powerplatform-redmond"
+  },
+  {
+    "job_title": "Engineering Manager, Ads",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8101770002",
+    "job_posted_at_datetime_utc": "2025-08-07T18:02:11.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "discord-engineering-manager-ads-san-francisco-bay-area"
   }
 ]
