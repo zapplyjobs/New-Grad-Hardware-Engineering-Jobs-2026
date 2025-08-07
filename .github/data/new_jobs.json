@@ -1,34 +1,34 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Enablement Specialist",
-    "job_city": "Chicago",
-    "job_state": "IL",
+    "job_title": "Strategy and Operations Senior Associate",
+    "job_city": "Atlanta",
+    "job_state": "GA",
     "job_posted_at": "Recently",
-    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Enablement Specialist, Go-to-Market",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/107854463179334342-enablement-specialist-gotomarket?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
-    "id": "google-enablement-specialist-chicago"
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Strategy and Operations Senior Associate, Services and Distribution",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/78266983233004230-strategy-and-operations-senior-associate-services-and-distribution?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=2",
+    "id": "google-strategy-and-operations-senior-associate-atlanta"
   },
   {
-    "job_title": "Technical Support Engineer - Spark Databricks",
+    "job_title": "Design Verification Engineer II",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856376",
-    "job_posted_at_datetime_utc": "2025-08-07T11:33:23.017Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857295",
+    "job_posted_at_datetime_utc": "2025-08-07T13:08:11.336Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineer-spark-databricks-redmond"
+    "id": "microsoft-design-verification-engineer-ii-redmond"
   },
   {
-    "job_title": "Software Engineer, Android, Global Markets ",
-    "employer_name": "Airbnb",
-    "job_city": "China",
-    "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/7142292",
-    "job_posted_at_datetime_utc": "2025-08-07T10:54:53.000Z",
+    "job_title": "Senior Security Customer Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1842070",
+    "job_posted_at_datetime_utc": "2025-08-07T13:08:11.336Z",
     "job_employment_type": "FULLTIME",
-    "id": "airbnb-software-engineer-android-global-markets-china"
+    "id": "microsoft-senior-security-customer-engineer-redmond"
   }
 ]
