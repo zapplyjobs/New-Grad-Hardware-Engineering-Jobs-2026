@@ -1,33 +1,57 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Property Tax Analyst",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Property Tax Analyst",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/99123206983426758-property-tax-analyst?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States",
-    "id": "google-property-tax-analyst-chicago"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Logistics Operations Manager",
-    "job_city": "The Dalles",
-    "job_state": "OR",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Logistics Operations Manager, Google Cloud Logistics",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/103642749529400006-logistics-operations-manager-google-cloud-logistics?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=9",
-    "id": "google-logistics-operations-manager-the-dalles"
-  },
-  {
-    "job_title": "Senior Technical Support Engineering Manager",
+    "job_title": "Support Escalation Engineer (Exchange Online/SharePoint Online/Teams/Copilot)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857828",
-    "job_posted_at_datetime_utc": "2025-08-07T09:42:00.173Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1842799",
+    "job_posted_at_datetime_utc": "2025-08-07T10:38:29.010Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-technical-support-engineering-manager-redmond"
+    "id": "microsoft-support-escalation-engineer-exchange-online-sharepoint-online-teams-copilot-redmond"
+  },
+  {
+    "job_title": "Senior Data Platform Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1847798",
+    "job_posted_at_datetime_utc": "2025-08-07T10:38:29.010Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-data-platform-engineer-redmond"
+  },
+  {
+    "job_title": "Principal Engineering Manager",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857381",
+    "job_posted_at_datetime_utc": "2025-08-07T10:38:29.010Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-engineering-manager-redmond"
+  },
+  {
+    "job_title": "Principal Data Platform Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1847741",
+    "job_posted_at_datetime_utc": "2025-08-07T10:38:29.010Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-data-platform-engineer-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer - Azure Traffic Manager",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1851543",
+    "job_posted_at_datetime_utc": "2025-08-07T10:38:29.010Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-azure-traffic-manager-redmond"
   }
 ]
