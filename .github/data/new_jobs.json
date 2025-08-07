@@ -1,57 +1,34 @@
 [
   {
-    "job_title": "Support Escalation Engineer (Exchange Online/SharePoint Online/Teams/Copilot)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1842799",
-    "job_posted_at_datetime_utc": "2025-08-07T10:38:29.010Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-support-escalation-engineer-exchange-online-sharepoint-online-teams-copilot-redmond"
+    "employer_name": "Google",
+    "job_title": "Enablement Specialist",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Enablement Specialist, Go-to-Market",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/107854463179334342-enablement-specialist-gotomarket?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
+    "id": "google-enablement-specialist-chicago"
   },
   {
-    "job_title": "Senior Data Platform Engineer",
+    "job_title": "Technical Support Engineer - Spark Databricks",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1847798",
-    "job_posted_at_datetime_utc": "2025-08-07T10:38:29.010Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856376",
+    "job_posted_at_datetime_utc": "2025-08-07T11:33:23.017Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-data-platform-engineer-redmond"
+    "id": "microsoft-technical-support-engineer-spark-databricks-redmond"
   },
   {
-    "job_title": "Principal Engineering Manager",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857381",
-    "job_posted_at_datetime_utc": "2025-08-07T10:38:29.010Z",
+    "job_title": "Software Engineer, Android, Global Markets ",
+    "employer_name": "Airbnb",
+    "job_city": "China",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://job-boards.greenhouse.io/airbnb/jobs/7142292",
+    "job_posted_at_datetime_utc": "2025-08-07T10:54:53.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-engineering-manager-redmond"
-  },
-  {
-    "job_title": "Principal Data Platform Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1847741",
-    "job_posted_at_datetime_utc": "2025-08-07T10:38:29.010Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-data-platform-engineer-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer - Azure Traffic Manager",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1851543",
-    "job_posted_at_datetime_utc": "2025-08-07T10:38:29.010Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-azure-traffic-manager-redmond"
+    "id": "airbnb-software-engineer-android-global-markets-china"
   }
 ]
