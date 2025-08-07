@@ -13,7 +13,11 @@ const scrapeAmazonJobs = require('../../../jobboard/src/backend/platforms/amazon
 const googleScraper = require('../../../jobboard/src/backend/platforms/google/googleScraper');
 const scrapeMetaJobs = require('../../../jobboard/src/backend/platforms/meta/metaScraper');
 const microsoftScraper = require('../../../jobboard/src/backend/platforms/microsoft/microsoftScraper');
+const armScraper = require('../../../jobboard/src/backend/platforms/arm/armScraper');
+const micronScraper = require('../../../jobboard/src/backend/platforms/micron/micronScraper');
+const ibmScraper = require('../../../jobboard/src/backend/platforms/ibm/ibmScraper');
 
+const aijobsScraper = require('../../../jobboard/src/backend/platforms/ai/aijobsScraper');
 // Generate enhanced job table with better formatting
 function generateJobTable(jobs) {
   if (jobs.length === 0) {
@@ -538,34 +542,59 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
       meta_Hardware,
       microsoft_Hardware,
       google_Hardware,
+      arm_Hardware,
+      micron_Hardware,
+      ibm_Hardware,
+      aijobs_Hardware,
     ] = await Promise.all([
       scrapeAmazonJobs("hardware engineering"),
       scrapeMetaJobs("hardware engineering"),
       microsoftScraper("hardware engineering"),
       googleScraper("Hardware Engineering"),
+      armScraper("Hardware Engineering"),
+      micronScraper("hardware engineering"),
+      ibmScraper("Hardware Engineering"),
+      aijobsScraper("hardware engineering"),
     ]);
     allHardwarejobs.push(
       ...amazon_Hardware,
       ...meta_Hardware,
       ...microsoft_Hardware,
-      ...google_Hardware
+      ...google_Hardware,
+      ...arm_Hardware,
+      ...micron_Hardware,
+      ...ibm_Hardware,
+      ...aijobs_Hardware
+
     );
     const [
       amazon_DataScience,
       meta_DataScience,
       microsoft_DataScience,
       google_DataScience,
+      arm_DataScience,
+      micron_DataScience,
+      ibm_DataScience,
+      aijobs_DataScience,
     ] = await Promise.all([
       scrapeAmazonJobs("Data Science"),
       scrapeMetaJobs("Data Science"),
       microsoftScraper("data science"),
       googleScraper("Data Science"),
+      armScraper("Data Science"),
+      micronScraper("Data Science"),
+      ibmScraper("Data Science"),
+      aijobsScraper("data science")
     ]);
     allDataScienceJobs.push(
       ...amazon_DataScience,
       ...meta_DataScience,
       ...microsoft_DataScience,
-      ...google_DataScience
+      ...google_DataScience,
+      ...arm_DataScience,
+      ...micron_DataScience,
+      ...ibm_DataScience,
+      ...aijobs_DataScience
     );
     const readmeContent = await generateReadme(
       allDataScienceJobs,
