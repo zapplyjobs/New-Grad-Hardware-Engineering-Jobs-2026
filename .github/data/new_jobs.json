@@ -1,57 +1,35 @@
 [
   {
-    "job_title": "Software Development Engineer, MSP, Pack",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3034601/software-development-engineer-msp-pack",
-    "job_posted_at": "2025-08-07T02:10:22.348Z",
-    "job_posted_at_datetime_utc": "2025-08-07T02:10:22.348Z",
-    "id": "amazon-software-development-engineer-msp-pack-bellevue"
-  },
-  {
-    "job_title": "Software Engineer (Leadership) - Product",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/2887906508264541",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-leadership-product-multiple"
-  },
-  {
-    "job_title": "Software Engineer - Language (Technical Leadership)",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA +2 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1337915113900850",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-language-technical-leadership-menlo-park"
-  },
-  {
-    "job_title": "Machine Learning Software Engineering Manager",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +4 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1698326244376455",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-machine-learning-software-engineering-manager-sunnyvale"
-  },
-  {
-    "job_title": "Data Security Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857662",
-    "job_posted_at_datetime_utc": "2025-08-07T04:17:07.885Z",
+    "job_title": "Senior Software Engineer, Backend (Consumer)",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - India",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/6704174?gh_jid=6704174",
+    "job_posted_at_datetime_utc": "2025-08-07T05:05:47.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-data-security-engineer-redmond"
+    "id": "coinbase-senior-software-engineer-backend-consumer-remote-india"
+  },
+  {
+    "job_title": "Software Developer",
+    "employer_name": "Five Rings",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Join Five Rings in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4816999008",
+    "job_posted_at_datetime_utc": "2025-08-07T04:38:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "five-rings-software-developer-new-york"
+  },
+  {
+    "job_title": "Software Engineer",
+    "employer_name": "RippleMatch",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_description": "Join RippleMatch in this exciting opportunity.",
+    "job_apply_link": "https://app.ripplematch.com/v2/public/job/340fb9c1",
+    "job_posted_at_datetime_utc": "2025-08-07T04:29:40.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "ripplematch-software-engineer-chicago"
   }
 ]
