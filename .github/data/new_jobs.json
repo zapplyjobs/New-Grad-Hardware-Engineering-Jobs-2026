@@ -1,35 +1,35 @@
 [
   {
-    "job_title": "Senior Software Engineer, Backend (Consumer)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - India",
+    "job_title": "Software Engineer – Early Career",
+    "employer_name": "Roblox",
+    "job_city": "San Mateo",
     "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/6704174?gh_jid=6704174",
-    "job_posted_at_datetime_utc": "2025-08-07T05:05:47.000Z",
+    "job_description": "Join Roblox in this exciting opportunity.",
+    "job_apply_link": "https://careers.roblox.com/jobs/7114754?gh_jid=7114754",
+    "job_posted_at_datetime_utc": "2025-08-07T06:27:48.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-software-engineer-backend-consumer-remote-india"
+    "id": "roblox-software-engineer-early-career-san-mateo"
   },
   {
-    "job_title": "Software Developer",
-    "employer_name": "Five Rings",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Join Five Rings in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4816999008",
-    "job_posted_at_datetime_utc": "2025-08-07T04:38:00.000Z",
+    "job_title": "Software Engineer I - Backend",
+    "employer_name": "Uber",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "Join Uber in this exciting opportunity.",
+    "job_apply_link": "https://www.uber.com/global/en/careers/list/146900/",
+    "job_posted_at_datetime_utc": "2025-08-07T06:22:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "five-rings-software-developer-new-york"
+    "id": "uber-software-engineer-i-backend-sunnyvale"
   },
   {
-    "job_title": "Software Engineer",
-    "employer_name": "RippleMatch",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_description": "Join RippleMatch in this exciting opportunity.",
-    "job_apply_link": "https://app.ripplematch.com/v2/public/job/340fb9c1",
-    "job_posted_at_datetime_utc": "2025-08-07T04:29:40.000Z",
+    "job_title": "Software Engineer I - Aws",
+    "employer_name": "The Travelers Companies",
+    "job_city": "Baltimore",
+    "job_state": "MD",
+    "job_description": "Join The Travelers Companies in this exciting opportunity.",
+    "job_apply_link": "https://travelers.wd5.myworkdayjobs.com/External/job/MD---Baltimore/Software-Engineer-I---AWS_R-46038",
+    "job_posted_at_datetime_utc": "2025-08-07T06:13:07.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "ripplematch-software-engineer-chicago"
+    "id": "the-travelers-companies-software-engineer-i-aws-baltimore"
   }
 ]
