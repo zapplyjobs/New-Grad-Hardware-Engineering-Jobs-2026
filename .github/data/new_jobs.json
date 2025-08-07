@@ -1,57 +1,24 @@
 [
   {
-    "job_title": "Fundamental AI Research Scientist, Computer Vision - FAIR",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +2 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/599380786371862",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-fundamental-ai-research-scientist-computer-vision-fair-sunnyvale"
-  },
-  {
-    "job_title": "Product Design Hardware Engineering Manager",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1098755918849338",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-design-hardware-engineering-manager-redmond"
-  },
-  {
-    "job_title": "Digital Solution Engineer - Cloud & AI Data",
+    "job_title": "Senior Design Verification Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857899",
-    "job_posted_at_datetime_utc": "2025-08-07T18:50:18.701Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855478",
+    "job_posted_at_datetime_utc": "2025-08-07T19:32:48.413Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-solution-engineer-cloud-ai-data-redmond"
+    "id": "microsoft-senior-design-verification-engineer-redmond"
   },
   {
-    "job_title": "Solution Engineering - PowerPlatform",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854845",
-    "job_posted_at_datetime_utc": "2025-08-07T18:50:18.701Z",
+    "job_title": "Software Engineer - New Grad",
+    "employer_name": "Reddit",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_description": "Join Reddit in this exciting opportunity.",
+    "job_apply_link": "https://app.ripplematch.com/v2/public/job/340fb9c1",
+    "job_posted_at_datetime_utc": "2025-08-07T04:29:40.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineering-powerplatform-redmond"
-  },
-  {
-    "job_title": "Engineering Manager, Ads",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area",
-    "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8101770002",
-    "job_posted_at_datetime_utc": "2025-08-07T18:02:11.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "discord-engineering-manager-ads-san-francisco-bay-area"
+    "id": "reddit-software-engineer-new-grad-chicago"
   }
 ]
