@@ -1,144 +1,35 @@
 [
   {
-    "job_title": "Software Development Engineer, Shield Core",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3016434/software-development-engineer-shield-core",
-    "job_posted_at": "2025-08-08T06:38:59.801Z",
-    "job_posted_at_datetime_utc": "2025-08-08T06:38:59.801Z",
-    "id": "amazon-software-development-engineer-shield-core-seattle"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Product Manager",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Manager, Googler Technology and Engineering",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/121709563819762374-product-manager-googler-technology-and-engineering?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=10",
-    "id": "google-product-manager-new-york"
-  },
-  {
-    "job_title": "Software Engineer (WEB)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1851065",
-    "job_posted_at_datetime_utc": "2025-08-08T08:45:43.352Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-web-redmond"
-  },
-  {
-    "job_title": "Customer Experience Engineering IC3",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857315",
-    "job_posted_at_datetime_utc": "2025-08-08T08:45:43.352Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-customer-experience-engineering-ic3-redmond"
-  },
-  {
-    "job_title": "Technical Support Engineering - Microsoft Defender for Office (Location - Hyderabad, Bangalore, Noida)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1850677",
-    "job_posted_at_datetime_utc": "2025-08-08T08:45:43.352Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-microsoft-defender-for-office-location-hyderabad-bangalore-noida-redmond"
-  },
-  {
-    "job_title": "Technical Support Engineering - Security & Compliance (Location - Hyderabad, Bangalore, Noida)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1844279",
-    "job_posted_at_datetime_utc": "2025-08-08T08:45:43.352Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-security-compliance-location-hyderabad-bangalore-noida-redmond"
-  },
-  {
-    "job_title": "Principal Software Engineering Manager - Azure CXP",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858480",
-    "job_posted_at_datetime_utc": "2025-08-08T08:45:43.352Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineering-manager-azure-cxp-redmond"
-  },
-  {
-    "job_title": "Junior Full Stack Software Engineer",
-    "employer_name": "Radiance Technologies",
-    "job_city": "locations Beavercreek",
-    "job_state": "OH",
-    "job_description": "Join Radiance Technologies in this exciting opportunity.",
-    "job_apply_link": "https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101733",
-    "job_posted_at_datetime_utc": "2025-08-08T08:40:27.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "radiance-technologies-junior-full-stack-software-engineer-locations-beavercreek"
-  },
-  {
-    "job_title": "Undergrad Software Engineer",
-    "employer_name": "Oracle",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Join Oracle in this exciting opportunity.",
-    "job_apply_link": "https://careers.oracle.com/en/sites/jobsearch/job/304100",
-    "job_posted_at_datetime_utc": "2025-08-08T08:39:01.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "oracle-undergrad-software-engineer-seattle"
-  },
-  {
-    "job_title": "Forward Deployed Software Engineer I",
-    "employer_name": "Maxar",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_description": "Join Maxar in this exciting opportunity.",
-    "job_apply_link": "https://maxar.wd1.myworkdayjobs.com/en-US/Maxar/job/Herndon-VA/Forward-Deployed-Software-Engineer-I_R22647-1",
-    "job_posted_at_datetime_utc": "2025-08-08T08:37:41.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "maxar-forward-deployed-software-engineer-i-herndon"
-  },
-  {
-    "job_title": "Software Developer I - AI Developer",
-    "employer_name": "Iowa State University",
-    "job_city": "Remote",
-    "job_state": "IA",
-    "job_description": "Join Iowa State University in this exciting opportunity.",
-    "job_apply_link": "http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481",
-    "job_posted_at_datetime_utc": "2025-08-08T08:35:38.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "iowa-state-university-software-developer-i-ai-developer-remote"
-  },
-  {
-    "job_title": "Junior Software Engineer",
-    "employer_name": "Amgen",
-    "job_city": "Thousand Oaks",
+    "job_title": "Senior Staff Machine Learning Engineer - AI Platform ",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - India",
     "job_state": "CA",
-    "job_description": "Join Amgen in this exciting opportunity.",
-    "job_apply_link": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Junior-Software-Engineer_R-222252",
-    "job_posted_at_datetime_utc": "2025-08-08T08:34:02.000Z",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/5815249?gh_jid=5815249",
+    "job_posted_at_datetime_utc": "2025-08-08T09:10:31.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "amgen-junior-software-engineer-thousand-oaks"
+    "id": "coinbase-senior-staff-machine-learning-engineer-ai-platform-remote-india"
   },
   {
-    "job_title": "Engineering Manager - Data + AI Observability",
-    "employer_name": "Databricks",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7884603002",
-    "job_posted_at_datetime_utc": "2025-08-08T08:01:05.000Z",
+    "job_title": "Software Engineer I",
+    "employer_name": "Ping Identity",
+    "job_city": "Denver",
+    "job_state": "CO",
+    "job_description": "Join Ping Identity in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/pingidentity/jobs/8084784002",
+    "job_posted_at_datetime_utc": "2025-08-08T08:48:57.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "databricks-engineering-manager-data-ai-observability-bengaluru"
+    "id": "ping-identity-software-engineer-i-denver"
+  },
+  {
+    "job_title": "Associate Engineer, Software",
+    "employer_name": "Royal Carribean Group",
+    "job_city": "Miramar",
+    "job_state": "FL",
+    "job_description": "Join Royal Carribean Group in this exciting opportunity.",
+    "job_apply_link": "https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500",
+    "job_posted_at_datetime_utc": "2025-08-08T08:46:57.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "royal-carribean-group-associate-engineer-software-miramar"
   }
 ]
