@@ -1,35 +1,66 @@
 [
   {
-    "job_title": "Machine Learning Engineer",
-    "employer_name": "PayPal",
-    "job_city": "Chicago",
-    "job_state": "Illinois",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274908474061",
-    "job_posted_at_datetime_utc": "2025-08-08T13:55:07.179Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-machine-learning-engineer-chicago"
+    "employer_name": "Google",
+    "job_title": "Software Developer II",
+    "job_city": "Waterloo",
+    "job_state": "ON",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Software Developer II, Site Reliability",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/77447322278994630-software-developer-ii-site-reliability?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=2",
+    "id": "google-software-developer-ii-waterloo"
   },
   {
-    "job_title": "Business Applications Developer",
+    "employer_name": "Google",
+    "job_title": "Media Partnerships Lead",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareYouTube. Posted: Recently. Full Title: Media Partnerships Lead, YouTube",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/111729399853654726-media-partnerships-lead-youtube?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=2",
+    "id": "google-media-partnerships-lead-new-york"
+  },
+  {
+    "job_title": "Technical Support Engineer - Cybersecurity - Cloud Protection",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858240",
-    "job_posted_at_datetime_utc": "2025-08-08T13:54:59.936Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854773",
+    "job_posted_at_datetime_utc": "2025-08-08T14:37:09.299Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-business-applications-developer-redmond"
+    "id": "microsoft-technical-support-engineer-cybersecurity-cloud-protection-redmond"
   },
   {
-    "job_title": "Senior Engineer Manager",
+    "job_title": "Technical Support Engineering-Cybersecurity - Cloud Protection",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1848203",
-    "job_posted_at_datetime_utc": "2025-08-08T13:54:59.936Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852746",
+    "job_posted_at_datetime_utc": "2025-08-08T14:37:09.299Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-engineer-manager-redmond"
+    "id": "microsoft-technical-support-engineering-cybersecurity-cloud-protection-redmond"
+  },
+  {
+    "job_title": "Technical Support Engineering Manager-Cybersecurity - Cloud Protection",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852533",
+    "job_posted_at_datetime_utc": "2025-08-08T14:37:09.299Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineering-manager-cybersecurity-cloud-protection-redmond"
+  },
+  {
+    "job_title": "Software Engineer - Azure CXP",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858473",
+    "job_posted_at_datetime_utc": "2025-08-08T14:37:09.299Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-azure-cxp-redmond"
   }
 ]
