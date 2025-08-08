@@ -1,35 +1,13 @@
 [
   {
-    "job_title": "Senior Staff Machine Learning Engineer - AI Platform ",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - India",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/5815249?gh_jid=5815249",
-    "job_posted_at_datetime_utc": "2025-08-08T09:10:31.000Z",
+    "job_title": "Technical Support Engineer - Identity Management",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1835011",
+    "job_posted_at_datetime_utc": "2025-08-08T10:38:28.293Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-staff-machine-learning-engineer-ai-platform-remote-india"
-  },
-  {
-    "job_title": "Software Engineer I",
-    "employer_name": "Ping Identity",
-    "job_city": "Denver",
-    "job_state": "CO",
-    "job_description": "Join Ping Identity in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/pingidentity/jobs/8084784002",
-    "job_posted_at_datetime_utc": "2025-08-08T08:48:57.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "ping-identity-software-engineer-i-denver"
-  },
-  {
-    "job_title": "Associate Engineer, Software",
-    "employer_name": "Royal Carribean Group",
-    "job_city": "Miramar",
-    "job_state": "FL",
-    "job_description": "Join Royal Carribean Group in this exciting opportunity.",
-    "job_apply_link": "https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500",
-    "job_posted_at_datetime_utc": "2025-08-08T08:46:57.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "royal-carribean-group-associate-engineer-software-miramar"
+    "id": "microsoft-technical-support-engineer-identity-management-redmond"
   }
 ]
