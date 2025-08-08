@@ -1,56 +1,24 @@
 [
   {
-    "job_title": "Sound Designer",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Design",
-    "job_apply_link": "https://www.metacareers.com/jobs/4020873211488003",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-sound-designer-multiple"
-  },
-  {
-    "job_title": "Sound Designer",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Design & User Experience",
-    "job_apply_link": "https://www.metacareers.com/jobs/1359734602018390",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-sound-designer-bellevue"
-  },
-  {
-    "job_title": "Sound Designer - FoA (Family of Apps)",
-    "employer_name": "Meta",
-    "job_city": "Los Angeles",
-    "job_state": "CA +2 locations",
-    "job_description": "Design",
-    "job_apply_link": "https://www.metacareers.com/jobs/2147280159075778",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-sound-designer-foa-family-of-apps-los-angeles"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "YouTube Monetization Policy Analyst",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareYouTube. Posted: Recently. Full Title: YouTube Monetization Policy Analyst, Trust and Safety",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/98565806127751878-youtube-monetization-policy-analyst-trust-and-safety?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=7",
-    "id": "google-youtube-monetization-policy-analyst-seattle"
-  },
-  {
-    "job_title": "Senior Software Engineering Manager",
+    "job_title": "Software Engineering IC3",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858471",
-    "job_posted_at_datetime_utc": "2025-08-08T06:51:37.644Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1847079",
+    "job_posted_at_datetime_utc": "2025-08-08T07:39:10.919Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineering-manager-redmond"
+    "id": "microsoft-software-engineering-ic3-redmond"
+  },
+  {
+    "job_title": "Software Engineer 2 - Machine Learning Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856700",
+    "job_posted_at_datetime_utc": "2025-08-08T07:39:10.919Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-2-machine-learning-engineer-redmond"
   }
 ]
