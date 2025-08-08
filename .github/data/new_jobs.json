@@ -1,13 +1,35 @@
 [
   {
-    "job_title": "Software Development Engineer II, Amazon Privacy Engineering Consent & Data Minimization, Amazon Privacy Engineering Consent & Data Minimization",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3049529/software-development-engineer-ii-amazon-privacy-engineering-consent-data-minimization-amazon-privacy-engineering-consent-data-minimization",
-    "job_posted_at": "2025-08-08T15:34:33.796Z",
-    "job_posted_at_datetime_utc": "2025-08-08T15:34:33.796Z",
-    "id": "amazon-software-development-engineer-ii-amazon-privacy-engineering-consent-data-minimization-amazon-privacy-engineering-consent-data-minimization-austin"
+    "job_title": "Senior Software Engineer, Backend (Institutional - Exchange, Market Data & Analytics)",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - Canada",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7155444?gh_jid=7155444",
+    "job_posted_at_datetime_utc": "2025-08-08T16:51:48.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-senior-software-engineer-backend-institutional-exchange-market-data-analytics-remote-canada"
+  },
+  {
+    "job_title": "Senior Software Engineer, Backend (Institutional - Exchange, Market Data & Analytics)",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7155415?gh_jid=7155415",
+    "job_posted_at_datetime_utc": "2025-08-08T16:45:23.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-senior-software-engineer-backend-institutional-exchange-market-data-analytics-remote-usa"
+  },
+  {
+    "job_title": "Network Production Engineer, Intern",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Internship - Engineering, Tech & Design",
+    "job_apply_link": "https://www.metacareers.com/jobs/762670413176686",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-network-production-engineer-intern-menlo-park"
   }
 ]
