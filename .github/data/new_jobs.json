@@ -1,46 +1,35 @@
 [
   {
-    "job_title": "Associate Value Engineer (AI-Driven Data Science & Analytics)",
-    "employer_name": "Celonis",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Join Celonis in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/celonis/jobs/6616403003?gh_jid=6616403003",
-    "job_posted_at_datetime_utc": "2025-08-08T10:50:27.000Z",
+    "job_title": "Technical Support Engineering (Location - Hyderabad, Bangalore and Noida)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852629",
+    "job_posted_at_datetime_utc": "2025-08-08T13:07:03.328Z",
     "job_employment_type": "FULLTIME",
-    "id": "celonis-associate-value-engineer-ai-driven-data-science-analytics-new-york"
+    "id": "microsoft-technical-support-engineering-location-hyderabad-bangalore-and-noida-redmond"
   },
   {
-    "job_title": "Software Developer",
-    "employer_name": "Cook Systems",
-    "job_city": "Nashville",
-    "job_state": "TN",
-    "job_description": "Join Cook Systems in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/cooksys/jobs/4872299008",
-    "job_posted_at_datetime_utc": "2025-08-08T10:43:09.000Z",
+    "job_title": "Software Engineering",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858366",
+    "job_posted_at_datetime_utc": "2025-08-08T13:07:03.328Z",
     "job_employment_type": "FULLTIME",
-    "id": "cook-systems-software-developer-nashville"
+    "id": "microsoft-software-engineering-redmond"
   },
   {
-    "job_title": "Software Test Engineer",
-    "employer_name": "Detroit Defense",
-    "job_city": "Troy",
-    "job_state": "MI",
-    "job_description": "Join Detroit Defense in this exciting opportunity.",
-    "job_apply_link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3477495",
-    "job_posted_at_datetime_utc": "2025-08-08T10:41:52.000Z",
+    "job_title": "Developer Advocate (Bengaluru, India)",
+    "employer_name": "Figma",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_description": "Join Figma to make design accessible to all.",
+    "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5601353004?gh_jid=5601353004",
+    "job_posted_at_datetime_utc": "2025-08-08T12:19:10.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "detroit-defense-software-test-engineer-troy"
-  },
-  {
-    "job_title": "Embedded Software Engineer",
-    "employer_name": "Emerson",
-    "job_city": "Shakopee",
-    "job_state": "MN",
-    "job_description": "Join Emerson in this exciting opportunity.",
-    "job_apply_link": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024266",
-    "job_posted_at_datetime_utc": "2025-08-08T10:40:25.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "emerson-embedded-software-engineer-shakopee"
+    "id": "figma-developer-advocate-bengaluru-india-bengaluru"
   }
 ]
