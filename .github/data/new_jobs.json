@@ -1,35 +1,35 @@
 [
   {
-    "job_title": "Technical Support Engineering (Location - Hyderabad, Bangalore and Noida)",
+    "job_title": "Machine Learning Engineer",
+    "employer_name": "PayPal",
+    "job_city": "Chicago",
+    "job_state": "Illinois",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274908474061",
+    "job_posted_at_datetime_utc": "2025-08-08T13:55:07.179Z",
+    "job_employment_type": "FULLTIME",
+    "id": "paypal-machine-learning-engineer-chicago"
+  },
+  {
+    "job_title": "Business Applications Developer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852629",
-    "job_posted_at_datetime_utc": "2025-08-08T13:07:03.328Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858240",
+    "job_posted_at_datetime_utc": "2025-08-08T13:54:59.936Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-location-hyderabad-bangalore-and-noida-redmond"
+    "id": "microsoft-business-applications-developer-redmond"
   },
   {
-    "job_title": "Software Engineering",
+    "job_title": "Senior Engineer Manager",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858366",
-    "job_posted_at_datetime_utc": "2025-08-08T13:07:03.328Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1848203",
+    "job_posted_at_datetime_utc": "2025-08-08T13:54:59.936Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineering-redmond"
-  },
-  {
-    "job_title": "Developer Advocate (Bengaluru, India)",
-    "employer_name": "Figma",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_description": "Join Figma to make design accessible to all.",
-    "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5601353004?gh_jid=5601353004",
-    "job_posted_at_datetime_utc": "2025-08-08T12:19:10.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "figma-developer-advocate-bengaluru-india-bengaluru"
+    "id": "microsoft-senior-engineer-manager-redmond"
   }
 ]
