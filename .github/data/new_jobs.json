@@ -1,35 +1,122 @@
 [
   {
-    "job_title": "Electrical Engineer II - Surface Team (Camera Hardware Design Validation)",
-    "employer_name": "Microsoft",
+    "job_title": "Research Scientist, Reality Labs Research Robotics (PhD)",
+    "employer_name": "Meta",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854409",
-    "job_posted_at_datetime_utc": "2025-08-08T19:28:30.295Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-electrical-engineer-ii-surface-team-camera-hardware-design-validation-redmond"
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1303146158069580",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-reality-labs-research-robotics-phd-redmond"
   },
   {
-    "job_title": "Technical Support Engineering Manager",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852441",
-    "job_posted_at_datetime_utc": "2025-08-08T19:28:30.295Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-manager-redmond"
+    "employer_name": "Google",
+    "job_title": "AI Policy Manager",
+    "job_city": "Washington D.C.",
+    "job_state": "DC",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: AI Policy Manager, Government Affairs and Public Policy",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/120722374176711366-ai-policy-manager-government-affairs-and-public-policy?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=5",
+    "id": "google-ai-policy-manager-washington-d-c"
   },
   {
-    "job_title": "Senior Software Engineer Manager",
+    "job_title": "Solution Engineering - Business Process",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855333",
-    "job_posted_at_datetime_utc": "2025-08-08T19:28:30.295Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852807",
+    "job_posted_at_datetime_utc": "2025-08-08T20:37:09.634Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-manager-redmond"
+    "id": "microsoft-solution-engineering-business-process-redmond"
+  },
+  {
+    "job_title": "Solution Engineering - AI Business Solutions",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852808",
+    "job_posted_at_datetime_utc": "2025-08-08T20:37:09.634Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-solution-engineering-ai-business-solutions-redmond"
+  },
+  {
+    "job_title": "Principal Software Engineer- Microsoft Teams, Agentic AI",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857255",
+    "job_posted_at_datetime_utc": "2025-08-08T20:37:09.634Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-software-engineer-microsoft-teams-agentic-ai-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer - Azure Resource Graph",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1843069",
+    "job_posted_at_datetime_utc": "2025-08-08T20:37:09.634Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-azure-resource-graph-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer - Security",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859430",
+    "job_posted_at_datetime_utc": "2025-08-08T20:37:09.634Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-security-redmond"
+  },
+  {
+    "job_title": "Senior Software Design Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852450",
+    "job_posted_at_datetime_utc": "2025-08-08T20:37:09.634Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-design-engineer-redmond"
+  },
+  {
+    "job_title": "Software Engineer - New Grad (2026 Start)",
+    "employer_name": "Databricks",
+    "job_city": "Bellevue",
+    "job_state": "Washington; Mountain View",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002",
+    "job_posted_at_datetime_utc": "2025-08-08T19:55:12.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-software-engineer-new-grad-2026-start-bellevue"
+  },
+  {
+    "job_title": "Software Engineer - New Grad, Distributed Data Systems (2025 Start)",
+    "employer_name": "Databricks",
+    "job_city": "Bellevue",
+    "job_state": "Washington; Mountain View",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002",
+    "job_posted_at_datetime_utc": "2025-08-08T19:55:08.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-software-engineer-new-grad-distributed-data-systems-2025-start-bellevue"
+  },
+  {
+    "job_title": "Software Engineering Intern (2026)",
+    "employer_name": "Databricks",
+    "job_city": "Bellevue",
+    "job_state": "Washington; Mountain View",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
+    "job_posted_at_datetime_utc": "2025-08-08T19:54:50.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-software-engineering-intern-2026-bellevue"
   }
 ]
