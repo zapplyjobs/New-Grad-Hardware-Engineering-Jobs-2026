@@ -1,112 +1,35 @@
 [
   {
-    "job_title": "Software Development Engineer, Manufacturing Software Systems",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3054986/software-development-engineer-manufacturing-software-systems",
-    "job_posted_at": "2025-08-08T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-08-08T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-manufacturing-software-systems-bellevue"
-  },
-  {
-    "job_title": "Software Development Engineer, Kuiper Manufacturing Software Systems",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3054997/software-development-engineer-kuiper-manufacturing-software-systems",
-    "job_posted_at": "2025-08-08T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-08-08T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-kuiper-manufacturing-software-systems-bellevue"
-  },
-  {
-    "job_title": "Director, Research WhatsApp Business Lead",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_description": "Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/1018316816876710",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-director-research-whatsapp-business-lead-menlo-park"
-  },
-  {
-    "job_title": "Senior Security Engineer",
+    "job_title": "Electrical Engineer II - Surface Team (Camera Hardware Design Validation)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858054",
-    "job_posted_at_datetime_utc": "2025-08-08T18:45:32.682Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854409",
+    "job_posted_at_datetime_utc": "2025-08-08T19:28:30.295Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-security-engineer-redmond"
+    "id": "microsoft-electrical-engineer-ii-surface-team-camera-hardware-design-validation-redmond"
   },
   {
-    "job_title": "Quantum Measurement Engineer",
+    "job_title": "Technical Support Engineering Manager",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858077",
-    "job_posted_at_datetime_utc": "2025-08-08T18:45:32.682Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852441",
+    "job_posted_at_datetime_utc": "2025-08-08T19:28:30.295Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-quantum-measurement-engineer-redmond"
+    "id": "microsoft-technical-support-engineering-manager-redmond"
   },
   {
-    "job_title": "Principal Data Engineer - CoreAI",
+    "job_title": "Senior Software Engineer Manager",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852525",
-    "job_posted_at_datetime_utc": "2025-08-08T18:45:32.682Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855333",
+    "job_posted_at_datetime_utc": "2025-08-08T19:28:30.295Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-data-engineer-coreai-redmond"
-  },
-  {
-    "job_title": "Software Engineer Graduate Social - 2026 Start",
-    "employer_name": "TikTok",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_description": "Join TikTok in this exciting opportunity.",
-    "job_apply_link": "https://lifeattiktok.com/search/7532626482364909842?spread=5MWH5CQ",
-    "job_posted_at_datetime_utc": "2025-08-08T18:13:14.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "tiktok-software-engineer-graduate-social-2026-start-los-angeles"
-  },
-  {
-    "job_title": "Product Security Engineer - Security Assurance",
-    "employer_name": "TikTok.",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Join TikTok. in this exciting opportunity.",
-    "job_apply_link": "https://lifeattiktok.com/search/7533712518582503687?spread=5MWH5CQ",
-    "job_posted_at_datetime_utc": "2025-08-08T18:11:09.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "tiktok-product-security-engineer-security-assurance-seattle"
-  },
-  {
-    "job_title": "Machine Learning Engineer - Search E-Commerce",
-    "employer_name": "TikTok",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Join TikTok in this exciting opportunity.",
-    "job_apply_link": "https://lifeattiktok.com/search/7534641634584185095?spread=5MWH5CQ",
-    "job_posted_at_datetime_utc": "2025-08-08T18:05:25.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "tiktok-machine-learning-engineer-search-e-commerce-seattle"
-  },
-  {
-    "job_title": "SDET, Software Development Engineer in Test",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_description": "Join TikTok in this exciting opportunity.",
-    "job_apply_link": "https://lifeattiktok.com/search/7533739605041645832?spread=5MWH5CQ",
-    "job_posted_at_datetime_utc": "2025-08-08T18:04:04.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "tiktok-sdet-software-development-engineer-in-test-san-jose"
+    "id": "microsoft-senior-software-engineer-manager-redmond"
   }
 ]
