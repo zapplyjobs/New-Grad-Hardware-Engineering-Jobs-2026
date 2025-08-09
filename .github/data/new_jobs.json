@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Software Development Engineer, EC2 Nitro",
+    "job_title": "Software Development Engineer, Contra",
     "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
+    "job_city": "Tempe",
+    "job_state": "AZ",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3004076/software-development-engineer-ec2-nitro",
-    "job_posted_at": "2025-08-08T21:26:50.963Z",
-    "job_posted_at_datetime_utc": "2025-08-08T21:26:50.963Z",
-    "id": "amazon-software-development-engineer-ec2-nitro-seattle"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3033724/software-development-engineer-contra",
+    "job_posted_at": "2025-08-09T00:08:07.227Z",
+    "job_posted_at_datetime_utc": "2025-08-09T00:08:07.227Z",
+    "id": "amazon-software-development-engineer-contra-tempe"
+  },
+  {
+    "job_title": "Software Developer Engineer I",
+    "employer_name": "Esri",
+    "job_city": "West Redlands",
+    "job_state": "Redlands",
+    "job_description": "Join Esri in this exciting opportunity.",
+    "job_apply_link": "https://www.esri.com/careers/4818461007?gh_jid=4818461007",
+    "job_posted_at_datetime_utc": "2025-08-09T01:19:27.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "esri-software-developer-engineer-i-west-redlands"
   }
 ]
