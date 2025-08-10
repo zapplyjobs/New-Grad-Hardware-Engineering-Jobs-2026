@@ -17,6 +17,13 @@ const armScraper = require('../../../jobboard/src/backend/platforms/arm/armScrap
 const micronScraper = require('../../../jobboard/src/backend/platforms/micron/micronScraper');
 const ibmScraper = require('../../../jobboard/src/backend/platforms/ibm/ibmScraper');
 
+const abbScraper = require('../../../jobboard/src/backend/platforms/abb/abbScraper');
+const infineonScraper = require('../../../jobboard/src/backend/platforms/infineon/infineonScraper');
+const texasScraper = require('../../../jobboard/src/backend/platforms/texas/texasScraper');
+const ciscoScraper = require('../../../jobboard/src/backend/platforms/cisco/ciscoScraper');
+const siemensScraper = require('../../../jobboard/src/backend/platforms/siemen/siemensScraper');
+const analogScraper = require('../../../jobboard/src/backend/platforms/analog/analogScraper');
+const MarvelScraper = require('../../../jobboard/src/backend/platforms/marvel/marvelScraper');
 const aijobsScraper = require('../../../jobboard/src/backend/platforms/ai/aijobsScraper');
 // Generate enhanced job table with better formatting
 function generateJobTable(jobs) {
@@ -545,6 +552,13 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
       arm_Hardware,
       micron_Hardware,
       ibm_Hardware,
+      abb_Hardware,
+      infineon_Hardware,
+      texas_Hardware,
+      cisco_Hardware,
+      siemens_Hardware,
+      analog_Hardware,
+      Marvel_Hardware,
       aijobs_Hardware,
     ] = await Promise.all([
       scrapeAmazonJobs("hardware engineering"),
@@ -554,6 +568,14 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
       armScraper("Hardware Engineering"),
       micronScraper("hardware engineering"),
       ibmScraper("Hardware Engineering"),
+      abbScraper("hardware engineering"),
+      infineonScraper("hardware engineering"),
+      texasScraper("hardware engineering"),
+      ciscoScraper("hardware engineering"),
+      siemensScraper("hardware engineering"),
+      analogScraper("hardware engineering"),
+      MarvelScraper("hardware engineering"),
+
       aijobsScraper("hardware engineering"),
     ]);
     allHardwarejobs.push(
@@ -564,6 +586,13 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
       ...arm_Hardware,
       ...micron_Hardware,
       ...ibm_Hardware,
+      ...abb_Hardware,
+      ...infineon_Hardware,
+      ...texas_Hardware,
+      ...cisco_Hardware,
+      ...siemens_Hardware,
+      ...analog_Hardware,
+      ...Marvel_Hardware,
       ...aijobs_Hardware
 
     );
@@ -575,6 +604,13 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
       arm_DataScience,
       micron_DataScience,
       ibm_DataScience,
+      abb_DataScience,
+      infineon_DataScience,
+      texas_DataScience,
+      cisco_DataScience,
+      siemens_DataScience,
+      analog_DataScience,
+      Marvel_DataScience,
       aijobs_DataScience,
     ] = await Promise.all([
       scrapeAmazonJobs("Data Science"),
@@ -584,6 +620,13 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
       armScraper("Data Science"),
       micronScraper("Data Science"),
       ibmScraper("Data Science"),
+      abbScraper("Data Science"),
+      infineonScraper("Data Science"),
+      texasScraper("Data Science"), 
+      ciscoScraper("Data Science"),
+      siemensScraper("Data Science"),
+      analogScraper("Data Science"),
+      MarvelScraper("Data Science"),
       aijobsScraper("data science")
     ]);
     allDataScienceJobs.push(
@@ -594,6 +637,13 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
       ...arm_DataScience,
       ...micron_DataScience,
       ...ibm_DataScience,
+      ...abb_DataScience,
+      ...infineon_DataScience,
+      ...texas_DataScience,
+      ...cisco_DataScience,
+      ...siemens_DataScience,
+      ...analog_DataScience,
+      ...Marvel_DataScience,
       ...aijobs_DataScience
     );
     const readmeContent = await generateReadme(
