@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Scale Solution Engineer",
+    "employer_name": "Databricks",
+    "job_city": "Belgrade",
+    "job_state": "Serbia",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7932275002",
+    "job_posted_at_datetime_utc": "2025-08-10T16:06:36.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-scale-solution-engineer-belgrade"
+  },
+  {
+    "job_title": "Sr. Solutions Engineer (Big Data & AI)",
+    "employer_name": "Databricks",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8027760002",
+    "job_posted_at_datetime_utc": "2025-08-10T16:02:01.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-sr-solutions-engineer-big-data-ai-bengaluru"
+  }
+]
