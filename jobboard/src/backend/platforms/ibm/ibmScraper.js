@@ -13,27 +13,37 @@ function cleanJobTitle(title) {
 }
 
 // Helper function to parse location
+
 function parseLocation(locationText) {
   if (!locationText) {
     return { city: 'Unknown', state: 'US' };
   }
   
-  // Clean up the location text and parse different formats
-  const cleanLocation = locationText.replace(/\s+/g, ' ').trim();
+  // Clean up the location text and remove unwanted job type words, handling concatenated cases
+  let cleanLocation = locationText
+    .replace(/\s+/g, ' ')
+    .trim();
+  
+  // Remove job type prefixes that might be concatenated (no word boundaries)
+  cleanLocation = cleanLocation.replace(/(Professional|Entry Level|Internship)/gi, '');
+  
   const parts = cleanLocation.split(',').map(p => p.trim());
   
   if (parts.length >= 2) {
     // Format: "Austin, TX" or "New York, NY"
-    return { 
-      city: parts[0], 
+    return {
+      city: parts[0],
       state: parts[1].replace(/,.*$/, '').trim()
     };
   } else {
-    // Single location or format like "Remote - USA"
+    // Single location or format like "Remote - USA" or "Multiple Cities"
     if (cleanLocation.toLowerCase().includes('remote')) {
       return { city: 'Remote', state: 'US' };
     }
-    return { city: parts[0], state: 'US' };
+    if (cleanLocation.toLowerCase().includes('multiple cities')) {
+      return { city: 'Multiple Cities', state: 'US' };
+    }
+    return { city: parts[0] || 'Unknown', state: 'US' };
   }
 }
 
@@ -146,59 +156,7 @@ async function ibmScraper(searchQuery, maxPages = 10) {
   return allJobs;
 }
 
-// Example usage
-async function main() {
-  try {
-    // Get search query from command line arguments
-    // If multiple arguments, join them with spaces
-    const searchQuery = process.argv.slice(2).join(' ');
-    
-    if (!searchQuery) {
-      console.log('Please provide a search query!');
-      console.log('Usage: node ibmScraper.js data science');
-      console.log('Usage: node ibmScraper.js hardware engineering');
-      console.log('Usage: node ibmScraper.js software');
-      console.log('Or with quotes: node ibmScraper.js "machine learning"');
-      return;
-    }
-    
-    console.log(`=== Scraping IBM Careers for: "${searchQuery}" ===`);
-    const jobs = await ibmScraper(searchQuery, 10);
-    console.log(`\n🎉 Scraping completed! Found ${jobs.length} jobs for "${searchQuery}"`);
-    
-    // Display all scraped jobs
-    if (jobs.length > 0) {
-      console.log('\n📋 All Scraped Jobs:');
-      console.log('='.repeat(80));
-      
-      jobs.forEach((job, index) => {
-        console.log(`\n${index + 1}. ${job.job_title}`);
-        console.log(`   Company: ${job.employer_name}`);
-        console.log(`   Location: ${job.job_city}, ${job.job_state}`);
-        console.log(`   Posted: ${job.job_posted_at}`);
-        console.log(`   Apply: ${job.job_apply_link}`);
-        console.log(`   Description: ${job.job_description.substring(0, 100)}...`);
-      });
-      
-      console.log('\n' + '='.repeat(80));
-      console.log(`📊 Summary: ${jobs.length} jobs found`);
-      
-      // Also show JSON format for first 2 jobs
-      console.log('\n🔧 JSON Format (first 2 jobs):');
-      console.log(JSON.stringify(jobs.slice(0, 2), null, 2));
-    } else {
-      console.log('❌ No jobs found for the search query.');
-    }
-    
-  } catch (error) {
-    console.error('Error in main:', error);
-  }
-}
 
 // Export the scraper function
 module.exports =  ibmScraper ;
 
-// Run if this file is executed directly
-if (require.main === module) {
-  main();
-}
