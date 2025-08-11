@@ -1,46 +1,35 @@
 [
   {
-    "job_title": "Software Development Engineer, Special Projects",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3055973/software-development-engineer-special-projects",
-    "job_posted_at": "2025-08-11T15:36:36.340Z",
-    "job_posted_at_datetime_utc": "2025-08-11T15:36:36.340Z",
-    "id": "amazon-software-development-engineer-special-projects-new-york"
-  },
-  {
-    "job_title": "Senior Software Engineer - Gaming",
+    "job_title": "Customer Experience Engineer II - CTJ - Poly",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1833281",
-    "job_posted_at_datetime_utc": "2025-08-11T16:43:32.615Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1853864",
+    "job_posted_at_datetime_utc": "2025-08-11T17:34:06.784Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-gaming-redmond"
+    "id": "microsoft-customer-experience-engineer-ii-ctj-poly-redmond"
   },
   {
-    "job_title": "Software Engineer - New Grad, Distributed Data Systems (2026 Start)",
-    "employer_name": "Databricks",
-    "job_city": "Bellevue",
-    "job_state": "Washington; Mountain View",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002",
-    "job_posted_at_datetime_utc": "2025-08-11T16:25:30.000Z",
+    "job_title": "Principal Software Engineer - CoreAI",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1848123",
+    "job_posted_at_datetime_utc": "2025-08-11T17:34:06.784Z",
     "job_employment_type": "FULLTIME",
-    "id": "databricks-software-engineer-new-grad-distributed-data-systems-2026-start-bellevue"
+    "id": "microsoft-principal-software-engineer-coreai-redmond"
   },
   {
-    "job_title": "Quality Assurance Engineer",
-    "employer_name": "Lyft",
-    "job_city": "Mexico City",
-    "job_state": "Mexico",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8109052002?gh_jid=8109052002",
-    "job_posted_at_datetime_utc": "2025-08-11T16:09:14.000Z",
+    "job_title": "Principal Software Engineer - AI Frameworks",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854749",
+    "job_posted_at_datetime_utc": "2025-08-11T17:34:06.784Z",
     "job_employment_type": "FULLTIME",
-    "id": "lyft-quality-assurance-engineer-mexico-city"
+    "id": "microsoft-principal-software-engineer-ai-frameworks-redmond"
   }
 ]
