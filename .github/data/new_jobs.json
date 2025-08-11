@@ -1,13 +1,68 @@
 [
   {
-    "job_title": "Solution Engineering, Business Applications Finance & Supply Chain, Majors Growth",
+    "job_title": "Technical Program Manager, Electrical Engineering",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1510879089816823",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-technical-program-manager-electrical-engineering-sunnyvale"
+  },
+  {
+    "job_title": "Software Engineer II (WEB)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857646",
-    "job_posted_at_datetime_utc": "2025-08-11T05:42:15.702Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1851345",
+    "job_posted_at_datetime_utc": "2025-08-11T06:51:05.966Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineering-business-applications-finance-supply-chain-majors-growth-redmond"
+    "id": "microsoft-software-engineer-ii-web-redmond"
+  },
+  {
+    "job_title": "Cloud & AI Solution Engineer Management",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1850608",
+    "job_posted_at_datetime_utc": "2025-08-11T06:51:05.966Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-ai-solution-engineer-management-redmond"
+  },
+  {
+    "job_title": "Solution Engineer, Data Security",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857642",
+    "job_posted_at_datetime_utc": "2025-08-11T06:51:05.966Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-solution-engineer-data-security-redmond"
+  },
+  {
+    "job_title": "Embedded Escalation Engineer - Azure AI Foundry",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857575",
+    "job_posted_at_datetime_utc": "2025-08-11T06:51:05.966Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-embedded-escalation-engineer-azure-ai-foundry-redmond"
+  },
+  {
+    "job_title": "Software Engineer, Data Quality Tools",
+    "employer_name": "Stripe",
+    "job_city": "Bengaluru",
+    "job_state": "CA",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7024898",
+    "job_posted_at_datetime_utc": "2025-08-11T06:02:34.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-software-engineer-data-quality-tools-bengaluru"
   }
 ]
