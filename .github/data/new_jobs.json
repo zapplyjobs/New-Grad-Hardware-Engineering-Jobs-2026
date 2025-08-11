@@ -1,145 +1,79 @@
 [
   {
-    "job_title": "Software Development Engineer II, Device Software",
-    "employer_name": "Amazon",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2976313/software-development-engineer-ii-device-software",
-    "job_posted_at": "2025-08-11T21:26:59.620Z",
-    "job_posted_at_datetime_utc": "2025-08-11T21:26:59.620Z",
-    "id": "amazon-software-development-engineer-ii-device-software-sunnyvale"
-  },
-  {
-    "job_title": "Software Engineering Manager, Account Integrity",
+    "job_title": "Research Scientist - Computational Chemist",
     "employer_name": "Meta",
-    "job_city": "Bellevue",
+    "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/769270902219978",
+    "job_description": "Research",
+    "job_apply_link": "https://www.metacareers.com/jobs/4094747560741993",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineering-manager-account-integrity-bellevue"
+    "id": "meta-research-scientist-computational-chemist-redmond"
   },
   {
-    "job_title": "Robotics Electrical Engineer",
+    "job_title": "ASIC Package Engineer",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1267754244725168",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-asic-package-engineer-sunnyvale"
+  },
+  {
+    "job_title": "Robotics Mechanical Engineer",
     "employer_name": "Meta",
     "job_city": "Fremont",
     "job_state": "CA",
     "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/3951691428378191",
+    "job_apply_link": "https://www.metacareers.com/jobs/1043160364657954",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-robotics-electrical-engineer-fremont"
+    "id": "meta-robotics-mechanical-engineer-fremont"
   },
   {
-    "job_title": "Data Engineering Leader, Analytics (Instagram)",
+    "job_title": "UX Researcher, Qualitative",
     "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA +2 locations",
-    "job_description": "Data Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/745621794790523",
+    "job_city": "Bellevue",
+    "job_state": "WA +4 locations",
+    "job_description": "Research",
+    "job_apply_link": "https://www.metacareers.com/jobs/631397579385877",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-data-engineering-leader-analytics-instagram-menlo-park"
+    "id": "meta-ux-researcher-qualitative-bellevue"
   },
   {
-    "job_title": "Product Design Prototyper - FAIR",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA +4 locations",
-    "job_description": "3D Product Design +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1380516086366674",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-design-prototyper-fair-menlo-park"
-  },
-  {
-    "job_title": "Research Engineer - Mobile Co-design",
+    "job_title": "Network Production Engineer (University Grad)",
     "employer_name": "Meta",
     "job_city": "Multiple",
     "job_state": "Locations",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1982630962265893",
+    "job_description": "University Grad - Engineering, Tech & Design +3 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/3698775730387685",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-engineer-mobile-co-design-multiple"
+    "id": "meta-network-production-engineer-university-grad-multiple"
   },
   {
-    "job_title": "Network Engineer, Deployment & Support",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA +1 locations",
-    "job_description": "Network Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/483679904534906",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-network-engineer-deployment-support-menlo-park"
+    "job_title": "Principal Software Engineer - Azure Kubernetes Service",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1820644",
+    "job_posted_at_datetime_utc": "2025-08-11T23:32:12.738Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-software-engineer-azure-kubernetes-service-redmond"
   },
   {
-    "job_title": "Product Manager, Business AI",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +3 locations",
-    "job_description": "Product Management",
-    "job_apply_link": "https://www.metacareers.com/jobs/915142950787728",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-manager-business-ai-bellevue"
-  },
-  {
-    "job_title": "Product Marketing Manager, Business AI",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA +1 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1445657706429025",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-marketing-manager-business-ai-menlo-park"
-  },
-  {
-    "job_title": "ASIC Engineer, Architecture Infrastructure",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +1 locations",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1904025103779488",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-asic-engineer-architecture-infrastructure-sunnyvale"
-  },
-  {
-    "job_title": "Software Engineer, Secrets Infrastructure",
+    "job_title": "Backend Engineer, Revenue and Finance Automation",
     "employer_name": "Stripe",
-    "job_city": "N/A",
-    "job_state": "CA",
+    "job_city": "Seattle",
+    "job_state": "Washington",
     "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=6979124",
-    "job_posted_at_datetime_utc": "2025-08-11T22:10:17.000Z",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7094455",
+    "job_posted_at_datetime_utc": "2025-08-11T23:22:29.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "stripe-software-engineer-secrets-infrastructure-n-a"
-  },
-  {
-    "job_title": "Analytics Engineer (L5) - Localization",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790304686860",
-    "job_posted_at_datetime_utc": "2025-08-11T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "netflix-analytics-engineer-l5-localization-usa-remote"
-  },
-  {
-    "job_title": "IT Software Engineer 1",
-    "employer_name": "DIRECTV",
-    "job_city": "El Segundo",
-    "job_state": "CA",
-    "job_description": "Join DIRECTV in this exciting opportunity.",
-    "job_apply_link": "https://directv.wd1.myworkdayjobs.com/en-US/careers/job/El-Segundo-CA/IT-Software-Engineer-1_R250209",
-    "job_posted_at_datetime_utc": "2025-08-09T13:56:21.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "directv-it-software-engineer-1-el-segundo"
+    "id": "stripe-backend-engineer-revenue-and-finance-automation-seattle"
   }
 ]
