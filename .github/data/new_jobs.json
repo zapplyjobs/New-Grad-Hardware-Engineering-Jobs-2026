@@ -1,46 +1,68 @@
 [
   {
-    "job_title": "Software Engineer, Machine Learning Platform Engineer ",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
+    "job_title": "Virtual Platform Hardware Modeling Engineer",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7137833?gh_jid=7137833",
-    "job_posted_at_datetime_utc": "2025-08-11T19:05:08.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-software-engineer-machine-learning-platform-engineer-remote-usa"
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1480081109834297",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-virtual-platform-hardware-modeling-engineer-sunnyvale"
   },
   {
-    "job_title": "Back End Software Engineer II - Security for CoPilot",
+    "job_title": "Senior Supercomputing Software Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1842588",
-    "job_posted_at_datetime_utc": "2025-08-11T19:30:55.961Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859456",
+    "job_posted_at_datetime_utc": "2025-08-11T20:35:20.415Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-back-end-software-engineer-ii-security-for-copilot-redmond"
+    "id": "microsoft-senior-supercomputing-software-engineer-redmond"
   },
   {
-    "job_title": "Senior Software Engineer - AI Frameworks",
+    "job_title": "Principal Solution Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854750",
-    "job_posted_at_datetime_utc": "2025-08-11T19:30:55.961Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852419",
+    "job_posted_at_datetime_utc": "2025-08-11T20:35:20.415Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-ai-frameworks-redmond"
+    "id": "microsoft-principal-solution-engineer-redmond"
   },
   {
-    "job_title": "Network Security Service Engineer",
+    "job_title": "Ingénieur logiciel / Software Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854403",
-    "job_posted_at_datetime_utc": "2025-08-11T19:30:55.961Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857050",
+    "job_posted_at_datetime_utc": "2025-08-11T20:35:20.415Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-network-security-service-engineer-redmond"
+    "id": "microsoft-ing-nieur-logiciel-software-engineer-redmond"
+  },
+  {
+    "job_title": "Responsable Ingénierie Logicielle / Software Engineering Manager",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857046",
+    "job_posted_at_datetime_utc": "2025-08-11T20:35:20.415Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-responsable-ing-nierie-logicielle-software-engineering-manager-redmond"
+  },
+  {
+    "job_title": "Software Engineer",
+    "employer_name": "Lyft",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8109070002?gh_jid=8109070002",
+    "job_posted_at_datetime_utc": "2025-08-11T19:45:04.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-software-engineer-san-francisco"
   }
 ]
