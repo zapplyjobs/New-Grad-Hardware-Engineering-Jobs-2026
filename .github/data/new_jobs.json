@@ -1,35 +1,56 @@
 [
   {
-    "job_title": "Customer Experience Engineer II - CTJ - Poly",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1853864",
-    "job_posted_at_datetime_utc": "2025-08-11T17:34:06.784Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-customer-experience-engineer-ii-ctj-poly-redmond"
+    "job_title": "Software Dev Engineer II - AMZ26511.1",
+    "employer_name": "Amazon",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_description": "Bachelor's degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): (1) designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: (i.) C#, C++, Java, or Perl; and (ii.) Object Oriented Design. The pay range for this position in Santa Clara, CA is $165200 - $223600 (yr); however, base pay offered may vary depending on job-related knowledge, skills, and experience A sign-on bonus and restricted stock units may be provided as part of the compensation package, in addition to a full range of medical, financial, and/or other benefits, dependent on the position offered. This information is provided by Santa Clara, CA Equal Pay Act. Base pay information is based on market location. Applicants should apply via Amazon's internal or external careers site.",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3055330/software-dev-engineer-ii-amz26511-1",
+    "job_posted_at": "2025-08-10T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-08-10T00:00:00.000Z",
+    "id": "amazon-software-dev-engineer-ii-amz26511-1-santa-clara"
   },
   {
-    "job_title": "Principal Software Engineer - CoreAI",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
+    "employer_name": "Google",
+    "job_title": "Customer Engineer",
+    "job_city": "Kirkland",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1848123",
-    "job_posted_at_datetime_utc": "2025-08-11T17:34:06.784Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-coreai-redmond"
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Customer Engineer, Platform, Retail Industry",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/86088981967446726-customer-engineer-platform-retail-industry?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=4",
+    "id": "google-customer-engineer-kirkland"
   },
   {
-    "job_title": "Principal Software Engineer - AI Frameworks",
+    "job_title": "Software Engineering Internship Opportunities - Costa Rica",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854749",
-    "job_posted_at_datetime_utc": "2025-08-11T17:34:06.784Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854760",
+    "job_posted_at_datetime_utc": "2025-08-11T18:48:07.319Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-ai-frameworks-redmond"
+    "id": "microsoft-software-engineering-internship-opportunities-costa-rica-redmond"
+  },
+  {
+    "job_title": "Principal Physical Design Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856948",
+    "job_posted_at_datetime_utc": "2025-08-11T18:48:07.319Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-physical-design-engineer-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer - Developer Automation Platform",
+    "employer_name": "Netflix",
+    "job_city": "Los Gatos",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790304664605",
+    "job_posted_at_datetime_utc": "2025-08-08T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "netflix-senior-software-engineer-developer-automation-platform-los-gatos"
   }
 ]
