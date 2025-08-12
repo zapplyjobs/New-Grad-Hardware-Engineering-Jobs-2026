@@ -1,62 +1,55 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "CPU Architecture Lead",
-    "job_city": "Poughkeepsie",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "18 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: CPU Architecture Lead",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/115476677215036102-cpu-architecture-lead?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-cpu-architecture-lead-poughkeepsie"
+    "job_title": "Software Development Engineer, Nitro SSD",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3057096/software-development-engineer-nitro-ssd",
+    "job_posted_at": "2025-08-12T15:24:09.472Z",
+    "job_posted_at_datetime_utc": "2025-08-12T15:24:09.472Z",
+    "id": "amazon-software-development-engineer-nitro-ssd-seattle"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Engineer",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Staff Engineer at Manchester, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/staff-engineer/33099/83774237376",
-    "id": "arm-engineer-manchester"
+    "job_title": "Product Lifecycle Technical Program Manager, AWS Hardware Engineering Services PLM Team",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3057149/product-lifecycle-technical-program-manager-aws-hardware-engineering-services-plm-team",
+    "job_posted_at": "2025-08-12T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-08-12T00:00:00.000Z",
+    "id": "amazon-product-lifecycle-technical-program-manager-aws-hardware-engineering-services-plm-team-seattle"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Web / Interface Designer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Web / Interface Designer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-web-interface-designer/33099/84952676432",
-    "id": "arm-web-interface-designer-cambridge"
+    "job_title": "Software Development Engineer, Nitro SSD",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3057181/software-development-engineer-nitro-ssd",
+    "job_posted_at": "2025-08-12T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-08-12T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-nitro-ssd-cupertino"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Creative & Sponsorship Coordinator",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "Microsoft",
+    "job_title": "Senior Fleet Engineering Debugger",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Creative & Sponsorship Coordinator at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/creative-and-sponsorship-coordinator/33099/84952674848",
-    "id": "arm-creative-sponsorship-coordinator-cambridge"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Fleet Engineering Debugger",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1847732/Senior-Fleet-Engineering-Debugger",
+    "id": "microsoft-senior-fleet-engineering-debugger-redmond"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Global Head of Quality Assurance (QA), Engineering",
-    "job_city": "Noida",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Global Head of Quality Assurance (QA), Engineering at Noida, Uttar Pradesh, India",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-global-head-of-quality-assurance-qa-engineering-noida"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Electronics Development Engineer",
-    "job_city": "Peachtree Corners",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Electronics Development Engineer at Peachtree Corners, Georgia, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-electronics-development-engineer-peachtree-corners"
+    "employer_name": "Micron",
+    "job_title": "Sr Dry Etch Equipment Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 16 hours ago",
+    "job_description": "hardware engineering job for the role Sr Dry Etch Equipment Engineer at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30036439",
+    "id": "micron-sr-dry-etch-equipment-engineer-manassas"
   }
 ]
