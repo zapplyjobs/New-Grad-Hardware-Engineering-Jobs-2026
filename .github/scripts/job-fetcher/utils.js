@@ -178,6 +178,10 @@ function getExperienceLevel(title, description = '') {
 
 function getJobCategory(title, description = '') {
     const text = `${title} ${description}`.toLowerCase();
+
+    if (text.includes('hardware')|| text.includes('Hardware') ) {
+        return 'Hardware Engineering';
+    }
     
     if (text.includes('ios') || text.includes('android') || text.includes('mobile') || text.includes('react native')) {
         return 'Mobile Development';
@@ -209,6 +213,7 @@ function getJobCategory(title, description = '') {
     if (text.includes('full stack') || text.includes('fullstack')) {
         return 'Full Stack Development';
     }
+     
     
     return 'Software Engineering';
 }

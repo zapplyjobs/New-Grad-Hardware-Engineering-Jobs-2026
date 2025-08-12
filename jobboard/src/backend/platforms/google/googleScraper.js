@@ -147,7 +147,7 @@ function cleanJobTitle(title) {
 }
 
 // Helper function to convert scraped data to required format
-function transformJobData(scrapedJob) {
+function transformJobData(scrapedJob, specificJobTitle = '') {
   const { city, state } = parseLocation(scrapedJob.location);
 
   return {
@@ -156,7 +156,7 @@ function transformJobData(scrapedJob) {
     job_city: city,
     job_state: state,
     job_posted_at: scrapedJob.posted, // Use the scraped date as-is
-    job_description: `Category: ${scrapedJob.category}. Level: ${scrapedJob.level}. Posted: ${scrapedJob.posted}. Full Title: ${scrapedJob.role}`, // Include full title in description
+    job_description: `${specificJobTitle} Category: ${scrapedJob.category}. Level: ${scrapedJob.level}. Posted: ${scrapedJob.posted}. Full Title: ${scrapedJob.role}`, // Include full title in description
     job_apply_link: scrapedJob.apply
   };
 }
@@ -364,7 +364,7 @@ async function googleScraper(specificJobTitle = null) {
   }
 
   // Transform scraped data to the format required by generateJobTable
-  const transformedJobs = allScrapedJobs.map(transformJobData);
+  const transformedJobs = allScrapedJobs.map(transformJobData,specificJobTitle);
 
   // // Determine the filename based on whether it's a specific job search
   // let fileName;
@@ -407,16 +407,16 @@ async function googleScraper(specificJobTitle = null) {
 // Export the function for use in other modules
 module.exports = googleScraper;
 
-// // Execute the script if run directly
-// if (require.main === module) {
-//   // Check if a specific job title was provided as a command line argument
-//   const args = process.argv.slice(2);
-//   // Join all arguments with spaces to handle multi-word job titles
-//   const specificJobTitle = args.length > 0 ? args.join(' ') : null;
+// Execute the script if run directly
+if (require.main === module) {
+  // Check if a specific job title was provided as a command line argument
+  const args = process.argv.slice(2);
+  // Join all arguments with spaces to handle multi-word job titles
+  const specificJobTitle = args.length > 0 ? args.join(' ') : null;
   
-//   if (specificJobTitle) {
-//     console.log(`🎯 Job title argument received: "${specificJobTitle}"`);
-//   }
+  if (specificJobTitle) {
+    console.log(`🎯 Job title argument received: "${specificJobTitle}"`);
+  }
   
-//   googleScraper(specificJobTitle).catch(console.error);
-// }
+  googleScraper(specificJobTitle).catch(console.error);
+}

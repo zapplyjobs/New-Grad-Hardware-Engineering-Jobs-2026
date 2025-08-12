@@ -116,7 +116,7 @@ async function armScraper(searchQuery, maxPages = 10) {
             job_city: city,
             job_state: state,
             job_posted_at: 'Recently', // ARM doesn't show posting date on listing page
-            job_description: `Category: ${jobData.category}. Posted: Recently. Full Title: ${jobData.title}. ${jobData.description}`,
+            job_description:`${searchQuery} job for the role ${jobData.title} at ${jobData.location}`,
             job_apply_link: applyLink
           };
           

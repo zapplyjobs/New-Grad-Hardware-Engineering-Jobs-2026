@@ -454,15 +454,15 @@ async function microsoftScraper(specificJobTitle = null) {
 module.exports = microsoftScraper;
 
 // Execute if run directly
-// if (require.main === module) {
-//   const args = process.argv.slice(2);
-//   const specificJobTitle = args.length > 0 ? args.join(' ') : null;
+if (require.main === module) {
+  const args = process.argv.slice(2);
+  const specificJobTitle = args.length > 0 ? args.join(' ') : null;
   
-//   if (specificJobTitle) {
-//     console.log(`🎯 Job title argument: "${specificJobTitle}"`);
-//   }
+  if (specificJobTitle) {
+    console.log(`🎯 Job title argument: "${specificJobTitle}"`);
+  }
   
-//   microsoftScraper(specificJobTitle).then(data => {
-//     console.log(`\n✅ Final count: ${data.length} jobs`);
-//   }).catch(console.error);
-// }
+  microsoftScraper(specificJobTitle).then(data => {
+    console.log(`\n✅ Final count: ${data.length} jobs`);
+  }).catch(console.error);
+}
