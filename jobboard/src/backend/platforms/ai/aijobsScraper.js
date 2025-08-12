@@ -138,7 +138,7 @@ async function aijobsScraper(searchQuery, maxPages = 10) {
             job_city: city,
             job_state: state,
             job_posted_at: jobData.posted || "Recently",
-            job_description: `Posted: ${jobData.posted}. Full Title: ${jobData.title}. Location: ${jobData.location}`,
+            job_description:`${searchQuery} job for the role ${jobData.title} at ${jobData.location}`,
             job_apply_link: applyLink,
           };
 

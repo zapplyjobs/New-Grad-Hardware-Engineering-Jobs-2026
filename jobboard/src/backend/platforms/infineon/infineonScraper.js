@@ -294,7 +294,7 @@ async function infineonScraper(searchQuery, maxPages = 20) {
             job_city: city,
             job_state: state,
             job_posted_at: "Recently", // Infineon shows "Recently" as posting date
-            job_description: `Posted: Recently. Full Title: ${jobData.title}. Location: ${jobData.location}`,
+            job_description:`${searchQuery} job for the role ${jobData.title} at ${jobData.location}`,
             job_apply_link: applyLink
           };
 

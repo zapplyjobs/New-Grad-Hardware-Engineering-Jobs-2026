@@ -126,7 +126,7 @@ async function ciscoScraper(searchQuery, maxPages = 10) {
             job_city: city,
             job_state: state,
             job_posted_at: "Recently", // Cisco doesn't show posting date on listing page
-            job_description: `Posted: Recently. Full Title: ${jobData.title}. Location: ${jobData.location}`,
+            job_description:`${searchQuery} job for the role ${jobData.title} at ${jobData.location}`,
             job_apply_link: jobData.applyLink,
           };
 

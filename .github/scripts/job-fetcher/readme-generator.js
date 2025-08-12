@@ -9,22 +9,22 @@ const {
   getJobCategory,
   formatLocation,
 } = require("./utils");
-const scrapeAmazonJobs = require('../../../jobboard/src/backend/platforms/amazon/amazonScraper');
-const googleScraper = require('../../../jobboard/src/backend/platforms/google/googleScraper');
-const scrapeMetaJobs = require('../../../jobboard/src/backend/platforms/meta/metaScraper');
-const microsoftScraper = require('../../../jobboard/src/backend/platforms/microsoft/microsoftScraper');
-const armScraper = require('../../../jobboard/src/backend/platforms/arm/armScraper');
-const micronScraper = require('../../../jobboard/src/backend/platforms/micron/micronScraper');
-const ibmScraper = require('../../../jobboard/src/backend/platforms/ibm/ibmScraper');
+// const scrapeAmazonJobs = require('../../../jobboard/src/backend/platforms/amazon/amazonScraper');
+// const googleScraper = require('../../../jobboard/src/backend/platforms/google/googleScraper');
+// const scrapeMetaJobs = require('../../../jobboard/src/backend/platforms/meta/metaScraper');
+// const microsoftScraper = require('../../../jobboard/src/backend/platforms/microsoft/microsoftScraper');
+// const armScraper = require('../../../jobboard/src/backend/platforms/arm/armScraper');
+// const micronScraper = require('../../../jobboard/src/backend/platforms/micron/micronScraper');
+// const ibmScraper = require('../../../jobboard/src/backend/platforms/ibm/ibmScraper');
 
-const abbScraper = require('../../../jobboard/src/backend/platforms/abb/abbScraper');
-const infineonScraper = require('../../../jobboard/src/backend/platforms/infineon/infineonScraper');
-const texasScraper = require('../../../jobboard/src/backend/platforms/texas/texasScraper');
-const ciscoScraper = require('../../../jobboard/src/backend/platforms/cisco/ciscoScraper');
-const siemensScraper = require('../../../jobboard/src/backend/platforms/siemen/siemensScraper');
-const analogScraper = require('../../../jobboard/src/backend/platforms/analog/analogScraper');
-const MarvelScraper = require('../../../jobboard/src/backend/platforms/marvel/marvelScraper');
-const aijobsScraper = require('../../../jobboard/src/backend/platforms/ai/aijobsScraper');
+// const abbScraper = require('../../../jobboard/src/backend/platforms/abb/abbScraper');
+// const infineonScraper = require('../../../jobboard/src/backend/platforms/infineon/infineonScraper');
+// const texasScraper = require('../../../jobboard/src/backend/platforms/texas/texasScraper');
+// const ciscoScraper = require('../../../jobboard/src/backend/platforms/cisco/ciscoScraper');
+// const siemensScraper = require('../../../jobboard/src/backend/platforms/siemen/siemensScraper');
+// const analogScraper = require('../../../jobboard/src/backend/platforms/analog/analogScraper');
+// const MarvelScraper = require('../../../jobboard/src/backend/platforms/marvel/marvelScraper');
+// const aijobsScraper = require('../../../jobboard/src/backend/platforms/ai/aijobsScraper');
 // Generate enhanced job table with better formatting
 function generateJobTable(jobs) {
   if (jobs.length === 0) {
@@ -315,8 +315,6 @@ ${Object.entries(stats.byLocation)
 
 // Generate comprehensive README
 async function generateReadme(
-    dataScienceJobs,
-    hardwareJobs,
   currentJobs,
   archivedJobs = [],
   internshipData = null,
@@ -337,7 +335,7 @@ async function generateReadme(
 
 **🚀 Job opportunities from ${totalCompanies}+ top companies • Updated daily • US Positions**
 
-> Fresh software engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 24 hours. **Filtered for US-based positions.**
+> Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 24 hours. **Filtered for US-based positions.**
 
 ## 🌟 **Join Our Community**
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
@@ -350,15 +348,6 @@ ${internshipData ? generateInternshipSection(internshipData) : ""}
 
 ${generateJobTable(currentJobs)}
 
-
- ## 🖥️ **Hardware Engineering Roles**
-
- ${generateJobTable(hardwareJobs)}
-
- 
- ## 📊 **Data Science & Analytics Roles**
-
-${generateJobTable(dataScienceJobs)}
 
 ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : ""}
 
@@ -542,113 +531,111 @@ Spotted an issue or want to suggest improvements?
 async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
   try {
     console.log("📝 Generating README content...");
-    allHardwarejobs = [];
-    allDataScienceJobs = [];
-    const [
-      amazon_Hardware,
-      meta_Hardware,
-      microsoft_Hardware,
-      google_Hardware,
-      arm_Hardware,
-      micron_Hardware,
-      ibm_Hardware,
-      abb_Hardware,
-      infineon_Hardware,
-      texas_Hardware,
-      cisco_Hardware,
-      siemens_Hardware,
-      analog_Hardware,
-      Marvel_Hardware,
-      aijobs_Hardware,
-    ] = await Promise.all([
-      scrapeAmazonJobs("hardware engineering"),
-      scrapeMetaJobs("hardware engineering"),
-      microsoftScraper("hardware engineering"),
-      googleScraper("Hardware Engineering"),
-      armScraper("Hardware Engineering"),
-      micronScraper("hardware engineering"),
-      ibmScraper("Hardware Engineering"),
-      abbScraper("hardware engineering"),
-      infineonScraper("hardware engineering"),
-      texasScraper("hardware engineering"),
-      ciscoScraper("hardware engineering"),
-      siemensScraper("hardware engineering"),
-      analogScraper("hardware engineering"),
-      MarvelScraper("hardware engineering"),
+    // allHardwarejobs = [];
+    // allDataScienceJobs = [];
+    // const [
+    //   amazon_Hardware,
+    //   meta_Hardware,
+    //   microsoft_Hardware,
+    //   google_Hardware,
+    //   arm_Hardware,
+    //   micron_Hardware,
+    //   ibm_Hardware,
+    //   abb_Hardware,
+    //   infineon_Hardware,
+    //   texas_Hardware,
+    //   cisco_Hardware,
+    //   siemens_Hardware,
+    //   analog_Hardware,
+    //   Marvel_Hardware,
+    //   aijobs_Hardware,
+    // ] = await Promise.all([
+    //   scrapeAmazonJobs("hardware engineering"),
+    //   scrapeMetaJobs("hardware engineering"),
+    //   microsoftScraper("hardware engineering"),
+    //   googleScraper("Hardware Engineering"),
+    //   armScraper("Hardware Engineering"),
+    //   micronScraper("hardware engineering"),
+    //   ibmScraper("Hardware Engineering"),
+    //   abbScraper("hardware engineering"),
+    //   infineonScraper("hardware engineering"),
+    //   texasScraper("hardware engineering"),
+    //   ciscoScraper("hardware engineering"),
+    //   siemensScraper("hardware engineering"),
+    //   analogScraper("hardware engineering"),
+    //   MarvelScraper("hardware engineering"),
 
-      aijobsScraper("hardware engineering"),
-    ]);
-    allHardwarejobs.push(
-      ...amazon_Hardware,
-      ...meta_Hardware,
-      ...microsoft_Hardware,
-      ...google_Hardware,
-      ...arm_Hardware,
-      ...micron_Hardware,
-      ...ibm_Hardware,
-      ...abb_Hardware,
-      ...infineon_Hardware,
-      ...texas_Hardware,
-      ...cisco_Hardware,
-      ...siemens_Hardware,
-      ...analog_Hardware,
-      ...Marvel_Hardware,
-      ...aijobs_Hardware
+    //   aijobsScraper("hardware engineering"),
+    // ]);
+    // allHardwarejobs.push(
+    //   ...amazon_Hardware,
+    //   ...meta_Hardware,
+    //   ...microsoft_Hardware,
+    //   ...google_Hardware,
+    //   ...arm_Hardware,
+    //   ...micron_Hardware,
+    //   ...ibm_Hardware,
+    //   ...abb_Hardware,
+    //   ...infineon_Hardware,
+    //   ...texas_Hardware,
+    //   ...cisco_Hardware,
+    //   ...siemens_Hardware,
+    //   ...analog_Hardware,
+    //   ...Marvel_Hardware,
+    //   ...aijobs_Hardware
 
-    );
-    const [
-      amazon_DataScience,
-      meta_DataScience,
-      microsoft_DataScience,
-      google_DataScience,
-      arm_DataScience,
-      micron_DataScience,
-      ibm_DataScience,
-      abb_DataScience,
-      infineon_DataScience,
-      texas_DataScience,
-      cisco_DataScience,
-      siemens_DataScience,
-      analog_DataScience,
-      Marvel_DataScience,
-      aijobs_DataScience,
-    ] = await Promise.all([
-      scrapeAmazonJobs("Data Science"),
-      scrapeMetaJobs("Data Science"),
-      microsoftScraper("data science"),
-      googleScraper("Data Science"),
-      armScraper("Data Science"),
-      micronScraper("Data Science"),
-      ibmScraper("Data Science"),
-      abbScraper("Data Science"),
-      infineonScraper("Data Science"),
-      texasScraper("Data Science"), 
-      ciscoScraper("Data Science"),
-      siemensScraper("Data Science"),
-      analogScraper("Data Science"),
-      MarvelScraper("Data Science"),
-      aijobsScraper("data science")
-    ]);
-    allDataScienceJobs.push(
-      ...amazon_DataScience,
-      ...meta_DataScience,
-      ...microsoft_DataScience,
-      ...google_DataScience,
-      ...arm_DataScience,
-      ...micron_DataScience,
-      ...ibm_DataScience,
-      ...abb_DataScience,
-      ...infineon_DataScience,
-      ...texas_DataScience,
-      ...cisco_DataScience,
-      ...siemens_DataScience,
-      ...analog_DataScience,
-      ...Marvel_DataScience,
-      ...aijobs_DataScience
-    );
+    // );
+    // const [
+    //   amazon_DataScience,
+    //   meta_DataScience,
+    //   microsoft_DataScience,
+    //   google_DataScience,
+    //   arm_DataScience,
+    //   micron_DataScience,
+    //   ibm_DataScience,
+    //   abb_DataScience,
+    //   infineon_DataScience,
+    //   texas_DataScience,
+    //   cisco_DataScience,
+    //   siemens_DataScience,
+    //   analog_DataScience,
+    //   Marvel_DataScience,
+    //   aijobs_DataScience,
+    // ] = await Promise.all([
+    //   scrapeAmazonJobs("Data Science"),
+    //   scrapeMetaJobs("Data Science"),
+    //   microsoftScraper("data science"),
+    //   googleScraper("Data Science"),
+    //   armScraper("Data Science"),
+    //   micronScraper("Data Science"),
+    //   ibmScraper("Data Science"),
+    //   abbScraper("Data Science"),
+    //   infineonScraper("Data Science"),
+    //   texasScraper("Data Science"), 
+    //   ciscoScraper("Data Science"),
+    //   siemensScraper("Data Science"),
+    //   analogScraper("Data Science"),
+    //   MarvelScraper("Data Science"),
+    //   aijobsScraper("data science")
+    // ]);
+    // allDataScienceJobs.push(
+    //   ...amazon_DataScience,
+    //   ...meta_DataScience,
+    //   ...microsoft_DataScience,
+    //   ...google_DataScience,
+    //   ...arm_DataScience,
+    //   ...micron_DataScience,
+    //   ...ibm_DataScience,
+    //   ...abb_DataScience,
+    //   ...infineon_DataScience,
+    //   ...texas_DataScience,
+    //   ...cisco_DataScience,
+    //   ...siemens_DataScience,
+    //   ...analog_DataScience,
+    //   ...Marvel_DataScience,
+    //   ...aijobs_DataScience
+    // );
     const readmeContent = await generateReadme(
-      allDataScienceJobs,
-      allHardwarejobs,
       currentJobs,
       archivedJobs,
       internshipData,

@@ -300,7 +300,7 @@ async function abbScraper(searchQuery, maxPages = 10) {
           job_city: city,
           job_state: state,
           job_posted_at: formattedPostedDate,
-          job_description: `Posted: ${formattedPostedDate}. Full Title: ${jobData.title}. Location: ${jobData.location}`,
+          job_description:`${searchQuery} job for the role ${jobData.title} at ${jobData.location}`,
           job_apply_link: jobData.applyLink || searchUrl,
         };
 
