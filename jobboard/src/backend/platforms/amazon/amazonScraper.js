@@ -157,7 +157,7 @@ async function scrapeAmazonJobs(specificJobTitle = null) {
         employer_name: 'Amazon',
         job_city: job.location.split(', ')[0] || 'Multiple',
         job_state: job.location.split(', ')[1] || 'Locations',
-        job_description: job.qualificationsPreview || 'Management position at Amazon',
+        job_description:`${specificJobTitle} job for the role ${job.title} at ${job.location}`, 
         job_apply_link: job.url,
         job_posted_at: parseAmazonDate(job.postedDate, job.timeElapsed),
         job_posted_at_datetime_utc: parseAmazonDate(job.postedDate, job.timeElapsed),
@@ -194,23 +194,23 @@ async function scrapeAmazonJobs(specificJobTitle = null) {
 module.exports = scrapeAmazonJobs;
 
 // // Execute the script if run directly
-// if (require.main === module) {
-//     // Check if a specific job title was provided as a command line argument
-//     const args = process.argv.slice(2);
-//     // Join all arguments with spaces to handle multi-word job titles
-//     const specificJobTitle = args.length > 0 ? args.join(' ') : null;
+if (require.main === module) {
+    // Check if a specific job title was provided as a command line argument
+    const args = process.argv.slice(2);
+    // Join all arguments with spaces to handle multi-word job titles
+    const specificJobTitle = args.length > 0 ? args.join(' ') : null;
     
-//     if (specificJobTitle) {
-//         console.log(`🎯 Job title argument received: "${specificJobTitle}"`);
-//     }
+    if (specificJobTitle) {
+        console.log(`🎯 Job title argument received: "${specificJobTitle}"`);
+    }
     
-//     scrapeAmazonJobs(specificJobTitle)
-//         .then(() => {
-//             console.log('\n✅ Amazon job scraping and saving completed!');
-//             process.exit(0);
-//         })
-//         .catch(error => {
-//             console.error('\n❌ Amazon job scraping failed:', error);
-//             process.exit(1);
-//         });
-// }
+    scrapeAmazonJobs(specificJobTitle)
+        .then(() => {
+            console.log('\n✅ Amazon job scraping and saving completed!');
+            process.exit(0);
+        })
+        .catch(error => {
+            console.error('\n❌ Amazon job scraping failed:', error);
+            process.exit(1);
+        });
+}
