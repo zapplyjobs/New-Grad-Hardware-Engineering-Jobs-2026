@@ -12,8 +12,21 @@ async function scrapeMetaJobs(specificJobTitle = null) {
     }
 
     const browser = await Puppeteer.launch({
-        headless: true,
-        args: ['--no-sandbox', '--disable-setuid-sandbox']
+        headless: false,
+         args: [
+      "--no-sandbox", 
+      "--disable-setuid-sandbox",
+      "--disable-dev-shm-usage",
+      "--disable-gpu",
+      "--no-first-run",
+      "--disable-extensions",
+      "--disable-background-timer-throttling",
+      "--disable-backgrounding-occluded-windows",
+      "--disable-renderer-backgrounding",
+      "--disable-web-security",
+      "--disable-features=TranslateUI",
+      "--disable-ipc-flooding-protection"
+    ],
     });
 
     const page = await browser.newPage();
@@ -224,23 +237,23 @@ function parseLocation(locationStr) {
 module.exports = scrapeMetaJobs;
 
 // Execute the script if run directly
-// if (require.main === module) {
-//     // Check if a specific job title was provided as a command line argument
-//     const args = process.argv.slice(2);
-//     // Join all arguments with spaces to handle multi-word job titles
-//     const specificJobTitle = args.length > 0 ? args.join(' ') : null;
+if (require.main === module) {
+    // Check if a specific job title was provided as a command line argument
+    const args = process.argv.slice(2);
+    // Join all arguments with spaces to handle multi-word job titles
+    const specificJobTitle = args.length > 0 ? args.join(' ') : null;
     
-//     if (specificJobTitle) {
-//         console.log(`🎯 Job title argument received: "${specificJobTitle}"`);
-//     }
+    if (specificJobTitle) {
+        console.log(`🎯 Job title argument received: "${specificJobTitle}"`);
+    }
     
-//     scrapeMetaJobs(specificJobTitle)
-//         .then(() => {
-//             console.log('\n✅ Meta job scraping and saving completed!');
-//             process.exit(0);
-//         })
-//         .catch(error => {
-//             console.error('\n❌ Meta job scraping failed:', error);
-//             process.exit(1);
-//         });
-// }
+    scrapeMetaJobs(specificJobTitle)
+        .then(() => {
+            console.log('\n✅ Meta job scraping and saving completed!');
+            process.exit(0);
+        })
+        .catch(error => {
+            console.error('\n❌ Meta job scraping failed:', error);
+            process.exit(1);
+        });
+}
