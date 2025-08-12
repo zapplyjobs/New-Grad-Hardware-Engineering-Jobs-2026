@@ -1,68 +1,13 @@
 [
   {
-    "job_title": "Documentation Engineer / Technical Writer",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +2 locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1278856630351274",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-documentation-engineer-technical-writer-bellevue"
-  },
-  {
-    "job_title": "Azure Advanced Cloud Senior Engineer - Customer Focused",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1826626",
-    "job_posted_at_datetime_utc": "2025-08-12T02:14:26.046Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-azure-advanced-cloud-senior-engineer-customer-focused-redmond"
-  },
-  {
-    "job_title": "Security Technical Support Engineering Manager",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1826987",
-    "job_posted_at_datetime_utc": "2025-08-12T02:14:26.046Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-security-technical-support-engineering-manager-redmond"
-  },
-  {
-    "job_title": "Associate Software Engineer",
-    "employer_name": "Moog",
-    "job_city": "Torrance",
+    "job_title": "Sr. Big Data Engineer",
+    "employer_name": "Databricks",
+    "job_city": "Remote - India",
     "job_state": "CA",
-    "job_description": "Join Moog in this exciting opportunity.",
-    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250",
-    "job_posted_at_datetime_utc": "2025-08-09T13:59:00.000Z",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7968899002",
+    "job_posted_at_datetime_utc": "2025-08-12T02:37:57.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "moog-associate-software-engineer-torrance"
-  },
-  {
-    "job_title": "Junior Full Stack Software Engineer",
-    "employer_name": "Radiance Technologies",
-    "job_city": "Beavercreek",
-    "job_state": "OH",
-    "job_description": "Join Radiance Technologies in this exciting opportunity.",
-    "job_apply_link": "https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101733",
-    "job_posted_at_datetime_utc": "2025-08-08T08:40:27.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "radiance-technologies-junior-full-stack-software-engineer-beavercreek"
-  },
-  {
-    "job_title": "Entry Level Software Engineer",
-    "employer_name": "BRM",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Join BRM in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application",
-    "job_posted_at_datetime_utc": "2025-08-05T10:30:31.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "brm-entry-level-software-engineer-san-francisco"
+    "id": "databricks-sr-big-data-engineer-remote-india"
   }
 ]
