@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Senior eCAD Application Engineer - AI & Automation",
+    "job_title": "Senior Service Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1842825",
-    "job_posted_at_datetime_utc": "2025-08-12T04:42:11.804Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856237",
+    "job_posted_at_datetime_utc": "2025-08-12T05:34:04.778Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-ecad-application-engineer-ai-automation-redmond"
-  },
-  {
-    "job_title": "Senior Staff Machine Learning Engineer - AI Safety and Guardrail ",
-    "employer_name": "Airbnb",
-    "job_city": "United States",
-    "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/7159569?gh_jid=7159569",
-    "job_posted_at_datetime_utc": "2025-08-12T04:25:48.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-staff-machine-learning-engineer-ai-safety-and-guardrail-united-states"
+    "id": "microsoft-senior-service-engineer-redmond"
   }
 ]
