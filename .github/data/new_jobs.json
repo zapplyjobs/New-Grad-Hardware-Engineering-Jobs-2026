@@ -1,24 +1,56 @@
 [
   {
-    "job_title": "Principal Machine Learning Engineer-Office of CTO",
+    "employer_name": "Google",
+    "job_title": "Accountant II",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Accountant II, Technical Infrastructure, Google Cloud",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/138392286244283078-accountant-ii-technical-infrastructure-google-cloud?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=4",
+    "id": "google-accountant-ii-chicago"
+  },
+  {
+    "job_title": "Principal UX  Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856521",
-    "job_posted_at_datetime_utc": "2025-08-12T08:42:43.205Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1830104",
+    "job_posted_at_datetime_utc": "2025-08-12T09:29:51.537Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-machine-learning-engineer-office-of-cto-redmond"
+    "id": "microsoft-principal-ux-engineer-redmond"
   },
   {
-    "job_title": "Application Security Engineer L4/L5",
-    "employer_name": "Netflix",
-    "job_city": "Poland - Remote",
+    "job_title": "Software Engineer, Connected Warfare",
+    "employer_name": "Anduril Industries",
+    "job_city": "Costa Mesa",
     "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790304612053",
-    "job_posted_at_datetime_utc": "2025-08-06T00:00:00.000Z",
+    "job_description": "Join Anduril Industries in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007&gh_src=",
+    "job_posted_at_datetime_utc": "2025-08-12T09:27:51.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-application-security-engineer-l4-l5-poland-remote"
+    "id": "anduril-industries-software-engineer-connected-warfare-costa-mesa"
+  },
+  {
+    "job_title": "Air Dominance & Strike - Flight Software Engineer, Embedded C/C++",
+    "employer_name": "Anduril Industries",
+    "job_city": "Costa Mesa",
+    "job_state": "CA",
+    "job_description": "Join Anduril Industries in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=",
+    "job_posted_at_datetime_utc": "2025-08-12T09:25:16.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "anduril-industries-air-dominance-strike-flight-software-engineer-embedded-c-c-costa-mesa"
+  },
+  {
+    "job_title": "Early Career Software Engineer",
+    "employer_name": "Anduril Industries",
+    "job_city": "Costa Mesa",
+    "job_state": "CA",
+    "job_description": "Join Anduril Industries in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007&gh_src=",
+    "job_posted_at_datetime_utc": "2025-08-12T09:21:23.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "anduril-industries-early-career-software-engineer-costa-mesa"
   }
 ]
