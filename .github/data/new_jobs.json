@@ -1,79 +1,68 @@
 [
   {
-    "job_title": "Research Scientist - Computational Chemist",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/4094747560741993",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-computational-chemist-redmond"
-  },
-  {
-    "job_title": "ASIC Package Engineer",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1267754244725168",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-asic-package-engineer-sunnyvale"
-  },
-  {
-    "job_title": "Robotics Mechanical Engineer",
-    "employer_name": "Meta",
-    "job_city": "Fremont",
-    "job_state": "CA",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1043160364657954",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-robotics-mechanical-engineer-fremont"
-  },
-  {
-    "job_title": "UX Researcher, Qualitative",
+    "job_title": "Documentation Engineer / Technical Writer",
     "employer_name": "Meta",
     "job_city": "Bellevue",
-    "job_state": "WA +4 locations",
-    "job_description": "Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/631397579385877",
+    "job_state": "WA +2 locations",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1278856630351274",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-ux-researcher-qualitative-bellevue"
+    "id": "meta-documentation-engineer-technical-writer-bellevue"
   },
   {
-    "job_title": "Network Production Engineer (University Grad)",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "University Grad - Engineering, Tech & Design +3 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/3698775730387685",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-network-production-engineer-university-grad-multiple"
-  },
-  {
-    "job_title": "Principal Software Engineer - Azure Kubernetes Service",
+    "job_title": "Azure Advanced Cloud Senior Engineer - Customer Focused",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1820644",
-    "job_posted_at_datetime_utc": "2025-08-11T23:32:12.738Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1826626",
+    "job_posted_at_datetime_utc": "2025-08-12T02:14:26.046Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-azure-kubernetes-service-redmond"
+    "id": "microsoft-azure-advanced-cloud-senior-engineer-customer-focused-redmond"
   },
   {
-    "job_title": "Backend Engineer, Revenue and Finance Automation",
-    "employer_name": "Stripe",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7094455",
-    "job_posted_at_datetime_utc": "2025-08-11T23:22:29.000Z",
+    "job_title": "Security Technical Support Engineering Manager",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1826987",
+    "job_posted_at_datetime_utc": "2025-08-12T02:14:26.046Z",
     "job_employment_type": "FULLTIME",
-    "id": "stripe-backend-engineer-revenue-and-finance-automation-seattle"
+    "id": "microsoft-security-technical-support-engineering-manager-redmond"
+  },
+  {
+    "job_title": "Associate Software Engineer",
+    "employer_name": "Moog",
+    "job_city": "Torrance",
+    "job_state": "CA",
+    "job_description": "Join Moog in this exciting opportunity.",
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250",
+    "job_posted_at_datetime_utc": "2025-08-09T13:59:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "moog-associate-software-engineer-torrance"
+  },
+  {
+    "job_title": "Junior Full Stack Software Engineer",
+    "employer_name": "Radiance Technologies",
+    "job_city": "Beavercreek",
+    "job_state": "OH",
+    "job_description": "Join Radiance Technologies in this exciting opportunity.",
+    "job_apply_link": "https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101733",
+    "job_posted_at_datetime_utc": "2025-08-08T08:40:27.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "radiance-technologies-junior-full-stack-software-engineer-beavercreek"
+  },
+  {
+    "job_title": "Entry Level Software Engineer",
+    "employer_name": "BRM",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join BRM in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application",
+    "job_posted_at_datetime_utc": "2025-08-05T10:30:31.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "brm-entry-level-software-engineer-san-francisco"
   }
 ]
