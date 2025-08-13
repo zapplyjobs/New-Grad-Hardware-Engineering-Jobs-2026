@@ -1,22 +1,82 @@
 [
   {
     "employer_name": "CISCO",
-    "job_title": "ASIC Engineering Technical Leader - SDC",
+    "job_title": "Solutions Engineer - Web",
     "job_city": "San Jose",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role ASIC Engineering Technical Leader - SDC at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/ASIC-Engineering-Technical-Leader-SDC/1434557",
-    "id": "cisco-asic-engineering-technical-leader-sdc-san-jose"
+    "job_description": "hardware engineering job for the role Solutions Engineer - Web at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Solutions-Engineer-Web/1448738",
+    "id": "cisco-solutions-engineer-web-san-jose"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Embedded Engineer-(Linux)",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Embedded Engineer-(Linux) at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Embedded-Engineer-Linux/1444964",
-    "id": "cisco-embedded-engineer-linux-san-jose"
+    "employer_name": "ILLUMINA",
+    "job_title": "Sr. Deep Learning/AI Engineer - Machine Learning (Hybrid or Remote)",
+    "job_city": "7 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 6 Days Ago",
+    "job_description": "hardware engineering job for the role Sr. Deep Learning/AI Engineer - Machine Learning (Hybrid or Remote) at 7 Locations",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego---HQ/Senior-Deep-Learning-AI-Engineer_40197-JOB-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-sr-deep-learning-ai-engineer-machine-learning-hybrid-or-remote-7-locations"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Sr. Compliance Engineer",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 20 Days Ago",
+    "job_description": "hardware engineering job for the role Sr. Compliance Engineer at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Compliance-Engineer-2_40733-JOB?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-sr-compliance-engineer-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Systems Integration Engineer",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 5 Days Ago",
+    "job_description": "hardware engineering job for the role Systems Integration Engineer 1 at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Systems-Integration-Engineer-1_41160-JOB-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-systems-integration-engineer-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Sr Product Security Engineer",
+    "job_city": "US - California - San Diego - HQ",
+    "job_state": "",
+    "job_posted_at": "Posted 14 Days Ago",
+    "job_description": "hardware engineering job for the role Sr Product Security Engineer at US - California - San Diego - HQ",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego---HQ/Sr-Product-Security-Engineer_40756-JOB-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-sr-product-security-engineer-us-california-san-diego-hq"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Product Security Architect/Sr Architect",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "hardware engineering job for the role Product Security Architect/Sr Architect at 2 Locations",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego---HQ/Product-Security-Architect-Sr-Architect_41139-JOB?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-product-security-architect-sr-architect-2-locations"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "ASIC Chip Architect – Mixed Signal",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "hardware engineering job for the role Senior ASIC Chip Architect – Mixed Signal at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Senior-ASIC-Chip-Architect---Mixed-Signal_40775-JOB-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-asic-chip-architect-mixed-signal-us-california-san-diego"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Staff Program Manager - Sequencing Platforms",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted 30+ Days Ago",
+    "job_description": "hardware engineering job for the role Senior Staff Program Manager - Sequencing Platforms at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Senior-Staff-Program-Manager---Sequencing-Platforms_40319-JOB-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-staff-program-manager-sequencing-platforms-us-california-san-diego"
   }
 ]
