@@ -1,22 +1,1365 @@
 [
   {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Operations Solutions Manager - Project/Program Leader",
-    "job_city": "Dallas",
+    "job_title": "Hardware Development Engineer, Avionics Electrical Engineering Team",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer, Avionics Electrical Engineering Team at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3041858/hardware-development-engineer-avionics-electrical-engineering-team",
+    "job_posted_at": "2025-08-13T17:45:37.206Z",
+    "job_posted_at_datetime_utc": "2025-08-13T17:45:37.206Z",
+    "id": "amazon-hardware-development-engineer-avionics-electrical-engineering-team-redmond"
+  },
+  {
+    "job_title": "Robotics Retrofit Program Manager - Tech, GSS Retrofit Engineering & Program Management",
+    "employer_name": "Amazon",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "hardware engineering job for the role Robotics Retrofit Program Manager - Tech, GSS Retrofit Engineering & Program Management at Boston, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3020928/robotics-retrofit-program-manager-tech-gss-retrofit-engineering-program-management",
+    "job_posted_at": "2025-08-13T16:45:37.207Z",
+    "job_posted_at_datetime_utc": "2025-08-13T16:45:37.207Z",
+    "id": "amazon-robotics-retrofit-program-manager-tech-gss-retrofit-engineering-program-management-boston"
+  },
+  {
+    "job_title": "Critical Infrastructure Regional Mechanical Engineer , Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Regional Mechanical Engineer , Field Engineering at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3058195/critical-infrastructure-regional-mechanical-engineer-field-engineering",
+    "job_posted_at": "2025-08-13T14:45:37.207Z",
+    "job_posted_at_datetime_utc": "2025-08-13T14:45:37.207Z",
+    "id": "amazon-critical-infrastructure-regional-mechanical-engineer-field-engineering-herndon"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Technical Program Manager",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Technical Program Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857554/Senior-Technical-Program-Manager",
+    "id": "microsoft-senior-technical-program-manager-multiple-locations"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Principal Program Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Program Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859488/Principal-Program-Manager",
+    "id": "microsoft-principal-program-manager-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Critical Environment Electrical Engineer",
+    "job_city": "Wenatchee",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Electrical Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854017/Critical-Environment-Electrical-Engineer",
+    "id": "microsoft-critical-environment-electrical-engineer-wenatchee"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Critical Environment Electrical Engineer",
+    "job_city": "Quincy",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Electrical Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854700/Critical-Environment-Electrical-Engineer",
+    "id": "microsoft-critical-environment-electrical-engineer-quincy"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Principal Sourcing Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Sourcing Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1813238/Principal-Sourcing-Engineer%2C-Director-of-Silicon-Sourcing",
+    "id": "microsoft-principal-sourcing-engineer-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Performance Architect",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Performance Architect",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845387/Senior-Performance-Architect%E2%80%AF",
+    "id": "microsoft-senior-performance-architect-hillsboro"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Critical Environment Energy Marshall",
+    "job_city": "Chicago",
+    "job_state": "Illinois",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Energy Marshall",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855473/Critical-Environment-Energy-Marshall",
+    "id": "microsoft-critical-environment-energy-marshall-chicago"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Critical Environment Mechanical Engineer",
+    "job_city": "Wenatchee",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Mechanical Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849022/Critical-Environment-Mechanical-Engineer",
+    "id": "microsoft-critical-environment-mechanical-engineer-wenatchee"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Display Module Technical Program Manager",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "0 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Display Module Technical Program Manager",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/83083922199454406-display-module-technical-program-manager?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-display-module-technical-program-manager-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Hardware Performance Test Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "1 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Hardware Performance Test Engineer, Engineering Labs, Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/117449604802192070-hardware-performance-test-engineer-engineering-labs-platforms?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-hardware-performance-test-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Senior CPU Design Verification Engineer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "12 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior CPU Design Verification Engineer, Silicon - Mountain View, Austin, Portland or Poughkeepsie",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/112035712626238150-senior-cpu-design-verification-engineer-silicon-mountain-view-austin-portland-or-poughkeepsie?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-cpu-design-verification-engineer-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Senior Principal CPU Design Verification Lead",
+    "job_city": "Austin",
     "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Operations Solutions Manager - Project/Program Leader at Dallas, TX, United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25006812/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-operations-solutions-manager-project-program-leader-dallas"
+    "job_description": "14 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Principal CPU Design Verification Lead",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/91985877575574214-senior-principal-cpu-design-verification-lead?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-principal-cpu-design-verification-lead-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Frontend CAD & Methodology Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Frontend CAD & Methodology Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/principal-frontend-cad-and-methodology-engineer/33099/77558411648",
+    "id": "arm-frontend-cad-methodology-engineer-san-diego"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer- C++ & Modeling",
+    "job_city": "Waltham",
+    "job_state": "Massachusetts",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Software Engineer- C++ & Modeling at Waltham, Massachusetts",
+    "job_apply_link": "https://careers.arm.com/job/waltham/software-engineer-c-and-modeling/33099/84729455696",
+    "id": "arm-software-engineer-c-modeling-waltham"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Isabela’s Award-Winning INROADs Internship",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Isabela’s Award-Winning INROADs Internship at ",
+    "job_apply_link": "https://careers.arm.com/isabelas-internship",
+    "id": "arm-isabela-s-award-winning-inroads-internship-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Liana's Story",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Liana's Story at ",
+    "job_apply_link": "https://careers.arm.com/why-arm-liana",
+    "id": "arm-liana-s-story-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Sabbatical Stories",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Sabbatical Stories at ",
+    "job_apply_link": "https://careers.arm.com/sabbatical-stories",
+    "id": "arm-sabbatical-stories-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Wesley’s Intern Journey",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Wesley’s Intern Journey at ",
+    "job_apply_link": "https://careers.arm.com/wesley-intern-story",
+    "id": "arm-wesley-s-intern-journey-multiple"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Design Methodology Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Design Methodology Engineer at Austin, Texas, San Diego, California, Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-design-methodology-engineer/33099/78209319760",
+    "id": "arm-design-methodology-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "System Architect",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal System Architect at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/principal-system-architect/33099/81851446448",
+    "id": "arm-system-architect-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Design Engineer - Interconnect",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Design Engineer - Interconnect at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/design-engineer-interconnect/33099/84516811056",
+    "id": "arm-design-engineer-interconnect-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "SoC Fuse Design Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role SoC Fuse Design Engineer at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/soc-fuse-design-engineer/33099/81797300064",
+    "id": "arm-soc-fuse-design-engineer-chandler"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Thermo-Mechanical Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Thermo-Mechanical Engineer at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-thermo-mechanical-engineer/33099/84709712816",
+    "id": "arm-thermo-mechanical-engineer-san-jose"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Systems Performance Analysis Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Systems Performance Analysis Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-systems-performance-analysis-engineer/33099/75738045056",
+    "id": "arm-systems-performance-analysis-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Principal Robotics Research Lead",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Principal Robotics Research Lead at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-robotics-research-lead/33099/84960063232",
+    "id": "arm-principal-robotics-research-lead-austin"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Design Verification Engineer",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 2 days ago",
+    "job_description": "hardware engineering job for the role Design Verification Engineer at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30687424",
+    "id": "micron-design-verification-engineer-richardson"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Manager Realtime Defect Analysis",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "hardware engineering job for the role Senior Manager Realtime Defect Analysis at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/23931305",
+    "id": "micron-manager-realtime-defect-analysis-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Manager, Materials Incoming Quality Control",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "hardware engineering job for the role Manager, Materials Incoming Quality Control at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30084256",
+    "id": "micron-manager-materials-incoming-quality-control-boise"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Software Engineering Technical Leader - Cisco Silicon One",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineering Technical Leader - Cisco Silicon One at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineering-Technical-Leader-Cisco-Silicon-One/1441662",
+    "id": "cisco-software-engineering-technical-leader-cisco-silicon-one-san-jose"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Software Engineer I (Intern) United States",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer I (Intern) United States at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1448534",
+    "id": "cisco-software-engineer-i-intern-united-states-san-jose"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Solutions Engineer - Artificial Intelligence (AI)",
+    "job_city": "Offsite",
+    "job_state": "New York",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Solutions Engineer - Artificial Intelligence (AI) at Offsite, New York, New York, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Solutions-Engineer-Artificial-Intelligence-AI/1448300",
+    "id": "cisco-solutions-engineer-artificial-intelligence-ai-offsite"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Head of Quality Assurance (QA), Engineering",
-    "job_city": "Noida",
-    "job_state": "India",
+    "job_title": "Solutions Engineer, PLC Programmer",
+    "job_city": "Grand Prairie",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Head of Quality Assurance (QA), Engineering at Noida, Uttar Pradesh, India",
+    "job_description": "hardware engineering job for the role Solutions Engineer, PLC Programmer at Grand Prairie, Texas, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-head-of-quality-assurance-qa-engineering-noida"
+    "id": "siemens-solutions-engineer-plc-programmer-grand-prairie"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Principal Product Manager (Technical)",
+    "job_city": "Bellevue",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Principal Product Manager (Technical) at Bellevue, Washington, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-principal-product-manager-technical-bellevue"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Senior Principal Product Manager (Technical)",
+    "job_city": "Bellevue",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Principal Product Manager (Technical) at Bellevue, Washington, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-senior-principal-product-manager-technical-bellevue"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Solution Engineer",
+    "job_city": "Grand Prairie",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Solution Engineer at Grand Prairie, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-solution-engineer-grand-prairie"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Manufacturing Quality Engineer – Hardware",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Manufacturing Quality Engineer – Hardware at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/153628271-manufacturing-quality-engineer-hardware",
+    "id": "aijobs-manufacturing-quality-engineer-hardware-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Hardware Security Engineer, Trusted Computing and Cryptography",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Hardware Security Engineer, Trusted Computing and Cryptography at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/153628267-hardware-security-engineer-trusted-computing-and-cryptography",
+    "id": "aijobs-hardware-security-engineer-trusted-computing-and-cryptography-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager, Data Center - Engineering Operations",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Technical Program Manager, Data Center - Engineering Operations at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/153614923-senior-technical-program-manager-data-center-engineering-operations",
+    "id": "aijobs-technical-program-manager-data-center-engineering-operations-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineering Manager, ChatGPT Growth",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "20h ago",
+    "job_description": "hardware engineering job for the role Engineering Manager, ChatGPT Growth at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/153628273-engineering-manager-chatgpt-growth",
+    "id": "aijobs-engineering-manager-chatgpt-growth-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineering Manager, Search Product Infra",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Engineering Manager, Search Product Infra at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/153628272-engineering-manager-search-product-infra",
+    "id": "aijobs-engineering-manager-search-product-infra-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineering Manager - AI Reliability",
+    "job_city": "CA",
+    "job_state": "San Francisco",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Engineering Manager - AI Reliability at San Francisco, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/153614761-engineering-manager-ai-reliability",
+    "id": "aijobs-engineering-manager-ai-reliability-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Tech Lead – Electrical Engineering",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "24min ago",
+    "job_description": "hardware engineering job for the role Tech Lead – Electrical Engineering at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/153888932-tech-lead-electrical-engineering",
+    "id": "aijobs-tech-lead-electrical-engineering-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Site Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Site Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/153628270-site-engineer",
+    "id": "aijobs-site-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Team Lead, GTM Systems Engineering",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Team Lead, GTM Systems Engineering at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/153628275-team-lead-gtm-systems-engineering",
+    "id": "aijobs-team-lead-gtm-systems-engineering-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Solutions Architect, Generative AI Deployment",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "20h ago",
+    "job_description": "hardware engineering job for the role Solutions Architect, Generative AI Deployment at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/153628276-solutions-architect-generative-ai-deployment",
+    "id": "aijobs-solutions-architect-generative-ai-deployment-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Procurement Center of Excellence Leader",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "20h ago",
+    "job_description": "hardware engineering job for the role Procurement Center of Excellence Leader at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/153628277-procurement-center-of-excellence-leader",
+    "id": "aijobs-procurement-center-of-excellence-leader-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Computer Vision Engineer - Autonomy",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Computer Vision Engineer - Autonomy at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/153642202-computer-vision-engineer-autonomy",
+    "id": "aijobs-computer-vision-engineer-autonomy-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Enterprise Identity",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "20h ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Enterprise Identity at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/153628274-software-engineer-enterprise-identity",
+    "id": "aijobs-software-engineer-enterprise-identity-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Recruiter and Program Manager, Emerging Talent",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Technical Recruiter and Program Manager, Emerging Talent at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/153628264-technical-recruiter-and-program-manager-emerging-talent",
+    "id": "aijobs-technical-recruiter-and-program-manager-emerging-talent-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "ASIC Power Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior ASIC Power Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/147269373-senior-asic-power-engineer",
+    "id": "aijobs-asic-power-engineer-santa-clara"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "Electrical Engineer, Compute Hardware",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Electrical Engineer, Compute Hardware at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/electrical-engineer-compute-hardware-mountain-view-california-united-states",
+    "id": "waymo-electrical-engineer-compute-hardware-mountain-view"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "ML Accelerator Modeling Engineer",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role ML Accelerator Modeling Engineer at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/ml-accelerator-modeling-engineer-mountain-view-california-united-states-new-york-city-new-york",
+    "id": "waymo-ml-accelerator-modeling-engineer-mountain-view"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "ML Accelerator Architect",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role ML Accelerator Architect at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/ml-accelerator-architect-mountain-view-california-united-states-new-york-city-new-york",
+    "id": "waymo-ml-accelerator-architect-mountain-view"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "Staff ML Accelerator Architect",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Staff ML Accelerator Architect at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/staff-ml-accelerator-architect-mountain-view-california-united-states-new-york-city-new-york",
+    "id": "waymo-staff-ml-accelerator-architect-mountain-view"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "ML Microarchitect",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role ML Microarchitect at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/ml-microarchitect-mountain-view-california-united-states",
+    "id": "waymo-ml-microarchitect-mountain-view"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "Quality Engineer",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Quality Engineer at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/quality-engineer-mountain-view-california-united-states",
+    "id": "waymo-quality-engineer-mountain-view"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "Senior Program Manager, Quality Analytics",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Program Manager, Quality Analytics at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/senior-program-manager-quality-analytics-mountain-view-california-united-states",
+    "id": "waymo-senior-program-manager-quality-analytics-mountain-view"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "Systems Engineer, Vehicle Body Control Systems",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Systems Engineer, Vehicle Body Control Systems at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/systems-engineer-vehicle-body-control-systems-mountain-view-california-united-states-novi-michigan-san-francisco",
+    "id": "waymo-systems-engineer-vehicle-body-control-systems-mountain-view"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "Technical Program Manager, Systems Engineering",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Technical Program Manager, Systems Engineering at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/technical-program-manager-systems-engineering-mountain-view-california-united-states-san-francisco",
+    "id": "waymo-technical-program-manager-systems-engineering-mountain-view"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "Senior Staff Software Engineer, ML Engineering, Perception",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Staff Software Engineer, ML Engineering, Perception at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/senior-staff-software-engineer-ml-engineering-perception-mountain-view-california-united-states",
+    "id": "waymo-senior-staff-software-engineer-ml-engineering-perception-mountain-view"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "Senior Software Engineer, Linux Kernel",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Software Engineer, Linux Kernel at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/senior-software-engineer-linux-kernel-mountain-view-california-united-states-6954c6d3-9846-48b4-9b4e-ecaa6e4b6790",
+    "id": "waymo-senior-software-engineer-linux-kernel-mountain-view"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "Senior Design Engineer, ASIC",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Design Engineer, ASIC at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/senior-design-engineer-asic-mountain-view-california-united-states",
+    "id": "waymo-senior-design-engineer-asic-mountain-view"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "Software Technical Program Manager",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Technical Program Manager at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/software-technical-program-manager-mountain-view-california-united-states",
+    "id": "waymo-software-technical-program-manager-mountain-view"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "Senior Power Engineer, ASIC",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Power Engineer, ASIC at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/senior-power-engineer-asic-mountain-view-california-united-states-new-york-city-new-york",
+    "id": "waymo-senior-power-engineer-asic-mountain-view"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "Physical Design Lead",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Physical Design Lead at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/physical-design-lead-mountain-view-california-united-states-4f6f225b-5f49-4831-85b5-e16fa41ac565",
+    "id": "waymo-physical-design-lead-mountain-view"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Hardware Engineering Architect",
+    "job_city": "Remote",
+    "job_state": "Remote",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Hardware Engineering Architect at ",
+    "job_apply_link": "https://careers.synopsys.com/job/united-states/hardware-engineering-architect/44408/84148012208",
+    "id": "synopsys-hardware-engineering-architect-remote"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Hardware Engineering, Lead Technician -",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Hardware Engineering, Lead Technician - 12513 at Hillsboro, Oregon",
+    "job_apply_link": "https://careers.synopsys.com/job/hillsboro/hardware-engineering-lead-technician-12513/44408/84997058640",
+    "id": "synopsys-hardware-engineering-lead-technician-hillsboro"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Sales Director - Hardware Assisted Verification",
+    "job_city": "United States Off-site",
+    "job_state": "United States Off-site",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Sales Director - Hardware Assisted Verification at United States Off-site",
+    "job_apply_link": "https://careers.synopsys.com/job/austin/sales-director-hardware-assisted-verification/44408/76799026016",
+    "id": "synopsys-sales-director-hardware-assisted-verification-united-states-off-site"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Embedded Security Architect, Principal Cybersecurity Engineer",
+    "job_city": "United States Off-site",
+    "job_state": "United States Off-site",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Embedded Security Architect, Principal Cybersecurity Engineer at United States Off-site",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/embedded-security-architect-principal-cybersecurity-engineer/44408/76799019872",
+    "id": "synopsys-embedded-security-architect-principal-cybersecurity-engineer-united-states-off-site"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Silicon Validation Manager -",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Silicon Validation Manager - 12490 at Hillsboro, Oregon",
+    "job_apply_link": "https://careers.synopsys.com/job/hillsboro/silicon-validation-manager-12490/44408/84997058608",
+    "id": "synopsys-silicon-validation-manager-hillsboro"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "R&D Engineering, Staff Engineer",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
+    "job_posted_at": "1 month ago",
+    "job_description": "hardware engineering job for the role R&D Engineering, Staff Engineer at Hillsboro, Oregon",
+    "job_apply_link": "https://careers.synopsys.com/job/hillsboro/r-and-d-engineering-staff-engineer/44408/82641685696",
+    "id": "synopsys-r-d-engineering-staff-engineer-hillsboro"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Principal R&D Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Principal R&D Engineer at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/principal-r-and-d-engineer/44408/80368862496",
+    "id": "synopsys-principal-r-d-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "FPGA/ASIC Validation, Staff Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role FPGA/ASIC Validation, Staff Engineer at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/fpga-asic-validation-staff-engineer/44408/78302357280",
+    "id": "synopsys-fpga-asic-validation-staff-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "R&D Engineering, Sr Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "6 days ago",
+    "job_description": "hardware engineering job for the role R&D Engineering, Sr Engineer at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/r-and-d-engineering-sr-engineer/44408/84763078480",
+    "id": "synopsys-r-d-engineering-sr-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Emulation Cloud Solution Architect",
+    "job_city": "United States Off-site",
+    "job_state": "United States Off-site",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Emulation Cloud Solution Architect at United States Off-site",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/emulation-cloud-solution-architect/44408/78227815280",
+    "id": "synopsys-emulation-cloud-solution-architect-united-states-off-site"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Low Power, SOC Architect",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "1 month ago",
+    "job_description": "hardware engineering job for the role Low Power, SOC Architect at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/low-power-soc-architect/44408/78544986304",
+    "id": "synopsys-low-power-soc-architect-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Solutions Engineering, Principal Engineer-11960",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Solutions Engineering, Principal Engineer-11960 at Austin, Texas",
+    "job_apply_link": "https://careers.synopsys.com/job/austin/solutions-engineering-principal-engineer-11960/44408/83872176688",
+    "id": "synopsys-solutions-engineering-principal-engineer-11960-austin"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Solutions Engineering, Staff Engineer-11959",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Solutions Engineering, Staff Engineer-11959 at Austin, Texas",
+    "job_apply_link": "https://careers.synopsys.com/job/austin/solutions-engineering-staff-engineer-11959/44408/83872176640",
+    "id": "synopsys-solutions-engineering-staff-engineer-11959-austin"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Software Engineering, Sr Staff Engineer",
+    "job_city": "Remote",
+    "job_state": "Remote",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Software Engineering, Sr Staff Engineer at ",
+    "job_apply_link": "https://careers.synopsys.com/job/united-states/software-engineering-sr-staff-engineer/44408/77746898912",
+    "id": "synopsys-software-engineering-sr-staff-engineer-remote"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "R&D Engineering, Staff Engineer-11967",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role R&D Engineering, Staff Engineer-11967 at Hillsboro, Oregon",
+    "job_apply_link": "https://careers.synopsys.com/job/hillsboro/r-and-d-engineering-staff-engineer-11967/44408/84432060224",
+    "id": "synopsys-r-d-engineering-staff-engineer-11967-hillsboro"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Cybersecurity Engineering, Principal Engineer – Data Security",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Cybersecurity Engineering, Principal Engineer – Data Security at Austin, Texas",
+    "job_apply_link": "https://careers.synopsys.com/job/austin/cybersecurity-engineering-principal-engineer-data-security/44408/84034521504",
+    "id": "synopsys-cybersecurity-engineering-principal-engineer-data-security-austin"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Applications Engineering, Sr Staff Engineer -",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "1 month ago",
+    "job_description": "hardware engineering job for the role Applications Engineering, Sr Staff Engineer - 10787 at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/applications-engineering-sr-staff-engineer-10787/44408/80359321808",
+    "id": "synopsys-applications-engineering-sr-staff-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Principal Applications Engineer (ASIC/SoC/IP Engineer)",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Principal Applications Engineer (ASIC/SoC/IP Engineer) at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/principal-applications-engineer-asic-soc-ip-engineer/44408/77257866976",
+    "id": "synopsys-principal-applications-engineer-asic-soc-ip-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Principal Product Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Principal Product Engineer at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/principal-product-engineer/44408/84936383040",
+    "id": "synopsys-principal-product-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Principal AI Engineer",
+    "job_city": "Remote",
+    "job_state": "Remote",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Principal AI Engineer at ",
+    "job_apply_link": "https://careers.synopsys.com/job/united-states/principal-ai-engineer/44408/81633303024",
+    "id": "synopsys-principal-ai-engineer-remote"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "R&D Engineering, Sr Staff Engineer -",
+    "job_city": "Boxborough",
+    "job_state": "Massachusetts",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role R&D Engineering, Sr Staff Engineer - 10360 at Boxborough, Massachusetts",
+    "job_apply_link": "https://careers.synopsys.com/job/boxborough/r-and-d-engineering-sr-staff-engineer-10360/44408/79282454208",
+    "id": "synopsys-r-d-engineering-sr-staff-engineer-boxborough"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "R&D Engineering, Sr Staff Engineer -",
+    "job_city": "United States Off-site",
+    "job_state": "United States Off-site",
+    "job_posted_at": "1 month ago",
+    "job_description": "hardware engineering job for the role R&D Engineering, Sr Staff Engineer - 10244 at United States Off-site",
+    "job_apply_link": "https://careers.synopsys.com/job/boxborough/r-and-d-engineering-sr-staff-engineer-10244/44408/79282454032",
+    "id": "synopsys-r-d-engineering-sr-staff-engineer-united-states-off-site"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Multi-Die Application Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Multi-Die Application Engineer at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/multi-die-application-engineer/44408/84961113120",
+    "id": "synopsys-multi-die-application-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Memory Interface Application Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Memory Interface Application Engineer at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/memory-interface-application-engineer/44408/84810951168",
+    "id": "synopsys-memory-interface-application-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Sr Staff Product Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Sr Staff Product Engineer at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/sr-staff-product-engineer/44408/84794609072",
+    "id": "synopsys-sr-staff-product-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "TCAD Applications Engineer, Staff",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role TCAD Applications Engineer, Staff at Austin, Texas",
+    "job_apply_link": "https://careers.synopsys.com/job/austin/tcad-applications-engineer-staff/44408/84534690832",
+    "id": "synopsys-tcad-applications-engineer-staff-austin"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Senior Director, SOC Engineering",
+    "job_city": "United States Off-site",
+    "job_state": "United States Off-site",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior Director, SOC Engineering at United States Off-site",
+    "job_apply_link": "https://careers.synopsys.com/job/plano/senior-director-soc-engineering/44408/84463327440",
+    "id": "synopsys-senior-director-soc-engineering-united-states-off-site"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Automotive Safety Staff Engineer",
+    "job_city": "United States Off-site",
+    "job_state": "United States Off-site",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Automotive Safety Staff Engineer at United States Off-site",
+    "job_apply_link": "https://careers.synopsys.com/job/united-states/automotive-safety-staff-engineer/44408/79936410816",
+    "id": "synopsys-automotive-safety-staff-engineer-united-states-off-site"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Principal Project Management Engineer",
+    "job_city": "Boxborough",
+    "job_state": "Massachusetts",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Principal Project Management Engineer at Boxborough, Massachusetts",
+    "job_apply_link": "https://careers.synopsys.com/job/boxborough/principal-project-management-engineer/44408/79496047792",
+    "id": "synopsys-principal-project-management-engineer-boxborough"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Senior R&D Engineer",
+    "job_city": "United States Off-site",
+    "job_state": "United States Off-site",
+    "job_posted_at": "2 days ago",
+    "job_description": "hardware engineering job for the role Senior R&D Engineer at United States Off-site",
+    "job_apply_link": "https://careers.synopsys.com/job/pasadena/senior-r-and-d-engineer/44408/79341378064",
+    "id": "synopsys-senior-r-d-engineer-united-states-off-site"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Principal Analog Design Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Principal Analog Design Engineer at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/principal-analog-design-engineer/44408/78313995952",
+    "id": "synopsys-principal-analog-design-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Staff Solutions Engineer-9830",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1 month ago",
+    "job_description": "hardware engineering job for the role Staff Solutions Engineer-9830 at Austin, Texas",
+    "job_apply_link": "https://careers.synopsys.com/job/austin/staff-solutions-engineer-9830/44408/78227815312",
+    "id": "synopsys-staff-solutions-engineer-9830-austin"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Principle RTL Design Engineer",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Principle RTL Design Engineer at Hillsboro, Oregon",
+    "job_apply_link": "https://careers.synopsys.com/job/hillsboro/principle-rtl-design-engineer/44408/77257867232",
+    "id": "synopsys-principle-rtl-design-engineer-hillsboro"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Senior Static Verification Applications Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Senior Static Verification Applications Engineer at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/senior-static-verification-applications-engineer/44408/84975424720",
+    "id": "synopsys-senior-static-verification-applications-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Mixed Signal IP Applications Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Mixed Signal IP Applications Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.synopsys.com/job/austin/mixed-signal-ip-applications-engineer/44408/84193430624",
+    "id": "synopsys-mixed-signal-ip-applications-engineer-austin"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Multi-Die Application Engineer, Principal",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Multi-Die Application Engineer, Principal at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/multi-die-application-engineer-principal/44408/84108539280",
+    "id": "synopsys-multi-die-application-engineer-principal-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Principal Software Engineer -",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Principal Software Engineer - 10154 at Hillsboro, Oregon",
+    "job_apply_link": "https://careers.synopsys.com/job/hillsboro/principal-software-engineer-10154/44408/79620098688",
+    "id": "synopsys-principal-software-engineer-hillsboro"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Senior Software R&D Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Senior Software R&D Engineer at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/senior-software-r-and-d-engineer/44408/79512545392",
+    "id": "synopsys-senior-software-r-d-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Senior DFT Solutions Engineer-10275",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior DFT Solutions Engineer-10275 at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/senior-dft-solutions-engineer-10275/44408/79064088864",
+    "id": "synopsys-senior-dft-solutions-engineer-10275-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Signal Integrity/ Power Integrity Engineer",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Signal Integrity/ Power Integrity Engineer at Hillsboro, Oregon",
+    "job_apply_link": "https://careers.synopsys.com/job/hillsboro/signal-integrity-power-integrity-engineer/44408/78321014320",
+    "id": "synopsys-signal-integrity-power-integrity-engineer-hillsboro"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Senior Staff ASIC Design Engineer",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Senior Staff ASIC Design Engineer at Hillsboro, Oregon",
+    "job_apply_link": "https://careers.synopsys.com/job/hillsboro/senior-staff-asic-design-engineer/44408/78313995984",
+    "id": "synopsys-senior-staff-asic-design-engineer-hillsboro"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Principal Engineer-Auto Routing-9888",
+    "job_city": "Remote",
+    "job_state": "Remote",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "hardware engineering job for the role Principal Engineer-Auto Routing-9888 at ",
+    "job_apply_link": "https://careers.synopsys.com/job/united-states/principal-engineer-auto-routing-9888/44408/78267187728",
+    "id": "synopsys-principal-engineer-auto-routing-9888-remote"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Sr. Staff IT Software Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "hardware engineering job for the role Sr. Staff IT Software Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.synopsys.com/job/austin/sr-staff-it-software-engineer/44408/77257866624",
+    "id": "synopsys-sr-staff-it-software-engineer-austin"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Staff Test & Validation Engineer-7672",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Staff Test & Validation Engineer-7672 at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/staff-test-and-validation-engineer-7672/44408/82369720736",
+    "id": "synopsys-staff-test-validation-engineer-7672-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "ASIC Digital Design, Sr Staff Engineer-10718",
+    "job_city": "Boxborough",
+    "job_state": "Massachusetts",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role ASIC Digital Design, Sr Staff Engineer-10718 at Boxborough, Massachusetts",
+    "job_apply_link": "https://careers.synopsys.com/job/boxborough/asic-digital-design-sr-staff-engineer-10718/44408/81515108624",
+    "id": "synopsys-asic-digital-design-sr-staff-engineer-10718-boxborough"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Project Engineering Management, Sr Staff -",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Project Engineering Management, Sr Staff - 10246 at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/project-engineering-management-sr-staff-10246/44408/79550726368",
+    "id": "synopsys-project-engineering-management-sr-staff-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Principal R&D Engineer - Physical Implementation-9965",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "4 days ago",
+    "job_description": "hardware engineering job for the role Principal R&D Engineer - Physical Implementation-9965 at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/principal-r-and-d-engineer-physical-implementation-9965/44408/80199370880",
+    "id": "synopsys-principal-r-d-engineer-physical-implementation-9965-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "R&D Engineering, Architect- 3DIC and Advanced Packaging SIPI",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role R&D Engineering, Architect- 3DIC and Advanced Packaging SIPI at Hillsboro, Oregon",
+    "job_apply_link": "https://careers.synopsys.com/job/hillsboro/r-and-d-engineering-architect-3dic-and-advanced-packaging-sipi/44408/78689573760",
+    "id": "synopsys-r-d-engineering-architect-3dic-and-advanced-packaging-sipi-hillsboro"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Senior Staff Applications Engineer (IC Design and/ or SoC Integration)",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior Staff Applications Engineer (IC Design and/ or SoC Integration) at Austin, Texas",
+    "job_apply_link": "https://careers.synopsys.com/job/austin/senior-staff-applications-engineer-ic-design-and-or-soc-integration/44408/84473611776",
+    "id": "synopsys-senior-staff-applications-engineer-ic-design-and-or-soc-integration-austin"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "CPU IP Development Manager",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role CPU IP Development Manager at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/cpu-ip-development-manager/44408/84975424944",
+    "id": "synopsys-cpu-ip-development-manager-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Physical Design Specialist",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Physical Design Specialist at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/physical-design-specialist/44408/84975424864",
+    "id": "synopsys-physical-design-specialist-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Senior Platform Architect",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Senior Platform Architect at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/senior-platform-architect/44408/84679364240",
+    "id": "synopsys-senior-platform-architect-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Memory Design Architect",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Memory Design Architect at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/memory-design-architect/44408/84473611936",
+    "id": "synopsys-memory-design-architect-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Digital IP R&D Design Verification Methodology Technical Lead",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Digital IP R&D Design Verification Methodology Technical Lead at Austin, Texas",
+    "job_apply_link": "https://careers.synopsys.com/job/austin/digital-ip-r-and-d-design-verification-methodology-technical-lead/44408/84438253904",
+    "id": "synopsys-digital-ip-r-d-design-verification-methodology-technical-lead-austin"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Sr Architect R&D- 3DIC Compiler",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Sr Architect R&D- 3DIC Compiler at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/sr-architect-r-and-d-3dic-compiler/44408/83898110672",
+    "id": "synopsys-sr-architect-r-d-3dic-compiler-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Principal Analog and Mixed-Signal Circuit Designer",
+    "job_city": "United States Off-site",
+    "job_state": "United States Off-site",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Principal Analog and Mixed-Signal Circuit Designer at United States Off-site",
+    "job_apply_link": "https://careers.synopsys.com/job/united-states/principal-analog-and-mixed-signal-circuit-designer/44408/80359321712",
+    "id": "synopsys-principal-analog-and-mixed-signal-circuit-designer-united-states-off-site"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Senior SOC Design Manager",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Senior SOC Design Manager at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/senior-soc-design-manager/44408/80077234464",
+    "id": "synopsys-senior-soc-design-manager-sunnyvale"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "DDR PHY Architect -",
+    "job_city": "Boxborough",
+    "job_state": "Massachusetts",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role DDR PHY Architect - 9490 at Boxborough, Massachusetts",
+    "job_apply_link": "https://careers.synopsys.com/job/boxborough/ddr-phy-architect-9490/44408/79247665776",
+    "id": "synopsys-ddr-phy-architect-boxborough"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Sr. Director Cyber Security Detection & Response",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1 month ago",
+    "job_description": "hardware engineering job for the role Sr. Director Cyber Security Detection & Response at Austin, Texas",
+    "job_apply_link": "https://careers.synopsys.com/job/austin/sr-director-cyber-security-detection-and-response/44408/78932395392",
+    "id": "synopsys-sr-director-cyber-security-detection-response-austin"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Principal AI Architect",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Principal AI Architect at Austin, Texas",
+    "job_apply_link": "https://careers.synopsys.com/job/austin/principal-ai-architect/44408/76922826448",
+    "id": "synopsys-principal-ai-architect-austin"
+  },
+  {
+    "employer_name": "APPLIED MATERIALS",
+    "job_title": "Engineering Technician ll",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Posted a month ago",
+    "job_description": "hardware engineering job for the role Engineering Technician ll at Austin,TX",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790300044031?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-engineering-technician-ll-austin"
+  },
+  {
+    "employer_name": "APPLIED MATERIALS",
+    "job_title": "Engineering Technician II - (T2) Weekend",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Posted 4 months ago",
+    "job_description": "hardware engineering job for the role Engineering Technician II - (T2) Weekend at Austin,TX",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790302045769?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-engineering-technician-ii-t2-weekend-austin"
+  },
+  {
+    "employer_name": "APPLIED MATERIALS",
+    "job_title": "Engineering Technician II - (T2) 1st Shift",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "hardware engineering job for the role Engineering Technician II - (T2) 1st Shift at Austin,TX",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790301927060?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-engineering-technician-ii-t2-1st-shift-austin"
+  },
+  {
+    "employer_name": "APPLIED MATERIALS",
+    "job_title": "Engineering Technician II - (T2) 2nd Shift",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Posted 8 days ago",
+    "job_description": "hardware engineering job for the role Engineering Technician II - (T2) 2nd Shift at Austin,TX",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790300186874?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-engineering-technician-ii-t2-2nd-shift-austin"
+  },
+  {
+    "employer_name": "APPLIED MATERIALS",
+    "job_title": "Engineering Technician - (T2)",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Posted 4 months ago",
+    "job_description": "hardware engineering job for the role Engineering Technician - (T2) at Austin,TX",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790301929017?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-engineering-technician-t2-austin"
+  },
+  {
+    "employer_name": "APPLIED MATERIALS",
+    "job_title": "Engineering Technician II - (T2) - Weekend 1st Shift",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Posted 4 months ago",
+    "job_description": "hardware engineering job for the role Engineering Technician II - (T2) - Weekend 1st Shift at Austin,TX",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790301391225?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-engineering-technician-ii-t2-weekend-1st-shift-austin"
+  },
+  {
+    "employer_name": "APPLIED MATERIALS",
+    "job_title": "Engineering Technician III - (T3)",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Posted 4 months ago",
+    "job_description": "hardware engineering job for the role Engineering Technician III - (T3) at Austin,TX",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790301927087?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-engineering-technician-iii-t3-austin"
+  },
+  {
+    "employer_name": "APPLIED MATERIALS",
+    "job_title": "Engineering Technician III - (T3)",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted 2 days ago",
+    "job_description": "hardware engineering job for the role Engineering Technician III - (T3) at Santa Clara,CA",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790304279889?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-engineering-technician-iii-t3-santa-clara"
   }
 ]
