@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Analog Engineer",
-    "job_city": "Mountain View",
+    "employer_name": "CISCO",
+    "job_title": "ASIC Engineering Technical Leader - SDC",
+    "job_city": "San Jose",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Analog Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859892/Principal-Analog-Engineer",
-    "id": "microsoft-principal-analog-engineer-mountain-view"
+    "job_description": "hardware engineering job for the role ASIC Engineering Technical Leader - SDC at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/ASIC-Engineering-Technical-Leader-SDC/1434557",
+    "id": "cisco-asic-engineering-technical-leader-sdc-san-jose"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Embedded Engineer-(Linux)",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Embedded Engineer-(Linux) at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Embedded-Engineer-Linux/1444964",
+    "id": "cisco-embedded-engineer-linux-san-jose"
   }
 ]
