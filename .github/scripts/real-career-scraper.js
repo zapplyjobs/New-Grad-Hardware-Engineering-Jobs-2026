@@ -1,11 +1,6 @@
 const fs = require("fs");
 const { generateJobId } = require("./job-fetcher/utils");
-// const scrapeAmazonJobs = require('../../jobboard/src/backend/platforms/amazon/amazonScraper');
-// const googleScraper = require('../../jobboard/src/backend/platforms/google/googleScraper');
-// const scrapeMetaJobs = require('../../jobboard/src/backend/platforms/meta/metaScraper');
-// const microsoftScraper = require('../../jobboard/src/backend/platforms/microsoft/microsoftScraper');
-// const scrapeUberJobs = require('../../jobboard/src/backend/platforms/uber/uberScraper');
-// const scrapeSlackJobs = require('../../jobboard/src/backend/platforms/slack/slackScraper');
+
 const scrapeAmazonJobs = require("../../jobboard/src/backend/platforms/amazon/amazonScraper");
 const googleScraper = require("../../jobboard/src/backend/platforms/google/googleScraper");
 const scrapeMetaJobs = require("../../jobboard/src/backend/platforms/meta/metaScraper");
@@ -22,6 +17,10 @@ const siemensScraper = require("../../jobboard/src/backend/platforms/siemen/siem
 const analogScraper = require("../../jobboard/src/backend/platforms/analog/analogScraper");
 const MarvelScraper = require("../../jobboard/src/backend/platforms/marvel/marvelScraper");
 const aijobsScraper = require("../../jobboard/src/backend/platforms/ai/aijobsScraper");
+const waymoScraper = require("../../jobboard/src/backend/platforms/waymo/waymoScraper");
+const illuminaScraper = require("../../jobboard/src/backend/platforms/illumina/illuminaScraper");
+const synopsysScraper = require("../../jobboard/src/backend/platforms/synopsys/synopsysScraper");
+const appliedMaterialsScraper = require("../../jobboard/src/backend/platforms/appliedMaterials/appliedMaterialsScraper");
 
 // Load company database
 const companies = JSON.parse(
@@ -504,6 +503,10 @@ async function fetchAllRealJobs() {
     analog_Hardware,
     Marvel_Hardware,
     aijobs_Hardware,
+    waymo_Hardware,
+    illumina_Hardware,
+    synopsys_Hardware,
+    appliedMaterials_Hardware
   ] = await Promise.all([
     scrapeAmazonJobs("hardware engineering").catch(err => { console.error('❌ Amazon scraper failed:', err.message); return []; }),
     scrapeMetaJobs("hardware engineering").catch(err => { console.error('❌ Meta scraper failed:', err.message); return []; }),
@@ -520,6 +523,10 @@ async function fetchAllRealJobs() {
     analogScraper("hardware engineering").catch(err => { console.error('❌ Analog Devices scraper failed:', err.message); return []; }),
     MarvelScraper("hardware engineering").catch(err => { console.error('❌ Marvel scraper failed:', err.message); return []; }),
     aijobsScraper("hardware engineering").catch(err => { console.error('❌ AI Jobs scraper failed:', err.message); return []; }),
+    waymoScraper("hardware engineering").catch(err => { console.error('❌ Waymo scraper failed:', err.message); return []; }),
+    illuminaScraper("hardware engineering").catch(err => { console.error('❌ Illumina scraper failed:', err.message); return []; }),
+    synopsysScraper("hardware engineering").catch(err => { console.error('❌ Synopsys scraper failed:', err.message); return []; }),
+    appliedMaterialsScraper("hardware engineering").catch(err => { console.error('❌ Applied Materials scraper failed:', err.message); return []; }),
   ]);
 
   allJobs.push(
@@ -537,7 +544,12 @@ async function fetchAllRealJobs() {
     ...siemens_Hardware,
     ...analog_Hardware,
     ...Marvel_Hardware,
-    ...aijobs_Hardware
+    ...aijobs_Hardware,
+    ...waymo_Hardware,
+    ...illumina_Hardware,
+    ...synopsys_Hardware,
+    ...appliedMaterials_Hardware
+
   );
 
   const companiesWithAPIs = Object.keys(CAREER_APIS);
