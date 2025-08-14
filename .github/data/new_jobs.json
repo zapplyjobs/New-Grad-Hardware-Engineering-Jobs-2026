@@ -1,12 +1,52 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Thermo-Mechanical Engineer",
+    "job_city": "Chandler",
+    "job_state": "Arizona",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Thermo-Mechanical Engineer at Chandler, Arizona",
+    "job_apply_link": "https://careers.arm.com/job/chandler/principal-thermo-mechanical-engineer/33099/84709712816",
+    "id": "arm-thermo-mechanical-engineer-chandler"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Validation Engineer",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Principal Validation Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-validation-engineer/33099/84494310496",
+    "id": "arm-validation-engineer-bengaluru"
+  },
+  {
     "employer_name": "Micron",
-    "job_title": "Facilities Mechanical Engineer",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "Posted 17 hours ago",
-    "job_description": "hardware engineering job for the role Facilities Mechanical Engineer at Manassas, Virginia, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30778721",
-    "id": "micron-facilities-mechanical-engineer-manassas"
+    "job_title": "Sr. Segment Marketing Manager - SSD & DRAM",
+    "job_city": "Longmont",
+    "job_state": "Colorado",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "hardware engineering job for the role Sr. Segment Marketing Manager - SSD & DRAM at Longmont, Colorado, United States of America + 2 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/30260849",
+    "id": "micron-sr-segment-marketing-manager-ssd-dram-longmont"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Wet Mechanical System Design Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "hardware engineering job for the role Wet Mechanical System Design Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30765210",
+    "id": "micron-wet-mechanical-system-design-engineer-boise"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Account Executive- Portfolio SLED North Carolina",
+    "job_city": "RTP",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Account Executive- Portfolio SLED North Carolina at RTP, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Account-Executive-Portfolio-SLED-North-Carolina/1448345",
+    "id": "cisco-account-executive-portfolio-sled-north-carolina-rtp"
   }
 ]
