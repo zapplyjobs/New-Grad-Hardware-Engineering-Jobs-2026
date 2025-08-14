@@ -21,7 +21,11 @@ const waymoScraper = require("../../jobboard/src/backend/platforms/waymo/waymoSc
 const illuminaScraper = require("../../jobboard/src/backend/platforms/illumina/illuminaScraper");
 const synopsysScraper = require("../../jobboard/src/backend/platforms/synopsys/synopsysScraper");
 const appliedMaterialsScraper = require("../../jobboard/src/backend/platforms/appliedMaterials/appliedMaterialsScraper");
-
+const cloudflareScraper =require('../../jobboard/src/backend/platforms/cloudflare/cloudflareScraper');
+const genomicsScraper=require('../../jobboard/src/backend/platforms/genomics/genomicsScraper');
+const rivianScraper=require('../../jobboard/src/backend/platforms/rivian/rivianScraper');
+const jpmcScraper=require('../../jobboard/src/backend/platforms/jpmc/jpmcScraper');
+const cruiseJobsScraper=require('../../jobboard/src/backend/platforms/cruise/cruiseJobsScraper');
 // Load company database
 const companies = JSON.parse(
   fs.readFileSync("./.github/scripts/job-fetcher/companies.json", "utf8")
@@ -527,6 +531,26 @@ async function fetchAllRealJobs() {
     illuminaScraper("hardware engineering").catch(err => { console.error('❌ Illumina scraper failed:', err.message); return []; }),
     synopsysScraper("hardware engineering").catch(err => { console.error('❌ Synopsys scraper failed:', err.message); return []; }),
     appliedMaterialsScraper("hardware engineering").catch(err => { console.error('❌ Applied Materials scraper failed:', err.message); return []; }),
+    cloudflareScraper("Hardware").catch((err) => {
+      console.error("❌ Cloudflare scraper failed:", err.message);
+      return [];
+    }),
+    genomicsScraper('Hardware').catch((err) => {
+      console.error("❌ Genomics scraper failed:", err.message);
+      return [];
+    }),
+    rivianScraper('Hardware').catch((err) => {
+      console.error("❌ Rivian scraper failed:", err.message);
+      return [];
+    }),
+    jpmcScraper('Hardware').catch((err) => {
+      console.error("❌ JPMorgan Chase scraper failed:", err.message);
+      return [];
+    }),
+    cruiseJobsScraper('Hardware').catch((err) => {
+      console.error("❌ Cruise scraper failed:", err.message);
+      return [];
+    })
   ]);
 
   allJobs.push(
