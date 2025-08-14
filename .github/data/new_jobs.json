@@ -1,42 +1,32 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Technical Program Manager",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Technical Program Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1832368/Principal-Technical-Program-Manager",
-    "id": "microsoft-principal-technical-program-manager-multiple-locations"
+    "employer_name": "Micron",
+    "job_title": "Sr. Manager, Solutions Architecture",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 14 days ago",
+    "job_description": "hardware engineering job for the role Sr. Manager, Solutions Architecture at Austin, Texas, United States of America + 2 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/30541054",
+    "id": "micron-sr-manager-solutions-architecture-austin"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Product Manager",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Product Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1836179/Senior-Product-Manager",
-    "id": "microsoft-senior-product-manager-multiple-locations"
+    "employer_name": "SYNOPSYS",
+    "job_title": "SOC Verification Engineer",
+    "job_city": "United States Off-site",
+    "job_state": "United States Off-site",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role SOC Verification Engineer at United States Off-site",
+    "job_apply_link": "https://careers.synopsys.com/job/austin/soc-verification-engineer/44408/84643890720",
+    "id": "synopsys-soc-verification-engineer-united-states-off-site"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Electrical Engineer",
-    "job_city": "Wenatchee",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Electrical Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1788037/Electrical-Engineer",
-    "id": "microsoft-electrical-engineer-wenatchee"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Mechanical Supplier Quality Engineer",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Mechanical Supplier Quality Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1793927/Mechanical-Supplier-Quality-Engineer",
-    "id": "microsoft-mechanical-supplier-quality-engineer-redmond"
+    "employer_name": "SYNOPSYS",
+    "job_title": "RTL-GDSII Application Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role RTL-GDSII Application Engineer at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/rtl-gdsii-application-engineer/44408/85010964224",
+    "id": "synopsys-rtl-gdsii-application-engineer-sunnyvale"
   }
 ]
