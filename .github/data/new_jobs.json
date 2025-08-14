@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "DFT Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior DFT Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-dft-engineer/33099/81422540960",
+    "id": "arm-dft-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Design Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Staff Design Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-design-engineer/33099/73937945920",
+    "id": "arm-design-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Embedded Systems Software Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Embedded Systems Software Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-embedded-systems-software-engineer/33099/76924461376",
+    "id": "arm-embedded-systems-software-engineer-cambridge"
+  }
+]
