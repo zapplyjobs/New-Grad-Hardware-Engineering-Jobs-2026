@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Hardware Engineer",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "CISCO",
+    "job_title": "Supply Chain Transformation: Data Governance Program Manager",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Hardware Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849297/Hardware-Engineer",
-    "id": "microsoft-hardware-engineer-redmond"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Redmond",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Mechanical Engineer: Internship Opportunities. Level: All Levels. Posted: Recently. Full Title: Mechanical Engineer: Internship Opportunities - Redmond",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861280/Mechanical-Engineer%3A-Internship-Opportunities---Redmond",
-    "id": "microsoft-redmond-redmond"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Power Electronics Engineer – Battery Charger Development",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "55min ago",
-    "job_description": "hardware engineering job for the role Power Electronics Engineer – Battery Charger Development at Palo Alto, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/154267089-power-electronics-engineer-battery-charger-development",
-    "id": "aijobs-power-electronics-engineer-battery-charger-development-us"
+    "job_description": "hardware engineering job for the role Supply Chain Transformation: Data Governance Program Manager at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Supply-Chain-Transformation-Data-Governance-Program-Manager/1442459",
+    "id": "cisco-supply-chain-transformation-data-governance-program-manager-san-jose"
   }
 ]
