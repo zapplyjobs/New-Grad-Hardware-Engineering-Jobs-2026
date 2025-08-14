@@ -25,7 +25,7 @@ const cloudflareScraper =require('../../jobboard/src/backend/platforms/cloudflar
 const genomicsScraper=require('../../jobboard/src/backend/platforms/genomics/genomicsScraper');
 const rivianScraper=require('../../jobboard/src/backend/platforms/rivian/rivianScraper');
 const jpmcScraper=require('../../jobboard/src/backend/platforms/jpmc/jpmcScraper');
-const cruiseJobsScraper=require('../../jobboard/src/backend/platforms/cruise/cruiseJobsScraper');
+const cruiseJobsScraper=require('../../jobboard/src/backend/platforms/cruise/cruiseScraper')
 // Load company database
 const companies = JSON.parse(
   fs.readFileSync("./.github/scripts/job-fetcher/companies.json", "utf8")
