@@ -1,142 +1,42 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Principal Security Engineer",
+    "job_title": "Principal Technical Program Manager",
     "job_city": "Multiple Locations",
     "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Security Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860788/Principal-Security-Engineer",
-    "id": "microsoft-principal-security-engineer-multiple-locations"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Technical Program Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1832368/Principal-Technical-Program-Manager",
+    "id": "microsoft-principal-technical-program-manager-multiple-locations"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Software Performance Analysis Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
+    "employer_name": "Microsoft",
+    "job_title": "Senior Product Manager",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Software Performance Analysis Engineer at Cambridge, United Kingdom, Manchester, United Kingdom, Budapest, Hungary",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-performance-analysis-engineer/33099/74720022336",
-    "id": "arm-software-performance-analysis-engineer-cambridge"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Product Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1836179/Senior-Product-Manager",
+    "id": "microsoft-senior-product-manager-multiple-locations"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "System Software Engineer - GPU",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role System Software Engineer - GPU at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/147814836-system-software-engineer-gpu",
-    "id": "aijobs-system-software-engineer-gpu-santa-clara"
+    "employer_name": "Microsoft",
+    "job_title": "Electrical Engineer",
+    "job_city": "Wenatchee",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Electrical Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1788037/Electrical-Engineer",
+    "id": "microsoft-electrical-engineer-wenatchee"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Technical Program Manager at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/153968809-technical-program-manager",
-    "id": "aijobs-technical-program-manager-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Manufacturing Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Product Manufacturing Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/153968803-product-manufacturing-engineer",
-    "id": "aijobs-product-manufacturing-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Go-to-Market Product Manager - Ecosystem ODM Enablement",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Go-to-Market Product Manager - Ecosystem ODM Enablement at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/153966858-go-to-market-product-manager-ecosystem-odm-enablement",
-    "id": "aijobs-go-to-market-product-manager-ecosystem-odm-enablement-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "High-Speed IO Validation Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior High-Speed IO Validation Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/153966860-senior-high-speed-io-validation-engineer",
-    "id": "aijobs-high-speed-io-validation-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Mechanical and Thermal Program Manager",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Mechanical and Thermal Program Manager at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/153966859-mechanical-and-thermal-program-manager",
-    "id": "aijobs-mechanical-and-thermal-program-manager-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Power Integrity Engineer",
-    "job_city": "Westford",
-    "job_state": "MA",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Senior Power Integrity Engineer at US, MA, Westford",
-    "job_apply_link": "https://www.aijobs.com/jobs/153966854-senior-power-integrity-engineer",
-    "id": "aijobs-power-integrity-engineer-westford"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Research Empowerment Infrastructure Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Research Empowerment Infrastructure Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/153968796-research-empowerment-infrastructure-engineer",
-    "id": "aijobs-research-empowerment-infrastructure-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Land Development Lead, Superintelligence Infrastructure - Stargate",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Land Development Lead, Superintelligence Infrastructure - Stargate at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/153968804-land-development-lead-superintelligence-infrastructure-stargate",
-    "id": "aijobs-land-development-lead-superintelligence-infrastructure-stargate-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Security Engineer, Agent Security",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Security Engineer, Agent Security at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/153968799-security-engineer-agent-security",
-    "id": "aijobs-security-engineer-agent-security-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "PCB Design For Manufacturing Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior PCB Design For Manufacturing Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/153966857-senior-pcb-design-for-manufacturing-engineer",
-    "id": "aijobs-pcb-design-for-manufacturing-engineer-santa-clara"
-  },
-  {
-    "employer_name": "SYNOPSYS",
-    "job_title": "Signal Integrity Architect",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Signal Integrity Architect at ",
-    "job_apply_link": "https://careers.synopsys.com/job/united-states/signal-integrity-architect/44408/84148012208",
-    "id": "synopsys-signal-integrity-architect-remote"
+    "employer_name": "Microsoft",
+    "job_title": "Mechanical Supplier Quality Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Mechanical Supplier Quality Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1793927/Mechanical-Supplier-Quality-Engineer",
+    "id": "microsoft-mechanical-supplier-quality-engineer-redmond"
   }
 ]
