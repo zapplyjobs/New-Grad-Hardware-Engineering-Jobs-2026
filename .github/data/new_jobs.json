@@ -1,32 +1,23 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Sr. Manager, Solutions Architecture",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Posted 14 days ago",
-    "job_description": "hardware engineering job for the role Sr. Manager, Solutions Architecture at Austin, Texas, United States of America + 2 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/30541054",
-    "id": "micron-sr-manager-solutions-architecture-austin"
+    "job_title": "Systems Development Engineer, AWS Hardware Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Systems Development Engineer, AWS Hardware Engineering at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3005673/systems-development-engineer-aws-hardware-engineering",
+    "job_posted_at": "2025-08-14T00:23:35.335Z",
+    "job_posted_at_datetime_utc": "2025-08-14T00:23:35.335Z",
+    "id": "amazon-systems-development-engineer-aws-hardware-engineering-seattle"
   },
   {
-    "employer_name": "SYNOPSYS",
-    "job_title": "SOC Verification Engineer",
-    "job_city": "United States Off-site",
-    "job_state": "United States Off-site",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role SOC Verification Engineer at United States Off-site",
-    "job_apply_link": "https://careers.synopsys.com/job/austin/soc-verification-engineer/44408/84643890720",
-    "id": "synopsys-soc-verification-engineer-united-states-off-site"
-  },
-  {
-    "employer_name": "SYNOPSYS",
-    "job_title": "RTL-GDSII Application Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "California",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role RTL-GDSII Application Engineer at Sunnyvale, California",
-    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/rtl-gdsii-application-engineer/44408/85010964224",
-    "id": "synopsys-rtl-gdsii-application-engineer-sunnyvale"
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation Systems Specialist",
+    "job_city": "Plymouth",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Building Automation Systems Specialist at Plymouth, Michigan, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-systems-specialist-plymouth"
   }
 ]
