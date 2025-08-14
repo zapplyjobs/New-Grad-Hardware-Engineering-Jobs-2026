@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "ID1 Equipment Maintenance Technician (Idaho Fab 1)",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 15 hours ago",
-    "job_description": "hardware engineering job for the role ID1 Equipment Maintenance Technician (Idaho Fab 1) at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/28195899",
-    "id": "micron-id1-equipment-maintenance-technician-idaho-fab-1-boise"
+    "employer_name": "INFINEON",
+    "job_title": "Product Application Engineer",
+    "job_city": "El Segundo",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Product Application Engineer at El Segundo",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-product-application-engineer-el-segundo"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Engineer, Equipment",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 15 hours ago",
-    "job_description": "hardware engineering job for the role Engineer, Equipment at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30553016",
-    "id": "micron-engineer-equipment-boise"
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation Service Specialist",
+    "job_city": "Worthington",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Building Automation Service Specialist at Worthington, Ohio, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-service-specialist-worthington"
   }
 ]
