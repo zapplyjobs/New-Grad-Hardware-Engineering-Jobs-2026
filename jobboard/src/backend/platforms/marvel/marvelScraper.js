@@ -113,12 +113,12 @@ async function marvelScraper(searchQuery, maxPages = 10) {
       if (pageNum === 1) {
         console.log(`Searching for: "${searchQuery}"`);
         console.log(`Navigating to: ${searchUrl}`);
-        await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 30000 });
+        await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 300000 });
       }
       
       // Wait for job listings to load
       try {
-        await page.waitForSelector('li.css-1q2dra3', { timeout: 10000 });
+        await page.waitForSelector('li.css-1q2dra3', { timeout: 100000 });
       } catch (error) {
         console.log(`No jobs found on page ${pageNum}, stopping...`);
         break;
@@ -249,7 +249,7 @@ async function marvelScraper(searchQuery, maxPages = 10) {
     await browser.close();
   }
   
-  console.log(`\nScraping completed! Found ${allJobs.length} total jobs.`);
+  console.log(`\n MARVEL Scraping completed! Found ${allJobs.length} total jobs.`);
   return allJobs;
 }
 

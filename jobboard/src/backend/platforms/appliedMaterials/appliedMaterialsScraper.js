@@ -92,7 +92,7 @@ async function appliedMaterialsScraper(searchQuery, maxPages = 10) {
 
       // Wait for job results
       try {
-        await page.waitForSelector("div[class*='cardContainer']", { timeout: 15000 });
+        await page.waitForSelector("div[class*='cardContainer']", { timeout: 150000 });
       } catch (error) {
         console.log(`No jobs found on page ${pageNumber}, stopping...`);
         break;
@@ -183,7 +183,7 @@ async function appliedMaterialsScraper(searchQuery, maxPages = 10) {
     await browser.close();
   }
 
-  console.log(`\n🎉 Multi-page scraping completed! Found ${allJobs.length} total jobs across all pages.`);
+  console.log(`\n🎉 APPLIED MATERIALS Multi-page scraping completed! Found ${allJobs.length} total jobs across all pages.`);
   return allJobs;
 }
 

@@ -65,7 +65,7 @@ async function micronScraper(searchQuery, maxPages = 10) {
       
       // Wait for job cards to load
       try {
-        await page.waitForSelector('div.cardContainer-GcY1a', { timeout: 10000 });
+        await page.waitForSelector('div.cardContainer-GcY1a', { timeout: 100000 });
       } catch (error) {
         console.log(`No jobs found on page ${pageNum + 1}, stopping...`);
         break;
@@ -171,7 +171,7 @@ async function main() {
     
     console.log(`=== Scraping Micron Careers for: "${searchQuery}" ===`);
     const jobs = await micronScraper(searchQuery, 10);
-    console.log(`\n🎉 Scraping completed! Found ${jobs.length} jobs for "${searchQuery}"`);
+    console.log(`\n🎉MICRON Scraping completed! Found ${jobs.length} jobs for "${searchQuery}"`);
     
     // Display all scraped jobs
     if (jobs.length > 0) {

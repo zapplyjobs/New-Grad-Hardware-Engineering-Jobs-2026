@@ -101,7 +101,7 @@ async function scrapeAmazonJobs(specificJobTitle = null) {
             
             await page.goto(url, {
                 waitUntil: 'networkidle2',
-                timeout: 10000
+                timeout: 100000
             });
 
             const jobs = await page.evaluate(() => {

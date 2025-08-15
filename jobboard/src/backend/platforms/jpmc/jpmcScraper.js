@@ -154,7 +154,7 @@ async function jpmcScraper(searchQuery, maxPages = 10) {
     
     // Wait for job listings to load
     try {
-      await page.waitForSelector('li', { timeout: 10000 });
+      await page.waitForSelector('li', { timeout: 100000 });
     } catch (error) {
       console.log('No jobs found, stopping...');
       return allJobs;
@@ -316,7 +316,7 @@ async function main() {
     
     console.log(`=== Scraping jpmcScraper Careers for: "${searchQuery}" (10 pages max) ===`);
     const jobs = await jpmcScraper(searchQuery, 10);
-    console.log(`\n🎉 Scraping completed! Found ${jobs.length} jobs for "${searchQuery}"`);
+    console.log(`\n🎉JPMC Scraping completed! Found ${jobs.length} jobs for "${searchQuery}"`);
     
     // Display all scraped jobs
     if (jobs.length > 0) {

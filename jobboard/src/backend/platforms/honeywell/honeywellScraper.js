@@ -134,7 +134,25 @@ function convertDateToRelative(dateStr) {
 async function honeywellScraper(searchQuery, maxPages = 10) {
   const browser = await puppeteer.launch({
     headless: true, // Set to true for production
-    args: ['--no-sandbox', '--disable-setuid-sandbox']
+    args: [  '--no-sandbox', 
+      '--disable-setuid-sandbox',
+      '--disable-images', // Disable images for optimization
+      '--disable-javascript', // Keep JS enabled for interactions
+      '--disable-plugins',
+      '--disable-extensions',
+       
+      
+      "--disable-dev-shm-usage",
+      "--disable-gpu",
+      "--no-first-run",
+      "--disable-extensions",
+      "--disable-background-timer-throttling",
+      "--disable-backgrounding-occluded-windows",
+      "--disable-renderer-backgrounding",
+      "--disable-web-security",
+      "--disable-features=TranslateUI",
+      "--disable-ipc-flooding-protection"
+    ]
   });
 
   const page = await browser.newPage();
@@ -151,11 +169,11 @@ async function honeywellScraper(searchQuery, maxPages = 10) {
     
     console.log(`Searching for: "${searchQuery}"`);
     console.log(`Navigating to: ${searchUrl}`);
-    await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 30000 });
+    await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 300000 });
     
     // Wait for job listings to load
     try {
-      await page.waitForSelector('li', { timeout: 10000 });
+      await page.waitForSelector('li', { timeout: 100000 });
     } catch (error) {
       console.log('No jobs found, stopping...');
       return allJobs;
@@ -285,7 +303,7 @@ async function honeywellScraper(searchQuery, maxPages = 10) {
     await browser.close();
   }
   
-  console.log(`\nScraping completed! Found ${allJobs.length} total jobs.`);
+  console.log(`\n HONEYWELL Scraping completed! Found ${allJobs.length} total jobs.`);
   return allJobs;
 }
 

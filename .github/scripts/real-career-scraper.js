@@ -632,11 +632,9 @@ async function fetchAllRealJobs() {
     ...illumina_Hardware,
     ...synopsys_Hardware,
     ...appliedMaterials_Hardware,
-    
     ...genomics_Hardware,
     ...rivian_Hardware, 
     ...jpmc_Hardware,
-   
     ...honeywell_Hardware
   );
 

@@ -97,7 +97,7 @@ await page.setViewport({ width: 1366, height: 768 });
 
       // Wait for job cards to load first
       try {
-        await page.waitForSelector("div.job-card-container.list", { timeout: 10000 });
+        await page.waitForSelector("div.job-card-container.list", { timeout: 100000 });
       } catch (error) {
         console.log(`No jobs found on page, stopping...`);
         break;
@@ -318,7 +318,7 @@ await page.setViewport({ width: 1366, height: 768 });
     await browser.close();
   }
 
-  console.log(`\n🎉 Scraping completed! Found ${allJobs.length} total jobs.`);
+  console.log(`\n🎉SIEMEN Scraping completed! Found ${allJobs.length} total jobs.`);
   return allJobs;
 }
 
