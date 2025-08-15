@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Tech Lead",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "employer_name": "Microsoft",
+    "job_title": "Systems Engineer",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
     "job_posted_at": "Recently",
-    "job_description": "26 Category: Hardware Engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Tech Lead, C++ Ecosystem Safety",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/115621759062811334-senior-tech-lead-c-ecosystem-safety?q=%22Hardware+Engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-senior-tech-lead-sunnyvale"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Systems Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861541/Systems-Engineer",
+    "id": "microsoft-systems-engineer-hillsboro"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Tester Applications Engineer - SSD",
+    "employer_name": "CISCO",
+    "job_title": "Software Engineer, Enterprise Switching",
     "job_city": "San Jose",
     "job_state": "California",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "hardware engineering job for the role Tester Applications Engineer - SSD at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30778724",
-    "id": "micron-tester-applications-engineer-ssd-san-jose"
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer, Enterprise Switching at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Enterprise-Switching/1444505",
+    "id": "cisco-software-engineer-enterprise-switching-san-jose"
+  },
+  {
+    "employer_name": "10x Genomics",
+    "job_title": "Head of Integrated Marketing Communications",
+    "job_city": "Pleasanton",
+    "job_state": "California",
+    "job_posted_at": "4 months ago",
+    "job_description": "Hardware position at 10x Genomics - Head of Integrated Marketing Communications",
+    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171826755666",
+    "id": "10x-genomics-head-of-integrated-marketing-communications-pleasanton"
   }
 ]
