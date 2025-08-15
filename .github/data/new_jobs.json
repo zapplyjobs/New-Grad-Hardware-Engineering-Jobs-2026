@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Systems Engineer",
-    "job_city": "Hillsboro",
-    "job_state": "Oregon",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Systems Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861541/Systems-Engineer",
-    "id": "microsoft-systems-engineer-hillsboro"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "Software Engineer, Enterprise Switching",
-    "job_city": "San Jose",
+    "employer_name": "WAYMO",
+    "job_title": "Vehicle Interior Engineering Specialist",
+    "job_city": "Mountain View",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer, Enterprise Switching at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Enterprise-Switching/1444505",
-    "id": "cisco-software-engineer-enterprise-switching-san-jose"
-  },
-  {
-    "employer_name": "10x Genomics",
-    "job_title": "Head of Integrated Marketing Communications",
-    "job_city": "Pleasanton",
-    "job_state": "California",
-    "job_posted_at": "4 months ago",
-    "job_description": "Hardware position at 10x Genomics - Head of Integrated Marketing Communications",
-    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171826755666",
-    "id": "10x-genomics-head-of-integrated-marketing-communications-pleasanton"
+    "job_description": "hardware engineering job for the role Vehicle Interior Engineering Specialist at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/vehicle-interior-engineering-specialist-mountain-view-california-united-states",
+    "id": "waymo-vehicle-interior-engineering-specialist-mountain-view"
   }
 ]
