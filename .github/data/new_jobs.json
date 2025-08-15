@@ -1,23 +1,12 @@
 [
   {
-    "job_title": "DC Infra Eng II - AMZ9085047",
-    "employer_name": "Amazon",
-    "job_city": "Umatilla",
-    "job_state": "OR",
-    "job_description": "hardware engineering job for the role DC Infra Eng II - AMZ9085047 at Umatilla, OR, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3057142/dc-infra-eng-ii-amz9085047",
-    "job_posted_at": "2025-08-14T14:22:22.094Z",
-    "job_posted_at_datetime_utc": "2025-08-14T14:22:22.094Z",
-    "id": "amazon-dc-infra-eng-ii-amz9085047-umatilla"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Senior Building Automation Service Specialist",
-    "job_city": "Norcross",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Building Automation Service Specialist at Norcross, Georgia, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-senior-building-automation-service-specialist-norcross"
+    "employer_name": "Micron",
+    "job_title": "Facilities Software Engineer - SCADA",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 15 hours ago",
+    "job_description": "hardware engineering job for the role Facilities Software Engineer - SCADA at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30766249",
+    "id": "micron-facilities-software-engineer-scada-boise"
   }
 ]
