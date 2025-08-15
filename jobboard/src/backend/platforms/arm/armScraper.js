@@ -50,11 +50,11 @@ async function armScraper(searchQuery, maxPages = 10) {
       
       console.log(`Searching for: "${searchQuery}"`);
       console.log(`Navigating to: ${searchUrl}`);
-      await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 30000 });
+      await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 300000 });
       
       // Wait for job cards to load
       try {
-        await page.waitForSelector('li.job-card.fs-start.fs-middle.fs-container.custom-row-gap-1', { timeout: 10000 });
+        await page.waitForSelector('li.job-card.fs-start.fs-middle.fs-container.custom-row-gap-1', { timeout: 100000 });
       } catch (error) {
         console.log(`No jobs found on page ${pageNum}, stopping...`);
         break;
