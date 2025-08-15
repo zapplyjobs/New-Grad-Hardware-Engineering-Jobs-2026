@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Senior Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860070/Senior-Engineer%2C-Circuit-Design",
+    "id": "microsoft-senior-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "QA Firmware Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior QA Firmware Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-qa-firmware-engineer/33099/85068124496",
+    "id": "arm-qa-firmware-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Software Engineer-Networking for AI",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Software Engineer-Networking for AI at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-engineer-networking-for-ai/33099/81797177488",
+    "id": "arm-software-engineer-networking-for-ai-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Principal Architect, High Speed Interface",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior Principal Architect, High Speed Interface at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-architect-high-speed-interface/33099/80744330976",
+    "id": "arm-principal-architect-high-speed-interface-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "BMC Firmware Design Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior BMC Firmware Design Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-bmc-firmware-design-engineer/33099/85068124656",
+    "id": "arm-bmc-firmware-design-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Director of Product Management, Infrastructure AI / ML",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Director of Product Management, Infrastructure AI / ML at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/director-of-product-management-infrastructure-ai-ml/33099/85067784144",
+    "id": "arm-director-of-product-management-infrastructure-ai-ml-multiple"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Advanced Packaging Technology Development (APTD) Shift Lead Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 19 hours ago",
+    "job_description": "hardware engineering job for the role Advanced Packaging Technology Development (APTD) Shift Lead Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/29864433",
+    "id": "micron-advanced-packaging-technology-development-aptd-shift-lead-engineer-boise"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Solutions Engineer - Web",
+    "job_city": "Offsite",
+    "job_state": "San Jose",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Solutions Engineer - Web at Offsite, San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Solutions-Engineer-Web/1448738",
+    "id": "cisco-solutions-engineer-web-offsite"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Customer Program Manager",
+    "job_city": "Offsite",
+    "job_state": "San Jose",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Customer Program Manager at Offsite, San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Customer-Program-Manager/1446675",
+    "id": "cisco-customer-program-manager-offsite"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Software Engineer (C++, Python, pytest, Linux), San Jose, CA",
+    "job_city": "Milpitas",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Software Engineer (C++, Python, pytest, Linux), San Jose, CA at Milpitas, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Software-Engineer-C-Python-pytest-Linux-San-Jose-CA/1439868",
+    "id": "cisco-software-engineer-c-python-pytest-linux-san-jose-ca-milpitas"
+  }
+]
