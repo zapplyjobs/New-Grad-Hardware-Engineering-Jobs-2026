@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Verification Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Verification Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-verification-engineer/33099/80068085408",
-    "id": "arm-verification-engineer-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Power Modelling Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Power Modelling Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/power-modelling-engineer/33099/85051978000",
-    "id": "arm-power-modelling-engineer-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Verification Engineer",
-    "job_city": "Manchester",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Hardware Engineering job for the role Senior Verification Engineer at Manchester, United Kingdom, Sheffield, United Kingdom, Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/manchester/senior-verification-engineer/33099/84899406848",
-    "id": "arm-verification-engineer-manchester"
+    "employer_name": "Micron",
+    "job_title": "Manager, Programs Management",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a month ago",
+    "job_description": "hardware engineering job for the role Senior Manager, Programs Management at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30070055",
+    "id": "micron-manager-programs-management-boise"
   }
 ]
