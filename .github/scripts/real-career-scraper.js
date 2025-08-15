@@ -26,7 +26,7 @@ const genomicsScraper = require("../../jobboard/src/backend/platforms/genomics/g
 const rivianScraper = require("../../jobboard/src/backend/platforms/rivian/rivianScraper");
 const jpmcScraper = require("../../jobboard/src/backend/platforms/jpmc/jpmcScraper");
 const cruiseJobsScraper = require("../../jobboard/src/backend/platforms/cruise/cruiseScraper");
-import honeywellScraper from "../../jobboard/src/backend/platforms/honeywell/honeywellScraper";
+const honeywellScraper = require("../../jobboard/src/backend/platforms/honeywell/honeywellScraper");
 // Load company database
 const companies = JSON.parse(
   fs.readFileSync("./.github/scripts/job-fetcher/companies.json", "utf8")
