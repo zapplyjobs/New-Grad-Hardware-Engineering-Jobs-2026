@@ -21,11 +21,12 @@ const waymoScraper = require("../../jobboard/src/backend/platforms/waymo/waymoSc
 const illuminaScraper = require("../../jobboard/src/backend/platforms/illumina/illuminaScraper");
 const synopsysScraper = require("../../jobboard/src/backend/platforms/synopsys/synopsysScraper");
 const appliedMaterialsScraper = require("../../jobboard/src/backend/platforms/appliedMaterials/appliedMaterialsScraper");
-const cloudflareScraper =require('../../jobboard/src/backend/platforms/cloudflare/cloudflareScraper');
-const genomicsScraper=require('../../jobboard/src/backend/platforms/genomics/genomicsScraper');
-const rivianScraper=require('../../jobboard/src/backend/platforms/rivian/rivianScraper');
-const jpmcScraper=require('../../jobboard/src/backend/platforms/jpmc/jpmcScraper');
-const cruiseJobsScraper=require('../../jobboard/src/backend/platforms/cruise/cruiseScraper')
+const cloudflareScraper = require("../../jobboard/src/backend/platforms/cloudflare/cloudflareScraper");
+const genomicsScraper = require("../../jobboard/src/backend/platforms/genomics/genomicsScraper");
+const rivianScraper = require("../../jobboard/src/backend/platforms/rivian/rivianScraper");
+const jpmcScraper = require("../../jobboard/src/backend/platforms/jpmc/jpmcScraper");
+const cruiseJobsScraper = require("../../jobboard/src/backend/platforms/cruise/cruiseScraper");
+import honeywellScraper from "../../jobboard/src/backend/platforms/honeywell/honeywellScraper";
 // Load company database
 const companies = JSON.parse(
   fs.readFileSync("./.github/scripts/job-fetcher/companies.json", "utf8")
@@ -510,47 +511,114 @@ async function fetchAllRealJobs() {
     waymo_Hardware,
     illumina_Hardware,
     synopsys_Hardware,
-    appliedMaterials_Hardware
+    appliedMaterials_Hardware,
+    cloudflare_Hardware,
+    genomics_Hardware,
+    rivian_Hardware,
+    jpmc_Hardware,
+    cruise_Hardware,
+    honeywell_Hardware,
   ] = await Promise.all([
-    scrapeAmazonJobs("hardware engineering").catch(err => { console.error('❌ Amazon scraper failed:', err.message); return []; }),
-    scrapeMetaJobs("hardware engineering").catch(err => { console.error('❌ Meta scraper failed:', err.message); return []; }),
-    microsoftScraper("hardware engineering").catch(err => { console.error('❌ Microsoft scraper failed:', err.message); return []; }),
-    googleScraper("Hardware Engineering").catch(err => { console.error('❌ Google scraper failed:', err.message); return []; }),
-    armScraper("Hardware Engineering").catch(err => { console.error('❌ ARM scraper failed:', err.message); return []; }),
-    micronScraper("hardware engineering").catch(err => { console.error('❌ Micron scraper failed:', err.message); return []; }),
-    ibmScraper("Hardware Engineering").catch(err => { console.error('❌ IBM scraper failed:', err.message); return []; }) ,
-    abbScraper("hardware engineering").catch(err => { console.error('❌ ABB scraper failed:', err.message); return []; }),
-    infineonScraper("hardware engineering").catch(err => { console.error('❌ Infineon scraper failed:', err.message); return []; }),
-    texasScraper("hardware engineering").catch(err => { console.error('❌ Texas Instruments scraper failed:', err.message); return []; }),
-    ciscoScraper("hardware engineering").catch(err => { console.error('❌ Cisco scraper failed:', err.message); return []; }),
-    siemensScraper("hardware engineering").catch(err => { console.error('❌ Siemens scraper failed:', err.message); return []; }),
-    analogScraper("hardware engineering").catch(err => { console.error('❌ Analog Devices scraper failed:', err.message); return []; }),
-    MarvelScraper("hardware engineering").catch(err => { console.error('❌ Marvel scraper failed:', err.message); return []; }),
-    aijobsScraper("hardware engineering").catch(err => { console.error('❌ AI Jobs scraper failed:', err.message); return []; }),
-    waymoScraper("hardware engineering").catch(err => { console.error('❌ Waymo scraper failed:', err.message); return []; }),
-    illuminaScraper("hardware engineering").catch(err => { console.error('❌ Illumina scraper failed:', err.message); return []; }),
-    synopsysScraper("hardware engineering").catch(err => { console.error('❌ Synopsys scraper failed:', err.message); return []; }),
-    appliedMaterialsScraper("hardware engineering").catch(err => { console.error('❌ Applied Materials scraper failed:', err.message); return []; }),
+    scrapeAmazonJobs("hardware engineering").catch((err) => {
+      console.error("❌ Amazon scraper failed:", err.message);
+      return [];
+    }),
+    scrapeMetaJobs("hardware engineering").catch((err) => {
+      console.error("❌ Meta scraper failed:", err.message);
+      return [];
+    }),
+    microsoftScraper("hardware engineering").catch((err) => {
+      console.error("❌ Microsoft scraper failed:", err.message);
+      return [];
+    }),
+    googleScraper("Hardware Engineering").catch((err) => {
+      console.error("❌ Google scraper failed:", err.message);
+      return [];
+    }),
+    armScraper("Hardware Engineering").catch((err) => {
+      console.error("❌ ARM scraper failed:", err.message);
+      return [];
+    }),
+    micronScraper("hardware engineering").catch((err) => {
+      console.error("❌ Micron scraper failed:", err.message);
+      return [];
+    }),
+    ibmScraper("Hardware Engineering").catch((err) => {
+      console.error("❌ IBM scraper failed:", err.message);
+      return [];
+    }),
+    abbScraper("hardware engineering").catch((err) => {
+      console.error("❌ ABB scraper failed:", err.message);
+      return [];
+    }),
+    infineonScraper("hardware engineering").catch((err) => {
+      console.error("❌ Infineon scraper failed:", err.message);
+      return [];
+    }),
+    texasScraper("hardware engineering").catch((err) => {
+      console.error("❌ Texas Instruments scraper failed:", err.message);
+      return [];
+    }),
+    ciscoScraper("hardware engineering").catch((err) => {
+      console.error("❌ Cisco scraper failed:", err.message);
+      return [];
+    }),
+    siemensScraper("hardware engineering").catch((err) => {
+      console.error("❌ Siemens scraper failed:", err.message);
+      return [];
+    }),
+    analogScraper("hardware engineering").catch((err) => {
+      console.error("❌ Analog Devices scraper failed:", err.message);
+      return [];
+    }),
+    MarvelScraper("hardware engineering").catch((err) => {
+      console.error("❌ Marvel scraper failed:", err.message);
+      return [];
+    }),
+    aijobsScraper("hardware engineering").catch((err) => {
+      console.error("❌ AI Jobs scraper failed:", err.message);
+      return [];
+    }),
+    waymoScraper("hardware engineering").catch((err) => {
+      console.error("❌ Waymo scraper failed:", err.message);
+      return [];
+    }),
+    illuminaScraper("hardware engineering").catch((err) => {
+      console.error("❌ Illumina scraper failed:", err.message);
+      return [];
+    }),
+    synopsysScraper("hardware engineering").catch((err) => {
+      console.error("❌ Synopsys scraper failed:", err.message);
+      return [];
+    }),
+    appliedMaterialsScraper("hardware engineering").catch((err) => {
+      console.error("❌ Applied Materials scraper failed:", err.message);
+      return [];
+    }),
     cloudflareScraper("Hardware").catch((err) => {
       console.error("❌ Cloudflare scraper failed:", err.message);
       return [];
     }),
-    genomicsScraper('Hardware').catch((err) => {
+    genomicsScraper("Hardware").catch((err) => {
       console.error("❌ Genomics scraper failed:", err.message);
       return [];
     }),
-    rivianScraper('Hardware').catch((err) => {
+    rivianScraper("Hardware").catch((err) => {
       console.error("❌ Rivian scraper failed:", err.message);
       return [];
     }),
-    jpmcScraper('Hardware').catch((err) => {
+    jpmcScraper("Hardware").catch((err) => {
       console.error("❌ JPMorgan Chase scraper failed:", err.message);
       return [];
     }),
-    cruiseJobsScraper('Hardware').catch((err) => {
+    cruiseJobsScraper("Hardware").catch((err) => {
       console.error("❌ Cruise scraper failed:", err.message);
       return [];
-    })
+    }),
+    honeywellScraper("Hardware").catch((err) => {
+      console.error("❌ Honeywell scraper failed:", err.message);
+      return [];
+    }),
   ]);
 
   allJobs.push(
@@ -572,8 +640,13 @@ async function fetchAllRealJobs() {
     ...waymo_Hardware,
     ...illumina_Hardware,
     ...synopsys_Hardware,
-    ...appliedMaterials_Hardware
-
+    ...appliedMaterials_Hardware,
+    ...cloudflare_Hardware,
+    ...genomics_Hardware,
+    ...rivian_Hardware, 
+    ...jpmc_Hardware,
+    ...cruise_Hardware,
+    ...honeywell_Hardware
   );
 
   const companiesWithAPIs = Object.keys(CAREER_APIS);
@@ -607,7 +680,7 @@ async function fetchAllRealJobs() {
   console.log(`📊 Total jobs collected: ${allJobs.length}`);
   console.log(`🧹 After deduplication: ${uniqueJobs.length}`);
   console.log(`🏢 Companies with real API data: ${companiesWithAPIs.length}`);
-//   console.log(`📡 External job sources: ${externalJobs.length}`);
+  //   console.log(`📡 External job sources: ${externalJobs.length}`);
   console.log(`✅ REAL JOBS ONLY - No fake data!`);
 
   return uniqueJobs;
