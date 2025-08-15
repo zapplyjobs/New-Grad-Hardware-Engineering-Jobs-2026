@@ -78,7 +78,7 @@ async function rivianScraper(searchQuery, maxPages = 10, usOnly = true) {
       
       try {
         await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 30000 });
-        await new Promise(resolve => setTimeout(resolve, 50000)); // Wait for dynamic content
+        await new Promise(resolve => setTimeout(resolve,20000)); // Wait for dynamic content
         
         // Check if we're on the right page
         const pageInfo = await page.evaluate(() => {
