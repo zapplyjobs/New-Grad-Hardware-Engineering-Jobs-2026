@@ -1,112 +1,22 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Platform Safety Analysis Engineer, DRIVE Platforms - Autonomous Vehicles",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Senior Platform Safety Analysis Engineer, DRIVE Platforms - Autonomous Vehicles at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/154377398-senior-platform-safety-analysis-engineer-drive-platforms-autonomous-vehicles",
-    "id": "aijobs-platform-safety-analysis-engineer-drive-platforms-autonomous-vehicles-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Center Operations Lead",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "58min ago",
-    "job_description": "hardware engineering job for the role Data Center Operations Lead at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/154380410-data-center-operations-lead",
-    "id": "aijobs-data-center-operations-lead-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Engineering Manager – Software Configuration Management",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Engineering Manager – Software Configuration Management at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/154377408-senior-engineering-manager-software-configuration-management",
-    "id": "aijobs-engineering-manager-software-configuration-management-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Engineering Manager, Evals (API)",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "59min ago",
-    "job_description": "hardware engineering job for the role Engineering Manager, Evals (API) at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/154380414-engineering-manager-evals-api",
-    "id": "aijobs-engineering-manager-evals-api-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Research Engineer / Scientist, Interpretability",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "59min ago",
-    "job_description": "hardware engineering job for the role Research Engineer / Scientist, Interpretability at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/154380411-research-engineer-scientist-interpretability",
-    "id": "aijobs-research-engineer-scientist-interpretability-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Growth Marketing",
+    "job_title": "Computer Vision Engineer",
     "job_city": "Unknown",
     "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Growth Marketing at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/154380417-growth-marketing",
-    "id": "aijobs-growth-marketing-unknown"
+    "job_posted_at": "5h ago",
+    "job_description": "hardware engineering job for the role Computer Vision Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/154386170-computer-vision-engineer",
+    "id": "aijobs-computer-vision-engineer-unknown"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Growth Marketing",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Growth Marketing at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/154380416-growth-marketing",
-    "id": "aijobs-growth-marketing-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Platform Software Engineer - OpenBMC Platform Architect",
-    "job_city": "Santa Clara",
+    "job_title": "Machine Learning Researcher",
+    "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Principal Platform Software Engineer - OpenBMC Platform Architect at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/154377409-principal-platform-software-engineer-openbmc-platform-architect",
-    "id": "aijobs-platform-software-engineer-openbmc-platform-architect-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Functional Safety Manager",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Senior Functional Safety Manager at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/154377400-senior-functional-safety-manager",
-    "id": "aijobs-functional-safety-manager-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Marketing Manager - Start-ups",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Marketing Manager - Start-ups at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/154380415-marketing-manager-start-ups",
-    "id": "aijobs-marketing-manager-start-ups-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Trust & Safety Operations Analyst",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Trust & Safety Operations Analyst at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/154380413-trust-safety-operations-analyst",
-    "id": "aijobs-trust-safety-operations-analyst-united-states"
+    "job_posted_at": "10h ago",
+    "job_description": "hardware engineering job for the role Machine Learning Researcher at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/154389675-machine-learning-researcher",
+    "id": "aijobs-machine-learning-researcher-us"
   }
 ]
