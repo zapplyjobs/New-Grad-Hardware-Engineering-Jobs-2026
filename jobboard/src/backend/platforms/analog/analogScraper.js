@@ -118,7 +118,7 @@ async function analogScraper(searchQuery, maxPages = 10) {
       
       // Wait for job listings to load
       try {
-        await page.waitForSelector('li.css-1q2dra3', { timeout: 10000 });
+        await page.waitForSelector('li.css-1q2dra3', { timeout: 100000 });
       } catch (error) {
         console.log(`No jobs found on page ${pageNum}, stopping...`);
         break;
@@ -249,7 +249,7 @@ async function analogScraper(searchQuery, maxPages = 10) {
     await browser.close();
   }
   
-  console.log(`\nScraping completed! Found ${allJobs.length} total jobs.`);
+  console.log(`\n ANALOGUE Scraping completed! Found ${allJobs.length} total jobs.`);
   return allJobs;
 }
 
@@ -270,7 +270,7 @@ async function main() {
       return;
     }
     
-    console.log(`=== Scraping Marvel Careers for: "${searchQuery}" (10 pages max) ===`);
+    console.log(`=== Scraping ANALOG Careers for: "${searchQuery}" (10 pages max) ===`);
     const jobs = await analogScraper(searchQuery, 10);
     console.log(`\n🎉 Scraping completed! Found ${jobs.length} jobs for "${searchQuery}"`);
     

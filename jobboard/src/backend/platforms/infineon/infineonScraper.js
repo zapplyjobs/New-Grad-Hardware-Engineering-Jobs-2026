@@ -89,7 +89,7 @@ async function infineonScraper(searchQuery, maxPages = 20) {
 
       // Wait for job cards to load first
       try {
-        await page.waitForSelector("div.job-card-container.list", { timeout: 10000 });
+        await page.waitForSelector("div.job-card-container.list", { timeout: 100000 });
       } catch (error) {
         console.log(`No jobs found on page, stopping...`);
         break;
@@ -314,7 +314,7 @@ async function infineonScraper(searchQuery, maxPages = 20) {
     await browser.close();
   }
 
-  console.log(`\n🎉 Scraping completed! Found ${allJobs.length} total jobs.`);
+  console.log(`\n🎉 INFINEON Scraping completed! Found ${allJobs.length} total jobs.`);
   return allJobs;
 }
 

@@ -74,7 +74,7 @@ async function ibmScraper(searchQuery, maxPages = 10) {
       
       // Wait for job cards to load
       try {
-        await page.waitForSelector('div.bx--card-group__cards__col', { timeout: 10000 });
+        await page.waitForSelector('div.bx--card-group__cards__col', { timeout: 100000 });
       } catch (error) {
         console.log(`No jobs found on page ${pageNum}, stopping...`);
         break;
@@ -152,7 +152,7 @@ async function ibmScraper(searchQuery, maxPages = 10) {
     await browser.close();
   }
   
-  console.log(`\nScraping completed! Found ${allJobs.length} total jobs.`);
+  console.log(`\n IBM Scraping completed! Found ${allJobs.length} total jobs.`);
   return allJobs;
 }
 

@@ -324,7 +324,7 @@ async function abbScraper(searchQuery, maxPages = 10) {
 
   await browser.close();
   console.log(
-    `\n🎉 Scraping completed! Found ${allJobs.length} total jobs across ${lastProcessedPage} page${lastProcessedPage === 1 ? '' : 's'}.`
+    `\n🎉 ABB Scraping completed! Found ${allJobs.length} total jobs across ${lastProcessedPage} page${lastProcessedPage === 1 ? '' : 's'}.`
   );
   return allJobs;
 }

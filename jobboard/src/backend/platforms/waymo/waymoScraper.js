@@ -88,7 +88,7 @@ async function waymoScraper(searchQuery, maxPages = 10) {
 
       // Wait for job results
       try {
-        await page.waitForSelector("div.col-12.job-search-results-card-col", { timeout: 15000 });
+        await page.waitForSelector("div.col-12.job-search-results-card-col", { timeout: 150000 });
       } catch (error) {
         console.log(`No jobs found on page ${pageNumber}, stopping...`);
         break;
@@ -171,7 +171,7 @@ async function waymoScraper(searchQuery, maxPages = 10) {
     await browser.close();
   }
 
-  console.log(`\n🎉 Multi-page scraping completed! Found ${allJobs.length} total jobs across all pages.`);
+  console.log(`\n🎉WAYMO Multi-page scraping completed! Found ${allJobs.length} total jobs across all pages.`);
   return allJobs;
 }
 
@@ -207,7 +207,7 @@ async function main() {
     console.log(`=== Scraping Waymo Jobs for: "${searchQuery}" (up to ${maxPages} pages) ===`);
     const jobs = await waymoScraper(searchQuery, maxPages);
     
-    console.log(`\n🎉 Multi-page scraping completed! Found ${jobs.length} jobs for "${searchQuery}"`);
+    console.log(`\n🎉WAYMO Multi-page scraping completed! Found ${jobs.length} jobs for "${searchQuery}"`);
 
     if (jobs.length > 0) {
       console.log("\n📋 All Scraped Jobs:");

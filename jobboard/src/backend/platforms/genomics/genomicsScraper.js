@@ -88,7 +88,7 @@ async function genomicsScraper(searchQuery, maxPages = 10) {
 
       await page.goto(searchUrl, {
         waitUntil: 'networkidle2',
-        timeout: 30000
+        timeout: 300000
       });
 
       // Wait for content to load
@@ -96,7 +96,7 @@ async function genomicsScraper(searchQuery, maxPages = 10) {
 
       // Wait for job listings
       try {
-        await page.waitForSelector('[data-test-id="job-listing"]', { timeout: 10000 });
+        await page.waitForSelector('[data-test-id="job-listing"]', { timeout: 100000 });
       } catch (error) {
         console.log(`No jobs found on page ${currentPage + 1}, stopping...`);
         break;
@@ -209,7 +209,7 @@ async function genomicsScraper(searchQuery, maxPages = 10) {
     await browser.close();
   }
 
-  console.log(`\n🎉 Scraping completed! Found ${allJobs.length} total jobs across ${currentPage + 1} pages.`);
+  console.log(`\n🎉 GENOMICS Scraping completed! Found ${allJobs.length} total jobs across ${currentPage + 1} pages.`);
   return allJobs;
 }
 

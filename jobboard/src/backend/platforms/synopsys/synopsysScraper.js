@@ -154,7 +154,7 @@ async function synopsysScraper(searchQuery, maxPages = 10) {
 
       // Wait for job results
       try {
-        await page.waitForSelector("li.search-results-list__list-item", { timeout: 15000 });
+        await page.waitForSelector("li.search-results-list__list-item", { timeout: 150000 });
       } catch (error) {
         console.log(`No jobs found on page ${currentPage}, stopping...`);
         break;
@@ -295,7 +295,7 @@ async function main() {
     console.log(`=== Scraping Synopsys Jobs for: "${searchQuery}" (up to ${maxPages} pages) ===`);
     const jobs = await synopsysScraper(searchQuery, maxPages);
     
-    console.log(`\n🎉 Multi-page scraping completed! Found ${jobs.length} jobs for "${searchQuery}"`);
+    console.log(`\n🎉SYNOPSYS Multi-page scraping completed! Found ${jobs.length} jobs for "${searchQuery}"`);
 
     if (jobs.length > 0) {
       console.log("\n📋 All Scraped Jobs:");

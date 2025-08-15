@@ -138,7 +138,7 @@ async function armScraper(searchQuery, maxPages = 10) {
     await browser.close();
   }
   
-  console.log(`\nScraping completed! Found ${allJobs.length} total jobs.`);
+  console.log(`\n ARM Scraping  completed! Found ${allJobs.length} total jobs.`);
   return allJobs;
 }
 

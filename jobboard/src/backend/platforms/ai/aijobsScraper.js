@@ -182,7 +182,7 @@ async function main() {
     console.log(`=== Scraping AI Jobs for: "${searchQuery}" ===`);
     const jobs = await aijobsScraper(searchQuery, 3);
     console.log(
-      `\n🎉 Scraping completed! Found ${jobs.length} jobs for "${searchQuery}"`
+      `\n🎉 AI Scraping completed! Found ${jobs.length} jobs for "${searchQuery}"`
     );
 
     // Display all scraped jobs

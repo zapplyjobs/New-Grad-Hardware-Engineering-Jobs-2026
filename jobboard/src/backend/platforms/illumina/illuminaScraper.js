@@ -118,7 +118,7 @@ async function illuminaScraper(searchQuery, maxPages = 10) {
       
       // Wait for job listings to load
       try {
-        await page.waitForSelector('li.css-1q2dra3', { timeout: 10000 });
+        await page.waitForSelector('li.css-1q2dra3', { timeout: 100000 });
       } catch (error) {
         console.log(`No jobs found on page ${pageNum}, stopping...`);
         break;
@@ -249,7 +249,7 @@ async function illuminaScraper(searchQuery, maxPages = 10) {
     await browser.close();
   }
   
-  console.log(`\nScraping completed! Found ${allJobs.length} total jobs.`);
+  console.log(`\n ILLUMINA Scraping completed! Found ${allJobs.length} total jobs.`);
   return allJobs;
 }
 

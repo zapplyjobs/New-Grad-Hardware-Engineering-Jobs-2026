@@ -68,7 +68,7 @@ async function ciscoScraper(searchQuery, maxPages = 10) {
 
       // Wait for job table rows to load
       try {
-        await page.waitForSelector("tr", { timeout: 10000 });
+        await page.waitForSelector("tr", { timeout: 100000 });
       } catch (error) {
         console.log(`No jobs found on page ${pageNum}, stopping...`);
         break;
@@ -156,7 +156,7 @@ async function ciscoScraper(searchQuery, maxPages = 10) {
     await browser.close();
   }
 
-  console.log(`\nScraping completed! Found ${allJobs.length} total jobs.`);
+  console.log(`\n CISCO Scraping completed! Found ${allJobs.length} total jobs.`);
   return allJobs;
 }
 
