@@ -1,152 +1,62 @@
 [
   {
-    "employer_name": "Apple",
-    "job_title": "Full-Stack Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Senior Full-Stack Engineer at Austin",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200603270-0157/senior-full-stack-engineer?team=CORSV",
-    "id": "apple-full-stack-engineer-austin"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "DDR Design Engineer",
-    "job_city": "Waltham",
-    "job_state": "US",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role DDR Design Engineer at Waltham",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200607214-6205/ddr-design-engineer?team=HRDWR",
-    "id": "apple-ddr-design-engineer-waltham"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "ASIC Design Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role ASIC Design Engineer at Santa Clara",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200605961-3760/asic-design-engineer?team=HRDWR",
-    "id": "apple-asic-design-engineer-santa-clara"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "RFIC Design Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "9 months ago",
-    "job_description": "hardware engineering job for the role RFIC Design Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200573149-0836/rfic-design-engineer?team=HRDWR",
-    "id": "apple-rfic-design-engineer-cupertino"
+    "employer_name": "NVIDIA",
+    "job_title": "Network Engineer, Enterprise Products",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 11 Days Ago",
+    "job_description": "hardware engineering job for the role Senior Network Engineer, Enterprise Products at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Engineer--Enterprise-Products_JR2001084?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-network-engineer-enterprise-products-2-locations"
   },
   {
     "employer_name": "NVIDIA",
-    "job_title": "System Test Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted 18 Days Ago",
-    "job_description": "hardware engineering job for the role Senior System Test Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Test-Engineer_JR2000669?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-system-test-engineer-us"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "Silicon System Level Test Development Engineer",
-    "job_city": "US",
-    "job_state": "CA",
+    "job_title": "Developer Technology Engineer - AI",
+    "job_city": "6 Locations",
+    "job_state": "",
     "job_posted_at": "Posted 22 Days Ago",
-    "job_description": "hardware engineering job for the role Silicon System Level Test Development Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Solutions-Test-Development-Engineer_JR1994584?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-silicon-system-level-test-development-engineer-us"
+    "job_description": "hardware engineering job for the role Senior Developer Technology Engineer - AI at 6 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer---AI_JR1996103?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-developer-technology-engineer-ai-6-locations"
   },
   {
     "employer_name": "NVIDIA",
-    "job_title": "High-Performance LLM Training Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted 22 Days Ago",
-    "job_description": "hardware engineering job for the role Senior High-Performance LLM Training Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-High-Performance-LLM-Training-Engineer_JR1996426?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-high-performance-llm-training-engineer-us"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "Software Engineer - Parallel Computing Systems",
+    "job_title": "AI Deep Learning Engineer",
     "job_city": "2 Locations",
     "job_state": "",
     "job_posted_at": "Posted 22 Days Ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer - Parallel Computing Systems at 2 Locations",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Parallel-Computing-Systems_JR1998609-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-software-engineer-parallel-computing-systems-2-locations"
+    "job_description": "hardware engineering job for the role Senior AI Deep Learning Engineer at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-AI-Deep-Learning-Engineer_JR2000200?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-ai-deep-learning-engineer-2-locations"
   },
   {
     "employer_name": "NVIDIA",
-    "job_title": "GPU Display Firmware Engineer",
+    "job_title": "HSIO Functional Validation Engineer",
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "Posted 22 Days Ago",
-    "job_description": "hardware engineering job for the role GPU Display Firmware Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Display-Firmware-Engineer_JR1999624?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-gpu-display-firmware-engineer-us"
+    "job_description": "hardware engineering job for the role HSIO Functional Validation Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Speed-IO-Engineer_JR1995681?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-hsio-functional-validation-engineer-us"
   },
   {
     "employer_name": "NVIDIA",
-    "job_title": "Architect, AI Solutions Engineering",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted 22 Days Ago",
-    "job_description": "hardware engineering job for the role Senior Architect, AI Solutions Engineering at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Architect--AI-Solutions-Engineering_JR1999176-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-architect-ai-solutions-engineering-us"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "ASIC Verification Engineer - GPU",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted 22 Days Ago",
-    "job_description": "hardware engineering job for the role Senior ASIC Verification Engineer - GPU at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Verification-Engineer---GPU_JR1996427?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-asic-verification-engineer-gpu-us"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "ASIC Verification Engineer - GPU",
-    "job_city": "3 Locations",
+    "job_title": "Software Engineer - GPU",
+    "job_city": "2 Locations",
     "job_state": "",
     "job_posted_at": "Posted 22 Days Ago",
-    "job_description": "hardware engineering job for the role Senior ASIC Verification Engineer - GPU at 3 Locations",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Senior-ASIC-Verification-Engineer---GPU_JR1996962?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-asic-verification-engineer-gpu-3-locations"
+    "job_description": "hardware engineering job for the role Senior Software Engineer - GPU at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---GPU_JR1997181?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-engineer-gpu-2-locations"
   },
   {
     "employer_name": "NVIDIA",
-    "job_title": "Compiler Engineer - CUDA",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted 22 Days Ago",
-    "job_description": "hardware engineering job for the role Senior Compiler Engineer - CUDA at 3 Locations",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer---CUDA_JR1997426?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-compiler-engineer-cuda-3-locations"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "Firmware Infrastructure Engineer - GPU",
+    "job_title": "System Debug Lead Engineer",
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "Posted 22 Days Ago",
-    "job_description": "hardware engineering job for the role Firmware Infrastructure Engineer - GPU at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Firmware-Infrastructure-Engineer---GPU_JR1999623-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-firmware-infrastructure-engineer-gpu-us"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "Software Engineer - Embedded Platform",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted 22 Days Ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer - Embedded Platform at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Embedded-Platform_JR1999200?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-software-engineer-embedded-platform-us"
+    "job_description": "hardware engineering job for the role System Debug Lead Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Debug-Lead-Engineer_JR1996871?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-debug-lead-engineer-us"
   }
 ]
