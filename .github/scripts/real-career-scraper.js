@@ -25,6 +25,10 @@ const genomicsScraper = require("../../jobboard/src/backend/platforms/genomics/g
 const rivianScraper = require("../../jobboard/src/backend/platforms/rivian/rivianScraper");
 const jpmcScraper = require("../../jobboard/src/backend/platforms/jpmc/jpmcScraper");
 const honeywellScraper = require("../../jobboard/src/backend/platforms/honeywell/honeywellScraper");
+const intelScraper = require("../../jobboard/src/backend/platforms/intel/intelScraper");
+const appleScraper = require("../../jobboard/src/backend/platforms/apple/appleScraper");
+const amdScraper = require("../../jobboard/src/backend/platforms/amd/amdScraper");
+const nvidiaScraper = require("../../jobboard/src/backend/platforms/nvidia/nvidiaScraper");
 // Load company database
 const companies = JSON.parse(
   fs.readFileSync("./.github/scripts/job-fetcher/companies.json", "utf8")
@@ -513,8 +517,11 @@ async function fetchAllRealJobs() {
     genomics_Hardware,
     rivian_Hardware,
     jpmc_Hardware,
-    
     honeywell_Hardware,
+    intel_Hardware,
+    apple_Hardware,
+    amd_Hardware,
+    nvidia_Hardware,
   ] = await Promise.all([
     scrapeAmazonJobs("hardware engineering").catch((err) => {
       console.error("❌ Amazon scraper failed:", err.message);
@@ -610,6 +617,22 @@ async function fetchAllRealJobs() {
       console.error("❌ Honeywell scraper failed:", err.message);
       return [];
     }),
+    intelScraper("hardware engineering").catch((err) => {
+      console.error("❌ Intel scraper failed:", err.message);
+      return [];
+    }),
+    appleScraper("hardware engineering").catch((err) => {
+      console.error("❌ Apple scraper failed:", err.message);
+      return [];
+    }),
+    amdScraper("hardware engineering").catch((err) => {
+      console.error("❌ AMD scraper failed:", err.message);
+      return [];
+    }),
+    nvidiaScraper("hardware engineering").catch((err) => {
+      console.error("❌ Nvidia scraper failed:", err.message);
+      return [];
+    }),
   ]);
 
   allJobs.push(
@@ -636,6 +659,10 @@ async function fetchAllRealJobs() {
     ...rivian_Hardware, 
     ...jpmc_Hardware,
     ...honeywell_Hardware
+    , ...intel_Hardware,
+    ...apple_Hardware,
+    ...amd_Hardware,
+    ...nvidia_Hardware
   );
 
   const companiesWithAPIs = Object.keys(CAREER_APIS);
