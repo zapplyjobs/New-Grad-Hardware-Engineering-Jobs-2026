@@ -76,7 +76,7 @@ async function nvidiaScraper(searchQuery, maxPages = 10) {
       "--no-first-run",
       "--disable-extensions",
       "--disable-background-timer-throttling",
-      "--disable-backgrounding-occluded-windows",d0
+      "--disable-backgrounding-occluded-windows",
       "--disable-renderer-backgrounding",
       "--disable-web-security",
       "--disable-features=TranslateUI",
