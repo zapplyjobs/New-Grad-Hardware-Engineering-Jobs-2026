@@ -1,52 +1,312 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Senior/Staff/Principal Verification Engineer - Video",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior/Staff/Principal Verification Engineer - Video at Manchester, United Kingdom, Cambridge, United Kingdom, Bristol, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/senior-staff-principal-verification-engineer-video/33099/84401268624",
+    "id": "arm-senior-staff-principal-verification-engineer-video-manchester"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer - Field Diagnostics Engineering",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer - Field Diagnostics Engineering at Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200600468-3956/senior-software-engineer-field-diagnostics-engineering?team=CUST",
+    "id": "apple-software-engineer-field-diagnostics-engineering-sunnyvale"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Sr Machine Learning Engineer, ML Systems Engineering",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "1 month ago",
+    "job_description": "hardware engineering job for the role Sr Machine Learning Engineer, ML Systems Engineering at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200612183-0836/sr-machine-learning-engineer-ml-systems-engineering?team=MLAI",
+    "id": "apple-sr-machine-learning-engineer-ml-systems-engineering-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Distinguished Software Engineer, ML Systems Evaluation Engineering",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "1 month ago",
+    "job_description": "hardware engineering job for the role Distinguished Software Engineer, ML Systems Evaluation Engineering at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200609595-0836/distinguished-software-engineer-ml-systems-evaluation-engineering?team=MLAI",
+    "id": "apple-distinguished-software-engineer-ml-systems-evaluation-engineering-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Software Development Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200603295-0836/software-development-engineer?team=OPMFG",
+    "id": "apple-software-development-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "AirPlay Framework Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role AirPlay Framework Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200582787-0836/airplay-framework-engineer?team=SFTWR",
+    "id": "apple-airplay-framework-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Seed QA Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Seed QA Engineer at San Diego",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200605931-3543/seed-qa-engineer?team=SFTWR",
+    "id": "apple-seed-qa-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "CPU Performance Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "10 months ago",
+    "job_description": "hardware engineering job for the role CPU Performance Engineer at Austin",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200572144-0157/cpu-performance-engineer?team=HRDWR",
+    "id": "apple-cpu-performance-engineer-austin"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Haptics Control Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Haptics Control Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200575628-0836/haptics-control-engineer?team=HRDWR",
+    "id": "apple-haptics-control-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Machine Learning Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "9 months ago",
+    "job_description": "hardware engineering job for the role Machine Learning Engineer at Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200579127-3956/machine-learning-engineer?team=MLAI",
+    "id": "apple-machine-learning-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "CPU CDC/STA Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "California",
+    "job_posted_at": "1 month ago",
+    "job_description": "hardware engineering job for the role CPU CDC/STA Engineer at Santa Clara",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200571969-3760/cpu-cdc-sta-engineer?team=HRDWR",
+    "id": "apple-cpu-cdc-sta-engineer-santa-clara"
+  },
+  {
     "employer_name": "Apple",
     "job_title": "Design Verification Engineer",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "1 year ago",
-    "job_description": "hardware engineering job for the role Design Verification Engineer at Seattle",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200455330-3337/design-verification-engineer?team=HRDWR",
-    "id": "apple-design-verification-engineer-seattle"
+    "job_city": "Irvine",
+    "job_state": "US",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Design Verification Engineer at Irvine",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200587141-1697/design-verification-engineer?team=HRDWR",
+    "id": "apple-design-verification-engineer-irvine"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "DDR Design Engineer",
+    "job_city": "Beaverton",
+    "job_state": "US",
+    "job_posted_at": "10 months ago",
+    "job_description": "hardware engineering job for the role DDR Design Engineer at Beaverton",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200574682-0505/ddr-design-engineer?team=HRDWR",
+    "id": "apple-ddr-design-engineer-beaverton"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "PLL/Clocking Design Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "9 months ago",
+    "job_description": "hardware engineering job for the role PLL/Clocking Design Engineer at San Diego",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200575787-3543/pll-clocking-design-engineer?team=HRDWR",
+    "id": "apple-pll-clocking-design-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "PLL/Clocking Design Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "9 months ago",
+    "job_description": "hardware engineering job for the role PLL/Clocking Design Engineer at Austin",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200575790-0157/pll-clocking-design-engineer?team=HRDWR",
+    "id": "apple-pll-clocking-design-engineer-austin"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Firmware Validation Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "10 months ago",
+    "job_description": "hardware engineering job for the role Firmware Validation Engineer at Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200573595-3956/firmware-validation-engineer?team=HRDWR",
+    "id": "apple-firmware-validation-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "SoC Test Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "6 months ago",
+    "job_description": "hardware engineering job for the role SoC Test Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200570153-0836/soc-test-engineer?team=HRDWR",
+    "id": "apple-soc-test-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "PHY Systems Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role PHY Systems Engineer at Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200579232-3956/phy-systems-engineer?team=HRDWR",
+    "id": "apple-phy-systems-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Timing Design Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Timing Design Engineer at Austin",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200577597-0157/timing-design-engineer?team=HRDWR",
+    "id": "apple-timing-design-engineer-austin"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "CPU Implementation Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "California",
+    "job_posted_at": "1 month ago",
+    "job_description": "hardware engineering job for the role CPU Implementation Engineer at Santa Clara",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200573743-3760/cpu-implementation-engineer?team=HRDWR",
+    "id": "apple-cpu-implementation-engineer-santa-clara"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Embedded Regression Engineer",
+    "job_city": "Waltham",
+    "job_state": "US",
+    "job_posted_at": "6 months ago",
+    "job_description": "hardware engineering job for the role Embedded Regression Engineer at Waltham",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200587813-6205/embedded-regression-engineer?team=HRDWR",
+    "id": "apple-embedded-regression-engineer-waltham"
   },
   {
     "employer_name": "NVIDIA",
-    "job_title": "Product Architect",
+    "job_title": "Performance Engineer - Deep Learning",
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "Posted 22 Days Ago",
-    "job_description": "hardware engineering job for the role Senior Product Architect at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Architect_JR1967119?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-product-architect-us"
+    "job_description": "hardware engineering job for the role Performance Engineer - Deep Learning at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineer---Deep-Learning_JR1979829?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-performance-engineer-deep-learning-us"
   },
   {
     "employer_name": "NVIDIA",
-    "job_title": "ASIC Design Efficiency Engineer",
+    "job_title": "Field Application Engineer",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "hardware engineering job for the role Senior Field Application Engineer at 4 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Field-Application-Engineer_JR1998286?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-field-application-engineer-4-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Performance Engineer",
     "job_city": "3 Locations",
     "job_state": "",
     "job_posted_at": "Posted 22 Days Ago",
-    "job_description": "hardware engineering job for the role ASIC Design Efficiency Engineer at 3 Locations",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Efficiency-Engineer_JR1998928?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-asic-design-efficiency-engineer-3-locations"
+    "job_description": "hardware engineering job for the role Senior Performance Engineer at 3 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Performance-Engineer_JR1996987?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-performance-engineer-3-locations"
   },
   {
     "employer_name": "NVIDIA",
-    "job_title": "System Software Engineer - AI Performance and Efficiency Tools",
+    "job_title": "DL Algorithms Engineer - Inference Performance",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "hardware engineering job for the role Senior DL Algorithms Engineer - Inference Performance at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DL-Algorithms-Engineer---Inference-Performance_JR1996564?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-dl-algorithms-engineer-inference-performance-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "VLSI CAD R&D, Power and Timing Modeling",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "hardware engineering job for the role Senior VLSI CAD R&D, Power and Timing Modeling at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-VLSI-CAD-R-D--Power-and-Timing-Modeling_JR1997610?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-vlsi-cad-r-d-power-and-timing-modeling-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Bringup Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 7 Days Ago",
+    "job_description": "hardware engineering job for the role Senior System Software Bringup Engineer at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Bringup-Engineer_JR1999911?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-bringup-engineer-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Design Engineer",
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "Posted 22 Days Ago",
-    "job_description": "hardware engineering job for the role Senior System Software Engineer - AI Performance and Efficiency Tools at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AI-Performance-and-Efficiency-Tools_JR1996041?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-system-software-engineer-ai-performance-and-efficiency-tools-us"
+    "job_description": "hardware engineering job for the role System Design Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Design-Engineer_JR1968313?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-design-engineer-us"
   },
   {
     "employer_name": "NVIDIA",
-    "job_title": "Switch Engineering Architect",
+    "job_title": "Solutions Architect - AI Infrastructure Engineer",
     "job_city": "6 Locations",
     "job_state": "",
     "job_posted_at": "Posted 22 Days Ago",
-    "job_description": "hardware engineering job for the role Principal Switch Engineering Architect at 6 Locations",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Switch-Engineering-Architect_JR1985843?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-switch-engineering-architect-6-locations"
+    "job_description": "hardware engineering job for the role Senior Solutions Architect - AI Infrastructure Engineer at 6 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Remote/Senior-Solutions-Architect---AI-Infrastructure-Engineer_JR1998552?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-solutions-architect-ai-infrastructure-engineer-6-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "ASIC Verification Engineer - New College Grad",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "hardware engineering job for the role ASIC Verification Engineer - New College Grad 2025 at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2025_JR1997551?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-asic-verification-engineer-new-college-grad-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Linux Kernel Architect - Tegra",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "hardware engineering job for the role Linux Kernel Architect - Tegra at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Operating-System-Architect_JR1997368?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-linux-kernel-architect-tegra-2-locations"
   }
 ]
