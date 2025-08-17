@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "DevOps and SRE Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior DevOps and SRE Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-devops-and-sre-engineer/33099/83568179056",
+    "id": "arm-devops-and-sre-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Senior/Staff/Principal Design Engineer - Video",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Hardware Engineering job for the role Senior/Staff/Principal Design Engineer - Video at Manchester, United Kingdom, Cambridge, United Kingdom, Bristol, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/senior-staff-principal-design-engineer-video/33099/84401269216",
+    "id": "arm-senior-staff-principal-design-engineer-video-manchester"
+  }
+]
