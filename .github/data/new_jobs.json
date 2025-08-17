@@ -1,23 +1,182 @@
 [
   {
-    "job_title": "Global Supply Manager, Networking Silicon, Networking & Optics Silicon Procurement and Supply Chain",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Engineer – Real-Time Multimodal Perception",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "54min ago",
+    "job_description": "hardware engineering job for the role Machine Learning Engineer – Real-Time Multimodal Perception at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/155396662-machine-learning-engineer-real-time-multimodal-perception",
+    "id": "aijobs-machine-learning-engineer-real-time-multimodal-perception-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "2d ago",
+    "job_description": "hardware engineering job for the role Research Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/153192923-research-engineer",
+    "id": "aijobs-research-engineer-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Full stack (Frontend)",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "54min ago",
+    "job_description": "hardware engineering job for the role Full stack (Frontend) at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/155396663-full-stack-frontend",
+    "id": "aijobs-full-stack-frontend-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Core Services",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "54min ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Core Services at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/155396664-software-engineer-core-services",
+    "id": "aijobs-software-engineer-core-services-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Caching Infrastructure",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "54min ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Caching Infrastructure at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/155396665-software-engineer-caching-infrastructure",
+    "id": "aijobs-software-engineer-caching-infrastructure-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Member of GTM Staff",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Member of GTM Staff at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/155396661-member-of-gtm-staff",
+    "id": "aijobs-member-of-gtm-staff-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Test and Automation Developer",
+    "job_city": "Santa Clara",
     "job_state": "CA",
-    "job_description": "hardware engineering job for the role Global Supply Manager, Networking Silicon, Networking & Optics Silicon Procurement and Supply Chain at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3055020/global-supply-manager-networking-silicon-networking-optics-silicon-procurement-and-supply-chain",
-    "job_posted_at": "2025-08-14T21:20:25.772Z",
-    "job_posted_at_datetime_utc": "2025-08-14T21:20:25.772Z",
-    "id": "amazon-global-supply-manager-networking-silicon-networking-optics-silicon-procurement-and-supply-chain-cupertino"
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Senior Test and Automation Developer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/155394726-senior-test-and-automation-developer",
+    "id": "aijobs-test-and-automation-developer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Firmware Engineer - Embedded Controller",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Senior Firmware Engineer - Embedded Controller at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/155394727-senior-firmware-engineer-embedded-controller",
+    "id": "aijobs-firmware-engineer-embedded-controller-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Platform Software Engineer – Factory",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Senior Platform Software Engineer – Factory at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/155394728-senior-platform-software-engineer-factory",
+    "id": "aijobs-platform-software-engineer-factory-santa-clara"
   },
   {
     "employer_name": "Apple",
-    "job_title": "Software Engineer, Shortcuts",
+    "job_title": "Display Module Engineer",
     "job_city": "Cupertino",
     "job_state": "California",
-    "job_posted_at": "5 months ago",
-    "job_description": "hardware engineering job for the role Software Engineer, Shortcuts at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200592620-0836/software-engineer-shortcuts?team=SFTWR",
-    "id": "apple-software-engineer-shortcuts-cupertino"
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Display Module Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200614654-0836/display-module-engineer?team=HRDWR",
+    "id": "apple-display-module-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Video Processing Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Video Processing Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200613152-0836/video-processing-engineer?team=HRDWR",
+    "id": "apple-video-processing-engineer-cupertino"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Deep Learning Research Engineer, Advanced AI Systems",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "hardware engineering job for the role Senior Deep Learning Research Engineer, Advanced AI Systems at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Research-Engineer--Advanced-AI-Systems_JR1995924?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-deep-learning-research-engineer-advanced-ai-systems-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Networking Firmware Application Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "hardware engineering job for the role Senior Networking Firmware Application Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Networking-Firmware-Application-Engineer_JR1996766?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-networking-firmware-application-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Firmware Bringup Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "hardware engineering job for the role Senior Firmware Bringup Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer---Memory-Subsystem_JR1996477?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-firmware-bringup-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Full Stack Developer, AI and LLM",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 18 Days Ago",
+    "job_description": "hardware engineering job for the role Principal Full Stack Developer, AI and LLM at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Full-Stack-Developer--AI-and-LLM_JR1997990?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-full-stack-developer-ai-and-llm-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "HSIO Validation Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "hardware engineering job for the role Senior HSIO Validation Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-HSIO-Validation-Engineer_JR1997908?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-hsio-validation-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Deep Learning Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "hardware engineering job for the role Senior Deep Learning Engineer at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Deep-Learning-Engineer_JR1998428?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-deep-learning-engineer-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Backend Compiler Engineer",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "hardware engineering job for the role Senior Backend Compiler Engineer at 5 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Backend-Compiler-Engineer_JR1998814?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-backend-compiler-engineer-5-locations"
   }
 ]
