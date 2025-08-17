@@ -28,15 +28,12 @@ const amdScraper = require("../../jobboard/src/backend/platforms/amd/amdScraper"
 const nvidiaScraper = require("../../jobboard/src/backend/platforms/nvidia/nvidiaScraper");
 const appleScraper = require("../../jobboard/src/backend/platforms/apple/appleScraper");
 const intelScraper = require("../../jobboard/src/backend/platforms/intel/intelScraper");
-const adobeScraper = require("../../jobboard/src/backend/platforms/adobe/adobeScraper");
 const boozallenScraper = require("../../jobboard/src/backend/platforms/boozallen/boozallenScraper");
 const broadcomScraper = require("../../jobboard/src/backend/platforms/broadcom/broadcomScraper");
-const dellScraper = require("../../jobboard/src/backend/platforms/dell/dellScraper");
 const gditScraper = require("../../jobboard/src/backend/platforms/gdit/gditScraper");
 const guidehouseScraper = require("../../jobboard/src/backend/platforms/guidehouse/guidehouseScraper");
 const hpeScraper = require("../../jobboard/src/backend/platforms/hpe/hpeScraper");
 const magnaScraper = require("../../jobboard/src/backend/platforms/magna/magnaScraper");
-const salesforceScraper = require("../../jobboard/src/backend/platforms/salesforce/salesforceScraper");
 const verizonScraper = require("../../jobboard/src/backend/platforms/verizon/verizonScraper");
 const workdayScraper = require("../../jobboard/src/backend/platforms/workday/workdayScraper");
 
@@ -575,12 +572,10 @@ async function fetchAllRealJobs() {
     { name: 'Intel', scraper: intelScraper, query: 'hardware engineering' },
     { name: 'Booz Allen Hamilton', scraper: boozallenScraper, query: 'hardware engineering' },
     { name: 'Broadcom', scraper: broadcomScraper, query: 'hardware engineering' },
-    { name: 'Dell', scraper: dellScraper, query: 'hardware engineering' },
     { name: 'GDIT', scraper: gditScraper, query: 'hardware engineering' },
     { name: 'Guidehouse', scraper: guidehouseScraper, query: 'hardware engineering' },
     { name: 'HPE', scraper: hpeScraper, query: 'hardware engineering' },
     { name: 'Magna', scraper: magnaScraper, query: 'hardware engineering' },
-    { name: 'Salesforce', scraper: salesforceScraper, query: 'hardware engineering' },
     { name: 'Verizon', scraper: verizonScraper, query: 'hardware engineering' },
     { name: 'Workday', scraper: workdayScraper, query: 'hardware engineering' }
   ];
@@ -739,12 +734,10 @@ async function fetchAllRealJobs() {
     intel_Hardware,
     boozallen_Hardware,
     broadcom_Hardware,
-    dell_Hardware,
     gdit_Hardware,
     guidehouse_Hardware,
     hpe_Hardware,
     magna_Hardware,
-    salesforce_Hardware,
     verizon_Hardware,
     workday_Hardware,
   ] = batchResults.map(result => result.jobs);
@@ -780,12 +773,12 @@ async function fetchAllRealJobs() {
     ...intel_Hardware,
     ...boozallen_Hardware,
     ...broadcom_Hardware,
-    ...dell_Hardware,
+    
     ...gdit_Hardware,
     ...guidehouse_Hardware,
     ...hpe_Hardware,
     ...magna_Hardware,
-    ...salesforce_Hardware,
+  
     ...verizon_Hardware,
     ...workday_Hardware,
   );
