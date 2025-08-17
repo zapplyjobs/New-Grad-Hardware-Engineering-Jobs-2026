@@ -1,6 +1,5 @@
 const fs = require("fs");
 const { generateJobId } = require("./job-fetcher/utils");
-
 const scrapeAmazonJobs = require("../../jobboard/src/backend/platforms/amazon/amazonScraper");
 const googleScraper = require("../../jobboard/src/backend/platforms/google/googleScraper");
 const scrapeMetaJobs = require("../../jobboard/src/backend/platforms/meta/metaScraper");
@@ -25,18 +24,70 @@ const genomicsScraper = require("../../jobboard/src/backend/platforms/genomics/g
 const rivianScraper = require("../../jobboard/src/backend/platforms/rivian/rivianScraper");
 const jpmcScraper = require("../../jobboard/src/backend/platforms/jpmc/jpmcScraper");
 const honeywellScraper = require("../../jobboard/src/backend/platforms/honeywell/honeywellScraper");
-const intelScraper = require("../../jobboard/src/backend/platforms/intel/intelScraper");
-const appleScraper = require("../../jobboard/src/backend/platforms/apple/appleScraper");
 const amdScraper = require("../../jobboard/src/backend/platforms/amd/amdScraper");
 const nvidiaScraper = require("../../jobboard/src/backend/platforms/nvidia/nvidiaScraper");
+const appleScraper = require("../../jobboard/src/backend/platforms/apple/appleScraper");
+const intelScraper = require("../../jobboard/src/backend/platforms/intel/intelScraper");
+const adobeScraper = require("../../jobboard/src/backend/platforms/adobe/adobeScraper");
 const boozallenScraper = require("../../jobboard/src/backend/platforms/boozallen/boozallenScraper");
 const broadcomScraper = require("../../jobboard/src/backend/platforms/broadcom/broadcomScraper");
+const dellScraper = require("../../jobboard/src/backend/platforms/dell/dellScraper");
 const gditScraper = require("../../jobboard/src/backend/platforms/gdit/gditScraper");
 const guidehouseScraper = require("../../jobboard/src/backend/platforms/guidehouse/guidehouseScraper");
 const hpeScraper = require("../../jobboard/src/backend/platforms/hpe/hpeScraper");
 const magnaScraper = require("../../jobboard/src/backend/platforms/magna/magnaScraper");
+const salesforceScraper = require("../../jobboard/src/backend/platforms/salesforce/salesforceScraper");
 const verizonScraper = require("../../jobboard/src/backend/platforms/verizon/verizonScraper");
 const workdayScraper = require("../../jobboard/src/backend/platforms/workday/workdayScraper");
+
+// Batch processing configuration
+const BATCH_CONFIG = {
+  batchSize: 8,                    // Number of scrapers to run concurrently in each batch (8 companies)
+  delayBetweenBatches: 2000,       // Delay in milliseconds between batches (2 seconds)
+  maxRetries: 3,                   // Maximum retry attempts for failed scrapers
+  timeout: 180000,                 // Timeout for individual scrapers (3 minutes)
+  enableProgressBar: true,          // Enable progress tracking
+  enableDetailedLogging: true      // Enable detailed logging for each scraper
+};
+
+// Predefined batch configurations for different scenarios
+const BATCH_PRESETS = {
+  // Fast mode - more concurrent scrapers, shorter delays
+  fast: {
+    ...BATCH_CONFIG,
+    batchSize: 10,
+    delayBetweenBatches: 1500,
+    maxRetries: 2,
+    timeout: 120000
+  },
+  
+  // Conservative mode - fewer concurrent scrapers, longer delays
+  conservative: {
+    ...BATCH_CONFIG,
+    batchSize: 5,
+    delayBetweenBatches: 4000,
+    maxRetries: 4,
+    timeout: 240000
+  },
+  
+  // Debug mode - detailed logging, smaller batches
+  debug: {
+    ...BATCH_CONFIG,
+    batchSize: 3,
+    delayBetweenBatches: 3000,
+    maxRetries: 3,
+    timeout: 300000,
+    enableDetailedLogging: true
+  }
+};
+
+// Function to create custom batch configuration
+function createBatchConfig(options = {}) {
+  return {
+    ...BATCH_CONFIG,
+    ...options
+  };
+}
 
 // Load company database
 const companies = JSON.parse(
@@ -493,16 +544,171 @@ async function fetchAllRealJobs() {
   console.log("🚀 Starting REAL career page scraping...");
 
   const allJobs = [];
-  // const [amazonJobs, metaJobs, microsoftJobs, googleJobs, uberJobs, slackJobs] = await Promise.all([
-  //     scrapeAmazonJobs().catch(err => { console.error('❌ Amazon scraper failed:', err.message); return []; }),
-  //     scrapeMetaJobs().catch(err => { console.error('❌ Meta scraper failed:', err.message); return []; }),
-  //     microsoftScraper().catch(err => { console.error('❌ Microsoft scraper failed:', err.message); return []; }),
-  //     googleScraper().catch(err => { console.error('❌ Google scraper failed:', err.message); return []; }),
-  //     scrapeUberJobs().catch(err => { console.error('❌ Uber scraper failed:', err.message); return []; }),
-  //     scrapeSlackJobs().catch(err => { console.error('❌ Slack scraper failed:', err.message); return []; }),
-  // ]);
+  // Define scraper configurations for batch processing
+  const scraperConfigs = [
+    { name: 'Amazon', scraper: scrapeAmazonJobs, query: 'hardware engineering' },
+    { name: 'Meta', scraper: scrapeMetaJobs, query: 'hardware engineering' },
+    { name: 'Microsoft', scraper: microsoftScraper, query: 'hardware engineering' },
+    { name: 'Google', scraper: googleScraper, query: 'hardware engineering' },
+    { name: 'ARM', scraper: armScraper, query: 'hardware engineering' },
+    { name: 'Micron', scraper: micronScraper, query: 'hardware engineering' },
+    { name: 'IBM', scraper: ibmScraper, query: 'hardware engineering' },
+    { name: 'ABB', scraper: abbScraper, query: 'hardware engineering' },
+    { name: 'Infineon', scraper: infineonScraper, query: 'hardware engineering' },
+    { name: 'Texas Instruments', scraper: texasScraper, query: 'hardware engineering' },
+    { name: 'Cisco', scraper: ciscoScraper, query: 'hardware engineering' },
+    { name: 'Siemens', scraper: siemensScraper, query: 'hardware engineering' },
+    { name: 'Analog Devices', scraper: analogScraper, query: 'hardware engineering' },
+    { name: 'Marvel', scraper: MarvelScraper, query: 'hardware engineering' },
+    { name: 'AI Jobs', scraper: aijobsScraper, query: 'hardware engineering' },
+    { name: 'Waymo', scraper: waymoScraper, query: 'hardware engineering' },
+    { name: 'Applied Materials', scraper: appliedMaterialsScraper, query: 'hardware engineering' },
+    { name: 'Synopsys', scraper: synopsysScraper, query: 'hardware engineering' },
+    { name: 'Illumina', scraper: illuminaScraper, query: 'hardware engineering' },
+    { name: 'Genomics', scraper: genomicsScraper, query: 'hardware engineering' },
+    { name: 'Rivian', scraper: rivianScraper, query: 'hardware' },
+    { name: 'JPMorgan Chase', scraper: jpmcScraper, query: 'hardware' },
+    { name: 'Honeywell', scraper: honeywellScraper, query: 'hardware' },
+    { name: 'AMD', scraper: amdScraper, query: 'hardware engineering' },
+    { name: 'NVIDIA', scraper: nvidiaScraper, query: 'hardware engineering' },
+    { name: 'Apple', scraper: appleScraper, query: 'hardware engineering' },
+    { name: 'Intel', scraper: intelScraper, query: 'hardware engineering' },
+    { name: 'Booz Allen Hamilton', scraper: boozallenScraper, query: 'hardware engineering' },
+    { name: 'Broadcom', scraper: broadcomScraper, query: 'hardware engineering' },
+    { name: 'Dell', scraper: dellScraper, query: 'hardware engineering' },
+    { name: 'GDIT', scraper: gditScraper, query: 'hardware engineering' },
+    { name: 'Guidehouse', scraper: guidehouseScraper, query: 'hardware engineering' },
+    { name: 'HPE', scraper: hpeScraper, query: 'hardware engineering' },
+    { name: 'Magna', scraper: magnaScraper, query: 'hardware engineering' },
+    { name: 'Salesforce', scraper: salesforceScraper, query: 'hardware engineering' },
+    { name: 'Verizon', scraper: verizonScraper, query: 'hardware engineering' },
+    { name: 'Workday', scraper: workdayScraper, query: 'hardware engineering' }
+  ];
 
-  // allJobs.push(...amazonJobs, ...metaJobs, ...microsoftJobs, ...googleJobs, ...uberJobs, ...slackJobs);
+  // Enhanced batch processing function with retry logic and configuration
+  async function processScrapersInBatches(configs, config = BATCH_CONFIG) {
+    const results = [];
+    const totalBatches = Math.ceil(configs.length / config.batchSize);
+    
+    console.log(`🚀 Starting optimized batch processing:`);
+    console.log(`   📊 Total scrapers: ${configs.length}`);
+    console.log(`   📦 Batch size: ${config.batchSize} (8 companies per batch)`);
+    console.log(`   ⏱️  Total batches: ${totalBatches}`);
+    console.log(`   ⏳ Delay between batches: ${config.delayBetweenBatches}ms`);
+    console.log(`   🔄 Max retries: ${config.maxRetries}`);
+    
+    // Progress tracking
+    let completedScrapers = 0;
+    let successfulScrapers = 0;
+    let failedScrapers = 0;
+    
+    for (let i = 0; i < configs.length; i += config.batchSize) {
+      const batch = configs.slice(i, i + config.batchSize);
+      const batchNumber = Math.floor(i / config.batchSize) + 1;
+      
+      console.log(`\n📦 Processing Batch ${batchNumber}/${totalBatches}: ${batch.map(c => c.name).join(', ')}`);
+      
+      // Process current batch concurrently with retry logic
+      const batchPromises = batch.map(async (scraperConfig) => {
+        let lastError = null;
+        let startTime = Date.now(); // Declare startTime outside the loop
+        
+        for (let attempt = 1; attempt <= config.maxRetries; attempt++) {
+          try {
+            // Update startTime for each attempt
+            startTime = Date.now();
+            
+            // Create a timeout promise
+            const timeoutPromise = new Promise((_, reject) => {
+              setTimeout(() => reject(new Error('Scraper timeout')), config.timeout);
+            });
+            
+            // Race between scraper and timeout
+            const jobs = await Promise.race([
+              scraperConfig.scraper(scraperConfig.query),
+              timeoutPromise
+            ]);
+            
+            const duration = Date.now() - startTime;
+            completedScrapers++;
+            successfulScrapers++;
+            
+            if (config.enableDetailedLogging) {
+              console.log(`✅ ${scraperConfig.name}: ${jobs.length} jobs in ${duration}ms (Attempt ${attempt})`);
+            }
+            
+            return { 
+              name: scraperConfig.name, 
+              jobs, 
+              duration, 
+              success: true, 
+              attempts: attempt,
+              error: null 
+            };
+            
+          } catch (error) {
+            lastError = error;
+            if (config.enableDetailedLogging) {
+              console.log(`⚠️  ${scraperConfig.name} attempt ${attempt} failed: ${error.message}`);
+            }
+            
+            // If this is the last attempt, mark as failed
+            if (attempt === config.maxRetries) {
+              const duration = Date.now() - startTime;
+              completedScrapers++;
+              failedScrapers++;
+              
+              console.error(`❌ ${scraperConfig.name} failed after ${config.maxRetries} attempts: ${error.message}`);
+              
+              return { 
+                name: scraperConfig.name, 
+                jobs: [], 
+                duration: duration, 
+                success: false, 
+                attempts: attempt,
+                error: error.message 
+              };
+            }
+            
+            // Wait before retry (exponential backoff)
+            const retryDelay = Math.min(1000 * Math.pow(2, attempt - 1), 5000);
+            if (config.enableDetailedLogging) {
+              console.log(`⏳ Retrying ${scraperConfig.name} in ${retryDelay}ms...`);
+              await new Promise(resolve => setTimeout(resolve, retryDelay));
+            }
+          }
+        }
+      });
+      
+      // Wait for current batch to complete
+      const batchResults = await Promise.all(batchPromises);
+      results.push(...batchResults);
+      
+      // Progress update
+      const progress = ((completedScrapers / configs.length) * 100).toFixed(1);
+      console.log(`📈 Progress: ${completedScrapers}/${configs.length} (${progress}%) - Success: ${successfulScrapers}, Failed: ${failedScrapers}`);
+      
+      // Add delay between batches (except for the last batch)
+      if (i + config.batchSize < configs.length) {
+        console.log(`⏳ Waiting ${config.delayBetweenBatches}ms before next batch...`);
+        await new Promise(resolve => setTimeout(resolve, config.delayBetweenBatches));
+      }
+    }
+    
+    return results;
+  }
+
+  // Process all scrapers in optimized batches
+  // You can use different configurations:
+  // - BATCH_CONFIG (default: 8 companies per batch, 2s delay)
+  // - BATCH_PRESETS.fast (10 companies per batch, 1.5s delay)
+  // - BATCH_PRESETS.conservative (5 companies per batch, 4s delay)
+  // - BATCH_PRESETS.debug (3 companies per batch, 3s delay)
+  // - createBatchConfig({ batchSize: 12, delayBetweenBatches: 1000 }) (custom)
+  
+  const batchResults = await processScrapersInBatches(scraperConfigs, BATCH_CONFIG);
+  
+  // Extract individual results for backward compatibility
   const [
     amazon_Hardware,
     meta_Hardware,
@@ -520,172 +726,30 @@ async function fetchAllRealJobs() {
     Marvel_Hardware,
     aijobs_Hardware,
     waymo_Hardware,
-    illumina_Hardware,
-    synopsys_Hardware,
     appliedMaterials_Hardware,
+    synopsys_Hardware,
+    illumina_Hardware,
     genomics_Hardware,
     rivian_Hardware,
     jpmc_Hardware,
     honeywell_Hardware,
-    intel_Hardware,
-    apple_Hardware,
-    amd_Hardware,
+    amd_Hardware,  
     nvidia_Hardware,
+    apple_Hardware,
+    intel_Hardware,
     boozallen_Hardware,
     broadcom_Hardware,
+    dell_Hardware,
     gdit_Hardware,
     guidehouse_Hardware,
     hpe_Hardware,
     magna_Hardware,
+    salesforce_Hardware,
     verizon_Hardware,
-    workday_Hardware,  
+    workday_Hardware,
+  ] = batchResults.map(result => result.jobs);
 
-  ] = await Promise.all([
-    scrapeAmazonJobs("hardware engineering").catch((err) => {
-      console.error("❌ Amazon scraper failed:", err.message);
-      return [];
-    }),
-    scrapeMetaJobs("hardware engineering").catch((err) => {
-      console.error("❌ Meta scraper failed:", err.message);
-      return [];
-    }),
-    microsoftScraper("hardware engineering").catch((err) => {
-      console.error("❌ Microsoft scraper failed:", err.message);
-      return [];
-    }),
-    googleScraper("Hardware Engineering").catch((err) => {
-      console.error("❌ Google scraper failed:", err.message);
-      return [];
-    }),
-    armScraper("Hardware Engineering").catch((err) => {
-      console.error("❌ ARM scraper failed:", err.message);
-      return [];
-    }),
-    micronScraper("hardware engineering").catch((err) => {
-      console.error("❌ Micron scraper failed:", err.message);
-      return [];
-    }),
-    ibmScraper("Hardware Engineering").catch((err) => {
-      console.error("❌ IBM scraper failed:", err.message);
-      return [];
-    }),
-    abbScraper("hardware engineering").catch((err) => {
-      console.error("❌ ABB scraper failed:", err.message);
-      return [];
-    }),
-    infineonScraper("hardware engineering").catch((err) => {
-      console.error("❌ Infineon scraper failed:", err.message);
-      return [];
-    }),
-    texasScraper("hardware engineering").catch((err) => {
-      console.error("❌ Texas Instruments scraper failed:", err.message);
-      return [];
-    }),
-    ciscoScraper("hardware engineering").catch((err) => {
-      console.error("❌ Cisco scraper failed:", err.message);
-      return [];
-    }),
-    siemensScraper("hardware engineering").catch((err) => {
-      console.error("❌ Siemens scraper failed:", err.message);
-      return [];
-    }),
-    analogScraper("hardware engineering").catch((err) => {
-      console.error("❌ Analog Devices scraper failed:", err.message);
-      return [];
-    }),
-    MarvelScraper("hardware engineering").catch((err) => {
-      console.error("❌ Marvel scraper failed:", err.message);
-      return [];
-    }),
-    aijobsScraper("hardware engineering").catch((err) => {
-      console.error("❌ AI Jobs scraper failed:", err.message);
-      return [];
-    }),
-    waymoScraper("hardware engineering").catch((err) => {
-      console.error("❌ Waymo scraper failed:", err.message);
-      return [];
-    }),
-    illuminaScraper("hardware engineering").catch((err) => {
-      console.error("❌ Illumina scraper failed:", err.message);
-      return [];
-    }),
-    synopsysScraper("hardware engineering").catch((err) => {
-      console.error("❌ Synopsys scraper failed:", err.message);
-      return [];
-    }),
-    appliedMaterialsScraper("hardware engineering").catch((err) => {
-      console.error("❌ Applied Materials scraper failed:", err.message);
-      return [];
-    }),
-  
-    genomicsScraper("Hardware").catch((err) => {
-      console.error("❌ Genomics scraper failed:", err.message);
-      return [];
-    }),
-    rivianScraper("Hardware").catch((err) => {
-      console.error("❌ Rivian scraper failed:", err.message);
-      return [];
-    }),
-    jpmcScraper("Hardware").catch((err) => {
-      console.error("❌ JPMorgan Chase scraper failed:", err.message);
-      return [];
-    }),
-
-    honeywellScraper("Hardware").catch((err) => {
-      console.error("❌ Honeywell scraper failed:", err.message);
-      return [];
-    }),
-    intelScraper("hardware engineering").catch((err) => {
-      console.error("❌ Intel scraper failed:", err.message);
-      return [];
-    }),
-    appleScraper("hardware engineering").catch((err) => {
-      console.error("❌ Apple scraper failed:", err.message);
-      return [];
-    }),
-    amdScraper("hardware engineering").catch((err) => {
-      console.error("❌ AMD scraper failed:", err.message);
-      return [];
-    }),
-    nvidiaScraper("hardware engineering").catch((err) => {
-      console.error("❌ Nvidia scraper failed:", err.message);
-      return [];
-    }),
-    boozallenScraper("hardware engineering").catch((err) => {
-      console.error("❌ Booz Allen scraper failed:", err.message);
-      return [];
-    } ),
-    broadcomScraper("hardware engineering").catch((err) => {
-      console.error("❌ Broadcom scraper failed:", err.message);
-      return [];
-    }),
-    gditScraper("hardware engineering").catch((err) => {
-      console.error("❌ GDIT scraper failed:", err.message);      
-      return [];
-    } ),
-    guidehouseScraper("hardware engineering").catch((err) => {
-      console.error("❌ Guidehouse scraper failed:", err.message);  
-      return [];
-    }
-    ),
-    hpeScraper("hardware engineering").catch((err) => {
-      console.error("❌ HPE scraper failed:", err.message);
-      return [];
-    }),
-    magnaScraper("hardware engineering").catch((err) => {
-      console.error("❌ Magna scraper failed:", err.message); 
-      return [];
-    }),
-    verizonScraper("hardware engineering").catch((err) => {
-      console.error("❌ Verizon scraper failed:", err.message);
-      return [];
-    }),
-    workdayScraper("hardware engineering").catch((err) => {
-      console.error("❌ Workday scraper failed:", err.message);
-      return [];
-    }),
-  ]);
-
+  // Add all jobs to the results array
   allJobs.push(
     ...amazon_Hardware,
     ...meta_Hardware,
@@ -703,27 +767,30 @@ async function fetchAllRealJobs() {
     ...Marvel_Hardware,
     ...aijobs_Hardware,
     ...waymo_Hardware,
-    ...illumina_Hardware,
-    ...synopsys_Hardware,
     ...appliedMaterials_Hardware,
+    ...synopsys_Hardware,
+    ...illumina_Hardware,
     ...genomics_Hardware,
-    ...rivian_Hardware, 
+    ...rivian_Hardware,
     ...jpmc_Hardware,
-    ...honeywell_Hardware
-    , ...intel_Hardware,
-    ...apple_Hardware,
+    ...honeywell_Hardware,
     ...amd_Hardware,
     ...nvidia_Hardware,
+    ...apple_Hardware,
+    ...intel_Hardware,
     ...boozallen_Hardware,
     ...broadcom_Hardware,
+    ...dell_Hardware,
     ...gdit_Hardware,
     ...guidehouse_Hardware,
     ...hpe_Hardware,
     ...magna_Hardware,
+    ...salesforce_Hardware,
     ...verizon_Hardware,
-    ...workday_Hardware
-
+    ...workday_Hardware,
   );
+
+  console.log(allJobs);
 
   const companiesWithAPIs = Object.keys(CAREER_APIS);
 
