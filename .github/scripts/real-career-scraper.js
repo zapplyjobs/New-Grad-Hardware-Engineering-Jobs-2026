@@ -29,6 +29,15 @@ const intelScraper = require("../../jobboard/src/backend/platforms/intel/intelSc
 const appleScraper = require("../../jobboard/src/backend/platforms/apple/appleScraper");
 const amdScraper = require("../../jobboard/src/backend/platforms/amd/amdScraper");
 const nvidiaScraper = require("../../jobboard/src/backend/platforms/nvidia/nvidiaScraper");
+const boozallenScraper = require("../../jobboard/src/backend/platforms/boozallen/boozallenScraper");
+const broadcomScraper = require("../../jobboard/src/backend/platforms/broadcom/broadcomScraper");
+const gditScraper = require("../../jobboard/src/backend/platforms/gdit/gditScraper");
+const guidehouseScraper = require("../../jobboard/src/backend/platforms/guidehouse/guidehouseScraper");
+const hpeScraper = require("../../jobboard/src/backend/platforms/hpe/hpeScraper");
+const magnaScraper = require("../../jobboard/src/backend/platforms/magna/magnaScraper");
+const verizonScraper = require("../../jobboard/src/backend/platforms/verizon/verizonScraper");
+const workdayScraper = require("../../jobboard/src/backend/platforms/workday/workdayScraper");
+
 // Load company database
 const companies = JSON.parse(
   fs.readFileSync("./.github/scripts/job-fetcher/companies.json", "utf8")
@@ -522,6 +531,15 @@ async function fetchAllRealJobs() {
     apple_Hardware,
     amd_Hardware,
     nvidia_Hardware,
+    boozallen_Hardware,
+    broadcom_Hardware,
+    gdit_Hardware,
+    guidehouse_Hardware,
+    hpe_Hardware,
+    magna_Hardware,
+    verizon_Hardware,
+    workday_Hardware,  
+
   ] = await Promise.all([
     scrapeAmazonJobs("hardware engineering").catch((err) => {
       console.error("❌ Amazon scraper failed:", err.message);
@@ -633,6 +651,39 @@ async function fetchAllRealJobs() {
       console.error("❌ Nvidia scraper failed:", err.message);
       return [];
     }),
+    boozallenScraper("hardware engineering").catch((err) => {
+      console.error("❌ Booz Allen scraper failed:", err.message);
+      return [];
+    } ),
+    broadcomScraper("hardware engineering").catch((err) => {
+      console.error("❌ Broadcom scraper failed:", err.message);
+      return [];
+    }),
+    gditScraper("hardware engineering").catch((err) => {
+      console.error("❌ GDIT scraper failed:", err.message);      
+      return [];
+    } ),
+    guidehouseScraper("hardware engineering").catch((err) => {
+      console.error("❌ Guidehouse scraper failed:", err.message);  
+      return [];
+    }
+    ),
+    hpeScraper("hardware engineering").catch((err) => {
+      console.error("❌ HPE scraper failed:", err.message);
+      return [];
+    }),
+    magnaScraper("hardware engineering").catch((err) => {
+      console.error("❌ Magna scraper failed:", err.message); 
+      return [];
+    }),
+    verizonScraper("hardware engineering").catch((err) => {
+      console.error("❌ Verizon scraper failed:", err.message);
+      return [];
+    }),
+    workdayScraper("hardware engineering").catch((err) => {
+      console.error("❌ Workday scraper failed:", err.message);
+      return [];
+    }),
   ]);
 
   allJobs.push(
@@ -662,7 +713,16 @@ async function fetchAllRealJobs() {
     , ...intel_Hardware,
     ...apple_Hardware,
     ...amd_Hardware,
-    ...nvidia_Hardware
+    ...nvidia_Hardware,
+    ...boozallen_Hardware,
+    ...broadcom_Hardware,
+    ...gdit_Hardware,
+    ...guidehouse_Hardware,
+    ...hpe_Hardware,
+    ...magna_Hardware,
+    ...verizon_Hardware,
+    ...workday_Hardware
+
   );
 
   const companiesWithAPIs = Object.keys(CAREER_APIS);
