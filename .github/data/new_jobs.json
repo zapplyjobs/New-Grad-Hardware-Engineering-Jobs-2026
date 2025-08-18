@@ -1,202 +1,43 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "Server Platform Debug Engineer",
-    "job_city": "US",
-    "job_state": "TX",
+    "job_title": "Cleared Project Design Elec Engineer, ADC Fleet Remediation Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "hardware engineering job for the role Cleared Project Design Elec Engineer, ADC Fleet Remediation Engineering at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2944247/cleared-project-design-elec-engineer-adc-fleet-remediation-engineering",
+    "job_posted_at": "2025-08-18T15:29:52.057Z",
+    "job_posted_at_datetime_utc": "2025-08-18T15:29:52.057Z",
+    "id": "amazon-cleared-project-design-elec-engineer-adc-fleet-remediation-engineering-herndon"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Sr. Engineer, SIG Electrical Design Lead",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted 16 hours ago",
+    "job_description": "hardware engineering job for the role Sr. Engineer, SIG Electrical Design Lead at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30791841",
+    "id": "micron-sr-engineer-sig-electrical-design-lead-san-jose"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Sr. Strategy & Planning Program Manager - Hardware Refresh/Migrations (1445261)",
+    "job_city": "Offsite",
+    "job_state": "San Jose",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Server Platform Debug Engineer at US,TX,Austin-MET\n8000 Metropolis Drive\nAustin, Texas\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/68926/login",
-    "id": "amd-server-platform-debug-engineer-us"
+    "job_description": "hardware engineering job for the role Sr. Strategy & Planning Program Manager - Hardware Refresh/Migrations (1445261) at Offsite, San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Sr-Strategy-Planning-Program-Manager-Hardware-Refresh-Migrations-1445261/1445261",
+    "id": "cisco-sr-strategy-planning-program-manager-hardware-refresh-migrations-1445261-offsite"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "Software System Design Engineer for Confidential Computing",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software System Design Engineer for Confidential Computing at US,TX,Austin-MET\n8000 Metropolis Drive\nAustin, Texas\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/66586/login",
-    "id": "amd-software-system-design-engineer-for-confidential-computing-us"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Timing Design Engineer",
-    "job_city": "Durham",
-    "job_state": "US",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role Timing Design Engineer at Durham",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200607222-0626/timing-design-engineer?team=HRDWR",
-    "id": "apple-timing-design-engineer-durham"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Debug Tools Engineer",
-    "job_city": "Beaverton",
-    "job_state": "US",
-    "job_posted_at": "4 months ago",
-    "job_description": "hardware engineering job for the role Debug Tools Engineer at Beaverton",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200566164-0505/debug-tools-engineer?team=HRDWR",
-    "id": "apple-debug-tools-engineer-beaverton"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "CPU Power Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "California",
-    "job_posted_at": "1 month ago",
-    "job_description": "hardware engineering job for the role CPU Power Engineer at Santa Clara",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200583470-3760/cpu-power-engineer?team=HRDWR",
-    "id": "apple-cpu-power-engineer-santa-clara"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "System Design Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role System Design Engineer at Santa Clara",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200609609-3760/system-design-engineer?team=HRDWR",
-    "id": "apple-system-design-engineer-santa-clara"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "System Design Engineer",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role System Design Engineer at San Diego",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200609611-3543/system-design-engineer?team=HRDWR",
-    "id": "apple-system-design-engineer-san-diego"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Wireless Module Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "1 month ago",
-    "job_description": "hardware engineering job for the role Wireless Module Engineer at Sunnyvale",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200571295-3956/wireless-module-engineer?team=HRDWR",
-    "id": "apple-wireless-module-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Silicon Validation Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "1 month ago",
-    "job_description": "hardware engineering job for the role Silicon Validation Engineer at Sunnyvale",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200612199-3956/silicon-validation-engineer?team=HRDWR",
-    "id": "apple-silicon-validation-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Emulation Verification Engineer",
-    "job_city": "Beaverton",
-    "job_state": "US",
-    "job_posted_at": "1 month ago",
-    "job_description": "hardware engineering job for the role Emulation Verification Engineer at Beaverton",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200607781-0505/emulation-verification-engineer?team=HRDWR",
-    "id": "apple-emulation-verification-engineer-beaverton"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Sr. Systems Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Sr. Systems Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200587944-0836/sr-systems-engineer?team=HRDWR",
-    "id": "apple-sr-systems-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Power Integrity Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "California",
-    "job_posted_at": "1 month ago",
-    "job_description": "hardware engineering job for the role Power Integrity Engineer at Santa Clara",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200613316-3760/power-integrity-engineer?team=HRDWR",
-    "id": "apple-power-integrity-engineer-santa-clara"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "TFT Process Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role TFT Process Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200609050-0836/tft-process-engineer?team=HRDWR",
-    "id": "apple-tft-process-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Application Security Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role Application Security Engineer at Austin",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200600169-0157/application-security-engineer?team=SFTWR",
-    "id": "apple-application-security-engineer-austin"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Optical Systems Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Optical Systems Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200614136-0836/optical-systems-engineer?team=HRDWR",
-    "id": "apple-optical-systems-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "ASIC Design Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "hardware engineering job for the role ASIC Design Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200614337-0836/asic-design-engineer?team=HRDWR",
-    "id": "apple-asic-design-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Semiconductor Facilities Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "California",
-    "job_posted_at": "1 month ago",
-    "job_description": "hardware engineering job for the role Semiconductor Facilities Engineer at Santa Clara",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200608700-3760/semiconductor-facilities-engineer?team=HRDWR",
-    "id": "apple-semiconductor-facilities-engineer-santa-clara"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "CoreOS Quality Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "1 month ago",
-    "job_description": "hardware engineering job for the role CoreOS Quality Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200611677-0836/coreos-quality-engineer?team=SFTWR",
-    "id": "apple-coreos-quality-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Flex DFM Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Flex DFM Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200615153-0836/flex-dfm-engineer?team=OPMFG",
-    "id": "apple-flex-dfm-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "AI UX/UI Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role AI UX/UI Engineer at Austin",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200612161-0157/ai-ux-ui-engineer?team=SLDEV",
-    "id": "apple-ai-ux-ui-engineer-austin"
+    "employer_name": "Verizon",
+    "job_title": "Network Administrator",
+    "job_city": "Boise",
+    "job_state": "ID",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Network Administrator at Boise, ID",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Boise-ID/Network-Administrator_R0224434?q=hardware+engineering",
+    "id": "verizon-network-administrator-boise"
   }
 ]
