@@ -1,72 +1,292 @@
 [
   {
-    "employer_name": "WAYMO",
-    "job_title": "Systems Engineer - Networks and Architecture",
-    "job_city": "Mountain View",
+    "employer_name": "Micron",
+    "job_title": "DRAM Product Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "hardware engineering job for the role DRAM Product Engineer at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30826027",
+    "id": "micron-dram-product-engineer-manassas"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Electrical Design Engineer Lead",
+    "job_city": "San Jose",
     "job_state": "California",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "hardware engineering job for the role Senior Electrical Design Engineer Lead at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30791841",
+    "id": "micron-electrical-design-engineer-lead-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Consultant, Data Engineering",
+    "job_city": "Phoenix",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Systems Engineer - Networks and Architecture at Mountain View, California",
-    "job_apply_link": "https://careers.withwaymo.com/jobs/systems-engineer-networks-and-architecture-mountain-view-california-united-states",
-    "id": "waymo-systems-engineer-networks-and-architecture-mountain-view"
+    "job_description": "hardware engineering job for the role Consultant, Data Engineering at ProfessionalPhoenix, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53296&source=WEB_Search_NA",
+    "id": "ibm-consultant-data-engineering-phoenix"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Consultant - AI Engineering",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Consultant - AI Engineering at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53320&source=WEB_Search_NA",
+    "id": "ibm-consultant-ai-engineering-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Innovation Designer Intern– Entry Level Sales Program",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Innovation Designer Intern– Entry Level Sales Program 2026 at InternshipWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53114&source=WEB_Search_NA",
+    "id": "ibm-innovation-designer-intern-entry-level-sales-program-washington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Innovation Designer – Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Innovation Designer – Entry Level Sales Program 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53326&source=WEB_Search_NA",
+    "id": "ibm-innovation-designer-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Platform Engineer – Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Platform Engineer – Entry Level Sales Program 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53131&source=WEB_Search_NA",
+    "id": "ibm-platform-engineer-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Business Technology Leader Intern – Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Business Technology Leader Intern – Entry Level Sales Program 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53106&source=WEB_Search_NA",
+    "id": "ibm-business-technology-leader-intern-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Business Technology Leader – Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Business Technology Leader – Entry Level Sales Program 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53110&source=WEB_Search_NA",
+    "id": "ibm-business-technology-leader-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Engineer – Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role AI Engineer – Entry Level Sales Program 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53107&source=WEB_Search_NA",
+    "id": "ibm-ai-engineer-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Digital Technical Specialist – Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Digital Technical Specialist – Entry Level Sales Program 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53593&source=WEB_Search_NA",
+    "id": "ibm-digital-technical-specialist-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Digital Technical Specialist Intern – Entry Level Sales  Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Digital Technical Specialist Intern – Entry Level Sales  Program 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53607&source=WEB_Search_NA",
+    "id": "ibm-digital-technical-specialist-intern-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Digital Seller Intern– Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Digital Seller Intern– Entry Level Sales Program 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53587&source=WEB_Search_NA",
+    "id": "ibm-digital-seller-intern-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Digital Seller – Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Digital Seller – Entry Level Sales Program 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53144&source=WEB_Search_NA",
+    "id": "ibm-digital-seller-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Brand Technical Specialist– Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Brand Technical Specialist– Entry Level Sales Program 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52904&source=WEB_Search_NA",
+    "id": "ibm-brand-technical-specialist-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Brand Sales Specialist Intern – Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Brand Sales Specialist Intern – Entry Level Sales Program 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53555&source=WEB_Search_NA",
+    "id": "ibm-brand-sales-specialist-intern-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Platform Engineer Intern – Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Platform Engineer Intern – Entry Level Sales Program 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53603&source=WEB_Search_NA",
+    "id": "ibm-platform-engineer-intern-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Brand Technical Specialist Intern – Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Brand Technical Specialist Intern – Entry Level Sales Program 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52919&source=WEB_Search_NA",
+    "id": "ibm-brand-technical-specialist-intern-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Brand Sales Specialist– Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Brand Sales Specialist– Entry Level Sales Program 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53111&source=WEB_Search_NA",
+    "id": "ibm-brand-sales-specialist-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Solutions Engineer",
+    "job_city": "HERNDON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Sr. Solutions Engineer at ProfessionalHERNDON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53261&source=WEB_Search_NA",
+    "id": "ibm-sr-solutions-engineer-herndon"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Engineer Intern– Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role AI Engineer Intern– Entry Level Sales Program 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53118&source=WEB_Search_NA",
+    "id": "ibm-ai-engineer-intern-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Support Professional",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Technical Support Professional at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53127&source=WEB_Search_NA",
+    "id": "ibm-technical-support-professional-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Customer Success Manager- Brand Specialist Intern – Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Customer Success Manager- Brand Specialist Intern – Entry Level Sales Program 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53150&source=WEB_Search_NA",
+    "id": "ibm-customer-success-manager-brand-specialist-intern-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Customer Success Manager -Brand Specialist – Entry Level Sales Program",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Customer Success Manager -Brand Specialist – Entry Level Sales Program 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53149&source=WEB_Search_NA",
+    "id": "ibm-customer-success-manager-brand-specialist-entry-level-sales-program-multiple-cities"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Test Engineer, R&D",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "42min ago",
+    "job_description": "hardware engineering job for the role Test Engineer, R&D at Hayward, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156138905-test-engineer-r-d",
+    "id": "aijobs-test-engineer-r-d-us"
   },
   {
     "employer_name": "HONEYWELL",
-    "job_title": "Sr Account Manager-Honeywell Building Solutions-Healthcare",
-    "job_city": "",
-    "job_state": "CO",
+    "job_title": "Advanced Software Engineer - (DACS) Data Acquisition and Control Systems",
+    "job_city": "Torrance",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware job for the role Sr Account Manager-Honeywell Building Solutions-Healthcare-Remote (CO, WY, MT, ID) at CO, United States",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/113231/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-sr-account-manager-honeywell-building-solutions-healthcare-"
+    "job_description": "hardware job for the role Advanced Software Engineer - (DACS) Data Acquisition and Control Systems at Torrance, CA, United States",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/112651/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-advanced-software-engineer-dacs-data-acquisition-and-control-systems-torrance"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "ML Engineer, Siri AI Quality Engineering",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Senior ML Engineer, Siri AI Quality Engineering at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200614653-0836/senior-ml-engineer-siri-ai-quality-engineering?team=MLAI",
-    "id": "apple-ml-engineer-siri-ai-quality-engineering-cupertino"
+    "employer_name": "AMD",
+    "job_title": "Solutions Architect - Southeast",
+    "job_city": "US",
+    "job_state": "GA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Solutions Architect - Southeast at US,GA,Home Office\nGEORGIA, Georgia\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/68814/login",
+    "id": "amd-solutions-architect-southeast-us"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Embedded SW/FW Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role Embedded SW/FW Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200608622-0836/embedded-sw-fw-engineer?team=HRDWR",
-    "id": "apple-embedded-sw-fw-engineer-cupertino"
+    "employer_name": "AMD",
+    "job_title": "Firmware/Simulation Design Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Firmware/Simulation Design Engineer at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/68838/login",
+    "id": "amd-firmware-simulation-design-engineer-us"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "CPU Performance Engineer",
-    "job_city": "Beaverton",
-    "job_state": "US",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role CPU Performance Engineer at Beaverton",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200608697-0505/cpu-performance-engineer?team=HRDWR",
-    "id": "apple-cpu-performance-engineer-beaverton"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Camera Mechanical Engineer",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Camera Mechanical Engineer at ",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200615921-3401/camera-mechanical-engineer?team=HRDWR",
-    "id": "apple-camera-mechanical-engineer-unknown"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Firmware Verification Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "4 months ago",
-    "job_description": "hardware engineering job for the role Firmware Verification Engineer at Sunnyvale",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200598324-3956/firmware-verification-engineer?team=HRDWR",
-    "id": "apple-firmware-verification-engineer-sunnyvale"
+    "employer_name": "NVIDIA",
+    "job_title": "DGX Cloud AI Infrastructure Software Engineer",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 24 Days Ago",
+    "job_description": "hardware engineering job for the role Senior DGX Cloud AI Infrastructure Software Engineer at 6 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DGX-Cloud-AI-Infrastructure-Software-Engineer_JR1999318?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-dgx-cloud-ai-infrastructure-software-engineer-6-locations"
   }
 ]
