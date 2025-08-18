@@ -1,42 +1,22 @@
 [
   {
-    "employer_name": "NVIDIA",
-    "job_title": "Technical Marketing Engineer - Telecom",
+    "employer_name": "INFINEON",
+    "job_title": "Graduate - Senior Engineer Digital IC Design",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Graduate - Senior Engineer Digital IC Design at San Jose",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-graduate-senior-engineer-digital-ic-design-san-jose"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Sr. Staff Software Development Engineer: SW Architecture, C/C++, Embedded Linux",
     "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Technical Marketing Engineer - Telecom at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineer---Telecom_JR1999920-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-technical-marketing-engineer-telecom-us"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, QE - Apple Services Engineering",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Software Engineer, QE - Apple Services Engineering at Seattle",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200604652-3337/software-engineer-qe-apple-services-engineering?team=SFTWR",
-    "id": "apple-software-engineer-qe-apple-services-engineering-seattle"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Web Front-End Engineer - Retail Engineering",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "5 months ago",
-    "job_description": "hardware engineering job for the role Senior Web Front-End Engineer - Retail Engineering at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200590355-0836/senior-web-front-end-engineer-retail-engineering?team=SFTWR",
-    "id": "apple-web-front-end-engineer-retail-engineering-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer - Apple Services Engineering (ASE)",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "5 months ago",
-    "job_description": "hardware engineering job for the role Software Engineer - Apple Services Engineering (ASE) at Seattle",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200590981-3337/software-engineer-apple-services-engineering-ase?team=SFTWR",
-    "id": "apple-software-engineer-apple-services-engineering-ase-seattle"
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Sr. Staff Software Development Engineer: SW Architecture, C/C++, Embedded Linux at US,CA,San Jose\n2100 Logic Drive\nSan Jose, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/69102/login",
+    "id": "amd-sr-staff-software-development-engineer-sw-architecture-c-c-embedded-linux-us"
   }
 ]
