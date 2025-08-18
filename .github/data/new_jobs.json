@@ -1,32 +1,12 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Service Desk Team Lead",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Service Desk Team Lead at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/service-desk-team-lead/33099/81527238400",
-    "id": "arm-service-desk-team-lead-bengaluru"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Brand Creative Lead, APAC",
-    "job_city": "Taipei",
+    "job_title": "Quality and Reliability Engineer",
+    "job_city": "Hsinchu",
     "job_state": "Taiwan",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Brand Creative Lead, APAC at Taipei, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/taipei/brand-creative-lead-apac/33099/85051958880",
-    "id": "arm-brand-creative-lead-apac-taipei"
-  },
-  {
-    "employer_name": "GDIT",
-    "job_title": "Software Developer Senior Advisor",
-    "job_city": "USA CA Point Mugu",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Software Developer Senior Advisor at USA CA Point Mugu",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-Point-Mugu/Software-Developer-Senior-Advisor_RQ205572-1?q=hardware+engineering",
-    "id": "gdit-software-developer-senior-advisor-usa-ca-point-mugu"
+    "job_description": "hardware engineering job for the role Principal Quality and Reliability Engineer at Hsinchu, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/hsinchu/principal-quality-and-reliability-engineer/33099/84729457424",
+    "id": "arm-quality-and-reliability-engineer-hsinchu"
   }
 ]
