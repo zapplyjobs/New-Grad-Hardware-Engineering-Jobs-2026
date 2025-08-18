@@ -1,12 +1,202 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Quality and Reliability Engineer",
-    "job_city": "Hsinchu",
-    "job_state": "Taiwan",
+    "employer_name": "Google",
+    "job_title": "Technical Program Manager II",
+    "job_city": "Kirkland",
+    "job_state": "WA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Principal Quality and Reliability Engineer at Hsinchu, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/hsinchu/principal-quality-and-reliability-engineer/33099/84729457424",
-    "id": "arm-quality-and-reliability-engineer-hsinchu"
+    "job_description": "6 Category: hardware engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Program Manager II, Partner Engineering, Pixel",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/113082325289312966-technical-program-manager-ii-partner-engineering-pixel?q=%22hardware+engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-technical-program-manager-ii-kirkland"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Support Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Technical Support Engineer at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52137&source=WEB_Search_NA",
+    "id": "ibm-technical-support-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Computer Operator - Plano TX",
+    "job_city": "Plano",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Computer Operator - Plano TX at Entry LevelPlano, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50231&source=WEB_Search_NA",
+    "id": "ibm-computer-operator-plano-tx-plano"
+  },
+  {
+    "employer_name": "10x Genomics",
+    "job_title": "Software Engineer, AI Solutions",
+    "job_city": "Remote",
+    "job_state": "California",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering position at 10x Genomics - Staff Software Engineer, AI Solutions",
+    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171828751230",
+    "id": "10x-genomics-software-engineer-ai-solutions-remote"
+  },
+  {
+    "employer_name": "10x Genomics",
+    "job_title": "Software Engineer, Visualization",
+    "job_city": "Remote",
+    "job_state": "California",
+    "job_posted_at": "21 days ago",
+    "job_description": "hardware engineering position at 10x Genomics - Staff Software Engineer, Visualization",
+    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171829205543",
+    "id": "10x-genomics-software-engineer-visualization-remote"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineering Internships",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Software Engineering Internships at ",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200606145-3810/software-engineering-internships?team=STDNT",
+    "id": "apple-software-engineering-internships-unknown"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "GNSS Systems Engineer",
+    "job_city": "Irvine",
+    "job_state": "US",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role GNSS Systems Engineer at Irvine",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200605033-1697/gnss-systems-engineer?team=HRDWR",
+    "id": "apple-gnss-systems-engineer-irvine"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "iOS/macOS Engineer, Evaluation",
+    "job_city": "Santa Clara",
+    "job_state": "California",
+    "job_posted_at": "1 month ago",
+    "job_description": "hardware engineering job for the role iOS/macOS Engineer, Evaluation at Santa Clara",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200612836-3760/ios-macos-engineer-evaluation?team=SFTWR",
+    "id": "apple-ios-macos-engineer-evaluation-santa-clara"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "RF/mmW Test Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role RF/mmW Test Engineer at Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200605780-3956/rf-mmw-test-engineer?team=HRDWR",
+    "id": "apple-rf-mmw-test-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Display Algorithm Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Display Algorithm Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200614163-0836/display-algorithm-engineer?team=HRDWR",
+    "id": "apple-display-algorithm-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Applications Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Applications Engineer at Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200614942-3956/senior-applications-engineer?team=SFTWR",
+    "id": "apple-applications-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Internationalization",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Internationalization at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200595732-0836/software-engineer-internationalization?team=SFTWR",
+    "id": "apple-software-engineer-internationalization-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineering Manager",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Software Engineering Manager at Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200596409-3956/software-engineering-manager?team=HRDWR",
+    "id": "apple-software-engineering-manager-sunnyvale"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Build Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Software Build Engineer at San Diego",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200614011-3543/software-build-engineer?team=SFTWR",
+    "id": "apple-software-build-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "DFM PCBA Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "6 months ago",
+    "job_description": "hardware engineering job for the role DFM PCBA Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200592169-0836/dfm-pcba-engineer?team=HRDWR",
+    "id": "apple-dfm-pcba-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "RFIC Layout Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role RFIC Layout Engineer at Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200574805-3956/rfic-layout-engineer?team=HRDWR",
+    "id": "apple-rfic-layout-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Payments",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Payments at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200608180-0836/software-engineer-payments?team=SFTWR",
+    "id": "apple-software-engineer-payments-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "RF Systems Engineer",
+    "job_city": "Waltham",
+    "job_state": "US",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role RF Systems Engineer at Waltham",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200598155-6205/rf-systems-engineer?team=HRDWR",
+    "id": "apple-rf-systems-engineer-waltham"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Display Metrology Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "hardware engineering job for the role Display Metrology Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200587320-0836/display-metrology-engineer?team=HRDWR",
+    "id": "apple-display-metrology-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Sr.  Electrical Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Sr.  Electrical Engineer at Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200615524-3956/sr-electrical-engineer?team=SFTWR",
+    "id": "apple-sr-electrical-engineer-sunnyvale"
   }
 ]
