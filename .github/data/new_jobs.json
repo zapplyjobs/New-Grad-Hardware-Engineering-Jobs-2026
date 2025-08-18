@@ -1,82 +1,52 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Engineering Manager",
-    "job_city": "Madison",
-    "job_state": "WI",
-    "job_posted_at": "Recently",
-    "job_description": "27 Category: hardware engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Engineering Manager, MindMeld",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/104714715384423110-engineering-manager-mindmeld?q=%22hardware+engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-engineering-manager-madison"
-  },
-  {
     "employer_name": "Arm",
-    "job_title": "CPU Architect",
+    "job_title": "Safety Engineer",
     "job_city": "Sophia Antipolis",
     "job_state": "France",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior CPU Architect at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-cpu-architect/33099/76257729200",
-    "id": "arm-cpu-architect-sophia-antipolis"
+    "job_description": "hardware engineering job for the role Senior Safety Engineer at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-safety-engineer/33099/80099076608",
+    "id": "arm-safety-engineer-sophia-antipolis"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Software Engineer (Automotive SW)",
+    "job_title": "CPU Technology Engineer – Dependability",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior CPU Technology Engineer – Dependability at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-cpu-technology-engineer-dependability/33099/81788236224",
+    "id": "arm-cpu-technology-engineer-dependability-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Design Constraints Engineer",
     "job_city": "Bengaluru",
     "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Principal Software Engineer (Automotive SW) at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-software-engineer-automotive-sw/33099/79556182896",
-    "id": "arm-software-engineer-automotive-sw-bengaluru"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Experienced Hardware Engineer",
-    "job_city": "Lund",
-    "job_state": "Sweden",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Experienced Hardware Engineer at Lund, Sweden",
-    "job_apply_link": "https://careers.arm.com/job/lund/experienced-hardware-engineer/33099/81161101824",
-    "id": "arm-experienced-hardware-engineer-lund"
+    "job_description": "hardware engineering job for the role Staff Design Constraints Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-design-constraints-engineer/33099/85158417536",
+    "id": "arm-design-constraints-engineer-bengaluru"
   },
   {
     "employer_name": "Apple",
-    "job_title": "RF Software Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
+    "job_title": "SoC Test Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role RF Software Engineer at Sunnyvale",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200574270-3956/rf-software-engineer?team=HRDWR",
-    "id": "apple-rf-software-engineer-sunnyvale"
+    "job_description": "hardware engineering job for the role SoC Test Engineer at Austin",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200605979-0157/soc-test-engineer?team=HRDWR",
+    "id": "apple-soc-test-engineer-austin"
   },
   {
     "employer_name": "Apple",
-    "job_title": "Embedded SW/FW Engineer",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role Embedded SW/FW Engineer at San Diego",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200608753-3543/embedded-sw-fw-engineer?team=HRDWR",
-    "id": "apple-embedded-sw-fw-engineer-san-diego"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Display Process Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "1 month ago",
-    "job_description": "hardware engineering job for the role Display Process Engineer at Sunnyvale",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200612938-3956/display-process-engineer?team=HRDWR",
-    "id": "apple-display-process-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Display Mechanical Engineer",
+    "job_title": "Apple Engineering Opportunities",
     "job_city": "Cupertino",
     "job_state": "California",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Display Mechanical Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200591995-0836/display-mechanical-engineer?team=HRDWR",
-    "id": "apple-display-mechanical-engineer-cupertino"
+    "job_posted_at": "5 years ago",
+    "job_description": "hardware engineering job for the role Apple Engineering Opportunities at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200156495-0836/apple-engineering-opportunities?team=SFTWR",
+    "id": "apple-apple-engineering-opportunities-cupertino"
   }
 ]
