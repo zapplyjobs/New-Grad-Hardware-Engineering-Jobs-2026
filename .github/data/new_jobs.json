@@ -1,52 +1,32 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Safety Engineer",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Safety Engineer at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-safety-engineer/33099/80099076608",
-    "id": "arm-safety-engineer-sophia-antipolis"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "CPU Technology Engineer – Dependability",
+    "job_title": "Kubernetes Platform Engineer",
     "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior CPU Technology Engineer – Dependability at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-cpu-technology-engineer-dependability/33099/81788236224",
-    "id": "arm-cpu-technology-engineer-dependability-cambridge"
+    "job_description": "hardware engineering job for the role Staff Kubernetes Platform Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-kubernetes-platform-engineer/33099/83324527776",
+    "id": "arm-kubernetes-platform-engineer-cambridge"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Design Constraints Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "SIEMENS",
+    "job_title": "Senior Building Automation Service Specialist",
+    "job_city": "Beltsville",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Staff Design Constraints Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-design-constraints-engineer/33099/85158417536",
-    "id": "arm-design-constraints-engineer-bengaluru"
+    "job_description": "hardware engineering job for the role Senior Building Automation Service Specialist at Beltsville, Maryland, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-senior-building-automation-service-specialist-beltsville"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "SoC Test Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role SoC Test Engineer at Austin",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200605979-0157/soc-test-engineer?team=HRDWR",
-    "id": "apple-soc-test-engineer-austin"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Apple Engineering Opportunities",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "5 years ago",
-    "job_description": "hardware engineering job for the role Apple Engineering Opportunities at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200156495-0836/apple-engineering-opportunities?team=SFTWR",
-    "id": "apple-apple-engineering-opportunities-cupertino"
+    "employer_name": "SIEMENS",
+    "job_title": "Application Engineer - Automation",
+    "job_city": "Alpharetta",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Application Engineer - Automation at Alpharetta, Georgia, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-application-engineer-automation-alpharetta"
   }
 ]
