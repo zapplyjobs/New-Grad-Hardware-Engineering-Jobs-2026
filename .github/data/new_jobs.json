@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Imaging Hardware Engineering Program Manager",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "Microsoft",
+    "job_title": "Critical Environment Mechanical Engineer",
+    "job_city": "Boydton",
+    "job_state": "Virginia",
     "job_posted_at": "Recently",
-    "job_description": "0 Category: hardware engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Imaging Hardware Engineering Program Manager",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/79152891104764614-imaging-hardware-engineering-program-manager?q=%22hardware+engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-imaging-hardware-engineering-program-manager-mountain-view"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Mechanical Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861732/Critical-Environment-Mechanical-Engineer",
+    "id": "microsoft-critical-environment-mechanical-engineer-boydton"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Senior Building Automation Service Specialist",
-    "job_city": "Chantilly",
-    "job_state": "United States of America",
+    "employer_name": "AMD",
+    "job_title": "Operations Leader / Chief of Staff",
+    "job_city": "US",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Building Automation Service Specialist at Chantilly, Virginia, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-senior-building-automation-service-specialist-chantilly"
+    "job_description": "hardware engineering job for the role Operations Leader / Chief of Staff at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/68646/login",
+    "id": "amd-operations-leader-chief-of-staff-us"
   },
   {
-    "employer_name": "Booz Allen ",
+    "employer_name": "Verizon",
     "job_title": "Mission Command Assistance Team Lead",
     "job_city": "Edinburgh",
     "job_state": "IN",
     "job_posted_at": "Posted Today",
     "job_description": "hardware engineering job for the role Mission Command Assistance Team Lead at Edinburgh, IN",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Edinburgh-IN/Mission-Command-Assistance-Team-Lead_R0224358?q=hardware+engineering",
-    "id": "booz-allen-mission-command-assistance-team-lead-edinburgh"
+    "id": "verizon-mission-command-assistance-team-lead-edinburgh"
   }
 ]
