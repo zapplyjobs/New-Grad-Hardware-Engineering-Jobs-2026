@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Hardware Test Engineer - Software Focus",
+    "job_city": "CA",
+    "job_state": "San Jose",
+    "job_posted_at": "53min ago",
+    "job_description": "hardware engineering job for the role Hardware Test Engineer - Software Focus at San Jose, CA",
+    "job_apply_link": "https://www.aijobs.com/jobs/155807362-hardware-test-engineer-software-focus",
+    "id": "aijobs-hardware-test-engineer-software-focus-ca"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Developer Experience Engineer",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "52min ago",
+    "job_description": "hardware engineering job for the role Developer Experience Engineer at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/155807404-developer-experience-engineer",
+    "id": "aijobs-developer-experience-engineer-united-states"
+  }
+]
