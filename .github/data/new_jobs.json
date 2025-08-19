@@ -1,52 +1,84 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "RDA/Metrology Shift Process Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "hardware engineering job for the role RDA/Metrology Shift Process Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30482683",
-    "id": "micron-rda-metrology-shift-process-engineer-boise"
+    "job_title": "Sr. Technical Support Engineer, Amazon Robotics Technical Support",
+    "employer_name": "Amazon",
+    "job_city": "Virtual",
+    "job_state": "USA",
+    "job_description": "hardware engineering job for the role Sr. Technical Support Engineer, Amazon Robotics Technical Support at Virtual, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3037315/sr-technical-support-engineer-amazon-robotics-technical-support",
+    "job_posted_at": "2025-08-19T21:20:46.251Z",
+    "job_posted_at_datetime_utc": "2025-08-19T21:20:46.251Z",
+    "id": "amazon-sr-technical-support-engineer-amazon-robotics-technical-support-virtual"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Hardware Engineer - Quality & Reliability",
-    "job_city": "San Jose",
+    "job_title": "Software Development Engineer II, Annapurna Labs",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "hardware engineering job for the role Software Development Engineer II, Annapurna Labs at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3062273/software-development-engineer-ii-annapurna-labs",
+    "job_posted_at": "2025-08-19T21:20:46.251Z",
+    "job_posted_at_datetime_utc": "2025-08-19T21:20:46.251Z",
+    "id": "amazon-software-development-engineer-ii-annapurna-labs-new-york"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Mechanical Engineer",
+    "job_city": "Cheyenne",
+    "job_state": "Wyoming",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Mechanical Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861466/Mechanical-Engineer",
+    "id": "microsoft-mechanical-engineer-cheyenne"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "Software Engineer, C++ Edge Computers",
+    "job_city": "Mountain View",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Principal Hardware Engineer - Quality & Reliability at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Principal-Hardware-Engineer-Quality-Reliability/1446251",
-    "id": "cisco-hardware-engineer-quality-reliability-san-jose"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Sr. Quality Manager",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "38min ago",
-    "job_description": "hardware engineering job for the role Sr. Quality Manager at Hayward, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/156546839-sr-quality-manager",
-    "id": "aijobs-sr-quality-manager-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Software System Design Eng.",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software System Design Eng. at US,TX,Austin-MET\n8000 Metropolis Drive\nAustin, Texas\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/69101/login",
-    "id": "amd-software-system-design-eng-us"
+    "job_description": "hardware engineering job for the role Software Engineer, C++ Edge Computers at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/software-engineer-c-edge-computers-mountain-view-california-united-states",
+    "id": "waymo-software-engineer-c-edge-computers-mountain-view"
   },
   {
     "employer_name": "NVIDIA",
-    "job_title": "Systems Validation Engineer",
+    "job_title": "Backend Compiler Engineer",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Backend Compiler Engineer at 6 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Backend-Compiler-Engineer_JR2002414?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-backend-compiler-engineer-6-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Products Memory Solutions Engineer",
     "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Systems Validation Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Validation-Engineer_JR2002546?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-systems-validation-engineer-us"
+    "job_posted_at": "Posted 25 Days Ago",
+    "job_description": "hardware engineering job for the role System Products Memory Solutions Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Products-Memory-Solutions-Engineer_JR1981294?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-products-memory-solutions-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Compiler Engineer - DL",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 25 Days Ago",
+    "job_description": "hardware engineering job for the role Senior Compiler Engineer - DL at 6 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer---DL_JR1998649?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-compiler-engineer-dl-6-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Level Product Development Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 25 Days Ago",
+    "job_description": "hardware engineering job for the role System Level Product Development Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Level-Product-Development-Engineer_JR1998229?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-level-product-development-engineer-us"
   }
 ]
