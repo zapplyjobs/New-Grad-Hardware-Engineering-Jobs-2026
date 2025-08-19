@@ -1,252 +1,52 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer- Onsite:  C++ & Modeling",
-    "job_city": "Waltham",
-    "job_state": "Massachusetts",
+    "employer_name": "Microsoft",
+    "job_title": "Critical Environment Senior Electrical Engineer",
+    "job_city": "Dulles",
+    "job_state": "Virginia",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer- Onsite:  C++ & Modeling at Waltham, Massachusetts",
-    "job_apply_link": "https://careers.arm.com/job/waltham/software-engineer-onsite-c-and-modeling/33099/84729455696",
-    "id": "arm-software-engineer-onsite-c-modeling-waltham"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "Director, Product, Network & Browser Synthetics - ThousandEyes",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Director, Product, Network & Browser Synthetics - ThousandEyes at San Francisco, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Director-Product-Network-Browser-Synthetics-ThousandEyes/1420579",
-    "id": "cisco-director-product-network-browser-synthetics-thousandeyes-san-francisco"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Security Systems Technician",
-    "job_city": "Harleysville",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Security Systems Technician at Harleysville, Pennsylvania, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-security-systems-technician-harleysville"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Sr. HVAC Building Automation Solutions Technician",
-    "job_city": "Plano",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Sr. HVAC Building Automation Solutions Technician at Plano, Texas, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-sr-hvac-building-automation-solutions-technician-plano"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Senior Electrical Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1828006/Critical-Environment-Senior-Electrical-Engineer",
+    "id": "microsoft-critical-environment-senior-electrical-engineer-dulles"
   },
   {
     "employer_name": "Apple",
-    "job_title": "Custom Timing Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "California",
-    "job_posted_at": "1 month ago",
-    "job_description": "hardware engineering job for the role Custom Timing Engineer at Santa Clara",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200590753-3760/custom-timing-engineer?team=HRDWR",
-    "id": "apple-custom-timing-engineer-santa-clara"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "SoC Validation Engineer",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "5 months ago",
-    "job_description": "hardware engineering job for the role SoC Validation Engineer at San Diego",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200575670-3543/soc-validation-engineer?team=HRDWR",
-    "id": "apple-soc-validation-engineer-san-diego"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Debug Tools Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "4 months ago",
-    "job_description": "hardware engineering job for the role Debug Tools Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200587891-0836/debug-tools-engineer?team=HRDWR",
-    "id": "apple-debug-tools-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "GNSS Validation Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "4 months ago",
-    "job_description": "hardware engineering job for the role GNSS Validation Engineer at Sunnyvale",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200599347-3956/gnss-validation-engineer?team=HRDWR",
-    "id": "apple-gnss-validation-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Debug Tools Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "4 months ago",
-    "job_description": "hardware engineering job for the role Debug Tools Engineer at Austin",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200587907-0157/debug-tools-engineer?team=HRDWR",
-    "id": "apple-debug-tools-engineer-austin"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Formal Verification Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "4 months ago",
-    "job_description": "hardware engineering job for the role Formal Verification Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200571131-0836/formal-verification-engineer?team=HRDWR",
-    "id": "apple-formal-verification-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Display Optical Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "6 months ago",
-    "job_description": "hardware engineering job for the role Display Optical Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200589177-0836/display-optical-engineer?team=HRDWR",
-    "id": "apple-display-optical-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Timing Design Engineer",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "10 months ago",
-    "job_description": "hardware engineering job for the role Timing Design Engineer at San Diego",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200573980-3543/timing-design-engineer?team=HRDWR",
-    "id": "apple-timing-design-engineer-san-diego"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "DevOps Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "8 months ago",
-    "job_description": "hardware engineering job for the role Senior DevOps Engineer at Sunnyvale",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200584106-3956/senior-devops-engineer?team=SFTWR",
-    "id": "apple-devops-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "HomeKit Software Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role HomeKit Software Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200607298-0836/homekit-software-engineer?team=SFTWR",
-    "id": "apple-homekit-software-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "MLB Product Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "7 months ago",
-    "job_description": "hardware engineering job for the role MLB Product Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200575335-0836/mlb-product-engineer?team=OPMFG",
-    "id": "apple-mlb-product-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Panel Integration Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "5 months ago",
-    "job_description": "hardware engineering job for the role Panel Integration Engineer at Sunnyvale",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200576653-3956/panel-integration-engineer?team=HRDWR",
-    "id": "apple-panel-integration-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Optical Simulation Engineer",
+    "job_title": "Panel Design Engineer",
     "job_city": "Sunnyvale",
     "job_state": "US",
     "job_posted_at": "1 month ago",
-    "job_description": "hardware engineering job for the role Optical Simulation Engineer at Sunnyvale",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200612563-3956/optical-simulation-engineer?team=HRDWR",
-    "id": "apple-optical-simulation-engineer-sunnyvale"
+    "job_description": "hardware engineering job for the role Panel Design Engineer at Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200610512-3956/panel-design-engineer?team=HRDWR",
+    "id": "apple-panel-design-engineer-sunnyvale"
   },
   {
     "employer_name": "Apple",
-    "job_title": "Pixel Development Engineer",
+    "job_title": "Data Application Engineer",
     "job_city": "Cupertino",
     "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role Pixel Development Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200607428-0836/pixel-development-engineer?team=HRDWR",
-    "id": "apple-pixel-development-engineer-cupertino"
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Data Application Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200587071-0836/data-application-engineer?team=HRDWR",
+    "id": "apple-data-application-engineer-cupertino"
   },
   {
     "employer_name": "Apple",
-    "job_title": "Kernel Engineering Manager",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "9 months ago",
-    "job_description": "hardware engineering job for the role Kernel Engineering Manager at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200578998-0836/kernel-engineering-manager?team=SFTWR",
-    "id": "apple-kernel-engineering-manager-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Wireless Test Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "1 month ago",
-    "job_description": "hardware engineering job for the role Wireless Test Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200613328-0836/wireless-test-engineer?team=HRDWR",
-    "id": "apple-wireless-test-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Updates Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "1 week ago",
-    "job_description": "hardware engineering job for the role Software Updates Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200616070-0836/software-updates-engineer?team=SFTWR",
-    "id": "apple-software-updates-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "SwiftUI Previews Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role SwiftUI Previews Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200612878-0836/swiftui-previews-engineer?team=SFTWR",
-    "id": "apple-swiftui-previews-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "System Power Engineer",
+    "job_title": "Display Electrical Engineer",
     "job_city": "San Diego",
     "job_state": "US",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role System Power Engineer at San Diego",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200595957-3543/system-power-engineer?team=SFTWR",
-    "id": "apple-system-power-engineer-san-diego"
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Display Electrical Engineer at San Diego",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200578549-3543/display-electrical-engineer?team=HRDWR",
+    "id": "apple-display-electrical-engineer-san-diego"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Operations Test Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "2 days ago",
-    "job_description": "hardware engineering job for the role Operations Test Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200615380-0836/operations-test-engineer?team=OPMFG",
-    "id": "apple-operations-test-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Cloud Security Engineer",
-    "job_city": "New York City",
-    "job_state": "US",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role Cloud Security Engineer at New York City",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200607769-2459/cloud-security-engineer?team=SFTWR",
-    "id": "apple-cloud-security-engineer-new-york-city"
+    "employer_name": "INTEL",
+    "job_title": "SoC Design Verification Engineer",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role SoC Design Verification Engineer at 3 Locations",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0276719-1?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-soc-design-verification-engineer-3-locations"
   }
 ]
