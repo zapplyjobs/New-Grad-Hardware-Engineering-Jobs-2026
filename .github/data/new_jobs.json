@@ -1,12 +1,12 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Solutions Engineer",
-    "job_city": "Boulder",
-    "job_state": "CO",
+    "job_title": "Staff Hardware Engineer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "17 Category: hardware engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Solutions Engineer, GenAI, Trusted Tester Program, gTech",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/125113503642985158-solutions-engineer-genai-trusted-tester-program-gtech?q=%22hardware+engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-solutions-engineer-boulder"
+    "job_description": "7 Category: hardware engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff Hardware Engineer, Display and Interfaces, Google Beam",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/96668588076606150-staff-hardware-engineer-display-and-interfaces-google-beam?q=%22hardware+engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-staff-hardware-engineer-mountain-view"
   }
 ]
