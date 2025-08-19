@@ -1,84 +1,92 @@
 [
   {
-    "job_title": "Sr. Technical Support Engineer, Amazon Robotics Technical Support",
-    "employer_name": "Amazon",
-    "job_city": "Virtual",
-    "job_state": "USA",
-    "job_description": "hardware engineering job for the role Sr. Technical Support Engineer, Amazon Robotics Technical Support at Virtual, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3037315/sr-technical-support-engineer-amazon-robotics-technical-support",
-    "job_posted_at": "2025-08-19T21:20:46.251Z",
-    "job_posted_at_datetime_utc": "2025-08-19T21:20:46.251Z",
-    "id": "amazon-sr-technical-support-engineer-amazon-robotics-technical-support-virtual"
-  },
-  {
-    "job_title": "Software Development Engineer II, Annapurna Labs",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "hardware engineering job for the role Software Development Engineer II, Annapurna Labs at New York, NY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3062273/software-development-engineer-ii-annapurna-labs",
-    "job_posted_at": "2025-08-19T21:20:46.251Z",
-    "job_posted_at_datetime_utc": "2025-08-19T21:20:46.251Z",
-    "id": "amazon-software-development-engineer-ii-annapurna-labs-new-york"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Mechanical Engineer",
-    "job_city": "Cheyenne",
-    "job_state": "Wyoming",
+    "employer_name": "IBM",
+    "job_title": "Outbound Tech Evangelist Product Manager in Business Automation",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Mechanical Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861466/Mechanical-Engineer",
-    "id": "microsoft-mechanical-engineer-cheyenne"
+    "job_description": "hardware engineering job for the role Outbound Tech Evangelist Product Manager in Business Automation at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48245&source=WEB_Search_NA",
+    "id": "ibm-outbound-tech-evangelist-product-manager-in-business-automation-austin"
   },
   {
-    "employer_name": "WAYMO",
-    "job_title": "Software Engineer, C++ Edge Computers",
-    "job_city": "Mountain View",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Sr. Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer, C++ Edge Computers at Mountain View, California",
-    "job_apply_link": "https://careers.withwaymo.com/jobs/software-engineer-c-edge-computers-mountain-view-california-united-states",
-    "id": "waymo-software-engineer-c-edge-computers-mountain-view"
+    "job_description": "hardware engineering job for the role Sr. Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53832&source=WEB_Search_NA",
+    "id": "ibm-sr-engineer-multiple-cities"
   },
   {
-    "employer_name": "NVIDIA",
-    "job_title": "Backend Compiler Engineer",
-    "job_city": "6 Locations",
-    "job_state": "",
+    "employer_name": "IBM",
+    "job_title": "IT Automation Sales Leader",
+    "job_city": "Cambridge",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role IT Automation Sales Leader at ProfessionalCambridge, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53342&source=WEB_Search_NA",
+    "id": "ibm-it-automation-sales-leader-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Subscription and Annuity Representative – Entry Level Sales Program",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Subscription and Annuity Representative – Entry Level Sales Program 2026 at Entry LevelDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53828&source=WEB_Search_NA",
+    "id": "ibm-subscription-and-annuity-representative-entry-level-sales-program-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Brand Technical Specialist - IT Automation",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Brand Technical Specialist - IT Automation at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53539&source=WEB_Search_NA",
+    "id": "ibm-brand-technical-specialist-it-automation-multiple-cities"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Manager, Strategy & Special Projects",
+    "job_city": "Offsite",
+    "job_state": "Chicago",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Manager, Strategy & Special Projects at Offsite, Chicago, Illinois, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Manager-Strategy-Special-Projects/1438498",
+    "id": "cisco-manager-strategy-special-projects-offsite"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Artificial Intelligence (AI) Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "12h ago",
+    "job_description": "hardware engineering job for the role Artificial Intelligence (AI) Engineer at Milpitas, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156562343-artificial-intelligence-ai-engineer",
+    "id": "aijobs-artificial-intelligence-ai-engineer-us"
+  },
+  {
+    "employer_name": "Booz Allen ",
+    "job_title": "Software Systems Architect",
+    "job_city": "El Segundo",
+    "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Backend Compiler Engineer at 6 Locations",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Backend-Compiler-Engineer_JR2002414?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-backend-compiler-engineer-6-locations"
+    "job_description": "hardware engineering job for the role Software Systems Architect at El Segundo, CA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Software-Systems-Architect_R0223335-1?q=hardware+engineering",
+    "id": "booz-allen-software-systems-architect-el-segundo"
   },
   {
-    "employer_name": "NVIDIA",
-    "job_title": "System Products Memory Solutions Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted 25 Days Ago",
-    "job_description": "hardware engineering job for the role System Products Memory Solutions Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Products-Memory-Solutions-Engineer_JR1981294?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-system-products-memory-solutions-engineer-us"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "Compiler Engineer - DL",
-    "job_city": "6 Locations",
+    "employer_name": "Broadcom",
+    "job_title": "DFT Senior Manager",
+    "job_city": "USA-CA San Jose Innovation Drive",
     "job_state": "",
-    "job_posted_at": "Posted 25 Days Ago",
-    "job_description": "hardware engineering job for the role Senior Compiler Engineer - DL at 6 Locations",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer---DL_JR1998649?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-compiler-engineer-dl-6-locations"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "System Level Product Development Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted 25 Days Ago",
-    "job_description": "hardware engineering job for the role System Level Product Development Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Level-Product-Development-Engineer_JR1998229?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-system-level-product-development-engineer-us"
+    "job_posted_at": "Full time",
+    "job_description": "hardware engineering job for the role DFT Senior Manager at USA-CA San Jose Innovation Drive",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/DFT-Manager_R022455?q=hardware+engineering&locations=036f545a07811067fb610630a895b9d1&locations=4a762b79ba9901fbfe4aa39dee017989&locations=877d747df7191002136680bc73dd0000&locations=036f545a07811067fe54543fbf78bf0b&locations=4a762b79ba9901dd1c968d9dee013d89&locations=036f545a07811067fe3102fad18abe98&locations=877d747df71910021366662e2df00000&locations=0dd627624e2e013c1b0b00dadcd9d20c&locations=4d92fd6213b61072a7417474224cdf6f&locations=036f545a07811067f1de98b90bc6a926&locations=0dd627624e2e01ef94cee9d9dcd9be0c&locations=036f545a07811067fe218885c2cfbe7b&locations=4b92da390b9b10b7bbda11b85613cb77&locations=29320def7b02106689d3b1774d23aec8&locations=12a17a8024ab0188b084e8699205dedc&locations=184c736cf3ea101ebb66e6d76e01745d&locations=036f545a07811067fe06ebd34c95be15&locations=0dd627624e2e01adaab9d4d9dcd9aa0c&locations=bc7b9b9faae610013552e580e0050000&locations=036f545a07811067fdde3f0aaa04bddc&locations=036f545a07811067f02d8e8d652ca59a&locations=684d61d26ae81001e56a71a3ea7f0000&locations=092b5fae35ea103936b2cf96c8937ee4&locations=036f545a07811067fdd04465a219bdca&locations=036f545a07811067fdaef047ea16bd84&locations=036f545a07811067fd922a750736bd46&locations=036f545a07811067fd81d424f6f7bd34&locations=bc7b9b9faae6100135a5028075d30000&locations=036f545a07811067f0a87f246cdca66f&locations=9c718cedc47410720f2bf064829fb76b&locations=3fe9c5fb131001012dd089fc94a00000&locations=036f545a07811067fb9e5a23b23bba74&locations=34a3eda408dd1000f53fee68ed950000&locations=0dd627624e2e0140aadb9fd9dcd9780c&locations=036f545a07811067fb8008d4ab6db9fa&locations=877d747df71910021365fa3b7dd40000&locations=036f545a07811067fb6fcb79192fb9db&locations=4a762b79ba990193859f8b9dee013889&locations=0dd627624e2e01ade01e8cd9dcd9640c&locations=288fd69044a1013faf91cae80d12033d&locations=b8b934041f1710a36c7d5f74cb2b8324&locations=4b92da390b9b10b7bb847e8f1b75cac8&locations=f1900192220f010e8b06cc0dfeb6f74e&locations=036f545a07811067ec96c1512ad3a036&locations=036f545a07811067fb4d9a7c1d47b9b8&locations=ac281c4e5ca401ac22de4737f50155b5&locations=3752a56f61f71001315aa3c6ecd50000&locations=44b3a7caf8e6480795125e010f577053&locations=288fd69044a1015bc80b7fb60d12d53c&locations=036f545a07811067f088b65977bba653&locations=092b5fae35ea103935df5e4c2e637d4f&locations=877d747df71910021361ce875ee20000&locations=877d747df71910021363ae79396c0000&locations=877d747df719100213626ffcfae00000&locations=877d747df71910021361d95ffda70000&locations=877d747df71910021363291521ae0000&locations=877d747df719100213623cd467ed0000&locations=877d747df719100213635c7f40d30000&locations=2a204116f85f013c9e832787796b52c8&locations=2a204116f85f0193baeeb7e2796b85c8&locations=3d9f1a0214ac01439ca04708d2465801&locations=877d747df71910021365c0592d6f0000&locations=092b5fae35ea103937177f80adeb7f1f&locations=092b5fae35ea1039363a0cdcb5837e8b&locations=df820e04c9924c84b5214f4d68b50fa9&locations=036f545a07811067ed3afb5b6f6ca09f&locations=877d747df7191002136629d4bc1f0000&locations=bc19fd96cebf1069285cfef83d445107&locations=877d747df719100213665b4fa1470000&locations=877d747df719100213668b996bb60000",
+    "id": "broadcom-dft-senior-manager-usa-ca-san-jose-innovation-drive"
   }
 ]
