@@ -1,52 +1,12 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Critical Environment Senior Electrical Engineer",
-    "job_city": "Dulles",
-    "job_state": "Virginia",
+    "employer_name": "Google",
+    "job_title": "Solutions Engineer",
+    "job_city": "Boulder",
+    "job_state": "CO",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Senior Electrical Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1828006/Critical-Environment-Senior-Electrical-Engineer",
-    "id": "microsoft-critical-environment-senior-electrical-engineer-dulles"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Panel Design Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "1 month ago",
-    "job_description": "hardware engineering job for the role Panel Design Engineer at Sunnyvale",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200610512-3956/panel-design-engineer?team=HRDWR",
-    "id": "apple-panel-design-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Data Application Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "3 months ago",
-    "job_description": "hardware engineering job for the role Data Application Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200587071-0836/data-application-engineer?team=HRDWR",
-    "id": "apple-data-application-engineer-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Display Electrical Engineer",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "4 months ago",
-    "job_description": "hardware engineering job for the role Display Electrical Engineer at San Diego",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200578549-3543/display-electrical-engineer?team=HRDWR",
-    "id": "apple-display-electrical-engineer-san-diego"
-  },
-  {
-    "employer_name": "INTEL",
-    "job_title": "SoC Design Verification Engineer",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "hardware engineering job for the role SoC Design Verification Engineer at 3 Locations",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0276719-1?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-soc-design-verification-engineer-3-locations"
+    "job_description": "17 Category: hardware engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Solutions Engineer, GenAI, Trusted Tester Program, gTech",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/125113503642985158-solutions-engineer-genai-trusted-tester-program-gtech?q=%22hardware+engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-solutions-engineer-boulder"
   }
 ]
