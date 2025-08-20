@@ -1,52 +1,12 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Director PMO, DDR and GDDR Components",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 22 days ago",
-    "job_description": "hardware engineering job for the role Director PMO, DDR and GDDR Components at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30528640",
-    "id": "micron-director-pmo-ddr-and-gddr-components-boise"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Backend Software Developer - IBM Security",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "SIEMENS",
+    "job_title": "Area Sales Professional",
+    "job_city": "San Diego",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Backend Software Developer - IBM Security at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50154&source=WEB_Search_NA",
-    "id": "ibm-backend-software-developer-ibm-security-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "ETRM Senior IT Program Manager",
-    "job_city": "Houston",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role ETRM Senior IT Program Manager at ProfessionalHouston, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53863&source=WEB_Search_NA",
-    "id": "ibm-etrm-senior-it-program-manager-houston"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Subscription and Annuity Representative Intern – Entry Level Sales Program",
-    "job_city": "Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Subscription and Annuity Representative Intern – Entry Level Sales Program 2026 at InternshipDallas, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53822&source=WEB_Search_NA",
-    "id": "ibm-subscription-and-annuity-representative-intern-entry-level-sales-program-dallas"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Computational Scientist - Artificial Intelligence & Machine Learning",
-    "job_city": "US",
-    "job_state": "IL",
-    "job_posted_at": "5h ago",
-    "job_description": "hardware engineering job for the role Computational Scientist - Artificial Intelligence & Machine Learning at Chicago, IL, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/156608325-computational-scientist-artificial-intelligence-machine-learning",
-    "id": "aijobs-computational-scientist-artificial-intelligence-machine-learning-us"
+    "job_description": "hardware engineering job for the role Area Sales Professional at San Diego, California, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-area-sales-professional-san-diego"
   }
 ]
