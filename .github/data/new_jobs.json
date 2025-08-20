@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Sr. Manager, Engineering",
-    "job_city": "Bentonville",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Software Engineer in Test",
+    "job_city": "Bengaluru",
+    "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Sr. Manager, Engineering at ProfessionalBentonville, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53867&source=WEB_Search_NA",
-    "id": "ibm-sr-manager-engineering-bentonville"
+    "job_description": "hardware engineering job for the role Staff Software Engineer in Test at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-software-engineer-in-test/33099/85228355744",
+    "id": "arm-software-engineer-in-test-bengaluru"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Sr. Solutions Engineer",
-    "job_city": "Sandy Springs",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Sr. Solutions Engineer at ProfessionalSandy Springs, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53335&source=WEB_Search_NA",
-    "id": "ibm-sr-solutions-engineer-sandy-springs"
+    "employer_name": "SYNOPSYS",
+    "job_title": "Sr Director-CAD Engineering",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Sr Director-CAD Engineering at San Diego, California",
+    "job_apply_link": "https://careers.synopsys.com/job/san-diego/sr-director-cad-engineering/44408/85228993984",
+    "id": "synopsys-sr-director-cad-engineering-san-diego"
   }
 ]
