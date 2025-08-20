@@ -1,62 +1,52 @@
 [
   {
+    "employer_name": "Micron",
+    "job_title": "Director PMO, DDR and GDDR Components",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 22 days ago",
+    "job_description": "hardware engineering job for the role Director PMO, DDR and GDDR Components at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30528640",
+    "id": "micron-director-pmo-ddr-and-gddr-components-boise"
+  },
+  {
     "employer_name": "IBM",
-    "job_title": "AI Engineer: Client Engineering - US Industry Market",
+    "job_title": "Backend Software Developer - IBM Security",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role AI Engineer: Client Engineering - US Industry Market at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53872&source=WEB_Search_NA",
-    "id": "ibm-ai-engineer-client-engineering-us-industry-market-multiple-cities"
+    "job_description": "hardware engineering job for the role Backend Software Developer - IBM Security at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50154&source=WEB_Search_NA",
+    "id": "ibm-backend-software-developer-ibm-security-multiple-cities"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Technical Product Marketing Manager",
-    "job_city": "Multiple Cities",
+    "job_title": "ETRM Senior IT Program Manager",
+    "job_city": "Houston",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Technical Product Marketing Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53092&source=WEB_Search_NA",
-    "id": "ibm-technical-product-marketing-manager-multiple-cities"
+    "job_description": "hardware engineering job for the role ETRM Senior IT Program Manager at ProfessionalHouston, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53863&source=WEB_Search_NA",
+    "id": "ibm-etrm-senior-it-program-manager-houston"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Firmware Developer",
-    "job_city": "ROCHESTER",
+    "job_title": "Subscription and Annuity Representative Intern – Entry Level Sales Program",
+    "job_city": "Dallas",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Firmware Developer at Entry LevelROCHESTER, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52293&source=WEB_Search_NA",
-    "id": "ibm-firmware-developer-rochester"
+    "job_description": "hardware engineering job for the role Subscription and Annuity Representative Intern – Entry Level Sales Program 2026 at InternshipDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53822&source=WEB_Search_NA",
+    "id": "ibm-subscription-and-annuity-representative-intern-entry-level-sales-program-dallas"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Product Marketing Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Product Marketing Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53854&source=WEB_Search_NA",
-    "id": "ibm-product-marketing-manager-multiple-cities"
-  },
-  {
-    "employer_name": "SYNOPSYS",
-    "job_title": "R&D Engineer, Sr. Staff",
-    "job_city": "Sunnyvale",
-    "job_state": "California",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role R&D Engineer, Sr. Staff at Sunnyvale, California",
-    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/r-and-d-engineer-sr-staff/44408/84148012272",
-    "id": "synopsys-r-d-engineer-sr-staff-sunnyvale"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "High Speed SerDes Validation Engineer",
+    "employer_name": "AiJobs",
+    "job_title": "Computational Scientist - Artificial Intelligence & Machine Learning",
     "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior High Speed SerDes Validation Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-High-Speed-SerDes-Validation-Engineer_JR2002549?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-high-speed-serdes-validation-engineer-us"
+    "job_state": "IL",
+    "job_posted_at": "5h ago",
+    "job_description": "hardware engineering job for the role Computational Scientist - Artificial Intelligence & Machine Learning at Chicago, IL, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156608325-computational-scientist-artificial-intelligence-machine-learning",
+    "id": "aijobs-computational-scientist-artificial-intelligence-machine-learning-us"
   }
 ]
