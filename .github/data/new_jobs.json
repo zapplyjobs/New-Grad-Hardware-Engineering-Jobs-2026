@@ -1,202 +1,62 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Software Engineer- C++ & Modeling (Hybrid Onsite)",
-    "job_city": "Waltham",
-    "job_state": "Massachusetts",
+    "employer_name": "IBM",
+    "job_title": "AI Engineer: Client Engineering - US Industry Market",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer- C++ & Modeling (Hybrid Onsite) at Waltham, Massachusetts",
-    "job_apply_link": "https://careers.arm.com/job/waltham/software-engineer-c-and-modeling-hybrid-onsite/33099/84729455696",
-    "id": "arm-software-engineer-c-modeling-hybrid-onsite-waltham"
+    "job_description": "hardware engineering job for the role AI Engineer: Client Engineering - US Industry Market at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53872&source=WEB_Search_NA",
+    "id": "ibm-ai-engineer-client-engineering-us-industry-market-multiple-cities"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Fire Alarm & Life Safety Senior Sales Executive",
-    "job_city": "St. Louis",
-    "job_state": "United States of America",
+    "employer_name": "IBM",
+    "job_title": "Technical Product Marketing Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Fire Alarm & Life Safety Senior Sales Executive at St. Louis, Missouri, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-fire-alarm-life-safety-senior-sales-executive-st-louis"
+    "job_description": "hardware engineering job for the role Senior Technical Product Marketing Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53092&source=WEB_Search_NA",
+    "id": "ibm-technical-product-marketing-manager-multiple-cities"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Application Engineer, Power Distribution",
-    "job_city": "Grand Prairie",
-    "job_state": "United States of America",
+    "employer_name": "IBM",
+    "job_title": "Firmware Developer",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Application Engineer, Power Distribution at Grand Prairie, Texas, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-application-engineer-power-distribution-grand-prairie"
+    "job_description": "hardware engineering job for the role Firmware Developer at Entry LevelROCHESTER, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52293&source=WEB_Search_NA",
+    "id": "ibm-firmware-developer-rochester"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, Field Applications (Automotive Cabin Electronics)",
+    "employer_name": "IBM",
+    "job_title": "Product Marketing Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Product Marketing Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53854&source=WEB_Search_NA",
+    "id": "ibm-product-marketing-manager-multiple-cities"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "R&D Engineer, Sr. Staff",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role R&D Engineer, Sr. Staff at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/r-and-d-engineer-sr-staff/44408/84148012272",
+    "id": "synopsys-r-d-engineer-sr-staff-sunnyvale"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "High Speed SerDes Validation Engineer",
     "job_city": "US",
-    "job_state": "MI",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Staff Engineer, Field Applications (Automotive Cabin Electronics) at US, MI, Livonia",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MI-Livonia/Staff-Engineer--Field-Applications--Automotive-Cabin-Electronics-_R254789?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-field-applications-automotive-cabin-electronics-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Systems Validation Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Systems Validation Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/156571496-systems-validation-engineer",
-    "id": "aijobs-systems-validation-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Quality Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Software Quality Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/156576643-software-quality-engineer",
-    "id": "aijobs-software-quality-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "ASIC Verification Engineer - GPU",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Senior ASIC Verification Engineer - GPU at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/156571499-senior-asic-verification-engineer-gpu",
-    "id": "aijobs-asic-verification-engineer-gpu-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "ASIC Verification Engineer - GPU",
-    "job_city": "Hillsboro",
-    "job_state": "OR",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Senior ASIC Verification Engineer - GPU at US, OR, Hillsboro",
-    "job_apply_link": "https://www.aijobs.com/jobs/156571502-senior-asic-verification-engineer-gpu",
-    "id": "aijobs-asic-verification-engineer-gpu-hillsboro"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Systems Coexistence Test Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Systems Coexistence Test Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/156576642-systems-coexistence-test-engineer",
-    "id": "aijobs-systems-coexistence-test-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager – Adversarial Model Research",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Technical Program Manager – Adversarial Model Research at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/156576637-technical-program-manager-adversarial-model-research",
-    "id": "aijobs-technical-program-manager-adversarial-model-research-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Power Project Lead, Superintelligence Infrastructure - Stargate",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Power Project Lead, Superintelligence Infrastructure - Stargate at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/156576638-power-project-lead-superintelligence-infrastructure-stargate",
-    "id": "aijobs-power-project-lead-superintelligence-infrastructure-stargate-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Sensor Test Development Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Sensor Test Development Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/156576644-sensor-test-development-engineer",
-    "id": "aijobs-sensor-test-development-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Designer, Growth",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Product Designer, Growth at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/156576635-product-designer-growth",
-    "id": "aijobs-product-designer-growth-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Factory Test Instrumentation Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Factory Test Instrumentation Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/156576645-factory-test-instrumentation-engineer",
-    "id": "aijobs-factory-test-instrumentation-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager - Autonomous Vehicles Platform",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Technical Program Manager - Autonomous Vehicles Platform at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/156571498-senior-technical-program-manager-autonomous-vehicles-platform",
-    "id": "aijobs-technical-program-manager-autonomous-vehicles-platform-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "SWE, Applied Evals",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role SWE, Applied Evals at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/156576639-swe-applied-evals",
-    "id": "aijobs-swe-applied-evals-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Backend Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Backend Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/156576641-backend-engineer",
-    "id": "aijobs-backend-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Payments",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "35min ago",
-    "job_description": "hardware engineering job for the role Software Engineer, Payments at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/156576640-software-engineer-payments",
-    "id": "aijobs-software-engineer-payments-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Database Systems",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "35min ago",
-    "job_description": "hardware engineering job for the role Software Engineer, Database Systems at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/156576647-software-engineer-database-systems",
-    "id": "aijobs-software-engineer-database-systems-united-states"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Software Systems Architect",
-    "job_city": "El Segundo",
     "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Software Systems Architect at El Segundo, CA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Software-Systems-Architect_R0223335-1?q=hardware+engineering",
-    "id": "verizon-software-systems-architect-el-segundo"
+    "job_description": "hardware engineering job for the role Senior High Speed SerDes Validation Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-High-Speed-SerDes-Validation-Engineer_JR2002549?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-high-speed-serdes-validation-engineer-us"
   }
 ]
