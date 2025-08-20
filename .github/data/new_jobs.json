@@ -1,33 +1,32 @@
 [
   {
-    "job_title": "System Development Engineer, Project Kuiper",
-    "employer_name": "Amazon",
-    "job_city": "Merritt Island",
-    "job_state": "FL",
-    "job_description": "hardware engineering job for the role System Development Engineer, Project Kuiper at Merritt Island, FL, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3062828/system-development-engineer-project-kuiper",
-    "job_posted_at": "2025-08-20T14:27:12.081Z",
-    "job_posted_at_datetime_utc": "2025-08-20T14:27:12.081Z",
-    "id": "amazon-system-development-engineer-project-kuiper-merritt-island"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "ID1 Equipment Maintenance Technician (ME Idaho Fab 1)",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "hardware engineering job for the role ID1 Equipment Maintenance Technician (ME Idaho Fab 1) at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30860731",
-    "id": "micron-id1-equipment-maintenance-technician-me-idaho-fab-1-boise"
+    "employer_name": "CISCO",
+    "job_title": "Thermal Engineering Technical Leader",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Thermal Engineering Technical Leader at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Thermal-Engineering-Technical-Leader/1447356",
+    "id": "cisco-thermal-engineering-technical-leader-san-jose"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Building Automation HVAC Service Technician",
-    "job_city": "Sandy",
+    "job_title": "Building Automation Systems Specialist",
+    "job_city": "Beltsville",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Building Automation HVAC Service Technician at Sandy, Utah, United States of America",
+    "job_description": "hardware engineering job for the role Building Automation Systems Specialist at Beltsville, Maryland, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-building-automation-hvac-service-technician-sandy"
+    "id": "siemens-building-automation-systems-specialist-beltsville"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Digital Design Engineer",
+    "job_city": "Beavercreek",
+    "job_state": "OH",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Digital Design Engineer at Beavercreek, OH",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Digital-Design-Engineer_R0224765?q=hardware+engineering",
+    "id": "verizon-digital-design-engineer-beavercreek"
   }
 ]
