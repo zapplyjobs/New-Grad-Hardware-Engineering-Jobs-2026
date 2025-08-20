@@ -1,52 +1,33 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Enterprise Architect, IBM Infrastructure & Data Center Engineering",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Enterprise Architect, IBM Infrastructure & Data Center Engineering at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52328&source=WEB_Search_NA",
-    "id": "ibm-enterprise-architect-ibm-infrastructure-data-center-engineering-multiple-cities"
+    "job_title": "System Development Engineer, Project Kuiper",
+    "employer_name": "Amazon",
+    "job_city": "Merritt Island",
+    "job_state": "FL",
+    "job_description": "hardware engineering job for the role System Development Engineer, Project Kuiper at Merritt Island, FL, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3062828/system-development-engineer-project-kuiper",
+    "job_posted_at": "2025-08-20T14:27:12.081Z",
+    "job_posted_at_datetime_utc": "2025-08-20T14:27:12.081Z",
+    "id": "amazon-system-development-engineer-project-kuiper-merritt-island"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Software Engineer I (Full Time) United States",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer I (Full Time) United States at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1447850",
-    "id": "cisco-software-engineer-i-full-time-united-states-san-jose"
+    "employer_name": "Micron",
+    "job_title": "ID1 Equipment Maintenance Technician (ME Idaho Fab 1)",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 16 hours ago",
+    "job_description": "hardware engineering job for the role ID1 Equipment Maintenance Technician (ME Idaho Fab 1) at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30860731",
+    "id": "micron-id1-equipment-maintenance-technician-me-idaho-fab-1-boise"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Field Service Technician- Rolling Stock, Chicago",
-    "job_city": "Chicago",
+    "job_title": "Building Automation HVAC Service Technician",
+    "job_city": "Sandy",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Field Service Technician- Rolling Stock, Chicago at Chicago, Illinois, United States of America",
+    "job_description": "hardware engineering job for the role Building Automation HVAC Service Technician at Sandy, Utah, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-field-service-technician-rolling-stock-chicago-chicago"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "FPGA Development Engineer",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role FPGA Development Engineer at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/69181/login",
-    "id": "amd-fpga-development-engineer-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Summer 2026 Co-Op/ Intern: Masters Tech",
-    "job_city": "US",
-    "job_state": "CO",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Summer 2026 Co-Op/ Intern: Masters Tech at US,CO,Longmont\n3100 Logic Drive\nLongmont, Colorado\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/68359/login",
-    "id": "amd-summer-2026-co-op-intern-masters-tech-us"
+    "id": "siemens-building-automation-hvac-service-technician-sandy"
   }
 ]
