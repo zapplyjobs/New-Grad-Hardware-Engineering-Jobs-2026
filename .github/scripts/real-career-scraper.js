@@ -540,7 +540,7 @@ async function fetchSimplifyJobsData() {
 async function fetchAllRealJobs() {
   console.log("🚀 Starting REAL career page scraping...");
 
-  const allJobs = [];
+  let allJobs = [];
   // Define scraper configurations for batch processing
   const scraperConfigs = [
     { name: 'Amazon', scraper: scrapeAmazonJobs, query: 'hardware engineering' },
@@ -783,7 +783,20 @@ async function fetchAllRealJobs() {
     ...workday_Hardware,
   );
 
-  console.log(allJobs);
+  const removedJobs = [];
+allJobs = allJobs.filter(job => {
+    const isUSJob = isUSOnlyJob(job);
+    
+    if (!isUSJob) {
+        removedJobs.push(job);
+        return false; // Remove non-US job
+    }
+    
+    return true; // Keep US job
+});
+
+// Console log the removed jobs
+console.log(`Removed ${removedJobs.length} non-US jobs:`, removedJobs);
 
   const companiesWithAPIs = Object.keys(CAREER_APIS);
 
