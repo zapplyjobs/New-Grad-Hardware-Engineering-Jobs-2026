@@ -1,5 +1,6 @@
 const fs = require("fs");
 const { generateJobId } = require("./job-fetcher/utils");
+const {isUSJobsOnly} = require("./job-fetcher/utils");
 const scrapeAmazonJobs = require("../../jobboard/src/backend/platforms/amazon/amazonScraper");
 const googleScraper = require("../../jobboard/src/backend/platforms/google/googleScraper");
 const scrapeMetaJobs = require("../../jobboard/src/backend/platforms/meta/metaScraper");
