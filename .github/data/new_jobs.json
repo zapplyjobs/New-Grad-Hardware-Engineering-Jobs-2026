@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Product Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Product Manager at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/product-manager/33099/85268194128",
+    "id": "arm-product-manager-austin"
+  }
+]
