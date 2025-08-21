@@ -1,52 +1,62 @@
 [
   {
-    "employer_name": "INFINEON",
-    "job_title": "Lead Principal Engineer Software (Sys)",
-    "job_city": "Irvine",
-    "job_state": "US",
+    "employer_name": "SIEMENS",
+    "job_title": "Smart Buildings Senior Service Operations Manager",
+    "job_city": "Cypress",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Lead Principal Engineer Software (Sys) at Irvine",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-lead-principal-engineer-software-sys-irvine"
+    "job_description": "hardware engineering job for the role Smart Buildings Senior Service Operations Manager at Cypress, California, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-smart-buildings-senior-service-operations-manager-cypress"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Power Protection & Automation Engineering Development Program (PA EDP)",
-    "job_city": "Wendell",
+    "job_title": "Software Engineer II - Cloud & Industrial AI",
+    "job_city": "Bellevue",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Power Protection & Automation Engineering Development Program (PA EDP) at Wendell, North Carolina, United States of America",
+    "job_description": "hardware engineering job for the role Software Engineer II - Cloud & Industrial AI at Bellevue, Washington, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-power-protection-automation-engineering-development-program-pa-edp-wendell"
+    "id": "siemens-software-engineer-ii-cloud-industrial-ai-bellevue"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "Systems and Solution Test Engineer",
+    "employer_name": "SIEMENS",
+    "job_title": "AI Applied Scientist - Cloud & Industrial AI",
+    "job_city": "Bellevue",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role AI Applied Scientist - Cloud & Industrial AI at Bellevue, Washington, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-ai-applied-scientist-cloud-industrial-ai-bellevue"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "Verification Application Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Verification Application Engineer at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/verification-application-engineer/44408/78739289376",
+    "id": "synopsys-verification-application-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "GPU Firmware Engineer",
     "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Systems and Solution Test Engineer at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/68682/login",
-    "id": "amd-systems-and-solution-test-engineer-us"
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role GPU Firmware Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Firmware-Engineer_JR2002571-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-gpu-firmware-engineer-us"
   },
   {
     "employer_name": "Apple",
-    "job_title": "Mini Program Front End Engineer, Retail Engineering",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "hardware engineering job for the role Mini Program Front End Engineer, Retail Engineering at Sunnyvale",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200615179-3956/mini-program-front-end-engineer-retail-engineering?team=SFTWR",
-    "id": "apple-mini-program-front-end-engineer-retail-engineering-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Sr Machine Learning Engineer, ML Systems Engineering",
-    "job_city": "Pittsburgh",
-    "job_state": "US",
-    "job_posted_at": "1 month ago",
-    "job_description": "hardware engineering job for the role Sr Machine Learning Engineer, ML Systems Engineering at Pittsburgh",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200592769-2926/sr-machine-learning-engineer-ml-systems-engineering?team=MLAI",
-    "id": "apple-sr-machine-learning-engineer-ml-systems-engineering-pittsburgh"
+    "job_title": "Hardware System Engineer – iPhone System Technologies — SoC",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Hardware System Engineer – iPhone System Technologies — SoC at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200615861-0836/hardware-system-engineer-iphone-system-technologies-soc?team=HRDWR",
+    "id": "apple-hardware-system-engineer-iphone-system-technologies-soc-cupertino"
   }
 ]
