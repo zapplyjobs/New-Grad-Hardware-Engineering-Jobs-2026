@@ -1,32 +1,42 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "AI\\ML lead - Edge Compute",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal AI\\ML lead - Edge Compute at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/AI-Algorithm-Engineer---Edge---Emerging-Hardware_R252784?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-ai-ml-lead-edge-compute-us"
+    "employer_name": "IBM",
+    "job_title": "Engineer",
+    "job_city": "Charlotte",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Engineer 01 at Entry LevelCharlotte, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54170&source=WEB_Search_NA",
+    "id": "ibm-engineer-charlotte"
   },
   {
-    "employer_name": "GDIT",
-    "job_title": "Information Systems Sr Manager",
-    "job_city": "USA DC Washington",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Information Systems Sr Manager at USA DC Washington",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Information-Systems-Sr-Manager_RQ205856-1?q=hardware+engineering",
-    "id": "gdit-information-systems-sr-manager-usa-dc-washington"
+    "employer_name": "IBM",
+    "job_title": "Engineer",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Engineer 01 at Entry LevelNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54138&source=WEB_Search_NA",
+    "id": "ibm-engineer-new-york"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Security Verification Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Security Verification Engineer at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/67691/login",
+    "id": "amd-security-verification-engineer-us"
   },
   {
     "employer_name": "MAGNA",
-    "job_title": "Industrial Engineer",
-    "job_city": "Lancaster",
-    "job_state": "Ohio",
+    "job_title": "Controls/Automation Engineer",
+    "job_city": "Troy",
+    "job_state": "Michigan",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Industrial Engineer at Lancaster, Ohio, US",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lancaster-Ohio-US/Industrial-Engineer_R00206453?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-industrial-engineer-lancaster"
+    "job_description": "hardware engineering job for the role Controls/Automation Engineer at Troy, Michigan, US",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Controls-Automation-Engineer_R00203332-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-controls-automation-engineer-troy"
   }
 ]
