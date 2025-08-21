@@ -1,73 +1,72 @@
 [
   {
-    "job_title": "Critical Infrastructure Electrical Engineer, Field Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_description": "hardware engineering job for the role Critical Infrastructure Electrical Engineer, Field Engineering at Herndon, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3063667/critical-infrastructure-electrical-engineer-field-engineering",
-    "job_posted_at": "2025-08-21T15:24:16.926Z",
-    "job_posted_at_datetime_utc": "2025-08-21T15:24:16.926Z",
-    "id": "amazon-critical-infrastructure-electrical-engineer-field-engineering-herndon"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "MTS Circuit Design Engineer, HSIO",
-    "job_city": "Folsom",
-    "job_state": "California",
-    "job_posted_at": "Posted 17 hours ago",
-    "job_description": "hardware engineering job for the role MTS Circuit Design Engineer, HSIO at Folsom, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30868369",
-    "id": "micron-mts-circuit-design-engineer-hsio-folsom"
-  },
-  {
-    "employer_name": "JP Morgan Chase",
-    "job_title": "Software Engineer III - Python/T-SQL/Powershell Database Engineer",
-    "job_city": "Jersey City",
-    "job_state": "NJ",
+    "employer_name": "HONEYWELL",
+    "job_title": "Advanced Hardware Engineer",
+    "job_city": "Fort Mill",
+    "job_state": "SC",
     "job_posted_at": "Recently",
-    "job_description": "hardware job for the role Software Engineer III - Python/T-SQL/Powershell Database Engineer at Jersey City, NJ, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210651746/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-software-engineer-iii-python-t-sql-powershell-database-engineer-jersey-city"
+    "job_description": "hardware job for the role Senior Advanced Hardware Engineer at Fort Mill, SC, United States",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/115046/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-advanced-hardware-engineer-fort-mill"
   },
   {
     "employer_name": "AMD",
-    "job_title": "Feature Validation/Test Engineer-Cloud",
+    "job_title": "Software Development Eng. - GPU Communication Libraries, SHMEM/MPI",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Principal Software Development Eng. - GPU Communication Libraries, SHMEM/MPI at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/67654/login",
+    "id": "amd-software-development-eng-gpu-communication-libraries-shmem-mpi-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "SIMD Software Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role SIMD Software Engineer at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/64049/login",
+    "id": "amd-simd-software-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Software Development Engineer - C++",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Development Engineer - C++ at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/68100/login",
+    "id": "amd-software-development-engineer-c-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Software Development Engineer - UCX/MPI/libfabric",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Software Development Engineer - UCX/MPI/libfabric at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/68793/login",
+    "id": "amd-software-development-engineer-ucx-mpi-libfabric-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Manager Software Development - GPU Video/Image Processing and Computer Vision",
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Feature Validation/Test Engineer-Cloud at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/68683/login",
-    "id": "amd-feature-validation-test-engineer-cloud-us"
+    "job_description": "hardware engineering job for the role Senior Manager Software Development - GPU Video/Image Processing and Computer Vision at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/68593/login",
+    "id": "amd-manager-software-development-gpu-video-image-processing-and-computer-vision-us"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Hardware Systems EE",
-    "job_city": "Los Angeles",
-    "job_state": "California",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Hardware Systems EE at Los Angeles",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200617326-2605/hardware-systems-ee?team=HRDWR",
-    "id": "apple-hardware-systems-ee-los-angeles"
-  },
-  {
-    "employer_name": "MAGNA",
-    "job_title": "Trim Buyer",
-    "job_city": "Novi",
-    "job_state": "Michigan",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Trim Buyer at Novi, Michigan, US",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Novi-Michigan-US/Trim-Buyer_R00206641?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-trim-buyer-novi"
-  },
-  {
-    "employer_name": "MAGNA",
-    "job_title": "Trim Commodity Manager",
-    "job_city": "Novi",
-    "job_state": "Michigan",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Trim Commodity Manager at Novi, Michigan, US",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Novi-Michigan-US/Trim-Commodity-Manager_R00203535-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-trim-commodity-manager-novi"
+    "employer_name": "AMD",
+    "job_title": "Manager Software Development - GPU Communication Libraries",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Manager Software Development - GPU Communication Libraries at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/69018/login",
+    "id": "amd-manager-software-development-gpu-communication-libraries-us"
   }
 ]
