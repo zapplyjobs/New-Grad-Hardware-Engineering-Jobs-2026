@@ -1,42 +1,64 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Engineer",
-    "job_city": "Charlotte",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Engineer 01 at Entry LevelCharlotte, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54170&source=WEB_Search_NA",
-    "id": "ibm-engineer-charlotte"
+    "job_title": "Production Support Engineer, Project Kuiper RF HW",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Production Support Engineer, Project Kuiper RF HW at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3042637/production-support-engineer-project-kuiper-rf-hw",
+    "job_posted_at": "2025-08-21T15:31:49.083Z",
+    "job_posted_at_datetime_utc": "2025-08-21T15:31:49.083Z",
+    "id": "amazon-production-support-engineer-project-kuiper-rf-hw-redmond"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Engineer",
-    "job_city": "New York",
+    "job_title": "MAC System Integration and Automation Engineer, Kuiper Satellite Communication System - MAC Software Development",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role MAC System Integration and Automation Engineer, Kuiper Satellite Communication System - MAC Software Development at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3009920/mac-system-integration-and-automation-engineer-kuiper-satellite-communication-system-mac-software-development",
+    "job_posted_at": "2025-08-15T16:31:49.083Z",
+    "job_posted_at_datetime_utc": "2025-08-15T16:31:49.083Z",
+    "id": "amazon-mac-system-integration-and-automation-engineer-kuiper-satellite-communication-system-mac-software-development-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Critical Environment Energy Marshall",
+    "job_city": "Milwaukee",
+    "job_state": "Wisconsin",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Critical Environment Energy Marshall",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855412/Critical-Environment-Energy-Marshall",
+    "id": "microsoft-critical-environment-energy-marshall-milwaukee"
+  },
+  {
+    "employer_name": "INFINEON",
+    "job_title": "Senior Principal Engineer Product Definition (f/m/div)",
+    "job_city": "Villach (Austria)",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Engineer 01 at Entry LevelNew York, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54138&source=WEB_Search_NA",
-    "id": "ibm-engineer-new-york"
+    "job_description": "hardware engineering job for the role Senior Principal Engineer Product Definition (f/m/div) at Villach (Austria)",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-senior-principal-engineer-product-definition-f-m-div-villach-austria"
   },
   {
     "employer_name": "AMD",
-    "job_title": "Security Verification Engineer",
+    "job_title": "Sr. Staff Software Development Engineer - Middleware Development",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Sr. Staff Software Development Engineer - Middleware Development at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/62588/login",
+    "id": "amd-sr-staff-software-development-engineer-middleware-development-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "System and Solution Test Engineer",
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Security Verification Engineer at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/67691/login",
-    "id": "amd-security-verification-engineer-us"
-  },
-  {
-    "employer_name": "MAGNA",
-    "job_title": "Controls/Automation Engineer",
-    "job_city": "Troy",
-    "job_state": "Michigan",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Controls/Automation Engineer at Troy, Michigan, US",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Controls-Automation-Engineer_R00203332-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-controls-automation-engineer-troy"
+    "job_description": "hardware engineering job for the role System and Solution Test Engineer at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/68684/login",
+    "id": "amd-system-and-solution-test-engineer-us"
   }
 ]
