@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Technical Program Manager",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Principal Technical Program Manager at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-technical-program-manager/33099/85279595376",
-    "id": "arm-technical-program-manager-san-jose"
-  },
-  {
-    "employer_name": "HONEYWELL",
-    "job_title": "Sr Account Manager-Honeywell Building Solutions",
-    "job_city": "San Jose",
+    "employer_name": "AMD",
+    "job_title": "Manager Systems Design Engineer",
+    "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware job for the role Sr Account Manager-Honeywell Building Solutions-Remote (San Francisco CA) at San Jose, CA, United States",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/115194/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-sr-account-manager-honeywell-building-solutions-san-jose"
+    "job_description": "hardware engineering job for the role Manager Systems Design Engineer at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/69539/login",
+    "id": "amd-manager-systems-design-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "CPU Core Design Verification Senior Staff Engineer",
+    "job_city": "US",
+    "job_state": "GA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role CPU Core Design Verification Senior Staff Engineer at US,GA,Home Office\nGEORGIA, Georgia\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/69208/login",
+    "id": "amd-cpu-core-design-verification-senior-staff-engineer-us"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Cybersecurity Program Manager",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Cybersecurity Program Manager at Fort Meade, MD",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Cybersecurity-Program-Manager_R0224862?q=hardware+engineering",
+    "id": "verizon-cybersecurity-program-manager-fort-meade"
   }
 ]
