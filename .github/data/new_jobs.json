@@ -1,72 +1,22 @@
 [
   {
+    "employer_name": "Arm",
+    "job_title": "Technical Program Manager",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Principal Technical Program Manager at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-technical-program-manager/33099/85279595376",
+    "id": "arm-technical-program-manager-san-jose"
+  },
+  {
     "employer_name": "HONEYWELL",
-    "job_title": "Advanced Hardware Engineer",
-    "job_city": "Fort Mill",
-    "job_state": "SC",
-    "job_posted_at": "Recently",
-    "job_description": "hardware job for the role Senior Advanced Hardware Engineer at Fort Mill, SC, United States",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/115046/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-advanced-hardware-engineer-fort-mill"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Software Development Eng. - GPU Communication Libraries, SHMEM/MPI",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Principal Software Development Eng. - GPU Communication Libraries, SHMEM/MPI at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/67654/login",
-    "id": "amd-software-development-eng-gpu-communication-libraries-shmem-mpi-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "SIMD Software Engineer",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role SIMD Software Engineer at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/64049/login",
-    "id": "amd-simd-software-engineer-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Software Development Engineer - C++",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Development Engineer - C++ at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/68100/login",
-    "id": "amd-software-development-engineer-c-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Software Development Engineer - UCX/MPI/libfabric",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Software Development Engineer - UCX/MPI/libfabric at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/68793/login",
-    "id": "amd-software-development-engineer-ucx-mpi-libfabric-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Manager Software Development - GPU Video/Image Processing and Computer Vision",
-    "job_city": "US",
+    "job_title": "Sr Account Manager-Honeywell Building Solutions",
+    "job_city": "San Jose",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Manager Software Development - GPU Video/Image Processing and Computer Vision at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/68593/login",
-    "id": "amd-manager-software-development-gpu-video-image-processing-and-computer-vision-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Manager Software Development - GPU Communication Libraries",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Manager Software Development - GPU Communication Libraries at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/69018/login",
-    "id": "amd-manager-software-development-gpu-communication-libraries-us"
+    "job_description": "hardware job for the role Sr Account Manager-Honeywell Building Solutions-Remote (San Francisco CA) at San Jose, CA, United States",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/115194/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-sr-account-manager-honeywell-building-solutions-san-jose"
   }
 ]
