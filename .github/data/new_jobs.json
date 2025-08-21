@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Product Manager",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "CISCO",
+    "job_title": "Hardware Engineer, System and Board Failure Analysis",
+    "job_city": "Milpitas",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Product Manager at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/product-manager/33099/85268194128",
-    "id": "arm-product-manager-austin"
+    "job_description": "hardware engineering job for the role Hardware Engineer, System and Board Failure Analysis at Milpitas, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-System-and-Board-Failure-Analysis/1448129",
+    "id": "cisco-hardware-engineer-system-and-board-failure-analysis-milpitas"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation - Digital Deployment Specialist",
+    "job_city": "Beltsville",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Building Automation - Digital Deployment Specialist at Beltsville, Maryland, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-digital-deployment-specialist-beltsville"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Software System Design Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software System Design Engineer at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/69107/login",
+    "id": "amd-software-system-design-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Deep Learning Software Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 27 Days Ago",
+    "job_description": "hardware engineering job for the role Senior Deep Learning Software Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Software-Engineer_JR1998874?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-deep-learning-software-engineer-us"
   }
 ]
