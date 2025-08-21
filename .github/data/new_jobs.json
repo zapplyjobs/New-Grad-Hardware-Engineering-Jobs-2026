@@ -1,62 +1,12 @@
 [
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Lean Manufacturing Specialist - Rolling Stock",
-    "job_city": "Lexington",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Lean Manufacturing Specialist - Rolling Stock at Lexington, North Carolina, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-lean-manufacturing-specialist-rolling-stock-lexington"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Lead Power Systems Consultant",
-    "job_city": "Boston",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Lead Power Systems Consultant at Boston, Massachusetts, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-lead-power-systems-consultant-boston"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Automation & Digitalization Engineer",
-    "job_city": "Roebuck",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Automation & Digitalization Engineer at Roebuck, South Carolina, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-automation-digitalization-engineer-roebuck"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Senior Power Systems Consultant",
-    "job_city": "Minnetonka",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Power Systems Consultant at Minnetonka, Minnesota, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-senior-power-systems-consultant-minnetonka"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Building Automation HVAC Systems Project Manager",
-    "job_city": "Colorado Springs",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Building Automation HVAC Systems Project Manager at Colorado Springs, Colorado, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-building-automation-hvac-systems-project-manager-colorado-springs"
-  },
-  {
     "employer_name": "NVIDIA",
-    "job_title": "HPC and AI Networking Performance Research and Analysis Engineer",
+    "job_title": "Reliability Methodology Development Engineer",
     "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior HPC and AI Networking Performance Research and Analysis Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-HPC-and-AI-Networking-Performance-Research-and-Analysis-Engineer_JR1992190?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-hpc-and-ai-networking-performance-research-and-analysis-engineer-us"
+    "job_posted_at": "Posted 3 Days Ago",
+    "job_description": "hardware engineering job for the role Senior Reliability Methodology Development Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Reliability-Methodology-Development-Engineer_JR2000319?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-reliability-methodology-development-engineer-us"
   }
 ]
