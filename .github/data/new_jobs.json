@@ -1,62 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Sr. Security Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Sr. Security Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53137&source=WEB_Search_NA",
-    "id": "ibm-sr-security-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Sr. Technical Escalation Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Sr. Technical Escalation Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53169&source=WEB_Search_NA",
-    "id": "ibm-sr-technical-escalation-manager-multiple-cities"
-  },
-  {
-    "employer_name": "SYNOPSYS",
-    "job_title": "Formal Verification Application Engineer",
-    "job_city": "United States Off-site",
-    "job_state": "United States Off-site",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Formal Verification Application Engineer at United States Off-site",
-    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/formal-verification-application-engineer/44408/85253384736",
-    "id": "synopsys-formal-verification-application-engineer-united-states-off-site"
-  },
-  {
-    "employer_name": "SYNOPSYS",
-    "job_title": "Senior Manager, SOC Engineering",
-    "job_city": "United States Off-site",
-    "job_state": "United States Off-site",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Senior Manager, SOC Engineering at United States Off-site",
-    "job_apply_link": "https://careers.synopsys.com/job/plano/senior-manager-soc-engineering/44408/84463327440",
-    "id": "synopsys-senior-manager-soc-engineering-united-states-off-site"
-  },
-  {
-    "employer_name": "SYNOPSYS",
-    "job_title": "Software Engineer, Staff -11967",
-    "job_city": "Hillsboro",
-    "job_state": "Oregon",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Software Engineer, Staff -11967 at Hillsboro, Oregon",
-    "job_apply_link": "https://careers.synopsys.com/job/hillsboro/software-engineer-staff-11967/44408/84432060224",
-    "id": "synopsys-software-engineer-staff-11967-hillsboro"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Resident Network Engineer",
-    "job_city": "All",
-    "job_state": "Pennsylvania",
+    "employer_name": "GDIT",
+    "job_title": "IT Project Manager",
+    "job_city": "USA VA Springfield",
+    "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Resident Network Engineer at All, Pennsylvania, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/All-Pennsylvania-United-States-of-America/Resident-Network-Engineer_1192547-1?q=hardware+engineering",
-    "id": "hewlett-packard-enterprise-resident-network-engineer-all"
+    "job_description": "hardware engineering job for the role IT Project Manager at USA VA Springfield",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/IT-Project-Manager_RQ205780-1?q=hardware+engineering",
+    "id": "gdit-it-project-manager-usa-va-springfield"
   }
 ]
