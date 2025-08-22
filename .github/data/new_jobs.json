@@ -1,62 +1,132 @@
 [
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Smart Buildings Senior Service Operations Manager",
-    "job_city": "Cypress",
-    "job_state": "United States of America",
+    "employer_name": "Arm",
+    "job_title": "Principal Program Manager",
+    "job_city": "Multiple",
+    "job_state": "Locations",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Smart Buildings Senior Service Operations Manager at Cypress, California, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-smart-buildings-senior-service-operations-manager-cypress"
+    "job_description": "hardware engineering job for the role Senior Principal Program Manager at Multiple locations",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-program-manager/33099/85290288432",
+    "id": "arm-principal-program-manager-multiple"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Software Engineer II - Cloud & Industrial AI",
-    "job_city": "Bellevue",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer II - Cloud & Industrial AI at Bellevue, Washington, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-software-engineer-ii-cloud-industrial-ai-bellevue"
+    "employer_name": "AiJobs",
+    "job_title": "Silicon Solutions Test Development Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Silicon Solutions Test Development Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157098851-silicon-solutions-test-development-engineer",
+    "id": "aijobs-silicon-solutions-test-development-engineer-santa-clara"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "AI Applied Scientist - Cloud & Industrial AI",
-    "job_city": "Bellevue",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role AI Applied Scientist - Cloud & Industrial AI at Bellevue, Washington, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-ai-applied-scientist-cloud-industrial-ai-bellevue"
-  },
-  {
-    "employer_name": "SYNOPSYS",
-    "job_title": "Verification Application Engineer",
-    "job_city": "Sunnyvale",
+    "employer_name": "AiJobs",
+    "job_title": "Support Engineer, Lead",
+    "job_city": "United States",
     "job_state": "California",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Verification Application Engineer at Sunnyvale, California",
-    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/verification-application-engineer/44408/78739289376",
-    "id": "synopsys-verification-application-engineer-sunnyvale"
+    "job_posted_at": "23min ago",
+    "job_description": "hardware engineering job for the role Senior Support Engineer, Lead at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/157102553-senior-support-engineer-lead",
+    "id": "aijobs-support-engineer-lead-united-states"
   },
   {
-    "employer_name": "NVIDIA",
-    "job_title": "GPU Firmware Engineer",
+    "employer_name": "AiJobs",
+    "job_title": "Manufacturing Quality Engineer, Datacenter Infrastructure - Stargate",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Manufacturing Quality Engineer, Datacenter Infrastructure - Stargate at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/157102550-manufacturing-quality-engineer-datacenter-infrastructure-stargate",
+    "id": "aijobs-manufacturing-quality-engineer-datacenter-infrastructure-stargate-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Security Products",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "24min ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Security Products at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/157102548-software-engineer-security-products",
+    "id": "aijobs-software-engineer-security-products-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Silicon Chip Hardware Lead",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Senior Silicon Chip Hardware Lead at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157098864-senior-silicon-chip-hardware-lead",
+    "id": "aijobs-silicon-chip-hardware-lead-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Speed and Reliability Engineer - DFP",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Lead Speed and Reliability Engineer - DFP at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157098854-lead-speed-and-reliability-engineer-dfp",
+    "id": "aijobs-speed-and-reliability-engineer-dfp-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineer - Design to Silicon Correlation",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Lead Engineer - Design to Silicon Correlation at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157098852-lead-engineer-design-to-silicon-correlation",
+    "id": "aijobs-engineer-design-to-silicon-correlation-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Researcher — Safety Systems, Misalignment Research",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "24min ago",
+    "job_description": "hardware engineering job for the role Senior Researcher — Safety Systems, Misalignment Research at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/157102549-senior-researcher-safety-systems-misalignment-research",
+    "id": "aijobs-researcher-safety-systems-misalignment-research-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "DGX Cloud AI Infrastructure Software Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Senior DGX Cloud AI Infrastructure Software Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157098859-senior-dgx-cloud-ai-infrastructure-software-engineer",
+    "id": "aijobs-dgx-cloud-ai-infrastructure-software-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI and ML Infra Software Engineer, GPU Clusters",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role AI and ML Infra Software Engineer, GPU Clusters at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157098863-ai-and-ml-infra-software-engineer-gpu-clusters",
+    "id": "aijobs-ai-and-ml-infra-software-engineer-gpu-clusters-santa-clara"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "GPU Performance Champion AI/ML",
     "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role GPU Firmware Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Firmware-Engineer_JR2002571-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-gpu-firmware-engineer-us"
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role GPU Performance Champion AI/ML at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/58391/login",
+    "id": "amd-gpu-performance-champion-ai-ml-us"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Hardware System Engineer – iPhone System Technologies — SoC",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Hardware System Engineer – iPhone System Technologies — SoC at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200615861-0836/hardware-system-engineer-iphone-system-technologies-soc?team=HRDWR",
-    "id": "apple-hardware-system-engineer-iphone-system-technologies-soc-cupertino"
+    "employer_name": "Booz Allen ",
+    "job_title": "Cybersecurity Program Manager",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Cybersecurity Program Manager at Fort Meade, MD",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Cybersecurity-Program-Manager_R0224862?q=hardware+engineering",
+    "id": "booz-allen-cybersecurity-program-manager-fort-meade"
   }
 ]
