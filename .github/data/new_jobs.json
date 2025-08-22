@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Full Stack Developer-Network Services",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Full Stack Developer-Network Services at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53348&source=WEB_Search_NA",
-    "id": "ibm-full-stack-developer-network-services-austin"
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning / Research Engineer (New Grad)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "4h ago",
+    "job_description": "hardware engineering job for the role Machine Learning / Research Engineer (New Grad) at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/157112976-machine-learning-research-engineer-new-grad",
+    "id": "aijobs-machine-learning-research-engineer-new-grad-us"
   },
   {
-    "employer_name": "Booz Allen ",
+    "employer_name": "GDIT",
+    "job_title": "Field Engineer",
+    "job_city": "USA VA Chesapeake",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Field Engineer at USA VA Chesapeake",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chesapeake/Field-Engineer_RQ205844-1?q=hardware+engineering",
+    "id": "gdit-field-engineer-usa-va-chesapeake"
+  },
+  {
+    "employer_name": "Verizon",
     "job_title": "Versa SD-WAN Engineer",
     "job_city": "Fort Meade",
     "job_state": "MD",
     "job_posted_at": "Posted Today",
     "job_description": "hardware engineering job for the role Versa SD-WAN Engineer at Fort Meade, MD",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Versa-SD-WAN-Engineer_R0224895?q=hardware+engineering",
-    "id": "booz-allen-versa-sd-wan-engineer-fort-meade"
+    "id": "verizon-versa-sd-wan-engineer-fort-meade"
   }
 ]
