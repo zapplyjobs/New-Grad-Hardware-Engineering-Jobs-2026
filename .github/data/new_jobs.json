@@ -1,132 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Principal Program Manager",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Principal Program Manager at Multiple locations",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-principal-program-manager/33099/85290288432",
-    "id": "arm-principal-program-manager-multiple"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Silicon Solutions Test Development Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Silicon Solutions Test Development Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/157098851-silicon-solutions-test-development-engineer",
-    "id": "aijobs-silicon-solutions-test-development-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Support Engineer, Lead",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "23min ago",
-    "job_description": "hardware engineering job for the role Senior Support Engineer, Lead at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/157102553-senior-support-engineer-lead",
-    "id": "aijobs-support-engineer-lead-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Manufacturing Quality Engineer, Datacenter Infrastructure - Stargate",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Manufacturing Quality Engineer, Datacenter Infrastructure - Stargate at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/157102550-manufacturing-quality-engineer-datacenter-infrastructure-stargate",
-    "id": "aijobs-manufacturing-quality-engineer-datacenter-infrastructure-stargate-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Security Products",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "24min ago",
-    "job_description": "hardware engineering job for the role Software Engineer, Security Products at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/157102548-software-engineer-security-products",
-    "id": "aijobs-software-engineer-security-products-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Silicon Chip Hardware Lead",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Senior Silicon Chip Hardware Lead at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/157098864-senior-silicon-chip-hardware-lead",
-    "id": "aijobs-silicon-chip-hardware-lead-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Speed and Reliability Engineer - DFP",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Lead Speed and Reliability Engineer - DFP at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/157098854-lead-speed-and-reliability-engineer-dfp",
-    "id": "aijobs-speed-and-reliability-engineer-dfp-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Engineer - Design to Silicon Correlation",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Lead Engineer - Design to Silicon Correlation at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/157098852-lead-engineer-design-to-silicon-correlation",
-    "id": "aijobs-engineer-design-to-silicon-correlation-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Researcher — Safety Systems, Misalignment Research",
-    "job_city": "Unknown",
+    "employer_name": "IBM",
+    "job_title": "Full Stack Developer-Network Services",
+    "job_city": "Austin",
     "job_state": "US",
-    "job_posted_at": "24min ago",
-    "job_description": "hardware engineering job for the role Senior Researcher — Safety Systems, Misalignment Research at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/157102549-senior-researcher-safety-systems-misalignment-research",
-    "id": "aijobs-researcher-safety-systems-misalignment-research-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "DGX Cloud AI Infrastructure Software Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role Senior DGX Cloud AI Infrastructure Software Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/157098859-senior-dgx-cloud-ai-infrastructure-software-engineer",
-    "id": "aijobs-dgx-cloud-ai-infrastructure-software-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI and ML Infra Software Engineer, GPU Clusters",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1h ago",
-    "job_description": "hardware engineering job for the role AI and ML Infra Software Engineer, GPU Clusters at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/157098863-ai-and-ml-infra-software-engineer-gpu-clusters",
-    "id": "aijobs-ai-and-ml-infra-software-engineer-gpu-clusters-santa-clara"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "GPU Performance Champion AI/ML",
-    "job_city": "US",
-    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role GPU Performance Champion AI/ML at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/58391/login",
-    "id": "amd-gpu-performance-champion-ai-ml-us"
+    "job_description": "hardware engineering job for the role Full Stack Developer-Network Services at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53348&source=WEB_Search_NA",
+    "id": "ibm-full-stack-developer-network-services-austin"
   },
   {
     "employer_name": "Booz Allen ",
-    "job_title": "Cybersecurity Program Manager",
+    "job_title": "Versa SD-WAN Engineer",
     "job_city": "Fort Meade",
     "job_state": "MD",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Cybersecurity Program Manager at Fort Meade, MD",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Cybersecurity-Program-Manager_R0224862?q=hardware+engineering",
-    "id": "booz-allen-cybersecurity-program-manager-fort-meade"
+    "job_description": "hardware engineering job for the role Versa SD-WAN Engineer at Fort Meade, MD",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Versa-SD-WAN-Engineer_R0224895?q=hardware+engineering",
+    "id": "booz-allen-versa-sd-wan-engineer-fort-meade"
   }
 ]
