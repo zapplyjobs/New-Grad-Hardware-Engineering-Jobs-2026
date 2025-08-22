@@ -1,12 +1,72 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Sr Administrative Assistant – TPG",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 5 days ago",
-    "job_description": "hardware engineering job for the role Sr Administrative Assistant – TPG at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30779868",
-    "id": "micron-sr-administrative-assistant-tpg-boise"
+    "employer_name": "Google",
+    "job_title": "Senior Hardware Test Engineer",
+    "job_city": "Lithia Springs",
+    "job_state": "GA",
+    "job_posted_at": "Recently",
+    "job_description": "16 Category: hardware engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Hardware Test Engineer, Validation Engineering",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/113615936321135302-senior-hardware-test-engineer-validation-engineering?q=%22hardware+engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-hardware-test-engineer-lithia-springs"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Solutions Architect",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Solutions Architect at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53844&source=WEB_Search_NA",
+    "id": "ibm-solutions-architect-multiple-cities"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior System Drives Field Service Technician",
+    "job_city": "Remote",
+    "job_state": "Massachusetts",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Senior System Drives Field Service Technician at Remote, Massachusetts, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00008002/Senior-System-Drives-Field-Service-Technician",
+    "id": "abb-senior-system-drives-field-service-technician-remote"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Software Engineer II (Full Time) United States",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer II (Full Time) United States at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-II-Full-Time-United-States/1447851",
+    "id": "cisco-software-engineer-ii-full-time-united-states-san-jose"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Information Developer/Senior Application Engineering Technical Writer",
+    "job_city": "Austin",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Information Developer/Senior Application Engineering Technical Writer at Austin, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-information-developer-senior-application-engineering-technical-writer-austin"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Atlas Graduate Program: Associate Product Engineer (2024)",
+    "job_city": "Fremont",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Atlas Graduate Program: Associate Product Engineer (2024) at Fremont, California, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-atlas-graduate-program-associate-product-engineer-2024-fremont"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "System Administrator",
+    "job_city": "US",
+    "job_state": "GA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role System Administrator at US,GA,Home Office\nGEORGIA, Georgia\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/67359/login",
+    "id": "amd-system-administrator-us"
   }
 ]
