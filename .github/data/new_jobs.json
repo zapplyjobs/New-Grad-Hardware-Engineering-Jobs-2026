@@ -1,1 +1,272 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Swift Compiler Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Swift Compiler Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200607784-0836/swift-compiler-engineer?team=SFTWR",
+    "id": "apple-swift-compiler-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Detection Engineer",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role Senior Detection Engineer at Seattle",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200609468-3337/senior-detection-engineer?team=SFTWR",
+    "id": "apple-detection-engineer-seattle"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Operations Test Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "1 month ago",
+    "job_description": "hardware engineering job for the role Operations Test Engineer at San Diego",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200589938-3543/operations-test-engineer?team=OPMFG",
+    "id": "apple-operations-test-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Audio Firmware Engineer",
+    "job_city": "Boulder",
+    "job_state": "US",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Audio Firmware Engineer at Boulder",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200610297-0365/audio-firmware-engineer?team=SFTWR",
+    "id": "apple-audio-firmware-engineer-boulder"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Data Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "5 months ago",
+    "job_description": "hardware engineering job for the role Senior Data Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200595736-0836/senior-data-engineer?team=SFTWR",
+    "id": "apple-data-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "SoC Validation Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "5 months ago",
+    "job_description": "hardware engineering job for the role SoC Validation Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200575658-0836/soc-validation-engineer?team=HRDWR",
+    "id": "apple-soc-validation-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Emulation Verification Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Emulation Verification Engineer at San Diego",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200598394-3543/emulation-verification-engineer?team=HRDWR",
+    "id": "apple-emulation-verification-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "PLL/Clocking Design Engineer",
+    "job_city": "Beaverton",
+    "job_state": "US",
+    "job_posted_at": "5 months ago",
+    "job_description": "hardware engineering job for the role PLL/Clocking Design Engineer at Beaverton",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200595905-0505/pll-clocking-design-engineer?team=HRDWR",
+    "id": "apple-pll-clocking-design-engineer-beaverton"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "HID Quality Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "6 months ago",
+    "job_description": "hardware engineering job for the role HID Quality Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200588339-0836/hid-quality-engineer?team=SFTWR",
+    "id": "apple-hid-quality-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "SOC Verification Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "1 month ago",
+    "job_description": "hardware engineering job for the role SOC Verification Engineer at San Diego",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200613847-3543/soc-verification-engineer?team=HRDWR",
+    "id": "apple-soc-verification-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Firmware Verification Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "10 months ago",
+    "job_description": "hardware engineering job for the role Firmware Verification Engineer at San Diego",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200574728-3543/firmware-verification-engineer?team=HRDWR",
+    "id": "apple-firmware-verification-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Physical Design Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Physical Design Engineer at Austin",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200597485-0157/physical-design-engineer?team=HRDWR",
+    "id": "apple-physical-design-engineer-austin"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Systems Metrology Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Systems Metrology Engineer at Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200608378-3956/systems-metrology-engineer?team=HRDWR",
+    "id": "apple-systems-metrology-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "AIML-Backend Engineer, Measurement",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "7 months ago",
+    "job_description": "hardware engineering job for the role AIML-Backend Engineer, Measurement at Seattle",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200581470-3337/aiml-backend-engineer-measurement?team=MLAI",
+    "id": "apple-aiml-backend-engineer-measurement-seattle"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Emulation Verification Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "1 month ago",
+    "job_description": "hardware engineering job for the role Emulation Verification Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200594432-0836/emulation-verification-engineer?team=HRDWR",
+    "id": "apple-emulation-verification-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Camera Modeling Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "5 months ago",
+    "job_description": "hardware engineering job for the role Camera Modeling Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200596351-0836/camera-modeling-engineer?team=HRDWR",
+    "id": "apple-camera-modeling-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Fitness+ Studio Engineer",
+    "job_city": "Santa Monica",
+    "job_state": "US",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Fitness+ Studio Engineer at Santa Monica",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200601049-3326/fitness-studio-engineer?team=SFTWR",
+    "id": "apple-fitness-studio-engineer-santa-monica"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Controls Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Senior Controls Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200607756-0836/senior-controls-engineer?team=HRDWR",
+    "id": "apple-controls-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "GNSS Systems Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role GNSS Systems Engineer at San Diego",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200599877-3543/gnss-systems-engineer?team=HRDWR",
+    "id": "apple-gnss-systems-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Operations Reliability Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Operations Reliability Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200610537-0836/operations-reliability-engineer?team=OPMFG",
+    "id": "apple-operations-reliability-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Silicon Validation Engineer",
+    "job_city": "Waltham",
+    "job_state": "US",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Silicon Validation Engineer at Waltham",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200606302-6205/silicon-validation-engineer?team=HRDWR",
+    "id": "apple-silicon-validation-engineer-waltham"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Machine Learning Engineer",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "8 months ago",
+    "job_description": "hardware engineering job for the role Machine Learning Engineer at Seattle",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200581604-3337/machine-learning-engineer?team=MLAI",
+    "id": "apple-machine-learning-engineer-seattle"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "SoC DFT Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1 month ago",
+    "job_description": "hardware engineering job for the role SoC DFT Engineer at Austin",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200611569-0157/soc-dft-engineer?team=HRDWR",
+    "id": "apple-soc-dft-engineer-austin"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Application Security Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Application Security Engineer at San Diego",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200600167-3543/application-security-engineer?team=SFTWR",
+    "id": "apple-application-security-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Product Security Engineer",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Product Security Engineer at Seattle",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200602130-3337/product-security-engineer?team=SFTWR",
+    "id": "apple-product-security-engineer-seattle"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "GenAI Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Staff GenAI Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200607084-0836/staff-genai-engineer?team=SFTWR",
+    "id": "apple-genai-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Operations Engineering Manager",
+    "job_city": "Santa Clara",
+    "job_state": "California",
+    "job_posted_at": "5 months ago",
+    "job_description": "hardware engineering job for the role Operations Engineering Manager at Santa Clara",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200596038-3760/operations-engineering-manager?team=SFTWR",
+    "id": "apple-operations-engineering-manager-santa-clara"
+  }
+]
