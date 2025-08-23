@@ -1,152 +1,82 @@
 [
   {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Back End Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Entry Level Back End Developer at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54840&source=WEB_Search_NA",
+    "id": "ibm-entry-level-back-end-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Firmware Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Entry Level Firmware Developer at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54837&source=WEB_Search_NA",
+    "id": "ibm-entry-level-firmware-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Entry Level Software Developer at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54839&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Intern:",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Developer Intern: 2025 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54845&source=WEB_Search_NA",
+    "id": "ibm-software-developer-intern-multiple-cities"
+  },
+  {
     "employer_name": "AiJobs",
-    "job_title": "Display Electrical Engineer",
+    "job_title": "Mechanical Engineer (Sensing), Robotics",
     "job_city": "United States",
     "job_state": "California",
     "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Display Electrical Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/157303132-display-electrical-engineer",
-    "id": "aijobs-display-electrical-engineer-united-states"
+    "job_description": "hardware engineering job for the role Mechanical Engineer (Sensing), Robotics at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/157303123-mechanical-engineer-sensing-robotics",
+    "id": "aijobs-mechanical-engineer-sensing-robotics-united-states"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "HPC Architect",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "51min ago",
-    "job_description": "hardware engineering job for the role Senior HPC Architect at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/157297380-senior-hpc-architect",
-    "id": "aijobs-hpc-architect-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "HPC Architect, Networking",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "51min ago",
-    "job_description": "hardware engineering job for the role Senior HPC Architect, Networking at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/157297381-senior-hpc-architect-networking",
-    "id": "aijobs-hpc-architect-networking-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Engineering Manager, Mulitimodal (API)",
-    "job_city": "United States",
+    "employer_name": "SYNOPSYS",
+    "job_title": "Static Verification Applications Engineer",
+    "job_city": "Sunnyvale",
     "job_state": "California",
-    "job_posted_at": "9min ago",
-    "job_description": "hardware engineering job for the role Engineering Manager, Mulitimodal (API) at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/157303134-engineering-manager-mulitimodal-api",
-    "id": "aijobs-engineering-manager-mulitimodal-api-united-states"
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Static Verification Applications Engineer at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/static-verification-applications-engineer/44408/84975424720",
+    "id": "synopsys-static-verification-applications-engineer-sunnyvale"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "GPU Kernels Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "9min ago",
-    "job_description": "hardware engineering job for the role GPU Kernels Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/157303130-gpu-kernels-engineer",
-    "id": "aijobs-gpu-kernels-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Finance Manager, Foundations",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Product Finance Manager, Foundations at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/157303128-product-finance-manager-foundations",
-    "id": "aijobs-product-finance-manager-foundations-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Localization Manager",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Localization Manager at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/157303135-localization-manager",
-    "id": "aijobs-localization-manager-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
+    "employer_name": "NVIDIA",
     "job_title": "Systems Software Engineer - AI and Cloud",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Systems Software Engineer - AI and Cloud at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/157297378-systems-software-engineer-ai-and-cloud",
-    "id": "aijobs-systems-software-engineer-ai-and-cloud-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Account Director, Digital Natives",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Account Director, Digital Natives at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/157303142-account-director-digital-natives",
-    "id": "aijobs-account-director-digital-natives-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Manager, Revenue Accounting",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Manager, Revenue Accounting at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/157303138-senior-manager-revenue-accounting",
-    "id": "aijobs-manager-revenue-accounting-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Account Director, Strategics",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Account Director, Strategics at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/157303140-account-director-strategics",
-    "id": "aijobs-account-director-strategics-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Director of Technical Revenue",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "9min ago",
-    "job_description": "hardware engineering job for the role Director of Technical Revenue at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/157303139-director-of-technical-revenue",
-    "id": "aijobs-director-of-technical-revenue-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, GPU Communications and Networking",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "51min ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer, GPU Communications and Networking at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/157297384-senior-software-engineer-gpu-communications-and-networking",
-    "id": "aijobs-software-engineer-gpu-communications-and-networking-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Sr. HR Business Partner",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Sr. HR Business Partner at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/157303126-sr-hr-business-partner",
-    "id": "aijobs-sr-hr-business-partner-united-states"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Performance Software Engineer",
     "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Performance Software Engineer at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/69441/login",
-    "id": "amd-performance-software-engineer-us"
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Systems Software Engineer - AI and Cloud at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud_JR2002477?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-systems-software-engineer-ai-and-cloud-us"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Software Integrator, Senior",
+    "job_city": "Belcamp",
+    "job_state": "MD",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Software Integrator, Senior at Belcamp, MD",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Belcamp-MD/Software-Integrator--Senior_R0224959?q=hardware+engineering",
+    "id": "verizon-software-integrator-senior-belcamp"
   }
 ]
