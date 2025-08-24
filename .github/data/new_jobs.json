@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Embedded Software Engineer - RISCV",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Embedded Software Engineer - RISCV at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2002600?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-embedded-software-engineer-riscv-us"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Hardware EPM (Engineering Program Manager)",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Hardware EPM (Engineering Program Manager) at Austin",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200617675-0157/hardware-epm-engineering-program-manager?team=HRDWR",
+    "id": "apple-hardware-epm-engineering-program-manager-austin"
+  }
+]
