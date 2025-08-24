@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Design Program Manager",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "20min ago",
+    "job_description": "hardware engineering job for the role Product Design Program Manager at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/157492159-product-design-program-manager",
+    "id": "aijobs-product-design-program-manager-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Manager - Data Center Performance",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Senior Software Manager - Data Center Performance at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157490350-senior-software-manager-data-center-performance",
+    "id": "aijobs-software-manager-data-center-performance-santa-clara"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "Senior Software Engineer, Inertial Navigation",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Software Engineer, Inertial Navigation at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/senior-software-engineer-inertial-navigation-mountain-view-california-united-states",
+    "id": "waymo-senior-software-engineer-inertial-navigation-mountain-view"
+  }
+]
