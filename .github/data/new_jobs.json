@@ -1,93 +1,32 @@
 [
   {
-    "job_title": "Critical Infrastructure Electrical Engineer (Field Engineering), Data Center Field Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_description": "hardware engineering job for the role Critical Infrastructure Electrical Engineer (Field Engineering), Data Center Field Engineering at Herndon, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3065742/critical-infrastructure-electrical-engineer-field-engineering-data-center-field-engineering",
-    "job_posted_at": "2025-08-25T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-08-25T00:00:00.000Z",
-    "id": "amazon-critical-infrastructure-electrical-engineer-field-engineering-data-center-field-engineering-herndon"
+    "employer_name": "Micron",
+    "job_title": "Intern - Probe Equipment Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "hardware engineering job for the role Intern - Probe Equipment Engineer at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30739844",
+    "id": "micron-intern-probe-equipment-engineer-boise"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Manager, Security",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Manager, Security at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53130&source=WEB_Search_NA",
-    "id": "ibm-manager-security-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Architect, Financial Intelligence Platforms",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Principal Architect, Financial Intelligence Platforms at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54171&source=WEB_Search_NA",
-    "id": "ibm-architect-financial-intelligence-platforms-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Manufacturing Professional Poughkeepsie, New York",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Manufacturing Professional Poughkeepsie, New York at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54450&source=WEB_Search_NA",
-    "id": "ibm-manufacturing-professional-poughkeepsie-new-york-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Delivery Consultant - Scale / Data Protection",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Delivery Consultant - Scale / Data Protection at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53809&source=WEB_Search_NA",
-    "id": "ibm-delivery-consultant-scale-data-protection-multiple-cities"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Fire/Life Safety Service Technician",
-    "job_city": "San Diego",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Fire/Life Safety Service Technician at San Diego, California, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-fire-life-safety-service-technician-san-diego"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Design Verification Engineer – Graphics Core/IP",
+    "employer_name": "NVIDIA",
+    "job_title": "Site Lab Technical Project Manager - System Product Team",
     "job_city": "US",
-    "job_state": "FL",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Design Verification Engineer – Graphics Core/IP at US,FL,Orlando\n3501 Quadrangle Blvd\nOrlando, Florida\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/69540/login",
-    "id": "amd-design-verification-engineer-graphics-core-ip-us"
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Site Lab Technical Project Manager - System Product Team at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Site-Lab-Technical-Project-Manager---System-Product-Team_JR2002325?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-site-lab-technical-project-manager-system-product-team-us"
   },
   {
-    "employer_name": "Booz Allen ",
+    "employer_name": "Verizon",
     "job_title": "Systems Integrator",
     "job_city": "McLean",
     "job_state": "VA",
     "job_posted_at": "Posted Today",
     "job_description": "hardware engineering job for the role Systems Integrator at McLean, VA",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Systems-Integrator_R0225024?q=hardware+engineering",
-    "id": "booz-allen-systems-integrator-mclean"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "EMEA Test Engineer",
-    "job_city": "Aguadilla",
-    "job_state": "Puerto Rico",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role EMEA Test Engineer at Aguadilla, Puerto Rico, Puerto Rico",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/EMEA-Test-Engineer_1190342-2?q=hardware+engineering",
-    "id": "hewlett-packard-enterprise-emea-test-engineer-aguadilla"
+    "id": "verizon-systems-integrator-mclean"
   }
 ]
