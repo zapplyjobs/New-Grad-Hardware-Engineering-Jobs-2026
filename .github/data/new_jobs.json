@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Embedded Software Engineer - RISCV",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Embedded Software Engineer - RISCV at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157678211-embedded-software-engineer-riscv",
+    "id": "aijobs-embedded-software-engineer-riscv-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineering Manager, AI Infrastructure Services - DGX Cloud",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "36min ago",
+    "job_description": "hardware engineering job for the role Software Engineering Manager, AI Infrastructure Services - DGX Cloud at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157678208-software-engineering-manager-ai-infrastructure-services-dgx-cloud",
+    "id": "aijobs-software-engineering-manager-ai-infrastructure-services-dgx-cloud-santa-clara"
+  }
+]
