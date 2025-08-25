@@ -1,22 +1,82 @@
 [
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Client Service Manager",
-    "job_city": "Mechanicsburg",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Client Service Manager at Mechanicsburg, Pennsylvania, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-client-service-manager-mechanicsburg"
+    "employer_name": "Micron",
+    "job_title": "Sr Category Supplier Manager – Tool Install",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "hardware engineering job for the role Sr Category Supplier Manager – Tool Install at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30892018",
+    "id": "micron-sr-category-supplier-manager-tool-install-boise"
   },
   {
-    "employer_name": "HONEYWELL",
-    "job_title": "Export Classifier-Sr. Advanced Systems Engineer",
-    "job_city": "Plymouth",
-    "job_state": "MN",
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware job for the role Export Classifier-Sr. Advanced Systems Engineer at Plymouth, MN, United States",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/112690/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-export-classifier-sr-advanced-systems-engineer-plymouth"
+    "job_description": "hardware engineering job for the role Hardware Developer Intern 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55106&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Service Representative Poughkeepsie, New York",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role System Service Representative Poughkeepsie, New York at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53888&source=WEB_Search_NA",
+    "id": "ibm-system-service-representative-poughkeepsie-new-york-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer - Frontend",
+    "job_city": "BELLEVUE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Developer - Frontend at Entry LevelBELLEVUE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54196&source=WEB_Search_NA",
+    "id": "ibm-software-developer-frontend-bellevue"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Field CTO (Federal/PubSec)",
+    "job_city": "Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Field CTO (Federal/PubSec) at ProfessionalChicago, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46091&source=WEB_Search_NA",
+    "id": "ibm-field-cto-federal-pubsec-chicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Cloudability MSP Technical Account Manager",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Cloudability MSP Technical Account Manager at ProfessionalRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54552&source=WEB_Search_NA",
+    "id": "ibm-cloudability-msp-technical-account-manager-research-triangle-park"
+  },
+  {
+    "employer_name": "GDIT",
+    "job_title": "Jr. Audio Visual Support Technician (Conference Center)",
+    "job_city": "USA VA Springfield",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Jr. Audio Visual Support Technician (Conference Center) at USA VA Springfield",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Jr-Audio-Visual-Support-Technician--Conference-Center-_RQ205923-1?q=hardware+engineering",
+    "id": "gdit-jr-audio-visual-support-technician-conference-center-usa-va-springfield"
+  },
+  {
+    "employer_name": "GDIT",
+    "job_title": "Program Manager",
+    "job_city": "USA DC Washington",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Program Manager at USA DC Washington",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Program-Manager_RQ206140?q=hardware+engineering",
+    "id": "gdit-program-manager-usa-dc-washington"
   }
 ]
