@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Building Automation Controls Systems Specialist",
-    "job_city": "Milwaukee",
-    "job_state": "United States of America",
+    "employer_name": "Micron",
+    "job_title": "Intern - Process Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 15 hours ago",
+    "job_description": "hardware engineering job for the role Intern - Process Engineer at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30921309",
+    "id": "micron-intern-process-engineer-manassas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Analyst II, R&D Portfolio Strategy",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Building Automation Controls Systems Specialist at Milwaukee, Wisconsin, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-building-automation-controls-systems-specialist-milwaukee"
+    "job_description": "hardware engineering job for the role Senior Product Analyst II, R&D Portfolio Strategy at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53145&source=WEB_Search_NA",
+    "id": "ibm-product-analyst-ii-r-d-portfolio-strategy-multiple-cities"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "FE Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role FE Engineer at Austin",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200616967-0157/fe-engineer?team=HRDWR",
+    "id": "apple-fe-engineer-austin"
   }
 ]
