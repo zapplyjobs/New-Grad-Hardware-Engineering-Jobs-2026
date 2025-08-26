@@ -1,53 +1,42 @@
 [
   {
-    "job_title": "Critical Infrastructure Electrical Engineer, Field Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Sparks",
-    "job_state": "NV",
-    "job_description": "hardware engineering job for the role Critical Infrastructure Electrical Engineer, Field Engineering at Sparks, NV, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3008621/critical-infrastructure-electrical-engineer-field-engineering",
-    "job_posted_at": "2025-08-26T16:06:25.891Z",
-    "job_posted_at_datetime_utc": "2025-08-26T16:06:25.891Z",
-    "id": "amazon-critical-infrastructure-electrical-engineer-field-engineering-sparks"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "AI Network Silicon",
-    "job_city": "Raleigh",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Principal Design Engineer Manager. Level: All Levels. Posted: Recently. Full Title: Principal Design Engineer Manager - AI Network Silicon",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846701/Principal-Design-Engineer-Manager---AI-Network-Silicon",
-    "id": "microsoft-ai-network-silicon-raleigh"
-  },
-  {
-    "employer_name": "INFINEON",
-    "job_title": "Field Application Engineer - Automotive Ethernet Hardware",
+    "employer_name": "CISCO",
+    "job_title": "Mechanical Engineer",
     "job_city": "San Jose",
-    "job_state": "US",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Field Application Engineer - Automotive Ethernet Hardware at San Jose",
-    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
-    "id": "infineon-field-application-engineer-automotive-ethernet-hardware-san-jose"
+    "job_description": "hardware engineering job for the role Senior Mechanical Engineer at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Mechanical-Engineer/1446721",
+    "id": "cisco-mechanical-engineer-san-jose"
   },
   {
-    "employer_name": "GDIT",
-    "job_title": "Systems Engineer (SECRET clearance required)",
-    "job_city": "Any Location / Remote",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Systems Engineer (SECRET clearance required) at Any Location / Remote",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Systems-Engineer--SECRET-clearance-required-_RQ206106-1?q=hardware+engineering",
-    "id": "gdit-systems-engineer-secret-clearance-required-any-location-remote"
+    "employer_name": "CISCO",
+    "job_title": "Mechanical Engineer II (Full Time) United States",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Mechanical Engineer II (Full Time) United States at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Mechanical-Engineer-II-Full-Time-United-States/1447718",
+    "id": "cisco-mechanical-engineer-ii-full-time-united-states-san-jose"
   },
   {
-    "employer_name": "Verizon",
+    "employer_name": "Apple",
+    "job_title": "Camera Image Quality Validation Engineer - Camera Hardware",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Camera Image Quality Validation Engineer - Camera Hardware at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200617310-0836/camera-image-quality-validation-engineer-camera-hardware?team=HRDWR",
+    "id": "apple-camera-image-quality-validation-engineer-camera-hardware-cupertino"
+  },
+  {
+    "employer_name": "Booz Allen ",
     "job_title": "Tactical Networks Systems Engineer",
     "job_city": "San Diego",
     "job_state": "CA",
     "job_posted_at": "Posted Today",
     "job_description": "hardware engineering job for the role Tactical Networks Systems Engineer at San Diego, CA",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Tactical-Networks-Systems-Engineer_R0225028-1?q=hardware+engineering",
-    "id": "verizon-tactical-networks-systems-engineer-san-diego"
+    "id": "booz-allen-tactical-networks-systems-engineer-san-diego"
   }
 ]
