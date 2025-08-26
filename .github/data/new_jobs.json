@@ -1,32 +1,73 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Logic Circuit Design Engineer",
-    "job_city": "Folsom",
-    "job_state": "California",
-    "job_posted_at": "Posted 5 days ago",
-    "job_description": "hardware engineering job for the role Staff Logic Circuit Design Engineer at Folsom, California, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30868590",
-    "id": "micron-logic-circuit-design-engineer-folsom"
+    "job_title": "Critical Infrastructure Mechanical Engineer, Data Center Field Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Berwick",
+    "job_state": "PA",
+    "job_description": "hardware engineering job for the role Critical Infrastructure Mechanical Engineer, Data Center Field Engineering at Berwick, PA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3065852/critical-infrastructure-mechanical-engineer-data-center-field-engineering",
+    "job_posted_at": "2025-08-26T00:34:55.059Z",
+    "job_posted_at_datetime_utc": "2025-08-26T00:34:55.059Z",
+    "id": "amazon-critical-infrastructure-mechanical-engineer-data-center-field-engineering-berwick"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Application Support Engineer",
-    "job_city": "Plano",
-    "job_state": "United States of America",
+    "employer_name": "Arm",
+    "job_title": "Product Manager",
+    "job_city": "Seattle",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Application Support Engineer at Plano, Texas, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-application-support-engineer-plano"
+    "job_description": "hardware engineering job for the role Staff Product Manager at Seattle, Washington",
+    "job_apply_link": "https://careers.arm.com/job/seattle/staff-product-manager/33099/78973722336",
+    "id": "arm-product-manager-seattle"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer - Parallel Computing Systems",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer - Parallel Computing Systems at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157845697-senior-software-engineer-parallel-computing-systems",
+    "id": "aijobs-software-engineer-parallel-computing-systems-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Compiler Engineer - Backend",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Compiler Engineer - Backend at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157845698-senior-compiler-engineer-backend",
+    "id": "aijobs-compiler-engineer-backend-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Site Lab Technical Project Manager - System Product Team",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Site Lab Technical Project Manager - System Product Team at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157845684-site-lab-technical-project-manager-system-product-team",
+    "id": "aijobs-site-lab-technical-project-manager-system-product-team-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "SWQA Tools Development Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role SWQA Tools Development Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157845694-swqa-tools-development-engineer",
+    "id": "aijobs-swqa-tools-development-engineer-santa-clara"
   },
   {
     "employer_name": "NVIDIA",
-    "job_title": "Compiler Engineer - Backend",
+    "job_title": "SWQA Tools Development Engineer",
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Compiler Engineer - Backend at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--DPU_JR1999201?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-compiler-engineer-backend-us"
+    "job_description": "hardware engineering job for the role SWQA Tools Development Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SWQA-Tools-Development-Engineer_JR2002803-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-swqa-tools-development-engineer-us"
   }
 ]
