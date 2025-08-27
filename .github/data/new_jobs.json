@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Biomedical Machine Learning Engineer",
+    "employer_name": "AMD",
+    "job_title": "Solutions Architect - Automotive/Manufacturing",
     "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Biomedical Machine Learning Engineer at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Biomedical-Machine-Learning-Engineer_R253105?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-biomedical-machine-learning-engineer-us"
+    "job_state": "MI",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Solutions Architect - Automotive/Manufacturing at US,MI,Home Office\nMichigan\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/69223/login",
+    "id": "amd-solutions-architect-automotive-manufacturing-us"
   },
   {
     "employer_name": "MAGNA",
-    "job_title": "Software Engineer - ISP",
+    "job_title": "Software Engineer – Linux/BSP",
     "job_city": "Southfield",
     "job_state": "Michigan",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Software Engineer - ISP at Southfield, Michigan, US",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Southfield-Michigan-US/Principal-Software-Engineer---ISP_R00205993?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-software-engineer-isp-southfield"
+    "job_description": "hardware engineering job for the role Principal Software Engineer – Linux/BSP at Southfield, Michigan, US",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Southfield-Michigan-US/Principal-Software-Engineer---Linux-BSP_R00205992?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-software-engineer-linux-bsp-southfield"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "IT Configuration Manager",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role IT Configuration Manager at Fort Meade, MD",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/IT-Configuration-Manager_R0224196?q=hardware+engineering",
+    "id": "verizon-it-configuration-manager-fort-meade"
   }
 ]
