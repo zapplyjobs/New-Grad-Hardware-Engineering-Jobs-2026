@@ -1,32 +1,102 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Fleet Engineering Manager",
+    "job_title": "Principal Quality Engineer",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Fleet Engineering Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863491/Fleet-Engineering-Manager",
-    "id": "microsoft-fleet-engineering-manager-redmond"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Quality Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1843250/Principal-Quality-Engineer",
+    "id": "microsoft-principal-quality-engineer-redmond"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Tech Lead Manager",
-    "job_city": "Raleigh",
-    "job_state": "NC",
+    "employer_name": "APPLIED MATERIALS",
+    "job_title": "Manufacturing Technician II - (T2) 2nd Shift",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Posted 16 days ago",
+    "job_description": "hardware engineering job for the role Manufacturing Technician II - (T2) 2nd Shift at Austin,TX",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790304666437?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-manufacturing-technician-ii-t2-2nd-shift-austin"
+  },
+  {
+    "employer_name": "APPLIED MATERIALS",
+    "job_title": "Manufacturing Technician II - (T2) ( Weekday )",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Posted 16 days ago",
+    "job_description": "hardware engineering job for the role Manufacturing Technician II - (T2) ( Weekday ) at Austin,TX",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790304666436?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-manufacturing-technician-ii-t2-weekday-austin"
+  },
+  {
+    "employer_name": "APPLIED MATERIALS",
+    "job_title": "Manufacturing Technician II - (T2)",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Posted 7 days ago",
+    "job_description": "hardware engineering job for the role Manufacturing Technician II - (T2) at Austin,TX",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790304666425?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-manufacturing-technician-ii-t2-austin"
+  },
+  {
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Sr. Lead Software Engineer - Windows Server Software Engineer",
+    "job_city": "Columbus",
+    "job_state": "OH",
     "job_posted_at": "Recently",
-    "job_description": "30 Category: hardware engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Tech Lead Manager, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/128776044520841926-tech-lead-manager-google-cloud?q=%22hardware+engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-tech-lead-manager-raleigh"
+    "job_description": "hardware job for the role Sr. Lead Software Engineer - Windows Server Software Engineer at Columbus, OH, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210628348/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-sr-lead-software-engineer-windows-server-software-engineer-columbus"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "CMP Equipment Maintenace Technician (N2)",
+    "employer_name": "HONEYWELL",
+    "job_title": "Advanced Electrical Design Engineer",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware job for the role Advanced Electrical Design Engineer at Redmond, WA, United States",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/115851/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-advanced-electrical-design-engineer-redmond"
+  },
+  {
+    "employer_name": "HONEYWELL",
+    "job_title": "Director Data Analytics",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware job for the role Director Data Analytics at Atlanta, GA, United States",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/115974/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-director-data-analytics-atlanta"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "ASIC Design Engineer",
     "job_city": "US",
-    "job_state": "OR",
+    "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role CMP Equipment Maintenace Technician (N2) at US, OR, Beaverton",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/CMP-Equipment-Maintenace-Technician--N2-_R252389?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-cmp-equipment-maintenace-technician-n2-us"
+    "job_description": "hardware engineering job for the role ASIC Design Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer_JR1999890?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-asic-design-engineer-us"
+  },
+  {
+    "employer_name": "Booz Allen ",
+    "job_title": "Tactical Network Engineer, Senior",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Tactical Network Engineer, Senior at San Diego, CA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Tactical-Network-Engineer--Lead_R0222541?q=hardware+engineering",
+    "id": "booz-allen-tactical-network-engineer-senior-san-diego"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Tactical Network Engineer, Senior",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Tactical Network Engineer, Senior at San Diego, CA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Tactical-Network-Engineer--Lead_R0222541?q=hardware+engineering",
+    "id": "verizon-tactical-network-engineer-senior-san-diego"
   }
 ]
