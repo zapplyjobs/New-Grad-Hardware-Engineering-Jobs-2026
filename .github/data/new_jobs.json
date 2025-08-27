@@ -1,22 +1,73 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "Hardware Engineer I (Intern) United States",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Hardware Engineer I (Intern) United States at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-I-Intern-United-States/1447911",
-    "id": "cisco-hardware-engineer-i-intern-united-states-san-jose"
+    "job_title": "In-service/Fleet/Field Quality Engineer, Quality Engineering Team",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role In-service/Fleet/Field Quality Engineer, Quality Engineering Team at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3042051/in-service-fleet-field-quality-engineer-quality-engineering-team",
+    "job_posted_at": "2025-08-26T23:26:15.197Z",
+    "job_posted_at_datetime_utc": "2025-08-26T23:26:15.197Z",
+    "id": "amazon-in-service-fleet-field-quality-engineer-quality-engineering-team-seattle"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, QE - Apple Services Engineering",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Software Engineer, QE - Apple Services Engineering at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200617955-0836/software-engineer-qe-apple-services-engineering?team=SFTWR",
-    "id": "apple-software-engineer-qe-apple-services-engineering-cupertino"
+    "employer_name": "Microsoft",
+    "job_title": "Senior Systems Hardware Architect",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Systems Hardware Architect",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1830255/Senior-Systems-Hardware-Architect",
+    "id": "microsoft-senior-systems-hardware-architect-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Hardware Engineer II",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Hardware Engineer II",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861751/Hardware-Engineer-II",
+    "id": "microsoft-hardware-engineer-ii-redmond"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "CMP Equipment Maintenance Technician",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role CMP Equipment Maintenance Technician at US, OR, Beaverton",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Maintenance-Technician--CMP--Night-shift_R254685?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-cmp-equipment-maintenance-technician-us"
+  },
+  {
+    "employer_name": "HONEYWELL",
+    "job_title": "Sr Embedded Engineer - Portable Industrial Safety Devices",
+    "job_city": "Lincolnshire",
+    "job_state": "IL",
+    "job_posted_at": "Recently",
+    "job_description": "hardware job for the role Sr Embedded Engineer - Portable Industrial Safety Devices at Lincolnshire, IL, United States",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/115237/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-sr-embedded-engineer-portable-industrial-safety-devices-lincolnshire"
+  },
+  {
+    "employer_name": "Booz Allen ",
+    "job_title": "Network Engineer, Senior",
+    "job_city": "Tampa",
+    "job_state": "FL",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Network Engineer, Senior at Tampa, FL",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tampa-FL/Network-Engineer--Senior_R0222576?q=hardware+engineering",
+    "id": "booz-allen-network-engineer-senior-tampa"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Network Engineer, Senior",
+    "job_city": "Tampa",
+    "job_state": "FL",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Network Engineer, Senior at Tampa, FL",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tampa-FL/Network-Engineer--Senior_R0222576?q=hardware+engineering",
+    "id": "verizon-network-engineer-senior-tampa"
   }
 ]
