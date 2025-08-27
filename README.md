@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 32+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 33+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 24 hours. **Filtered for US-based positions.**
 
@@ -44,6 +44,170 @@
 
 
 ## 🎯 **Current Opportunities** (Fresh - Less than 1 week old)
+
+<details>
+<summary><h3>🍎 <strong>Apple</strong> (156 positions) ⭐ FAANG+</h3></summary>
+
+| Role | Location | Posted | Level | Category | Apply |
+|------|----------|--------|-------|----------|-------|
+| Hardware Development Engineer - Data Center Hardware | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200607287-0157/hardware-development-engineer-data-center-hardware?team=HRDWR) |
+| Hardware Engineering Internships | Unknown, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200606475-3810/hardware-engineering-internships?team=STDNT) |
+| Baseband Hardware Design Engineer | Sunnyvale, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200572677-3956/baseband-hardware-design-engineer?team=HRDWR) |
+| Battery Hardware Qualification Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200613028-0836/battery-hardware-qualification-engineer?team=HRDWR) |
+| Baseband Hardware Design Engineer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200592333-0157/baseband-hardware-design-engineer?team=HRDWR) |
+| Hardware Systems Integration Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200615352-0836/hardware-systems-integration-engineer?team=HRDWR) |
+| Sr. Hardware System Engineer | Cupertino, California | Recently | Senior | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200583205-0836/sr-hardware-system-engineer?team=HRDWR) |
+| Baseband Hardware Design Engineer | Waltham, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200572689-6205/baseband-hardware-design-engineer?team=HRDWR) |
+| Hardware Technician | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200609850-0836/hardware-technician?team=HRDWR) |
+| Administrative Assistant - Hardware Engineering | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200610271-0836/administrative-assistant-hardware-engineering?team=CORSV) |
+| Mixed Signal Hardware Design Engineer | Sunnyvale, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200572370-3956/mixed-signal-hardware-design-engineer?team=HRDWR) |
+| Hardware Systems Engineer - Board Design | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200569950-0157/hardware-systems-engineer-board-design?team=HRDWR) |
+| Display Electrical Hardware Architect / Engineer | San Diego, US | Recently | Senior | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200604490-3543/display-electrical-hardware-architect-engineer?team=HRDWR) |
+| Hardware Design Electrical Engineer - iPhone | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200609604-0157/hardware-design-electrical-engineer-iphone?team=HRDWR) |
+| Cellular RF Hardware Design Engineer | Sunnyvale, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200604672-3956/cellular-rf-hardware-design-engineer?team=HRDWR) |
+| Hardware Product Design Engineer - Mac Engineering | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200579441-0836/hardware-product-design-engineer-mac-engineering?team=HRDWR) |
+| Hardware Technology Internships | Unknown, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200606143-3810/hardware-technology-internships?team=STDNT) |
+| RF Hardware Board Designer | San Diego, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200600480-3543/rf-hardware-board-designer?team=HRDWR) |
+| RF Hardware Engineer - Multi-Radio Coexistence | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200604483-0836/rf-hardware-engineer-multi-radio-coexistence?team=HRDWR) |
+| iPad Hardware System Design Engineer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200611178-0157/ipad-hardware-system-design-engineer?team=HRDWR) |
+| Hardware and Software Modeling Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200592997-0836/hardware-and-software-modeling-engineer?team=SFTWR) |
+| Manufacturing Design Engineer (MDE) - Hardware Enclosures | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200591692-0836/manufacturing-design-engineer-mde-hardware-enclosures?team=OPMFG) |
+| Hardware Systems Integration Engineer - Apple Watch | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200615710-0836/hardware-systems-integration-engineer-apple-watch?team=HRDWR) |
+| Hardware Systems Engineer - Board Design | Waltham, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200569952-6205/hardware-systems-engineer-board-design?team=HRDWR) |
+| Hardware Systems Engineer - Board Design | Beaverton, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200568604-0505/hardware-systems-engineer-board-design?team=HRDWR) |
+| Hardware Reliability Engineer – Ecosystem Accessories | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200615031-0836/hardware-reliability-engineer-ecosystem-accessories?team=HRDWR) |
+| Hardware Systems Design Engineer - Accessories | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200617320-0836/hardware-systems-design-engineer-accessories?team=HRDWR) |
+| Software Engineering Manager - Hardware Engineering Operations | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200610243-0157/software-engineering-manager-hardware-engineering-operations?team=HRDWR) |
+| Hardware Systems Engineer - Board Design | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200568586-0836/hardware-systems-engineer-board-design?team=HRDWR) |
+| Software Asset Manager- Hardware Engineering Operations | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200598050-0157/software-asset-manager-hardware-engineering-operations?team=HRDWR) |
+| Hardware Systems EE | Los Angeles, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200617326-2605/hardware-systems-ee?team=HRDWR) |
+| RF Hardware Board Designer | Sunnyvale, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200600457-3956/rf-hardware-board-designer?team=HRDWR) |
+| Audio Products, Hardware EPM | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200611184-0836/audio-products-hardware-epm?team=HRDWR) |
+| Connectivity RF Hardware and System Design Engineer | Sunnyvale, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200586651-3956/connectivity-rf-hardware-and-system-design-engineer?team=HRDWR) |
+| Hardware Systems Design Electrical Engineer - iPhone | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200598796-0836/hardware-systems-design-electrical-engineer-iphone?team=HRDWR) |
+| iPhone Hardware Engineering Program Manager (HW EPM) | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200617328-0836/iphone-hardware-engineering-program-manager-hw-epm?team=HRDWR) |
+| Hardware System EE - Beats | Los Angeles, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200611771-2605/hardware-system-ee-beats?team=HRDWR) |
+| Sensing Hardware Test - Electrical Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200601304-0836/sensing-hardware-test-electrical-engineer?team=HRDWR) |
+| Display Electrical Hardware Architect / Engineer | Cupertino, California | Recently | Senior | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200587759-0836/display-electrical-hardware-architect-engineer?team=HRDWR) |
+| Hardware System Design Engineer - iPhone | Unknown, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200615673-3401/hardware-system-design-engineer-iphone?team=HRDWR) |
+| Health Sensing - Sensing Hardware Prototyping Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200594834-0836/health-sensing-sensing-hardware-prototyping-engineer?team=HRDWR) |
+| RF Hardware Board Designer | Irvine, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200600484-1697/rf-hardware-board-designer?team=HRDWR) |
+| Silicon Architect, Camera Hardware | Cupertino, California | Recently | Senior | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200610970-0836/silicon-architect-camera-hardware?team=HRDWR) |
+| Hardware System Engineer – iPhone System Technologies — SoC | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200615861-0836/hardware-system-engineer-iphone-system-technologies-soc?team=HRDWR) |
+| Hardware EE System Architect | Cupertino, California | Recently | Senior | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200598655-0836/hardware-ee-system-architect?team=HRDWR) |
+| Hardware Systems Design Electrical Engineering Manager - iPhone | Unknown, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200616382-3401/hardware-systems-design-electrical-engineering-manager-iphone?team=HRDWR) |
+| iPhone Silicon Hardware Engineering Program Manager (SiHW EPM) | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200592381-0836/iphone-silicon-hardware-engineering-program-manager-sihw-epm?team=HRDWR) |
+| RF Hardware Full Stack Developer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200587243-0157/rf-hardware-full-stack-developer?team=HRDWR) |
+| Hardware EPM (Engineering Program Manager) | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200613217-0836/hardware-epm-engineering-program-manager?team=HRDWR) |
+| Camera Image Quality Validation Engineer - Camera Hardware | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200617310-0836/camera-image-quality-validation-engineer-camera-hardware?team=HRDWR) |
+| Touch/Force Hardware - Sensor System Architect | San Diego, US | Recently | Senior | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200573491-3543/touch-force-hardware-sensor-system-architect?team=HRDWR) |
+| Touch/Force Hardware - Sensor System Architect | Cupertino, California | Recently | Senior | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200573485-0836/touch-force-hardware-sensor-system-architect?team=HRDWR) |
+| Hardware EPM (Engineering Program Manager) | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200617675-0157/hardware-epm-engineering-program-manager?team=HRDWR) |
+| Image Sensor Architect – Camera Hardware | Irvine, US | Recently | Senior | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200595455-1697/image-sensor-architect-camera-hardware?team=HRDWR) |
+| Hardware Systems Design and Modeling Electrical Engineer - iPhone | Unknown, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200615615-3401/hardware-systems-design-and-modeling-electrical-engineer-iphone?team=HRDWR) |
+| Feature Architect - Motion Sensing Hardware | Cupertino, California | Recently | Senior | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200609871-0836/feature-architect-motion-sensing-hardware?team=HRDWR) |
+| Camera Image Sensor Analog & Mixed-Signal Design Engineer – Camera Hardware | Irvine, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200608889-1697/camera-image-sensor-analog-mixed-signal-design-engineer-camera-hardware?team=HRDWR) |
+| Red Team Platform and Hardware Security Researcher | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200610161-0836/red-team-platform-and-hardware-security-researcher?team=SFTWR) |
+| Software Engineer, Audio/Music Engineering | Culver City, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200613412-0670/software-engineer-audio-music-engineering?team=SFTWR) |
+| Engineering Project Manager, Retail Engineering | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200591902-0157/engineering-project-manager-retail-engineering?team=SFTWR) |
+| Software Engineering - DevOps Engineer | San Diego, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200587356-3543/software-engineering-devops-engineer?team=SFTWR) |
+| Sr DevOps Engineer, Retail Engineering | Sunnyvale, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200614487-3956/sr-devops-engineer-retail-engineering?team=SFTWR) |
+| Full-Stack Engineer, Retail Engineering | Sunnyvale, US | Recently | Senior | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200595197-3956/senior-full-stack-engineer-retail-engineering?team=SFTWR) |
+| STA Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200578751-0836/sta-engineer?team=HRDWR) |
+| ESD Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200576749-0836/esd-engineer?team=HRDWR) |
+| Firmware Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200581435-0836/firmware-engineer?team=HRDWR) |
+| Firmware Engineer | Sunnyvale, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200598648-3956/firmware-engineer?team=HRDWR) |
+| Systems Engineer | Sunnyvale, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200608229-3956/systems-engineer?team=HRDWR) |
+| Display Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200609092-0836/display-engineer?team=HRDWR) |
+| CoreMedia Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200601192-0836/coremedia-engineer?team=SFTWR) |
+| FE Engineer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200616967-0157/fe-engineer?team=HRDWR) |
+| Component Engineer | Unknown, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200616709-3401/component-engineer?team=HRDWR) |
+| Software Engineer, Apple Services Engineering | Seattle, Washington | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200575657-3337/software-engineer-apple-services-engineering?team=SFTWR) |
+| Engineering Project Manager, Retail Engineering | Sunnyvale, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200604199-3956/engineering-project-manager-retail-engineering?team=SFTWR) |
+| Software Quality Engineer, Retail Engineering | Sunnyvale, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200595309-3956/software-quality-engineer-retail-engineering?team=SFTWR) |
+| Payments Software Engineer, Retail Engineering | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200612363-0157/payments-software-engineer-retail-engineering?team=CORSV) |
+| STA Engineer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200612182-0157/sta-engineer?team=HRDWR) |
+| Software Application Support Engineer, Retail Engineering | Sunnyvale, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200609877-3956/software-application-support-engineer-retail-engineering?team=SFTWR) |
+| Cloud and Automation Engineer, Retail Engineering | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200601131-0157/cloud-and-automation-engineer-retail-engineering?team=CORSV) |
+| Software Engineer, Apple Services Engineering | San Francisco, California | Recently | Senior | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200614786-3577/senior-software-engineer-apple-services-engineering?team=SFTWR) |
+| Sr. Software Engineer, Apple Services Engineering | Seattle, Washington | Recently | Senior | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200592019-3337/sr-software-engineer-apple-services-engineering?team=SFTWR) |
+| Software Engineer, Siri AI Quality Engineering | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200616868-0836/software-engineer-siri-ai-quality-engineering?team=MLAI) |
+| Manager, Systems Engineering, Apple Services Engineering | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200607780-0157/manager-systems-engineering-apple-services-engineering?team=SFTWR) |
+| Commerce Data Engineer, Apple Services Engineering | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200603300-0836/commerce-data-engineer-apple-services-engineering?team=SFTWR) |
+| Software Application Support Engineer, Retail Engineering | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200598826-0157/software-application-support-engineer-retail-engineering?team=SFTWR) |
+| Software Engineer (Site Reliability), Retail Engineering | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200610124-0157/software-engineer-site-reliability-retail-engineering?team=SFTWR) |
+| ML Engineer, Siri AI Quality Engineering | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200616805-0836/ml-engineer-siri-ai-quality-engineering?team=MLAI) |
+| Engineering Project Manager (NPI), Retail Engineering | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200604157-0157/engineering-project-manager-npi-retail-engineering?team=SFTWR) |
+| Pre-Silicon Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200355493-0836/pre-silicon-engineer?team=MLAI) |
+| ESD Engineer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200606007-0157/esd-engineer?team=HRDWR) |
+| ESD Engineer | San Diego, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200604916-3543/esd-engineer?team=HRDWR) |
+| Thermal Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200578781-0836/thermal-engineer?team=HRDWR) |
+| Engineering Manager | Unknown, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200611091-0240/engineering-manager?team=SFTWR) |
+| ESD Engineer | Irvine, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200581882-1697/esd-engineer?team=HRDWR) |
+| ESD Engineer | Beaverton, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200606008-0505/esd-engineer?team=HRDWR) |
+| Electrical Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200594498-0836/electrical-engineer?team=HRDWR) |
+| Software Engineer | Sunnyvale, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200546866-3956/software-engineer?team=SFTWR) |
+| Automation Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200614344-0836/automation-engineer?team=HRDWR) |
+| Firmware Engineer | Culver City, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200581433-0670/firmware-engineer?team=HRDWR) |
+| Software Engineer | Seattle, Washington | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200612830-3337/software-engineer?team=SFTWR) |
+| Software Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200612828-0836/software-engineer?team=SFTWR) |
+| DevOps Engineer - Retail Engineering | Sunnyvale, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200573284-3956/devops-engineer-retail-engineering?team=SFTWR) |
+| Engineering Program Manager, Retail Engineering | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200604942-0157/engineering-program-manager-retail-engineering?team=CORSV) |
+| Engineering Program Manager, Cloud Services Engineering, Apple Services Engineering | Seattle, Washington | Recently | Senior | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200599670-3337/senior-engineering-program-manager-cloud-services-engineering-apple-services-engineering?team=SFTWR) |
+| Software Engineer, Apple Services Engineering | Cupertino, California | Recently | Senior | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200607475-0836/senior-software-engineer-apple-services-engineering?team=SFTWR) |
+| Mini Program Front End Engineer, Retail Engineering | Sunnyvale, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200615179-3956/mini-program-front-end-engineer-retail-engineering?team=SFTWR) |
+| Sr Machine Learning Engineer, ML Systems Engineering | Pittsburgh, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200592769-2926/sr-machine-learning-engineer-ml-systems-engineering?team=MLAI) |
+| Software Development Engineer - Test,  Retail Engineering | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200613934-0157/software-development-engineer-test-retail-engineering?team=CORSV) |
+| App Store Tools Engineer, Apple Services Engineering | Seattle, Washington | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200596365-3337/app-store-tools-engineer-apple-services-engineering?team=SFTWR) |
+| Firmware Engineer | San Diego, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200592405-3543/firmware-engineer?team=HRDWR) |
+| ESD Engineer | Waltham, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200606009-6205/esd-engineer?team=HRDWR) |
+| Firmware Engineer | Irvine, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200612207-1697/firmware-engineer?team=HRDWR) |
+| FEA Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200615338-0836/fea-engineer?team=HRDWR) |
+| Integration Engineer | Santa Clara, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200608197-3760/integration-engineer?team=HRDWR) |
+| CPU Performance Engineer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200572150-0157/cpu-performance-engineer?team=HRDWR) |
+| Timing Design Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200573371-0836/timing-design-engineer?team=HRDWR) |
+| Physical Design Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200571793-0836/physical-design-engineer?team=HRDWR) |
+| CPU RTL Engineer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200575215-0157/cpu-rtl-engineer?team=HRDWR) |
+| Embedded Regression Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200587242-0836/embedded-regression-engineer?team=HRDWR) |
+| RFIC Design Engineer | Sunnyvale, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200573150-3956/rfic-design-engineer?team=HRDWR) |
+| RFIC Design Engineer | San Diego, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200573147-3543/rfic-design-engineer?team=HRDWR) |
+| Wireless Systems Engineer | San Diego, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200575040-3543/wireless-systems-engineer?team=HRDWR) |
+| Detection Engineer | Seattle, Washington | Recently | Senior | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200609468-3337/senior-detection-engineer?team=SFTWR) |
+| Operations Test Engineer | San Diego, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200589938-3543/operations-test-engineer?team=OPMFG) |
+| Audio Firmware Engineer | Boulder, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200610297-0365/audio-firmware-engineer?team=SFTWR) |
+| RFIC Layout Engineer | San Diego, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200574811-3543/rfic-layout-engineer?team=HRDWR) |
+| SoC Validation Engineer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200575649-0157/soc-validation-engineer?team=HRDWR) |
+| PLL/Clocking Design Engineer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200575788-0157/pll-clocking-design-engineer?team=HRDWR) |
+| Display Electrical Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200570587-0836/display-electrical-engineer?team=HRDWR) |
+| SoC Validation Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200575658-0836/soc-validation-engineer?team=HRDWR) |
+| Module Process Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200573489-0836/module-process-engineer?team=HRDWR) |
+| Haptics Control Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200575626-0836/haptics-control-engineer?team=HRDWR) |
+| Semiconductor Facilities Engineer | Santa Clara, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200581838-3760/semiconductor-facilities-engineer?team=HRDWR) |
+| Design Verification Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200591230-0836/design-verification-engineer?team=HRDWR) |
+| RTL Design Engineer | San Diego, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200597127-3543/rtl-design-engineer?team=HRDWR) |
+| RFIC Layout Engineer | Irvine, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200612725-1697/rfic-layout-engineer?team=HRDWR) |
+| Emulation Verification Engineer | San Diego, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200598394-3543/emulation-verification-engineer?team=HRDWR) |
+| PLL/Clocking Design Engineer | Beaverton, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200595905-0505/pll-clocking-design-engineer?team=HRDWR) |
+| Design Verification Engineer | San Diego, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200601147-3543/design-verification-engineer?team=HRDWR) |
+| HID Quality Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200588339-0836/hid-quality-engineer?team=SFTWR) |
+| Custom Timing Engineer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200590754-0157/custom-timing-engineer?team=HRDWR) |
+| CPU Implementation Engineer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200613755-0157/cpu-implementation-engineer?team=HRDWR) |
+| Silicon Validation Engineer | Irvine, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200587412-1697/silicon-validation-engineer?team=HRDWR) |
+| SoC Firmware Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200585804-0836/soc-firmware-engineer?team=HRDWR) |
+| Privacy QA Engineer | San Diego, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200605182-3543/privacy-qa-engineer?team=SFTWR) |
+| RFIC Layout Engineer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200606575-0157/rfic-layout-engineer?team=HRDWR) |
+| Formal Verification Engineer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200598294-0157/formal-verification-engineer?team=HRDWR) |
+| Location Estimation Engineer | Cupertino, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200610825-0836/location-estimation-engineer?team=SFTWR) |
+| System Quality Engineer | Boulder, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200609897-0365/system-quality-engineer?team=HRDWR) |
+| Systems Software Engineer | Seattle, Washington | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200614640-3337/systems-software-engineer?team=SFTWR) |
+| Software Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200610126-0157/senior-software-engineer?team=SFTWR) |
+| Engineering Program Manager | Sunnyvale, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200600600-3956/engineering-program-manager?team=OPMFG) |
+| DDR Design Engineer | Beaverton, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200608344-0505/ddr-design-engineer?team=HRDWR) |
+| Formal Verification Engineer | Waltham, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200598297-6205/formal-verification-engineer?team=HRDWR) |
+| SOC Thermal Engineer | Santa Clara, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200608433-3760/soc-thermal-engineer?team=HRDWR) |
+| GNSS Validation Engineer | San Diego, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://jobs.apple.com/en-us/details/200599455-3543/gnss-validation-engineer?team=HRDWR) |
+
+</details>
 
 ### 🟢 **Google** (39 positions) ⭐ FAANG+
 
@@ -125,12 +289,12 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| In-service/Fleet/Field Quality Engineer, Quality Engineering Team | Seattle, WA | 2h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3042051/in-service-fleet-field-quality-engineer-quality-engineering-team) |
-| Operations Engineer II, MSP CX-DR | Bellevue, WA | 6h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3004819/operations-engineer-ii-msp-cx-dr) |
-| Ops Engineer, Deployment & Ramp, Mechatronics & Sustainable Packaging Customer Experience | Bellevue, WA | 6h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3004809/ops-engineer-deployment-ramp-mechatronics-sustainable-packaging-customer-experience) |
-| Quality Assurance Engineer II, Echo Platform | Austin, TX | 6h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3066659/quality-assurance-engineer-ii-echo-platform) |
-| Critical Infrastructure Electrical Engineer, Field Engineering | Sparks, NV | 10h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3008621/critical-infrastructure-electrical-engineer-field-engineering) |
-| Critical Infrastructure Mechanical Engineer, Data Center Field Engineering | Berwick, PA | 11h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3065852/critical-infrastructure-mechanical-engineer-data-center-field-engineering) |
+| In-service/Fleet/Field Quality Engineer, Quality Engineering Team | Seattle, WA | 3h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3042051/in-service-fleet-field-quality-engineer-quality-engineering-team) |
+| Operations Engineer II, MSP CX-DR | Bellevue, WA | 7h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3004819/operations-engineer-ii-msp-cx-dr) |
+| Ops Engineer, Deployment & Ramp, Mechatronics & Sustainable Packaging Customer Experience | Bellevue, WA | 7h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3004809/ops-engineer-deployment-ramp-mechatronics-sustainable-packaging-customer-experience) |
+| Quality Assurance Engineer II, Echo Platform | Austin, TX | 7h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3066659/quality-assurance-engineer-ii-echo-platform) |
+| Critical Infrastructure Electrical Engineer, Field Engineering | Sparks, NV | 11h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3008621/critical-infrastructure-electrical-engineer-field-engineering) |
+| Critical Infrastructure Mechanical Engineer, Data Center Field Engineering | Berwick, PA | 12h ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3065852/critical-infrastructure-mechanical-engineer-data-center-field-engineering) |
 | Data Center Delivery - Technical Infrastructure Program Manager, One-Intake Program Team | Herndon, VA | 1d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2959653/data-center-delivery-technical-infrastructure-program-manager-one-intake-program-team) |
 | Software Development Engineer II, Annapurna Labs | New York, NY | 1d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3062273/software-development-engineer-ii-annapurna-labs) |
 | Critical Infrastructure Electrical Engineer (Field Engineering), Data Center Field Engineering | Herndon, VA | 1d ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3065742/critical-infrastructure-electrical-engineer-field-engineering-data-center-field-engineering) |
@@ -150,8 +314,12 @@
 | Hardware Engineering Manager - Virtual Reality | Seattle, WA | NaNmo ago | Mid-Level | Hardware Engineering | [Apply](https://www.metacareers.com/jobs/1732448154066919) |
 | Electrical Engineer, Reality Labs Research, Hardware Engineering | Redmond, WA | NaNmo ago | Mid-Level | Hardware Engineering | [Apply](https://www.metacareers.com/jobs/1069554011988043) |
 
+---
+
+### 📁 **More Companies** (28 companies, 1419 positions)
+
 <details>
-<summary><h3>🔵 <strong>IBM</strong> (173 positions) 🏢 Top Tech</h3></summary>
+<summary><strong>🔵 IBM</strong> (171 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -166,14 +334,14 @@
 | Billing Platform Engineering Manager | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53152&source=WEB_Search_NA) |
 | Consultant, Data Engineering | Phoenix, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54159&source=WEB_Search_NA) |
 | Consultant - AI Engineering | New York, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53320&source=WEB_Search_NA) |
-| Innovation Designer – Entry Level Sales Program | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53326&source=WEB_Search_NA) |
 | Innovation Designer Intern– Entry Level Sales Program | WASHINGTON, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53114&source=WEB_Search_NA) |
+| Innovation Designer – Entry Level Sales Program | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53326&source=WEB_Search_NA) |
 | Database Administrator | POUGHKEEPSIE, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51479&source=WEB_Search_NA) |
 | Software Engineer | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54542&source=WEB_Search_NA) |
 | Platform Engineer – Entry Level Sales Program | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53131&source=WEB_Search_NA) |
 | Cryogenic Assembly Engineer | POUGHKEEPSIE, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=40918&source=WEB_Search_NA) |
-| Business Technology Leader – Entry Level Sales Program | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53110&source=WEB_Search_NA) |
 | Business Technology Leader Intern – Entry Level Sales Program | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53106&source=WEB_Search_NA) |
+| Business Technology Leader – Entry Level Sales Program | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53110&source=WEB_Search_NA) |
 | AI Engineer – Entry Level Sales Program | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53107&source=WEB_Search_NA) |
 | Technical Architecture Leader – Web Engineering | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48755&source=WEB_Search_NA) |
 | Quantum Engagement Lead, Channel Partnerships | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51935&source=WEB_Search_NA) |
@@ -202,31 +370,30 @@
 | Site Reliability Engineer - Fort Worth | Dallas, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51927&source=WEB_Search_NA) |
 | Electrical Engineer & Facilities Program Manager – Austin, TX | Austin, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48696&source=WEB_Search_NA) |
 | Product Manager | Chicago, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53161&source=WEB_Search_NA) |
-| Technical Sales Engineer - Hashicorp | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52099&source=WEB_Search_NA) |
-| Solutions Engineer | Austin, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=44368&source=WEB_Search_NA) |
 | Sr. Engineer | San Francisco, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52304&source=WEB_Search_NA) |
-| Sr. Product Designer | San Francisco, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50236&source=WEB_Search_NA) |
-| Sr. Technical Escalation Manager | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53169&source=WEB_Search_NA) |
 | Networking Software Engineer | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53240&source=WEB_Search_NA) |
+| Solutions Engineer | Austin, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=44368&source=WEB_Search_NA) |
+| Sr. Technical Escalation Manager | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53169&source=WEB_Search_NA) |
+| Sr. Product Designer | San Francisco, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50236&source=WEB_Search_NA) |
+| Technical Sales Engineer - Hashicorp | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52099&source=WEB_Search_NA) |
 | Sr. Support Engineer | Austin, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53168&source=WEB_Search_NA) |
 | Sr. Product Designer | Austin, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50238&source=WEB_Search_NA) |
 | Sr. Engineer | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54388&source=WEB_Search_NA) |
-| Solutions Architect | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53844&source=WEB_Search_NA) |
 | Network Support Engineer | Dallas, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55083&source=WEB_Search_NA) |
+| Software Developer - Frontend | BELLEVUE, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54196&source=WEB_Search_NA) |
 | Software Development Engineer | BELLEVUE, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52895&source=WEB_Search_NA) |
 | Product Manager - IBM SevOne | LOWELL, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50748&source=WEB_Search_NA) |
 | Digital Technical Specialist – Entry Level Sales Program | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53593&source=WEB_Search_NA) |
-| Software Developer - Frontend | BELLEVUE, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54196&source=WEB_Search_NA) |
 | Engineer | No City, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45577&source=WEB_Search_NA) |
 | Sr. Customer Success Architecture | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53814&source=WEB_Search_NA) |
 | Sr. Product Designer | COSTA MESA, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50212&source=WEB_Search_NA) |
 | Application Developer | Armonk, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54827&source=WEB_Search_NA) |
-| Software Developer | Austin, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49810&source=WEB_Search_NA) |
 | Engineer | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53242&source=WEB_Search_NA) |
 | Site Reliability Engineer | San Jose, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53551&source=WEB_Search_NA) |
+| Sr Product Manager - Cloudability Optimization | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49915&source=WEB_Search_NA) |
 | Technical Support Engineer | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52137&source=WEB_Search_NA) |
 | Staff Engineer | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53267&source=WEB_Search_NA) |
-| Sr Product Manager - Cloudability Optimization | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49915&source=WEB_Search_NA) |
+| Software Developer | Austin, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49810&source=WEB_Search_NA) |
 | Digital Technical Specialist Intern – Entry Level Sales  Program | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53607&source=WEB_Search_NA) |
 | Digital Seller Intern– Entry Level Sales Program | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53587&source=WEB_Search_NA) |
 | Digital Seller – Entry Level Sales Program | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53144&source=WEB_Search_NA) |
@@ -235,30 +402,30 @@
 | Package Consultant | San Francisco, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52881&source=WEB_Search_NA) |
 | Manager, Security | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53130&source=WEB_Search_NA) |
 | Brand Technical Specialist Intern – Entry Level Sales Program | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52919&source=WEB_Search_NA) |
-| Sr. Engineer | Denver, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51688&source=WEB_Search_NA) |
 | Brand Technical Specialist– Entry Level Sales Program | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52904&source=WEB_Search_NA) |
+| Sr. Engineer | Denver, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51688&source=WEB_Search_NA) |
 | Brand Sales Specialist Intern – Entry Level Sales Program | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53555&source=WEB_Search_NA) |
 | Financial Payments Senior Software Development Manager | RESEARCH TRIANGLE PARK, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50478&source=WEB_Search_NA) |
 | Outbound Tech Evangelist Product Manager in Business Automation | Austin, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48245&source=WEB_Search_NA) |
 | Architect, Financial Intelligence Platforms | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54171&source=WEB_Search_NA) |
-| Engineer | Buffalo, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54144&source=WEB_Search_NA) |
 | Sr. Consultant, Engagement Manager | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55120&source=WEB_Search_NA) |
+| Engineer | Buffalo, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54144&source=WEB_Search_NA) |
 | Computer Operator - Plano TX | Plano, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50231&source=WEB_Search_NA) |
 | FedRAMP Architect | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=39390&source=WEB_Search_NA) |
 | Engineer | Charlotte, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54170&source=WEB_Search_NA) |
 | Engineer | Minneapolis, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54165&source=WEB_Search_NA) |
 | Engineer | New York, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54138&source=WEB_Search_NA) |
 | Red Hat Solutions Architect | Austin, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50662&source=WEB_Search_NA) |
-| Outbound Product Manager in Business Automation | Austin, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47765&source=WEB_Search_NA) |
+| React Frontend Engineer- Kubecost | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51184&source=WEB_Search_NA) |
 | Quantum Error Correction Research Software Developer | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52275&source=WEB_Search_NA) |
 | Engineer | San Francisco, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54173&source=WEB_Search_NA) |
+| Outbound Product Manager in Business Automation | Austin, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47765&source=WEB_Search_NA) |
 | Account Technical Leader- Federal Systems Integrators | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52858&source=WEB_Search_NA) |
-| Partner Technical Specialist- Territory (Storage) | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51114&source=WEB_Search_NA) |
 | Partner Technical Sales - Storage | COSTA MESA, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51921&source=WEB_Search_NA) |
-| React Frontend Engineer- Kubecost | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51184&source=WEB_Search_NA) |
-| Brand Sales Specialist– Entry Level Sales Program | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53111&source=WEB_Search_NA) |
+| Partner Technical Specialist- Territory (Storage) | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51114&source=WEB_Search_NA) |
 | Sr. Solutions Architecture Specialist | Multiple Cities, US | Recently | Senior | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50703&source=WEB_Search_NA) |
 | Backend Software Developer - IBM Security | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50154&source=WEB_Search_NA) |
+| Brand Sales Specialist– Entry Level Sales Program | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53111&source=WEB_Search_NA) |
 | Customer Success Technical Specialist (Mainframe-z/OS) | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55137&source=WEB_Search_NA) |
 | Software Engineer, OpenSearch | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46147&source=WEB_Search_NA) |
 | Customized Solutions Technician - Poughkeepsie, New York | POUGHKEEPSIE, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49120&source=WEB_Search_NA) |
@@ -266,7 +433,6 @@
 | Full Stack Developer-Network Services | Austin, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53348&source=WEB_Search_NA) |
 | Customer/1 Billing Developer/Designer | Syracuse, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=37253&source=WEB_Search_NA) |
 | Quantum Coherence Physicist | Yorktown Heights, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51689&source=WEB_Search_NA) |
-| Product Designer | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55363&source=WEB_Search_NA) |
 | Customer Success Manager- Brand Specialist Intern – Entry Level Sales Program | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53150&source=WEB_Search_NA) |
 | Field CTO (New York) | New York, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45837&source=WEB_Search_NA) |
 | Customer Success Manager -Brand Specialist – Entry Level Sales Program | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53149&source=WEB_Search_NA) |
@@ -320,8 +486,8 @@
 | Social Media Manager | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49095&source=WEB_Search_NA) |
 | Technical Sales Engineer - Automation Application Development | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48126&source=WEB_Search_NA) |
 | Systems Support Apprentice | TUCSON, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=43112&source=WEB_Search_NA) |
-| Technology Sales Engineer -  Automation - Identity Management | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48125&source=WEB_Search_NA) |
 | Cloudability MSP Technical Account Manager | RESEARCH TRIANGLE PARK, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54552&source=WEB_Search_NA) |
+| Technology Sales Engineer -  Automation - Identity Management | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48125&source=WEB_Search_NA) |
 | Technical Sales Engineer - Automation- Asset Lifecycle Management | Multiple Cities, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48533&source=WEB_Search_NA) |
 | 2026 Sales Returning Intern – IBM Early Sales Professional | Multiple Cities, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48787&source=WEB_Search_NA) |
 | Technology Lifecycle Support - Brand Technical Sales Specialist - LENOVO & MVS | No City, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46358&source=WEB_Search_NA) |
@@ -331,20 +497,16 @@
 
 </details>
 
----
-
-### 📁 **More Companies** (27 companies, 1281 positions)
-
 <details>
-<summary><strong>🏢 AiJobs</strong> (101 positions) </summary>
+<summary><strong>🏢 AiJobs</strong> (106 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Automation Engineer, Manufacturing | US, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157275798-automation-engineer-manufacturing) |
 | Finite Element Analysis (FEA) Engineer | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156868847-finite-element-analysis-fea-engineer) |
 | Embedded Firmware Developer – Battery Charger | US, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157075607-embedded-firmware-developer-battery-charger) |
-| AI System Engineer – New College Grad | Santa Clara, CA | Recently | Entry-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156867208-ai-system-engineer-new-college-grad-2025) |
 | Tech Lead, Manufacturing and Service Tools | US, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/158165304-tech-lead-manufacturing-and-service-tools) |
+| AI System Engineer – New College Grad | Santa Clara, CA | Recently | Entry-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156867208-ai-system-engineer-new-college-grad-2025) |
 | Quality Engineer, Manufacturing | US, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157275797-quality-engineer-manufacturing) |
 | Display Electrical Engineer | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157303132-display-electrical-engineer) |
 | Silicon Solutions Test Development Engineer | Santa Clara, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157098851-silicon-solutions-test-development-engineer) |
@@ -355,22 +517,24 @@
 | Test Engineer, R&D | US, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156138905-test-engineer-r-d) |
 | Hardware System Design Electrical Engineer | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156868844-hardware-system-design-electrical-engineer) |
 | Software Quality Engineer | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156576643-software-quality-engineer) |
+| Simulation Lead, Robotics | United States, California | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/158186442-simulation-lead-robotics) |
 | Compiler Engineer - Backend | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157845698-senior-compiler-engineer-backend) |
-| HPC Architect | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157297380-senior-hpc-architect) |
 | HPC Architect, Networking | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157297381-senior-hpc-architect-networking) |
+| HPC Architect | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157297380-senior-hpc-architect) |
 | Artificial Intelligence (AI) Engineer | US, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156562343-artificial-intelligence-ai-engineer) |
 | Computer Vision & Machine Learning, Junior | US, TX | Recently | Entry-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/134392945-computer-vision-machine-learning-junior) |
 | Mechanical Engineer (Sensing), Robotics | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157303123-mechanical-engineer-sensing-robotics) |
 | Support Engineer, Lead | United States, California | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157102553-senior-support-engineer-lead) |
+| Software Engineer, ML Performance | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/158186450-software-engineer-ml-performance) |
 | ASIC Verification Engineer - GPU | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156571499-senior-asic-verification-engineer-gpu) |
 | Math Libraries Engineer, Post Quantum Cryptography | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157098855-senior-math-libraries-engineer-post-quantum-cryptography) |
+| Engineering Manager, Mulitimodal (API) | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157303134-engineering-manager-mulitimodal-api) |
 | Software Engineer, Privacy | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156868839-software-engineer-privacy) |
 | Full-Stack Software Engineer | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156868846-full-stack-software-engineer) |
 | Software Engineer – CSP Engagements | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157490346-principal-software-engineer-csp-engagements) |
 | ASIC Verification Engineer - GPU | Hillsboro, OR | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156571502-senior-asic-verification-engineer-gpu) |
-| Engineering Manager, Mulitimodal (API) | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157303134-engineering-manager-mulitimodal-api) |
-| GPU Kernels Engineer | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157303130-gpu-kernels-engineer) |
 | Sensor Architect | United States, California | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156868841-sensor-architect) |
+| GPU Kernels Engineer | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157303130-gpu-kernels-engineer) |
 | Technical Program Manager, Robotics | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157685613-technical-program-manager-robotics) |
 | Technical Recruiter | United States, California | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156868834-senior-technical-recruiter) |
 | Manufacturing Quality Engineer, Datacenter Infrastructure - Stargate | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157102550-manufacturing-quality-engineer-datacenter-infrastructure-stargate) |
@@ -380,6 +544,7 @@
 | Machine Learning / Research Engineer (New Grad) | US, CA | Recently | Entry-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157112976-machine-learning-research-engineer-new-grad) |
 | Systems Coexistence Test Engineer | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156576642-systems-coexistence-test-engineer) |
 | Electrical Engineer Intern (Jan 2025) | CA, Sunnyvale | Recently | Entry-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157847945-electrical-engineer-intern-jan-2025) |
+| Security Researcher, Security Products | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/158186446-security-researcher-security-products) |
 | Product Finance Manager, Foundations | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157303128-product-finance-manager-foundations) |
 | Data scientists, AI engineering, LLM engineer, Machine Learning Engineers | US, NC | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156345600-data-scientists-ai-engineering-llm-engineer-machine-learning-engineers) |
 | Technical Program Manager – Adversarial Model Research | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156576637-technical-program-manager-adversarial-model-research) |
@@ -399,11 +564,12 @@
 | Product Designer, Growth | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156576635-product-designer-growth) |
 | Systems Software Engineer - AI and Cloud | Santa Clara, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157297378-systems-software-engineer-ai-and-cloud) |
 | Silicon Chip Hardware Lead | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157098864-senior-silicon-chip-hardware-lead) |
+| Head of Finance Operations & Deal Desk | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/158186452-head-of-finance-operations-deal-desk) |
 | Factory Test Instrumentation Engineer | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156576645-factory-test-instrumentation-engineer) |
-| Speed and Reliability Engineer - DFP | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157098854-lead-speed-and-reliability-engineer-dfp) |
 | Product Design Program Manager | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157492159-product-design-program-manager) |
-| SWQA Tools Development Engineer | Santa Clara, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157845694-swqa-tools-development-engineer) |
+| Speed and Reliability Engineer - DFP | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157098854-lead-speed-and-reliability-engineer-dfp) |
 | Engineer - Design to Silicon Correlation | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157098852-lead-engineer-design-to-silicon-correlation) |
+| SWQA Tools Development Engineer | Santa Clara, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157845694-swqa-tools-development-engineer) |
 | Technical Program Manager - Autonomous Vehicles Platform | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156571498-senior-technical-program-manager-autonomous-vehicles-platform) |
 | FEA Simulation Engineer, Thermal | US, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157670378-fea-simulation-engineer-thermal) |
 | SWE, Applied Evals | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156576639-swe-applied-evals) |
@@ -421,15 +587,15 @@
 | DGX Cloud AI Infrastructure Software Engineer | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157098859-senior-dgx-cloud-ai-infrastructure-software-engineer) |
 | Manager, Revenue Accounting | United States, California | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157303138-senior-manager-revenue-accounting) |
 | HPC and AI Networking Performance Research and Analysis Engineer | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156867206-senior-hpc-and-ai-networking-performance-research-and-analysis-engineer) |
-| Software Engineer, Database Systems | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156576647-software-engineer-database-systems) |
 | Account Director, Large Enterprise | Unknown, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157303141-account-director-large-enterprise) |
+| Software Engineer, Database Systems | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156576647-software-engineer-database-systems) |
 | AI Engineer | US, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157676265-ai-engineer) |
 | Global Supply Manager - Wire, Cable, Rope | US, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156790513-global-supply-manager-wire-cable-rope) |
 | Research Scientist | US, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157501975-research-scientist) |
 | Staff Site Reliability Engineer | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156867212-principal-staff-site-reliability-engineer) |
 | Product Marketing Manager, ChatGPT Business | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157848014-product-marketing-manager-chatgpt-business) |
-| Director of Technical Revenue | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157303139-director-of-technical-revenue) |
 | Software Manager - Data Center Performance | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157490350-senior-software-manager-data-center-performance) |
+| Director of Technical Revenue | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157303139-director-of-technical-revenue) |
 | Software Engineering Manager, AI Infrastructure Services - DGX Cloud | Santa Clara, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157678208-software-engineering-manager-ai-infrastructure-services-dgx-cloud) |
 | Technical Program Manager, Site Delivery | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157848004-technical-program-manager-site-delivery) |
 | AI and ML Infra Software Engineer, GPU Clusters | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/158183174-principal-ai-and-ml-infra-software-engineer-gpu-clusters) |
@@ -438,6 +604,7 @@
 | Computer Vision Engineer | Unknown, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156608310-computer-vision-engineer) |
 | Sr. HR Business Partner | United States, California | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157303126-sr-hr-business-partner) |
 | Data Scientist | US, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/157906881-data-scientist) |
+| People (HR) Ops Specialist | United States, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/158186443-people-hr-ops-specialist) |
 | Software Engineer - Design-For-Test | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/158183182-senior-software-engineer-design-for-test) |
 | Data Scientist III, Research, Play | US, NY | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156460950-data-scientist-iii-research-play) |
 | Computational Scientist - Artificial Intelligence & Machine Learning | US, IL | Recently | Mid-Level | Hardware Engineering | [Apply](https://www.aijobs.com/jobs/156608325-computational-scientist-artificial-intelligence-machine-learning) |
@@ -569,8 +736,8 @@
 | Advanced Software Engineer - (DACS) Data Acquisition and Control Systems | Torrance, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/112651/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Sr Advanced FPGA Design Engineer | Phoenix, AZ | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/107758/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Advanced Systems Engr | Clearwater, FL | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113969/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
-| Software Engineer | Phoenix, AZ | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111406/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Sr Embedded Engineer - Portable Industrial Safety Devices | Lincolnshire, IL | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115237/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
+| Software Engineer | Phoenix, AZ | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111406/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Systems Engineer | Phoenix, AZ | Recently | Senior | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/104797/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Sr Advanced Software Engineer | Fort Washington, PA | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113074/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Product Development and Software Quality Assurance Engineer | Minneapolis, MN | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/112015/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
@@ -578,32 +745,32 @@
 | Sr Advanced Systems Engr | Phoenix, AZ | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115776/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Sr Advanced Electrical Engineer | Phoenix, AZ | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113845/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Engineering Manager - Motor Controllers | Torrance, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/107136/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
-| Sr Advanced Semiconductor Engineer - FPGA Design | Phoenix, AZ | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/105862/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Software Engr | Pittsford, NY | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111738/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
+| Sr Advanced Semiconductor Engineer - FPGA Design | Phoenix, AZ | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/105862/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Electrical Engineer - Spectra Armor Business | Colonial Heights, VA | Recently | Senior | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115425/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Application Engr | Houston, TX | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113233/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Sr Advanced Software Engr | Duluth, GA | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/109423/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Director Engineering | Atlanta, GA | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/100804/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
-| Project Engr | Des Plaines, IL | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111393/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Sr. Advanced Verification and Validation Engineer | Duluth, GA | Recently | Senior | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/109196/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
-| Field Service Technician | Canton, MA | Recently | Senior | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113075/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
+| Project Engr | Des Plaines, IL | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111393/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Sr Advanced Application Engr | Houston, TX | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/108735/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
-| Eng Tech | Phoenix, AZ | Recently | Senior | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/112457/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
+| Field Service Technician | Canton, MA | Recently | Senior | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113075/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Export Classifier-Sr. Advanced Systems Engineer | Plymouth, MN | Recently | Senior | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/112690/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
+| Eng Tech | Phoenix, AZ | Recently | Senior | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/112457/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Sr Advanced Systems Engineer | United States | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115048/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
+| Electrical Engineer | Clearwater, FL | Recently | Senior | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/107545/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
+| Automation Controls Engineer/DCS/PLC Programmer (Relo Provided) - Northern California | Benicia, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/103487/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
+| Sr Supply Planning Supervisor | Charlotte, NC | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113256/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
+| Advanced Producibility Quality Assurance Engineer | Clearwater, FL | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113707/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | IT Engineer Manager | Morris Plains, NJ | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/107498/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Traveling HVAC Controls - Senior Field Service Technician | Fargo, ND | Recently | Senior | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111237/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Traveling HVAC Controls - Senior Field Service Technician | Chicago, IL | Recently | Senior | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113048/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
-| Automation Controls Engineer/DCS/PLC Programmer (Relo Provided) - Northern California | Benicia, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/103487/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
-| Electrical Engineer | Clearwater, FL | Recently | Senior | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/107545/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
-| Advanced Producibility Quality Assurance Engineer | Clearwater, FL | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113707/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
-| Sr Supply Planning Supervisor | Charlotte, NC | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113256/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Data Scientist | Atlanta, GA | Recently | Senior | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/HRD9085991/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Advanced Systems Engr | Tempe, AZ | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/109426/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Technical eLearning Course Developer | Pittsford, NY | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/103021/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Advanced Application Software Engineer- Flight Simulation | Phoenix, AZ | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/104970/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
-| Advanced Systems Engineer | Clearwater, FL | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115683/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Systems Engr | Tempe, AZ | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/114436/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
+| Advanced Systems Engineer | Clearwater, FL | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115683/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Experienced BAS Field Service Engineer | Memphis, TN | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115874/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Field Service Engr | Houston, TX | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/110488/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
 | Program Manager – EGI Missionizations | Clearwater, FL | Recently | Senior | Hardware Engineering | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/112849/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
@@ -758,7 +925,7 @@
 </details>
 
 <details>
-<summary><strong>🎮 NVIDIA</strong> (92 positions) </summary>
+<summary><strong>🎮 NVIDIA</strong> (93 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -795,6 +962,7 @@
 | Manufacturing Test Engineer | US, CA | Recently | Senior | Hardware Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manufacturing-Test-Engineer_JR2000011-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) |
 | Test Engineer | US, CA | Recently | Senior | Hardware Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Test-Engineer_JR2001141?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) |
 | Firmware Engineer – CSP Engagements | US, CA | Recently | Senior | Hardware Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer---CSP-Engagements_JR1999599?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) |
+| System Software Engineer - CUDA Chips | US, CA | Recently | Senior | Hardware Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---CUDA-Chips_JR1999424?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) |
 | System Software Engineer - GPU Server | US, CA | Recently | Senior | Hardware Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---GPU-Server_JR2001533?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) |
 | Compiler Engineer - Backend | US, CA | Recently | Senior | Hardware Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--DPU_JR1999201?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) |
 | OEM Account Applications Engineer | US, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/OEM-Account-Applications-Engineer_JR2000724?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) |
@@ -871,19 +1039,19 @@
 | QA Firmware Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/senior-qa-firmware-engineer/33099/85068124496) |
 | Systems Engineer – Network Interconnects | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/systems-engineer-network-interconnects/33099/84462421856) |
 | Mechanical Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/senior-mechanical-engineer/33099/83826403136) |
-| SoC Design Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/staff-soc-design-engineer/33099/74848310784) |
 | Modeling Engineer | San Jose, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/san-jose/senior-modeling-engineer/33099/81503807056) |
+| SoC Design Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/staff-soc-design-engineer/33099/74848310784) |
 | Data Center Infrastructure Management Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/staff-data-center-infrastructure-management-engineer/33099/83212077936) |
-| Staff/Principal Frontend CAD & Methodology Engineer | San Diego, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/san-diego/staff-principal-frontend-cad-and-methodology-engineer/33099/77558411648) |
 | Machine Learning Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/principal-machine-learning-engineer/33099/83552481216) |
+| Staff/Principal Frontend CAD & Methodology Engineer | San Diego, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/san-diego/staff-principal-frontend-cad-and-methodology-engineer/33099/77558411648) |
 | Software Engineer- C++ & Modeling (Hybrid Onsite) | Waltham, Massachusetts | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/job/waltham/software-engineer-c-and-modeling-hybrid-onsite/33099/84729455696) |
 | Isabela’s Award-Winning INROADs Internship | Multiple, Locations | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.arm.com/isabelas-internship) |
 | Liana's Story | Multiple, Locations | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/why-arm-liana) |
 | Sabbatical Stories | Multiple, Locations | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/sabbatical-stories) |
 | Wesley’s Intern Journey | Multiple, Locations | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.arm.com/wesley-intern-story) |
 | Systems Engineering Manager | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/senior-systems-engineering-manager/33099/83658645696) |
-| Performance Solution Engineer | Multiple, Locations | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/staff-performance-solution-engineer/33099/75645072992) |
 | Software Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/senior-software-engineer/33099/85244173552) |
+| Performance Solution Engineer | Multiple, Locations | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/staff-performance-solution-engineer/33099/75645072992) |
 | BMC Firmware Design Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/senior-bmc-firmware-design-engineer/33099/85068124656) |
 | Engineer | Seattle, Washington | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/seattle/principal-engineer/33099/78959605056) |
 | Power Analysis Engineer | Multiple, Locations | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/san-diego/staff-power-analysis-engineer/33099/64317506576) |
@@ -892,8 +1060,8 @@
 | SoC Security Architect | San Diego, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/san-diego/soc-security-architect/33099/74778030160) |
 | System Architect | San Jose, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/san-jose/staff-system-architect/33099/78546569088) |
 | System Architect | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/principal-system-architect/33099/76467416080) |
-| Performance Solution Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/senior-performance-solution-engineer/33099/84503584720) |
 | Sr. Principal Platform Power Architect | Multiple, Locations | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/san-diego/sr-principal-platform-power-architect/33099/84807390048) |
+| Performance Solution Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/senior-performance-solution-engineer/33099/84503584720) |
 | SoC Design Engineer | Chandler, Arizona | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/chandler/senior-soc-design-engineer/33099/69630389392) |
 | Engineering Designer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/engineering-designer/33099/84751646464) |
 | SoC Power Architects | Multiple, Locations | Recently | Senior | Hardware Engineering | [Apply](https://careers.arm.com/job/san-diego/soc-power-architects/33099/79329054320) |
@@ -1013,8 +1181,8 @@
 | Logic Circuit Design Engineer | Folsom, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30868590) |
 | CAD Engineer, Memory | Richardson, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/28862569) |
 | Wet Etch Equipment Engineer | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/27399944) |
-| Dry Etch Equipment Engineer | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/27399302) |
 | ID1 Equipment Maintenance Technician (Idaho Fab 1) | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/28195899) |
+| Dry Etch Equipment Engineer | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/27399302) |
 | ID1 Equipment Maintenance Technician (ME Idaho Fab 1) | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30860731) |
 | FE Central Quality - Quality Systems Senior Engineer | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30185103) |
 | Manager, SSD Product Validation | Longmont, Colorado | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30542364) |
@@ -1024,8 +1192,8 @@
 | Principal/Senior Engineer, Photolithography Tool Installation Qualification | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/28560666) |
 | Module Quality Engineer | Boise, Idaho | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/26050359) |
 | PCB Layout Designer | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/28551345) |
-| Electrical Design Engineer Lead | San Jose, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30791841) |
 | ASSOCIATE TECHNICIAN-RETICLE MFG | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30608149) |
+| Electrical Design Engineer Lead | San Jose, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30791841) |
 | MTS, Data Science Agentic Platforms | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30687259) |
 | Dry Etch Process Engineer | Manassas, Virginia | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30590684) |
 | Wet Etch & Clean Equipment Engineer | Manassas, Virginia | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/28578489) |
@@ -1033,15 +1201,15 @@
 | RDA Equipment Applications Engineer | Manassas, Virginia | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/28953595) |
 | Supply Chain Planner | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/29687849) |
 | Probe Equipment Maintenance Technician - Manassas | Manassas, Virginia | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30552917) |
-| Diffusion Equipment Engineer | Manassas, Virginia | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30552277) |
+| Diffusion Equipment Engineer | Manassas, Virginia | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30765221) |
 | Strategic Category Analyst | San Jose, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/29726265) |
 | Software Development Engineer | Manassas, Virginia | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30043686) |
-| Indirect Regional Supplier Manager | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30514762) |
 | Process Engineer, Reticle Manufacturing | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30301610) |
+| Indirect Regional Supplier Manager | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30514762) |
 | Wet Etch Equipment Engineer | Manassas, Virginia | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30512816) |
-| Device Integration Engineer, SMTS | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/23457501) |
 | CMOS Device Integration Engineer, SMTS | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/26772551) |
 | Equipment Engineer | Manassas, Virginia | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30034410) |
+| Device Integration Engineer, SMTS | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/23457501) |
 | Intern - Probe Equipment Engineer | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30739844) |
 | Sr Category Supplier Manager – Tool Install | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30892018) |
 | Product Pathfinding Engineer- HIG-TPG | Boise, Idaho | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/30530752) |
@@ -1049,7 +1217,92 @@
 </details>
 
 <details>
-<summary><strong>🏢 Verizon</strong> (77 positions) </summary>
+<summary><strong>🏢 Booz Allen </strong> (77 positions) </summary>
+
+| Role | Location | Posted | Level | Category | Apply |
+|------|----------|--------|-------|----------|-------|
+| Manufacturing and Engineering Flagship Lead | Lorton, VA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Manufacturing-and-Engineering-Flagship-Lead_R0222472?q=hardware+engineering) |
+| Embedded Engineer, Senior | Aberdeen Proving Ground, MD | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aberdeen-Proving-Ground-MD/Embedded-Engineer_R0215354?q=hardware+engineering) |
+| Manufacturing Engineer | Huntsville, AL | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Manufacturing-Engineer_R0225023?q=hardware+engineering) |
+| Network Engineer | Fort Meade, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Network-Engineer_R0222154?q=hardware+engineering) |
+| FPGA Engineer, Mid | Lexington Park, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/FPGA-Engineer--Mid_R0220608?q=hardware+engineering) |
+| Research Support Engineer | Annapolis Junction, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Research-Support-Engineer_R0222686-1?q=hardware+engineering) |
+| Network Engineer | McLean, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Network-Engineer_R0221772?q=hardware+engineering) |
+| Network Engineer | Norfolk, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Network-Engineer_R0222427?q=hardware+engineering) |
+| Network Engineer | San Diego, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Network-Engineer_R0223327-1?q=hardware+engineering) |
+| Network Engineer | College Park, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/College-Park-MD/Network-Engineer_R0223445?q=hardware+engineering) |
+| Network Engineer | Annapolis Junction, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Network-Engineer_R0223850?q=hardware+engineering) |
+| Digital Engineer | El Segundo, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Digital-Engineer_R0222135-1?q=hardware+engineering) |
+| Network Engineer, Senior | San Diego, CA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Network-Engineer--Senior_R0224167?q=hardware+engineering) |
+| Red Team Operator, Senior | Chantilly, VA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Red-Team-Operator--Senior_R0221485?q=hardware+engineering) |
+| Digital Systems Engineer | Huntsville, AL | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Digital-Systems-Engineer_R0221305?q=hardware+engineering) |
+| Robotics Engineer | Wharton, NJ | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wharton-NJ/Robotics-Engineer_R0224046?q=hardware+engineering) |
+| Mechanical Engineer | Huntsville, AL | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Mechanical-Engineer_R0225022?q=hardware+engineering) |
+| Electronics Engineer, Mid | Dahlgren, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Electronics-Engineer--Mid_R0224026?q=hardware+engineering) |
+| Robotics Engineer, Senior | Lorton, VA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Robotics-Engineer--Senior_R0224473-1?q=hardware+engineering) |
+| Network Engineer, Senior | Warner Robins, GA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Network-Engineer--Senior_R0221294?q=hardware+engineering) |
+| Network Engineer, Lead | Annapolis Junction, MD | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Network-Engineer--Lead_R0221945?q=hardware+engineering) |
+| Network Engineer, Senior | Tampa, FL | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tampa-FL/Network-Engineer--Senior_R0222576?q=hardware+engineering) |
+| Tactical Network Engineer | Lorton, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Tactical-Network-Engineer_R0223520?q=hardware+engineering) |
+| Network Infrastructure Engineer | Fort Meade, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Network-Infrastructure-Engineer_R0223993?q=hardware+engineering) |
+| Network Test Engineer | Lorton, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Network-Test-Engineer_R0224195?q=hardware+engineering) |
+| Network Test Engineer | Princeton, NJ | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Princeton-NJ/Network-Test-Engineer_R0224199?q=hardware+engineering) |
+| Tactical Networks Systems Engineer | San Diego, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Tactical-Networks-Systems-Engineer_R0225028-1?q=hardware+engineering) |
+| Cloud Network Engineer, Mid | Annapolis Junction, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Cloud-Network-Engineer--Mid_R0221615?q=hardware+engineering) |
+| Linux System Engineer, Mid | Fort Meade, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Linux-System-Engineer--Mid_R0223733?q=hardware+engineering) |
+| Linux Engineer | McLean, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Linux-Engineer_R0223888?q=hardware+engineering) |
+| Tactical Network Engineer, Lead | San Diego, CA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Tactical-Network-Engineer--Lead_R0222541?q=hardware+engineering) |
+| Systems Integration Engineer | California, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/California-MD/Systems-Integration-Engineer_R0224330?q=hardware+engineering) |
+| Versa SD-WAN Engineer | Fort Meade, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Versa-SD-WAN-Engineer_R0224895?q=hardware+engineering) |
+| Embedded Developer | Annapolis Junction, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Embedded-Developer_R0212038?q=hardware+engineering) |
+| ATAK Software Developer | Lorton, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/ATAK-Software-Developer_R0223553?q=hardware+engineering) |
+| Model-Based Systems Engineer | El Segundo, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Model-Based-Systems-Engineer_R0223216?q=hardware+engineering) |
+| Systems and Digital Engineer | Arlington, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Systems-and-Digital-Engineer_R0223344?q=hardware+engineering) |
+| Model Based Systems Engineer | Langley AFB, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Model-Based-Systems-Engineer_R0223913?q=hardware+engineering) |
+| Software Developer | Oklahoma City, OK | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Oklahoma-City-OK/Software-Developer_R0222180?q=hardware+engineering) |
+| Technology Engineer Analyst | McLean, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Technology-Engineer-Analyst_R0222648?q=hardware+engineering) |
+| Configuration Engineer, Lead | Annapolis Junction, MD | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Configuration-Engineer--Lead_R0223086?q=hardware+engineering) |
+| Weapon Systems Solutions Engineer | Fort Walton Beach, FL | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Walton-Beach-FL/Weapon-Systems-Solutions-Engineer--Senior_R0223501?q=hardware+engineering) |
+| System Engineer, Senior | Fort Meade, MD | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/System-Engineer--Senior_R0219964?q=hardware+engineering) |
+| Autonomy Engineer, Lead | Lorton, VA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Autonomy-Engineer--Lead_R0223285?q=hardware+engineering) |
+| Systems Design Engineer | El Segundo, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Systems-Design-Engineer_R0224775?q=hardware+engineering) |
+| Digital Design Engineer | Beavercreek, OH | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Digital-Design-Engineer_R0224765?q=hardware+engineering) |
+| C2 Datacenter Network Architect, Lead | San Diego, CA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/C2-Datacenter-Network-Architect--Lead_R0224153?q=hardware+engineering) |
+| Network Administrator | Princeton, NJ | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Princeton-NJ/Network-Administrator_R0224214?q=hardware+engineering) |
+| Systems and Digital Engineer, Senior | Arlington, VA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Systems-and-Digital-Engineer--Senior_R0223342?q=hardware+engineering) |
+| Electrical Engineer, Senior | Arlington, VA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Electrical-Engineer--Senior_R0224069-1?q=hardware+engineering) |
+| Electronics Engineer, Mid | Washington, DC | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Electronics-Engineer--Mid_R0222426?q=hardware+engineering) |
+| Cyber Security Engineering Analyst | Hill AFB, UT | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Hill-AFB-UT/Cyber-Security-Engineering-Analyst_R0223893?q=hardware+engineering) |
+| Software Reverse Engineer, Senior | Charlottesville, VA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/Software-Reverse-Engineer--Senior_R0221864?q=hardware+engineering) |
+| Software Reverse Engineer, Mid | Charlottesville, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/Software-Reverse-Engineer--Mid_R0221866?q=hardware+engineering) |
+| Combat Data Systems Engineer | Arlington, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Combat-Data-Systems-Engineer_R0222810?q=hardware+engineering) |
+| Embedded Machine Learning Engineer | Lorton, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Embedded-Machine-Learning-Engineer_R0223518?q=hardware+engineering) |
+| C2 Systems Engineer, Senior | North Charleston, SC | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/North-Charleston-SC/C2-Systems-Engineer--Senior_R0224059?q=hardware+engineering) |
+| Software Developer | Annapolis Junction, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Software-Developer_R0212036-1?q=hardware+engineering) |
+| Cloud System Administrator and Engineer | Bethesda, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Cloud-System-Administrator-and-Engineer_R0223484?q=hardware+engineering) |
+| Facility Design Technical Lead | Huntsville, AL | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Facility-Design-Technical-Lead-_R0223133?q=hardware+engineering) |
+| Systems Integrator | McLean, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Systems-Integrator_R0225024?q=hardware+engineering) |
+| AI/ML Cloud Operations Engineer | Fayetteville, NC | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/AI-ML-Cloud-Operations-Engineer_R0224658?q=hardware+engineering) |
+| Systems Administrator | Beavercreek, OH | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Systems-Administrator_R0223366?q=hardware+engineering) |
+| Software Systems Architect | El Segundo, CA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Software-Systems-Architect_R0223335-1?q=hardware+engineering) |
+| PC Technician, Mid | Cannon AFB, NM | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Cannon-AFB-NM/PC-Technician--Mid_R0223413?q=hardware+engineering) |
+| Configuration Manager | Clearfield, UT | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Clearfield-UT/Configuration-Manager_R0221684?q=hardware+engineering) |
+| License Manager | Arlington, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/License-Manager_R0224319?q=hardware+engineering) |
+| Configuration Manager, Senior | Aberdeen Proving Ground, MD | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aberdeen-Proving-Ground-MD/Configuration-Manager--Senior_R0224944?q=hardware+engineering) |
+| Software Integrator, Senior | Belcamp, MD | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Belcamp-MD/Software-Integrator--Senior_R0224959?q=hardware+engineering) |
+| Manufacturing Quality Assurance Specialist | Fayetteville, NC | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Manufacturing-Quality-Assurance-Specialist_R0223769?q=hardware+engineering) |
+| Digital Transformation Architect | San Antonio, TX | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Digital-Transformation-Architect_R0221563?q=hardware+engineering) |
+| Integrated Project Team Lead | Huntsville, AL | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Integrated-Project-Team-Lead_R0221283?q=hardware+engineering) |
+| Cryptologic Data Flow Technician | Fort Meade, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Cryptologic-Signals-Analyst_R0222762?q=hardware+engineering) |
+| Systems Administrator, Mid | Fort Meade, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Systems-Administrator--Junior_R0223302-1?q=hardware+engineering) |
+| Cloud Information Assurance Specialist | Lexington, MA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Cloud-Information-Assurance-Specialist_R0223778?q=hardware+engineering) |
+| Information Security Specialist | Oklahoma City, OK | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Oklahoma-City-OK/Information-Security-Specialist_R0221833-1?q=hardware+engineering) |
+| Linux System Administrator | Aberdeen Proving Ground, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aberdeen-Proving-Ground-MD/Linux-System-Administrator_R0221928?q=hardware+engineering) |
+
+</details>
+
+<details>
+<summary><strong>🏢 Verizon</strong> (76 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -1109,91 +1362,6 @@
 | Software Reverse Engineer, Mid | Charlottesville, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/Software-Reverse-Engineer--Mid_R0221866?q=hardware+engineering) |
 | Combat Data Systems Engineer | Arlington, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Combat-Data-Systems-Engineer_R0222810?q=hardware+engineering) |
 | Embedded Machine Learning Engineer | Lorton, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Embedded-Machine-Learning-Engineer_R0223518?q=hardware+engineering) |
-| C2 Systems Engineer, Senior | North Charleston, SC | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/North-Charleston-SC/C2-Systems-Engineer--Senior_R0224059?q=hardware+engineering) |
-| Software Developer | Annapolis Junction, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Software-Developer_R0212036-1?q=hardware+engineering) |
-| Cloud System Administrator and Engineer | Bethesda, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Cloud-System-Administrator-and-Engineer_R0223484?q=hardware+engineering) |
-| Facility Design Technical Lead | Huntsville, AL | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Facility-Design-Technical-Lead-_R0223133?q=hardware+engineering) |
-| Systems Integrator | McLean, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Systems-Integrator_R0225024?q=hardware+engineering) |
-| AI/ML Cloud Operations Engineer | Fayetteville, NC | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/AI-ML-Cloud-Operations-Engineer_R0224658?q=hardware+engineering) |
-| Systems Administrator | Beavercreek, OH | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Systems-Administrator_R0223366?q=hardware+engineering) |
-| Software Systems Architect | El Segundo, CA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Software-Systems-Architect_R0223335-1?q=hardware+engineering) |
-| PC Technician, Mid | Cannon AFB, NM | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Cannon-AFB-NM/PC-Technician--Mid_R0223413?q=hardware+engineering) |
-| Configuration Manager | Clearfield, UT | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Clearfield-UT/Configuration-Manager_R0221684?q=hardware+engineering) |
-| License Manager | Arlington, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/License-Manager_R0224319?q=hardware+engineering) |
-| Configuration Manager, Senior | Aberdeen Proving Ground, MD | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aberdeen-Proving-Ground-MD/Configuration-Manager--Senior_R0224944?q=hardware+engineering) |
-| Software Integrator, Senior | Belcamp, MD | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Belcamp-MD/Software-Integrator--Senior_R0224959?q=hardware+engineering) |
-| Manufacturing Quality Assurance Specialist | Fayetteville, NC | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Manufacturing-Quality-Assurance-Specialist_R0223769?q=hardware+engineering) |
-| Digital Transformation Architect | San Antonio, TX | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Digital-Transformation-Architect_R0221563?q=hardware+engineering) |
-| Integrated Project Team Lead | Huntsville, AL | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Integrated-Project-Team-Lead_R0221283?q=hardware+engineering) |
-| Cryptologic Data Flow Technician | Fort Meade, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Cryptologic-Signals-Analyst_R0222762?q=hardware+engineering) |
-| Systems Administrator, Mid | Fort Meade, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Systems-Administrator--Junior_R0223302-1?q=hardware+engineering) |
-| Cloud Information Assurance Specialist | Lexington, MA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Cloud-Information-Assurance-Specialist_R0223778?q=hardware+engineering) |
-| Information Security Specialist | Oklahoma City, OK | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Oklahoma-City-OK/Information-Security-Specialist_R0221833-1?q=hardware+engineering) |
-| Linux System Administrator | Aberdeen Proving Ground, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aberdeen-Proving-Ground-MD/Linux-System-Administrator_R0221928?q=hardware+engineering) |
-
-</details>
-
-<details>
-<summary><strong>🏢 Booz Allen </strong> (76 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Manufacturing and Engineering Flagship Lead | Lorton, VA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Manufacturing-and-Engineering-Flagship-Lead_R0222472?q=hardware+engineering) |
-| Embedded Engineer, Senior | Aberdeen Proving Ground, MD | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aberdeen-Proving-Ground-MD/Embedded-Engineer_R0215354?q=hardware+engineering) |
-| Manufacturing Engineer | Huntsville, AL | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Manufacturing-Engineer_R0225023?q=hardware+engineering) |
-| Network Engineer | Fort Meade, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Network-Engineer_R0222154?q=hardware+engineering) |
-| FPGA Engineer, Mid | Lexington Park, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/FPGA-Engineer--Mid_R0220608?q=hardware+engineering) |
-| Research Support Engineer | Annapolis Junction, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Research-Support-Engineer_R0222686-1?q=hardware+engineering) |
-| Network Engineer | McLean, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Network-Engineer_R0221772?q=hardware+engineering) |
-| Network Engineer | Norfolk, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Network-Engineer_R0222427?q=hardware+engineering) |
-| Network Engineer | San Diego, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Network-Engineer_R0223327-1?q=hardware+engineering) |
-| Network Engineer | College Park, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/College-Park-MD/Network-Engineer_R0223445?q=hardware+engineering) |
-| Network Engineer | Annapolis Junction, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Network-Engineer_R0223850?q=hardware+engineering) |
-| Digital Engineer | El Segundo, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Digital-Engineer_R0222135-1?q=hardware+engineering) |
-| Network Engineer, Senior | San Diego, CA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Network-Engineer--Senior_R0224167?q=hardware+engineering) |
-| Red Team Operator, Senior | Chantilly, VA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Red-Team-Operator--Senior_R0221485?q=hardware+engineering) |
-| Digital Systems Engineer | Huntsville, AL | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Digital-Systems-Engineer_R0221305?q=hardware+engineering) |
-| Robotics Engineer | Wharton, NJ | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wharton-NJ/Robotics-Engineer_R0224046?q=hardware+engineering) |
-| Mechanical Engineer | Huntsville, AL | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Mechanical-Engineer_R0225022?q=hardware+engineering) |
-| Electronics Engineer, Mid | Dahlgren, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Electronics-Engineer--Mid_R0224026?q=hardware+engineering) |
-| Robotics Engineer, Senior | Lorton, VA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Robotics-Engineer--Senior_R0224473-1?q=hardware+engineering) |
-| Network Engineer, Senior | Warner Robins, GA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Network-Engineer--Senior_R0221294?q=hardware+engineering) |
-| Network Engineer, Lead | Annapolis Junction, MD | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Network-Engineer--Lead_R0221945?q=hardware+engineering) |
-| Network Engineer, Senior | Tampa, FL | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tampa-FL/Network-Engineer--Senior_R0222576?q=hardware+engineering) |
-| Tactical Network Engineer | Lorton, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Tactical-Network-Engineer_R0223520?q=hardware+engineering) |
-| Network Infrastructure Engineer | Fort Meade, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Network-Infrastructure-Engineer_R0223993?q=hardware+engineering) |
-| Network Test Engineer | Lorton, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Network-Test-Engineer_R0224195?q=hardware+engineering) |
-| Network Test Engineer | Princeton, NJ | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Princeton-NJ/Network-Test-Engineer_R0224199?q=hardware+engineering) |
-| Tactical Networks Systems Engineer | San Diego, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Tactical-Networks-Systems-Engineer_R0225028-1?q=hardware+engineering) |
-| Cloud Network Engineer, Mid | Annapolis Junction, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Cloud-Network-Engineer--Mid_R0221615?q=hardware+engineering) |
-| Linux Engineer | McLean, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Linux-Engineer_R0223888?q=hardware+engineering) |
-| Tactical Network Engineer, Lead | San Diego, CA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Tactical-Network-Engineer--Lead_R0222541?q=hardware+engineering) |
-| Systems Integration Engineer | California, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/California-MD/Systems-Integration-Engineer_R0224330?q=hardware+engineering) |
-| Versa SD-WAN Engineer | Fort Meade, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Versa-SD-WAN-Engineer_R0224895?q=hardware+engineering) |
-| Embedded Developer | Annapolis Junction, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Embedded-Developer_R0212038?q=hardware+engineering) |
-| ATAK Software Developer | Lorton, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/ATAK-Software-Developer_R0223553?q=hardware+engineering) |
-| Model-Based Systems Engineer | El Segundo, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Model-Based-Systems-Engineer_R0223216?q=hardware+engineering) |
-| Systems and Digital Engineer | Arlington, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Systems-and-Digital-Engineer_R0223344?q=hardware+engineering) |
-| Model Based Systems Engineer | Langley AFB, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Model-Based-Systems-Engineer_R0223913?q=hardware+engineering) |
-| Software Developer | Oklahoma City, OK | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Oklahoma-City-OK/Software-Developer_R0222180?q=hardware+engineering) |
-| Technology Engineer Analyst | McLean, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Technology-Engineer-Analyst_R0222648?q=hardware+engineering) |
-| Configuration Engineer, Lead | Annapolis Junction, MD | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Configuration-Engineer--Lead_R0223086?q=hardware+engineering) |
-| Enterprise Artificial Intelligence Cybersecurity Engineer | McLean, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Artificial-Intelligence-Cybersecurity-Engineer_R0222553?q=hardware+engineering) |
-| System Engineer, Senior | Fort Meade, MD | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/System-Engineer--Senior_R0219964?q=hardware+engineering) |
-| Autonomy Engineer, Lead | Lorton, VA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Autonomy-Engineer--Lead_R0223285?q=hardware+engineering) |
-| Systems Design Engineer | El Segundo, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Systems-Design-Engineer_R0224775?q=hardware+engineering) |
-| Digital Design Engineer | Beavercreek, OH | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Digital-Design-Engineer_R0224765?q=hardware+engineering) |
-| C2 Datacenter Network Architect, Lead | San Diego, CA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/C2-Datacenter-Network-Architect--Lead_R0224153?q=hardware+engineering) |
-| Network Administrator | Princeton, NJ | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Princeton-NJ/Network-Administrator_R0224214?q=hardware+engineering) |
-| Systems and Digital Engineer, Senior | Arlington, VA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Systems-and-Digital-Engineer--Senior_R0223342?q=hardware+engineering) |
-| Electrical Engineer, Senior | Arlington, VA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Electrical-Engineer--Senior_R0224069-1?q=hardware+engineering) |
-| Electronics Engineer, Mid | Washington, DC | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Electronics-Engineer--Mid_R0222426?q=hardware+engineering) |
-| Cyber Security Engineering Analyst | Hill AFB, UT | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Hill-AFB-UT/Cyber-Security-Engineering-Analyst_R0223893?q=hardware+engineering) |
-| Software Reverse Engineer, Senior | Charlottesville, VA | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/Software-Reverse-Engineer--Senior_R0221864?q=hardware+engineering) |
-| Software Reverse Engineer, Mid | Charlottesville, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/Software-Reverse-Engineer--Mid_R0221866?q=hardware+engineering) |
-| Combat Data Systems Engineer | Arlington, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Combat-Data-Systems-Engineer_R0222810?q=hardware+engineering) |
-| Embedded Machine Learning Engineer | Lorton, VA | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Embedded-Machine-Learning-Engineer_R0223518?q=hardware+engineering) |
-| C2 Systems Engineer, Senior | North Charleston, SC | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/North-Charleston-SC/C2-Systems-Engineer--Senior_R0224059?q=hardware+engineering) |
 | Software Developer | Annapolis Junction, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Software-Developer_R0212036-1?q=hardware+engineering) |
 | Cloud System Administrator and Engineer | Bethesda, MD | Recently | Mid-Level | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Cloud-System-Administrator-and-Engineer_R0223484?q=hardware+engineering) |
 | Facility Design Technical Lead | Huntsville, AL | Recently | Senior | Hardware Engineering | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Facility-Design-Technical-Lead-_R0223133?q=hardware+engineering) |
@@ -1285,65 +1453,6 @@
 </details>
 
 <details>
-<summary><strong>🏢 SYNOPSYS</strong> (51 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Hardware Engineering, Lead Technician - | Hillsboro, Oregon | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/hillsboro/hardware-engineering-lead-technician-12513/44408/84997058640) |
-| Silicon Validation Manager - | Hillsboro, Oregon | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/hillsboro/silicon-validation-manager-12490/44408/84997058608) |
-| R&D Engineering, Staff Engineer | Hillsboro, Oregon | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/hillsboro/r-and-d-engineering-staff-engineer/44408/82641685696) |
-| Principal R&D Engineer | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/principal-r-and-d-engineer/44408/80368862496) |
-| FPGA Emulation Application Engineer | Sunnyvale, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/fpga-emulation-application-engineer/44408/85077696800) |
-| Sr Director-CAD Engineering | San Diego, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/san-diego/sr-director-cad-engineering/44408/85228993984) |
-| R&D Engineering, Principal Engineer | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/r-and-d-engineering-principal-engineer/44408/85253384784) |
-| Solutions Engineering, Principal Engineer-11960 | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/austin/solutions-engineering-principal-engineer-11960/44408/83872176688) |
-| Solutions Engineering, Staff Engineer-11959 | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/austin/solutions-engineering-staff-engineer-11959/44408/83872176640) |
-| Software Engineering, Sr Staff Engineer | Remote 🏠 | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/united-states/software-engineering-sr-staff-engineer/44408/77746898912) |
-| Cybersecurity Engineering, Principal Engineer – Data Security | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/austin/cybersecurity-engineering-principal-engineer-data-security/44408/84034521504) |
-| Principal Applications Engineer (ASIC/SoC/IP Engineer) | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/principal-applications-engineer-asic-soc-ip-engineer/44408/77257866976) |
-| Principal Product Engineer | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/principal-product-engineer/44408/84936383040) |
-| SOC Verification Engineer | United States Off-site, United States Off-site | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/austin/soc-verification-engineer/44408/84643890720) |
-| Principal AI Engineer | Remote 🏠 | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/united-states/principal-ai-engineer/44408/81633303024) |
-| Physical Design Application Engineer | Remote 🏠 | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/united-states/physical-design-application-engineer/44408/85315889152) |
-| Formal Verification Application Engineer | United States Off-site, United States Off-site | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/formal-verification-application-engineer/44408/85253384736) |
-| Static Verification Applications Engineer | Sunnyvale, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/static-verification-applications-engineer/44408/84975424720) |
-| Multi-Die Application Engineer | Sunnyvale, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/multi-die-application-engineer/44408/84961113120) |
-| Memory Interface Application Engineer | Sunnyvale, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/memory-interface-application-engineer/44408/84810951168) |
-| Sr Staff Product Engineer | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/sr-staff-product-engineer/44408/84794609072) |
-| Senior Manager, SOC Engineering | United States Off-site, United States Off-site | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/plano/senior-manager-soc-engineering/44408/84463327440) |
-| Software Engineer, Staff -11967 | Hillsboro, Oregon | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/hillsboro/software-engineer-staff-11967/44408/84432060224) |
-| Principal Project Management Engineer | Boxborough, Massachusetts | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/boxborough/principal-project-management-engineer/44408/79496047792) |
-| Senior R&D Engineer | United States Off-site, United States Off-site | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/pasadena/senior-r-and-d-engineer/44408/79341378064) |
-| Principal Analog Design Engineer | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/principal-analog-design-engineer/44408/78313995952) |
-| Solutions Engineering, Architect-9888 | Remote 🏠 | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/united-states/solutions-engineering-architect-9888/44408/78267187728) |
-| Staff Solutions Engineer-9830 | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/austin/staff-solutions-engineer-9830/44408/78227815312) |
-| Principle RTL Design Engineer | Hillsboro, Oregon | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/hillsboro/principle-rtl-design-engineer/44408/77257867232) |
-| Signoff STA Applications Engineer, Staff | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/signoff-sta-applications-engineer-staff/44408/85209463344) |
-| Mixed Signal IP Applications Engineer | Austin, Texas | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/austin/mixed-signal-ip-applications-engineer/44408/84193430624) |
-| Senior Software R&D Engineer | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/senior-software-r-and-d-engineer/44408/79512545392) |
-| Senior DFT Solutions Engineer-10275 | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/senior-dft-solutions-engineer-10275/44408/79064088864) |
-| Signal Integrity/ Power Integrity Engineer | Hillsboro, Oregon | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/hillsboro/signal-integrity-power-integrity-engineer/44408/78321014320) |
-| Senior Staff ASIC Design Engineer | Hillsboro, Oregon | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/hillsboro/senior-staff-asic-design-engineer/44408/78313995984) |
-| Sr. Staff IT Software Engineer | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/austin/sr-staff-it-software-engineer/44408/77257866624) |
-| Principal R&D Engineer-3DIC-12508 | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/principal-r-and-d-engineer-3dic-12508/44408/85187716096) |
-| Staff Test & Validation Engineer-7672 | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/staff-test-and-validation-engineer-7672/44408/82369720736) |
-| Principal R&D Engineer - Physical Implementation-9965 | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/principal-r-and-d-engineer-physical-implementation-9965/44408/80199370880) |
-| Sr. Staff Network Cloud Engineer | United States Off-site, United States Off-site | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/united-states/sr-staff-network-cloud-engineer/44408/76799011568) |
-| Senior Staff Applications Engineer (IC Design and/ or SoC Integration) | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/austin/senior-staff-applications-engineer-ic-design-and-or-soc-integration/44408/84473611776) |
-| Elastic SIEM Security Architect | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/austin/elastic-siem-security-architect/44408/85046808496) |
-| CPU IP Development Manager | Sunnyvale, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/cpu-ip-development-manager/44408/84975424944) |
-| Physical Design Specialist | Sunnyvale, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/physical-design-specialist/44408/84975424864) |
-| Senior Platform Architect | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/senior-platform-architect/44408/84679364240) |
-| Memory Design Architect | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/memory-design-architect/44408/84473611936) |
-| Digital IP R&D Design Verification Methodology Technical Lead | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/austin/digital-ip-r-and-d-design-verification-methodology-technical-lead/44408/84438253904) |
-| Signal Integrity Architect | Remote 🏠 | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/united-states/signal-integrity-architect/44408/84148012208) |
-| Sr Architect R&D- 3DIC Compiler | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/sr-architect-r-and-d-3dic-compiler/44408/83898110672) |
-| Sr. Director Cyber Security Detection & Response | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/austin/sr-director-cyber-security-detection-and-response/44408/78932395392) |
-| Principal AI Architect | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/austin/principal-ai-architect/44408/76922826448) |
-
-</details>
-
-<details>
 <summary><strong>🏢 JP Morgan Chase</strong> (51 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
@@ -1403,7 +1512,7 @@
 </details>
 
 <details>
-<summary><strong>🏢 GDIT</strong> (46 positions) </summary>
+<summary><strong>🏢 GDIT</strong> (47 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -1423,6 +1532,7 @@
 | Security DevSecOps Engineer | USA VA Springfield | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Security-Engineer---REMOTE_RQ196793?q=hardware+engineering) |
 | ACD Voice Engineer | USA VA Arlington | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/ACD-Voice-Engineer_RQ204760-1?q=hardware+engineering) |
 | Splunk Engineer - Active Secret Clearance | USA DC Washington | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Splunk-Engineer---Active-Secret-Clearance_RQ201403-1?q=hardware+engineering) |
+| Systems Engineer (SECRET clearance required) 🏠 | Any Location / Remote | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Systems-Engineer--SECRET-clearance-required-_RQ206106-1?q=hardware+engineering) |
 | Unified Communications (UC) Engineer | USA DC Washington | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Unified-Communications--UC--Engineer_RQ201469?q=hardware+engineering) |
 | Citrix Systems Engineer -Top Secret Clearance Required | USA DC Washington | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Citrix-Systems-Engineer_RQ200128?q=hardware+engineering) |
 | Sr. Splunk Engineer - Active Secret Clearance | USA DC Washington | Recently | Senior | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Sr-Splunk-Engineer---Active-Secret-Clearance_RQ201408?q=hardware+engineering) |
@@ -1432,14 +1542,14 @@
 | Systems Engineer / Architect - TS/SCI with Polygraph | USA DC Washington | Recently | Senior | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Systems-Engineer---Architect---TS-SCI-with-Polygraph_RQ204470-1?q=hardware+engineering) |
 | Software Developer - Active Top Secret required | USA DC Washington | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Software-Developer_RQ204620-1?q=hardware+engineering) |
 | Software Developer, Mid - Active Top Secret required | USA DC Washington | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Software-Developer--Mid_RQ204617-2?q=hardware+engineering) |
+| COMSEC / 5G cellular / VHF  Systems Engineer - Active Top Secret Required | USA DC Washington - Customer Proprietary (DCC076) | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington---Customer-Proprietary-DCC076/Satellite---5G-cellular---VHF--Systems-Engineer---Active-Top-Secret-Required_RQ199671?q=hardware+engineering) |
 | F-35 Identity Engineer | Secret clearance | USA VA Arlington | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/F-35-Identity-Engineer---Secret-clearance_RQ204416-1?q=hardware+engineering) |
 | Cloud Network Engineer | USA VA Springfield | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Cloud-Network-Engineer---Hybrid-Work-Opportunity_RQ200855-1?q=hardware+engineering) |
-| COMSEC / 5G cellular / VHF  Systems Engineer - Active Top Secret Required | USA DC Washington - Customer Proprietary (DCC076) | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington---Customer-Proprietary-DCC076/Satellite---5G-cellular---VHF--Systems-Engineer---Active-Top-Secret-Required_RQ199671?q=hardware+engineering) |
 | F-35 Network Engineer | Active Secret clearance | USA VA Arlington | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/F-35-Network-Engineer---Active-Secret-clearance_RQ204485-1?q=hardware+engineering) |
-| Field Engineer/Systems Specialist - TS/SCI W/ POLY | USA DC Washington | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Field-Engineer-Systems-Specialist---TS-SCI-W--POLY_RQ203976?q=hardware+engineering) |
 | Satellite / SATCOM / 5G cellular / VHF Systems Engineer - Active Top Secret Required | USA DC Washington | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Satellite---SATCOM---5G-cellular---VHF-Systems-Engineer---Active-Top-Secret-Required_RQ204864-1?q=hardware+engineering) |
 | Systems Engineer SME - Exchange Messaging - Active Top Secret Required | USA DC Washington | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Sr-Principal-Systems-Engineer---Exchange-Messaging---Active-Top-Secret-Required_RQ196483?q=hardware+engineering) |
 | Systems Engineer SME – Active  Directory Forests - Active Top Secret Required | USA DC Washington | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Sr-Principal-Systems-Engineer---Active--Directory-Forests---Active-Top-Secret-Required_RQ191126?q=hardware+engineering) |
+| G2 Directory Services Engineer / Senior Systems Administrator | Active Top Secret clearance 🏠 | Any Location / Remote | Recently | Senior | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/G2-Directory-Services-Engineer---Senior-Systems-Administrator---Active-Top-Secret-clearance_RQ202919-1?q=hardware+engineering) |
 | AV VTC-Technician | USA NM Albuquerque | Recently | Mid-Level | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NM-Albuquerque/VTC-Tech_RQ200008-2?q=hardware+engineering) |
 | Enterprise Cross Domain Solution Lead | USA VA Hampton | Recently | Senior | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Hampton/Enterprise-Cross-Domain-Solution-Lead_RQ203533?q=hardware+engineering) |
 | G2 Senior Systems Administrator | Active Top Secret clearance 🏠 | Any Location / Remote | Recently | Senior | Hardware Engineering | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/G2-Senior-Systems-Administrator---Active-Top-Secret-clearance_RQ202941-1?q=hardware+engineering) |
@@ -1511,7 +1621,7 @@
 </details>
 
 <details>
-<summary><strong>🏢 ANALOG DEVICES</strong> (41 positions) </summary>
+<summary><strong>🏢 ANALOG DEVICES</strong> (40 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -1547,7 +1657,6 @@
 | Engineer, Product Applications (multiple openings) | US, NC | Recently | Senior | Hardware Engineering | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Senior-Engineer--Product-Applications--multiple-openings-_R253286?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) |
 | Engineer, Software Quality Engineering | US, MA | Recently | Senior | Hardware Engineering | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Engineer--Software-Quality-Engineering_R253505?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) |
 | Researcher – Electrical Grid Systems | US, MA | Recently | Senior | Hardware Engineering | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Principle-Research-Scientist_R242723?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) |
-| CMP Equipment Maintenance Technician | US, OR | Recently | Mid-Level | Hardware Engineering | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Maintenance-Technician--CMP--Night-shift_R254685?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) |
 | Engineer, Test Development | US, MA | Recently | Senior | Hardware Engineering | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Engineer--Test-Development_R253875?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) |
 | Robotics Lab Engineer | US, CA | Recently | Senior | Hardware Engineering | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Lab-Technician_R244584?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) |
 | Life Sciences Systems Architect | US, MA | Recently | Senior | Hardware Engineering | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Life-Sciences-Systems-Architect_R251742?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) |
@@ -1560,7 +1669,7 @@
 </details>
 
 <details>
-<summary><strong>🏢 Hewlett Packard Enterprise</strong> (37 positions) </summary>
+<summary><strong>🏢 Hewlett Packard Enterprise</strong> (34 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -1591,9 +1700,6 @@
 | Computer Test Technician - 2nd Shift | Chippewa Falls, Wisconsin | Recently | Mid-Level | Hardware Engineering | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Computer-Test-Technician---2nd-Shift_1188267-1?q=hardware+engineering) |
 | Computer Test Technician - 2nd Shift (Early Career) | Chippewa Falls, Wisconsin | Recently | Entry-Level | Hardware Engineering | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Computer-Test-Technician---2nd-Shift--Early-Career-_1188677?q=hardware+engineering) |
 | Technology Consultant | All, Virginia | Recently | Senior | Hardware Engineering | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/All-Virginia-United-States-of-America/Senior-Technology-Consultant_1190034-1?q=hardware+engineering) |
-| Storage Technical Solutions Consultant | Alpharetta, Georgia | Recently | Mid-Level | Hardware Engineering | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Alpharetta-Georgia-United-States-of-America/Storage-Technical-Solutions-Consultant_1177805-1?q=hardware+engineering) |
-| Federal HPC Linux System Administrator, Clearance TS SCI with Poly, On-Site, La Jolla, CA | San Diego, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/San-Diego-California-United-States-of-America/Federal-HPC-Linux-System-Administrator--Clearance-TS-SCI-with-Poly--On-Site--La-Jolla--CA_1189261-6?q=hardware+engineering) |
-| Federal HPC Linux System Administrator, (Clearance TS SCI with Poly) On-Site, Utah | All, Utah | Recently | Mid-Level | Hardware Engineering | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/All-Utah-United-States-of-America/Federal-HPC-Linux-System-Administrator---Clearance-TS-SCI-with-Poly--On-Site--Utah_1175649?q=hardware+engineering) |
 | Technical Solutions Cons | Alpharetta, Georgia | Recently | Mid-Level | Hardware Engineering | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Alpharetta-Georgia-United-States-of-America/Technical-Solutions-Cons_1184405-1?q=hardware+engineering) |
 | Technical Solutions Consultant | Alpharetta, Georgia | Recently | Mid-Level | Hardware Engineering | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Alpharetta-Georgia-United-States-of-America/Technical-Solutions-Consultant_1182183-1?q=hardware+engineering) |
 | Presales Architect - Storage Solutions | All, Michigan | Recently | Senior | Hardware Engineering | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/All-Michigan-United-States-of-America/Senior-Presales-Architect---Storage-Solutions_1191074-1?q=hardware+engineering) |
@@ -1683,13 +1789,13 @@
 |------|----------|--------|-------|----------|-------|
 | Vehicle Interior Engineering Specialist | Mountain View, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.withwaymo.com/jobs/vehicle-interior-engineering-specialist-mountain-view-california-united-states) |
 | Electrical Engineer, Compute Hardware | Mountain View, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.withwaymo.com/jobs/electrical-engineer-compute-hardware-mountain-view-california-united-states) |
-| ML Accelerator Modeling Engineer | Mountain View, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.withwaymo.com/jobs/ml-accelerator-modeling-engineer-mountain-view-california-united-states-new-york-city-new-york) |
 | ML Accelerator Architect | Mountain View, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.withwaymo.com/jobs/ml-accelerator-architect-mountain-view-california-united-states-new-york-city-new-york) |
+| ML Accelerator Modeling Engineer | Mountain View, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.withwaymo.com/jobs/ml-accelerator-modeling-engineer-mountain-view-california-united-states-new-york-city-new-york) |
 | Staff ML Accelerator Architect | Mountain View, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.withwaymo.com/jobs/staff-ml-accelerator-architect-mountain-view-california-united-states-new-york-city-new-york) |
 | Quality Engineer | Mountain View, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.withwaymo.com/jobs/quality-engineer-mountain-view-california-united-states) |
+| Senior Program Manager, Quality Analytics | Mountain View, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.withwaymo.com/jobs/senior-program-manager-quality-analytics-mountain-view-california-united-states) |
 | Systems Engineer, Vehicle Body Control Systems | Mountain View, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.withwaymo.com/jobs/systems-engineer-vehicle-body-control-systems-mountain-view-california-united-states-novi-michigan-san-francisco) |
 | Systems Engineer - Networks and Architecture | Mountain View, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.withwaymo.com/jobs/systems-engineer-networks-and-architecture-mountain-view-california-united-states) |
-| Senior Program Manager, Quality Analytics | Mountain View, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.withwaymo.com/jobs/senior-program-manager-quality-analytics-mountain-view-california-united-states) |
 | Software Engineer, C++ Edge Computers | Mountain View, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.withwaymo.com/jobs/software-engineer-c-edge-computers-mountain-view-california-united-states) |
 | Senior Software Engineer, Inertial Navigation | Mountain View, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.withwaymo.com/jobs/senior-software-engineer-inertial-navigation-mountain-view-california-united-states) |
 | Technical Program Manager, Systems Engineering | Mountain View, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.withwaymo.com/jobs/technical-program-manager-systems-engineering-mountain-view-california-united-states-san-francisco) |
@@ -1707,21 +1813,44 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Power Electronics Scientist | Raleigh, North Carolina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/95678461/Power-Electronics-Scientist) |
-| Plastic Case Production Operator - Winder - 1st Shift | Pinetops, North Carolina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00005520/Plastic-Case-Production-Operator-Winder-1st-Shift) |
-| Systems Drives Field Service Technician | Florence, South Carolina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/95864763/Systems-Drives-Field-Service-Technician) |
-| PLC Programming Specialist | Ormond Beach, Florida | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist) |
-| Senior System Drives Field Service Technician 🏠 | Remote 🏠 | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00008002/Senior-System-Drives-Field-Service-Technician) |
 | Business Development Manager - Mountain West | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00003679/Business-Development-Manager-Mountain-West) |
-| QCS Senior Resident Service Technician - Morrilton, AR 🏠 | Remote 🏠 | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00004163/QCS-Senior-Resident-Service-Technician-Morrilton-AR) |
 | Senior Engineer - Measurement Principles | Bartlesville, Oklahoma | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/96074859/Senior-Engineer-Measurement-Principles) |
 | Senior Engineer - Signal Processing | Bartlesville, Oklahoma | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/96074892/Senior-Engineer-Signal-Processing) |
 | R&D Program Manager | Bartlesville, Oklahoma | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/95995783/R-D-Program-Manager) |
 | R&D HW Engineer | Bartlesville, Oklahoma | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/97048016/R-D-HW-Engineer) |
 | R&D Team Leader | Bartlesville, Oklahoma | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/95995640/R-D-Team-Leader) |
-| Service Sales Specialist | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/95345035/Service-Sales-Specialist) |
+| QCS Senior Resident Service Technician - Morrilton, AR 🏠 | Remote 🏠 | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00004163/QCS-Senior-Resident-Service-Technician-Morrilton-AR) |
 | Senior Service Engineer – Paralleling Switchgear | Multiple, Various | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00002024/Senior-Service-Engineer-Paralleling-Switchgear) |
+| Service Sales Specialist | Multiple, Various | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/95345035/Service-Sales-Specialist) |
+| Power Electronics Scientist | Raleigh, North Carolina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/95678461/Power-Electronics-Scientist) |
+| Systems Drives Field Service Technician | Florence, South Carolina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/95864763/Systems-Drives-Field-Service-Technician) |
+| Plastic Case Production Operator - Winder - 1st Shift | Pinetops, North Carolina | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00005520/Plastic-Case-Production-Operator-Winder-1st-Shift) |
+| PLC Programming Specialist | Ormond Beach, Florida | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/96941112/PLC-Programming-Specialist) |
+| Senior System Drives Field Service Technician 🏠 | Remote 🏠 | Recently | Senior | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00008002/Senior-System-Drives-Field-Service-Technician) |
 | Business Development Manager - Southern CA & Hawaii 🏠 | Remote 🏠 | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.abb/global/en/job/JR00007219/Business-Development-Manager-Southern-CA-Hawaii) |
+
+</details>
+
+<details>
+<summary><strong>🏢 SYNOPSYS</strong> (15 positions) </summary>
+
+| Role | Location | Posted | Level | Category | Apply |
+|------|----------|--------|-------|----------|-------|
+| Hardware Engineering, Lead Technician - | Hillsboro, Oregon | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/hillsboro/hardware-engineering-lead-technician-12513/44408/84997058640) |
+| Silicon Validation Manager - | Hillsboro, Oregon | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/hillsboro/silicon-validation-manager-12490/44408/84997058608) |
+| R&D Engineering, Staff Engineer | Hillsboro, Oregon | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/hillsboro/r-and-d-engineering-staff-engineer/44408/82641685696) |
+| Principal R&D Engineer | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/principal-r-and-d-engineer/44408/80368862496) |
+| FPGA Emulation Application Engineer | Sunnyvale, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/fpga-emulation-application-engineer/44408/85077696800) |
+| Sr Director-CAD Engineering | San Diego, California | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/san-diego/sr-director-cad-engineering/44408/85228993984) |
+| R&D Engineering, Principal Engineer | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/r-and-d-engineering-principal-engineer/44408/85253384784) |
+| Solutions Engineering, Principal Engineer-11960 | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/austin/solutions-engineering-principal-engineer-11960/44408/83872176688) |
+| Solutions Engineering, Staff Engineer-11959 | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/austin/solutions-engineering-staff-engineer-11959/44408/83872176640) |
+| Software Engineering, Sr Staff Engineer | Remote 🏠 | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/united-states/software-engineering-sr-staff-engineer/44408/77746898912) |
+| Cybersecurity Engineering, Principal Engineer – Data Security | Austin, Texas | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/austin/cybersecurity-engineering-principal-engineer-data-security/44408/84034521504) |
+| Principal Applications Engineer (ASIC/SoC/IP Engineer) | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/principal-applications-engineer-asic-soc-ip-engineer/44408/77257866976) |
+| Principal Product Engineer | Sunnyvale, California | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/sunnyvale/principal-product-engineer/44408/84936383040) |
+| SOC Verification Engineer | United States Off-site, United States Off-site | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.synopsys.com/job/austin/soc-verification-engineer/44408/84643890720) |
+| Principal AI Engineer | Remote 🏠 | Recently | Senior | Hardware Engineering | [Apply](https://careers.synopsys.com/job/united-states/principal-ai-engineer/44408/81633303024) |
 
 </details>
 
@@ -1843,7 +1972,7 @@
 
 ### 📊 **Archived Stats**
 - **📁 Total Archived**: 46 positions
-- **🏢 Companies**: 32 companies
+- **🏢 Companies**: 33 companies
 - **⭐ FAANG+ Archived**: 46 positions
 - **📅 Age**: 1+ weeks old
 
@@ -1852,8 +1981,8 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Software Development Engineer, Kuiper | Bellevue, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2949421/software-development-engineer-kuiper) |
-| Hardware Dev Engineer, Design Engineering, NASC Engineering | Bellevue, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3056513/hardware-dev-engineer-design-engineering-nasc-engineering) |
 | Cleared Project Design Elec Engineer, ADC Fleet Remediation Engineering | Herndon, VA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2944247/cleared-project-design-elec-engineer-adc-fleet-remediation-engineering) |
+| Hardware Dev Engineer, Design Engineering, NASC Engineering | Bellevue, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3056513/hardware-dev-engineer-design-engineering-nasc-engineering) |
 | MAC System Integration and Automation Engineer, Kuiper Satellite Communication System - MAC Software Development | Redmond, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3009920/mac-system-integration-and-automation-engineer-kuiper-satellite-communication-system-mac-software-development) |
 | Hardware Dev Specialist, Project Kuiper | Redmond, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2921714/hardware-dev-specialist-project-kuiper) |
 | Reliability Engineer, Project Kuiper | Redmond, WA | 1w ago | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2926270/reliability-engineer-project-kuiper) |
@@ -1921,13 +2050,13 @@
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 **Entry-Level** | 97 | 211% | Perfect for new grads |
-| 🟡 **Mid-Level** | 791 | 1720% | 2-5 years experience |
-| 🔴 **Senior** | 651 | 1415% | 5+ years experience |
+| 🟢 **Entry-Level** | 99 | 215% | Perfect for new grads |
+| 🟡 **Mid-Level** | 919 | 1998% | 2-5 years experience |
+| 🔴 **Senior** | 642 | 1396% | 5+ years experience |
 
 ### 🔍 **Archived Filter by Role Category**
 
-#### 💻 **Hardware Engineering** (1537 archived positions)
+#### 💻 **Hardware Engineering** (1658 archived positions)
 📦 Amazon
 
 #### 💻 **Software Engineering** (1 archived positions)
@@ -1938,14 +2067,14 @@
 
 ### 🌍 **Top Archived Locations**
 
-- **US, CA**: 145 archived positions
-- **Multiple Cities, US**: 81 archived positions
+- **US, CA**: 146 archived positions
+- **Austin, Texas**: 85 archived positions
+- **Multiple Cities, US**: 79 archived positions
 - **San Jose, California**: 65 archived positions
-- **Austin, Texas**: 63 archived positions
 - **Santa Clara, CA**: 58 archived positions
+- **Cupertino, California**: 54 archived positions
+- **United States, California**: 49 archived positions
 - **Boise, Idaho**: 46 archived positions
-- **US, TX**: 45 archived positions
-- **United States, California**: 44 archived positions
 
 </details>
 
@@ -1954,9 +2083,9 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 1539 
-- **🏢 Companies**: 32 elite tech companies
-- **⭐ FAANG+ Jobs**: 85 premium opportunities  
+- **🔥 Active Positions**: 1660 
+- **🏢 Companies**: 33 elite tech companies
+- **⭐ FAANG+ Jobs**: 241 premium opportunities  
 - **📅 Last Updated**: August 27, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 46 (older than 1 week)
@@ -1986,15 +2115,15 @@
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 **Entry-Level** | 97 | 6% | Perfect for new grads |
-| 🟡 **Mid-Level** | 791 | 51% | 2-5 years experience |
-| 🔴 **Senior** | 651 | 42% | 5+ years experience |
+| 🟢 **Entry-Level** | 99 | 6% | Perfect for new grads |
+| 🟡 **Mid-Level** | 919 | 55% | 2-5 years experience |
+| 🔴 **Senior** | 642 | 39% | 5+ years experience |
 
 ---
 
 ## 🔍 **Filter by Role Category**
 
-### 💻 **Hardware Engineering** (1537 positions)
+### 💻 **Hardware Engineering** (1658 positions)
 📦 Amazon
 
 ### 💻 **Software Engineering** (1 positions)
@@ -2007,14 +2136,14 @@
 
 ## 🌍 **Top Locations**
 
-- **US, CA**: 145 positions
-- **Multiple Cities, US**: 81 positions
+- **US, CA**: 146 positions
+- **Austin, Texas**: 85 positions
+- **Multiple Cities, US**: 79 positions
 - **San Jose, California**: 65 positions
-- **Austin, Texas**: 63 positions
 - **Santa Clara, CA**: 58 positions
+- **Cupertino, California**: 54 positions
+- **United States, California**: 49 positions
 - **Boise, Idaho**: 46 positions
-- **US, TX**: 45 positions
-- **United States, California**: 44 positions
 
 ---
 
@@ -2055,7 +2184,7 @@ Spotted an issue or want to suggest improvements?
 
 <div align="center">
 
-**🎯 1539 current opportunities from 32 elite companies**
+**🎯 1660 current opportunities from 33 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
