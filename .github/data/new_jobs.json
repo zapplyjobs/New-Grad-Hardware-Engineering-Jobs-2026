@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Analog AI Compute System Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Analog AI Compute System Engineer at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Staff-Analog-AI-Compute-System-Engineer_R254971?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-analog-ai-compute-system-engineer-us"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Edge AI/ML Scientist",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Staff Edge AI/ML Scientist at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Staff-Edge-AI-ML-Scientist_R254972?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-edge-ai-ml-scientist-us"
+  }
+]
