@@ -1,22 +1,33 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "Software Development Engineer - AI Group",
-    "job_city": "US",
-    "job_state": "CA",
+    "job_title": "Software Development Engineer, Production Operations, Project Kuiper",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Software Development Engineer, Production Operations, Project Kuiper at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3037701/software-development-engineer-production-operations-project-kuiper",
+    "job_posted_at": "2025-08-27T14:07:46.658Z",
+    "job_posted_at_datetime_utc": "2025-08-27T14:07:46.658Z",
+    "id": "amazon-software-development-engineer-production-operations-project-kuiper-redmond"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Resident Architect",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Principal Software Development Engineer - AI Group at US,CA,San Jose\n2100 Logic Drive\nSan Jose, California\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/67191/login",
-    "id": "amd-software-development-engineer-ai-group-us"
+    "job_description": "hardware engineering job for the role Sr. Resident Architect at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55282&source=WEB_Search_NA",
+    "id": "ibm-sr-resident-architect-austin"
   },
   {
     "employer_name": "Booz Allen ",
-    "job_title": "IT Configuration Manager",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
+    "job_title": "Software Configuration Manager",
+    "job_city": "Lorton",
+    "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role IT Configuration Manager at Fort Meade, MD",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/IT-Configuration-Manager_R0224196?q=hardware+engineering",
-    "id": "booz-allen-it-configuration-manager-fort-meade"
+    "job_description": "hardware engineering job for the role Software Configuration Manager at Lorton, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Software-Configuration-Manager_R0225143?q=hardware+engineering",
+    "id": "booz-allen-software-configuration-manager-lorton"
   }
 ]
