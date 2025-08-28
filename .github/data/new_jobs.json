@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "job_title": "Data Center Logistics Site Lead",
+    "employer_name": "Amazon",
+    "job_city": "Frederick",
+    "job_state": "MD",
+    "job_description": "hardware engineering job for the role Data Center Logistics Site Lead at Frederick, MD, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3020480/data-center-logistics-site-lead",
+    "job_posted_at": "2025-08-28T12:14:20.633Z",
+    "job_posted_at_datetime_utc": "2025-08-28T12:14:20.633Z",
+    "id": "amazon-data-center-logistics-site-lead-frederick"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Regional People Partner",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Regional People Partner at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/regional-people-partner/33099/82944585536",
+    "id": "arm-regional-people-partner-san-jose"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "IC Design Engineer - RF/Mixed-Signal",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role IC Design Engineer - RF/Mixed-Signal at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/IC-Design-Engineer---RF-Mixed-Signal_R254728?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-ic-design-engineer-rf-mixed-signal-us"
+  }
+]
