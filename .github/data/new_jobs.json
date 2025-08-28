@@ -1,12 +1,52 @@
 [
   {
-    "employer_name": "HONEYWELL",
-    "job_title": "Control Systems Integration Engineer",
-    "job_city": "Tempe",
-    "job_state": "AZ",
+    "employer_name": "Arm",
+    "job_title": "Server Firmware Development Director",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "hardware job for the role Lead Control Systems Integration Engineer at Tempe, AZ, United States",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/116522/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-control-systems-integration-engineer-tempe"
+    "job_description": "hardware engineering job for the role Server Firmware Development Director at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/server-firmware-development-director/33099/85527445088",
+    "id": "arm-server-firmware-development-director-austin"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Technical Leader, Hardware System and Board Failure Analysis",
+    "job_city": "Milpitas",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Technical Leader, Hardware System and Board Failure Analysis at Milpitas, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Technical-Leader-Hardware-System-and-Board-Failure-Analysis/1437268",
+    "id": "cisco-technical-leader-hardware-system-and-board-failure-analysis-milpitas"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "GPU Verification Engineer - Next Gen Shader Core",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role GPU Verification Engineer - Next Gen Shader Core at US,CA,San Diego\n9620 Towne Center Drive\nSan Diego, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/70162/login",
+    "id": "amd-gpu-verification-engineer-next-gen-shader-core-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Product Manager - Network Infrastructure",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Product Manager - Network Infrastructure at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/69275/login",
+    "id": "amd-product-manager-network-infrastructure-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "AI Software Architect, Training and Optimization",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role AI Software Architect, Training and Optimization at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/65652/login",
+    "id": "amd-ai-software-architect-training-and-optimization-us"
   }
 ]
