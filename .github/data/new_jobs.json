@@ -1,32 +1,72 @@
 [
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Sr. Research Scientist, Biomedical Algorithms (PhD)",
+    "employer_name": "NVIDIA",
+    "job_title": "Director, Hardware Product Management",
     "job_city": "US",
-    "job_state": "MA",
+    "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Sr. Research Scientist, Biomedical Algorithms (PhD) at US, MA, Boston",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Research-Scientist_R245210?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-sr-research-scientist-biomedical-algorithms-phd-us"
+    "job_description": "hardware engineering job for the role Director, Hardware Product Management at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Hardware-Product-Management_JR2003129-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-director-hardware-product-management-us"
   },
   {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Engineer, Product Applications",
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Engineer - Autonomous Vehicles Platform",
     "job_city": "US",
-    "job_state": "MA",
+    "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Engineer, Product Applications at US, MA, Wilmington",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Engineer--Product-Applications_R254977?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-engineer-product-applications-us"
+    "job_description": "hardware engineering job for the role Senior System Software Engineer - Autonomous Vehicles Platform at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Autonomous-Vehicles-Platform_JR2002566?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-engineer-autonomous-vehicles-platform-us"
   },
   {
-    "employer_name": "JP Morgan Chase",
-    "job_title": "Product Associate, Global Technical Security",
-    "job_city": "Columbus",
-    "job_state": "OH",
-    "job_posted_at": "Recently",
-    "job_description": "hardware job for the role Product Associate, Global Technical Security at Columbus, OH, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662277/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-product-associate-global-technical-security-columbus"
+    "employer_name": "NVIDIA",
+    "job_title": "Software QA Test Development Engineer - Diagnostics",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Senior Software QA Test Development Engineer - Diagnostics at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-QA-Test-Development-Engineer_JR2000194-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-qa-test-development-engineer-diagnostics-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Developer Relations Manager - GenAI for Automotive",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "hardware engineering job for the role Developer Relations Manager - GenAI for Automotive at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Relations-Manager---GenAI-for-Automotive_JR1998856?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-developer-relations-manager-genai-for-automotive-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Software Engineer, TensorRT Specialized Platforms - New College Grad",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "hardware engineering job for the role Software Engineer, TensorRT Specialized Platforms - New College Grad 2025 at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-engineer-tensorrt-specialized-platforms-new-college-grad-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Technical Product Manager – AI Agents",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "hardware engineering job for the role Senior Technical Product Manager – AI Agents at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Product-Manager---AI-Agents_JR2002852-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-technical-product-manager-ai-agents-us"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Quality Engineer  - Apple Services Engineering",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Quality Engineer  - Apple Services Engineering at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200617955-0836/quality-engineer-apple-services-engineering?team=SFTWR",
+    "id": "apple-quality-engineer-apple-services-engineering-cupertino"
   }
 ]
