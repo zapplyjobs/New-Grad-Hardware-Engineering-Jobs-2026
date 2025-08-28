@@ -1,32 +1,82 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Manufacturing Professional - Fixed Term",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Manufacturing Professional - Fixed Term at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55527&source=WEB_Search_NA",
-    "id": "ibm-manufacturing-professional-fixed-term-poughkeepsie"
+    "employer_name": "Micron",
+    "job_title": "Intern - TPG Global IE",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 16 hours ago",
+    "job_description": "hardware engineering job for the role Intern - TPG Global IE at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30946025",
+    "id": "micron-intern-tpg-global-ie-boise"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Sr. Technical Consultant, Premier Success",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Sr. Technical Consultant, Premier Success - remote at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54115&source=WEB_Search_NA",
-    "id": "ibm-sr-technical-consultant-premier-success-no-city"
+    "employer_name": "Apple",
+    "job_title": "UI Engineer, AiDP",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "hardware engineering job for the role UI Engineer, AiDP at Austin",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200614878-0157/ui-engineer-aidp?team=CORSV",
+    "id": "apple-ui-engineer-aidp-austin"
   },
   {
-    "employer_name": "GDIT",
-    "job_title": "Splunk Engineer (SECRET clearance)",
-    "job_city": "Any Location / Remote",
-    "job_state": "",
+    "employer_name": "Apple",
+    "job_title": "Embedded Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "1 month ago",
+    "job_description": "hardware engineering job for the role Embedded Software Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200614148-0836/embedded-software-engineer?team=HRDWR",
+    "id": "apple-embedded-software-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Software Development Engineer at Seattle",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200617044-3337/software-development-engineer?team=SFTWR",
+    "id": "apple-software-development-engineer-seattle"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Systems Design Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Systems Design Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200617057-0836/systems-design-engineer?team=HRDWR",
+    "id": "apple-systems-design-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Wireless Systems Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "3 days ago",
+    "job_description": "hardware engineering job for the role Wireless Systems Engineer at Austin",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200616965-0157/wireless-systems-engineer?team=HRDWR",
+    "id": "apple-wireless-systems-engineer-austin"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Software Defined Network Engineer, Lead",
+    "job_city": "San Diego",
+    "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Splunk Engineer (SECRET clearance) at Any Location / Remote",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Systems-Engineer--SECRET-clearance-required-_RQ206106-1?q=hardware+engineering",
-    "id": "gdit-splunk-engineer-secret-clearance-any-location-remote"
+    "job_description": "hardware engineering job for the role Software Defined Network Engineer, Lead at San Diego, CA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Software-Defined-Network-Engineer--Lead_R0225275?q=hardware+engineering",
+    "id": "verizon-software-defined-network-engineer-lead-san-diego"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Test Engineer, Lead",
+    "job_city": "El Segundo",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Test Engineer, Lead at El Segundo, CA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Test-Engineer--Lead_R0225230-1?q=hardware+engineering",
+    "id": "verizon-test-engineer-lead-el-segundo"
   }
 ]
