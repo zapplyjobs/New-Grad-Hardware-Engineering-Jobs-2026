@@ -1,43 +1,12 @@
 [
   {
-    "job_title": "Cluster Project Design Electrical Engineer, Fleet Remediation Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_description": "hardware engineering job for the role Cluster Project Design Electrical Engineer, Fleet Remediation Engineering at Herndon, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3068356/cluster-project-design-electrical-engineer-fleet-remediation-engineering",
-    "job_posted_at": "2025-08-28T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-08-28T00:00:00.000Z",
-    "id": "amazon-cluster-project-design-electrical-engineer-fleet-remediation-engineering-herndon"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "Hardware Engineer | Hardware Design | Routers",
-    "job_city": "Milpitas",
-    "job_state": "California",
+    "employer_name": "HONEYWELL",
+    "job_title": "Control Systems Integration Engineer",
+    "job_city": "Tempe",
+    "job_state": "AZ",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Hardware Engineer | Hardware Design | Routers at Milpitas, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-Hardware-Design-Routers/1447721",
-    "id": "cisco-hardware-engineer-hardware-design-routers-milpitas"
-  },
-  {
-    "employer_name": "Booz Allen ",
-    "job_title": "Software Defined Network Engineer, Lead",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Software Defined Network Engineer, Lead at San Diego, CA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Software-Defined-Network-Engineer--Lead_R0225275?q=hardware+engineering",
-    "id": "booz-allen-software-defined-network-engineer-lead-san-diego"
-  },
-  {
-    "employer_name": "MAGNA",
-    "job_title": "Software Engineer - Image Signal Processing",
-    "job_city": "Southfield",
-    "job_state": "Michigan",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Principal Software Engineer - Image Signal Processing at Southfield, Michigan, US",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Southfield-Michigan-US/Principal-Software-Engineer---ISP_R00205993?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-software-engineer-image-signal-processing-southfield"
+    "job_description": "hardware job for the role Lead Control Systems Integration Engineer at Tempe, AZ, United States",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/116522/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-control-systems-integration-engineer-tempe"
   }
 ]
