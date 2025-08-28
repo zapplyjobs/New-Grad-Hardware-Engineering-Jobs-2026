@@ -1,53 +1,32 @@
 [
   {
-    "job_title": "Hardware Development Engineer, Bespoke Solutions",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "hardware engineering job for the role Hardware Development Engineer, Bespoke Solutions at Arlington, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3014803/hardware-development-engineer-bespoke-solutions",
-    "job_posted_at": "2025-08-28T20:06:26.028Z",
-    "job_posted_at_datetime_utc": "2025-08-28T20:06:26.028Z",
-    "id": "amazon-hardware-development-engineer-bespoke-solutions-arlington"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Sr. Research Scientist, Biomedical Algorithms (PhD)",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Sr. Research Scientist, Biomedical Algorithms (PhD) at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Research-Scientist_R245210?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-sr-research-scientist-biomedical-algorithms-phd-us"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Software Development Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 21 hours ago",
-    "job_description": "hardware engineering job for the role Software Development Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/31029158",
-    "id": "micron-software-development-engineer-boise"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Product Applications",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Engineer, Product Applications at US, MA, Wilmington",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Engineer--Product-Applications_R254977?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-product-applications-us"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Sr. Product Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Product Associate, Global Technical Security",
+    "job_city": "Columbus",
+    "job_state": "OH",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Sr. Product Manager I at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55466&source=WEB_Search_NA",
-    "id": "ibm-sr-product-manager-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Back-End Developer - SAK",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Back-End Developer - SAK at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55346&source=WEB_Search_NA",
-    "id": "ibm-back-end-developer-sak-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "IBM z/OS Software Developer for System SSL",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role IBM z/OS Software Developer for System SSL at Entry LevelPOUGHKEEPSIE, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55331&source=WEB_Search_NA",
-    "id": "ibm-ibm-z-os-software-developer-for-system-ssl-poughkeepsie"
+    "job_description": "hardware job for the role Product Associate, Global Technical Security at Columbus, OH, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662277/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-product-associate-global-technical-security-columbus"
   }
 ]
