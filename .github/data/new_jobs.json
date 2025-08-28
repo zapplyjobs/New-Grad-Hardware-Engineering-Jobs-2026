@@ -1,102 +1,22 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Data Center Research & Development Engineer, Mechanical - Stargate",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "39min ago",
-    "job_description": "hardware engineering job for the role Data Center Research & Development Engineer, Mechanical - Stargate at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158391730-data-center-research-development-engineer-mechanical-stargate",
-    "id": "aijobs-data-center-research-development-engineer-mechanical-stargate-united-states"
+    "employer_name": "SIEMENS",
+    "job_title": "Power Electronics Design Professional - AI and Digital Twin",
+    "job_city": "Princeton",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Power Electronics Design Professional - AI and Digital Twin at Princeton, New Jersey, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-power-electronics-design-professional-ai-and-digital-twin-princeton"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Firmware Engineer",
-    "job_city": "CA",
-    "job_state": "Sunnyvale",
-    "job_posted_at": "39min ago",
-    "job_description": "hardware engineering job for the role Firmware Engineer at Sunnyvale, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/158391597-firmware-engineer",
-    "id": "aijobs-firmware-engineer-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Mechanical Engineer Intern",
-    "job_city": "CA",
-    "job_state": "Sunnyvale",
-    "job_posted_at": "39min ago",
-    "job_description": "hardware engineering job for the role Mechanical Engineer Intern at Sunnyvale, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/158391598-mechanical-engineer-intern",
-    "id": "aijobs-mechanical-engineer-intern-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Linux Kernels Software Lead",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Linux Kernels Software Lead at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158391729-linux-kernels-software-lead",
-    "id": "aijobs-linux-kernels-software-lead-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Revenue Systems Lead",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "39min ago",
-    "job_description": "hardware engineering job for the role Revenue Systems Lead at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158391736-revenue-systems-lead",
-    "id": "aijobs-revenue-systems-lead-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Manager, Enterprise Identity",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Product Manager, Enterprise Identity at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158391726-product-manager-enterprise-identity",
-    "id": "aijobs-product-manager-enterprise-identity-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Distributed Systems",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "39min ago",
-    "job_description": "hardware engineering job for the role Software Engineer, Distributed Systems at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158391732-software-engineer-distributed-systems",
-    "id": "aijobs-software-engineer-distributed-systems-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Center Design Engineer",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "39min ago",
-    "job_description": "hardware engineering job for the role Data Center Design Engineer at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158391731-data-center-design-engineer",
-    "id": "aijobs-data-center-design-engineer-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Partner Solutions Architect",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Partner Solutions Architect at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158391733-partner-solutions-architect",
-    "id": "aijobs-partner-solutions-architect-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Adoption Manager, Gov - Washington, DC",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role AI Adoption Manager, Gov - Washington, DC at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/158391737-ai-adoption-manager-gov-washington-dc",
-    "id": "aijobs-ai-adoption-manager-gov-washington-dc-unknown"
+    "employer_name": " workday",
+    "job_title": "Devops Engineer (US Federal)",
+    "job_city": "USA",
+    "job_state": "VA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Devops Engineer (US Federal) at USA, VA, McLean",
+    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-VA-McLean/Senior-Devops-Engineer--US-Federal-_JR-0094674?q=hardware+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "workday-devops-engineer-us-federal-usa"
   }
 ]
