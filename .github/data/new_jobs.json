@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Building Automation Service | Sales Executive or Senior Sales Executive",
-    "job_city": "Mechanicsburg",
-    "job_state": "United States of America",
+    "employer_name": "IBM",
+    "job_title": "Manufacturing Professional - Fixed Term",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Building Automation Service | Sales Executive or Senior Sales Executive at Mechanicsburg, Pennsylvania, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-building-automation-service-sales-executive-or-senior-sales-executive-mechanicsburg"
+    "job_description": "hardware engineering job for the role Manufacturing Professional - Fixed Term at Entry LevelPOUGHKEEPSIE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55527&source=WEB_Search_NA",
+    "id": "ibm-manufacturing-professional-fixed-term-poughkeepsie"
   },
   {
-    "employer_name": "Booz Allen ",
-    "job_title": "Test Engineer, Lead",
-    "job_city": "El Segundo",
-    "job_state": "CA",
+    "employer_name": "IBM",
+    "job_title": "Sr. Technical Consultant, Premier Success",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Sr. Technical Consultant, Premier Success - remote at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54115&source=WEB_Search_NA",
+    "id": "ibm-sr-technical-consultant-premier-success-no-city"
+  },
+  {
+    "employer_name": "GDIT",
+    "job_title": "Splunk Engineer (SECRET clearance)",
+    "job_city": "Any Location / Remote",
+    "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Test Engineer, Lead at El Segundo, CA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Test-Engineer--Lead_R0225230-1?q=hardware+engineering",
-    "id": "booz-allen-test-engineer-lead-el-segundo"
+    "job_description": "hardware engineering job for the role Splunk Engineer (SECRET clearance) at Any Location / Remote",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Systems-Engineer--SECRET-clearance-required-_RQ206106-1?q=hardware+engineering",
+    "id": "gdit-splunk-engineer-secret-clearance-any-location-remote"
   }
 ]
