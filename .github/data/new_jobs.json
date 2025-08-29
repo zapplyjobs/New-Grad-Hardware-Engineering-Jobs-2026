@@ -1,32 +1,33 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Hardware Engineer",
+    "job_title": "Sr Financial Analyst, Project Kuiper",
+    "employer_name": "Amazon",
     "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Hardware Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846360/Principal-Hardware-Engineer",
-    "id": "microsoft-principal-hardware-engineer-redmond"
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Sr Financial Analyst, Project Kuiper at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069353/sr-financial-analyst-project-kuiper",
+    "job_posted_at": "2025-08-29T17:08:43.176Z",
+    "job_posted_at_datetime_utc": "2025-08-29T17:08:43.176Z",
+    "id": "amazon-sr-financial-analyst-project-kuiper-redmond"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Applied Sciences",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Principal Product Manager. Level: All Levels. Posted: Recently. Full Title: Principal Product Manager - Applied Sciences",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863978/Principal-Product-Manager---Applied-Sciences",
-    "id": "microsoft-applied-sciences-redmond"
+    "employer_name": "Apple",
+    "job_title": "Cloud and Automation Engineer, Retail Engineering",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Cloud and Automation Engineer, Retail Engineering at Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200618504-3956/cloud-and-automation-engineer-retail-engineering?team=CORSV",
+    "id": "apple-cloud-and-automation-engineer-retail-engineering-sunnyvale"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "Procurement Cost Analyst",
-    "job_city": "US",
-    "job_state": "NJ",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Procurement Cost Analyst at US,NJ,Secaucus_Meadowlands\n333 Meadowlands Parkway 1st FL.\nSecaucus, New Jersey\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/67595/login",
-    "id": "amd-procurement-cost-analyst-us"
+    "employer_name": "MAGNA",
+    "job_title": "Plastics Commodity Manager",
+    "job_city": "Novi",
+    "job_state": "Michigan",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Plastics Commodity Manager at Novi, Michigan, US",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Novi-Michigan-US/Plastics-Commodity-Manager_R00207824?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-plastics-commodity-manager-novi"
   }
 ]
