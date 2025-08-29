@@ -1,62 +1,33 @@
 [
   {
-    "employer_name": "NVIDIA",
-    "job_title": "Research Engineer, Robotics Systems",
-    "job_city": "US",
+    "job_title": "Front-End Engineer, Kuiper Manufacturing Systems Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Research Engineer, Robotics Systems at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Engineer--Robotics-Systems_JR1992364?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-research-engineer-robotics-systems-us"
+    "job_description": "hardware engineering job for the role Front-End Engineer, Kuiper Manufacturing Systems Engineering at Sunnyvale, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069522/front-end-engineer-kuiper-manufacturing-systems-engineering",
+    "job_posted_at": "2025-08-29T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-08-29T00:00:00.000Z",
+    "id": "amazon-front-end-engineer-kuiper-manufacturing-systems-engineering-sunnyvale"
   },
   {
-    "employer_name": "NVIDIA",
-    "job_title": "Research Engineer, Simulation",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Research Engineer, Simulation at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Engineer--Simulation_JR1992366?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-research-engineer-simulation-us"
+    "employer_name": "IBM",
+    "job_title": "Digital Asset Senior Product Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Digital Asset Senior Product Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55100&source=WEB_Search_NA",
+    "id": "ibm-digital-asset-senior-product-manager-multiple-cities"
   },
   {
-    "employer_name": "Booz Allen ",
-    "job_title": "Mechanical Engineer, Senior",
-    "job_city": "Panama City",
-    "job_state": "FL",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Mechanical Engineer, Senior at Panama City, FL",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Panama-City-FL/Mechanical-Engineer--Senior_R0225394?q=hardware+engineering",
-    "id": "booz-allen-mechanical-engineer-senior-panama-city"
-  },
-  {
-    "employer_name": "Booz Allen ",
-    "job_title": "CUAS & EW Engineer, Lead",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role CUAS & EW Engineer, Lead at McLean, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/CUAS---EW-Engineer--Lead_R0225411?q=hardware+engineering",
-    "id": "booz-allen-cuas-ew-engineer-lead-mclean"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Mechanical Engineer, Senior",
-    "job_city": "Panama City",
-    "job_state": "FL",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Mechanical Engineer, Senior at Panama City, FL",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Panama-City-FL/Mechanical-Engineer--Senior_R0225394?q=hardware+engineering",
-    "id": "verizon-mechanical-engineer-senior-panama-city"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "CUAS & EW Engineer, Lead",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role CUAS & EW Engineer, Lead at McLean, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/CUAS---EW-Engineer--Lead_R0225411?q=hardware+engineering",
-    "id": "verizon-cuas-ew-engineer-lead-mclean"
+    "employer_name": "HONEYWELL",
+    "job_title": "Technical Sales Representative",
+    "job_city": "Las Vegas",
+    "job_state": "NV",
+    "job_posted_at": "Recently",
+    "job_description": "hardware job for the role Senior Technical Sales Representative at Las Vegas, NV, United States",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/110688/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-technical-sales-representative-las-vegas"
   }
 ]
