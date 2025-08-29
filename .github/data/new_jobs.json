@@ -1,33 +1,12 @@
 [
   {
-    "job_title": "Sr Financial Analyst, Project Kuiper",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Sr Financial Analyst, Project Kuiper at Redmond, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069353/sr-financial-analyst-project-kuiper",
-    "job_posted_at": "2025-08-29T17:08:43.176Z",
-    "job_posted_at_datetime_utc": "2025-08-29T17:08:43.176Z",
-    "id": "amazon-sr-financial-analyst-project-kuiper-redmond"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Cloud and Automation Engineer, Retail Engineering",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Cloud and Automation Engineer, Retail Engineering at Sunnyvale",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200618504-3956/cloud-and-automation-engineer-retail-engineering?team=CORSV",
-    "id": "apple-cloud-and-automation-engineer-retail-engineering-sunnyvale"
-  },
-  {
-    "employer_name": "MAGNA",
-    "job_title": "Plastics Commodity Manager",
-    "job_city": "Novi",
-    "job_state": "Michigan",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Plastics Commodity Manager at Novi, Michigan, US",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Novi-Michigan-US/Plastics-Commodity-Manager_R00207824?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-plastics-commodity-manager-novi"
+    "employer_name": "Arm",
+    "job_title": "Director Power Engineering",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Director Power Engineering at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/director-power-engineering/33099/85562517984",
+    "id": "arm-director-power-engineering-san-jose"
   }
 ]
