@@ -1,12 +1,62 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Director Power Engineering",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Director Power Engineering at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/director-power-engineering/33099/85562517984",
-    "id": "arm-director-power-engineering-san-jose"
+    "employer_name": "NVIDIA",
+    "job_title": "Research Engineer, Robotics Systems",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Research Engineer, Robotics Systems at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Engineer--Robotics-Systems_JR1992364?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-research-engineer-robotics-systems-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Research Engineer, Simulation",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Research Engineer, Simulation at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Engineer--Simulation_JR1992366?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-research-engineer-simulation-us"
+  },
+  {
+    "employer_name": "Booz Allen ",
+    "job_title": "Mechanical Engineer, Senior",
+    "job_city": "Panama City",
+    "job_state": "FL",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Mechanical Engineer, Senior at Panama City, FL",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Panama-City-FL/Mechanical-Engineer--Senior_R0225394?q=hardware+engineering",
+    "id": "booz-allen-mechanical-engineer-senior-panama-city"
+  },
+  {
+    "employer_name": "Booz Allen ",
+    "job_title": "CUAS & EW Engineer, Lead",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role CUAS & EW Engineer, Lead at McLean, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/CUAS---EW-Engineer--Lead_R0225411?q=hardware+engineering",
+    "id": "booz-allen-cuas-ew-engineer-lead-mclean"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Mechanical Engineer, Senior",
+    "job_city": "Panama City",
+    "job_state": "FL",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Mechanical Engineer, Senior at Panama City, FL",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Panama-City-FL/Mechanical-Engineer--Senior_R0225394?q=hardware+engineering",
+    "id": "verizon-mechanical-engineer-senior-panama-city"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "CUAS & EW Engineer, Lead",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role CUAS & EW Engineer, Lead at McLean, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/CUAS---EW-Engineer--Lead_R0225411?q=hardware+engineering",
+    "id": "verizon-cuas-ew-engineer-lead-mclean"
   }
 ]
