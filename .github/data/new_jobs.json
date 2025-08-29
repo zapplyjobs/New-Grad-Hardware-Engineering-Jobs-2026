@@ -1,13 +1,62 @@
 [
   {
-    "job_title": "Tooling Ops Lab Manager, Project Kuiper",
-    "employer_name": "Amazon",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Tooling Ops Lab Manager, Project Kuiper at Kirkland, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3044997/tooling-ops-lab-manager-project-kuiper",
-    "job_posted_at": "2025-08-28T23:26:23.108Z",
-    "job_posted_at_datetime_utc": "2025-08-28T23:26:23.108Z",
-    "id": "amazon-tooling-ops-lab-manager-project-kuiper-kirkland"
+    "employer_name": "Arm",
+    "job_title": "Systems Enablement Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Principal Systems Enablement Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-systems-enablement-engineer/33099/85538302448",
+    "id": "arm-systems-enablement-engineer-austin"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI System Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior AI System Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158626955-senior-ai-system-engineer",
+    "id": "aijobs-ai-system-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Backend Compiler Engineer - GPU",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior Backend Compiler Engineer - GPU at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158626965-senior-backend-compiler-engineer-gpu",
+    "id": "aijobs-backend-compiler-engineer-gpu-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "System Software Engineer - Autonomous Vehicles Platform",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Senior System Software Engineer - Autonomous Vehicles Platform at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158626962-senior-system-software-engineer-autonomous-vehicles-platform",
+    "id": "aijobs-system-software-engineer-autonomous-vehicles-platform-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "ASIC Design Engineer - New College Grad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role ASIC Design Engineer - New College Grad 2025 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/158626969-asic-design-engineer-new-college-grad-2025",
+    "id": "aijobs-asic-design-engineer-new-college-grad-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Technical Program Manager, SDK Manager Tools - Automotive",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1d ago",
+    "job_description": "hardware engineering job for the role Technical Program Manager, SDK Manager Tools - Automotive at US, TX, Austin",
+    "job_apply_link": "https://www.aijobs.com/jobs/158626964-technical-program-manager-sdk-manager-tools-automotive",
+    "id": "aijobs-technical-program-manager-sdk-manager-tools-automotive-austin"
   }
 ]
