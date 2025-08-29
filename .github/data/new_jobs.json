@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Application Developer",
-    "job_city": "Armonk",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Application Developer at ProfessionalArmonk, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55518&source=WEB_Search_NA",
-    "id": "ibm-software-application-developer-armonk"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Engineering Manager, Data Infrastructure",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Engineering Manager, Data Infrastructure at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158629616-engineering-manager-data-infrastructure",
-    "id": "aijobs-engineering-manager-data-infrastructure-united-states"
-  },
-  {
-    "employer_name": "APPLIED MATERIALS",
-    "job_title": "Manufacturing Technician II (T2) 1st Shift",
-    "job_city": "Austin",
-    "job_state": "TX",
+    "employer_name": "Micron",
+    "job_title": "HBM Memory Design Engineer",
+    "job_city": "Richardson",
+    "job_state": "Texas",
     "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Manufacturing Technician II (T2) 1st Shift at Austin,TX",
-    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790304576671?domain=appliedmaterials.com&triggerGoButton=false",
-    "id": "applied-materials-manufacturing-technician-ii-t2-1st-shift-austin"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Front-End Software Engineer, Apple Services Engineering",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "2 months ago",
-    "job_description": "hardware engineering job for the role Senior Front-End Software Engineer, Apple Services Engineering at Seattle",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200606969-3337/senior-front-end-software-engineer-apple-services-engineering?team=SFTWR",
-    "id": "apple-front-end-software-engineer-apple-services-engineering-seattle"
+    "job_description": "hardware engineering job for the role HBM Memory Design Engineer at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30955690",
+    "id": "micron-hbm-memory-design-engineer-richardson"
   }
 ]
