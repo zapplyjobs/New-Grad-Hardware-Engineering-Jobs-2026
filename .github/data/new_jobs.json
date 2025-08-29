@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Industrial Engineer",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "Posted 16 hours ago",
-    "job_description": "hardware engineering job for the role Industrial Engineer at Manassas, Virginia, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30134983",
-    "id": "micron-industrial-engineer-manassas"
+    "employer_name": "Microsoft",
+    "job_title": "Principal Hardware Engineer",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Principal Hardware Engineer",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846360/Principal-Hardware-Engineer",
+    "id": "microsoft-principal-hardware-engineer-redmond"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Machine Learning Engineer - Apple Services Engineering",
-    "job_city": "New York City",
-    "job_state": "US",
-    "job_posted_at": "1 day ago",
-    "job_description": "hardware engineering job for the role Machine Learning Engineer - Apple Services Engineering at New York City",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200616342-2459/machine-learning-engineer-apple-services-engineering?team=SFTWR",
-    "id": "apple-machine-learning-engineer-apple-services-engineering-new-york-city"
+    "employer_name": "Microsoft",
+    "job_title": "Applied Sciences",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Principal Product Manager. Level: All Levels. Posted: Recently. Full Title: Principal Product Manager - Applied Sciences",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863978/Principal-Product-Manager---Applied-Sciences",
+    "id": "microsoft-applied-sciences-redmond"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Procurement Cost Analyst",
+    "job_city": "US",
+    "job_state": "NJ",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Procurement Cost Analyst at US,NJ,Secaucus_Meadowlands\n333 Meadowlands Parkway 1st FL.\nSecaucus, New Jersey\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/67595/login",
+    "id": "amd-procurement-cost-analyst-us"
   }
 ]
