@@ -1,54 +1,93 @@
 [
   {
-    "job_title": "New Product Introduction (NPI) Engineer, Deployment Readiness",
+    "job_title": "Software Development Engineer, Kuiper Manufacturing Systems Engineering",
     "employer_name": "Amazon",
-    "job_city": "North Reading",
-    "job_state": "MA",
-    "job_description": "hardware engineering job for the role New Product Introduction (NPI) Engineer, Deployment Readiness at North Reading, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3037117/new-product-introduction-npi-engineer-deployment-readiness",
-    "job_posted_at": "2025-08-29T22:06:46.203Z",
-    "job_posted_at_datetime_utc": "2025-08-29T22:06:46.203Z",
-    "id": "amazon-new-product-introduction-npi-engineer-deployment-readiness-north-reading"
-  },
-  {
-    "job_title": "Software Development Engineer, AWS Hardware Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_description": "hardware engineering job for the role Software Development Engineer, AWS Hardware Engineering at Cupertino, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2960941/software-development-engineer-aws-hardware-engineering",
-    "job_posted_at": "2025-08-29T21:06:46.203Z",
-    "job_posted_at_datetime_utc": "2025-08-29T21:06:46.203Z",
-    "id": "amazon-software-development-engineer-aws-hardware-engineering-cupertino"
+    "job_description": "hardware engineering job for the role Software Development Engineer, Kuiper Manufacturing Systems Engineering at Sunnyvale, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069787/software-development-engineer-kuiper-manufacturing-systems-engineering",
+    "job_posted_at": "2025-08-29T23:24:59.003Z",
+    "job_posted_at_datetime_utc": "2025-08-29T23:24:59.003Z",
+    "id": "amazon-software-development-engineer-kuiper-manufacturing-systems-engineering-sunnyvale"
   },
   {
     "employer_name": "Microsoft",
-    "job_title": "Senior AI Hardware Quality Engineer",
-    "job_city": "Atlanta",
-    "job_state": "Georgia",
+    "job_title": "Strategic Network Sourcing Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior AI Hardware Quality Engineer",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859824/Senior-AI-Hardware-Quality-Engineer",
-    "id": "microsoft-senior-ai-hardware-quality-engineer-atlanta"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Strategic Network Sourcing Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863630/Strategic-Network-Sourcing-Manager",
+    "id": "microsoft-strategic-network-sourcing-manager-redmond"
+  },
+  {
+    "employer_name": "INFINEON",
+    "job_title": "Senior Staff Engineer Product",
+    "job_city": "Andover",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Staff Engineer Product at Andover",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=hardware%20engineering&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-senior-staff-engineer-product-andover"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Artificial Intelligence Engineer",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "2d ago",
+    "job_description": "hardware engineering job for the role Artificial Intelligence Engineer at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/158382405-artificial-intelligence-engineer",
+    "id": "aijobs-artificial-intelligence-engineer-unknown"
   },
   {
     "employer_name": "AMD",
-    "job_title": "2026 Masters Product Development Engineering Intern",
+    "job_title": "2026 Masters Hardware Engineering Intern",
     "job_city": "Multiple",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role 2026 Masters Product Development Engineering Intern at Multiple",
-    "job_apply_link": "https://campus-amd.icims.com/jobs/70484/login",
-    "id": "amd-2026-masters-product-development-engineering-intern-multiple"
+    "job_description": "hardware engineering job for the role 2026 Masters Hardware Engineering Intern at Multiple",
+    "job_apply_link": "https://campus-amd.icims.com/jobs/70475/login",
+    "id": "amd-2026-masters-hardware-engineering-intern-multiple"
   },
   {
-    "employer_name": "Verizon",
-    "job_title": "Tactical Network Engineer, Mid",
-    "job_city": "San Diego",
+    "employer_name": "AMD",
+    "job_title": "2026 Masters Hardware Engineering Co-Op",
+    "job_city": "Multiple",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role 2026 Masters Hardware Engineering Co-Op at Multiple",
+    "job_apply_link": "https://campus-amd.icims.com/jobs/70468/login",
+    "id": "amd-2026-masters-hardware-engineering-co-op-multiple"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "2026 Undergrad Hardware Engineering Co-Op",
+    "job_city": "Multiple",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role 2026 Undergrad Hardware Engineering Co-Op at Multiple",
+    "job_apply_link": "https://campus-amd.icims.com/jobs/70462/login",
+    "id": "amd-2026-undergrad-hardware-engineering-co-op-multiple"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "GPU ASICS Design Verification Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role GPU ASICS Design Verification Engineer at US,MA,Boxborough\n90 Central Street\nBoxborough, Massachusetts\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/70120/login",
+    "id": "amd-gpu-asics-design-verification-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Summer 2026 Masters Field Applications Engineer Intern",
+    "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Tactical Network Engineer, Mid at San Diego, CA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Tactical-Network-Engineer--Mid_R0225438?q=hardware+engineering",
-    "id": "verizon-tactical-network-engineer-mid-san-diego"
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Summer 2026 Masters Field Applications Engineer Intern at US,CA,San Jose\n2100 Logic Drive\nSan Jose, California\nUS",
+    "job_apply_link": "https://campus-amd.icims.com/jobs/69261/login",
+    "id": "amd-summer-2026-masters-field-applications-engineer-intern-us"
   }
 ]
