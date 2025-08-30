@@ -1,112 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Engineering Manager, Delivery Engineering",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Engineering Manager, Delivery Engineering at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158835784-engineering-manager-delivery-engineering",
-    "id": "aijobs-engineering-manager-delivery-engineering-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Operations Manager, ChatGPT",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Product Operations Manager, ChatGPT at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158835774-product-operations-manager-chatgpt",
-    "id": "aijobs-product-operations-manager-chatgpt-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Head of Global Deal Operations",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "26min ago",
-    "job_description": "hardware engineering job for the role Head of Global Deal Operations at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158835785-head-of-global-deal-operations",
-    "id": "aijobs-head-of-global-deal-operations-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Operations Manager, Developer Platform",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Product Operations Manager, Developer Platform at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158835771-product-operations-manager-developer-platform",
-    "id": "aijobs-product-operations-manager-developer-platform-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Operations Manager, Codex",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Product Operations Manager, Codex at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158835772-product-operations-manager-codex",
-    "id": "aijobs-product-operations-manager-codex-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Capture and Proposal Lead",
-    "job_city": "Unknown",
+    "employer_name": "IBM",
+    "job_title": "Associate Product Manager",
+    "job_city": "Dallas",
     "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Capture and Proposal Lead at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/158835787-capture-and-proposal-lead",
-    "id": "aijobs-capture-and-proposal-lead-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Integrity",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Data Scientist, Integrity at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158835781-data-scientist-integrity",
-    "id": "aijobs-data-scientist-integrity-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Head of Global Revenue",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "26min ago",
-    "job_description": "hardware engineering job for the role Head of Global Revenue at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158835786-head-of-global-revenue",
-    "id": "aijobs-head-of-global-revenue-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Content Strategist, Chatgpt.com",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Content Strategist, Chatgpt.com at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158835775-content-strategist-chatgpt-com",
-    "id": "aijobs-content-strategist-chatgpt-com-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI Deployment Manager - San Francisco",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role AI Deployment Manager - San Francisco at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158835788-ai-deployment-manager-san-francisco",
-    "id": "aijobs-ai-deployment-manager-san-francisco-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Product Operations Manager, Integrity",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Product Operations Manager, Integrity at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/158835769-product-operations-manager-integrity",
-    "id": "aijobs-product-operations-manager-integrity-united-states"
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Associate Product Manager at Entry LevelDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54139&source=WEB_Search_NA",
+    "id": "ibm-associate-product-manager-dallas"
   }
 ]
