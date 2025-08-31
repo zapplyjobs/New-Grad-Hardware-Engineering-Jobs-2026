@@ -1,42 +1,22 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Machine Learning Infrastructure Engineer - DGX Cloud",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "4min ago",
-    "job_description": "hardware engineering job for the role Senior Machine Learning Infrastructure Engineer - DGX Cloud at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/159010619-senior-machine-learning-infrastructure-engineer-dgx-cloud",
-    "id": "aijobs-machine-learning-infrastructure-engineer-dgx-cloud-santa-clara"
+    "job_title": "Data Analyst, User Operations",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "28min ago",
+    "job_description": "hardware engineering job for the role Data Analyst, User Operations at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/159014047-data-analyst-user-operations",
+    "id": "aijobs-data-analyst-user-operations-united-states"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Distributed Systems Engineer - DGX Cloud",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer, Distributed Systems Engineer - DGX Cloud at US, TX, Austin",
-    "job_apply_link": "https://www.aijobs.com/jobs/153353702-senior-software-engineer-distributed-systems-engineer-dgx-cloud",
-    "id": "aijobs-software-engineer-distributed-systems-engineer-dgx-cloud-austin"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "System Software Engineer Platform - OpenBMC",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "4min ago",
-    "job_description": "hardware engineering job for the role Senior System Software Engineer Platform - OpenBMC at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/159010620-senior-system-software-engineer-platform-openbmc",
-    "id": "aijobs-system-software-engineer-platform-openbmc-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer - Data Center System Bringup",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "5min ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer - Data Center System Bringup at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/159010617-senior-software-engineer-data-center-system-bringup",
-    "id": "aijobs-software-engineer-data-center-system-bringup-santa-clara"
+    "job_title": "Analyst, Tax Data Automation",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "28min ago",
+    "job_description": "hardware engineering job for the role Senior Analyst, Tax Data Automation at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/159014046-senior-analyst-tax-data-automation",
+    "id": "aijobs-analyst-tax-data-automation-united-states"
   }
 ]
