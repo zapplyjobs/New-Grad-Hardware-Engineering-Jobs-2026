@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "CNC Operator",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "13min ago",
+    "job_description": "hardware engineering job for the role CNC Operator at Palo Alto, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/159837326-cnc-operator",
+    "id": "aijobs-cnc-operator-us"
+  }
+]
