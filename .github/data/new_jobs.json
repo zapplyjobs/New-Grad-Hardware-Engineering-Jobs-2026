@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Display Driver Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Display Driver Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200617343-0836/display-driver-engineer?team=SFTWR",
+    "id": "apple-display-driver-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Triage Engineer",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Software Triage Engineer at Seattle",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200617279-3337/software-triage-engineer?team=SFTWR",
+    "id": "apple-software-triage-engineer-seattle"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer in Test (SDET), Retail Engineering",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "3 months ago",
+    "job_description": "hardware engineering job for the role Software Development Engineer in Test (SDET), Retail Engineering at Austin",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200604920-0157/software-development-engineer-in-test-sdet-retail-engineering?team=CORSV",
+    "id": "apple-software-development-engineer-in-test-sdet-retail-engineering-austin"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Machine Learning Engineer, Apple Services Engineering AI/ML",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "1 month ago",
+    "job_description": "hardware engineering job for the role Senior Machine Learning Engineer, Apple Services Engineering AI/ML at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200614299-0836/senior-machine-learning-engineer-apple-services-engineering-ai-ml?team=SFTWR",
+    "id": "apple-machine-learning-engineer-apple-services-engineering-ai-ml-cupertino"
+  }
+]
