@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "CNC Operator",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "13min ago",
-    "job_description": "hardware engineering job for the role CNC Operator at Palo Alto, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/159837326-cnc-operator",
-    "id": "aijobs-cnc-operator-us"
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Lead Infrastructure Engineer - Terraform & AWS",
+    "job_city": "Wilmington",
+    "job_state": "DE",
+    "job_posted_at": "Recently",
+    "job_description": "hardware job for the role Senior Lead Infrastructure Engineer - Terraform & AWS at Wilmington, DE, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661196/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-lead-infrastructure-engineer-terraform-aws-wilmington"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Hardware Systems Engineer - Data Center HW",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role Hardware Systems Engineer - Data Center HW at Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200618557-3956/hardware-systems-engineer-data-center-hw?team=HRDWR",
+    "id": "apple-hardware-systems-engineer-data-center-hw-sunnyvale"
   }
 ]
