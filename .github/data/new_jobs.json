@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Embedded Software Engineer",
-    "job_city": "CA",
-    "job_state": "Sunnyvale",
-    "job_posted_at": "18min ago",
-    "job_description": "hardware engineering job for the role Embedded Software Engineer at Sunnyvale, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/159916619-embedded-software-engineer",
-    "id": "aijobs-embedded-software-engineer-ca"
+    "employer_name": "IBM",
+    "job_title": "Entry Level Product Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Entry Level Product Manager 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56278&source=WEB_Search_NA",
+    "id": "ibm-entry-level-product-manager-multiple-cities"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Humanoid Robotics",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "58min ago",
-    "job_description": "hardware engineering job for the role Senior Software Engineer, Humanoid Robotics at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/159910774-senior-software-engineer-humanoid-robotics",
-    "id": "aijobs-software-engineer-humanoid-robotics-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "NPI Program Manager - Datacenter Server Products",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "59min ago",
-    "job_description": "hardware engineering job for the role Senior NPI Program Manager - Datacenter Server Products at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/159910773-senior-npi-program-manager-datacenter-server-products",
-    "id": "aijobs-npi-program-manager-datacenter-server-products-santa-clara"
+    "employer_name": "IBM",
+    "job_title": "Product Manager Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Product Manager Intern  2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56279&source=WEB_Search_NA",
+    "id": "ibm-product-manager-intern-multiple-cities"
   }
 ]
