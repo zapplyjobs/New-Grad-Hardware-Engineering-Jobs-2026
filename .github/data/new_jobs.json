@@ -1,42 +1,63 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Engineer, Metrology DRAM",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 18 hours ago",
-    "job_description": "hardware engineering job for the role Staff Engineer, Metrology DRAM at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30948225",
-    "id": "micron-engineer-metrology-dram-boise"
+    "job_title": "DevOps Engineer, Customer Terminal Device Management",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role DevOps Engineer, Customer Terminal Device Management at Redmond, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071124/devops-engineer-customer-terminal-device-management",
+    "job_posted_at": "2025-09-02T18:06:22.428Z",
+    "job_posted_at_datetime_utc": "2025-09-02T18:06:22.428Z",
+    "id": "amazon-devops-engineer-customer-terminal-device-management-redmond"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "System Level Product Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Staff System Level Product Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-system-level-product-engineer/33099/85702733840",
+    "id": "arm-system-level-product-engineer-austin"
   },
   {
     "employer_name": "Apple",
-    "job_title": "Electro-Mechanical Simulation Engineer",
+    "job_title": "Software Engineer, Apple TV+ Engineering, Employee Experience & Productivity",
+    "job_city": "Culver City",
+    "job_state": "US",
+    "job_posted_at": "4 months ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Apple TV+ Engineering, Employee Experience & Productivity at Culver City",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200577551-0670/software-engineer-apple-tv-engineering-employee-experience-productivity?team=SFTWR",
+    "id": "apple-software-engineer-apple-tv-engineering-employee-experience-productivity-culver-city"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Silicon Validation Software Engineer - Apple Neural Engine Validation",
+    "job_city": "Waltham",
+    "job_state": "US",
+    "job_posted_at": "2 months ago",
+    "job_description": "hardware engineering job for the role Silicon Validation Software Engineer - Apple Neural Engine Validation at Waltham",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200608673-6205/silicon-validation-software-engineer-apple-neural-engine-validation?team=HRDWR",
+    "id": "apple-silicon-validation-software-engineer-apple-neural-engine-validation-waltham"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Sr. Software Engineer, Core Services - Apple Services Engineering",
     "job_city": "Cupertino",
     "job_state": "California",
-    "job_posted_at": "5 days ago",
-    "job_description": "hardware engineering job for the role Electro-Mechanical Simulation Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200617377-0836/electro-mechanical-simulation-engineer?team=HRDWR",
-    "id": "apple-electro-mechanical-simulation-engineer-cupertino"
+    "job_posted_at": "1 week ago",
+    "job_description": "hardware engineering job for the role Sr. Software Engineer, Core Services - Apple Services Engineering at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200616028-0836/sr-software-engineer-core-services-apple-services-engineering?team=SFTWR",
+    "id": "apple-sr-software-engineer-core-services-apple-services-engineering-cupertino"
   },
   {
-    "employer_name": "Booz Allen ",
-    "job_title": "Systems Integration Lab Engineer, Lead",
-    "job_city": "California",
-    "job_state": "MD",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Systems Integration Lab Engineer, Lead at California, MD",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/California-MD/Systems-Integration-Lab-Engineer--Lead_R0225439?q=hardware+engineering",
-    "id": "booz-allen-systems-integration-lab-engineer-lead-california"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Material Engineer",
-    "job_city": "Aguadilla",
-    "job_state": "Puerto Rico",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Material Engineer at Aguadilla, Puerto Rico, Puerto Rico",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Material-Engineer_1191964-1?q=hardware+engineering",
-    "id": "hewlett-packard-enterprise-material-engineer-aguadilla"
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Cloud Music Library - Apple Services Engineering",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "7 months ago",
+    "job_description": "hardware engineering job for the role Software Engineer, Cloud Music Library - Apple Services Engineering at Seattle",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200588748-3337/software-engineer-cloud-music-library-apple-services-engineering?team=SFTWR",
+    "id": "apple-software-engineer-cloud-music-library-apple-services-engineering-seattle"
   }
 ]
