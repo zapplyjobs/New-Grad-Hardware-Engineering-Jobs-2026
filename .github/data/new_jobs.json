@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Entry Level Product Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Entry Level Product Manager 2026 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56278&source=WEB_Search_NA",
-    "id": "ibm-entry-level-product-manager-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Manager Intern",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Product Manager Intern  2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56279&source=WEB_Search_NA",
-    "id": "ibm-product-manager-intern-multiple-cities"
+    "employer_name": "Micron",
+    "job_title": "Software Engineer Architect",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Posted 15 days ago",
+    "job_description": "hardware engineering job for the role Senior Software Engineer Architect at San Jose, California, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30766193",
+    "id": "micron-software-engineer-architect-san-jose"
   }
 ]
