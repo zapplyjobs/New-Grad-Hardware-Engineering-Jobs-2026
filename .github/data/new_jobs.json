@@ -1,22 +1,42 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "DRAM Product Development Quality Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 14 hours ago",
-    "job_description": "hardware engineering job for the role DRAM Product Development Quality Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30955686",
-    "id": "micron-dram-product-development-quality-engineer-boise"
+    "employer_name": "Arm",
+    "job_title": "Manager, Digital Learning",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Manager, Digital Learning at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/senior-manager-digital-learning/33099/83959009456",
+    "id": "arm-manager-digital-learning-austin"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Engineering Information Developer/Application Engineering Technical Writer",
+    "employer_name": "Arm",
+    "job_title": "Performance Applications Engineer",
     "job_city": "Austin",
-    "job_state": "United States of America",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Engineering Information Developer/Application Engineering Technical Writer at Austin, Texas, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-engineering-information-developer-application-engineering-technical-writer-austin"
+    "job_description": "hardware engineering job for the role Principal Performance Applications Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-performance-applications-engineer/33099/85695184192",
+    "id": "arm-performance-applications-engineer-austin"
+  },
+  {
+    "employer_name": "GDIT",
+    "job_title": "Network Engineer - Top Secret/SCI",
+    "job_city": "USA VA Arlington",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Network Engineer - Top Secret/SCI at USA VA Arlington",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Network-Engineer---Top-Secret-SCI_RQ206470-1?q=hardware+engineering",
+    "id": "gdit-network-engineer-top-secret-sci-usa-va-arlington"
+  },
+  {
+    "employer_name": "GDIT",
+    "job_title": "Full Stack Developer",
+    "job_city": "Any Location / Remote",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Senior Full Stack Developer at Any Location / Remote",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-Full-Stack-Developer_RQ203653-1?q=hardware+engineering",
+    "id": "gdit-full-stack-developer-any-location-remote"
   }
 ]
