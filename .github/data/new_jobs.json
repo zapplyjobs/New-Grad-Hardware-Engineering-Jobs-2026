@@ -1,42 +1,62 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Manager, Digital Learning",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "CISCO",
+    "job_title": "Administrative Assistant, Sr Directors, Hardware Engineering",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Manager, Digital Learning at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-manager-digital-learning/33099/83959009456",
-    "id": "arm-manager-digital-learning-austin"
+    "job_description": "hardware engineering job for the role Administrative Assistant, Sr Directors, Hardware Engineering at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Administrative-Assistant-Sr-Directors-Hardware-Engineering/1447539",
+    "id": "cisco-administrative-assistant-sr-directors-hardware-engineering-san-jose"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Performance Applications Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "SIEMENS",
+    "job_title": "Senior Electrical Services Specialist",
+    "job_city": "Bellevue",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Principal Performance Applications Engineer at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/principal-performance-applications-engineer/33099/85695184192",
-    "id": "arm-performance-applications-engineer-austin"
+    "job_description": "hardware engineering job for the role Senior Electrical Services Specialist at Bellevue, Washington, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-senior-electrical-services-specialist-bellevue"
   },
   {
-    "employer_name": "GDIT",
-    "job_title": "Network Engineer - Top Secret/SCI",
-    "job_city": "USA VA Arlington",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Network Engineer - Top Secret/SCI at USA VA Arlington",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Network-Engineer---Top-Secret-SCI_RQ206470-1?q=hardware+engineering",
-    "id": "gdit-network-engineer-top-secret-sci-usa-va-arlington"
+    "employer_name": "SIEMENS",
+    "job_title": "Senior Field Service Engineer or Electrical Service Specialist - Hyper-Scale Data Centers / Electrical Services",
+    "job_city": "Bellevue",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Field Service Engineer or Electrical Service Specialist - Hyper-Scale Data Centers / Electrical Services at Bellevue, Washington, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-senior-field-service-engineer-or-electrical-service-specialist-hyper-scale-data-centers-electrical-services-bellevue"
   },
   {
-    "employer_name": "GDIT",
-    "job_title": "Full Stack Developer",
-    "job_city": "Any Location / Remote",
-    "job_state": "",
+    "employer_name": "Booz Allen ",
+    "job_title": "Cybersecurity Engineering Analyst",
+    "job_city": "Hill AFB",
+    "job_state": "UT",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Full Stack Developer at Any Location / Remote",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Senior-Full-Stack-Developer_RQ203653-1?q=hardware+engineering",
-    "id": "gdit-full-stack-developer-any-location-remote"
+    "job_description": "hardware engineering job for the role Cybersecurity Engineering Analyst at Hill AFB, UT",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Hill-AFB-UT/Cyber-Security-Engineering-Analyst_R0223893?q=hardware+engineering",
+    "id": "booz-allen-cybersecurity-engineering-analyst-hill-afb"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Cybersecurity Engineering Analyst",
+    "job_city": "Hill AFB",
+    "job_state": "UT",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Cybersecurity Engineering Analyst at Hill AFB, UT",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Hill-AFB-UT/Cyber-Security-Engineering-Analyst_R0223893?q=hardware+engineering",
+    "id": "verizon-cybersecurity-engineering-analyst-hill-afb"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Systems Integration Lab Engineer, Lead",
+    "job_city": "California",
+    "job_state": "MD",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Systems Integration Lab Engineer, Lead at California, MD",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/California-MD/Systems-Integration-Lab-Engineer--Lead_R0225439?q=hardware+engineering",
+    "id": "verizon-systems-integration-lab-engineer-lead-california"
   }
 ]
