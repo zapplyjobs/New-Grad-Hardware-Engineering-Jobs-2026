@@ -1,62 +1,53 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "Administrative Assistant, Sr Directors, Hardware Engineering",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Administrative Assistant, Sr Directors, Hardware Engineering at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Administrative-Assistant-Sr-Directors-Hardware-Engineering/1447539",
-    "id": "cisco-administrative-assistant-sr-directors-hardware-engineering-san-jose"
+    "job_title": "Support Engineer, Data Center Central Operations",
+    "employer_name": "Amazon",
+    "job_city": "Columbus",
+    "job_state": "OH",
+    "job_description": "hardware engineering job for the role Support Engineer, Data Center Central Operations at Columbus, OH, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3039504/support-engineer-data-center-central-operations",
+    "job_posted_at": "2025-09-02T16:06:35.772Z",
+    "job_posted_at_datetime_utc": "2025-09-02T16:06:35.772Z",
+    "id": "amazon-support-engineer-data-center-central-operations-columbus"
   },
   {
     "employer_name": "SIEMENS",
     "job_title": "Senior Electrical Services Specialist",
-    "job_city": "Bellevue",
+    "job_city": "St. Rose",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Electrical Services Specialist at Bellevue, Washington, United States of America",
+    "job_description": "hardware engineering job for the role Senior Electrical Services Specialist at St. Rose, Louisiana, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-senior-electrical-services-specialist-bellevue"
+    "id": "siemens-senior-electrical-services-specialist-st-rose"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Senior Field Service Engineer or Electrical Service Specialist - Hyper-Scale Data Centers / Electrical Services",
-    "job_city": "Bellevue",
+    "job_title": "Senior Electrical Services Specialist",
+    "job_city": "Miramar",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Field Service Engineer or Electrical Service Specialist - Hyper-Scale Data Centers / Electrical Services at Bellevue, Washington, United States of America",
+    "job_description": "hardware engineering job for the role Senior Electrical Services Specialist at Miramar, Florida, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-senior-field-service-engineer-or-electrical-service-specialist-hyper-scale-data-centers-electrical-services-bellevue"
+    "id": "siemens-senior-electrical-services-specialist-miramar"
   },
   {
-    "employer_name": "Booz Allen ",
-    "job_title": "Cybersecurity Engineering Analyst",
-    "job_city": "Hill AFB",
-    "job_state": "UT",
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Algorithm Development",
+    "job_city": "US",
+    "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Cybersecurity Engineering Analyst at Hill AFB, UT",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Hill-AFB-UT/Cyber-Security-Engineering-Analyst_R0223893?q=hardware+engineering",
-    "id": "booz-allen-cybersecurity-engineering-analyst-hill-afb"
+    "job_description": "hardware engineering job for the role Algorithm Development at US, CA, San Diego, Avenue of Science",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Diego-Avenue-of-Science/Algorithm-Development_R254718?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-algorithm-development-us"
   },
   {
-    "employer_name": "Verizon",
-    "job_title": "Cybersecurity Engineering Analyst",
-    "job_city": "Hill AFB",
-    "job_state": "UT",
+    "employer_name": "MARVELL",
+    "job_title": "Staff Digital Design Engineer – Wireline PHYs",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Cybersecurity Engineering Analyst at Hill AFB, UT",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Hill-AFB-UT/Cyber-Security-Engineering-Analyst_R0223893?q=hardware+engineering",
-    "id": "verizon-cybersecurity-engineering-analyst-hill-afb"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Systems Integration Lab Engineer, Lead",
-    "job_city": "California",
-    "job_state": "MD",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Systems Integration Lab Engineer, Lead at California, MD",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/California-MD/Systems-Integration-Lab-Engineer--Lead_R0225439?q=hardware+engineering",
-    "id": "verizon-systems-integration-lab-engineer-lead-california"
+    "job_description": "hardware engineering job for the role Senior Staff Digital Design Engineer – Wireline PHYs at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Digital-Design-Engineer---Wireline-PHYs_2502139?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-digital-design-engineer-wireline-phys-santa-clara"
   }
 ]
