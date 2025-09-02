@@ -1,53 +1,42 @@
 [
   {
-    "job_title": "Support Engineer, Data Center Central Operations",
-    "employer_name": "Amazon",
-    "job_city": "Columbus",
-    "job_state": "OH",
-    "job_description": "hardware engineering job for the role Support Engineer, Data Center Central Operations at Columbus, OH, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3039504/support-engineer-data-center-central-operations",
-    "job_posted_at": "2025-09-02T16:06:35.772Z",
-    "job_posted_at_datetime_utc": "2025-09-02T16:06:35.772Z",
-    "id": "amazon-support-engineer-data-center-central-operations-columbus"
+    "employer_name": "Micron",
+    "job_title": "Engineer, Metrology DRAM",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "hardware engineering job for the role Staff Engineer, Metrology DRAM at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30948225",
+    "id": "micron-engineer-metrology-dram-boise"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Senior Electrical Services Specialist",
-    "job_city": "St. Rose",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Electrical Services Specialist at St. Rose, Louisiana, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-senior-electrical-services-specialist-st-rose"
+    "employer_name": "Apple",
+    "job_title": "Electro-Mechanical Simulation Engineer",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "5 days ago",
+    "job_description": "hardware engineering job for the role Electro-Mechanical Simulation Engineer at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200617377-0836/electro-mechanical-simulation-engineer?team=HRDWR",
+    "id": "apple-electro-mechanical-simulation-engineer-cupertino"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Senior Electrical Services Specialist",
-    "job_city": "Miramar",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Electrical Services Specialist at Miramar, Florida, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-senior-electrical-services-specialist-miramar"
-  },
-  {
-    "employer_name": "ANALOG DEVICES",
-    "job_title": "Algorithm Development",
-    "job_city": "US",
-    "job_state": "CA",
+    "employer_name": "Booz Allen ",
+    "job_title": "Systems Integration Lab Engineer, Lead",
+    "job_city": "California",
+    "job_state": "MD",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Algorithm Development at US, CA, San Diego, Avenue of Science",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Diego-Avenue-of-Science/Algorithm-Development_R254718?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-algorithm-development-us"
+    "job_description": "hardware engineering job for the role Systems Integration Lab Engineer, Lead at California, MD",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/California-MD/Systems-Integration-Lab-Engineer--Lead_R0225439?q=hardware+engineering",
+    "id": "booz-allen-systems-integration-lab-engineer-lead-california"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Staff Digital Design Engineer – Wireline PHYs",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "Material Engineer",
+    "job_city": "Aguadilla",
+    "job_state": "Puerto Rico",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Senior Staff Digital Design Engineer – Wireline PHYs at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Digital-Design-Engineer---Wireline-PHYs_2502139?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-digital-design-engineer-wireline-phys-santa-clara"
+    "job_description": "hardware engineering job for the role Material Engineer at Aguadilla, Puerto Rico, Puerto Rico",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Material-Engineer_1191964-1?q=hardware+engineering",
+    "id": "hewlett-packard-enterprise-material-engineer-aguadilla"
   }
 ]
