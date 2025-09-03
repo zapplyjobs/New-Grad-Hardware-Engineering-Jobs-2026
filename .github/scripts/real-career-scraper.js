@@ -508,7 +508,7 @@ async function fetchSimplifyJobsData() {
 
 // Fetch jobs from all companies with real career APIs
 
-async function fetchAllRealJobs(searchQuery = 'hardware engineering', maxPages = 1, batchConfig = BATCH_CONFIG) {
+async function fetchAllRealJobs(searchQuery = 'hardware engineering', maxPages = 10, batchConfig = BATCH_CONFIG) {
   console.log("🚀 Starting REAL career page scraping...");
 
   let allJobs = [];
