@@ -1,49 +1,18 @@
 const fs = require("fs");
 const { generateJobId } = require("./job-fetcher/utils");
 const {isUSOnlyJob} = require("./job-fetcher/utils");
-const scrapeAmazonJobs = require("../../jobboard/src/backend/platforms/amazon/amazonScraper");
-const googleScraper = require("../../jobboard/src/backend/platforms/google/googleScraper");
-const scrapeMetaJobs = require("../../jobboard/src/backend/platforms/meta/metaScraper");
-const microsoftScraper = require("../../jobboard/src/backend/platforms/microsoft/microsoftScraper");
-const armScraper = require("../../jobboard/src/backend/platforms/arm/armScraper");
-const micronScraper = require("../../jobboard/src/backend/platforms/micron/micronScraper");
-const ibmScraper = require("../../jobboard/src/backend/platforms/ibm/ibmScraper");
+const {filterJobsByLevel} =require("./job-fetcher/utils")
+const { scrapeCompanyData } = require('../../jobboard/src/backend/core/scraper.js');
+const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
+const { transformJobs } = require('../../jobboard/src/backend/output/jobTransformer.js');
 
-const abbScraper = require("../../jobboard/src/backend/platforms/abb/abbScraper");
-const infineonScraper = require("../../jobboard/src/backend/platforms/infineon/infineonScraper");
-const texasScraper = require("../../jobboard/src/backend/platforms/texas/texasScraper");
-const ciscoScraper = require("../../jobboard/src/backend/platforms/cisco/ciscoScraper");
-const siemensScraper = require("../../jobboard/src/backend/platforms/siemen/siemensScraper");
-const analogScraper = require("../../jobboard/src/backend/platforms/analog/analogScraper");
-const MarvelScraper = require("../../jobboard/src/backend/platforms/marvel/marvelScraper");
-const aijobsScraper = require("../../jobboard/src/backend/platforms/ai/aijobsScraper");
-const waymoScraper = require("../../jobboard/src/backend/platforms/waymo/waymoScraper");
-const illuminaScraper = require("../../jobboard/src/backend/platforms/illumina/illuminaScraper");
-const synopsysScraper = require("../../jobboard/src/backend/platforms/synopsys/synopsysScraper");
-const appliedMaterialsScraper = require("../../jobboard/src/backend/platforms/appliedMaterials/appliedMaterialsScraper");
-const genomicsScraper = require("../../jobboard/src/backend/platforms/genomics/genomicsScraper");
-const rivianScraper = require("../../jobboard/src/backend/platforms/rivian/rivianScraper");
-const jpmcScraper = require("../../jobboard/src/backend/platforms/jpmc/jpmcScraper");
-const honeywellScraper = require("../../jobboard/src/backend/platforms/honeywell/honeywellScraper");
-const amdScraper = require("../../jobboard/src/backend/platforms/amd/amdScraper");
-const nvidiaScraper = require("../../jobboard/src/backend/platforms/nvidia/nvidiaScraper");
-const appleScraper = require("../../jobboard/src/backend/platforms/apple/appleScraper");
-const intelScraper = require("../../jobboard/src/backend/platforms/intel/intelScraper");
-const boozallenScraper = require("../../jobboard/src/backend/platforms/boozallen/boozallenScraper");
-const broadcomScraper = require("../../jobboard/src/backend/platforms/broadcom/broadcomScraper");
-const gditScraper = require("../../jobboard/src/backend/platforms/gdit/gditScraper");
-const guidehouseScraper = require("../../jobboard/src/backend/platforms/guidehouse/guidehouseScraper");
-const hpeScraper = require("../../jobboard/src/backend/platforms/hpe/hpeScraper");
-const magnaScraper = require("../../jobboard/src/backend/platforms/magna/magnaScraper");
-const verizonScraper = require("../../jobboard/src/backend/platforms/verizon/verizonScraper");
-const workdayScraper = require("../../jobboard/src/backend/platforms/workday/workdayScraper");
 
 // Batch processing configuration
 const BATCH_CONFIG = {
-  batchSize: 8,                    // Number of scrapers to run concurrently in each batch (8 companies)
+  batchSize: 5,                    // Number of scrapers to run concurrently in each batch (8 companies)
   delayBetweenBatches: 2000,       // Delay in milliseconds between batches (2 seconds)
   maxRetries: 3,                   // Maximum retry attempts for failed scrapers
-  timeout: 180000,                 // Timeout for individual scrapers (3 minutes)
+  timeout: 580000,                 // Timeout for individual scrapers (3 minutes)
   enableProgressBar: true,          // Enable progress tracking
   enableDetailedLogging: true      // Enable detailed logging for each scraper
 };
@@ -89,7 +58,7 @@ function createBatchConfig(options = {}) {
 
 // Load company database
 const companies = JSON.parse(
-  fs.readFileSync("./.github/scripts/job-fetcher/companies.json", "utf8")
+  fs.readFileSync("./companies.json", "utf8")
 );
 const ALL_COMPANIES = Object.values(companies).flat();
 
@@ -538,104 +507,149 @@ async function fetchSimplifyJobsData() {
 }
 
 // Fetch jobs from all companies with real career APIs
-async function fetchAllRealJobs() {
+
+async function fetchAllRealJobs(searchQuery = 'hardware engineer', maxPages = 1, batchConfig = BATCH_CONFIG) {
   console.log("🚀 Starting REAL career page scraping...");
 
   let allJobs = [];
-  // Define scraper configurations for batch processing
-  const scraperConfigs = [
-    { name: 'Amazon', scraper: scrapeAmazonJobs, query: 'hardware engineering' },
-    { name: 'Meta', scraper: scrapeMetaJobs, query: 'hardware engineering' },
-    { name: 'Microsoft', scraper: microsoftScraper, query: 'hardware engineering' },
-    { name: 'Google', scraper: googleScraper, query: 'hardware engineering' },
-    { name: 'ARM', scraper: armScraper, query: 'hardware engineering' },
-    { name: 'Micron', scraper: micronScraper, query: 'hardware engineering' },
-    { name: 'IBM', scraper: ibmScraper, query: 'hardware engineering' },
-    { name: 'ABB', scraper: abbScraper, query: 'hardware engineering' },
-    { name: 'Infineon', scraper: infineonScraper, query: 'hardware engineering' },
-    { name: 'Texas Instruments', scraper: texasScraper, query: 'hardware engineering' },
-    { name: 'Cisco', scraper: ciscoScraper, query: 'hardware engineering' },
-    { name: 'Siemens', scraper: siemensScraper, query: 'hardware engineering' },
-    { name: 'Analog Devices', scraper: analogScraper, query: 'hardware engineering' },
-    { name: 'Marvel', scraper: MarvelScraper, query: 'hardware engineering' },
-    { name: 'AI Jobs', scraper: aijobsScraper, query: 'hardware engineering' },
-    { name: 'Waymo', scraper: waymoScraper, query: 'hardware engineering' },
-    { name: 'Applied Materials', scraper: appliedMaterialsScraper, query: 'hardware engineering' },
-    { name: 'Synopsys', scraper: synopsysScraper, query: 'hardware engineering' },
-    { name: 'Illumina', scraper: illuminaScraper, query: 'hardware engineering' },
-    { name: 'Genomics', scraper: genomicsScraper, query: 'hardware engineering' },
-    { name: 'Rivian', scraper: rivianScraper, query: 'hardware' },
-    { name: 'JPMorgan Chase', scraper: jpmcScraper, query: 'hardware' },
-    { name: 'Honeywell', scraper: honeywellScraper, query: 'hardware' },
-    { name: 'AMD', scraper: amdScraper, query: 'hardware engineering' },
-    { name: 'NVIDIA', scraper: nvidiaScraper, query: 'hardware engineering' },
-    { name: 'Apple', scraper: appleScraper, query: 'hardware engineering' },
-    { name: 'Intel', scraper: intelScraper, query: 'hardware engineering' },
-    { name: 'Booz Allen Hamilton', scraper: boozallenScraper, query: 'hardware engineering' },
-    { name: 'Broadcom', scraper: broadcomScraper, query: 'hardware engineering' },
-    { name: 'GDIT', scraper: gditScraper, query: 'hardware engineering' },
-    { name: 'Guidehouse', scraper: guidehouseScraper, query: 'hardware engineering' },
-    { name: 'HPE', scraper: hpeScraper, query: 'hardware engineering' },
-    { name: 'Magna', scraper: magnaScraper, query: 'hardware engineering' },
-    { name: 'Verizon', scraper: verizonScraper, query: 'hardware engineering' },
-    { name: 'Workday', scraper: workdayScraper, query: 'hardware engineering' }
-  ];
+  const companies = getCompanies(searchQuery);
+  const companyKeys = Object.keys(companies);
 
-  // Enhanced batch processing function with retry logic and configuration
-  async function processScrapersInBatches(configs, config = BATCH_CONFIG) {
+  // Add execution tracking to prevent loops
+  const executionId = Date.now();
+  console.log(`🔍 Execution ID: ${executionId}`);
+
+  // Define scraper configurations for batch processing
+  const scraperConfigs = companyKeys.map(companyKey => ({
+    name: companies[companyKey].name,
+    companyKey: companyKey,
+    scraper: () => scrapeCompanyData(companyKey, searchQuery, maxPages),
+    query: searchQuery,
+    executionId // Add execution ID to track this run
+  }));
+
+  // Enhanced batch processing function with comprehensive tracking and error handling
+  async function processScrapersInBatches(configs, config = batchConfig) {
     const results = [];
     const totalBatches = Math.ceil(configs.length / config.batchSize);
+    const processedCompanies = new Set(); // Track processed companies to prevent duplicates
+    
+    // Enhanced tracking objects
+    const overallProgress = {
+      totalCompanies: configs.length,
+      processedCompanies: 0,
+      successfulCompanies: 0,
+      failedCompanies: 0,
+      skippedCompanies: 0,
+      totalJobsCollected: 0,
+      startTime: Date.now(),
+      batchResults: []
+    };
+
+    const companiesStatus = {
+      successful: [],
+      failed: [],
+      skipped: []
+    };
     
     console.log(`🚀 Starting optimized batch processing:`);
     console.log(`   📊 Total scrapers: ${configs.length}`);
-    console.log(`   📦 Batch size: ${config.batchSize} (8 companies per batch)`);
+    console.log(`   📦 Batch size: ${config.batchSize} companies per batch`);
     console.log(`   ⏱️  Total batches: ${totalBatches}`);
     console.log(`   ⏳ Delay between batches: ${config.delayBetweenBatches}ms`);
     console.log(`   🔄 Max retries: ${config.maxRetries}`);
-    
-    // Progress tracking
-    let completedScrapers = 0;
-    let successfulScrapers = 0;
-    let failedScrapers = 0;
+    console.log(`   🕐 Started at: ${new Date().toLocaleTimeString()}`);
     
     for (let i = 0; i < configs.length; i += config.batchSize) {
       const batch = configs.slice(i, i + config.batchSize);
       const batchNumber = Math.floor(i / config.batchSize) + 1;
+      const batchStartTime = Date.now();
       
       console.log(`\n📦 Processing Batch ${batchNumber}/${totalBatches}: ${batch.map(c => c.name).join(', ')}`);
       
+      // Filter out already processed companies
+      const filteredBatch = batch.filter(scraperConfig => {
+        if (processedCompanies.has(scraperConfig.companyKey)) {
+          console.log(`⚠️ Skipping already processed company: ${scraperConfig.name}`);
+          companiesStatus.skipped.push(scraperConfig.name);
+          overallProgress.skippedCompanies++;
+          return false;
+        }
+        processedCompanies.add(scraperConfig.companyKey);
+        return true;
+      });
+
+      if (filteredBatch.length === 0) {
+        console.log(`⏭️ Skipping batch ${batchNumber} - all companies already processed`);
+        continue;
+      }
+
+      // Batch-level tracking
+      const batchProgress = {
+        batchNumber,
+        companies: filteredBatch.map(c => c.name),
+        successful: [],
+        failed: [],
+        totalJobs: 0,
+        duration: 0,
+        startTime: batchStartTime
+      };
+
       // Process current batch concurrently with retry logic
-      const batchPromises = batch.map(async (scraperConfig) => {
+      const batchPromises = filteredBatch.map(async (scraperConfig) => {
         let lastError = null;
-        let startTime = Date.now(); // Declare startTime outside the loop
+        let startTime = Date.now();
         
         for (let attempt = 1; attempt <= config.maxRetries; attempt++) {
           try {
             // Update startTime for each attempt
             startTime = Date.now();
             
-            // Create a timeout promise
-            const timeoutPromise = new Promise((_, reject) => {
-              setTimeout(() => reject(new Error('Scraper timeout')), config.timeout);
-            });
+            // Add circuit breaker - if execution is taking too long, abort
+            if (Date.now() - executionId > 1800000) { // Fixed to 30 minutes (1,800,000 ms)
+              throw new Error('Global execution timeout - preventing infinite loop');
+            }
             
-            // Race between scraper and timeout
-            const jobs = await Promise.race([
-              scraperConfig.scraper(scraperConfig.query),
-              timeoutPromise
-            ]);
+            let jobs;
+            if (config.timeout > 0) {
+              // Timeout enabled
+              const timeoutPromise = new Promise((_, reject) => {
+                setTimeout(() => reject(new Error('Scraper timeout')), config.timeout);
+              });
+              
+              jobs = await Promise.race([
+                scraperConfig.scraper(),
+                timeoutPromise
+              ]);
+            } else {
+              // No timeout - wait indefinitely for the scraper to complete
+              jobs = await scraperConfig.scraper();
+            }
             
             const duration = Date.now() - startTime;
-            completedScrapers++;
-            successfulScrapers++;
+            overallProgress.processedCompanies++;
+            overallProgress.successfulCompanies++;
+            overallProgress.totalJobsCollected += jobs?.length || 0;
+            
+            // Track successful company
+            const successInfo = {
+              name: scraperConfig.name,
+              jobs: jobs?.length || 0,
+              duration,
+              attempts: attempt
+            };
+            companiesStatus.successful.push(successInfo);
+            batchProgress.successful.push(successInfo);
+            batchProgress.totalJobs += jobs?.length || 0;
             
             if (config.enableDetailedLogging) {
-              console.log(`✅ ${scraperConfig.name}: ${jobs.length} jobs in ${duration}ms (Attempt ${attempt})`);
+              console.log(`✅ ${scraperConfig.name}: ${jobs?.length || 0} jobs in ${duration}ms (Attempt ${attempt})`);
             }
             
             return { 
-              name: scraperConfig.name, 
-              jobs, 
+              name: scraperConfig.name,
+              companyKey: scraperConfig.companyKey,
+              jobs: jobs || [], 
               duration, 
               success: true, 
               attempts: attempt,
@@ -651,13 +665,24 @@ async function fetchAllRealJobs() {
             // If this is the last attempt, mark as failed
             if (attempt === config.maxRetries) {
               const duration = Date.now() - startTime;
-              completedScrapers++;
-              failedScrapers++;
+              overallProgress.processedCompanies++;
+              overallProgress.failedCompanies++;
               
-              console.error(`❌ ${scraperConfig.name} failed after ${config.maxRetries} attempts: ${error.message}`);
+              // Track failed company
+              const failInfo = {
+                name: scraperConfig.name,
+                error: error.message,
+                duration,
+                attempts: attempt
+              };
+              companiesStatus.failed.push(failInfo);
+              batchProgress.failed.push(failInfo);
+              
+              console.error(`❌ ${scraperConfig.name} failed after ${config.maxRetries} attempts: ${error.message}. Skipping company.`);
               
               return { 
-                name: scraperConfig.name, 
+                name: scraperConfig.name,
+                companyKey: scraperConfig.companyKey,
                 jobs: [], 
                 duration: duration, 
                 success: false, 
@@ -666,23 +691,58 @@ async function fetchAllRealJobs() {
               };
             }
             
-            // Wait before retry (exponential backoff)
-            const retryDelay = Math.min(1000 * Math.pow(2, attempt - 1), 5000);
+            // Exponential backoff with jitter for retry delay
+            const baseDelay = 2000 * Math.pow(2, attempt - 1);
+            const jitter = Math.random() * 1000; // Add jitter to avoid thundering herd
+            const retryDelay = Math.min(baseDelay + jitter, 10000); // Max 10s
             if (config.enableDetailedLogging) {
-              console.log(`⏳ Retrying ${scraperConfig.name} in ${retryDelay}ms...`);
-              await new Promise(resolve => setTimeout(resolve, retryDelay));
+              console.log(`⏳ Retrying ${scraperConfig.name} in ${retryDelay.toFixed(0)}ms...`);
             }
+            await new Promise(resolve => setTimeout(resolve, retryDelay));
           }
         }
       });
       
-      // Wait for current batch to complete
-      const batchResults = await Promise.all(batchPromises);
-      results.push(...batchResults);
+      // Wait for current batch to complete, with error tolerance (continue on individual failures)
+      let batchResults;
+      try {
+        batchResults = await Promise.all(batchPromises);
+      } catch (batchError) {
+        console.error(`❌ Batch ${batchNumber} had an unhandled error: ${batchError.message}. Continuing with available results.`);
+        batchResults = []; // Or collect partial if using allSettled
+      }
+      results.push(...batchResults.filter(result => result)); // Filter nulls if any
       
-      // Progress update
-      const progress = ((completedScrapers / configs.length) * 100).toFixed(1);
-      console.log(`📈 Progress: ${completedScrapers}/${configs.length} (${progress}%) - Success: ${successfulScrapers}, Failed: ${failedScrapers}`);
+      // Complete batch tracking
+      batchProgress.duration = Date.now() - batchStartTime;
+      overallProgress.batchResults.push(batchProgress);
+      
+      // Enhanced progress reporting after each batch
+      const progressPercent = ((overallProgress.processedCompanies / overallProgress.totalCompanies) * 100).toFixed(1);
+      const elapsedTime = Date.now() - overallProgress.startTime;
+      const avgTimePerCompany = overallProgress.processedCompanies > 0 ? elapsedTime / overallProgress.processedCompanies : 0;
+      const estimatedTimeRemaining = avgTimePerCompany * (overallProgress.totalCompanies - overallProgress.processedCompanies);
+      
+      console.log(`\n🏁 Batch ${batchNumber}/${totalBatches} Completed in ${(batchProgress.duration/1000).toFixed(1)}s:`);
+      console.log(`   ✅ Successful: ${batchProgress.successful.length} companies`);
+      console.log(`   ❌ Failed: ${batchProgress.failed.length} companies`);
+      console.log(`   📊 Jobs collected in this batch: ${batchProgress.totalJobs}`);
+      
+      if (batchProgress.successful.length > 0) {
+        console.log(`   🎯 Successful companies: ${batchProgress.successful.map(s => `${s.name}(${s.jobs})`).join(', ')}`);
+      }
+      
+      if (batchProgress.failed.length > 0) {
+        console.log(`   💥 Failed companies: ${batchProgress.failed.map(f => `${f.name}(${f.error.substring(0, 30)}...)`).join(', ')}`);
+      }
+      
+      console.log(`\n📈 Overall Progress: ${overallProgress.processedCompanies}/${overallProgress.totalCompanies} (${progressPercent}%)`);
+      console.log(`   ✅ Total Successful: ${overallProgress.successfulCompanies}`);
+      console.log(`   ❌ Total Failed: ${overallProgress.failedCompanies}`);
+      console.log(`   ⏭️  Total Skipped: ${overallProgress.skippedCompanies}`);
+      console.log(`   📊 Total Jobs Collected: ${overallProgress.totalJobsCollected}`);
+      console.log(`   ⏱️  Elapsed Time: ${(elapsedTime/1000).toFixed(1)}s`);
+      console.log(`   🔮 Estimated Time Remaining: ${(estimatedTimeRemaining/1000).toFixed(1)}s`);
       
       // Add delay between batches (except for the last batch)
       if (i + config.batchSize < configs.length) {
@@ -691,134 +751,166 @@ async function fetchAllRealJobs() {
       }
     }
     
+    // Final comprehensive summary
+    const totalDuration = Date.now() - overallProgress.startTime;
+    console.log(`\n🏆 ===== BATCH PROCESSING COMPLETE =====`);
+    console.log(`🕐 Total Duration: ${(totalDuration/1000).toFixed(1)}s (${(totalDuration/60000).toFixed(1)} minutes)`);
+    console.log(`📊 Final Statistics:`);
+    console.log(`   📈 Total Companies Processed: ${overallProgress.processedCompanies}/${overallProgress.totalCompanies}`);
+    console.log(`   ✅ Successful Companies: ${overallProgress.successfulCompanies} (${((overallProgress.successfulCompanies/overallProgress.totalCompanies)*100).toFixed(1)}%)`);
+    console.log(`   ❌ Failed Companies: ${overallProgress.failedCompanies} (${((overallProgress.failedCompanies/overallProgress.totalCompanies)*100).toFixed(1)}%)`);
+    console.log(`   ⏭️  Skipped Companies: ${overallProgress.skippedCompanies} (${((overallProgress.skippedCompanies/overallProgress.totalCompanies)*100).toFixed(1)}%)`);
+    console.log(`   📊 Total Jobs Collected: ${overallProgress.totalJobsCollected}`);
+    console.log(`   ⚡ Average Jobs per Successful Company: ${overallProgress.successfulCompanies > 0 ? (overallProgress.totalJobsCollected/overallProgress.successfulCompanies).toFixed(1) : 0}`);
+    
+    // Detailed success and failure breakdown
+    console.log(`\n🎉 Successful Companies (${companiesStatus.successful.length}):`);
+    companiesStatus.successful
+      .sort((a, b) => b.jobs - a.jobs) // Sort by job count descending
+      .forEach((company, index) => {
+        console.log(`   ${index + 1}. ${company.name}: ${company.jobs} jobs (${(company.duration/1000).toFixed(1)}s, ${company.attempts} attempts)`);
+      });
+    
+    if (companiesStatus.failed.length > 0) {
+      console.log(`\n💥 Failed Companies (${companiesStatus.failed.length}):`);
+      companiesStatus.failed.forEach((company, index) => {
+        console.log(`   ${index + 1}. ${company.name}: ${company.error} (${(company.duration/1000).toFixed(1)}s, ${company.attempts} attempts)`);
+      });
+    }
+    
+    if (companiesStatus.skipped.length > 0) {
+      console.log(`\n⏭️ Skipped Companies (${companiesStatus.skipped.length}):`);
+      companiesStatus.skipped.forEach((company, index) => {
+        console.log(`   ${index + 1}. ${company}`);
+      });
+    }
+    
+    console.log(`🏁 Batch processing completed. Total results: ${results.length}`);
     return results;
   }
 
   // Process all scrapers in optimized batches
-  // You can use different configurations:
-  // - BATCH_CONFIG (default: 8 companies per batch, 2s delay)
-  // - BATCH_PRESETS.fast (10 companies per batch, 1.5s delay)
-  // - BATCH_PRESETS.conservative (5 companies per batch, 4s delay)
-  // - BATCH_PRESETS.debug (3 companies per batch, 3s delay)
-  // - createBatchConfig({ batchSize: 12, delayBetweenBatches: 1000 }) (custom)
+  const batchResults = await processScrapersInBatches(scraperConfigs, batchConfig);
   
-  const batchResults = await processScrapersInBatches(scraperConfigs, BATCH_CONFIG);
+  // Collect all jobs from successful scrapers and transform immediately
+  const processedJobIds = new Set(); // Track processed job IDs to prevent duplicates
   
-  // Extract individual results for backward compatibility
-  const [
-    amazon_Hardware,
-    meta_Hardware,
-    microsoft_Hardware,
-    google_Hardware,
-    arm_Hardware,
-    micron_Hardware,
-    ibm_Hardware,
-    abb_Hardware,
-    infineon_Hardware,
-    texas_Hardware,
-    cisco_Hardware,
-    siemens_Hardware,
-    analog_Hardware,
-    Marvel_Hardware,
-    aijobs_Hardware,
-    waymo_Hardware,
-    appliedMaterials_Hardware,
-    synopsys_Hardware,
-    illumina_Hardware,
-    genomics_Hardware,
-    rivian_Hardware,
-    jpmc_Hardware,
-    honeywell_Hardware,
-    amd_Hardware,  
-    nvidia_Hardware,
-    apple_Hardware,
-    intel_Hardware,
-    boozallen_Hardware,
-    broadcom_Hardware,
-    gdit_Hardware,
-    guidehouse_Hardware,
-    hpe_Hardware,
-    magna_Hardware,
-    verizon_Hardware,
-    workday_Hardware,
-  ] = batchResults.map(result => result.jobs);
-
-  // Add all jobs to the results array
-  allJobs.push(
-    ...amazon_Hardware,
-    ...meta_Hardware,
-    ...microsoft_Hardware,
-    ...google_Hardware,
-    ...arm_Hardware,
-    ...micron_Hardware,
-    ...ibm_Hardware,
-    ...abb_Hardware,
-    ...infineon_Hardware,
-    ...texas_Hardware,
-    ...cisco_Hardware,
-    ...siemens_Hardware,
-    ...analog_Hardware,
-    ...Marvel_Hardware,
-    ...aijobs_Hardware,
-    ...waymo_Hardware,
-    ...appliedMaterials_Hardware,
-    ...synopsys_Hardware,
-    ...illumina_Hardware,
-    ...genomics_Hardware,
-    ...rivian_Hardware,
-    ...jpmc_Hardware,
-    ...honeywell_Hardware,
-    ...amd_Hardware,
-    ...nvidia_Hardware,
-    ...apple_Hardware,
-    ...intel_Hardware,
-    ...boozallen_Hardware,
-    ...broadcom_Hardware,
-    
-    ...gdit_Hardware,
-    ...guidehouse_Hardware,
-    ...hpe_Hardware,
-    ...magna_Hardware,
-  
-    ...verizon_Hardware,
-    ...workday_Hardware,
-  );
-
-  const removedJobs = [];
-allJobs = allJobs.filter(job => {
-    const isUSJob = isUSOnlyJob(job);
-    
-    if (!isUSJob) {
-        removedJobs.push(job);
-        return false; // Remove non-US job
+  batchResults.forEach(result => {
+    if (result.success && result.jobs && result.jobs.length > 0) {
+      try {
+        const transformedJobs = transformJobs(result.jobs, searchQuery);
+        console.log(`🔄 Transforming ${result.jobs.length} jobs from ${result.name}`);
+        
+        // Filter out already processed jobs
+        const newJobs = transformedJobs.filter(job => {
+          const jobId = generateJobId(job);
+          if (processedJobIds.has(jobId)) {
+            return false;
+          }
+          processedJobIds.add(jobId);
+          return true;
+        });
+        
+        if (newJobs.length > 0) {
+          allJobs.push(...newJobs);
+          console.log(`✅ Added ${newJobs.length} new jobs from ${result.name} (${transformedJobs.length - newJobs.length} duplicates filtered)`);
+        } else {
+          console.log(`⚠️ No new jobs from ${result.name} - all were duplicates`);
+        }
+      } catch (transformError) {
+        console.error(`❌ Error transforming jobs from ${result.name}:`, transformError.message);
+      }
+    } else if (result.success) {
+      console.log(`ℹ️ ${result.name} returned no jobs`);
     }
-    
-    return true; // Keep US job
-});
+  });
 
-// Console log the removed jobs
-console.log(`Removed ${removedJobs.length} non-US jobs:`, removedJobs);
+  console.log(`📊 Total jobs collected after transformation: ${allJobs.length}`);
 
+  // Early exit if no jobs found
+  if (allJobs.length === 0) {
+    console.log(`⚠️ No jobs found. Exiting early.`);
+    return [];
+  }
+
+  // Filter jobs by level (remove senior-level positions)
+  console.log('🎯 Filtering jobs by experience level...');
+  let processedJobs;
+  try {
+    const levelFilteredJobs = filterJobsByLevel(allJobs);
+    console.log(`🎯 Level filtering: ${allJobs.length} -> ${levelFilteredJobs.length} jobs`);
+    processedJobs = levelFilteredJobs;
+  } catch (filterError) {
+    console.error('❌ Error in level filtering:', filterError.message);
+    processedJobs = allJobs; // Fallback to unfiltered jobs
+  }
+
+  // Early exit if no jobs after filtering
+  if (processedJobs.length === 0) {
+    console.log(`⚠️ No jobs remaining after level filtering. Exiting.`);
+    return [];
+  }
+
+  // Commented out API and external jobs to prevent additional loops
+  // Uncomment these sections only if needed and ensure they don't cause loops
+  /*
+  // Get companies with APIs and fetch their jobs
   const companiesWithAPIs = Object.keys(CAREER_APIS);
-
+  
   // Fetch real jobs from companies with APIs
-  // for (const company of companiesWithAPIs) {
-  //     const jobs = await fetchCompanyJobs(company);
-  //     allJobs.push(...jobs);
+  for (const company of companiesWithAPIs) {
+    try {
+      const jobs = await fetchCompanyJobs(company);
+      const transformedAPIJobs = transformJobs(jobs, searchQuery);
+      processedJobs.push(...transformedAPIJobs);
+      console.log(`✅ Added ${transformedAPIJobs.length} jobs from ${company} API`);
 
-  //     // Be respectful with rate limiting
-  //     await delay(2000);
-  // }
+      // Be respectful with rate limiting
+      await delay(2000);
+    } catch (apiError) {
+      console.error(`❌ Error fetching jobs from ${company} API:`, apiError.message);
+    }
+  }
 
   // Fetch jobs from external sources
-  // const externalJobs = await fetchSimplifyJobsData();
-  // allJobs.push(...externalJobs);
+  try {
+    const externalJobs = await fetchSimplifyJobsData();
+    const transformedExternalJobs = transformJobs(externalJobs, searchQuery);
+    processedJobs.push(...transformedExternalJobs);
+    console.log(`✅ Added ${transformedExternalJobs.length} external jobs`);
+  } catch (externalError) {
+    console.error('❌ Error fetching external jobs:', externalError.message);
+  }
+  */
+
+  // Filter for US-only jobs
+  const removedJobs = [];
+  const initialCount = processedJobs.length;
+  
+  try {
+    processedJobs = processedJobs.filter(job => {
+      const isUSJob = isUSOnlyJob(job);
+      
+      if (!isUSJob) {
+        removedJobs.push(job);
+        return false; // Remove non-US job
+      }
+      
+      return true; // Keep US job
+    });
+
+    console.log(`🗺️ Location filtering: ${initialCount} -> ${processedJobs.length} jobs (removed ${removedJobs.length} non-US jobs)`);
+  } catch (locationError) {
+    console.error('❌ Error in location filtering:', locationError.message);
+  }
 
   // Remove duplicates using standardized job ID generation
-  const uniqueJobs = allJobs.filter((job, index, self) => {
+  const uniqueJobs = processedJobs.filter((job, index, self) => {
     const jobId = generateJobId(job);
     return index === self.findIndex((j) => generateJobId(j) === jobId);
   });
+
+  console.log(`🧹 After deduplication: ${uniqueJobs.length}`);
 
   // Sort by posting date (descending - latest first)
   uniqueJobs.sort((a, b) => {
@@ -827,13 +919,9 @@ console.log(`Removed ${removedJobs.length} non-US jobs:`, removedJobs);
     return dateB - dateA;
   });
 
-  console.log(`📊 Total jobs collected: ${allJobs.length}`);
-  console.log(`🧹 After deduplication: ${uniqueJobs.length}`);
-  console.log(`🏢 Companies with real API data: ${companiesWithAPIs.length}`);
-  //   console.log(`📡 External job sources: ${externalJobs.length}`);
+  // console.log(`🏢 Companies with real API data: ${companiesWithAPIs.length}`);
   console.log(`✅ REAL JOBS ONLY - No fake data!`);
 
   return uniqueJobs;
 }
-
 module.exports = { fetchAllRealJobs };
