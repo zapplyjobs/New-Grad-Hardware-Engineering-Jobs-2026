@@ -8,7 +8,7 @@ const {
   handleInfiniteScrollPagination, 
   handleShowMorePagination 
 } = require("../services/paginationService.js");
-const { validateJobObject, sanitizeJobObject } = require("../types/jobTypes.js");
+const { validateJobObject, sanitizeJobObject } = require("../types/JobTypes.js");
 const { PAGINATION_CONSTANTS, PAGINATION_TYPES } = require("../utils/constants.js");
 
 /**
