@@ -1,22 +1,23 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Technical Program Manager",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "6 Category: hardware engineering. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Technical Program Manager, Infrastructure Deployment Software",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/112796204231729862-senior-technical-program-manager-infrastructure-deployment-software?q=%22hardware+engineering%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-senior-technical-program-manager-sunnyvale"
+    "job_title": "Front-End Engineer, Kuiper Manufacturing Systems Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "hardware engineering job for the role Front-End Engineer, Kuiper Manufacturing Systems Engineering at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071620/front-end-engineer-kuiper-manufacturing-systems-engineering",
+    "job_posted_at": "2025-09-03T06:07:05.162Z",
+    "job_posted_at_datetime_utc": "2025-09-03T06:07:05.162Z",
+    "id": "amazon-front-end-engineer-kuiper-manufacturing-systems-engineering-bellevue"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Lead Building Automation Service Specialist",
-    "job_city": "Chantilly",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Lead Building Automation Service Specialist at Chantilly, Virginia, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-lead-building-automation-service-specialist-chantilly"
+    "employer_name": "10x Genomics",
+    "job_title": "Software Engineer, Infrastructure Engineering",
+    "job_city": "Pleasanton",
+    "job_state": "California",
+    "job_posted_at": "6 months ago",
+    "job_description": "hardware engineering position at 10x Genomics - Senior Software Engineer, Infrastructure Engineering",
+    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171826177042",
+    "id": "10x-genomics-software-engineer-infrastructure-engineering-pleasanton"
   }
 ]
