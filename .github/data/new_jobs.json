@@ -1,23 +1,72 @@
 [
   {
-    "job_title": "Electrical Engineer, Colocation Regional Engineering (CRE)",
-    "employer_name": "Amazon",
-    "job_city": "Denver",
-    "job_state": "CO",
-    "job_description": "hardware engineering job for the role Electrical Engineer, Colocation Regional Engineering (CRE) at Denver, CO, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2981073/electrical-engineer-colocation-regional-engineering-cre",
-    "job_posted_at": "2025-09-02T21:06:25.596Z",
-    "job_posted_at_datetime_utc": "2025-09-02T21:06:25.596Z",
-    "id": "amazon-electrical-engineer-colocation-regional-engineering-cre-denver"
-  },
-  {
     "employer_name": "Micron",
-    "job_title": "Intern - Technician, Process",
+    "job_title": "Intern - Process Integration – Advanced Packaging",
     "job_city": "Boise",
     "job_state": "Idaho",
     "job_posted_at": "Posted a day ago",
-    "job_description": "hardware engineering job for the role Intern - Technician, Process at Boise, Idaho, United States of America + 2 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/37798378",
-    "id": "micron-intern-technician-process-boise"
+    "job_description": "hardware engineering job for the role Intern - Process Integration – Advanced Packaging at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/37795681",
+    "id": "micron-intern-process-integration-advanced-packaging-boise"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation Systems Specialist",
+    "job_city": "Plano",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Building Automation Systems Specialist at Plano, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-systems-specialist-plano"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Autonomy AI Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1h ago",
+    "job_description": "hardware engineering job for the role Autonomy AI Engineer at Austin, TX, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/160155150-autonomy-ai-engineer",
+    "id": "aijobs-autonomy-ai-engineer-us"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "SOC Engineering, Sr Manager",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1 day ago",
+    "job_description": "hardware engineering job for the role SOC Engineering, Sr Manager at Austin, Texas",
+    "job_apply_link": "https://careers.synopsys.com/job/austin/soc-engineering-sr-manager/44408/85712170192",
+    "id": "synopsys-soc-engineering-sr-manager-austin"
+  },
+  {
+    "employer_name": "Booz Allen ",
+    "job_title": "Digital Mission Engineer",
+    "job_city": "Langley AFB",
+    "job_state": "VA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Digital Mission Engineer at Langley AFB, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Digital-Mission-Engineer_R0225493?q=hardware+engineering",
+    "id": "booz-allen-digital-mission-engineer-langley-afb"
+  },
+  {
+    "employer_name": "Booz Allen ",
+    "job_title": "Defense Mission Engineer",
+    "job_city": "Langley AFB",
+    "job_state": "VA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Defense Mission Engineer at Langley AFB, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Defense-Mission-Engineer_R0225494?q=hardware+engineering",
+    "id": "booz-allen-defense-mission-engineer-langley-afb"
+  },
+  {
+    "employer_name": "Booz Allen ",
+    "job_title": "Digital Engineer, Lead",
+    "job_city": "El Segundo",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Digital Engineer, Lead at El Segundo, CA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Digital-Engineer--Lead_R0225496?q=hardware+engineering",
+    "id": "booz-allen-digital-engineer-lead-el-segundo"
   }
 ]
