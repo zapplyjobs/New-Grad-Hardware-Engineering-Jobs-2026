@@ -1,42 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Postdoctoral Researcher",
-    "job_city": "San Jose",
-    "job_state": "US",
+    "employer_name": "Microsoft",
+    "job_title": "Senior Product Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Postdoctoral Researcher at Entry LevelSan Jose, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA",
-    "id": "ibm-postdoctoral-researcher-san-jose"
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Product Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1865074/Senior-Product-Manager",
+    "id": "microsoft-senior-product-manager-redmond"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Software Engineer PhD (Intern) United States",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Technology Support Sr Specialist",
+    "job_city": "Boston",
+    "job_state": "MA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer PhD (Intern) United States at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-PhD-Intern-United-States/1449981",
-    "id": "cisco-software-engineer-phd-intern-united-states-san-jose"
+    "job_description": "hardware job for the role Technology Support Sr Specialist at Boston, MA, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210663232/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-technology-support-sr-specialist-boston"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Capacity Planner - ASIC, Silicon One",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Capacity Planner - ASIC, Silicon One 1446938 at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Capacity-Planner-ASIC-Silicon-One-1446938/1446938",
-    "id": "cisco-capacity-planner-asic-silicon-one-san-jose"
-  },
-  {
-    "employer_name": "MAGNA",
-    "job_title": "IT Technician, 1st Shift (6am-2pm)",
-    "job_city": "Warren",
-    "job_state": "Michigan",
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "Manufacturing Technician",
+    "job_city": "Aguadilla",
+    "job_state": "Puerto Rico",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role IT Technician, 1st Shift (6am-2pm) at Warren, Michigan, US",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Warren-Michigan-US/IT-Technician--1st-Shift--6am-2pm-_R00207707?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-it-technician-1st-shift-6am-2pm-warren"
+    "job_description": "hardware engineering job for the role Manufacturing Technician at Aguadilla, Puerto Rico, Puerto Rico",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Manufacturing-Technician_1191801-2?q=hardware+engineering",
+    "id": "hewlett-packard-enterprise-manufacturing-technician-aguadilla"
   }
 ]
