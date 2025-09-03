@@ -1,62 +1,32 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "Business Development Manager, Service",
-    "job_city": "Multiple",
-    "job_state": "Various",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Business Development Manager, Service at Available in one of 2 s",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00009100/Business-Development-Manager-Service",
-    "id": "abb-business-development-manager-service-multiple"
+    "employer_name": "Microsoft",
+    "job_title": "Senior Quality Engineering",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Quality Engineering",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864940/Senior-Quality-Engineering",
+    "id": "microsoft-senior-quality-engineering-redmond"
   },
   {
-    "employer_name": "TEXAS INSTRUMENTS",
-    "job_title": "Test Engineer",
-    "job_city": "",
-    "job_state": "United States",
+    "employer_name": "SIEMENS",
+    "job_title": "Field Service Technician- Rolling Stock, Seattle",
+    "job_city": "Seattle",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Test Engineer at United States",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25006988/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-test-engineer-"
+    "job_description": "hardware engineering job for the role Field Service Technician- Rolling Stock, Seattle at Seattle, Washington, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=hardware%20engineering&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-field-service-technician-rolling-stock-seattle-seattle"
   },
   {
     "employer_name": "10x Genomics",
-    "job_title": "Manager, Facilities Services (P-4785)",
+    "job_title": "Manager, Facilities Services (Pleasanton) (P-4785)",
     "job_city": "Pleasanton",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering position at 10x Genomics - Senior Manager, Facilities Services (P-4785)",
+    "job_description": "hardware engineering position at 10x Genomics - Senior Manager, Facilities Services (Pleasanton) (P-4785)",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171836491065",
-    "id": "10x-genomics-manager-facilities-services-p-4785-pleasanton"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Director, Business Development T1 CSP Customers -GPU",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Director, Business Development T1 CSP Customers -GPU at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/70567/login",
-    "id": "amd-director-business-development-t1-csp-customers-gpu-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Director, Business Development, China CSP and Operations (DC-GPU)",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Director, Business Development, China CSP and Operations (DC-GPU) at US,CA,San Jose\n2100 Logic Drive\nSan Jose, California\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/70566/login",
-    "id": "amd-director-business-development-china-csp-and-operations-dc-gpu-us"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Product Engineer",
-    "job_city": "Aguadilla",
-    "job_state": "Puerto Rico",
-    "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Junior Product Engineer at Aguadilla, Puerto Rico, Puerto Rico",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Junior-Product-Engineer_1191784-1?q=hardware+engineering",
-    "id": "hewlett-packard-enterprise-product-engineer-aguadilla"
+    "id": "10x-genomics-manager-facilities-services-pleasanton-p-4785-pleasanton"
   }
 ]
