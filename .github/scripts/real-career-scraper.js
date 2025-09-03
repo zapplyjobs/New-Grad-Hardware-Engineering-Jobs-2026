@@ -57,10 +57,10 @@ function createBatchConfig(options = {}) {
 }
 
 // Load company database
-const companies = JSON.parse(
-  fs.readFileSync("./companies.json", "utf8")
-);
-const ALL_COMPANIES = Object.values(companies).flat();
+// const companies = JSON.parse(
+//   fs.readFileSync("./companies.json", "utf8")
+// );
+// const ALL_COMPANIES = Object.values(companies).flat();
 
 // Real career page endpoints for major companies
 const CAREER_APIS = {
