@@ -1,72 +1,22 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Technical Program Manager, Capacity",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Technical Program Manager, Capacity at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/160170604-technical-program-manager-capacity",
-    "id": "aijobs-technical-program-manager-capacity-santa-clara"
+    "employer_name": "IBM",
+    "job_title": "Technical Solution Specialist Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Technical Solution Specialist Intern 2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56580&source=WEB_Search_NA",
+    "id": "ibm-technical-solution-specialist-intern-multiple-cities"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Developer Technology Engineer, High-Performance Databases",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Developer Technology Engineer, High-Performance Databases at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/160170605-senior-developer-technology-engineer-high-performance-databases",
-    "id": "aijobs-developer-technology-engineer-high-performance-databases-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Deep Learning Manager, LLM Inference",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "hardware engineering job for the role Senior Deep Learning Manager, LLM Inference at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/160170607-senior-deep-learning-manager-llm-inference",
-    "id": "aijobs-deep-learning-manager-llm-inference-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Cloud Infrastructure",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "5min ago",
-    "job_description": "hardware engineering job for the role Software Engineer, Cloud Infrastructure at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/160173733-software-engineer-cloud-infrastructure",
-    "id": "aijobs-software-engineer-cloud-infrastructure-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Reliability",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "6min ago",
-    "job_description": "hardware engineering job for the role Software Engineer, Reliability at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/160173732-software-engineer-reliability",
-    "id": "aijobs-software-engineer-reliability-united-states"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Web Designer, Growth",
-    "job_city": "United States",
-    "job_state": "California",
-    "job_posted_at": "2h ago",
-    "job_description": "hardware engineering job for the role Web Designer, Growth at San Francisco, California, United States",
-    "job_apply_link": "https://www.aijobs.com/jobs/160173727-web-designer-growth",
-    "id": "aijobs-web-designer-growth-united-states"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Simulation Engineer",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "6 days ago",
-    "job_description": "hardware engineering job for the role Simulation Engineer at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200617377-0836/simulation-engineer?team=HRDWR",
-    "id": "apple-simulation-engineer-cupertino"
+    "employer_name": "IBM",
+    "job_title": "Storage Sales Specialist",
+    "job_city": "Brookhaven",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Storage Sales Specialist at ProfessionalBrookhaven, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55098&source=WEB_Search_NA",
+    "id": "ibm-storage-sales-specialist-brookhaven"
   }
 ]
