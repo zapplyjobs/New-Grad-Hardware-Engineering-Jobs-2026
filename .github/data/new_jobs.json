@@ -1,32 +1,62 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Senior Product Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: hardware engineering. Level: All Levels. Posted: Recently. Full Title: hardware engineering - Senior Product Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1865074/Senior-Product-Manager",
-    "id": "microsoft-senior-product-manager-redmond"
+    "employer_name": "ABB",
+    "job_title": "Business Development Manager, Service",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Business Development Manager, Service at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00009100/Business-Development-Manager-Service",
+    "id": "abb-business-development-manager-service-multiple"
   },
   {
-    "employer_name": "JP Morgan Chase",
-    "job_title": "Technology Support Sr Specialist",
-    "job_city": "Boston",
-    "job_state": "MA",
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Test Engineer",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "hardware job for the role Technology Support Sr Specialist at Boston, MA, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210663232/?keyword=hardware&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-technology-support-sr-specialist-boston"
+    "job_description": "hardware engineering job for the role Test Engineer at United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25006988/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-test-engineer-"
+  },
+  {
+    "employer_name": "10x Genomics",
+    "job_title": "Manager, Facilities Services (P-4785)",
+    "job_city": "Pleasanton",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering position at 10x Genomics - Senior Manager, Facilities Services (P-4785)",
+    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171836491065",
+    "id": "10x-genomics-manager-facilities-services-p-4785-pleasanton"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Director, Business Development T1 CSP Customers -GPU",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Director, Business Development T1 CSP Customers -GPU at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/70567/login",
+    "id": "amd-director-business-development-t1-csp-customers-gpu-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Director, Business Development, China CSP and Operations (DC-GPU)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Senior Director, Business Development, China CSP and Operations (DC-GPU) at US,CA,San Jose\n2100 Logic Drive\nSan Jose, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/70566/login",
+    "id": "amd-director-business-development-china-csp-and-operations-dc-gpu-us"
   },
   {
     "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Manufacturing Technician",
+    "job_title": "Product Engineer",
     "job_city": "Aguadilla",
     "job_state": "Puerto Rico",
     "job_posted_at": "Posted Today",
-    "job_description": "hardware engineering job for the role Manufacturing Technician at Aguadilla, Puerto Rico, Puerto Rico",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Manufacturing-Technician_1191801-2?q=hardware+engineering",
-    "id": "hewlett-packard-enterprise-manufacturing-technician-aguadilla"
+    "job_description": "hardware engineering job for the role Junior Product Engineer at Aguadilla, Puerto Rico, Puerto Rico",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Junior-Product-Engineer_1191784-1?q=hardware+engineering",
+    "id": "hewlett-packard-enterprise-product-engineer-aguadilla"
   }
 ]
