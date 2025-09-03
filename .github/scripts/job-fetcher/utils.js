@@ -98,6 +98,349 @@ function isJobOlderThanWeek(dateString) {
     return diffInDays >= 7;
 }
 
+
+// Job level filtering function for entry to mid-level positions
+function filterJobsByLevel(jobs) {
+  console.log(`🔍 Starting job level filtering for ${jobs.length} jobs...`);
+  
+  // Enhanced keywords that indicate senior/advanced level positions (to EXCLUDE)
+  const seniorKeywords = [
+    // Traditional senior titles
+      'senior', 'sr.', 'sr ', 'lead', 'principal', 'staff', 'architect', 
+    'director', 'manager', 'head of', 'chief', 'vp', 'vice president',
+    
+    // Expert level indicators
+    'expert', 'specialist', 'consultant', 'advanced', 'executive',
+    'tech lead', 'technical lead', 'team lead', 'team leader',
+    
+    // Management and leadership
+    'supervisor', 'coordinator', 'program manager', 'project manager',
+    'engineering manager',
+    
+    // Additional senior keywords
+    'senior director', 'executive director', 'group leader', 'division head', 
+    'department head', 'fellow', 'guru', 'master', 'senior specialist', 
+    'principal consultant', 'distinguished engineer', 'senior architect', 
+    'lead architect', 'chief architect', 'senior scientist', 'strategy', 
+    'strategic', 'portfolio manager', 'senior advisor', 'principal advisor', 
+    'veteran', 'seasoned', 'senior consultant', 'lead consultant', 'senior lead'
+  ];
+  
+  // Enhanced keywords that indicate entry/junior level positions (to INCLUDE)
+  const juniorKeywords = [
+    // Traditional junior titles
+    'junior', 'jr.', 'jr ', 'entry', 'entry-level', 'entry level',
+    
+    // Graduate programs
+    'graduate', 'new grad', 'new graduate', 'recent graduate', 
+    'college graduate', 'university graduate', 'fresh graduate',
+    
+    // Training and development programs
+    'intern', 'internship', 'trainee', 'apprentice', 'rotational',
+    'graduate program', 'training program', 'development program',
+    
+    // Early career indicators
+    'associate', 'fresh', 'beginner', 'starting', 'early career',
+    
+    // Level indicators
+    'level 1', 'level i', 'grade 1', 'tier 1', '0-2 years'
+  ];
+  
+  // Enhanced keywords that indicate mid-level positions (to INCLUDE)
+  const midLevelKeywords = [
+    // Standard mid-level titles
+    'mid-level', 'mid level', 'intermediate', 'regular',
+    
+    // Common role titles (without senior/junior prefix)
+    'developer', 'engineer', 'programmer', 'analyst', 
+    
+    // Level indicators
+    'level 2', 'level ii', 'level 3', 'level iii', 'grade 2', 'tier 2'
+  ];
+  
+  // Enhanced experience patterns to check in descriptions
+  const experiencePatterns = [
+    // Standard patterns
+    /(\d+)\s*[-+to]\s*(\d+)?\s*years?\s*(?:of\s*)?(?:experience|exp|work)/gi,
+    /(?:minimum|min|at least|require[ds]?|need|must have)\s*(\d+)\s*years?\s*(?:of\s*)?(?:experience|exp)/gi,
+    /(\d+)\s*\+\s*years?\s*(?:of\s*)?(?:experience|exp)/gi,
+    /(\d+)\s*or\s*more\s*years?\s*(?:of\s*)?(?:experience|exp)/gi,
+    
+    // Additional patterns
+    /(?:with|having)\s*(\d+)\s*years?\s*(?:of\s*)?(?:experience|exp)/gi,
+    /(\d+)\s*years?\s*(?:of\s*)?(?:professional|relevant|related)\s*(?:experience|exp)/gi,
+    /(?:minimum|at least)\s*(\d+)\s*years?\s*in/gi,
+    /(\d+)\s*years?\s*(?:background|history)/gi
+  ];
+  
+  // Education requirements that are acceptable (bachelor's degree is fine)
+  const acceptableEducation = [
+    'bachelor', 'bachelors', "bachelor's", 'bs', 'b.s.', 'undergraduate',
+    'college degree', 'university degree', 'degree preferred', 'degree or equivalent',
+    'related field', 'computer science', 'engineering degree', 'technical degree'
+  ];
+  
+  // Enhanced education requirements that are too advanced (to EXCLUDE)
+  const advancedEducation = [
+    'phd', 'ph.d.', 'doctorate', 'doctoral', 'postgraduate required'
+  ];
+
+  // Pattern to detect search query formatted descriptions
+  function isSearchQueryDescription(description) {
+    if (!description) return false;
+    
+    // Check for patterns like "software engineer job for the role developer"
+    const searchQueryPattern = /\b\w+\s+job\s+for\s+the\s+role\s+\w+/i;
+    const isSearchQuery = searchQueryPattern.test(description);
+    
+    if (isSearchQuery) {
+      console.log(`   🔍 Detected search query format description - will ignore for experience filtering`);
+    }
+    
+    return isSearchQuery;
+  }
+
+  function extractYearsFromDescription(description) {
+    if (!description) return [];
+    
+    // Skip extraction if this is a search query formatted description
+    if (isSearchQueryDescription(description)) {
+      console.log(`   ⚠️  Skipping experience extraction from search query format description`);
+      return [];
+    }
+    
+    const years = [];
+    const lowerDesc = description.toLowerCase();
+    
+    experiencePatterns.forEach(pattern => {
+      const matches = [...lowerDesc.matchAll(pattern)];
+      matches.forEach(match => {
+        const minYears = parseInt(match[1]);
+        if (!isNaN(minYears)) {
+          years.push(minYears);
+        }
+        
+        if (match[2] && !isNaN(parseInt(match[2]))) {
+          years.push(parseInt(match[2]));
+        }
+      });
+    });
+    
+    return years;
+  }
+
+  function checkTitleLevel(title) {
+    if (!title) return { level: 'unknown', matchedKeyword: '' };
+    
+    const lowerTitle = title.toLowerCase();
+    
+    // Check for senior-level indicators (EXCLUDE)
+    for (const keyword of seniorKeywords) {
+      if (lowerTitle.includes(keyword.toLowerCase())) {
+        return { level: 'senior', matchedKeyword: keyword };
+      }
+    }
+    
+    // Check for junior-level indicators (INCLUDE)
+    for (const keyword of juniorKeywords) {
+      if (lowerTitle.includes(keyword.toLowerCase())) {
+        return { level: 'junior', matchedKeyword: keyword };
+      }
+    }
+    
+    // Check for mid-level indicators (INCLUDE)
+    for (const keyword of midLevelKeywords) {
+      if (lowerTitle.includes(keyword.toLowerCase())) {
+        return { level: 'mid', matchedKeyword: keyword };
+      }
+    }
+    
+    return { level: 'unclear', matchedKeyword: '' };
+  }
+
+  function checkEducationRequirements(description) {
+    if (!description) return { level: 'acceptable', matchedRequirement: '' };
+    
+    // Skip education check for search query formatted descriptions
+    if (isSearchQueryDescription(description)) {
+      console.log(`   📚 Skipping education requirement check for search query format description`);
+      return { level: 'acceptable', matchedRequirement: 'search_query_format' };
+    }
+    
+    const lowerDesc = description.toLowerCase();
+    
+    // Check for advanced degree requirements (EXCLUDE)
+    for (const edu of advancedEducation) {
+      if (lowerDesc.includes(edu.toLowerCase())) {
+        // Exception: if it says "master's preferred" or "nice to have", it's still acceptable
+        if (lowerDesc.includes('preferred') || lowerDesc.includes('nice to have') || 
+            lowerDesc.includes('plus') || lowerDesc.includes('bonus') || 
+            lowerDesc.includes('optional') || lowerDesc.includes('desired')) {
+          continue;
+        }
+        return { level: 'too_advanced', matchedRequirement: edu };
+      }
+    }
+    
+    return { level: 'acceptable', matchedRequirement: '' };
+  }
+
+  // Filter jobs with enhanced categorization
+  const filteredJobs = [];
+  const removedJobs = [];
+  
+  jobs.forEach((job, index) => {
+    let shouldInclude = true;
+    let reason = '';
+    let category = '';
+    
+    const titleAnalysis = checkTitleLevel(job.job_title);
+    const yearsRequired = extractYearsFromDescription(job.job_description);
+    const educationAnalysis = checkEducationRequirements(job.job_description);
+    const isSearchQueryFormat = isSearchQueryDescription(job.job_description);
+    
+    // Enhanced categorization with detailed reasoning
+    console.log(`\n🔍 Job ${index + 1}/${jobs.length}: "${job.job_title}" at ${job.employer_name}`);
+    
+    // Special handling for search query formatted descriptions
+    if (isSearchQueryFormat) {
+      console.log(`   🎯 Search Query Format Detected - Using title-only filtering`);
+    }
+    
+    // Rule 1: Exclude senior-level titles
+    if (titleAnalysis.level === 'senior') {
+      shouldInclude = false;
+      reason = `Senior-level title detected`;
+      category = `EXCLUDED - Title contains "${titleAnalysis.matchedKeyword}"`;
+      console.log(`   ❌ ${category}`);
+    }
+    
+    // Rule 2: Include junior-level titles (even if description might seem advanced)
+    else if (titleAnalysis.level === 'junior') {
+      shouldInclude = true;
+      reason = `Junior-level title confirmed`;
+      category = `INCLUDED - Entry-level title contains "${titleAnalysis.matchedKeyword}"`;
+      console.log(`   ✅ ${category}`);
+    }
+    
+    // Rule 3: Check experience requirements for unclear/mid-level titles
+    else {
+      if (yearsRequired.length > 0) {
+        const maxYears = Math.max(...yearsRequired);
+        console.log(`   📊 Experience required: ${yearsRequired.join(', ')} years (max: ${maxYears})`);
+        
+        if (maxYears >= 5) {
+          shouldInclude = false;
+          reason = `Requires ${maxYears}+ years experience`;
+          category = `EXCLUDED - Too much experience required (${maxYears}+ years)`;
+          console.log(`   ❌ ${category}`);
+        } else {
+          category = `INCLUDED - Acceptable experience requirement (${maxYears} years)`;
+          console.log(`   ✅ ${category}`);
+        }
+      } else {
+        // Rule 3a: No experience requirements mentioned - INCLUDE by default
+        shouldInclude = true;
+        if (isSearchQueryFormat) {
+          category = `INCLUDED - Search query format description (no filtering applied)`;
+          reason = `Search query generated description - entry-level friendly`;
+        } else if (titleAnalysis.level === 'mid') {
+          category = `INCLUDED - Mid-level title "${titleAnalysis.matchedKeyword}", no experience requirements specified`;
+          reason = `Mid-level role with no specific experience mentioned`;
+        } else if (titleAnalysis.level === 'unclear') {
+          category = `INCLUDED - No experience requirements or level indicators found (assuming entry-friendly)`;
+          reason = `No experience barriers identified`;
+        } else {
+          category = `INCLUDED - No specific experience requirements mentioned`;
+          reason = `Open to all experience levels`;
+        }
+        console.log(`   ✅ ${category}`);
+        if (!isSearchQueryFormat) {
+          console.log(`   💡 No years mentioned = Entry-level friendly position`);
+        }
+      }
+    }
+    
+    // Rule 4: Check education requirements (skip for search query formats)
+    if (shouldInclude && educationAnalysis.level === 'too_advanced') {
+      shouldInclude = false;
+      reason = `Requires advanced degree (${educationAnalysis.matchedRequirement})`;
+      category = `EXCLUDED - Advanced degree required: ${educationAnalysis.matchedRequirement}`;
+      console.log(`   ❌ Education: ${category}`);
+    }
+    
+    // Rule 5: Special handling for Google-specific roles
+    if (shouldInclude && job.employer_name && job.employer_name.toLowerCase().includes('google')) {
+      if (titleAnalysis.level === 'senior' || yearsRequired.some(years => years >= 8)) {
+        shouldInclude = false;
+        reason = `Google senior role or 8+ years required`;
+        category = `EXCLUDED - Google senior position or 8+ years experience`;
+        console.log(`   ❌ Google Special Rule: ${category}`);
+      } else {
+        console.log(`   🔍 Google Role: Passed special screening`);
+      }
+    }
+    
+    // Final decision logging
+    if (shouldInclude) {
+      console.log(`   ✅ FINAL DECISION: INCLUDED`);
+      filteredJobs.push(job);
+    } else {
+      console.log(`   ❌ FINAL DECISION: EXCLUDED - ${reason}`);
+      removedJobs.push({ ...job, removal_reason: reason, category: category });
+    }
+  });
+  
+  // Enhanced logging summary
+  console.log(`\n${'='.repeat(50)}`);
+  console.log(`🎯 JOB LEVEL FILTERING SUMMARY`);
+  console.log(`${'='.repeat(50)}`);
+  console.log(`📊 Original jobs: ${jobs.length}`);
+  console.log(`✅ Suitable jobs (entry/mid-level): ${filteredJobs.length} (${((filteredJobs.length/jobs.length)*100).toFixed(1)}%)`);
+  console.log(`❌ Removed jobs (senior/advanced): ${removedJobs.length} (${((removedJobs.length/jobs.length)*100).toFixed(1)}%)`);
+  
+  // Count search query formatted descriptions
+  const searchQueryJobs = jobs.filter(job => isSearchQueryDescription(job.job_description));
+  if (searchQueryJobs.length > 0) {
+    console.log(`🎯 Search query format jobs found: ${searchQueryJobs.length} (protected from description-based filtering)`);
+  }
+  
+  // Enhanced removal reasons breakdown
+  const removalReasons = {};
+  removedJobs.forEach(job => {
+    const reason = job.removal_reason;
+    removalReasons[reason] = (removalReasons[reason] || 0) + 1;
+  });
+  
+  console.log(`\n📈 REMOVAL REASONS BREAKDOWN:`);
+  Object.entries(removalReasons).forEach(([reason, count]) => {
+    const percentage = ((count / removedJobs.length) * 100).toFixed(1);
+    console.log(`   • ${reason}: ${count} jobs (${percentage}%)`);
+  });
+  
+  // Enhanced examples with detailed categorization
+  console.log(`\n✅ EXAMPLES OF KEPT JOBS:`);
+  filteredJobs.slice(0, 5).forEach((job, index) => {
+    const titleAnalysis = checkTitleLevel(job.job_title);
+    const yearsRequired = extractYearsFromDescription(job.job_description);
+    const isSearchQuery = isSearchQueryDescription(job.job_description);
+    console.log(`   ${index + 1}. "${job.job_title}" at ${job.employer_name}`);
+    console.log(`      → Title Level: ${titleAnalysis.level} | Years Required: ${yearsRequired.length ? yearsRequired.join(', ') : 'none specified'} | Search Query Format: ${isSearchQuery ? 'Yes' : 'No'}`);
+  });
+  
+  if (removedJobs.length > 0) {
+    console.log(`\n❌ EXAMPLES OF REMOVED JOBS:`);
+    removedJobs.slice(0, 5).forEach((job, index) => {
+      console.log(`   ${index + 1}. "${job.job_title}" at ${job.employer_name}`);
+      console.log(`      → Reason: ${job.removal_reason}`);
+    });
+  }
+  
+  console.log(`\n${'='.repeat(50)}`);
+  
+  return filteredJobs;
+}
+
 function isUSOnlyJob(job) {
     // Note: There's no job_country field, but country info sometimes appears in job_state
     const state = (job.job_state || '').toLowerCase().trim();
@@ -429,5 +772,6 @@ module.exports = {
     getExperienceLevel,
     getJobCategory,
     formatLocation,
-    fetchInternshipData
+    fetchInternshipData,
+    filterJobsByLevel
 };
