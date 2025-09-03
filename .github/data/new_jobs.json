@@ -1,23 +1,12 @@
 [
   {
-    "job_title": "Front-End Engineer, Kuiper Manufacturing Systems Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "hardware engineering job for the role Front-End Engineer, Kuiper Manufacturing Systems Engineering at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071620/front-end-engineer-kuiper-manufacturing-systems-engineering",
-    "job_posted_at": "2025-09-03T06:07:05.162Z",
-    "job_posted_at_datetime_utc": "2025-09-03T06:07:05.162Z",
-    "id": "amazon-front-end-engineer-kuiper-manufacturing-systems-engineering-bellevue"
-  },
-  {
-    "employer_name": "10x Genomics",
-    "job_title": "Software Engineer, Infrastructure Engineering",
-    "job_city": "Pleasanton",
-    "job_state": "California",
-    "job_posted_at": "6 months ago",
-    "job_description": "hardware engineering position at 10x Genomics - Senior Software Engineer, Infrastructure Engineering",
-    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171826177042",
-    "id": "10x-genomics-software-engineer-infrastructure-engineering-pleasanton"
+    "employer_name": "NVIDIA",
+    "job_title": "Apache Cassandra Distributed Database Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role Apache Cassandra Distributed Database Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Apache-Cassandra-Distributed-Database-Engineer_JR2002799?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-apache-cassandra-distributed-database-engineer-us"
   }
 ]
