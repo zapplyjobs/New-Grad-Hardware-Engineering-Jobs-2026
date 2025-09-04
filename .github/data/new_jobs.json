@@ -1,42 +1,32 @@
 [
   {
     "employer_name": "BAE Systems",
-    "job_title": "Electronic Engineer, Mid",
+    "job_title": "Electronics Engineer, Mid",
     "job_city": "Odon",
     "job_state": "IN",
     "job_posted_at": "Posted Today",
     "job_description": "• Experience with MATLAB programming Experience with RF and wireless communication systems Experience with RF test equipment Ability to obtain a Secret clearance Bachelor's degree in Electrical Engineering If this position is listed as remote or hybrid, you’ll periodically work from a Booz Allen or client site facility.\n• If this position is listed as onsite, you’ll work with colleagues and clients in person, as needed for the specific role.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Odon-IN/Electronic-Engineer--Mid_R0225646?q=hardware+engineering",
-    "id": "bae-systems-electronic-engineer-mid-odon"
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Odon-IN/Electronics-Engineer--Mid_R0225648?q=hardware+engineering",
+    "id": "bae-systems-electronics-engineer-mid-odon"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Linux System Administrator",
-    "job_city": "Aberdeen Proving Ground",
-    "job_state": "MD",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Search: \"hardware+engineering\" Clear All (1) Integrated Project Team LeadlocationsHuntsville, ALposted onPosted 10 Days AgoR0221283 R0221283 Cryptologic Data Flow TechnicianlocationsFort Meade, MDposted onPosted 27 Days AgoR0222762 R0222762 Systems AdministratorlocationsKansas City, MOposted onPosted 9 Days AgoR0225048 R0225048 Cloud Information Assurance SpecialistlocationsLexington, MAposted onPosted 30 Days AgoR0223778 R0223778 Computer ScientistlocationsMcLean, VAposted onPosted YesterdayR0224558 R0224558 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221833 R0221833 Linux System AdministratorlocationsAberdeen Proving Ground, MDposted onPosted 30+ Days AgoR0221928 R0221928 Systems Administratorlocations2 Locationsposted onPosted YesterdayR0224241 R0224241 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221835 R0221835 Cloud System Administratorlocations2 Locationsposted onPosted 15 Days AgoR0223667 R0223667 3 4 5 6 7.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aberdeen-Proving-Ground-MD/Linux-System-Administrator_R0221928?q=hardware+engineering",
-    "id": "bae-systems-linux-system-administrator-aberdeen-proving-ground"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "Hardware Design Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "employer_name": "NVIDIA",
+    "job_title": "Systems Data Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
     "job_posted_at": "Posted Today",
-    "job_description": "• Design validation boards for product evaluation, together with silicon designers, validation engineers, and other hardware / software engineers.\n• Analyze end user’s technical requirement and develop circuit schematics of hardware and evaluation platforms to demonstrate Marvell’s products for system applications.\n• Board design may involve schematic design, component selection, signal integrity and power integrity, safety, reliability and so on.\n• Review and support customer designs using Marvell’s products, to ensure satisfying application requirement.\n• Conduct board bring-ups, testing and debug to confirm circuit designs.\n• Write technical reports and application notes.\n• Familiar with IEEE 802.\n• 3 and optical module / AEC MSAs for datacenter applications.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Hardware-Design-Engineer_2502089?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-hardware-design-engineer-santa-clara"
+    "job_description": "• Work with a team passionate about large scale datacenter development and deployment.\n• We are looking for someone to assist in analyzing large scale workloads and searching for application and infrastructure improvement opportunities.\n• Provide actionable insights on high dimensional to assist engineers in building creative solutions based on NVIDIA technology.\n• Research and analyze data, identify trends of interest, link changes to recorded events, craft conclusions, create visuals, and help the team make intelligent data based decisions.\n• Work closely with a team to learn more about analysis needs and communicate findings with team members.\n• Apply machine learning or deep learning techniques for classification and prediction.\n• Implementation and integrate into existing software toolsets for team usability.\n• Document work and related materials to help team build on top of your contributions.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Data-Engineer_JR1999730?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-systems-data-engineer-2-locations"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, AI for Large Scale Systems",
-    "job_city": "Kirkland",
-    "job_state": "WA",
+    "employer_name": "AMD",
+    "job_title": "Systems Level Debug (Global Partner Support)",
+    "job_city": "US",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Software Engineer, AI for Large Scale Systems ",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/123031583744500422-senior-software-engineer-ai-for-large-scale-systems?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=10",
-    "id": "google-software-engineer-ai-for-large-scale-systems-kirkland"
+    "job_description": "• Advanced Technical Debugging: Lead advanced debugging sessions for complex, multi-node issues involving GPUs, drivers, networking, and AI frameworks.\n• You will be the last line of defense for our partners' toughest technical problems.\n• Partner Enablement: Serve as the primary technical point of contact for key global partners, providing post-sales support, escalation management, and expert-level guidance.\n• Issue Replication and Resolution: Reproduce complex customer and partner issues in our labs.\n• Analyze logs, core dumps, and performance data to isolate root causes in hardware, firmware, drivers, or software stacks.\n• Engineering Collaboration: Work closely with our core engineering, product, and QA teams to report, track, and drive bugs to resolution.\n• You will provide critical field-level feedback to improve future products.\n• Knowledge Creation: Develop and communicate solutions, workarounds, and best practices.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/67994/login",
+    "id": "amd-systems-level-debug-global-partner-support-us"
   }
 ]
