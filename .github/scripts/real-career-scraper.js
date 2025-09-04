@@ -574,11 +574,7 @@ async function fetchAllRealJobs(searchQuery = 'hardware engineering', maxPages =
             // Update startTime for each attempt
             startTime = Date.now();
             
-            // Add circuit breaker - if execution is taking too long, abort
-            if (Date.now() - executionId > 1800000) { // Fixed to 30 minutes (1,800,000 ms)
-              throw new Error('Global execution timeout - preventing infinite loop');
-            }
-            
+           
             let jobs;
             if (config.timeout > 0) {
               // Timeout enabled
