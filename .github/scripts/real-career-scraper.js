@@ -9,7 +9,7 @@ const { transformJobs } = require('../../jobboard/src/backend/output/jobTransfor
 
 // Batch processing configuration
 const BATCH_CONFIG = {
-  batchSize: 3,                    // Number of scrapers to run concurrently in each batch (8 companies)
+  batchSize: 5,                    // Number of scrapers to run concurrently in each batch (8 companies)
   delayBetweenBatches: 2000,       // Delay in milliseconds between batches (2 seconds)
   maxRetries: 2,                   // Maximum retry attempts for failed scrapers
   timeout: 900000,                 // Timeout for individual scrapers (3 minutes)
