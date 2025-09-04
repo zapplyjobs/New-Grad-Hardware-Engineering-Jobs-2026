@@ -1,1 +1,131 @@
-[]
+[
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Research Engineer, Codex",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "45min",
+    "job_description": "• Are excited to explore and push the boundaries of large language models, especially in the domain of software reasoning and code generation.\n• Have strong software engineering skills and enjoy quickly turning ideas into working prototypes.\n• Think holistically about performance, balancing speed, cost, and user experience.\n• Bring creativity and rigor to open-ended research problems and thrive in highly iterative, ambiguous environments.\n• Have experience operating across both ML systems and cloud infrastructure.",
+    "job_apply_link": "https://www.aijobs.com/jobs/160646090-research-engineer-codex",
+    "id": "ai-jobs-research-engineer-codex-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Internal Communications, Product & Research",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "47min",
+    "job_description": "• Own the end-to-end strategy, planning, and execution of research and product internal communications with minimal oversight.\n• Translate complex technical and research concepts into clear, engaging narratives that resonate across the company.\n• Develop frameworks, playbooks, and scalable communication systems that ensure consistent, high-quality messaging.\n• Identify communication gaps and proactively design approaches to address them, influencing cross-functional priorities when needed.\n• Write and edit content for various internal channels, including leadership or org updates, Slack posts, FAQs, and All Hands.\n• Coach technical leaders and partners on effective communication and presentation skills.\n• Craft org-level communications on strategy, goals, and major changes to help research and product teams stay aligned during transitions.\n• Have 8+ years of experience in internal communications, product communications, or related fields, ideally with exposure to research or technical teams.",
+    "job_apply_link": "https://www.aijobs.com/jobs/160646098-internal-communications-product-research",
+    "id": "ai-jobs-internal-communications-product-research-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Forward Deployed Engineer, Gov",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Bring 5+ years of engineering or technical deployment experience, ideally in customer-facing or government environments.\n• Active TS/SCI clearance or equivalentHave scoped and delivered complex systems in fast-moving or ambiguous contexts.\n• Write and review production-grade code across frontend and backend, using Python, JavaScript, or similar stacks.\n• Are familiar with cloud deployment models (Azure, AWS), Kubernetes, Terraform, and related infrastructure.\n• Have experience building or deploying systems powered by LLMs or generative models, and understand how model behavior affects product experience.\n• Simplify complexity, make fast, sound decisions under pressure, and communicate clearly across technical and non-technical audiences.\n• Spot risks early, adjust without slowing down, and model calm judgment when stakes are high.\n• Are humble, collaborative, and eager to help others with empathy.",
+    "job_apply_link": "https://www.aijobs.com/jobs/160646092-forward-deployed-engineer-gov",
+    "id": "ai-jobs-forward-deployed-engineer-gov-"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Quantum Sensor SME",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Experience leading and managing small to medium-sized projects Knowledge of Rydberg receivers and RF sensing technologies Ability to convey complex concepts to a varied audience, both written and verbally Ability to work collaboratively in a manner that leverages various backgrounds and expertise Bachelor's degree in Physics, Electrical Engineering, or Materials Sciences Experience with modeling and simulation software Experience with classical RF antenna design Experience with leading the development of technology business plans and roadmaps, building and managing teams of scientists and engineers to execute against business plans, and managing associated resources, such as hardware and funding If this position is listed as remote or hybrid, you’ll periodically work from a Booz Allen or client site facility.\n• If this position is listed as onsite, you’ll work with colleagues and clients in person, as needed for the specific role.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Quantum-Sensor-SME_R0225580?q=hardware+engineering",
+    "id": "bae-systems-quantum-sensor-sme-2-locations"
+  },
+  {
+    "employer_name": "Broadcom",
+    "job_title": "Build and Test Automation Developer",
+    "job_city": "USA-California-San Jose-1320 Ridder Park Drive",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Reliability EngineerlocationsUSA-Colorado-Fort Collins-4380 Ziegler Roadtime typeFull timeposted onPosted 9 Days AgoR023616 Bachelors in Engineering field with a minimum of 2+ years of hands-on experience or Master's degree in Engineering field.\n• Python and/or bash development experience (or equivalent) git, gerrit and Jenkins or similar experience preferred Linux system administration experience preferred Diverse software packaging experience: signing, security best practices, Linux packaging (RPM, DEB), diverse build environments (firmware, drivers, utilities), ARM/x86 Strong analytical, problem-solving skills & debugging skills.\n• Possess excellent communication skills and need to be a critical thinker and a self-starter.\n• Networking experience preferred.\n• Common protocols and basic debugging skills.\n• Docker / containers and/or virtualization experience preferred.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Build-and-Test-Automation-Developer_R023678?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-build-and-test-automation-developer-usa-california-san-jose-1320-ridder-park-drive"
+  },
+  {
+    "employer_name": "Broadcom",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Title element not found",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com",
+    "id": "broadcom--"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Systems Engineer Advisor",
+    "job_city": "USA AZ Fort Huachuca",
+    "job_state": "US",
+    "job_posted_at": "2 Days",
+    "job_description": "• Type of Requisition:RegularClearance Level Must Currently Possess:SecretClearance Level Must Be Able to Obtain:SecretPublic Trust/Other Required:NoneJob Family:IT Infrastructure and OperationsJob Qualifications:Skills:Systems Engineering, Virtual Infrastructure, Virtualization, Virtual Machines (VM), VMwareCertifications:VMware Certified Professional - Data Center Virtualization (VCP-DCV) | VMware - VMwareExperience:5 + years of related experienceUS Citizenship Required:YesJob Description:Systems Engineer AdvisorDeliver simple solutions to complex problems as a Systems Engineer Advisor at GDIT.\n• Here, you’ll tailor cutting-edge solutions to the unique requirements of our clients.\n• With a career in application development, you’ll make the end user’s experience your priority and we’ll make your career growth ours.\n• At GDIT, people are our differentiator.\n• As a Systems Engineer Advisor you will help ensure today is safe and tomorrow is smarter.\n• Our work depends on Systems Engineer Advisor joining our team to:•    Install, configure, and manage a highly available and scalable virtual cloud foundation and infrastructure.\n• •    Provide planning, installing, configuring, and upgrading support for vSphere, Aria and VCF systems and appliances using either version 8.\n• •    Manage and allocate virtual hardware to virtual machines including right-sizing CPU, memory, and storage.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-AZ-Fort-Huachuca/Systems-Engineer-Advisor_RQ206043-1?q=hardware+engineering",
+    "id": "general-dynamics-systems-engineer-advisor-usa-az-fort-huachuca"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "F5 Systems Engineer",
+    "job_city": "USA FL MacDill AFB",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Type of Requisition:RegularClearance Level Must Currently Possess:Top Secret/SCIClearance Level Must Be Able to Obtain:Top Secret/SCIPublic Trust/Other Required:NoneJob Family:IT Infrastructure and OperationsJob Qualifications:Skills:F5, F5 BIG-IP, TroubleshootingCertifications:NoneExperience:5 + years of related experienceUS Citizenship Required:YesJob Description:As a F5 Systems Engineer, the work you’ll do at GDIT will be impactful to the mission of support the CITS contract for USCENTCOM, located in Tampa, Florida.\n• You will play a crucial role in designing, implementing, and maintaining the organization's application delivery and security infrastructure utilizing F5 technologies.\n• Advance how our customers operate while you advance your career.\n• Join GDIT as a F5 Systems Engineer and build an impactful career in enterprise IT, collaborating with people who are driven and resourceful like you.\n• MEANINGFUL WORK AND PERSONAL IMPACT:Managing F5 hardware and virtual appliances, configurations, and policies critical to the operations of our enterprise environmentImplementing, configuring, and maintaining F5 BIG-IP devices, iRules, and virtual appliances across multiple physical sites, adhering to industry best practices and security standards.\n• Performing regular infrastructure assessments, maintenance, updates, and patches to ensure the security, reliability, and performance of the F5 application delivery and security infrastructure.\n• Monitoring and optimizing F5 application delivery and security performance, resource utilization, and system availability using F5 tools and industry best practices.\n• WHAT YOU’LL NEED TO SUCCEED:Bring your technology expertise and drive for innovation to GDIT.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/F5-Systems-Engineer_RQ206560-1?q=hardware+engineering",
+    "id": "general-dynamics-f5-systems-engineer-usa-fl-macdill-afb"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Software & Development Clearance Sponsorship Opportunity",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Type of Requisition:PipelineClearance Level Must Currently Possess:NoneClearance Level Must Be Able to Obtain:Top Secret SCI + PolygraphPublic Trust/Other Required:NoneJob Family:Software EngineeringJob Qualifications:Skills:Programming Languages, Software Development, Web ApplicationsCertifications:NoneExperience:0 + years of related experienceUS Citizenship Required:YesJob Description:This is an exciting opportunity to obtain a TS/SCI clearance with Polygraph and open a whole new world of exciting career opportunities.\n• We are seeking candidates in the following labor categories:Software Developer / Software EngineerOnce successfully cleared, you would interview for specific positions at that time.\n• The work will be located at one of the Sponsor’s facilities in the Washington Metro Area.\n• Estimated time to complete the clearance sponsorship process is approximately 24 months (+/-).\n• Interested candidates should be local to the Washington Metro Area.\n• REQUIRED QUALIFICATIONS:Experience in design and develop tools.\n• Experience in providing operations and maintenance of operational systems.\n• Experience modifying existing software to correct errors, allow it to adapt to new hardware or software, or to improve its performance.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Software---Development-Clearance-Sponsorship-Opportunity_RQ206604-1?q=hardware+engineering",
+    "id": "general-dynamics-software-development-clearance-sponsorship-opportunity-2-locations"
+  },
+  {
+    "employer_name": "Guidehouse",
+    "job_title": "Software Quality  Assurance Testers",
+    "job_city": "8 Locations",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Test basic to moderately complex features of enterprise software systems using predefined test plans and scripts.\n• Follow standardized testing procedures, document results, and track outcomes using designated tools.\n• Participate in follow-up testing, defect logging, and resolution activities.\n• This role typically reports to a supervisor or senior engineer and works under close guidance while building proficiency in enterprise testing practices.\n• You may assist in test data preparation, documentation updates, and onboarding support for new testers.\n• You will gain exposure to tools such as IBM Rational ETM, Selenium, JMeter, and databases like Oracle and DB2, across platforms including Windows, Linux, and mainframe environments.\n• US Citizenship is required.\n• Must have pre-existing IRS clearance.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/Client-Office-New-Carrollton-MD/Software-Quality--Assurance-Testers_31389?q=hardware+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-software-quality-assurance-testers-8-locations"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Production Operator",
+    "job_city": "Shelby Twp",
+    "job_state": "Michigan",
+    "job_posted_at": "30+ Days",
+    "job_description": "• Search: \"hardware+engineering\"United States of AmericaClear All (2) Production OperatorlocationsShelby Twp, Michigan, USposted onPosted 30+ Days AgoR00166815Production OperatorlocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00165853Production Operator - 2nd shiftlocationsLancaster, Ohio, USposted onPosted 29 Days AgoR00201393Production Operator - 1st shiftlocationsLancaster, Ohio, USposted onPosted 27 Days AgoR00204390Production Operator - 3rd shiftlocationsLancaster, Ohio, USposted onPosted 27 Days AgoR00203988Materials Supervisor- 2nd shiftlocationsSpring Hill, Tennessee, USposted onPosted 30+ Days AgoR00200154Assembly OperatorlocationsMoore, South Carolina, USposted onPosted 30+ Days AgoR00192265Material HandlerlocationsMoore, South Carolina, USposted onPosted 30+ Days AgoR00193687Specialist, Health & SafetylocationsShelby Twp, Michigan, USposted onPosted 20 Days AgoR00169507Trim Commodity ManagerlocationsNovi, Michigan, USposted onPosted 13 Days AgoR00203535Plastics Commodity ManagerlocationsNovi, Michigan, USposted onPosted 5 Days AgoR00207824 R00166815 R00165853 R00201393 R00204390 R00203988 R00200154 R00192265 R00193687 R00169507 R00203535 R00207824.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Shelby-Twp-Michigan-US/Production-Operator_R00166815?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-production-operator-shelby-twp"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Systems Software Engineer, GPU SW",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Define, design, develop and verify features for our GPUs; collaborating with hardware engineers and fellow software engineersYou will follow the devices all the way through the development process to the customer desktops, notebooks, workstations, and gaming console products that are used throughout the worldHeavily involved with the early modeling and simulation required to produce our world-class productsMultiple opportunities to collaborate and communicate effectively with teams from all around the globe BS or MS degree in Computer Engineering, Computer Science, or related degree (or equivalent experience)Strong C programming skills as well as having shown initiative in pursuing independent coding projectsFamiliarity with computer system architecture, microprocessor, and microcontroller fundamentals (caches, buses, memory controllers, DMA, etc.\n• )Kernel experience with Linux, Android, Chrome, or Windows systems3+ years of relevant software development experience Background and strength with complex system-level debugging is invaluableDeep understanding of memory management and virtualization concepts/platforms (XenServer, KVM, Hyper-V)Familiarity with kernel level security conceptsExperience with embedded system SW concepts, e.\n• : RTOS and overlay programming models.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--GPU-SW_JR1999814?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-systems-software-engineer-gpu-sw-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Signal Integrity Field Applications Engineer",
+    "job_city": "3 Locations",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Be a technical specialist on GPU and networking products directly supporting sales account managers, working closely with the team to secure design wins.\n• Actively establish the technical relationship with our customer’s engineers, management, and architects at focus accounts.\n• Identify customer architectures and key product requirements in the CSP/OEM AI market.\n• Provide onsite support to solve problems in hardware and software, and deep learning inference.\n• Lead the support of the product through the design-in phase all the way to the product end of life.\n• Create technical solutions such as hardware & software demos and example system designs.\n• Provide technical and sales training to the direct sales team and channel partners.\n• Establish strong relationships and communication channels with internal teams.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Senior-Signal-Integrity-Field-Applications-Engineer_JR2003146?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-signal-integrity-field-applications-engineer-3-locations"
+  }
+]
