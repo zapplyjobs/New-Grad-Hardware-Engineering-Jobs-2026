@@ -17,12 +17,11 @@ function getRandomUserAgent() {
 async function initBrowser() {
   const browser = await puppeteer.launch({
     headless: 'new',
+     protocolTimeout: 900000,
     args: [
+      
       '--no-sandbox',
       '--disable-setuid-sandbox',
-      '--disable-images',
-      '--disable-plugins',
-      '--disable-extensions',
       '--disable-dev-shm-usage',
       '--disable-gpu',
       '--no-first-run',
@@ -32,12 +31,24 @@ async function initBrowser() {
       '--disable-web-security',
       '--disable-features=TranslateUI',
       '--disable-ipc-flooding-protection',
+      '--disable-blink-features=AutomationControlled',
+      '--disable-extensions-except',
+      '--disable-plugins-discovery',
+      '--no-default-browser-check',
+      '--no-first-run',
+      '--disable-default-apps',
+      '--disable-popup-blocking',
+      '--disable-translate',
+      '--disable-background-networking',
+      '--disable-sync',
+      '--metrics-recording-only',
+      '--safebrowsing-disable-auto-update',
+      '--disable-component-update',
     ],
   });
   const page = await browser.newPage();
   await page.setUserAgent(getRandomUserAgent());
-  // await page.setDefaultNavigationTimeout(30000);
-
+  await page.setDefaultNavigationTimeout(900000);
   // Disable CSS, images, and fonts
   await page.setViewport({ width: 1366, height: 768 });
   await page.setRequestInterception(true);
