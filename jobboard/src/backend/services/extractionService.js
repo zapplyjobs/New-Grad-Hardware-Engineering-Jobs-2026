@@ -274,7 +274,7 @@ async function extractDescriptionNextPage(page, applyLink, selector, originalUrl
       try {
         await page.goto(originalUrl, { 
           waitUntil: 'domcontentloaded', 
-          timeout: 15000 
+          timeout: 115000 
         });
         await waitForJobSelector(page, selector.jobSelector);
         await new Promise(resolve => setTimeout(resolve, 500)); // Brief pause for page stability
