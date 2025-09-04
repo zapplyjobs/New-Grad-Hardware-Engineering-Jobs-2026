@@ -1,41 +1,42 @@
 [
   {
-    "employer_name": "General Dynamics",
-    "job_title": "IS Security Engineer (ISSE), TS/SCI with Polygraph",
-    "job_city": "USA VA Chantilly",
-    "job_state": "US",
+    "employer_name": "BAE Systems",
+    "job_title": "Electronic Engineer, Mid",
+    "job_city": "Odon",
+    "job_state": "IN",
     "job_posted_at": "Posted Today",
-    "job_description": "• Type of Requisition:RegularClearance Level Must Currently Possess:Top Secret SCI + PolygraphClearance Level Must Be Able to Obtain:Top Secret SCI + PolygraphPublic Trust/Other Required:NoneJob Family:Cyber and IT Risk ManagementJob Qualifications:Skills:Continuous Monitoring, Information Security, Risk Management FrameworkCertifications:NoneExperience:5 + years of related experienceUS Citizenship Required:YesJob Description:Information Systems Security Engineer (ISSE)We are seeking an experienced Information Systems Security Engineer (ISSE) to support Assessment and Authorization (A&A) and Continuous Monitoring (ConMon) activities, ensuring compliance with Risk Management Framework (RMF) requirements across multi-level classification environments with diverse technologies.\n• Key ResponsibilitiesThe ISSE will play a critical role in maintaining system security by tracking and executing RMF actions in accordance with ICD 503 (NIST 800-53) to obtain and sustain system authorizations.\n• Responsibilities include:Assessment & Authorization (A&A):Preparing and submitting Interim Authorization to Test (IATT) and Authority to Operate (ATO) requests with Plans of Action and Milestones (PoAMs)Developing, maintaining, and coordinating required Body of Evidence (BoE) documentation for system assetsCollaborating across Technical Services and Security Services teams, as well as customer agency stakeholders, to ensure complianceTracking workflow for lien remediation/resolution activities and entering tracking tool updatesEvaluating system change requests and assessing both system and organizational risks associated with modificationsContinuous Monitoring (ConMon):Executing ConMon activities within established timelines, including BoE collection and tracking tool updatesConducting recurring reviews of system state and security posture to ensure that systems are being operated securely, and information systems security policies and procedures are being implemented as defined.\n• Providing recommendations for security control implementation and identifying necessary countermeasures or mitigating controlsResponding to queries and requests for security information and reportsIncident Response & Security Oversight:Supporting investigations of security incidents and reporting findings as necessaryAssisting in the communication, implementation and enforcement of security policies and plans for data, applications, hardware, and telecommunications systemsAdvising stakeholders on information assurance standards, dependencies, and emerging security technologiesEngaging with Enterprise Security Services tools (e.\n• , Trellix, ACAS, Splunk) to track and remediate vulnerabilities and compliance deficienciesRequired QualificationsEducation: Bachelor’s degree in Information Systems, Cybersecurity, or a related field (or equivalent experience)Experience: Minimum of 4 years of applicable experience in cybersecurity, RMF compliance, or system security engineeringCertifications:Required: DoD 8570 IAM Level I certification (CAP, CND, Cloud+, GSLC, Security+ CE, or HCISPP) – must be active and validPreferred: IAM Level II certification (CAP, CASP+ CE, CISM, CISSP (or Associate), GSLC, CCISO, or HCISPP)Preferred Skills:Experience with cloud security implementations in Azure or AWSStrong understanding of security policies, risk management, and vulnerability assessment toolsWhy Join GDIT.\n• At GDIT, we foster professional growth and provide opportunities to advance your career in a mission-critical environment.\n• Our benefits include:401(k) with company matchComprehensive health and wellness programsDedicated internal mobility team to support career advancementPaid education and professional certification opportunitiesAccess to cutting-edge technologies and innovative projectsPaid vacation and holidays to support work-life balanceJoin us at GDIT and contribute to securing the future of national security.\n• #Autobots The likely salary range for this position is $136,000 - $184,000.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/IS-Security-Engineer--ISSE---TS-SCI-with-Polygraph_RQ206594?q=hardware+engineering",
-    "id": "general-dynamics-is-security-engineer-isse-ts-sci-with-polygraph-usa-va-chantilly"
+    "job_description": "• Experience with MATLAB programming Experience with RF and wireless communication systems Experience with RF test equipment Ability to obtain a Secret clearance Bachelor's degree in Electrical Engineering If this position is listed as remote or hybrid, you’ll periodically work from a Booz Allen or client site facility.\n• If this position is listed as onsite, you’ll work with colleagues and clients in person, as needed for the specific role.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Odon-IN/Electronic-Engineer--Mid_R0225646?q=hardware+engineering",
+    "id": "bae-systems-electronic-engineer-mid-odon"
   },
   {
-    "employer_name": "NVIDIA",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Title element not found",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com",
-    "id": "nvidia--"
+    "employer_name": "BAE Systems",
+    "job_title": "Linux System Administrator",
+    "job_city": "Aberdeen Proving Ground",
+    "job_state": "MD",
+    "job_posted_at": "30+ Days",
+    "job_description": "• Search: \"hardware+engineering\" Clear All (1) Integrated Project Team LeadlocationsHuntsville, ALposted onPosted 10 Days AgoR0221283 R0221283 Cryptologic Data Flow TechnicianlocationsFort Meade, MDposted onPosted 27 Days AgoR0222762 R0222762 Systems AdministratorlocationsKansas City, MOposted onPosted 9 Days AgoR0225048 R0225048 Cloud Information Assurance SpecialistlocationsLexington, MAposted onPosted 30 Days AgoR0223778 R0223778 Computer ScientistlocationsMcLean, VAposted onPosted YesterdayR0224558 R0224558 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221833 R0221833 Linux System AdministratorlocationsAberdeen Proving Ground, MDposted onPosted 30+ Days AgoR0221928 R0221928 Systems Administratorlocations2 Locationsposted onPosted YesterdayR0224241 R0224241 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221835 R0221835 Cloud System Administratorlocations2 Locationsposted onPosted 15 Days AgoR0223667 R0223667 3 4 5 6 7.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aberdeen-Proving-Ground-MD/Linux-System-Administrator_R0221928?q=hardware+engineering",
+    "id": "bae-systems-linux-system-administrator-aberdeen-proving-ground"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "Network Protocol Software Engineer",
-    "job_city": "US",
+    "employer_name": "Marvel Technology",
+    "job_title": "Hardware Design Engineer",
+    "job_city": "Santa Clara",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "• Strong object-oriented programming background, C/C++ preferred Experience in Network Protocols such as RDMA and TCP/IPExperience in Data Path preferred Ability to write high quality code with a keen attention to detail Experience with modern concurrent programming and threading APIs Experience with Linux operating system development  Experience with software development processes and tools such as debuggers, source code control systems (GitHub) and profilers is a plus Effective communication and problem-solving skills Motivating leader with good interpersonal skills Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/68528/login",
-    "id": "amd-network-protocol-software-engineer-us"
+    "job_posted_at": "Posted Today",
+    "job_description": "• Design validation boards for product evaluation, together with silicon designers, validation engineers, and other hardware / software engineers.\n• Analyze end user’s technical requirement and develop circuit schematics of hardware and evaluation platforms to demonstrate Marvell’s products for system applications.\n• Board design may involve schematic design, component selection, signal integrity and power integrity, safety, reliability and so on.\n• Review and support customer designs using Marvell’s products, to ensure satisfying application requirement.\n• Conduct board bring-ups, testing and debug to confirm circuit designs.\n• Write technical reports and application notes.\n• Familiar with IEEE 802.\n• 3 and optical module / AEC MSAs for datacenter applications.",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Hardware-Design-Engineer_2502089?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvel-technology-hardware-design-engineer-santa-clara"
   },
   {
-    "employer_name": "RIVIAN",
-    "job_title": "Electrical Systems Test Engineer",
-    "job_city": "Palo Alto",
-    "job_state": "California US",
+    "employer_name": "Google",
+    "job_title": "Software Engineer, AI for Large Scale Systems",
+    "job_city": "Kirkland",
+    "job_state": "WA",
     "job_posted_at": "Recently",
-    "job_description": "• Write and run test procedures to verify electrical system requirements Analyze test data to confirm requirements were met, or identify off-nominal behaviors Bachelor’s Degree in Engineering: Electrical, Mechanical, Software, Aerospace, or similar field 1+ years of experience with electrical system design and testing in automotive, aerospace, marine, or related industries Hands-on troubleshooting experience with strong methodology to identify root cause Ability to read wiring schematics and interact with CAD software.",
-    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/26190/login",
-    "id": "rivian-electrical-systems-test-engineer-palo-alto"
+    "job_description": "hardware engineering job for the role Senior Software Engineer, AI for Large Scale Systems ",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/123031583744500422-senior-software-engineer-ai-for-large-scale-systems?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=10",
+    "id": "google-software-engineer-ai-for-large-scale-systems-kirkland"
   }
 ]
