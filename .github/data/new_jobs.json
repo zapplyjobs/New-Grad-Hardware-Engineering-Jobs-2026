@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Electronics Engineer, Mid",
-    "job_city": "Odon",
-    "job_state": "IN",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Experience with MATLAB programming Experience with RF and wireless communication systems Experience with RF test equipment Ability to obtain a Secret clearance Bachelor's degree in Electrical Engineering If this position is listed as remote or hybrid, you’ll periodically work from a Booz Allen or client site facility.\n• If this position is listed as onsite, you’ll work with colleagues and clients in person, as needed for the specific role.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Odon-IN/Electronics-Engineer--Mid_R0225648?q=hardware+engineering",
-    "id": "bae-systems-electronics-engineer-mid-odon"
-  },
-  {
     "employer_name": "NVIDIA",
-    "job_title": "Systems Data Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Work with a team passionate about large scale datacenter development and deployment.\n• We are looking for someone to assist in analyzing large scale workloads and searching for application and infrastructure improvement opportunities.\n• Provide actionable insights on high dimensional to assist engineers in building creative solutions based on NVIDIA technology.\n• Research and analyze data, identify trends of interest, link changes to recorded events, craft conclusions, create visuals, and help the team make intelligent data based decisions.\n• Work closely with a team to learn more about analysis needs and communicate findings with team members.\n• Apply machine learning or deep learning techniques for classification and prediction.\n• Implementation and integrate into existing software toolsets for team usability.\n• Document work and related materials to help team build on top of your contributions.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Data-Engineer_JR1999730?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-systems-data-engineer-2-locations"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Systems Level Debug (Global Partner Support)",
+    "job_title": "Developer Technology Engineer, High-Performance Databases – New College Grad",
     "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "• Advanced Technical Debugging: Lead advanced debugging sessions for complex, multi-node issues involving GPUs, drivers, networking, and AI frameworks.\n• You will be the last line of defense for our partners' toughest technical problems.\n• Partner Enablement: Serve as the primary technical point of contact for key global partners, providing post-sales support, escalation management, and expert-level guidance.\n• Issue Replication and Resolution: Reproduce complex customer and partner issues in our labs.\n• Analyze logs, core dumps, and performance data to isolate root causes in hardware, firmware, drivers, or software stacks.\n• Engineering Collaboration: Work closely with our core engineering, product, and QA teams to report, track, and drive bugs to resolution.\n• You will provide critical field-level feedback to improve future products.\n• Knowledge Creation: Develop and communicate solutions, workarounds, and best practices.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/67994/login",
-    "id": "amd-systems-level-debug-global-partner-support-us"
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• In this role, you will research and develop techniques to GPU-accelerate high performance database, ETL and data analytics applications.\n• Work directly with other technical experts in their fields (industry and academia) to perform in-depth analysis and optimization of complex data intensive workloads to ensure the best possible performance of current GPU architectures.\n• Influence the design of next-generation hardware architectures, software, and programming models in collaboration with research, hardware, system software, libraries, and tools teams at NVIDIA Pursuing or recently completed Masters or PhD in Computer Science, Computer Engineering, or related computationally focused science degree or equivalent experience.\n• Programming fluency in C/C++ with a deep understanding of algorithms and software design.\n• Hands-on experience with low-level parallel programming, e.\n• CUDA (preferred), OpenACC, OpenMP, MPI, pthreads, TBB, etc.\n• In-depth expertise with CPU/GPU architecture fundamentals, especially memory subsystem.\n• Domain expertise in high performance databases, ETL, data analytics and/or vector database.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--High-Performance-Databases---New-College-Grad-2025_JR2003577?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-developer-technology-engineer-high-performance-databases-new-college-grad-us"
   }
 ]
