@@ -1,52 +1,11 @@
 [
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Systems Validation Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "2w",
-    "job_description": "• Develop and execute validation test plans for server platforms and modulesPerform electrical and functional validation of key interfaces and components, including power sensors, MCUs, I2C, SPI, SMBus, and PCIe.\n• Diagnose and resolve system issues during NPI builds to ensure timely and successful product launchesDebug and root cause hardware, firmware, and interoperability issuesCollaborate closely with cross-functional teams to root cause and resolve hardware and software issues.\n• BSEE/BSCE or equivalent experience3+ years of hands-on hardware/software debug experience.\n• Demonstrates a strong ability to quickly learn new technologies and independently seek out information to solve complex hardware validation challenges.\n• Strong capability to debug and root cause challenging system issues involving board-level failures, signal integrity, component-level problems, and firmware behavior.\n• Lab experience with board bring-up, hardware debug, and use of tools like logic analyzers, oscilloscopes, and multimetersStrong understanding of digital design, circuit design analysis and computer architecture.\n• Solid grasp of low-level system architecture, digital circuit design, and high-speed bus protocols (PCIe, USB, NVMe), with a clear understanding of how hardware integrates with firmware and software stacksLead hands-on debugging and root cause analysis across hardware and firmware layers to drive rapid issue resolution and product quality improvements.\n• Hands-on experience in system-level power management validation for CPU and GPU products.",
-    "job_apply_link": "https://www.aijobs.com/jobs/156571496-systems-validation-engineer",
-    "id": "ai-jobs-systems-validation-engineer-us"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "CNC Operator",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_posted_at": "2d",
-    "job_description": "• 1–3 years of experience as a CNC Operator or relevant hands-on shop exposureStrong mechanical intuition and confidence working with aluminum and stainless partsAbility to read engineering drawings and understand basic GD&TFamiliarity with G-code and in-process quality checksTeam-oriented mindset with an eye for safety, organization, and reliability Experience with CAMWorks, Fusion 360, or Siemens NX workflowsExposure to Heidenhain controls or machinesFamiliarity with probing, basic tool changes, and fixture setupInterest in growing toward CNC programming or process development.",
-    "job_apply_link": "https://www.aijobs.com/jobs/159837326-cnc-operator",
-    "id": "ai-jobs-cnc-operator-palo-alto"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Software Engineer, Research - Human Data",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1w",
-    "job_description": "• Have strong software engineering fundamentals and experience building production systems at scaleEnjoy full-stack development with end-to-end ownership — from backend pipelines to user interfacesAre motivated by high-impact collaboration with research teams and solving novel, ambiguous problemsAre excited to shape how AI systems learn from human preferences and reflect a broad range of human valuesCare deeply about inclusive tooling and building systems that enhance model safety, reliability, and usefulness.",
-    "job_apply_link": "https://www.aijobs.com/jobs/156868831-software-engineer-research-human-data",
-    "id": "ai-jobs-software-engineer-research-human-data-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Systems Software Engineer - AI and Cloud",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1w",
-    "job_description": "• Evaluate cloud-native, full-stack applications using microservices architecture to power AI use cases, bringing to bear NVIDIA frameworks, SDKs, and microservices.\n• Design and implement agentic workflows with advanced techniques like Retrieval-Augmented Generation (RAG) and the latest AI models.\n• Evaluate user experiences and analyze the technical performance of AI solutions, compiling findings into comprehensive reports.\n• Offer practical suggestions for product improvement to senior executives and engineering management.\n• Engage with various teams across NVIDIA such as product, marketing, hardware, software engineering, and QA to improve NVIDIA's product offerings.\n• Develop developer-focused content, including detailed tutorials and code samples, to demonstrate the latest features in NVIDIA’s tools and libraries.\n• Write technical whitepapers and product briefs, and run technical demos of our products at prominent industry conferences.\n• A Bachelor’s or Master’s in Software Engineering, Computer Science, Computer Engineering, Electrical Engineering or a related degree (or equivalent experience)3+ years of experience.",
-    "job_apply_link": "https://www.aijobs.com/jobs/157297378-systems-software-engineer-ai-and-cloud",
-    "id": "ai-jobs-systems-software-engineer-ai-and-cloud-us"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Mechanical Engineer - TeleOp",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "4d",
-    "job_description": "• Design parts in 3D CAD that satisfy load conditions, industrial design form factor, and durability requirements.\n• Build prototypes to test assembly, range of motion, wire routing.\n• Generate accurate 2D drawings using GD&T per ASME Y14.\n• Work with our GSM team to pick a supplier and order parts.\n• Inspect first articles, build test stands, and continuously support part on robot development platforms.\n• 2+ years of experience in mechanical engineering\nBachelor’s or Master’s Degree in Mechanical, Biomechanical, Robotics, Mechatronics, or similar field\nExpert in using 3D CAD software to design parts with complex geometry\nExperience designing and building prototypes\nExperienced with simulation and analysis methodology (FEA, MATLAB etc.\n• )\nAbility to write and maintain clean documentation for design processes.\n• Experience with actuators, including strain-wave, planetary, or cycloidal\nExperience with electromechanical integration, such as sensors, motors, motor drivers, wire harnesses, and communication buses.",
-    "job_apply_link": "https://www.aijobs.com/jobs/158835765-mechanical-engineer-teleop",
-    "id": "ai-jobs-mechanical-engineer-teleop-san-jose"
+    "employer_name": "Analog Devices",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Title element not found",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com",
+    "id": "analog-devices--"
   }
 ]
