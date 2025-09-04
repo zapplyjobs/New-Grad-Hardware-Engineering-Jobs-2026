@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Hardware Technology Internships",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "3 months",
+    "job_description": "• Minimum QualificationsPursuing an undergraduate or graduate degree in Electrical Engineering, Computer Engineering, Electrical and Computer Engineering, Computer Science, Electrical Engineering and Computer Sciences, or related field of study.\n• At the end of the internship, you must return to school to continue your education or the internship must be the last requirement for you to graduate.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200606143-3810/hardware-technology-internships?team=STDNT",
+    "id": "apple-hardware-technology-internships-"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Hardware System Design Engineer - iPhone",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "3 weeks",
+    "job_description": "• Minimum QualificationsBS Electrical/Computer Engineering or equivalent5+ years industry experienceElectrical engineering fundamentals including analog and high speed digital designBroad experience across different applications and technologiesExperience in design of complex system architectures.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200615673-3401/hardware-system-design-engineer-iphone?team=HRDWR",
+    "id": "apple-hardware-system-design-engineer-iphone-"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Hardware Systems Design and Modeling Electrical Engineer - iPhone",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "3 weeks",
+    "job_description": "• Minimum QualificationsBS Electrical/Computer Engineering or equivalent5+ years industry experienceExperienced with Model Based Systems Engineering (MBSE) in Simulink, Cameo, or similarElectrical engineering fundamentals including analog and high speed digital designBroad experience across different applications and technologies.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200615615-3401/hardware-systems-design-and-modeling-electrical-engineer-iphone?team=HRDWR",
+    "id": "apple-hardware-systems-design-and-modeling-electrical-engineer-iphone-"
+  },
+  {
+    "employer_name": "Marvel Technology",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Title element not found",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com",
+    "id": "marvel-technology--"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "intern-Technician, Equipment",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "a day",
+    "job_description": "• Complete required safety training and conduct all work in accordance with safety policies.\n• Improve equipment availability by investigating chronic tool problems and finding solutions.\n• Must be enrolled in an AAS in Mechatronics, Robotics, Engineering Technology, or related field of study.\n• Encouraged completion of degree between December 2026 and June 2027 Mechanical proficiency with the ability to understand and troubleshoot mechanical systems.\n• Knowledge of AC/DC circuits and basic fundamentals of electricity.\n• Intermediate PC skills Less than 2 years 2 - 4 years 4 - 8 years.",
+    "job_apply_link": "https://careers.micron.com/careers/job/37808232",
+    "id": "micron-technology-intern-technician-equipment-boise"
+  }
+]
