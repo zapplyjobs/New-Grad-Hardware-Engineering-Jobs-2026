@@ -1,22 +1,72 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Research Software Engineer, AI Coding Agent, Labs",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Senior Research Software Engineer, AI Coding Agent, Labs ",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/143991178767803078-senior-research-software-engineer-ai-coding-agent-labs?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
-    "id": "google-research-software-engineer-ai-coding-agent-labs-mountain-view"
+    "employer_name": "NVIDIA",
+    "job_title": "Software Infrastructure Engineer - GeForce Now",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "2 Days",
+    "job_description": "• BS in Computer Science or Information Systems or equivalent experience.\n• 8+ years in large-scale systems engineering roles with exposure to DevOps and SRE or equivalent experience.\n• Experience with DevOps solutions, including but not limited to Python, Ansible, Docker/Containers, and container orchestration services including Argo CD/GitOps or similar.\n• Proven Linux system administration expertise (Ubuntu/Debian preferred) with a strong emphasis on security.\n• Understanding of AWS technologies, such as EC2, ELB, ECS, RDS, API Gateway, WAFs, and Lambda, with provisioning automation experience.\n• Knowledgeable in networking concepts like VPC, Subnets, Route Tables, Internet Gateways, NATs, etc.\n• Experience with HashiCorp's Vault solution and PKI certificate chains.\n• Competence in measuring system performance and crafting iterative improvements using new technologies and tools.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Infrastructure-Engineer---GeForce-Now_JR2002796?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-infrastructure-engineer-geforce-now-2-locations"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Full Stack, Google Workspace",
-    "job_city": "Boulder",
-    "job_state": "CO",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Full Stack, Google Workspace ",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/126710299469193926-software-engineer-iii-full-stack-google-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=8",
-    "id": "google-software-engineer-iii-full-stack-google-workspace-boulder"
+    "employer_name": "NVIDIA",
+    "job_title": "Computer Vision, VLM Performance Engineer",
+    "job_city": "3 Locations",
+    "job_state": "US",
+    "job_posted_at": "2 Days",
+    "job_description": "• Master's of Science in Computer Science or Electrical engineering or equivalent experience.\n• 8 years practical experience or equivalentExpertise in AI computer vision (VLMs, Vision Transformers, Diffusion models).\n• Proven track record using its software ecosystem (PyTorch, HuggingFace, vLLM) to develop and release production-grade software.\n• Excellent software engineering fundamentals (source control, CI/CD, testing/validation, packaging, containerization, release).\n• Proficiency with Python, C++ and CUDA (kernel optimization)Experience developing cloud applications (REST APIs, gRPC).\n• Excellent written, visual, and verbal communication to present performance challenges, tradeoffs, and architectural alternatives.\n• Curiosity and drive to learn new technologies and partner across teams and functions.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Computer-Vision--VLM-Performance-Engineer_JR2003240?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-computer-vision-vlm-performance-engineer-3-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Computer Vision System Performance Engineer",
+    "job_city": "3 Locations",
+    "job_state": "US",
+    "job_posted_at": "2 Days",
+    "job_description": "• Master's of Science in Computer Science or Electrical engineering or equivalent experience.\n• 8 years of practical experience.\n• Excellent software engineering fundamentals (source control, CI/CD, testing/validation, packaging, containerization, release).\n• Proven track record developing, testing and releasing production-grade, complex software.\n• Proficiency with Python, CUDA and C++.\n• Strong fundamentals with multi-threaded, multi-process and distributed software development.\n• Expertise defining and driving performance metrics through profiling and benchmarking.\n• Experience developing performance-critical data center and cloud applications (REST APIs, gRPC).",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Computer-Vision-System-Performance-Engineer_JR2003238?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-computer-vision-system-performance-engineer-3-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "NVIDIA 2026 Internships: Software Engineering",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "3 Days",
+    "job_description": "• Course or internship experience related to the following areas could be required: Relational Databases, Linear Algebra & Numerical Methods, Operating Systems (memory/resource management), Scheduling and Process Control, Hardware Virtualization Course or internship experience related to the following areas could be required: Distributed Systems, Data Structures & Algorithms, Virtualization, Automation/Scripting, Container & Cluster Management, Debugging Course or internship experience related to the following areas and technologies could be required: Unix/Shell Scripting, Linux, Java, JavaScript (including Node, React, Vue), C++, CUDA, OOP, Go, Python, Git, GitLab, Perforce, Kubernetes and Microservices, Schedulers (LSF, SLURM), Containers (Docker), Configuration Automation (Ansible).",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Software-Engineering-_JR2003206?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-nvidia-2026-internships-software-engineering-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "ASIC Design Verification Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "15 Days",
+    "job_description": "• Senior System ASIC Engineer -  Speed and ReliabilitylocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2000355Senior Silicon Chip Hardware LeadlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2000176Senior HSIO Validation EngineerlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR1997908Silicon Performance, Power and Binning Tools EngineerlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR1999389Senior System Software Engineer - TegralocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2002556Networking Lead - NVIS New Product IntroductionlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2002433Senior Deep Learning Algorithm EngineerlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2001415Senior DL Algorithms Engineer - CosmoslocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2000912Senior ASIC Design Verification EngineerlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR1998202Senior Hardware SoC Architectlocations3 Locationsposted onPosted 15 Days AgoJR2002564Senior Silicon Circuits System Design EngineerlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR1998344Senior Silicon Product Definition EngineerlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR1999626Senior System Software Engineerlocations3 Locationsposted onPosted 15 Days AgoJR2001353HSIO Functional and Power Management EngineerlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR1995759Solutions Architect - Cloud Providers and Hyperscalelocations2 Locationsposted onPosted 15 Days AgoJR1995257Senior Solutions Architect, GPU - Cloud Service Providerslocations2 Locationsposted onPosted 15 Days AgoJR2002565Solutions Architect, HyperscalelocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2002548Senior Technical Program Manager, Compute Software Platform- NPIlocationsUS, CA, Santa Claraposted onPosted 16 Days AgoJR1988420Product Manager, AI Partner Solutions and Cloud Ecosystemlocations2 Locationsposted onPosted 16 Days AgoJR2002295Product Manager, AI Partner Solutions and OEM Ecosystemlocations2 Locationsposted onPosted 16 Days AgoJR2002512 BSEE (or equivalent experience) with 5+ years' experience in unit level or sub-system level verification or MS preferred in Electrical, Computer Engineering with 3+ years’ experience in unit level or sub-system level verification.\n• Proficiency with Object Oriented Programming, System Verilog, Verilog, UVM, SVA and Functional Coverage.\n• Strong skills with VCS or equivalent simulation tools like Questa is required.\n• Strong debugging and analytical skills are required.\n• Have a continuous improvement mentality and passionate about delivering bug-free first silicon.\n• Strong interpersonal skills and ability to work with on-site and remote teams is a plus.\n• Experience in verification using random stimulus along with functional coverage and assertion-based verification methodologies is a huge plus.\n• Strong knowledge or work experience in Mixed signal and custom designed IPs solutions.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Design-Verification-Engineer_JR1998202?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-asic-design-verification-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Engineer",
+    "job_city": "3 Locations",
+    "job_state": "US",
+    "job_posted_at": "15 Days",
+    "job_description": "• Senior System ASIC Engineer -  Speed and ReliabilitylocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2000355Senior Silicon Chip Hardware LeadlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2000176Senior HSIO Validation EngineerlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR1997908Silicon Performance, Power and Binning Tools EngineerlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR1999389Senior System Software Engineer - TegralocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2002556Networking Lead - NVIS New Product IntroductionlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2002433Senior Deep Learning Algorithm EngineerlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2001415Senior DL Algorithms Engineer - CosmoslocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2000912Senior ASIC Design Verification EngineerlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR1998202Senior Hardware SoC Architectlocations3 Locationsposted onPosted 15 Days AgoJR2002564Senior Silicon Circuits System Design EngineerlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR1998344Senior Silicon Product Definition EngineerlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR1999626Senior System Software Engineerlocations3 Locationsposted onPosted 15 Days AgoJR2001353HSIO Functional and Power Management EngineerlocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR1995759Solutions Architect - Cloud Providers and Hyperscalelocations2 Locationsposted onPosted 15 Days AgoJR1995257Senior Solutions Architect, GPU - Cloud Service Providerslocations2 Locationsposted onPosted 15 Days AgoJR2002565Solutions Architect, HyperscalelocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR2002548Senior Technical Program Manager, Compute Software Platform- NPIlocationsUS, CA, Santa Claraposted onPosted 16 Days AgoJR1988420Product Manager, AI Partner Solutions and Cloud Ecosystemlocations2 Locationsposted onPosted 16 Days AgoJR2002295Product Manager, AI Partner Solutions and OEM Ecosystemlocations2 Locationsposted onPosted 16 Days AgoJR2002512 Build, Release & Infrastructure Automation: Design, implement, and maintain robust build flows for embedded software; automate complex release processes; and manage underlying infrastructure for continuous integration and continuous delivery (CI/CD) pipelines.\n• Troubleshoot build failures and infrastructure issues and optimize CI/CD workflows for efficiency and reliability.\n• Comprehensive Testing & OS Vetting: Develop and enhance automated frameworks for System-on-Chip (SOC) validation, including daily sanity and regression testing.\n• Integrate testing scripts into CI/CD pipelines to ensure continuous quality.\n• Perform thorough sanity testing of various System Windows and Linux hardware and software components, ensuring high-quality releases.\n• Develop comprehensive regression reports and scale stress/smoke testing on device farms.\n• Data Analytics & Telemetry: Implement metrics collection and analytics systems to monitor software, build quality, and performance.\n• Analyze telemetry and log data from distributed systems to identify patterns, anomalies, and derive actionable insights that guide development priorities and improve product quality.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer_JR2001353?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-engineer-3-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Test and Automation Developer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "20 Days",
+    "job_description": "• Developing new and extending existing test strategies to guarantee the highest level of quality from both functional and performance perspectives.\n• Your innovative approach will ensure that DriveOS meets the standards expected from a world-class product.\n• Designing and developing software that automates the verification of all DriveOS components.\n• Your expertise in developing efficient and reliable automation tools will play a crucial role in streamlining our testing processes.\n• Collaborating with multiple development, verification, and customer-facing teams to gain a comprehensive understanding of DriveOS as a product and its real-world applications.\n• Your ability to collaborate effectively is essential for driving continuous improvement.\n• Analyzing and root-causing issues down to the code level, leading the defect fixing process, and providing effective fixes.\n• Your strong problem-solving skills will allow you to address challenges with efficiency and precision.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Test-and-Automation-Developer_JR1997588-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-test-and-automation-developer-us"
   }
 ]
