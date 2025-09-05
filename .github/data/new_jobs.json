@@ -1,12 +1,142 @@
 [
   {
+    "employer_name": "IBM",
+    "job_title": "Lithography Tool Owner - i-Line Scanner Owner",
+    "job_city": "Albany",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Lithography Tool Owner - i-Line Scanner Owner ",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57059&source=WEB_Search_NA",
+    "id": "ibm-lithography-tool-owner-i-line-scanner-owner-albany"
+  },
+  {
+    "employer_name": "Applied Materials",
+    "job_title": "Technical Product Support Engineer III (E3))",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "8 days",
+    "job_description": "hardware engineering job for the role Technical Product Support Engineer III (E3)) ",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790300968853?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-technical-product-support-engineer-iii-e3-santa-clara"
+  },
+  {
+    "employer_name": "Applied Materials",
+    "job_title": "Process Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "8 days",
+    "job_description": "hardware engineering job for the role Process Engineer IV ",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790302938712?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-process-engineer-santa-clara"
+  },
+  {
+    "employer_name": "Applied Materials",
+    "job_title": "Opto-Mechanical Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "8 days",
+    "job_description": "hardware engineering job for the role Opto-Mechanical Engineer V ",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790303764866?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-opto-mechanical-engineer-santa-clara"
+  },
+  {
+    "employer_name": "Applied Materials",
+    "job_title": "2025 University Grad - Process Engineer - Undergrad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "8 days",
+    "job_description": "hardware engineering job for the role 2025 University Grad - Process Engineer - Undergrad ",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790304906624?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-2025-university-grad-process-engineer-undergrad-santa-clara"
+  },
+  {
+    "employer_name": "Applied Materials",
+    "job_title": "Business Unit Operations IV - (B4)",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "8 days",
+    "job_description": "hardware engineering job for the role Business Unit Operations IV - (B4) ",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790304714136?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-business-unit-operations-iv-b4-santa-clara"
+  },
+  {
+    "employer_name": "Applied Materials",
+    "job_title": "Technical Product Support (TPS) Engineer III (E3)",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "8 days",
+    "job_description": "hardware engineering job for the role Technical Product Support (TPS) Engineer III (E3) ",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790303167114?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-technical-product-support-tps-engineer-iii-e3-santa-clara"
+  },
+  {
     "employer_name": "AI Jobs",
-    "job_title": "AI Engineer",
+    "job_title": "Technical Hardware Sourcer, Consumer Products",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Leading targeted sourcing strategies to identify and engage candidates across the entire consumer products hiring slate (electrical, mechanical, industrial design, firmware, test & validation, manufacturing/DFM, supply chain engineering, test automation, etc.\n• Building and maintaining a strong pipeline of passive candidates through proactive outreach, market mapping, research, and community/network development (OEMs, contract manufacturers, fabless companies, design consultancies, maker communities, conferences).\n• Partnering closely with hiring managers, product designers, and engineering leads to deeply understand role requirements, product milestones (prototyping → pilot → HVM), and refine sourcing approaches.\n• Creating focused search strategies (companies, keywords, channels, technical signals) for specialized roles such as SoC/PMIC engineers, RF/RFIC, power management, low-level firmware, and DFM/manufacturing engineers.\n• Leveraging advanced sourcing techniques and tools (Boolean, GitHub/Repo signals, patent/driven searches, trade shows, academic labs, conference programs) to surface exceptional candidates.\n• Representing OpenAI at industry events, hardware meetups, and conferences to promote our mission and build long-term talent relationships.\n• Ensuring a high-quality candidate experience and maintaining accurate, actionable candidate data and metrics in the ATS to inform prioritization and decision-making.\n• 5+ years of technical sourcing experience with a demonstrated focus on consumer hardware, embedded software/firmware, or adjacent product engineering roles.",
+    "job_apply_link": "https://www.aijobs.com/jobs/160857933-technical-hardware-sourcer-consumer-products",
+    "id": "ai-jobs-technical-hardware-sourcer-consumer-products-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Firmware Engineer Intern (Fall 2025)",
     "job_city": "San Jose",
     "job_state": "CA",
-    "job_posted_at": "12h",
-    "job_description": "• Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, Machine Learning, Electrical Engineering, or a related field.\n• 2+ years of experience in AI/ML development, preferably in the consumer electronics or IoT industry.\n• Proficiency in programming languages such as Python and C++.\n• Experience with AI/ML frameworks such as PyTorch, or scikit-learn.\n• Strong background in computer vision, deep learning, LLM, or reinforcement learning.\n• Experience with embedded AI and edge computing frameworks (e.\n• , ONNX, NVIDIA Jetson).\n• Knowledge of data processing pipelines, model training, and hyperparameter tuning.",
-    "job_apply_link": "https://www.aijobs.com/jobs/160842912-ai-engineer",
-    "id": "ai-jobs-ai-engineer-san-jose"
+    "job_posted_at": "59min",
+    "job_description": "• Deliver high quality C/C++ code in a real-time embedded environment.\n• Bring up, debug, and validate firmware on the Humanoid hardware platform, such as actuators, sensors, power distribution system.\n• Optimize performance of firmware to meet product requirements.\n• Develop test scripts in Python to support test automation or robot calibration.\n• Work cross functionally with System Integration, Software Test, and Embedded Software teams to successfully and autonomously ship new features.\n• Contribute to the integration of projects into the Continuous Integration and Continuous Deployment (CI/CD) infrastructure.\n• Support hardware/software integration in the lab.\n• Graduate student or recent graduate in Computer Engineering or related field.",
+    "job_apply_link": "https://www.aijobs.com/jobs/160857859-firmware-engineer-intern-fall-2025",
+    "id": "ai-jobs-firmware-engineer-intern-fall-2025-san-jose"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Firmware Engineer – CSP Engagements",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "• Design and develop firmware solutions for manageability and observability of data center servers.\n• Actively participate in hardware bring-up activities, OOB firmware development, protocol stacks (Redfish, PLDM, MCTP, NSM) and hardware-software co-design for Cloud Service Provider deployments.\n• Debug and troubleshoot NVIDIA GPU firmware issues, power management, performance, and thermal control problems for data center deployments, providing active support to CSPs.\n• Partner directly with CSPs to deliver technical solutions, co-develop & co-debug features and optimizations, and provide support during new product introductions.\n• Perform advanced system debugging, root cause analysis, and performance optimization for large-scale data center environments.\n• Collaborate with AE, FAE, and Solution Architect teams to deliver integrated customer solutions and technical documentation.\n• Deep expertise in data center server architectures, HPC systems, and hardware-software co-design.\n• Deep expertise in embedded firmware, server management controllers, and hardware bring-up with proven track record of shipping production BMC solutionsStrong knowledge of DMTF protocols (Redfish, IPMI, PLDM, MCTP, SPDM), telemetry frameworks, and out-of-band management architecturesExpert-level skills in C/C++ in resource-constrained embedded environments, RTOS, device drivers, and low-level protocols (I2C, SPI, UART, PCIe, MCTP).",
+    "job_apply_link": "https://www.aijobs.com/jobs/160855988-senior-firmware-engineer-csp-engagements",
+    "id": "ai-jobs-firmware-engineer-csp-engagements-us"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "System Software Engineer",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1h",
+    "job_description": "• Design, implement, and debug kernel modules, device drivers, and userspace daemonsConfigure and maintain the OS: kernel, initramfs, init services, udev rules, networking, and security hardeningBuild and operate image/OTA pipelines (Yocto/Buildroot, package management, A/B updates, dm-verity)Instrument and analyze performance with perf, eBPF, ftrace; optimize CPU, memory, I/O, and power usageOwn system observability and reliability: logging, crash capture, watchdogs, and field diagnosticsCollaborate with hardware, camera/vision, and application teams to define interfaces and deliver featuresEstablish strong engineering practices: code review, CI, reproducible builds, and release managementWork with vendors and support system builds in the factory Have deep experience shipping Linux-based products on hardware devices (arm64 or x86)Are proficient in C/C++ and comfortable with embedded Linux internals (drivers, IRQs, power management, filesystems, networking)Have strong systems debugging skills with gdb, strace, perf/eBPF, jtag, and kernel logsUnderstand kernel device tree overlays, I2S, I2C, SPI, CSI/DSIAre fluent in userspace foundations: systemd, D-Bus, sockets/IPC, udev, networking tools, shell/PythonHave experience building OS images and packages (Yocto/Buildroot, Debian/RPM, Docker) and OTA updatesBonus points for:Upstream contributions to Linux or major subsystemsExperience with secure boot, platform security, SELinux/AppArmor, TrustZone/OP-TEEGraphics/ISP or accelerator driver exposure (GPU, V4L2, media/codec, DMA, shared memory)Wireless connectivity stack experience (Wi-Fi/BLE, NetworkManager, wpa_supplicant)Production observability at the edge (symbolized crash reports, metrics, remote diagnostics)Experience in robotics, mobile, or other resource-constrained devicesFamiliarity with on-device ML accelerators, audio pipelines (ALSA, DSP, WebRTC, gstreamer)Knowledge of protobuf and other serialization formats Upstream contributions to Linux or major subsystemsExperience with secure boot, platform security, SELinux/AppArmor, TrustZone/OP-TEEGraphics/ISP or accelerator driver exposure (GPU, V4L2, media/codec, DMA, shared memory)Wireless connectivity stack experience (Wi-Fi/BLE, NetworkManager, wpa_supplicant)Production observability at the edge (symbolized crash reports, metrics, remote diagnostics)Experience in robotics, mobile, or other resource-constrained devicesFamiliarity with on-device ML accelerators, audio pipelines (ALSA, DSP, WebRTC, gstreamer)Knowledge of protobuf and other serialization formats.",
+    "job_apply_link": "https://www.aijobs.com/jobs/160857934-system-software-engineer",
+    "id": "ai-jobs-system-software-engineer-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Systems Data Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "• Work with a team passionate about large scale datacenter development and deployment.\n• We are looking for someone to assist in analyzing large scale workloads and searching for application and infrastructure improvement opportunities.\n• Provide actionable insights on high dimensional to assist engineers in building creative solutions based on NVIDIA technology.\n• Research and analyze data, identify trends of interest, link changes to recorded events, craft conclusions, create visuals, and help the team make intelligent data based decisions.\n• Work closely with a team to learn more about analysis needs and communicate findings with team members.\n• Apply machine learning or deep learning techniques for classification and prediction.\n• Implementation and integrate into existing software toolsets for team usability.\n• Document work and related materials to help team build on top of your contributions.",
+    "job_apply_link": "https://www.aijobs.com/jobs/160855981-systems-data-engineer",
+    "id": "ai-jobs-systems-data-engineer-us"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Software Engineer, Distributed Data Systems",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Design, build, and maintain data infrastructure systems such as distributed compute, data orchestration, distributed storage, streaming infrastructure, machine learning infrastructure while ensuring scalability, reliability, and security.\n• Ensure our data platform can scale by orders of magnitude while remaining reliable and efficientPartner with researchers to deeply understand requirements and translate them into production-ready systems.\n• Harden, optimize, and maintain critical data infrastructure systems that power multimodal training and evaluation.\n• Have strong experience with distributed systems and large-scale infrastructure with a strong interest in data.\n• Are detail-oriented and bring rigor to building and maintaining reliable systems.\n• Demonstrate excellent software engineering fundamentals and organizational skills.\n• Are comfortable with ambiguity and rapid change.",
+    "job_apply_link": "https://www.aijobs.com/jobs/160857923-software-engineer-distributed-data-systems",
+    "id": "ai-jobs-software-engineer-distributed-data-systems-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Software Engineer, Cloud IAM",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1h",
+    "job_description": "• Build new features for our IAM platform that seamlessly integrate with evolving cloud services, enabling teams to work efficiently while adhering to security best practices.\n• Drive security innovation by designing tools, processes, and architectures that protect data at scale and reinforce a secure development culture across the organization.\n• Collaborate cross-functionally with researchers, engineers, and compliance teams to address security requirements for multi-cloud deployments, large-scale model training, and emerging AI use cases.\n• Implement and refine access policies that strike the right balance between enabling rapid experimentation and protecting high-value assets, including model weights and customer data.\n• Troubleshoot complex identity or access issues across distributed systems, ensuring minimal downtime and a safe environment for AI research and product teams.\n• A background in building secure systems—from core IAM services to orchestration layers that manage credentials, roles, or policies at scale.\n• Proficiency in programming languages such as Python, Go, or similar, with a track record of writing high-quality, maintainable code.\n• Experience with modern cloud infrastructure (AWS, Azure, GCP) and familiarity with industry-standard security protocols (OAuth, SAML, OpenID Connect) and authentication/authorization patterns.",
+    "job_apply_link": "https://www.aijobs.com/jobs/160857928-software-engineer-cloud-iam",
+    "id": "ai-jobs-software-engineer-cloud-iam-san-francisco"
   }
 ]
