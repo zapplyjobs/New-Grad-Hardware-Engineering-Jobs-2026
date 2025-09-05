@@ -1,72 +1,12 @@
 [
   {
     "employer_name": "Micron Technology",
-    "job_title": "Intern – Fab Equipment Maintenance Technician",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "2 days",
+    "job_title": "Engineer, Assembly and Test Central Quality",
+    "job_city": "Batu Kawan",
+    "job_state": "Pulau Pinang (Penang)",
+    "job_posted_at": "6 months",
     "job_description": "Same-page description extraction failed",
     "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-intern-fab-equipment-maintenance-technician-manassas"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Systems/Network Engineer",
-    "job_city": "ational",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Type of Requisition:RegularClearance Level Must Currently Possess:Top Secret/SCIClearance Level Must Be Able to Obtain:Top Secret/SCIPublic Trust/Other Required:NoneJob Family:IT Infrastructure and OperationsJob Qualifications:Skills:DISA STIG, Routing and Switching, ScriptingCertifications:NoneExperience:10 + years of related experienceUS Citizenship Required:YesJob Description:Please take this opportunity to join one of GDIT’s fastest long-standing growing programs.\n• US Battlefield Information Collection and Exploitation System eXtended (US BICES-X) is a cutting edge program supporting DoD intelligence information sharing on current and emerging global threats to mission and coalition partners and emerging nations.\n• With an internationally dispersed team supporting each combatant command, the US BICES-X team is in direct support of the war fighter and their missions.\n• We are seeking a creative and driven professional with a passion for solving real world issues on a cross-functional, fast paced team.\n• Responsibilities but not limited to:Manages the functionality and efficiency of a group of computers running on one or more operating systems.\n• Maintains the integrity and security of systems.\n• As required, supports users with completing requests for deployment of new services.\n• Maintains system documentationProvides desk side support to users and evaluates vendor products.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/International/Systems-Network-Engineer_RQ206499-1?q=hardware+engineering",
-    "id": "general-dynamics-systems-network-engineer-ational"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "Application Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Work directly with developers and researchers who are building, fine-tuning or optimizing AI models for Chemistry and Material discoveryCollaborate with publishers of open source applications, datasets, frameworks used for AI Driven Chemical and Materials discovery and display their ability to use NVIDIA ALCHEMI.\n• Build examples, sample applications for tutorialsCollaborate with domain experts on whitepapers and with marketing on blog posts Degree in Chemistry, Material Science or related field (Ph.\n• Or Masters preferred) or equivalent experience4+ years of experience with developing or using AI models for chemistry and material discovery using popular deep learning frameworks on CPUs and GPUs.\n• Proven ability to benchmark and compare domain specific AI Models fo Materials discoveryStrong written and oral communication skills with the ability to effectively articulate the value proposition to technical and non-technical audiences Contributions to open source projects related to MLIPsBackground in the development of chemistry/materials simulation software packages, machine learning interatomic potentials (MLIP) design, or generative AI for chemistry/material science.\n• Prior experience in benchmarking AI models.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NY-Remote/Senior-Application-Engineer_JR2003539?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-application-engineer-2-locations"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Software  Engineer, Platform Visualzation",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "2h",
-    "job_description": "• Develop and maintain full-stack visualization tools for hardware and software analysis.\n• Design intuitive front-end interfaces and robust back-end systems for monitoring the performance and health of supercomputer systems.\n• Collaborate with researchers and engineers to understand their needs and deliver effective full-stack visualization solutions.\n• Ensure high performance, reliability, and scalability of visualization tools across both front-end and back-end systems.\n• Continuously improve existing tools and develop new features to meet evolving requirements.\n• Strong experience in full-stack software development, with a focus on building scientific or infrastructure visualization tools.\n• Proficiency in both front-end and back-end programming languages such as Python, JavaScript, SQL, or similar.\n• Familiar with front-end technologies like React and back-end technologies like Node.",
-    "job_apply_link": "https://www.aijobs.com/jobs/160857930-software-engineer-platform-visualzation",
-    "id": "ai-jobs-software-engineer-platform-visualzation-san-francisco"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Algorithm Engineer",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "1 day",
-    "job_description": "• Minimum QualificationsBS degree + 3 years of experience in Physics, Optics, Material Science, Electrical Engineering, or related degreeExperience coding Python and/or MATLAB for large-scale data collection and analysisHands-on experience in radiometric/photometric measurement equipment (such as imaging photometers) implementation and utilization.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200618791-0836/algorithm-engineer?team=HRDWR",
-    "id": "apple-algorithm-engineer-cupertino"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Geo",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Infrastructure, Geo ",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/139316124045976262-software-engineer-iii-infrastructure-geo?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
-    "id": "google-software-engineer-iii-infrastructure-geo-new-york"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Cloud Interconnect Networking",
-    "job_city": "Raleigh",
-    "job_state": "NC",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer, Cloud Interconnect Networking ",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/73290450798027462-software-engineer-cloud-interconnect-networking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=7",
-    "id": "google-software-engineer-cloud-interconnect-networking-raleigh"
+    "id": "micron-technology-engineer-assembly-and-test-central-quality-batu-kawan"
   }
 ]
