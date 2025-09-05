@@ -60,14 +60,27 @@ async function extractJobData(page, selector, company, pageNum) {
       }
       
     } else {
-      // Same-page extraction
-      for (let i = 0; i < jobElements.length; i++) {
-        const jobData = await extractSingleJobData(page, jobElements[i], selector, company, i, pageNum);
+      // Same-page extraction - FIXED VERSION
+      const jobCount = await page.$$eval(selector.jobSelector, els => els.length);
+      
+      for (let i = 0; i < jobCount; i++) {
+        // Re-select job elements fresh each time to avoid detached nodes
+        const currentJobElements = await page.$$(selector.jobSelector);
+        if (selector.name === 'Applied Materials') {
+          currentJobElements = currentJobElements.slice(-EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
+        }
+        
+        if (i >= currentJobElements.length) {
+          console.warn(`Job element ${i} no longer exists, skipping...`);
+          continue;
+        }
+
+        const jobData = await extractSingleJobData(page, currentJobElements[i], selector, company, i, pageNum);
         
         if (jobData.title || jobData.applyLink) {
-          // Extract description on same page if selector exists
+          // Extract description on same page if selector exists - FIXED TO USE INDEX
           if (selector.descriptionSelector) {
-            jobData.description = await extractDescriptionSamePage(page, jobElements[i], selector, i + 1);
+            jobData.description = await extractDescriptionSamePage(page, i, selector, i + 1);
           }
           jobs.push(jobData);
         }
@@ -206,37 +219,72 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
 }
 
 /**
- * Extract description on same page by clicking job element
+ * FIXED: Extract description on same page by using job index instead of element reference
  * @param {Object} page - Puppeteer page instance
- * @param {Object} jobElement - Job element handle
+ * @param {number} jobIndex - Job element index (0-based)
  * @param {Object} selector - Selector configuration
- * @param {number} jobNumber - Job number for logging
+ * @param {number} jobNumber - Job number for logging (1-based)
  * @returns {string} Job description
  */
-async function extractDescriptionSamePage(page, jobElement, selector, jobNumber) {
-  try {
-    console.log(`[${jobNumber}] Same-page description extraction...`);
-    
-    const titleElement = await jobElement.$(selector.titleSelector);
-    if (!titleElement) {
-      return 'Title element not found';
+async function extractDescriptionSamePage(page, jobIndex, selector, jobNumber) {
+  let retries = 3;
+  
+  while (retries > 0) {
+    try {
+      console.log(`[${jobNumber}] Same-page description extraction (attempt ${4 - retries})...`);
+      
+      // Wait for job elements to be stable
+      await page.waitForSelector(selector.jobSelector, { timeout: 5000 });
+      
+      // Use page.evaluate to handle clicking in a more robust way - avoids detached nodes
+      const clickResult = await page.evaluate((jobSelector, titleSelector, jobIdx) => {
+        const jobElements = document.querySelectorAll(jobSelector);
+        
+        if (!jobElements[jobIdx]) {
+          return { success: false, error: 'Job element not found' };
+        }
+        
+        const titleElement = jobElements[jobIdx].querySelector(titleSelector);
+        if (!titleElement) {
+          return { success: false, error: 'Title element not found' };
+        }
+        
+        titleElement.click();
+        return { success: true };
+      }, selector.jobSelector, selector.titleSelector, jobIndex);
+      
+      if (!clickResult.success) {
+        throw new Error(clickResult.error);
+      }
+      
+      // Wait for description to load
+      await new Promise(resolve => setTimeout(resolve, 1200));
+      await page.waitForSelector(selector.descriptionSelector, { timeout: 6000 });
+      
+      // Extract description
+      const description = await extractAndFormatDescription(page, selector.descriptionSelector);
+      
+      console.log(`[${jobNumber}] Same-page description extracted (${description.length} chars)`);
+      return description;
+      
+    } catch (error) {
+      retries--;
+      console.warn(`[${jobNumber}] Same-page attempt failed: ${error.message}${retries > 0 ? ' - Retrying...' : ''}`);
+      
+      if (retries > 0) {
+        // Wait before retry and refresh page state if needed
+        await new Promise(resolve => setTimeout(resolve, 1000));
+        try {
+          // Just wait for elements to be stable again, don't reload
+          await waitForJobSelector(page, selector.jobSelector);
+        } catch (waitError) {
+          console.warn(`[${jobNumber}] Wait for job selector failed: ${waitError.message}`);
+        }
+      }
     }
-
-    // Click to load description
-    await titleElement.click();
-    await new Promise(resolve => setTimeout(resolve, 1200));
-    
-    // Wait for and extract description
-    await page.waitForSelector(selector.descriptionSelector, { timeout: 6000 });
-    const description = await extractAndFormatDescription(page, selector.descriptionSelector);
-    
-    console.log(`[${jobNumber}] Same-page description extracted (${description.length} chars)`);
-    return description;
-    
-  } catch (error) {
-    console.error(`[${jobNumber}] Same-page extraction failed: ${error.message}`);
-    return 'Same-page description extraction failed';
   }
+  
+  return 'Same-page description extraction failed after retries';
 }
 
 /**
@@ -326,62 +374,124 @@ async function extractAndFormatDescription(page, descriptionSelector) {
     
     if (descElements.length === 0) return 'No description found';
     
-    // Keywords for relevant content
-    const relevantKeywords = [
-      'degree', 'qualification', 'experience', 'bachelor', 'master', 'phd',
-      'education', 'requirement', 'skill', 'years', 'minimum', 'preferred',
-      'required', 'essential', 'must', 'should', 'knowledge', 'ability',
-      'responsibilities', 'duties', 'role', 'position', 'candidate'
+    // Enhanced keywords for filtering relevant content - prioritizing experience/qualification mentions
+    const highPriorityKeywords = [
+      // Experience and qualification keywords (highest priority)
+      'experience', 'years', 'minimum', 'required', 'require', 'must have', 'need', 
+      'prefer', 'qualification', 'background', 'track record', 'proven', 'demonstrated',
+      
+      // Education keywords
+      'degree', 'bachelor', 'master', 'phd', 'doctorate', 'education', 'graduate',
+      'university', 'college', 'certification', 'certified',
+      
+      // Skill and requirement keywords
+      'skill', 'ability', 'knowledge', 'expertise', 'proficient', 'familiar',
+      'essential', 'should', 'preferred', 'ideal', 'candidate', 'applicant'
     ];
     
+    const mediumPriorityKeywords = [
+      'responsibilities', 'duties', 'role', 'position', 'job', 'work', 'tasks',
+      'opportunity', 'team', 'company', 'department', 'organization'
+    ];
+    
+    // Level indicators that are important for filtering
+    const levelKeywords = [
+      'junior', 'senior', 'lead', 'principal', 'entry', 'entry-level', 'associate',
+      'manager', 'director', 'head', 'chief', 'expert', 'specialist', 'consultant',
+      'intern', 'trainee', 'graduate', 'fresh', 'beginner', 'experienced', 'veteran'
+    ];
+    
+    let relevantSections = [];
     let allText = '';
     
-    // Collect relevant text
+    // First pass: collect high-priority content (experience, qualifications, requirements)
     Array.from(descElements).forEach(element => {
       const text = element.textContent.trim().toLowerCase();
-      const isRelevant = relevantKeywords.some(keyword => text.includes(keyword));
+      const hasHighPriority = highPriorityKeywords.some(keyword => text.includes(keyword));
+      const hasLevelKeyword = levelKeywords.some(keyword => text.includes(keyword));
       
-      if (isRelevant && text.length > 10) {
-        allText += element.textContent.trim() + ' ';
+      if ((hasHighPriority || hasLevelKeyword) && text.length > 15) {
+        relevantSections.push({
+          text: element.textContent.trim(),
+          priority: hasHighPriority ? 'high' : 'medium',
+          element: element
+        });
       }
     });
     
+    // If we have high-priority content, prioritize it
+    if (relevantSections.length > 0) {
+      // Sort by priority (high first), then by text length
+      relevantSections.sort((a, b) => {
+        if (a.priority !== b.priority) {
+          return a.priority === 'high' ? -1 : 1;
+        }
+        return b.text.length - a.text.length;
+      });
+      
+      allText = relevantSections.slice(0, 10).map(section => section.text).join(' ');
+    }
+    
+    // Fallback: if no high-priority content, look for medium priority
     if (!allText) {
-      // Fallback: get all text if no keywords found
+      Array.from(descElements).forEach(element => {
+        const text = element.textContent.trim().toLowerCase();
+        const hasMediumPriority = mediumPriorityKeywords.some(keyword => text.includes(keyword));
+        
+        if (hasMediumPriority && text.length > 20) {
+          allText += element.textContent.trim() + ' ';
+        }
+      });
+    }
+    
+    // Final fallback: get all text if nothing else worked
+    if (!allText) {
       allText = Array.from(descElements)
         .map(el => el.textContent.trim())
+        .filter(text => text.length > 10)
         .join(' ');
     }
     
-    // Enhanced formatting with proper indentation and dots
-    if (allText.length > 50) {
-      const sentences = allText
-        .split(/[.!?]+/)
-        .map(s => s.trim())
-        .filter(s => s.length > 15)
-        .slice(0, 8);
-      
-      return sentences
-        .map(sentence => {
-          // Clean up the sentence
-          let cleanSentence = sentence.trim();
-          
-          // Capitalize first letter
-          cleanSentence = cleanSentence.charAt(0).toUpperCase() + cleanSentence.slice(1);
-          
-          // Ensure it ends with a dot
-          if (!cleanSentence.endsWith('.') && !cleanSentence.endsWith('!') && !cleanSentence.endsWith('?')) {
-            cleanSentence += '.';
-          }
-          
-          // Add bullet point and proper indentation
-          return `• ${cleanSentence}`;
-        })
-        .join('\n');
+    if (!allText || allText.trim().length < 20) {
+      return 'Description content not available';
     }
     
-    // For shorter descriptions, still format with bullet and dot
-    if (allText.trim()) {
+    // Enhanced text processing for better experience extraction
+    function processTextForExperienceExtraction(text) {
+      // Split into sentences and filter for experience-related content
+      const sentences = text
+        .split(/[.!?;]+/)
+        .map(s => s.trim())
+        .filter(s => s.length > 20); // Longer sentences more likely to contain requirements
+      
+      // Prioritize sentences with experience keywords
+      const experienceKeywords = [
+        'year', 'experience', 'minimum', 'require', 'must', 'need', 'prefer',
+        'background', 'qualification', 'degree', 'education', 'skill'
+      ];
+      
+      const experienceRelatedSentences = sentences.filter(sentence => 
+        experienceKeywords.some(keyword => 
+          sentence.toLowerCase().includes(keyword)
+        )
+      );
+      
+      const otherSentences = sentences.filter(sentence => 
+        !experienceKeywords.some(keyword => 
+          sentence.toLowerCase().includes(keyword)
+        )
+      );
+      
+      // Combine experience-related sentences first, then others
+      const prioritizedSentences = [...experienceRelatedSentences, ...otherSentences];
+      
+      return prioritizedSentences.slice(0, 8); // Limit to 8 most relevant sentences
+    }
+    
+    const processedSentences = processTextForExperienceExtraction(allText);
+    
+    if (processedSentences.length === 0) {
+      // If no sentences, format the raw text
       let cleanText = allText.trim();
       cleanText = cleanText.charAt(0).toUpperCase() + cleanText.slice(1);
       
@@ -392,8 +502,54 @@ async function extractAndFormatDescription(page, descriptionSelector) {
       return `• ${cleanText}`;
     }
     
-    return 'Description content not available';
+    // Format sentences with proper structure
+    return processedSentences
+      .map(sentence => {
+        // Clean up the sentence
+        let cleanSentence = sentence.trim();
+        
+        // Remove redundant spaces and normalize
+        cleanSentence = cleanSentence.replace(/\s+/g, ' ');
+        
+        // Capitalize first letter
+        cleanSentence = cleanSentence.charAt(0).toUpperCase() + cleanSentence.slice(1);
+        
+        // Ensure it ends with proper punctuation
+        if (!cleanSentence.endsWith('.') && !cleanSentence.endsWith('!') && !cleanSentence.endsWith('?')) {
+          cleanSentence += '.';
+        }
+        
+        // Add bullet point with proper indentation
+        return `• ${cleanSentence}`;
+      })
+      .join('\n');
+      
   }, descriptionSelector);
+}
+
+// Helper function to validate if extracted description contains experience info
+function validateDescriptionForExperience(description) {
+  if (!description || description === 'Description content not available' || description === 'No description found') {
+    return { hasExperience: false, confidence: 0 };
+  }
+  
+  const experienceIndicators = [
+    /\d+\s*\+?\s*years?\s*(?:of\s*)?(?:experience|exp|work)/gi,
+    /(?:minimum|require|need|must have)\s*\d+\s*years?/gi,
+    /(?:experience|background|qualification).*?\d+\s*years?/gi,
+    /\d+\s*years?\s*(?:minimum|required|needed)/gi
+  ];
+  
+  const matches = experienceIndicators.reduce((count, pattern) => {
+    const found = (description.match(pattern) || []).length;
+    return count + found;
+  }, 0);
+  
+  return {
+    hasExperience: matches > 0,
+    confidence: Math.min(matches * 0.3, 1), // 0.3 per match, max 1.0
+    matchCount: matches
+  };
 }
 
 /**
