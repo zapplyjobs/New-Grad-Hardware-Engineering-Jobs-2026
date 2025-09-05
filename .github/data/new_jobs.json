@@ -1,72 +1,12 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "RDA/Metrology Engineer, APTD",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "a day",
-    "job_description": "Same-page description extraction failed",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-rda-metrology-engineer-aptd-boise"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "Intern - Metrology Process Development Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "a day",
-    "job_description": "Same-page description extraction failed",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-intern-metrology-process-development-engineer-boise"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "Metrology Process Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "8 days",
-    "job_description": "Same-page description extraction failed",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-metrology-process-engineer-boise"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "HPC Deployment Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• As a High Performance Computer (HPC) Solution Installation and Deployment Engineer, you will be responsible for the installation, configuration, and deployment of HPC systems.\n• You will work closely with clients, project managers, and other technical staff to ensure that HPC solutions meet performance, reliability, and scalability requirements.\n• This role demands a strong understanding of HPC architectures, networks, and software, along with excellent problem-solving skills.\n• Your Key Responsibilities: Knowledge of scripting languages (e.\n• , Python, Bash) We also invest in your career because the better you are, the better we all are.\n• We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Melbourne-Victoria-Australia/Senior-HPC-Deployment-Engineer_1187745-1?q=hardware+engineering",
-    "id": "hewlett-packard-enterprise-hpc-deployment-engineer-2-locations"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Summer 2026 Undergrad Field Applications Engineer Intern",
-    "job_city": "US",
+    "employer_name": "AI Jobs",
+    "job_title": "AI Engineer",
+    "job_city": "San Jose",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "• Location: San Jose, CAOnsite: This role requires the student to work full time (40 hours a week),  in an onsite work structure throughout the duration of the co-op/intern term.\n• Duration: May 2026 to August 2026 Collaborate with cross-functional teams to solve real-world problems using FPGA-based and x86 solutions.\n• Gain in-depth knowledge of FPGA hardware, x86 servers, software tools, and design methodologies.\n• Develop and present technical demos, proofs-of-concept, and training materials.\n• Work with cool technology like machine learning, signal processing, high speed serial I/O Highly motivated engineers with experience in digital design.\n• Engineers interested in technical sales who help customers get their designs done faster.\n• Enrollement in a University bachelor's degree in Electrical Engineering or Computer EngineeringIf you have knowledge / experience with any of the following technical skills (orrelated areas) and are enthusiastic about this role, we strongly encourage you toapply Exposure to Digital Design (VHDL / Verilog) Exposure to CPU computer architectures Familiarity with basic programming, data structures and algorithms Exposure to OOP languages (C++ / System Verilog / etc.\n• ) Exposure to Scripting languages (Perl / Python).",
-    "job_apply_link": "https://campus-amd.icims.com/jobs/69259/login",
-    "id": "amd-summer-2026-undergrad-field-applications-engineer-intern-us"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Power Analysis Engineer",
-    "job_city": "San Diego",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/staff-power-analysis-engineer/33099/64317506576",
-    "id": "arm-power-analysis-engineer-san-diego"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "AI/ML Operations & Developer Engineer",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/san-diego/senior-ai-ml-operations-and-developer-engineer/33099/83887612320",
-    "id": "arm-ai-ml-operations-developer-engineer-"
+    "job_posted_at": "12h",
+    "job_description": "• Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, Machine Learning, Electrical Engineering, or a related field.\n• 2+ years of experience in AI/ML development, preferably in the consumer electronics or IoT industry.\n• Proficiency in programming languages such as Python and C++.\n• Experience with AI/ML frameworks such as PyTorch, or scikit-learn.\n• Strong background in computer vision, deep learning, LLM, or reinforcement learning.\n• Experience with embedded AI and edge computing frameworks (e.\n• , ONNX, NVIDIA Jetson).\n• Knowledge of data processing pipelines, model training, and hyperparameter tuning.",
+    "job_apply_link": "https://www.aijobs.com/jobs/160842912-ai-engineer",
+    "id": "ai-jobs-ai-engineer-san-jose"
   }
 ]
