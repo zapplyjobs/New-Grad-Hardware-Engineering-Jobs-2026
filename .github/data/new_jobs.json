@@ -1,332 +1,42 @@
 [
   {
     "employer_name": "BAE Systems",
-    "job_title": "FPGA Engineer",
-    "job_city": "Aberdeen Proving Ground",
-    "job_state": "MD",
-    "job_posted_at": "2 Days",
-    "job_description": "• University, Hardware Engineer InternlocationsRoseville, CAposted onPosted YesterdayR0225555 University - Hardware EngineerlocationsRoseville, CAposted onPosted YesterdayR0225563 Network EngineerlocationsCollege Park, MDposted onPosted 23 Days AgoR0223445 Manufacturing and Engineering Flagship LeadlocationsLorton, VAposted onPosted 30+ Days AgoR0222472 Embedded Engineer, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 30+ Days AgoR0215354 Mechanical Engineer, SeniorlocationsPanama City, FLposted onPosted 7 Days AgoR0225394 Network Engineer, Leadlocations2 Locationsposted onPosted 7 Days AgoR0225420.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aberdeen-Proving-Ground-MD/FPGA-Engineer_R0225545?q=hardware+engineering",
-    "id": "bae-systems-fpga-engineer-aberdeen-proving-ground"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Systems Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "30+ Days",
-    "job_description": "• University, Hardware Engineer InternlocationsRoseville, CAposted onPosted YesterdayR0225555 University - Hardware EngineerlocationsRoseville, CAposted onPosted YesterdayR0225563 Network EngineerlocationsCollege Park, MDposted onPosted 23 Days AgoR0223445 Manufacturing and Engineering Flagship LeadlocationsLorton, VAposted onPosted 30+ Days AgoR0222472 Embedded Engineer, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 30+ Days AgoR0215354 Mechanical Engineer, SeniorlocationsPanama City, FLposted onPosted 7 Days AgoR0225394 Network Engineer, Leadlocations2 Locationsposted onPosted 7 Days AgoR0225420.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Systems-Engineer_R0221263?q=hardware+engineering",
-    "id": "bae-systems-systems-engineer-2-locations"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Electrical Engineer",
-    "job_city": "King George",
-    "job_state": "VA",
-    "job_posted_at": "9 Days",
-    "job_description": "• University, Hardware Engineer InternlocationsRoseville, CAposted onPosted YesterdayR0225555 University - Hardware EngineerlocationsRoseville, CAposted onPosted YesterdayR0225563 Network EngineerlocationsCollege Park, MDposted onPosted 23 Days AgoR0223445 Manufacturing and Engineering Flagship LeadlocationsLorton, VAposted onPosted 30+ Days AgoR0222472 Embedded Engineer, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 30+ Days AgoR0215354 Mechanical Engineer, SeniorlocationsPanama City, FLposted onPosted 7 Days AgoR0225394 Network Engineer, Leadlocations2 Locationsposted onPosted 7 Days AgoR0225420.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/King-George-VA/Electrical-Engineer_R0225223?q=hardware+engineering",
-    "id": "bae-systems-electrical-engineer-king-george"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Network Engineer",
+    "job_title": "Computer Scientist",
     "job_city": "McLean",
     "job_state": "VA",
-    "job_posted_at": "30+ Days",
-    "job_description": "• University, Hardware Engineer InternlocationsRoseville, CAposted onPosted YesterdayR0225555 University - Hardware EngineerlocationsRoseville, CAposted onPosted YesterdayR0225563 Network EngineerlocationsCollege Park, MDposted onPosted 23 Days AgoR0223445 Manufacturing and Engineering Flagship LeadlocationsLorton, VAposted onPosted 30+ Days AgoR0222472 Embedded Engineer, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 30+ Days AgoR0215354 Mechanical Engineer, SeniorlocationsPanama City, FLposted onPosted 7 Days AgoR0225394 Network Engineer, Leadlocations2 Locationsposted onPosted 7 Days AgoR0225420.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Network-Engineer_R0221772?q=hardware+engineering",
-    "id": "bae-systems-network-engineer-mclean"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Network Engineer",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_posted_at": "30+ Days",
-    "job_description": "• University, Hardware Engineer InternlocationsRoseville, CAposted onPosted YesterdayR0225555 University - Hardware EngineerlocationsRoseville, CAposted onPosted YesterdayR0225563 Network EngineerlocationsCollege Park, MDposted onPosted 23 Days AgoR0223445 Manufacturing and Engineering Flagship LeadlocationsLorton, VAposted onPosted 30+ Days AgoR0222472 Embedded Engineer, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 30+ Days AgoR0215354 Mechanical Engineer, SeniorlocationsPanama City, FLposted onPosted 7 Days AgoR0225394 Network Engineer, Leadlocations2 Locationsposted onPosted 7 Days AgoR0225420.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Network-Engineer_R0223327-1?q=hardware+engineering",
-    "id": "bae-systems-network-engineer-san-diego"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Network Engineer",
-    "job_city": "Norfolk",
-    "job_state": "VA",
-    "job_posted_at": "16 Days",
-    "job_description": "• University, Hardware Engineer InternlocationsRoseville, CAposted onPosted YesterdayR0225555 University - Hardware EngineerlocationsRoseville, CAposted onPosted YesterdayR0225563 Network EngineerlocationsCollege Park, MDposted onPosted 23 Days AgoR0223445 Manufacturing and Engineering Flagship LeadlocationsLorton, VAposted onPosted 30+ Days AgoR0222472 Embedded Engineer, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 30+ Days AgoR0215354 Mechanical Engineer, SeniorlocationsPanama City, FLposted onPosted 7 Days AgoR0225394 Network Engineer, Leadlocations2 Locationsposted onPosted 7 Days AgoR0225420.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Network-Engineer_R0223841?q=hardware+engineering",
-    "id": "bae-systems-network-engineer-norfolk"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Computer Engineer",
-    "job_city": "Odon",
-    "job_state": "IN",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Network Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0221945 Network Engineer, SeniorlocationsWarner Robins, GAposted onPosted 30+ Days AgoR0221294 Red Team Operator, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0221485 Network Engineer, SeniorlocationsSan Diego, CAposted onPosted 24 Days AgoR0224167 Robotics Engineer, SeniorlocationsLorton, VAposted onPosted 15 Days AgoR0224473 Network Engineer, SeniorlocationsTampa, FLposted onPosted 10 Days AgoR0222576.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Odon-IN/Computer-Engineer_R0225675?q=hardware+engineering",
-    "id": "bae-systems-computer-engineer-odon"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Digital Systems Engineer",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Network Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0221945 Network Engineer, SeniorlocationsWarner Robins, GAposted onPosted 30+ Days AgoR0221294 Red Team Operator, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0221485 Network Engineer, SeniorlocationsSan Diego, CAposted onPosted 24 Days AgoR0224167 Robotics Engineer, SeniorlocationsLorton, VAposted onPosted 15 Days AgoR0224473 Network Engineer, SeniorlocationsTampa, FLposted onPosted 10 Days AgoR0222576.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Digital-Systems-Engineer_R0221305?q=hardware+engineering",
-    "id": "bae-systems-digital-systems-engineer-huntsville"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Electronics Engineer, Mid",
-    "job_city": "Dahlgren",
-    "job_state": "VA",
-    "job_posted_at": "25 Days",
-    "job_description": "• Network Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0221945 Network Engineer, SeniorlocationsWarner Robins, GAposted onPosted 30+ Days AgoR0221294 Red Team Operator, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0221485 Network Engineer, SeniorlocationsSan Diego, CAposted onPosted 24 Days AgoR0224167 Robotics Engineer, SeniorlocationsLorton, VAposted onPosted 15 Days AgoR0224473 Network Engineer, SeniorlocationsTampa, FLposted onPosted 10 Days AgoR0222576.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Electronics-Engineer--Mid_R0224026?q=hardware+engineering",
-    "id": "bae-systems-electronics-engineer-mid-dahlgren"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Network Infrastructure Engineer",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_posted_at": "28 Days",
-    "job_description": "• Network Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0221945 Network Engineer, SeniorlocationsWarner Robins, GAposted onPosted 30+ Days AgoR0221294 Red Team Operator, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0221485 Network Engineer, SeniorlocationsSan Diego, CAposted onPosted 24 Days AgoR0224167 Robotics Engineer, SeniorlocationsLorton, VAposted onPosted 15 Days AgoR0224473 Network Engineer, SeniorlocationsTampa, FLposted onPosted 10 Days AgoR0222576.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Network-Infrastructure-Engineer_R0223993?q=hardware+engineering",
-    "id": "bae-systems-network-infrastructure-engineer-fort-meade"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Cloud Network Engineer, Mid",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_posted_at": "30+ Days",
-    "job_description": "• VoIP Engineer, SeniorlocationsRamstein-Miesenbach, Rhineland-Palatinateposted onPosted 30+ Days AgoR0223321 Digital Engineer, LeadlocationsEl Segundo, CAposted onPosted 3 Days AgoR0225496.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Cloud-Network-Engineer--Mid_R0221615?q=hardware+engineering",
-    "id": "bae-systems-cloud-network-engineer-mid-annapolis-junction"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Field Service Representative",
-    "job_city": "Ramstein-Miesenbach",
-    "job_state": "Rhineland-Palatinate",
-    "job_posted_at": "11 Days",
-    "job_description": "• VoIP Engineer, SeniorlocationsRamstein-Miesenbach, Rhineland-Palatinateposted onPosted 30+ Days AgoR0223321 Digital Engineer, LeadlocationsEl Segundo, CAposted onPosted 3 Days AgoR0225496.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ramstein-Miesenbach-Rhineland-Palatinate/Field-Service-Representative_R0224042?q=hardware+engineering",
-    "id": "bae-systems-field-service-representative-ramstein-miesenbach"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Weapon Systems Solutions Engineer",
-    "job_city": "Fort Walton Beach",
-    "job_state": "FL",
-    "job_posted_at": "30 Days",
-    "job_description": "• Systems Integration Lab Engineer, LeadlocationsCalifornia, MDposted onPosted 3 Days AgoR0225439 Configuration Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0223086 Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 8 Days AgoR0225275 C2 Datacenter Network Architect, LeadlocationsSan Diego, CAposted onPosted 10 Days AgoR0224153 Systems and Digital Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0223342 Systems and Digital Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0223341 Electrical Engineer, SeniorlocationsArlington, VAposted onPosted 24 Days AgoR0224069 IT Configuration ManagerlocationsFort Meade, MDposted onPosted 9 Days AgoR0224196 Autonomy Engineer, LeadlocationsLorton, VAposted onPosted 30+ Days AgoR0223285.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Walton-Beach-FL/Weapon-Systems-Solutions-Engineer--Senior_R0223501?q=hardware+engineering",
-    "id": "bae-systems-weapon-systems-solutions-engineer-fort-walton-beach"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Cisco Voice SME",
-    "job_city": "Wright Patterson AFB",
-    "job_state": "OH",
-    "job_posted_at": "3 Days",
-    "job_description": "• Systems Integration Lab Engineer, LeadlocationsCalifornia, MDposted onPosted 3 Days AgoR0225439 Configuration Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0223086 Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 8 Days AgoR0225275 C2 Datacenter Network Architect, LeadlocationsSan Diego, CAposted onPosted 10 Days AgoR0224153 Systems and Digital Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0223342 Systems and Digital Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0223341 Electrical Engineer, SeniorlocationsArlington, VAposted onPosted 24 Days AgoR0224069 IT Configuration ManagerlocationsFort Meade, MDposted onPosted 9 Days AgoR0224196 Autonomy Engineer, LeadlocationsLorton, VAposted onPosted 30+ Days AgoR0223285.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wright-Patterson-AFB-OH/Cisco-Voice-SME_R0225165?q=hardware+engineering",
-    "id": "bae-systems-cisco-voice-sme-wright-patterson-afb"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Electronics Engineer, Mid",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Systems Integration Lab Engineer, LeadlocationsCalifornia, MDposted onPosted 3 Days AgoR0225439 Configuration Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0223086 Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 8 Days AgoR0225275 C2 Datacenter Network Architect, LeadlocationsSan Diego, CAposted onPosted 10 Days AgoR0224153 Systems and Digital Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0223342 Systems and Digital Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0223341 Electrical Engineer, SeniorlocationsArlington, VAposted onPosted 24 Days AgoR0224069 IT Configuration ManagerlocationsFort Meade, MDposted onPosted 9 Days AgoR0224196 Autonomy Engineer, LeadlocationsLorton, VAposted onPosted 30+ Days AgoR0223285.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Electronics-Engineer--Mid_R0222426?q=hardware+engineering",
-    "id": "bae-systems-electronics-engineer-mid-washington"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Combat Data Systems Engineer",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221862 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221867 Mission Systems Technical Engineer, LeadlocationsAustraliaposted onPosted 9 Days AgoR0214321 Cyber Warfare Engineer, SeniorlocationsRome, NYposted onPosted 30+ Days AgoR0221856 CUAS & EW Engineer, LeadlocationsMcLean, VAposted onPosted 2 Days AgoR0225411 Test Engineer, LeadlocationsEl Segundo, CAposted onPosted 8 Days AgoR0225230.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Combat-Data-Systems-Engineer_R0222810?q=hardware+engineering",
-    "id": "bae-systems-combat-data-systems-engineer-arlington"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Software Developer",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221862 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221867 Mission Systems Technical Engineer, LeadlocationsAustraliaposted onPosted 9 Days AgoR0214321 Cyber Warfare Engineer, SeniorlocationsRome, NYposted onPosted 30+ Days AgoR0221856 CUAS & EW Engineer, LeadlocationsMcLean, VAposted onPosted 2 Days AgoR0225411 Test Engineer, LeadlocationsEl Segundo, CAposted onPosted 8 Days AgoR0225230.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Software-Developer_R0212036-1?q=hardware+engineering",
-    "id": "bae-systems-software-developer-annapolis-junction"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Software and Data Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221862 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221867 Mission Systems Technical Engineer, LeadlocationsAustraliaposted onPosted 9 Days AgoR0214321 Cyber Warfare Engineer, SeniorlocationsRome, NYposted onPosted 30+ Days AgoR0221856 CUAS & EW Engineer, LeadlocationsMcLean, VAposted onPosted 2 Days AgoR0225411 Test Engineer, LeadlocationsEl Segundo, CAposted onPosted 8 Days AgoR0225230.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Software-and-Data-Engineer_R0221136?q=hardware+engineering",
-    "id": "bae-systems-software-and-data-engineer-2-locations"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Systems Integrator",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "11 Days",
-    "job_description": "• Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221862 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221867 Mission Systems Technical Engineer, LeadlocationsAustraliaposted onPosted 9 Days AgoR0214321 Cyber Warfare Engineer, SeniorlocationsRome, NYposted onPosted 30+ Days AgoR0221856 CUAS & EW Engineer, LeadlocationsMcLean, VAposted onPosted 2 Days AgoR0225411 Test Engineer, LeadlocationsEl Segundo, CAposted onPosted 8 Days AgoR0225230.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Systems-Integrator_R0225024?q=hardware+engineering",
-    "id": "bae-systems-systems-integrator-mclean"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "AI/ML Cloud Operations Engineer",
-    "job_city": "Fayetteville",
-    "job_state": "NC",
-    "job_posted_at": "17 Days",
-    "job_description": "• Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221862 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221867 Mission Systems Technical Engineer, LeadlocationsAustraliaposted onPosted 9 Days AgoR0214321 Cyber Warfare Engineer, SeniorlocationsRome, NYposted onPosted 30+ Days AgoR0221856 CUAS & EW Engineer, LeadlocationsMcLean, VAposted onPosted 2 Days AgoR0225411 Test Engineer, LeadlocationsEl Segundo, CAposted onPosted 8 Days AgoR0225230.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/AI-ML-Cloud-Operations-Engineer_R0224658?q=hardware+engineering",
-    "id": "bae-systems-ai-ml-cloud-operations-engineer-fayetteville"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Systems Administrator",
-    "job_city": "Beavercreek",
-    "job_state": "OH",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221862 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221867 Mission Systems Technical Engineer, LeadlocationsAustraliaposted onPosted 9 Days AgoR0214321 Cyber Warfare Engineer, SeniorlocationsRome, NYposted onPosted 30+ Days AgoR0221856 CUAS & EW Engineer, LeadlocationsMcLean, VAposted onPosted 2 Days AgoR0225411 Test Engineer, LeadlocationsEl Segundo, CAposted onPosted 8 Days AgoR0225230.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Systems-Administrator_R0223366?q=hardware+engineering",
-    "id": "bae-systems-systems-administrator-beavercreek"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "PC Technician, Mid",
-    "job_city": "Cannon AFB",
-    "job_state": "NM",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Manufacturing Quality Assurance SpecialistlocationsFayetteville, NCposted onPosted 29 Days AgoR0223769 Configuration Manager, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 14 Days AgoR0224944 Defense Mission Security Program Managerlocations2 Locationsposted onPosted 2 Days AgoR0225566 Acoustic Intelligence Analyst, Seniorlocations2 Locationsposted onPosted 29 Days AgoR0223620 Software Configuration ManagerlocationsLorton, VAposted onPosted 9 Days AgoR0225143 Software Integrator, SeniorlocationsBelcamp, MDposted onPosted 10 Days AgoR0224959 Configuration ManagerlocationsClearfield, UTposted onPosted 14 Days AgoR0221684 Technical Program LeadlocationsRoseville, CAposted onPosted 7 Days AgoR0225358 Computer Vision ExpertlocationsBethesda, MDposted onPosted YesterdayR0225632 License ManagerlocationsArlington, VAposted onPosted 22 Days AgoR0224319.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Cannon-AFB-NM/PC-Technician--Mid_R0223413?q=hardware+engineering",
-    "id": "bae-systems-pc-technician-mid-cannon-afb"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Information System Security Officer",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_posted_at": "9 Days",
-    "job_description": "• Manufacturing Quality Assurance SpecialistlocationsFayetteville, NCposted onPosted 29 Days AgoR0223769 Configuration Manager, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 14 Days AgoR0224944 Defense Mission Security Program Managerlocations2 Locationsposted onPosted 2 Days AgoR0225566 Acoustic Intelligence Analyst, Seniorlocations2 Locationsposted onPosted 29 Days AgoR0223620 Software Configuration ManagerlocationsLorton, VAposted onPosted 9 Days AgoR0225143 Software Integrator, SeniorlocationsBelcamp, MDposted onPosted 10 Days AgoR0224959 Configuration ManagerlocationsClearfield, UTposted onPosted 14 Days AgoR0221684 Technical Program LeadlocationsRoseville, CAposted onPosted 7 Days AgoR0225358 Computer Vision ExpertlocationsBethesda, MDposted onPosted YesterdayR0225632 License ManagerlocationsArlington, VAposted onPosted 22 Days AgoR0224319.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Information-System-Security-Officer_R0225077?q=hardware+engineering",
-    "id": "bae-systems-information-system-security-officer-fort-meade"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "C4I Network Targeting Analyst",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Manufacturing Quality Assurance SpecialistlocationsFayetteville, NCposted onPosted 29 Days AgoR0223769 Configuration Manager, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 14 Days AgoR0224944 Defense Mission Security Program Managerlocations2 Locationsposted onPosted 2 Days AgoR0225566 Acoustic Intelligence Analyst, Seniorlocations2 Locationsposted onPosted 29 Days AgoR0223620 Software Configuration ManagerlocationsLorton, VAposted onPosted 9 Days AgoR0225143 Software Integrator, SeniorlocationsBelcamp, MDposted onPosted 10 Days AgoR0224959 Configuration ManagerlocationsClearfield, UTposted onPosted 14 Days AgoR0221684 Technical Program LeadlocationsRoseville, CAposted onPosted 7 Days AgoR0225358 Computer Vision ExpertlocationsBethesda, MDposted onPosted YesterdayR0225632 License ManagerlocationsArlington, VAposted onPosted 22 Days AgoR0224319.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/C4I-Network-Targeting-Analyst_R0225589?q=hardware+engineering",
-    "id": "bae-systems-c4i-network-targeting-analyst-washington"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Cryptologic Data Flow Technician",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_posted_at": "28 Days",
-    "job_description": "• Technical Support SpecialistlocationsAberdeen Proving Ground, MDposted onPosted YesterdayR0225586 Cloud Information Assurance SpecialistlocationsLexington, MAposted onPosted 30+ Days AgoR0223778 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221833 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221835 Integrated Project Team LeadlocationsHuntsville, ALposted onPosted 11 Days AgoR0221283.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Cryptologic-Signals-Analyst_R0222762?q=hardware+engineering",
-    "id": "bae-systems-cryptologic-data-flow-technician-fort-meade"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Systems Administrator",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "2 Days",
-    "job_description": "• Technical Support SpecialistlocationsAberdeen Proving Ground, MDposted onPosted YesterdayR0225586 Cloud Information Assurance SpecialistlocationsLexington, MAposted onPosted 30+ Days AgoR0223778 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221833 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221835 Integrated Project Team LeadlocationsHuntsville, ALposted onPosted 11 Days AgoR0221283.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Systems-Administrator_R0224241?q=hardware+engineering",
-    "id": "bae-systems-systems-administrator-2-locations"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Communcations Engineer",
-    "job_city": "USA AK Elmendorf AFB",
-    "job_state": "US",
     "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-AK-Elmendorf-AFB/Communcations-Engineer_RQ206363-1?q=hardware+engineering",
-    "id": "general-dynamics-communcations-engineer-usa-ak-elmendorf-afb"
+    "job_description": "• Technical Support SpecialistlocationsAberdeen Proving Ground, MDposted onPosted YesterdayR0225586 Cloud Information Assurance SpecialistlocationsLexington, MAposted onPosted 30+ Days AgoR0223778 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221833 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221835 Integrated Project Team LeadlocationsHuntsville, ALposted onPosted 11 Days AgoR0221283.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Computer-Scientist_R0224558-1?q=hardware+engineering",
+    "id": "bae-systems-computer-scientist-mclean"
   },
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Field Engineer",
-    "job_city": "ational",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/International/IBD-SS-BETSS-C-Field-Service-Technician-Engineer---Secret-Clearance-Required_RQ204393-1?q=hardware+engineering",
-    "id": "general-dynamics-field-engineer-ational"
+    "employer_name": "AMD",
+    "job_title": "CPU Core RTL Methodology Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "• Engineering DevOps/Infrastructure development experience modernizing and maintaining industry leading engineering infrastructureStrong proficiency with scripting such as Python, Perl, Ruby, Shell and/or TCLVerilog RTL development with industry tools in a CPU, SOC or ASIC environmentDemonstrates expertise in the following:Engineer Infrastructure development and ownership of in-house engineering toolsAutomation of engineering flows and toolsRTL linting tools to analyze RTL code.\n• Design methodologies and tools to aid and improve RTL design qualityProcessor architecture including high-performance out-of-order processor architectureLogic designRTL coding experience for a high-speed processor Execute and refine methodology and tools needed to accomplish RTL design workCollaborate with a team of hardware and infrastructure engineers to develop best in class engineering infrastructure for RTL developmentOwn, refine, and maintain critical tools that ensure successful high quality RTL developmentTeam up with multi-disciplinary teams to find new ways to unlock efficiency in RTL development.\n• Contribute to silicon debug and product support as needed Engineer Infrastructure development and ownership of in-house engineering toolsAutomation of engineering flows and toolsRTL linting tools to analyze RTL code.\n• Design methodologies and tools to aid and improve RTL design qualityProcessor architecture including high-performance out-of-order processor architectureLogic designRTL coding experience for a high-speed processor Exposure to physical design and verification methodsAwareness of synthesis, place and route, and timing closure conceptsStrong problem-solving and debugging skillsOther software development experience Strong programming skills in at least one principal language e.\n• , Python, Go, Java, C#, or TypeScript) and familiarity with a second language Strong programming skills in at least one principal language e.\n• , Python, Go, Java, C#, or TypeScript) and familiarity with a second language BS, MS, or PhD degree in Electrical, Computer Engineering, or related field of study preferred.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/67171/login",
+    "id": "amd-cpu-core-rtl-methodology-engineer-us"
   },
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Systems Engineer Advisor",
-    "job_city": "USA VA Hampton",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Hampton/Systems-Engineer-Advisor_RQ198842-1?q=hardware+engineering",
-    "id": "general-dynamics-systems-engineer-advisor-usa-va-hampton"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Network Engineer SME",
-    "job_city": "USA VA Hampton",
-    "job_state": "US",
-    "job_posted_at": "4 Days",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Hampton/Systems-Engineer-Expert_RQ203315?q=hardware+engineering",
-    "id": "general-dynamics-network-engineer-sme-usa-va-hampton"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "Hardware Applications Engineer",
-    "job_city": "Santa Clara",
+    "employer_name": "Amazon",
+    "job_title": "Embedded Software Development Engineer II, AWS Hardware Engineering",
+    "job_city": "Cupertino",
     "job_state": "CA",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Principal Design EngineerlocationsUS - ID - Boiseposted onPosted 30+ Days Ago2501498Hardware & Silicon Validation Senior Staff EnigneerlocationsWestborough, MAposted onPosted 30+ Days Ago2501492Principal Field Application Engineer-NetworkinglocationsSanta Clara, CAposted onPosted 30+ Days Ago2501653Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501514Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501515Senior Principal IC Design Engineerlocations3 Locationsposted onPosted 30+ Days Ago2500354Principle DSP EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501467Senior Staff Post-Silicon Validation EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2500906Staff Validation EngineerlocationsUS - NY - Hudson Valleyposted onPosted 30+ Days Ago2501466Principal Field Application Engineer - Systems Solutions and ArchitecturelocationsSanta Clara, CAposted onPosted 30+ Days Ago2501404Hardware Validation (Test Solutions) EngineerlocationsBurlington, VTposted onPosted 30+ Days Ago2500293Principal Engineer - Silicon Validation EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501012Principal Optical EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501175Director Customer Support - US Customer Solutions GrouplocationsSanta Clara, CAposted onPosted 30+ Days Ago2501136Principal Engineer, Hardware & Silicon ValidationlocationsWestborough, MAposted onPosted 30+ Days Ago2500868Hardware Applications EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501054Signal Integrity Engineer, Principallocations2 Locationsposted onPosted 30+ Days Ago2402417Senior Principal Applications Engineering - Network ValidationlocationsSanta Clara, CAposted onPosted 30+ Days Ago2500444Staff Applications Engineering - Network ValidationlocationsSanta Clara, CAposted onPosted 30+ Days Ago2402288Signal and Power Integrity EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2500785.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Hardware-Applications-Engineer_2501054?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-hardware-applications-engineer-santa-clara"
+    "job_posted_at": "6 months",
+    "job_description": "hardware engineering job for the role Embedded Software Development Engineer II, AWS Hardware Engineering",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/2913963/embedded-software-development-engineer-ii-aws-hardware-engineering",
+    "id": "amazon-embedded-software-development-engineer-ii-aws-hardware-engineering-cupertino"
   },
   {
-    "employer_name": "Marvel Technology",
-    "job_title": "Signal and Power Integrity Engineer",
-    "job_city": "Santa Clara",
+    "employer_name": "Amazon",
+    "job_title": "ML Compiler Engineer I, Annapurna Labs",
+    "job_city": "Cupertino",
     "job_state": "CA",
-    "job_posted_at": "30+ Days",
-    "job_description": "• Principal Design EngineerlocationsUS - ID - Boiseposted onPosted 30+ Days Ago2501498Hardware & Silicon Validation Senior Staff EnigneerlocationsWestborough, MAposted onPosted 30+ Days Ago2501492Principal Field Application Engineer-NetworkinglocationsSanta Clara, CAposted onPosted 30+ Days Ago2501653Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501514Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501515Senior Principal IC Design Engineerlocations3 Locationsposted onPosted 30+ Days Ago2500354Principle DSP EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501467Senior Staff Post-Silicon Validation EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2500906Staff Validation EngineerlocationsUS - NY - Hudson Valleyposted onPosted 30+ Days Ago2501466Principal Field Application Engineer - Systems Solutions and ArchitecturelocationsSanta Clara, CAposted onPosted 30+ Days Ago2501404Hardware Validation (Test Solutions) EngineerlocationsBurlington, VTposted onPosted 30+ Days Ago2500293Principal Engineer - Silicon Validation EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501012Principal Optical EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501175Director Customer Support - US Customer Solutions GrouplocationsSanta Clara, CAposted onPosted 30+ Days Ago2501136Principal Engineer, Hardware & Silicon ValidationlocationsWestborough, MAposted onPosted 30+ Days Ago2500868Hardware Applications EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501054Signal Integrity Engineer, Principallocations2 Locationsposted onPosted 30+ Days Ago2402417Senior Principal Applications Engineering - Network ValidationlocationsSanta Clara, CAposted onPosted 30+ Days Ago2500444Staff Applications Engineering - Network ValidationlocationsSanta Clara, CAposted onPosted 30+ Days Ago2402288Signal and Power Integrity EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2500785.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Signal-and-Power-Integrity-Engineer_2500785?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-signal-and-power-integrity-engineer-santa-clara"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Human Factors Engineer - Human Engineering",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "1 day",
-    "job_description": "• Minimum QualificationsExpertise in creating thorough experimental designs, utilizing scientific methodsMixed methods expertise to combine quantitative and qualitative research approachesRelevant, proven experience in human factors and/or consumer product usability evaluationExcellent communication and interpersonal skills, attention to detail, patience, and aesthetic sensibilityExpertise with the optimization and operation of Motion Capture Systems, as well as the ability to track rigid bodies and process 3D position/orientation dataMaster’s degree required (doctorate preferred) with a concentration or extensive work in human factors, industrial engineering, cognitive engineering, human-computer interaction, or experimental psychology.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200619186-0240/human-factors-engineer-human-engineering?team=HRDWR",
-    "id": "apple-human-factors-engineer-human-engineering-"
+    "job_posted_at": "4 months",
+    "job_description": "hardware engineering job for the role ML Compiler Engineer I, Annapurna Labs",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/2955921/ml-compiler-engineer-i-annapurna-labs",
+    "id": "amazon-ml-compiler-engineer-i-annapurna-labs-cupertino"
   }
 ]
