@@ -1,42 +1,32 @@
 [
   {
-    "employer_name": "Siemens",
-    "job_title": "Fire Alarm Systems Service Technician",
-    "job_city": "Houston",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Fire Alarm Systems Service Technician",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-fire-alarm-systems-service-technician-houston"
-  },
-  {
-    "employer_name": "Siemens",
-    "job_title": "Electrical Assembler",
-    "job_city": "Wendell",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Electrical Assembler",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-electrical-assembler-wendell"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "CAD Drafter",
-    "job_city": "Panama City",
-    "job_state": "FL",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Manufacturing Quality Assurance SpecialistlocationsFayetteville, NCposted onPosted 29 Days AgoR0223769 Configuration Manager, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 14 Days AgoR0224944 Defense Mission Security Program Managerlocations2 Locationsposted onPosted 2 Days AgoR0225566 Acoustic Intelligence Analyst, Seniorlocations2 Locationsposted onPosted 29 Days AgoR0223620 Software Configuration ManagerlocationsLorton, VAposted onPosted 9 Days AgoR0225143 Software Integrator, SeniorlocationsBelcamp, MDposted onPosted 10 Days AgoR0224959 Configuration ManagerlocationsClearfield, UTposted onPosted 14 Days AgoR0221684 Technical Program LeadlocationsRoseville, CAposted onPosted 7 Days AgoR0225358 License ManagerlocationsArlington, VAposted onPosted 22 Days AgoR0224319.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Panama-City-FL/CAD-Drafter_R0225569-1?q=hardware+engineering",
-    "id": "bae-systems-cad-drafter-panama-city"
+    "employer_name": "AI Jobs",
+    "job_title": "Electrical Engineering Internship, Prototyping",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
+    "job_posted_at": "4h",
+    "job_description": "• Hands-on experience in either electrical engineeringBasic CAD skills (SolidWorks, Onshape, etc.\n• )Comfortable doing physical work - setup, assembly, post-processingAble to work on-site in Palo AltoCurrently studying engineering or a related field.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161126657-electrical-engineering-internship-prototyping",
+    "id": "ai-jobs-electrical-engineering-internship-prototyping-palo-alto"
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Mechanical Engineering Internship, Prototyping",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "• Mechanical-engineering focus3D-print and assemble prototypesCreate models in multiple materialsConduct durability testingShared (mechanical engineering interns & electrical engineering interns)Collaborate with engineering and design teams to integrate new parts and resolve fit-and-function issuesContribute to the design and engineering of the next robot revision - your work is production-critical, not a side projectCreate and edit CAD models for printing or millingDocument print settings, results, and workflowsMaintain print lab organization and inventory Hands-on experience in mechanical engineeringBasic CAD skills (SolidWorks, Onshape, etc.\n• )Comfortable doing physical work,, setup, assembly, post-processingAble to work on-site in Palo AltoCurrently studying engineering or a related field.\n• 3D-print and assemble prototypesCreate models in multiple materialsConduct durability testing.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161126656-mechanical-engineering-internship-prototyping",
-    "id": "ai-jobs-mechanical-engineering-internship-prototyping-palo-alto"
+    "job_title": "Graduate AI Engineer",
+    "job_city": "Columbia",
+    "job_state": "MD",
+    "job_posted_at": "7h",
+    "job_description": "• Make a real impact by developing innovative products and solutions to meet our global customers' evolving needs and help make people’s lives easier, safe and secure.\n• Bachelor’s with up to 2 years experience or a recent Master’s degree with no work experience in Electrical Engineering, Computer Science, or related field.\n• Experience with Python, MATLAB, or similar tools.\n• Experience with embedded development environments.\n• Strong communication and teamwork skills.\n• Launch and advance your career in technical and business roles across four Product Groups and various corporate functions.\n• You will have the opportunities to explore our hardware and software capabilities and try new things.\n• Maximize your performance and wellbeing in our flexible and inclusive work environment.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161132804-graduate-ai-engineer",
+    "id": "ai-jobs-graduate-ai-engineer-columbia"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "AI Engineer",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Own assignments from proof-of-concept to design, and code delivery to MLOpsProduct Understanding: Understand our products from both the customer perspective and the engineering perspectiveAI Advocacy: Actively advocate for improving AI best practices, both internally in the tools and services offered by the AI team, as well as externally in the way the product teams integrate against those services Building robust pipelines for ingesting and processing both structured and unstructured data from diverse life sciences sourcesDeveloping and implementing transparent and explainable AI systems that maintain scientific accuracy while delivering insights that medical professionals can trust and act uponCreating domain-specific AI solutions that can navigate the complexity of medical and scientific language with high precisionBalancing the power of cutting-edge AI with the need for regulatory compliance and scientific rigor in healthcare applications 3+ years of enterprise SaaS software development experience3+ years of Python experience3+ years of experience with cloud computing (GCP preferred)Experience with Large Language ModelsExperience with common Data Science tooling and packagesA positive and collaborative attitudeInitiative and self-motivationMotivation and drive to continuously improve and learn by trying new tools, processes, or methodologiesExcellent verbal and written communication skillsCompany-provided laptop and hardware Ability to develop accurate, scalable, and explainable AI solutions that directly address customer needsReduction in processing time for complex scientific datasets while maintaining or improving accuracyQuality of integration between AI systems and product features as measured by customer satisfactionContributions to our AI toolkit that enable other teams to build more efficientlyDemonstrated ability to balance innovation with production stability in deployed AI systems Pursuit of excellence and mastery of their craftHumility in defeat and in successKindness and empathy towards othersDesire to create large-scale, positive change.\n• Explainable AI Development: Build AI systems with transparency and explainability at their core, allowing users to understand how and why specific conclusions are reached—critical for life sciences applications where trustworthiness is paramountModel Development & Refinement: Collaborate with the AI and MLOps teams to build and prototype new solutions for our customers, as well as our enterprise SaaS product offeringsCross-Functional Collaboration: Work with product and delivery teams to assist with the design and development of AI-powered features in our productsModel Creation & Training: Create, train and test models that deliver our AI capabilities with a focus on scientific accuracy and domain relevanceModel Optimization: Fine-tune, optimize and ground models to ensure they are sound and fit for purpose.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161132801-ai-engineer",
+    "id": "ai-jobs-ai-engineer-"
   }
 ]
