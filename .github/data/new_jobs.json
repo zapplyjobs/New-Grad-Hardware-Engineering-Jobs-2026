@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "Intern Software Engineer",
-    "job_city": "",
-    "job_state": "United States",
+    "job_title": "Intern Hardware Engineer",
+    "job_city": "Raleigh",
+    "job_state": "North Carolina",
     "job_posted_at": "Recently",
     "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/intern-software-engineer/33099/85831486384",
-    "id": "arm-intern-software-engineer-"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Graduate Software Engineer",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/graduate-software-engineer/33099/85831486320",
-    "id": "arm-graduate-software-engineer-"
+    "job_apply_link": "https://careers.arm.com/job/raleigh/intern-hardware-engineer/33099/85831486368",
+    "id": "arm-intern-hardware-engineer-raleigh"
   }
 ]
