@@ -1,62 +1,22 @@
 [
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Software Engineer, Security Observability",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "6h",
-    "job_description": "• Strong software engineering experience, with proficiency in programming languages such as Python, Golang, or similar.\n• A background in infrastructure as code, with experience using tools like Terraform and working with cloud platforms such as Azure.\n• Experience with building and maintaining data pipelines, particularly for security-related use cases.\n• The ability to collaborate effectively with security and engineering teams to understand evolving data needs and implement scalable solutions.\n• A generalist engineering mindset, with the flexibility to pivot between various technical domains such as databases, site reliability engineering (SRE), or security.\n• A proactive and detail-oriented approach to problem-solving, with a focus on improving security data visibility and forensic capabilities.\n• Design and develop scalable software systems that facilitate security observability across our infrastructure.\n• Build and maintain data pipelines that centralize and store security-relevant data from diverse sources.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161147672-software-engineer-security-observability",
-    "id": "ai-jobs-software-engineer-security-observability-"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Intern Hardware Engineer",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/raleigh/intern-hardware-engineer/33099/85831486368",
-    "id": "arm-intern-hardware-engineer-"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Graduate Software Applications Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416",
-    "id": "arm-graduate-software-applications-engineer-austin"
-  },
-  {
     "employer_name": "Arm",
     "job_title": "Intern Software Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "Recently",
     "job_description": "• Experienced Professionals.",
     "job_apply_link": "https://careers.arm.com/job/austin/intern-software-engineer/33099/85831486384",
-    "id": "arm-intern-software-engineer-austin"
+    "id": "arm-intern-software-engineer-"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Intern Machine Learning Engineer",
+    "job_title": "Graduate Software Engineer",
     "job_city": "",
     "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "• Experienced Professionals Whatyou could be doing as a Machine Learning Intern.",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/intern-machine-learning-engineer/33099/85831486304",
-    "id": "arm-intern-machine-learning-engineer-"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Intern Software Applications Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
     "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/intern-software-applications-engineer/33099/85831486352",
-    "id": "arm-intern-software-applications-engineer-austin"
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-software-engineer/33099/85831486320",
+    "id": "arm-graduate-software-engineer-"
   }
 ]
