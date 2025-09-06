@@ -1,22 +1,62 @@
 [
   {
-    "employer_name": "Magna International",
-    "job_title": "Production Assembler (Temporary Positions)",
-    "job_city": "Shepherdsville",
-    "job_state": "Kentucky",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Trim BuyerlocationsNovi, Michigan, USposted onPosted 16 Days AgoR00206641Production OperatorlocationsShelby Twp, Michigan, USposted onPosted 30+ Days AgoR00166815Production OperatorlocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00165853Production Operator - 2nd shiftlocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00201393Production Operator - 1st shiftlocationsLancaster, Ohio, USposted onPosted 30 Days AgoR00204390Production Operator - 3rd shiftlocationsLancaster, Ohio, USposted onPosted 30 Days AgoR00203988Materials Supervisor- 2nd shiftlocationsSpring Hill, Tennessee, USposted onPosted 30+ Days AgoR00200154Assembly OperatorlocationsMoore, South Carolina, USposted onPosted 30+ Days AgoR00192265Material HandlerlocationsMoore, South Carolina, USposted onPosted 30+ Days AgoR00193687Production Assembler (Temporary Positions)locationsShepherdsville, Kentucky, USposted onPosted YesterdayR00209345Specialist, Health & SafetylocationsShelby Twp, Michigan, USposted onPosted 23 Days AgoR00169507Trim Commodity ManagerlocationsNovi, Michigan, USposted onPosted 16 Days AgoR00203535Plastics Commodity ManagerlocationsNovi, Michigan, USposted onPosted 8 Days AgoR00207824.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Shepherdsville-Kentucky-US/Production-Assembler--Temporary-Positions-_R00209345?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-production-assembler-temporary-positions-shepherdsville"
+    "employer_name": "AI Jobs",
+    "job_title": "Software Engineer, Security Observability",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "6h",
+    "job_description": "• Strong software engineering experience, with proficiency in programming languages such as Python, Golang, or similar.\n• A background in infrastructure as code, with experience using tools like Terraform and working with cloud platforms such as Azure.\n• Experience with building and maintaining data pipelines, particularly for security-related use cases.\n• The ability to collaborate effectively with security and engineering teams to understand evolving data needs and implement scalable solutions.\n• A generalist engineering mindset, with the flexibility to pivot between various technical domains such as databases, site reliability engineering (SRE), or security.\n• A proactive and detail-oriented approach to problem-solving, with a focus on improving security data visibility and forensic capabilities.\n• Design and develop scalable software systems that facilitate security observability across our infrastructure.\n• Build and maintain data pipelines that centralize and store security-relevant data from diverse sources.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161147672-software-engineer-security-observability",
+    "id": "ai-jobs-software-engineer-security-observability-"
   },
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Perception Engineer",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• Have deep experience building and shipping real-time perception for robots, mobile platforms, or edge devices.\n• Are skilled in deploying and optimizing ML models on resource-constrained devices.\n• Experience with depth/ranging modalities (stereo, ToF, LiDAR, structured light) and uncertainty-aware fusion.\n• Experience designing for robustness in challenging conditions (motion blur, HDR/low light, occlusion, sensor faults).\n• Design and implement perception pipelines for detection, tracking, segmentation, depth/optical flow, and scene understanding.\n• Build robust sensor ingest systems including camera capture, IMU/time sync, buffering, and zero-copy data paths.\n• Calibrate and fuse multimodal sensors (intrinsics, extrinsics, temporal sync) and implement state estimation (EKF/UKF, VIO/SLAM).\n• Optimize on-device inference and vision kernels across CPU/GPU/NPU/ISP, with attention to quantization, compilation, and scheduling under power/thermal limits.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161147676-perception-engineer",
-    "id": "ai-jobs-perception-engineer-san-francisco"
+    "employer_name": "Arm",
+    "job_title": "Intern Hardware Engineer",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/raleigh/intern-hardware-engineer/33099/85831486368",
+    "id": "arm-intern-hardware-engineer-"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Software Applications Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416",
+    "id": "arm-graduate-software-applications-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Intern Software Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/intern-software-engineer/33099/85831486384",
+    "id": "arm-intern-software-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Intern Machine Learning Engineer",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "• Experienced Professionals Whatyou could be doing as a Machine Learning Intern.",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/intern-machine-learning-engineer/33099/85831486304",
+    "id": "arm-intern-machine-learning-engineer-"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Intern Software Applications Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/intern-software-applications-engineer/33099/85831486352",
+    "id": "arm-intern-software-applications-engineer-austin"
   }
 ]
