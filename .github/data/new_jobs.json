@@ -1,42 +1,52 @@
 [
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist, New Grad",
-    "job_city": "Denver",
-    "job_state": "CO",
-    "job_posted_at": "9h",
-    "job_description": "• Data analysis or software skills: Python, MATLAB, JavaScript/Typescript Strong background in numerical computing or statisticsFamiliarity with high density data storage formats such as parquet, HDF5 and netCDFBackground in data classification or clusteringYou see complex systems as puzzles waiting to be solved and thrive in environments where innovation meets precisionPrior internship or hands-on project experience in aerospace, defense, or related high-tech industriesDemonstrates a strong work ethic and ambition, complemented by effective collaboration skills in a team settingExcels in a high-energy, independent, and challenging work environment Experience with systems programming languages, particularly Rust or GoPast experience working with data extracted from REST endpoints, or other web based data access technologiesCollaborative track record in a diverse technical domains – from aerospace, biological science, engineering, or medicine, you've teamed up with experts to get the answers to deep technical questions Bachelor's degree in Computer Science or a related field (graduating in Spring 2026).",
-    "job_apply_link": "https://www.aijobs.com/jobs/161607089-data-scientist-new-grad",
-    "id": "ai-jobs-data-scientist-new-grad-denver"
+    "employer_name": "Apple",
+    "job_title": "Battery FEA Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "4 days",
+    "job_description": "• Minimum QualificationsBS degree.\n• Experience in testing and failure modeling of materials.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200619226-0836/battery-fea-engineer?team=HRDWR",
+    "id": "apple-battery-fea-engineer-cupertino"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Google Cloud Compute Infrastructure",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Infrastructure, Google Cloud Compute Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/98249885597213382-software-engineer-iii-infrastructure-google-cloud-compute-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
-    "id": "google-software-engineer-iii-infrastructure-google-cloud-compute-infrastructure-kirkland"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Google Workspace",
+    "employer_name": "Apple",
+    "job_title": "SoC Integration Engineer",
     "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Google Workspace",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/141864856423670470-software-engineer-iii-google-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=7",
-    "id": "google-software-engineer-iii-google-workspace-sunnyvale"
+    "job_state": "US",
+    "job_posted_at": "6 days",
+    "job_description": "• Minimum QualificationsBachelors +3 years of relevant industry experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200618105-3956/soc-integration-engineer?team=HRDWR",
+    "id": "apple-soc-integration-engineer-sunnyvale"
   },
   {
     "employer_name": "Google",
-    "job_title": "Security Engineering Intern, BS/MS, Summer",
+    "job_title": "Product Design Engineering Intern, BS/MS, Summer",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Security Engineering Intern, BS/MS, Summer 2026",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/107132933369668294-security-engineering-intern-bsms-summer-2026?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=9",
-    "id": "google-security-engineering-intern-bs-ms-summer-mountain-view"
+    "job_description": "hardware engineering job for the role Product Design Engineering Intern, BS/MS, Summer 2026",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/141518372821967558-product-design-engineering-intern-bsms-summer-2026?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
+    "id": "google-product-design-engineering-intern-bs-ms-summer-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Security Engineer, Data Center Platforms, Technical Infrastructure",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Security Engineer, Data Center Platforms, Technical Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/86733556700586694-security-engineer-data-center-platforms-technical-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
+    "id": "google-security-engineer-data-center-platforms-technical-infrastructure-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Performance Modeling",
+    "job_city": "Raleigh",
+    "job_state": "NC",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer, Performance Modeling",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/76216178225095366-software-engineer-performance-modeling?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=8",
+    "id": "google-software-engineer-performance-modeling-raleigh"
   }
 ]
