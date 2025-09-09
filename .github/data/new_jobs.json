@@ -1,42 +1,112 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "Network Platform Engineer",
-    "job_city": "US",
-    "job_state": "CA",
+    "employer_name": "IBM",
+    "job_title": "Manufacturing Production Technician",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "• Strong hands-on experience in C programming on Linux, with proven contributions to large-scale software development projects.\n• Experience with datapath technologies (optics, PHY, SerDes) and LAN/WAN communication interfaces.\n• Strong debugging and diagnostic skills with hardware-software interaction layers.\n• Experience with Debian environments, Docker, and build infrastructure for networking software.\n• Excellent organizational, communication, and collaboration skills.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Hands-on experience with the SONiC networking platform.\n• Experience with SONiC bootloader, ONIE, and related platform initialization tools.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/68525/login",
-    "id": "amd-network-platform-engineer-us"
+    "job_description": "hardware engineering job for the role Manufacturing Production Technician",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57363&source=WEB_Search_NA",
+    "id": "ibm-manufacturing-production-technician-poughkeepsie"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "CPU Cores Design Engineer",
-    "job_city": "US",
-    "job_state": "CA",
+    "employer_name": "IBM",
+    "job_title": "Computer Operator - Dal0900 CLD2242",
+    "job_city": "Richardson",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Experience with Verilog, System Verilog, C, and C++ Experience with circuit and finite element simulators.\n• Experience in the C++ language, preferably on Linux with exposure to Windows platform Scripting language experience: Perl, Ruby, Makefile, shell preferred.\n• Or Masters degree in computer engineering/Electrical Engineering Experience in IP level silicon design methodologies.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• Understand, develop ability to maintain, existing features in the power delivery, thermal management, and reliability domains for CPU Cores.\n• Collaborate with architects, hardware engineers.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/69353/login",
-    "id": "amd-cpu-cores-design-engineer-us"
+    "job_description": "hardware engineering job for the role Computer Operator - Dal0900 CLD2242",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55820&source=WEB_Search_NA",
+    "id": "ibm-computer-operator-dal0900-cld2242-richardson"
   },
   {
-    "employer_name": "Synopsys",
-    "job_title": "Physical Design Application Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "California",
-    "job_posted_at": "Today",
-    "job_description": "• &+ years of RTL to GDSII full flow experience or knowledge.\n• Excellent verbal and written presentation/communication skills.\n• Hands-on experience in synthesis, physical design, static timing analysis, equivalence checking, parasitic extraction, DRC/LVS, and power analysis.\n• Good scripting skills (Perl, Tcl, Python).\n• A continuous learner, always seeking to expand your technical knowledge and skills.\n• Providing technical and engineering insight to support and improve the usability, applicability, and adoption of Synopsys products.\n• Diagnosing, troubleshooting, and resolving complex technical issues on customer installations.\n• Deploying and training customers on new implementations and capabilities.",
-    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/sunnyvale/physical-design-application-engineer/44408/85315889152",
-    "id": "synopsys-physical-design-application-engineer-sunnyvale"
+    "employer_name": "IBM",
+    "job_title": "Computer Operator - Dal0907 CLD2058",
+    "job_city": "Richardson",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Computer Operator - Dal0907 CLD2058",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55810&source=WEB_Search_NA",
+    "id": "ibm-computer-operator-dal0907-cld2058-richardson"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "BIOS Software Development Engineer II, AWS Hardware Engineering",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_posted_at": "6 months",
-    "job_description": "hardware engineering job for the role BIOS Software Development Engineer II, AWS Hardware Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/2913963/bios-software-development-engineer-ii-aws-hardware-engineering",
-    "id": "amazon-bios-software-development-engineer-ii-aws-hardware-engineering-cupertino"
+    "employer_name": "IBM",
+    "job_title": "Computer Operator - Dal0900 CLD2241",
+    "job_city": "Richardson",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Computer Operator - Dal0900 CLD2241",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55816&source=WEB_Search_NA",
+    "id": "ibm-computer-operator-dal0900-cld2241-richardson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Computer Operator - Dal0900 CLD2162",
+    "job_city": "Richardson",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Computer Operator - Dal0900 CLD2162",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55812&source=WEB_Search_NA",
+    "id": "ibm-computer-operator-dal0900-cld2162-richardson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Computer Operator - Dal0907 CLD2059",
+    "job_city": "Richardson",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Computer Operator - Dal0907 CLD2059",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55813&source=WEB_Search_NA",
+    "id": "ibm-computer-operator-dal0907-cld2059-richardson"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Intern - HBM Design Engineering",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "13 days",
+    "job_description": "• Experience with data analysis or scripting to accelerate simulations (e.\n• , Python with NumPy or Pandas) Familiarity with FineSim and/or HSPICE, SystemVerilog, and scripting languages (Python/Tcl/Perl) Strong analytical problem-solving skills and ability to work in cross-disciplinary teams Familiarity with memory design (DRAM/HBM/SRAM) and SoC/IO interfaces Pursuing a degree in Electrical Engineering or a related field Experience reading schematics, timing diagrams, and RTL Clear written and verbal communication skills Principal SOC Pre-Silicon Verification Engineer- HBM Design |TPGRichardson, Texas, United States of AmericaPosted a month ago Principal | MTS HBM DRAM Design ArchitectRichardson, Texas, United States of America + 2 morePosted 2 months ago Principal Engineer - HIG HBM - PE Design ValidationSingapore, SingaporePosted 2 months ago.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-intern-hbm-design-engineering-richardson"
+  },
+  {
+    "employer_name": "Siemens",
+    "job_title": "Software Engineering Internship",
+    "job_city": "Chicago",
+    "job_state": "Illinois",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineering Internship",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-software-engineering-internship-chicago"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "New Jersey Institute of Technology Network Security Co-op",
+    "job_city": "Branchburg",
+    "job_state": "New Jersey",
+    "job_posted_at": "Posted Today",
+    "job_description": "• New Jersey Institute of Technology Network Security Co-oplocationsBranchburg, New Jerseytime typeFull timeposted onPosted TodayR-1084801The University of Texas at Dallas Network Security Co-oplocationsIrving, Texastime typeFull timeposted onPosted TodayR-1084810Senior Software QA EngineerlocationsFirenze, Italytime typeFull timeposted onPosted TodayR-1083399Principal Engineer of Software and Hardware Router DevelopmentlocationsIrving, Texastime typeFull timeposted onPosted YesterdayR-1083779Outside Plant TechnicianlocationsCoatesville, Pennsylvaniatime typeFull timeposted onPosted 4 Days AgoR-1083632Senior Product Manager, Connected Solutionslocations2 Locationstime typeFull timeposted onPosted 11 Days AgoR-1083155Distinguished Application Operations Engineerlocations9 Locationstime typeFull timeposted onPosted 14 Days AgoR-1069170Principal Application Operations Engineerlocations9 Locationstime typeFull timeposted onPosted 22 Days AgoR-1080510Senior Engineer Consultant - System ArchitecturelocationsAshburn, Virginiatime typeFull timeposted onPosted 28 Days AgoR-1081192Outside Plant TechnicianlocationsPittsfield, Massachusettstime typeFull timeposted onPosted 30+ Days AgoR-1081884.",
+    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Branchburg-New-Jersey/New-Jersey-Institute-of-Technology-Network-Security-Co-op_R-1084801?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "verizon-new-jersey-institute-of-technology-network-security-co-op-branchburg"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "The University of Texas at Dallas Network Security Co-op",
+    "job_city": "Irving",
+    "job_state": "Texas",
+    "job_posted_at": "Posted Today",
+    "job_description": "• New Jersey Institute of Technology Network Security Co-oplocationsBranchburg, New Jerseytime typeFull timeposted onPosted TodayR-1084801The University of Texas at Dallas Network Security Co-oplocationsIrving, Texastime typeFull timeposted onPosted TodayR-1084810Senior Software QA EngineerlocationsFirenze, Italytime typeFull timeposted onPosted TodayR-1083399Principal Engineer of Software and Hardware Router DevelopmentlocationsIrving, Texastime typeFull timeposted onPosted YesterdayR-1083779Outside Plant TechnicianlocationsCoatesville, Pennsylvaniatime typeFull timeposted onPosted 4 Days AgoR-1083632Senior Product Manager, Connected Solutionslocations2 Locationstime typeFull timeposted onPosted 11 Days AgoR-1083155Distinguished Application Operations Engineerlocations9 Locationstime typeFull timeposted onPosted 14 Days AgoR-1069170Principal Application Operations Engineerlocations9 Locationstime typeFull timeposted onPosted 22 Days AgoR-1080510Senior Engineer Consultant - System ArchitecturelocationsAshburn, Virginiatime typeFull timeposted onPosted 28 Days AgoR-1081192Outside Plant TechnicianlocationsPittsfield, Massachusettstime typeFull timeposted onPosted 30+ Days AgoR-1081884.",
+    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/The-University-of-Texas-at-Dallas-Network-Security-Co-op_R-1084810?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "verizon-the-university-of-texas-at-dallas-network-security-co-op-irving"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Google Cloud AI",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer III, Google Cloud AI",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/98069444273545926-software-engineer-iii-google-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
+    "id": "google-software-engineer-iii-google-cloud-ai-kirkland"
   }
 ]
