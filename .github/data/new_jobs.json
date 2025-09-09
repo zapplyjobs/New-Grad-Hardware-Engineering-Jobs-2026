@@ -1,22 +1,42 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Machine Learning Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "a day",
-    "job_description": "• Less than 2 years Advanced Modeling Principal EngineerBoise, Idaho, United States of AmericaPosted 2 months ago Senior Data ScientistBoise, Idaho, United States of AmericaPosted a month ago SMAI Senior Data ScientistSingapore, SingaporePosted 3 months ago.",
-    "job_apply_link": "https://careers.micron.com/careers/job/37816467",
-    "id": "micron-technology-machine-learning-engineer-boise"
+    "employer_name": "General Dynamics",
+    "job_title": "IT Certified Professional - Intermediate – TS/SCI required",
+    "job_city": "USA AZ Fort Huachuca",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-AZ-Fort-Huachuca/IT-Certified-Professional---Intermediate---TS-SCI-required_RQ206967-2?q=hardware+engineering",
+    "id": "general-dynamics-it-certified-professional-intermediate-ts-sci-required-usa-az-fort-huachuca"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Dev Engineer, Payload Antennas, Kuiper",
+    "employer_name": "General Dynamics",
+    "job_title": "Tactical Intelligence Family of Systems SME – Fort Hood, TX - TS/SCI Clearance",
+    "job_city": "USA TX Fort Hood - Fort Hood (TXC002)",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-TX-Fort-Hood---Fort-Hood-TXC002/Tactical-Intelligence-Family-of-Systems-SME---Fort-Hood--TX---TS-SCI-Clearance_RQ206603?q=hardware+engineering",
+    "id": "general-dynamics-tactical-intelligence-family-of-systems-sme-fort-hood-tx-ts-sci-clearance-usa-tx-fort-hood-fort-hood-txc002"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Post-Silicon Hardware Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• BS/MS in Electrical or Computer Engineering (or equivalent experience).\n• 6+ years in system-level post-silicon bring-up and debug.\n• Experience in performance and power management (DVFS, gating, sequencing, throttling).\n• Hands-on validation skills with oscilloscopes, logic analyzers, and lab debugging.\n• Direct bring-up experience with GPU/SoC architecture.\n• Strong EE fundamentals: digital design, computer architecture, power/timing/fault analysis, statistics, and scripting.\n• Deep understanding of firmware/driver interaction with hardware.\n• Knowledge of PVT dependencies and binning methodologies.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161720274-post-silicon-hardware-engineer",
+    "id": "ai-jobs-post-silicon-hardware-engineer-us"
+  },
+  {
+    "employer_name": "Meta",
+    "job_title": "Research Scientist Intern, Hand Pose Estimation & Tracking (PhD)",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Software Dev Engineer, Payload Antennas, Kuiper",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3078191/software-dev-engineer-payload-antennas-kuiper",
-    "id": "amazon-software-dev-engineer-payload-antennas-kuiper-redmond"
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Research Scientist Intern, Hand Pose Estimation & Tracking (PhD)",
+    "job_apply_link": "https://www.metacareers.com",
+    "id": "meta-research-scientist-intern-hand-pose-estimation-tracking-phd-redmond"
   }
 ]
