@@ -1,42 +1,52 @@
 [
   {
-    "employer_name": "General Dynamics",
-    "job_title": "IT Certified Professional - Intermediate – TS/SCI required",
-    "job_city": "USA AZ Fort Huachuca",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-AZ-Fort-Huachuca/IT-Certified-Professional---Intermediate---TS-SCI-required_RQ206967-2?q=hardware+engineering",
-    "id": "general-dynamics-it-certified-professional-intermediate-ts-sci-required-usa-az-fort-huachuca"
+    "employer_name": "Siemens",
+    "job_title": "Control & Optimization for Smart Grids - Internship",
+    "job_city": "Princeton",
+    "job_state": "New Jersey",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Control & Optimization for Smart Grids - Internship",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-control-optimization-for-smart-grids-internship-princeton"
   },
   {
     "employer_name": "General Dynamics",
-    "job_title": "Tactical Intelligence Family of Systems SME – Fort Hood, TX - TS/SCI Clearance",
-    "job_city": "USA TX Fort Hood - Fort Hood (TXC002)",
+    "job_title": "Software Virtualization Engineer",
+    "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "Posted Today",
     "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-TX-Fort-Hood---Fort-Hood-TXC002/Tactical-Intelligence-Family-of-Systems-SME---Fort-Hood--TX---TS-SCI-Clearance_RQ206603?q=hardware+engineering",
-    "id": "general-dynamics-tactical-intelligence-family-of-systems-sme-fort-hood-tx-ts-sci-clearance-usa-tx-fort-hood-fort-hood-txc002"
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MO-Arnold/Software-Virtualization-Engineer_RQ206997-1?q=hardware+engineering",
+    "id": "general-dynamics-software-virtualization-engineer-2-locations"
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Post-Silicon Hardware Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• BS/MS in Electrical or Computer Engineering (or equivalent experience).\n• 6+ years in system-level post-silicon bring-up and debug.\n• Experience in performance and power management (DVFS, gating, sequencing, throttling).\n• Hands-on validation skills with oscilloscopes, logic analyzers, and lab debugging.\n• Direct bring-up experience with GPU/SoC architecture.\n• Strong EE fundamentals: digital design, computer architecture, power/timing/fault analysis, statistics, and scripting.\n• Deep understanding of firmware/driver interaction with hardware.\n• Knowledge of PVT dependencies and binning methodologies.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161720274-post-silicon-hardware-engineer",
-    "id": "ai-jobs-post-silicon-hardware-engineer-us"
+    "job_title": "Software Engineer, Frontier Systems",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1h",
+    "job_description": "• Experience with low level details of hardware components, protocols, and associated Linux tooling (e.\n• , PCIe, Infiniband, networking, power management, kernel perf tuning)Experience with visualization of large data centers and networks.\n• Expertise with network operations and toolingExpertise with power management and stabilization 7+ years of industry experience in software engineering Proficiency with Python and shell scriptingA high degree of comfort digging into noisy data with SQL, PromQL, and Pandas or any other tool necessaryExperience developing reproducible analysesA balance of strengths in building and operationalizing Own and improve the system health checks that keep our hyperscale supercomputers stable during model training.\n• Lead deep dives into hardware failures and system-level bugs to understand how things break at scale.\n• Build automation that monitors and fixes issues across thousands of machines - so researchers can keep moving without interruption.",
+    "job_apply_link": "https://www.aijobs.com/jobs/161734934-software-engineer-frontier-systems",
+    "id": "ai-jobs-software-engineer-frontier-systems-san-francisco"
   },
   {
-    "employer_name": "Meta",
-    "job_title": "Research Scientist Intern, Hand Pose Estimation & Tracking (PhD)",
-    "job_city": "Redmond",
-    "job_state": "WA",
+    "employer_name": "AI Jobs",
+    "job_title": "Business Systems, Order to Cash",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• 8+ years in ERP/finance systems or product roles.\n• 4+ years experience with Oracle Fusion O2C (Subscriptions, AR/Collections.\n• RMCS a plus) and 2+ years designing FAH/SLA accounting flows.\n• Strong configuration skills in Oracle Subscription Management & AR (billing schedules, rating, taxation, dunning, lockbox/cash app rules, approvals, tolerances).\n• Integration experience with Salesforce, internal metering/billing services, and OIC/Workato/REST APIs.\n• Strong verbal and written communication skills to align Finance, Sales Ops, Engineering, and Support.\n• Experience running Agile rituals with tight acceptance criteria and release plans.\n• Bachelor’s or Master’s in Information Systems, Engineering, or related field (or equivalent experience).",
+    "job_apply_link": "https://www.aijobs.com/jobs/161734936-business-systems-order-to-cash",
+    "id": "ai-jobs-business-systems-order-to-cash-san-francisco"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Applied AI, Public Sector",
+    "job_city": "Reston",
+    "job_state": "VA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Research Scientist Intern, Hand Pose Estimation & Tracking (PhD)",
-    "job_apply_link": "https://www.metacareers.com",
-    "id": "meta-research-scientist-intern-hand-pose-estimation-tracking-phd-redmond"
+    "job_description": "hardware engineering job for the role Software Engineer, Applied AI, Public Sector",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/144094545745715910-software-engineer-applied-ai-public-sector?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=10",
+    "id": "google-software-engineer-applied-ai-public-sector-reston"
   }
 ]
