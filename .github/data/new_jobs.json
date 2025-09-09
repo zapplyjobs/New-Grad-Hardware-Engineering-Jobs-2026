@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Infrastructure Engineer",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• Equity Research - IT Hardware, Telecom & Networking Equipment - Associate New York, NY, United States Program Analysts & AssociateAssociates Analyze market trends, prepare reports, and showcase skills in financial modeling and industry expertise.\n• Lead Software Engineer Mc Lean, VA, United States and 1 more TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Mc Lean, VA, United States and 1 more TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Applied AI ML Lead - Data Platform Plano, TX, United States Data & AnalyticsPredictive Science Elevate your career as Machine Learning Engineering Lead, where your technical expertise and visionary leadership will shape the future Sr Lead Infrastructure Engineer New York, NY, United States TechnologyInfrastructure Engineering Drive significant business impact and tackle infrastructure engineering challenges that span multiple technology domains Technology Support Sr Specialist - Test Analyst Irvine, CA, United States TechnologyTechnology Support Provide first-level technology support, guide, and resolve complex technology issues and enhance our user experience.\n• Software Engineer III (JAVA)/with Experience in Site Reliability Herzliya, Israel and 1 more TechnologySoftware Engineering Software Engineer III - L3 + SRE (JAVA) at JPMorgan Chase within Commercial and Investment Bank, Digital Platform & Services Sr.\n• Infrastructure Engineer III, IP Specialty Platform and Services Singapore and 1 more Posted on 05/26/2025 Leverage your strong knowledge of software, applications, and technical processes across multiple applications APAC Lead Infrastructure Engineer, Network Infrastructure Security Singapore Posted on 04/02/2025 Carry out critical infrastructure engineering solutions across multiple technical areas as an integral part of an agile team Senior Lead Infrastructure Engineer, Storage, Infrastructure Platforms Singapore Posted on 04/22/2025 Drive significant business impact and tackle infrastructure engineering challenges that span multiple technology domains Bachelor’s Degree in Computer Science, Cybersecurity, Data Science, or related disciplinesMinimum of 3+ years of experience working on support of products / infrastructure Strong knowledge of one or more infrastructure disciplines such as hardware, operation systems, networking terminology, databases, storage engineering, deployment practices, integration, automation, scaling, resilience, and performance assessments Strong knowledge of one or more scripting languages (e.\n• ) Strong communications skills, verbal, written, ability to drive meetings and knowledge sharing sessions to teams.\n• Experience with multiple cloud technologies with the ability to operate in and migrate across public and private clouds.\n• Knowledge and hands on experience with tools like (Jira, Confluence, ServiceNow, Netcool) Applies technical knowledge and problem-solving methodologies to projects of moderate scope, with a focus on improving the data and systems running at scale and ensures end to end monitoring of applications.\n• Hands-on experience with AWS, Azure, GCP, or other cloud environments and hold relevant cloud certifications.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210665668/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-infrastructure-engineer-"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Google Public Sector, Cloud Infrastructure",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer, Google Public Sector, Cloud Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/126744570086990534-software-engineer-google-public-sector-cloud-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3",
+    "id": "google-software-engineer-google-public-sector-cloud-infrastructure-reston"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Associate Software Engineer, Global Positioning System Cloud Infrastructure",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Associate Software Engineer, Global Positioning System Cloud Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/119871522901762758-associate-software-engineer-global-positioning-system-cloud-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=6",
+    "id": "google-associate-software-engineer-global-positioning-system-cloud-infrastructure-reston"
+  }
+]
