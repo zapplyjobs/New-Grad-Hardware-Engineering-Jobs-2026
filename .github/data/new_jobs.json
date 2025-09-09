@@ -1,72 +1,42 @@
 [
   {
-    "employer_name": "Siemens",
-    "job_title": "Mechanical Quality Inspector",
-    "job_city": "Wendell",
-    "job_state": "North Carolina",
+    "employer_name": "AMD",
+    "job_title": "Network Platform Engineer",
+    "job_city": "US",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Mechanical Quality Inspector",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-mechanical-quality-inspector-wendell"
+    "job_description": "• Strong hands-on experience in C programming on Linux, with proven contributions to large-scale software development projects.\n• Experience with datapath technologies (optics, PHY, SerDes) and LAN/WAN communication interfaces.\n• Strong debugging and diagnostic skills with hardware-software interaction layers.\n• Experience with Debian environments, Docker, and build infrastructure for networking software.\n• Excellent organizational, communication, and collaboration skills.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Hands-on experience with the SONiC networking platform.\n• Experience with SONiC bootloader, ONIE, and related platform initialization tools.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/68525/login",
+    "id": "amd-network-platform-engineer-us"
   },
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Full Stack Developer - TS/SCI with Polygraph",
-    "job_city": "USA VA Chantilly",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Software-Engineer--TS-SCI-with-Polygraph_RQ205984-1?q=hardware+engineering",
-    "id": "general-dynamics-full-stack-developer-ts-sci-with-polygraph-usa-va-chantilly"
+    "employer_name": "AMD",
+    "job_title": "CPU Cores Design Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Experience with Verilog, System Verilog, C, and C++ Experience with circuit and finite element simulators.\n• Experience in the C++ language, preferably on Linux with exposure to Windows platform Scripting language experience: Perl, Ruby, Makefile, shell preferred.\n• Or Masters degree in computer engineering/Electrical Engineering Experience in IP level silicon design methodologies.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• Understand, develop ability to maintain, existing features in the power delivery, thermal management, and reliability domains for CPU Cores.\n• Collaborate with architects, hardware engineers.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/69353/login",
+    "id": "amd-cpu-cores-design-engineer-us"
   },
   {
-    "employer_name": "Magna International",
-    "job_title": "Supplier Quality Engineer",
-    "job_city": "Moore",
-    "job_state": "South Carolina",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00181173Controls EngineerlocationsEthridge, Tennessee, USposted onPosted 21 Days AgoR00206131Simulation EngineerlocationsTroy, Michigan, USposted onPosted 7 Days AgoR00200693Senior Software EngineerlocationsLowell, Massachusetts, USposted onPosted 15 Days AgoR00199562Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 4 Days AgoR00209295Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 19 Days AgoR00203332Sr.\n• Electrical EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164189Quality EngineerlocationsExcelsior Springs, Missouri, USposted onPosted YesterdayR00209590Controls EngineerlocationsSheffield, Ohio, USposted onPosted 30+ Days AgoR00190673Industrial EngineerlocationsLancaster, Ohio, USposted onPosted 19 Days AgoR00206453Lead, Linux DevOps Support Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR00164198Principal Software Engineer – Linux/BSPlocationsSouthfield, Michigan, USposted onPosted 13 Days AgoR00205992Senior Systems Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00166619Principal Software Engineer - Image Signal ProcessinglocationsSouthfield, Michigan, USposted onPosted 12 Days AgoR00205993Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164195Supplier Quality EngineerlocationsMoore, South Carolina, USposted onPosted TodayR00207809Senior Solutions Architect - Industry 4.\n• 0 , IIoTlocations2 Locationsposted onPosted 30+ Days AgoR00192135IT Technician, 1st Shift (6am-2pm)locationsWarren, Michigan, USposted onPosted 6 Days AgoR00207707SR IT Systems AdministratorlocationsNew Hudson, Michigan, USposted onPosted YesterdayR00208731Robotics Technician - Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00182405.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Moore-South-Carolina-US/Supplier-Quality-Engineer_R00207809?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-supplier-quality-engineer-moore"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Test Engineer II - Defense Hardware Qualification",
-    "job_city": "Clearwater",
-    "job_state": "FL",
+    "employer_name": "Synopsys",
+    "job_title": "Physical Design Application Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
     "job_posted_at": "Today",
-    "job_description": "• Hardware Engineer II Locations Fort Washington, PA, United States (Hybrid) Posting Dates09/05/2025 As a Hardware Engineer II here at Honeywell, you will contribute to hardware design from concept to production, collaborate on requirements, design complex systems, perform testing, and support junior engineers.\n• Lead Hardware Engineer - Weather Radar Locations Phoenix, AZ, United States Posting Dates06/03/2025 Be the First to Apply Test Engineer II - Defense Hardware Qualification Locations Clearwater, FL, United States (Hybrid) Posting Dates09/09/2025 Be the First to Apply Sr Project Engineer - Program Management Locations Lincolnshire, IL, United States Posting Dates08/27/2025 Trending Sr Advanced Hardware Engr-Reliability Locations Clearwater, FL, United States (Hybrid) Posting Dates08/26/2025 Be the First to Apply As a Sr Advanced Hardware Engr-Reliability here at Honeywell, you will focus on both new development programs and supporting failure investigations during the production of high-reliability applications.\n• This position may require travel up to 10% Sr Test Engineer - Hardware Design Validation Locations Lincolnshire, IL, United States Posting Dates08/27/2025 Advanced Software Engineer - (DACS) Data Acquisition & Control Systems Locations Torrance, CA, United States Posting Dates08/18/2025 As an Advanced Software Engineer here at Honeywell, you will lead advanced software development projects, enhance and maintain critical software components, and troubleshoot complex issues.\n• Advanced Software Engineer Locations Phoenix, AZ, United States (Hybrid) Posting Dates09/09/2025 Lead Systems Engineer Locations Phoenix, AZ, United States (Hybrid) Posting Dates06/26/2025 As a Lead Systems Engineer at Honeywell, you will be responsible for providing technical leadership and guidance in the design, development, and implementation of complex systems, ensuring their functionality, reliability, and integration to meet customer requirements.\n• Autonomy Architect Locations Phoenix, AZ, United States Posting Dates09/08/2025 Be the First to Apply Systems Engineering - Recent Grad/Full Time Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Systems Engineering - Recent Grad/Full Time (US Person Required) Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Collaborate with cross-functional teams to meet engineering support requirements.\n• You will work closely with world class hardware and software engineers during planning, requirements and architecture, design, test and integration phases.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/114752/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-test-engineer-ii-defense-hardware-qualification-clearwater"
+    "job_description": "• &+ years of RTL to GDSII full flow experience or knowledge.\n• Excellent verbal and written presentation/communication skills.\n• Hands-on experience in synthesis, physical design, static timing analysis, equivalence checking, parasitic extraction, DRC/LVS, and power analysis.\n• Good scripting skills (Perl, Tcl, Python).\n• A continuous learner, always seeking to expand your technical knowledge and skills.\n• Providing technical and engineering insight to support and improve the usability, applicability, and adoption of Synopsys products.\n• Diagnosing, troubleshooting, and resolving complex technical issues on customer installations.\n• Deploying and training customers on new implementations and capabilities.",
+    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/sunnyvale/physical-design-application-engineer/44408/85315889152",
+    "id": "synopsys-physical-design-application-engineer-sunnyvale"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Search",
-    "job_city": "Mountain View",
+    "employer_name": "Amazon",
+    "job_title": "BIOS Software Development Engineer II, AWS Hardware Engineering",
+    "job_city": "Cupertino",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Infrastructure, Search",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/109932762420388550-software-engineer-iii-infrastructure-search?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
-    "id": "google-software-engineer-iii-infrastructure-search-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, AI/ML Natural Language Processing, YouTube",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, AI/ML Natural Language Processing, YouTube",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/99682565270446790-software-engineer-iii-aiml-natural-language-processing-youtube?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=6",
-    "id": "google-software-engineer-iii-ai-ml-natural-language-processing-youtube-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Google Cloud Global Networking",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Google Cloud Global Networking",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/114541365408211654-software-engineer-iii-google-cloud-global-networking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=6",
-    "id": "google-software-engineer-iii-google-cloud-global-networking-atlanta"
+    "job_posted_at": "6 months",
+    "job_description": "hardware engineering job for the role BIOS Software Development Engineer II, AWS Hardware Engineering",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/2913963/bios-software-development-engineer-ii-aws-hardware-engineering",
+    "id": "amazon-bios-software-development-engineer-ii-aws-hardware-engineering-cupertino"
   }
 ]
