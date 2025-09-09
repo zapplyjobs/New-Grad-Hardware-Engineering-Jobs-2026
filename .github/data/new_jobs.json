@@ -1,52 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Engineer",
-    "job_city": "Houston",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Engineer 01",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55389&source=WEB_Search_NA",
-    "id": "ibm-engineer-houston"
+    "employer_name": "Micron Technology",
+    "job_title": "Machine Learning Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "a day",
+    "job_description": "• Less than 2 years Advanced Modeling Principal EngineerBoise, Idaho, United States of AmericaPosted 2 months ago Senior Data ScientistBoise, Idaho, United States of AmericaPosted a month ago SMAI Senior Data ScientistSingapore, SingaporePosted 3 months ago.",
+    "job_apply_link": "https://careers.micron.com/careers/job/37816467",
+    "id": "micron-technology-machine-learning-engineer-boise"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Integration Engineer",
-    "job_city": "Fort Walton Beach",
-    "job_state": "FL",
-    "job_posted_at": "Posted Today",
-    "job_description": "• VoIP Engineer, SeniorlocationsRamstein-Miesenbach, Rhineland-Palatinateposted onPosted 30+ Days AgoR0223321 Weapon Systems Solutions Engineer, LeadlocationsFort Walton Beach, FLposted onPosted 3 Days AgoR0224184 Digital Engineer, LeadlocationsEl Segundo, CAposted onPosted 6 Days AgoR0225496.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Walton-Beach-FL/Integration-Engineer_R0225787?q=hardware+engineering",
-    "id": "bae-systems-integration-engineer-fort-walton-beach"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Mission Planning Systems Engineer",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Site Reliability Engineer Leadlocations6 Locationsposted onPosted TodayR0225454 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221862 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221867 Mission Systems Technical Engineer, LeadlocationsAustraliaposted onPosted 12 Days AgoR0214321 Cyber Warfare Engineer, SeniorlocationsRome, NYposted onPosted 30+ Days AgoR0221856 Test Engineer, LeadlocationsEl Segundo, CAposted onPosted 11 Days AgoR0225230 CUAS & EW Engineer, LeadlocationsMcLean, VAposted onPosted 5 Days AgoR0225411.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Mission-Planning-Systems-Engineer_R0225812?q=hardware+engineering",
-    "id": "bae-systems-mission-planning-systems-engineer-arlington"
-  },
-  {
-    "employer_name": "Illumina",
-    "job_title": "Onsite Service Engineer",
-    "job_city": "US - California - Northern -",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Deep Learning/AI Engineer - Machine Learning (Hybrid or Remote)locations7 Locationsposted onPosted 11 Days Ago40197-JOBOnsite Service Engineer 2locationsUS - California - Northern - Remoteposted onPosted Today41170-JOBProduct Security Architect/Sr Architectlocations2 Locationsposted onPosted 28 Days Ago41139-JOBAssociate Director Program Management - Sequencing PlatformslocationsUS - California - San Diegoposted onPosted 5 Days Ago41315-JOB.",
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---Northern---Remote/Onsite-Service-Engineer-2_41170-JOB-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "illumina-onsite-service-engineer-us-california-northern"
-  },
-  {
-    "employer_name": "Magna International",
-    "job_title": "Quality Engineer",
-    "job_city": "Excelsior Springs",
-    "job_state": "Missouri",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00181173Controls EngineerlocationsEthridge, Tennessee, USposted onPosted 20 Days AgoR00206131Simulation EngineerlocationsTroy, Michigan, USposted onPosted 6 Days AgoR00200693Senior Software EngineerlocationsLowell, Massachusetts, USposted onPosted 14 Days AgoR00199562Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 3 Days AgoR00209295Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 18 Days AgoR00203332Sr.\n• Electrical EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164189Quality EngineerlocationsExcelsior Springs, Missouri, USposted onPosted TodayR00209590Controls EngineerlocationsSheffield, Ohio, USposted onPosted 30+ Days AgoR00190673Industrial EngineerlocationsLancaster, Ohio, USposted onPosted 18 Days AgoR00206453Lead, Linux DevOps Support Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR00164198Principal Software Engineer – Linux/BSPlocationsSouthfield, Michigan, USposted onPosted 12 Days AgoR00205992Senior Systems Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00166619Principal Software Engineer - Image Signal ProcessinglocationsSouthfield, Michigan, USposted onPosted 11 Days AgoR00205993Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164195Senior Solutions Architect - Industry 4.\n• 0 , IIoTlocations2 Locationsposted onPosted 30+ Days AgoR00192135IT Technician, 1st Shift (6am-2pm)locationsWarren, Michigan, USposted onPosted 5 Days AgoR00207707SR IT Systems AdministratorlocationsNew Hudson, Michigan, USposted onPosted TodayR00208731Technician, IT OperationslocationsAlto, Michigan, USposted onPosted 13 Days AgoR00207257IT TechnicianlocationsEthridge, Tennessee, USposted onPosted 30+ Days AgoR00203587.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Excelsior-Springs-Missouri-US/Quality-Engineer_R00209590?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-quality-engineer-excelsior-springs"
+    "employer_name": "Amazon",
+    "job_title": "Software Dev Engineer, Payload Antennas, Kuiper",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Software Dev Engineer, Payload Antennas, Kuiper",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3078191/software-dev-engineer-payload-antennas-kuiper",
+    "id": "amazon-software-dev-engineer-payload-antennas-kuiper-redmond"
   }
 ]
