@@ -1,32 +1,32 @@
 [
   {
+    "employer_name": "Micron Technology",
+    "job_title": "Intern – Process Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "13 hours",
+    "job_description": "• Proficient in one or more scripting, programming and visualization tools: Python, Java, Tableau, Matlab, Microsoft Suite Recognize, identify, and raise awareness of process anomalies with the motivation of \"who needs to know this now.\n• \" Advanced problem-solver – understanding of data, good data intuition and data visualization skills Hands-on experience in the field of data analytics, preferably with experience querying databases Experience or knowledge of data collection, warehousing systems, and data cleansing In-depth understanding and working knowledge of SPC and Design of Experiments The ability work on multiple tasks concurrently, prioritize issues and tasks We need an intern drawn to creative problem solving and innovative solutions We need someone who wants to work in an exciting and fast paced environment Excellent technical, communication, and analytical skills.",
+    "job_apply_link": "https://careers.micron.com/careers/job/37890682",
+    "id": "micron-technology-intern-process-engineer-manassas"
+  },
+  {
     "employer_name": "Magna International",
-    "job_title": "Quality Engineer",
-    "job_city": "Moore",
-    "job_state": "South Carolina",
+    "job_title": "IT Technician",
+    "job_city": "Alto",
+    "job_state": "Michigan",
     "job_posted_at": "Posted Today",
-    "job_description": "• Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00181173Controls EngineerlocationsEthridge, Tennessee, USposted onPosted 22 Days AgoR00206131Simulation EngineerlocationsTroy, Michigan, USposted onPosted 8 Days AgoR00200693Senior Software EngineerlocationsLowell, Massachusetts, USposted onPosted 16 Days AgoR00199562Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 5 Days AgoR00209295Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 20 Days AgoR00203332Sr.\n• Electrical EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164189Quality EngineerlocationsExcelsior Springs, Missouri, USposted onPosted 2 Days AgoR00209590Controls EngineerlocationsSheffield, Ohio, USposted onPosted 30+ Days AgoR00190673Industrial EngineerlocationsLancaster, Ohio, USposted onPosted 20 Days AgoR00206453Quality EngineerlocationsMoore, South Carolina, USposted onPosted TodayR00201474Lead, Linux DevOps Support Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR00164198Principal Software Engineer – Linux/BSPlocationsSouthfield, Michigan, USposted onPosted 14 Days AgoR00205992Senior Systems Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00166619Principal Software Engineer - Image Signal ProcessinglocationsSouthfield, Michigan, USposted onPosted 13 Days AgoR00205993Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164195Supplier Quality EngineerlocationsMoore, South Carolina, USposted onPosted YesterdayR00207809Senior Solutions Architect - Industry 4.\n• 0 , IIoTlocations2 Locationsposted onPosted 30+ Days AgoR00192135IT Technician, 1st Shift (6am-2pm)locationsWarren, Michigan, USposted onPosted 7 Days AgoR00207707SR IT Systems AdministratorlocationsNew Hudson, Michigan, USposted onPosted 2 Days AgoR00208731.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Moore-South-Carolina-US/Quality-Engineer_R00201474?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-quality-engineer-moore"
+    "job_description": "• SR IT Systems AdministratorlocationsNew Hudson, Michigan, USposted onPosted 2 Days AgoR00208731IT TechnicianlocationsAlto, Michigan, USposted onPosted TodayR00209737Robotics Technician - Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00182405Senior UX ResearcherlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00202632Maintenance Technician - 3rd shiftlocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00166686Maintenance Technician - 2nd shiftlocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00199753Controls Technician - 3rd ShiftlocationsAlto, Michigan, USposted onPosted 30+ Days AgoR00198142Maintenance ManagerlocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00203787Controls Technician - 3rd Shift (11 PM - 7:30 AM)locationsDuncan, South Carolina, USposted onPosted 30+ Days AgoR00204483IT SupervisorlocationsMoore, South Carolina, USposted onPosted TodayR00208763Account ManagerlocationsNovi, Michigan, USposted onPosted 30+ Days AgoR00201252Health & Safety SpecialistlocationsExcelsior Springs, Missouri, USposted onPosted 2 Days AgoR00209578Mech, MaintenancelocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00109278Tooling ManagerlocationsLancaster, Ohio, USposted onPosted 30 Days AgoR00204615Mgr, ProductionlocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00184407Technician, MaintenancelocationsShepherdsville, Kentucky, USposted onPosted 30+ Days AgoR00189873Production Team AssociatelocationsDetroit, Michigan, USposted onPosted 30+ Days AgoR00166861Planner, MaterialslocationsSpring Hill, Tennessee, USposted onPosted 30+ Days AgoR00198779Analyst, MaterialslocationsSpring Hill, Tennessee, USposted onPosted 22 Days AgoR00205979Accounts PayablelocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00191885.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Alto-Michigan-US/IT-Technician_R00209737-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-it-technician-alto"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Supplier Quality Engineer, Thermals and Power",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Supplier Quality Engineer, Thermals and Power",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/135060623204459206-supplier-quality-engineer-thermals-and-power?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1",
-    "id": "google-supplier-quality-engineer-thermals-and-power-austin"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Data Center Quality Engineer",
-    "job_city": "Pryor Creek",
-    "job_state": "OK 74361",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Data Center Quality Engineer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/140407548250333894-data-center-quality-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2",
-    "id": "google-data-center-quality-engineer-pryor-creek"
+    "employer_name": "Apple",
+    "job_title": "Hardware Engineering Internships",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "3 months",
+    "job_description": "Next-page description extraction failed after retries",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200606475-3810/hardware-engineering-internships?team=STDNT",
+    "id": "apple-hardware-engineering-internships-"
   }
 ]
