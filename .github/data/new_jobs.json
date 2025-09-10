@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Analog Devices",
+    "job_title": "Sales Rotational Program",
+    "job_city": "9 Locations",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Thermal Management System Engineerlocations2 Locationsposted onPosted 18 Days AgoR253248FPGA Systems Development Engineerlocations2 Locationsposted onPosted 7 Days AgoR254215Emerging Tech Hub Senior ManagerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 4 Days AgoR255390Principal Systems Architect, Communications PHYlocations2 Locationsposted onPosted 30+ Days AgoR252371Senior Engineer, Si Photonics IC Integration and Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR252114Principal Embedded Software Engineer - Product Owner Software Development Kitlocations3 Locationsposted onPosted 30+ Days AgoR253066Staff Analog AI Compute System EngineerlocationsUS, MA, Bostonposted onPosted 14 Days AgoR254971Embedded Softwarelocations2 Locationsposted onPosted 13 Days AgoR255245Staff Engineer, Product Applications (ATE/Power)locationsUS, CO, Colorado Springs, Chapel Hillsposted onPosted 30+ Days AgoR253811Sales Rotational Programlocations9 Locationsposted onPosted TodayR255617Sr Manager – Healthcare SolutionslocationsUS, MA, Bostonposted onPosted 4 Days AgoR242724Staff Edge AI/ML ScientistlocationsUS, MA, Bostonposted onPosted 7 Days AgoR254972Director, ADI Partner Programlocations4 Locationsposted onPosted 30+ Days AgoR253121Clinical Solutions SpecialistlocationsUS, MA, Wilmingtonposted onPosted 29 Days AgoR253946Mixed Signal Design InternlocationsUS, NC, Durhamposted onPosted 13 Days AgoR255002Segment Marketing Director within Datacenter Infrastructurelocations3 Locationsposted onPosted 13 Days AgoR254493DCI Segment Marketinglocations2 Locationsposted onPosted 4 Days AgoR254998Embedded Software InternlocationsUS, MA, Bostonposted onPosted 13 Days AgoR255237.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Sales-Rotational-Program_R255617?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-sales-rotational-program-9-locations"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Mechanical Engineer Intern",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Mechanical Engineer Intern",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-mechanical-engineer-intern-redmond"
+  }
+]
