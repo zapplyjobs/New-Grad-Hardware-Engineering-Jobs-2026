@@ -1,52 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Manufacturing Test Technician (Apprentice Conversion)",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Manufacturing Test Technician (Apprentice Conversion)",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55376&source=WEB_Search_NA",
-    "id": "ibm-manufacturing-test-technician-apprentice-conversion-poughkeepsie"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Clocking Design Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276099Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276652FVCTO - Formal Verification Senior Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276239Senior Simulation Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0276608Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276605Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276607GPU Logic Design Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0275905IP Enablement Application Engineerlocations3 Locationsposted onPosted YesterdayJR0273988Senior CPU Circuit Design EngineerlocationsUS, Texas, Austinposted onPosted YesterdayJR0277119Clocking Design Engineerlocations2 Locationsposted onPosted YesterdayJR0277092Physical Verification Application Engineerlocations3 Locationsposted onPosted 8 Days AgoJR0272754Senior Microarchitect - Memory Coherency Fabric Systemslocations4 Locationsposted onPosted 2 Days AgoJR0276408Principal Engineer - Physical Design SoC Leadlocations3 Locationsposted onPosted 5 Days AgoJR0277109Senior Foundry Applications Engineer (Analog Design)locations3 Locationsposted onPosted 8 Days AgoJR0275756SOC Design Engineer – Physical design and IntegrationlocationsUS, Oregon, Hillsboroposted onPosted YesterdayJR0277093FVCTO - Formal Verification Architectlocations4 Locationsposted onPosted 28 Days AgoJR0276238Director-Design VerificationlocationsUS, California, Santa Claraposted onPosted 12 Days AgoJR0276868Systems and Solutions Architect / Intel Foundrylocations4 Locationsposted onPosted 8 Days AgoJR0276102AI/GPU SoC Leadlocations4 Locationsposted onPosted 30+ Days AgoJR0276686Technical Sales - Intern, Graduatelocations4 Locationsposted onPosted 5 Days AgoJR0277153.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Clocking-Design-Engineer_JR0277092-1?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-clocking-design-engineer-2-locations"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "SOC Design Engineer – Physical design and Integration",
-    "job_city": "US",
-    "job_state": "Oregon",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276099Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276652FVCTO - Formal Verification Senior Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276239Senior Simulation Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0276608Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276605Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276607GPU Logic Design Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0275905IP Enablement Application Engineerlocations3 Locationsposted onPosted YesterdayJR0273988Senior CPU Circuit Design EngineerlocationsUS, Texas, Austinposted onPosted YesterdayJR0277119Clocking Design Engineerlocations2 Locationsposted onPosted YesterdayJR0277092Physical Verification Application Engineerlocations3 Locationsposted onPosted 8 Days AgoJR0272754Senior Microarchitect - Memory Coherency Fabric Systemslocations4 Locationsposted onPosted 2 Days AgoJR0276408Principal Engineer - Physical Design SoC Leadlocations3 Locationsposted onPosted 5 Days AgoJR0277109Senior Foundry Applications Engineer (Analog Design)locations3 Locationsposted onPosted 8 Days AgoJR0275756SOC Design Engineer – Physical design and IntegrationlocationsUS, Oregon, Hillsboroposted onPosted YesterdayJR0277093FVCTO - Formal Verification Architectlocations4 Locationsposted onPosted 28 Days AgoJR0276238Director-Design VerificationlocationsUS, California, Santa Claraposted onPosted 12 Days AgoJR0276868Systems and Solutions Architect / Intel Foundrylocations4 Locationsposted onPosted 8 Days AgoJR0276102AI/GPU SoC Leadlocations4 Locationsposted onPosted 30+ Days AgoJR0276686Technical Sales - Intern, Graduatelocations4 Locationsposted onPosted 5 Days AgoJR0277153.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/SOC-Design-Engineer---Physical-design-and-Integration_JR0277093-1?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-soc-design-engineer-physical-design-and-integration-us"
+    "employer_name": "Magna International",
+    "job_title": "Quality Engineer",
+    "job_city": "Moore",
+    "job_state": "South Carolina",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00181173Controls EngineerlocationsEthridge, Tennessee, USposted onPosted 22 Days AgoR00206131Simulation EngineerlocationsTroy, Michigan, USposted onPosted 8 Days AgoR00200693Senior Software EngineerlocationsLowell, Massachusetts, USposted onPosted 16 Days AgoR00199562Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 5 Days AgoR00209295Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 20 Days AgoR00203332Sr.\n• Electrical EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164189Quality EngineerlocationsExcelsior Springs, Missouri, USposted onPosted 2 Days AgoR00209590Controls EngineerlocationsSheffield, Ohio, USposted onPosted 30+ Days AgoR00190673Industrial EngineerlocationsLancaster, Ohio, USposted onPosted 20 Days AgoR00206453Quality EngineerlocationsMoore, South Carolina, USposted onPosted TodayR00201474Lead, Linux DevOps Support Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR00164198Principal Software Engineer – Linux/BSPlocationsSouthfield, Michigan, USposted onPosted 14 Days AgoR00205992Senior Systems Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00166619Principal Software Engineer - Image Signal ProcessinglocationsSouthfield, Michigan, USposted onPosted 13 Days AgoR00205993Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164195Supplier Quality EngineerlocationsMoore, South Carolina, USposted onPosted YesterdayR00207809Senior Solutions Architect - Industry 4.\n• 0 , IIoTlocations2 Locationsposted onPosted 30+ Days AgoR00192135IT Technician, 1st Shift (6am-2pm)locationsWarren, Michigan, USposted onPosted 7 Days AgoR00207707SR IT Systems AdministratorlocationsNew Hudson, Michigan, USposted onPosted 2 Days AgoR00208731.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Moore-South-Carolina-US/Quality-Engineer_R00201474?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-quality-engineer-moore"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Ads Reporting Infrastructure",
-    "job_city": "Kirkland",
-    "job_state": "WA",
+    "job_title": "Supplier Quality Engineer, Thermals and Power",
+    "job_city": "Austin",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer, Ads Reporting Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/96764847957385926-software-engineer-ads-reporting-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
-    "id": "google-software-engineer-ads-reporting-infrastructure-kirkland"
+    "job_description": "hardware engineering job for the role Supplier Quality Engineer, Thermals and Power",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/135060623204459206-supplier-quality-engineer-thermals-and-power?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1",
+    "id": "google-supplier-quality-engineer-thermals-and-power-austin"
   },
   {
     "employer_name": "Google",
-    "job_title": "Web Solutions Engineer III, YouTube",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_title": "Data Center Quality Engineer",
+    "job_city": "Pryor Creek",
+    "job_state": "OK 74361",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Web Solutions Engineer III, YouTube",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/97158258371764934-web-solutions-engineer-iii-youtube?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=6",
-    "id": "google-web-solutions-engineer-iii-youtube-new-york"
+    "job_description": "hardware engineering job for the role Data Center Quality Engineer",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/140407548250333894-data-center-quality-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2",
+    "id": "google-data-center-quality-engineer-pryor-creek"
   }
 ]
