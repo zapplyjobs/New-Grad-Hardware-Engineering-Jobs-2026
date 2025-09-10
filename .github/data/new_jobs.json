@@ -1,32 +1,52 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Intern – Process Engineer",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "13 hours",
-    "job_description": "• Proficient in one or more scripting, programming and visualization tools: Python, Java, Tableau, Matlab, Microsoft Suite Recognize, identify, and raise awareness of process anomalies with the motivation of \"who needs to know this now.\n• \" Advanced problem-solver – understanding of data, good data intuition and data visualization skills Hands-on experience in the field of data analytics, preferably with experience querying databases Experience or knowledge of data collection, warehousing systems, and data cleansing In-depth understanding and working knowledge of SPC and Design of Experiments The ability work on multiple tasks concurrently, prioritize issues and tasks We need an intern drawn to creative problem solving and innovative solutions We need someone who wants to work in an exciting and fast paced environment Excellent technical, communication, and analytical skills.",
-    "job_apply_link": "https://careers.micron.com/careers/job/37890682",
-    "id": "micron-technology-intern-process-engineer-manassas"
+    "employer_name": "IBM",
+    "job_title": "Associate Data Scientist Intern",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Associate Data Scientist Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57348&source=WEB_Search_NA",
+    "id": "ibm-associate-data-scientist-intern-ship"
   },
   {
     "employer_name": "Magna International",
-    "job_title": "IT Technician",
-    "job_city": "Alto",
+    "job_title": "Buyer",
+    "job_city": "Novi",
     "job_state": "Michigan",
     "job_posted_at": "Posted Today",
-    "job_description": "• SR IT Systems AdministratorlocationsNew Hudson, Michigan, USposted onPosted 2 Days AgoR00208731IT TechnicianlocationsAlto, Michigan, USposted onPosted TodayR00209737Robotics Technician - Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00182405Senior UX ResearcherlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00202632Maintenance Technician - 3rd shiftlocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00166686Maintenance Technician - 2nd shiftlocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00199753Controls Technician - 3rd ShiftlocationsAlto, Michigan, USposted onPosted 30+ Days AgoR00198142Maintenance ManagerlocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00203787Controls Technician - 3rd Shift (11 PM - 7:30 AM)locationsDuncan, South Carolina, USposted onPosted 30+ Days AgoR00204483IT SupervisorlocationsMoore, South Carolina, USposted onPosted TodayR00208763Account ManagerlocationsNovi, Michigan, USposted onPosted 30+ Days AgoR00201252Health & Safety SpecialistlocationsExcelsior Springs, Missouri, USposted onPosted 2 Days AgoR00209578Mech, MaintenancelocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00109278Tooling ManagerlocationsLancaster, Ohio, USposted onPosted 30 Days AgoR00204615Mgr, ProductionlocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00184407Technician, MaintenancelocationsShepherdsville, Kentucky, USposted onPosted 30+ Days AgoR00189873Production Team AssociatelocationsDetroit, Michigan, USposted onPosted 30+ Days AgoR00166861Planner, MaterialslocationsSpring Hill, Tennessee, USposted onPosted 30+ Days AgoR00198779Analyst, MaterialslocationsSpring Hill, Tennessee, USposted onPosted 22 Days AgoR00205979Accounts PayablelocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00191885.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Alto-Michigan-US/IT-Technician_R00209737-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-it-technician-alto"
+    "job_description": "• Materials Forklift DriverlocationsDetroit, Michigan, USposted onPosted 30+ Days AgoR00166889Foam OperatorlocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00165824Trim BuyerlocationsNovi, Michigan, USposted onPosted 20 Days AgoR00206641Production OperatorlocationsShelby Twp, Michigan, USposted onPosted 30+ Days AgoR00166815Production OperatorlocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00165853BuyerlocationsNovi, Michigan, USposted onPosted TodayR00209821Production Operator - 2nd shiftlocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00201393Production Operator - 1st shiftlocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00204390Production Operator - 3rd shiftlocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00203988Materials Supervisor- 2nd shiftlocationsSpring Hill, Tennessee, USposted onPosted 30+ Days AgoR00200154Assembly OperatorlocationsMoore, South Carolina, USposted onPosted 30+ Days AgoR00192265Material HandlerlocationsMoore, South Carolina, USposted onPosted 30+ Days AgoR00193687Production Assembler (Temporary Positions)locationsShepherdsville, Kentucky, USposted onPosted 5 Days AgoR00209345Specialist, Health & SafetylocationsShelby Twp, Michigan, USposted onPosted 27 Days AgoR00169507Trim Commodity ManagerlocationsNovi, Michigan, USposted onPosted 20 Days AgoR00203535Plastics Commodity ManagerlocationsNovi, Michigan, USposted onPosted 12 Days AgoR00207824.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Novi-Michigan-US/Buyer_R00209821?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-buyer-novi"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Hardware Engineering Internships",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "3 months",
-    "job_description": "Next-page description extraction failed after retries",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200606475-3810/hardware-engineering-internships?team=STDNT",
-    "id": "apple-hardware-engineering-internships-"
+    "employer_name": "Marvel Technology",
+    "job_title": "Software Design Intern - Bachelor's Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Software Design Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Today2502392Application Engineer Intern - Master's DegreelocationsSanta Clara, CAposted onPosted Today2502391Application Engineering Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Today2502255Senior Staff Firmware EngineerlocationsSanta Clara, CAposted onPosted Yesterday2501989Hardware Validation (Test Solutions) EngineerlocationsBurlington, VTposted onPosted 2 Days Ago2502187Principal Hardware Engineer - Board DesignlocationsSanta Clara, CAposted onPosted 5 Days Ago2501753Principal Hardware Design EngineerlocationsSanta Clara, CAposted onPosted 6 Days Ago2502089AI/ML Engineer HW/SWlocationsSanta Clara, CAposted onPosted 6 Days Ago2501958Senior Staff Digital Design Engineer – Wireline PHYslocationsSanta Clara, CAposted onPosted 8 Days Ago2502139Systems Application EngineerlocationsSanta Clara, CAposted onPosted 15 Days Ago2501748Signal and Power Integrity - Principal Engineer / Technical ManagerlocationsUS - MA - Westboroughposted onPosted 19 Days Ago2500955Principal Software EngineerlocationsSanta Clara, CAposted onPosted 19 Days Ago2501689Senior Staff Software EngineerlocationsSanta Clara, CAposted onPosted 19 Days Ago2501690Principal Digital Circuit Design EngineerlocationsBurlington, VTposted onPosted 22 Days Ago2501938Senior Principal Digital IC Design EngineerlocationsSanta Clara, CAposted onPosted 26 Days Ago2501309Senior Staff Mechanical Design EngineerlocationsSanta Clara, CAposted onPosted 28 Days Ago2501198Senior Staff Hardware Engineer - OpticallocationsUS - CA - Santa Clara - Marvell Parkposted onPosted 28 Days Ago2501305Senior Staff Test EngineerlocationsSanta Clara, CAposted onPosted 30 Days Ago2500517Senior Design Verification EngineerlocationsWestborough, MAposted onPosted 30+ Days Ago2501665Hardware & Silicon Validation Principal EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501491.",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Software-Design-Intern---Bachelor-s-Degree_2502392-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvel-technology-software-design-intern-bachelor-s-degree-santa-clara"
+  },
+  {
+    "employer_name": "Marvel Technology",
+    "job_title": "Application Engineering Intern - Bachelor's Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Software Design Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Today2502392Application Engineer Intern - Master's DegreelocationsSanta Clara, CAposted onPosted Today2502391Application Engineering Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Today2502255Senior Staff Firmware EngineerlocationsSanta Clara, CAposted onPosted Yesterday2501989Hardware Validation (Test Solutions) EngineerlocationsBurlington, VTposted onPosted 2 Days Ago2502187Principal Hardware Engineer - Board DesignlocationsSanta Clara, CAposted onPosted 5 Days Ago2501753Principal Hardware Design EngineerlocationsSanta Clara, CAposted onPosted 6 Days Ago2502089AI/ML Engineer HW/SWlocationsSanta Clara, CAposted onPosted 6 Days Ago2501958Senior Staff Digital Design Engineer – Wireline PHYslocationsSanta Clara, CAposted onPosted 8 Days Ago2502139Systems Application EngineerlocationsSanta Clara, CAposted onPosted 15 Days Ago2501748Signal and Power Integrity - Principal Engineer / Technical ManagerlocationsUS - MA - Westboroughposted onPosted 19 Days Ago2500955Principal Software EngineerlocationsSanta Clara, CAposted onPosted 19 Days Ago2501689Senior Staff Software EngineerlocationsSanta Clara, CAposted onPosted 19 Days Ago2501690Principal Digital Circuit Design EngineerlocationsBurlington, VTposted onPosted 22 Days Ago2501938Senior Principal Digital IC Design EngineerlocationsSanta Clara, CAposted onPosted 26 Days Ago2501309Senior Staff Mechanical Design EngineerlocationsSanta Clara, CAposted onPosted 28 Days Ago2501198Senior Staff Hardware Engineer - OpticallocationsUS - CA - Santa Clara - Marvell Parkposted onPosted 28 Days Ago2501305Senior Staff Test EngineerlocationsSanta Clara, CAposted onPosted 30 Days Ago2500517Senior Design Verification EngineerlocationsWestborough, MAposted onPosted 30+ Days Ago2501665Hardware & Silicon Validation Principal EngineerlocationsSanta Clara, CAposted onPosted 30+ Days Ago2501491.",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Application-Engineering-Intern---Bachelor-s-Degree_2502255-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvel-technology-application-engineering-intern-bachelor-s-degree-santa-clara"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Firmware Design Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• SWQA Tools Development EngineerlocationsUS, CA, Santa Claraposted onPosted 16 Days AgoJR2002803Senior Developer Technology Engineer, High-Performance Databaseslocations3 Locationsposted onPosted 8 Days AgoJR2003231Manager, OEM Solution Architecturelocations4 Locationsposted onPosted 13 Days AgoJR2002664Senior DL Algorithms Engineer - Inference Performancelocations2 Locationsposted onPosted 30+ Days AgoJR1996564Senior DL Algorithms Engineer - Inference Performancelocations2 Locationsposted onPosted 30+ Days AgoJR2000821Senior High Speed SerDes Validation EngineerlocationsUS, CA, Santa Claraposted onPosted 22 Days AgoJR2002549Senior Software Engineer, Deep Learning Inference - New HW Enablementlocations2 Locationsposted onPosted 23 Days AgoJR2002173System Design EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1968313Senior Software Engineer – Simulation and Virtualizationlocations2 Locationsposted onPosted 4 Days AgoJR2001013OEM Account Applications Engineer - New College Grad 2025locationsUS, CA, Santa Claraposted onPosted 14 Days AgoJR2002780Senior System Software Bringup Engineerlocations2 Locationsposted onPosted YesterdayJR1999911Firmware Design EngineerlocationsUS, CA, Santa Claraposted onPosted TodayJR2003355Senior Systems Software Engineer – GPU SoftwarelocationsUS, CA, Santa Claraposted onPosted 15 Days AgoJR1997061Senior VLSI CAD R&D, Power and Timing Modelinglocations2 Locationsposted onPosted 30+ Days AgoJR1997610Senior Firmware EngineerlocationsUS, WA, Seattleposted onPosted 30+ Days AgoJR2000316Senior Solutions Architect - AI Infrastructure Engineerlocations6 Locationsposted onPosted 30+ Days AgoJR1998552Systems Software Engineer – AV Platform Schedulinglocations2 Locationsposted onPosted 30+ Days AgoJR2001057NVIDIA 2026 Internships: Systems Software EngineeringlocationsUS, CA, Santa Claraposted onPosted YesterdayJR2003204Senior Platform Safety Analysis Engineer, DRIVE Platforms - Autonomous Vehicleslocations2 Locationsposted onPosted 27 Days AgoJR1998628Senior Datacenter System Software Architect - DGX Cloudlocations2 Locationsposted onPosted YesterdayJR2002330.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Firmware-Design-Engineer_JR2003355?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-firmware-design-engineer-us"
   }
 ]
