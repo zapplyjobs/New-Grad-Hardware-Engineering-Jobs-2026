@@ -1,12 +1,52 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Performance Engineer - EDA workloads",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/performance-engineer-eda-workloads/33099/86006621520",
-    "id": "arm-performance-engineer-eda-workloads-austin"
+    "employer_name": "AI Jobs",
+    "job_title": "Hardware Security Engineer, Trusted Computing and Cryptography",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "50min",
+    "job_description": "• Co-Design Secure Hardware: Collaborate with hardware vendors and cross-functional teams (kernel, compiler, and ML engineers) to design future secure hardware that meets performance and cryptographic needs.\n• Drive Innovation: Engage with internal and external partners to align hardware innovations with OpenAI’s trusted computing and cryptographic requirements.\n• 10+ years of industry experience in hardware security or hardware–software co-design.\n• Strong coding skills in Rust and/or C/C++, with proficiency in Python.\n• Advanced degree in Computer Architecture, Electrical Engineering, or related fields.\n• Develop Critical Software: Write performance-critical code in Rust, Python, and C/C++ to build cryptographic libraries and secure key management systems.\n• Integrate Security Primitives: Architect and deploy systems using TPM2, Secure Boot, Nitro Enclaves, Intel SGX, AMD-SEV, and other secure hardware technologies.\n• Proven expertise in deploying cryptographic systems at scale and integrating secure hardware primitives.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162231162-hardware-security-engineer-trusted-computing-and-cryptography",
+    "id": "ai-jobs-hardware-security-engineer-trusted-computing-and-cryptography-"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Embedded Software Engineer",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "51min",
+    "job_description": "• Design, implement, and debug software for embedded devicesContribute to defining software requirements, interfaces, and test plansBring up and debug new boardsAnalyze performance, memory, and power profiles and implement optimizationsInvestigate field issues, perform root-cause analysis, and deliver robust fixesFoster good software engineering practices 10+ years of professional experience shipping embedded systemsProficiency in C and C++Familiarity with embedded toolchains, operating systems, and debugging toolsExperience with both rapid prototyping and scalable product development Experience with Zephyr RTOSExperience with networking/wireless stacks (BLE, Wi-Fi)Experience with robotic system bring-upExperience with Linux kernel development.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162231176-embedded-software-engineer",
+    "id": "ai-jobs-embedded-software-engineer-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Mechanical Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "51min",
+    "job_description": "• 2+ years of experience in mechanical engineering Bachelor’s or Master’s Degree in Mechanical, Biomechanical, Robotics, Mechatronics, or similar field Expert in using 3D CAD software to design parts with complex geometry Experience designing and building prototypes Experienced with simulation and analysis methodology (FEA, MATLAB etc.\n• Experience with actuators, including strain-wave, planetary, or cycloidal Experience with electromechanical integration, such as sensors, motors, motor drivers, wire harnesses, and communication buses.\n• Design parts in 3D CAD that satisfy load conditions, industrial design form factor, and durability requirements.\n• Experience with high volume manufacturing processes.\n• Experience working with contract manufacturers.\n• CATIA V6 Experience Wire harness design experience.\n• ) Ability to write and maintain clean documentation for design processes.\n• Build prototypes to test assembly, range of motion, wire routing.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162231200-mechanical-engineer",
+    "id": "ai-jobs-mechanical-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Growth Paid Marketing Platform Engineer",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Are highly analytical and have experience designing and implementing A/B tests, with a scientific approach to data-based experiments.\n• Have a voracious and intrinsic desire to learn and fill in missing skills.\n• Are comfortable with ambiguity and rapidly changing conditions.\n• You view changes as an opportunity to add structure and order when necessary.\n• Have shipped systems that power marketing or growth use cases, such as attribution pipelines, campaign management tools, or integrations with major ad platforms.\n• You know exactly what and how to track business metrics and KPIs.\n• An equally strong talent for sharing that information clearly and concisely with others.\n• Are comfortable with ambiguity and rapidly changing conditions.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162231174-growth-paid-marketing-platform-engineer",
+    "id": "ai-jobs-growth-paid-marketing-platform-engineer-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Business Systems, Procure to Pay",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Identify and translate business requirements into builds.\n• 6+ years in ERP/P2P product, functional, or consulting roles.\n• 4+ years experience with Oracle Fusion Procurement (Purchasing, Supplier Portal, Sourcing, SSP, Receiving) and 2+ full‑cycle Fusion implementations.\n• Strong configuration skills in Fusion (approvals, rules, catalogs, Blanket Purchase Agreements/Contract Purchase Agreements, tolerances, receiving parameters), plus comfort reading data models and writing SQL for analysis.\n• Integration experience with OIC/Workato and Fusion REST APIs.\n• Mastery of process mapping, gap analysis, and requirements artifacts (scope docs, use cases, functional specs, test scripts) and the discipline to run Agile ceremonies with clear acceptance criteriaA controls and compliance mindset, while not slowing delivery.\n• Bachelor’s or Master’s in Information Systems, Supply Chain, Engineering, or related field (or equivalent experience).\n• Assist in defining the vision, KPIs, and roadmap for P2P across Oracle Fusion and adjacent tools.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162231171-business-systems-procure-to-pay",
+    "id": "ai-jobs-business-systems-procure-to-pay-san-francisco"
   }
 ]
