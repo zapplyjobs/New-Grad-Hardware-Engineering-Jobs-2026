@@ -1,52 +1,42 @@
 [
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Network Engineer",
-    "job_city": "USA HI Camp Smith",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-HI-Camp-Smith/Network-Engineer_RQ206972-2?q=hardware+engineering",
-    "id": "general-dynamics-network-engineer-usa-hi-camp-smith"
+    "employer_name": "Siemens",
+    "job_title": "Electro Assembler in the factory with AI-powered machines - 2nd Shift",
+    "job_city": "Fort Worth",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Electro Assembler in the factory with AI-powered machines - 2nd Shift",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-electro-assembler-in-the-factory-with-ai-powered-machines-2nd-shift-fort-worth"
   },
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Network Integration Lab Technician",
-    "job_city": "USA OK Oklahoma City",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-OK-Oklahoma-City/Network-Integration-Lab-Technician_RQ206894-1?q=hardware+engineering",
-    "id": "general-dynamics-network-integration-lab-technician-usa-ok-oklahoma-city"
+    "employer_name": "AI Jobs",
+    "job_title": "Distributed Training Engineer",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "5h",
+    "job_description": "• Have experience working with multi-modal ML pipelinesLove diving deep into systems implementations and understanding their fundamentals in order to improve their performance and maintainabilityHave strong software engineering skills and are proficient in Python.\n• Have experience understanding and optimizing training kernelsAre passionate about understanding stable training dynamics Collaborate with researchers to enable them to develop systems-efficient video models and architecturesApply the latest techniques to our internal training framework to achieve impressive hardware efficiency for our training runsProfile and optimize our training framework.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162231157-distributed-training-engineer",
+    "id": "ai-jobs-distributed-training-engineer-san-francisco"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Access/Car Keys Engineering",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "Today",
-    "job_description": "• Minimum QualificationsWe are looking for 7+ years of backend software engineering experience with languages like JavaExperience building scalable, distributed systems and APIsExpertise in concurrency, asynchronous processing, and event-driven architectures (e.\n• , Kafka)Experience with Relational and NoSQL DatabasesExperience authoring and supporting web servicesBS degree in computer science or equivalent field.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200620279-0836/software-engineer-access-car-keys-engineering?team=SFTWR",
-    "id": "apple-software-engineer-access-car-keys-engineering-cupertino"
+    "employer_name": "Arm",
+    "job_title": "Graduate Implementation Engineer - CPU",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-implementation-engineer-cpu/33099/85997350336",
+    "id": "arm-graduate-implementation-engineer-cpu-"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "CPU Verification Engineer",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "2 days",
-    "job_description": "• Minimum Qualifications- BS EE/CE or equivalent experience.\n• - Be an outstanding teammate with excellent communication skills and the desire to address diverse challenges.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200619232-0157/cpu-verification-engineer?team=HRDWR",
-    "id": "apple-cpu-verification-engineer-austin"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Human Factors Engineer",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "3 days",
-    "job_description": "• Minimum QualificationsExpertise in creating rigorous experimental designs, utilizing scientific method, and prioritizing research insights that have implications for product design and developmentExpertise in conducting usability studies and interview techniques related to product use.\n• Excellent communication and interpersonal skills, attention to detail, patience, and aesthetic sensibility.\n• Bachelor’s degree with a concentration or extensive work in human factors, industrial engineering, cognitive psychology, biomechanics, experimental psychology, and/or human-computer interaction.\n• Master's/doctorate preferred.\n• Mixed methods expertise to combine quantitative and qualitative research approaches.\n• Ability to distill research insights into presentations for engineers and designers in a concise way.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200613119-0157/human-factors-engineer?team=HRDWR",
-    "id": "apple-human-factors-engineer-austin"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Front End, Gmail Ads",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer III, Front End, Gmail Ads",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/101827248599769798-software-engineer-iii-front-end-gmail-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=7",
+    "id": "google-software-engineer-iii-front-end-gmail-ads-mountain-view"
   }
 ]
