@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "Siemens",
-    "job_title": "Electro Assembler in the factory with AI-powered machines - 2nd Shift",
-    "job_city": "Fort Worth",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Electro Assembler in the factory with AI-powered machines - 2nd Shift",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-electro-assembler-in-the-factory-with-ai-powered-machines-2nd-shift-fort-worth"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Distributed Training Engineer",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "5h",
-    "job_description": "• Have experience working with multi-modal ML pipelinesLove diving deep into systems implementations and understanding their fundamentals in order to improve their performance and maintainabilityHave strong software engineering skills and are proficient in Python.\n• Have experience understanding and optimizing training kernelsAre passionate about understanding stable training dynamics Collaborate with researchers to enable them to develop systems-efficient video models and architecturesApply the latest techniques to our internal training framework to achieve impressive hardware efficiency for our training runsProfile and optimize our training framework.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162231157-distributed-training-engineer",
-    "id": "ai-jobs-distributed-training-engineer-san-francisco"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Graduate Implementation Engineer - CPU",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/graduate-implementation-engineer-cpu/33099/85997350336",
-    "id": "arm-graduate-implementation-engineer-cpu-"
-  },
-  {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Front End, Gmail Ads",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "job_title": "Product Solutions Engineer, Shopping Tools and Engineering, gUP",
+    "job_city": "Boulder",
+    "job_state": "CO",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Front End, Gmail Ads",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/101827248599769798-software-engineer-iii-front-end-gmail-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=7",
-    "id": "google-software-engineer-iii-front-end-gmail-ads-mountain-view"
+    "job_description": "hardware engineering job for the role Product Solutions Engineer, Shopping Tools and Engineering, gUP",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/141300403231695558-product-solutions-engineer-shopping-tools-and-engineering-gup?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=10",
+    "id": "google-product-solutions-engineer-shopping-tools-and-engineering-gup-boulder"
   }
 ]
