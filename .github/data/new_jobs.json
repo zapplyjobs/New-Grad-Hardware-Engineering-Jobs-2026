@@ -1,62 +1,42 @@
 [
   {
-    "employer_name": "Siemens",
-    "job_title": "Fire Alarm Systems Service Technician",
-    "job_city": "San Diego",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Z Systems Support Intern",
+    "job_city": "shipPOUGHKEEPSIE",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Fire Alarm Systems Service Technician",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-fire-alarm-systems-service-technician-san-diego"
+    "job_description": "hardware engineering job for the role Z Systems Support Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58199&source=WEB_Search_NA",
+    "id": "ibm-z-systems-support-intern-shippoughkeepsie"
   },
   {
-    "employer_name": "10x Genomics",
-    "job_title": "Electrical Engineering Technician",
-    "job_city": "Pleasanton",
-    "job_state": "California",
-    "job_posted_at": "2 days",
-    "job_description": "• Associate degree in engineering technology or equivalent military technical training and 4 years of related experience, or extensive experience that is equivalent.\n• Skill in soldering, printed circuit board rework, and electrical cable assembly Experience with test instruments including oscilloscopes, data loggers, digital multi-meters, and current probes.\n• Extensive troubleshooting experience diagnosing and correcting problems with electro-mechanical instruments or equipment.\n• Strong background in the understanding of electrical circuits and power distribution subsystems.\n• Working knowledge of a scripting test language Experience with EMC and environmental testing Experience working on analytical instruments that integrate electronics, optics, and microfluidics.\n• Experience with LabVIEW, Python, and/or C Hands-on experience with breadboard builds and optical alignment.\n• Experience in reliability or life testing.\n• Machine shop experience Senior Electrical Engineer (Contractor) (P-4758)Pleasanton, California, USA HQScientificPosted a month agoField Service Engineer (UK North)United Kingdom (Remote)SupportRemotePosted 8 days agoSenior Compliance EngineerPleasanton, California, USA HQOperationsPosted 2 months agoSenior Mechanical Engineer (Contractor) (P-4757)Pleasanton, California, USA HQScientificPosted a month agoSoftware Engineer III, Instrument SoftwarePleasanton, California, USA HQEngineering - SoftwarePosted 6 months agoSenior Software Engineer, Instrument Software Pleasanton, California, USA HQEngineering - SoftwarePosted 3 months agoProduction Technician- Kitting (TEMP) Pleasanton, California, USA HQOperationsPosted 4 days agoStaff Mechanical Engineer, Precision Motion ControlPleasanton, California, USA HQEngineering - HardwarePosted 2 months agoSenior Service Operations EngineerPleasanton, California, USA HQSupportPosted 8 days agoManufacturing Engineer III (P-4776)Singapore OfficeScientificPosted 20 days ago Running mechanical, electrical, optical, and fluidic tests on prototypes, and documenting results clearly.",
-    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171836598750",
-    "id": "10x-genomics-electrical-engineering-technician-pleasanton"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "Test Hardware Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "employer_name": "BAE Systems",
+    "job_title": "RF Engineer",
+    "job_city": "Colorado Springs",
+    "job_state": "CO",
     "job_posted_at": "Posted Today",
-    "job_description": "• Test Hardware EngineerlocationsSanta Clara, CAposted onPosted Today2502222Memory Circuit Design Intern - Bachelor's DegreelocationsBurlington, VTposted onPosted Today2502408Physical Design Engineer Intern - Master's DegreelocationsBoise, IDposted onPosted Yesterday2502385Test Engineer Intern - Master's DegreelocationsWestlake Village, CAposted onPosted Yesterday2502283Principal Application EngineerlocationsSanta Clara, CAposted onPosted Yesterday2502096Hardware Design Engineer Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Yesterday2502451Hardware Design Engineer Intern - Master's DegreelocationsIrvine, CAposted onPosted Yesterday2502449Software Design Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Yesterday2502392Application Engineer Intern - Master's DegreelocationsSanta Clara, CAposted onPosted Yesterday2502391Application Engineering Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Yesterday2502255Senior Staff Firmware EngineerlocationsSanta Clara, CAposted onPosted 2 Days Ago2501989Principal Hardware Engineer - Board DesignlocationsSanta Clara, CAposted onPosted 6 Days Ago2501753Principal Hardware Design EngineerlocationsSanta Clara, CAposted onPosted 7 Days Ago2502089AI/ML Engineer HW/SWlocationsSanta Clara, CAposted onPosted 7 Days Ago2501958Senior Staff Digital Design Engineer – Wireline PHYslocationsSanta Clara, CAposted onPosted 9 Days Ago2502139Systems Application EngineerlocationsSanta Clara, CAposted onPosted 16 Days Ago2501748Signal and Power Integrity - Principal Engineer / Technical ManagerlocationsUS - MA - Westboroughposted onPosted 20 Days Ago2500955Principal Software EngineerlocationsSanta Clara, CAposted onPosted 20 Days Ago2501689Senior Staff Software EngineerlocationsSanta Clara, CAposted onPosted 20 Days Ago2501690Principal Digital Circuit Design EngineerlocationsBurlington, VTposted onPosted 23 Days Ago2501938.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Test-Hardware-Engineer_2502222?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-test-hardware-engineer-santa-clara"
+    "job_description": "• Network Infrastructure Engineer, Leadlocations2 Locationsposted onPosted YesterdayR0225980 Systems Integration Lab Engineer, LeadlocationsCalifornia, MDposted onPosted TodayR0226027 Digital Engineer, LeadlocationsEl Segundo, CAposted onPosted 9 Days AgoR0225496.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Colorado-Springs-CO/RF-Engineer_R0225994?q=hardware+engineering",
+    "id": "bae-systems-rf-engineer-colorado-springs"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "CPU Design Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "• Experience with Verilog, System Verilog, C, and C++ CPU microarchitecture knowledge Experience with CPU architectural profiling.\n• Experience in the C++ language, preferably on Linux with exposure to Windows platform Scripting language experience: Perl, Ruby, Makefile, shell preferred.\n• Degree in computer engineering/Electrical Engineering Investor Relations Financial Information Board of Directors Governance Documents SEC Filings Exposure to leadership or mentorship is an asset.\n• Automating workflows in a distributed compute environment.\n• Proficient in digital system power estimation.\n• Proficient in machine learning algorithms and data-mining algorithms.\n• AMD Partner Hub Authorized Distributors AMD University Program Ph.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/69351/login",
-    "id": "amd-cpu-design-engineer-us"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, YouTube Ads Client Infrastructure",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer, YouTube Ads Client Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/97563376866992838-software-engineer-youtube-ads-client-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
-    "id": "google-software-engineer-youtube-ads-client-infrastructure-mountain-view"
+    "employer_name": "Intel",
+    "job_title": "CPU Formal Verification Engineer",
+    "job_city": "3 Locations",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 21 Days AgoJR0276774Silicon Hardware Engineering - Intern, Bachelorslocations5 Locationsposted onPosted 21 Days AgoJR0276780Platform Hardware and Systems Engineering - Intern, Graduatelocations5 Locationsposted onPosted 21 Days AgoJR0276770Platform Hardware and Systems Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 21 Days AgoJR0276776Senior Foundry Applications Engineer (Packaging Design)locationsUS, Arizona, Phoenixposted onPosted 9 Days AgoJR0275754Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 21 Days AgoJR0276778Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 21 Days AgoJR0276773Director, Product Management Silicon Photonicslocations4 Locationsposted onPosted 30+ Days AgoJR0276253Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 21 Days AgoJR0276771Senior Firmware EngineerlocationsUS, Texas, Austinposted onPosted 17 Days AgoJR0276584GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 30+ Days AgoJR0276205IP Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 3 Days AgoJR0277104Sr.\n• Power Management Validation Engineerlocations4 Locationsposted onPosted 3 Days AgoJR0277101Network Security Engineer (DevSecOps)locations2 Locationsposted onPosted 30+ Days AgoJR0275922Identity Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276330Triton Compiler Engineerlocations3 Locationsposted onPosted YesterdayJR0277157Identity Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276329Emulation Solutions Engineerlocations3 Locationsposted onPosted 29 Days AgoJR0276726Information Security System Officer (ISSO)locationsUS, Virginia, Fairfaxposted onPosted YesterdayJR0277075CPU Formal Verification Engineerlocations3 Locationsposted onPosted TodayJR0277286.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/CPU-Formal-Verification-Engineer_JR0277286?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-cpu-formal-verification-engineer-3-locations"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Google Workspace",
+    "job_title": "Software Engineer III, Site Reliability Engineering",
     "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Infrastructure, Google Workspace",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/75533561892872902-software-engineer-iii-infrastructure-google-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=5",
-    "id": "google-software-engineer-iii-infrastructure-google-workspace-sunnyvale"
+    "job_description": "hardware engineering job for the role Software Engineer III, Site Reliability Engineering",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/133409414437577414-software-engineer-iii-site-reliability-engineering?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=8",
+    "id": "google-software-engineer-iii-site-reliability-engineering-sunnyvale"
   }
 ]
