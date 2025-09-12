@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "RDA/Metrology Shift Process Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "17 hours",
-    "job_description": "• Must possess good communication skills and ability to work well in a team environment Prior experience working in semiconductor fabrication process areas BS degree in science or engineering or equivalent experience Experience within RDA, HVM process areas Metrology and RDA inspection experience Project management and planning skills Support site-to-site portability Problem-solving skills Less than 2 years Principal/ Senior/ Engineer, Advanced Package Metrology-Real-Time Defect Analysis (MRDA)Singapore, SingaporePosted 5 months ago.",
-    "job_apply_link": "https://careers.micron.com/careers/job/30482683",
-    "id": "micron-technology-rda-metrology-shift-process-engineer-boise"
-  },
-  {
-    "employer_name": "Siemens",
-    "job_title": "Smart Buildings Associate Energy Engineer",
-    "job_city": "Bellevue",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Smart Buildings Associate Energy Engineer",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-smart-buildings-associate-energy-engineer-bellevue"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "MCCO Research and Development Engineer",
-    "job_city": "USA MD Fort Meade",
-    "job_state": "US",
+    "employer_name": "BAE Systems",
+    "job_title": "Autonomy Engineer",
+    "job_city": "Lorton",
+    "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Fort-Meade/MCCO-Research-and-Development-Engineer_RQ207275-1?q=hardware+engineering",
-    "id": "general-dynamics-mcco-research-and-development-engineer-usa-md-fort-meade"
+    "job_description": "• Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 15 Days AgoR0225275 Configuration Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0223086 C2 Datacenter Network Architect, LeadlocationsSan Diego, CAposted onPosted 17 Days AgoR0224153 Systems and Digital Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0223342 Systems and Digital Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0223341 IT Configuration ManagerlocationsFort Meade, MDposted onPosted 16 Days AgoR0224196.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Autonomy-Engineer--Lead_R0223285?q=hardware+engineering",
+    "id": "bae-systems-autonomy-engineer-lorton"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Google Beam, Networking",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer III, Google Beam, Networking",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/137396004692337350-software-engineer-iii-google-beam-networking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=10",
+    "id": "google-software-engineer-iii-google-beam-networking-seattle"
+  },
+  {
+    "employer_name": "Meta",
+    "job_title": "Research Scientist Intern, Haptic Research (PhD)",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Research Scientist Intern, Haptic Research (PhD)",
+    "job_apply_link": "https://www.metacareers.com",
+    "id": "meta-research-scientist-intern-haptic-research-phd-redmond"
   }
 ]
