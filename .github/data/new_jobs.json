@@ -1,42 +1,42 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Z Systems Support Intern",
-    "job_city": "shipPOUGHKEEPSIE",
-    "job_state": "US",
+    "employer_name": "AMD",
+    "job_title": "Hardware Security Engineer",
+    "job_city": "US",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Z Systems Support Intern 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58199&source=WEB_Search_NA",
-    "id": "ibm-z-systems-support-intern-shippoughkeepsie"
+    "job_description": "• Extensive experience in hardware design and development, with a focus on security.\n• Experience with hardware threat modeling and security validation techniques.\n• Experience with FPGA, ASIC, or SoC design.\n• Coverage analysis: Cadence IMC, Synopsys Verdi CoverageFormal verification: Cadence JasperGold, Synopsys VC Formal, Siemens Questa FormalLogic synthesis: Synopsys Design Compiler/Fusion Compiler, Cadence Genus Embed security requirements and best practices into hardware design and development processes.\n• Maintain detailed documentation of security requirements, design decisions, and validation results.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Strong understanding of secure hardware design principles, including trusted execution environments, secure boot, and cryptographic modules.\n• Familiarity with secure development lifecycle frameworks and methodologies.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/71222/login",
+    "id": "amd-hardware-security-engineer-us"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "RF Engineer",
-    "job_city": "Colorado Springs",
-    "job_state": "CO",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Network Infrastructure Engineer, Leadlocations2 Locationsposted onPosted YesterdayR0225980 Systems Integration Lab Engineer, LeadlocationsCalifornia, MDposted onPosted TodayR0226027 Digital Engineer, LeadlocationsEl Segundo, CAposted onPosted 9 Days AgoR0225496.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Colorado-Springs-CO/RF-Engineer_R0225994?q=hardware+engineering",
-    "id": "bae-systems-rf-engineer-colorado-springs"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "CPU Formal Verification Engineer",
-    "job_city": "3 Locations",
+    "employer_name": "Apple",
+    "job_title": "Data Engineer - Camera Hardware",
+    "job_city": "Cupertino",
     "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 21 Days AgoJR0276774Silicon Hardware Engineering - Intern, Bachelorslocations5 Locationsposted onPosted 21 Days AgoJR0276780Platform Hardware and Systems Engineering - Intern, Graduatelocations5 Locationsposted onPosted 21 Days AgoJR0276770Platform Hardware and Systems Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 21 Days AgoJR0276776Senior Foundry Applications Engineer (Packaging Design)locationsUS, Arizona, Phoenixposted onPosted 9 Days AgoJR0275754Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 21 Days AgoJR0276778Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 21 Days AgoJR0276773Director, Product Management Silicon Photonicslocations4 Locationsposted onPosted 30+ Days AgoJR0276253Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 21 Days AgoJR0276771Senior Firmware EngineerlocationsUS, Texas, Austinposted onPosted 17 Days AgoJR0276584GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 30+ Days AgoJR0276205IP Design Verification EngineerlocationsUS, California, Santa Claraposted onPosted 3 Days AgoJR0277104Sr.\n• Power Management Validation Engineerlocations4 Locationsposted onPosted 3 Days AgoJR0277101Network Security Engineer (DevSecOps)locations2 Locationsposted onPosted 30+ Days AgoJR0275922Identity Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276330Triton Compiler Engineerlocations3 Locationsposted onPosted YesterdayJR0277157Identity Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276329Emulation Solutions Engineerlocations3 Locationsposted onPosted 29 Days AgoJR0276726Information Security System Officer (ISSO)locationsUS, Virginia, Fairfaxposted onPosted YesterdayJR0277075CPU Formal Verification Engineerlocations3 Locationsposted onPosted TodayJR0277286.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/CPU-Formal-Verification-Engineer_JR0277286?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-cpu-formal-verification-engineer-3-locations"
+    "job_posted_at": "Today",
+    "job_description": "• Minimum QualificationsBS or higher in Computer Science, Data Engineering, Data Science, Math, or related fieldsHands-on Experience using cloud data analytics platforms (i.\n• Snowflake, Redshift, BigQuery)Experience building data transformation pipelines using frameworks such as Data Built Tool (dbt) or SparkExperience in data modeling and data governance techniques (i.\n• Row Access Policies, role-based access control (RBAC).",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200620247-0836/data-engineer-camera-hardware?team=HRDWR",
+    "id": "apple-data-engineer-camera-hardware-cupertino"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Site Reliability Engineering",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Site Reliability Engineering",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/133409414437577414-software-engineer-iii-site-reliability-engineering?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=8",
-    "id": "google-software-engineer-iii-site-reliability-engineering-sunnyvale"
+    "employer_name": "Apple",
+    "job_title": "Data Engineer - Camera Hardware",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "Today",
+    "job_description": "• Minimum QualificationsBS or higher in Computer Science, Data Engineering, Data Science, Math, or related fieldsHands-on Experience using cloud data analytics platforms (i.\n• Snowflake, Redshift, BigQuery)Experience building data transformation pipelines using frameworks such as Data Built Tool (dbt) or SparkExperience in data modeling and data governance techniques (i.\n• Row Access Policies, role-based access control (RBAC).",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200620247-3543/data-engineer-camera-hardware?team=HRDWR",
+    "id": "apple-data-engineer-camera-hardware-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Design Verification Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "US",
+    "job_posted_at": "1 day",
+    "job_description": "• Minimum QualificationsMinimum of BS + 3 years relevant industry experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200619214-3760/design-verification-engineer?team=HRDWR",
+    "id": "apple-design-verification-engineer-santa-clara"
   }
 ]
