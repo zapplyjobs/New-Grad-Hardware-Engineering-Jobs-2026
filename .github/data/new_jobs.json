@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Mobility Network Engineer",
-    "job_city": "Austin",
-    "job_state": "TX",
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Infrastructure Engineer III - Load Balancing",
+    "job_city": "",
+    "job_state": "OH",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Mobility Network Engineer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/104442369897571014-mobility-network-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
-    "id": "google-mobility-network-engineer-austin"
+    "job_description": "• Equity Research - IT Hardware, Telecom & Networking Equipment - Associate New York, NY, United States Program Analysts & AssociateAssociates Analyze market trends, prepare reports, and showcase skills in financial modeling and industry expertise.\n• Lead Software Engineer Mc Lean, VA, United States and 1 more TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Mc Lean, VA, United States and 1 more TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Sr Lead Infrastructure Engineer New York, NY, United States TechnologyInfrastructure Engineering Drive significant business impact and tackle infrastructure engineering challenges that span multiple technology domains Technology Support Sr Specialist - Test Analyst Irvine, CA, United States TechnologyTechnology Support Provide first-level technology support, guide, and resolve complex technology issues and enhance our user experience.\n• Applied AIML Director, GenAI Seattle, WA, United States Data & AnalyticsPredictive Science Director, Agentic AI: Leading the autonomous future Software Engineer III (JAVA)/with Experience in Site Reliability Herzliya, Israel and 1 more TechnologySoftware Engineering Software Engineer III - L3 + SRE (JAVA) at JPMorgan Chase within Commercial and Investment Bank, Digital Platform & Services Sr.\n• Formal training or certification on networking concepts and 3+ years applied experience.\n• Knowledge and 3+ years experience with network load balancing technologies (F5).\n• Bachelor’s Degree with 3+ years of applied experience in technology.\n• Experience with F5 Hypervisors and modules including LTM, GTM/DNS.\n• Experience with infrastructure automation frameworks such as Ansible.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664533/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-infrastructure-engineer-iii-load-balancing-"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Test Engineer, Embedded Systems, Silicon",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Test Engineer, Embedded Systems, Silicon",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/136191180466463430-software-test-engineer-embedded-systems-silicon?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3",
+    "id": "google-software-test-engineer-embedded-systems-silicon-mountain-view"
   }
 ]
