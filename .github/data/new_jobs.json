@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "Hardware Security Engineer",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "• Extensive experience in hardware design and development, with a focus on security.\n• Experience with hardware threat modeling and security validation techniques.\n• Experience with FPGA, ASIC, or SoC design.\n• Coverage analysis: Cadence IMC, Synopsys Verdi CoverageFormal verification: Cadence JasperGold, Synopsys VC Formal, Siemens Questa FormalLogic synthesis: Synopsys Design Compiler/Fusion Compiler, Cadence Genus Embed security requirements and best practices into hardware design and development processes.\n• Maintain detailed documentation of security requirements, design decisions, and validation results.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Strong understanding of secure hardware design principles, including trusted execution environments, secure boot, and cryptographic modules.\n• Familiarity with secure development lifecycle frameworks and methodologies.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/71222/login",
-    "id": "amd-hardware-security-engineer-us"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Data Engineer - Camera Hardware",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "Today",
-    "job_description": "• Minimum QualificationsBS or higher in Computer Science, Data Engineering, Data Science, Math, or related fieldsHands-on Experience using cloud data analytics platforms (i.\n• Snowflake, Redshift, BigQuery)Experience building data transformation pipelines using frameworks such as Data Built Tool (dbt) or SparkExperience in data modeling and data governance techniques (i.\n• Row Access Policies, role-based access control (RBAC).",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200620247-0836/data-engineer-camera-hardware?team=HRDWR",
-    "id": "apple-data-engineer-camera-hardware-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Data Engineer - Camera Hardware",
-    "job_city": "San Diego",
-    "job_state": "US",
-    "job_posted_at": "Today",
-    "job_description": "• Minimum QualificationsBS or higher in Computer Science, Data Engineering, Data Science, Math, or related fieldsHands-on Experience using cloud data analytics platforms (i.\n• Snowflake, Redshift, BigQuery)Experience building data transformation pipelines using frameworks such as Data Built Tool (dbt) or SparkExperience in data modeling and data governance techniques (i.\n• Row Access Policies, role-based access control (RBAC).",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200620247-3543/data-engineer-camera-hardware?team=HRDWR",
-    "id": "apple-data-engineer-camera-hardware-san-diego"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Design Verification Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "US",
-    "job_posted_at": "1 day",
-    "job_description": "• Minimum QualificationsMinimum of BS + 3 years relevant industry experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200619214-3760/design-verification-engineer?team=HRDWR",
-    "id": "apple-design-verification-engineer-santa-clara"
+    "employer_name": "AI Jobs",
+    "job_title": "DAQ Software Engineer, Robotics",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "few min",
+    "job_description": "• Have extensive experience integrating and deploying industrial automation systems.\n• Bring hands-on experience delivering production-quality software within collaborative engineering teams.\n• Have a strong background in Rust or C++.\n• Possess strong software engineering fundamentals.\n• Off-the-shelf robotics, or related hardware into production environments.\n• Help develop and grow our data collection labs, owning the entire integration lifecycle, from identifying and sourcing new hardware to collaborating with mechanical and electrical engineers on setup, software integration, and operational deployment.\n• Develop innovative robot control interfaces suited to a variety of morphologies, environments, and tasks.\n• Collaborate closely with research and engineering teams to develop automation tools and machinery that facilitate the evaluation of advanced robotic policies.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162439127-daq-software-engineer-robotics",
+    "id": "ai-jobs-daq-software-engineer-robotics-san-francisco"
   }
 ]
