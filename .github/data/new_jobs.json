@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Intern - Product Line Data Analyst",
-    "job_city": "California",
-    "job_state": "United States of America",
-    "job_posted_at": "9 days",
-    "job_description": "• Currently pursuing a Bachelor’s degree or equivalent experience in Information Technology or a related field.\n• Ability to work independently and collaboratively in a fast-paced environment Experience in requirement gathering, process modeling, and documentation Familiarity with data architecture and statistical modeling techniques Strong analytical, problem-solving, and critical-thinking skills Experience in business analytics or demand forecasting Superb communication and interpersonal skills Must not graduate before September 2024 Principal Product Engineer (Advance Data Analytics), Heterogeneous Integration Group (HIG), High Bandwidth Memory (HBM) Product EngineeringSingapore, SingaporePosted 2 months ago Advanced Modeling Principal EngineerBoise, Idaho, United States of AmericaPosted 2 months ago.",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-intern-product-line-data-analyst-california"
-  },
-  {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Full Stack, Core",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Full Stack, Core",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/108320403780182726-software-engineer-iii-full-stack-core?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=8",
-    "id": "google-software-engineer-iii-full-stack-core-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Fitbit, Engineering Productivity",
+    "job_title": "Software Engineer III, Google Ads, Conversion Infrastructure",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Fitbit, Engineering Productivity",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/115588772103365318-software-engineer-iii-fitbit-engineering-productivity?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=8",
-    "id": "google-software-engineer-iii-fitbit-engineering-productivity-mountain-view"
+    "job_description": "hardware engineering job for the role Software Engineer III, Google Ads, Conversion Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/105214501938176710-software-engineer-iii-google-ads-conversion-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=10",
+    "id": "google-software-engineer-iii-google-ads-conversion-infrastructure-mountain-view"
   }
 ]
