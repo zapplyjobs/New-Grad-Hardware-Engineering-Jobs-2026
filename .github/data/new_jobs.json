@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "MTS, IO Design Engineering",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "a day",
-    "job_description": "• Demonstrated ability of at least 5 years with circuit verification and optimization including layout verification and parasitic extractions of the circuits Prior experience in channel modeling and characterization, transceiver noise and timing budget analysis, equalization techniques, SI knowledge, etc Demonstrated ability of 7+ years in IO Design with a Masters or PhD or equivalent experience in Computer Science or related technical field.\n• Strong communication skills with the ability to convey sophisticated technical concepts to other design peers both verbally and written 10 or more years in High-speed IO circuit design include receiver and transmitter circuit design experience Understanding of device physics and basic CMOS processing techniques preferred Demonstrated ability with PERL/Python (or other scripting languages), a plus 10 or more years in analog design and simulation experience required Demonstrated ability in mentoring and coaching engineers Less than 2 years.",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-mts-io-design-engineering-boise"
+    "employer_name": "AI Jobs",
+    "job_title": "Research Scientist, Automated Synthesis",
+    "job_city": "Cambridge",
+    "job_state": "MA",
+    "job_posted_at": "16h",
+    "job_description": "• ≥ 5 years of experience in synthesis and characterization of porous materials (e.\n• Experience with commercial automation platforms (e.\n• In Chemistry, Chemical Engineering, Materials Science, or related field.\n• , MOFs, zeolites, oxides etc).\n• Strong track record with robotic synthesis platforms, high-throughput experimentation, or automated materials discovery.\n• Proficiency in Python for instrument scripting, workflow development, and data handling.\n• Deep knowledge of synthetic methodologies and solid-state or solution-phase chemistry.\n• , Chemspeed, Hamilton, Tecan) or custom-built robotic systems.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162645889-research-scientist-automated-synthesis",
+    "id": "ai-jobs-research-scientist-automated-synthesis-cambridge"
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Firmware Engineering Intern [Winter]",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "9h",
-    "job_description": "• Optimize performance of firmware to meet product requirements.\n• Minimum 10 weeks internship, 1 to 2 terms preferred.\n• Experience with low level communication protocol driver development, Ethernet and CAN preferred.\n• Experience with motor control systems.\n• Experience with the Bazel build system.\n• Experience with Docker containers.\n• Deliver high quality C/C++ code in a real-time embedded environment.\n• Bring up, debug, and validate firmware on the Humanoid hardware platform, such as actuators, sensors, power distribution system.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162634635-firmware-engineering-intern-winter",
-    "id": "ai-jobs-firmware-engineering-intern-winter-san-jose"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Software Engineer, Enterprise Identity",
+    "job_title": "Infrastructure Generalist",
     "job_city": "San Francisco",
     "job_state": "California",
-    "job_posted_at": "38min",
-    "job_description": "• Partner with GTM, security, and product teams to shape identity features that meet current and future enterprise needs from small business to multinational organizations.\n• Have experience building and operating production authentication and identity systems at scale.\n• Are proficient in backend development (Python preferred).\n• Build the next generation of enterprise authentication and authorization infrastructure, including SAML, OIDC, and OAuth2.\n• Design and implement support for key enterprise standards: SSO, SCIM provisioning, RBAC, and delegated access.\n• Evolve our identity data model and architecture to support complex customer org structures.\n• Develop tools and APIs for other engineering teams to integrate enterprise identity seamlessly.\n• Are fluent in identity protocols (OAuth2.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162634737-software-engineer-enterprise-identity",
-    "id": "ai-jobs-software-engineer-enterprise-identity-san-francisco"
+    "job_posted_at": "5h",
+    "job_description": "• Build tooling or infrastructure to accelerate the teams you work onDig into issues across the stack, even if it goes outside your team’s remitCollaborate with others to help find the solutions people didn’t know they neededMake clever tradeoffs to unblock exploration while maintaining sanityDo what it takes to unblock research progress Love figuring out how to make systems work better for peopleHave strong software engineering skills and are proficient in Python.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162634735-infrastructure-generalist",
+    "id": "ai-jobs-infrastructure-generalist-san-francisco"
   }
 ]
