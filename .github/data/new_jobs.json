@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Product Manufacturing Engineer",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "2h",
-    "job_description": "• This includes the PCB, PCBA, cabling and connectorization & L10 assembly spanning internal and external development work through successful deployment into the infrastructure and support of production workloads at scaleDevelop and manage overall product manufacturing requirements, scope, schedules, and deliverables with engineering teams, TPMs, suppliers, partners and key stakeholdersCommunicate effectively with cross-functional teams to ensure successful execution of programsUtilize problem-solving skills to resolve issues and overcome obstacles, perform risk assessment, risk mitigation and change management on projects.\n• Manage multiple projects simultaneouslyMonitor project progress and ensure deadlines and standards are met Have an impressive track record of leading complex projects from concept to production launch and have the ability to work with cross-functional teams to ensure successful execution of programsAre a creative, detail-oriented, and self-motivated individual looking for an exciting opportunity in the tech industry, this could be the perfect role for youStay up to date on industry trends and manufacturing technologies for PCB & PCBaLike being a close partner with cross-functional teams to understand key design changes requiring validation to accurately integrate engineering validation needs into the overall system buildHave experience driving development timelines for new platform introduction and managing internal review processesHave significant experience driving creativity, quality, and schedule at multinational JDM/CMs & suppliersAre deeply familiar with PCB material selection, PCBA, BOM component selection, assembly and rework processes, with all relevant equipmentKnow the nightmare that is testing ultra-high speed signalsAre excited by capturing, analyzing, and presenting manufacturing test dataAre keen on corrective actionsAre comfortable with ambiguity and rapidly changing conditions.\n• In this role, you’ll be responsible for driving manufacturing and quality initiatives to ensure product success from concept to launchLead the product design and the manufacturing process for next-gen AI hardware system development, you will have the opportunity to work with a wide range of stakeholders, from design engineering and operations teams, TPMs and external industry vendors and partners to ensure that all products are developed and delivered on time and to the highest quality standards.\n• Lead the team to establish NPI product manufacturing process, systems and quality controls, defining clear milestones and deliverables, drive internal process improvements across multiple terms and functionsProvide hands-on product manufacturing analysis during design, development, testing, prototypes and production phases.\n• Research automation techniques and develop new tests and systems for efficiency.\n• Own L6 up to potentially L10 product manufacturing development of the hardware product.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162810458-product-manufacturing-engineer",
-    "id": "ai-jobs-product-manufacturing-engineer-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Security Engineer, Agent Security",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "2h",
-    "job_description": "• Strong software-engineering skills in Python or at least one systems language (Go, Rust, C/C++), plus a track record of shipping and operating secure, high-reliability services.\n• Deep expertise in modern isolation techniques – experience with container security, kernel-level hardening, and other isolation methods.\n• Hands-on network security experience – implementing identity-based controls, policy enforcement, and secure large-scale telemetry pipelines.\n• Familiarity with AI/ML security challenges – experience addressing risks associated with advanced AI systems (nice-to-have but valuable).\n• Clear, concise communication that bridges engineering, research, and leadership audiences.\n• Comfort influencing roadmaps and driving consensus.\n• Bias for action & ownership – you thrive in ambiguity, move quickly without sacrificing rigor, and elevate the security bar company-wide from day one.\n• Cloud security depth on at least one major provider (Azure, AWS, GCP), including identity federation, workload IAM, and infrastructure-as-code best practices.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162810456-security-engineer-agent-security",
-    "id": "ai-jobs-security-engineer-agent-security-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "GTM Systems Engineer, Integrations",
-    "job_city": "",
+    "employer_name": "General Dynamics",
+    "job_title": "NCIS Network Engineer | TS/SCI clearance",
+    "job_city": "USA VA Quantico",
     "job_state": "US",
-    "job_posted_at": "2h",
-    "job_description": "• Collaborate cross-functionally to gather requirements, refine solutions, and deliver high-quality technical outcomes.\n• Experience with API-based integrations, automation platforms, and enterprise system workflows.\n• Strong troubleshooting skills and attention to detail in diagnosing and fixing integration issuesWorking knowledge of data governance and security practices.\n• Design, build, and maintain integrations between GTM platforms, including Salesforce, data warehouses, Retool and other enterprise tools.\n• Implement automation and data transformation workflows to improve efficiency and reduce manual work.\n• Troubleshoot and resolve integration issues quickly, ensuring minimal disruption to GTM operations.\n• Ensure integrations follow best practices for security, scalability, and maintainability.\n• Proven ability to deliver technical projects in a fast-paced environment.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162810470-gtm-systems-engineer-integrations",
-    "id": "ai-jobs-gtm-systems-engineer-integrations-"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "GTM Systems Engineer, Integrations",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "2h",
-    "job_description": "• Collaborate cross-functionally to gather requirements, refine solutions, and deliver high-quality technical outcomes.\n• Experience with API-based integrations, automation platforms, and enterprise system workflows.\n• Strong troubleshooting skills and attention to detail in diagnosing and fixing integration issuesWorking knowledge of data governance and security practices.\n• Design, build, and maintain integrations between GTM platforms, including Salesforce, data warehouses, Retool and other enterprise tools.\n• Implement automation and data transformation workflows to improve efficiency and reduce manual work.\n• Troubleshoot and resolve integration issues quickly, ensuring minimal disruption to GTM operations.\n• Ensure integrations follow best practices for security, scalability, and maintainability.\n• Proven ability to deliver technical projects in a fast-paced environment.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162810469-gtm-systems-engineer-integrations",
-    "id": "ai-jobs-gtm-systems-engineer-integrations-san-francisco"
+    "job_posted_at": "Posted Today",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Quantico/NCIS-Network-Engineer---TS-SCI-clearance_RQ207336-1?q=hardware+engineering",
+    "id": "general-dynamics-ncis-network-engineer-ts-sci-clearance-usa-va-quantico"
   }
 ]
