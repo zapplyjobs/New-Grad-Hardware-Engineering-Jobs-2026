@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Hardware Engineering Intern, PhD, Summer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Hardware Engineering Intern, PhD, Summer 2026",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/85023749010531014-hardware-engineering-intern-phd-summer-2026?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1",
+    "id": "google-hardware-engineering-intern-phd-summer-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Silicon Engineering Intern, BS/MS, Summer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Silicon Engineering Intern, BS/MS, Summer 2026",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/125635860249879238-silicon-engineering-intern-bsms-summer-2026?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2",
+    "id": "google-silicon-engineering-intern-bs-ms-summer-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Silicon Engineering Intern, PhD, Summer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Silicon Engineering Intern, PhD, Summer 2026",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/119346653739000518-silicon-engineering-intern-phd-summer-2026?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2",
+    "id": "google-silicon-engineering-intern-phd-summer-sunnyvale"
+  }
+]
