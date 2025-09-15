@@ -1,42 +1,22 @@
 [
   {
     "employer_name": "BAE Systems",
-    "job_title": "Systems Administrator, Mid",
-    "job_city": "San Diego",
-    "job_state": "CA",
+    "job_title": "Network Engineer, Mid",
+    "job_city": "Warner Robins",
+    "job_state": "GA",
     "job_posted_at": "Posted Today",
-    "job_description": "• Manufacturing Quality Assurance SpecialistlocationsFayetteville, NCposted onPosted 30+ Days AgoR0223769 Cloud Information Assurance SpecialistlocationsLexington, MAposted onPosted 30+ Days AgoR0223778 Acoustic Intelligence Analyst, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0223620 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221833 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221835 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 10 Days AgoR0225718 Integrated Project Team LeadlocationsHuntsville, ALposted onPosted 21 Days AgoR0221283 Computer Vision ExpertlocationsBethesda, MDposted onPosted 11 Days AgoR0225632 Cybersecurity Specialistlocations2 Locationsposted onPosted 6 Days AgoR0225879.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Systems-Administrator--Mid_R0226210?q=hardware+engineering",
-    "id": "bae-systems-systems-administrator-mid-san-diego"
+    "job_description": "• Network Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0221945 Network Engineer, SeniorlocationsWarner Robins, GAposted onPosted 30+ Days AgoR0221294 Red Team Operator, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0221485 Network Engineer, SeniorlocationsSan Diego, CAposted onPosted 30+ Days AgoR0224167 Robotics Engineer, SeniorlocationsLorton, VAposted onPosted 25 Days AgoR0224473 Network Engineer, SeniorlocationsTampa, FLposted onPosted 20 Days AgoR0222576.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Network-Engineer--Mid_R0226115?q=hardware+engineering",
+    "id": "bae-systems-network-engineer-mid-warner-robins"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Hardware Engineering Intern, BS/MS, Summer",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "AMD",
+    "job_title": "Systems Design Engineer - AI",
+    "job_city": "US",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Hardware Engineering Intern, BS/MS, Summer 2026",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/137564393180144326-hardware-engineering-intern-bsms-summer-2026?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1",
-    "id": "google-hardware-engineering-intern-bs-ms-summer-mountain-view"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Technical Support Engineer, Grocery Robotics & Automation",
-    "job_city": "Virtual",
-    "job_state": "USA",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Technical Support Engineer, Grocery Robotics & Automation",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3083159/technical-support-engineer-grocery-robotics-automation",
-    "id": "amazon-technical-support-engineer-grocery-robotics-automation-virtual"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Supply Planning Mgr, AWS Supply Chain - IPS",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Supply Planning Mgr, AWS Supply Chain - IPS",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3083097/supply-planning-mgr-aws-supply-chain-ips",
-    "id": "amazon-supply-planning-mgr-aws-supply-chain-ips-herndon"
+    "job_description": "• Experience in hardware lab tools, digital oscilloscopes, and other common lab equipment is required.\n• Direct experience with hardware design of data center GPU system and understanding of AI Data Center Rack architecture and building blocks.\n• Experience debugging high-speed serial interfaces, PCI Express, XGMI, and LPDDR.\n• Solid experience in high-speed design techniques, high-speed PHY architecture, TX equalization, and RX signal processing and high-speed metrics measurement (V-Eye, H-Eye)Experience with the design and development of RTL for FPGA-based sub-systems and test and verification cases for FPGA configuration design systems, Experience with Agile for BOM and material management (you are likely to have someone helping you here).\n• Several years of experience in hardware design is required.\n• AMD Partner Hub Authorized Distributors AMD University Program Bachelors or Masters degree in Electrical or Computer Engineering Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Work with cross-functional engineering teams to deliver Data Center GPU hardware for systems and accelerator cards.\n• Work with the silicon architecture team on the definition of system architecture, creating technical product specs, driving the design efforts, and working with the program management team to define schedules and project milestones.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/66737/login",
+    "id": "amd-systems-design-engineer-ai-us"
   }
 ]
