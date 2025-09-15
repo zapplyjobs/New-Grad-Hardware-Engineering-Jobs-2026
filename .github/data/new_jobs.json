@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Research Engineer / Scientist, Interpretability",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "41min",
+    "job_description": "• Bring experience in the field of AI safety, mechanistic interpretability, or spiritually related disciplines.\n• Or have research experience in computer science, machine learning, or a related field.\n• Possess 2+ years of research engineering experience and proficiency in Python or similar languages.\n• Are excited about OpenAI’s mission of ensuring AGI benefits all of humanity, and are aligned with OpenAI’s charter.\n• Show enthusiasm for long-term AI safety, and have thought deeply about technical paths to safe AGI.\n• Thrive in environments involving large-scale AI systems, and are excited to make use of OpenAI’s unique resources in this area.\n• Develop and publish research on techniques for understanding representations of deep networks.\n• Engineer infrastructure for studying model internals at scale.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162939481-research-engineer-scientist-interpretability",
+    "id": "ai-jobs-research-engineer-scientist-interpretability-san-francisco"
+  }
+]
