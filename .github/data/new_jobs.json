@@ -1,32 +1,42 @@
 [
   {
-    "employer_name": "Intel",
-    "job_title": "Emulation Engineer",
-    "job_city": "US",
-    "job_state": "Texas",
+    "employer_name": "BAE Systems",
+    "job_title": "Systems Administrator, Mid",
+    "job_city": "San Diego",
+    "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "• Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 25 Days AgoJR0276774Silicon Hardware Engineering - Intern, Bachelorslocations5 Locationsposted onPosted 25 Days AgoJR0276780Platform Hardware and Systems Engineering - Intern, Graduatelocations5 Locationsposted onPosted 25 Days AgoJR0276770Platform Hardware and Systems Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 25 Days AgoJR0276776Signal Integrity Engineer - Foundry ServiceslocationsUS, Arizona, Phoenixposted onPosted 3 Days AgoJR0276574Power Integrity Engineer - Foundry ServiceslocationsUS, Arizona, Phoenixposted onPosted 3 Days AgoJR0276571Senior Foundry Applications Engineer (Packaging Design)locationsUS, Arizona, Phoenixposted onPosted 13 Days AgoJR0275754Electrical Lab EngineerlocationsUS, Arizona, Phoenixposted onPosted 3 Days AgoJR0277063Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 25 Days AgoJR0276778Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 25 Days AgoJR0276773Director, Product Management Silicon Photonicslocations4 Locationsposted onPosted 30+ Days AgoJR0276253Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 25 Days AgoJR0276771Emulation EngineerlocationsUS, Texas, Austinposted onPosted TodayJR0276365Senior Firmware EngineerlocationsUS, Texas, Austinposted onPosted 21 Days AgoJR0276584GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 30+ Days AgoJR0276205Sr.\n• Power Management Validation Engineerlocations4 Locationsposted onPosted 7 Days AgoJR0277101Network Security Engineer (DevSecOps)locations2 Locationsposted onPosted 30+ Days AgoJR0275922Identity Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276330Triton Compiler Engineerlocations3 Locationsposted onPosted 5 Days AgoJR0277157Identity Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276329.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Emulation-Engineer_JR0276365?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-emulation-engineer-us"
+    "job_description": "• Manufacturing Quality Assurance SpecialistlocationsFayetteville, NCposted onPosted 30+ Days AgoR0223769 Cloud Information Assurance SpecialistlocationsLexington, MAposted onPosted 30+ Days AgoR0223778 Acoustic Intelligence Analyst, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0223620 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221833 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221835 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 10 Days AgoR0225718 Integrated Project Team LeadlocationsHuntsville, ALposted onPosted 21 Days AgoR0221283 Computer Vision ExpertlocationsBethesda, MDposted onPosted 11 Days AgoR0225632 Cybersecurity Specialistlocations2 Locationsposted onPosted 6 Days AgoR0225879.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Systems-Administrator--Mid_R0226210?q=hardware+engineering",
+    "id": "bae-systems-systems-administrator-mid-san-diego"
   },
   {
     "employer_name": "Google",
-    "job_title": "FPGA Engineer, Platforms, Hardware",
-    "job_city": "Sunnyvale",
+    "job_title": "Hardware Engineering Intern, BS/MS, Summer",
+    "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role FPGA Engineer, Platforms, Hardware",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/134204079487230662-fpga-engineer-platforms-hardware?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1",
-    "id": "google-fpga-engineer-platforms-hardware-sunnyvale"
+    "job_description": "hardware engineering job for the role Hardware Engineering Intern, BS/MS, Summer 2026",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/137564393180144326-hardware-engineering-intern-bsms-summer-2026?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1",
+    "id": "google-hardware-engineering-intern-bs-ms-summer-mountain-view"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Full Stack, Google Workspace",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Full Stack, Google Workspace",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/126710299469193926-software-engineer-iii-full-stack-google-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=8",
-    "id": "google-software-engineer-iii-full-stack-google-workspace-new-york"
+    "employer_name": "Amazon",
+    "job_title": "Technical Support Engineer, Grocery Robotics & Automation",
+    "job_city": "Virtual",
+    "job_state": "USA",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Technical Support Engineer, Grocery Robotics & Automation",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3083159/technical-support-engineer-grocery-robotics-automation",
+    "id": "amazon-technical-support-engineer-grocery-robotics-automation-virtual"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Supply Planning Mgr, AWS Supply Chain - IPS",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Supply Planning Mgr, AWS Supply Chain - IPS",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3083097/supply-planning-mgr-aws-supply-chain-ips",
+    "id": "amazon-supply-planning-mgr-aws-supply-chain-ips-herndon"
   }
 ]
