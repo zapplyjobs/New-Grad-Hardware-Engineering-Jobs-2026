@@ -1,72 +1,32 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Intern – Process Engineer ID1",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "a day",
-    "job_description": "• Applies SPC, FDC, and 8D methodology to process optimization, testing, creating, and modifying process related procedures, and disposition of lots to increase the tool availability and turns through systematic problem solving Bachelor’s or Master’s degree in Chemical Engineering, Electrical Engineering, Material Science, or Physics.\n• However, other engineering or related fields may be considered Proficient in one or more scripting, programming and visualization tools: Python, Java, Tableau, Matlab, Microsoft Suite Completes all required safety training and conducts all work in accordance with safety policies and regulations Analyzes data using various application and engineering knowledge to make critical process decisions Hands-on experience in the field of data analytics, preferably with experience querying databases Leads in expertise of executing area operations to ensure throughput needs are accomplished Experience or knowledge of data collection, warehousing systems, and data cleansing In-depth understanding and working knowledge of SPC and Design of Experiments Strong time management, organization, prioritization and communication skills.",
-    "job_apply_link": "https://careers.micron.com/careers/job/30944879",
-    "id": "micron-technology-intern-process-engineer-id1-boise"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "Test Solutions Engineer Intern - Bachelors Degree",
-    "job_city": "Burlington",
-    "job_state": "VT",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Test Solutions Engineer Intern - Bachelors DegreelocationsBurlington, VTposted onPosted Today2502684Layout Engineer Intern - Bachelor's DegreelocationsBoise, IDposted onPosted Today2502362Electrical Engineer for Hardware Design & Validation Intern - Bachelors DegreelocationsSanta Clara, CAposted onPosted Today2502727Computer Engineer for Validation Intern - Bachelors DegreelocationsSanta Clara, CAposted onPosted Today2502726Foundry Technology - NPI & Yield Intern - Masters DegreelocationsSanta Clara, CAposted onPosted Today2502722Advanced Packaging SI/PI Engineer InternlocationsBurlington, VTposted onPosted Today2502685Senior Staff Test EngineerlocationsSanta Clara, CAposted onPosted Today2500517Senior Staff Hardware Engineer - OpticallocationsUS - CA - Santa Clara - Marvell Parkposted onPosted Today2501305Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted 3 Days Ago2501515Senior Principal Engineer, Product SecuritylocationsSanta Clara, CAposted onPosted 3 Days Ago2502105Test Hardware EngineerlocationsSanta Clara, CAposted onPosted 4 Days Ago2502222Memory Circuit Design Intern - Bachelor's DegreelocationsBurlington, VTposted onPosted 4 Days Ago2502408Physical Design Engineer Intern - Master's DegreelocationsBoise, IDposted onPosted 5 Days Ago2502385Test Engineer Intern - Master's DegreelocationsWestlake Village, CAposted onPosted 5 Days Ago2502283Principal Application EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2502096Hardware Design Engineer Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502451Hardware Design Engineer Intern - Master's DegreelocationsIrvine, CAposted onPosted 5 Days Ago2502449Software Design Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502392Application Engineer Intern - Master's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502391Application Engineering Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502255.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineer-Intern---Bachelors-Degree_2502684?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-test-solutions-engineer-intern-bachelors-degree-burlington"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "Layout Engineer Intern - Bachelor's Degree",
-    "job_city": "Boise",
-    "job_state": "ID",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Test Solutions Engineer Intern - Bachelors DegreelocationsBurlington, VTposted onPosted Today2502684Layout Engineer Intern - Bachelor's DegreelocationsBoise, IDposted onPosted Today2502362Electrical Engineer for Hardware Design & Validation Intern - Bachelors DegreelocationsSanta Clara, CAposted onPosted Today2502727Computer Engineer for Validation Intern - Bachelors DegreelocationsSanta Clara, CAposted onPosted Today2502726Foundry Technology - NPI & Yield Intern - Masters DegreelocationsSanta Clara, CAposted onPosted Today2502722Advanced Packaging SI/PI Engineer InternlocationsBurlington, VTposted onPosted Today2502685Senior Staff Test EngineerlocationsSanta Clara, CAposted onPosted Today2500517Senior Staff Hardware Engineer - OpticallocationsUS - CA - Santa Clara - Marvell Parkposted onPosted Today2501305Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted 3 Days Ago2501515Senior Principal Engineer, Product SecuritylocationsSanta Clara, CAposted onPosted 3 Days Ago2502105Test Hardware EngineerlocationsSanta Clara, CAposted onPosted 4 Days Ago2502222Memory Circuit Design Intern - Bachelor's DegreelocationsBurlington, VTposted onPosted 4 Days Ago2502408Physical Design Engineer Intern - Master's DegreelocationsBoise, IDposted onPosted 5 Days Ago2502385Test Engineer Intern - Master's DegreelocationsWestlake Village, CAposted onPosted 5 Days Ago2502283Principal Application EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2502096Hardware Design Engineer Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502451Hardware Design Engineer Intern - Master's DegreelocationsIrvine, CAposted onPosted 5 Days Ago2502449Software Design Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502392Application Engineer Intern - Master's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502391Application Engineering Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502255.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Boise-ID/Layout-Engineer-Intern---Bachelor-s-Degree_2502362-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-layout-engineer-intern-bachelor-s-degree-boise"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "Electrical Engineer for Hardware Design & Validation Intern - Bachelors Degree",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Test Solutions Engineer Intern - Bachelors DegreelocationsBurlington, VTposted onPosted Today2502684Layout Engineer Intern - Bachelor's DegreelocationsBoise, IDposted onPosted Today2502362Electrical Engineer for Hardware Design & Validation Intern - Bachelors DegreelocationsSanta Clara, CAposted onPosted Today2502727Computer Engineer for Validation Intern - Bachelors DegreelocationsSanta Clara, CAposted onPosted Today2502726Foundry Technology - NPI & Yield Intern - Masters DegreelocationsSanta Clara, CAposted onPosted Today2502722Advanced Packaging SI/PI Engineer InternlocationsBurlington, VTposted onPosted Today2502685Senior Staff Test EngineerlocationsSanta Clara, CAposted onPosted Today2500517Senior Staff Hardware Engineer - OpticallocationsUS - CA - Santa Clara - Marvell Parkposted onPosted Today2501305Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted 3 Days Ago2501515Senior Principal Engineer, Product SecuritylocationsSanta Clara, CAposted onPosted 3 Days Ago2502105Test Hardware EngineerlocationsSanta Clara, CAposted onPosted 4 Days Ago2502222Memory Circuit Design Intern - Bachelor's DegreelocationsBurlington, VTposted onPosted 4 Days Ago2502408Physical Design Engineer Intern - Master's DegreelocationsBoise, IDposted onPosted 5 Days Ago2502385Test Engineer Intern - Master's DegreelocationsWestlake Village, CAposted onPosted 5 Days Ago2502283Principal Application EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2502096Hardware Design Engineer Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502451Hardware Design Engineer Intern - Master's DegreelocationsIrvine, CAposted onPosted 5 Days Ago2502449Software Design Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502392Application Engineer Intern - Master's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502391Application Engineering Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502255.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Electrical-Engineer-for-Hardware-Design---Validation-Intern---Bachelors-Degree_2502727-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-electrical-engineer-for-hardware-design-validation-intern-bachelors-degree-santa-clara"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "Computer Engineer for Validation Intern - Bachelors Degree",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Test Solutions Engineer Intern - Bachelors DegreelocationsBurlington, VTposted onPosted Today2502684Layout Engineer Intern - Bachelor's DegreelocationsBoise, IDposted onPosted Today2502362Electrical Engineer for Hardware Design & Validation Intern - Bachelors DegreelocationsSanta Clara, CAposted onPosted Today2502727Computer Engineer for Validation Intern - Bachelors DegreelocationsSanta Clara, CAposted onPosted Today2502726Foundry Technology - NPI & Yield Intern - Masters DegreelocationsSanta Clara, CAposted onPosted Today2502722Advanced Packaging SI/PI Engineer InternlocationsBurlington, VTposted onPosted Today2502685Senior Staff Test EngineerlocationsSanta Clara, CAposted onPosted Today2500517Senior Staff Hardware Engineer - OpticallocationsUS - CA - Santa Clara - Marvell Parkposted onPosted Today2501305Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted 3 Days Ago2501515Senior Principal Engineer, Product SecuritylocationsSanta Clara, CAposted onPosted 3 Days Ago2502105Test Hardware EngineerlocationsSanta Clara, CAposted onPosted 4 Days Ago2502222Memory Circuit Design Intern - Bachelor's DegreelocationsBurlington, VTposted onPosted 4 Days Ago2502408Physical Design Engineer Intern - Master's DegreelocationsBoise, IDposted onPosted 5 Days Ago2502385Test Engineer Intern - Master's DegreelocationsWestlake Village, CAposted onPosted 5 Days Ago2502283Principal Application EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2502096Hardware Design Engineer Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502451Hardware Design Engineer Intern - Master's DegreelocationsIrvine, CAposted onPosted 5 Days Ago2502449Software Design Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502392Application Engineer Intern - Master's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502391Application Engineering Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502255.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Computer-Engineer-for-Validation-Intern---Bachelors-Degree_2502726-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-computer-engineer-for-validation-intern-bachelors-degree-santa-clara"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "SERDES Firmware Engineer",
-    "job_city": "US",
-    "job_state": "CA",
+    "employer_name": "IBM",
+    "job_title": "Sales Development Representative - Apptio",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "• Interface with hardware teams to define control and monitoring requirements.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• 3Prior years of experience combined with technical education within the semiconductor industry Expert level experience producing quality firmware Bachelor’s or master’s degree in computer science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• Design, develop, and debug embedded firmware for controlling silicon photonic components (e.\n• , modulators, photodetectors, heaters, and tunable filters).\n• Implement algorithms for calibration, feedback control loops (e.\n• , thermal tuning), and signal optimization.\n• Integrate firmware with test and measurement systems for validation and production.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/71238/login",
-    "id": "amd-serdes-firmware-engineer-us"
+    "job_description": "hardware engineering job for the role Sales Development Representative - Apptio",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46363&source=WEB_Search_NA",
+    "id": "ibm-sales-development-representative-apptio-research-triangle-park"
   },
   {
-    "employer_name": "Synopsys",
-    "job_title": "Technical Marketing Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "California",
-    "job_posted_at": "5 days",
-    "job_description": "• Career Areas Software Engineering Applications Engineering ASIC Digital Design ASIC Physical Design Analog Design Engineering R&D Engineering Sales Account Management Locations (Opens in new window) Students (Opens in new window) Life at Synopsys (Opens in new window) Benefits (Opens in new window) EN Saved Jobs.",
-    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/sunnyvale/technical-marketing-engineer/44408/77296858880",
-    "id": "synopsys-technical-marketing-engineer-sunnyvale"
+    "employer_name": "BAE Systems",
+    "job_title": "Systems Administrator",
+    "job_city": "Warner Robins",
+    "job_state": "GA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Manufacturing Quality Assurance SpecialistlocationsFayetteville, NCposted onPosted 30+ Days AgoR0223769 Cloud Information Assurance SpecialistlocationsLexington, MAposted onPosted 30+ Days AgoR0223778 Acoustic Intelligence Analyst, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0223620 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221833 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 10 Days AgoR0225718 Integrated Project Team LeadlocationsHuntsville, ALposted onPosted 21 Days AgoR0221283 Software Integrator, SeniorlocationsBelcamp, MDposted onPosted 20 Days AgoR0224959 Computer Vision ExpertlocationsBethesda, MDposted onPosted 11 Days AgoR0225632 Cybersecurity Specialistlocations2 Locationsposted onPosted 6 Days AgoR0225879.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Systems-Administrator_R0226136-1?q=hardware+engineering",
+    "id": "bae-systems-systems-administrator-warner-robins"
+  },
+  {
+    "employer_name": "Meta",
+    "job_title": "Research Scientist Intern, Textile Actuators for Soft Robotics (PhD)",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Research Scientist Intern, Textile Actuators for Soft Robotics (PhD)",
+    "job_apply_link": "https://www.metacareers.com",
+    "id": "meta-research-scientist-intern-textile-actuators-for-soft-robotics-phd-redmond"
   }
 ]
