@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Sales Development Representative - Apptio",
-    "job_city": "RESEARCH TRIANGLE PARK",
-    "job_state": "US",
+    "employer_name": "RIVIAN",
+    "job_title": "ML Compiler Engineer",
+    "job_city": "Palo Alto",
+    "job_state": "California US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Sales Development Representative - Apptio",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46363&source=WEB_Search_NA",
-    "id": "ibm-sales-development-representative-apptio-research-triangle-park"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Systems Administrator",
-    "job_city": "Warner Robins",
-    "job_state": "GA",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Manufacturing Quality Assurance SpecialistlocationsFayetteville, NCposted onPosted 30+ Days AgoR0223769 Cloud Information Assurance SpecialistlocationsLexington, MAposted onPosted 30+ Days AgoR0223778 Acoustic Intelligence Analyst, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0223620 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221833 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 10 Days AgoR0225718 Integrated Project Team LeadlocationsHuntsville, ALposted onPosted 21 Days AgoR0221283 Software Integrator, SeniorlocationsBelcamp, MDposted onPosted 20 Days AgoR0224959 Computer Vision ExpertlocationsBethesda, MDposted onPosted 11 Days AgoR0225632 Cybersecurity Specialistlocations2 Locationsposted onPosted 6 Days AgoR0225879.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Systems-Administrator_R0226136-1?q=hardware+engineering",
-    "id": "bae-systems-systems-administrator-warner-robins"
-  },
-  {
-    "employer_name": "Meta",
-    "job_title": "Research Scientist Intern, Textile Actuators for Soft Robotics (PhD)",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Research Scientist Intern, Textile Actuators for Soft Robotics (PhD)",
-    "job_apply_link": "https://www.metacareers.com",
-    "id": "meta-research-scientist-intern-textile-actuators-for-soft-robotics-phd-redmond"
+    "job_description": "• Partner with perception, systems, and autonomy teams to align model optimization efforts with hardware roadmap and real-world autonomy requirements.\n• Hands-on experience with quantized model deployment, ML compilation stacks, and code generation for embedded or heterogeneous compute systems.\n• Prior experience working with hardware-software co-design, especially for autonomous or robotics platforms.\n• Solid programming skills in C++, Python Lead the development of optimizations for mapping quantized perception models (e.\n• Deep knowledge of numerical precision trade-offs, quantization-aware training (QAT), and dynamic/static quantization flows.\n• Familiarity with embedded real-time constraints and hardware profiling/debugging tools.\n• Familiarity with rearchitecting models to best suit hardware capabilities.\n• , CNNs, Transformers, LLMs) to embedded and heterogeneous hardware platforms.",
+    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/26319/login",
+    "id": "rivian-ml-compiler-engineer-palo-alto"
   }
 ]
