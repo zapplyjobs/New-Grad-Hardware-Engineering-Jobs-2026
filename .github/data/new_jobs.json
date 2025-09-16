@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "RIVIAN",
-    "job_title": "ML Compiler Engineer",
-    "job_city": "Palo Alto",
-    "job_state": "California US",
-    "job_posted_at": "Recently",
-    "job_description": "• Partner with perception, systems, and autonomy teams to align model optimization efforts with hardware roadmap and real-world autonomy requirements.\n• Hands-on experience with quantized model deployment, ML compilation stacks, and code generation for embedded or heterogeneous compute systems.\n• Prior experience working with hardware-software co-design, especially for autonomous or robotics platforms.\n• Solid programming skills in C++, Python Lead the development of optimizations for mapping quantized perception models (e.\n• Deep knowledge of numerical precision trade-offs, quantization-aware training (QAT), and dynamic/static quantization flows.\n• Familiarity with embedded real-time constraints and hardware profiling/debugging tools.\n• Familiarity with rearchitecting models to best suit hardware capabilities.\n• , CNNs, Transformers, LLMs) to embedded and heterogeneous hardware platforms.",
-    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/26319/login",
-    "id": "rivian-ml-compiler-engineer-palo-alto"
+    "employer_name": "Micron Technology",
+    "job_title": "Process Mechanical Design Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "a month",
+    "job_description": "• Review and validate third-party design work, such as piping and instrumentation diagrams (P&IDs), equipment specifications, and system layouts, ensuring compliance with project requirements and standards (e.\n• Work together with external design teams, contractors, vendors, and internal collaborators to align process mechanical system designs with facility requirements and project timelines.\n• Bachelor’s degree in mechanical engineering, chemical engineering, or a related field or equivalent experience.\n• Experience coordinating third-party designs for semiconductor, pharmaceutical, or data center facilities with stringent process mechanical system requirements.\n• Perform quality assurance and risk assessments on third-party designs, identifying and resolving issues related to constructability, efficiency, or compliance with industry standards and regulations.\n• Strong knowledge of process mechanical system design, including process piping, HVAC systems, and equipment for industrial applications in high-tech or manufacturing facilities.\n• Advanced certifications (e.\n• , PE, LEED AP, CMfgE) are a plus.",
+    "job_apply_link": "https://careers.micron.com/careers/job/30765217",
+    "id": "micron-technology-process-mechanical-design-engineer-boise"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Computer Vision Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "7h",
+    "job_description": "• Demonstrated experience with a modern deep learning framework such as PyTorch or TensorFlow.\n• Excellent communication skills and a proven ability to work effectively in a collaborative, fast-paced R&D environment.\n• In Computer Science, Electrical Engineering, or a related field with 3+ years of relevant experience, or an M.\n• With equivalent project experience.\n• Work in close partnership with hardware/software engineers to define requirements, develop solutions, and integrate them into our broader systems.\n• Prior experience with body-part segmentation, keypoint detection, and 3D pose reconstruction.\n• Prior project experience in biomedical engineering, physiology, or medical device development.\n• Deep expertise in deep learning for computer vision, specifically in human pose estimation and tracking.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163135306-computer-vision-engineer",
+    "id": "ai-jobs-computer-vision-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Computer Vision Engineer",
+    "job_city": "San Francisco Bay Area",
+    "job_state": "US",
+    "job_posted_at": "20min",
+    "job_description": "• Experience optimizing model inference for real-time inference on limited resourcesStrong software engineering skills.\n• Knowledge of best practices, testing, and deploymentExperience deploying models to NVIDIA Jetson boards or similar resource constrained environmentsExperience with Docker and cloud SW development (i.\n• Knowledge of SQL BS/MS in relevant technical degree3+ years of experience with building computer vision software Strong coding ability.\n• Strong grasp of PythonExperience with stereo vision, 3D reconstruction, and stereo calibrationExperience with training neural networks / deep learning (ideally pytorch).\n• AWS)Basic database interaction.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163135307-computer-vision-engineer",
+    "id": "ai-jobs-computer-vision-engineer-san-francisco-bay-area"
   }
 ]
