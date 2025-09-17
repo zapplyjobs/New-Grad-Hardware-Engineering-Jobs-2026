@@ -1,52 +1,122 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Intern - Process Development",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "21 hours",
-    "job_description": "• Or equivalent degree in Electrical Engineering, Mechanical Engineering, Materials Science, Chemical Engineering, Chemistry, Physics, or other related technical fields.\n• Develop processes that fulfill the physical and electrical requirements of Micron’s products.\n• Exemplary analytical skills and a creative approach to problem-solving.\n• Must be a current student, must not graduate before September 2026.\n• Demonstrated experience in experimental design and data analysis.\n• Programming or scripting experience.\n• Prior understanding of all semiconductor processing and some specialized expertise in at least one processing technique.\n• Strong ability to work autonomously, remaining focused on deliverables with minimal supervision.",
-    "job_apply_link": "https://careers.micron.com/careers/job/30947665",
-    "id": "micron-technology-intern-process-development-boise"
+    "employer_name": "Infineon Technologies",
+    "job_title": "Internship - Modeling Engineer - Summer",
+    "job_city": "Lexington",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Internship - Modeling Engineer - Summer 2026",
+    "job_apply_link": "https://jobs.infineon.com/careers",
+    "id": "infineon-technologies-internship-modeling-engineer-summer-lexington"
+  },
+  {
+    "employer_name": "Infineon Technologies",
+    "job_title": "Internship - Modeling Engineer - Spring",
+    "job_city": "Lexington",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Internship - Modeling Engineer - Spring 2026",
+    "job_apply_link": "https://jobs.infineon.com/careers",
+    "id": "infineon-technologies-internship-modeling-engineer-spring-lexington"
   },
   {
     "employer_name": "Siemens",
-    "job_title": "Protection & Automation Electrical Engineering Summer - Fall 2026 Internship",
+    "job_title": "Power Protection & Automation Engineering Development Program (June 2026 Cohort)",
     "job_city": "Wendell",
     "job_state": "North Carolina",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Protection & Automation Electrical Engineering Summer - Fall 2026 Internship",
+    "job_description": "hardware engineering job for the role Power Protection & Automation Engineering Development Program (June 2026 Cohort)",
     "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-protection-automation-electrical-engineering-summer-fall-2026-internship-wendell"
+    "id": "siemens-power-protection-automation-engineering-development-program-june-2026-cohort-wendell"
   },
   {
     "employer_name": "Siemens",
-    "job_title": "Electro Assembler",
-    "job_city": "Fort Worth",
-    "job_state": "Texas",
+    "job_title": "Power Protection & Automation Engineering Development Program (January 2026 Cohort)",
+    "job_city": "Wendell",
+    "job_state": "North Carolina",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Electro Assembler",
+    "job_description": "hardware engineering job for the role Power Protection & Automation Engineering Development Program (January 2026 Cohort)",
     "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-electro-assembler-fort-worth"
+    "id": "siemens-power-protection-automation-engineering-development-program-january-2026-cohort-wendell"
   },
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Cyber Security Engineer",
-    "job_city": "USA VA Springfield",
-    "job_state": "US",
+    "employer_name": "Siemens",
+    "job_title": "Security Systems Technician",
+    "job_city": "Memphis",
+    "job_state": "Tennessee",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Security Systems Technician",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-security-systems-technician-memphis"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Mechanical Engineer",
+    "job_city": "Huntsville",
+    "job_state": "AL",
     "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Cyber-Security-Engineer_RQ207407-1?q=hardware+engineering",
-    "id": "general-dynamics-cyber-security-engineer-usa-va-springfield"
+    "job_description": "• Weapon Systems Solutions Engineer, LeadlocationsFort Walton Beach, FLposted onPosted 7 Days AgoR0224184 Network Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0221945 Network Engineer, SeniorlocationsWarner Robins, GAposted onPosted 30+ Days AgoR0221294 Red Team Operator, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0221485 Robotics Engineer, SeniorlocationsLorton, VAposted onPosted 26 Days AgoR0224473 Network Engineer, SeniorlocationsTampa, FLposted onPosted 21 Days AgoR0222576.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Mechanical-Engineer_R0225022?q=hardware+engineering",
+    "id": "bae-systems-mechanical-engineer-huntsville"
   },
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Systems Administrator/Integrator",
+    "employer_name": "Intel",
+    "job_title": "AI Compiler Engineer",
     "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Systems-Administrator-Integrator_RQ207397-1?q=hardware+engineering",
-    "id": "general-dynamics-systems-administrator-integrator-2-locations"
+    "job_description": "• Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 26 Days AgoJR0276774Silicon Hardware Engineering - Intern, Bachelorslocations5 Locationsposted onPosted 26 Days AgoJR0276780Platform Hardware and Systems Engineering - Intern, Graduatelocations5 Locationsposted onPosted 26 Days AgoJR0276770Platform Hardware and Systems Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 26 Days AgoJR0276776Signal Integrity Engineer - Foundry ServiceslocationsUS, Arizona, Phoenixposted onPosted 4 Days AgoJR0276574Power Integrity Engineer - Foundry ServiceslocationsUS, Arizona, Phoenixposted onPosted 4 Days AgoJR0276571Senior Foundry Applications Engineer (Packaging Design)locationsUS, Arizona, Phoenixposted onPosted 14 Days AgoJR0275754Electrical Lab EngineerlocationsUS, Arizona, Phoenixposted onPosted 4 Days AgoJR0277063Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 26 Days AgoJR0276778Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 26 Days AgoJR0276773Director, Product Management Silicon Photonicslocations4 Locationsposted onPosted 30+ Days AgoJR0276253Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 26 Days AgoJR0276771Emulation EngineerlocationsUS, Texas, Austinposted onPosted YesterdayJR0276365Senior Firmware EngineerlocationsUS, Texas, Austinposted onPosted 22 Days AgoJR0276584GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 30+ Days AgoJR0276205SOC Design Engineerlocations2 Locationsposted onPosted TodayJR0277330Sr.\n• Power Management Validation Engineerlocations4 Locationsposted onPosted 8 Days AgoJR0277101Network Security Engineer (DevSecOps)locations2 Locationsposted onPosted 30+ Days AgoJR0275922Triton Compiler Engineerlocations3 Locationsposted onPosted 6 Days AgoJR0277157AI Compiler Engineerlocations2 Locationsposted onPosted TodayJR0277310.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Compiler-Engineer_JR0277310?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-ai-compiler-engineer-2-locations"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "Network Security Analyst",
+    "job_city": "3 Locations",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Physical Verification Application Engineerlocations3 Locationsposted onPosted 14 Days AgoJR0272754Senior SOC Performance Architectlocations3 Locationsposted onPosted TodayJR0277337Senior SOC Performance Architectlocations3 Locationsposted onPosted TodayJR0277396SOC Performance Architectlocations3 Locationsposted onPosted TodayJR0277334Senior Microarchitect - Memory Coherency Fabric Systemslocations4 Locationsposted onPosted 8 Days AgoJR0276408Principal Engineer - Physical Design SoC Leadlocations3 Locationsposted onPosted 11 Days AgoJR0277109Senior Foundry Applications Engineer (Analog Design)locations3 Locationsposted onPosted 14 Days AgoJR0275756FVCTO - Formal Verification Architectlocations4 Locationsposted onPosted 30+ Days AgoJR0276238Director-Design VerificationlocationsUS, California, Santa Claraposted onPosted 18 Days AgoJR0276868Systems and Solutions Architect / Intel Foundrylocations4 Locationsposted onPosted 14 Days AgoJR0276102AI/GPU SoC Leadlocations4 Locationsposted onPosted 30+ Days AgoJR0276686Network Security Analystlocations3 Locationsposted onPosted TodayJR0276785Technical Sales - Intern, Graduatelocations4 Locationsposted onPosted 11 Days AgoJR0277153Technical Sales - Intern, Bachelorslocations4 Locationsposted onPosted 11 Days AgoJR0277165Assistant Facility Security Officer (AFSO) Santa ClaralocationsUS, California, Santa Claraposted onPosted 30+ Days AgoJR0276331.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Network-Security-Analyst_JR0276785?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-network-security-analyst-3-locations"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Maintenance Intern",
+    "job_city": "Highland Park",
+    "job_state": "Michigan",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Senior Solutions Architect - Industry 4.\n• 0 , IIoTlocations2 Locationsposted onPosted 30+ Days AgoR00192135IT System AdministratorlocationsDuncan, South Carolina, USposted onPosted 5 Days AgoR00210062IT Technician, 1st Shift (6am-2pm)locationsWarren, Michigan, USposted onPosted 13 Days AgoR00207707SR IT Systems AdministratorlocationsNew Hudson, Michigan, USposted onPosted 8 Days AgoR00208731IT TechnicianlocationsAlto, Michigan, USposted onPosted 6 Days AgoR00209737Robotics Technician - Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00182405IT ManagerlocationsNovi, Michigan, USposted onPosted TodayR00210004Maintenance InternlocationsHighland Park, Michigan, USposted onPosted TodayR00210720Senior UX ResearcherlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00202632Maintenance Technician - 3rd shiftlocationsLancaster, Ohio, USposted onPosted YesterdayR00166686Controls Technician - 3rd ShiftlocationsAlto, Michigan, USposted onPosted 30+ Days AgoR00198142Controls Technician - 3rd Shift (11 PM - 7:30 AM)locationsDuncan, South Carolina, USposted onPosted 30+ Days AgoR00204483IT SupervisorlocationsMoore, South Carolina, USposted onPosted 6 Days AgoR00208763Account ManagerlocationsNovi, Michigan, USposted onPosted 30+ Days AgoR00201252Health & Safety SpecialistlocationsExcelsior Springs, Missouri, USposted onPosted 8 Days AgoR00209578Mech, MaintenancelocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00109278Mgr, ProductionlocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00184407Maintenance Supervisor - ClocationsExcelsior Springs, Missouri, USposted onPosted 5 Days AgoR00186660Technician, MaintenancelocationsShepherdsville, Kentucky, USposted onPosted 30+ Days AgoR00189873Production Team AssociatelocationsDetroit, Michigan, USposted onPosted 30+ Days AgoR00166861.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Maintenance-Intern_R00210720?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-maintenance-intern-highland-park"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Datacenter Hardware Applications Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Manager, Hardware Product EngineeringlocationsUS, CA, Santa Claraposted onPosted 11 Days AgoJR2001290Senior Manager, Bring up and Productization MethodologylocationsUS, CA, Santa Claraposted onPosted 8 Days AgoJR2000191Director, NVLINK Fusion Partner and Ecosystem DevelopmentlocationsUS, CA, Santa Claraposted onPosted YesterdayJR2004058Post-Silicon Hardware EngineerlocationsUS, CA, Santa Claraposted onPosted 8 Days AgoJR2003779Senior Optical MSDV Hardware EngineerlocationsUS, CA, Santa Claraposted onPosted YesterdayJR1980951NVIDIA 2026 Internships: Hardware Engineering locationsUS, CA, Santa Claraposted onPosted 6 Days AgoJR2003200Hardware Validation EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2000435Senior Hardware Validation EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1996018Datacenter Hardware Applications EngineerlocationsUS, CA, Santa Claraposted onPosted TodayJR1996594Senior Hardware Validation EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1996819Senior Hardware Test EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1998292Senior Hardware Application Engineer, Cloud Service ProviderslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1996676Senior Hardware Application Engineering Manager, Cloud Service ProviderslocationsUS, CA, Santa Claraposted onPosted 14 Days AgoJR1996765Senior Verification Engineer - HardwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1980212ASIC Design Engineer - HardwarelocationsUS, TX, Austinposted onPosted TodayJR1993847Hardware Systems ArchitectlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2000419Senior Mask Design Engineer - HardwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1966157Senior Mask Design Engineer - HardwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1966633Senior FPGA Prototyping Engineer - HardwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1998583Senior ASIC Design Engineer - Hardwarelocations2 Locationsposted onPosted 30+ Days AgoJR2001048.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Datacenter-Hardware-Applications-Engineer_JR1996594?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-datacenter-hardware-applications-engineer-us"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Administrative Assistant, Hardware Technology",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "1 day",
+    "job_description": "• Minimum QualificationsBA/BS degree2+ years working in a high-tech environment.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200621387-0836/administrative-assistant-hardware-technology?team=CORSV",
+    "id": "apple-administrative-assistant-hardware-technology-cupertino"
+  },
+  {
+    "employer_name": "Meta",
+    "job_title": "Product Security Engineer, Intern",
+    "job_city": "Menlo Park",
+    "job_state": "CA +1 locations",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Product Security Engineer, Intern",
+    "job_apply_link": "https://www.metacareers.com",
+    "id": "meta-product-security-engineer-intern-menlo-park"
   }
 ]
