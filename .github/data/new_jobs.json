@@ -1,82 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Wells Fargo Data Center Technician",
-    "job_city": "Minneapolis",
-    "job_state": "US",
+    "employer_name": "Siemens",
+    "job_title": "Quality Control Hourly Technician",
+    "job_city": "Fort Worth",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Wells Fargo Data Center Technician",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58526&source=WEB_Search_NA",
-    "id": "ibm-wells-fargo-data-center-technician-minneapolis"
+    "job_description": "hardware engineering job for the role Quality Control Hourly Technician",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-quality-control-hourly-technician-fort-worth"
   },
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Intern - ASIC Digital Design",
-    "job_city": "Minneapolis",
-    "job_state": "Minnesota",
-    "job_posted_at": "a day",
-    "job_description": "• In Electrical Engineering, or equivalent experience.\n• Experience with industry-standard tools for synthesis, linting, formal verification, etc.\n• Engineer - NAND Cell ReliabilitySingapore, Singapore + 1 morePosted 4 months ago Experience with software programming and scripting (e.\n• Excellent written and verbal communication skills.\n• Must not graduate before August 2026.\n• Currently pursuing a B.\n• Familiarity with analog and mixed-signal circuits (e.\n• , CMOS/CML logic, PLL, DLL, CDR).",
-    "job_apply_link": "https://careers.micron.com/careers/job/38011696",
-    "id": "micron-technology-intern-asic-digital-design-minneapolis"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Software Engineer Internship / Co-op, Applied Emerging Talent (Summer 2026)",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• Currently pursuing a Bachelor's or Master’s degree in Computer Science, Computer Engineering, or relevant technical fieldMust have at least one semester of schooling left after the completion of your internshipProficiency with JavaScript, React, and some backend languages (we use Python)Some experience with relational databases like Postgres/MySQLInterest in AI/ML (direct experience not required)Ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines Build new customer-facing ChatGPT and OpenAI API features and product experiences end-to-end Collaborate with a cross-functional team of engineers, researchers, product managers, designers, and operations folks to create cutting-edge products.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163275217-software-engineer-internship-co-op-applied-emerging-talent-summer-2026",
-    "id": "ai-jobs-software-engineer-internship-co-op-applied-emerging-talent-summer-2026-san-francisco"
+    "employer_name": "Siemens",
+    "job_title": "Electro-Mechanical Assembler - Rolling Stock",
+    "job_city": "Lexington",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Electro-Mechanical Assembler - Rolling Stock",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-electro-mechanical-assembler-rolling-stock-lexington"
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Software Engineer, Applied Emerging Talent (2026)",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• Bachelor's or Master’s degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience0-1 years of experience in software engineering or a relevant fieldProficiency with JavaScript, React, and some backend languages (we use Python)Some experience with relational databases like Postgres/MySQLInterest in AI/ML (direct experience not required)Ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines Own the development of new customer-facing ChatGPT and OpenAI API features and product experiences end-to-endTalk to users to understand their problems and design solutions to address themCollaborate with a cross-functional team of engineers, researchers, product managers, designers, and operations folks to create cutting-edge productsOptimize applications for speed and scaleCreate a diverse and inclusive culture that makes all feel welcome.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163275216-software-engineer-applied-emerging-talent-2026",
-    "id": "ai-jobs-software-engineer-applied-emerging-talent-2026-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Software Engineer, Trusted Computing and Cryptography",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "22min",
-    "job_description": "• Have extensive experience as a software engineer working on global-scale production systems.\n• Are experienced in deploying cryptographic systems at scale, with a strong understanding of production cryptographic key management.\n• Have professional experience programming in Python and proficiency in Rust and/or C/C++.\n• Have experience architecting, observing, and debugging production distributed systems.\n• Have experience rebuilding or significantly refactoring production systems to accommodate rapidly increasing scale.\n• Have familiarity with security primitives, including but not limited to TPM2, Secure Boot, secure enclaves, and confidential computing platforms.\n• Own problems end-to-end and are willing to acquire any missing knowledge to get the job done.\n• Exhibit a humble attitude, eagerness to help colleagues, and a commitment to the team’s success.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163275212-software-engineer-trusted-computing-and-cryptography",
-    "id": "ai-jobs-software-engineer-trusted-computing-and-cryptography-"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Software Engineer, Core Services",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "21min",
-    "job_description": "• Have experience with distributed systems, caching infrastructure (e.\n• Have experience running containerized services in cloud environments and integrating them into automated build/test/release (CI/CD) workflows.\n• , Redis, Memcached), metadata storage (e.\n• , FoundationDB), or workflow orchestration (e.\n• Understand trade-offs in consistency models, replication strategies, and performance optimization in multi-region systems.\n• Excel at communication and collaboration with cross-functional teams, and are obsessed with delivering customer success.\n• Design, build, and maintain shared infrastructure services such as caching layers, workflow orchestration (Temporal), metadata stores, and file storage services.\n• Collaborate with product teams to provide scalable, reliable primitives that abstract the complexities of distributed systems.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163275214-software-engineer-core-services",
-    "id": "ai-jobs-software-engineer-core-services-san-francisco"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Hardware Reliability Engineer - iPad System Reliability",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Today",
-    "job_description": "• Minimum QualificationsBachelor’s Degree in Mechanical Engineering, Materials Science, Physics or an equivalent field2+ years of experience in a related field or industryStrong attention to details and curiosity of how technologies workCollaborative attitude and ability to work cross-functionally effectivelyA proactive, can-do attitude, with a passion for working alongside an amazing team and innovative productsAbility and willingness to travel internationally, as needed.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200621347-0157/hardware-reliability-engineer-ipad-system-reliability?team=HRDWR",
-    "id": "apple-hardware-reliability-engineer-ipad-system-reliability-austin"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Full Stack Software Engineer - Human Engineering",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "Today",
-    "job_description": "• Minimum QualificationsStrong fundamentals in object-oriented programming, data structures, and algorithmsExpertise architecting and developing full stack web applications with RESTful APIs2+ years Python experienceWeb development experience with HTML5, CSS/SASS, and JavaScriptExperience with front-end frameworks such as Angular (preferred), React, or Vue.\n• Experience with backend MVC frameworks such as Django (preferred), Rails, or SpringStrong understanding of relational database designExperience designing scalable software systemsDemonstrated UI/UX design abilitiesBS/MS in Computer Science/Engineering, or equivalent.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200621138-0836/full-stack-software-engineer-human-engineering?team=HRDWR",
-    "id": "apple-full-stack-software-engineer-human-engineering-cupertino"
+    "job_title": "Datacenter Hardware Applications Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "2h",
+    "job_description": "• Understand system design requirements for High Performance Computing and AI workloads to drive platform configuration guides for x86 and ARM servers.\n• Track and file new bugs, and reproduce issues as needed.\n• BS or higher in EE, CE or Systems Engineering or equivalent experience.\n• 4+ years of relevant experience in supporting enterprise datacenter products for x86 and/or ARM architecture.\n• Have strong analytical skills and past experience in reviewing enterprise system design and CPU architecture.\n• Professional-level interpersonal skills, including your ability to adjust your communication to the technical level of the audience.\n• Experience with using lab tools such as oscilloscopes, multi-meters and logic analyzers.\n• Perform system design reviews for data center applications to ensure partner designs meet NVIDIA guidelines.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163273342-datacenter-hardware-applications-engineer",
+    "id": "ai-jobs-datacenter-hardware-applications-engineer-us"
   }
 ]
