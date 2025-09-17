@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "Apple",
-    "job_title": "Hardware System Integration Engineer - AirPods",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "Today",
-    "job_description": "• Minimum QualificationsBachelors or Masters degree in Electrical Engineering or equivalent2+ years relevant industry experience designing electronics and/or embedded systemsStrong Electrical Engineering fundamentals (analog/digital design, signal/power integrity, etc.\n• )Hands-on experience in prototyping, bring-up, debug and validationComfortable in a lab environment using oscilloscopes, spectrum analyzers, frequency counters, etc.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200570769-0836/hardware-system-integration-engineer-airpods?team=HRDWR",
-    "id": "apple-hardware-system-integration-engineer-airpods-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer (Places Engineering), Corporate Systems Engineering",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "5 days",
-    "job_description": "• Minimum Qualifications5+ years of enablon implementation experience in multiple modules for global companiesTechnical expertise in enablon’s core coding language, NABSICBA/BS in Engineering, Environmental Sciences, or Computer Science.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200617993-0157/software-engineer-places-engineering-corporate-systems-engineering?team=SFTWR",
-    "id": "apple-software-engineer-places-engineering-corporate-systems-engineering-austin"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Google Cloud Security and Privacy",
-    "job_city": "New York",
-    "job_state": "NY",
+    "employer_name": "Siemens",
+    "job_title": "Chicago Machine Operator - 3rd Shift",
+    "job_city": "Roebuck",
+    "job_state": "South Carolina",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Google Cloud Security and Privacy",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/92164196564640454-software-engineer-iii-google-cloud-security-and-privacy?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=7",
-    "id": "google-software-engineer-iii-google-cloud-security-and-privacy-new-york"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Research Software Engineer, Multimodal AI",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Research Software Engineer, Multimodal AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/83724482748785350-research-software-engineer-multimodal-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=10",
-    "id": "google-research-software-engineer-multimodal-ai-san-jose"
+    "job_description": "hardware engineering job for the role Chicago Machine Operator - 3rd Shift",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-chicago-machine-operator-3rd-shift-roebuck"
   }
 ]
