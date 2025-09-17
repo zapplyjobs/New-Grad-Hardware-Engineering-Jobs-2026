@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "Siemens",
-    "job_title": "Electrical Design Engineer – Protection & Control Panels",
-    "job_city": "Wendell",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Electrical Design Engineer – Protection & Control Panels",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-electrical-design-engineer-protection-control-panels-wendell"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Deskside Support Engineer with TS/SCI CI poly required",
-    "job_city": "USA VA Quantico",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Quantico/Deskside-Support-Engineer-with-TS-SCI-CI-poly-required_RQ207456-1?q=hardware+engineering",
-    "id": "general-dynamics-deskside-support-engineer-with-ts-sci-ci-poly-required-usa-va-quantico"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Satellite Test HW Engineer, Integrated Vehicle Test",
-    "job_city": "Redmond",
-    "job_state": "WA",
+    "employer_name": "Texas Instruments",
+    "job_title": "Test Engineer",
+    "job_city": "Dallas",
+    "job_state": "TX",
     "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Satellite Test HW Engineer, Integrated Vehicle Test",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3086576/satellite-test-hw-engineer-integrated-vehicle-test",
-    "id": "amazon-satellite-test-hw-engineer-integrated-vehicle-test-redmond"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Critical Infrastructure Electrical Engineer, Field Engineering",
-    "job_city": "Columbus",
-    "job_state": "OH",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Critical Infrastructure Electrical Engineer, Field Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3086602/critical-infrastructure-electrical-engineer-field-engineering",
-    "id": "amazon-critical-infrastructure-electrical-engineer-field-engineering-columbus"
+    "job_description": "• (3) Dallas, North Campus - Generic (2) Dallas, North Campus - DMOS V South (1) Dallas, North Campus - Research East (1) Dallas, North Campus - Kilby East (1) Knoxville, Knoxville, TN (1) Richardson, Richardson Fab, Renner Rd (1) Phoenix, North Phoenix, AZ (1) Lehi, Lehi, UT (1) Categories 0 Engineering - Product Dev (7) Information Technology (2) Manufacturing (1) Legal (1) Experience Level 0 Interns (5) Experienced Professional (3) Recent College Grads (3) Work Locations 0 Dallas, South Campus (4) Tucson, Tucson Williams Ctr-South Bldg,.\n• (3) Dallas, North Campus - Generic (2) Dallas, North Campus - DMOS V South (1) Dallas, North Campus - Research East (1) Dallas, North Campus - Kilby East (1) Knoxville, Knoxville, TN (1) Richardson, Richardson Fab, Renner Rd (1) Phoenix, North Phoenix, AZ (1) Lehi, Lehi, UT (1) Categories 0 Engineering - Product Dev (7) Information Technology (2) Manufacturing (1) Legal (1) Experience Level 0 Interns (5) Experienced Professional (3) Recent College Grads (3) Bachelor's degree in Electrical Engineering Minimum 5 years of analog circuit or mixed signal circuit test experience Solid understanding of analog test techniques and test experience in mixed signal and analog circuits.\n• Proven track record with ATE hard- and software development (wafer sort and package level) Knowledge of PCB design and experience with Cadence Allegro schematic tools and usage ATE Test Fluency and Experience in Teradyne ETS364 (ETS800 test experience is a plus) Defining test system requirements from device test specifications Experience in Pre Si-Test Activities including Hardware design and Software readiness, provide insights to design team for robust test Experience in test debugging and test time reduction Experience with various lab equipment such as scopes, power supplies, source meters, loads etc.\n• Job Identification 25007127 Job Category Engineering - Product Dev Posting Date 09/17/2025, 06:09 PM Degree Level Bachelor's Degree Locations EXD5 13121 TI Boulevard, Dallas, TX, 75243, US Shift/Work Schedule 1/Day Shift ECL/GTC Required Yes Data analysis skills and yield reporting using MBayse, Spotfire, Jump, MatLab Strong time management skills that enable on-time project delivery Capability to drive and lead a project -Ability to take the initiative and drive for results Demonstrated strong interpersonal, analytical and problem-solving skills Ability to quickly ramp on new systems and processes Ability to work in a team setup comprising of other functional groups Demonstrated ability to build strong, influential relationships Ability to multiplex between projects and be able to maintain project schedules Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Comprehensive device debugging, design, process validation and failure analysis Work with failure analysis (FA) to determine root cause of any reliability and qualification failures Interns (5) Experienced Professional (3) Recent College Grads (3) Interns (5) Experienced Professional (3) Recent College Grads (3).\n• Candidate login Employee login Join our talent community Find your role Engineering Manufacturing Technical sales & applications Communications Marketing Finance, accounting & operations Human resources Information technology Job opportunities Recruitment process Recruitment events Students & new grads Veterans Our culture Locations North America Europe Asia Pacific Jobs 11 Job search results 11 Events 0 Work Locations 0 Dallas, South Campus (4) Tucson, Tucson Williams Ctr-South Bldg,.\n• Knowledgeable of electronic devices and circuits: basic understanding of building blocks like LDO, Bandgap, Ring Oscillators, VCOs, Operational Amplifier etc.",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007127/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-test-engineer-dallas"
   }
 ]
