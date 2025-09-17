@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Texas Instruments",
-    "job_title": "Test Engineer",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_posted_at": "Today",
-    "job_description": "• (3) Dallas, North Campus - Generic (2) Dallas, North Campus - DMOS V South (1) Dallas, North Campus - Research East (1) Dallas, North Campus - Kilby East (1) Knoxville, Knoxville, TN (1) Richardson, Richardson Fab, Renner Rd (1) Phoenix, North Phoenix, AZ (1) Lehi, Lehi, UT (1) Categories 0 Engineering - Product Dev (7) Information Technology (2) Manufacturing (1) Legal (1) Experience Level 0 Interns (5) Experienced Professional (3) Recent College Grads (3) Work Locations 0 Dallas, South Campus (4) Tucson, Tucson Williams Ctr-South Bldg,.\n• (3) Dallas, North Campus - Generic (2) Dallas, North Campus - DMOS V South (1) Dallas, North Campus - Research East (1) Dallas, North Campus - Kilby East (1) Knoxville, Knoxville, TN (1) Richardson, Richardson Fab, Renner Rd (1) Phoenix, North Phoenix, AZ (1) Lehi, Lehi, UT (1) Categories 0 Engineering - Product Dev (7) Information Technology (2) Manufacturing (1) Legal (1) Experience Level 0 Interns (5) Experienced Professional (3) Recent College Grads (3) Bachelor's degree in Electrical Engineering Minimum 5 years of analog circuit or mixed signal circuit test experience Solid understanding of analog test techniques and test experience in mixed signal and analog circuits.\n• Proven track record with ATE hard- and software development (wafer sort and package level) Knowledge of PCB design and experience with Cadence Allegro schematic tools and usage ATE Test Fluency and Experience in Teradyne ETS364 (ETS800 test experience is a plus) Defining test system requirements from device test specifications Experience in Pre Si-Test Activities including Hardware design and Software readiness, provide insights to design team for robust test Experience in test debugging and test time reduction Experience with various lab equipment such as scopes, power supplies, source meters, loads etc.\n• Job Identification 25007127 Job Category Engineering - Product Dev Posting Date 09/17/2025, 06:09 PM Degree Level Bachelor's Degree Locations EXD5 13121 TI Boulevard, Dallas, TX, 75243, US Shift/Work Schedule 1/Day Shift ECL/GTC Required Yes Data analysis skills and yield reporting using MBayse, Spotfire, Jump, MatLab Strong time management skills that enable on-time project delivery Capability to drive and lead a project -Ability to take the initiative and drive for results Demonstrated strong interpersonal, analytical and problem-solving skills Ability to quickly ramp on new systems and processes Ability to work in a team setup comprising of other functional groups Demonstrated ability to build strong, influential relationships Ability to multiplex between projects and be able to maintain project schedules Engineer your future.\n• Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger.\n• Comprehensive device debugging, design, process validation and failure analysis Work with failure analysis (FA) to determine root cause of any reliability and qualification failures Interns (5) Experienced Professional (3) Recent College Grads (3) Interns (5) Experienced Professional (3) Recent College Grads (3).\n• Candidate login Employee login Join our talent community Find your role Engineering Manufacturing Technical sales & applications Communications Marketing Finance, accounting & operations Human resources Information technology Job opportunities Recruitment process Recruitment events Students & new grads Veterans Our culture Locations North America Europe Asia Pacific Jobs 11 Job search results 11 Events 0 Work Locations 0 Dallas, South Campus (4) Tucson, Tucson Williams Ctr-South Bldg,.\n• Knowledgeable of electronic devices and circuits: basic understanding of building blocks like LDO, Bandgap, Ring Oscillators, VCOs, Operational Amplifier etc.",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007127/?keyword=hardware+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
-    "id": "texas-instruments-test-engineer-dallas"
+    "employer_name": "IBM",
+    "job_title": "Manufacturing Production Operator",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Manufacturing Production Operator",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59340&source=WEB_Search_NA",
+    "id": "ibm-manufacturing-production-operator-poughkeepsie"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "United States Postal Service (USPS) Office of Inspector General (OIG) Incumbent Community",
+    "job_city": "Any Location /",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/United-States-Postal-Service--USPS--Office-of-Inspector-General--OIG--Incumbent-Community_RQ189536?q=hardware+engineering",
+    "id": "general-dynamics-united-states-postal-service-usps-office-of-inspector-general-oig-incumbent-community-any-location"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Machine Learning Engineer",
+    "job_city": "New York City",
+    "job_state": "US",
+    "job_posted_at": "2 weeks",
+    "job_description": "• Minimum QualificationsExperience building machine learning modelsFamiliarity with the model development lifecycleFamiliarity with machine learning libraries and frameworksExperience writing machine learning applications and mission-critical code for production machine learning systemsExperience building and scaling cloud-based architecturesExperience building AI/ML tooling and/or infrastructureExperience working on distributed systems where scalability and performance are criticalPrior experience in performance tuning & trouble-shootingPride in building tools to automate routine tasks, organized & detailedUnderstanding of software engineering principles for maintainable code developmentStrong problem solving and debugging skillsAbility to communicate effectively, both written and verbal, with technical and non-technical multi-functional teamsResults oriented with a desire to work in a fast-paced and collaborative work environmentPrior experience in advertising industry is a huge plus.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200618202-2459/machine-learning-engineer?team=SFTWR",
+    "id": "apple-machine-learning-engineer-new-york-city"
   }
 ]
