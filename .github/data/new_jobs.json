@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "Siemens",
-    "job_title": "Quality Control Hourly Technician",
-    "job_city": "Fort Worth",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Quality Control Hourly Technician",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-quality-control-hourly-technician-fort-worth"
+    "employer_name": "BAE Systems",
+    "job_title": "Linux System Engineer, Mid",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "• Network Infrastructure Engineer, Leadlocations2 Locationsposted onPosted 7 Days AgoR0225980 Digital Engineer, LeadlocationsEl Segundo, CAposted onPosted 15 Days AgoR0225496.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Linux-System-Engineer--Mid_R0223733?q=hardware+engineering",
+    "id": "bae-systems-linux-system-engineer-mid-fort-meade"
   },
   {
-    "employer_name": "Siemens",
-    "job_title": "Electro-Mechanical Assembler - Rolling Stock",
-    "job_city": "Lexington",
-    "job_state": "North Carolina",
+    "employer_name": "Arm",
+    "job_title": "Graduate Hardware Engineer",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Electro-Mechanical Assembler - Rolling Stock",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-electro-mechanical-assembler-rolling-stock-lexington"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Datacenter Hardware Applications Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "2h",
-    "job_description": "• Understand system design requirements for High Performance Computing and AI workloads to drive platform configuration guides for x86 and ARM servers.\n• Track and file new bugs, and reproduce issues as needed.\n• BS or higher in EE, CE or Systems Engineering or equivalent experience.\n• 4+ years of relevant experience in supporting enterprise datacenter products for x86 and/or ARM architecture.\n• Have strong analytical skills and past experience in reviewing enterprise system design and CPU architecture.\n• Professional-level interpersonal skills, including your ability to adjust your communication to the technical level of the audience.\n• Experience with using lab tools such as oscilloscopes, multi-meters and logic analyzers.\n• Perform system design reviews for data center applications to ensure partner designs meet NVIDIA guidelines.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163273342-datacenter-hardware-applications-engineer",
-    "id": "ai-jobs-datacenter-hardware-applications-engineer-us"
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-hardware-engineer/33099/85997348720",
+    "id": "arm-graduate-hardware-engineer-"
   }
 ]
