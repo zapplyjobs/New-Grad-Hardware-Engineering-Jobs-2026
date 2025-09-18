@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Test Engineer, Product Development",
-    "job_city": "US",
-    "job_state": "MA",
+    "employer_name": "Magna International",
+    "job_title": "DevOps Engineer",
+    "job_city": "Lowell",
+    "job_state": "Massachusetts",
     "job_posted_at": "Posted Today",
-    "job_description": "• Emerging Tech Hub Senior ManagerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 13 Days AgoR255390Principal Systems Architect, Communications PHYlocations2 Locationsposted onPosted 30+ Days AgoR252371Engineering Sales Rotational Programlocations9 Locationsposted onPosted 3 Days AgoR255617Test Engineer, Product DevelopmentlocationsUS, MA, Wilmingtonposted onPosted TodayR256018Senior Engineer, Si Photonics IC Integration and Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR252114Senior Data Engineer – DevOps TeamlocationsUS, MA, Bostonposted onPosted 6 Days AgoR253142Staff Analog AI Compute System EngineerlocationsUS, MA, Bostonposted onPosted 23 Days AgoR254971Embedded Softwarelocations2 Locationsposted onPosted 22 Days AgoR255245Staff Engineer, Product Applications (ATE/Power)locationsUS, CO, Colorado Springs, Chapel Hillsposted onPosted YesterdayR253811Sr Manager – Healthcare SolutionslocationsUS, MA, Bostonposted onPosted 13 Days AgoR242724Staff Edge AI/ML ScientistlocationsUS, MA, Bostonposted onPosted 16 Days AgoR254972Director, ADI Partner Programlocations4 Locationsposted onPosted 30+ Days AgoR253121Clinical Solutions SpecialistlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR253946Mixed Signal Design InternlocationsUS, NC, Durhamposted onPosted 22 Days AgoR255002Segment Marketing Director within Datacenter Infrastructurelocations3 Locationsposted onPosted 22 Days AgoR254493DCI Segment Marketinglocations2 Locationsposted onPosted 13 Days AgoR254998Embedded Software InternlocationsUS, MA, Bostonposted onPosted 22 Days AgoR255237.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Test-Engineer--Product-Development_R256018?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-test-engineer-product-development-us"
+    "job_description": "• Senior Electrical Hardware EngineerlocationsGrand Rapids, Michigan, USposted onPosted 7 Days AgoR00210039Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00181173eMotor Design EngineerlocationsTroy, Michigan, USposted onPosted 3 Days AgoR00198172DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted TodayR00211068Controls EngineerlocationsEthridge, Tennessee, USposted onPosted 30 Days AgoR00206131Simulation EngineerlocationsTroy, Michigan, USposted onPosted 16 Days AgoR00200693Deployment Engineering ManagerlocationsTroy, Michigan, USposted onPosted 8 Days AgoR00209882Senior Software EngineerlocationsLowell, Massachusetts, USposted onPosted 24 Days AgoR00199562Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 13 Days AgoR00209295Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 28 Days AgoR00203332Sr.\n• Electrical EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164189Quality EngineerlocationsExcelsior Springs, Missouri, USposted onPosted 10 Days AgoR00209590Controls EngineerlocationsSheffield, Ohio, USposted onPosted 30+ Days AgoR00190673Industrial EngineerlocationsLancaster, Ohio, USposted onPosted 28 Days AgoR00206453Sr EngineerlocationsNovi, Michigan, USposted onPosted 8 Days AgoR00209823Lead, Linux DevOps Support Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR00164198Principal Software Engineer – Linux/BSPlocationsSouthfield, Michigan, USposted onPosted 22 Days AgoR00205992Senior Systems Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00166619Principal Software Engineer - Image Signal ProcessinglocationsSouthfield, Michigan, USposted onPosted 21 Days AgoR00205993Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164195.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/DevOps-Engineer_R00211068?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-devops-engineer-lowell"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist, Product Analytics",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "22h",
+    "job_description": "• , difference-in-differences, propensity scoring, regression modeling) to evaluate product impact beyond A/B testsAct as a thought partner to Product leadership—flagging opportunities, challenging assumptions, and shaping strategyDevelop expertise in strength training habits, user personas, and feature adoption 4–7 years of analytics experience, ideally in product or UX analytics (fitness or consumer tech a plus)Fluency in SQL and comfort with Python (e.\n• Pandas, numpy) for data explorationExperience designing and analyzing A/B tests with statistical rigorStrong statistical knowledge: hypothesis testing, confidence intervals, regressions, and modelingProven ability to work autonomously and drive projects with minimal oversightTrack record of influencing product strategy through data storytellingComfort in fast-paced, agile environmentsCuriosity, humility, and a user-first mindset.\n• Own analytics for Peloton Strength, from defining success metrics to delivering insights that drive product decisionsDesign, launch, and measure A/B tests that influence the roadmapTell compelling stories with data that guide strategic direction and influence senior stakeholdersTranslate member behavior into actionable insights that improve retention and long-term engagementApply causal inference techniques (e.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163449899-data-scientist-product-analytics",
+    "id": "ai-jobs-data-scientist-product-analytics-new-york"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, BigLake, Hybrid Streams",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer, BigLake, Hybrid Streams",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/121824914293301958-software-engineer-biglake-hybrid-streams?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=6",
+    "id": "google-software-engineer-biglake-hybrid-streams-seattle"
   }
 ]
