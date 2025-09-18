@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Magna International",
+    "job_title": "Full Stack Developer",
+    "job_city": "New Hudson",
+    "job_state": "Michigan",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Senior Solutions Architect - Industry 4.\n• 0 , IIoTlocations2 Locationsposted onPosted 30+ Days AgoR00192135IT System AdministratorlocationsDuncan, South Carolina, USposted onPosted 7 Days AgoR00210062IT Technician, 1st Shift (6am-2pm)locationsWarren, Michigan, USposted onPosted 15 Days AgoR00207707SR IT Systems AdministratorlocationsNew Hudson, Michigan, USposted onPosted 10 Days AgoR00208731Robotics Technician - Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00182405IT ManagerlocationsNovi, Michigan, USposted onPosted 2 Days AgoR00210004Full Stack DeveloperlocationsNew Hudson, Michigan, USposted onPosted TodayR00211094Maintenance InternlocationsHighland Park, Michigan, USposted onPosted 2 Days AgoR00210720Senior UX ResearcherlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00202632Customer Success ManagerlocationsLowell, Massachusetts, USposted onPosted TodayR00211072Maintenance Technician - 3rd shiftlocationsLancaster, Ohio, USposted onPosted 3 Days AgoR00166686Controls Technician - 3rd ShiftlocationsAlto, Michigan, USposted onPosted 30+ Days AgoR00198142Controls Technician - 3rd Shift (11 PM - 7:30 AM)locationsDuncan, South Carolina, USposted onPosted 30+ Days AgoR00204483Account ManagerlocationsNovi, Michigan, USposted onPosted 30+ Days AgoR00201252Health & Safety SpecialistlocationsExcelsior Springs, Missouri, USposted onPosted 10 Days AgoR00209578Mech, MaintenancelocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00109278Mgr, ProductionlocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00184407Maintenance Supervisor - ClocationsExcelsior Springs, Missouri, USposted onPosted 7 Days AgoR00186660Technician, MaintenancelocationsShepherdsville, Kentucky, USposted onPosted 30+ Days AgoR00189873Production Team AssociatelocationsDetroit, Michigan, USposted onPosted 30+ Days AgoR00166861.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/New-Hudson-Michigan-US/Full-Stack-Developer_R00211094?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-full-stack-developer-new-hudson"
+  },
+  {
+    "employer_name": "RIVIAN",
+    "job_title": "Embedded Software Engineer II, Charging & Energy",
+    "job_city": "Multiple",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• Experience with Yocto-based build systems for embedded devices including kernel customization, package selection, and recipe development preferred.\n• Experience with electric vehicle charging protocols such as SAE J1772, DIN SPEC 70121, and ISO 15118 preferred.\n• Experience with designing software to meet functional safety e.\n• , UL1998, ISO26262, ASPICE, etc preferred.\n• Experience with Agile development methodologies and using tracking tools like Jira and JAMA preferred.\n• Experience with implementing CI/CD pipelines using tools like GitLab CI, GitHub Actions, etc.\n• Experience with web-based communication protocols, especially gRPC and WebSockets preferred.\n• 4+ years of industry experience developing C/C++ based applications on embedded Linux.",
+    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/26406/login",
+    "id": "rivian-embedded-software-engineer-ii-charging-energy-multiple"
+  }
+]
