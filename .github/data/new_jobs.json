@@ -1,52 +1,192 @@
 [
   {
+    "employer_name": "IBM",
+    "job_title": "Software/Hardware Developer - Supply Chain",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software/Hardware Developer - Supply Chain",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59402&source=WEB_Search_NA",
+    "id": "ibm-software-hardware-developer-supply-chain-rochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative Austin, Texas",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role System Services Representative Austin, Texas",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59666&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-austin-texas-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative - San Antonio TX",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role System Services Representative - San Antonio TX",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59669&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-san-antonio-tx-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern:  Research Scientist – AI-powered Automation",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role 2026 Intern:  Research Scientist – AI-powered Automation",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59705&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-research-scientist-ai-powered-automation-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern: Software Engineer – AI-powered Automation",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role 2026 Intern: Software Engineer – AI-powered Automation",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59704&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-software-engineer-ai-powered-automation-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SWE: Toward Autonomous Data Management with AI Intern",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role SWE: Toward Autonomous Data Management with AI Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58829&source=WEB_Search_NA",
+    "id": "ibm-swe-toward-autonomous-data-management-with-ai-intern-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026:  AI Hybrid Cloud Platforms Research Developer",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Intern 2026:  AI Hybrid Cloud Platforms Research Developer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58807&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-hybrid-cloud-platforms-research-developer-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI and Agentic Security Intern",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Intern 2026: AI and Agentic Security Intern",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58831&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-and-agentic-security-intern-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Research AI Engineer, Intern:",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Research AI Engineer, Intern: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58803&source=WEB_Search_NA",
+    "id": "ibm-research-ai-engineer-intern-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI Hybrid Cloud Platform Research Scientist",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Intern 2026: AI Hybrid Cloud Platform Research Scientist",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58804&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-hybrid-cloud-platform-research-scientist-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI Platform Research Scientist",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Intern 2026: AI Platform Research Scientist",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58818&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-platform-research-scientist-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Marketing Development Representative",
+    "job_city": "DURHAM",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Marketing Development Representative",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58082&source=WEB_Search_NA",
+    "id": "ibm-marketing-development-representative-durham"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Foundations - Software Engineer - Research Internship:",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role AI Foundations - Software Engineer - Research Internship: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58806&source=WEB_Search_NA",
+    "id": "ibm-ai-foundations-software-engineer-research-internship-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "RS: Toward Autonomous Data Management with FMs and AI Agents Intern",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role RS: Toward Autonomous Data Management with FMs and AI Agents Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58728&source=WEB_Search_NA",
+    "id": "ibm-rs-toward-autonomous-data-management-with-fms-and-ai-agents-intern-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Foundations - Research Scientist - Research Internship:",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role AI Foundations - Research Scientist - Research Internship: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58805&source=WEB_Search_NA",
+    "id": "ibm-ai-foundations-research-scientist-research-internship-ship"
+  },
+  {
     "employer_name": "Micron Technology",
-    "job_title": "MTS, Data Science Agentic Platforms",
+    "job_title": "Fab Equipment Maintenance Technician",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "a day",
+    "job_description": "• Education in industry related associate degree.\n• Working towards a STEM related degree.\n• Equivalent military training and experience.\n• Or equivalent work experience Bachelor’s degree or equivalent experience in Engineering, Materials Science, or related field Familiarity with statistical process control (SPC) and other quality control methodologies Ability to work 12-hour shifts (3 on/4 off and 4 on/3 off) including night shift Certification in equipment maintenance or relevant technical areas Experience with semiconductor manufacturing processes Strong analytical and problem-solving skills Less than 2 years Intern – Fab Equipment Maintenance TechnicianManassas, Virginia, United States of AmericaPosted 16 days ago.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38051548",
+    "id": "micron-technology-fab-equipment-maintenance-technician-manassas"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Equipment Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "3 months",
+    "job_description": "• Equipment Engineer and Process Engineer - Veterans and Transitioning MilitaryBoise, Idaho, United States of America + 2 morePosted 16 days ago.",
+    "job_apply_link": "https://careers.micron.com/careers/job/30034410",
+    "id": "micron-technology-equipment-engineer-manassas"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Scribe Design Engineer",
     "job_city": "Boise",
     "job_state": "Idaho",
-    "job_posted_at": "a month",
-    "job_description": "Description content not available",
-    "job_apply_link": "https://careers.micron.com/careers/job/30687259",
-    "id": "micron-technology-mts-data-science-agentic-platforms-boise"
+    "job_posted_at": "17 days",
+    "job_description": "• Facilities Electrical Systems Senior Engineer / Staff Engineer - Operations & DesignBoise, Idaho, United States of AmericaPosted 4 days ago Mechanical Design and NPI Engineer ManagerSan Jose, California, United States of AmericaPosted 7 days ago Senior Engineer, Scribe Layout DesignHyderabad, Telangana, IndiaPosted 2 months ago.",
+    "job_apply_link": "https://careers.micron.com/careers/job/30945175",
+    "id": "micron-technology-scribe-design-engineer-boise"
   },
   {
-    "employer_name": "Magna International",
-    "job_title": "Maintenance Technician - OFF SHIFT",
-    "job_city": "Lancaster",
-    "job_state": "Ohio",
+    "employer_name": "Intel",
+    "job_title": "Middleware Development Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
     "job_posted_at": "Posted Today",
-    "job_description": "• IT System AdministratorlocationsDuncan, South Carolina, USposted onPosted 7 Days AgoR00210062IT Technician, 1st Shift (6am-2pm)locationsWarren, Michigan, USposted onPosted 15 Days AgoR00207707SR IT Systems AdministratorlocationsNew Hudson, Michigan, USposted onPosted 10 Days AgoR00208731R00209737Robotics Technician - Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00182405IT ManagerlocationsNovi, Michigan, USposted onPosted 2 Days AgoR00210004Maintenance InternlocationsHighland Park, Michigan, USposted onPosted 2 Days AgoR00210720Senior UX ResearcherlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00202632Maintenance Technician - OFF SHIFTlocationsLancaster, Ohio, USposted onPosted TodayR00166686Controls Technician - 3rd ShiftlocationsAlto, Michigan, USposted onPosted 30+ Days AgoR00198142Controls Technician - 3rd Shift (11 PM - 7:30 AM)locationsDuncan, South Carolina, USposted onPosted 30+ Days AgoR00204483Account ManagerlocationsNovi, Michigan, USposted onPosted 30+ Days AgoR00201252Health & Safety SpecialistlocationsExcelsior Springs, Missouri, USposted onPosted 10 Days AgoR00209578Mech, MaintenancelocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00109278Mgr, ProductionlocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00184407Maintenance Supervisor - ClocationsExcelsior Springs, Missouri, USposted onPosted 7 Days AgoR00186660Technician, MaintenancelocationsShepherdsville, Kentucky, USposted onPosted 30+ Days AgoR00189873Production Team AssociatelocationsDetroit, Michigan, USposted onPosted 30+ Days AgoR00166861Commodity ManagerlocationsNovi, Michigan, USposted onPosted 7 Days AgoR00209885Production SupervisorlocationsHighland Park, Michigan, USposted onPosted 2 Days AgoR00210723.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lancaster-Ohio-US/Maintenance-Technician_R00166686?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-maintenance-technician-off-shift-lancaster"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Quality Engineer",
-    "job_city": "Location Mount Juliet",
-    "job_state": "Tennessee",
-    "job_posted_at": "Recently",
-    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00008605/Quality-Engineer",
-    "id": "abb-quality-engineer-location-mount-juliet"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Hardware Developer Engineer, Quantum Engineering, AWS CQC- Fab",
-    "job_city": "Pasadena",
-    "job_state": "CA",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Hardware Developer Engineer, Quantum Engineering, AWS CQC- Fab",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3087607/hardware-developer-engineer-quantum-engineering-aws-cqc-fab",
-    "id": "amazon-hardware-developer-engineer-quantum-engineering-aws-cqc-fab-pasadena"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Critical Infrastructure Mechanical Engineer, Field Engineering",
-    "job_city": "Columbus",
-    "job_state": "OH",
-    "job_posted_at": "3 months",
-    "job_description": "hardware engineering job for the role Critical Infrastructure Mechanical Engineer, Field Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3001197/critical-infrastructure-mechanical-engineer-field-engineering",
-    "id": "amazon-critical-infrastructure-mechanical-engineer-field-engineering-columbus"
+    "job_description": "• Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 28 Days AgoJR0276774Silicon Hardware Engineering - Intern, Bachelorslocations5 Locationsposted onPosted 28 Days AgoJR0276780Platform Hardware and Systems Engineering - Intern, Graduatelocations5 Locationsposted onPosted 28 Days AgoJR0276770Platform Hardware and Systems Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 28 Days AgoJR0276776Signal Integrity Engineer - Foundry ServiceslocationsUS, Arizona, Phoenixposted onPosted 6 Days AgoJR0276574Power Integrity Engineer - Foundry ServiceslocationsUS, Arizona, Phoenixposted onPosted 6 Days AgoJR0276571Senior Foundry Applications Engineer (Packaging Design)locationsUS, Arizona, Phoenixposted onPosted 16 Days AgoJR0275754Electrical Lab EngineerlocationsUS, Arizona, Phoenixposted onPosted 6 Days AgoJR0277063Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 28 Days AgoJR0276778Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 28 Days AgoJR0276773Director, Product Management Silicon Photonicslocations4 Locationsposted onPosted 30+ Days AgoJR0276253Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 28 Days AgoJR0276771GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 30+ Days AgoJR0276205Sr.\n• Power Management Validation Engineerlocations4 Locationsposted onPosted 10 Days AgoJR0277101Network Security Engineer (DevSecOps)locations2 Locationsposted onPosted 30+ Days AgoJR0275922Triton Compiler Engineerlocations3 Locationsposted onPosted 8 Days AgoJR0277157Software QA EngineerlocationsUS, California, Santa Claraposted onPosted YesterdayJR0276920AI Compiler Engineerlocations2 Locationsposted onPosted 2 Days AgoJR0277310Middleware Development Engineerlocations2 Locationsposted onPosted TodayJR0277312Information Security System Officer (ISSO)locationsUS, Arizona, Phoenixposted onPosted 3 Days AgoJR0276662.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Middleware-Development-Engineer_JR0277312?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-middleware-development-engineer-2-locations"
   }
 ]
