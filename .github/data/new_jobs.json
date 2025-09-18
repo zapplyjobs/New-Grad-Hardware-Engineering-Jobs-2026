@@ -1,32 +1,42 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "P-TECH at IBM University Co-op",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role P-TECH at IBM University Co-op",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46399&source=WEB_Search_NA",
-    "id": "ibm-p-tech-at-ibm-university-co-op-"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer Intern- Entry Level Sales Program",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer Intern- Entry Level Sales Program 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58481&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-intern-entry-level-sales-program-ship"
+    "employer_name": "Micron Technology",
+    "job_title": "Electrical & IT Tool Hook up Engineer",
+    "job_city": "Sanand",
+    "job_state": "Gujarat",
+    "job_posted_at": "a month",
+    "job_description": "• 8-10 years of proven experience in electrical & IT hookup within high-tech, cleanroom, or semiconductor manufacturing industries.\n• Bachelor’s degree in Electrical Engineering, Electronics & Communication, or a related field.\n• Hands-on experience with hookup of process tools, servers, sensors, and auxiliary systems.\n• Experience in working under ISO cleanroom standards (Class 100 – Class 10,000).\n• Excellent troubleshooting, communication, and project coordination skills.\n• Strong knowledge of LV/MV power systems, PLC/SCADA communication, and industrial IT networks.\n• Familiarity with grounding schemes, UPS backup systems, and cleanroom-compatible materials.\n• Knowledge of fiber optics, structured cabling (Cat6/Cat7), and patch panel management.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-electrical-it-tool-hook-up-engineer-sanand"
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "ASIC Hardware Design Engineer - New College Grad",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "56min",
-    "job_description": "• Design and implement RTL features (microarchitecture and RTL) with mentorship from experienced engineers.\n• Completing a Master's degree (or equivalent experience) in Electrical or Computer Engineering, or a Bachelor's degree with 6+ months of relevant experience.\n• Strong academic background in digital design and computer architecture.\n• Programming experience in Python or other scripting languages.\n• Excellent problem-solving and analytical skills.\n• Be an integral part of the team defining, developing, and delivering system-level methodologies and RTL to measure performance on the industry's leading GPUs and SOCs.\n• Learn and contribute to the development and automation of flows and methodologies to efficiently build, deliver, and support a system-level IP.\n• Support projects by applying the performance monitoring system under the guidance of senior engineers.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163423167-asic-hardware-design-engineer-new-college-grad-2025",
-    "id": "ai-jobs-asic-hardware-design-engineer-new-college-grad-us"
+    "job_title": "Computer Vision Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "10h",
+    "job_description": "• Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.\n• Proven experience in developing mobile applications that require hardware integration, such as smart glasses, including familiarity with Bluetooth or other communication protocols.\n• Understanding of responsive design principles and experience in creating intuitive, user-friendly mobile interfaces.\n• Strong troubleshooting and debugging skills, with the ability to optimize mobile app performance and battery efficiency.\n• Clear and effective written and verbal communication skills, with a demonstrated ability to collaborate successfully with cross-functional teams, including hardware engineers and UX/UI designers.\n• Knowledge of UI/UX design principles and the ability to work closely with designers to implement seamless user experiences.\n• Preferred qualificationsExperience with augmented reality (AR) or virtual reality (VR) technologies and frameworks, such as ARKit, ARCore, or Unity.\n• Experience in developing applications that utilize sensors and other hardware components, such as cameras, accelerometers, and gyroscopes.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163429470-computer-vision-engineer",
+    "id": "ai-jobs-computer-vision-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Reliability/DFX Engineer",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• This requires a detailed understanding of chip and system architecture, design, implementation, and component-level reliability.\n• Serve as the DFX/reliability champion and evangelist to align the broader industry ecosystem with OpenAI’s requirements and roadmap.\n• BS with 15+ years, MS with 10+ years, or PhD with 3+ years of relevant industry experience focused on reliability across the chip/platform stack.\n• Hands-on experience with RTL design and DFT is required.\n• Physical implementation and/or silicon ATE experience is preferred.\n• Detailed understanding of ML chip and platform architecture and ML workload characteristics is required.\n• Strong fundamentals in reliability modeling, with hands-on skills in empirical data analysis.\n• Oversee DFX architecture, implementation, and execution in silicon from concept to high-volume deployment, and propose high-ROI features to enhance reliability and fault tolerance.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163424764-reliability-dfx-engineer",
+    "id": "ai-jobs-reliability-dfx-engineer-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Developer Experience Engineer",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "2h",
+    "job_description": "• Own challenges end-to-end, proactively addressing gaps and acquiring new skills to resolve complex issues.\n• Are passionate about crafting exceptional developer experiences and creating inspirational technical content and projects.\n• Bring a robust full-stack engineering background with demonstrated experience building innovative applications using AI and large language models (LLMs).\n• Have strong user empathy and care deeply about delivering experiences developers truly appreciate.\n• Develop demos and sample applications demonstrating cutting-edge integrations and best practices using reasoning models, multimodal capabilities, and agent tools.\n• Create high-quality technical content—including tutorials, blog posts, videos, and code samples—to educate and inspire the developer community about our models, APIs, and Codex.\n• Actively engage with and foster a vibrant local and global developer ecosystem around OpenAI’s platform.\n• Represent OpenAI at developer events and online platforms, serving as a knowledgeable, approachable advocate for developers.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163424771-developer-experience-engineer",
+    "id": "ai-jobs-developer-experience-engineer-san-francisco"
   }
 ]
