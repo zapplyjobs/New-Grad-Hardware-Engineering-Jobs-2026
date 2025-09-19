@@ -1,32 +1,42 @@
 [
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Backend Software Engineer (Evals) – Support Automation Engineering",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "7h",
-    "job_description": "• Collaborate closely with data, research, and engineering teams to integrate OpenAI models into high-leverage workflowsOwn the full development lifecycle of new backend systems and internal platform capabilitiesBuild with scale and maintainability in mind, while rapidly iterating on new ideas 4+ years of backend engineering experience at product-driven companies (excluding internships)Proficiency in backend technologies.\n• Our tech stack includes Python, FastAPI, and PostgresExperience designing and scaling distributed systems, APIs, or data processing pipelinesHave experience building AI agents or applications, including designing evals and improving performance through prompting or scaffoldingAre familiar with evaluation methods for LLMs and have worked with patterns like multi-agent workflows, tool use, or long context.\n• Experience creating production evals and/or measuring performance of ML/LLM models at scaleA pragmatic mindset.\n• Design eval pipelines that are reliable, reproducible, and extendableBuild the infrastructure for continuous eval monitoring frameworks (regression/drift monitoring, building robust golden datasets) along with feedback loops that ultimately strengthen support automationDesign, build, and maintain backend services and APIs to support intelligent automation and knowledge systemsIntegrate and structure data across internal platforms, transforming it into formats optimized for use by downstream systems and AI workflows.\n• You’re comfortable shipping iteratively while building toward a long-term vision.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163527133-backend-software-engineer-evals-support-automation-engineering",
-    "id": "ai-jobs-backend-software-engineer-evals-support-automation-engineering-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Growth - AI Workflows, Martech, Creative Systems",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• Serve as a bridge between marketing, product, growth and technical teams, translating growth objectives into system requirements and scalable solutions.\n• 8+ years of growth or marketing technology experience spanning both consumer (B2C) and business (B2B) products, with a track record of designing and scaling AI-driven growth systems.\n• Deep knowledge of martech ecosystems and experience working with APIs, event streams, and cloud data warehouses.\n• Strong analytical skills with the ability to model funnels, run incrementality studies, and translate data into actionable growth strategies.\n• Experience applying AI/ML techniques (e.\n• Design and launch AI-powered creative systems (dynamic content generation, automated asset production, experimentation tooling) that enable rapid, personalized campaigns across multiple channels.\n• Build and scale a modern martech stack (data pipelines, automation platforms, experimentation frameworks) that supports sophisticated targeting, measurement, and real-time optimization.\n• Be scrappy and build MVPs, then partner with engineering to architect 0→1 infrastructure—including APIs, event triggers, and growth tools—that accelerates testing velocity and supports global rollout.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163527149-growth-ai-workflows-martech-creative-systems",
-    "id": "ai-jobs-growth-ai-workflows-martech-creative-systems-san-francisco"
+    "employer_name": "Micron Technology",
+    "job_title": "FAB Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "17 days",
+    "job_description": "• Engineer - NAND Cell ReliabilitySingapore, Singapore + 1 morePosted 4 months ago Principal Design Engineer, TSV PackagingBoise, Idaho, United States of AmericaPosted a month ago Principal Engineer, TD Device CharacterizationHyderabad, Telangana, IndiaPosted 2 months ago Intern - Process DevelopmentBoise, Idaho, United States of AmericaPosted a day ago.",
+    "job_apply_link": "https://careers.micron.com/careers/job/30934370",
+    "id": "micron-technology-fab-engineer-boise"
   },
   {
     "employer_name": "Google",
-    "job_title": "YouTube Content Partner Engineer",
-    "job_city": "San Bruno",
+    "job_title": "Central Processing Unit Physical Design Implementation Engineer - Mountain View Physical Design Implementation Engineer",
+    "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role YouTube Content Partner Engineer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/90155723828142790-youtube-content-partner-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=5",
-    "id": "google-youtube-content-partner-engineer-san-bruno"
+    "job_description": "hardware engineering job for the role Central Processing Unit Physical Design Implementation Engineer - Mountain View Physical Design Implementation Engineer",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/117729276429509318-central-processing-unit-physical-design-implementation-engineer-mountain-view-physical-design-implementation-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2",
+    "id": "google-central-processing-unit-physical-design-implementation-engineer-mountain-view-physical-design-implementation-engineer-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Core",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer III, Core",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/128372548986380998-software-engineer-iii-core?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=8",
+    "id": "google-software-engineer-iii-core-san-francisco"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML, Labs",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer III, AI/ML, Labs",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/131391807916253894-software-engineer-iii-aiml-labs?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=8",
+    "id": "google-software-engineer-iii-ai-ml-labs-mountain-view"
   }
 ]
