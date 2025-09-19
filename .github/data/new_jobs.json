@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Hardware Engineer - Semiconductor",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Intern 2026: Hardware Engineer - Semiconductor",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58770&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-hardware-engineer-semiconductor-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Site Reliability Engineer",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Intern 2026: Site Reliability Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59673&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-site-reliability-engineer-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Software Engineer - Semiconductor",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Intern 2026: Software Engineer - Semiconductor",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59691&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-software-engineer-semiconductor-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intellectual Property Intern",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Intellectual Property Intern",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59674&source=WEB_Search_NA",
+    "id": "ibm-intellectual-property-intern-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Research Scientist - Semiconductor",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Intern 2026: Research Scientist - Semiconductor",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59978&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-research-scientist-semiconductor-ship"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Growth - B2B / B2C Funnel Optimizations",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• 8+ years in growth roles, ideally with experience scaling both consumer and enterprise offerings.\n• Deep analytical skills: comfortable with funnel modeling, segmentation, cohort analysis, and experimentation design.\n• Experience working with data / experimentation platforms (e.\n• Hands-on experience instrumenting growth stacks (tracking, events, CRM/lifecycle systems) to enable granular measurement across B2B and B2C funnels.\n• Proven track record running and scaling full-funnel growth programs with strong ROI and impact.\n• A/B testing, attribution systems).\n• Strong cross-functional collaboration with product, engineering, design, and analytics teams.\n• Ability to context-switch between strategic modeling (market sizing, marginal ROI) and tactical execution (channel-level ops, creative/value prop testing, funnel QA).",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527140-growth-b2b-b2c-funnel-optimizations",
+    "id": "ai-jobs-growth-b2b-b2c-funnel-optimizations-"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Growth - B2B / B2C Funnel Optimizations",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• 8+ years in growth roles, ideally with experience scaling both consumer and enterprise offerings.\n• Deep analytical skills: comfortable with funnel modeling, segmentation, cohort analysis, and experimentation design.\n• Experience working with data / experimentation platforms (e.\n• Hands-on experience instrumenting growth stacks (tracking, events, CRM/lifecycle systems) to enable granular measurement across B2B and B2C funnels.\n• Proven track record running and scaling full-funnel growth programs with strong ROI and impact.\n• A/B testing, attribution systems).\n• Strong cross-functional collaboration with product, engineering, design, and analytics teams.\n• Ability to context-switch between strategic modeling (market sizing, marginal ROI) and tactical execution (channel-level ops, creative/value prop testing, funnel QA).",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527147-growth-b2b-b2c-funnel-optimizations",
+    "id": "ai-jobs-growth-b2b-b2c-funnel-optimizations-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Growth - AI Workflows, Martech, Creative Systems",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Serve as a bridge between marketing, product, growth and technical teams, translating growth objectives into system requirements and scalable solutions.\n• 8+ years of growth or marketing technology experience spanning both consumer (B2C) and business (B2B) products, with a track record of designing and scaling AI-driven growth systems.\n• Deep knowledge of martech ecosystems and experience working with APIs, event streams, and cloud data warehouses.\n• Strong analytical skills with the ability to model funnels, run incrementality studies, and translate data into actionable growth strategies.\n• Experience applying AI/ML techniques (e.\n• Design and launch AI-powered creative systems (dynamic content generation, automated asset production, experimentation tooling) that enable rapid, personalized campaigns across multiple channels.\n• Build and scale a modern martech stack (data pipelines, automation platforms, experimentation frameworks) that supports sophisticated targeting, measurement, and real-time optimization.\n• Be scrappy and build MVPs, then partner with engineering to architect 0→1 infrastructure—including APIs, event triggers, and growth tools—that accelerates testing velocity and supports global rollout.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527148-growth-ai-workflows-martech-creative-systems",
+    "id": "ai-jobs-growth-ai-workflows-martech-creative-systems-"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Growth - Emails, Notifications and Lifecycle",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• 8+ years of growth experience spanning both consumer (B2C) and business (B2B) products, with a track record of scaling email, push, and in-app messaging platforms and growth initiatives driving activation, engagement, and paid conversion.\n• Hands-on experience with automation, email, and messaging platforms (e.\n• Strong analytical skills with the ability to model consumer funnels and lead-to-customer pipelines, leveraging data to identify growth opportunities and measure impact.\n• Deep expertise in audience segmentation, targeting, and multi-channel orchestration (email, push, in-app, SMS) across self-serve consumer funnels and multi-stakeholder B2B purchase journeys.\n• , SendGrid, Braze, Iterable, Customer.\n• Io, Marketo) and comfort working with APIs, event triggers, and CRM data.\n• Proven ability to design and interpret experimentation and measurement frameworks—A/B tests, multivariate testing, and incrementality studies—to optimize lifecycle touchpoints across different customer types.\n• Demonstrated success collaborating cross-functionally with product, engineering, design, sales, and analytics teams to build scalable lifecycle programs and nurture both individual users and enterprise accounts.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527145-growth-emails-notifications-and-lifecycle",
+    "id": "ai-jobs-growth-emails-notifications-and-lifecycle-"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Growth - Emails, Notifications and Lifecycle",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• 8+ years of growth experience spanning both consumer (B2C) and business (B2B) products, with a track record of scaling email, push, and in-app messaging platforms and growth initiatives driving activation, engagement, and paid conversion.\n• Hands-on experience with automation, email, and messaging platforms (e.\n• Strong analytical skills with the ability to model consumer funnels and lead-to-customer pipelines, leveraging data to identify growth opportunities and measure impact.\n• Deep expertise in audience segmentation, targeting, and multi-channel orchestration (email, push, in-app, SMS) across self-serve consumer funnels and multi-stakeholder B2B purchase journeys.\n• , SendGrid, Braze, Iterable, Customer.\n• Io, Marketo) and comfort working with APIs, event triggers, and CRM data.\n• Proven ability to design and interpret experimentation and measurement frameworks—A/B tests, multivariate testing, and incrementality studies—to optimize lifecycle touchpoints across different customer types.\n• Demonstrated success collaborating cross-functionally with product, engineering, design, sales, and analytics teams to build scalable lifecycle programs and nurture both individual users and enterprise accounts.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527146-growth-emails-notifications-and-lifecycle",
+    "id": "ai-jobs-growth-emails-notifications-and-lifecycle-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Software Engineer, Data Infrastructure - Research",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Collaborate with teammates to integrate datasets seamlessly into training and inference pipelines, ensuring smooth adoption and a great user experience.\n• Have strong engineering fundamentals with experience in distributed systems, data pipelines, or infrastructure.\n• Have experience building APIs, modular code, and scalable abstractions, while recognizing that abstractions ultimately serve the users and UX is an important part of the abstractions design.\n• Have background knowledge in data math, probability, or distributed data theory.\n• Design and maintain standardized dataset APIs, including for multimodal (MM) data that cannot fit in memory.\n• Build proactive testing and scale validation pipelines for dataset loading at GPU scale.\n• Document and maintain dataset interfaces so they are discoverable, consistent, and easy for other teams to adopt.\n• Establish safeguards and validation systems to ensure datasets remain reproducible and unchanged once standardized.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527131-software-engineer-data-infrastructure-research",
+    "id": "ai-jobs-software-engineer-data-infrastructure-research-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Fullstack Engineer, Intelligence Systems",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Prototype, build, and maintain at-scale intelligence systems that detect, triage, and monitor targeted signals from both open-source and internal dataAnalyze requirements and deliver end-to-end solutions that address complex intelligence challenges while ensuring code quality and scalabilityBe a crucial technical bridge between our Intelligence needs and technical teams like Platform Integrity, Safety Systems, and ResearchContribute to shaping the team’s technical strategy and design user interfaces for non-technical investigators and analystsPrototype new applications to automate team workflows and route leadsReport on scaled impact using advanced data analysis and visualization productsWork closely with internal stakeholders and address their technical intelligence needs Strong technical background and proven track record of building and maintaining systems that enable users to make sense of large, open-domain datasets, fight abuse, and inform high-stakes decisions.\n• Experience in engineering and project management, ideally with a focus on security, intelligence, or data analysis products.\n• Demonstrated ability to leverage cross-functional teams, manage complex product ecosystems, and deliver results in a fast-paced and sometimes ambiguous environment.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163527137-fullstack-engineer-intelligence-systems",
+    "id": "ai-jobs-fullstack-engineer-intelligence-systems-"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Search Modalities",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer III, Infrastructure, Search Modalities",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/129857525339038406-software-engineer-iii-infrastructure-search-modalities?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
+    "id": "google-software-engineer-iii-infrastructure-search-modalities-mountain-view"
+  }
+]
