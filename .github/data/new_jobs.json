@@ -1,52 +1,82 @@
 [
   {
-    "employer_name": "Marvel Technology",
-    "job_title": "Principle Application Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Cloud Engineering",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Intern 2026: Quantum Cloud Engineering",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60200&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-cloud-engineering-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Computing Applications Research",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Intern 2026: Quantum Computing Applications Research",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59976&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-computing-applications-research-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Warehouse Production Operator",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Warehouse Production Operator",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59662&source=WEB_Search_NA",
+    "id": "ibm-warehouse-production-operator-poughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI Inference Optimization Engineer",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Intern 2026: AI Inference Optimization Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60197&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-inference-optimization-engineer-ship"
+  },
+  {
+    "employer_name": "Siemens",
+    "job_title": "Mechanical Assembler III - 3rd Shift",
+    "job_city": "Wendell",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Mechanical Assembler III - 3rd Shift",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-mechanical-assembler-iii-3rd-shift-wendell"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Network Engineer",
+    "job_city": "Doral",
+    "job_state": "FL",
     "job_posted_at": "Posted Today",
-    "job_description": "• Principle Application EngineerlocationsSanta Clara, CAposted onPosted Today2502590Senior Staff Application EngineerlocationsSanta Clara, CAposted onPosted Today2502591Software Engineer Intern - Master's DegreelocationsSanta Clara, CAposted onPosted Today2502348Senior Staff Test EngineerlocationsSanta Clara, CAposted onPosted Yesterday2500517Senior Principal Applications Engineering - Network ValidationlocationsSanta Clara, CAposted onPosted Yesterday2500444Staff Applications Engineering - Network ValidationlocationsSanta Clara, CAposted onPosted Yesterday2402288Hardware & Silicon Validation Senior Staff EnigneerlocationsWestborough, MAposted onPosted Yesterday2501492Senior System Validation EngineerlocationsSanta Clara, CAposted onPosted Yesterday2501635Principal Engineer - Silicon Validation EngineerlocationsSanta Clara, CAposted onPosted Yesterday2501012Principal Hardware Design EngineerlocationsSanta Clara, CAposted onPosted Yesterday2502089Senior Staff Post-Silicon Validation EngineerlocationsSanta Clara, CAposted onPosted Yesterday2500906Director Customer Support - US Customer Solutions GrouplocationsSanta Clara, CAposted onPosted Yesterday2501136SERDES Validation DirectorlocationsSanta Clara, CAposted onPosted Yesterday2502830Principal Optical EngineerlocationsSanta Clara, CAposted onPosted Yesterday2501175Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted Yesterday2501515Test Hardware EngineerlocationsSanta Clara, CAposted onPosted Yesterday2502222Staff Validation EngineerlocationsUS - NY - Hudson Valleyposted onPosted Yesterday2501466Sr.\n• Principal Photonics Engineerlocations2 Locationsposted onPosted Yesterday2501627Sr.\n• Principal Thermal, Automation and Mechanical Engineerlocations2 Locationsposted onPosted Yesterday2501626Sr.\n• Principal Product Engineerlocations2 Locationsposted onPosted Yesterday2501624.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principle-Application-Engineer_2502590?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-principle-application-engineer-santa-clara"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "PMTS Software Development Engineer",
-    "job_city": "US",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/70776/login",
-    "id": "amd-pmts-software-development-engineer-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Field Applications Engineer",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/70808/login",
-    "id": "amd-field-applications-engineer-us"
+    "job_description": "• University, Hardware Engineer InternlocationsRoseville, CAposted onPosted 15 Days AgoR0225555 University - Hardware EngineerlocationsRoseville, CAposted onPosted 15 Days AgoR0225563 Network EngineerlocationsCollege Park, MDposted onPosted 30+ Days AgoR0223445 Embedded Engineer, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 30+ Days AgoR0215354 Network Engineer, Leadlocations2 Locationsposted onPosted 21 Days AgoR0225420.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Doral-FL/Network-Engineer_R0226633?q=hardware+engineering",
+    "id": "bae-systems-network-engineer-doral"
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Hardware Development Engineer, Mechanical/Thermal/Robotics, Hardware Engineering Services",
-    "job_city": "Seattle",
+    "job_title": "Interdisciplinary Sys Engineer, GES NA Ops Engineering",
+    "job_city": "Bellevue",
     "job_state": "WA",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Hardware Development Engineer, Mechanical/Thermal/Robotics, Hardware Engineering Services",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3089029/hardware-development-engineer-mechanical-thermal-robotics-hardware-engineering-services",
-    "id": "amazon-hardware-development-engineer-mechanical-thermal-robotics-hardware-engineering-services-seattle"
+    "job_posted_at": "1 month",
+    "job_description": "hardware engineering job for the role Interdisciplinary Sys Engineer, GES NA Ops Engineering",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3053081/interdisciplinary-sys-engineer-ges-na-ops-engineering",
+    "id": "amazon-interdisciplinary-sys-engineer-ges-na-ops-engineering-bellevue"
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Project Design Electrical Engineer, Fleet Remediation Engineering",
-    "job_city": "Hermiston",
-    "job_state": "OR",
+    "job_title": "Mechanical Engineer, Critical Infrastructure , Field Engineering",
+    "job_city": "Columbus",
+    "job_state": "OH",
     "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Project Design Electrical Engineer, Fleet Remediation Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3088806/project-design-electrical-engineer-fleet-remediation-engineering",
-    "id": "amazon-project-design-electrical-engineer-fleet-remediation-engineering-hermiston"
+    "job_description": "hardware engineering job for the role Mechanical Engineer, Critical Infrastructure , Field Engineering",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3089221/mechanical-engineer-critical-infrastructure-field-engineering",
+    "id": "amazon-mechanical-engineer-critical-infrastructure-field-engineering-columbus"
   }
 ]
