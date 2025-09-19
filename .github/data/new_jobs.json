@@ -1,52 +1,92 @@
 [
   {
+    "employer_name": "Siemens",
+    "job_title": "Quality Control Hourly Technician - Breaker",
+    "job_city": "Fort Worth",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Quality Control Hourly Technician - Breaker",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-quality-control-hourly-technician-breaker-fort-worth"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Systems Engineer",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_posted_at": "Posted Today",
+    "job_description": "• University, Hardware Engineer InternlocationsRoseville, CAposted onPosted 15 Days AgoR0225555 University - Hardware EngineerlocationsRoseville, CAposted onPosted 15 Days AgoR0225563 Network EngineerlocationsCollege Park, MDposted onPosted 30+ Days AgoR0223445 Manufacturing and Engineering Flagship LeadlocationsLorton, VAposted onPosted 30+ Days AgoR0222472 Embedded Engineer, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 30+ Days AgoR0215354 Network Engineer, Leadlocations2 Locationsposted onPosted 21 Days AgoR0225420.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Systems-Engineer_R0226569?q=hardware+engineering",
+    "id": "bae-systems-systems-engineer-huntsville"
+  },
+  {
     "employer_name": "General Dynamics",
-    "job_title": "Radio FSR, Camp Arifjan, Kuwait. Secret Clearance Required",
+    "job_title": "Linux Systems Engineer - TS/SCI w/Poly",
     "job_city": "ational",
     "job_state": "US",
     "job_posted_at": "Posted Today",
     "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/International/Radio-FSR--Camp-Arifjan--Kuwait-Secret-Clearance-Required_RQ207623-1?q=hardware+engineering",
-    "id": "general-dynamics-radio-fsr-camp-arifjan-kuwait-secret-clearance-required-ational"
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/International/Linux-Systems-Engineer---TS-SCI-w-Poly_RQ207430?q=hardware+engineering",
+    "id": "general-dynamics-linux-systems-engineer-ts-sci-w-poly-ational"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "AWS Systems Engineer (TS/SCI with Poly REQUIRED)",
+    "job_city": "USA VA Chantilly",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/AWS-Systems-Engineer--TS-SCI-with-Poly-REQUIRED-_RQ207619?q=hardware+engineering",
+    "id": "general-dynamics-aws-systems-engineer-ts-sci-with-poly-required-usa-va-chantilly"
   },
   {
     "employer_name": "AMD",
-    "job_title": "MTS IT Engineer",
+    "job_title": "MTS Software Development Engineer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Recently",
+    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.\n• Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/70763/login",
+    "id": "amd-mts-software-development-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "PMTS Systems Design Engineer",
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/70630/login",
-    "id": "amd-mts-it-engineer-us"
+    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.\n• Performing hardware and software verification.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/70765/login",
+    "id": "amd-pmts-systems-design-engineer-us"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "SMTS Software Development Engineer",
-    "job_city": "US",
-    "job_state": "TX",
+    "employer_name": "RIVIAN",
+    "job_title": "Tracking Engineer, Perception, Autonomy",
+    "job_city": "Palo Alto",
+    "job_state": "California US",
     "job_posted_at": "Recently",
-    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/70624/login",
-    "id": "amd-smts-software-development-engineer-us"
+    "job_description": "• Experience in robotics, active safety, or autonomous systems preferred.\n• Bachelor’s/Master’s/PhD in Computer Science, Robotics, Electrical Engineering, or a related field.\n• Proven ability to work in complex, large-scale codebases and deliver high-quality solutions.",
+    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/26432/login",
+    "id": "rivian-tracking-engineer-perception-autonomy-palo-alto"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "MTS Software System Design Eng.",
-    "job_city": "US",
+    "employer_name": "RIVIAN",
+    "job_title": "Perception System Eval Engineer, Perception, Autonomy",
+    "job_city": "Palo Alto",
+    "job_state": "California US",
+    "job_posted_at": "Recently",
+    "job_description": "• Experience in Perception, Tracking, or Robotics domains (evaluation, sensor fusion, or ML systems preferred).\n• Build scalable tools and pipelines to measure accuracy, robustness, and reliability across large-scale datasets and real-world fleet data.\n• Demonstrated ability to build scalable tools and infrastructure supporting R&D and fleet deployment.\n• Bachelor’s/Master’s/PhD in Computer Science, Robotics, or a related field.",
+    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/26433/login",
+    "id": "rivian-perception-system-eval-engineer-perception-autonomy-palo-alto"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Google Ads",
+    "job_city": "Irvine",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/70735/login",
-    "id": "amd-mts-software-system-design-eng-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "MTS Sys/Test Validation Eng.",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/70696/login",
-    "id": "amd-mts-sys-test-validation-eng-us"
+    "job_description": "hardware engineering job for the role Software Engineer III, Infrastructure, Google Ads",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/106273000923243206-software-engineer-iii-infrastructure-google-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=5",
+    "id": "google-software-engineer-iii-infrastructure-google-ads-irvine"
   }
 ]
