@@ -1,12 +1,1 @@
-[
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Software QA Test Developer, Robotics",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Or equivalent experience in Mechanical/Electrical/Computer Engineering or related field (or equivalent experience)5+ years of Hardware or Robotics engineering experience with 3+ yrs of demonstrable experience focused on Quality Assurance in these areasProficiency with AI Tools such as Cursor, Github Copilot, Perplexity, and ChatGPTExperience with ML and training /testing Robotics ModelsFleet management, telemetry, debug, along with managing executive demos Strong SWQA and QA tooling work experience in relation to Robotics testingUnderstanding of Teleoperation – Manipulation and setting up data collection labsFluent in scripting in Python.\n• Write test automation development for “On-Robot Hardware & Software” and embedded software running on our NVIDIA Jetson AGX Thor platform encompassing sensor integration validation, real-time performance, and low-level control systems.\n• Build and maintain the test infrastructure within our “Simulation & Digital Twins” environments, Isaac Sim and Isaac Lab, developing automated tests verifying physics engine accuracy and the transferability of learned policies from simulation to the real robot.\n• Write test automation development for the full “Robotics Software Stack”, including Isaac ROS, and its integration with other robotic components.\n• Architect, build, and maintain the test infrastructure for a humanoid reference platform showcasing the power of NVIDIA's technology and develop testing methodologies bridging the \"sim-to-real\" gap, creating a continuous feedback loop between virtual and physical testing.\n• You'll lead the design of complex test scenarios in Isaac Sim/Lab that use generative AI to stress-test robot policies, ensuring that models trained in simulation (using Isaac GR00T) perform reliably on real physical hardware.\n• Guide crafting intricate test scenarios in Isaac Sim/Lab with generative AI to test robot policies, ensuring simulation-trained models (using Isaac GR00T) function on physical hardware.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163776372-software-qa-test-developer-robotics",
-    "id": "ai-jobs-software-qa-test-developer-robotics-us"
-  }
-]
+[]
