@@ -1,22 +1,62 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Physical Design Implementation Engineer, CPU",
-    "job_city": "Mountain View",
+    "employer_name": "Siemens",
+    "job_title": "Mechanical Engineer - Hardware & Devices",
+    "job_city": "Buffalo Grove",
+    "job_state": "Illinois",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Mechanical Engineer - Hardware & Devices",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-mechanical-engineer-hardware-devices-buffalo-grove"
+  },
+  {
+    "employer_name": "Siemens",
+    "job_title": "Electro Mechanical Assembly Operator - 2nd shift",
+    "job_city": "Pomona",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Electro Mechanical Assembly Operator - 2nd shift",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-electro-mechanical-assembly-operator-2nd-shift-pomona"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "System Hardware Development & Validation Engineer",
+    "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Physical Design Implementation Engineer, CPU",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/117729276429509318-physical-design-implementation-engineer-cpu?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2",
-    "id": "google-physical-design-implementation-engineer-cpu-mountain-view"
+    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/70939/login",
+    "id": "amd-system-hardware-development-validation-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Test and Product Engineer, Client APU",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "• Experience with Power Sequencing, PCIe, USB, JTAG, GPIO, I2C/I3C, and DDR interfaces.\n• Unix and Windows proficiency Transferable Experience in Semiconductors: Requires some combination of expertise in semiconductor design, architecture, product test, product engineering, semiconductor physics and/or semiconductor manufacturing.\n• This is a high-visibility position and requires an individual that can lead and execute on a tight schedule.\n• Work with internal teams and external partners/customers to define and release an optimal mix of SOC product variants to meet customer needs while achieving internal manufacturing and cost requirements.\n• Identify thermal and electrical design requirements for SOC products and develop and optimize test programs to enable operation across the manufacturing process window.\n• ) Adaptable: Ability to adjust to factors on the ground, guiding your team to deliver solutions while navigating real-time changes to business or customer requirements.\n• Collaborate with hardware design engineers and other development teams to establish specifications for infrastructure required to support production test and debug.\n• Deliver innovative product test solutions consisting of hardware, software, and test content to achieve cost and quality requirements of the product.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/71743/login",
+    "id": "amd-test-and-product-engineer-client-apu-us"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Intern Machine Learning Engineer",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "• Experienced Professionals Whatyou could be doing as a Machine Learning Intern.",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/intern-machine-learning-engineer/33099/85831486304",
+    "id": "arm-intern-machine-learning-engineer-san-jose"
   },
   {
     "employer_name": "Google",
-    "job_title": "Associate Software Engineer, Google Public Sector, Cloud Infrastructure",
-    "job_city": "Reston",
-    "job_state": "VA",
+    "job_title": "Software Engineer III, Front End, Google Analytics",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Associate Software Engineer, Google Public Sector, Cloud Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/84471802763322054-associate-software-engineer-google-public-sector-cloud-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3",
-    "id": "google-associate-software-engineer-google-public-sector-cloud-infrastructure-reston"
+    "job_description": "hardware engineering job for the role Software Engineer III, Front End, Google Analytics",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/79996534887719622-software-engineer-iii-front-end-google-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=7",
+    "id": "google-software-engineer-iii-front-end-google-analytics-mountain-view"
   }
 ]
