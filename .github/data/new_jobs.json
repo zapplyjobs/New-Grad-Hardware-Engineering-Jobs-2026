@@ -1,62 +1,52 @@
 [
   {
-    "employer_name": "Siemens",
-    "job_title": "Mechanical Engineer - Hardware & Devices",
-    "job_city": "Buffalo Grove",
-    "job_state": "Illinois",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Mechanical Engineer - Hardware & Devices",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-mechanical-engineer-hardware-devices-buffalo-grove"
+    "employer_name": "Micron Technology",
+    "job_title": "Probe Equipment Maintenance Technician - Manassas",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "17 hours",
+    "job_description": "• Basic to intermediate knowledge of AC/DC circuits including fundamentals of electricity, and basic electronic components and circuits Experience in semiconductor test equipment and probe process equipment, solid communication skills.\n• AAS in Electronics, Mechatronics, Robotics or similar, or, BS in Electronics Engineering Technology, or equivalent military experience An education in Electronics Engineering Technology or a related field of study or equivalent including equivalent military experience, or equivalent industry experience Ability to work 12-hour shifts (3 on/4 off and 4 on/3 off) with the need to stand the entire shift and lift equipment up to 60lbs Experience in data extraction, analysis, and reporting.\n• Basic PC skills including MS Office Word, Excel, and PowerPoint Rebuilds manufacturing equipment as required Intern – Fab Equipment Maintenance TechnicianManassas, Virginia, United States of AmericaPosted 20 days ago Senior Test Equipment TechnicianBatu Kawan, Pulau Pinang (Penang), MalaysiaPosted 5 months ago Senior Test Equipment TechnicianBatu Kawan, Pulau Pinang (Penang), MalaysiaPosted 7 months ago.\n• Basic knowledge and understanding of semiconductor equipment and processes, along with accurate application of statistical process control principles.\n• Basic understanding of mathematical concepts and problem solving, at least to an algebraic level.\n• Basic knowledge of test and calibration equipment (O-scopes, DMMs, etc.\n• Basic to intermediate knowledge of the specific area equipment and processes.\n• Basic understanding of SPC principles and proper application.",
+    "job_apply_link": "https://careers.micron.com/careers/job/30552918",
+    "id": "micron-technology-probe-equipment-maintenance-technician-manassas-manassas"
   },
   {
-    "employer_name": "Siemens",
-    "job_title": "Electro Mechanical Assembly Operator - 2nd shift",
-    "job_city": "Pomona",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Electro Mechanical Assembly Operator - 2nd shift",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-electro-mechanical-assembly-operator-2nd-shift-pomona"
+    "employer_name": "Micron Technology",
+    "job_title": "Process Integration Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "17 hours",
+    "job_description": "• Less than 2 years NTI NAND Senior/Principal Process Integration EngineerSingapore, SingaporePosted 7 months ago NTI NAND Senior/Principal Process Integration EngineerSingapore, SingaporePosted 5 months ago NTI NAND Senior/Principal Process Integration EngineerSingapore, SingaporePosted 6 months ago NTI NAND Senior/Principal Process Integration EngineerSingapore, SingaporePosted 7 months ago NTI NAND Senior/Principal Process Integration EngineerSingapore, SingaporePosted 7 months ago NTI NAND Senior/Principal Process Integration EngineerSingapore, SingaporePosted a month ago NTI NAND Senior/Principal Process Integration EngineerSingapore, SingaporePosted 8 days ago.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38111439",
+    "id": "micron-technology-process-integration-engineer-boise"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "System Hardware Development & Validation Engineer",
-    "job_city": "US",
+    "employer_name": "Micron Technology",
+    "job_title": "Failure Analysis Product and Process Technician",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "17 hours",
+    "job_description": "• Bachelor’s degree in a related technical field or equivalent military/industry experience.\n• 2+ years of experience in a laboratory environment using complex imaging tools and chemical handling.\n• Associate of Applied Science (AAS) or Associate of Science (AS) degree in Mechatronics, Electronics, Mechanical Engineering, Science, Physics, Mathematics, or Supply Chain Management or equivalent experience.\n• Experience working safely with hazardous chemicals and fragile silicon wafers, including use of PPE.\n• Introductory data analysis skills and ability to alternate between lab tasks and yield monitoring.\n• Alternate between imaging tool operation, wafer handling, and yield monitoring tasks as needed.\n• Experience supporting cross-functional engineering teams in a high-tech manufacturing environment.\n• Proven track record of identifying performance gaps and implementing strategic improvements.",
+    "job_apply_link": "https://careers.micron.com/careers/job/30866747",
+    "id": "micron-technology-failure-analysis-product-and-process-technician-manassas"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Logistics Personnel Scheduler",
+    "job_city": "Warner Robins",
+    "job_state": "GA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Electronics Engineer, SeniorlocationsLexington, MAposted onPosted 5 Days AgoR0226410 Digital Engineer, LeadlocationsEl Segundo, CAposted onPosted 20 Days AgoR0225496.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Network-Engineer--Mid_R0226115?q=hardware+engineering",
+    "id": "bae-systems-logistics-personnel-scheduler-warner-robins"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Hardware Development Engineer II, AWS Mainstream Compute",
+    "job_city": "Cupertino",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/70939/login",
-    "id": "amd-system-hardware-development-validation-engineer-us"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Test and Product Engineer, Client APU",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "• Experience with Power Sequencing, PCIe, USB, JTAG, GPIO, I2C/I3C, and DDR interfaces.\n• Unix and Windows proficiency Transferable Experience in Semiconductors: Requires some combination of expertise in semiconductor design, architecture, product test, product engineering, semiconductor physics and/or semiconductor manufacturing.\n• This is a high-visibility position and requires an individual that can lead and execute on a tight schedule.\n• Work with internal teams and external partners/customers to define and release an optimal mix of SOC product variants to meet customer needs while achieving internal manufacturing and cost requirements.\n• Identify thermal and electrical design requirements for SOC products and develop and optimize test programs to enable operation across the manufacturing process window.\n• ) Adaptable: Ability to adjust to factors on the ground, guiding your team to deliver solutions while navigating real-time changes to business or customer requirements.\n• Collaborate with hardware design engineers and other development teams to establish specifications for infrastructure required to support production test and debug.\n• Deliver innovative product test solutions consisting of hardware, software, and test content to achieve cost and quality requirements of the product.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/71743/login",
-    "id": "amd-test-and-product-engineer-client-apu-us"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Intern Machine Learning Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "• Experienced Professionals Whatyou could be doing as a Machine Learning Intern.",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/intern-machine-learning-engineer/33099/85831486304",
-    "id": "arm-intern-machine-learning-engineer-san-jose"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Front End, Google Analytics",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Front End, Google Analytics",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/79996534887719622-software-engineer-iii-front-end-google-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=7",
-    "id": "google-software-engineer-iii-front-end-google-analytics-mountain-view"
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer II, AWS Mainstream Compute",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3089771/hardware-development-engineer-ii-aws-mainstream-compute",
+    "id": "amazon-hardware-development-engineer-ii-aws-mainstream-compute-cupertino"
   }
 ]
