@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Amazon",
-    "job_title": "Electrical Engineer, Colocation Regional Engineering (CRE)",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_posted_at": "4 months",
-    "job_description": "hardware engineering job for the role Electrical Engineer, Colocation Regional Engineering (CRE)",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/2981073/electrical-engineer-colocation-regional-engineering-cre",
-    "id": "amazon-electrical-engineer-colocation-regional-engineering-cre-phoenix"
+    "employer_name": "IBM",
+    "job_title": "System Service Representative - Roanoke, VA",
+    "job_city": "ASHBURN",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role System Service Representative - Roanoke, VA",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59914&source=WEB_Search_NA",
+    "id": "ibm-system-service-representative-roanoke-va-ashburn"
+  },
+  {
+    "employer_name": "Marvel Technology",
+    "job_title": "Firmware Engineer Intern - Bachelor's Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Firmware Engineer Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Today2502359Senior Staff Application EngineerlocationsSanta Clara, CAposted onPosted Yesterday2502591Senior Staff Firmware EngineerlocationsSanta Clara, CAposted onPosted 3 Days Ago2502816Principle Application EngineerlocationsSanta Clara, CAposted onPosted 4 Days Ago2502590Software Engineer Intern - Master's DegreelocationsSanta Clara, CAposted onPosted 4 Days Ago2502348Senior Staff Test EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2500517Senior Principal Applications Engineering - Network ValidationlocationsSanta Clara, CAposted onPosted 5 Days Ago2500444Hardware & Silicon Validation Senior Staff EnigneerlocationsWestborough, MAposted onPosted 5 Days Ago2501492Senior System Validation EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2501635Principal Engineer - Silicon Validation EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2501012Principal Hardware Design EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2502089Senior Staff Post-Silicon Validation EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2500906Director Customer Support - US Customer Solutions GrouplocationsSanta Clara, CAposted onPosted 5 Days Ago2501136SERDES Validation DirectorlocationsSanta Clara, CAposted onPosted 5 Days Ago2502830Principal Optical EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2501175Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2501515Test Hardware EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2502222Staff Validation EngineerlocationsUS - NY - Hudson Valleyposted onPosted 5 Days Ago2501466Sr.\n• Principal Photonics Engineerlocations2 Locationsposted onPosted 5 Days Ago2501627Sr.\n• Principal Thermal, Automation and Mechanical Engineerlocations2 Locationsposted onPosted 5 Days Ago2501626.",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Bachelor-s-Degree_2502359-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvel-technology-firmware-engineer-intern-bachelor-s-degree-santa-clara"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Thermal Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "• Strong background in heat transfer and fluid dynamics with emphasis on electronics thermal management.\n• Experience developing liquid cooling solutions including design of cold plates, liquid interconnects, implementing quick disconnects, hoses, and manifolds.\n• Experience with validation of liquid cooled systems including component and system level test as well as validation for reliability.\n• CFD - Experience with CFD for liquid cooled systems with Icepak or similar tools is required.\n• CFD experience in ANSYS Icepak or AEDT is a plus.\n• CAD - Experience with SolidWorks and/or Creo is required.\n• Rack level and Datacenter and server level design experience.\n• Deep understanding of thermal management design elements including TIM, spreaders, heat sink, vapor chamber, heat pipe, and fanLab Skills - Experience with Design of Experiments, instrumentation, data acquisition and data analysis, including uncertainty analysis.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/71575/login",
+    "id": "amd-thermal-engineer-us"
   }
 ]
