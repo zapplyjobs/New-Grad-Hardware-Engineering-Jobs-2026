@@ -1,62 +1,22 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Intern - Probe Engineering",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "21 hours",
-    "job_description": "• Cooperate with other engineering departments to improve product reliability and help achieve product qualification faster Broad knowledge base of semiconductor operation, programming, statistics, pattern recognition, and computer architecture Ownership of critical thinking skills, good work ethic, and ability to work independently and in a team setting Uncover patterns in the data, model ideal product capability, and apply statistical analysis to large data Acquired skills in coding in languages such as C, C++, Perl, and/or Python.\n• Develop engineering expertise and impact time to market Knowledge of NAND cell technology is encouraged Less than 2 years Principal Product Engineer (Advance Data Analytics), Heterogeneous Integration Group (HIG), High Bandwidth Memory (HBM) Product EngineeringSingapore, SingaporePosted 2 months ago Advanced Modeling Principal EngineerBoise, Idaho, United States of AmericaPosted 3 months ago.",
-    "job_apply_link": "https://careers.micron.com/careers/job/30700221",
-    "id": "micron-technology-intern-probe-engineering-boise"
-  },
-  {
-    "employer_name": "Siemens",
-    "job_title": "Fire Alarm Systems Inspector",
-    "job_city": "Tampa",
-    "job_state": "Florida",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Fire Alarm Systems Inspector",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-fire-alarm-systems-inspector-tampa"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Network Engineer, Mid",
-    "job_city": "Fort Knox",
-    "job_state": "KY",
-    "job_posted_at": "Posted Today",
-    "job_description": "• University, Hardware Engineer InternlocationsRoseville, CAposted onPosted 18 Days AgoR0225555 University - Hardware EngineerlocationsRoseville, CAposted onPosted 18 Days AgoR0225563 Network EngineerlocationsCollege Park, MDposted onPosted 30+ Days AgoR0223445 Embedded Engineer, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 30+ Days AgoR0215354 Network Engineer, Leadlocations2 Locationsposted onPosted 24 Days AgoR0225420.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Knox-KY/Network-Engineer--Mid_R0226623?q=hardware+engineering",
-    "id": "bae-systems-network-engineer-mid-fort-knox"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Hardware Engineer",
-    "job_city": "USA MD Aberdeen",
+    "employer_name": "IBM",
+    "job_title": "Firmware Developer Intern",
+    "job_city": "ship",
     "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Aberdeen/Hardware-Engineer_RQ207730-1?q=hardware+engineering",
-    "id": "general-dynamics-hardware-engineer-usa-md-aberdeen"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Outside Plant Technician",
-    "job_city": "Woodland",
-    "job_state": "Pennsylvania",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Outside Plant TechnicianlocationsWoodland, Pennsylvaniatime typeFull timeposted onPosted TodayR-1063191Sr Analyst-Ops SuptlocationsSan Diego, Californiatime typeFull timeposted onPosted TodayR-1085073Outside Plant TechnicianlocationsBoston, Massachusettstime typeFull timeposted onPosted 2 Days AgoR-1063100Outside Plant TechnicianlocationsAltoona, Pennsylvaniatime typeFull timeposted onPosted 5 Days AgoR-1063177Engr II-Software DevelopmentlocationsHyderabad, Indiatime typeFull timeposted onPosted 5 Days AgoR-1084458Outside Plant TechnicianlocationsAllentown, Pennsylvaniatime typeFull timeposted onPosted 7 Days AgoR-1084599Marketing-Senior ManagerlocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted 11 Days AgoR-1081854Outside Plant TechnicianlocationsWoburn, Massachusettstime typeFull timeposted onPosted 11 Days AgoR-1084369Senior Network EngineerlocationsAshburn, Virginiatime typeFull timeposted onPosted 11 Days AgoR-1081192Engr III Spec-Ntwk EquipmentlocationsHaslet, Texastime typeFull timeposted onPosted 12 Days AgoR-1084160Principal Solutions ArchitectlocationsCharlotte, North Carolinatime typeFull timeposted onPosted 12 Days AgoR-1076060The University of Texas at Dallas Network Security Co-oplocationsIrving, Texastime typeFull timeposted onPosted 12 Days AgoR-1084810Outside Plant TechnicianlocationsPottsville, Pennsylvaniatime typeFull timeposted onPosted 12 Days AgoR-1083748New Jersey Institute of Technology Network Security Co-oplocationsBranchburg, New Jerseytime typeFull timeposted onPosted 13 Days AgoR-1084801Senior Software QA EngineerlocationsFirenze, Italytime typeFull timeposted onPosted 13 Days AgoR-1083399Principal Engineer of Software and Hardware Router DevelopmentlocationsIrving, Texastime typeFull timeposted onPosted 14 Days AgoR-1083779Outside Plant TechnicianlocationsCoatesville, Pennsylvaniatime typeFull timeposted onPosted 17 Days AgoR-1083632Distinguished Application Operations Engineerlocations9 Locationstime typeFull timeposted onPosted 27 Days AgoR-1069170Outside Plant TechnicianlocationsPittsfield, Massachusettstime typeFull timeposted onPosted 30+ Days AgoR-1081884.",
-    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Woodland-Pennsylvania/Outside-Plant-Technician_R-1063191?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "verizon-outside-plant-technician-woodland"
-  },
-  {
-    "employer_name": "Meta",
-    "job_title": "Research Intern, AI Systems and Machine Learning (PhD)",
-    "job_city": "Bellevue",
-    "job_state": "WA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Research Intern, AI Systems and Machine Learning (PhD)",
-    "job_apply_link": "https://www.metacareers.com",
-    "id": "meta-research-intern-ai-systems-and-machine-learning-phd-bellevue"
+    "job_description": "hardware engineering job for the role Firmware Developer Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60609&source=WEB_Search_NA",
+    "id": "ibm-firmware-developer-intern-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Computing Theory",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Intern 2026: Quantum Computing Theory",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60199&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-computing-theory-ship"
   }
 ]
