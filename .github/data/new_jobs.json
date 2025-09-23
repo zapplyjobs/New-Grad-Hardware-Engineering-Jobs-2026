@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Systems Test and Evaluation Engineer",
-    "job_city": "4 Locations",
+    "employer_name": "Siemens",
+    "job_title": "Electro Assembler - in the factory with AI-powered machines",
+    "job_city": "Fort Worth",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Electro Assembler - in the factory with AI-powered machines",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-electro-assembler-in-the-factory-with-ai-powered-machines-fort-worth"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "Emulation Engineer (Model Enabling and Verification)",
+    "job_city": "3 Locations",
     "job_state": "US",
     "job_posted_at": "Posted Yesterday",
-    "job_description": "• Information System Security ManagerlocationsMountain Home AFB, IDposted onPosted 13 Days AgoR0225993 Configuration Manager, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 15 Days AgoR0224944 Information System Security ManagerlocationsNellis AFB, NVposted onPosted 13 Days AgoR0225978 Acoustic Intelligence Analyst, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0223620 Mission Systems Technical Engineer, LeadlocationsAustraliaposted onPosted 5 Days AgoR0214321 Information System Security ManagerlocationsGoldsboro, NCposted onPosted 11 Days AgoR0225987 Information System Security ManagerlocationsEglin AFB, FLposted onPosted 13 Days AgoR0225995 Software Configuration ManagerlocationsLorton, VAposted onPosted 27 Days AgoR0225143 Software Integrator, SeniorlocationsBelcamp, MDposted onPosted 28 Days AgoR0224959 Configuration ManagerlocationsClearfield, UTposted onPosted 30+ Days AgoR0221684.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Systems-Test-and-Evaluation-Engineer_R0226307?q=hardware+engineering",
-    "id": "bae-systems-systems-test-and-evaluation-engineer-4-locations"
+    "job_description": "• Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted YesterdayJR0277472CPU Formal Verification Engineerlocations3 Locationsposted onPosted 12 Days AgoJR0277286MCP Emulation Verification Engineerlocations5 Locationsposted onPosted 4 Days AgoJR0277364Government Information Security Engineerlocations4 Locationsposted onPosted 13 Days AgoJR0276257Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted YesterdayJR0276922Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0277455FVCTO - Formal Verification Senior Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276239Senior Simulation Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0276608Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276605Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276607GPU Logic Design Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0275905PnP AI software engineer - tools developmentlocations2 Locationsposted onPosted YesterdayJR0277318Senior IP Design Verification Engineerlocations3 Locationsposted onPosted 7 Days AgoJR0277349Senior IP Design Verification Engineerlocations3 Locationsposted onPosted 4 Days AgoJR0277347IP Enablement Application Engineerlocations3 Locationsposted onPosted 14 Days AgoJR0273988Senior Pre-Silicon Design Verification Engineerlocations4 Locationsposted onPosted 7 Days AgoJR0277344Senior CPU Circuit Design EngineerlocationsUS, Texas, Austinposted onPosted 14 Days AgoJR0277119Emulation Engineer (Model Enabling and Verification)locations3 Locationsposted onPosted YesterdayJR0277345Senior SOC Design Engineer - Physical Design and IntegrationlocationsUS, Oregon, Hillsboroposted onPosted 7 Days AgoJR0277363Clocking Design Engineerlocations2 Locationsposted onPosted 14 Days AgoJR0277092.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Emulation-Engineer--Model-Enabling-and-Verification-_JR0277345?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-emulation-engineer-model-enabling-and-verification-3-locations"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "ASIC Verification Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "6h",
+    "job_description": "• Bachelors or Masters in Computer Science, Computer Engineering, Electrical Engineering or closely related degree (or equivalent experience)2+ years of experienceExperience with verification methodology, creating reusable verification componentsKnowledgeable in verification using random stimulus along with functional coverage and assertion-based verification methodologiesFluency in Object Oriented Programming with SystemVerilogExposure to design and verification tools (VCS or equivalent simulation tools, debug tools like Debussy, GDB), and methodologies (UVM or equivalent)Your work displays a passion for debugging and strong problem solving skillsStrong communication skills are required Prior verification experience related to high speed IO protocols, or memory coherence is a big plusExperience debugging embedded firmware code (C or RISCV Assembly)Knowledgeable in embedded microcontrollers and/or RISCV ArchitectureExperience writing verification plansStrong verification mindset and intuition.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164450067-asic-verification-engineer",
+    "id": "ai-jobs-asic-verification-engineer-us"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Google Store, Reverse Logistics",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer, Google Store, Reverse Logistics",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/77871342119985862-software-engineer-google-store-reverse-logistics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=10",
+    "id": "google-software-engineer-google-store-reverse-logistics-mountain-view"
   }
 ]
