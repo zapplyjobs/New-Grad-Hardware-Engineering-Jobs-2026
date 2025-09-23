@@ -1,42 +1,142 @@
 [
   {
-    "employer_name": "Siemens",
-    "job_title": "Electro Assembler - in the factory with AI-powered machines",
-    "job_city": "Fort Worth",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Electro Assembler - in the factory with AI-powered machines",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-electro-assembler-in-the-factory-with-ai-powered-machines-fort-worth"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Emulation Engineer (Model Enabling and Verification)",
-    "job_city": "3 Locations",
+    "employer_name": "Apple",
+    "job_title": "Materials Engineer",
+    "job_city": "Cupertino",
     "job_state": "US",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted YesterdayJR0277472CPU Formal Verification Engineerlocations3 Locationsposted onPosted 12 Days AgoJR0277286MCP Emulation Verification Engineerlocations5 Locationsposted onPosted 4 Days AgoJR0277364Government Information Security Engineerlocations4 Locationsposted onPosted 13 Days AgoJR0276257Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted YesterdayJR0276922Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0277455FVCTO - Formal Verification Senior Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276239Senior Simulation Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0276608Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276605Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276607GPU Logic Design Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0275905PnP AI software engineer - tools developmentlocations2 Locationsposted onPosted YesterdayJR0277318Senior IP Design Verification Engineerlocations3 Locationsposted onPosted 7 Days AgoJR0277349Senior IP Design Verification Engineerlocations3 Locationsposted onPosted 4 Days AgoJR0277347IP Enablement Application Engineerlocations3 Locationsposted onPosted 14 Days AgoJR0273988Senior Pre-Silicon Design Verification Engineerlocations4 Locationsposted onPosted 7 Days AgoJR0277344Senior CPU Circuit Design EngineerlocationsUS, Texas, Austinposted onPosted 14 Days AgoJR0277119Emulation Engineer (Model Enabling and Verification)locations3 Locationsposted onPosted YesterdayJR0277345Senior SOC Design Engineer - Physical Design and IntegrationlocationsUS, Oregon, Hillsboroposted onPosted 7 Days AgoJR0277363Clocking Design Engineerlocations2 Locationsposted onPosted 14 Days AgoJR0277092.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Emulation-Engineer--Model-Enabling-and-Verification-_JR0277345?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-emulation-engineer-model-enabling-and-verification-3-locations"
+    "job_posted_at": "Today",
+    "job_description": "• Minimum QualificationsB.\n• Degree minimum in Materials Science / Polymer Science, Chemical Engineering or Polymer Chemistry or related fields and 3 years of relevant industry experience.\n• Experience with polymer chemistry/formulations, adhesives and polymer physics to be able to interact seamlessly with material vendors.\n• Experience working from product requirements to property specifications to material formulation, process optimization and material selection based on sound understanding of structure - property - processing - performance relations.\n• Experience with leading a project from lab scale development to high volume production without major last minute surprisesExperience with failure mode analysis, root cause investigation, and problem solving for product yield and quality issue.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200621715-0836/materials-engineer?team=HRDWR",
+    "id": "apple-materials-engineer-cupertino"
   },
   {
-    "employer_name": "AI Jobs",
-    "job_title": "ASIC Verification Engineer",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "6h",
-    "job_description": "• Bachelors or Masters in Computer Science, Computer Engineering, Electrical Engineering or closely related degree (or equivalent experience)2+ years of experienceExperience with verification methodology, creating reusable verification componentsKnowledgeable in verification using random stimulus along with functional coverage and assertion-based verification methodologiesFluency in Object Oriented Programming with SystemVerilogExposure to design and verification tools (VCS or equivalent simulation tools, debug tools like Debussy, GDB), and methodologies (UVM or equivalent)Your work displays a passion for debugging and strong problem solving skillsStrong communication skills are required Prior verification experience related to high speed IO protocols, or memory coherence is a big plusExperience debugging embedded firmware code (C or RISCV Assembly)Knowledgeable in embedded microcontrollers and/or RISCV ArchitectureExperience writing verification plansStrong verification mindset and intuition.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164450067-asic-verification-engineer",
-    "id": "ai-jobs-asic-verification-engineer-us"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Google Store, Reverse Logistics",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "Arm",
+    "job_title": "Arm Bangalore Office",
+    "job_city": "",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer, Google Store, Reverse Logistics",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/77871342119985862-software-engineer-google-store-reverse-logistics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=10",
-    "id": "google-software-engineer-google-store-reverse-logistics-mountain-view"
+    "job_description": "• With its safe, well-connected, and cost-effective living environment, Bangalore offers an exceptional living experience for both work and leisure.\n• In addition to our modern four-floor workspace, Arm Bangalore offers a range of amenities to enhance your work experience.\n• Whether you thrive in a collaborative setting or prefer quiet focus, our office layout caters to diverse work styles, reflecting our fast-paced, future-first, and inclusive culture.\n• Experienced Professionals “We empower you to take an afternoon break, when you can go home, avoid the traffic, and spend time doing what’s right for you – whether that’s picking up the kids or heading out for a late lunch.\n• Considering a move to Bangalore.\n• Our office thrives not only on its strong local presence and culture but also as an integral part of a global team.\n• Embrace the unique flavour of Bangalore while collaborating with international counterparts on global projects and enjoying shared benefits such as sabbatical opportunities, a commitment to volunteering, and a dedication to sustainability.\n• Join us at Arm's Bangalore office and be part of a community that's shaping the future of technology.",
+    "job_apply_link": "https://careers.arm.com/bangalore-office",
+    "id": "arm-arm-bangalore-office-"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Sharbani Roy is building the future of AI at Arm Seattle",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• Experienced Professionals Develop innovative functional safety and security solutions shaping Arm's industry-leading Automotive and AI technologies.",
+    "job_apply_link": "https://careers.arm.com/sharbani-roy-on-the-future-of-ai",
+    "id": "arm-sharbani-roy-is-building-the-future-of-ai-at-arm-seattle-"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "From Music to Microchips: A Graduate Engineer’s Journey at Arm",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• Graduate & Intern Opportunities in Galway Experienced Professionals Education Team Interns Develop innovative functional safety and security solutions shaping Arm's industry-leading Automotive and AI technologies.\n• Insights from the Arm and The Aston Martin Aramco Formula One® Team's International Women’s Day event Inclusion Starts with Intention: Mamta Thangaraj on Women, AI and Lead CV and Interview Tips for Interns and Grads Isabela’s Award-Winning INROADs Internship Wesley’s Intern Journey.",
+    "job_apply_link": "https://careers.arm.com/exploring-a-career-in-tech-tora",
+    "id": "arm-from-music-to-microchips-a-graduate-engineer-s-journey-at-arm-"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Launch Your Early Career with Arm UK",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• Every quarter, employees benefit from our Day of Care leave, alongside dedicated half a day month for volunteering and a four-week paid sabbatical after four years.\n• You don’t need to know everything to start as we’re looking for people who are curious, ready to learn, and willing to give things a go.\n• Applications for UK-based graduate and internship roles open in You don’t need to know everything to start Experienced Professionals “I’d recommend checking out the blogs on developer.\n• It’s time set aside to recharge, give back, and grow, personally and professionally.\n• You'll also have access to private medical insurance, generous annual leave, employee assistance programmes, and inclusive support for life's big moments - whether that's family planning, adoption leave, or gender affirmation support.\n• Our roots in the UK run deep and so does our commitment to supporting the next generation of tech leaders.\n• In 2025, we were recognised as the UK’s #1 Graduate Employer by TargetJobs and ranked the #1 Best Place to Work by Glassdoor.\n• These honours reflect the environment we’ve built: one where you’re empowered to learn, grow and make a difference.",
+    "job_apply_link": "https://careers.arm.com/arm-united-kingdom",
+    "id": "arm-launch-your-early-career-with-arm-uk-"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Innovation & Growth in Arm's Budapest Tech Hub",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• It’s a place where our interns and graduates turn ideas into outcomes and theory into action, Whether you're a student looking for practical experience or a recent graduate launching your career, you’ll work on impactful projects that help build the future of AI.\n• Aim to be practical in your approach, but remain curious about the background, theory, and reasoning behind your tasks.\n• Preferred background: Completing or holding a university degree in Electronic / Electrical Engineering, Computer Engineering, Computer Science, or a related subject by the program start date.\n• Preferred background: Currently enrolled in a university degree in Electronic / Electrical Engineering, Computer Engineering, Computer Science, or a related subject.\n• We offer a variety of emerging talent roles across engineering, finance, and operations all designed to help you build real skills and make a measurable impact.\n• Our strong ties to top technical universities and research institutions mean you’ll be working in a space where academic learning meets cutting-edge industry practice.\n• Arm collaborates with institutions like University of Cambridge, ETH Zurich, and TU Delft, as well as industry leaders across the Arm ecosystem to drive innovation in areas such as AI, IoT, and chip design.\n• Work is hands-on, outcomes are tangible, and learning happens every day in a setting where your ideas and contributions help shape technology used by billions.",
+    "job_apply_link": "https://careers.arm.com/arm-hungary",
+    "id": "arm-innovation-growth-in-arm-s-budapest-tech-hub-"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate & Intern Opportunities in Galway",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• Arm’s Galway office is our technology hub based in Ireland’s west coast, where emerging talent works alongside experienced engineers to help shape the future of computing.\n• If you’re a graduate or intern ready to contribute to ground breaking work, this is where you’ll build hands-on experience while solving complex challenges that scale across billions of devices.\n• From technical upskilling to volunteering, Arm invests in your growth and community.\n• Be sure to highlight any experience outside the classroom such as hackathons, personal projects, or internships.\n• Experience with Linux and object-oriented programming languages like C++ will help you stand out.\n• You’ll have the space to ask questions, share your perspective and develop the skills to take your next steps with confidence.\n• From technical upskilling to volunteering, Arm Participate in software development, analyze performance, solve tasks, and contribute ideas while gaining expertise and support in a 3-8 month internship.\n• Gain hands-on experience and develop your skills alongside experienced mentors, working on real projects that shape the future of computing.",
+    "job_apply_link": "https://careers.arm.com/arm-ireland",
+    "id": "arm-graduate-intern-opportunities-in-galway-"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Engineering Change: Building Inclusive Innovation at Arm",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• Experienced Professionals Develop innovative functional safety and security solutions shaping Arm's industry-leading Automotive and AI technologies.",
+    "job_apply_link": "https://careers.arm.com/engineering-change-with-susan-graham",
+    "id": "arm-engineering-change-building-inclusive-innovation-at-arm-"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Championing LGBTQ+ Inclusion at Arm",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• “The new approach better supports diverse user needs, including non-native English speakers and people with language-based learning differences,” she shares.\n• Malori explains that this campaign requires a collective effort and months of preparation.\n• The goal is to create something meaningful and lasting, something that reflects not only the diversity of experiences within the LGBTQ+ community, but the strength that comes from working together and building a community.\n• At the same time, being part of Pride@Arm has opened my eyes to experiences different from my own.\n• ” The campaign focuses on education, visibility and community, spotlighting different LGBTQ+ sub-communities and encouraging allyship both inside and outside the group.\n• She describes her experience with the group as being both rewarding and deeply motivating.\n• At Arm, we strive to create an environment where our collective global workforce can effectively share their unique perspectives, skills, and ideas so that we can build the future of computing on Arm.\n• For Dani, a long-time member of the group, being involved has shaped his experience at Arm in a significant way.",
+    "job_apply_link": "https://careers.arm.com/pride-at-arm",
+    "id": "arm-championing-lgbtq-inclusion-at-arm-"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Meet Embla: GPU Software Engineer at Arm Norway",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• Experienced Professionals Develop innovative functional safety and security solutions shaping Arm's industry-leading Automotive and AI technologies.",
+    "job_apply_link": "https://careers.arm.com/embla-arm-norway",
+    "id": "arm-meet-embla-gpu-software-engineer-at-arm-norway-"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Belonging at Arm",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• Timea, who now leads People Analytics globally and serves as Managing Director for Hungary, has experienced that firsthand.\n• “Through workshops and discussions, I’ve gained confidence, tackled impostor syndrome, and developed stronger assertiveness skills,” she said.\n• “The women’s community at Arm has been so inclusive and supportive - it's a great place to talk about challenges and share experiences.\n• \" Experienced Professionals Develop innovative functional safety and security solutions shaping Arm's industry-leading Automotive and AI technologies.\n• Tora, now a Hardware Verification Engineer at our Lund, Sweden office, shifted from music to engineering and joined Arm after taking a chance on something completely new.\n• “I’d never done any programming before university and was a bit scared I’d be far behind,” she said.\n• “But I’ve learned that it’s normal not to know everything when you start.\n• My colleagues never get tired of my questions—they encourage me to take on challenges, and that’s helped me build real confidence.",
+    "job_apply_link": "https://careers.arm.com/belonging-at-arm",
+    "id": "arm-belonging-at-arm-"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Careers at Arm Hungary: What It’s Like to Work Here",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• Unlike companies that impose rigid policies, Arm Hungary takes a balanced approach: fostering in-person collaboration while providing the flexibility needed to accommodate personal commitments.\n• As Gergely Kiss, Director of System IP, puts it, \"Being an engineer at Arm is quite different from anything experienced at other companies.\n• You definitely feel special to be able to work on projects that define how the future will look like in a couple of years.\n• Employees also enjoy a four-week sabbatical every four years, encouraging rejuvenation and personal development.\n• Unlike companies that impose rigid policies, Arm Hungary takes a balanced approach: fostering in-person collaboration while providing the flexibility needed to accommodate personal commitments.\n• With an impressive average growth rate of over 10% year-on-year for the past decade, Arm Hungary continues to invest in the region and its workforce.\n• The company actively collaborates with leading institutions such as the University of Technology and Economics (BME), ELTE, Óbuda University, and the University of Szeged to attract top-tier talent, ensuring a pipeline of skilled professionals ready to shape the future of technology.\n• As Gergely Kiss, Director of System IP, puts it, \"Being an engineer at Arm is quite different from anything experienced at other companies.",
+    "job_apply_link": "https://careers.arm.com/arm-hungary-office",
+    "id": "arm-careers-at-arm-hungary-what-it-s-like-to-work-here-"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Insights from the Arm and The Aston Martin Aramco Formula One®  Team's International Women’s Day event",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• \"One thing that we're really passionate about is encouraging people from all diverse backgrounds and being really inclusive in terms of getting people that are passionate about technology connected with each other and sharing and learning experiences.\n• \"We need to be considerate of people's cultures and their backgrounds when we work with them,\" says Gabriel Shushane.\n• \" \"One of the things we're trying to do with our partnership with Aston Martin Aramco® is provide more opportunities to women of all backgrounds,\" says Tamika.\n• \" are actively driving change, creating meaningful opportunities, and ensuring that women in STEM and motorsport have the resources and support they need to succeed.\n• The event offered an opportunity to share advice on breaking into STEM and motorsport, highlighting the challenges and the perseverance needed to succeed.\n• From Music to Microchips: A Graduate Engineer’s Journey at Arm Graduate & Intern Opportunities in Galway Experienced Professionals Education Team Interns In celebration of International Women's Day, Arm and The Aston Martin Aramco Formula One Team® hosted a fireside chat focused on fostering diversity, equity, and inclusion (DEI) in STEM and motorsport.\n• The company’s commitment to inclusivity extends beyond internal initiatives.\n• \"Our work in the Arm Developer Program is really important as it's about connecting developers globally,\" says Gemma Platt, Head of Developer Marketing at Arm.",
+    "job_apply_link": "https://careers.arm.com/iwd-aston-martin-and-arm",
+    "id": "arm-insights-from-the-arm-and-the-aston-martin-aramco-formula-one-team-s-international-women-s-day-event-"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Arm in Bristol: Stories from Alex, Dan, and Mario",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "• For instance, I have played in several local orchestras over the years.\n• For instance, I have played in several local orchestras over the years.\n• For instance, I have played in several local orchestras over the years.\n• Mario: Arm provided me with the toolset needed, plenty of workshops and potentially anything that enables you to do the work you're required as well as honing your skills to become better at the job.\n• Mario: Arm provided me with the toolset needed, plenty of workshops and potentially anything that enables you to do the work you're required as well as honing your skills to become better at the job.\n• Arm provided me with the toolset needed, plenty of workshops and potentially anything that enables you to do the work you're required as well as honing your skills to become better at the job.\n• Coming from a different background I feel that everyone here is extremely welcoming.\n• Dan: In regard to the Bristol Office, I like the fact that it has table football for recreational breaks, showering facilities for cyclists and the location being a few minutes' walk from Temple Meads Station, making commuting easy.",
+    "job_apply_link": "https://careers.arm.com/alex-dan-and-mario-bristol-stories",
+    "id": "arm-arm-in-bristol-stories-from-alex-dan-and-mario-"
   }
 ]
