@@ -1,32 +1,52 @@
 [
   {
     "employer_name": "Siemens",
-    "job_title": "Mechanical Desk Engineer DE - Mobility Customer Services",
-    "job_city": "New Castle",
-    "job_state": "Delaware",
+    "job_title": "Testing Operator- Rolling Stock",
+    "job_city": "Sacramento",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Mechanical Desk Engineer DE - Mobility Customer Services",
+    "job_description": "hardware engineering job for the role Testing Operator- Rolling Stock",
     "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-mechanical-desk-engineer-de-mobility-customer-services-new-castle"
+    "id": "siemens-testing-operator-rolling-stock-sacramento"
   },
   {
     "employer_name": "Siemens",
-    "job_title": "Manufacturing Equipment Maintenance Engineer",
-    "job_city": "Pomona",
-    "job_state": "California",
+    "job_title": "Software Developer, Embedded Linux",
+    "job_city": "Peachtree Corners",
+    "job_state": "Georgia",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Manufacturing Equipment Maintenance Engineer",
+    "job_description": "hardware engineering job for the role Software Developer, Embedded Linux",
     "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-manufacturing-equipment-maintenance-engineer-pomona"
+    "id": "siemens-software-developer-embedded-linux-peachtree-corners"
   },
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Network ISP/OSP Support Technician",
-    "job_city": "ational",
-    "job_state": "US",
+    "employer_name": "BAE Systems",
+    "job_title": "Combat Systems Engineer",
+    "job_city": "Washington",
+    "job_state": "DC",
     "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/International/Network-ISP-OSP-Support-Technician_RQ207790?q=hardware+engineering",
-    "id": "general-dynamics-network-isp-osp-support-technician-ational"
+    "job_description": "• Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221867 Systems and Digital Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0223342 Systems and Digital Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0223341 Cyber Warfare Engineer, SeniorlocationsRome, NYposted onPosted 30+ Days AgoR0221856 Cyber PKI Engineer, Leadlocations2 Locationsposted onPosted 14 Days AgoR0225876 Test Engineer, LeadlocationsEl Segundo, CAposted onPosted TodayR0225230.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Combat-Systems-Engineer_R0226785?q=hardware+engineering",
+    "id": "bae-systems-combat-systems-engineer-washington"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Flight Controls Hardware Engineer",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_posted_at": "5 days",
+    "job_description": "• Hardware Engineer II Locations Fort Washington, PA, United States (Hybrid) Posting Date09/05/2025 As a Hardware Engineer II here at Honeywell, you will contribute to hardware design from concept to production, collaborate on requirements, design complex systems, perform testing, and support junior engineers.\n• Hardware Engr II Locations Clearwater, FL, United States (Hybrid) Posting Date09/16/2025 As a Hardware Engr II here at Honeywell, you will contribute to hardware design from concept to production, collaborate on requirements, design complex systems, perform testing, and support junior engineers.\n• You will be integral in creating system solutions that meet the evolving needs of our customers.\n• Lead Systems Engineer Locations Phoenix, AZ, United States (Hybrid) Posting Date06/26/2025 Trending As a Lead Systems Engineer at Honeywell, you will be responsible for providing technical leadership and guidance in the design, development, and implementation of complex systems, ensuring their functionality, reliability, and integration to meet customer requirements.\n• Systems Engineering - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Systems Engineering - Recent Grad/Full Time (US Person Required) Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• You will work closely with world class hardware and software engineers during planning, requirements and architecture, design, test and integration phases.\n• Traveling HVAC Controls - Lead Field Service Technician Locations Des Plaines, IL, United States Posting Date09/10/2025 Be the First to Apply Honeywell is seeking a talented Lead Service Tech with experience in commissioning HVAC controls in commercial buildings.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/119199/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-flight-controls-hardware-engineer-phoenix"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Systems Engineer II - Aerospace Systems",
+    "job_city": "Plymouth",
+    "job_state": "MN",
+    "job_posted_at": "Today",
+    "job_description": "• Hardware Engineer II Locations Fort Washington, PA, United States (Hybrid) Posting Date09/05/2025 As a Hardware Engineer II here at Honeywell, you will contribute to hardware design from concept to production, collaborate on requirements, design complex systems, perform testing, and support junior engineers.\n• Hardware Engr II Locations Clearwater, FL, United States (Hybrid) Posting Date09/16/2025 As a Hardware Engr II here at Honeywell, you will contribute to hardware design from concept to production, collaborate on requirements, design complex systems, perform testing, and support junior engineers.\n• You will be integral in creating system solutions that meet the evolving needs of our customers.\n• Lead Systems Engineer Locations Phoenix, AZ, United States (Hybrid) Posting Date06/26/2025 Trending As a Lead Systems Engineer at Honeywell, you will be responsible for providing technical leadership and guidance in the design, development, and implementation of complex systems, ensuring their functionality, reliability, and integration to meet customer requirements.\n• Systems Engineering - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Systems Engineering - Recent Grad/Full Time (US Person Required) Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• You will work closely with world class hardware and software engineers during planning, requirements and architecture, design, test and integration phases.\n• Traveling HVAC Controls - Lead Field Service Technician Locations Des Plaines, IL, United States Posting Date09/10/2025 Be the First to Apply Honeywell is seeking a talented Lead Service Tech with experience in commissioning HVAC controls in commercial buildings.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/118793/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-systems-engineer-ii-aerospace-systems-plymouth"
   }
 ]
