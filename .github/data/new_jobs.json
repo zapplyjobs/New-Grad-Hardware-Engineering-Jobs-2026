@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "Apple",
-    "job_title": "Hardware Reliability Engineer",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Today",
-    "job_description": "• Minimum QualificationsBachelor’s Degree in Mechanical Engineering, Materials Science, Physics or an equivalent field2+ years of experience in a related field or industryFamiliar with Failure Analysis techniques (Optical Microscopy, X-ray/CT, Scanning Electron Microscopy/Energy Dispersive Spectroscopy, etc.\n• ), and the ability to use failure analysis methodology to derive a root cause of failureSolid understanding of Failure Modes and Effects Analysis (FMEA) and Design of Experiments (DOE)Strong attention to details and curiosity of how technologies workExcellent communication skills, both written and verbalCollaborative attitude and ability to work cross-functionally effectivelyA proactive, can-do attitude, with a passion for working alongside an amazing team and innovative productsAbility and willingness to travel internationally, as needed.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200622165-0157/hardware-reliability-engineer?team=HRDWR",
-    "id": "apple-hardware-reliability-engineer-austin"
+    "employer_name": "Siemens",
+    "job_title": "Field Service Technician Boston MA Mobility Customer Services",
+    "job_city": "Boston",
+    "job_state": "Massachusetts",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Field Service Technician Boston MA Mobility Customer Services",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-field-service-technician-boston-ma-mobility-customer-services-boston"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Hardware Reliability Engineer",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "Today",
-    "job_description": "• Minimum QualificationsBachelor’s Degree in Mechanical Engineering, Materials Science, Physics or an equivalent field2+ years of experience in a related field or industryFamiliar with Failure Analysis techniques (Optical Microscopy, X-ray/CT, Scanning Electron Microscopy/Energy Dispersive Spectroscopy, etc.\n• ), and the ability to use failure analysis methodology to derive a root cause of failureSolid understanding of Failure Modes and Effects Analysis (FMEA) and Design of Experiments (DOE)Strong attention to details and curiosity of how technologies workExcellent communication skills, both written and verbalCollaborative attitude and ability to work cross-functionally effectivelyA proactive, can-do attitude, with a passion for working alongside an amazing team and innovative productsAbility and willingness to travel internationally, as needed.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200622182-0836/hardware-reliability-engineer?team=HRDWR",
-    "id": "apple-hardware-reliability-engineer-cupertino"
+    "employer_name": "10x Genomics",
+    "job_title": "Production Technician- Kitting (Temp Contractor)",
+    "job_city": "Pleasanton",
+    "job_state": "California",
+    "job_posted_at": "3 days",
+    "job_description": "• Execute production operations according to defined procedures and ensure the integrity and quality of our products Ability to operate and maintain laboratory to clean room standards required in the production of Life Science products Process work orders accurately using an ERP system in a timely manner Maintenance of production batch records and good documentation under ISO requirement Accurate tracking of production data, test data and inventory Assembly of 10x consumables and finished goods both manually and using semi-automated packaging equipment Ability to set up and operate packaging equipment and handle simple troubleshooting Perform preventive maintenance on some lab equipment Provide feedback to improve process quality and efficiency Identify issues occurring in production labs and escalate issues to supervisor’s or MSE’s attention High school education / Associate Degree or above Strong team player and detail oriented Good communication skills Ability to read and understand SOPs and equipment user manual Ability to enter data into electronic tracking systems like Excel Ability to multi-task and prioritize work load to meet strict deadlines under supervision Good documentation skills and ability to write procedures and reports Desire to be part of a rapidly evolving organization and taking products and processes to the next level Ability to lift up to 15 pounds and potentially stand or sit for up to 3 hour increments Experience in automation and packaging of Life Science products, Food Packaging products or related field preferred Relevant experience in a production environment working with standard production control tools – ERP, inventory control, and work orders Experience training employees on production processes defined in production batch records and work instructions Experience writing and revising work instructions and production batch records Experienced in communicating and collaborating with production departments Director of Product Management, Single Cell PlatformsPleasanton, California, USA HQMarketingPosted 6 months agoDirector of Commercial OperationsPleasanton, California, USA HQSalesPosted a month agoHead of Integrated Marketing CommunicationsPleasanton, California, USA HQMarketingPosted 6 months agoSenior Security Engineer, CloudPleasanton, California, USA HQIT & Productivity EngineeringHybridPosted 17 days agoSenior Manufacturing Engineer (Contractor) (P-4757)Pleasanton, California, USA HQScientificPosted a month agoSenior Software Engineer, Infrastructure EngineeringPleasanton, California, USA HQIT & Productivity EngineeringPosted 7 months agoSenior Manufacturing Test Engineer (Contractor) (P-4758)Pleasanton, California, USA HQScientificPosted a month agoSoftware Engineer III, Instrument SoftwarePleasanton, California, USA HQEngineering - SoftwarePosted 6 months agoSenior Software Engineer, Instrument Software Pleasanton, California, USA HQEngineering - SoftwarePosted 10 days agoAssociate Director, Transactions CounselPleasanton, California, USA HQLegalPosted 2 months ago.",
+    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171836755804",
+    "id": "10x-genomics-production-technician-kitting-temp-contractor-pleasanton"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "FE Engineer",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "1 day",
-    "job_description": "• Minimum Qualifications* Digital Logic Design knowledge* Verilog/System Verilog RTL language design entry* Synopsys/Cadence synthesis* Synopsys PrimeTime Static Timing Analysis (STA)* Synopsys (VCS)/Cadence(Incisive) simulation* Strong problem solving and analytical skills* Strong communication skills combined with team-oriented approaches to own the verification efforts in a specific area of the design.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200621720-0836/fe-engineer?team=HRDWR",
-    "id": "apple-fe-engineer-cupertino"
+    "employer_name": "AI Jobs",
+    "job_title": "Software Engineer, Research Developer Productivity",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Have supported large monorepo development and deployment beforeAre a proficient Python programmer working in large monoreposAre proficient with Docker and KubernetesExperienced in CI/CD.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164458332-software-engineer-research-developer-productivity",
+    "id": "ai-jobs-software-engineer-research-developer-productivity-san-francisco"
   }
 ]
