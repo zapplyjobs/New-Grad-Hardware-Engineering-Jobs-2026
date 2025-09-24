@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "QA Test Developer",
-    "job_city": "shipPOUGHKEEPSIE",
-    "job_state": "US",
+    "employer_name": "AI Jobs",
+    "job_title": "Computer Vision Engineer - Defense Tech",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1h",
+    "job_description": "• Design and optimize multi-sensor perception pipelines for speed, accuracy, and robustness in real-world conditionsDevelop and deploy computer vision and object detection models tailored for compute-constrained embedded hardwareArchitect sensor fusion systems integrating camera, IMU, and acoustic data for reliable state estimation and situational awarenessLead data acquisition, labeling, and training workflows to improve performance across diverse environmentsImplement real-time tracking and classification for high-speed targets in noisy, dynamic scenesBring up and integrate embedded vision hardware (cameras, IMUs, audio sensors) with custom drivers and firmwarePrototype, test, and refine perception algorithms in both lab and outdoor field environmentsCollaborate with controls, embedded, and hardware teams to ensure full system integration and reliabilityBuild internal visualization, replay, and diagnostics tools to accelerate development cyclesHelp set the technical roadmap for perception, influencing product direction from the earliest stages 5+ years designing and deploying computer vision systems for robotics, autonomy, or embedded platformsProven experience shipping ML/CV models into latency- and resource-constrained environmentsProficient in Python and C++ for both algorithm prototyping and embedded implementationStrong foundation in object detection, classification, and tracking in real-time systemsExperience with sensor fusion (EKF/UKF or equivalent) using camera and IMU dataFamiliarity with audio-based sensing or acoustic signal processing for robotics applicationsSkilled with embedded inference platforms such as NVIDIA Jetson, Coral, or similarHands-on engineer comfortable with sensor bring-up, debugging, and tuning in hardware Perception systems for unmanned vehicles, cUAS, robotics, or defense applicationsEdge inference optimization (model pruning, quantization, TensorRT) for speed and efficiencyKnowledge of acoustic localization, triangulation, and noise filteringBackground in startup or rapid iteration engineering environmentsExperience in safety-critical or real-time embedded systems.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164580556-computer-vision-engineer-defense-tech",
+    "id": "ai-jobs-computer-vision-engineer-defense-tech-austin"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Full Stack, Google Cloud Platforms",
+    "job_city": "Kirkland",
+    "job_state": "WA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role QA Test Developer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58490&source=WEB_Search_NA",
-    "id": "ibm-qa-test-developer-shippoughkeepsie"
+    "job_description": "hardware engineering job for the role Software Engineer III, Full Stack, Google Cloud Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/111930608938033862-software-engineer-iii-full-stack-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3",
+    "id": "google-software-engineer-iii-full-stack-google-cloud-platforms-kirkland"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Ads Bidding Optimization",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer, Ads Bidding Optimization",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/77088163423494854-software-engineer-ads-bidding-optimization?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=10",
+    "id": "google-software-engineer-ads-bidding-optimization-new-york"
   }
 ]
