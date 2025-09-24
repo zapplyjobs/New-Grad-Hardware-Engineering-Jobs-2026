@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "QA Test Developer",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role QA Test Developer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59332&source=WEB_Search_NA",
-    "id": "ibm-qa-test-developer-poughkeepsie"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Engineer",
-    "job_city": "COSTA MESA",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Engineer 01",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57631&source=WEB_Search_NA",
-    "id": "ibm-engineer-costa-mesa"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Enterprise Provisioning and Power Efficiency Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
+    "employer_name": "BAE Systems",
+    "job_title": "Data Scientist, Mid",
+    "job_city": "Bremerton",
+    "job_state": "WA",
     "job_posted_at": "Posted Today",
-    "job_description": "• Emulation Model Build Engineerlocations4 Locationsposted onPosted 11 Days AgoJR0277089CPU Formal Verification Engineerlocations3 Locationsposted onPosted 12 Days AgoJR0277286MCP Emulation Verification Engineerlocations5 Locationsposted onPosted 4 Days AgoJR0277364Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted TodayJR0277472Government Information Security Engineerlocations4 Locationsposted onPosted 13 Days AgoJR0276257Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted YesterdayJR0276922Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted TodayJR0277455FVCTO - Formal Verification Senior Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276239Senior Simulation Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0276608Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276605Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276607GPU Logic Design Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0275905PnP AI software engineer - tools developmentlocations2 Locationsposted onPosted YesterdayJR0277318Senior IP Design Verification Engineerlocations3 Locationsposted onPosted 7 Days AgoJR0277349Senior IP Design Verification Engineerlocations3 Locationsposted onPosted 4 Days AgoJR0277347Enterprise Provisioning and Power Efficiency Engineerlocations2 Locationsposted onPosted TodayJR0277465IP Enablement Application Engineerlocations3 Locationsposted onPosted 14 Days AgoJR0273988Senior Pre-Silicon Design Verification Engineerlocations4 Locationsposted onPosted 7 Days AgoJR0277344Senior CPU Circuit Design EngineerlocationsUS, Texas, Austinposted onPosted 14 Days AgoJR0277119Emulation Engineer (Model Enabling and Verification)locations3 Locationsposted onPosted YesterdayJR0277345.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Enterprise-Provisioning-and-Power-Efficiency-Engineer_JR0277465?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-enterprise-provisioning-and-power-efficiency-engineer-2-locations"
+    "job_description": "• Manufacturing Quality Assurance SpecialistlocationsFayetteville, NCposted onPosted 30+ Days AgoR0223769 Configuration Manager, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 15 Days AgoR0224944 Cloud Information Assurance SpecialistlocationsLexington, MAposted onPosted 30+ Days AgoR0223778 Acoustic Intelligence Analyst, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0223620 Integrated Project Team LeadlocationsHuntsville, ALposted onPosted 29 Days AgoR0221283 Software Configuration ManagerlocationsLorton, VAposted onPosted 27 Days AgoR0225143 Software Integrator, SeniorlocationsBelcamp, MDposted onPosted 28 Days AgoR0224959 Computer Vision ExpertlocationsBethesda, MDposted onPosted 19 Days AgoR0225632.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bremerton-WA/Data-Scientist--Mid_R0226663?q=hardware+engineering",
+    "id": "bae-systems-data-scientist-mid-bremerton"
+  },
+  {
+    "employer_name": "Meta",
+    "job_title": "Research Scientist Intern, AI & System Co-Design (PhD)",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Research Scientist Intern, AI & System Co-Design (PhD)",
+    "job_apply_link": "https://www.metacareers.com",
+    "id": "meta-research-scientist-intern-ai-system-co-design-phd-menlo-park"
   }
 ]
