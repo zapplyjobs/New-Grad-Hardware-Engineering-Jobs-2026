@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Data Scientist, Mid",
-    "job_city": "Bremerton",
-    "job_state": "WA",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Manufacturing Quality Assurance SpecialistlocationsFayetteville, NCposted onPosted 30+ Days AgoR0223769 Configuration Manager, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 15 Days AgoR0224944 Cloud Information Assurance SpecialistlocationsLexington, MAposted onPosted 30+ Days AgoR0223778 Acoustic Intelligence Analyst, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0223620 Integrated Project Team LeadlocationsHuntsville, ALposted onPosted 29 Days AgoR0221283 Software Configuration ManagerlocationsLorton, VAposted onPosted 27 Days AgoR0225143 Software Integrator, SeniorlocationsBelcamp, MDposted onPosted 28 Days AgoR0224959 Computer Vision ExpertlocationsBethesda, MDposted onPosted 19 Days AgoR0225632.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bremerton-WA/Data-Scientist--Mid_R0226663?q=hardware+engineering",
-    "id": "bae-systems-data-scientist-mid-bremerton"
+    "employer_name": "IBM",
+    "job_title": "Production Operator",
+    "job_city": "POUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Production Operator",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59945&source=WEB_Search_NA",
+    "id": "ibm-production-operator-poughkeepsie"
   },
   {
-    "employer_name": "Meta",
-    "job_title": "Research Scientist Intern, AI & System Co-Design (PhD)",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Research Scientist Intern, AI & System Co-Design (PhD)",
-    "job_apply_link": "https://www.metacareers.com",
-    "id": "meta-research-scientist-intern-ai-system-co-design-phd-menlo-park"
+    "employer_name": "Apple",
+    "job_title": "Image Quality Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "1 week",
+    "job_description": "• Minimum QualificationsGood understanding of how to test image and video quality characteristics in the field, including Auto Exposure, Auto Focus, and White Balance.\n• Understanding the Human Visual System and how it impacts our perception of photos and videos about the real-world Experience.\n• Knowledge of some photography lab equipment and experience operating camera systems in a lab.\n• Excellent sense of photography, videography, and cinematography on both technical and artistic levels, and understanding of what makes a good photograph or video.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200620379-0836/image-quality-engineer?team=SFTWR",
+    "id": "apple-image-quality-engineer-cupertino"
   }
 ]
