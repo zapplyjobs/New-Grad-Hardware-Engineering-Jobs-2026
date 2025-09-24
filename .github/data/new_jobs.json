@@ -1,72 +1,32 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Intern - ASIC Design Verification",
-    "job_city": "Minneapolis",
-    "job_state": "Minnesota",
-    "job_posted_at": "19 hours",
-    "job_description": "• Actively pursuing a Bachelor’s or Master’s degree in Electrical Engineering or Computer Engineering with equivalent experience.\n• Previous internship or project experience in ASIC design or verification.\n• Experience with Python and/or SystemVerilog programming.\n• Strong analytical and problem-solving skills.\n• Less than 2 years Intern - ASIC Digital DesignMinneapolis, Minnesota, United States of AmericaPosted 9 days ago Intern - DRAM Design EngineerBoise, Idaho, United States of AmericaPosted a month ago.\n• Proficient or working knowledge of object-oriented programming languages such as Python or SystemVerilog.\n• Ability to work independently and collaboratively in a team environment.\n• Familiarity with verification tools and debugging techniques.",
-    "job_apply_link": "https://careers.micron.com/careers/job/38168202",
-    "id": "micron-technology-intern-asic-design-verification-minneapolis"
-  },
-  {
-    "employer_name": "Siemens",
-    "job_title": "Full Stack Engineer (Supplyframe)",
-    "job_city": "Pasadena",
-    "job_state": "California",
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer Intern:",
+    "job_city": "shipTUCSON",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Full Stack Engineer (Supplyframe)",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-full-stack-engineer-supplyframe-pasadena"
+    "job_description": "hardware engineering job for the role Hardware Developer Intern: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58729&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-intern-shiptucson"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Data Governance Engineer - Data Governance Engineering",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "1 day",
-    "job_description": "• Minimum QualificationsB.\n• In Computer Science or related field with 4+ years of software development experience, including exposure to ML/AI applicationsProduction experience in Python or similar languages, with familiarity in data processing and API developmentUnderstanding of distributed systems and cloud platforms, including basic ML model deploymentExperience with containerization (Docker), orchestration (Kubernetes), and infrastructure as code (e.\n• Terraform, CloudFormation)Proficiency in CI/CD pipelines and DevOps practices using Git, GitHub Actions/Jenkins/GitLab CI, with experience in automated testing and deployment workflowsFamiliarity with observability and monitoring tools (e.\n• Prometheus, Grafana, DataDog) and logging frameworks for production systemsBasic knowledge of machine learning concepts and MLOps, including data pipelines, model versioning, and experiment tracking tools.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200622493-0836/data-governance-engineer-data-governance-engineering?team=SFTWR",
-    "id": "apple-data-governance-engineer-data-governance-engineering-cupertino"
+    "employer_name": "Verizon",
+    "job_title": "Outside Plant Technician",
+    "job_city": "Greensburg",
+    "job_state": "Pennsylvania",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Outside Plant TechnicianlocationsGreensburg, Pennsylvaniatime typeFull timeposted onPosted TodayR-1085583Senior Embedded Software EngineerlocationsFirenze, Italytime typeFull timeposted onPosted TodayR-1083391Senior Embedded Software EngineerlocationsFirenze, Italytime typeFull timeposted onPosted TodayR-1085604Senior Software QA EngineerlocationsFirenze, Italytime typeFull timeposted onPosted TodayR-1085603Outside Plant TechnicianlocationsHopelawn, New Jerseytime typeFull timeposted onPosted TodayR-1063254Outside Plant TechnicianlocationsWoodland, Pennsylvaniatime typeFull timeposted onPosted 2 Days AgoR-1063191Sr Analyst-Ops SuptlocationsSan Diego, Californiatime typeFull timeposted onPosted 2 Days AgoR-1085073Outside Plant TechnicianlocationsBoston, Massachusettstime typeFull timeposted onPosted 4 Days AgoR-1063100Engr II-Software DevelopmentlocationsHyderabad, Indiatime typeFull timeposted onPosted 7 Days AgoR-1084458Outside Plant TechnicianlocationsAllentown, Pennsylvaniatime typeFull timeposted onPosted 9 Days AgoR-1084599Marketing-Senior ManagerlocationsBasking Ridge, New Jerseytime typeFull timeposted onPosted 13 Days AgoR-1081854Outside Plant TechnicianlocationsWoburn, Massachusettstime typeFull timeposted onPosted 13 Days AgoR-1084369Senior Network EngineerlocationsAshburn, Virginiatime typeFull timeposted onPosted 13 Days AgoR-1081192Engr III Spec-Ntwk EquipmentlocationsHaslet, Texastime typeFull timeposted onPosted 14 Days AgoR-1084160Principal Solutions ArchitectlocationsCharlotte, North Carolinatime typeFull timeposted onPosted 14 Days AgoR-1076060The University of Texas at Dallas Network Security Co-oplocationsIrving, Texastime typeFull timeposted onPosted 14 Days AgoR-1084810Outside Plant TechnicianlocationsPottsville, Pennsylvaniatime typeFull timeposted onPosted 14 Days AgoR-1083748New Jersey Institute of Technology Network Security Co-oplocationsBranchburg, New Jerseytime typeFull timeposted onPosted 15 Days AgoR-1084801Senior Software QA EngineerlocationsFirenze, Italytime typeFull timeposted onPosted 15 Days AgoR-1083399Principal Engineer of Software and Hardware Router DevelopmentlocationsIrving, Texastime typeFull timeposted onPosted 16 Days AgoR-1083779.",
+    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Greensburg-Pennsylvania/Outside-Plant-Technician_R-1085583?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "verizon-outside-plant-technician-greensburg"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Embedded Systems Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "Today",
-    "job_description": "• Minimum QualificationsBS and 3+ years of relevant industry experienceStrong programming skills in C and Python (or similar)Solid background in embedded system architecture and software development.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200622602-3956/embedded-systems-engineer?team=HRDWR",
-    "id": "apple-embedded-systems-engineer-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "NAND Product Engineer",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "Today",
-    "job_description": "• Minimum QualificationsB.\n• DegreeExpertise in NAND development, specifically with product engineering, design, and/or process integration aspects of the technologyExperience with NAND failure analysis, testing and/or debug efforts.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200622656-0836/nand-product-engineer?team=HRDWR",
-    "id": "apple-nand-product-engineer-cupertino"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Google Health",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "ABB",
+    "job_title": "R&D Associate Engineer",
+    "job_city": "Location Cleveland",
+    "job_state": "Ohio",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Google Health",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/111265606199583430-software-engineer-iii-google-health?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=7",
-    "id": "google-software-engineer-iii-google-health-mountain-view"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Hardware Development Engineer AWS AI & ML, Accelerator Servers",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Hardware Development Engineer AWS AI & ML, Accelerator Servers",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3092400/hardware-development-engineer-aws-ai-ml-accelerator-servers",
-    "id": "amazon-hardware-development-engineer-aws-ai-ml-accelerator-servers-cupertino"
+    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00010453/R-D-Associate-Engineer",
+    "id": "abb-r-d-associate-engineer-location-cleveland"
   }
 ]
