@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Production Operator",
-    "job_city": "POUGHKEEPSIE",
+    "job_title": "QA Test Developer",
+    "job_city": "shipPOUGHKEEPSIE",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Production Operator",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59945&source=WEB_Search_NA",
-    "id": "ibm-production-operator-poughkeepsie"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Image Quality Engineer",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "1 week",
-    "job_description": "• Minimum QualificationsGood understanding of how to test image and video quality characteristics in the field, including Auto Exposure, Auto Focus, and White Balance.\n• Understanding the Human Visual System and how it impacts our perception of photos and videos about the real-world Experience.\n• Knowledge of some photography lab equipment and experience operating camera systems in a lab.\n• Excellent sense of photography, videography, and cinematography on both technical and artistic levels, and understanding of what makes a good photograph or video.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200620379-0836/image-quality-engineer?team=SFTWR",
-    "id": "apple-image-quality-engineer-cupertino"
+    "job_description": "hardware engineering job for the role QA Test Developer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58490&source=WEB_Search_NA",
+    "id": "ibm-qa-test-developer-shippoughkeepsie"
   }
 ]
