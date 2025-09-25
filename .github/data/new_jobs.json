@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Machine Learning Engineer",
+    "job_city": "South Burlington",
+    "job_state": "VT",
+    "job_posted_at": "2d",
+    "job_description": "• Develop, deploy, and maintain ML models in production using local and cloud resourcesDetermine feasibility for new ML projects that provide actual business valueWork with other members of the IT team and also business subject matter experts to integrate machine learning models into production systemsMonitor and evaluate the performance of machine learning models in production, ensuring reliability and scalabilityGuide business process to support ML implementations and automationDevelop and implement custom solutionsLeverage and fine-tune foundational models and classic ML algorithmsIdentify model inefficiencies and failure modesPerform data preprocessing, feature engineering, and exploratory data analysis to extract meaningful insights from large datasetsStay up-to-date with the latest advancements in AI and machine learning, and apply this knowledge to ongoing projectsDocument model development processes, experiment results, and performance metrics to ensure transparency and reproducibilityContribute to the development of new AI-powered features and products, identifying opportunities for innovation within the company You have a Bachelor's or Master's degree in Computer Science, Engineering, Mathematics, Physics, or a similar technical or business field or equivalent experienceProven experience in machine learning model development and deployment, with a minimum of five (5) years of relevant work experienceProficiency in machine learning and statistical methods and libraries including scikit-learn, opencv, huggingface, and pytorchExperience with cloud platforms (e.\n• , AWS, Google Cloud, Azure) for deploying machine learning modelsExperience with isolation techniques (docker, vagrant, venv,, etc) and understanding of container orchestration (e.\n• Docker-compose, kubernetes, etc)Analytical Skills: Strong problem-solving skills and the ability to analyze complex datasets to derive actionable insightsAbility to work in the U.\n• Without visa sponsorship A competitive Salary based upon your experience and the requirements of the roleA comprehensive Benefits package401k Plan with 3% Employer ContributionAn Annual Profit Share Bonus Paid Maternity & Paternity Leave, and Short & Long Term DisabilityOpportunity to Participate in our Employee Stock Purchase PlanA personal development plan created to help you (and us) grow A self starter with the ability to work in a fast paced environment, thinking independently and acting proactivelyExcellent verbal and written communication skills, with the ability to convey complex technical concepts to non-technical stakeholdersAbility to work effectively in a collaborative, fast-paced environment and manage multiple projects simultaneously.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164766897-machine-learning-engineer",
+    "id": "ai-jobs-machine-learning-engineer-south-burlington"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Product Solutions Engineer, Food and Appointments, gTech",
+    "job_city": "Boulder",
+    "job_state": "CO",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Product Solutions Engineer, Food and Appointments, gTech",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/132209120865329862-product-solutions-engineer-food-and-appointments-gtech?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=5",
+    "id": "google-product-solutions-engineer-food-and-appointments-gtech-boulder"
+  }
+]
