@@ -1,32 +1,82 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Entry Level User Experience Designer",
-    "job_city": "Austin",
+    "job_title": "User Experience Designer Intern",
+    "job_city": "shipAustin",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Entry Level User Experience Designer 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59412&source=WEB_Search_NA",
-    "id": "ibm-entry-level-user-experience-designer-austin"
+    "job_description": "hardware engineering job for the role User Experience Designer Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59981&source=WEB_Search_NA",
+    "id": "ibm-user-experience-designer-intern-shipaustin"
   },
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Intern - ENG - DEG EMBEDDED - PE",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "a day",
-    "job_description": "• Actively pursuing a Bachelor’s or Master’s degree or equivalent experience in Electrical Engineering or Computer Engineering.\n• Previous internship or project experience in ASIC design or verification.\n• Experience with Python and/or SystemVerilog programming.\n• Strong analytical and problem-solving skills.\n• Proficient or working knowledge of object-oriented programming languages such as Python or SystemVerilog.\n• Ability to work independently and collaboratively in a team environment.\n• Familiarity with verification tools and debugging techniques.\n• Senior Embedded Software EngineerSan Jose, California, United States of AmericaHybridPosted 7 days ago Principal Engineer - HIG HBM - PE Design ValidationSingapore, SingaporePosted 2 months ago Engineer/Sr.",
-    "job_apply_link": "https://careers.micron.com/careers/job/38262951",
-    "id": "micron-technology-intern-eng-deg-embedded-pe-manassas"
+    "employer_name": "Siemens",
+    "job_title": "Mechanical Assembly Operator - 2nd shift",
+    "job_city": "Pomona",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Mechanical Assembly Operator - 2nd shift",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-mechanical-assembly-operator-2nd-shift-pomona"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer - Cloud engineering",
-    "job_city": "Seattle",
+    "employer_name": "General Dynamics",
+    "job_title": "Systems and Network Engineer",
+    "job_city": "USA HI Pearl Harbor",
     "job_state": "US",
-    "job_posted_at": "1 day",
-    "job_description": "• Minimum Qualifications3+ years of software automation & validation experience3+ years of experience working on cloud technologies including Kubernetes, Virtualization, and cloud computeHave experience in designing, architecting, and developing cloud services and cloud infrastructure for compute is a plusExperience with testing and using REST APIs and DevOps toolsUnderstanding of large scale distributed systems architecture and applications is a big plusExperience in testing Cloud Platform that is developed on top of either private or public Cloud InfrastructureGood coding experience in C/C++/Go/Swift or a any c type languageStrong development/programming experience in Python/Ansible/KubernetesCreative, collaborative, and product-focusedExcellent communication skillsB.\n• , in Computer Engineering, Electrical Engineering, Computer Science, or equivalent experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200622698-3337/software-engineer-cloud-engineering?team=SFTWR",
-    "id": "apple-software-engineer-cloud-engineering-seattle"
+    "job_posted_at": "Posted Today",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-HI-Pearl-Harbor/Systems-and-Network-Engineer_RQ207743?q=hardware+engineering",
+    "id": "general-dynamics-systems-and-network-engineer-usa-hi-pearl-harbor"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "NCIS Help Desk Analyst Tier II | Secret clearance",
+    "job_city": "USA VA Quantico",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Quantico/NCIS-Help-Desk-Analyst-Tier-II---Secret-clearance_RQ207843-1?q=hardware+engineering",
+    "id": "general-dynamics-ncis-help-desk-analyst-tier-ii-secret-clearance-usa-va-quantico"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Software Engineer, Full-Stack",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Collaborate with design and product teams to translate AI capabilities into intuitive experiences.\n• Have up to 6 years of full-stack engineering experience delivering production products.\n• Care about building seamless, reliable experiences for end users.\n• Design, build, and operate scalable backend services and web interfaces for products like ChatGPT and the OpenAI API.\n• Implement user-facing features using React/TypeScript while maintaining robust server-side logic in languages such as Python or Go.\n• Optimize applications for speed, scalability, and security.\n• Participate in on-call rotations to ensure high availability and performance.\n• Are comfortable working across the stack with technologies such as React, TypeScript, Python, Go, and modern cloud infrastructure.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164713737-software-engineer-full-stack",
+    "id": "ai-jobs-software-engineer-full-stack-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Software Engineer, Backend",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Have up to 6 years of professional software engineering experience.\n• Design and build robust backend services and APIs that power products like ChatGPT and the OpenAI API.\n• Develop scalable data pipelines and storage systems for high-volume, low-latency workloads.\n• Improve system reliability, observability, and security across production environments.\n• Collaborate with product and research teams to translate cutting-edge AI into dependable, user-ready features.\n• Participate in an on-call rotation to maintain uptime and respond to critical incidents.\n• Are proficient in one or more backend languages (e.\n• , Python, Go, Rust, or similar) and distributed systems concepts.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162231167-software-engineer-backend",
+    "id": "ai-jobs-software-engineer-backend-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Software Engineer, Android",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Build and ship new experiences on Android that showcase the power of AI.\n• Have up to 6 years of professional software engineering experience.\n• Prioritize performance, security, and user experience in mobile development.\n• Optimize app performance, reliability, and responsiveness at global scale.\n• Establish robust testing frameworks and refine app architecture for long-term maintainability.\n• Collaborate with product, design, research, and backend teams to deliver high-impact features.\n• Provide technical leadership to shape the future of OpenAI’s Android platform.\n• Have a proven track record of building high-quality Android applications in production.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164713739-software-engineer-android",
+    "id": "ai-jobs-software-engineer-android-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Software Engineer, Infrastructure Reliability",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• 4+ years of relevant industry experience, with 2+ years leading large scale, complex projects or teams as an engineer or tech leadA passion for distributed systems at scale with a focus on reliability, scalability, security, and continuous improvement.\n• Proven experience as an reliability engineer, production engineer, or a similar role in a fast-paced, rapidly scaling company.\n• Experience with containerization technologies and container orchestration platforms like Kubernetes.\n• Experience with observability tools such as Datadog, Prometheus, Grafana, Splunk and ELK stack.\n• Experience with microservices architecture and service mesh technologies.\n• Excellent problem-solving skills and ability to work in a fast-paced environment.\n• Have experience operating orchestration systems such as Kubernetes at scale and building abstractions over cloud platformsAre comfortable working in Linux environments, and with tools like Kubernetes, Terraform, CI/CD pipelines, and modern observability stacks.\n• Are experienced in collaborating with cross-functional teams to ensure that reliability and scalability are considered in the design and development of new features and services.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164713733-software-engineer-infrastructure-reliability",
+    "id": "ai-jobs-software-engineer-infrastructure-reliability-san-francisco"
   }
 ]
