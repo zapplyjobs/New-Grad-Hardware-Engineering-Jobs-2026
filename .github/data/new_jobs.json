@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Electrical Engineer, Battery & Charger",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_posted_at": "2h",
-    "job_description": "• Own the design of battery or power distribution subsystems, including component selection, schematic design, and PCB layoutBring up and validate custom PCBAs for battery and charger systemsDevelop and execute test plans to verify requirements, derisk design changes, and ensure long-term reliabilityDesign wiring harnesses and cables, including connector selection, wire specifications, and documentation Bachelor’s or higher degree in Electrical Engineering or related fieldHands-on experience with PCB design and bring-upStrong understanding of power electronics, batteries, or power distribution systemsExperience designing wiring harnesses and cables for electromechanical systemsTrack record of building, testing, and iterating on custom hardware Take ownership of battery and charger systems powering next-generation humanoid robotsPrototype and refine high-performance electronics with direct impact on product reliabilityPush the boundaries of robotic power systems as we scale from R&D to full manufacturing.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164703726-electrical-engineer-battery-charger",
-    "id": "ai-jobs-electrical-engineer-battery-charger-palo-alto"
+    "employer_name": "IBM",
+    "job_title": "Entry Level User Experience Designer",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Entry Level User Experience Designer 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59412&source=WEB_Search_NA",
+    "id": "ibm-entry-level-user-experience-designer-austin"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Intern - ENG - DEG EMBEDDED - PE",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "a day",
+    "job_description": "• Actively pursuing a Bachelor’s or Master’s degree or equivalent experience in Electrical Engineering or Computer Engineering.\n• Previous internship or project experience in ASIC design or verification.\n• Experience with Python and/or SystemVerilog programming.\n• Strong analytical and problem-solving skills.\n• Proficient or working knowledge of object-oriented programming languages such as Python or SystemVerilog.\n• Ability to work independently and collaboratively in a team environment.\n• Familiarity with verification tools and debugging techniques.\n• Senior Embedded Software EngineerSan Jose, California, United States of AmericaHybridPosted 7 days ago Principal Engineer - HIG HBM - PE Design ValidationSingapore, SingaporePosted 2 months ago Engineer/Sr.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38262951",
+    "id": "micron-technology-intern-eng-deg-embedded-pe-manassas"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer - Cloud engineering",
+    "job_city": "Seattle",
+    "job_state": "US",
+    "job_posted_at": "1 day",
+    "job_description": "• Minimum Qualifications3+ years of software automation & validation experience3+ years of experience working on cloud technologies including Kubernetes, Virtualization, and cloud computeHave experience in designing, architecting, and developing cloud services and cloud infrastructure for compute is a plusExperience with testing and using REST APIs and DevOps toolsUnderstanding of large scale distributed systems architecture and applications is a big plusExperience in testing Cloud Platform that is developed on top of either private or public Cloud InfrastructureGood coding experience in C/C++/Go/Swift or a any c type languageStrong development/programming experience in Python/Ansible/KubernetesCreative, collaborative, and product-focusedExcellent communication skillsB.\n• , in Computer Engineering, Electrical Engineering, Computer Science, or equivalent experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200622698-3337/software-engineer-cloud-engineering?team=SFTWR",
+    "id": "apple-software-engineer-cloud-engineering-seattle"
   }
 ]
