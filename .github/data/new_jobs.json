@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Network Engineer, Mid",
-    "job_city": "O'Fallon",
-    "job_state": "IL",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Digital Engineer, LeadlocationsFort Walton Beach, FLposted onPosted YesterdayR0225690 Digital Engineer, LeadlocationsEl Segundo, CAposted onPosted 23 Days AgoR0225496.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/OFallon-IL/Network-Engineer--Mid_R0226970?q=hardware+engineering",
-    "id": "bae-systems-network-engineer-mid-o-fallon"
+    "employer_name": "IBM",
+    "job_title": "Entry Level Hardware Developer",
+    "job_city": "TUCSON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Entry Level Hardware Developer 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58486&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-developer-tucson"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Systems Engineer, Conversion Infrastructure",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Systems Engineer, Conversion Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/75899501159555782-systems-engineer-conversion-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=5",
-    "id": "google-systems-engineer-conversion-infrastructure-mountain-view"
+    "employer_name": "Broadcom",
+    "job_title": "Thermo Mechanical Design Engineer",
+    "job_city": "USA-CA San Jose Innovation Drive",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Sr Consultant - DB2 SME Sysprog (Australia, Canberra, Remote)locations2 Locationstime typeFull timeposted onPosted 30+ Days AgoR023361 Senior Quality Engineer - Virtual Machine MonitorlocationsCHN-Beijing-InfoTechtime typeFull timeposted onPosted 23 Days AgoR023636 Senior QA EngineerlocationsCZE-Praha 11 V Parku 2308/8time typeFull timeposted onPosted 30+ Days AgoR023350 Senior R&D EngineerlocationsUSA-CA - Promontory Etime typeFull timeposted onPosted 30+ Days AgoR023486.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Thermo-Mechanical-Design-Engineer_R023609-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-thermo-mechanical-design-engineer-usa-ca-san-jose-innovation-drive"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Materials Analyst",
+    "job_city": "Highland Park",
+    "job_state": "Michigan",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Maintenance TechnicianlocationsHighland Park, Michigan, USposted onPosted 9 Days AgoR00210722Materials Forklift DriverlocationsDetroit, Michigan, USposted onPosted 30+ Days AgoR00166889Foam OperatorlocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00165824Materials AnalystlocationsHighland Park, Michigan, USposted onPosted TodayR00212589Production OperatorlocationsShelby Twp, Michigan, USposted onPosted 30+ Days AgoR00166815Production OperatorlocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00165853BuyerlocationsNovi, Michigan, USposted onPosted 15 Days AgoR00209821Production Operator - 2nd shiftlocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00201393Production Operator - 3rd shiftlocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00203988Plan ControllerlocationsDetroit, Michigan, USposted onPosted 8 Days AgoR00211008Assembly OperatorlocationsMoore, South Carolina, USposted onPosted 30+ Days AgoR00192265Material HandlerlocationsMoore, South Carolina, USposted onPosted 30+ Days AgoR00193687Production Assembler (Temporary Positions)locationsShepherdsville, Kentucky, USposted onPosted 20 Days AgoR00209345Specialist, Health & SafetylocationsShelby Twp, Michigan, USposted onPosted 30+ Days AgoR00169507Plastics Commodity ManagerlocationsNovi, Michigan, USposted onPosted 27 Days AgoR00207824.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Materials-Analyst_R00212589?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-materials-analyst-highland-park"
   }
 ]
