@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Client Engineering AI Engineer",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Client Engineering AI Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60660&source=WEB_Search_NA",
+    "id": "ibm-client-engineering-ai-engineer-"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Software Engineer, iOS",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Build and ship new experiences on iOS that showcase the power of AI.\n• Have up to 6 years of professional software engineering experience.\n• Prioritize performance, security, and user experience in mobile development.\n• Optimize app performance, reliability, and responsiveness at global scale.\n• Establish robust testing frameworks and refine app architecture for long-term maintainability.\n• Collaborate with product, design, research, and backend teams to deliver high-impact features.\n• Provide technical leadership to shape the future of OpenAI’s iOS platform.\n• Have a proven track record of building high-quality iOS applications in production.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164713732-software-engineer-ios",
+    "id": "ai-jobs-software-engineer-ios-san-francisco"
+  }
+]
