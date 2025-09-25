@@ -1,42 +1,22 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "MTS Systems Design Eng.",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.\n• Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/70740/login",
-    "id": "amd-mts-systems-design-eng-us"
+    "employer_name": "BAE Systems",
+    "job_title": "Systems Engineer",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_posted_at": "Posted Today",
+    "job_description": "• University, Hardware Engineer InternlocationsRoseville, CAposted onPosted 21 Days AgoR0225555 University - Hardware EngineerlocationsRoseville, CAposted onPosted 21 Days AgoR0225563 Network EngineerlocationsCollege Park, MDposted onPosted 30+ Days AgoR0223445 Network Engineer, Leadlocations2 Locationsposted onPosted 27 Days AgoR0225420.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Systems-Engineer_R0226939-1?q=hardware+engineering",
+    "id": "bae-systems-systems-engineer-fort-meade"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Hardware Systems Engineer",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "Today",
-    "job_description": "• Minimum QualificationsBachelor’s degree or foreign equivalent in Electrical Engineering or related field and 5 years of progressive, post-baccalaureate experience in the job offered or related occupation.\n• 5 years of experience with each of the following skills is required:Experience performing high-speed digital hardware design, including designing and developing high-speed interface.\n• Utilizing test equipment to debug hardware, including experience supporting electrical debugging and triaging.\n• Conducting Analog and digital circuit design for various custom circuits on digital and analog sides.\n• Using PCB CAD tools to drive complex logic board designs.\n• Conducting low voltage power supply design.\n• Conducting hardware architecture design.\n• Using board and schematic design with ECAD tools to drive complex board designs and support multiple spins of design.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200621877-0836/hardware-systems-engineer?team=HRDWR",
-    "id": "apple-hardware-systems-engineer-cupertino"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Hardware Test Validation Engineer",
-    "job_city": "The Dalles",
-    "job_state": "OR",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Hardware Test Validation Engineer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/80224086550028998-hardware-test-validation-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1",
-    "id": "google-hardware-test-validation-engineer-the-dalles"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Partner Solutions Engineer, gTech Users and Products",
-    "job_city": "Boulder",
-    "job_state": "CO",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Partner Solutions Engineer, gTech Users and Products",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/81373063316153030-partner-solutions-engineer-gtech-users-and-products?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=5",
-    "id": "google-partner-solutions-engineer-gtech-users-and-products-boulder"
+    "employer_name": "BAE Systems",
+    "job_title": "Information System Security Engineer",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 30+ Days AgoR0221867 Systems and Digital Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0223342 Systems and Digital Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0223341 Cyber Warfare Engineer, SeniorlocationsRome, NYposted onPosted 30+ Days AgoR0221856 Cyber PKI Engineer, Leadlocations2 Locationsposted onPosted 16 Days AgoR0225876 Test Engineer, LeadlocationsEl Segundo, CAposted onPosted 2 Days AgoR0225230.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Information-System-Security-Engineer_R0226949?q=hardware+engineering",
+    "id": "bae-systems-information-system-security-engineer-chantilly"
   }
 ]
