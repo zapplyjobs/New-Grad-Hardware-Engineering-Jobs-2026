@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "Silicon Design Analyst",
-    "job_city": "US",
-    "job_state": "CO",
-    "job_posted_at": "Recently",
-    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Experience working with large, complex datasets and building databases.\n• Strong interpersonal and communication skills, with the ability to work effectively in diverse teams.\n• Collaborate with stakeholders to gather requirements and support program evaluation.\n• Bachelor’s degree in electrical engineering, Computer Engineering, Computer Science, Information Systems, or a related field.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• Proficiency in data processing tools such as Power BI, SQL, Excel, or similar.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/71206/login",
-    "id": "amd-silicon-design-analyst-us"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Chrome Product Security, Core",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Chrome Product Security, Core",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/112377534577812166-software-engineer-iii-chrome-product-security-core?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=9",
-    "id": "google-software-engineer-iii-chrome-product-security-core-kirkland"
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist, Fleet Health",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "17h",
+    "job_description": "• Expertise in forecasting, anomaly detection, and predictive modeling, with experience handling time-series, sensor, or geospatial datasets.\n• 3+ years of applied experience in data science with large-scale, real-world systems (IoT, clean tech, connectivity, or related domains).\n• Bachelor’s or Master’s degree in Engineering, Statistics, Data Science, or a related quantitative field.\n• Experience forecasting solar generation, connectivity performance, or energy resource availability.\n• Background in working with power-constrained, communication-constrained, or solar-powered devices.\n• Experience scaling predictive systems across large and growing hardware fleets.\n• Develop predictive and forecasting models to anticipate device health issues, solar availability, and connectivity performance, driving proactive interventions and deployment planning.\n• Proficiency in Python with scientific and ML libraries (NumPy, Pandas, SciPy, scikit-learn, Keras, PyTorch) and familiarity with data platforms (SQL, Spark, etc.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164899805-data-scientist-fleet-health",
+    "id": "ai-jobs-data-scientist-fleet-health-san-francisco"
   }
 ]
