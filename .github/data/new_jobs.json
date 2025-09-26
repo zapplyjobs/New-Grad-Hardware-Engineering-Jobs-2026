@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Information System Security Officer",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Cloud Information Assurance SpecialistlocationsLexington, MAposted onPosted 30+ Days AgoR0223778 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221833 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 21 Days AgoR0225718 Systems Administrator, JuniorlocationsFort Meade, MDposted onPosted 7 Days AgoR0226327 Cybersecurity Specialistlocations2 Locationsposted onPosted 17 Days AgoR0225879.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Information-System-Security-Officer_R0215021?q=hardware+engineering",
-    "id": "bae-systems-information-system-security-officer-mclean"
+    "employer_name": "AMD",
+    "job_title": "Silicon Design Analyst",
+    "job_city": "US",
+    "job_state": "CO",
+    "job_posted_at": "Recently",
+    "job_description": "• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Experience working with large, complex datasets and building databases.\n• Strong interpersonal and communication skills, with the ability to work effectively in diverse teams.\n• Collaborate with stakeholders to gather requirements and support program evaluation.\n• Bachelor’s degree in electrical engineering, Computer Engineering, Computer Science, Information Systems, or a related field.\n• Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• Proficiency in data processing tools such as Power BI, SQL, Excel, or similar.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/71206/login",
+    "id": "amd-silicon-design-analyst-us"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Full Stack, Guided Support Experience",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "job_title": "Software Engineer III, Chrome Product Security, Core",
+    "job_city": "Kirkland",
+    "job_state": "WA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Full Stack, Guided Support Experience",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/103776759488357062-software-engineer-iii-full-stack-guided-support-experience?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
-    "id": "google-software-engineer-iii-full-stack-guided-support-experience-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Manufacturing Test Development Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Manufacturing Test Development Engineer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/140025183954969286-manufacturing-test-development-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=10",
-    "id": "google-manufacturing-test-development-engineer-sunnyvale"
+    "job_description": "hardware engineering job for the role Software Engineer III, Chrome Product Security, Core",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/112377534577812166-software-engineer-iii-chrome-product-security-core?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=9",
+    "id": "google-software-engineer-iii-chrome-product-security-core-kirkland"
   }
 ]
