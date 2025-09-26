@@ -1,22 +1,32 @@
 [
   {
     "employer_name": "BAE Systems",
-    "job_title": "Automation Engineer",
-    "job_city": "San Diego",
-    "job_state": "CA",
+    "job_title": "Information System Security Officer",
+    "job_city": "McLean",
+    "job_state": "VA",
     "job_posted_at": "Posted Yesterday",
-    "job_description": "• Network EngineerlocationsCollege Park, MDposted onPosted 30+ Days AgoR0223445 Network EngineerlocationsCollege Park, MDposted onPosted YesterdayR0227031 Weapon Systems Solutions Engineer, LeadlocationsFort Walton Beach, FLposted onPosted 17 Days AgoR0224184 Network Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0221945 Network Engineer, SeniorlocationsWarner Robins, GAposted onPosted 4 Days AgoR0221294 Robotics Engineer, SeniorlocationsLorton, VAposted onPosted 30+ Days AgoR0224473 Software Engineer, Seniorlocations2 Locationsposted onPosted 4 Days AgoR0226356 Network Engineer, LeadlocationsSan Diego, CAposted onPosted 2 Days AgoR0226901 Network Engineer, LeadlocationsSan Diego, CAposted onPosted 2 Days AgoR0226898.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Automation-Engineer_R0226900?q=hardware+engineering",
-    "id": "bae-systems-automation-engineer-san-diego"
+    "job_description": "• Cloud Information Assurance SpecialistlocationsLexington, MAposted onPosted 30+ Days AgoR0223778 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 30+ Days AgoR0221833 Information Security SpecialistlocationsOklahoma City, OKposted onPosted 21 Days AgoR0225718 Systems Administrator, JuniorlocationsFort Meade, MDposted onPosted 7 Days AgoR0226327 Cybersecurity Specialistlocations2 Locationsposted onPosted 17 Days AgoR0225879.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Information-System-Security-Officer_R0215021?q=hardware+engineering",
+    "id": "bae-systems-information-system-security-officer-mclean"
   },
   {
     "employer_name": "Google",
-    "job_title": "AI/ML Engineer, Search Recommendations, Rankings, Predictions, Search",
-    "job_city": "Mountain View",
+    "job_title": "Software Engineer III, Full Stack, Guided Support Experience",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role AI/ML Engineer, Search Recommendations, Rankings, Predictions, Search",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/143998887697228486-aiml-engineer-search-recommendations-rankings-predictions-search?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=9",
-    "id": "google-ai-ml-engineer-search-recommendations-rankings-predictions-search-mountain-view"
+    "job_description": "hardware engineering job for the role Software Engineer III, Full Stack, Guided Support Experience",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/103776759488357062-software-engineer-iii-full-stack-guided-support-experience?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
+    "id": "google-software-engineer-iii-full-stack-guided-support-experience-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Manufacturing Test Development Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Manufacturing Test Development Engineer",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/140025183954969286-manufacturing-test-development-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=10",
+    "id": "google-manufacturing-test-development-engineer-sunnyvale"
   }
 ]
