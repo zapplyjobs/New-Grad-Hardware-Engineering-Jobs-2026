@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist, Fleet Health",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "17h",
-    "job_description": "• Expertise in forecasting, anomaly detection, and predictive modeling, with experience handling time-series, sensor, or geospatial datasets.\n• 3+ years of applied experience in data science with large-scale, real-world systems (IoT, clean tech, connectivity, or related domains).\n• Bachelor’s or Master’s degree in Engineering, Statistics, Data Science, or a related quantitative field.\n• Experience forecasting solar generation, connectivity performance, or energy resource availability.\n• Background in working with power-constrained, communication-constrained, or solar-powered devices.\n• Experience scaling predictive systems across large and growing hardware fleets.\n• Develop predictive and forecasting models to anticipate device health issues, solar availability, and connectivity performance, driving proactive interventions and deployment planning.\n• Proficiency in Python with scientific and ML libraries (NumPy, Pandas, SciPy, scikit-learn, Keras, PyTorch) and familiarity with data platforms (SQL, Spark, etc.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164899805-data-scientist-fleet-health",
-    "id": "ai-jobs-data-scientist-fleet-health-san-francisco"
+    "employer_name": "BAE Systems",
+    "job_title": "Network Engineer",
+    "job_city": "Keyport",
+    "job_state": "WA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• University, Hardware Engineer InternlocationsRoseville, CAposted onPosted 22 Days AgoR0225555 University - Hardware EngineerlocationsRoseville, CAposted onPosted 22 Days AgoR0225563 Network EngineerlocationsCollege Park, MDposted onPosted 30+ Days AgoR0223445 Network Engineer, Leadlocations2 Locationsposted onPosted 28 Days AgoR0225420.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Keyport-WA/Network-Engineer_R0227066?q=hardware+engineering",
+    "id": "bae-systems-network-engineer-keyport"
   }
 ]
