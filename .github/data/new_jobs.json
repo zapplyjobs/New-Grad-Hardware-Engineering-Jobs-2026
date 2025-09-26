@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Security Researcher, Trusted Computing and Cryptography",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "5h",
+    "job_description": "• Have deep experience with cutting edge offensive-security techniquesAre fluent across AI/ML infrastructure (data, training, inference, schedulers, accelerators) and can threat-model end-to-end.\n• Requires seeded runs, harness control, and careful methodology to validate vulnerabilities.\n• Have led high-stakes security research programs with external sponsors (e.\n• , national-security or critical-infrastructure stakeholders).\n• Operate independently, align diverse teams, and deliver on tight timelines.\n• Communicate clearly and concisely with experts and decision-makers.\n• End-to-end coverage: Tracking threats across the AI lifecycle, including data, software, and system-level components.\n• Cross-disciplinary integration: Reconciling perspectives from owners of disjoint stack layers to capture composite attack paths.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164878738-security-researcher-trusted-computing-and-cryptography",
+    "id": "ai-jobs-security-researcher-trusted-computing-and-cryptography-"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Research Scientist, Mathematical Sciences",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Open-source contributions to mathematical science or AI toolingExperience building or curating domain datasets and benchmarksExperience engaging a research community (teaching, workshops, tutorials, standards).",
+    "job_apply_link": "https://www.aijobs.com/jobs/164878732-research-scientist-mathematical-sciences",
+    "id": "ai-jobs-research-scientist-mathematical-sciences-san-francisco"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Partner Engineer, Music Publishing, YouTube",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Partner Engineer, Music Publishing, YouTube",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/77912672590275270-partner-engineer-music-publishing-youtube?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=5",
+    "id": "google-partner-engineer-music-publishing-youtube-new-york"
+  }
+]
