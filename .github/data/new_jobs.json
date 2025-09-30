@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "QA Test Developer Intern:",
-    "job_city": "shipTUCSON",
+    "employer_name": "NVIDIA",
+    "job_title": "Systems Software Engineer, AV Platform Scheduling - New College Grad",
+    "job_city": "2 Locations",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role QA Test Developer Intern: 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58724&source=WEB_Search_NA",
-    "id": "ibm-qa-test-developer-intern-shiptucson"
+    "job_posted_at": "Posted Today",
+    "job_description": "• Senior Systems Engineer, NVIDIA Mission ControllocationsUS, CA, Santa Claraposted onPosted 14 Days AgoJR2003909Senior System Software Engineer, Firmware and Kernel SWlocations2 Locationsposted onPosted 30+ Days AgoJR2000483ASIC Design EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1999890Technical Marketing EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2000725Technical Marketing EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2001070NVIDIA 2026 Internships: Systems Software Engineering - USlocationsUS, CA, Santa Claraposted onPosted 12 Days AgoJR2003204Senior System Software Engineer - AI Performance and Efficiency ToolslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1996041Senior Database Engineer, Apache Cassandra - Cloud ServiceslocationsUS, CA, Santa Claraposted onPosted 12 Days AgoJR2002799Systems Software Engineer, AV Platform Scheduling - New College Grad 2026locations2 Locationsposted onPosted TodayJR2005098Senior System Software Engineer Platform - OpenBMClocations2 Locationsposted onPosted YesterdayJR1999525Senior Deep Learning Research Engineer, Advanced AI SystemslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1995924Senior Software Engineerlocations2 Locationsposted onPosted 5 Days AgoJR2002070Principal Switch Engineering Architectlocations6 Locationsposted onPosted 30+ Days AgoJR1985843Diagnostics Software Infrastructure EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2000839Principal Full Stack Developer, AI and LLMlocations2 Locationsposted onPosted 7 Days AgoJR1997990Senior Software Engineer, Distributed Systems Engineer - DGX Cloudlocations2 Locationsposted onPosted 8 Days AgoJR1999506Senior Math Libraries Engineer, Post Quantum Cryptographylocations2 Locationsposted onPosted 30+ Days AgoJR2002083Engineering Manager - Rack Scale AI SystemslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2000926Manager, Software Engineering - Dynamolocations3 Locationsposted onPosted 30+ Days AgoJR2002924Senior Storage Performance Engineerlocations2 Locationsposted onPosted 4 Days AgoJR2004846.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--AV-Platform-Scheduling---New-College-Grad-2026_JR2005098?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-systems-software-engineer-av-platform-scheduling-new-college-grad-2-locations"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "2026 Intern: Hybrid Cloud and Quantum Research Scientist",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role 2026 Intern: Hybrid Cloud and Quantum Research Scientist",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62377&source=WEB_Search_NA",
-    "id": "ibm-2026-intern-hybrid-cloud-and-quantum-research-scientist-ship"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "2026 Intern: Quantum Data Analyst",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role 2026 Intern: Quantum Data Analyst",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62374&source=WEB_Search_NA",
-    "id": "ibm-2026-intern-quantum-data-analyst-ship"
+    "employer_name": "AI Jobs",
+    "job_title": "Systems Software Engineer, AV Platform Scheduling - New College Grad",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Developing and optimizing software architecture and frameworks for real-world performance while matching or exceeding customer requirements.\n• BS/MS or higher in computer engineering, computer science or related fields (or equivalent experience) Excellent C, C++ and Python programming skills Experience developing and debugging multithreaded/distributed applications like multimedia systems, game engines, etc.\n• Great communication and analytical skills.\n• Experience with the git version control system and build systems like Cmake/Bazel.\n• Research background in discrete optimization and/or real-time scheduling.\n• Experience or interest in computer vision and image processing Background with frameworks for robotics such as ROS.\n• Experience shipping products meeting ISO26262 standards while following ASPICE practices.\n• Improving efficiency by optimizing computer utilization with multiple hardware engines for enhanced software performance.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165250239-systems-software-engineer-av-platform-scheduling-new-college-grad-2026",
+    "id": "ai-jobs-systems-software-engineer-av-platform-scheduling-new-college-grad-us"
   }
 ]
