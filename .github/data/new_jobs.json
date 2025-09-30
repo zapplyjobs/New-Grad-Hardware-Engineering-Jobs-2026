@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Search Answers",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "employer_name": "IBM",
+    "job_title": "QA Test Developer Intern:",
+    "job_city": "shipTUCSON",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Search Answers",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/122525317158838982-software-engineer-iii-search-answers?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=6",
-    "id": "google-software-engineer-iii-search-answers-mountain-view"
+    "job_description": "hardware engineering job for the role QA Test Developer Intern: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58724&source=WEB_Search_NA",
+    "id": "ibm-qa-test-developer-intern-shiptucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern: Hybrid Cloud and Quantum Research Scientist",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role 2026 Intern: Hybrid Cloud and Quantum Research Scientist",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62377&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-hybrid-cloud-and-quantum-research-scientist-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern: Quantum Data Analyst",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role 2026 Intern: Quantum Data Analyst",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62374&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-quantum-data-analyst-ship"
   }
 ]
