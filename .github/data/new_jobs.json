@@ -1,52 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Intern 2026: Quantum Network  / Security Engineer",
-    "job_city": "ship",
-    "job_state": "US",
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Search Answers",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Intern 2026: Quantum Network  / Security Engineer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60905&source=WEB_Search_NA",
-    "id": "ibm-intern-2026-quantum-network-security-engineer-ship"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Network Engineer, Mid",
-    "job_city": "Arlington Heights",
-    "job_state": "IL",
-    "job_posted_at": "Posted Today",
-    "job_description": "• University, Hardware Engineer InternlocationsRoseville, CAposted onPosted 25 Days AgoR0225555 University - Hardware EngineerlocationsRoseville, CAposted onPosted 25 Days AgoR0225563.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-Heights-IL/Network-Engineer--Mid_R0227266?q=hardware+engineering",
-    "id": "bae-systems-network-engineer-mid-arlington-heights"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Vulnerability Analyst",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Vulnerability AnalystlocationsFort Meade, MDposted onPosted TodayR0227248 Manufacturing Quality Assurance SpecialistlocationsFayetteville, NCposted onPosted 30+ Days AgoR0223769 Configuration Manager, SeniorlocationsAberdeen Proving Ground, MDposted onPosted 21 Days AgoR0224944 Acoustic Intelligence Analyst, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0223620 Software Integrator, SeniorlocationsBelcamp, MDposted onPosted 30+ Days AgoR0224959 Software Integrator, SeniorlocationsBelcamp, MDposted onPosted 3 Days AgoR0227098 Configuration ManagerlocationsClearfield, UTposted onPosted 5 Days AgoR0221684 Software Configuration ManagerlocationsLorton, VAposted onPosted TodayR0225143 Computer Vision ExpertlocationsBethesda, MDposted onPosted 25 Days AgoR0225632 License ManagerlocationsArlington, VAposted onPosted 30+ Days AgoR0224319.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Vulnerability-Analyst_R0227248-1?q=hardware+engineering",
-    "id": "bae-systems-vulnerability-analyst-fort-meade"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Network Engineer - TS/SCI Required",
-    "job_city": "USA VA Arlington",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Network-Engineer---Top-Secret-SCI_RQ206470-1?q=hardware+engineering",
-    "id": "general-dynamics-network-engineer-ts-sci-required-usa-va-arlington"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Post-Silicon System Debug Engineer",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "• Experience in creating, enhancing, and maintaining diagnostic tools for server stress testing.\n• Strong interpersonal and communication skills to collaborate with cross-functional teams, external vendors, and users.\n• Good technical writing and communication skills for creating documentation and training materials.\n• Project management skills to plan, prioritize, and execute tasks effectively, especially when working on multiple projects.\n• Support these tools with education and training.\n• Experience in clocking, reset, power-up sequences and power management.\n• \\Software development experience programming in C++ and assembly in a Linux based environment.\n• Strong experience with proven impact in Silicon chip bring-up, validation and debug.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/71794/login",
-    "id": "amd-post-silicon-system-debug-engineer-us"
+    "job_description": "hardware engineering job for the role Software Engineer III, Search Answers",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/122525317158838982-software-engineer-iii-search-answers?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=6",
+    "id": "google-software-engineer-iii-search-answers-mountain-view"
   }
 ]
