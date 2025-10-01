@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Research Engineer, Pretraining Scaling",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "15h",
-    "job_description": "• Own critical aspects of our production pretraining pipeline, including model operations, performance optimization, observability, and reliability Debug and resolve complex issues across the full stack—from hardware errors and networking to training dynamics and evaluation infrastructure Design and run experiments to improve training efficiency, reduce step time, increase uptime, and enhance model performance Respond to on-call incidents during model launches, diagnosing problems quickly and coordinating solutions across teams Build and maintain production logging, monitoring dashboards, and evaluation infrastructure Add new capabilities to the training codebase, such as long context support or novel architectures Collaborate closely with teammates across SF and London, as well as with Tokens, Architectures, and Systems teams Contribute to the team's institutional knowledge by documenting systems, debugging approaches, and lessons learned Have hands-on experience training large language models, or deep expertise with JAX, TPU, PyTorch, or large-scale distributed systems Genuinely enjoy both research and engineering work—you'd describe your ideal split as roughly 50/50 rather than heavily weighted toward one or the other Are excited about being on-call for production systems, working long days during launches, and solving hard problems under pressure Thrive when working on whatever is most impactful, even if that changes day-to-day based on what the production model needs Excel at debugging complex, ambiguous problems across multiple layers of the stack Communicate clearly and collaborate effectively, especially when coordinating across time zones or during high-stress incidents Are passionate about the work itself and want to refine your craft as a research engineer Care about the societal impacts of AI and responsible scaling Previous experience training LLM’s or working extensively with JAX/TPU, PyTorch, or other ML frameworks at scale Contributed to open-source LLM frameworks (e.\n• , open_lm, llm-foundry, mesh-transformer-jax) Published research on model training, scaling laws, or ML systems Experience with production ML systems, observability tools, or evaluation infrastructure Background as a systems engineer, quant, or in other roles requiring both technical depth and operational excellence.",
-    "job_apply_link": "https://www.aijobs.com/jobs/165326705-research-engineer-pretraining-scaling",
-    "id": "ai-jobs-research-engineer-pretraining-scaling-san-francisco"
+    "employer_name": "Broadcom",
+    "job_title": "Software Engineer",
+    "job_city": "USA-CA - Promontory B",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Senior Quality Engineer - Virtual Machine MonitorlocationsCHN-Beijing-InfoTechtime typeFull timeposted onPosted 29 Days AgoR023636 Senior Quality Engineer - Virtual Machine MonitorlocationsCHN-Beijing-InfoTechtime typeFull timeposted onPosted 2 Days AgoR023809 Senior Software Engineer - PerformancelocationsUSA-CA - Promontory Dtime typeFull timeposted onPosted 5 Days AgoR023796 Technology Alliance Program Managerlocations2 Locationstime typeFull timeposted onPosted 5 Days AgoR023784 Senior R&D EngineerlocationsUSA-CA - Promontory Etime typeFull timeposted onPosted 30+ Days AgoR023486.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer_R023814?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-software-engineer-usa-ca-promontory-b"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Search Platforms",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "job_title": "Software Engineering Intern, Google Public Sector, Summer",
+    "job_city": "Reston",
+    "job_state": "VA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Search Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/98566013896794822-software-engineer-iii-search-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=7",
-    "id": "google-software-engineer-iii-search-platforms-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Search Modalities, AI/ML",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Search Modalities, AI/ML",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/73675063508771526-software-engineer-iii-search-modalities-aiml?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=8",
-    "id": "google-software-engineer-iii-search-modalities-ai-ml-mountain-view"
+    "job_description": "hardware engineering job for the role Software Engineering Intern, Google Public Sector, Summer 2026",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/104981114489053894-software-engineering-intern-google-public-sector-summer-2026?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=9",
+    "id": "google-software-engineering-intern-google-public-sector-summer-reston"
   }
 ]
