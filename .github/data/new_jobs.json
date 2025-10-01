@@ -1,52 +1,22 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Functional Verification Engineer",
-    "job_city": "POUGHKEEPSIE",
+    "job_title": "QA Test Developer Intern",
+    "job_city": "shipPOUGHKEEPSIE",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Functional Verification Engineer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61697&source=WEB_Search_NA",
-    "id": "ibm-functional-verification-engineer-poughkeepsie"
-  },
-  {
-    "employer_name": "ABB",
-    "job_title": "Automation Engineer Intern - Summer",
-    "job_city": "Location Houston",
-    "job_state": "Texas",
-    "job_posted_at": "Recently",
-    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
-    "job_apply_link": "https://careers.abb/global/en/job/JR00011245/Automation-Engineer-Intern-Summer-2026",
-    "id": "abb-automation-engineer-intern-summer-location-houston"
+    "job_description": "hardware engineering job for the role QA Test Developer Intern",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58490&source=WEB_Search_NA",
+    "id": "ibm-qa-test-developer-intern-shippoughkeepsie"
   },
   {
     "employer_name": "Apple",
-    "job_title": "UI Engineer, AiDP",
-    "job_city": "",
+    "job_title": "Web Engineer, Claris",
+    "job_city": "Sunnyvale",
     "job_state": "US",
-    "job_posted_at": "1 week",
-    "job_description": "• Minimum QualificationsBachelor's Science Computer Science or similar3+ years of production environment development with JavaScript frameworks (React, Angular, Vue, etc.\n• Developed Single Page Applications with React and Vue, leveraging state management (Redux, Zustand) for seamless user experiences.\n• Collaborative development and dependency management experience preferably Git, NPM, Yarn or similarPassionate about crafting innovative, user-centric experiences that drive engagement and usability.\n• Skilled in debugging with browser dev tools, writing tests with Java based tools (i.\n• ) and CSS libraries (Tailwind, Bootstrap, etc.\n• ) for responsive, scalable designs.\n• Build pixel-perfect, accessible, and robust web interfaces using tools like Figma or React, ensuring WCAG compliance.\n• ) and optimizing UI performance through lazy loading and code splitting.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200614878-0240/ui-engineer-aidp?team=CORSV",
-    "id": "apple-ui-engineer-aidp-"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "SOC Verification Engineer",
-    "job_city": "",
-    "job_state": "US",
-    "job_posted_at": "1 week",
-    "job_description": "• Minimum QualificationsSolid fundamentals in Verilog and SystemVerilog for verification.\n• Solid verification skills in problem solving and debugging.\n• Experience with Constrained Random testing is a plus.\n• Understanding and usage of System Verilog Assertion (SVA)Programing experience in CExperience writing scripts in languages such as Perl or Python a plus.\n• Should be a great teammate with excellent communication skills and the desire to take on diverse challenges.\n• Basic knowledge of UVM methodology.\n• Good understanding of overall verification flowKnowledge of industry standard interfaces like I2C, UART, SPI.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200622425-3401/soc-verification-engineer?team=HRDWR",
-    "id": "apple-soc-verification-engineer-"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Search Qualification Platform",
-    "job_city": "Cambridge",
-    "job_state": "MA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer, Search Qualification Platform",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/113337189185528518-software-engineer-search-qualification-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=10",
-    "id": "google-software-engineer-search-qualification-platform-cambridge"
+    "job_posted_at": "4 weeks",
+    "job_description": "• Minimum QualificationsBS in Computer Science or equivalentKnowledge of React, TypeScript, JavaScript, Next.\n• JsSolid experience with design tokens and component librariesStrong grasp of CSS Grid, Flexbox, and advanced layout mechanics for responsive, adaptive UIsUnderstanding of state management patterns (e.\n• , Zustand, Redux, or context-based systems)Deep expertise in Tailwind CSS, ShadCN UI, and custom styling systemsYou will join a hands-on development team that fosters creativity and generates novel solutions to deliver engineering excellence.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200616124-3956/web-engineer-claris?team=SFTWR",
+    "id": "apple-web-engineer-claris-sunnyvale"
   }
 ]
