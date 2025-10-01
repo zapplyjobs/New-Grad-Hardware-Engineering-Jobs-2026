@@ -1,52 +1,32 @@
 [
   {
     "employer_name": "AI Jobs",
-    "job_title": "Data Scientist, Financial Engineering",
+    "job_title": "Research Engineer, Pretraining Scaling",
     "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• 5+ years in a quantitative role (data science, product analytics, or experimentation) in high-growth or fintech environmentsFluency in SQL and Python, with a track record designing and interpreting A/B tests and quasi-experimentsExperience building product metrics from scratch and operationalizing them for decision-makingExcellent communication skills with PMs, engineers, risk/finance partners, and executivesStrategic instincts beyond significance tests—clear thinking about tradeoffs (conversion vs.\n• User experience) Payments, checkout, or subscription analytics experience (PSPs, bank rails, disputes/refunds, risk, e-commerce)Background in offline incrementality methods, uplift modeling, CUPED/causal inference, or counterfactual evaluationExperience with internationalization/local payments, FX, and pricing & packaging strategyComfort building operational analytics (alerting, SLIs/SLOs) and partnering closely with data engineering Own checkout & payments analytics and experimentation across methods and locales (e.\n• , bank transfers, emerging rails), improving conversion while monitoring risk and latency.\n• Build and run the experimentation program for in-house checkout—define success metrics and guardrails, execute staged rollouts, and use offline incrementality when online tests aren’t feasible.\n• Create operational visibility and source-of-truth data with FinEng Data Engineering—land team-level metrics, SLAs, and self-serve dashboards that drive proactive action.\n• Lead subscription, retention, and monetization analytics—ship launch-readiness for new subscription features, reduce involuntary churn (e.\n• , targeted retrials/nudges), and develop elasticity/FX frameworks toward pricing optimality.",
-    "job_apply_link": "https://www.aijobs.com/jobs/165332626-data-scientist-financial-engineering",
-    "id": "ai-jobs-data-scientist-financial-engineering-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Middleware Engineering Intern [Winter 2026]",
-    "job_city": "San Jose",
     "job_state": "CA",
-    "job_posted_at": "11h",
-    "job_description": "• Graduate student or recent graduate in Computer Science or related field Available for a minimum of 10 weeks (1–2 terms preferred) Demonstrated experience on hardware/software projects outside of coursework Proficient in C++ and Python Strong understanding of Linux Solid knowledge of computer architecture and networking protocols Experience with the Bazel build system Familiarity with timing-sensitive environments Knowledge of shared memory and lock-free systems Exposure to TypeScript.",
-    "job_apply_link": "https://www.aijobs.com/jobs/165332342-middleware-engineering-intern-winter-2026",
-    "id": "ai-jobs-middleware-engineering-intern-winter-2026-san-jose"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist, Platform",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• Embed with the Platform product team as a trusted partner, uncovering ways to improve developer experience, reliability, and usage growthDefine north-star metrics across the developer funnel (activation, retention, growth), as well as latency/cost guardrails for new features and modelsDesign and interpret A/B tests and controlled rollouts (e.\n• , failure modes, eval gaps, model response quality) 5+ years in a quantitative role in ambiguous, high-growth environments (platforms, APIs, or B2B products a plus)Depth in SQL and Python, with a track record proposing, designing, and running rigorous experimentsExperience defining and operationalizing metrics from scratch (including reliability/latency/cost and safety)Strong cross-functional communication with PMs, engineers, and executivesStrategic instincts beyond p-values—clear thinking about tradeoffs and business impact Background in developer platforms, observability, or usage-based pricing/quotasExperience connecting offline evals to online product impactPrior work in NLP/LLMs or agentic systems, or in enterprise analytics for B2B products.\n• , new model versions, pricing/limits, new API features, new B2B products)Build source-of-truth dashboards and self-serve data tools for product, engineering, and go-to-market teamsTranslate product learnings into actionable feedback for Research (e.",
-    "job_apply_link": "https://www.aijobs.com/jobs/165332628-data-scientist-platform",
-    "id": "ai-jobs-data-scientist-platform-san-francisco"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist, Codex",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• 5+ years in a quantitative role at a developer-facing or high-growth productFluency in SQL and Python.\n• Comfort with experiment design and causal inferenceExperience defining product metrics tied to user valueAbility to communicate clearly with PM, Eng, and Design—and to influence product direction Strong programming background.\n• Ability to prototype, run simulations, and reason about code qualityFamiliarity with IDE/extension telemetry or developer tooling analyticsPrior experience with NLP/LLMs, code models, or evaluations for generative coding.",
-    "job_apply_link": "https://www.aijobs.com/jobs/165332627-data-scientist-codex",
-    "id": "ai-jobs-data-scientist-codex-san-francisco"
+    "job_posted_at": "15h",
+    "job_description": "• Own critical aspects of our production pretraining pipeline, including model operations, performance optimization, observability, and reliability Debug and resolve complex issues across the full stack—from hardware errors and networking to training dynamics and evaluation infrastructure Design and run experiments to improve training efficiency, reduce step time, increase uptime, and enhance model performance Respond to on-call incidents during model launches, diagnosing problems quickly and coordinating solutions across teams Build and maintain production logging, monitoring dashboards, and evaluation infrastructure Add new capabilities to the training codebase, such as long context support or novel architectures Collaborate closely with teammates across SF and London, as well as with Tokens, Architectures, and Systems teams Contribute to the team's institutional knowledge by documenting systems, debugging approaches, and lessons learned Have hands-on experience training large language models, or deep expertise with JAX, TPU, PyTorch, or large-scale distributed systems Genuinely enjoy both research and engineering work—you'd describe your ideal split as roughly 50/50 rather than heavily weighted toward one or the other Are excited about being on-call for production systems, working long days during launches, and solving hard problems under pressure Thrive when working on whatever is most impactful, even if that changes day-to-day based on what the production model needs Excel at debugging complex, ambiguous problems across multiple layers of the stack Communicate clearly and collaborate effectively, especially when coordinating across time zones or during high-stress incidents Are passionate about the work itself and want to refine your craft as a research engineer Care about the societal impacts of AI and responsible scaling Previous experience training LLM’s or working extensively with JAX/TPU, PyTorch, or other ML frameworks at scale Contributed to open-source LLM frameworks (e.\n• , open_lm, llm-foundry, mesh-transformer-jax) Published research on model training, scaling laws, or ML systems Experience with production ML systems, observability tools, or evaluation infrastructure Background as a systems engineer, quant, or in other roles requiring both technical depth and operational excellence.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165326705-research-engineer-pretraining-scaling",
+    "id": "ai-jobs-research-engineer-pretraining-scaling-san-francisco"
   },
   {
     "employer_name": "Google",
-    "job_title": "Quantum Device Design Engineer, Quantum AI",
-    "job_city": "Goleta",
+    "job_title": "Software Engineer III, Search Platforms",
+    "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Quantum Device Design Engineer, Quantum AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/110771555037782726-quantum-device-design-engineer-quantum-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2",
-    "id": "google-quantum-device-design-engineer-quantum-ai-goleta"
+    "job_description": "hardware engineering job for the role Software Engineer III, Search Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/98566013896794822-software-engineer-iii-search-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=7",
+    "id": "google-software-engineer-iii-search-platforms-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Search Modalities, AI/ML",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer III, Search Modalities, AI/ML",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/73675063508771526-software-engineer-iii-search-modalities-aiml?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=8",
+    "id": "google-software-engineer-iii-search-modalities-ai-ml-mountain-view"
   }
 ]
