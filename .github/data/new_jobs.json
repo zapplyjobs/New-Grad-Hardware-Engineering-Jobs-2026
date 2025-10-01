@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Broadcom",
-    "job_title": "Software Engineer",
-    "job_city": "USA-CA - Promontory B",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Senior Quality Engineer - Virtual Machine MonitorlocationsCHN-Beijing-InfoTechtime typeFull timeposted onPosted 29 Days AgoR023636 Senior Quality Engineer - Virtual Machine MonitorlocationsCHN-Beijing-InfoTechtime typeFull timeposted onPosted 2 Days AgoR023809 Senior Software Engineer - PerformancelocationsUSA-CA - Promontory Dtime typeFull timeposted onPosted 5 Days AgoR023796 Technology Alliance Program Managerlocations2 Locationstime typeFull timeposted onPosted 5 Days AgoR023784 Senior R&D EngineerlocationsUSA-CA - Promontory Etime typeFull timeposted onPosted 30+ Days AgoR023486.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer_R023814?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-software-engineer-usa-ca-promontory-b"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Geo, Computer Vision",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer III, Geo, Computer Vision",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/117424837336408774-software-engineer-iii-geo-computer-vision?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3",
+    "id": "google-software-engineer-iii-geo-computer-vision-mountain-view"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineering Intern, Google Public Sector, Summer",
-    "job_city": "Reston",
-    "job_state": "VA",
+    "job_title": "Partner Engineer, Gemini",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineering Intern, Google Public Sector, Summer 2026",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/104981114489053894-software-engineering-intern-google-public-sector-summer-2026?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=9",
-    "id": "google-software-engineering-intern-google-public-sector-summer-reston"
+    "job_description": "hardware engineering job for the role Partner Engineer, Gemini",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/106186179233096390-partner-engineer-gemini?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=5",
+    "id": "google-partner-engineer-gemini-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Google Cloud Platforms",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer III, Google Cloud Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/86153297492091590-software-engineer-iii-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=9",
+    "id": "google-software-engineer-iii-google-cloud-platforms-seattle"
   }
 ]
