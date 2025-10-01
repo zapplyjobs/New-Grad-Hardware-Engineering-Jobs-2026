@@ -1,12 +1,52 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Support Engineer - HashiCorp",
-    "job_city": "Austin",
-    "job_state": "US",
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist, Financial Engineering",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• 5+ years in a quantitative role (data science, product analytics, or experimentation) in high-growth or fintech environmentsFluency in SQL and Python, with a track record designing and interpreting A/B tests and quasi-experimentsExperience building product metrics from scratch and operationalizing them for decision-makingExcellent communication skills with PMs, engineers, risk/finance partners, and executivesStrategic instincts beyond significance tests—clear thinking about tradeoffs (conversion vs.\n• User experience) Payments, checkout, or subscription analytics experience (PSPs, bank rails, disputes/refunds, risk, e-commerce)Background in offline incrementality methods, uplift modeling, CUPED/causal inference, or counterfactual evaluationExperience with internationalization/local payments, FX, and pricing & packaging strategyComfort building operational analytics (alerting, SLIs/SLOs) and partnering closely with data engineering Own checkout & payments analytics and experimentation across methods and locales (e.\n• , bank transfers, emerging rails), improving conversion while monitoring risk and latency.\n• Build and run the experimentation program for in-house checkout—define success metrics and guardrails, execute staged rollouts, and use offline incrementality when online tests aren’t feasible.\n• Create operational visibility and source-of-truth data with FinEng Data Engineering—land team-level metrics, SLAs, and self-serve dashboards that drive proactive action.\n• Lead subscription, retention, and monetization analytics—ship launch-readiness for new subscription features, reduce involuntary churn (e.\n• , targeted retrials/nudges), and develop elasticity/FX frameworks toward pricing optimality.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165332626-data-scientist-financial-engineering",
+    "id": "ai-jobs-data-scientist-financial-engineering-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Middleware Engineering Intern [Winter 2026]",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "11h",
+    "job_description": "• Graduate student or recent graduate in Computer Science or related field Available for a minimum of 10 weeks (1–2 terms preferred) Demonstrated experience on hardware/software projects outside of coursework Proficient in C++ and Python Strong understanding of Linux Solid knowledge of computer architecture and networking protocols Experience with the Bazel build system Familiarity with timing-sensitive environments Knowledge of shared memory and lock-free systems Exposure to TypeScript.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165332342-middleware-engineering-intern-winter-2026",
+    "id": "ai-jobs-middleware-engineering-intern-winter-2026-san-jose"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist, Platform",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Embed with the Platform product team as a trusted partner, uncovering ways to improve developer experience, reliability, and usage growthDefine north-star metrics across the developer funnel (activation, retention, growth), as well as latency/cost guardrails for new features and modelsDesign and interpret A/B tests and controlled rollouts (e.\n• , failure modes, eval gaps, model response quality) 5+ years in a quantitative role in ambiguous, high-growth environments (platforms, APIs, or B2B products a plus)Depth in SQL and Python, with a track record proposing, designing, and running rigorous experimentsExperience defining and operationalizing metrics from scratch (including reliability/latency/cost and safety)Strong cross-functional communication with PMs, engineers, and executivesStrategic instincts beyond p-values—clear thinking about tradeoffs and business impact Background in developer platforms, observability, or usage-based pricing/quotasExperience connecting offline evals to online product impactPrior work in NLP/LLMs or agentic systems, or in enterprise analytics for B2B products.\n• , new model versions, pricing/limits, new API features, new B2B products)Build source-of-truth dashboards and self-serve data tools for product, engineering, and go-to-market teamsTranslate product learnings into actionable feedback for Research (e.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165332628-data-scientist-platform",
+    "id": "ai-jobs-data-scientist-platform-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist, Codex",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• 5+ years in a quantitative role at a developer-facing or high-growth productFluency in SQL and Python.\n• Comfort with experiment design and causal inferenceExperience defining product metrics tied to user valueAbility to communicate clearly with PM, Eng, and Design—and to influence product direction Strong programming background.\n• Ability to prototype, run simulations, and reason about code qualityFamiliarity with IDE/extension telemetry or developer tooling analyticsPrior experience with NLP/LLMs, code models, or evaluations for generative coding.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165332627-data-scientist-codex",
+    "id": "ai-jobs-data-scientist-codex-san-francisco"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Quantum Device Design Engineer, Quantum AI",
+    "job_city": "Goleta",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Support Engineer - HashiCorp",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA",
-    "id": "ibm-support-engineer-hashicorp-austin"
+    "job_description": "hardware engineering job for the role Quantum Device Design Engineer, Quantum AI",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/110771555037782726-quantum-device-design-engineer-quantum-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2",
+    "id": "google-quantum-device-design-engineer-quantum-ai-goleta"
   }
 ]
