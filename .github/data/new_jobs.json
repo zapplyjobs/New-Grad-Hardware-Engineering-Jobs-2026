@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Geo, Computer Vision",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Geo, Computer Vision",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/117424837336408774-software-engineer-iii-geo-computer-vision?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3",
-    "id": "google-software-engineer-iii-geo-computer-vision-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Partner Engineer, Gemini",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Partner Engineer, Gemini",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/106186179233096390-partner-engineer-gemini?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=5",
-    "id": "google-partner-engineer-gemini-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Google Cloud Platforms",
-    "job_city": "Seattle",
+    "employer_name": "AI Jobs",
+    "job_title": "Data Scientist",
+    "job_city": "Redmond",
     "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Google Cloud Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/86153297492091590-software-engineer-iii-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=9",
-    "id": "google-software-engineer-iii-google-cloud-platforms-seattle"
+    "job_posted_at": "17h",
+    "job_description": "• Master's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science,OR related field OR Bachelor's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, OR related field AND 1+ years data-science experience (e.\n• , managing structured and unstructured data, applying statistical techniques and reporting results) OR equivalent experience.\n• 1+ year(s) development experience in networking or Linux kernel1+ year(s) of experience using Python/R and SQL.\n• Ability to meet Microsoft, customer and/or government security screening requirements are required for this role.\n• These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.\n• OR related field OR Bachelor's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, OR related field AND 1+ years data-science experience (e.\n• , managing structured and unstructured data, applying statistical techniques and reporting results) OR equivalent experience.\n• Bachelor's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related fieldOR equivalent experience.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165367968-data-scientist-i",
+    "id": "ai-jobs-data-scientist-redmond"
   }
 ]
