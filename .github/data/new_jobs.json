@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Intel",
-    "job_title": "Software Application Development Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "• Software QA EngineerlocationsUS, California, Santa Claraposted onPosted YesterdayJR0276920Emulation Solutions Engineerlocations3 Locationsposted onPosted 2 Days AgoJR0276726Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted 8 Days AgoJR0275499Information Security System Officer (ISSO)locationsUS, Virginia, Fairfaxposted onPosted 22 Days AgoJR0277075RTL Design EngineerlocationsUS, Texas, Austinposted onPosted 3 Days AgoJR0276596CPU Formal Verification Engineerlocations3 Locationsposted onPosted 21 Days AgoJR0277286MCP Emulation Verification Engineerlocations5 Locationsposted onPosted 3 Days AgoJR0277364MES EngineerlocationsUS, Arizona, Phoenixposted onPosted 2 Days AgoJR0277565MES EngineerlocationsUS, Arizona, Phoenixposted onPosted 2 Days AgoJR0277570Government Information Security Engineerlocations4 Locationsposted onPosted 22 Days AgoJR0276257Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted 10 Days AgoJR0276922Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted 9 Days AgoJR0277455FVCTO - Formal Verification Senior Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276239GPU Logic Design Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0275905Software Application Development Engineerlocations2 Locationsposted onPosted YesterdayJR0277567Senior IP Design Verification Engineerlocations3 Locationsposted onPosted 16 Days AgoJR0277349Senior IP Design Verification Engineerlocations3 Locationsposted onPosted 13 Days AgoJR0277347Enterprise Provisioning and Power Efficiency Engineerlocations2 Locationsposted onPosted 2 Days AgoJR0277465IP Enablement Application Engineerlocations3 Locationsposted onPosted 23 Days AgoJR0273988Senior Pre-Silicon Design Verification Engineerlocations4 Locationsposted onPosted 16 Days AgoJR0277344.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0277567-1?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-software-application-development-engineer-2-locations"
-  },
-  {
     "employer_name": "AI Jobs",
-    "job_title": "Technical Marketing Engineer",
+    "job_title": "GPU and HPC Infrastructure Engineer - New College Grad",
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• Bachelor's degree in Computer Science, Electrical Engineering, or a related technical field (or equivalent experience).\n• Deep expertise and 5+ years hands on experience in a technical role such as a Technical Marketing Engineer, Solutions Architect, Sales Engineer, or a similar customer-facing technical position within the hardware, networking, or enterprise software industry.\n• Hands-on experience deploying systems, networking and storage in combination with Docker containers, Kubernetes, service-oriented architecture.\n• World-class communication skills with a proven ability to articulate a value proposition to technical and non-technical audiences.\n• Hands on experience in system administration.\n• Experience collaborating with and contributing to open-source projects.\n• Strong programming skills and familiarity with CUDA and GPU fundamentals.\n• Work with DGX product management to design, build, and document reference architectures and solutions that showcase the capabilities of our hardware in real-world customer environments.",
-    "job_apply_link": "https://www.aijobs.com/jobs/165626760-technical-marketing-engineer",
-    "id": "ai-jobs-technical-marketing-engineer-us"
+    "job_description": "• Pursuing or recently completed a BS or MS in Computer Science/Engineering/Physics/Mathematics or other comparable Degree or equivalent experience.\n• Software engineering experience on large-scale production systems.\n• Experience working successfully with multi-functional teams, principles and architects and coordinate effectively across organizational boundaries and geographies.\n• Hands-on experience working with RDMA networking.\n• Advanced hands-on experience and deep understanding of cluster management systems (Kubernetes, SLURM.\n• ) Hands-on experience in Machine Learning Operations.\n• Hands-on experience with Bright Cluster Manager.\n• Hands-on experience developing and/or operating hardware fleet management systems.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165626751-gpu-and-hpc-infrastructure-engineer-new-college-grad-2025",
+    "id": "ai-jobs-gpu-and-hpc-infrastructure-engineer-new-college-grad-us"
   }
 ]
