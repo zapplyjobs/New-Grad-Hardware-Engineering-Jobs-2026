@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Supply Chain Professional",
+    "employer_name": "Apple",
+    "job_title": "Software Engineer",
     "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Supply Chain Professional",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62367&source=WEB_Search_NA",
-    "id": "ibm-supply-chain-professional-"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "GPU and HPC Infrastructure Engineer - New College Grad",
-    "job_city": "2 Locations",
     "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Firmware Engineer - GPUlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1997513GPU Firmware EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2002571Senior Software R&D Engineer, VLSI Physical DesignlocationsUS, TX, Austinposted onPosted 6 Days AgoJR2000714Senior Linux Kernel Systems Software Engineer – CSP Engagementslocations4 Locationsposted onPosted YesterdayJR1999600Embedded Software Engineer - RISCVlocationsUS, CA, Santa Claraposted onPosted 2 Days AgoJR2002600GPU and HPC Infrastructure Engineer - New College Grad 2025locations2 Locationsposted onPosted TodayJR2002464Senior Developer Technology Engineer - AIlocations6 Locationsposted onPosted 30+ Days AgoJR1996103Senior Integration Engineer - Autonomous VehiclelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2000998Senior GPU and HPC Infrastructure Engineer - DGX Cloudlocations2 Locationsposted onPosted 3 Days AgoJR1999889Senior Field Application EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1991431Senior Field Application Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR1998286Senior Field Application Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR2003054Senior Performance Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR1996987Technical Marketing Engineerlocations2 Locationsposted onPosted TodayJR2005333HSIO Functional Validation EngineerlocationsUS, CA, Santa Claraposted onPosted 9 Days AgoJR1995681Senior Software Engineer - GPUlocations2 Locationsposted onPosted 30+ Days AgoJR1997181Senior Software Engineer - GPUlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1999189Senior Firmware Engineer - GPUlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2000940Principal Platform Software Engineer - OpenBMC Platform Architectlocations2 Locationsposted onPosted YesterdayJR1968239Senior Software Engineer - CUDA and Unified Memorylocations2 Locationsposted onPosted 30+ Days AgoJR1999732.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-and-HPC-Infrastructure-Engineer---New-College-Grad-2025_JR2002464?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-gpu-and-hpc-infrastructure-engineer-new-college-grad-2-locations"
+    "job_posted_at": "1 day",
+    "job_description": "• Minimum Qualifications3 or more years of industry experience building scalable micro services or data driven platforms.\n• Prior experience with OOPS programming (eg.\n• G AWS or GCP )Expertise in building backend distributed systemsExperience with creating solutions using public cloud technologies and APIsStrong understanding of Micro-service design and high-scale performance tuningExpertise in relational and non relational datastoreProficiency in data processing technologies (e.\n• G Kafka, Spark, Flink )Strong problem solving and debugging skills.\n• Bachelor's degree in Computer Science/Engineering discipline or equivalent.\n• Master's degree preferred.\n• Strong computer science fundamentals.\n• , Java/C++ or equivalent)Familiarity with cloud paradigms ( e.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200623864-0240/software-engineer?team=SFTWR",
+    "id": "apple-software-engineer-"
   }
 ]
