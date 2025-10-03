@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Network Engineer, Mid",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Digital Engineer, LeadlocationsFort Walton Beach, FLposted onPosted 8 Days AgoR0225690 Digital Engineer, LeadlocationsEl Segundo, CAposted onPosted 30 Days AgoR0225496 Network Engineer, SeniorlocationsTampa, FLposted onPosted 30+ Days AgoR0222576.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Network-Engineer--Mid_R0227524?q=hardware+engineering",
-    "id": "bae-systems-network-engineer-mid-mclean"
+    "employer_name": "AI Jobs",
+    "job_title": "Backend Software Engineer, Growth",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Shipped features to power experiences that optimize the user funnel, such as landing pages, product pages, purchase flows, search flows, etc.\n• Are highly analytical and have experience designing and implementing A/B tests, with a scientific approach to data-based experiments.\n• Have a voracious and intrinsic desire to learn and fill in missing skills.\n• You view changes as an opportunity to add structure and order when necessary Drive long-term growth of ChatGPT through a combination of data analysis, product ideation, and experimentation to optimize product experiences.\n• Partner with iOS, Android, and fullstack engineers to Plan and deploy backend systems necessary to power these product experiences.\n• You know exactly what and how to track business metrics and KPIs, and aren’t afraid to dive deep into data to earn the insights.\n• An equally strong talent for sharing that information clearly and concisely with othersAre comfortable with ambiguity and rapidly changing conditions.\n• Execute on projects by working closely with research, product, design, data science and other members of product teams to land impact on product goals.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165806677-backend-software-engineer-growth",
+    "id": "ai-jobs-backend-software-engineer-growth-san-francisco"
   },
   {
     "employer_name": "AI Jobs",
-    "job_title": "Client Platform Engineer",
+    "job_title": "Data Scientist - User Risk Measurement",
     "job_city": "",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Partner with cross-functional teams to ensure seamless endpoint user experiences while maintaining strict security standards and continually increasing the bar.\n• )Extensive hands-on experience with Jamf PRO and Microsoft Intune to ensure comprehensive secure fleet management as well as experience with similar cloud identity providers.\n• Demonstrated success and experience with open source endpoint management tooling for configuration management, mobile device management, application management, and telemetry such as Salt, Puppet, Munki, Nano/MicroMDM, osquery, Autopkg, WinGet, etc.\n• Deep knowledge and experience managing corporate infrastructure at scale with Infrastructure-as-Code (IaC) practices & GitOps workflows (Terraform, Ansible, Chef, etc.\n• )Experience integrating and operating fleet management infrastructure with CI/CD pipelines and DevOps workflows.\n• A self-starter with strong analytical and problem-solving skills.\n• Deep experience with open-source fleet management tools and frameworks.\n• Experience with containerization technologies such as Docker and Kubernetes.",
-    "job_apply_link": "https://www.aijobs.com/jobs/165806674-client-platform-engineer",
-    "id": "ai-jobs-client-platform-engineer-"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Payments Accounting",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer, Payments Accounting",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/100235682433114822-software-engineer-payments-accounting?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=7",
-    "id": "google-software-engineer-payments-accounting-mountain-view"
+    "job_description": "• Define the measurement framework for user-level risk across products and cohorts: scope the questions that matter and align on clear, policy-grounded definitionsEstablish baselines and statistical confidence for core metrics: prevalence, intensity, trends, and cohort dynamicsBuild decision-ready reporting surfaces: executive dashboards, weekly briefs, and launch readouts that translate insights into actionClean and organize ambiguous data from disparate sources, with an eye toward building automated pipelines and systemsCreate attribution and change-tracking: connect shifts in user behavior to mitigations, product changes, and external eventsPartner across Safety Systems, Data Science, Integrity, Product, and Policy: ensure one coherent analytics entry point and consistent standardsUphold quality, privacy, and governance: document methods, ensure auditability, and maintain durable measurement hygieneMonitor signals for emerging risks and anomalies: recommend priorities that reduce harmful usage and improve user safetyCommunicate clearly and concisely: deliver insights and trade-offs to executives and engineering teams in language that drives decisions Have 3–6+ years in data science, measurement/causal inference, or risk analytics in high-stakes domains:Are strong in sampling, inference, uncertainty quantification, probability theory, and rare-event estimation.\n• Are fluent with data warehouses and productionizing notebooks/pipelines:Communicate crisply, translating complex estimators into clear actions for executives and cross-functional partners:Nice to have: experience with Airflow DAGs or other ETL pipelines, Databricks, survival analysis, streaming/online detection, classifier evaluation/QA, privacy reviews/audit trails, or integrity/fraud/safety experience:.\n• Comfortable with time-varying metrics:Write solid Python and SQL.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165806680-data-scientist-user-risk-measurement",
+    "id": "ai-jobs-data-scientist-user-risk-measurement-"
   }
 ]
