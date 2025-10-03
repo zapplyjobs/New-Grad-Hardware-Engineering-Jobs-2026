@@ -1,22 +1,42 @@
 [
   {
     "employer_name": "AMD",
-    "job_title": "2026 Undergraduate Technical Writer Co-op/Intern",
+    "job_title": "Full Stack Engineer -Software Infrastructure",
     "job_city": "US",
     "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "• You are currently enrolled in a United States based University in a Bachelor's program majoring in Technical Writing, Computer Engineering, Electrical Engineer, Technical Communication, English, Journalism, or related fieldsIf you have knowledge / experience with any of the following technical skills (or related areas) and are enthusiastic about this role, we strongly encourage you to apply –FrameMaker, Adobe Acrobat Pro, Visio, Jira, and ConfluenceCCMS, DITA, DITA XML, Reusex86 processor architecture knowledge, information architecture experience, or knowledge of motherboardsMicrosoft Word styles, document-level paragraph styles, or CSS style sheetsWriting, editing, and project management skillsMaintaining consistent organization of multiple documents with multiple drafts and reviewers Location: Austin, TXOnsite/Hybrid: This role requires the student to work full time (40 hours a week), in either a hybrid or onsite work structure throughout the duration of the co-op/intern termDuration: Spring/Summer Co-op: January 26, 2026 – August 7, 2026Summer/Fall Co-op: May 18, 2026 or June 22, 2026 – December 11, 2026Spring: January 26, 2026 – May 1, 2026Summer: May 18, 2026 - August 7, 2026 or June 22, 2026 – September 11, 2026Fall: September 14, 2026 – December 11, 2026 We will assign you content to reorganize and rewrite according to UI and quality standards.\n• We will provide opportunities to develop your communication, writing, and project management skills.\n• FrameMaker, Adobe Acrobat Pro, Visio, Jira, and ConfluenceCCMS, DITA, DITA XML, Reusex86 processor architecture knowledge, information architecture experience, or knowledge of motherboardsMicrosoft Word styles, document-level paragraph styles, or CSS style sheetsWriting, editing, and project management skillsMaintaining consistent organization of multiple documents with multiple drafts and reviewers AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings Austin, TexasStudent / Intern / Temp72105USD $59,072.\n• We will encourage you to actively participate in developer team file management discussions and testing.\n• We will train you to identify and reuse existing document content as help topics and to write and edit engineering-level documents for computer hardware and software.",
-    "job_apply_link": "https://campus-amd.icims.com/jobs/72105/login",
-    "id": "amd-2026-undergraduate-technical-writer-co-op-intern-us"
+    "job_description": "• MySQL and database design experience.\n• DevOps practices and CI/CD pipelines experience with tools like Ansible.\n• Strong problem-solving skills with the ability to work collaboratively and independently.\n• Experience in releasing high-availability production services.\n• Experienced in CI automation tools such as Buildbot and Jenkins.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Desired degrees: Bachelor or Master of SciencePreferred field: Computer Engineering, Computer Science, or Electrical Engineering AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• Full stack development expertise: React, Python, PHP, Ruby.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/67398/login",
+    "id": "amd-full-stack-engineer-software-infrastructure-us"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Hardware Design Engineer, Board and Systems",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Hardware Design Engineer, Board and Systems",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/105038452302455494-hardware-design-engineer-board-and-systems?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1",
+    "id": "google-hardware-design-engineer-board-and-systems-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "AI Search Engineering Analyst, Safety Risk and Platform",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role AI Search Engineering Analyst, Safety Risk and Platform",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/113663227669160646-ai-search-engineering-analyst-safety-risk-and-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
+    "id": "google-ai-search-engineering-analyst-safety-risk-and-platform-mountain-view"
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Controls Engineer",
-    "job_city": "Severn",
-    "job_state": "MD",
+    "job_title": "Critical Infrastructure Mechanical Engineer, Field Engineering",
+    "job_city": "Herndon",
+    "job_state": "VA",
     "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Controls Engineer",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3100798/controls-engineer",
-    "id": "amazon-controls-engineer-severn"
+    "job_description": "hardware engineering job for the role Critical Infrastructure Mechanical Engineer, Field Engineering",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3100995/critical-infrastructure-mechanical-engineer-field-engineering",
+    "id": "amazon-critical-infrastructure-mechanical-engineer-field-engineering-herndon"
   }
 ]
