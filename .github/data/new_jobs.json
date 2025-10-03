@@ -1,12 +1,22 @@
 [
   {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer Intern - AI Accelerators Research",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer Intern - AI Accelerators Research",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63086&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-intern-ai-accelerators-research-ship"
+  },
+  {
     "employer_name": "Apple",
-    "job_title": "Firmware Validation Engineer",
-    "job_city": "San Diego",
+    "job_title": "Cellular RF Hardware Design Engineer",
+    "job_city": "Waltham",
     "job_state": "US",
     "job_posted_at": "Today",
-    "job_description": "• Minimum QualificationsBS and 3+ years of relevant industry experience.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200573432-3543/firmware-validation-engineer?team=HRDWR",
-    "id": "apple-firmware-validation-engineer-san-diego"
+    "job_description": "• Minimum QualificationsBS with 3+ years of relevant industry experienceExperience with radio hardware design and/or RF component design.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200624149-6205/cellular-rf-hardware-design-engineer?team=HRDWR",
+    "id": "apple-cellular-rf-hardware-design-engineer-waltham"
   }
 ]
