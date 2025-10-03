@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer Intern - AI Accelerators Research",
-    "job_city": "ship",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer Intern - AI Accelerators Research",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63086&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-intern-ai-accelerators-research-ship"
+    "employer_name": "BAE Systems",
+    "job_title": "Network Engineer, Mid",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Digital Engineer, LeadlocationsFort Walton Beach, FLposted onPosted 8 Days AgoR0225690 Digital Engineer, LeadlocationsEl Segundo, CAposted onPosted 30 Days AgoR0225496 Network Engineer, SeniorlocationsTampa, FLposted onPosted 30+ Days AgoR0222576.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Network-Engineer--Mid_R0227524?q=hardware+engineering",
+    "id": "bae-systems-network-engineer-mid-mclean"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Cellular RF Hardware Design Engineer",
-    "job_city": "Waltham",
+    "employer_name": "AI Jobs",
+    "job_title": "Client Platform Engineer",
+    "job_city": "",
     "job_state": "US",
-    "job_posted_at": "Today",
-    "job_description": "• Minimum QualificationsBS with 3+ years of relevant industry experienceExperience with radio hardware design and/or RF component design.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200624149-6205/cellular-rf-hardware-design-engineer?team=HRDWR",
-    "id": "apple-cellular-rf-hardware-design-engineer-waltham"
+    "job_posted_at": "1d",
+    "job_description": "• Partner with cross-functional teams to ensure seamless endpoint user experiences while maintaining strict security standards and continually increasing the bar.\n• )Extensive hands-on experience with Jamf PRO and Microsoft Intune to ensure comprehensive secure fleet management as well as experience with similar cloud identity providers.\n• Demonstrated success and experience with open source endpoint management tooling for configuration management, mobile device management, application management, and telemetry such as Salt, Puppet, Munki, Nano/MicroMDM, osquery, Autopkg, WinGet, etc.\n• Deep knowledge and experience managing corporate infrastructure at scale with Infrastructure-as-Code (IaC) practices & GitOps workflows (Terraform, Ansible, Chef, etc.\n• )Experience integrating and operating fleet management infrastructure with CI/CD pipelines and DevOps workflows.\n• A self-starter with strong analytical and problem-solving skills.\n• Deep experience with open-source fleet management tools and frameworks.\n• Experience with containerization technologies such as Docker and Kubernetes.",
+    "job_apply_link": "https://www.aijobs.com/jobs/165806674-client-platform-engineer",
+    "id": "ai-jobs-client-platform-engineer-"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Payments Accounting",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer, Payments Accounting",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/100235682433114822-software-engineer-payments-accounting?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=7",
+    "id": "google-software-engineer-payments-accounting-mountain-view"
   }
 ]
