@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "MacOS ML Engineer",
+    "job_city": "Seattle",
+    "job_state": "US",
+    "job_posted_at": "1 day",
+    "job_description": "• Minimum QualificationsBachelor’s or Master’s degree in Computer Science, Electrical Engineering, Machine Learning, or related field.\n• 3+ years of experience developing system software, services, applications, or frameworks for macOS or Linux.\n• Solid programming skills in at least one of the following programming languages: Swift, Objective-C, C/C++, Rust with strong attention to detailSystem level programming and debugging experience such as efficient file I/O, memory management, and concurrency.\n• Experience with on-device ML frameworks (Core ML, Win ML, ONNX, TF Lite or ExecuTorch)Experience with API design and software architecture.\n• Demonstrated experience working cross-organization.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200624356-3337/macos-ml-engineer?team=MLAI",
+    "id": "apple-macos-ml-engineer-seattle"
+  }
+]
