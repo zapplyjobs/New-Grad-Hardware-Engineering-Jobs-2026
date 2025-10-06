@@ -1,52 +1,52 @@
 [
   {
+    "employer_name": "BAE Systems",
+    "job_title": "FMS C2 Systems Engineer",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 10 Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 6 Days AgoR0221867 Systems Integration Engineer, SeniorlocationsEl Segundo, CAposted onPosted 13 Days AgoR0226744 Systems Integration Engineer, SeniorlocationsEl Segundo, CAposted onPosted 13 Days AgoR0226746 Mission Systems Technical Engineer, LeadlocationsAustraliaposted onPosted 18 Days AgoR0214321.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/FMS-C2-Systems-Engineer_R0227612?q=hardware+engineering",
+    "id": "bae-systems-fms-c2-systems-engineer-san-diego"
+  },
+  {
     "employer_name": "General Dynamics",
-    "job_title": "Systems Engineer SME",
-    "job_city": "USA VA Sterling",
+    "job_title": "C4I Systems Engineer",
+    "job_city": "ITA Vicenza - Caserma Ederle (APC177)",
     "job_state": "US",
     "job_posted_at": "Posted Today",
     "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Sterling/Systems-Engineer-SME_RQ208375?q=hardware+engineering",
-    "id": "general-dynamics-systems-engineer-sme-usa-va-sterling"
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/ITA-Vicenza---Caserma-Ederle-APC177/C4I-Systems-Engineer_RQ208350-2?q=hardware+engineering",
+    "id": "general-dynamics-c4i-systems-engineer-ita-vicenza-caserma-ederle-apc177"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "System Level Diagnostic Development Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "• Identify and drive to resolve IP, SoC, board and firmware issues when needed.\n• Proven experience on driver, validation tool or embedded SW development, and close interaction with HW designers and FW developers.\n• Hands-on experience with SoC bring up.\n• Strong debugging and testing skills.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Design and develop Diagnostic suites with C++ to verify Multi IP/system level features, bring-up and verification in the pre-silicon environment and post-silicon system.\n• Collaborate with Diagnostic IP developers to leverage diagnostic content to build efficient cross-IP coverage.\n• Provide support to external customers and internal engineering teams using System Level Diagnostics for chip screening, validation, profiling, etc.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/72243/login",
+    "id": "amd-system-level-diagnostic-development-engineer-us"
   },
   {
     "employer_name": "RIVIAN",
-    "job_title": "Vehicle Test Operator",
+    "job_title": "Vehicle Operator II, Autonomy Systems Validation",
     "job_city": "Palo Alto",
     "job_state": "California US",
     "job_posted_at": "Recently",
     "job_description": "• Attention to detail, excellent written and verbal communication skills and ability to describe events quickly and concisely.\n• Must have a valid driver's license in the state of residence that you will be driving/operating a vehicle.\n• Prior professional automotive driving or autonomous vehicle testing experience.\n• No drug or alcohol related driving incidents in the last 3 years.\n• No more than 1 serious moving violation in the last 3 years.\n• Additional work and tasks as needed by the team.\n• Must be flexible to work overtime as needed.\n• Ability to travel up to 50% Minimum age of 21.",
     "job_apply_link": "https://us-careers-rivian.icims.com/jobs/26722/login",
-    "id": "rivian-vehicle-test-operator-palo-alto"
+    "id": "rivian-vehicle-operator-ii-autonomy-systems-validation-palo-alto"
   },
   {
     "employer_name": "RIVIAN",
-    "job_title": "Vehicle Testing Engineer",
+    "job_title": "Vehicle Test Engineer",
     "job_city": "Tustin",
     "job_state": "California US",
     "job_posted_at": "Recently",
     "job_description": "• Minimum of a Bachelor’s of Science Degree in Engineering or related science from an accredited university2+ years of applicable experience in the automotive or a related industry OR Master’s degree preferred Cursory understanding of primary vehicle systems, with experience running and maintaining a variety of vehicle level and component level tests a bonus Familiarity with work management systems similar to JIRA, JAMA, or Confluence for test planning, coordination, execution and issue tracking Experience with software related to CAD, vehicle level instrumentation, calibration, data logging and data acquisition systems Must have a valid driver's license in the state of residence that you will be driving/operating a vehicle 2+ years of applicable experience in the automotive or a related industry OR Master’s degree preferred No drug or alcohol related driving incidents in the last 3 years No more than 1 serious moving violation in the last 3 years Ability to work autonomously.\n• Prepare and update test vehicles (hardware, software) and document condition and performance pre / during / post test for multiple attributes (NVH, Performance, Body / Chassis Structural Durability, others) as prescribed in test standards.",
     "job_apply_link": "https://us-careers-rivian.icims.com/jobs/26637/login",
-    "id": "rivian-vehicle-testing-engineer-tustin"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Cloud Data and AI Engineer, Google Public Sector",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Cloud Data and AI Engineer, Google Public Sector",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/87384414434009798-cloud-data-and-ai-engineer-google-public-sector?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=7",
-    "id": "google-cloud-data-and-ai-engineer-google-public-sector-reston"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Electrical Engineer, Data Center, Colocation Regional Engineering (CRE)",
-    "job_city": "Tempe",
-    "job_state": "AZ",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Electrical Engineer, Data Center, Colocation Regional Engineering (CRE)",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3102428/electrical-engineer-data-center-colocation-regional-engineering-cre",
-    "id": "amazon-electrical-engineer-data-center-colocation-regional-engineering-cre-tempe"
+    "id": "rivian-vehicle-test-engineer-tustin"
   }
 ]
