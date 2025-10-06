@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Security Support Engineer",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "1 month",
+    "job_description": "• Minimum QualificationsTechnical Associates Degree and/or 5-6 years of related technical support experience is requiredCapability to travel internationally for business as neededWillingness and ability to participate in rotational on-call scheduleAdvanced technical knowledge of Mac OS, iOS, TVOS, Watch OS & Vision ProStrong technical acumen regarding cloud infrastructurePrevious experience in customer facing security features and associated investigations is preferredKnowledgeable of industry standard account security procedures & practicesRelevant experience in Technical or Support Engineering, asset protection security, privacy regulatory knowledge or Help Desk Support.\n• Strong quantitate and qualitative analytical skills are required.\n• Demonstrated ability to manage a dynamic queue & pivot responsibilities within strict deadlinesThe ability to properly isolate, diagnose and troubleshoot complex Apple Account, Security & Privacy related issues.\n• Adaptive interaction and impeccable communication with people of diverse technical proficiencies.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200614951-0157/security-support-engineer?team=CORSV",
+    "id": "apple-security-support-engineer-austin"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Pixel Video",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer, Pixel Video",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/101319714998756038-software-engineer-pixel-video?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=10",
+    "id": "google-software-engineer-pixel-video-mountain-view"
+  }
+]
