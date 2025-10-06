@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "SoC Design for testing Engineer, Google Cloud",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "job_title": "Product Solutions Engineer, Health and Home",
+    "job_city": "Boulder",
+    "job_state": "CO",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role SoC Design for testing Engineer, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/93961830430319302-soc-design-for-testing-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2",
-    "id": "google-soc-design-for-testing-engineer-google-cloud-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, YouTube",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Software Engineer III, Infrastructure, YouTube",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/78330227431744198-software-engineer-iii-infrastructure-youtube?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
-    "id": "google-software-engineer-iii-infrastructure-youtube-mountain-view"
+    "job_description": "hardware engineering job for the role Product Solutions Engineer, Health and Home",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/106892636928778950-product-solutions-engineer-health-and-home?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=7",
+    "id": "google-product-solutions-engineer-health-and-home-boulder"
   }
 ]
