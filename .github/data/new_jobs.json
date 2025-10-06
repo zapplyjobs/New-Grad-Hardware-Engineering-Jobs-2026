@@ -1,12 +1,42 @@
 [
   {
+    "employer_name": "NVIDIA",
+    "job_title": "NVIDIA 2026 Ignite Internships: Hardware Engineering",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Manager, Hardware Product EngineeringlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2001290Senior Manager, Bring up and Productization MethodologylocationsUS, CA, Santa Claraposted onPosted 14 Days AgoJR2000191Post-Silicon Hardware EngineerlocationsUS, CA, Santa Claraposted onPosted 14 Days AgoJR2003779Senior Optical MSDV Hardware EngineerlocationsUS, CA, Santa Claraposted onPosted 21 Days AgoJR1980951Hardware Validation EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2000435NVIDIA 2026 Internships: Hardware Engineering - USlocationsUS, CA, Santa Claraposted onPosted 19 Days AgoJR2003200NVIDIA 2026 Ignite Internships: Hardware EngineeringlocationsUS, CA, Santa Claraposted onPosted TodayJR2005170Senior Hardware Validation EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1996018Datacenter Hardware Applications EngineerlocationsUS, CA, Santa Claraposted onPosted 20 Days AgoJR1996594Senior Hardware Validation EngineerlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1996819Principal Hardware Test EngineerlocationsUS, CA, Santa Claraposted onPosted 17 Days AgoJR2003747Senior Hardware Application Engineer, Cloud Service ProviderslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1996676ASIC Hardware Design Engineer - New College Grad 2025locationsUS, TX, Austinposted onPosted 19 Days AgoJR1999119Senior Hardware Application Engineering Manager, Cloud Service ProviderslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1996765Senior Verification Engineer - HardwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1980212ASIC Design Engineer - HardwarelocationsUS, TX, Austinposted onPosted 20 Days AgoJR1993847Hardware Systems ArchitectlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2000419Senior Mask Design Engineer - HardwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1966633Senior FPGA Prototyping Engineer - HardwarelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1998583Senior Packaging Technical Engineer - HardwarelocationsUS, CA, Remoteposted onPosted 10 Days AgoJR1998772.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Ignite-Internships--Hardware-Engineering_JR2005170?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-nvidia-2026-ignite-internships-hardware-engineering-us"
+  },
+  {
     "employer_name": "Google",
-    "job_title": "Design Verification Engineer",
+    "job_title": "Search Engineering Analyst",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Design Verification Engineer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/134560610091180742-design-verification-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2",
-    "id": "google-design-verification-engineer-mountain-view"
+    "job_description": "hardware engineering job for the role Search Engineering Analyst",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/114827812346438342-search-engineering-analyst?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
+    "id": "google-search-engineering-analyst-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Search Webspam Engineering Analyst",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Search Webspam Engineering Analyst",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/106281858219549382-search-webspam-engineering-analyst?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
+    "id": "google-search-webspam-engineering-analyst-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Google Cloud Compute",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer III, Infrastructure, Google Cloud Compute",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/133684076253979334-software-engineer-iii-infrastructure-google-cloud-compute?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=4",
+    "id": "google-software-engineer-iii-infrastructure-google-cloud-compute-sunnyvale"
   }
 ]
