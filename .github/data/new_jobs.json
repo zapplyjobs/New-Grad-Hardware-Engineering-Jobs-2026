@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Systems Engineer",
+    "job_city": "Warner Robins",
+    "job_state": "GA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "• Network Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted 4 Days AgoR0221945 Digital Engineer, LeadlocationsFort Walton Beach, FLposted onPosted 13 Days AgoR0225690 Digital Engineer, LeadlocationsEl Segundo, CAposted onPosted 30+ Days AgoR0225496 Network Engineer, SeniorlocationsTampa, FLposted onPosted 30+ Days AgoR0222576.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Systems-Engineer_R0227596?q=hardware+engineering",
+    "id": "bae-systems-systems-engineer-warner-robins"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Systems Engineer, Mid",
+    "job_city": "Warner Robins",
+    "job_state": "GA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "• Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 30+ Days AgoR0225275 Systems and Digital Engineer, SeniorlocationsArlington, VAposted onPosted 30+ Days AgoR0223341 Engineering Lead, SeniorlocationsNorth Charleston, SCposted onPosted 11 Days AgoR0227173 Engineering Lead, SeniorlocationsNorth Charleston, SCposted onPosted 11 Days AgoR0227174 DevOps Engineer, SeniorlocationsHuntsville, ALposted onPosted 13 Days AgoR0226835 Systems Engineer, Leadlocations2 Locationsposted onPosted 5 Days AgoR0227433.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Systems-Engineer--Mid_R0227600?q=hardware+engineering",
+    "id": "bae-systems-systems-engineer-mid-warner-robins"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Computer Vision Engineer",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• 5+ years production experience in computer vision with minimum 3 years in biometric systems or identity verification.\n• Deep experience with fingerprint, face, iris, or palm biometric systems including template extraction and matching, with strong preference for palm biometrics expertise.\n• Strong background in biometric image quality assessment and enhancement techniques.\n• Hands-on experience with biometric sensors, NIR imaging, multispectral capture, or 3D depth sensing.\n• Expertise in classical biometric techniques (minutiae extraction, ridge flow, texture analysis) and modern deep learning approaches, with preference for palm biometric experience.\n• Experience with biometric template protection, cancelable biometrics, and privacy-preserving schemes.\n• Proficiency in Python and C++ with experience in OpenCV, biometric SDKs, and embedded deployment.\n• Background in demographic bias mitigation and cross-population performance optimization for biometrics.",
+    "job_apply_link": "https://www.aijobs.com/jobs/166248344-computer-vision-engineer",
+    "id": "ai-jobs-computer-vision-engineer-irvine"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "SoC DFT Engineer, Google Cloud",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role SoC DFT Engineer, Google Cloud",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/93961830430319302-soc-dft-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2",
+    "id": "google-soc-dft-engineer-google-cloud-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Full Stack, Search",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer III, Full Stack, Search",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/75947431920837318-software-engineer-iii-full-stack-search?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=8",
+    "id": "google-software-engineer-iii-full-stack-search-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Google Cloud Platforms",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Software Engineer III, Infrastructure, Google Cloud Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/79128370599600838-software-engineer-iii-infrastructure-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=10",
+    "id": "google-software-engineer-iii-infrastructure-google-cloud-platforms-kirkland"
+  }
+]
