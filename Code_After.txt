@@ -1,0 +1,758 @@
+<html lang="en-US" dir="ltr" data-react-helmet="dir,lang"><head>
+    <title>Intel Careers</title>
+    <!-- Application Properties -->
+    <meta http-equiv="X-UA-Compatible" content="chrome=1;IE=EDGE">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0">
+
+    <link rel="canonical" href="https://intel.wd1.myworkdayjobs.com/External">
+
+    <!-- OpenGraph Tags -->
+    <meta name="title" property="og:title" content="Intel Careers">
+    <meta name="description" property="og:description" content="Intel’s official careers website. Find your next job and take on projects that shape tomorrow’s technology. Benefits Internships Life at Intel Locations Recruitment Process Discover your place in our world-changing work.">
+    <meta name="image" property="og:image" content="https://intel.wd1.myworkdayjobs.com/External/assets/logo">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://intel.wd1.myworkdayjobs.com/External">
+
+
+    <!-- SEO Tags -->
+    
+
+    
+
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-4C9WHFQHKS&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript">
+        window.workday = window.workday || {
+            tenant: "intel",
+            siteId: "External",
+            locale: "",
+            requestLocale: "en-US",
+            supportedLocales:["en-US"],
+            clientOrigin: "https://www.myworkday.com",
+            language: null,
+            cdnEndpoint: "www.myworkdaycdn.com",
+            useCdn: true,
+            maintenancePageUrl: "https://www.myworkday.com/wday/drs/outage?t=intel&s=External",
+            token: "64a9a249-bb79-4685-a6a2-1ab3a7aca5ce",
+            environment: "PROD",
+            isExternal: true,
+            appName: "cxs",
+            postingAvailable: null,
+            allowedFileTypes: [],
+            blockedFileTypes: ["bas","bat","com","exe","js","lnk","ocx","reg","sct","sys","vb","vbe","vbs","wsc","wsf","wsh"],
+            toggles: ["b9739002c86510002015dea9402c0000","812c4a153c711000151c5ca11e310000","0d6ebcfdc39a10001bc8f95b3aac0000","43b4d9d7cb8e10000a703bad20420000","532bfa92863b100019ab08f4c04b0000","dac26076be8510002347bab78d5a0000","badb3f02bef210000e20c92ac0260000","e466d0b066ff10000c3605be74f10000","292c4bafc34210001a28e93bebcf0000","e42e6d1d2524100010042528c43e0000","f45271d06fcd10001b2d8737149f0000","b8ce26d67ff9100014ec4b645b840000","bc9894c7142610001616fde6e0700000","6edcf8e6cd7f10001b1f86c9e3ef0000","a969fb8f4cfd10000ad4ba96cd820000","459bb3f1e4a9100014b8f73a20850000","ab2374beb65d10002c8233ca9b5a0000","4706b65dd8ee100015f0034e1e480000","466d58ad03691000185ddce1282a0000","75ecc5f3792b1000131d51fc86ab0000","bc814e895c1d10000d1fd3354f4b0000","258d1be19f40100013265e0888c90000","cdbf5f0a33931000115a15a023a40000","20ccbc6c60701000fafdc3dce74a0000","16593e8eb6ca10000935b558a50a0000","e1733537b151100014e202818e520000","db3fa9600f8810001798c5a6d2dd0000","1502396ba0ef1000103c22d48c570000","9c10810cc40b1000460d082ad8de0000","9c10810cc40b100045f3593f47b50000","86e121d8686e100037e6d4083cb50000","6658d90adc4f100014da5605f7080000","10f7a56eb11c100024a6d65b625a0000","e1fdcb592a641000290e46a2b10f0000","5054a9c1a3eb1000262607b170020000"],
+            branding: {"formFields":{"color":"#00285A","textColor":"#333333"},"progressBar":{"color":"#0068B5"},"button":{"primary":{"color":"#00285A","borderColor":"#00285A","textColor":"#FFFFFF","hover":{"color":"#00285A","borderColor":"#00285A","textColor":"#FFFFFF"}},"secondary":{"color":"#00285A","borderColor":"#00285A","textColor":"#FFFFFF","hover":{"color":"#00285A","borderColor":"#00285A","textColor":"#FFFFFF"}},"shape":"PILL"},"header":{"imageBanner":{"maintainAspectRatio":true},"banner":{"color":"#FFFFFF","borderColor":"#FFFFFF","textColor":"#0068B5","image":{"id":"19eaceeb6d921001bb7d2fb506870000"}}},"embedded":false},
+            geoIpCountryCode: "us" == null ? "": "us",
+
+        };
+        function createScriptTag (src) {
+            var scriptTag =  document.createElement('script');
+            scriptTag.src = src;
+            scriptTag.setAttribute('defer', 'true');
+            scriptTag.setAttribute('crossorigin', 'anonymous');
+            return scriptTag;
+        }
+        var isIE = typeof Symbol === 'undefined';
+        var sharedAssetPath = '/wday/asset/uic-shared-vendors';
+        var sharedVendorLoaderAsset = sharedAssetPath + '/shared-vendors.min.js';
+        var cdnOrigin = 'https://' + "www.myworkdaycdn.com";
+        var sharedVendorsLoaderUrlOrigin = workday.clientOrigin !== '' ? workday.clientOrigin : cdnOrigin;
+        var sharedVendorsLoaderScript = createScriptTag(sharedVendorsLoaderUrlOrigin + sharedVendorLoaderAsset);
+        sharedVendorsLoaderScript.onload = function () {
+            var jobsScriptSrcFilename = isIE
+                ? 'cx-jobs-ie.min.js'
+                : 'cx-jobs.min.js';
+            var cxJobsAsset = '/wday/asset/candidate-experience-jobs/' + jobsScriptSrcFilename;
+            var jobsScript = createScriptTag(cdnOrigin + cxJobsAsset);
+            jobsScript.onerror = function () {
+                window.workday.useCdn = false;
+                var jobsScriptFromClientOrigin = createScriptTag(workday.clientOrigin + cxJobsAsset);
+                document.head.removeChild(jobsScript);
+                document.head.appendChild(jobsScriptFromClientOrigin);
+            }
+            document.head.appendChild(jobsScript);
+        };
+        document.head.appendChild(sharedVendorsLoaderScript);
+
+        var uxInsightsAssetPath = '/wday/asset/client-analytics';
+        var uxInsightsAsset = uxInsightsAssetPath + "/uxInsights.min.js?plate=BMT216A"
+        var uxInsightsUrlOrigin = workday.clientOrigin !== '' ? workday.clientOrigin : cdnOrigin;
+        var uxInsightsScript = createScriptTag(uxInsightsUrlOrigin + uxInsightsAsset);
+        document.head.appendChild(uxInsightsScript);
+    </script><script src="https://www.myworkday.com/wday/asset/uic-shared-vendors/shared-vendors.min.js" defer="true" crossorigin="anonymous"></script><script src="https://www.myworkday.com/wday/asset/client-analytics/uxInsights.min.js?plate=BMT216A" defer="true" crossorigin="anonymous"></script>
+<script src="https://www.myworkdaycdn.com/wday/asset/candidate-experience-jobs/cx-jobs.min.js" defer="true" crossorigin="anonymous"></script><style data-emotion="css" data-s=""></style><style>/**
+ * Do not edit directly
+ * Generated on Thu, 06 Feb 2025 15:20:12 GMT
+ */
+
+:root {
+  --cnvs-base-palette-cinnamon-100: rgba(255,239,238,1);
+  --cnvs-base-palette-cinnamon-200: rgba(252,201,197,1);
+  --cnvs-base-palette-cinnamon-300: rgba(255,134,125,1);
+  --cnvs-base-palette-cinnamon-400: rgba(255,83,71,1);
+  --cnvs-base-palette-cinnamon-500: rgba(222,46,33,1);
+  --cnvs-base-palette-cinnamon-600: rgba(163,27,18,1);
+  --cnvs-base-palette-peach-100: rgba(255,243,240,1);
+  --cnvs-base-palette-peach-200: rgba(255,194,179,1);
+  --cnvs-base-palette-peach-300: rgba(255,149,122,1);
+  --cnvs-base-palette-peach-400: rgba(255,100,61,1);
+  --cnvs-base-palette-peach-500: rgba(222,71,33,1);
+  --cnvs-base-palette-peach-600: rgba(181,52,19,1);
+  --cnvs-base-palette-chili-mango-100: rgba(255,230,217,1);
+  --cnvs-base-palette-chili-mango-200: rgba(255,199,171,1);
+  --cnvs-base-palette-chili-mango-300: rgba(255,155,105,1);
+  --cnvs-base-palette-chili-mango-400: rgba(255,103,27,1);
+  --cnvs-base-palette-chili-mango-500: rgba(224,75,0,1);
+  --cnvs-base-palette-chili-mango-600: rgba(163,54,0,1);
+  --cnvs-base-palette-cantaloupe-100: rgba(255,238,217,1);
+  --cnvs-base-palette-cantaloupe-200: rgba(252,212,159,1);
+  --cnvs-base-palette-cantaloupe-300: rgba(255,188,99,1);
+  --cnvs-base-palette-cantaloupe-400: rgba(255,161,38,1);
+  --cnvs-base-palette-cantaloupe-500: rgba(243,139,0,1);
+  --cnvs-base-palette-cantaloupe-600: rgba(192,108,0,1);
+  --cnvs-base-palette-sour-lemon-100: rgba(255,249,230,1);
+  --cnvs-base-palette-sour-lemon-200: rgba(255,236,171,1);
+  --cnvs-base-palette-sour-lemon-300: rgba(255,218,97,1);
+  --cnvs-base-palette-sour-lemon-400: rgba(255,198,41,1);
+  --cnvs-base-palette-sour-lemon-500: rgba(235,180,0,1);
+  --cnvs-base-palette-sour-lemon-600: rgba(189,145,0,1);
+  --cnvs-base-palette-juicy-pear-100: rgba(247,250,230,1);
+  --cnvs-base-palette-juicy-pear-200: rgba(226,243,145,1);
+  --cnvs-base-palette-juicy-pear-300: rgba(196,222,64,1);
+  --cnvs-base-palette-juicy-pear-400: rgba(168,194,36,1);
+  --cnvs-base-palette-juicy-pear-500: rgba(142,166,24,1);
+  --cnvs-base-palette-juicy-pear-600: rgba(104,120,24,1);
+  --cnvs-base-palette-kiwi-100: rgba(236,252,215,1);
+  --cnvs-base-palette-kiwi-200: rgba(202,245,147,1);
+  --cnvs-base-palette-kiwi-300: rgba(167,224,92,1);
+  --cnvs-base-palette-kiwi-400: rgba(119,188,31,1);
+  --cnvs-base-palette-kiwi-500: rgba(96,153,21,1);
+  --cnvs-base-palette-kiwi-600: rgba(83,120,36,1);
+  --cnvs-base-palette-green-apple-100: rgba(235,255,240,1);
+  --cnvs-base-palette-green-apple-200: rgba(172,245,190,1);
+  --cnvs-base-palette-green-apple-300: rgba(95,227,128,1);
+  --cnvs-base-palette-green-apple-400: rgba(67,196,99,1);
+  --cnvs-base-palette-green-apple-500: rgba(49,156,76,1);
+  --cnvs-base-palette-green-apple-600: rgba(33,122,55,1);
+  --cnvs-base-palette-watermelon-100: rgba(235,253,248,1);
+  --cnvs-base-palette-watermelon-200: rgba(183,237,222,1);
+  --cnvs-base-palette-watermelon-300: rgba(101,204,175,1);
+  --cnvs-base-palette-watermelon-400: rgba(18,166,124,1);
+  --cnvs-base-palette-watermelon-500: rgba(12,122,91,1);
+  --cnvs-base-palette-watermelon-600: rgba(0,87,62,1);
+  --cnvs-base-palette-jewel-100: rgba(235,253,255,1);
+  --cnvs-base-palette-jewel-200: rgba(172,236,243,1);
+  --cnvs-base-palette-jewel-300: rgba(68,200,215,1);
+  --cnvs-base-palette-jewel-400: rgba(30,164,179,1);
+  --cnvs-base-palette-jewel-500: rgba(26,129,140,1);
+  --cnvs-base-palette-jewel-600: rgba(21,105,115,1);
+  --cnvs-base-palette-toothpaste-100: rgba(215,241,252,1);
+  --cnvs-base-palette-toothpaste-200: rgba(153,224,255,1);
+  --cnvs-base-palette-toothpaste-300: rgba(64,180,229,1);
+  --cnvs-base-palette-toothpaste-400: rgba(24,148,201,1);
+  --cnvs-base-palette-toothpaste-500: rgba(2,113,161,1);
+  --cnvs-base-palette-toothpaste-600: rgba(0,91,130,1);
+  --cnvs-base-palette-blueberry-100: rgba(215,234,252,1);
+  --cnvs-base-palette-blueberry-200: rgba(166,210,255,1);
+  --cnvs-base-palette-blueberry-300: rgba(64,160,255,1);
+  --cnvs-base-palette-blueberry-400: rgba(8,117,225,1);
+  --cnvs-base-palette-blueberry-500: rgba(0,92,185,1);
+  --cnvs-base-palette-blueberry-600: rgba(0,67,135,1);
+  --cnvs-base-palette-plum-100: rgba(230,241,255,1);
+  --cnvs-base-palette-plum-200: rgba(166,205,255,1);
+  --cnvs-base-palette-plum-300: rgba(82,155,250,1);
+  --cnvs-base-palette-plum-400: rgba(56,129,225,1);
+  --cnvs-base-palette-plum-500: rgba(49,102,171,1);
+  --cnvs-base-palette-plum-600: rgba(38,74,122,1);
+  --cnvs-base-palette-berry-smoothie-100: rgba(232,237,255,1);
+  --cnvs-base-palette-berry-smoothie-200: rgba(194,207,255,1);
+  --cnvs-base-palette-berry-smoothie-300: rgba(120,145,255,1);
+  --cnvs-base-palette-berry-smoothie-400: rgba(94,119,230,1);
+  --cnvs-base-palette-berry-smoothie-500: rgba(75,94,179,1);
+  --cnvs-base-palette-berry-smoothie-600: rgba(59,73,135,1);
+  --cnvs-base-palette-blackberry-100: rgba(240,240,255,1);
+  --cnvs-base-palette-blackberry-200: rgba(195,194,255,1);
+  --cnvs-base-palette-blackberry-300: rgba(132,131,230,1);
+  --cnvs-base-palette-blackberry-400: rgba(92,89,230,1);
+  --cnvs-base-palette-blackberry-500: rgba(65,63,204,1);
+  --cnvs-base-palette-blackberry-600: rgba(46,45,145,1);
+  --cnvs-base-palette-island-punch-100: rgba(245,240,255,1);
+  --cnvs-base-palette-island-punch-200: rgba(210,190,250,1);
+  --cnvs-base-palette-island-punch-300: rgba(168,138,230,1);
+  --cnvs-base-palette-island-punch-400: rgba(134,96,209,1);
+  --cnvs-base-palette-island-punch-500: rgba(99,69,161,1);
+  --cnvs-base-palette-island-punch-600: rgba(80,56,130,1);
+  --cnvs-base-palette-grape-soda-100: rgba(254,235,255,1);
+  --cnvs-base-palette-grape-soda-200: rgba(250,192,255,1);
+  --cnvs-base-palette-grape-soda-300: rgba(222,138,230,1);
+  --cnvs-base-palette-grape-soda-400: rgba(200,96,209,1);
+  --cnvs-base-palette-grape-soda-500: rgba(151,73,158,1);
+  --cnvs-base-palette-grape-soda-600: rgba(124,56,130,1);
+  --cnvs-base-palette-pomegranate-100: rgba(255,235,243,1);
+  --cnvs-base-palette-pomegranate-200: rgba(255,189,214,1);
+  --cnvs-base-palette-pomegranate-300: rgba(255,92,154,1);
+  --cnvs-base-palette-pomegranate-400: rgba(243,17,103,1);
+  --cnvs-base-palette-pomegranate-500: rgba(199,5,80,1);
+  --cnvs-base-palette-pomegranate-600: rgba(153,0,58,1);
+  --cnvs-base-palette-fruit-punch-100: rgba(255,238,238,1);
+  --cnvs-base-palette-fruit-punch-200: rgba(255,189,189,1);
+  --cnvs-base-palette-fruit-punch-300: rgba(255,126,126,1);
+  --cnvs-base-palette-fruit-punch-400: rgba(255,76,76,1);
+  --cnvs-base-palette-fruit-punch-500: rgba(225,47,47,1);
+  --cnvs-base-palette-fruit-punch-600: rgba(184,40,40,1);
+  --cnvs-base-palette-root-beer-100: rgba(250,243,240,1);
+  --cnvs-base-palette-root-beer-200: rgba(235,215,207,1);
+  --cnvs-base-palette-root-beer-300: rgba(220,187,173,1);
+  --cnvs-base-palette-root-beer-400: rgba(186,154,140,1);
+  --cnvs-base-palette-root-beer-500: rgba(140,114,102,1);
+  --cnvs-base-palette-root-beer-600: rgba(102,77,66,1);
+  --cnvs-base-palette-toasted-marshmallow-100: rgba(253,246,230,1);
+  --cnvs-base-palette-toasted-marshmallow-200: rgba(235,214,169,1);
+  --cnvs-base-palette-toasted-marshmallow-300: rgba(230,191,108,1);
+  --cnvs-base-palette-toasted-marshmallow-400: rgba(204,158,59,1);
+  --cnvs-base-palette-toasted-marshmallow-500: rgba(179,127,16,1);
+  --cnvs-base-palette-toasted-marshmallow-600: rgba(140,96,0,1);
+  --cnvs-base-palette-coconut-100: rgba(240,238,238,1);
+  --cnvs-base-palette-coconut-200: rgba(227,223,223,1);
+  --cnvs-base-palette-coconut-300: rgba(209,203,204,1);
+  --cnvs-base-palette-coconut-400: rgba(179,172,172,1);
+  --cnvs-base-palette-coconut-500: rgba(158,149,149,1);
+  --cnvs-base-palette-coconut-600: rgba(143,134,135,1);
+  --cnvs-base-palette-cappuccino-100: rgba(122,115,116,1);
+  --cnvs-base-palette-cappuccino-200: rgba(112,104,105,1);
+  --cnvs-base-palette-cappuccino-300: rgba(94,87,87,1);
+  --cnvs-base-palette-cappuccino-400: rgba(74,66,66,1);
+  --cnvs-base-palette-cappuccino-500: rgba(53,47,47,1);
+  --cnvs-base-palette-cappuccino-600: rgba(35,31,32,1);
+  --cnvs-base-palette-licorice-100: rgba(161,170,179,1);
+  --cnvs-base-palette-licorice-200: rgba(123,133,143,1);
+  --cnvs-base-palette-licorice-300: rgba(94,106,117,1);
+  --cnvs-base-palette-licorice-400: rgba(74,85,97,1);
+  --cnvs-base-palette-licorice-500: rgba(51,61,71,1);
+  --cnvs-base-palette-licorice-600: rgba(31,38,46,1);
+  --cnvs-base-palette-soap-100: rgba(246,247,248,1);
+  --cnvs-base-palette-soap-200: rgba(240,241,242,1);
+  --cnvs-base-palette-soap-300: rgba(232,235,237,1);
+  --cnvs-base-palette-soap-400: rgba(223,226,230,1);
+  --cnvs-base-palette-soap-500: rgba(206,211,217,1);
+  --cnvs-base-palette-soap-600: rgba(185,192,199,1);
+  --cnvs-base-palette-french-vanilla-100: rgba(255,255,255,1);
+  --cnvs-base-palette-french-vanilla-200: rgba(235,235,235,1);
+  --cnvs-base-palette-french-vanilla-300: rgba(212,212,212,1);
+  --cnvs-base-palette-french-vanilla-400: rgba(189,189,189,1);
+  --cnvs-base-palette-french-vanilla-500: rgba(166,166,166,1);
+  --cnvs-base-palette-french-vanilla-600: rgba(143,143,143,1);
+  --cnvs-base-palette-black-pepper-100: rgba(120,120,120,1);
+  --cnvs-base-palette-black-pepper-200: rgba(97,97,97,1);
+  --cnvs-base-palette-black-pepper-300: rgba(73,73,73,1);
+  --cnvs-base-palette-black-pepper-400: rgba(51,51,51,1);
+  --cnvs-base-palette-black-pepper-500: rgba(30,30,30,1);
+  --cnvs-base-palette-black-pepper-600: rgba(0,0,0,1);
+  --cnvs-base-opacity-100: 0.08;
+  --cnvs-base-opacity-200: 0.12;
+  --cnvs-base-opacity-300: 0.4;
+  --cnvs-base-opacity-400: 0.64;
+  --cnvs-base-opacity-500: 0.84;
+  --cnvs-base-font-size-25: 0.625rem;
+  --cnvs-base-font-size-50: 0.75rem;
+  --cnvs-base-font-size-75: 0.875rem;
+  --cnvs-base-font-size-100: 1rem;
+  --cnvs-base-font-size-125: 1.125rem;
+  --cnvs-base-font-size-150: 1.25rem;
+  --cnvs-base-font-size-200: 1.5rem;
+  --cnvs-base-font-size-250: 1.75rem;
+  --cnvs-base-font-size-300: 2rem;
+  --cnvs-base-font-size-400: 2.5rem;
+  --cnvs-base-font-size-500: 3rem;
+  --cnvs-base-font-size-600: 3.5rem;
+  --cnvs-base-font-size-750: 4.5rem;
+  --cnvs-base-font-size-900: 5.5rem;
+  --cnvs-base-font-size-1050: 6.5rem;
+  --cnvs-base-line-height-50: 1rem;
+  --cnvs-base-line-height-100: 1.25rem;
+  --cnvs-base-line-height-150: 1.5rem;
+  --cnvs-base-line-height-200: 1.75rem;
+  --cnvs-base-line-height-250: 2rem;
+  --cnvs-base-line-height-300: 2.25rem;
+  --cnvs-base-line-height-350: 2.5rem;
+  --cnvs-base-line-height-400: 3rem;
+  --cnvs-base-line-height-500: 3.5rem;
+  --cnvs-base-line-height-600: 4rem;
+  --cnvs-base-line-height-750: 4.5rem;
+  --cnvs-base-line-height-900: 5.5rem;
+  --cnvs-base-line-height-1050: 6.5rem;
+  --cnvs-base-font-family-50: "Roboto"; /* Default font-family */
+  --cnvs-base-font-family-100: "Roboto Mono";
+  --cnvs-base-font-family-200: "Noto Sans";
+  --cnvs-base-font-weight-300: 300;
+  --cnvs-base-font-weight-400: 400;
+  --cnvs-base-font-weight-500: 500;
+  --cnvs-base-font-weight-700: 700;
+  --cnvs-base-letter-spacing-50: 0.025rem;
+  --cnvs-base-letter-spacing-100: 0.02rem;
+  --cnvs-base-letter-spacing-150: 0.015rem;
+  --cnvs-base-letter-spacing-200: 0.01rem;
+  --cnvs-base-extended-palette-dragon-fruit-100: rgba(251,241,255,1);
+  --cnvs-base-extended-palette-dragon-fruit-200: rgba(239,211,255,1);
+  --cnvs-base-extended-palette-dragon-fruit-300: rgba(190,97,246,1);
+  --cnvs-base-extended-palette-dragon-fruit-400: rgba(140,23,210,1);
+  --cnvs-base-extended-palette-dragon-fruit-500: rgba(107,17,163,1);
+  --cnvs-base-extended-palette-dragon-fruit-600: rgba(74,13,113,1);
+  --cnvs-base-unit: 0.25rem; /* The base unit used in the grid system.;  */
+}
+</style><style>/**
+ * Do not edit directly
+ * Generated on Thu, 06 Feb 2025 15:20:12 GMT
+ */
+
+:root {
+  --cnvs-sys-depth-1: 0 0.0625rem 0.25rem 0 rgba(31,38,46,0.12), 0 0.125rem 0.5rem 0 rgba(31,38,46,0.08); /* Standard card depth */
+  --cnvs-sys-depth-2: 0 0.125rem 0.5rem 0 rgba(31,38,46,0.12), 0 0.25rem 1rem 0 rgba(31,38,46,0.08); /* Top navigation, Bottom Navigation */
+  --cnvs-sys-depth-3: 0 0.1875rem 0.75rem 0 rgba(31,38,46,0.12), 0 0.375rem 1.5rem 0 rgba(31,38,46,0.08); /* Floating Action Buttons (FAB), Menus */
+  --cnvs-sys-depth-4: 0 0.25rem 1rem 0 rgba(31,38,46,0.12), 0 0.5rem 2rem 0 rgba(31,38,46,0.08); /* Bottom Sheets */
+  --cnvs-sys-depth-5: 0 0.3125rem 1.25rem 0 rgba(31,38,46,0.12), 0 0.625rem 2.5rem 0 rgba(31,38,46,0.08); /* Banners, Snackbars, Toast Messages, Non modal Dialogs, ; Side Panels (when opacity overlay behaviour is not applied) */
+  --cnvs-sys-depth-6: 0 0.375rem 1.5rem 0 rgba(31,38,46,0.12), 0 0.75rem 3rem 0 rgba(31,38,46,0.08); /* Modal Dialogs, Side Panels (when opacity overlay behaviour; is applied) */
+  --cnvs-sys-color-bg-critical-stronger: rgba(128,22,14,1); /* Stronger error background */
+  --cnvs-sys-space-zero: 0; /* Stacks, rows in tables */
+  --cnvs-sys-shape-zero: 0rem; /* This is the initial shape of every new element. Use this for backgrounds screens and fixed navigation containers such as headers, and side-panels. */
+  --cnvs-sys-opacity-full: 1; /* Dev only */
+  --cnvs-sys-opacity-zero: 0; /* Dev only */
+  --cnvs-sys-breakpoints-zero: 0px; /* Use to set a media query `min-width` below small. */
+  --cnvs-sys-color-static-black: var(--cnvs-base-palette-black-pepper-600); /* Just black */
+  --cnvs-sys-color-static-white: var(--cnvs-base-palette-french-vanilla-100); /* Just white */
+  --cnvs-sys-color-static-gray-stronger: var(--cnvs-base-palette-licorice-500); /* Strongerer gray */
+  --cnvs-sys-color-static-gray-strong: var(--cnvs-base-palette-licorice-400); /* Stronger gray */
+  --cnvs-sys-color-static-gray-soft: var(--cnvs-base-palette-soap-300); /* Light gray */
+  --cnvs-sys-color-static-gray-default: var(--cnvs-base-palette-licorice-300); /* Gray */
+  --cnvs-sys-color-static-orange-strong: var(--cnvs-base-palette-cantaloupe-600); /* Stronger orange */
+  --cnvs-sys-color-static-orange-soft: var(--cnvs-base-palette-cantaloupe-100); /* Soft orange */
+  --cnvs-sys-color-static-orange-default: var(--cnvs-base-palette-cantaloupe-400); /* Orange */
+  --cnvs-sys-color-static-red-strong: var(--cnvs-base-palette-cinnamon-600); /* Strong red */
+  --cnvs-sys-color-static-red-soft: var(--cnvs-base-palette-cinnamon-100); /* Light red */
+  --cnvs-sys-color-static-red-default: var(--cnvs-base-palette-cinnamon-500); /* Red */
+  --cnvs-sys-color-static-green-strong: var(--cnvs-base-palette-green-apple-600); /* Stronger green */
+  --cnvs-sys-color-static-green-soft: var(--cnvs-base-palette-green-apple-100); /* Light green */
+  --cnvs-sys-color-static-green-default: var(--cnvs-base-palette-green-apple-400); /* Default green */
+  --cnvs-sys-color-static-gold-stronger: var(--cnvs-base-palette-toasted-marshmallow-600); /* Foregrounds in low emphasis status indicators */
+  --cnvs-sys-color-static-blue-strong: var(--cnvs-base-palette-blueberry-500); /* Stronger blue */
+  --cnvs-sys-color-static-blue-soft: var(--cnvs-base-palette-blueberry-100); /* Light blue */
+  --cnvs-sys-color-static-blue-default: var(--cnvs-base-palette-blueberry-400); /* Blue */
+  --cnvs-sys-color-shadow-default: var(--cnvs-base-palette-licorice-600); /* Main shadow color */
+  --cnvs-sys-color-shadow-2: rgba(31,38,46,var(--cnvs-base-opacity-100)); /* Second shadow color */
+  --cnvs-sys-color-border-container: var(--cnvs-base-palette-soap-500); /* Cards, Toasts */
+  --cnvs-sys-color-border-divider: var(--cnvs-base-palette-soap-400); /* Dividers */
+  --cnvs-sys-color-border-inverse: var(--cnvs-base-palette-french-vanilla-100); /* Inverse */
+  --cnvs-sys-color-border-caution-strong: var(--cnvs-base-palette-cantaloupe-600); /* Warning outer (box shadow) */
+  --cnvs-sys-color-border-caution-default: var(--cnvs-base-palette-cantaloupe-400); /* Warning inner */
+  --cnvs-sys-color-border-critical-default: var(--cnvs-base-palette-cinnamon-500); /* Error */
+  --cnvs-sys-color-border-primary-default: var(--cnvs-base-palette-blueberry-400); /* Brand, Focus */
+  --cnvs-sys-color-border-contrast-strong: var(--cnvs-base-palette-black-pepper-500); /* Secondary Button Hover */
+  --cnvs-sys-color-border-contrast-default: var(--cnvs-base-palette-black-pepper-400); /* Secondary Button */
+  --cnvs-sys-color-border-input-inverse: var(--cnvs-base-palette-soap-300); /* Borders on checkboxes and radios */
+  --cnvs-sys-color-border-input-strong: var(--cnvs-base-palette-licorice-500); /* Input hover */
+  --cnvs-sys-color-border-input-default: var(--cnvs-base-palette-licorice-200); /* Inputs */
+  --cnvs-sys-color-border-input-disabled: var(--cnvs-base-palette-licorice-100); /* Disabled inputs */
+  --cnvs-sys-color-fg-contrast-strong: var(--cnvs-base-palette-black-pepper-500); /* Strong contrast */
+  --cnvs-sys-color-fg-contrast-default: var(--cnvs-base-palette-black-pepper-400); /* Contrast */
+  --cnvs-sys-color-fg-caution-strong: var(--cnvs-base-palette-black-pepper-500); /* Warning on hover */
+  --cnvs-sys-color-fg-caution-default: var(--cnvs-base-palette-black-pepper-400); /* Warning */
+  --cnvs-sys-color-fg-primary-strong: var(--cnvs-base-palette-blueberry-500); /* Hover interactive foregrounds */
+  --cnvs-sys-color-fg-primary-default: var(--cnvs-base-palette-blueberry-400); /* Interactive foreground elements */
+  --cnvs-sys-color-fg-muted-stronger: var(--cnvs-base-palette-licorice-500);
+  --cnvs-sys-color-fg-muted-strong: var(--cnvs-base-palette-licorice-400);
+  --cnvs-sys-color-fg-muted-default: var(--cnvs-base-palette-licorice-300); /* Hint text */
+  --cnvs-sys-color-fg-muted-soft: var(--cnvs-base-palette-licorice-200); /* Tab item text */
+  --cnvs-sys-color-fg-critical-default: var(--cnvs-base-palette-cinnamon-500); /* Error */
+  --cnvs-sys-color-fg-inverse: var(--cnvs-base-palette-french-vanilla-100); /* Inverse */
+  --cnvs-sys-color-fg-disabled: var(--cnvs-base-palette-licorice-100); /* Disabled */
+  --cnvs-sys-color-fg-stronger: var(--cnvs-base-palette-black-pepper-500); /* Heading on hover */
+  --cnvs-sys-color-fg-strong: var(--cnvs-base-palette-black-pepper-400); /* Headings */
+  --cnvs-sys-color-fg-default: var(--cnvs-base-palette-black-pepper-300); /* Body */
+  --cnvs-sys-color-icon-caution-strong: var(--cnvs-base-palette-black-pepper-500); /* Strong caution icon color */
+  --cnvs-sys-color-icon-caution-default: var(--cnvs-base-palette-black-pepper-400); /* Caution icon color */
+  --cnvs-sys-color-icon-critical-default: var(--cnvs-base-palette-cinnamon-500); /* Error icon color */
+  --cnvs-sys-color-icon-positive-default: var(--cnvs-base-palette-green-apple-500); /* Success icon color */
+  --cnvs-sys-color-icon-primary-strong: var(--cnvs-base-palette-blueberry-500); /* Stronger brand icon color */
+  --cnvs-sys-color-icon-primary-default: var(--cnvs-base-palette-blueberry-400); /* Brand icon color */
+  --cnvs-sys-color-icon-inverse: var(--cnvs-base-palette-french-vanilla-100); /* Inverse icon color */
+  --cnvs-sys-color-icon-strong: var(--cnvs-base-palette-licorice-500); /* Hover icon color */
+  --cnvs-sys-color-icon-soft: var(--cnvs-base-palette-licorice-100); /* Disabled icon color */
+  --cnvs-sys-color-icon-default: var(--cnvs-base-palette-licorice-200); /* Default icon color */
+  --cnvs-sys-color-text-primary-stronger: var(--cnvs-base-palette-blueberry-600); /* Active links */
+  --cnvs-sys-color-text-primary-strong: var(--cnvs-base-palette-blueberry-500); /* Branded hover text */
+  --cnvs-sys-color-text-primary-default: var(--cnvs-base-palette-blueberry-400); /* Branded text */
+  --cnvs-sys-color-text-critical-default: var(--cnvs-base-palette-cinnamon-500); /* Error text */
+  --cnvs-sys-color-text-inverse: var(--cnvs-base-palette-french-vanilla-100); /* Inverse text color */
+  --cnvs-sys-color-text-stronger: var(--cnvs-base-palette-black-pepper-500); /* Heading hover text color */
+  --cnvs-sys-color-text-strong: var(--cnvs-base-palette-black-pepper-400); /* Heading text color */
+  --cnvs-sys-color-text-hint: var(--cnvs-base-palette-licorice-300); /* Hint text color */
+  --cnvs-sys-color-text-disabled: var(--cnvs-base-palette-licorice-100); /* Disabled text color */
+  --cnvs-sys-color-text-default: var(--cnvs-base-palette-black-pepper-300); /* Default text color */
+  --cnvs-sys-color-bg-critical-strong: var(--cnvs-base-palette-cinnamon-600); /* Strong error background */
+  --cnvs-sys-color-bg-critical-softer: var(--cnvs-base-palette-cinnamon-100); /* Disabled error background */
+  --cnvs-sys-color-bg-critical-default: var(--cnvs-base-palette-cinnamon-500); /* Default error background */
+  --cnvs-sys-color-bg-caution-stronger: var(--cnvs-base-palette-cantaloupe-600); /* Stronger warning background */
+  --cnvs-sys-color-bg-caution-strong: var(--cnvs-base-palette-cantaloupe-500); /* Strong warning background */
+  --cnvs-sys-color-bg-caution-softer: var(--cnvs-base-palette-cantaloupe-100); /* Disabled warning background */
+  --cnvs-sys-color-bg-caution-default: var(--cnvs-base-palette-cantaloupe-400); /* Default warning background */
+  --cnvs-sys-color-bg-positive-stronger: var(--cnvs-base-palette-green-apple-600); /* Active success background */
+  --cnvs-sys-color-bg-positive-strong: var(--cnvs-base-palette-green-apple-500); /* Hover success background */
+  --cnvs-sys-color-bg-positive-softer: var(--cnvs-base-palette-green-apple-100); /* Softer success background */
+  --cnvs-sys-color-bg-positive-default: var(--cnvs-base-palette-green-apple-400); /* Disabled success background */
+  --cnvs-sys-color-bg-primary-stronger: var(--cnvs-base-palette-blueberry-600); /* Brand active background */
+  --cnvs-sys-color-bg-primary-strong: var(--cnvs-base-palette-blueberry-500); /* Brand hover background */
+  --cnvs-sys-color-bg-primary-soft: var(--cnvs-base-palette-blueberry-200); /* Brand selected background */
+  --cnvs-sys-color-bg-primary-default: var(--cnvs-base-palette-blueberry-400); /* Primary brand color */
+  --cnvs-sys-color-bg-contrast-strong: var(--cnvs-base-palette-black-pepper-500); /* Contrast backgrounds, like Secondary Buttons */
+  --cnvs-sys-color-bg-contrast-default: var(--cnvs-base-palette-black-pepper-400); /* Contrast backgrounds, like Secondary Buttons */
+  --cnvs-sys-color-bg-muted-strong: var(--cnvs-base-palette-licorice-500);
+  --cnvs-sys-color-bg-muted-default: var(--cnvs-base-palette-licorice-300);
+  --cnvs-sys-color-bg-muted-soft: var(--cnvs-base-palette-licorice-200);
+  --cnvs-sys-color-bg-muted-softer: var(--cnvs-base-palette-licorice-100);
+  --cnvs-sys-color-bg-alt-stronger: var(--cnvs-base-palette-soap-500); /* Active states */
+  --cnvs-sys-color-bg-alt-strong: var(--cnvs-base-palette-soap-400); /* Active states */
+  --cnvs-sys-color-bg-alt-softer: var(--cnvs-base-palette-soap-100); /* Disabled inputs and column headers */
+  --cnvs-sys-color-bg-alt-soft: var(--cnvs-base-palette-soap-200); /* Page background */
+  --cnvs-sys-color-bg-alt-default: var(--cnvs-base-palette-soap-300); /* Hover states */
+  --cnvs-sys-color-bg-translucent: rgba(0,0,0,var(--cnvs-base-opacity-500)); /* Tooltip, Status Indicator */
+  --cnvs-sys-color-bg-transparent: transparent; /* Transparent background */
+  --cnvs-sys-color-bg-default: var(--cnvs-base-palette-french-vanilla-100); /* Main background color;  */
+  --cnvs-sys-font-weight-bold: var(--cnvs-base-font-weight-700);
+  --cnvs-sys-font-weight-medium: var(--cnvs-base-font-weight-500);
+  --cnvs-sys-font-weight-normal: var(--cnvs-base-font-weight-400);
+  --cnvs-sys-font-weight-light: var(--cnvs-base-font-weight-300);
+  --cnvs-sys-line-height-title-large: var(--cnvs-base-line-height-600);
+  --cnvs-sys-line-height-title-medium: var(--cnvs-base-line-height-500);
+  --cnvs-sys-line-height-title-small: var(--cnvs-base-line-height-400);
+  --cnvs-sys-line-height-heading-large: var(--cnvs-base-line-height-350);
+  --cnvs-sys-line-height-heading-medium: var(--cnvs-base-line-height-300);
+  --cnvs-sys-line-height-heading-small: var(--cnvs-base-line-height-250);
+  --cnvs-sys-line-height-body-large: var(--cnvs-base-line-height-200);
+  --cnvs-sys-line-height-body-medium: var(--cnvs-base-line-height-200);
+  --cnvs-sys-line-height-body-small: var(--cnvs-base-line-height-150);
+  --cnvs-sys-line-height-subtext-large: var(--cnvs-base-line-height-100);
+  --cnvs-sys-line-height-subtext-medium: var(--cnvs-base-line-height-50);
+  --cnvs-sys-line-height-subtext-small: var(--cnvs-base-line-height-50);
+  --cnvs-sys-font-size-subtext-small: var(--cnvs-base-font-size-25);
+  --cnvs-sys-font-family-global: var(--cnvs-base-font-family-200);
+  --cnvs-sys-font-family-mono: var(--cnvs-base-font-family-100);
+  --cnvs-sys-font-family-default: var(--cnvs-base-font-family-50);
+  --cnvs-sys-space-x20: calc(var(--cnvs-base-unit) * 20); /* - Use sparingly; - Helps to put focus on the primary element within your page; - Use to de-clutter your UI when a lot of space is available */
+  --cnvs-sys-space-x16: calc(var(--cnvs-base-unit) * 16); /* - Use to de-clutter your UI when a lot of space is available; - Separate banner sections from page content; - Use to differentiate page content like page sections */
+  --cnvs-sys-space-x10: calc(var(--cnvs-base-unit) * 10); /* • Used for outer margins on the overall page content ; • Used for inner margins on large items such as page sections */
+  --cnvs-sys-space-x8: calc(var(--cnvs-base-unit) * 8); /* • Standard spacing between cards; • Used to separate groups of content ; • Separate section headings or titles from body text or inputs */
+  --cnvs-sys-space-x6: calc(var(--cnvs-base-unit) * 6); /* • Padding around card content; • Related elements where more space between them can be afforded; • Separate section headings or titles from body text or inputs */
+  --cnvs-sys-space-x4: calc(var(--cnvs-base-unit) * 4); /* Default space token. Used to group Inputs with related data */
+  --cnvs-sys-space-x3: calc(var(--cnvs-base-unit) * 3); /* Use when compact padding is required */
+  --cnvs-sys-space-x2: calc(var(--cnvs-base-unit) * 2); /* Commonly used to group compact elements like icon buttons */
+  --cnvs-sys-space-x1: var(--cnvs-base-unit); /* Compact spacing between text or icons */
+  --cnvs-sys-shape-round: calc(var(--cnvs-base-unit) * 250); /* Commonly used for our standard buttons and profile avatars: All Primary, Secondary Buttons, Radio Buttons and Notification Badges. */
+  --cnvs-sys-shape-x2: calc(var(--cnvs-base-unit) * 2); /* Use this for all the containers and popups: All Cards, Modals, Tooltips and Toasts. */
+  --cnvs-sys-shape-x1: var(--cnvs-base-unit); /* Use this for form components presenting text information or inputs: Text Inputs and Text Area, Dropdowns, Menus and Banners. */
+  --cnvs-sys-shape-half: calc(var(--cnvs-base-unit) * 0.5); /* Use this for subtle and small components that don’t require to group complex information like Status Indicators, Checkboxes and Color Swatches. */
+  --cnvs-sys-opacity-shadow-second: var(--cnvs-base-opacity-100); /* Alpha on second shadow */
+  --cnvs-sys-opacity-shadow-first: var(--cnvs-base-opacity-200); /* Alpha on first shadow */
+  --cnvs-sys-opacity-contrast: var(--cnvs-base-opacity-500); /* Tooltips, Status Indicator */
+  --cnvs-sys-opacity-overlay: var(--cnvs-base-opacity-400); /* Overlay */
+  --cnvs-sys-opacity-disabled: var(--cnvs-base-opacity-300); /* Disabled states */
+  --cnvs-sys-breakpoints-xl: 1440px; /* Used for extra large screens, such as wide monitors and TVs. */
+  --cnvs-sys-breakpoints-l: 1024px; /* Large screens, such as desktops. */
+  --cnvs-sys-breakpoints-m: 768px; /* Medium screens, such as laptops. */
+  --cnvs-sys-breakpoints-s: 320px; /* The `min-width` for mobile devices, such as phones and tablets. */
+  --cnvs-sys-color-shadow-1: rgba(31,38,46,var(--cnvs-base-opacity-200)); /* First shadow color */
+  --cnvs-sys-color-border-transparent: transparent; /* Transparent */
+  --cnvs-sys-color-text-caution-strong: var(--cnvs-sys-color-text-stronger); /* Strong warning text */
+  --cnvs-sys-color-text-caution-default: var(--cnvs-sys-color-text-strong); /* Warning text */
+  --cnvs-sys-color-bg-overlay: rgba(0,0,0,var(--cnvs-base-opacity-400)); /* Overlay background */
+  --cnvs-sys-font-size-subtext-medium: var(--cnvs-base-font-size-50);
+  --cnvs-sys-font-size-subtext-large: var(--cnvs-base-font-size-75);
+  --cnvs-sys-font-size-body-small: var(--cnvs-base-font-size-100);
+  --cnvs-sys-font-size-body-medium: var(--cnvs-base-font-size-125);
+  --cnvs-sys-font-size-body-large: var(--cnvs-base-font-size-150);
+  --cnvs-sys-font-size-heading-small: var(--cnvs-base-font-size-200);
+  --cnvs-sys-font-size-heading-medium: var(--cnvs-base-font-size-250);
+  --cnvs-sys-font-size-heading-large: var(--cnvs-base-font-size-300);
+  --cnvs-sys-font-size-title-small: var(--cnvs-base-font-size-400);
+  --cnvs-sys-font-size-title-medium: var(--cnvs-base-font-size-500);
+  --cnvs-sys-font-size-title-large: var(--cnvs-base-font-size-600);
+}
+
+.cnvs-sys-type-subtext-small {
+  font-family: var(--cnvs-sys-font-family-default);
+  font-weight: var(--cnvs-sys-font-weight-normal);
+  line-height: var(--cnvs-sys-line-height-subtext-small);
+  font-size: var(--cnvs-sys-font-size-subtext-small);
+  letter-spacing: var(--cnvs-base-letter-spacing-50);
+}
+
+.cnvs-sys-type-subtext-medium {
+  font-family: var(--cnvs-sys-font-family-default);
+  font-weight: var(--cnvs-sys-font-weight-normal);
+  line-height: var(--cnvs-sys-line-height-subtext-medium);
+  font-size: var(--cnvs-sys-font-size-subtext-medium);
+  letter-spacing: var(--cnvs-base-letter-spacing-100);
+}
+
+.cnvs-sys-type-subtext-large {
+  font-family: var(--cnvs-sys-font-family-default);
+  font-weight: var(--cnvs-sys-font-weight-normal);
+  line-height: var(--cnvs-sys-line-height-subtext-large);
+  font-size: var(--cnvs-sys-font-size-subtext-large);
+  letter-spacing: var(--cnvs-base-letter-spacing-150);
+}
+
+.cnvs-sys-type-body-small {
+  font-family: var(--cnvs-sys-font-family-default);
+  font-weight: var(--cnvs-sys-font-weight-normal);
+  line-height: var(--cnvs-sys-line-height-body-small);
+  font-size: var(--cnvs-sys-font-size-body-small);
+  letter-spacing: var(--cnvs-base-letter-spacing-200);
+}
+
+.cnvs-sys-type-body-medium {
+  font-family: var(--cnvs-sys-font-family-default);
+  font-weight: var(--cnvs-sys-font-weight-normal);
+  line-height: var(--cnvs-sys-line-height-body-medium);
+  font-size: var(--cnvs-sys-font-size-body-medium);
+}
+
+.cnvs-sys-type-body-large {
+  font-family: var(--cnvs-sys-font-family-default);
+  font-weight: var(--cnvs-sys-font-weight-normal);
+  line-height: var(--cnvs-sys-line-height-body-large);
+  font-size: var(--cnvs-sys-font-size-body-large);
+}
+
+.cnvs-sys-type-heading-small {
+  font-family: var(--cnvs-sys-font-family-default);
+  font-weight: var(--cnvs-sys-font-weight-bold);
+  line-height: var(--cnvs-sys-line-height-heading-small);
+  font-size: var(--cnvs-sys-font-size-heading-small);
+}
+
+.cnvs-sys-type-heading-medium {
+  font-family: var(--cnvs-sys-font-family-default);
+  font-weight: var(--cnvs-sys-font-weight-bold);
+  line-height: var(--cnvs-sys-line-height-heading-medium);
+  font-size: var(--cnvs-sys-font-size-heading-medium);
+}
+
+.cnvs-sys-type-heading-large {
+  font-family: var(--cnvs-sys-font-family-default);
+  font-weight: var(--cnvs-sys-font-weight-bold);
+  line-height: var(--cnvs-sys-line-height-heading-large);
+  font-size: var(--cnvs-sys-font-size-heading-large);
+}
+
+.cnvs-sys-type-title-small {
+  font-family: var(--cnvs-sys-font-family-default);
+  font-weight: var(--cnvs-sys-font-weight-bold);
+  line-height: var(--cnvs-sys-line-height-title-small);
+  font-size: var(--cnvs-sys-font-size-title-small);
+}
+
+.cnvs-sys-type-title-medium {
+  font-family: var(--cnvs-sys-font-family-default);
+  font-weight: var(--cnvs-sys-font-weight-bold);
+  line-height: var(--cnvs-sys-line-height-title-medium);
+  font-size: var(--cnvs-sys-font-size-title-medium);
+}
+
+.cnvs-sys-type-title-large {
+  font-family: var(--cnvs-sys-font-family-default);
+  font-weight: var(--cnvs-sys-font-weight-bold);
+  line-height: var(--cnvs-sys-line-height-title-large);
+  font-size: var(--cnvs-sys-font-size-title-large);
+}</style><style>/**
+ * Do not edit directly
+ * Generated on Thu, 06 Feb 2025 15:20:12 GMT
+ */
+
+:root {
+  --cnvs-brand-error-darkest: rgba(128,22,14,1);
+  --cnvs-brand-common-alert-inner: var(--cnvs-base-palette-cantaloupe-400);
+  --cnvs-brand-common-error-inner: var(--cnvs-base-palette-cinnamon-500);
+  --cnvs-brand-common-focus-outline: var(--cnvs-base-palette-blueberry-400);
+  --cnvs-brand-neutral-accent: var(--cnvs-base-palette-french-vanilla-100);
+  --cnvs-brand-neutral-darkest: var(--cnvs-base-palette-licorice-400);
+  --cnvs-brand-neutral-dark: var(--cnvs-base-palette-licorice-300);
+  --cnvs-brand-neutral-base: var(--cnvs-base-palette-soap-600);
+  --cnvs-brand-neutral-light: var(--cnvs-base-palette-soap-300);
+  --cnvs-brand-neutral-lightest: var(--cnvs-base-palette-soap-200);
+  --cnvs-brand-success-accent: var(--cnvs-base-palette-french-vanilla-100);
+  --cnvs-brand-success-darkest: var(--cnvs-base-palette-green-apple-600);
+  --cnvs-brand-success-dark: var(--cnvs-base-palette-green-apple-500);
+  --cnvs-brand-success-base: var(--cnvs-base-palette-green-apple-400);
+  --cnvs-brand-success-light: var(--cnvs-base-palette-green-apple-300);
+  --cnvs-brand-success-lightest: var(--cnvs-base-palette-green-apple-100);
+  --cnvs-brand-error-accent: var(--cnvs-base-palette-french-vanilla-100);
+  --cnvs-brand-error-dark: var(--cnvs-base-palette-cinnamon-600);
+  --cnvs-brand-error-base: var(--cnvs-base-palette-cinnamon-500);
+  --cnvs-brand-error-light: var(--cnvs-base-palette-cinnamon-200);
+  --cnvs-brand-error-lightest: var(--cnvs-base-palette-cinnamon-100);
+  --cnvs-brand-alert-accent: var(--cnvs-base-palette-french-vanilla-100);
+  --cnvs-brand-alert-darkest: var(--cnvs-base-palette-cantaloupe-600);
+  --cnvs-brand-alert-dark: var(--cnvs-base-palette-cantaloupe-500);
+  --cnvs-brand-alert-base: var(--cnvs-base-palette-cantaloupe-400);
+  --cnvs-brand-alert-light: var(--cnvs-base-palette-cantaloupe-200);
+  --cnvs-brand-alert-lightest: var(--cnvs-base-palette-cantaloupe-100);
+  --cnvs-brand-primary-accent: var(--cnvs-base-palette-french-vanilla-100);
+  --cnvs-brand-primary-darkest: var(--cnvs-base-palette-blueberry-600);
+  --cnvs-brand-primary-dark: var(--cnvs-base-palette-blueberry-500);
+  --cnvs-brand-primary-base: var(--cnvs-base-palette-blueberry-400);
+  --cnvs-brand-primary-light: var(--cnvs-base-palette-blueberry-200);
+  --cnvs-brand-primary-lightest: var(--cnvs-base-palette-blueberry-100);
+  --cnvs-brand-gradient-primary: linear-gradient(90deg, var(--cnvs-brand-primary-base) 0%, var(--cnvs-brand-primary-dark) 100%);
+}
+
+
+</style><style data-emotion="css" data-s=""></style><style>
+      #zapply-floating-ribbon {
+        font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+      }
+      
+      #zapply-floating-ribbon:hover {
+        right: 0 !important;
+      }
+      
+      #zapply-floating-ribbon.dragging {
+        transition: none !important;
+      }
+      
+      .zapply-ribbon-container {
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+        border: 2px solid #00ff88;
+        border-right: none;
+        border-radius: 12px 0 0 12px;
+        box-shadow: -4px 0 20px rgba(0, 255, 136, 0.3);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        overflow: visible;
+        position: relative;
+      }
+      
+      .zapply-ribbon-container:hover {
+        border-color: #ffffff;
+        box-shadow: -8px 0 30px rgba(0, 255, 136, 0.5);
+      }
+      
+      .zapply-close-btn {
+        position: absolute;
+        top: -8px;
+        left: -8px;
+        width: 20px;
+        height: 20px;
+        background: #ff5555;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 12px;
+        color: white;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        cursor: pointer;
+        z-index: 10;
+        border: 2px solid #0a0a0a;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+      }
+      
+      #zapply-floating-ribbon:hover .zapply-close-btn {
+        opacity: 1 !important;
+      }
+      
+      .zapply-close-btn:hover {
+        background: #ff3333;
+        transform: scale(1.1);
+      }
+      
+      .zapply-ribbon-content {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 40px;
+        height: 40px;
+      }
+      
+      .zapply-logo {
+        width: 32px;
+        height: 32px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      
+      .zapply-logo img {
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        object-fit: contain;
+      }
+      
+      .zapply-text {
+        position: absolute;
+        font-size: 16px;
+        font-weight: 800;
+        color: #00ff88;
+        text-shadow: 0 0 10px rgba(0, 255, 136, 0.5);
+        display: none;
+      }
+      
+      .zapply-ribbon-handle {
+        position: absolute;
+        right: -22px;
+        width: 22px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #00ff88;
+        border-radius: 0 8px 8px 0;
+        cursor: ns-resize;
+        color: #0a0a0a;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        border: 2px solid #00ff88;
+        border-left: none;
+      }
+      
+      #zapply-floating-ribbon:hover .zapply-ribbon-handle {
+        opacity: 1;
+      }
+      
+      .zapply-ribbon-handle:hover {
+        background: rgba(0, 255, 136, 0.2);
+      }
+      
+      .zapply-ribbon-handle:active {
+        cursor: ns-resize;
+        background: rgba(0, 255, 136, 0.3);
+      }
+    </style><style data-emotion="css-global" data-s=""></style><style data-emotion="css" data-s=""></style><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-4C9WHFQHKS", {"cookie_domain": "intel.wd1.myworkdayjobs.com"});</script></head>
+<body data-whatinput="mouse">
+<div id="root"><div dir="ltr"><div class="css-qjy8kv"><a data-automation-id="accessibilitySkipToMainContent" href="" id="accessibilitySkipToMainContent" tabindex="0" class="css-u3cuz8">Skip to main content</a><div class="css-8atqhb"><div dir="ltr"><div data-automation-id="legalNotice" class="css-1k55zyc"><div title="Welcome! Intel Corporation uses cookies and similar technologies on this website to improve your online experience, to analyze site usage and to show tailored advertising to you. For more information, visit our&nbsp;Cookie Notice." class="css-w89go0"><div class="css-1uzs6bp"><h1><b>Welcome!</b></h1><div><h2>Intel Corporation uses cookies and similar technologies on this website to improve your online experience, to analyze site usage and to show tailored advertising to you. For more information, visit our&nbsp;<a href="https://www.intel.co.uk/content/www/uk/en/privacy/intel-cookie-notice.html" target="_blank"><span class="emphasis-3">Cookie Notice</span></a>.</h2></div></div><div class="css-shnk6d"><div class="css-b3pn3b"><div class="css-b3pn3b"><button data-automation-id="legalNoticeDeclineButton" font-size="14" height="40" class="css-6719aw">Decline</button></div></div><div class="css-12h6sk6"></div><div class="css-b3pn3b"><div class="css-b3pn3b"><button data-automation-id="legalNoticeAcceptButton" font-size="14" height="40" class="css-6719aw">Accept Cookies</button></div></div></div></div></div></div></div><div data-automation-id="header" class="css-1deijjp"><div class="css-10r3o98"><header class="css-1uu4o8n"><div color="#FFFFFF" class="css-14tikhp"></div><div class="css-2ilfdb"><div class="css-12et3te"><div class="css-k187q9"><a data-automation-id="logoLink" color="#0068B5" href="https://intel.wd1.myworkdayjobs.com/External/page/6042070b79e01001f04fa9b468070000" class="css-9noxwc"><img src="/External/assets/logo" data-automation-id="logo" alt="careers" class="css-1t8sqvc"></a></div></div><div data-automation-id="headerTitle" class="css-nhdrg1"><h1 color="#0068B5" class="css-1qf11dn">Intel Careers</h1></div><div class="css-1b2fe75"><div data-automation-id="navigationContainer" class="css-l0fptr"><div data-automation-id="utilityButtonBar" class="css-1m9m39s"><button color="#0068B5" data-automation-id="utilityButtonSignIn" class="css-1mkyvo7"><span class="css-1b719iy"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-user wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M20 20.491a.503.503 0 0 1-.496.505H4.496A.493.493 0 0 1 4 20.49v-1.495C4 16 6.246 13.8 8.756 12.683 7.682 11.675 7 10.174 7 8.5 7 5.462 9.239 3 12 3s5 2.462 5 5.499c0 1.675-.68 3.175-1.755 4.183C17.758 13.797 20 15.995 20 18.996v1.495zM6.083 18.996H18c0-2.996-2.5-4.999-6-4.999s-6 2.003-5.917 5zM12 11.998c1.657 0 3-1.567 3-3.5C15 6.567 13.657 5 12 5S9 6.566 9 8.499c0 1.932 1.343 3.499 3 3.499z" class="wd-icon-fill"></path></g></svg></span><span class="css-1xtbc5b">Sign In</span></button></div><nav class="css-1hafuyi"><button data-automation-id="navigationItem-Life at Intel" color="#0068B5" class="css-1hedzge">Life at Intel</button><button data-automation-id="navigationItem-Search for Jobs" color="#0068B5" class="css-1hedzge">Search for Jobs</button><button data-automation-id="navigationItem-Join Our Talent Community" color="#0068B5" class="css-1hedzge">Join Our Talent Community</button></nav></div><button aria-controls="hammy-menu" aria-expanded="false" aria-haspopup="true" aria-label="main menu" id="hammyMenuIcon" data-automation-id="hammyMenuIcon" class="css-12q0a5a"><span class="css-pah5hc"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-reorder-v2 wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M4 6.505C4 6.226 4.305 6 4.667 6h14.666c.368 0 .667.214.667.505v.99c0 .279-.305.505-.667.505H4.667C4.3 8 4 7.786 4 7.495v-.99zm0 5c0-.279.305-.505.667-.505h14.666c.368 0 .667.214.667.505v.99c0 .279-.305.505-.667.505H4.667C4.3 13 4 12.786 4 12.495v-.99zm0 5c0-.279.305-.505.667-.505h14.666c.368 0 .667.214.667.505v.99c0 .279-.305.505-.667.505H4.667C4.3 18 4 17.786 4 17.495v-.99z" class="wd-icon-fill"></path></g></svg></span></button></div></div></header></div></div><div height="301" class="css-bkb5gv"><img alt="" src="/External/assets/banner" data-automation-id="banner" class="css-ap2pah"></div><div class="css-gj3t6y"><div id="mainContent" tabindex="-1" class="css-1vosg8"><div data-automation-id="jobSearchPage" class="css-1i896o3"><div data-automation-id="jobSearch" class="css-1wnbqgd"><div data-automation-id="keywordSearchSection" role="search" data-uxi-widget-type="form" class="css-1766dop"><div data-uxi-element-id="searchBar_keywordSearchInput" data-uxi-widget-type="inputField" data-uxi-query-id="" data-uxi-number-job-results="259" class="css-yslldf"><div class="css-4zlbsc"><div width="100%" class="css-3lf2mu"><span class="css-12uxgeu"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-search wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path fill-rule="nonzero" d="M17.32 15.906l2.859 2.858a.5.5 0 0 1 .003.717l-.7.7a.5.5 0 0 1-.718-.002l-2.858-2.86a8 8 0 1 1 1.414-1.414zM11 17a6 6 0 1 0 0-12 6 6 0 0 0 0 12z" class="wd-icon-fill"></path></g></svg></span><input type="text" data-automation-id="keywordSearchInput" aria-labelledby="2149900a-96a1-405e-8c00-c9d229afdf0a" placeholder="Search for jobs or keywords" id="zs21u" class="css-1qd3uha" value="" style="padding-left: 40px;"></div><button type="button" aria-label="Reset Search Input" class="css-1dvx339"><span class="css-1p727v3"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-x-small wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M10.783 12l-3.661 3.661a.414.414 0 0 0 .001.588l.628.628a.414.414 0 0 0 .588.001L12 13.217l3.661 3.661a.414.414 0 0 0 .588-.001l.628-.628a.414.414 0 0 0 .001-.588L13.217 12l3.661-3.661a.414.414 0 0 0-.001-.588l-.628-.628a.414.414 0 0 0-.588-.001L12 10.783 8.339 7.122a.414.414 0 0 0-.588.001l-.628.628a.414.414 0 0 0-.001.588L10.783 12z" class="wd-icon-fill"></path></g></svg></span></button></div><div aria-live="polite" role="status" aria-relevant="additions" class="css-i19yjz"></div></div><span class="css-12z0wuy"></span><div class="css-b3pn3b"><div class="css-b3pn3b"><button type="submit" id="2149900a-96a1-405e-8c00-c9d229afdf0a" data-uxi-element-id="searchBar_keywordSearchButton" data-uxi-widget-type="button" data-uxi-query-id="" class="css-1disu25" data-automation-id="keywordSearchButton" font-size="14" height="40">Search</button></div></div></div><div class="css-1qm1lh"></div><fieldset class="css-1dw6sgr"><legend class="css-i19yjz">Filters</legend><div class="css-1x2kh9a"><button data-automation-id="distanceLocation" data-uxi-element-id="filter_distanceLocation" data-uxi-query-id="" data-uxi-widget-type="filterButton" class="css-1751o">Location<span class="css-1ovx74g"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-caret-down-small wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12.288 15.866c.117.18.31.177.424 0l4.235-6.538c.116-.18.034-.328-.176-.328H8.229c-.214 0-.29.15-.176.328l4.235 6.538z" class="wd-icon-fill"></path></g></svg></span></button></div><div class="css-1x2kh9a"><button data-automation-id="employmentType" data-uxi-element-id="filter_employmentType" data-uxi-query-id="" data-uxi-widget-type="filterButton" class="css-1751o">Time Type<span class="css-1ovx74g"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-caret-down-small wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12.288 15.866c.117.18.31.177.424 0l4.235-6.538c.116-.18.034-.328-.176-.328H8.229c-.214 0-.29.15-.176.328l4.235 6.538z" class="wd-icon-fill"></path></g></svg></span></button></div><div class="css-1x2kh9a"><button data-automation-id="jobFamilyGroup" data-uxi-element-id="filter_jobFamilyGroup" data-uxi-query-id="" data-uxi-widget-type="filterButton" class="css-1751o">Job Category<span class="css-1ovx74g"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-caret-down-small wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12.288 15.866c.117.18.31.177.424 0l4.235-6.538c.116-.18.034-.328-.176-.328H8.229c-.214 0-.29.15-.176.328l4.235 6.538z" class="wd-icon-fill"></path></g></svg></span></button></div><div class="css-1x2kh9a"><button data-automation-id="more" data-uxi-element-id="filter_more" data-uxi-query-id="" data-uxi-widget-type="filterButton" class="css-1751o">More<span class="css-1ovx74g"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-caret-down-small wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12.288 15.866c.117.18.31.177.424 0l4.235-6.538c.116-.18.034-.328-.176-.328H8.229c-.214 0-.29.15-.176.328l4.235 6.538z" class="wd-icon-fill"></path></g></svg></span></button></div></fieldset></div><div class="css-1142bqn"><span role="alert" class="css-ttaaxj">Search for Jobs page is loaded</span><section data-automation-id="jobResults" aria-label="Search Results" class="css-27w6p6"><p data-automation-id="jobFoundText" class="css-12psxof">259 JOBS FOUND</p><div data-automation-id="jobJumpToDetailsContainer" class="css-1k679eg"><button type="button" data-automation-id="jobJumpToDetailsLink" class="css-zocewf"><span class="css-pplshs">Jump to selected job details</span></button></div><ul aria-label="Page 1 of 13" role="list"><li class="css-pc6l1k"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="true" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="0" class="css-19uc56f" href="/en-US/External/job/US-Texas-Austin/CPU-CAD-Design-Automation-Engineer_JR0277654">CPU CAD Design Automation Engineer</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">2 Locations</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277654</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="1" class="css-19uc56f" href="/en-US/External/job/Virtual-Argentina/Senior-Administrative-Assistant_JR0277674">Senior Administrative Assistant</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">Virtual Argentina</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277674</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="2" class="css-19uc56f" href="/en-US/External/job/US-Texas-Austin/CPU-CAD-Design-Automation-Engineer_JR0277660">CPU CAD Design Automation Engineer</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">2 Locations</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277660</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="3" class="css-19uc56f" href="/en-US/External/job/US-Oregon-Hillsboro/SOC-Design-Engineer---Physical-Design-and-Integration_JR0277666">SOC Design Engineer – Physical Design and Integration</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">US, Oregon, Hillsboro</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277666</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="4" class="css-19uc56f" href="/en-US/External/job/US-Oregon-Hillsboro/SoC-Physical-Design-Engineer_JR0277657">SoC Physical Design Engineer</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">US, Oregon, Hillsboro</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277657</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="5" class="css-19uc56f" href="/en-US/External/job/US-Texas-Austin/Senior-Physical-Design-Clock-Distribution-Engineer_JR0277668">Senior Physical Design Clock Distribution Engineer</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">3 Locations</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277668</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="6" class="css-19uc56f" href="/en-US/External/job/US-California-Santa-Clara/Design-for-Manufacturing-Technologist_JR0277631">Design for Manufacturing Technologist</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">3 Locations</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277631</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="7" class="css-19uc56f" href="/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Manufacturing-Technician-Module-Technician-Level-2--K-Thut-Vin-Sn-Xut-Bc-2-_JR0276795">Module Equipment Technician (Kỹ Thuật Viên Bảo trì Sửa chữa)</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">Vietnam, Ho_Chi_Minh_City</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0276795</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="8" class="css-19uc56f" href="/en-US/External/job/US-California-Folsom/GPU-Logic-Design-Engineer_JR0277497">GPU Logic Design Engineer</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">2 Locations</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277497</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="9" class="css-19uc56f" href="/en-US/External/job/US-Arizona-Phoenix/Intel-Foundry-Capital-Analyst_JR0277284">Intel Foundry Capital Analyst</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">2 Locations</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277284</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="10" class="css-19uc56f" href="/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Manufacturing-Technician-Level-1--K-Thut-Vin-Sn-Xut-Bc-1-_JR0276793">Manufacturing Operator (Nhân viên vận hành máy)</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">Vietnam, Ho_Chi_Minh_City</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0276793</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="11" class="css-19uc56f" href="/en-US/External/job/Costa-Rica-San-Jose/Cloud-Software-Development-Engineer_JR0277688-1">Cloud Software Development Engineer</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">Costa Rica, San Jose</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277688</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="12" class="css-19uc56f" href="/en-US/External/job/Costa-Rica-San-Jose/IP-Design-Engineering-Student-Worker_JR0277692-1">IP Design Engineering Student Worker</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">Costa Rica, San Jose</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277692</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="13" class="css-19uc56f" href="/en-US/External/job/Romania-Timisoara/Intel-NPU-Internship_JR0277652">Intel NPU Internship</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">Romania, Timisoara</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277652</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="14" class="css-19uc56f" href="/en-US/External/job/Poland-Gdansk/GPU-Software-Validation-Intern_JR0277608">GPU Software Validation Intern</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">Poland, Gdansk</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277608</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="15" class="css-19uc56f" href="/en-US/External/job/Vietnam-Ho_Chi_Minh_City/MPE-HVE-Product-Development-Engineer_JR0277683">MPE HVE Product Development Engineer</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">Vietnam, Ho_Chi_Minh_City</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277683</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="16" class="css-19uc56f" href="/en-US/External/job/India-Bangalore/physical-design-engineer_JR0277102">Physical Design Engineer</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">India, Bangalore</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277102</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="17" class="css-19uc56f" href="/en-US/External/job/India-Bangalore/Physical-Design-Engineer_JR0277341">Physical Design Engineer</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">India, Bangalore</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277341</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="18" class="css-19uc56f" href="/en-US/External/job/Malaysia-Penang/Graduate-Talent--Software-Development-Test-Engineer-_JR0277687">Graduate Talent (Software Development Test Engineer)</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">Malaysia, Penang</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277687</li></ul></li><li class="css-1q2dra3"><div class="css-qiqmbt"><div class="css-b3pn3b"><div class="css-b3pn3b"><h3><a aria-current="false" data-automation-id="jobTitle" data-uxi-element-id="jobItem" data-uxi-query-id="" data-uxi-widget-type="heading" data-uxi-item-rank="19" class="css-19uc56f" href="/en-US/External/job/US-California-Santa-Clara/Execution-Program-Manager-for-Data-Center-platforms_JR0277676">Execution Program Manager for Data Center platforms</a></h3></div></div></div><div class="css-248241"><div class="css-1y87fhn"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">3 Locations</dd></dl></div></div></div><div class="css-zoser8"><div class="css-1y87fhn"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Yesterday</dd></dl></div></div></div><ul data-automation-id="subtitle" class="css-14a0imc"><li class="css-h2nt8k">JR0277676</li></ul></li></ul><div class="css-3z7fsk"><nav aria-label="pagination" class="css-qnaoii"><div class="css-19yi5fs"><div class="css-8jbpru"></div><ol role="list" class="css-1o4ed1z"><li class="css-1j096s0"><button type="button" aria-current="page" aria-label="page 1" data-uxi-element-id="page 1" data-uxi-query-id="" data-uxi-widget-type="paginationPageButton" class="css-1mgat5e">1</button></li><li class="css-1j096s0"><button type="button" aria-label="page 2" data-uxi-element-id="page 2" data-uxi-query-id="" data-uxi-widget-type="paginationPageButton" class="css-q7y2gt">2</button></li><li class="css-1j096s0"><button type="button" aria-label="page 3" data-uxi-element-id="page 3" data-uxi-query-id="" data-uxi-widget-type="paginationPageButton" class="css-q7y2gt">3</button></li><li class="css-1j096s0"><button type="button" aria-label="page 4" data-uxi-element-id="page 4" data-uxi-query-id="" data-uxi-widget-type="paginationPageButton" class="css-q7y2gt">4</button></li><li class="css-1j096s0"><button type="button" aria-label="page 5" data-uxi-element-id="page 5" data-uxi-query-id="" data-uxi-widget-type="paginationPageButton" class="css-q7y2gt">5</button></li></ol><button type="button" aria-label="next" data-uxi-element-id="next" data-uxi-query-id="" data-uxi-widget-type="stepToNextButton" class="css-hvd5xx"><span class="css-1p727v3"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-chevron-right-small wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M13.703 12L9.128 7.39a.44.44 0 0 1 0-.62l.635-.64a.44.44 0 0 1 .622-.002l.002.002 5.482 5.523a.44.44 0 0 1 .127.347.44.44 0 0 1-.127.347l-5.482 5.523a.44.44 0 0 1-.622.002l-.002-.002-.635-.64a.44.44 0 0 1 0-.62L13.703 12z" class="wd-icon-fill"></path></g></svg></span></button></div></nav><p data-automation-id="jobOutOfText" aria-live="polite" class="css-rp1q6v">1 - 20 of 259 jobs</p></div></section><div class="css-6oolta"><div class="css-lb6cf8"><section data-automation-id="jobDetails" aria-label="Job Details" class="css-1v46q50"><div class="css-1263kk1"><div class="css-6su6fj"><div class="css-s16q1a"><button type="button" data-automation-id="jobDetailsCloseButton" aria-label="Close job details" id="jobDetailsCloseButton" class="css-dkw7fb"><span class="css-1p727v3"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-x wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M5.996 4.582a.5.5 0 0 0-.717-.003l-.7.7a.504.504 0 0 0 .003.717L10.586 12l-6.004 6.004a.5.5 0 0 0-.003.717l.7.7c.197.197.514.2.717-.003L12 13.414l6.004 6.004a.5.5 0 0 0 .717.003l.7-.7a.504.504 0 0 0-.003-.717L13.414 12l6.004-6.004a.5.5 0 0 0 .003-.717l-.7-.7a.504.504 0 0 0-.717.003L12 10.586 5.996 4.582z" class="wd-icon-fill"></path></g></svg></span></button></div><div class="css-1hvlmnn"><button type="button" class="css-zocewf"><span class="css-pplshs">Return to selected search result</span></button></div><div class="css-2c41hv"><div class="css-1f9tql3"><div class="css-18k4i7e"><div class="css-i9jc9h"><h2 data-automation-id="jobPostingHeader" class="css-h1zxlu">CPU CAD Design Automation Engineer</h2><div class="css-1qwg3j0"><a aria-label="Open in new window" rel="noopener noreferrer" role="button" target="_blank" class="css-2zzt0z" href="/en-US/External/job/CPU-CAD-Design-Automation-Engineer_JR0277654"><span data-automation-id="extLinkIcon" class="css-8qepr6"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-ext-link wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M9.502 5c.283 0 .498.226.498.505v.99c0 .291-.222.505-.495.505H7v10h10v-2.505c0-.28.226-.495.505-.495h.99c.291 0 .505.223.505.498v4.004a.493.493 0 0 1-.498.498H5.498A.496.496 0 0 1 5 18.502V5.498C5 5.22 5.223 5 5.498 5zm8.996 0c.139 0 .265.053.356.143.091.1.147.225.147.36v5.994a.497.497 0 0 1-.504.503h-.99a.509.509 0 0 1-.506-.503V8.503l-5.23 5.23a.496.496 0 0 1-.712 0l-.7-.701a.503.503 0 0 1-.002-.713L15.677 7h-3.172A.497.497 0 0 1 12 6.495v-.99c0-.279.233-.505.504-.505h5.993z" class="wd-icon-fill"></path></g></svg></span></a></div></div><div class="css-37urdo"><div class="css-ipzqjw"><div class="css-b3pn3b"><div class="css-b3pn3b"><a href="https://intel.wd1.myworkdayjobs.com/en-US/External/details/CPU-CAD-Design-Automation-Engineer_JR0277654/apply" role="button" data-uxi-element-id="Apply_adventureButton" data-uxi-query-id="" data-uxi-widget-type="adventureButton" data-automation-id="adventureButton" font-size="14" height="40" class="css-1f3opt4">Apply</a></div></div></div></div></div></div></div></div><div class="css-oa138a"><div class="css-b3pn3b"><div class="css-b3pn3b"><div tabindex="0" aria-label="Job Posting Description"><div class="css-11nhv9h"><div class="css-1pv4c4t"><div class="css-cygeeu"><div data-automation-id="locations" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-location wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 5a3 3 0 1 0 0 6 3 3 0 0 0 0-6z" class="wd-icon-background"></path><path fill-rule="nonzero" d="M12 2a8 8 0 0 1 8 8c0 4.418-7.635 11.645-7.635 11.645a.52.52 0 0 1-.72.01l-.025-.024c-.05-.049-.175-.169-.358-.35l-.2-.2C9.273 19.283 4 13.669 4 10a8 8 0 0 1 8-8zm0 2a6 6 0 0 0-6 6c0 .72.404 1.818 1.186 3.14.572.964 1.316 2.005 2.192 3.086A45.646 45.646 0 0 0 12 19.181l.114-.118a45.53 45.53 0 0 0 2.514-2.842c.875-1.082 1.62-2.124 2.191-3.09C17.6 11.814 18 10.72 18 10a6 6 0 0 0-6-6zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 2a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" class="wd-icon-fill"></path></g></svg></span></div><dl><dt class="css-y8qsrx">locations</dt><dd class="css-129m7dg">US, Texas, Austin</dd><dd class="css-129m7dg">US, Oregon, Hillsboro</dd></dl></div></div><div><div class="css-19idom"><div data-automation-id="time" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-task-job wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M3 6h18v13H3z" class="wd-icon-background"></path><path d="M16.49 2c.282 0 .51.23.51.5V5h4.506c.273 0 .494.224.494.5v14c0 .277-.225.5-.494.5H2.494A.497.497 0 0 1 2 19.5v-14c0-.277.225-.5.494-.5H7V2.5c0-.276.228-.5.51-.5h8.98zM20 12V7H4v5h3v2H4v4h16v-4h-3v-2h3zm-5-8H9v1h6V4zm1 10H8v-2h8v2z" class="wd-icon-fill"></path><path d="M9.502 10c.275 0 .498.233.498.503V12h4v-1.497c0-.278.215-.503.498-.503h4.004c.275 0 .498.233.498.503V12h3v2h-3v2.497a.496.496 0 0 1-.498.503h-4.004a.505.505 0 0 1-.498-.503V14h-4v2.497a.496.496 0 0 1-.498.503H5.498A.505.505 0 0 1 5 16.497V14H2v-2h3v-1.497c0-.278.215-.503.498-.503h4.004zM8 12H7v3h1v-3zm9 0h-1v3h1v-3z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">time type</dt><dd class="css-129m7dg">Full time</dd></dl></div></div><div class="css-19idom"><div data-automation-id="postedOn" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-clock wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><circle cx="12" cy="12" r="9" class="wd-icon-background"></circle><path d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2zm0 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16z" class="wd-icon-fill"></path><path d="M10.503 14a.497.497 0 0 1-.503-.505V7.503c0-.278.214-.503.505-.503h.99c.279 0 .505.233.505.503V12h4.497c.278 0 .503.214.503.505v.99a.509.509 0 0 1-.503.505h-5.994z" class="wd-icon-accent"></path></g></svg></span></div><dl><dt class="css-y8qsrx">posted on</dt><dd class="css-129m7dg">Posted Today</dd></dl></div></div><div class="css-19idom"><div data-automation-id="requisitionId" class="css-k008qs"><div aria-hidden="true" class="css-kij4qr"><span class="css-wwkk48"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-document wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M5 3h14v18H5z" class="wd-icon-background"></path><path d="M4 2.494C4 2.221 4.226 2 4.496 2h15.008c.274 0 .496.225.496.494v19.012a.498.498 0 0 1-.496.494H4.496A.497.497 0 0 1 4 21.506V2.494zM18 4H6v16h12V4z" class="wd-icon-fill"></path><path d="M7 8.505C7 8.226 7.228 8 7.491 8h5.018a.49.49 0 0 1 .491.505v.99a.503.503 0 0 1-.491.505H7.491A.49.49 0 0 1 7 9.495v-.99zm0 3c0-.279.228-.505.51-.505h8.98a.5.5 0 0 1 .51.505v.99a.507.507 0 0 1-.51.505H7.51a.5.5 0 0 1-.51-.505v-.99zm0 3c0-.279.228-.505.51-.505h8.98a.5.5 0 0 1 .51.505v.99a.507.507 0 0 1-.51.505H7.51a.5.5 0 0 1-.51-.505v-.99z" class="wd-icon-accent" opacity=".9"></path></g></svg></span></div><dl><dt class="css-y8qsrx">job requisition id</dt><dd class="css-129m7dg">JR0277654</dd></dl></div></div></div></div></div><div class="css-1i27f3a"><div class="css-ey7qxc"><div data-automation-id="jobPostingDescription" class="css-1hv0qyi"><h1><b>Job Details:</b></h1><p style="text-align:inherit"></p><p style="text-align:inherit"></p><h2>Job Description:&nbsp;</h2><p>Do you want to be a part of the one of the most advanced CPU teams in the world, responsible for the development of the low power, high performance microprocessors at Intel?<br>In this visible, multi-functional role, you will be an integral member of a high-functioning and diverse Front End CAD team that defines, develops, tests and supports RTL and Verification CAD tool flows such as RTL simulation, emulation, CI/CD.<br>This multi-disciplinary team consistently pushes the edge of technology and adopts best-in-class automation practices to allow for smooth RTL, Verification and backend development of our complex microprocessors. If you are someone with great software skills and exemplary engineering curiosity, this is your opportunity to apply those skills in aiding the development of microprocessor designs that are an essential part of the current and future Intel microprocessors.<br><br>Some of the responsibilities of this role will include but not limited to:</p><ul><li>Develop and maintain flows, scripts and systems around the RTL to layout design and Verification development work cycle like RTL simulators, Low-Power checkers, Coverage, Synthesis, Place and Route, Timing Analysis, etc.</li><li>Solve complex inter-domain problems in the environment that straddle CAD vendor tools, automation flows, RTL to Layout design and cloud infrastructure.</li><li>Work with the Intel cloud team for most efficient compute scaling and utilization for the billions of simulation cycles being run.</li><li>Using big-data and analytics platforms like Splunk to provide relevant data and visualizations for design environment efficiency.</li><li>Continuously innovate to implement state-of-art strategies including ML/AI to improve our automation infrastructure.</li><li>Define methodologies and architect flow solutions tied to internal and vendor based RTL/Verification CAD tools.</li><li>Act as focal point between design and tool vendors for issues and feature enhancements.</li><li>Very good inter-personal skills to work with and influence multiple teams to come up with solutions for deep technical problems.</li><li>Exposure to Linux including shell scripting (e.g. csh, bash).</li><li>Exceptional problem solving skills to be able to debug complex cross-domain problems (RTL, implementation, software tools, IT) being relatively independent.</li><li>Exceptional problem solving skills to be able to debug complex cross-domain problems (RTL, implementation, software tools, IT) being relatively independent.</li></ul><p style="text-align:inherit"></p><p style="text-align:inherit"></p><h2><b>Qualifications:</b></h2><p>Minimum Qualification</p><ul><li>Bachelor's +10 years experience or Master's degree +5 years experience in relevant fields of engineering.</li><li>5+ years experience in <span style="overflow-wrap: break-word; display: inline; text-decoration: inherit; hyphens: auto;">programming/scripting</span> skills in Perl or Python or C/C++</li></ul><p></p><p>Preferred Qualifications</p><ul><li>5+ years of experience with one of the following: Hardware description languages (Verilog, System Verilog) and RTL/Validation tools (VCS, Questasim etc) (or) Software engineering, Dev-Ops, machine-learning, &nbsp;Design implementation methodologies and tools such as Fusion Compiler, Innovus, Primetime, Primepower, ICV and more.</li><li>Knowledge of VLSI physical and logical design as well as VLSI Design Automation tools.</li></ul><p style="text-align:inherit"></p><p style="text-align:inherit">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p style="text-align:inherit"></p><p style="text-align:inherit"></p><h2>Job Type:</h2>Experienced Hire<p style="text-align:inherit"></p><p style="text-align:inherit"></p><h2>Shift:</h2>Shift 1 (United States of America)<p style="text-align:inherit"></p><p style="text-align:inherit"></p><h2>Primary Location:&nbsp;</h2>US, Texas, Austin<p style="text-align:inherit"></p><p style="text-align:inherit"></p><h2>Additional Locations:</h2>US, Oregon, Hillsboro<p style="text-align:inherit"></p><p style="text-align:inherit"></p><p style="text-align:inherit"></p><p style="text-align:inherit"></p><h2>Business group:</h2>The Silicon Engineering Group (SIG) is a worldwide organization focused on the development and integration of SOCs, Cores, and critical IPs from architecture to manufacturing readiness that power Intel’s leadership products. This business group leverages an incomparable mix of experts with different backgrounds, cultures, perspectives, and experiences to unleash the most innovative, amazing, and exciting computing experiences.<p style="text-align:inherit"></p><p style="text-align:inherit"></p><h2>Posting Statement:</h2>All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.<h2></h2><h2>Position of Trust</h2>This role is a Position of Trust. Should you accept this position, you must consent to and pass an extended Background Investigation, which includes (subject to country law), extended education, SEC sanctions, and additional criminal and civil checks. For internals, this investigation may or may not be completed prior to starting the position. For additional questions, please contact your Recruiter.<p></p><p><b>Benefits:</b></p><p></p><p>We <span>offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock, bonuses, as well as, benefit programs which include health, retirement, and vacation. &nbsp;Find more information about all of our Amazing Benefits here:</span></p><p><span><a href="https://intel.wd1.myworkdayjobs.com/External/page/1025c144664a100150b4b1665c750003" target="_blank" rel="noopener noreferrer"><span style="overflow-wrap: break-word; display: inline; text-decoration: inherit; hyphens: auto;">https://intel.wd1.myworkdayjobs.com/External/page/1025c144664a100150b4b1665c750003</span></a></span></p><p>&nbsp;</p><p>&nbsp;</p>Annual Salary Range for jobs which could be performed in the US:<p>&nbsp;</p><p>&nbsp;</p><span style="overflow-wrap: break-word; display: inline; text-decoration: inherit; hyphens: auto;">$186,070.00-349,850.00</span> USD<p>&nbsp;</p><p>&nbsp;</p>The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific compensation range for your preferred location during the hiring process.<p>&nbsp;</p><p>&nbsp;</p><p style="text-align:inherit"></p><p style="text-align:left"><b>Work Model for this Role</b></p>This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. * Job posting details (such as work model, location or time type) are subject to change.</div></div></div></div></div></div></div></div></section></div></div></div></div></div></div><div data-automation-id="footerContainer" class="css-3zv1wr"><span data-automation-id="followUs" class="css-1o650q6">Follow Us</span><ul width="142" class="css-1eewome"><li class="css-utmdtn"><a data-automation-id="socialIcon" aria-label="Facebook" color="#4967A9" href="https://www.facebook.com/weareIntel/" target="_blank" title="Facebook" class="css-p53pkg"><span class="css-6jorun"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-facebook wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M9.956 22v-9.123H7V9.322h2.956V6.7c0-3.043 1.79-4.7 4.403-4.7 1.251 0 2.327.097 2.641.14v3.18h-1.813c-1.421 0-1.696.702-1.696 1.732v2.27h3.39l-.442 3.555h-2.948V22H9.956z" class="wd-icon-fill"></path></g></svg></span></a></li><li class="css-utmdtn"><a data-automation-id="socialIcon" aria-label="LinkedIn" color="#0065A1" href="https://www.linkedin.com/company/intel-corporation/" target="_blank" title="LinkedIn" class="css-1grx23u"><span class="css-6jorun"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-linkedin wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M5.933 4a1.93 1.93 0 0 1 1.93 1.925 1.93 1.93 0 0 1-1.93 1.926A1.928 1.928 0 0 1 4 5.925C4 4.863 4.862 4 5.933 4zM4.265 20h3.334V9.313H4.265V20zm5.35-10.757h3.193v1.46h.046c.444-.84 1.531-1.726 3.152-1.726 3.37 0 3.994 2.212 3.994 5.09v5.863h-3.329v-5.197c0-1.24-.024-2.834-1.73-2.834-1.735 0-1.999 1.35-1.999 2.744v5.287H9.615V9.243" class="wd-icon-fill"></path></g></svg></span></a></li><li class="css-utmdtn"><a data-automation-id="socialIcon" aria-label="X" color="#000000" href="https://x.com/intel" target="_blank" title="X" class="css-18ngpul"><span class="css-6jorun"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-social-media-x wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g class="wd-icon-container"><path d="M17.176 4h2.76l-6.03 6.777L21 20h-5.554l-4.35-5.593L6.116 20H3.355l6.45-7.25L3 4h5.695l3.933 5.113L17.176 4zm-.969 14.375h1.53L7.864 5.54h-1.64l9.983 12.836z" class="wd-icon-fill"></path></g></svg></span></a></li><li class="css-utmdtn"><a data-automation-id="socialIcon" aria-label="YouTube" color="#E52D27" href="https://www.youtube.com/c/Intel" target="_blank" title="YouTube" class="css-82o3bx"><span class="css-5kb8qz"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="wd-icon-youtube wd-icon" focusable="false" role="presentation" viewBox="0 0 24 24"><g fill-rule="evenodd" class="wd-icon-container"><path d="M12.29 5.012c.625.003 2.166.014 3.81.064l.495.016c.828.028 1.661.067 2.397.12.39.047 1.243.05 2.003.843.6.603.795 1.974.795 1.974l.008.072c.038.33.191 1.739.191 3.147v1.509c0 1.408-.153 2.817-.19 3.147l-.01.072s-.195 1.37-.794 1.974c-.76.792-1.612.796-2.003.843-.736.052-1.57.092-2.398.121l-.495.017a157.31 157.31 0 0 1-3.899.068h-.25c-.275-.002-1.795-.018-3.37-.055l-.497-.013c-1.16-.03-2.28-.073-2.885-.13-.445-.084-1.443-.059-2.204-.85-.532-.537-.746-1.68-.787-1.927l-.007-.048-.004-.033A29.922 29.922 0 0 1 2 12.757v-1.509c0-1.61.2-3.219.2-3.219l.007-.048c.041-.247.255-1.39.787-1.926.76-.792 1.612-.796 2.003-.843 2.356-.169 5.703-.196 6.701-.2zM9.93 8.997l.001 5.588 5.4-2.784L9.93 8.997z" class="wd-icon-background"></path><path d="M9.93 14.585l5.401-2.784L9.93 8.997v5.588" class="wd-icon-fill"></path><path d="M14.666 12.144L9.93 8.997l5.401 2.804-.665.343" class="wd-icon-accent"></path></g></svg></span></a></li></ul><div class="css-1ekqnzv"><a title="Intel Privacy Notice &amp; Legal Statements" aria-label="Intel Privacy Notice &amp; Legal Statements" href="https://intel.wd1.myworkdayjobs.com/External/page/4dedd87578ee1001e7387a43f2e80000" target="_blank" data-automation-id="privacyLink" class="css-ldauis">Intel Privacy Notice &amp; Legal Statements</a></div><div data-automation-id="logo" class="css-twynnl"><div class="css-1lekzkb"><span class="css-1vfpfxb"></span><div><svg aria-hidden="true" width="47px" height="30px" viewBox="0 0 47 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient x1="49.9994233%" y1="-32.7374591%" x2="49.9994233%" y2="195.513825%" id="linearGradient-1"><stop stop-color="#FFCD56" offset="14.06%"></stop><stop stop-color="#E29900" offset="100%"></stop></linearGradient></defs><g id="Homepage-(WIP-UX-ONLY)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Homepage-v1" transform="translate(-517.000000, -685.000000)"><g id="Footer" transform="translate(154.000000, 685.000000)"><g id="powered-by-workday-copy" transform="translate(363.000000, 0.000000)"><path d="M46.4277678,21.0559232 C46.4277678,17.779072 44.1873404,14.9284317 41.0562512,13.8614839 C41.5643263,12.7121353 41.8489707,11.420006 41.8489707,10.0994627 C41.8489707,4.6553293 37.0926535,0.22770881 31.2291305,0.22770881 C26.7061911,0.22770881 22.8550739,2.8489056 21.3239621,6.54912622 C19.6107391,4.72352304 17.0917886,3.56067774 14.281307,3.56067774 C9.11409172,3.56067774 4.92629824,7.44558973 4.92629824,12.2404619 C4.92629824,12.8371571 4.99286831,13.4175142 5.11606122,13.9822436 C2.25278272,15.1628477 0.251089364,18.0965991 0.251089364,21.1944417 C0.251089364,25.3592322 3.86194217,29.0608735 8.33667564,29.0608735 L38.1478275,29.0608735 C42.6654107,29.0615839 46.4277678,25.2533898 46.4277678,21.0559232 Z" id="Shape-1" fill="#FFFFFF"></path><g id="workday-logo" transform="translate(3.000000, 9.000000)"><g id="Layer_8"><g id="Group"><g transform="translate(0.776699, 0.117092)" id="Shape-2"><path d="M5.7638835,13.6283623 C5.73048544,13.7311107 5.65242718,13.7950431 5.50834951,13.7950431 L4.69514563,13.7950431 C4.5615534,13.7950431 4.49475728,13.7585103 4.46135922,13.6283623 L3.69165049,10.8149585 C3.61281553,10.5280241 3.58019417,10.1980875 3.53553398,9.86738982 C3.50135922,10.1980875 3.45747573,10.5379184 3.38097087,10.8149585 L2.61087379,13.6283623 C2.58873786,13.7311107 2.50019417,13.7950431 2.35456311,13.7950431 L1.52932039,13.7950431 C1.39572816,13.7950431 1.32970874,13.7585103 1.29631068,13.6283623 L0.170485437,9.58197756 C0.137864078,9.44307692 0.226796117,9.36049764 0.349514563,9.36049764 L0.87223301,9.36049764 C1.01708738,9.36049764 1.09514563,9.40654415 1.12854369,9.54468369 L1.8423301,12.4330558 C1.91961165,12.7645146 1.94252427,13.1051065 1.97592233,13.4171573 C2.03223301,13.1146203 2.0768932,12.7550008 2.16543689,12.4425695 L2.95728155,9.5355505 C2.99067961,9.41681899 3.09009709,9.36011709 3.22446602,9.36011709 L3.86990291,9.36011709 C4.00271845,9.36011709 4.11572816,9.42481054 4.14912621,9.54430314 L4.95067961,12.442189 C5.04,12.7542397 5.08427184,13.1043454 5.12893204,13.4167767 C5.17281553,13.1142397 5.21825243,12.7546203 5.28427184,12.442189 L5.94174757,9.53516995 C5.9638835,9.41643845 6.07533981,9.35973654 6.21009709,9.35973654 L6.69941748,9.35973654 C6.82135922,9.35973654 6.91184466,9.43318263 6.8776699,9.57170272 L5.7638835,13.6283623 L5.7638835,13.6283623 Z" fill="#2367AE"></path><path d="M10.1227184,13.8357619 C8.83029126,13.8357619 7.98291262,12.9662059 7.98291262,11.5486583 C7.98291262,10.141005 8.83029126,9.28552935 10.1227184,9.28552935 C11.416699,9.28552935 12.2396117,10.141005 12.2396117,11.5486583 C12.24,12.9662059 11.416699,13.8357619 10.1227184,13.8357619 L10.1227184,13.8357619 Z M10.1009709,9.90240039 C9.33242718,9.90240039 8.90873786,10.4443031 8.90873786,11.5486583 C8.90873786,12.6807936 9.33281553,13.2284046 10.1009709,13.2284046 C10.8691262,13.2284046 11.2924272,12.6807936 11.2924272,11.5486583 C11.2924272,10.4443031 10.8691262,9.90240039 10.1009709,9.90240039 L10.1009709,9.90240039 Z" fill="#2367AE"></path><path d="M16.398835,9.98574077 C16.3654369,10.1136055 16.2652427,10.1961847 16.0757282,10.1501382 C15.9196117,10.1136055 15.6636893,10.0496731 15.4516505,10.0496731 C15.1285437,10.0496731 14.6947573,10.4092926 14.6947573,11.209208 L14.6947573,13.6112376 C14.6947573,13.7117027 14.5840777,13.7946625 14.4598058,13.7946625 L14.0372816,13.7946625 C13.9145631,13.7946625 13.8027184,13.7113222 13.8027184,13.6112376 L13.8027184,9.54506424 C13.8027184,9.43432428 13.9141748,9.36087819 14.0372816,9.36087819 L14.2935922,9.36087819 C14.4050485,9.36087819 14.4932039,9.4069247 14.5281553,9.49901773 L14.6842718,9.99563506 C14.9953398,9.56371117 15.4186408,9.2859099 15.9304854,9.2859099 C16.287767,9.2859099 16.5669903,9.42404944 16.5106796,9.60937713 L16.398835,9.98574077 L16.398835,9.98574077 Z" fill="#2367AE"></path><path d="M26.5778641,13.756227 L26.3440777,13.756227 C26.1770874,13.756227 26.0885437,13.7006668 26.0535922,13.572041 L25.9646602,13.2025272 C25.6423301,13.6546203 25.2403883,13.828912 24.6617476,13.828912 C23.5141748,13.828912 22.911068,13.0602017 22.911068,11.5707302 C22.911068,10.6600748 23.0679612,10.2091234 23.4458252,9.78557164 C23.7363107,9.46362661 24.2163107,9.2889543 24.6951456,9.2889543 C25.2403883,9.2889543 25.6532039,9.50967312 25.9429126,9.94159701 L25.9429126,7.43986339 C25.9429126,7.32912343 26.0535922,7.25643845 26.1774757,7.25643845 L26.5778641,7.25643845 C26.7005825,7.25643845 26.8124272,7.32912343 26.8124272,7.43986339 L26.8124272,13.5716604 C26.8120388,13.6728866 26.7005825,13.756227 26.5778641,13.756227 L26.5778641,13.756227 Z M24.8846602,9.8963116 C24.5502913,9.8963116 24.2939806,10.0150431 24.1382524,10.2544088 C23.9813592,10.4945357 23.8590291,10.8884046 23.8590291,11.5612165 C23.8590291,12.7386372 24.1724272,13.2215547 24.8730097,13.2215547 C25.5972816,13.2215547 25.9646602,12.6834575 25.9646602,11.5798634 C25.9646602,10.485022 25.5634951,9.8963116 24.8846602,9.8963116 L24.8846602,9.8963116 Z" fill="#2367AE"></path><path d="M21.5126214,13.7969458 L20.8330097,13.7969458 C20.7215534,13.7969458 20.6318447,13.7330135 20.5658252,13.6401594 L18.8493204,11.5056562 L18.8493204,13.6127598 C18.8493204,13.7147471 18.7394175,13.7969458 18.6163107,13.7969458 L18.2143689,13.7969458 C18.0924272,13.7969458 17.9805825,13.7143666 17.9805825,13.6127598 L17.9805825,7.46764352 C17.9805825,7.35690356 18.0920388,7.28421857 18.2143689,7.28421857 L18.6163107,7.28421857 C18.7390291,7.28421857 18.8493204,7.35690356 18.8493204,7.46764352 L18.8493204,11.4226964 L20.6182524,9.50130102 C20.6737864,9.42861604 20.7623301,9.36316149 20.9079612,9.36316149 L21.5087379,9.36316149 C21.6656311,9.36316149 21.7203883,9.49178728 21.6314563,9.58388031 L19.7518447,11.4322101 L21.6345631,13.5758465 C21.7141748,13.6679395 21.6687379,13.7969458 21.5126214,13.7969458 L21.5126214,13.7969458 Z" fill="#2367AE"></path><path d="M33.3724272,9.54506424 C33.3254369,9.44459912 33.4431068,9.36278094 33.5735922,9.36278094 L34.0970874,9.36278094 C34.2372816,9.36278094 34.3429126,9.42671329 34.3906796,9.54506424 L35.4275728,12.2252757 C35.4753398,12.3523792 35.5223301,12.541893 35.5452427,12.6884046 C35.5809709,12.5517873 35.6512621,12.2884469 35.7332039,12.0620198 L36.5662136,9.5355505 C36.6019417,9.41719954 36.7079612,9.36316149 36.8493204,9.36316149 L37.3553398,9.36316149 C37.4850485,9.36316149 37.5902913,9.44497967 37.5557282,9.54544479 L35.8271845,14.4107725 C35.6504854,14.9100537 35.3091262,15.3012587 34.721165,15.5189332 L34.4745631,15.6087429 C34.3697087,15.6452757 34.2279612,15.6174955 34.168932,15.5284469 L34.0050485,15.2734786 C33.9572816,15.2007936 34.015534,15.0558042 34.1227184,15.0185103 L34.2986408,14.9553391 C34.7386408,14.7985526 35.0609709,14.3274321 35.201165,13.7273053 L33.3724272,9.54506424 L33.3724272,9.54506424 Z" fill="#2367AE"></path><path d="M11.2574757,7.44671329 C12.7343689,4.05221012 16.1704854,1.6714913 20.1743689,1.6714913 C24.1790291,1.6714913 27.6159223,4.05221012 29.0920388,7.44747439 L29.0920388,7.44671329 C29.1763107,7.67694584 29.4023301,7.84134331 29.6664078,7.84134331 C30.0031068,7.84134331 30.2761165,7.57381688 30.2761165,7.24388031 C30.2761165,7.16358432 30.2640777,7.08785494 30.2337864,7.01783379 L30.2337864,7.01707269 C28.5685437,3.18874289 24.6897087,0.505487071 20.1743689,0.505487071 C15.6590291,0.505487071 11.7840777,3.18798179 10.1168932,7.0140283 C10.0866019,7.08404944 10.0745631,7.16358432 10.0745631,7.24388031 C10.0745631,7.57381688 10.3467961,7.84134331 10.6834951,7.84134331 C10.9479612,7.84134331 11.1658252,7.67922914 11.2574757,7.44671329 L11.2574757,7.44671329 Z" fill="url(#linearGradient-1)"></path><path d="M30.3891262,9.28781265 C29.0951456,9.28781265 28.3374757,10.1455716 28.3374757,11.553986 C28.3374757,12.9749585 29.1141748,13.8239649 30.3231068,13.8239649 L30.3246602,13.8239649 C30.8450485,13.8239649 31.1801942,13.6485315 31.5040777,13.1960579 L31.5914563,13.5766076 C31.6248544,13.7059945 31.7149515,13.7607936 31.881165,13.7607936 L32.1161165,13.7607936 C32.238835,13.7607936 32.3506796,13.6782143 32.3506796,13.5766076 L32.3530097,11.5429501 C32.3530097,10.1330135 31.6846602,9.28781265 30.3891262,9.28781265 L30.3891262,9.28781265 Z M30.367767,13.2135632 C29.5972816,13.2135632 29.2648544,12.6887852 29.2648544,11.553986 C29.2648544,10.4488697 29.5968932,9.90620589 30.367767,9.90620589 C31.1374757,9.90620589 31.4994175,10.4488697 31.4994175,11.553986 C31.4994175,12.6887852 31.1378641,13.2135632 30.367767,13.2135632 L30.367767,13.2135632 Z" fill="#2367AE"></path><path d="M38.1514563,12.6191446 C38.2256311,12.6503497 38.2924272,12.694874 38.3502913,12.752337 C38.4066019,12.8086583 38.4497087,12.8725907 38.4792233,12.9426118 C38.5079612,13.0145357 38.5231068,13.0898845 38.5231068,13.1709416 C38.5231068,13.2527598 38.5079612,13.3277281 38.4761165,13.4000325 C38.4466019,13.4734786 38.4027184,13.5358888 38.3440777,13.5918296 C38.2850485,13.6473898 38.2190291,13.6907725 38.1452427,13.7219776 C38.072233,13.7508993 37.9941748,13.7657408 37.9137864,13.7657408 C37.8341748,13.7657408 37.7561165,13.7493771 37.6807767,13.7196943 C37.607767,13.6892503 37.5405825,13.6424427 37.4827184,13.5849797 C37.4252427,13.5294194 37.3825243,13.4654871 37.3537864,13.3954659 C37.3242718,13.323542 37.3075728,13.2489543 37.3075728,13.1709416 C37.3075728,13.1172841 37.3172816,13.0640072 37.3297087,13.0118718 C37.3456311,12.9612587 37.3669903,12.9091234 37.3972816,12.8604131 C37.4528155,12.7713644 37.5238835,12.7005822 37.6143689,12.649208 C37.7060194,12.5985949 37.8046602,12.5742397 37.9137864,12.5742397 C37.9984466,12.5738592 38.0765049,12.5894617 38.1514563,12.6191446 L38.1514563,12.6191446 Z M37.7231068,12.7074321 C37.663301,12.7306456 37.6093204,12.7667979 37.5631068,12.8128444 C37.5137864,12.859652 37.4757282,12.9159733 37.4493204,12.978764 C37.4229126,13.0388909 37.408932,13.1028232 37.408932,13.1690389 C37.408932,13.2337323 37.4209709,13.2984258 37.4454369,13.3577915 C37.4702913,13.4156351 37.5075728,13.4700537 37.5545631,13.5161002 C37.6031068,13.5636689 37.6586408,13.6009628 37.72,13.6276012 C37.7829126,13.6542397 37.8466019,13.667559 37.9141748,13.667559 C37.9801942,13.667559 38.0438835,13.6542397 38.104466,13.6287429 C38.1681553,13.6043877 38.2236893,13.5678549 38.2737864,13.5202862 C38.3207767,13.476523 38.3580583,13.4243877 38.3852427,13.3634998 C38.408932,13.3048951 38.4225243,13.2417239 38.4225243,13.1785526 C38.4225243,13.1070093 38.4112621,13.0419353 38.3860194,12.9806668 C38.3631068,12.9228232 38.3262136,12.8676435 38.2792233,12.8200748 C38.2306796,12.771745 38.1759223,12.73369 38.1145631,12.7085738 C38.0524272,12.6849797 37.9864078,12.6712799 37.9165049,12.6712799 C37.8466019,12.6712799 37.7829126,12.683838 37.7231068,12.7074321 L37.7231068,12.7074321 Z M37.927767,12.8280664 C38.0225243,12.8280664 38.095534,12.84443 38.1448544,12.8756351 C38.191068,12.9076012 38.215534,12.9536477 38.215534,13.0175801 C38.215534,13.0628655 38.2034951,13.0978761 38.176699,13.1290812 C38.1502913,13.1610473 38.1145631,13.1812165 38.0699029,13.1930135 L38.2194175,13.4879395 L38.0365049,13.4879395 L37.9083495,13.2181298 L37.8271845,13.2181298 L37.8271845,13.4879395 L37.663301,13.4879395 L37.663301,12.8280664 L37.927767,12.8280664 L37.927767,12.8280664 Z M37.8267961,13.1207091 L37.9079612,13.1207091 C37.9557282,13.1207091 37.9906796,13.1119564 38.0128155,13.0974955 C38.0349515,13.0830346 38.0462136,13.0602017 38.0462136,13.0267133 C38.0462136,12.9947471 38.0349515,12.9696308 38.0120388,12.9532672 C37.9864078,12.9369036 37.9499029,12.9296731 37.8998058,12.9296731 L37.8267961,12.9296731 L37.8267961,13.1207091 L37.8267961,13.1207091 Z" fill="#2367AE"></path></g></g></g></g></g></g></g></g></svg></div><span class="css-1vfpfxb"></span></div><div class="css-1h61b0m">© 2025 Workday, Inc. All rights reserved.</div></div></div></div></div></div>
+
+<div id="zapply-floating-ribbon" style="position: fixed; top: 50%; transform: translateY(-50%); right: 0px; width: 60px; height: 60px; z-index: 2147483647; transition: right 0.3s cubic-bezier(0.4, 0, 0.2, 1);">
+      <div class="zapply-ribbon-container">
+        <div class="zapply-close-btn">×</div>
+        <div class="zapply-ribbon-content">
+          <div class="zapply-logo">
+            <img src="chrome-extension://biikbgomkodicnlkhfmhapagodnjkljn/ui/assets/Zapply_Icon_Orange.svg" alt="Zapply">
+          </div>
+          <div class="zapply-text">Z</div>
+        </div>
+        <div class="zapply-ribbon-handle">
+          <svg width="12" height="20" viewBox="0 0 12 20" fill="none">
+            <circle cx="3" cy="5" r="1" fill="currentColor" opacity="0.4"></circle>
+            <circle cx="9" cy="5" r="1" fill="currentColor" opacity="0.4"></circle>
+            <circle cx="3" cy="10" r="1" fill="currentColor" opacity="0.4"></circle>
+            <circle cx="9" cy="10" r="1" fill="currentColor" opacity="0.4"></circle>
+            <circle cx="3" cy="15" r="1" fill="currentColor" opacity="0.4"></circle>
+            <circle cx="9" cy="15" r="1" fill="currentColor" opacity="0.4"></circle>
+          </svg>
+        </div>
+      </div>
+    </div></body></html>

@@ -404,7 +404,9 @@ async function processJobs() {
         const seenIds = loadSeenJobsStore();
         
         // Fetch jobs from both API and real career pages
-        const allJobs = await fetchAllRealJobs();
+        // Reduced from 10 to 3 pages to improve performance (70% faster)
+        // Most new jobs appear in first 3 pages, and we run hourly anyway
+        const allJobs = await fetchAllRealJobs('hardware engineering', 3);
         const usJobs = allJobs.filter(isUSOnlyJob);
         const currentJobs = usJobs.filter(j => !isJobOlderThanWeek(j.job_posted_at_datetime_utc));
         
