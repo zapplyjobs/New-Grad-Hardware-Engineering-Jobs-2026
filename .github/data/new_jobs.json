@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Intern - Data Center SSD Firmware",
+    "job_city": "Longmont",
+    "job_state": "Colorado",
+    "job_posted_at": "19 hours",
+    "job_description": "• Currently pursuing a Bachelor's degree or equivalent experience in Electrical Engineering, Computer Engineering, or a related field.\n• Previous internship or project experience in firmware or software development.\n• Strong problem-solving skills and attention to detail.\n• Experience with SSD technology or storage systems.\n• Ability to meet project timelines and work with precision.\n• Familiarity with development tools such as Git and JIRA.\n• Knowledge of scripting languages like Python.\n• Intern - Hardware Validation EngineerBoise, Idaho, United States of AmericaPosted 9 days ago Principal Engineer - SSD Firmware ValidationBengaluru, Karnataka, IndiaPosted 22 days ago Principal Engineer , SSD FirmwareBengaluru, Karnataka, India + 2 morePosted a month ago.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38429491",
+    "id": "micron-technology-intern-data-center-ssd-firmware-longmont"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Intern: Product Test Development Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "19 hours",
+    "job_description": "• Intermediate to advanced programming capability [C++ or Python] Excellent communication and interpersonal skills Basic R/L/C circuit knowledge Less than 2 years Intern: Product Test Development EngineerBoise, Idaho, United States of AmericaPosted 19 hours ago HIG HBM PE Principal Component Validation EngineerSingapore, SingaporePosted 2 months ago Intern - Product Development EngineerSingapore, SingaporePosted a month ago Senior Test Solutions EngineerSanand, Gujarat, IndiaPosted 8 months ago.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38429485",
+    "id": "micron-technology-intern-product-test-development-engineer-boise"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "MTS Memory Sustaining Design Engineer, HBM",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "3 days",
+    "job_description": "• Good verbal and written communication skills with the ability to efficiently synthesize and convey sophisticated technical concepts to other team members and leadership.\n• Parasitic modeling and assisting in design validation, reticle experiments, and required tape-out revisions.\n• Experience with schematic entry, digital (Verilog) and analog (FastSpice & Hspice) modeling and simulations.\n• Extensive knowledge with DRAM operation and JEDEC specifications, preferably with the HBM product family.\n• Collaborate with layout teams to meet floorplanning, placement, and routing requirements.\n• Prior experience with package technologies (TSV, hybrid bonding, interposers, etc).\n• Engage with various teams like Product Engineering, Test, Probe, Process Integration, Packaging, Technology Development and Marketing to ensure performance & manufacturability, to support issues with current HBM designs and find opportunities to innovate on future HBM solutions.\n• In depth technical expertise in one or more areas - memory array design, high-speed clocking and interface development, logic and custom circuit design, power delivery optimization, 3D packaging technologies.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38271360",
+    "id": "micron-technology-mts-memory-sustaining-design-engineer-hbm-richardson"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Hardware Engineer",
+    "job_city": "USA VA Fort Eustis - Fort Eustis (VAC001)",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Fort-Eustis---Fort-Eustis-VAC001/Hardware-Engineer_RQ208481-1?q=hardware+engineering",
+    "id": "general-dynamics-hardware-engineer-usa-va-fort-eustis-fort-eustis-vac001"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Kubernetes Platform Engineer",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "1 day",
+    "job_description": "• Minimum QualificationsMinimum requirement of BS + 10 years of relevant industry experienceExperience in Kubernetes architecture, administration, and security.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200623799-0157/kubernetes-platform-engineer?team=HRDWR",
+    "id": "apple-kubernetes-platform-engineer-austin"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Silicon Prototyping Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "Today",
+    "job_description": "• Minimum QualificationsBS (EE or CS) required and 0 years of experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200624624-0836/silicon-prototyping-engineer?team=HRDWR",
+    "id": "apple-silicon-prototyping-engineer-cupertino"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Hardware Development Engineer AWS AI & ML, Accelerator Servers",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Hardware Development Engineer AWS AI & ML, Accelerator Servers",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3103434/hardware-development-engineer-aws-ai-ml-accelerator-servers",
+    "id": "amazon-hardware-development-engineer-aws-ai-ml-accelerator-servers-seattle"
+  }
+]
