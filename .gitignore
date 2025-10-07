@@ -11,8 +11,9 @@ node_modules/
 # Temporary files
 *.tmp
 *.temp
-Code_Before.txt
-Code_After.txt
+# Keep docs folder but ignore temporary test files in root
+/Code_Before.txt
+/Code_After.txt
 
 # Logs
 logs/
