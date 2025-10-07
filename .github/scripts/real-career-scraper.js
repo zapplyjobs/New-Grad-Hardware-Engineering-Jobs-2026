@@ -478,23 +478,94 @@ async function fetchSimplifyJobsData() {
 // Fetch jobs from all companies with real career APIs
 
 async function fetchAllRealJobs(searchQuery = 'hardware engineering', maxPages = 10, batchConfig = BATCH_CONFIG) {
-  console.log("🚀 Starting REAL career page scraping...");
+  console.log("🚀 Starting optimized job fetching pipeline...");
 
   let allJobs = [];
+  const processedJobIds = new Set(); // Track all processed job IDs
+
+  // ===== PHASE 1: API-BASED COMPANIES (NO PUPPETEER) =====
+  console.log('\n📡 PHASE 1: Fetching from API-based companies (no browser needed)...');
+  const companiesWithAPIs = Object.keys(CAREER_APIS);
+  console.log(`   Found ${companiesWithAPIs.length} companies with direct API access`);
+
+  let apiJobsCollected = 0;
+  const apiStartTime = Date.now();
+
+  for (const company of companiesWithAPIs) {
+    try {
+      const jobs = await fetchCompanyJobs(company);
+      if (jobs && jobs.length > 0) {
+        const transformedAPIJobs = transformJobs(jobs, searchQuery);
+
+        // Filter duplicates
+        const newAPIJobs = transformedAPIJobs.filter(job => {
+          const jobId = generateJobId(job);
+          if (processedJobIds.has(jobId)) {
+            return false;
+          }
+          processedJobIds.add(jobId);
+          return true;
+        });
+
+        allJobs.push(...newAPIJobs);
+        apiJobsCollected += newAPIJobs.length;
+        console.log(`   ✅ ${company}: ${newAPIJobs.length} jobs`);
+      }
+
+      await delay(1000); // Shorter delay for API calls
+    } catch (apiError) {
+      console.error(`   ❌ ${company} failed: ${apiError.message}`);
+    }
+  }
+
+  const apiDuration = ((Date.now() - apiStartTime) / 1000).toFixed(1);
+  console.log(`✅ Phase 1 Complete: ${apiJobsCollected} jobs in ${apiDuration}s\n`);
+
+  // ===== PHASE 2: EXTERNAL SOURCES =====
+  console.log('📡 PHASE 2: Fetching from external sources...');
+  let externalJobsCollected = 0;
+  try {
+    const externalJobs = await fetchSimplifyJobsData();
+    if (externalJobs && externalJobs.length > 0) {
+      const transformedExternalJobs = transformJobs(externalJobs, searchQuery);
+
+      const newExternalJobs = transformedExternalJobs.filter(job => {
+        const jobId = generateJobId(job);
+        if (processedJobIds.has(jobId)) {
+          return false;
+        }
+        processedJobIds.add(jobId);
+        return true;
+      });
+
+      allJobs.push(...newExternalJobs);
+      externalJobsCollected = newExternalJobs.length;
+      console.log(`✅ Phase 2 Complete: ${newExternalJobs.length} external jobs\n`);
+    }
+  } catch (externalError) {
+    console.error('❌ External sources failed:', externalError.message);
+  }
+
+  // ===== PHASE 3: PUPPETEER-BASED SCRAPING =====
+  console.log("🌐 PHASE 3: Starting Puppeteer-based scraping...");
+
   const companies = getCompanies(searchQuery);
   const companyKeys = Object.keys(companies);
 
-  // Add execution tracking to prevent loops
-  const executionId = Date.now();
-  console.log(`🔍 Execution ID: ${executionId}`);
+  // Filter out companies that already have APIs
+  const scrapingCompanies = companyKeys.filter(key =>
+    !companiesWithAPIs.includes(companies[key].name)
+  );
+
+  console.log(`   ${scrapingCompanies.length} companies need Puppeteer scraping`);
+  console.log(`   ${companiesWithAPIs.length} companies already processed via API`);
 
   // Define scraper configurations for batch processing
-  const scraperConfigs = companyKeys.map(companyKey => ({
+  const scraperConfigs = scrapingCompanies.map(companyKey => ({
     name: companies[companyKey].name,
     companyKey: companyKey,
     scraper: () => scrapeCompanyData(companyKey, searchQuery, maxPages),
-    query: searchQuery,
-    executionId // Add execution ID to track this run
+    query: searchQuery
   }));
 
   // Enhanced batch processing function with comprehensive tracking and error handling
@@ -758,14 +829,12 @@ async function fetchAllRealJobs(searchQuery = 'hardware engineering', maxPages =
   const batchResults = await processScrapersInBatches(scraperConfigs, batchConfig);
   
   // Collect all jobs from successful scrapers and transform immediately
-  const processedJobIds = new Set(); // Track processed job IDs to prevent duplicates
-  
   batchResults.forEach(result => {
     if (result.success && result.jobs && result.jobs.length > 0) {
       try {
         const transformedJobs = transformJobs(result.jobs, searchQuery);
         console.log(`🔄 Transforming ${result.jobs.length} jobs from ${result.name}`);
-        
+
         // Filter out already processed jobs
         const newJobs = transformedJobs.filter(job => {
           const jobId = generateJobId(job);
@@ -775,7 +844,7 @@ async function fetchAllRealJobs(searchQuery = 'hardware engineering', maxPages =
           processedJobIds.add(jobId);
           return true;
         });
-        
+
         if (newJobs.length > 0) {
           allJobs.push(...newJobs);
           console.log(`✅ Added ${newJobs.length} new jobs from ${result.name} (${transformedJobs.length - newJobs.length} duplicates filtered)`);
@@ -790,7 +859,12 @@ async function fetchAllRealJobs(searchQuery = 'hardware engineering', maxPages =
     }
   });
 
-  console.log(`📊 Total jobs collected after transformation: ${allJobs.length}`);
+  const puppeteerJobsCount = allJobs.length - apiJobsCollected - externalJobsCollected;
+  console.log(`📊 Phase 3 Complete: ${puppeteerJobsCount} jobs from Puppeteer scrapers`);
+
+  // ===== FINAL PROCESSING =====
+  console.log('\n🔧 FINAL PROCESSING...');
+  console.log(`📊 Total jobs collected: ${allJobs.length}`);
 
   // Early exit if no jobs found
   if (allJobs.length === 0) {
@@ -815,38 +889,6 @@ async function fetchAllRealJobs(searchQuery = 'hardware engineering', maxPages =
     console.log(`⚠️ No jobs remaining after level filtering. Exiting.`);
     return [];
   }
-
-  // Commented out API and external jobs to prevent additional loops
-  // Uncomment these sections only if needed and ensure they don't cause loops
-  /*
-  // Get companies with APIs and fetch their jobs
-  const companiesWithAPIs = Object.keys(CAREER_APIS);
-  
-  // Fetch real jobs from companies with APIs
-  for (const company of companiesWithAPIs) {
-    try {
-      const jobs = await fetchCompanyJobs(company);
-      const transformedAPIJobs = transformJobs(jobs, searchQuery);
-      processedJobs.push(...transformedAPIJobs);
-      console.log(`✅ Added ${transformedAPIJobs.length} jobs from ${company} API`);
-
-      // Be respectful with rate limiting
-      await delay(2000);
-    } catch (apiError) {
-      console.error(`❌ Error fetching jobs from ${company} API:`, apiError.message);
-    }
-  }
-
-  // Fetch jobs from external sources
-  try {
-    const externalJobs = await fetchSimplifyJobsData();
-    const transformedExternalJobs = transformJobs(externalJobs, searchQuery);
-    processedJobs.push(...transformedExternalJobs);
-    console.log(`✅ Added ${transformedExternalJobs.length} external jobs`);
-  } catch (externalError) {
-    console.error('❌ Error fetching external jobs:', externalError.message);
-  }
-  */
 
   // Filter for US-only jobs
   const removedJobs = [];
