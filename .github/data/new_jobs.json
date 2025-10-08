@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Communcations Engineer",
-    "job_city": "USA VA Hampton",
-    "job_state": "US",
-    "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Hampton/Communcations-Engineer_RQ208352-1?q=hardware+engineering",
-    "id": "general-dynamics-communcations-engineer-usa-va-hampton"
+    "employer_name": "AI Jobs",
+    "job_title": "Software Engineer, AI Data Platform",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Design, build, and maintain data infrastructure and networking systems that connect structured and unstructured data to LLMs in a performant and reliable mannerDesign, build, and maintain secure and compliant systems to process sensitive and valuable dataEnsure our data platform can scale by orders of magnitude while remaining reliable and efficientIntegrate data access and authentication with our production model and agent systemsCollaborate with product, research and forward-deployed engineering teams to fill in the full picture on how to deploy production systems and achieve world-class results on overall task capabilitiesOwn the reliability of the systems you build, including participation in an on-call rotation for critical incidents Have expertise in deploying, configuring, and operating software systems within customer-managed infrastructure and networksAre excited to bring the power of AGI to the infrastructure the world runs on todayAre comfortable with ambiguity and rapid changeHave an intrinsic desire to learn and fill in missing skills, and an equally strong talent for sharing learnings clearly and concisely with others.",
+    "job_apply_link": "https://www.aijobs.com/jobs/166365909-software-engineer-ai-data-platform",
+    "id": "ai-jobs-software-engineer-ai-data-platform-san-francisco"
   },
   {
-    "employer_name": "Meta",
-    "job_title": "Data Center Production Operations Engineer",
-    "job_city": "Papillion",
-    "job_state": "NE +2 locations",
+    "employer_name": "Arm",
+    "job_title": "Intern Technical Writer",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Data Center Production Operations Engineer",
-    "job_apply_link": "https://www.metacareers.com",
-    "id": "meta-data-center-production-operations-engineer-papillion"
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/intern-technical-writer/33099/87019647104",
+    "id": "arm-intern-technical-writer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Technical Writer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-technical-writer/33099/87019647088",
+    "id": "arm-graduate-technical-writer-austin"
   }
 ]
