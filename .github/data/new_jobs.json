@@ -1,32 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Technical Support Engineer",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Technical Support Engineer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63081&source=WEB_Search_NA",
-    "id": "ibm-technical-support-engineer-poughkeepsie"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Systems Engineer / Lab FAE",
-    "job_city": "USA AZ Fort Huachuca",
-    "job_state": "US",
+    "employer_name": "Intel",
+    "job_title": "DevOps and Validation Engineer",
+    "job_city": "US",
+    "job_state": "Oregon",
     "job_posted_at": "Posted Today",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-AZ-Fort-Huachuca/Systems-Engineer---Lab-FAE_RQ208490-1?q=hardware+engineering",
-    "id": "general-dynamics-systems-engineer-lab-fae-usa-az-fort-huachuca"
+    "job_description": "hardware engineering job for the role DevOps and Validation Engineer",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/DevOps-and-Validation-Engineer_JR0277658?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-devops-and-validation-engineer-us"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Mechatronics Engineer, Android Camera and Media",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "hardware engineering job for the role Mechatronics Engineer, Android Camera and Media",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/110161433458549446-mechatronics-engineer-android-camera-and-media?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2",
-    "id": "google-mechatronics-engineer-android-camera-and-media-mountain-view"
+    "employer_name": "Magna International",
+    "job_title": "Validation Engineer",
+    "job_city": "Lowell",
+    "job_state": "Massachusetts",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Senior Electrical Hardware EngineerlocationsGrand Rapids, Michigan, USposted onPosted 27 Days AgoR00210039Hardware Test EngineerlocationsLowell, Massachusetts, USposted onPosted YesterdayR00213786Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00181173eMotor Design EngineerlocationsTroy, Michigan, USposted onPosted 23 Days AgoR00198172DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 20 Days AgoR00211068Validation EngineerlocationsLowell, Massachusetts, USposted onPosted TodayR00213782Engineering TechnicianlocationsLowell, Massachusetts, USposted onPosted YesterdayR00213783Deployment Engineering ManagerlocationsTroy, Michigan, USposted onPosted 28 Days AgoR00209882Senior Software EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00199562Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00209295Sr.\n• Electrical EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164189Quality EngineerlocationsExcelsior Springs, Missouri, USposted onPosted 30 Days AgoR00209590Senior Engineer, Mechatronics SystemslocationsTroy, Michigan, USposted onPosted 16 Days AgoR00210439Controls EngineerlocationsSheffield, Ohio, USposted onPosted 30+ Days AgoR00190673Lead, Linux DevOps Support Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR00164198Principal Software Engineer – Linux/BSPlocationsSouthfield, Michigan, USposted onPosted 30+ Days AgoR00205992Senior Systems Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00166619Principal Software Engineer - Image Signal ProcessinglocationsSouthfield, Michigan, USposted onPosted 30+ Days AgoR00205993Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164195Senior Solutions Architect - Industry 4.\n• 0 , IIoTlocations2 Locationsposted onPosted 30+ Days AgoR00192135.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Validation-Engineer_R00213782?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "magna-international-validation-engineer-lowell"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Hardware Dev Engineer, Project Kuiper",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "Today",
+    "job_description": "hardware engineering job for the role Hardware Dev Engineer, Project Kuiper",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3104496/hardware-dev-engineer-project-kuiper",
+    "id": "amazon-hardware-dev-engineer-project-kuiper-redmond"
   }
 ]
