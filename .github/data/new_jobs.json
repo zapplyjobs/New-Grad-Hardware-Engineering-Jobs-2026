@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Intern",
+    "job_city": "shipAustin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Data Scientist Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63317&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-intern-shipaustin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Site Reliability Engineer",
+    "job_city": "BELLEVUE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Site Reliability Engineer 1",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63115&source=WEB_Search_NA",
+    "id": "ibm-site-reliability-engineer-bellevue"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Mixed Signal Circuit Design Engineer - Entry Level",
+    "job_city": "ROCHESTER",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "hardware engineering job for the role Mixed Signal Circuit Design Engineer - Entry Level",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA",
+    "id": "ibm-mixed-signal-circuit-design-engineer-entry-level-rochester"
+  }
+]
