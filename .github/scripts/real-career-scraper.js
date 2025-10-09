@@ -483,7 +483,8 @@ async function fetchAllRealJobs(searchQuery = 'hardware engineering', maxPages =
   let allJobs = [];
   const processedJobIds = new Set(); // Track all processed job IDs
 
-  // Pre-load seen jobs for faster duplicate detection
+  // Track job IDs for duplicate counting (not filtering)
+  // We now return ALL jobs and let job-processor.js handle filtering
   const fs = require('fs');
   const path = require('path');
   try {
@@ -491,10 +492,10 @@ async function fetchAllRealJobs(searchQuery = 'hardware engineering', maxPages =
     if (fs.existsSync(seenJobsPath)) {
       const seenJobs = JSON.parse(fs.readFileSync(seenJobsPath, 'utf8'));
       seenJobs.forEach(id => processedJobIds.add(id));
-      console.log(`📚 Pre-loaded ${processedJobIds.size} previously seen jobs for duplicate detection`);
+      console.log(`📚 Loaded ${processedJobIds.size} previously seen jobs for duplicate tracking (not filtering)`);
     }
   } catch (err) {
-    console.log(`⚠️ Could not pre-load seen jobs: ${err.message}`);
+    console.log(`⚠️ Could not load seen jobs for tracking: ${err.message}`);
   }
 
   // ===== PHASE 1: API-BASED COMPANIES (NO PUPPETEER) =====
@@ -511,19 +512,24 @@ async function fetchAllRealJobs(searchQuery = 'hardware engineering', maxPages =
       if (jobs && jobs.length > 0) {
         const transformedAPIJobs = transformJobs(jobs, searchQuery);
 
-        // Filter duplicates
-        const newAPIJobs = transformedAPIJobs.filter(job => {
+        // Track duplicates but add ALL jobs
+        let newCount = 0;
+        let dupeCount = 0;
+
+        transformedAPIJobs.forEach(job => {
           const jobId = generateJobId(job);
           if (processedJobIds.has(jobId)) {
-            return false;
+            dupeCount++;
+          } else {
+            processedJobIds.add(jobId);
+            newCount++;
           }
-          processedJobIds.add(jobId);
-          return true;
         });
 
-        allJobs.push(...newAPIJobs);
-        apiJobsCollected += newAPIJobs.length;
-        console.log(`   ✅ ${company}: ${newAPIJobs.length} jobs`);
+        // Add ALL jobs regardless of duplicate status
+        allJobs.push(...transformedAPIJobs);
+        apiJobsCollected += transformedAPIJobs.length;
+        console.log(`   ✅ ${company}: ${transformedAPIJobs.length} jobs (${newCount} new, ${dupeCount} seen)`);
       }
 
       await delay(1000); // Shorter delay for API calls
@@ -543,18 +549,24 @@ async function fetchAllRealJobs(searchQuery = 'hardware engineering', maxPages =
     if (externalJobs && externalJobs.length > 0) {
       const transformedExternalJobs = transformJobs(externalJobs, searchQuery);
 
-      const newExternalJobs = transformedExternalJobs.filter(job => {
+      // Track duplicates but add ALL jobs
+      let newCount = 0;
+      let dupeCount = 0;
+
+      transformedExternalJobs.forEach(job => {
         const jobId = generateJobId(job);
         if (processedJobIds.has(jobId)) {
-          return false;
+          dupeCount++;
+        } else {
+          processedJobIds.add(jobId);
+          newCount++;
         }
-        processedJobIds.add(jobId);
-        return true;
       });
 
-      allJobs.push(...newExternalJobs);
-      externalJobsCollected = newExternalJobs.length;
-      console.log(`✅ Phase 2 Complete: ${newExternalJobs.length} external jobs\n`);
+      // Add ALL jobs regardless of duplicate status
+      allJobs.push(...transformedExternalJobs);
+      externalJobsCollected = transformedExternalJobs.length;
+      console.log(`✅ Phase 2 Complete: ${transformedExternalJobs.length} external jobs (${newCount} new, ${dupeCount} seen)\n`);
     }
   } catch (externalError) {
     console.error('❌ External sources failed:', externalError.message);
@@ -849,22 +861,24 @@ async function fetchAllRealJobs(searchQuery = 'hardware engineering', maxPages =
         const transformedJobs = transformJobs(result.jobs, searchQuery);
         console.log(`🔄 Transforming ${result.jobs.length} jobs from ${result.name}`);
 
-        // Filter out already processed jobs
-        const newJobs = transformedJobs.filter(job => {
+        // Add ALL jobs - don't filter by seen status
+        // Track duplicates for logging but include everything
+        let newCount = 0;
+        let dupeCount = 0;
+
+        transformedJobs.forEach(job => {
           const jobId = generateJobId(job);
           if (processedJobIds.has(jobId)) {
-            return false;
+            dupeCount++;
+          } else {
+            processedJobIds.add(jobId);
+            newCount++;
           }
-          processedJobIds.add(jobId);
-          return true;
         });
 
-        if (newJobs.length > 0) {
-          allJobs.push(...newJobs);
-          console.log(`✅ Added ${newJobs.length} new jobs from ${result.name} (${transformedJobs.length - newJobs.length} duplicates filtered)`);
-        } else {
-          console.log(`⚠️ No new jobs from ${result.name} - all were duplicates`);
-        }
+        // Add ALL jobs regardless of duplicate status
+        allJobs.push(...transformedJobs);
+        console.log(`✅ Added ${transformedJobs.length} jobs from ${result.name} (${newCount} new, ${dupeCount} seen before)`)
       } catch (transformError) {
         console.error(`❌ Error transforming jobs from ${result.name}:`, transformError.message);
       }
