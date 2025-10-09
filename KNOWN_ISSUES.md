@@ -94,3 +94,23 @@ When fixing these issues:
 - Optimizations make failures faster, not more frequent
 - Priority should be on high-volume companies (HPE, etc.)
 - Consider removing description extraction for consistently failing sites
+
+## Next Session TODO
+
+1. **Fix selector issues for major companies**
+   - Hewlett Packard Enterprise (highest priority)
+   - Update other broken description selectors
+   - Test and validate selectors
+
+2. **Discord Bot Enhancements** (Already exists but could be improved)
+   - Current features: Posts new jobs, slash commands, subscriptions
+   - Potential improvements:
+     - Add more sophisticated filtering
+     - Implement job search by skills
+     - Add statistics/analytics commands
+     - Improve tag generation accuracy
+
+3. **Monitor optimization performance**
+   - Track actual runtime after optimizations
+   - Identify any new bottlenecks
+   - Fine-tune thresholds if needed
