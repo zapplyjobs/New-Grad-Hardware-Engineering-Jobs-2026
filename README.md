@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 21+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 18+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 24 hours. **Filtered for US-based positions.**
 
@@ -100,7 +100,7 @@
 | Production Support Engineer, Project Kuiper RF HW | Redmond, WA | Recently | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3042172/production-support-engineer-project-kuiper-rf-hw) |
 | Front-End Engineer, Kuiper Manufacturing Systems Engineering | Bellevue, WA | Recently | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3071620/front-end-engineer-kuiper-manufacturing-systems-engineering) |
 
-### 🔵 **IBM** (49 positions) 🏢 Top Tech
+### 🔵 **IBM** (48 positions) 🏢 Top Tech
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -145,14 +145,13 @@
 | Postdoctoral Researcher | San Jose, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) |
 | Intern 2026:  AI Hybrid Cloud Platforms Research Developer | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58807&source=WEB_Search_NA) |
 | Associate Data Scientist Intern | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57348&source=WEB_Search_NA) |
-| Supply Chain Professional - Planning, Scheduling & Inventory | United States | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60280&source=WEB_Search_NA) |
-| Entry Level Software Developer | United States | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285&source=WEB_Search_NA) |
 | Mixed Signal Circuit Design Engineer - Entry Level | ROCHESTER, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA) |
-| 2026 Platform Engineer Co-Op - Entry Level Sales Program | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57384&source=WEB_Search_NA) |
+| Entry Level Software Developer | United States | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285&source=WEB_Search_NA) |
+| Supply Chain Professional - Planning, Scheduling & Inventory | United States | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60280&source=WEB_Search_NA) |
 | Platform Engineer Intern – Entry Level Sales Program | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53603&source=WEB_Search_NA) |
+| 2026 Platform Engineer Co-Op - Entry Level Sales Program | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57384&source=WEB_Search_NA) |
 | Intern 2026: Software Engineer - Semiconductor | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59691&source=WEB_Search_NA) |
 | Software Engineer Intern - AI Accelerators Research | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63086&source=WEB_Search_NA) |
-| Intellectual Property Intern | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62958&source=WEB_Search_NA) |
 
 ### 🏢 **BAE Systems** (28 positions) 🏢 Top Tech
 
@@ -221,10 +220,10 @@
 
 ---
 
-### 📁 **More Companies** (16 companies, 141 positions)
+### 📁 **More Companies** (13 companies, 125 positions)
 
 <details>
-<summary><strong>🏢 General Dynamics</strong> (25 positions) </summary>
+<summary><strong>🏢 General Dynamics</strong> (26 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -252,7 +251,37 @@
 | Secure Wireless Engineer | 2 Locations, US | Recently | Senior | DevOps & Infrastructure | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Secure-Wireless-Eningineer_RQ198056?q=hardware+engineering) |
 | Systems and Network Engineer | USA HI Pearl Harbor, US | Recently | Senior | DevOps & Infrastructure | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-HI-Pearl-Harbor/Systems-and-Network-Engineer_RQ207743?q=hardware+engineering) |
 | Systems Engineer SME | USA VA Sterling, US | Recently | Senior | DevOps & Infrastructure | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Sterling/Systems-Engineer-SME_RQ208375?q=hardware+engineering) |
-| Systems Engineer Advisor | USA AZ Fort Huachuca, US | Recently | Senior | DevOps & Infrastructure | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-AZ-Fort-Huachuca/Systems-Engineer-Advisor_RQ206043-1?q=hardware+engineering) |
+| Systems Engineer SME | USA VA Falls Church, US | Recently | Senior | DevOps & Infrastructure | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Systems-Engineer-Expert_RQ205319-2?q=hardware+engineering) |
+| Capabilities Development Engineer | USA MD Hanover, US | Recently | Senior | DevOps & Infrastructure | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Hanover/Capabilities-Development-Engineer_RQ207029?q=hardware+engineering) |
+
+</details>
+
+<details>
+<summary><strong>🏢 Magna International</strong> (21 positions) </summary>
+
+| Role | Location | Posted | Level | Category | Apply |
+|------|----------|--------|-------|----------|-------|
+| Hardware Test Engineer | Lowell, Massachusetts | Recently | Senior | Hardware Engineering | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Hardware-Test-Engineer_R00213786?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| eMotor Design Engineer | Troy, Michigan | Recently | Senior | Hardware Engineering | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/eMotor-Design-Engineer_R00198172-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| DevOps Engineer | Lowell, Massachusetts | Recently | Senior | Hardware Engineering | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/DevOps-Engineer_R00211068?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| Validation Engineer | Lowell, Massachusetts | Recently | Senior | Hardware Engineering | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Validation-Engineer_R00213782?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| Engineering Technician | Lowell, Massachusetts | Recently | Senior | Hardware Engineering | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Engineering-Technician_R00213783?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| Controls/Automation Engineer | Troy, Michigan | Recently | Senior | Hardware Engineering | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Controls-Automation-Engineer_R00203332-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| Quality Engineer | Excelsior Springs, Missouri | Recently | Senior | Hardware Engineering | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Excelsior-Springs-Missouri-US/Quality-Engineer_R00209590?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| Controls Engineer | Sheffield, Ohio | Recently | Senior | Hardware Engineering | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Sheffield-Ohio-US/Controls-Engineer_R00190673?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| IT Technician, 1st Shift (6am-2pm) | Warren, Michigan | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Warren-Michigan-US/IT-Technician--1st-Shift--6am-2pm-_R00207707?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| Robotics Technician - Autonomous Mobile Robots | Lowell, Massachusetts | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Robotics-Technician---Autonomous-Mobile-Robots_R00182405?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| Maintenance Intern | Highland Park, Michigan | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Maintenance-Intern_R00210720?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| 1st shift Controls Technician | Bowling Green, Ohio | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Bowling-Green-Ohio-US/XMLNAME-1st-shift-Controls-Technician_R00212608?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| 2nd shift Controls Technician | Bowling Green, Ohio | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Bowling-Green-Ohio-US/XMLNAME-2nd-shift-Controls-Technician_R00212610?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| 3rd shift Controls Technician | Bowling Green, Ohio | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Bowling-Green-Ohio-US/XMLNAME-3rd-shift-Controls-Technician_R00212611?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| Production Operator - 3rd Shift | Lancaster, Ohio | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lancaster-Ohio-US/Production-Operator---3rd-Shift_R00213666?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| Maintenance Technician - OFF SHIFT | Lancaster, Ohio | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lancaster-Ohio-US/Maintenance-Technician_R00166686?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| Controls Technician - 3rd Shift | Alto, Michigan | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Alto-Michigan-US/Controls-Technician_R00198142?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| Controls Technician - 3rd Shift (11 PM - 7:30 AM) | Duncan, South Carolina | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Duncan-South-Carolina-US/Controls-Technician---3rd-Shift--11-PM---7-30-AM-_R00204483?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| Mgr, Production | Excelsior Springs, Missouri | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Excelsior-Springs-Missouri-US/Mgr--Production_R00184407?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| Technician, Maintenance | Shepherdsville, Kentucky | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Shepherdsville-Kentucky-US/Technician--Maintenance_R00189873?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
+| Maintenance Technician | Highland Park, Michigan | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Maintenance-Technician_R00210722?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
 
 </details>
 
@@ -285,50 +314,22 @@
 </details>
 
 <details>
-<summary><strong>🏢 Magna International</strong> (20 positions) </summary>
+<summary><strong>🏢 Micron Technology</strong> (12 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Hardware Test Engineer | Lowell, Massachusetts | Recently | Senior | Hardware Engineering | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Hardware-Test-Engineer_R00213786?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| eMotor Design Engineer | Troy, Michigan | Recently | Senior | Hardware Engineering | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/eMotor-Design-Engineer_R00198172-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| DevOps Engineer | Lowell, Massachusetts | Recently | Senior | Hardware Engineering | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/DevOps-Engineer_R00211068?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| Validation Engineer | Lowell, Massachusetts | Recently | Senior | Hardware Engineering | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Validation-Engineer_R00213782?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| Engineering Technician | Lowell, Massachusetts | Recently | Senior | Hardware Engineering | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Engineering-Technician_R00213783?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| Controls/Automation Engineer | Troy, Michigan | Recently | Senior | Hardware Engineering | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Controls-Automation-Engineer_R00203332-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| Quality Engineer | Excelsior Springs, Missouri | Recently | Senior | Hardware Engineering | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Excelsior-Springs-Missouri-US/Quality-Engineer_R00209590?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| Controls Engineer | Sheffield, Ohio | Recently | Senior | Hardware Engineering | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Sheffield-Ohio-US/Controls-Engineer_R00190673?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| IT Technician, 1st Shift (6am-2pm) | Warren, Michigan | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Warren-Michigan-US/IT-Technician--1st-Shift--6am-2pm-_R00207707?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| Robotics Technician - Autonomous Mobile Robots | Lowell, Massachusetts | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Robotics-Technician---Autonomous-Mobile-Robots_R00182405?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| Maintenance Intern | Highland Park, Michigan | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Maintenance-Intern_R00210720?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| 1st shift Controls Technician | Bowling Green, Ohio | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Bowling-Green-Ohio-US/XMLNAME-1st-shift-Controls-Technician_R00212608?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| 2nd shift Controls Technician | Bowling Green, Ohio | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Bowling-Green-Ohio-US/XMLNAME-2nd-shift-Controls-Technician_R00212610?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| 3rd shift Controls Technician | Bowling Green, Ohio | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Bowling-Green-Ohio-US/XMLNAME-3rd-shift-Controls-Technician_R00212611?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| Production Operator - 3rd Shift | Lancaster, Ohio | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lancaster-Ohio-US/Production-Operator---3rd-Shift_R00213666?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| Maintenance Technician - OFF SHIFT | Lancaster, Ohio | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lancaster-Ohio-US/Maintenance-Technician_R00166686?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| Controls Technician - 3rd Shift | Alto, Michigan | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Alto-Michigan-US/Controls-Technician_R00198142?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| Controls Technician - 3rd Shift (11 PM - 7:30 AM) | Duncan, South Carolina | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Duncan-South-Carolina-US/Controls-Technician---3rd-Shift--11-PM---7-30-AM-_R00204483?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| Mgr, Production | Excelsior Springs, Missouri | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Excelsior-Springs-Missouri-US/Mgr--Production_R00184407?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-| Technician, Maintenance | Shepherdsville, Kentucky | Recently | Senior | Mobile Development | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Shepherdsville-Kentucky-US/Technician--Maintenance_R00189873?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-
-</details>
-
-<details>
-<summary><strong>🔶 AMD</strong> (12 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Hardware Platform Design Engineer | US, TX | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers-amd.icims.com/jobs/71202/login) |
-| 2026 Undergrad Hardware Engineering Intern/Co-op | Multiple, US | Recently | Senior | Hardware Engineering | [Apply](https://campus-amd.icims.com/jobs/72068/login) |
-| Systems Validation Engineer | US, CA | Recently | Mid-Level | Design | [Apply](https://careers-amd.icims.com/jobs/72142/login) |
-| Hardware Validation Engineer – Infrastructure & Tooling | US, TX | Recently | Senior | Hardware Engineering | [Apply](https://careers-amd.icims.com/jobs/68057/login) |
-| Hardware Security Engineer | US, TX | Recently | Senior | Hardware Engineering | [Apply](https://careers-amd.icims.com/jobs/72488/login) |
-| CPU Design Engineer | US, CA | Recently | Senior | Machine Learning & AI | [Apply](https://careers-amd.icims.com/jobs/69351/login) |
-| Graphics Software Engineer | US, FL | Recently | Senior | Hardware Engineering | [Apply](https://careers-amd.icims.com/jobs/66418/login) |
-| System Hardware Development & Validation Engineer | US, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers-amd.icims.com/jobs/70939/login) |
-| Systems Design Engineer - AI | US, TX | Recently | Senior | Hardware Engineering | [Apply](https://careers-amd.icims.com/jobs/66737/login) |
-| Design Verification Engineer- GPU Diagnostics | US, TX | Recently | Senior | Hardware Engineering | [Apply](https://careers-amd.icims.com/jobs/58351/login) |
-| Design Verification Engineer | US, TX | Recently | Senior | Hardware Engineering | [Apply](https://careers-amd.icims.com/jobs/67993/login) |
-| C-Simulation Engineer | US, CA | Recently | Senior | Frontend Development | [Apply](https://careers-amd.icims.com/jobs/71273/login) |
+| Intern - Hardware Validation Engineer | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/38306490) |
+| Intern - Probe Engineering | Boise, Idaho | Recently | Senior | Frontend Development | [Apply](https://careers.micron.com/careers/job/30700221) |
+| Intern – Manufacturing Development Engineering – Process | Boise, Idaho | Recently | Senior | Frontend Development | [Apply](https://careers.micron.com/careers/job/38444558) |
+| CAD Design Automation Engineer, Central Engineering | Boise, Idaho | Recently | Mid-Level | Frontend Development | [Apply](https://careers.micron.com/careers/job/30948222) |
+| DRAM Product Engineer | Manassas, Virginia | Recently | Mid-Level | Frontend Development | [Apply](https://careers.micron.com/careers/job/30826027) |
+| CAD Engineer, Memory | Richardson, Texas | Recently | Mid-Level | Frontend Development | [Apply](https://careers.micron.com/careers/job/28862569) |
+| SSD Failure Analysis Engineer | Longmont, Colorado | Recently | Senior | Software Engineering | [Apply](https://careers.micron.com/careers/job/30690500) |
+| SSD Customer Validation Engineer | Longmont, Colorado | Recently | Senior | Software Engineering | [Apply](https://careers.micron.com/careers/job/29716471) |
+| Systems Design Engineer | Richardson, Texas | Recently | Mid-Level | Frontend Development | [Apply](https://careers.micron.com/careers/job/30641065) |
+| MTS Circuit Design Engineer, HSIO | Folsom, California | Recently | Senior | Frontend Development | [Apply](https://careers.micron.com/careers/job/30868369) |
+| Quality Technician | Longmont, Colorado | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/27273578) |
+| Intern - HBM Design Engineer | Richardson, Texas | Recently | Entry-Level | Frontend Development | [Apply](https://careers.micron.com/careers/job/30955842) |
 
 </details>
 
@@ -348,25 +349,6 @@
 | Internship - Sustaining Product Engineer | Leominster, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://jobs.infineon.com/careers) |
 | Internship - Modeling Engineer - Summer | Lexington, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://jobs.infineon.com/careers) |
 | Internship - Modeling Engineer - Spring | Lexington, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://jobs.infineon.com/careers) |
-
-</details>
-
-<details>
-<summary><strong>🏢 Micron Technology</strong> (11 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Intern - Hardware Validation Engineer | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/38306490) |
-| Intern - Probe Engineering | Boise, Idaho | Recently | Senior | Frontend Development | [Apply](https://careers.micron.com/careers/job/30700221) |
-| CAD Design Automation Engineer, Central Engineering | Boise, Idaho | Recently | Mid-Level | Frontend Development | [Apply](https://careers.micron.com/careers/job/30948222) |
-| DRAM Product Engineer | Manassas, Virginia | Recently | Mid-Level | Frontend Development | [Apply](https://careers.micron.com/careers/job/30826027) |
-| CAD Engineer, Memory | Richardson, Texas | Recently | Mid-Level | Frontend Development | [Apply](https://careers.micron.com/careers/job/28862569) |
-| SSD Customer Validation Engineer | Longmont, Colorado | Recently | Mid-Level | Software Engineering | [Apply](https://careers.micron.com/careers/job/29716471) |
-| SSD Failure Analysis Engineer | Longmont, Colorado | Recently | Senior | Software Engineering | [Apply](https://careers.micron.com/careers/job/30690500) |
-| Systems Design Engineer | Richardson, Texas | Recently | Senior | Design | [Apply](https://careers.micron.com/careers/job/30641065) |
-| MTS Circuit Design Engineer, HSIO | Folsom, California | Recently | Senior | Frontend Development | [Apply](https://careers.micron.com/careers/job/30868369) |
-| Quality Technician | Longmont, Colorado | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/27273578) |
-| Intern - HBM Design Engineer | Richardson, Texas | Recently | Entry-Level | Frontend Development | [Apply](https://careers.micron.com/careers/job/30955842) |
 
 </details>
 
@@ -405,25 +387,13 @@
 </details>
 
 <details>
-<summary><strong>🏢 JPMorgan Chase</strong> (5 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Infrastructure Engineer III - VMware ESXi | Tampa, FL | Recently | Senior | Hardware Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210663158/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
-| Infrastructure Engineer III - Load Balancing | Columbus, OH | Recently | Senior | Frontend Development | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664533/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
-| Quant Researcher & Developer | Boston, MA | Recently | Senior | Hardware Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210670287/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
-| Infrastructure Engineer | US | Recently | Senior | Hardware Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210665668/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
-| Infrastructure Engineer | Plano, TX | Recently | Senior | Hardware Engineering | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210665789/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) |
-
-</details>
-
-<details>
-<summary><strong>🏢 Analog Devices</strong> (4 positions) </summary>
+<summary><strong>🏢 Analog Devices</strong> (5 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Mixed Signal Engineer | US, NC | Recently | Senior | Machine Learning & AI | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Mixed-Signal-Engineer_R255204?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) |
 | System Integration Engineer | US, MA | Recently | Senior | Machine Learning & AI | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/System-Integration-Engineer_R255776-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) |
+| Embedded System Design Engineer | US, MA | Recently | Senior | Machine Learning & AI | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Embedded-System-Design-Engineer_R255777?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) |
 | Test Development Engineer | US, NC | Recently | Senior | Machine Learning & AI | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Test-Development-Engineer_R256376?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) |
 | Systems Integration Engineering Intern | 3 Locations, US | Recently | Senior | Machine Learning & AI | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Systems-Integration-Engineering-Intern_R255010?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) |
 
@@ -448,17 +418,6 @@
 | Firmware Engineer Intern - Bachelor's Degree | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Bachelor-s-Degree_2502359-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
 | Principle Application Engineer | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principle-Application-Engineer_2502590?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
 | Test Hardware Engineer | Santa Clara, CA | Recently | Senior | Hardware Engineering | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Test-Hardware-Engineer_2502222?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) |
-
-</details>
-
-<details>
-<summary><strong>🏢 RIVIAN</strong> (3 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| ML Compiler Engineer | Palo Alto, California US | Recently | Senior | Hardware Engineering | [Apply](https://us-careers-rivian.icims.com/jobs/26319/login) |
-| Security Firmware Engineer | Palo Alto, California US | Recently | Mid-Level | Security Engineering | [Apply](https://us-careers-rivian.icims.com/jobs/26527/login) |
-| Vehicle Operator II, Autonomy Systems Validation | Palo Alto, California US | Recently | Mid-Level | Frontend Development | [Apply](https://us-careers-rivian.icims.com/jobs/26722/login) |
 
 </details>
 
@@ -500,8 +459,8 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 290 
-- **🏢 Companies**: 21 elite tech companies
+- **🔥 Active Positions**: 273 
+- **🏢 Companies**: 18 elite tech companies
 - **⭐ FAANG+ Jobs**: 45 premium opportunities  
 - **📅 Last Updated**: October 9, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
@@ -532,39 +491,39 @@
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 **Entry-Level** | 82 | 28% | Perfect for new grads |
-| 🟡 **Mid-Level** | 82 | 28% | 2-5 years experience |
-| 🔴 **Senior** | 126 | 43% | 5+ years experience |
+| 🟢 **Entry-Level** | 81 | 30% | Perfect for new grads |
+| 🟡 **Mid-Level** | 77 | 28% | 2-5 years experience |
+| 🔴 **Senior** | 115 | 42% | 5+ years experience |
 
 ---
 
 ## 🔍 **Filter by Role Category**
 
-### 💻 **Hardware Engineering** (204 positions)
+### 💻 **Hardware Engineering** (189 positions)
 🔵 IBM
 
-### ☁️ **DevOps & Infrastructure** (23 positions)
+### ☁️ **DevOps & Infrastructure** (24 positions)
 🏢 BAE Systems • 🏢 General Dynamics
 
 ### 💻 **Software Engineering** (22 positions)
 🏢 Micron Technology • 🏢 BAE Systems
 
-### 🎨 **Frontend Development** (12 positions)
-🏢 Micron Technology
-
-### 📱 **Mobile Development** (12 positions)
+### 📱 **Mobile Development** (13 positions)
 🏢 Magna International
 
-### 🛡️ **Security Engineering** (7 positions)
+### 🎨 **Frontend Development** (11 positions)
+🏢 Micron Technology
+
+### 🛡️ **Security Engineering** (6 positions)
 🏢 Broadcom
 
 ### 🤖 **Machine Learning & AI** (5 positions)
 🏢 Analog Devices
 
-### 🎨 **Design** (3 positions)
-🏢 Micron Technology • 🏢 Broadcom • 🔶 AMD
-
 ### ⚙️ **Backend Development** (1 positions)
+🏢 Broadcom
+
+### 🎨 **Design** (1 positions)
 🏢 Broadcom
 
 ### 📊 **Data Science & Analytics** (1 positions)
@@ -574,14 +533,14 @@
 
 ## 🌍 **Top Locations**
 
-- **ship, US**: 21 positions
+- **ship, US**: 20 positions
 - **2 Locations, US**: 11 positions
 - **Mountain View, CA**: 11 positions
-- **US, CA**: 9 positions
 - **Sunnyvale, CA**: 9 positions
-- **US, TX**: 8 positions
 - **United States**: 7 positions
 - **3 Locations, US**: 7 positions
+- **Redmond, WA**: 7 positions
+- **POUGHKEEPSIE, US**: 6 positions
 
 ---
 
@@ -622,7 +581,7 @@ Spotted an issue or want to suggest improvements?
 
 <div align="center">
 
-**🎯 290 current opportunities from 21 elite companies**
+**🎯 273 current opportunities from 18 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
