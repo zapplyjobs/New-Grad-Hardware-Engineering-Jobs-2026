@@ -9,11 +9,11 @@ const { transformJobs } = require('../../jobboard/src/backend/output/jobTransfor
 
 // Batch processing configuration
 const BATCH_CONFIG = {
-  batchSize: 5,                    // Number of scrapers to run concurrently in each batch (8 companies)
-  delayBetweenBatches: 2000,       // Delay in milliseconds between batches (2 seconds)
-  maxRetries: 2,                   // Maximum retry attempts for failed scrapers
-  timeout: 900000,                 // Timeout for individual scrapers (3 minutes)
-  enableProgressBar: true,          // Enable progress tracking
+  batchSize: 10,                   // Increased from 5 to 10 for better parallelization
+  delayBetweenBatches: 1000,       // Reduced from 2000ms to 1000ms
+  maxRetries: 1,                   // Reduced from 2 to 1 (most failures are persistent)
+  timeout: 120000,                 // Reduced from 900000ms (15min) to 120000ms (2min)
+  enableProgressBar: true,         // Enable progress tracking
   enableDetailedLogging: true      // Enable detailed logging for each scraper
 };
 
@@ -482,6 +482,20 @@ async function fetchAllRealJobs(searchQuery = 'hardware engineering', maxPages =
 
   let allJobs = [];
   const processedJobIds = new Set(); // Track all processed job IDs
+
+  // Pre-load seen jobs for faster duplicate detection
+  const fs = require('fs');
+  const path = require('path');
+  try {
+    const seenJobsPath = path.join(process.cwd(), '.github', 'data', 'seen_jobs.json');
+    if (fs.existsSync(seenJobsPath)) {
+      const seenJobs = JSON.parse(fs.readFileSync(seenJobsPath, 'utf8'));
+      seenJobs.forEach(id => processedJobIds.add(id));
+      console.log(`📚 Pre-loaded ${processedJobIds.size} previously seen jobs for duplicate detection`);
+    }
+  } catch (err) {
+    console.log(`⚠️ Could not pre-load seen jobs: ${err.message}`);
+  }
 
   // ===== PHASE 1: API-BASED COMPANIES (NO PUPPETEER) =====
   console.log('\n📡 PHASE 1: Fetching from API-based companies (no browser needed)...');
