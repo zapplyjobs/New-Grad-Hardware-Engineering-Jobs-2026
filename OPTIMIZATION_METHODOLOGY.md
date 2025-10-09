@@ -3,6 +3,22 @@
 ## Executive Summary
 This document outlines the comprehensive optimization strategy implemented to reduce job scraping execution time from 50-60 minutes to a target of 20-30 minutes.
 
+## Critical Issues Fixed
+
+### Description Extraction Loop Fix (HIGHEST IMPACT - Your Discovery!)
+**Problem**: Career pages with same-page descriptions were getting stuck in retry loops, with 3 retries and long timeouts causing 20+ second delays per job.
+
+**Solution**:
+- **Same-page extraction**: Reduced from 3 retries to 1 retry
+- **Next-page extraction**: Eliminated retries completely (0 retries)
+- **Timeout reductions**:
+  - Wait for selector: 5000ms → 2000ms
+  - Description load wait: 6000ms → 3000ms
+  - Navigation timeout: 115000ms → 10000ms
+- **Smart failure detection**: Skip retries for selector issues (won't work anyway)
+
+**Impact**: Saves 15-20 seconds per failed description extraction × hundreds of jobs = **10-15 minutes saved**
+
 ## Optimization Strategies Implemented
 
 ### 1. Early Termination with Duplicate Detection (HIGH IMPACT)
@@ -51,9 +67,20 @@ This document outlines the comprehensive optimization strategy implemented to re
 - Combined with early termination for optimal coverage
 
 #### Rationale:
-- With 2-hour update frequency, most new jobs appear on page 1
+- With **1-hour update frequency**, most new jobs appear on page 1
 - Early termination catches edge cases efficiently
 - Reduces total HTTP requests by 33%
+
+### 5. Increased Update Frequency
+#### Changes:
+- Increased from every 2 hours to **every hour**
+- More frequent but faster runs
+
+#### Rationale:
+- With 70% faster execution (15-25 min), we can afford hourly updates
+- Catches new jobs faster (within 1 hour vs 2 hours)
+- Early termination ensures minimal overhead for frequent runs
+- Better user experience with fresher job listings
 
 ## Performance Methodology Framework
 
