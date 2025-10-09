@@ -121,7 +121,7 @@ async function scrapeWithInfiniteScroll(page, company, selector, maxPages, jobs)
     const jobData = await extractJobData(page, selector, company, scroll);
     const validJobs = processJobData(jobData);
 
-    // Check for new vs duplicate jobs
+    // Add ALL jobs to results, but track duplicates for early termination logic
     let newJobs = 0;
     for (const job of validJobs) {
       // Use consistent job ID format
@@ -129,20 +129,24 @@ async function scrapeWithInfiniteScroll(page, company, selector, maxPages, jobs)
       const titlePart = (job.title || '').toLowerCase().replace(/[^a-z0-9]+/g, '-');
       const locationPart = (job.location || job.city || '').toLowerCase().replace(/[^a-z0-9]+/g, '-');
       const jobId = `${companyPart}-${titlePart}-${locationPart}`.replace(/--+/g, '-').replace(/^-|-$/g, '');
+
+      // Track if it's new for early termination logic
       if (!seenJobIds.has(jobId)) {
         seenJobIds.add(jobId);
-        jobs.push(job);
         newJobs++;
       }
+
+      // Add ALL jobs regardless of seen status
+      jobs.push(job);
     }
 
-    console.log(`Scroll ${scroll}: Found ${newJobs} new jobs (${validJobs.length} total on page)`);
+    console.log(`Scroll ${scroll}: Added ${validJobs.length} jobs (${newJobs} are new to us)`);
 
-    // Check if we're getting new content
-    if (jobs.length === previousJobCount) {
+    // Check if we're getting new content (any new jobs added from this scroll)
+    if (validJobs.length === 0) {
       noNewJobsIterations++;
       if (noNewJobsIterations >= MAX_NO_NEW_JOBS) {
-        console.log(`🛑 Early termination: No new jobs after ${MAX_NO_NEW_JOBS} scrolls`);
+        console.log(`🛑 Early termination: No new content loaded after ${MAX_NO_NEW_JOBS} scrolls`);
         break;
       }
     } else {
@@ -245,7 +249,7 @@ async function scrapeWithTraditionalPagination(page, company, selector, searchQu
         break; // Stop pagination if no jobs found
       }
 
-      // Early termination: Check for duplicate jobs
+      // Add ALL jobs but track duplicates for early termination logic
       let newJobsOnPage = 0;
       let duplicatesOnPage = 0;
 
@@ -257,6 +261,7 @@ async function scrapeWithTraditionalPagination(page, company, selector, searchQu
         const locationPart = (job.location || job.city || '').toLowerCase().replace(/[^a-z0-9]+/g, '-');
         const jobId = `${companyPart}-${titlePart}-${locationPart}`.replace(/--+/g, '-').replace(/^-|-$/g, '');
 
+        // Track duplicates for early termination decision
         if (seenJobIds.has(jobId)) {
           duplicatesOnPage++;
           consecutiveDuplicates++;
@@ -265,11 +270,13 @@ async function scrapeWithTraditionalPagination(page, company, selector, searchQu
           seenJobIds.add(jobId);
           newJobsOnPage++;
           consecutiveDuplicates = 0; // Reset counter when we find a new job
-          jobs.push(job); // Only add new jobs
         }
+
+        // Add ALL jobs to results regardless of duplicate status
+        jobs.push(job);
       }
 
-      console.log(`  📊 Page ${pageNum} summary: ${newJobsOnPage} new, ${duplicatesOnPage} duplicates`);
+      console.log(`  📊 Page ${pageNum}: Added ${validJobs.length} jobs (${newJobsOnPage} new, ${duplicatesOnPage} seen before)`);
 
       // Early termination check - but not on first page!
       if (pageNum > 1 && consecutiveDuplicates >= DUPLICATE_THRESHOLD) {
