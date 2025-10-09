@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 18+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 20+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 24 hours. **Filtered for US-based positions.**
 
@@ -89,7 +89,6 @@
 | Hardware Dev Engineer, Project Kuiper | Redmond, WA | Recently | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3104496/hardware-dev-engineer-project-kuiper) |
 | Interdisciplinary Sys Engineer, GES NA Ops Engineering | Bellevue, WA | Recently | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3053081/interdisciplinary-sys-engineer-ges-na-ops-engineering) |
 | Software Dev Engineer, Antenna System Validation, Kuiper | Redmond, WA | Recently | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3042862/software-dev-engineer-antenna-system-validation-kuiper) |
-| Software Dev Engineer, Payload Antennas, Kuiper | Redmond, WA | Recently | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3099313/software-dev-engineer-payload-antennas-kuiper) |
 | MAC System Integration and Automation Engineer, Kuiper Satellite Communication System  - MAC Software Development | Redmond, WA | Recently | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3009920/mac-system-integration-and-automation-engineer-kuiper-satellite-communication-system-mac-software-development) |
 | Reliability Engineer, Project Kuiper | Redmond, WA | Recently | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/2926270/reliability-engineer-project-kuiper) |
 | MSP-CX QA, Mechantronics and Sustainable Packaging | Bellevue, WA | Recently | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/2930968/msp-cx-qa-mechantronics-and-sustainable-packaging) |
@@ -99,8 +98,9 @@
 | Hardware Development Engineer II, AWS Mainstream Compute | Cupertino, CA | Recently | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3089771/hardware-development-engineer-ii-aws-mainstream-compute) |
 | Production Support Engineer, Project Kuiper RF HW | Redmond, WA | Recently | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3042172/production-support-engineer-project-kuiper-rf-hw) |
 | Front-End Engineer, Kuiper Manufacturing Systems Engineering | Bellevue, WA | Recently | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3071620/front-end-engineer-kuiper-manufacturing-systems-engineering) |
+| Front-End Engineer, Manufacturing Systems Engineering, Project Kuiper | Bellevue, WA | Recently | Mid-Level | Hardware Engineering | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3079761/front-end-engineer-manufacturing-systems-engineering-project-kuiper) |
 
-### 🔵 **IBM** (48 positions) 🏢 Top Tech
+### 🔵 **IBM** (49 positions) 🏢 Top Tech
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -118,8 +118,8 @@
 | Entry Level Hardware User Experience Designer | United States | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63042&source=WEB_Search_NA) |
 | Intern 2026: Quantum Cloud Engineering | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60200&source=WEB_Search_NA) |
 | System Services Representative Austin, Texas | Austin, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59666&source=WEB_Search_NA) |
-| QA Test Developer Intern | shipPOUGHKEEPSIE, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62806&source=WEB_Search_NA) |
 | QA Test Developer Intern: | shipTUCSON, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58724&source=WEB_Search_NA) |
+| QA Test Developer Intern | shipPOUGHKEEPSIE, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62806&source=WEB_Search_NA) |
 | Z Systems Support Intern | shipPOUGHKEEPSIE, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63372&source=WEB_Search_NA) |
 | Entry Level Printed Circuit Board Supplier Development Engineer | ROCHESTER, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63050&source=WEB_Search_NA) |
 | Intern 2026: Site Reliability Engineer | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59673&source=WEB_Search_NA) |
@@ -133,8 +133,8 @@
 | Intern 2026: Quantum Network  / Security Engineer | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60905&source=WEB_Search_NA) |
 | Mainframe System Verification Tester Apprentice | POUGHKEEPSIE, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=22029&source=WEB_Search_NA) |
 | 2026 Intern: Software Engineer – AI-powered Automation | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59704&source=WEB_Search_NA) |
-| Support Engineer - HashiCorp | Austin, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA) |
 | Power Card Lab Technician Apprentice | POUGHKEEPSIE, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=19116&source=WEB_Search_NA) |
+| Support Engineer - HashiCorp | Austin, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA) |
 | Warehouse Production Operator | POUGHKEEPSIE, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59662&source=WEB_Search_NA) |
 | Intern 2026: AI Inference Optimization Engineer | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60197&source=WEB_Search_NA) |
 | Site Reliability Engineer | BELLEVUE, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63115&source=WEB_Search_NA) |
@@ -145,13 +145,14 @@
 | Postdoctoral Researcher | San Jose, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) |
 | Intern 2026:  AI Hybrid Cloud Platforms Research Developer | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58807&source=WEB_Search_NA) |
 | Associate Data Scientist Intern | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57348&source=WEB_Search_NA) |
-| Mixed Signal Circuit Design Engineer - Entry Level | ROCHESTER, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA) |
-| Entry Level Software Developer | United States | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285&source=WEB_Search_NA) |
 | Supply Chain Professional - Planning, Scheduling & Inventory | United States | Recently | Mid-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60280&source=WEB_Search_NA) |
+| Entry Level Software Developer | United States | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285&source=WEB_Search_NA) |
+| Mixed Signal Circuit Design Engineer - Entry Level | ROCHESTER, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA) |
 | Platform Engineer Intern – Entry Level Sales Program | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53603&source=WEB_Search_NA) |
 | 2026 Platform Engineer Co-Op - Entry Level Sales Program | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57384&source=WEB_Search_NA) |
 | Intern 2026: Software Engineer - Semiconductor | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59691&source=WEB_Search_NA) |
 | Software Engineer Intern - AI Accelerators Research | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63086&source=WEB_Search_NA) |
+| Intellectual Property Intern | ship, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62958&source=WEB_Search_NA) |
 
 ### 🏢 **BAE Systems** (28 positions) 🏢 Top Tech
 
@@ -220,10 +221,10 @@
 
 ---
 
-### 📁 **More Companies** (13 companies, 125 positions)
+### 📁 **More Companies** (15 companies, 145 positions)
 
 <details>
-<summary><strong>🏢 General Dynamics</strong> (26 positions) </summary>
+<summary><strong>🏢 General Dynamics</strong> (24 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -251,8 +252,6 @@
 | Secure Wireless Engineer | 2 Locations, US | Recently | Senior | DevOps & Infrastructure | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Secure-Wireless-Eningineer_RQ198056?q=hardware+engineering) |
 | Systems and Network Engineer | USA HI Pearl Harbor, US | Recently | Senior | DevOps & Infrastructure | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-HI-Pearl-Harbor/Systems-and-Network-Engineer_RQ207743?q=hardware+engineering) |
 | Systems Engineer SME | USA VA Sterling, US | Recently | Senior | DevOps & Infrastructure | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Sterling/Systems-Engineer-SME_RQ208375?q=hardware+engineering) |
-| Systems Engineer SME | USA VA Falls Church, US | Recently | Senior | DevOps & Infrastructure | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Systems-Engineer-Expert_RQ205319-2?q=hardware+engineering) |
-| Capabilities Development Engineer | USA MD Hanover, US | Recently | Senior | DevOps & Infrastructure | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Hanover/Capabilities-Development-Engineer_RQ207029?q=hardware+engineering) |
 
 </details>
 
@@ -326,10 +325,30 @@
 | CAD Engineer, Memory | Richardson, Texas | Recently | Mid-Level | Frontend Development | [Apply](https://careers.micron.com/careers/job/28862569) |
 | SSD Failure Analysis Engineer | Longmont, Colorado | Recently | Senior | Software Engineering | [Apply](https://careers.micron.com/careers/job/30690500) |
 | SSD Customer Validation Engineer | Longmont, Colorado | Recently | Senior | Software Engineering | [Apply](https://careers.micron.com/careers/job/29716471) |
-| Systems Design Engineer | Richardson, Texas | Recently | Mid-Level | Frontend Development | [Apply](https://careers.micron.com/careers/job/30641065) |
+| Systems Design Engineer | Richardson, Texas | Recently | Senior | Design | [Apply](https://careers.micron.com/careers/job/30641065) |
 | MTS Circuit Design Engineer, HSIO | Folsom, California | Recently | Senior | Frontend Development | [Apply](https://careers.micron.com/careers/job/30868369) |
 | Quality Technician | Longmont, Colorado | Recently | Senior | Hardware Engineering | [Apply](https://careers.micron.com/careers/job/27273578) |
 | Intern - HBM Design Engineer | Richardson, Texas | Recently | Entry-Level | Frontend Development | [Apply](https://careers.micron.com/careers/job/30955842) |
+
+</details>
+
+<details>
+<summary><strong>🔶 AMD</strong> (12 positions) </summary>
+
+| Role | Location | Posted | Level | Category | Apply |
+|------|----------|--------|-------|----------|-------|
+| Hardware Platform Design Engineer | US, TX | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers-amd.icims.com/jobs/71202/login) |
+| 2026 Undergrad Hardware Engineering Intern/Co-op | Multiple, US | Recently | Entry-Level | Hardware Engineering | [Apply](https://campus-amd.icims.com/jobs/72068/login) |
+| Systems Validation Engineer | US, CA | Recently | Mid-Level | Software Engineering | [Apply](https://careers-amd.icims.com/jobs/72142/login) |
+| Hardware Validation Engineer – Infrastructure & Tooling | US, TX | Recently | Senior | Hardware Engineering | [Apply](https://careers-amd.icims.com/jobs/68057/login) |
+| Hardware Security Engineer | US, TX | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers-amd.icims.com/jobs/72488/login) |
+| CPU Design Engineer | US, CA | Recently | Senior | DevOps & Infrastructure | [Apply](https://careers-amd.icims.com/jobs/69351/login) |
+| Graphics Software Engineer | US, FL | Recently | Senior | Hardware Engineering | [Apply](https://careers-amd.icims.com/jobs/66418/login) |
+| System Hardware Development & Validation Engineer | US, CA | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers-amd.icims.com/jobs/70939/login) |
+| Systems Design Engineer - AI | US, TX | Recently | Senior | Hardware Engineering | [Apply](https://careers-amd.icims.com/jobs/66737/login) |
+| Design Verification Engineer- GPU Diagnostics | US, TX | Recently | Senior | Hardware Engineering | [Apply](https://careers-amd.icims.com/jobs/58351/login) |
+| Design Verification Engineer | US, TX | Recently | Senior | Hardware Engineering | [Apply](https://careers-amd.icims.com/jobs/67993/login) |
+| C-Simulation Engineer | US, CA | Recently | Senior | Frontend Development | [Apply](https://careers-amd.icims.com/jobs/71273/login) |
 
 </details>
 
@@ -372,6 +391,24 @@
 </details>
 
 <details>
+<summary><strong>🏢 Arm</strong> (10 positions) </summary>
+
+| Role | Location | Posted | Level | Category | Apply |
+|------|----------|--------|-------|----------|-------|
+| Intern Hardware Engineer | United States | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.arm.com/job/raleigh/intern-hardware-engineer/33099/85831486368) |
+| Graduate Hardware Engineer | United States | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.arm.com/job/austin/graduate-hardware-engineer/33099/85997348720) |
+| Intern AI/ML Engineer | Austin, Texas | Recently | Entry-Level | Machine Learning & AI | [Apply](https://careers.arm.com/job/austin/intern-ai-ml-engineer/33099/86634179152) |
+| Graduate GPU Modeling Engineer | Austin, Texas | Recently | Entry-Level | Software Engineering | [Apply](https://careers.arm.com/job/austin/graduate-gpu-modeling-engineer/33099/70199981248) |
+| Isabela’s Award-Winning INROADs Internship | US | Recently | Entry-Level | Frontend Development | [Apply](https://careers.arm.com/isabelas-internship) |
+| Liana's Story | US | Recently | Entry-Level | Software Engineering | [Apply](https://careers.arm.com/why-arm-liana) |
+| Sabbatical Stories | US | Recently | Mid-Level | Hardware Engineering | [Apply](https://careers.arm.com/sabbatical-stories) |
+| Wesley’s Intern Journey | US | Recently | Entry-Level | Hardware Engineering | [Apply](https://careers.arm.com/wesley-intern-story) |
+| Graduate Systems Modeling Engineer | United States | Recently | Entry-Level | Software Engineering | [Apply](https://careers.arm.com/job/austin/graduate-systems-modeling-engineer/33099/86706351776) |
+| Intern Machine Learning Engineer | United States | Recently | Entry-Level | Machine Learning & AI | [Apply](https://careers.arm.com/job/san-jose/intern-machine-learning-engineer/33099/85831486304) |
+
+</details>
+
+<details>
 <summary><strong>🎮 NVIDIA</strong> (7 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
@@ -405,8 +442,8 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Hardware Engineer I (Intern) United States | San Jose, California | Recently | Entry-Level | Hardware Engineering | [Apply](https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-I-Intern-United-States/1447911) |
-| Hardware Engineer II (Intern) United States | San Jose, California | Recently | Entry-Level | Hardware Engineering | [Apply](https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-II-Intern-United-States/1448143) |
 | Hardware Engineer PhD (Intern) United States | San Jose, California | Recently | Entry-Level | Hardware Engineering | [Apply](https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-PhD-Intern-United-States/1448175) |
+| Hardware Engineer II (Intern) United States | San Jose, California | Recently | Entry-Level | Hardware Engineering | [Apply](https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-II-Intern-United-States/1448143) |
 
 </details>
 
@@ -459,8 +496,8 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 273 
-- **🏢 Companies**: 18 elite tech companies
+- **🔥 Active Positions**: 294 
+- **🏢 Companies**: 20 elite tech companies
 - **⭐ FAANG+ Jobs**: 45 premium opportunities  
 - **📅 Last Updated**: October 9, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
@@ -491,39 +528,39 @@
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 **Entry-Level** | 81 | 30% | Perfect for new grads |
-| 🟡 **Mid-Level** | 77 | 28% | 2-5 years experience |
-| 🔴 **Senior** | 115 | 42% | 5+ years experience |
+| 🟢 **Entry-Level** | 93 | 32% | Perfect for new grads |
+| 🟡 **Mid-Level** | 80 | 27% | 2-5 years experience |
+| 🔴 **Senior** | 121 | 41% | 5+ years experience |
 
 ---
 
 ## 🔍 **Filter by Role Category**
 
-### 💻 **Hardware Engineering** (189 positions)
+### 💻 **Hardware Engineering** (203 positions)
 🔵 IBM
 
-### ☁️ **DevOps & Infrastructure** (24 positions)
-🏢 BAE Systems • 🏢 General Dynamics
-
-### 💻 **Software Engineering** (22 positions)
+### 💻 **Software Engineering** (26 positions)
 🏢 Micron Technology • 🏢 BAE Systems
+
+### ☁️ **DevOps & Infrastructure** (23 positions)
+🏢 BAE Systems • 🏢 General Dynamics
 
 ### 📱 **Mobile Development** (13 positions)
 🏢 Magna International
 
-### 🎨 **Frontend Development** (11 positions)
+### 🎨 **Frontend Development** (12 positions)
 🏢 Micron Technology
+
+### 🤖 **Machine Learning & AI** (7 positions)
+🏢 Analog Devices
 
 ### 🛡️ **Security Engineering** (6 positions)
 🏢 Broadcom
 
-### 🤖 **Machine Learning & AI** (5 positions)
-🏢 Analog Devices
+### 🎨 **Design** (2 positions)
+🏢 Micron Technology • 🏢 Broadcom
 
 ### ⚙️ **Backend Development** (1 positions)
-🏢 Broadcom
-
-### 🎨 **Design** (1 positions)
 🏢 Broadcom
 
 ### 📊 **Data Science & Analytics** (1 positions)
@@ -533,14 +570,14 @@
 
 ## 🌍 **Top Locations**
 
-- **ship, US**: 20 positions
+- **ship, US**: 21 positions
+- **United States**: 11 positions
 - **2 Locations, US**: 11 positions
 - **Mountain View, CA**: 11 positions
+- **US, CA**: 9 positions
 - **Sunnyvale, CA**: 9 positions
-- **United States**: 7 positions
+- **US, TX**: 8 positions
 - **3 Locations, US**: 7 positions
-- **Redmond, WA**: 7 positions
-- **POUGHKEEPSIE, US**: 6 positions
 
 ---
 
@@ -581,7 +618,7 @@ Spotted an issue or want to suggest improvements?
 
 <div align="center">
 
-**🎯 273 current opportunities from 18 elite companies**
+**🎯 294 current opportunities from 20 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
