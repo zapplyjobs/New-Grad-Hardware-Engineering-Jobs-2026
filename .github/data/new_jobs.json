@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Protection Scientist Engineer, Intelligence and Investigations",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Have at least 4 years of experience doing technical analysis and detection, especially using SQL and Python.\n• Have experience in trust and safety and/or have worked closely with policy, enforcement, and engineering teams.\n• Have experience with basic data engineering, such as building core tables or writing data pipelines in production, and with machine learning principles and execution.\n• Basic software development skills are a plus as this role writes productionised code.\n• Have experience scaling and automating processes, especially with language models.\n• Scope and implement abuse monitoring requirements for new product launches.\n• An investigative mindset is key.\n• Improve processes to sustain monitoring operations for existing products, including developing approaches to automate monitoring subtasks.",
+    "job_apply_link": "https://www.aijobs.com/jobs/166472426-protection-scientist-engineer-intelligence-and-investigations",
+    "id": "ai-jobs-protection-scientist-engineer-intelligence-and-investigations-san-francisco"
+  }
+]
