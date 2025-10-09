@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 1+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 0+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 24 hours. **Filtered for US-based positions.**
 
@@ -45,13 +45,9 @@
 
 ## 🎯 **Current Opportunities** (Fresh - Less than 1 week old)
 
-### 🏢 **AI Jobs** (1 positions) 🏢 Top Tech
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Protection Scientist Engineer, Intelligence and Investigations | San Francisco, California | Recently | Mid-Level | Frontend Development | [Apply](https://www.aijobs.com/jobs/166472426-protection-scientist-engineer-intelligence-and-investigations) |
-
-
+| Company | Role | Location | Posted | Level | Category | Apply |
+|---------|------|----------|--------|-------|----------|-------|
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* | *-* |
 
 
 
@@ -59,8 +55,8 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 1 
-- **🏢 Companies**: 1 elite tech companies
+- **🔥 Active Positions**: 0 
+- **🏢 Companies**: 0 elite tech companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities  
 - **📅 Last Updated**: October 9, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
@@ -91,22 +87,21 @@
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 **Entry-Level** | 0 | 0% | Perfect for new grads |
-| 🟡 **Mid-Level** | 1 | 100% | 2-5 years experience |
-| 🔴 **Senior** | 0 | 0% | 5+ years experience |
+| 🟢 **Entry-Level** | 0 | NaN% | Perfect for new grads |
+| 🟡 **Mid-Level** | 0 | NaN% | 2-5 years experience |
+| 🔴 **Senior** | 0 | NaN% | 5+ years experience |
 
 ---
 
 ## 🔍 **Filter by Role Category**
 
-### 🎨 **Frontend Development** (1 positions)
-🏢 AI Jobs
+
 
 ---
 
 ## 🌍 **Top Locations**
 
-- **San Francisco, California**: 1 positions
+
 
 ---
 
@@ -147,7 +142,7 @@ Spotted an issue or want to suggest improvements?
 
 <div align="center">
 
-**🎯 1 current opportunities from 1 elite companies**
+**🎯 0 current opportunities from 0 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
