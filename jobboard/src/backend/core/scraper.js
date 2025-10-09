@@ -97,20 +97,24 @@ async function scrapeWithInfiniteScroll(page, company, selector, maxPages, jobs)
     const seenJobsPath = path.join(process.cwd(), '.github', 'data', 'seen_jobs.json');
     if (fs.existsSync(seenJobsPath)) {
       const allSeenJobs = JSON.parse(fs.readFileSync(seenJobsPath, 'utf8'));
+      // Use startsWith for more accurate company matching
+      const companyPrefix = company.name.toLowerCase().replace(/\s+/g, '-');
       allSeenJobs.forEach(id => {
-        if (id.toLowerCase().includes(company.name.toLowerCase().replace(/\s+/g, '-'))) {
+        if (id.toLowerCase().startsWith(companyPrefix + '-')) {
           seenJobIds.add(id);
         }
       });
+      console.log(`Loaded ${seenJobIds.size} previously seen jobs for ${company.name} (infinite scroll)`);
     }
   } catch (err) {
     // Continue without seen jobs
+    console.log(`Could not load seen jobs for ${company.name}: ${err.message}`);
   }
 
   // Modified infinite scroll with early termination
   let previousJobCount = 0;
   let noNewJobsIterations = 0;
-  const MAX_NO_NEW_JOBS = 2; // Stop after 2 scrolls with no new jobs
+  const MAX_NO_NEW_JOBS = 3; // Increased from 2 to 3 - need more scrolls with no new jobs before stopping
 
   for (let scroll = 1; scroll <= maxPages; scroll++) {
     // Extract jobs before scrolling
@@ -201,7 +205,7 @@ async function scrapeWithTraditionalPagination(page, company, selector, searchQu
   }
 
   // Early termination optimization: track duplicate jobs
-  const DUPLICATE_THRESHOLD = 3; // Stop after finding 3 duplicates in a row
+  const DUPLICATE_THRESHOLD = 10; // Increased from 3 to 10 - need more consecutive duplicates before stopping
   let consecutiveDuplicates = 0;
   const seenJobIds = new Set();
 
@@ -212,9 +216,10 @@ async function scrapeWithTraditionalPagination(page, company, selector, searchQu
     const seenJobsPath = path.join(process.cwd(), '.github', 'data', 'seen_jobs.json');
     if (fs.existsSync(seenJobsPath)) {
       const allSeenJobs = JSON.parse(fs.readFileSync(seenJobsPath, 'utf8'));
-      // Pre-populate with jobs from this company
+      // Pre-populate with jobs from this company - use startsWith for more accurate matching
+      const companyPrefix = company.name.toLowerCase().replace(/\s+/g, '-');
       allSeenJobs.forEach(id => {
-        if (id.toLowerCase().includes(company.name.toLowerCase().replace(/\s+/g, '-'))) {
+        if (id.toLowerCase().startsWith(companyPrefix + '-')) {
           seenJobIds.add(id);
         }
       });
@@ -266,15 +271,15 @@ async function scrapeWithTraditionalPagination(page, company, selector, searchQu
 
       console.log(`  📊 Page ${pageNum} summary: ${newJobsOnPage} new, ${duplicatesOnPage} duplicates`);
 
-      // Early termination check
-      if (consecutiveDuplicates >= DUPLICATE_THRESHOLD) {
+      // Early termination check - but not on first page!
+      if (pageNum > 1 && consecutiveDuplicates >= DUPLICATE_THRESHOLD) {
         console.log(`🛑 Early termination for ${company.name}: Found ${DUPLICATE_THRESHOLD}+ consecutive duplicates`);
         console.log(`  Assuming remaining pages contain older jobs. Stopping scrape.`);
         break;
       }
 
-      // Also terminate if entire page was duplicates
-      if (newJobsOnPage === 0 && duplicatesOnPage > 0) {
+      // Also terminate if entire page was duplicates - but only after page 2
+      if (pageNum > 2 && newJobsOnPage === 0 && duplicatesOnPage > 0) {
         console.log(`🛑 Early termination for ${company.name}: Entire page contained only duplicates`);
         break;
       }
