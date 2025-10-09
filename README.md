@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 1+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 0+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 24 hours. **Filtered for US-based positions.**
 
@@ -45,13 +45,9 @@
 
 ## 🎯 **Current Opportunities** (Fresh - Less than 1 week old)
 
-### 🔷 **Intel** (1 positions) 🏢 Top Tech
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Software Test Engineer | 4 Locations, US | Recently | Mid-Level | Hardware Engineering | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Test-Engineer_JR0277742?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf) |
-
-
+| Company | Role | Location | Posted | Level | Category | Apply |
+|---------|------|----------|--------|-------|----------|-------|
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* | *-* |
 
 
 
@@ -59,8 +55,8 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 1 
-- **🏢 Companies**: 1 elite tech companies
+- **🔥 Active Positions**: 0 
+- **🏢 Companies**: 0 elite tech companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities  
 - **📅 Last Updated**: October 9, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
@@ -91,22 +87,21 @@
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 **Entry-Level** | 0 | 0% | Perfect for new grads |
-| 🟡 **Mid-Level** | 1 | 100% | 2-5 years experience |
-| 🔴 **Senior** | 0 | 0% | 5+ years experience |
+| 🟢 **Entry-Level** | 0 | NaN% | Perfect for new grads |
+| 🟡 **Mid-Level** | 0 | NaN% | 2-5 years experience |
+| 🔴 **Senior** | 0 | NaN% | 5+ years experience |
 
 ---
 
 ## 🔍 **Filter by Role Category**
 
-### 💻 **Hardware Engineering** (1 positions)
-🔷 Intel
+
 
 ---
 
 ## 🌍 **Top Locations**
 
-- **4 Locations, US**: 1 positions
+
 
 ---
 
@@ -147,7 +142,7 @@ Spotted an issue or want to suggest improvements?
 
 <div align="center">
 
-**🎯 1 current opportunities from 1 elite companies**
+**🎯 0 current opportunities from 0 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
