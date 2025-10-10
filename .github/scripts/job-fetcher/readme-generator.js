@@ -100,7 +100,7 @@ function generateJobTable(jobs) {
         statusIndicator += " 🏠";
       }
 
-      output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [Apply](${applyLink}) |\n`;
+      output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | <a href="${applyLink}"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |\n`;
     });
 
     if (companyJobs.length > 50) {
@@ -667,5 +667,6 @@ module.exports = {
   generateReadme,
   updateReadme,
 };
+
 
 
