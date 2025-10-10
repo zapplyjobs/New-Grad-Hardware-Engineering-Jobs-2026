@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "Amazon",
-    "job_title": "Operations Engineer II, Total GCF Field",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_posted_at": "Today",
-    "job_description": "hardware engineering job for the role Operations Engineer II, Total GCF Field",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3106097/operations-engineer-ii-total-gcf-field",
-    "id": "amazon-operations-engineer-ii-total-gcf-field-boston"
+    "employer_name": "AMD",
+    "job_title": "System & Hardware Validation and DVT Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "• Collaborate with cross-functional engineering teams to define validation criteria, corner cases, and coverage for system qualification.\n• Drive system bring-up, debug, and qualification from EVT → DVT → PVT phases.\n• Experience in system-level hardware validation and DVT for high-performance computing or datacenter platforms.\n• Proven experience with HASS methodologies and environmental stress testing.\n• Hands-on experience with precision clock distribution validation, jitter analysis, and signal integrity verification.\n• Strong analytical, troubleshooting, and cross-disciplinary collaboration skills.\n• Knowledge of factory qualification processes, including ICT, functional test, and burn-in.\n• Background in firmware/software integration testing for large-scale systems.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/72391/login",
+    "id": "amd-system-hardware-validation-and-dvt-engineer-us"
   }
 ]
