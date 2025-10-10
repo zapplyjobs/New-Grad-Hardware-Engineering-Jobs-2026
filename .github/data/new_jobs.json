@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "System & Hardware Validation and DVT Engineer",
+    "employer_name": "Intel",
+    "job_title": "SOC Design Engineer",
     "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "• Collaborate with cross-functional engineering teams to define validation criteria, corner cases, and coverage for system qualification.\n• Drive system bring-up, debug, and qualification from EVT → DVT → PVT phases.\n• Experience in system-level hardware validation and DVT for high-performance computing or datacenter platforms.\n• Proven experience with HASS methodologies and environmental stress testing.\n• Hands-on experience with precision clock distribution validation, jitter analysis, and signal integrity verification.\n• Strong analytical, troubleshooting, and cross-disciplinary collaboration skills.\n• Knowledge of factory qualification processes, including ICT, functional test, and burn-in.\n• Background in firmware/software integration testing for large-scale systems.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/72391/login",
-    "id": "amd-system-hardware-validation-and-dvt-engineer-us"
+    "job_state": "Arizona",
+    "job_posted_at": "Posted Today",
+    "job_description": "hardware engineering job for the role SOC Design Engineer",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/SOC-Design-Engineer_JR0277667?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-soc-design-engineer-us"
   }
 ]
