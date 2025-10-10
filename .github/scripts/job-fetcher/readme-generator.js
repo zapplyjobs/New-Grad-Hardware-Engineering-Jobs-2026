@@ -152,7 +152,7 @@ function generateJobTable(jobs) {
           statusIndicator += " 🏠";
         }
 
-        output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [Apply](${applyLink}) |\n`;
+        output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [<img src="./image.png" width="100" alt="Apply">](${applyLink}) |\n`;
       });
 
       output += `\n</details>\n\n`;
@@ -179,7 +179,7 @@ function generateInternshipSection(internshipData) {
 ${internshipData.sources
   .map(
     (source) =>
-      `| **${source.name}** | ${source.type} | ${source.description} | [Visit](${source.url}) |`
+      `| **${source.name}** | ${source.type} | ${source.description} |  <a href="${source.url}"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a> |`
   )
   .join("\n")}
 
@@ -191,7 +191,7 @@ ${internshipData.companyPrograms
   .map((program) => {
     const companyObj = ALL_COMPANIES.find((c) => c.name === program.company);
     const emoji = companyObj ? companyObj.emoji : "🏢";
-    return `| ${emoji} **${program.company}** | ${program.program} | [Apply](${program.url}) | ${program.deadline} |`;
+    return `| ${emoji} **${program.company}** | ${program.program} | <a href="${program.url}"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> | ${program.deadline} |`;
   })
   .join("\n")}
 
@@ -337,10 +337,14 @@ async function generateReadme(
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 24 hours. **Filtered for US-based positions.**
 
-## 🌟 **Join Our Community**
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
+## 🌟 **Join Community**
+- Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join thousands of developers navigating their career journey together!
 
-**💬 [Job Finder & Career Hub by Zapply](https://discord.gg/yKWw28q7Yq)** - Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join thousands of developers navigating their career journey together!
+ <div align="center">
+  <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
+    <img src="./discord-button.png" width="400" alt="Join Discord - Job Finder & Career Hub by Zapply">
+  </a>
+</div>
 
 ${internshipData ? generateInternshipSection(internshipData) : ""}
 
@@ -663,3 +667,4 @@ module.exports = {
   generateReadme,
   updateReadme,
 };
+
