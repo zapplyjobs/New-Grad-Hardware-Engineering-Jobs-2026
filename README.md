@@ -143,11 +143,11 @@
 | Wells Fargo Data Center Technician | Minneapolis, US | Recently | Mid-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64467&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Intern 2026: AI Inference Optimization Engineer | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60197&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | SWE: Toward Autonomous Data Management with AI Intern | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58829&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Postdoctoral Researcher | San Jose, US | Recently | Mid-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Intern 2026:  AI Hybrid Cloud Platforms Research Developer | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58807&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Technical Content Professional Intern | shipPOUGHKEEPSIE, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60900&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Federal Data Engineer Intern: | shipWASHINGTON, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57946&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Associate Data Scientist Intern | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57348&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Technical Content Professional Intern | shipPOUGHKEEPSIE, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60900&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Postdoctoral Researcher | San Jose, US | Recently | Mid-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Intern 2026:  AI Hybrid Cloud Platforms Research Developer | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58807&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Digital Seller Intern– Entry Level Sales Program | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53587&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Digital Seller – Entry Level Sales Program | United States | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53144&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Mixed Signal Circuit Design Engineer - Entry Level | ROCHESTER, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
@@ -159,7 +159,7 @@
 | Software Engineer Intern - AI Accelerators Research | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63086&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Intellectual Property Intern | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62958&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 
-### 🏢 **AI Jobs** (23 positions) 🏢 Top Tech
+### 🏢 **AI Jobs** (22 positions) 🏢 Top Tech
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -174,26 +174,25 @@
 | Computer Vision Engineer | US | Recently | Mid-Level | Frontend Development | <a href="https://www.aijobs.com/jobs/166376402-computer-vision-engineer"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Application Engineer – Computer Vision | San Francisco, CA | Recently | Entry-Level | Hardware Engineering | <a href="https://www.aijobs.com/jobs/166248346-application-engineer-computer-vision"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Security Supply Chain Risk Analyst | San Francisco, California | Recently | Entry-Level | Hardware Engineering | <a href="https://www.aijobs.com/jobs/166365904-security-supply-chain-risk-analyst"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Computer Vision Engineer | Santa Clara, CA | Recently | Mid-Level | Hardware Engineering | <a href="https://www.aijobs.com/jobs/163135306-computer-vision-engineer"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Software Engineer, Frontier Systems | San Francisco, California | Recently | Senior | Hardware Engineering | <a href="https://www.aijobs.com/jobs/166580039-software-engineer-frontier-systems"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Software  Engineer, Platform Visualzation | San Francisco, California | Recently | Senior | Frontend Development | <a href="https://www.aijobs.com/jobs/166132204-software-engineer-platform-visualzation"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Embedded Firmware Engineer, Motor Control | Palo Alto, CA | Recently | Senior | Hardware Engineering | <a href="https://www.aijobs.com/jobs/165604056-embedded-firmware-engineer-motor-control"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Camera Software Engineer | San Francisco, California | Recently | Mid-Level | Hardware Engineering | <a href="https://www.aijobs.com/jobs/166246471-camera-software-engineer"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Embedded Software Engineer | Sunnyvale, CA | Recently | Senior | Frontend Development | <a href="https://www.aijobs.com/jobs/165806018-embedded-software-engineer"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Protection Scientist Engineer, Intelligence and Investigations | San Francisco, California | Recently | Mid-Level | Frontend Development | <a href="https://www.aijobs.com/jobs/166472426-protection-scientist-engineer-intelligence-and-investigations"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Data Engineer, Marketing | San Francisco, California | Recently | Mid-Level | Data Science & Analytics | <a href="https://www.aijobs.com/jobs/166667121-data-engineer-marketing"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| CNC Operator | Palo Alto, CA | Recently | Mid-Level | Frontend Development | <a href="https://www.aijobs.com/jobs/165789272-cnc-operator"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| System Software Engineer 🏠 | San Francisco, California | Recently | Entry-Level | Hardware Engineering | <a href="https://www.aijobs.com/jobs/166132206-system-software-engineer"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Security Engineer, Infrastructure Security | US | Recently | Mid-Level | Frontend Development | <a href="https://www.aijobs.com/jobs/166246467-security-engineer-infrastructure-security"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| System Software Engineer 🏠 | San Francisco, California | Recently | Entry-Level | Hardware Engineering | <a href="https://www.aijobs.com/jobs/166132206-system-software-engineer"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Software Engineer, Cloud Infrastructure | San Francisco, California | Recently | Mid-Level | Frontend Development | <a href="https://www.aijobs.com/jobs/165912729-software-engineer-cloud-infrastructure"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Research Scientist, Automated Synthesis | Cambridge, MA | Recently | Mid-Level | Frontend Development | <a href="https://www.aijobs.com/jobs/162645889-research-scientist-automated-synthesis"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Research Engineer, Codex | San Francisco, California | Recently | Mid-Level | Frontend Development | <a href="https://www.aijobs.com/jobs/166047341-research-engineer-codex"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Research Scientist, Automated Synthesis | Cambridge, MA | Recently | Mid-Level | Frontend Development | <a href="https://www.aijobs.com/jobs/162645889-research-scientist-automated-synthesis"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 
 ### 🏢 **Micron Technology** (13 positions) 🏢 Top Tech
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Intern - Hardware Validation Engineer | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | <a href="https://careers.micron.com/careers/job/38306490"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Intern - Probe Engineering | Boise, Idaho | Recently | Senior | Frontend Development | <a href="https://careers.micron.com/careers/job/30700221"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Intern – Manufacturing Development Engineering – Process | Boise, Idaho | Recently | Senior | Frontend Development | <a href="https://careers.micron.com/careers/job/38444558"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Intern - Probe Engineering | Boise, Idaho | Recently | Senior | Frontend Development | <a href="https://careers.micron.com/careers/job/30700221"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Intern - Design Engineering, HBM | Richardson, Texas | Recently | Senior | Frontend Development | <a href="https://careers.micron.com/careers/job/30954489"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | CAD Design Automation Engineer, Central Engineering | Boise, Idaho | Recently | Mid-Level | Frontend Development | <a href="https://careers.micron.com/careers/job/30948222"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | DRAM Product Engineer | Manassas, Virginia | Recently | Mid-Level | Frontend Development | <a href="https://careers.micron.com/careers/job/30826027"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
@@ -327,7 +326,7 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 185 
+- **🔥 Active Positions**: 184 
 - **🏢 Companies**: 12 elite tech companies
 - **⭐ FAANG+ Jobs**: 45 premium opportunities  
 - **📅 Last Updated**: October 11, 2025
@@ -359,8 +358,8 @@
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 **Entry-Level** | 73 | 39% | Perfect for new grads |
-| 🟡 **Mid-Level** | 73 | 39% | 2-5 years experience |
+| 🟢 **Entry-Level** | 73 | 40% | Perfect for new grads |
+| 🟡 **Mid-Level** | 72 | 39% | 2-5 years experience |
 | 🔴 **Senior** | 39 | 21% | 5+ years experience |
 
 ---
@@ -370,7 +369,7 @@
 ### 💻 **Hardware Engineering** (138 positions)
 🔵 IBM
 
-### 🎨 **Frontend Development** (19 positions)
+### 🎨 **Frontend Development** (18 positions)
 🏢 Micron Technology
 
 ### 🛡️ **Security Engineering** (13 positions)
@@ -443,7 +442,7 @@ Spotted an issue or want to suggest improvements?
 
 <div align="center">
 
-**🎯 185 current opportunities from 12 elite companies**
+**🎯 184 current opportunities from 12 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
