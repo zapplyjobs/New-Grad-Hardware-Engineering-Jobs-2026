@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 21+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 12+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 24 hours. **Filtered for US-based positions.**
 
@@ -102,7 +102,7 @@
 | Amazon Robotics - Hardware Engineer Co-op - January to June | North Reading, MA | Recently | Mid-Level | Hardware Engineering | <a href="https://amazon.jobs/en-gb/search/en-gb/jobs/3086487/amazon-robotics-hardware-engineer-co-op-january-to-june-2026"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Interdisciplinary Systems Engineer, Manufacturing Test Equipment Standardization, Project Kuiper | Bellevue, WA | Recently | Mid-Level | Hardware Engineering | <a href="https://amazon.jobs/en-gb/search/en-gb/jobs/3063194/interdisciplinary-systems-engineer-manufacturing-test-equipment-standardization-project-kuiper"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Hardware Development Engineer II, AWS Mainstream Compute | Cupertino, CA | Recently | Mid-Level | Hardware Engineering | <a href="https://amazon.jobs/en-gb/search/en-gb/jobs/3089771/hardware-development-engineer-ii-aws-mainstream-compute"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Production Support Engineer, Project Kuiper RF HW | Redmond, WA | Recently | Mid-Level | Hardware Engineering | <a href="https://amazon.jobs/en-gb/search/en-gb/jobs/3042172/production-support-engineer-project-kuiper-rf-hw"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Software Development Engineer, Kuiper Manufacturing Systems Engineering | Bellevue, WA | Recently | Mid-Level | Hardware Engineering | <a href="https://amazon.jobs/en-gb/search/en-gb/jobs/3069541/software-development-engineer-kuiper-manufacturing-systems-engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 
 ### 🔵 **IBM** (50 positions) 🏢 Top Tech
 
@@ -145,153 +145,21 @@
 | SWE: Toward Autonomous Data Management with AI Intern | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58829&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Postdoctoral Researcher | San Jose, US | Recently | Mid-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Intern 2026:  AI Hybrid Cloud Platforms Research Developer | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58807&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Federal Data Engineer Intern: | shipWASHINGTON, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57946&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Technical Content Professional Intern | shipPOUGHKEEPSIE, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60900&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Federal Data Engineer Intern: | shipWASHINGTON, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57946&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Associate Data Scientist Intern | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57348&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Digital Seller Intern– Entry Level Sales Program | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53587&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Digital Seller – Entry Level Sales Program | United States | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53144&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Entry Level Software Developer | United States | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Mixed Signal Circuit Design Engineer - Entry Level | ROCHESTER, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Entry Level Software Developer | United States | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Supply Chain Professional - Planning, Scheduling & Inventory | United States | Recently | Mid-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60280&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| 2026 Platform Engineer Co-Op - Entry Level Sales Program | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57384&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Platform Engineer Intern – Entry Level Sales Program | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53603&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| 2026 Platform Engineer Co-Op - Entry Level Sales Program | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57384&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Intern 2026: Software Engineer - Semiconductor | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59691&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Software Engineer Intern - AI Accelerators Research | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63086&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Intellectual Property Intern | ship, US | Recently | Entry-Level | Hardware Engineering | <a href="https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62958&source=WEB_Search_NA"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 
-### 🔷 **Intel** (29 positions) 🏢 Top Tech
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Silicon Hardware Engineering - Intern, Graduate | 5 Locations, US | Recently | Entry-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0276774?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Silicon Hardware Engineering -  Intern, Bachelors | 5 Locations, US | Recently | Entry-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering----Intern--Bachelors_JR0276780?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Platform Hardware and Systems Engineering - Intern, Graduate | 5 Locations, US | Recently | Entry-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0276770?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Platform Hardware and Systems Engineering - Intern, Bachelor’s | 5 Locations, US | Recently | Entry-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0276776?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Software Engineering - Intern, Graduate | 5 Locations, US | Recently | Entry-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0276778?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Software Engineering -  Intern, Bachelor’s | 5 Locations, US | Recently | Entry-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering----Intern--Bachelor-s_JR0276773?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Semiconductor Research, Intern Graduate | 4 Locations, US | Recently | Entry-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Semiconductor-Research--Intern-Graduate_JR0276771?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Emulation Engineer | US, Texas | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Emulation-Engineer_JR0276365?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Emulation Engineer | 4 Locations, US | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Emulation-Engineer_JR0277771?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| GPU Software Development Engineer | US, California | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0277307?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| DevOps and Validation Engineer | US, Oregon | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/DevOps-and-Validation-Engineer_JR0277658?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Triton Compiler Engineer | 3 Locations, US | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Triton-Compiler-Engineer_JR0277157?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| AI Compiler Engineer | 2 Locations, US | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Compiler-Engineer_JR0277310?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Middleware Development Engineer | 2 Locations, US | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Middleware-Development-Engineer_JR0277312?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| SOC Design Engineer | US, Arizona | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/SOC-Design-Engineer_JR0277667?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Software Application Development Engineer | US, California | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Software-Application-Development-Engineer_JR0275499?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Information Security System Officer (ISSO) | US, Arizona | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Information-Security-System-Officer--ISSO-_JR0277641?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| RTL Design Engineer | US, Texas | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/RTL-Design-Engineer_JR0276596?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| CPU Formal Verification Engineer | 3 Locations, US | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/CPU-Formal-Verification-Engineer_JR0277286?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| MES Engineer | US, Arizona | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/MES-Equipment-and-WIP-Modeler_JR0277565?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| MES Engineer | 3 Locations, US | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/MES-Equipment-and-WIP-Modeler_JR0277570?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Government Information Security Engineer | 4 Locations, US | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Government-Information-Security-Engineer_JR0276257?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| GPU Logic Design Engineer | 4 Locations, US | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/GPU-Logic-Design-Engineer_JR0275905?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Software Application Development Engineer | 2 Locations, US | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0277567-1?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| CPU CAD Design Automation Engineer | 2 Locations, US | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/CPU-CAD-Design-Automation-Engineer_JR0277654?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| IP Enablement Application Engineer | 3 Locations, US | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/IP-Enablement-Application-Engineer_JR0273988?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Power Analysis and Optimization Engineer | US, Texas | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Power-Analysis-and-Optimization-Engineer_JR0276594?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Software Test Engineer | 4 Locations, US | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Test-Engineer_JR0277742?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Clocking Design Engineer | 2 Locations, US | Recently | Mid-Level | Hardware Engineering | <a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Clocking-Design-Engineer_JR0277092-1?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-
-### 🏢 **General Dynamics** (26 positions) 🏢 Top Tech
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Hardware Engineer | USA VA Fort Eustis - Fort Eustis (VAC001), US | Recently | Senior | Hardware Engineering | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Fort-Eustis---Fort-Eustis-VAC001/Hardware-Engineer_RQ208481-1?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Hardware Engineer (Tactical Network - CANES) | Active Secret clearance | USA CA San Diego, US | Recently | Senior | Hardware Engineering | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Hardware-Engineer--Tactical-Network---CANES----Active-Secret-clearance_RQ207964-1?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Wireless Network Engineer | DEU Wiesbaden - Wiesbaden Army Airfield (APC180), US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/DEU-Wiesbaden---Wiesbaden-Army-Airfield-APC180/Wireless-Network-Engineer_RQ206169-1?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| VTC Network Engineer | DEU Grafenwoehr - US Army Garrison (APC140), US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/DEU-Grafenwoehr---US-Army-Garrison-APC140/VTC-Network-Engineer--Crestron-_RQ205461-2?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Systems Engineer | USA DC Washington, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Systems-Engineer_RQ208590?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer | USA HI Hickam AFB, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-HI-Hickam-AFB/Network-Engineer_RQ204079-1?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Engineer Associate (Tactical Network - CANES) | Active Secret clearance | USA CA San Diego, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Engineer-Associate--Tactical-Network---CANES----Active-Secret-clearance_RQ207962-1?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer SME | USA NV Las Vegas, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NV-Las-Vegas/Network-Engineer-Expert_RQ205413-2?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Windows Systems / Packaging Engineer - TS/SCI with Polygraph | USA VA Chantilly, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Windows-Systems-Packaging-Engineer---TS-SCI-with-Polygraph_RQ204673?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Field Engineer | ational, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/International/IBD-SS-BETSS-C-Field-Service-Technician-Engineer---Secret-Clearance-Required_RQ204393-1?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Systems Engineer | USA CA Livermore, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-Livermore/Systems-Engineer_RQ208537-1?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer | USA NC Fort Liberty, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Fort-Liberty/Network-Engineer_RQ206354-1?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer | USA HI Camp Smith, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-HI-Camp-Smith/Network-Engineer_RQ206972-2?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Data Engineer | USA VA McLean, US | Recently | Senior | Data Science & Analytics | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Data-Engineer---TS-SCI-w-Polygraph_RQ200909?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer Associate | USA VA Arlington, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Network-Engineer-Associate_RQ208586-1?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Systems Engineer | USA LA Bossier City, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-LA-Bossier-City/Systems-Engineer_RQ205802-1?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer | ational, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/International/Network-Engineer_RQ206158-1?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer | USA VA Springfield, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Network-Engineer_RQ207777-1?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Software Engineer | USA MD Annapolis Junction, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Engineer-Level-1_RQ204337-1?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Software Engineer SME | USA MD Annapolis Junction, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Engineer-SME_RQ207590-1?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer SME | USA VA Hampton, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Hampton/Systems-Engineer-Expert_RQ203315?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Secure Wireless Engineer | 2 Locations, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Secure-Wireless-Eningineer_RQ198056?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Systems and Network Engineer | USA HI Pearl Harbor, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-HI-Pearl-Harbor/Systems-and-Network-Engineer_RQ207743?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Systems Engineer SME | USA VA Sterling, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Sterling/Systems-Engineer-SME_RQ208375?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Systems Engineer SME | USA VA Falls Church, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Systems-Engineer-Expert_RQ205319-2?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Capabilities Development Engineer | USA MD Hanover, US | Recently | Senior | DevOps & Infrastructure | <a href="https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Hanover/Capabilities-Development-Engineer_RQ207029?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-
----
-
-### 📁 **More Companies** (16 companies, 171 positions)
-
-<details>
-<summary><strong>🏢 BAE Systems</strong> (25 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Manufacturing Engineer | 2 Locations, US | Recently | Entry-Level | Hardware Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Clearfield-UT/Manufacturing-Engineer_R0225930?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Mechanical Engineer | Panama City, FL | Recently | Entry-Level | Hardware Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Panama-City-FL/Mechanical-Engineer_R0225740?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer | Fort Meade, MD | Recently | Entry-Level | Hardware Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Network-Engineer_R0222154?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer, Mid | Fort Knox, KY | Recently | Entry-Level | Hardware Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Knox-KY/Network-Engineer--Mid_R0226623?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer, Mid | Arlington Heights, IL | Recently | Entry-Level | Hardware Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-Heights-IL/Network-Engineer--Mid_R0227266?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer, Mid | Fort Bliss, TX | Recently | Entry-Level | Hardware Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Bliss-TX/Network-Engineer--Mid_R0227381?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| FPGA Engineer, Mid | Lexington Park, MD | Recently | Entry-Level | Hardware Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/FPGA-Engineer--Mid_R0220608?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer | Doral, FL | Recently | Entry-Level | Hardware Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Doral-FL/Network-Engineer_R0226633?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Robotics Engineer | Shaw AFB, SC | Recently | Entry-Level | Hardware Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Shaw-AFB-SC/Robotics-Engineer_R0227597?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Electrical Engineer | King George, VA | Recently | Entry-Level | Hardware Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/King-George-VA/Electrical-Engineer_R0225223?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer | Keyport, WA | Recently | Entry-Level | Hardware Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Keyport-WA/Network-Engineer_R0227158?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer | Annapolis Junction, MD | Recently | Entry-Level | Hardware Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Network-Engineer_R0227928?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Electronic Engineer, Mid | Odon, IN | Recently | Entry-Level | Hardware Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Odon-IN/Electronic-Engineer--Mid_R0225646?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Electronics Engineer, Mid | Odon, IN | Recently | Entry-Level | Hardware Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Odon-IN/Electronics-Engineer--Mid_R0225648?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer | San Diego, CA | Recently | Entry-Level | Hardware Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Network-Engineer_R0227004?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer | Norfolk, VA | Recently | Senior | Software Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Network-Engineer_R0223841?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Computer Engineer | Odon, IN | Recently | Senior | Software Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Odon-IN/Computer-Engineer_R0225675?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Automation Engineer | San Diego, CA | Recently | Senior | Software Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Automation-Engineer_R0226900?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Network Engineer | College Park, MD | Recently | Senior | Software Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/College-Park-MD/Network-Engineer_R0227031?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Digital Engineer | El Segundo, CA | Recently | Senior | Software Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Digital-Engineer_R0223064?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Systems Engineer, Junior | Lexington, MA | Recently | Senior | Software Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Systems-Engineer--Junior_R0227373?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Robotics Engineer | Wharton, NJ | Recently | Senior | Software Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wharton-NJ/Robotics-Engineer_R0224046?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Electronics Engineer, Mid | Dahlgren, VA | Recently | Senior | Software Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Electronics-Engineer--Mid_R0224026?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Mechanical Engineer | Washington, DC | Recently | Senior | Software Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Mechanical-Engineer_R0227262?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Tactical Networks Systems Engineer | San Diego, CA | Recently | Senior | Software Engineering | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Tactical-Networks-Systems-Engineer_R0225154-1?q=hardware+engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-
-</details>
-
-<details>
-<summary><strong>🏢 Magna International</strong> (21 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Hardware Test Engineer | Lowell, Massachusetts | Recently | Senior | Hardware Engineering | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Hardware-Test-Engineer_R00213786?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| eMotor Design Engineer | Troy, Michigan | Recently | Senior | Hardware Engineering | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/eMotor-Design-Engineer_R00198172-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| DevOps Engineer | Lowell, Massachusetts | Recently | Senior | Hardware Engineering | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/DevOps-Engineer_R00211068?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Validation Engineer | Lowell, Massachusetts | Recently | Senior | Hardware Engineering | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Validation-Engineer_R00213782?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Engineering Technician | Lowell, Massachusetts | Recently | Senior | Hardware Engineering | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Engineering-Technician_R00213783?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Controls/Automation Engineer | Troy, Michigan | Recently | Senior | Hardware Engineering | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Controls-Automation-Engineer_R00203332-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Quality Engineer | Excelsior Springs, Missouri | Recently | Senior | Hardware Engineering | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Excelsior-Springs-Missouri-US/Quality-Engineer_R00209590?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Controls Engineer | Sheffield, Ohio | Recently | Senior | Hardware Engineering | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Sheffield-Ohio-US/Controls-Engineer_R00190673?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| IT Technician, 1st Shift (6am-2pm) | Warren, Michigan | Recently | Senior | Mobile Development | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Warren-Michigan-US/IT-Technician--1st-Shift--6am-2pm-_R00207707?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Robotics Technician - Autonomous Mobile Robots | Lowell, Massachusetts | Recently | Senior | Mobile Development | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Robotics-Technician---Autonomous-Mobile-Robots_R00182405?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Maintenance Intern | Highland Park, Michigan | Recently | Senior | Mobile Development | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Maintenance-Intern_R00210720?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| 1st shift Controls Technician | Bowling Green, Ohio | Recently | Senior | Mobile Development | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Bowling-Green-Ohio-US/XMLNAME-1st-shift-Controls-Technician_R00212608?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| 2nd shift Controls Technician | Bowling Green, Ohio | Recently | Senior | Mobile Development | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Bowling-Green-Ohio-US/XMLNAME-2nd-shift-Controls-Technician_R00212610?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| 3rd shift Controls Technician | Bowling Green, Ohio | Recently | Senior | Mobile Development | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Bowling-Green-Ohio-US/XMLNAME-3rd-shift-Controls-Technician_R00212611?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Production Operator - 3rd Shift | Lancaster, Ohio | Recently | Senior | Mobile Development | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lancaster-Ohio-US/Production-Operator---3rd-Shift_R00213666?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Maintenance Technician - OFF SHIFT | Lancaster, Ohio | Recently | Senior | Mobile Development | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lancaster-Ohio-US/Maintenance-Technician_R00166686?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Controls Technician - 3rd Shift | Alto, Michigan | Recently | Senior | Mobile Development | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Alto-Michigan-US/Controls-Technician_R00198142?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Controls Technician - 3rd Shift (11 PM - 7:30 AM) | Duncan, South Carolina | Recently | Senior | Mobile Development | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Duncan-South-Carolina-US/Controls-Technician---3rd-Shift--11-PM---7-30-AM-_R00204483?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Mgr, Production | Excelsior Springs, Missouri | Recently | Senior | Mobile Development | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Excelsior-Springs-Missouri-US/Mgr--Production_R00184407?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Technician, Maintenance | Shepherdsville, Kentucky | Recently | Senior | Mobile Development | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Shepherdsville-Kentucky-US/Technician--Maintenance_R00189873?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Maintenance Technician | Highland Park, Michigan | Recently | Senior | Mobile Development | <a href="https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Maintenance-Technician_R00210722?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-
-</details>
-
-<details>
-<summary><strong>🏢 AI Jobs</strong> (21 positions) </summary>
+### 🏢 **AI Jobs** (23 positions) 🏢 Top Tech
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -299,64 +167,35 @@
 | Manufacturing Test Software Engineer | Sunnyvale, CA | Recently | Mid-Level | Hardware Engineering | <a href="https://www.aijobs.com/jobs/165632438-manufacturing-test-software-engineer"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Hardware Reliability Technician | San Jose, CA | Recently | Mid-Level | Hardware Engineering | <a href="https://www.aijobs.com/jobs/166365700-hardware-reliability-technician"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Mechanical Engineering Internship, Prototyping | Palo Alto, CA | Recently | Entry-Level | Design | <a href="https://www.aijobs.com/jobs/166217742-mechanical-engineering-internship-prototyping"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Teleop Firmware Engineer | Sunnyvale, CA | Recently | Senior | DevOps & Infrastructure | <a href="https://www.aijobs.com/jobs/166472167-teleop-firmware-engineer"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Technical Hardware Sourcer, Consumer Products | San Francisco, California | Recently | Senior | Hardware Engineering | <a href="https://www.aijobs.com/jobs/165912726-technical-hardware-sourcer-consumer-products"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Electrical Engineering Internship, Prototyping | Palo Alto, CA | Recently | Entry-Level | Software Engineering | <a href="https://www.aijobs.com/jobs/166217743-electrical-engineering-internship-prototyping"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Hardcore Electrical Engineer | Hardware Engineering | Palo Alto, CA | Recently | Mid-Level | Hardware Engineering | <a href="https://www.aijobs.com/jobs/166649597-hardcore-electrical-engineer-|-hardware-engineering"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Computer Vision Engineer | US | Recently | Mid-Level | Frontend Development | <a href="https://www.aijobs.com/jobs/166376402-computer-vision-engineer"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Security Supply Chain Risk Analyst | San Francisco, California | Recently | Entry-Level | Hardware Engineering | <a href="https://www.aijobs.com/jobs/166365904-security-supply-chain-risk-analyst"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Application Engineer – Computer Vision | San Francisco, CA | Recently | Entry-Level | Hardware Engineering | <a href="https://www.aijobs.com/jobs/166248346-application-engineer-computer-vision"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Security Supply Chain Risk Analyst | San Francisco, California | Recently | Entry-Level | Hardware Engineering | <a href="https://www.aijobs.com/jobs/166365904-security-supply-chain-risk-analyst"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Computer Vision Engineer | Santa Clara, CA | Recently | Mid-Level | Hardware Engineering | <a href="https://www.aijobs.com/jobs/163135306-computer-vision-engineer"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Embedded Firmware Engineer, Motor Control | Palo Alto, CA | Recently | Senior | Hardware Engineering | <a href="https://www.aijobs.com/jobs/165604056-embedded-firmware-engineer-motor-control"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Software Engineer, Frontier Systems | San Francisco, California | Recently | Senior | Hardware Engineering | <a href="https://www.aijobs.com/jobs/166580039-software-engineer-frontier-systems"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Software  Engineer, Platform Visualzation | San Francisco, California | Recently | Senior | Frontend Development | <a href="https://www.aijobs.com/jobs/166132204-software-engineer-platform-visualzation"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Camera Software Engineer | San Francisco, California | Recently | Mid-Level | Hardware Engineering | <a href="https://www.aijobs.com/jobs/166246471-camera-software-engineer"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| AI/ML Engineer | Austin, TX | Recently | Entry-Level | Hardware Engineering | <a href="https://www.aijobs.com/jobs/166612696-ai-ml-engineer"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Protection Scientist Engineer, Intelligence and Investigations | San Francisco, California | Recently | Mid-Level | Frontend Development | <a href="https://www.aijobs.com/jobs/166472426-protection-scientist-engineer-intelligence-and-investigations"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Embedded Software Engineer | Sunnyvale, CA | Recently | Senior | Frontend Development | <a href="https://www.aijobs.com/jobs/165806018-embedded-software-engineer"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Data Engineer, Marketing | San Francisco, California | Recently | Mid-Level | Data Science & Analytics | <a href="https://www.aijobs.com/jobs/166667121-data-engineer-marketing"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | CNC Operator | Palo Alto, CA | Recently | Mid-Level | Frontend Development | <a href="https://www.aijobs.com/jobs/165789272-cnc-operator"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| System Software Engineer 🏠 | San Francisco, California | Recently | Entry-Level | Hardware Engineering | <a href="https://www.aijobs.com/jobs/166132206-system-software-engineer"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Security Engineer, Infrastructure Security | US | Recently | Mid-Level | Frontend Development | <a href="https://www.aijobs.com/jobs/166246467-security-engineer-infrastructure-security"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Software Engineer, Cloud Infrastructure | San Francisco, California | Recently | Mid-Level | Frontend Development | <a href="https://www.aijobs.com/jobs/165912729-software-engineer-cloud-infrastructure"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Research Scientist, Automated Synthesis | Cambridge, MA | Recently | Mid-Level | Frontend Development | <a href="https://www.aijobs.com/jobs/162645889-research-scientist-automated-synthesis"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Software Engineer, AI Tooling | Palo Alto, CA | Recently | Mid-Level | Frontend Development | <a href="https://www.aijobs.com/jobs/165604048-software-engineer-ai-tooling"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Research Engineer, Codex | San Francisco, California | Recently | Mid-Level | Frontend Development | <a href="https://www.aijobs.com/jobs/166047341-research-engineer-codex"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 
-</details>
-
-<details>
-<summary><strong>🏢 Broadcom</strong> (20 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| R&D Software Engineer - Virtual Machine Monitor | 3 Locations, US | Recently | Senior | Software Engineering | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/R-D-Software-Engineer---Virtual-Machine-Monitor_R023852?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| R&D SW Quality Engineer | USA-CO Broomfield, US | Recently | Senior | Software Engineering | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CO-Broomfield/R-D-SW-Quality-Engineer_R023441?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| R&D Engineer Hardware | USA-CA San Jose Innovation Drive, US | Recently | Senior | Hardware Engineering | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-Hardware-5_R023827?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| R&D Engineer Mechanical | USA-CA San Jose Innovation Drive, US | Recently | Senior | Software Engineering | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-Mechanical_R023829-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Maintenance Technician | USA-Pennsylvania-Breinigsville-9999 Hamilton Blvd, US | Recently | Senior | Software Engineering | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Pennsylvania-Breinigsville-9999-Hamilton-Blvd/Maintenance-Technician_R023791?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Software Engineer | USA-CA - Promontory B, US | Recently | Senior | Software Engineering | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer_R023814?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| ESX Engineer | USA-CA - Promontory B, US | Recently | Senior | Software Engineering | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/ESX-Engineer_R023801?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Software Engineer ESX CPU & Server Platform | USA-CA - Promontory B, US | Recently | Senior | Backend Development | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer-ESX-CPU---Server-Platform_R023765?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Software Engineer VMkernel | USA-CA - Promontory B, US | Recently | Senior | Software Engineering | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer-VMkernel_R023785?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Thermo Mechanical Design Engineer | USA-CA San Jose Innovation Drive, US | Recently | Senior | Design | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Thermo-Mechanical-Design-Engineer_R023609-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Technical Support Engineer Field L3 | Germany- Location, US | Recently | Senior | Software Engineering | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Germany-Remote-Location/Technical-Support-Engineer-Field-L3_R023383?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Fab Equipment Engineer | USA-Colorado-Fort Collins-4380 Ziegler Road, US | Recently | Senior | Frontend Development | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Fab-Equipment-Engineer_R023585?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| PVD Equipment Engineer | USA-Colorado-Fort Collins-4380 Ziegler Road, US | Recently | Senior | Frontend Development | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/PVD-Equipment-Engineer_R023581?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Semiconductor Equipment Maintenance Technician 🏠 | USA-Pennsylvania-Breinigsville-9999 Hamilton Blvd, US | Recently | Senior | Frontend Development | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Pennsylvania-Breinigsville-9999-Hamilton-Blvd/Semiconductor-Equipment-Maintenance-Technician_R023553?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Technical Support Engineer 3 - VCF Compute 🏠 | 2 Locations, US | Recently | Senior | Security Engineering | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CO-Broomfield/Technical-Support-Engineer-3---VCF-Compute_R023516?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Software Engineer (Performance) 🏠 | USA-CA - Promontory D, US | Recently | Senior | Security Engineering | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-D/Software-Engineer--Performance-_R023416?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| SW Engineer 🏠 | USA-CA San Jose Innovation Drive, US | Recently | Senior | Security Engineering | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/SW-Engineer_R023296?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| R & D Engineer Software 🏠 | USA-CA - Promontory D, US | Recently | Senior | Security Engineering | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-D/R---D-Engineer-Software-5_R023259?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Software Engineer 🏠 | USA-CA - Promontory D, US | Recently | Senior | Security Engineering | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-D/Software-Engineer_R023284?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| ASIC Design Engineer 🏠 | USA-CA San Jose Innovation Drive, US | Recently | Senior | Security Engineering | <a href="https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Design-Engineer_R022793?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-
-</details>
-
-<details>
-<summary><strong>🏢 Micron Technology</strong> (13 positions) </summary>
+### 🏢 **Micron Technology** (13 positions) 🏢 Top Tech
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Intern - Hardware Validation Engineer | Boise, Idaho | Recently | Entry-Level | Hardware Engineering | <a href="https://careers.micron.com/careers/job/38306490"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Intern – Manufacturing Development Engineering – Process | Boise, Idaho | Recently | Senior | Frontend Development | <a href="https://careers.micron.com/careers/job/38444558"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Intern - Probe Engineering | Boise, Idaho | Recently | Senior | Frontend Development | <a href="https://careers.micron.com/careers/job/30700221"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| CAD Design Automation Engineer, Central Engineering | Boise, Idaho | Recently | Mid-Level | Frontend Development | <a href="https://careers.micron.com/careers/job/30948222"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Intern – Manufacturing Development Engineering – Process | Boise, Idaho | Recently | Senior | Frontend Development | <a href="https://careers.micron.com/careers/job/38444558"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Intern - Design Engineering, HBM | Richardson, Texas | Recently | Senior | Frontend Development | <a href="https://careers.micron.com/careers/job/30954489"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| CAD Design Automation Engineer, Central Engineering | Boise, Idaho | Recently | Mid-Level | Frontend Development | <a href="https://careers.micron.com/careers/job/30948222"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | DRAM Product Engineer | Manassas, Virginia | Recently | Mid-Level | Frontend Development | <a href="https://careers.micron.com/careers/job/30826027"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | SSD Failure Analysis Engineer | Longmont, Colorado | Recently | Senior | Software Engineering | <a href="https://careers.micron.com/careers/job/30690500"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | SSD Customer Validation Engineer | Longmont, Colorado | Recently | Senior | Software Engineering | <a href="https://careers.micron.com/careers/job/29716471"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
@@ -366,7 +205,9 @@
 | Fab Support Equipment Maintenance Technician | Manassas, Virginia | Recently | Entry-Level | Frontend Development | <a href="https://careers.micron.com/careers/job/37974392"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 | Intern - HBM Design Engineer | Richardson, Texas | Recently | Entry-Level | Frontend Development | <a href="https://careers.micron.com/careers/job/30955842"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 
-</details>
+---
+
+### 📁 **More Companies** (7 companies, 54 positions)
 
 <details>
 <summary><strong>🔶 AMD</strong> (13 positions) </summary>
@@ -448,45 +289,6 @@
 </details>
 
 <details>
-<summary><strong>🎮 NVIDIA</strong> (7 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Post-Silicon Hardware Engineer 🏠 | US, CA | Recently | Senior | Hardware Engineering | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Post-Silicon-Hardware-Engineer_JR2003779?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Hardware Validation Engineer 🏠 | US, CA | Recently | Senior | Hardware Engineering | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Validation-Engineer_JR2000435?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| NVIDIA 2026 Internships: Hardware Engineering - US 🏠 | US, CA | Recently | Senior | Hardware Engineering | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Engineering-_JR2003200?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| NVIDIA 2026 Ignite Internships: Hardware Engineering 🏠 | US, CA | Recently | Senior | Hardware Engineering | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Ignite-Internships--Hardware-Engineering_JR2005170?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Datacenter Hardware Applications Engineer 🏠 | US, CA | Recently | Senior | Hardware Engineering | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Datacenter-Hardware-Applications-Engineer_JR1996594?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| ASIC Hardware Design Engineer - New College Grad 🏠 | US, TX | Recently | Senior | Hardware Engineering | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Hardware-Design-Engineer---New-College-Grad-2025_JR1999119?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| ASIC Design Engineer - Hardware 🏠 | US, TX | Recently | Senior | Hardware Engineering | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Engineer---Hardware_JR1993847-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-
-</details>
-
-<details>
-<summary><strong>🏢 Analog Devices</strong> (5 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Mixed Signal Engineer | US, NC | Recently | Senior | Machine Learning & AI | <a href="https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Mixed-Signal-Engineer_R255204?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| System Integration Engineer | US, MA | Recently | Senior | Machine Learning & AI | <a href="https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/System-Integration-Engineer_R255776-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Embedded System Design Engineer | US, MA | Recently | Senior | Machine Learning & AI | <a href="https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Embedded-System-Design-Engineer_R255777?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Test Development Engineer | US, NC | Recently | Senior | Machine Learning & AI | <a href="https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Test-Development-Engineer_R256376?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Systems Integration Engineering Intern | 3 Locations, US | Recently | Senior | Machine Learning & AI | <a href="https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Systems-Integration-Engineering-Intern_R255010?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-
-</details>
-
-<details>
-<summary><strong>🏢 Marvel Technology</strong> (3 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| AI/ML System Simulation Engineer | Santa Clara, CA | Recently | Senior | Hardware Engineering | <a href="https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/AI-ML-Engineer-HW-SW_2501958?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Firmware Engineer Intern - Bachelor's Degree | Santa Clara, CA | Recently | Senior | Hardware Engineering | <a href="https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Bachelor-s-Degree_2502355-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Memory Circuit Design Intern | Burlington, VT | Recently | Senior | Hardware Engineering | <a href="https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Memory-Circuit-Design-Intern_2502696-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-
-</details>
-
-<details>
 <summary><strong>🏢 RIVIAN</strong> (3 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
@@ -498,22 +300,12 @@
 </details>
 
 <details>
-<summary><strong>🏢 Guidehouse</strong> (2 positions) </summary>
+<summary><strong>🏢 Synopsys</strong> (2 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| BAS Technician | US - AL, Huntsville | Recently | Mid-Level | Hardware Engineering | <a href="https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---AL-Huntsville/BAS-Technician_32779?q=hardware+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Software Quality  Assurance Testers | 8 Locations, US | Recently | Mid-Level | Hardware Engineering | <a href="https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/Client-Office-New-Carrollton-MD/Software-Quality--Assurance-Testers_31389?q=hardware+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-
-</details>
-
-<details>
-<summary><strong>🏢 Illumina</strong> (2 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Systems Integration Engineer 🏠 | US - California - San Diego, US | Recently | Senior | Hardware Engineering | <a href="https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Systems-Integration-Engineer-1_41358-JOB-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
-| Onsite Service Engineer 🏠 | US - California - Northern -, US | Recently | Senior | Hardware Engineering | <a href="https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---Northern---Remote/Onsite-Service-Engineer-2_41170-JOB-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| Spring 2026 Co-Op - Release Management (Bachelor's) | United States Off-site, US | Recently | Senior | Design | <a href="https://careers.synopsys.com/search-jobs/job/canonsburg/spring-2026-co-op-release-management-bachelor-s/44408/87085295296"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
+| R&D Engineer | United States Off-site, US | Recently | Senior | Frontend Development | <a href="https://careers.synopsys.com/search-jobs/job/canonsburg/r-and-d-engineer/44408/87085298064"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a> |
 
 </details>
 
@@ -535,8 +327,8 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 321 
-- **🏢 Companies**: 21 elite tech companies
+- **🔥 Active Positions**: 185 
+- **🏢 Companies**: 12 elite tech companies
 - **⭐ FAANG+ Jobs**: 45 premium opportunities  
 - **📅 Last Updated**: October 11, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
@@ -567,43 +359,37 @@
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 **Entry-Level** | 95 | 30% | Perfect for new grads |
-| 🟡 **Mid-Level** | 96 | 30% | 2-5 years experience |
-| 🔴 **Senior** | 130 | 40% | 5+ years experience |
+| 🟢 **Entry-Level** | 73 | 39% | Perfect for new grads |
+| 🟡 **Mid-Level** | 73 | 39% | 2-5 years experience |
+| 🔴 **Senior** | 39 | 21% | 5+ years experience |
 
 ---
 
 ## 🔍 **Filter by Role Category**
 
-### 💻 **Hardware Engineering** (207 positions)
+### 💻 **Hardware Engineering** (138 positions)
 🔵 IBM
 
-### ☁️ **DevOps & Infrastructure** (24 positions)
-🏢 General Dynamics
-
-### 💻 **Software Engineering** (23 positions)
-🏢 Micron Technology • 🏢 BAE Systems
-
-### 🎨 **Frontend Development** (21 positions)
+### 🎨 **Frontend Development** (19 positions)
 🏢 Micron Technology
 
-### 🛡️ **Security Engineering** (19 positions)
-🏢 Broadcom
+### 🛡️ **Security Engineering** (13 positions)
+🏢 Verizon
 
-### 📱 **Mobile Development** (13 positions)
-🏢 Magna International
-
-### 🤖 **Machine Learning & AI** (8 positions)
-🏢 Analog Devices
+### 💻 **Software Engineering** (5 positions)
+🏢 Micron Technology • 🏢 AI Jobs
 
 ### 🎨 **Design** (4 positions)
-🏢 Micron Technology • 🏢 Broadcom • 🔶 AMD
+🏢 Micron Technology • 🔶 AMD • 🏢 AI Jobs
 
-### ⚙️ **Backend Development** (1 positions)
-🏢 Broadcom
+### 🤖 **Machine Learning & AI** (3 positions)
+🔶 AMD • 🏢 Arm
+
+### ☁️ **DevOps & Infrastructure** (2 positions)
+🏢 AI Jobs • 🏢 Arm
 
 ### 📊 **Data Science & Analytics** (1 positions)
-🏢 General Dynamics
+🏢 AI Jobs
 
 ---
 
@@ -611,12 +397,12 @@
 
 - **ship, US**: 21 positions
 - **Mountain View, CA**: 13 positions
+- **Sunnyvale, CA**: 12 positions
 - **United States**: 11 positions
-- **US, CA**: 10 positions
-- **Sunnyvale, CA**: 10 positions
-- **2 Locations, US**: 8 positions
-- **US, TX**: 8 positions
-- **San Francisco, California**: 8 positions
+- **San Francisco, California**: 10 positions
+- **POUGHKEEPSIE, US**: 6 positions
+- **US, TX**: 6 positions
+- **US**: 6 positions
 
 ---
 
@@ -657,7 +443,7 @@ Spotted an issue or want to suggest improvements?
 
 <div align="center">
 
-**🎯 321 current opportunities from 21 elite companies**
+**🎯 185 current opportunities from 12 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
