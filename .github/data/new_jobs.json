@@ -1,1 +1,592 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Client Engineering Designer",
+    "job_city": "Entry LevelChicago",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Client Engineering Designer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45161&source=WEB_Search_NA",
+    "id": "ibm-client-engineering-designer-entry-levelchicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist - Hardware Development",
+    "job_city": "InternshipPOUGHKEEPSIE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Data Scientist - Hardware Development",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58480&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-hardware-development-internshippoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer Intern",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Hardware Developer Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55106&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-intern-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Hardware Developer",
+    "job_city": "Entry LevelTUCSON",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Entry Level Hardware Developer 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58486&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-developer-entry-leveltucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Hardware Developer",
+    "job_city": "Entry LevelMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Entry Level Hardware Developer 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54841&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-developer-entry-levelmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Hardware Engineer - Semiconductor",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Intern 2026: Hardware Engineer - Semiconductor",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58770&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-hardware-engineer-semiconductor-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineering Intern",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Software Engineering Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57950&source=WEB_Search_NA",
+    "id": "ibm-software-engineering-intern-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Design Technician Apprentice",
+    "job_city": "Entry LevelPOUGHKEEPSIE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Hardware Design Technician Apprentice",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=21075&source=WEB_Search_NA",
+    "id": "ibm-hardware-design-technician-apprentice-entry-levelpoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Engineer - IBM Z",
+    "job_city": "Entry LevelPOUGHKEEPSIE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Product Engineer - IBM Z",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63348&source=WEB_Search_NA",
+    "id": "ibm-product-engineer-ibm-z-entry-levelpoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Data Center Engineering",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Intern 2026: Quantum Data Center Engineering",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60902&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-data-center-engineering-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Intern",
+    "job_city": "InternshipAustin",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Data Scientist Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63317&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-intern-internshipaustin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Hardware User Experience Designer",
+    "job_city": "Entry LevelMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Entry Level Hardware User Experience Designer 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63042&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-user-experience-designer-entry-levelmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Cloud Engineering",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Intern 2026: Quantum Cloud Engineering",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60200&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-cloud-engineering-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative Austin, Texas",
+    "job_city": "Entry LevelAustin",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role System Services Representative Austin, Texas",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59666&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-austin-texas-entry-levelaustin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "QA Test Developer Intern",
+    "job_city": "InternshipPOUGHKEEPSIE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role QA Test Developer Intern",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62806&source=WEB_Search_NA",
+    "id": "ibm-qa-test-developer-intern-internshippoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "QA Test Developer Intern:",
+    "job_city": "InternshipTUCSON",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role QA Test Developer Intern: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58724&source=WEB_Search_NA",
+    "id": "ibm-qa-test-developer-intern-internshiptucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Z Systems Support Intern",
+    "job_city": "InternshipPOUGHKEEPSIE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Z Systems Support Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63372&source=WEB_Search_NA",
+    "id": "ibm-z-systems-support-intern-internshippoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Printed Circuit Board Supplier Development Engineer",
+    "job_city": "Entry LevelROCHESTER",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Entry Level Printed Circuit Board Supplier Development Engineer 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63050&source=WEB_Search_NA",
+    "id": "ibm-entry-level-printed-circuit-board-supplier-development-engineer-entry-levelrochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Site Reliability Engineer",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Intern 2026: Site Reliability Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59673&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-site-reliability-engineer-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Component Engineer Accelerate ELH",
+    "job_city": "Entry LevelPOUGHKEEPSIE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Component Engineer Accelerate ELH",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63661&source=WEB_Search_NA",
+    "id": "ibm-component-engineer-accelerate-elh-entry-levelpoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist - QA Test",
+    "job_city": "InternshipAustin",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Data Scientist - QA Test",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58476&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-qa-test-internshipaustin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Firmware Developer",
+    "job_city": "Entry LevelMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Entry Level Firmware Developer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54837&source=WEB_Search_NA",
+    "id": "ibm-entry-level-firmware-developer-entry-levelmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Intern:",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Software Developer Intern: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54845&source=WEB_Search_NA",
+    "id": "ibm-software-developer-intern-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Engineer",
+    "job_city": "Entry LevelMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Entry Level Software Engineer  2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57952&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-engineer-entry-levelmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Computing Applications Research",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Intern 2026: Quantum Computing Applications Research",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59976&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-computing-applications-research-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern: Research Scientist – AI-powered Automation",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role 2026 Intern:  Research Scientist – AI-powered Automation",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59705&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-research-scientist-ai-powered-automation-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Network / Security Engineer",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Intern 2026: Quantum Network  / Security Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60905&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-network-security-engineer-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Mainframe System Verification Tester Apprentice",
+    "job_city": "Entry LevelPOUGHKEEPSIE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Mainframe System Verification Tester Apprentice",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58506&source=WEB_Search_NA",
+    "id": "ibm-mainframe-system-verification-tester-apprentice-entry-levelpoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern: Software Engineer – AI-powered Automation",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role 2026 Intern: Software Engineer – AI-powered Automation",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59704&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-software-engineer-ai-powered-automation-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Power Card Lab Technician Apprentice",
+    "job_city": "Entry LevelPOUGHKEEPSIE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Power Card Lab Technician Apprentice",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=19116&source=WEB_Search_NA",
+    "id": "ibm-power-card-lab-technician-apprentice-entry-levelpoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Warehouse Production Operator",
+    "job_city": "Entry LevelPOUGHKEEPSIE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Warehouse Production Operator",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59662&source=WEB_Search_NA",
+    "id": "ibm-warehouse-production-operator-entry-levelpoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Support Engineer - HashiCorp",
+    "job_city": "Entry LevelAustin",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Support Engineer - HashiCorp",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA",
+    "id": "ibm-support-engineer-hashicorp-entry-levelaustin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Wells Fargo Data Center Technician",
+    "job_city": "Entry LevelMinneapolis",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Wells Fargo Data Center Technician",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64467&source=WEB_Search_NA",
+    "id": "ibm-wells-fargo-data-center-technician-entry-levelminneapolis"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI Inference Optimization Engineer",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Intern 2026: AI Inference Optimization Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60197&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-inference-optimization-engineer-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SWE: Toward Autonomous Data Management with AI Intern",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role SWE: Toward Autonomous Data Management with AI Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58829&source=WEB_Search_NA",
+    "id": "ibm-swe-toward-autonomous-data-management-with-ai-intern-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Content Professional Intern",
+    "job_city": "InternshipPOUGHKEEPSIE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Technical Content Professional Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60900&source=WEB_Search_NA",
+    "id": "ibm-technical-content-professional-intern-internshippoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Data Scientist Intern",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Associate Data Scientist Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57348&source=WEB_Search_NA",
+    "id": "ibm-associate-data-scientist-intern-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Federal Data Engineer Intern:",
+    "job_city": "InternshipWASHINGTON",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Federal Data Engineer Intern: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57946&source=WEB_Search_NA",
+    "id": "ibm-federal-data-engineer-intern-internshipwashington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Postdoctoral Researcher",
+    "job_city": "Entry LevelSan Jose",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Postdoctoral Researcher",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA",
+    "id": "ibm-postdoctoral-researcher-entry-levelsan-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI Hybrid Cloud Platforms Research Developer",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Intern 2026:  AI Hybrid Cloud Platforms Research Developer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58807&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-hybrid-cloud-platforms-research-developer-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Digital Seller – Entry Level Sales Program",
+    "job_city": "Entry LevelMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Digital Seller – Entry Level Sales Program 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53144&source=WEB_Search_NA",
+    "id": "ibm-digital-seller-entry-level-sales-program-entry-levelmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Digital Seller Intern– Entry Level Sales Program",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Digital Seller Intern– Entry Level Sales Program 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53587&source=WEB_Search_NA",
+    "id": "ibm-digital-seller-intern-entry-level-sales-program-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Mixed Signal Circuit Design Engineer - Entry Level",
+    "job_city": "Entry LevelROCHESTER",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Mixed Signal Circuit Design Engineer - Entry Level",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA",
+    "id": "ibm-mixed-signal-circuit-design-engineer-entry-level-entry-levelrochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Developer",
+    "job_city": "Entry LevelMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Entry Level Software Developer 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-developer-entry-levelmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Platform Engineer Intern – Entry Level Sales Program",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Platform Engineer Intern – Entry Level Sales Program 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53603&source=WEB_Search_NA",
+    "id": "ibm-platform-engineer-intern-entry-level-sales-program-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Platform Engineer Co-Op - Entry Level Sales Program",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role 2026 Platform Engineer Co-Op - Entry Level Sales Program",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57384&source=WEB_Search_NA",
+    "id": "ibm-2026-platform-engineer-co-op-entry-level-sales-program-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Software Engineer - Semiconductor",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Intern 2026: Software Engineer - Semiconductor",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59691&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-software-engineer-semiconductor-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer Intern - AI Accelerators Research",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Software Engineer Intern - AI Accelerators Research",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63086&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-intern-ai-accelerators-research-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intellectual Property Intern",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Intellectual Property Intern",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62958&source=WEB_Search_NA",
+    "id": "ibm-intellectual-property-intern-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Field Engineer",
+    "job_city": "International",
+    "job_state": "United States",
+    "job_posted_at": "1w",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/International/IBD-SS-BETSS-C-Field-Service-Technician-Engineer---Secret-Clearance-Required_RQ204393-1?q=hardware+engineering",
+    "id": "general-dynamics-field-engineer-international"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Network Engineer",
+    "job_city": "International",
+    "job_state": "United States",
+    "job_posted_at": "5d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/International/Network-Engineer_RQ206158-1?q=hardware+engineering",
+    "id": "general-dynamics-network-engineer-international"
+  },
+  {
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "Automation Engineer",
+    "job_city": "Aguadilla",
+    "job_state": "Puerto Rico",
+    "job_posted_at": "3w",
+    "job_description": "• Hardware Engineering ManagerlocationsSan Jose, California, United States of Americaposted onPosted Yesterday1195664Hardware Engineering Manager - SASE ProductslocationsSan Jose, California, United States of Americaposted onPosted 30+ Days Ago1189387Senior R&D Hardware Engineerlocations2 Locationsposted onPosted Yesterday1187817Hardware Electrical Component Engineer IIIlocationsTaipei, Taipei City, Taiwanposted onPosted 9 Days Ago1193543Hardware Electrical Component Engineer IIlocationsTaipei, Taipei City, Taiwanposted onPosted 9 Days Ago1193464Electrical EngineerlocationsTaipei, Taipei City, Taiwanposted onPosted 9 Days Ago1193542Electrical EngineerlocationsTaipei, Taipei City, Taiwanposted onPosted 9 Days Ago1193541Electrical EngineerlocationsTaipei, Taipei City, Taiwanposted onPosted 8 Days Ago1193458Signal Integrity EngineerlocationsSingapore, Central Singapore, Singaporeposted onPosted 30+ Days Ago1189528Regulatory Compliance EngineerlocationsRoseville, California, United States of Americaposted onPosted 30+ Days Ago1187036Senior Electrical EngineerlocationsTaipei, Taipei City, Taiwanposted onPosted 9 Days Ago1193540Senior Electrical EngineerlocationsTaipei, Taipei City, Taiwanposted onPosted 9 Days Ago1193539High Performance Computing Hardware Engineer, Secret Clearance Required, On-Site, Aberdeen, MDlocationsAll, Maryland, United States of Americaposted onPosted 30+ Days Ago1189029Automation EngineerlocationsAguadilla, Puerto Rico, Puerto Ricoposted onPosted 22 Days Ago1193358Automation Master EngineerlocationsAguadilla, Puerto Rico, Puerto Ricoposted onPosted 22 Days Ago1193365Mechanical Design EngineerlocationsTaipei, Taipei City, Taiwanposted onPosted 11 Days Ago1193467Security EngineerlocationsFt.\n• Collins, Colorado, United States of Americaposted onPosted 23 Days Ago1193514Software EngineerlocationsSan Jose, California, United States of Americaposted onPosted 30+ Days Ago1191949Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 5 Days Ago1191925Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 11 Days Ago1191874.",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Automation-Engineer_1193358-1?q=hardware+engineering",
+    "id": "hewlett-packard-enterprise-automation-engineer-aguadilla"
+  },
+  {
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "Security Engineer",
+    "job_city": "Ft. Collins",
+    "job_state": "Colorado",
+    "job_posted_at": "3w",
+    "job_description": "• Hardware Engineering ManagerlocationsSan Jose, California, United States of Americaposted onPosted Yesterday1195664Hardware Engineering Manager - SASE ProductslocationsSan Jose, California, United States of Americaposted onPosted 30+ Days Ago1189387Senior R&D Hardware Engineerlocations2 Locationsposted onPosted Yesterday1187817Hardware Electrical Component Engineer IIIlocationsTaipei, Taipei City, Taiwanposted onPosted 9 Days Ago1193543Hardware Electrical Component Engineer IIlocationsTaipei, Taipei City, Taiwanposted onPosted 9 Days Ago1193464Electrical EngineerlocationsTaipei, Taipei City, Taiwanposted onPosted 9 Days Ago1193542Electrical EngineerlocationsTaipei, Taipei City, Taiwanposted onPosted 9 Days Ago1193541Electrical EngineerlocationsTaipei, Taipei City, Taiwanposted onPosted 8 Days Ago1193458Signal Integrity EngineerlocationsSingapore, Central Singapore, Singaporeposted onPosted 30+ Days Ago1189528Regulatory Compliance EngineerlocationsRoseville, California, United States of Americaposted onPosted 30+ Days Ago1187036Senior Electrical EngineerlocationsTaipei, Taipei City, Taiwanposted onPosted 9 Days Ago1193540Senior Electrical EngineerlocationsTaipei, Taipei City, Taiwanposted onPosted 9 Days Ago1193539High Performance Computing Hardware Engineer, Secret Clearance Required, On-Site, Aberdeen, MDlocationsAll, Maryland, United States of Americaposted onPosted 30+ Days Ago1189029Automation EngineerlocationsAguadilla, Puerto Rico, Puerto Ricoposted onPosted 22 Days Ago1193358Automation Master EngineerlocationsAguadilla, Puerto Rico, Puerto Ricoposted onPosted 22 Days Ago1193365Mechanical Design EngineerlocationsTaipei, Taipei City, Taiwanposted onPosted 11 Days Ago1193467Security EngineerlocationsFt.\n• Collins, Colorado, United States of Americaposted onPosted 23 Days Ago1193514Software EngineerlocationsSan Jose, California, United States of Americaposted onPosted 30+ Days Ago1191949Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 5 Days Ago1191925Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 11 Days Ago1191874.",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Ft-Collins-Colorado-United-States-of-America/Security-Engineer_1193514-1?q=hardware+engineering",
+    "id": "hewlett-packard-enterprise-security-engineer-ft-collins"
+  },
+  {
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "Computer Test Technician - 1st Shift",
+    "job_city": "Chippewa Falls",
+    "job_state": "Wisconsin",
+    "job_posted_at": "2d",
+    "job_description": "• Computer Test Technician - 2nd ShiftlocationsChippewa Falls, Wisconsin, United States of Americaposted onPosted 30+ Days Ago1188677Computer Test Technician - 1st ShiftlocationsChippewa Falls, Wisconsin, United States of Americaposted onPosted 2 Days Ago1192856Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 30+ Days Ago1191881Manufacturing Test EngineerlocationsSan Jose, California, United States of Americaposted onPosted 30+ Days Ago1192402Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 30+ Days Ago1191899Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 2 Days Ago1191866Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 17 Days Ago1191892Software Engineer StafflocationsBangalore, Karnataka, Indiaposted onPosted 30+ Days Ago1191900High Performance Compute EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 19 Days Ago1193403Manufacturing Test EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 30+ Days Ago1192398Software QA EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 23 Days Ago1193780Software QA EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 23 Days Ago1193781Field Technical Support EngineerlocationsChantilly, Virginia, United States of Americaposted onPosted 23 Days Ago1190034Data Center QA EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 30+ Days Ago1193638Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 30+ Days Ago1191871Site Reliability EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 30+ Days Ago1191846Software Engineer StafflocationsBangalore, Karnataka, Indiaposted onPosted 11 Days Ago1191861Senior Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 30+ Days Ago1191851System Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 26 Days Ago1193727Resident Network EngineerlocationsAll, Pennsylvania, United States of Americaposted onPosted 30+ Days Ago1192547.",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Computer-Test-Technician---1st-Shift_1192856-2?q=hardware+engineering",
+    "id": "hewlett-packard-enterprise-computer-test-technician-1st-shift-chippewa-falls"
+  },
+  {
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "Field Technical Support Engineer",
+    "job_city": "Chantilly",
+    "job_state": "Virginia",
+    "job_posted_at": "3w",
+    "job_description": "• Computer Test Technician - 2nd ShiftlocationsChippewa Falls, Wisconsin, United States of Americaposted onPosted 30+ Days Ago1188677Computer Test Technician - 1st ShiftlocationsChippewa Falls, Wisconsin, United States of Americaposted onPosted 2 Days Ago1192856Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 30+ Days Ago1191881Manufacturing Test EngineerlocationsSan Jose, California, United States of Americaposted onPosted 30+ Days Ago1192402Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 30+ Days Ago1191899Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 2 Days Ago1191866Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 17 Days Ago1191892Software Engineer StafflocationsBangalore, Karnataka, Indiaposted onPosted 30+ Days Ago1191900High Performance Compute EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 19 Days Ago1193403Manufacturing Test EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 30+ Days Ago1192398Software QA EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 23 Days Ago1193780Software QA EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 23 Days Ago1193781Field Technical Support EngineerlocationsChantilly, Virginia, United States of Americaposted onPosted 23 Days Ago1190034Data Center QA EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 30+ Days Ago1193638Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 30+ Days Ago1191871Site Reliability EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 30+ Days Ago1191846Software Engineer StafflocationsBangalore, Karnataka, Indiaposted onPosted 11 Days Ago1191861Senior Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 30+ Days Ago1191851System Software EngineerlocationsBangalore, Karnataka, Indiaposted onPosted 26 Days Ago1193727Resident Network EngineerlocationsAll, Pennsylvania, United States of Americaposted onPosted 30+ Days Ago1192547.",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Chantilly-Virginia-United-States-of-America/Senior-Technology-Consultant_1190034-1?q=hardware+engineering",
+    "id": "hewlett-packard-enterprise-field-technical-support-engineer-chantilly"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Systems Validation Engineer - Data Center Hardware",
+    "job_city": "Sunnyvale",
+    "job_state": "United States",
+    "job_posted_at": "3d",
+    "job_description": "• Minimum QualificationsBS Degree in engineering with minimum 4-8 years relevant work experienceExperience performing system testing: stress testing, performance testing, power and thermal testing, OS and driver compatibility testing, debug, etc.\n• Experience with rack level testing: power and thermal testing, networking, rack management infrastructure testing, shock and vibe, etc.\n• Experience using various stress tools and benchmarks to evaluate system behavior and identify patterns and test cases that rapidly expose design flaws.\n• Ability to lift up to 50lb (required for system installation) with hands-on in the lab experience, preferably with lab environments at scale 100+ systems.\n• In-depth, working knowledge of Linux kernel, Linux system functions and debugging (driver, firmware, OS configuration, etc), MacOS a plus.\n• Install / de-install / repair / validate.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200624875-3956/systems-validation-engineer-data-center-hardware?team=HRDWR",
+    "id": "apple-systems-validation-engineer-data-center-hardware-sunnyvale"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Product Management: Internship Opportunities",
+    "job_city": "",
+    "job_state": "New York",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Product Management: Internship Opportunities",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-product-management-internship-opportunities-"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Research Intern - Networking Research Group",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "3d",
+    "job_description": "hardware engineering job for the role Research Intern - Networking Research Group",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-research-intern-networking-research-group-redmond"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Research Intern - Gray Systems Lab (GSL)",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "3d",
+    "job_description": "hardware engineering job for the role Research Intern - Gray Systems Lab (GSL)",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-research-intern-gray-systems-lab-gsl-redmond"
+  }
+]
