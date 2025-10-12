@@ -17,9 +17,9 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 297 
+- **🔥 Active Positions**: 300 
 - **🏢 Companies**: 26 elite tech companies
-- **⭐ FAANG+ Jobs**: 41 premium opportunities  
+- **⭐ FAANG+ Jobs**: 49 premium opportunities  
 - **📅 Last Updated**: October 12, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 0 (older than 1 week)
@@ -66,7 +66,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (41 positions)
+### ⭐ **FAANG+** (49 positions)
 
 #### 📦 **Amazon** (7 positions)
 
@@ -127,7 +127,20 @@
 
 </details>
 
-### 🏢 **Top Tech** (88 positions)
+#### 🍎 **Apple** (8 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Baseband Hardware Design Engineer | Sunnyvale, United States | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200622618-3956/baseband-hardware-design-engineer?team=HRDWR) | 1w |
+| Cellular RF Hardware Design Engineer | Sunnyvale, United States | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200621395-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 3w |
+| Cellular RF Hardware Design Engineer | Waltham, United States | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624149-6205/cellular-rf-hardware-design-engineer?team=HRDWR) | 1w |
+| Hardware System Integration Engineer - AirPods | Cupertino, United States | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200570769-0836/hardware-system-integration-engineer-airpods?team=HRDWR) | 3w |
+| Administrative Assistant, Hardware Technology | Cupertino, United States | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200623995-0836/administrative-assistant-hardware-technology?team=CORSV) | 1w |
+| Camera Image Quality Validation Engineer - Camera Hardware | Cupertino, United States | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624872-0836/camera-image-quality-validation-engineer-camera-hardware?team=HRDWR) | 2d |
+| Hardware Reliability Engineer - iPad System Reliability | Austin, United States | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200621347-0157/hardware-reliability-engineer-ipad-system-reliability?team=HRDWR) | 3w |
+| Systems Validation Engineer - Data Center Hardware | Sunnyvale, United States | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624875-3956/systems-validation-engineer-data-center-hardware?team=HRDWR) | 4d |
+
+### 🏢 **Top Tech** (90 positions)
 
 #### 💾 **Marvel Technology** (3 positions)
 
@@ -144,14 +157,16 @@
 | Spring 2026 Co-Op - Release Management (Bachelor's) | United States Off-site, United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/canonsburg/spring-2026-co-op-release-management-bachelor-s/44408/87085295296) | 3d |
 | R&D Engineer | United States Off-site, United States | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/canonsburg/r-and-d-engineer/44408/87085298064) | 3d |
 
-#### 🎮 **NVIDIA** (4 positions)
+#### 🎮 **NVIDIA** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| System Software Engineer - GPU | US, California | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU_JR2002051?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | 1d |
-| Systems Software Engineer, AI Infrastructure | 2 Locations, United States | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer--AI-Infrastructure_JR2002956-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | 2d |
-| Software Engineer, CAD Automation - New College Grad | 2 Locations, United States | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--CAD-Automation---New-College-Grad-2025_JR2005867?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | 2d |
-| Circuit Design Engineer - New College Grad 🏠 | 4 Locations, United States | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer---New-College-Grad-2025_JR2005865-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | 3d |
+| Post-Silicon Hardware Engineer 🏠 | US, California | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Post-Silicon-Hardware-Engineer_JR2003779?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | 2w |
+| NVIDIA 2026 Internships: Hardware Engineering - US 🏠 | US, California | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Engineering-_JR2003200?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | 3w |
+| NVIDIA 2026 Ignite Internships: Hardware Engineering 🏠 | US, California | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Ignite-Internships--Hardware-Engineering_JR2005170?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | 5d |
+| Datacenter Hardware Applications Engineer 🏠 | US, California | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Datacenter-Hardware-Applications-Engineer_JR1996594?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | 3w |
+| ASIC Hardware Design Engineer - New College Grad 🏠 | US, Texas | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Hardware-Design-Engineer---New-College-Grad-2025_JR1999119?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | 3w |
+| ASIC Design Engineer - Hardware 🏠 | US, Texas | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Engineer---Hardware_JR1993847-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8) | 3w |
 
 <details>
 <summary><h4>🔷 <strong>Intel</strong> (17 positions)</h4></summary>
@@ -223,8 +238,8 @@
 | Component Engineer Accelerate ELH | Entry LevelPOUGHKEEPSIE, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63661&source=WEB_Search_NA) | 1d |
 | Data Scientist - QA Test | InternshipAustin, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58476&source=WEB_Search_NA) | 1d |
 | Entry Level Firmware Developer | Entry LevelMultiple Cities, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54837&source=WEB_Search_NA) | 1d |
-| Software Developer Intern: | InternshipMultiple Cities, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54845&source=WEB_Search_NA) | 1d |
 | Entry Level Software Engineer | Entry LevelMultiple Cities, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57952&source=WEB_Search_NA) | 1d |
+| Software Developer Intern: | InternshipMultiple Cities, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54845&source=WEB_Search_NA) | 1d |
 | Intern 2026: Quantum Computing Applications Research | InternshipMultiple Cities, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59976&source=WEB_Search_NA) | 1d |
 | 2026 Intern: Research Scientist – AI-powered Automation | InternshipMultiple Cities, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59705&source=WEB_Search_NA) | 1d |
 | Intern 2026: Quantum Network / Security Engineer | InternshipMultiple Cities, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60905&source=WEB_Search_NA) | 1d |
@@ -236,13 +251,13 @@
 | Wells Fargo Data Center Technician | Entry LevelMinneapolis, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64467&source=WEB_Search_NA) | 1d |
 | Intern 2026: AI Inference Optimization Engineer | InternshipMultiple Cities, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60197&source=WEB_Search_NA) | 1d |
 | SWE: Toward Autonomous Data Management with AI Intern | InternshipMultiple Cities, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58829&source=WEB_Search_NA) | 1d |
+| Federal Data Engineer Intern: | InternshipWASHINGTON, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57946&source=WEB_Search_NA) | 1d |
 | Associate Data Scientist Intern | InternshipMultiple Cities, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57348&source=WEB_Search_NA) | 1d |
 | Technical Content Professional Intern | InternshipPOUGHKEEPSIE, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60900&source=WEB_Search_NA) | 1d |
 | Digital Seller Intern– Entry Level Sales Program | InternshipMultiple Cities, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53587&source=WEB_Search_NA) | 1d |
 | Postdoctoral Researcher | Entry LevelSan Jose, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) | 1d |
 | Intern 2026: AI Hybrid Cloud Platforms Research Developer | InternshipMultiple Cities, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58807&source=WEB_Search_NA) | 1d |
 | Digital Seller – Entry Level Sales Program | Entry LevelMultiple Cities, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53144&source=WEB_Search_NA) | 1d |
-| Federal Data Engineer Intern: | InternshipWASHINGTON, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57946&source=WEB_Search_NA) | 1d |
 | Entry Level Software Developer | Entry LevelMultiple Cities, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285&source=WEB_Search_NA) | 1d |
 | Mixed Signal Circuit Design Engineer - Entry Level | Entry LevelROCHESTER, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA) | 1d |
 | 2026 Platform Engineer Co-Op - Entry Level Sales Program | InternshipMultiple Cities, United States | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57384&source=WEB_Search_NA) | 1d |
@@ -391,7 +406,7 @@
 |------|----------|-----------|-----|
 | Systems Integration Engineer 🏠 | US - California - San Diego, United States | [<img src="./image.png" width="100" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Systems-Integration-Engineer-1_41358-JOB-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 
-### 🏭 **Manufacturing & Industrial** (68 positions)
+### 🏭 **Manufacturing & Industrial** (58 positions)
 
 #### 💪 **Arm** (10 positions)
 
@@ -413,8 +428,8 @@
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Intern - Hardware Validation Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38306490) | 1w |
-| Intern – Manufacturing Development Engineering – Process | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38444558) | 3d |
 | Intern - Probe Engineering | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30700221) | 2w |
+| Intern – Manufacturing Development Engineering – Process | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38444558) | 3d |
 | CAD Design Automation Engineer, Central Engineering | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30948222) | 1d |
 | Intern - Design Engineering, HBM | Richardson, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30954489) | 3d |
 | DRAM Product Engineer | Manassas, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30826027) | 3w |
@@ -426,15 +441,15 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| R&D HW Engineer | Location Bartlesville, Oklahoma | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/97048016/R-D-HW-Engineer) | 1h |
-| Automation Engineer Intern - Summer | Location Houston, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011245/Automation-Engineer-Intern-Summer-2026) | 1h |
-| Quality Engineer | Location Mount Juliet, Tennessee | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008605/Quality-Engineer) | 1h |
 | R&D Associate Engineer | Location Cleveland, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010453/R-D-Associate-Engineer) | 1h |
+| Automation Engineer Intern - Summer | Location Houston, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011245/Automation-Engineer-Intern-Summer-2026) | 1h |
 | Project Engineer Co-op - Spring | Location Cleveland, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010042/Project-Engineer-Co-op-Spring-2026) | 1h |
 | Power Electronics Scientist | Location Raleigh, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/95678461/Power-Electronics-Scientist) | 1h |
 | Associate Application Engineer | Location Alpharetta, Georgia | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012337/Associate-Application-Engineer) | 1h |
 | Plastic Case Production Operator - Winder - 1st Shift | Location Pinetops, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00005520/Plastic-Case-Production-Operator-Winder-1st-Shift) | 1h |
+| R&D HW Engineer | Location Bartlesville, Oklahoma | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/97048016/R-D-HW-Engineer) | 1h |
 | Power Electronics Intern - Spring | Location Raleigh, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009444/Power-Electronics-Intern-Spring-2026) | 1h |
+| Quality Engineer | Location Mount Juliet, Tennessee | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008605/Quality-Engineer) | 1h |
 
 #### 🔌 **Infineon Technologies** (13 positions)
 
@@ -461,21 +476,6 @@
 | System Integration Engineer | US, Massachusetts | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/System-Integration-Engineer_R255776-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
 | Embedded System Design Engineer | US, Massachusetts | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Embedded-System-Design-Engineer_R255777?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Test Development Engineer | US, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Test-Development-Engineer_R256376?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
-
-#### 🏗️ **Honeywell** (10 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Hardware Engineer | Fort Washington, Pennsylvania | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/116090/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
-| Flight Controls Hardware Engineer | Phoenix, Arizona | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/119199/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3w |
-| Software Engineer II - DDAS Systems | Phoenix, Arizona | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/111406/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
-| Project Engineer II - Turbofan Test (HTF) | Phoenix, Arizona | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/121585/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
-| Electrical Engineer | Frederick, Maryland | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/120176/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
-| Field Service Engineer | Nashville, Tennessee | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/122828/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2d |
-| AI Engineer/Data Scientist | Atlanta, Georgia | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/118385/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
-| Systems Engineer II - Aerospace Systems | Plymouth, Minnesota | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/118793/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
-| Field Service Engr | Valliant, Oklahoma | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/120796/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
-| HVAC Controls Traveling Field Service Tech - Minneapolis/St. Paul - $5K Sign-On Bonus | Minneapolis, Minnesota | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/119042/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3w |
 
 #### 🚗 **Magna International** (14 positions)
 
@@ -504,8 +504,8 @@
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (28 positions) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (6) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (7)
+#### ⭐ **FAANG+** (4 companies)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (28 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (8) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (6) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (7)
 
 
 #### 💰 **Fintech Leaders** (1 company)
@@ -513,7 +513,7 @@
 
 
 #### ☁️ **Enterprise & Cloud** (9 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (4 positions) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (11) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (7) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (3) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (2) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (4) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (17) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (13) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (49)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (4 positions) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (11) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (7) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (3) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (2) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (6) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (17) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (13) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (49)
 
 ---
 
@@ -521,9 +521,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 98 | 33% | No or minimal experience |
-| 🟡 Beginner & Early Career | 81 | 27% | 1-2 years of experience |
-| 🔴 Manager         | 118 | 40% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 102 | 34% | No or minimal experience |
+| 🟡 Beginner & Early Career | 90 | 30% | 1-2 years of experience |
+| 🔴 Manager         | 108 | 36% | 2+ years of experience |
 
 ---
 
@@ -531,18 +531,18 @@
 
 - **InternshipMultiple Cities, United States**: 20 positions
 - **Mountain View, California**: 13 positions
+- **US, Texas**: 12 positions
 - **Sunnyvale, California**: 12 positions
+- **US**: 12 positions
+- **US, California**: 11 positions
 - **San Francisco, California**: 11 positions
-- **US**: 11 positions
-- **US, Texas**: 10 positions
-- **2 Locations, United States**: 9 positions
-- **US, California**: 8 positions
+- **2 Locations, United States**: 7 positions
 
 ---
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 297+ verified CS internships and entry-level hardware roles from 26 elite tech companies.
+✅ **100% Real Jobs:** 300+ verified CS internships and entry-level hardware roles from 26 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -596,7 +596,7 @@
 
 <div align="center">
 
-**🎯 297 current opportunities from 26 elite companies.**
+**🎯 300 current opportunities from 26 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
