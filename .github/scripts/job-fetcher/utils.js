@@ -710,34 +710,99 @@ function getJobCategory(title, description = "") {
 
 function formatLocation(city, state) {
   // Normalize inputs
-  const normalizedCity = city ? city.trim() : '';
-  const normalizedState = state ? state.trim() : '';
+  let normalizedCity = city ? city.trim() : '';
+  let normalizedState = state ? state.trim() : '';
 
-  // Handle remote
+  // STEP 1: Handle remote
   if (normalizedCity.toLowerCase() === 'remote' || normalizedState.toLowerCase() === 'remote') {
     return 'Remote 🏠';
   }
 
-  // Handle "United States" as state (means no specific location)
-  if (normalizedState === 'United States' && !normalizedCity) {
-    return 'United States (Multiple Locations)';
+  // STEP 2: Filter out generic/invalid state values
+  const invalidStates = [
+    'us', 'usa', 'u.s.', 'u.s.a', 'united states',
+    'multiple locations', 'various locations', 'nationwide',
+    'location not specified', 'tbd', 'tba', 'n/a'
+  ];
+  
+  if (invalidStates.includes(normalizedState.toLowerCase())) {
+    normalizedState = ''; // Clear invalid state
   }
 
-  // Handle cases
-  if (!normalizedCity && !normalizedState) {
-    return 'Location Not Specified';
+  // STEP 3: Clean city - remove job-level keywords if they got through
+  const cityCleanupKeywords = [
+    'internship', 'intern', 'entry level', 'entrylevel', 'entry',
+    'senior', 'junior', 'multiple cities', 'various'
+  ];
+  
+  cityCleanupKeywords.forEach(keyword => {
+    const regex = new RegExp(`^${keyword}\\s*`, 'gi');
+    normalizedCity = normalizedCity.replace(regex, '').trim();
+  });
+
+  // STEP 4: If city contains "United States", remove it
+  normalizedCity = normalizedCity
+    .replace(/,?\s*United States$/i, '')
+    .replace(/,?\s*USA$/i, '')
+    .replace(/,?\s*U\.S\.A?$/i, '')
+    .trim();
+
+  // STEP 5: Handle state containing "United States"
+  if (normalizedState.toLowerCase().includes('united states')) {
+    // If state is "United States" or contains it, clear it unless there's specific info
+    if (normalizedState.toLowerCase() === 'united states') {
+      normalizedState = '';
+    } else {
+      // Extract actual state if format is like "California, United States"
+      normalizedState = normalizedState
+        .replace(/,?\s*United States$/i, '')
+        .replace(/,?\s*USA$/i, '')
+        .trim();
+    }
+  }
+
+  // STEP 6: Handle patterns like "California - San Francisco"
+  // This means state came first, so swap them
+  if (normalizedCity.includes(' - ')) {
+    const parts = normalizedCity.split(' - ').map(p => p.trim());
+    if (parts.length === 2) {
+      // First part is likely state, second is city
+      normalizedState = normalizedState || parts[0];
+      normalizedCity = parts[1];
+    }
+  }
+
+  // STEP 7: Final validation - filter out if city or state are too short or invalid
+  if (normalizedCity && normalizedCity.length < 2) {
+    normalizedCity = '';
+  }
+  if (normalizedState && normalizedState.length < 2) {
+    normalizedState = '';
+  }
+
+  // STEP 8: Check if city is actually just numbers or special characters
+  if (normalizedCity && /^[\d\s,\-._]+$/.test(normalizedCity)) {
+    normalizedCity = '';
+  }
+
+  // STEP 9: Return formatted location based on what we have
+  // Both city and state
+  if (normalizedCity && normalizedState) {
+    return `${normalizedCity}, ${normalizedState}`;
   }
   
-  if (!normalizedCity) {
+  // Only state
+  if (!normalizedCity && normalizedState) {
     return normalizedState;
   }
   
-  if (!normalizedState) {
+  // Only city
+  if (normalizedCity && !normalizedState) {
     return normalizedCity;
   }
 
-  // Standard format: City, State
-  return `${normalizedCity}, ${normalizedState}`;
+  // Neither (should be filtered out in stats)
+  return null; // Return null instead of a string so it can be filtered
 }
 
 // Fetch internship data from popular sources
@@ -888,3 +953,4 @@ module.exports = {
   filterJobsByLevel,
   fetchInternshipData,
 };
+
