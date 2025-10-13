@@ -1,6 +1,10 @@
-// utils/jobTransformers.js
+// src/backend/output/jobTransformers.js
 
-// Helper function to clean job title
+/**
+ * Clean job title by removing common prefixes, suffixes, and formatting issues
+ * @param {string} title - Raw job title
+ * @returns {string} Cleaned job title
+ */
 function cleanJobTitle(title) {
   if (!title) return title;
 
@@ -8,69 +12,176 @@ function cleanJobTitle(title) {
   return title
     .replace(/\|/g, ' - ') // Replace pipes with dashes to prevent table breaking
     .replace(/\n/g, ' ') // Replace newlines with spaces
-    .replace(/\s+(I|II|III|IV|V|\d+)$/, '')
-    .replace(/\s*-\s*(Remote|Hybrid|On-site).*$/i, '')
+    .replace(/\s+(I|II|III|IV|V|\d+)$/, '') // Remove Roman numerals and numbers at end
+    .replace(/\s*-\s*(Remote|Hybrid|On-site).*$/i, '') // Remove work arrangement suffixes
     .replace(/\s+/g, ' ') // Replace multiple spaces with single space
     .trim();
 }
 
-// Helper function to parse location
+/**
+ * Parse and clean location text to extract city and state
+ * @param {string} locationText - Raw location text
+ * @returns {Object} Object with city and state properties
+ */
 function parseLocation(locationText) {
   if (!locationText) {
-    return { city: '', state: 'US' };
+    return { city: '', state: '' };
   }
 
-  // More comprehensive job-related keywords to remove
+  // Comprehensive job-related keywords to remove - ENHANCED
   const nonLocationKeywords = [
-    // Job levels
-    'entry level', 'entry-level', 'senior', 'junior', 'mid-level', 'intern', 'internship',
-    'associate', 'staff', 'principal', 'lead', 'manager', 'director',
+    // Job levels - most problematic ones
+    'entry level', 'entry-level', 'entrylevel',
+    'senior', 'junior', 
+    'mid-level', 'mid level', 'midlevel',
+    'intern', 'internship', 'internships',
+    'co-op', 'coop',
+    'trainee', 'graduate', 'fellowship',
     
     // Employment types
-    'full time', 'full-time', 'part time', 'part-time', 'contract', 'temporary',
-    'permanent', 'seasonal',
+    'full time', 'full-time', 'fulltime',
+    'part time', 'part-time', 'parttime',
+    'contract', 'contractor',
+    'temporary', 'temp',
+    'permanent',
+    'seasonal',
+    'freelance', 'freelancer',
+    'consultant', 'consulting',
     
     // Work arrangements
-    'remote', 'hybrid', 'on-site', 'onsite', 'work from home', 'wfh',
-    'multiple locations', 'multiple cities', 'various locations', 'nationwide',
+    'hybrid',
+    'on-site', 'onsite', 'on site',
+    'work from home', 'wfh',
+    'telecommute', 'telecommuting',
+    'virtual',
+    'in-office', 'in office',
     
-    // Common job terms
-    'experience', 'years', 'required', 'preferred', 'degree', 'bachelor',
-    'master', 'phd', 'position', 'role', 'job', 'opportunity',
-    'developer', 'engineer', 'scientist', 'analyst', 'specialist',
+    // Location descriptors - CRITICAL
+    'multiple locations', 'multiple cities', 'multiple sites',
+    'various locations', 'various cities',
+    'all locations',
+    'nationwide', 'national',
+    'multiple', 'various', 'all', 'any',
     
-    // Action words
-    'apply', 'apply now', 'ship', 'shipping'
+    // Job descriptors
+    'experience', 'exp',
+    'years', 'yrs', 'year',
+    'required', 'req',
+    'preferred', 'pref',
+    'degree',
+    'bachelor', 'bachelors', 'bs', 'ba',
+    'master', 'masters', 'ms', 'ma', 'mba',
+    'phd', 'doctorate',
+    'position', 'positions',
+    'role', 'roles',
+    'job', 'jobs',
+    'opportunity', 'opportunities',
+    'opening', 'openings',
+    'posting', 'postings',
+    'vacancy', 'vacancies'
   ];
 
-  // Clean up the location text
-  let cleanLocation = locationText
-    .replace(/<br\s*\/?>/gi, ', ') // Replace <br> with comma
-    .replace(/<[^>]*>/g, '') // Remove all HTML tags
-    .replace(/,?\s*United States$/i, '') // Remove "United States" suffix
-    .replace(/,?\s*USA$/i, '') // Remove "USA" suffix
-    .replace(/,?\s*US$/i, '') // Remove standalone "US" suffix
+  // STEP 1: Initial normalization
+  let cleanLocation = locationText.trim();
+
+  // STEP 2: Check for remote FIRST (special handling before cleaning)
+  const lowerLocation = cleanLocation.toLowerCase();
+  const remotePatterns = [
+    /^remote$/i,
+    /^remote[,\s]*$/i,
+    /^remote\s*-\s*$/i,
+    /^\s*remote\s*$/i
+  ];
+  
+  for (const pattern of remotePatterns) {
+    if (pattern.test(cleanLocation)) {
+      return { city: 'Remote', state: '' };
+    }
+  }
+
+  // STEP 3: Remove country suffixes
+  cleanLocation = cleanLocation
+    .replace(/,?\s*United States\s*$/i, '')
+    .replace(/,?\s*USA\s*$/i, '')
+    .replace(/,?\s*U\.S\.A\.?\s*$/i, '')
+    .replace(/,?\s*US\s*$/i, '')
     .trim();
 
-  // Remove non-location keywords (case insensitive, whole word match)
+  // STEP 4: Remove non-location keywords with ENHANCED regex
+  // This is the critical section - using word boundaries and case-insensitive matching
   nonLocationKeywords.forEach(keyword => {
-    // Match whole words with word boundaries
-    const regex = new RegExp(`\\b${keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'gi');
-    cleanLocation = cleanLocation.replace(regex, '').trim();
+    // Escape special regex characters
+    const escapedKeyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    
+    // Create multiple patterns to catch different scenarios
+    const patterns = [
+      // At the beginning with optional whitespace/comma after
+      new RegExp(`^${escapedKeyword}[,\\s]*`, 'gi'),
+      // In the middle with word boundaries
+      new RegExp(`\\b${escapedKeyword}\\b[,\\s]*`, 'gi'),
+      // At the end with optional whitespace/comma before
+      new RegExp(`[,\\s]*${escapedKeyword}$`, 'gi'),
+      // Standalone with surrounding whitespace
+      new RegExp(`\\s+${escapedKeyword}\\s+`, 'gi')
+    ];
+    
+    // Apply all patterns
+    patterns.forEach(pattern => {
+      cleanLocation = cleanLocation.replace(pattern, ' ');
+    });
   });
 
-  // Clean up extra spaces and punctuation
+  // STEP 5: Aggressive cleanup of remaining artifacts
   cleanLocation = cleanLocation
-    .replace(/\s+/g, ' ') // Multiple spaces to single space
-    .replace(/^[,\s]+|[,\s]+$/g, '') // Remove leading/trailing commas and spaces
-    .replace(/,+/g, ',') // Multiple commas to single comma
-    .replace(/\s*,\s*/g, ', ') // Normalize comma spacing
+    // Remove multiple spaces
+    .replace(/\s+/g, ' ')
+    // Remove multiple commas
+    .replace(/,+/g, ',')
+    // Remove spaces before/after commas
+    .replace(/\s*,\s*/g, ', ')
+    // Remove leading/trailing commas, spaces, dashes, and other punctuation
+    .replace(/^[,\s\-:;|]+|[,\s\-:;|]+$/g, '')
+    // Remove standalone dashes with spaces
+    .replace(/\s+-\s+/g, ' ')
+    // Remove any remaining double spaces
+    .replace(/\s+/g, ' ')
     .trim();
 
-  // If nothing left after cleaning, return default
+  // STEP 6: Additional pattern-based cleaning for specific cases
+  // Remove patterns like "InternshipCity" or "Entry LevelCity"
+  cleanLocation = cleanLocation
+    .replace(/^(internship|intern|entrylevel|entry|senior|junior)/i, '')
+    .trim();
+
+  // STEP 7: Filter out empty or too short results
   if (!cleanLocation || cleanLocation.length < 2) {
-    return { city: '', state: 'US' };
+    return { city: '', state: '' };
   }
+
+  // STEP 8: Filter out generic/placeholder terms
+  const genericTerms = [
+    'us', 'usa', 'u.s.', 'u.s.a', 'u.s', 'us.', 
+    'united states', 'unitedstates',
+    'multiple', 'various', 'all', 'any',
+    'nationwide', 'national',
+    'tbd', 'tba', 'n/a', 'na',
+    'location', 'locations'
+  ];
+  
+  if (genericTerms.includes(cleanLocation.toLowerCase())) {
+    return { city: '', state: '' };
+  }
+
+  // STEP 9: Check if the cleaned location is just numbers or special characters
+  if (/^[\d\s,\-._]+$/.test(cleanLocation)) {
+    return { city: '', state: '' };
+  }
+
+  // STEP 10: Split by comma and parse
+  const parts = cleanLocation
+    .split(',')
+    .map(part => part.trim())
+    .filter(part => part.length > 0);
 
   // Common US state abbreviations
   const stateAbbreviations = [
@@ -95,86 +206,66 @@ function parseLocation(locationText) {
     'west virginia', 'wisconsin', 'wyoming'
   ];
 
-  // State abbreviation to full name mapping
-  const stateMap = {
-    'AL': 'Alabama', 'AK': 'Alaska', 'AZ': 'Arizona', 'AR': 'Arkansas',
-    'CA': 'California', 'CO': 'Colorado', 'CT': 'Connecticut', 'DE': 'Delaware',
-    'FL': 'Florida', 'GA': 'Georgia', 'HI': 'Hawaii', 'ID': 'Idaho',
-    'IL': 'Illinois', 'IN': 'Indiana', 'IA': 'Iowa', 'KS': 'Kansas',
-    'KY': 'Kentucky', 'LA': 'Louisiana', 'ME': 'Maine', 'MD': 'Maryland',
-    'MA': 'Massachusetts', 'MI': 'Michigan', 'MN': 'Minnesota', 'MS': 'Mississippi',
-    'MO': 'Missouri', 'MT': 'Montana', 'NE': 'Nebraska', 'NV': 'Nevada',
-    'NH': 'New Hampshire', 'NJ': 'New Jersey', 'NM': 'New Mexico', 'NY': 'New York',
-    'NC': 'North Carolina', 'ND': 'North Dakota', 'OH': 'Ohio', 'OK': 'Oklahoma',
-    'OR': 'Oregon', 'PA': 'Pennsylvania', 'RI': 'Rhode Island', 'SC': 'South Carolina',
-    'SD': 'South Dakota', 'TN': 'Tennessee', 'TX': 'Texas', 'UT': 'Utah',
-    'VT': 'Vermont', 'VA': 'Virginia', 'WA': 'Washington', 'WV': 'West Virginia',
-    'WI': 'Wisconsin', 'WY': 'Wyoming'
-  };
-
-  // Split by comma and trim
-  const parts = cleanLocation.split(',').map(part => part.trim()).filter(part => part.length > 0);
-
   if (parts.length >= 2) {
-    // Format: "City, State" or "City, State Code"
-    const city = parts[0];
-    const stateCode = parts[1].toUpperCase();
-    
-    // Normalize state code
-    if (stateAbbreviations.includes(stateCode)) {
-      return {
-        city: city,
-        state: stateMap[stateCode] || stateCode
-      };
-    } else {
-      return {
-        city: city,
-        state: parts[1]
-      };
-    }
+    // Format: "Mountain View, California" or "Austin, TX"
+    return {
+      city: parts[0],
+      state: parts[1]
+    };
   } else if (parts.length === 1) {
     const singlePart = parts[0];
-    const upperPart = singlePart.toUpperCase();
 
     // Check if it's a state abbreviation
-    if (stateAbbreviations.includes(upperPart)) {
-      return { city: '', state: stateMap[upperPart] || upperPart };
-    } 
-    // Check if it's a state name
-    else if (stateNames.includes(singlePart.toLowerCase())) {
-      // Capitalize properly
-      return { 
-        city: '', 
-        state: singlePart.split(' ').map(word => 
-          word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
-        ).join(' ')
-      };
-    } 
-    // Otherwise assume it's a city
-    else {
-      return { city: singlePart, state: 'United States' };
+    if (stateAbbreviations.includes(singlePart.toUpperCase())) {
+      return { city: '', state: singlePart.toUpperCase() };
     }
+    
+    // Check if it's a state full name
+    if (stateNames.includes(singlePart.toLowerCase())) {
+      // Capitalize first letter of each word
+      const capitalizedState = singlePart
+        .toLowerCase()
+        .split(' ')
+        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(' ');
+      return { city: '', state: capitalizedState };
+    }
+    
+    // Final check: if it contains job-related terms, filter it out
+    const hasJobTerms = nonLocationKeywords.some(keyword => 
+      singlePart.toLowerCase().includes(keyword.toLowerCase())
+    );
+    
+    if (hasJobTerms) {
+      return { city: '', state: '' };
+    }
+    
+    // Assume it's a city if it's not a recognized state
+    return { city: singlePart, state: '' };
   }
 
-  return { city: '', state: 'United States' };
+  return { city: '', state: '' };
 }
 
-// Helper function to convert date string to relative format (without "ago")
+/**
+ * Convert date string to relative format (e.g., "1h", "2d", "1w", "1mo")
+ * @param {string} postedDate - Raw posted date string
+ * @returns {string} Relative date format
+ */
 function convertDateToRelative(postedDate) {
-  // Ensure postedDate is a string
   const dateStr = String(postedDate);
 
-  // Check if it's already in the desired format (like "1h", "2d", "1w", "1mo")
+  // Check if it's already in the desired format
   const desiredFormatRegex = /^\d+[hdwmo]+$/i;
   if (desiredFormatRegex.test(dateStr.trim())) {
-    return dateStr.trim(); // Return as-is if already in correct format
+    return dateStr.trim();
   }
 
   // Clean and normalize the input
   let cleanedDate = dateStr
-    .replace(/^posted\s+/i, '') // Remove "posted" from beginning
-    .replace(/\s+ago$/i, '') // Remove "ago" from end
-    .replace(/^on\s+/i, '') // Remove "on" from beginning
+    .replace(/^posted\s+/i, '')
+    .replace(/\s+ago$/i, '')
+    .replace(/^on\s+/i, '')
     .trim()
     .toLowerCase();
 
@@ -217,7 +308,7 @@ function convertDateToRelative(postedDate) {
     return `${months}mo`;
   }
 
-  // Parse relative time expressions and convert to desired format
+  // Parse relative time expressions
   const timeRegex = /(\d+)\s*(hour|hours|h|minute|minutes|min|day|days|d|week|weeks|w|month|months|mo|m)(?:\s|$)/i;
   const match = cleanedDate.match(timeRegex);
 
@@ -225,11 +316,9 @@ function convertDateToRelative(postedDate) {
     const number = parseInt(match[1]);
     const unit = match[2].toLowerCase();
 
-    // Convert to desired format
     if (unit.startsWith('h') || unit.includes('hour')) {
       return `${number}h`;
     } else if (unit.startsWith('min') || unit.includes('minute')) {
-      // Convert minutes to hours if >= 60, otherwise show as 1h minimum
       return number >= 60 ? `${Math.floor(number / 60)}h` : "1h";
     } else if (unit.startsWith('d') || unit.includes('day')) {
       return `${number}d`;
@@ -242,8 +331,6 @@ function convertDateToRelative(postedDate) {
 
   // Try to parse absolute dates as fallback
   const parsedDate = new Date(dateStr);
-
-  // If we couldn't parse the date, return default
   if (isNaN(parsedDate.getTime())) {
     return "1d";
   }
@@ -254,7 +341,6 @@ function convertDateToRelative(postedDate) {
   const diffHours = Math.floor(diffTime / (1000 * 60 * 60));
   const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
 
-  // Convert to desired format
   if (diffHours < 24) {
     return diffHours === 0 ? "1h" : `${diffHours}h`;
   } else if (diffDays < 7) {
@@ -268,26 +354,37 @@ function convertDateToRelative(postedDate) {
   }
 }
 
-// Helper function to check if job is older than one month
+/**
+ * Check if job is older than one month
+ * @param {string} postedDate - Raw posted date string
+ * @returns {boolean} True if job is older than 1 month
+ */
 function isJobOlderThanOneMonth(postedDate) {
   const relativeDate = convertDateToRelative(postedDate);
   const match = relativeDate.match(/^(\d+)([hdwmo])$/i);
-  if (!match) return true; // Default to remove if date is invalid
+  
+  if (!match) return true;
 
   const value = parseInt(match[1]);
   const unit = match[2].toLowerCase();
 
   if (unit === 'mo' && value >= 1) {
-    return true; // Job is 1 month or older
+    return true;
   }
-  return false; // Job is less than 1 month old
+  
+  return false;
 }
 
-// Main transformation function
+/**
+ * Main transformation function - converts raw job data to standardized format
+ * @param {Array} jobs - Array of raw job objects
+ * @param {string} searchQuery - Search query used for job search
+ * @returns {Array} Array of transformed job objects
+ */
 function transformJobs(jobs, searchQuery) {
   return jobs
-    .filter(job => job.title && job.title.trim() !== '') // Filter out jobs without titles
-    .filter(job => !isJobOlderThanOneMonth(job.posted)) // Filter out jobs older than 1 month
+    .filter(job => job.title && job.title.trim() !== '')
+    .filter(job => !isJobOlderThanOneMonth(job.posted))
     .map(job => {
       const { city, state } = parseLocation(job.location);
       const applyLink = job.applyLink || "";
@@ -298,7 +395,7 @@ function transformJobs(jobs, searchQuery) {
         employer_name: job.company || "",
         job_title: cleanJobTitle(job.title),
         job_city: city || '',
-        job_state: state || "US",
+        job_state: state || '',
         job_posted_at: postedRelative || "Recently",
         job_description: job_description || `${searchQuery} job for the role ${job.title}`,
         job_apply_link: applyLink,
@@ -306,9 +403,11 @@ function transformJobs(jobs, searchQuery) {
     });
 }
 
+// Export all functions
 module.exports = {
   cleanJobTitle,
   parseLocation,
   convertDateToRelative,
+  isJobOlderThanOneMonth,
   transformJobs
 };
