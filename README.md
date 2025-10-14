@@ -17,7 +17,7 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 207 
+- **🔥 Active Positions**: 214 
 - **🏢 Companies**: 27 elite tech companies
 - **⭐ FAANG+ Jobs**: 47 premium opportunities  
 - **📅 Last Updated**: October 14, 2025
@@ -72,7 +72,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Regulatory Compliance Engineer, JWO Hardware Engineering | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3108064/regulatory-compliance-engineer-jwo-hardware-engineering) | 14h |
+| Regulatory Compliance Engineer, JWO Hardware Engineering | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3108064/regulatory-compliance-engineer-jwo-hardware-engineering) | 15h |
 | Hardware Developer Engineer, Quantum Engineering, AWS CQC- Fab | Pasadena, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3087607/hardware-developer-engineer-quantum-engineering-aws-cqc-fab) | 3w |
 | Hardware Dev Engineer, Project Kuiper | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3104496/hardware-dev-engineer-project-kuiper) | 6d |
 | Operations Engineer II, Total GCF Field | Boston | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3106097/operations-engineer-ii-total-gcf-field) | 4d |
@@ -209,9 +209,9 @@
 | Postdoctoral Researcher | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) | 1d |
 | Mixed Signal Circuit Design Engineer - Entry Level | ROCHESTER | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA) | 1d |
 
-### 💻 **Enterprise Software** (20 positions)
+### 💻 **Enterprise Software** (21 positions)
 
-#### 🖥️ **Hewlett Packard Enterprise** (8 positions)
+#### 🖥️ **Hewlett Packard Enterprise** (9 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -223,6 +223,7 @@
 | Computer Test Technician - 1st Shift | Chippewa Falls, Wisconsin | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Computer-Test-Technician---1st-Shift_1192856-2?q=hardware+engineering) | 5d |
 | High Performance Compute Engineer | ngalore, Karnataka | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Bangalore-Karnataka-India/High-Performance-Compute-Engineer_1193403-1?q=hardware+engineering) | 3w |
 | Software QA Engineer | ngalore, Karnataka | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Bangalore-Karnataka-India/Software-QA-Engineer_1193780?q=hardware+engineering) | 3w |
+| Field Technical Support Engineer | Chantilly, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Chantilly-Virginia-United-States-of-America/Senior-Technology-Consultant_1190034-1?q=hardware+engineering) | 3w |
 
 #### 📡 **Broadcom** (3 positions)
 
@@ -246,7 +247,7 @@
 | Outside Plant Technician | Greensburg, Pennsylvania | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Greensburg-Pennsylvania/Outside-Plant-Technician_R-1085583?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 | Outside Plant Technician | entown, Pennsylvania | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Allentown-Pennsylvania/Outside-Plant-Technician_R-1084599?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4w |
 
-### 🚀 **Startups & Growth** (27 positions)
+### 🚀 **Startups & Growth** (26 positions)
 
 <details>
 <summary><h4>🛡️ <strong>BAE Systems</strong> (17 positions)</h4></summary>
@@ -279,7 +280,7 @@
 |------|----------|-----------|-----|
 | BAS Technician | US AL, Huntsville | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---AL-Huntsville/BAS-Technician_32779?q=hardware+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 
-#### ⚙️ **General Dynamics** (9 positions)
+#### ⚙️ **General Dynamics** (8 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -291,7 +292,6 @@
 | Network Engineer | USA VA Springfield | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Network-Engineer_RQ207777-1?q=hardware+engineering) | 1w |
 | Software Developer, Mid - Active Top Secret required | USA DC Washington | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Software-Developer--Mid_RQ204617-2?q=hardware+engineering) | 1w |
 | Network Engineer SME | USA VA Hampton | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Hampton/Systems-Engineer-Expert_RQ203315?q=hardware+engineering) | 1w |
-| Engineer (Tactical Network - CANES) - Active Secret clearance | USA CA San Diego | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Engineer--Tactical-Network---CANES----Active-Secret-clearance_RQ207961-2?q=hardware+engineering) | 5d |
 
 ### 🛒 **Consumer & E-Commerce** (2 positions)
 
@@ -321,14 +321,15 @@
 |------|----------|-----------|-----|
 | Systems Integration Engineer 🏠 | US California San Diego | [<img src="./image.png" width="100" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Systems-Integration-Engineer-1_41358-JOB-1?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4w |
 
-### 🏭 **Manufacturing & Industrial** (51 positions)
+### 🏭 **Manufacturing & Industrial** (52 positions)
 
-#### 💪 **Arm** (3 positions)
+#### 💪 **Arm** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Intern AI/ML Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/intern-ai-ml-engineer/33099/86634179152) | 1d |
 | Graduate GPU Modeling Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/graduate-gpu-modeling-engineer/33099/70199981248) | 1d |
+| Field Application Engineer (FAE) | San Jose, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/san-jose/field-application-engineer-fae/33099/82957297728) | 1d |
 | Engineering Designer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/engineering-designer/33099/84751646464) | 1d |
 
 #### 💾 **Micron Technology** (9 positions)
@@ -336,27 +337,27 @@
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Intern - Hardware Validation Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38306490) | 2w |
-| Intern – Manufacturing Development Engineering – Process | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38444558) | 6d |
 | Intern - Probe Engineering | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30700221) | 3w |
+| Intern – Manufacturing Development Engineering – Process | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38444558) | 6d |
 | Intern - Design Engineering, HBM | Richardson, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30954489) | 6d |
 | DRAM Product Engineer | nassas, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30826027) | 1d |
-| Memory Design Engineer, HBM | Richardson, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com) | 6d |
 | MTS Module Validation Developer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38467305) | 2d |
 | Quality Technician | Longmont, Colorado | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/27273578) | 1d |
 | Fab Support Equipment Maintenance Technician | nassas, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/37974392) | 3w |
+| Intern - HBM Design Engineer | Richardson, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38283374) | 2w |
 
 #### ⚡ **ABB** (8 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| R&D HW Engineer | Location Bartlesville, Oklahoma | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/97048016/R-D-HW-Engineer) | 1h |
+| Quality Engineer | Location Mount Juliet, Tennessee | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008605/Quality-Engineer) | 1h |
 | R&D Associate Engineer | Location Cleveland, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010453/R-D-Associate-Engineer) | 1h |
 | Project Engineer Co-op - Spring | Location Cleveland, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010042/Project-Engineer-Co-op-Spring-2026) | 1h |
-| Quality Engineer | Location Mount Juliet, Tennessee | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008605/Quality-Engineer) | 1h |
 | Associate Application Engineer | Location Alpharetta, Georgia | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012337/Associate-Application-Engineer) | 1h |
-| R&D HW Engineer | Location Bartlesville, Oklahoma | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/97048016/R-D-HW-Engineer) | 1h |
+| Automation Engineer Intern - Summer | Location Houston, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011245/Automation-Engineer-Intern-Summer-2026) | 1h |
 | Power Electronics Intern - Spring | Location Raleigh, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009444/Power-Electronics-Intern-Spring-2026) | 1h |
 | Plastic Case Production Operator - Winder - 1st Shift | Location Pinetops, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00005520/Plastic-Case-Production-Operator-Winder-1st-Shift) | 1h |
-| Automation Engineer Intern - Summer | Location Houston, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011245/Automation-Engineer-Intern-Summer-2026) | 1h |
 
 #### 🔌 **Infineon Technologies** (3 positions)
 
@@ -426,7 +427,7 @@
 
 
 #### ☁️ **Enterprise & Cloud** (9 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (8 positions) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (3) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (9) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (2) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (6) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (6) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (13) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (11)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (9 positions) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (3) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (9) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (2) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (6) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (6) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (13) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (11)
 
 ---
 
@@ -434,19 +435,19 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 49 | 24% | No or minimal experience |
-| 🟡 Beginner & Early Career | 63 | 30% | 1-2 years of experience |
-| 🔴 Manager         | 95 | 46% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 48 | 22% | No or minimal experience |
+| 🟡 Beginner & Early Career | 64 | 30% | 1-2 years of experience |
+| 🔴 Manager         | 102 | 48% | 2+ years of experience |
 
 ---
 
 ## 🌍 **Top Locations**
 
 - **Mountain View, CA**: 15 positions
-- **US, CA**: 10 positions
-- **Sunnyvale, CA**: 9 positions
+- **Sunnyvale, CA**: 12 positions
+- **US, CA**: 11 positions
 - **US, TX**: 8 positions
-- **San Francisco, California**: 7 positions
+- **San Francisco, California**: 8 positions
 - **Austin**: 4 positions
 - **Boise, Idaho**: 4 positions
 - **Lowell, Massachusetts**: 4 positions
@@ -455,7 +456,7 @@
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 207+ verified CS internships and entry-level hardware roles from 27 elite tech companies.
+✅ **100% Real Jobs:** 214+ verified CS internships and entry-level hardware roles from 27 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -509,7 +510,7 @@
 
 <div align="center">
 
-**🎯 207 current opportunities from 27 elite companies.**
+**🎯 214 current opportunities from 27 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
