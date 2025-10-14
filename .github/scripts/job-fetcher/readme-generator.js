@@ -263,12 +263,12 @@ async function generateReadme(
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 24 hours. **Filtered for US-based positions.**
 
-## 🌟 **Join Community**
+## 🌟 **Join Our Community**
 - Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join thousands of developers navigating their career journey together!
 
  <div align="center">
   <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
-    <img src="./discord-button.png" width="600" alt="Join Discord - Job Finder & Career Hub by Zapply">
+    <img src="./discord-button.png" width="400" alt="Join Discord - Job Finder & Career Hub by Zapply">
   </a>
 </div>
 
@@ -485,6 +485,7 @@ module.exports = {
   generateReadme,
   updateReadme,
 };
+
 
 
 
