@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Formal Verification Engineer, Silicon",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "hardware engineering job for the role Formal Verification Engineer, Silicon",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/138230769167278790-formal-verification-engineer-silicon?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1",
-    "id": "google-formal-verification-engineer-silicon-mountain-view"
+    "employer_name": "Micron Technology",
+    "job_title": "Memory Design Engineer, HBM",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "6d",
+    "job_description": "• Maintain technical expertise through continuous training and cross-group communication Ability to convey sophisticated technical concepts clearly in verbal and written form Familiarity with schematic entry and simulation using FineSim and/or HSPICE Experience working in a collaborative, fast-paced engineering environment Effective communication skills for multi-functional collaboration Experience with scripting languages (Python, TCL, Perl, etc.\n• ) Familiarity with DRAM memory concepts and SoC/IO interfaces Basic knowledge of CMOS circuit design and device physics Experience with Verilog modeling and simulation tools Strong problem-solving and analytical skills.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-memory-design-engineer-hbm-richardson"
   }
 ]
