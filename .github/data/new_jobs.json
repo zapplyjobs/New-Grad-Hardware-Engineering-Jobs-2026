@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Computer Vision Engineer",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_posted_at": "14h",
+    "job_description": "• Strong background in computer vision, ML, and Python/C++ development.\n• Proven experience leading large-scale engineering or device projects.\n• Hands-on IIoT and system design experience.\n• Excellent communication and stakeholder management skills.\n• Lead end-to-end engineering projects integrating computer vision, ML, and IIoT.\n• Design and implement real-time vision systems and hardware solutions.\n• Collaborate with cross-functional teams to develop models, simulations, and prototypes.\n• Manage multiple initiatives and drive engineering excellence through documentation and standards.",
+    "job_apply_link": "https://www.aijobs.com/jobs/167153568-computer-vision-engineer",
+    "id": "ai-jobs-computer-vision-engineer-bellevue"
+  }
+]
