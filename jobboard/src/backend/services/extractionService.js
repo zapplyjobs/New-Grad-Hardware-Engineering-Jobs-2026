@@ -185,10 +185,33 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
     index
   );
 
-  // Build full apply link
-  let finalApplyLink = buildApplyLink(rawJobData.applyLink, company.baseUrl || '');
-  if (!finalApplyLink && company.baseUrl) {
-    finalApplyLink = company.baseUrl;
+  // ============ EXTRACT URL FOR MICROSOFT (after click) ============
+  let finalApplyLink = '';
+  
+  if (selector.extractUrlAfterClick) {
+    try {
+      console.log(`[${selector.name} ${index + 1}] Clicking job to extract URL...`);
+      
+      // Click on the job element
+      await jobElement.click();
+      
+      // Wait for URL to update
+      await new Promise(resolve => setTimeout(resolve, 1200));
+      
+      // Get the current page URL
+      finalApplyLink = page.url();
+      
+      console.log(`[${selector.name} ${index + 1}] Extracted URL after click: ${finalApplyLink}`);
+    } catch (error) {
+      console.error(`[${selector.name} ${index + 1}] Failed to extract URL after click: ${error.message}`);
+      finalApplyLink = company.baseUrl || '';
+    }
+  } else {
+    // Standard link building for other companies
+    finalApplyLink = buildApplyLink(rawJobData.applyLink, company.baseUrl || '');
+    if (!finalApplyLink && company.baseUrl) {
+      finalApplyLink = company.baseUrl;
+    }
   }
 
   // Build job object
@@ -227,7 +250,7 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
  * @returns {string} Job description
  */
 async function extractDescriptionSamePage(page, jobIndex, selector, jobNumber) {
-  let retries = 3;
+  let retries = 1;
   
   while (retries > 0) {
     try {
