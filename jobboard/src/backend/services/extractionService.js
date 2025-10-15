@@ -242,7 +242,7 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
 }
 
 /**
- * OPTIMIZED: Extract description on same page with minimal retries
+ * FIXED: Extract description on same page by using job index instead of element reference
  * @param {Object} page - Puppeteer page instance
  * @param {number} jobIndex - Job element index (0-based)
  * @param {Object} selector - Selector configuration
@@ -254,66 +254,64 @@ async function extractDescriptionSamePage(page, jobIndex, selector, jobNumber) {
   
   while (retries > 0) {
     try {
-      console.log(`[${jobNumber}] Same-page description extraction...`);
-
-      // OPTIMIZATION: Reduced timeout from 5000ms to 2000ms
-      await page.waitForSelector(selector.jobSelector, { timeout: 2000 });
-
+      console.log(`[${jobNumber}] Same-page description extraction (attempt ${4 - retries})...`);
+      
+      // Wait for job elements to be stable
+      await page.waitForSelector(selector.jobSelector, { timeout: 5000 });
+      
       // Use page.evaluate to handle clicking in a more robust way - avoids detached nodes
       const clickResult = await page.evaluate((jobSelector, titleSelector, jobIdx) => {
         const jobElements = document.querySelectorAll(jobSelector);
-
+        
         if (!jobElements[jobIdx]) {
           return { success: false, error: 'Job element not found' };
         }
-
+        
         const titleElement = jobElements[jobIdx].querySelector(titleSelector);
         if (!titleElement) {
           return { success: false, error: 'Title element not found' };
         }
-
+        
         titleElement.click();
         return { success: true };
       }, selector.jobSelector, selector.titleSelector, jobIndex);
-
+      
       if (!clickResult.success) {
         throw new Error(clickResult.error);
       }
-
-      // OPTIMIZATION: Reduced wait from 1200ms to 800ms
-      await new Promise(resolve => setTimeout(resolve, 800));
-
-      // OPTIMIZATION: Reduced timeout from 6000ms to 3000ms
-      await page.waitForSelector(selector.descriptionSelector, { timeout: 3000 });
-
+      
+      // Wait for description to load
+      await new Promise(resolve => setTimeout(resolve, 1200));
+      await page.waitForSelector(selector.descriptionSelector, { timeout: 6000 });
+      
       // Extract description
       const description = await extractAndFormatDescription(page, selector.descriptionSelector);
-
-      console.log(`[${jobNumber}] Description extracted (${description.length} chars)`);
+      
+      console.log(`[${jobNumber}] Same-page description extracted (${description.length} chars)`);
       return description;
-
+      
     } catch (error) {
       retries--;
-      // OPTIMIZATION: Skip retry if it's a selector issue (likely won't work on retry)
-      if (error.message.includes('element not found') || error.message.includes('Waiting for selector')) {
-        console.log(`[${jobNumber}] Skipping description - selector issue: ${error.message}`);
-        return 'Description not available';
-      }
-
+      console.warn(`[${jobNumber}] Same-page attempt failed: ${error.message}${retries > 0 ? ' - Retrying...' : ''}`);
+      
       if (retries > 0) {
-        console.warn(`[${jobNumber}] Retrying once: ${error.message}`);
-        // OPTIMIZATION: Reduced wait from 1000ms to 500ms
-        await new Promise(resolve => setTimeout(resolve, 500));
+        // Wait before retry and refresh page state if needed
+        await new Promise(resolve => setTimeout(resolve, 1000));
+        try {
+          // Just wait for elements to be stable again, don't reload
+          await waitForJobSelector(page, selector.jobSelector);
+        } catch (waitError) {
+          console.warn(`[${jobNumber}] Wait for job selector failed: ${waitError.message}`);
+        }
       }
     }
   }
-
-  // Return empty string instead of long error message
-  return '';
+  
+  return 'Same-page description extraction failed after retries';
 }
 
 /**
- * OPTIMIZED: Extract description by navigating to job details page with reduced retries
+ * Extract description by navigating to job details page
  * @param {Object} page - Puppeteer page instance
  * @param {string} applyLink - URL to job details page
  * @param {Object} selector - Selector configuration
@@ -322,56 +320,69 @@ async function extractDescriptionSamePage(page, jobIndex, selector, jobNumber) {
  * @returns {string} Job description
  */
 async function extractDescriptionNextPage(page, applyLink, selector, originalUrl, jobNumber) {
-  // OPTIMIZATION: Reduced from 2 retries to 0 retries (no retries for next-page)
-  // Next-page navigation is expensive, if it fails once, move on
-
-  try {
-    console.log(`[${jobNumber}] Next-page extraction...`);
-
-    // Convert apply link to description link and navigate
-    const descriptionLink = convertToDescriptionLink(applyLink, selector.name);
-
-    // OPTIMIZATION: Reduced timeout from 20000ms to 10000ms
-    await page.goto(descriptionLink, {
-      waitUntil: 'domcontentloaded',
-      timeout: 10000
-    });
-
-    // OPTIMIZATION: Reduced timeout from 10000ms to 5000ms
-    await page.waitForSelector(selector.descriptionSelector, { timeout: 5000 });
-    const description = await extractAndFormatDescription(page, selector.descriptionSelector);
-
-    console.log(`[${jobNumber}] Description extracted (${description.length} chars)`);
-
-    // Navigate back to the original listing page
+  let retries = 2;
+  
+  while (retries > 0) {
     try {
-      // OPTIMIZATION: Reduced timeout from 115000ms to 10000ms
-      await page.goto(originalUrl, {
-        waitUntil: 'domcontentloaded',
-        timeout: 10000
+      console.log(`[${jobNumber}] Next-page extraction (attempt ${3 - retries})...`);
+      
+      // Convert apply link to description link and navigate
+      const descriptionLink = convertToDescriptionLink(applyLink, selector.name);
+      console.log(`[${jobNumber}] Converting ${applyLink} to ${descriptionLink}`);
+      
+      await page.goto(descriptionLink, { 
+        waitUntil: 'domcontentloaded', 
+        timeout: 20000 
       });
-      await waitForJobSelector(page, selector.jobSelector);
-      // OPTIMIZATION: Removed unnecessary 500ms wait
-    } catch (backNavError) {
-      console.warn(`[${jobNumber}] Failed to return to listing: ${backNavError.message}`);
-      // Still return the description even if navigation back fails
+      
+      // Extract description
+      await page.waitForSelector(selector.descriptionSelector, { timeout: 10000 });
+      const description = await extractAndFormatDescription(page, selector.descriptionSelector);
+      
+      console.log(`[${jobNumber}] Next-page description extracted (${description.length} chars)`);
+      
+      // Navigate back to the original listing page
+      try {
+        await page.goto(originalUrl, { 
+          waitUntil: 'domcontentloaded', 
+          timeout: 115000 
+        });
+        await waitForJobSelector(page, selector.jobSelector);
+        await new Promise(resolve => setTimeout(resolve, 500)); // Brief pause for page stability
+        console.log(`[${jobNumber}] Successfully returned to listing page`);
+      } catch (backNavError) {
+        console.error(`[${jobNumber}] Failed to navigate back to listing: ${backNavError.message}`);
+        // Still return the description even if navigation back fails
+      }
+      
+      return description;
+      
+    } catch (error) {
+      retries--;
+      console.warn(`[${jobNumber}] Next-page attempt failed: ${error.message}${retries > 0 ? ' - Retrying...' : ''}`);
+      
+      if (retries > 0) {
+        // Try to go back to original URL before retrying
+        try {
+          await page.goto(originalUrl, { waitUntil: 'domcontentloaded', timeout: 10000 });
+          await waitForJobSelector(page, selector.jobSelector);
+        } catch (retryNavError) {
+          console.error(`Failed to navigate back for retry: ${retryNavError.message}`);
+        }
+        await new Promise(resolve => setTimeout(resolve, 1000));
+      }
     }
-
-    return description;
-
-  } catch (error) {
-    console.log(`[${jobNumber}] Next-page extraction skipped: ${error.message}`);
-
-    // Try to go back to original URL
-    try {
-      await page.goto(originalUrl, { waitUntil: 'domcontentloaded', timeout: 10000 });
-      await waitForJobSelector(page, selector.jobSelector);
-    } catch (navError) {
-      console.error(`[${jobNumber}] Failed to return to listing: ${navError.message}`);
-    }
-
-    return ''; // Return empty string instead of error message
   }
+  
+  // If all retries failed, make sure we're back on the listing page
+  try {
+    await page.goto(originalUrl, { waitUntil: 'domcontentloaded', timeout: 15000 });
+    await waitForJobSelector(page, selector.jobSelector);
+  } catch (finalNavError) {
+    console.error(`[${jobNumber}] Failed final navigation back to listing: ${finalNavError.message}`);
+  }
+  
+  return 'Next-page description extraction failed after retries';
 }
 
 /**
