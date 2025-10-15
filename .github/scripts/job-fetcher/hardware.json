@@ -1,0 +1,52 @@
+{
+  "faang_plus": {
+    "companies": ["Amazon", "Microsoft", "Meta", "Google", "Apple"],
+    "emoji": "⭐",
+    "title": "FAANG+"
+  },
+  "top_tech": {
+    "companies": ["Marvel Technology", "Synopsys", "NVIDIA", "Intel", "AMD", "Salesforce", "IBM"],
+    "emoji": "🏢",
+    "title": "Top Tech"
+  },
+  "enterprise": {
+    "companies": ["Cisco", "Hewlett Packard Enterprise", "Dell", "Broadcom", "Verizon", "Workday"],
+    "emoji": "💻",
+    "title": "Enterprise Software"
+  },
+  "startups": {
+    "companies": ["BAE Systems", "Guidehouse", "General Dynamics"],
+    "emoji": "🚀",
+    "title": "Startups & Growth"
+  },
+  "consumer": {
+    "companies": ["RIVIAN"],
+    "emoji": "🛒",
+    "title": "Consumer & E-Commerce"
+  },
+  "fintech": {
+    "companies": ["JPMorgan Chase"],
+    "emoji": "💰",
+    "title": "Financial & Fintech"
+  },
+  "defense": {
+    "companies": ["Waymo"],
+    "emoji": "🛡️",
+    "title": "Defense & Aerospace"
+  },
+  "healthcare": {
+    "companies": ["Illumina", "10x Genomics"],
+    "emoji": "🏥",
+    "title": "Healthcare & Life Sciences"
+  },
+  "manufacturing": {
+    "companies": ["Applied Materials", "Arm", "Micron Technology", "ABB", "Infineon Technologies", "Texas Instruments", "Siemens", "Analog Devices", "Honeywell", "Magna International"],
+    "emoji": "🏭",
+    "title": "Manufacturing & Industrial"
+  },
+  "analytics": {
+    "companies": [],
+    "emoji": "📊",
+    "title": "Analytics & EdTech"
+  }
+}
