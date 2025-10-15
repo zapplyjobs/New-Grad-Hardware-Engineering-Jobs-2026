@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Software Acceleration Engineer, Consumer Products",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Have deep experience designing and building scalable software systems.\n• Empathize with the frustrations and processes that slow engineering teams down, informed by hands-on experience.\n• (Nice to have) Have a voracious and intrinsic desire to learn new skills and share knowledge clearly and concisely.\n• (Nice to have) Are comfortable with ambiguity and rapidly changing conditions, seeing change as an opportunity to add structure and order when needed.\n• (Nice to have) Have experience maintaining a quality bar and engineering velocity for products shipped at large scale.\n• Cross-team enablement: Work directly with hardware and software teams to map pain points, capture requirements, and build tools that solve real-world bottlenecks.\n• Existing ecosystem integration: Collaborate with the broader Engineering Acceleration team to adopt and evolve their internal systems for the unique needs of consumer hardware and software.\n• Are proficient in Python, C, C++, or Rust, with solid Linux fundamentals (build systems, networking, process management).",
+    "job_apply_link": "https://www.aijobs.com/jobs/167272379-software-acceleration-engineer-consumer-products",
+    "id": "ai-jobs-software-acceleration-engineer-consumer-products-san-francisco"
+  }
+]
