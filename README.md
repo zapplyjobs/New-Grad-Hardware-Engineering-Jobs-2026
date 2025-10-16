@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 16+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 18+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -17,9 +17,9 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 94 
-- **🏢 Companies**: 16 elite tech companies
-- **⭐ FAANG+ Jobs**: 31 premium opportunities  
+- **🔥 Active Positions**: 97 
+- **🏢 Companies**: 18 elite tech companies
+- **⭐ FAANG+ Jobs**: 33 premium opportunities  
 - **📅 Last Updated**: October 16, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 0 (older than 1 week)
@@ -66,7 +66,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (31 positions)
+### ⭐ **FAANG+** (33 positions)
 
 #### 📦 **Amazon** (2 positions)
 
@@ -74,6 +74,12 @@
 |------|----------|-----------|-----|
 | Regulatory Compliance Engineer, JWO Hardware Engineering | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3108064/regulatory-compliance-engineer-jwo-hardware-engineering) | 2d |
 | Operations Engineer II, Total GCF Field | Boston | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3106097/operations-engineer-ii-total-gcf-field) | 6d |
+
+#### 🟦 **Microsoft** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Mechanical Engineer: Internship Opportunities - PhD - Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1d |
 
 <details>
 <summary><h4>🟢 <strong>Google</strong> (29 positions)</h4></summary>
@@ -112,7 +118,13 @@
 
 </details>
 
-### 🏢 **Top Tech** (20 positions)
+#### 🍎 **Apple** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| iPad Hardware System Design Engineer | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625685-0157/ipad-hardware-system-design-engineer?team=HRDWR) | 3d |
+
+### 🏢 **Top Tech** (21 positions)
 
 #### 🔷 **Intel** (1 position)
 
@@ -136,7 +148,7 @@
 | Design Verification Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/67993/login) | 1d |
 | C-Simulation Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71273/login) | 1d |
 
-#### 🔵 **IBM** (8 positions)
+#### 🔵 **IBM** (9 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -146,8 +158,9 @@
 | Back-End Developer Co-op | shipTUCSON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63092&source=WEB_Search_NA) | 1d |
 | System Services Representative Austin, Texas | Austin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59666&source=WEB_Search_NA) | 1d |
 | Support Engineer - HashiCorp | Austin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA) | 1d |
-| Postdoctoral Researcher | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) | 1d |
 | Mixed Signal Circuit Design Engineer - Entry Level | ROCHESTER | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA) | 1d |
+| Postdoctoral Researcher | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) | 1d |
+| Technical Support Engineer Bellevue, Washington | BELLEVUE | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=42826&source=WEB_Search_NA) | 1d |
 
 ### 💻 **Enterprise Software** (8 positions)
 
@@ -235,8 +248,8 @@
 | R&D Associate Engineer | Location Cleveland, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010453/R-D-Associate-Engineer) | 1h |
 | Project Engineer Co-op - Spring | Location Cleveland, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010042/Project-Engineer-Co-op-Spring-2026) | 1h |
 | Associate Application Engineer | Location Alpharetta, Georgia | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012337/Associate-Application-Engineer) | 1h |
-| Plastic Case Production Operator - Winder - 1st Shift | Location Pinetops, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00005520/Plastic-Case-Production-Operator-Winder-1st-Shift) | 1h |
 | Power Electronics Intern - Spring | Location Raleigh, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009444/Power-Electronics-Intern-Spring-2026) | 1h |
+| Plastic Case Production Operator - Winder - 1st Shift | Location Pinetops, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00005520/Plastic-Case-Production-Operator-Winder-1st-Shift) | 1h |
 
 #### 🏗️ **Honeywell** (3 positions)
 
@@ -265,8 +278,8 @@
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **FAANG+** (2 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (2)
+#### ⭐ **FAANG+** (4 companies)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (2)
 
 
 #### 💰 **Fintech Leaders** (1 company)
@@ -274,7 +287,7 @@
 
 
 #### ☁️ **Enterprise & Cloud** (5 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (2 positions) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (6) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (11) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (8)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (2 positions) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (6) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (11) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (9)
 
 ---
 
@@ -283,8 +296,8 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 22 | 23% | No or minimal experience |
-| 🟡 Beginner & Early Career | 36 | 38% | 1-2 years of experience |
-| 🔴 Manager         | 36 | 38% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 39 | 40% | 1-2 years of experience |
+| 🔴 Manager         | 36 | 37% | 2+ years of experience |
 
 ---
 
@@ -295,15 +308,15 @@
 - **US, TX**: 5 positions
 - **US, CA**: 5 positions
 - **Austin, Texas**: 4 positions
+- **Austin**: 3 positions
 - **Highland Park, Michigan**: 3 positions
-- **Austin**: 2 positions
 - **Boise, Idaho**: 2 positions
 
 ---
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 94+ verified CS internships and entry-level hardware roles from 16 elite tech companies.
+✅ **100% Real Jobs:** 97+ verified CS internships and entry-level hardware roles from 18 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -357,7 +370,7 @@
 
 <div align="center">
 
-**🎯 94 current opportunities from 16 elite companies.**
+**🎯 97 current opportunities from 18 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
