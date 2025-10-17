@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Illumina",
-    "job_title": "BMS Technician 3- 1st Shift",
-    "job_city": "US California San Diego",
+    "employer_name": "Apple",
+    "job_title": "Connectivity RF Hardware Design Engineer",
+    "job_city": "Sunnyvale",
     "job_state": "",
-    "job_posted_at": "1d",
-    "job_description": "• Staff Hardware Systems Engineer (Embedded)locationsUS - California - San Diegoposted onPosted 28 Days Ago41221-JOBSr.\n• Deep Learning/AI Engineer - Machine Learning (Hybrid or Remote)locations7 Locationsposted onPosted 29 Days Ago40197-JOBStaff Software Engineer - Instrument SoftwarelocationsUS - California - San Diegoposted onPosted 14 Days Ago41346-JOBOnsite Service Engineer 2locationsUS - California - Northern - Remoteposted onPosted 30+ Days Ago41170-JOBBMS Technician 3- 1st ShiftlocationsUS - California - San Diegoposted onPosted Today41132-JOB.",
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Facilities-Maintenance-Technician-2--2nd-Shift_41132-JOB?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "illumina-bms-technician-3-1st-shift-us-california-san-diego"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Automation Software Development Integration Engineer",
-    "job_city": "US",
-    "job_state": "Arizona",
-    "job_posted_at": "1d",
-    "job_description": "hardware engineering job for the role Automation Software Development Integration Engineer",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Automation-Software-Development-Integration-Engineer_JR0277568?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-automation-software-development-integration-engineer-us"
+    "job_posted_at": "23h",
+    "job_description": "• Minimum QualificationsB.\n• And relevant industry experienceExperience with RF component and circuit integration into consumer productsFluent in one or more connectivity wireless system like WiFi, Bluetooth, UWB or NFCMust be an excellent communicator, both written and oralMust be able to interact closely with offshore engineering development and manufacturing partnersSuccessful track record of delivering highly innovative, and high quality communications productsBe well organized and have the ability to be flexible in a changing work environmentInternational travel as needed (10%).",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200627021-3956/connectivity-rf-hardware-design-engineer?team=HRDWR",
+    "id": "apple-connectivity-rf-hardware-design-engineer-sunnyvale"
   }
 ]
