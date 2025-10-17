@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 18+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 19+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -17,9 +17,9 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 101 
-- **🏢 Companies**: 18 elite tech companies
-- **⭐ FAANG+ Jobs**: 32 premium opportunities  
+- **🔥 Active Positions**: 104 
+- **🏢 Companies**: 19 elite tech companies
+- **⭐ FAANG+ Jobs**: 34 premium opportunities  
 - **📅 Last Updated**: October 17, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 0 (older than 1 week)
@@ -66,7 +66,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (32 positions)
+### ⭐ **FAANG+** (34 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -78,7 +78,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Mechanical Engineer: Internship Opportunities - PhD - Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1d |
+| Software Engineer: Azure Data Intern Opportunities for University Students, Austin | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1d |
 
 <details>
 <summary><h4>🟢 <strong>Google</strong> (30 positions)</h4></summary>
@@ -118,6 +118,13 @@
 
 </details>
 
+#### 🍎 **Apple** (2 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| iPad Hardware System Design Engineer | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625685-0157/ipad-hardware-system-design-engineer?team=HRDWR) | 4d |
+| Cellular RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626632-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 1d |
+
 ### 🏢 **Top Tech** (26 positions)
 
 #### 💾 **Marvel Technology** (1 position)
@@ -130,7 +137,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| IP Applications Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/austin/ip-applications-engineer/44408/87352001888) | 14h |
+| IP Applications Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/austin/ip-applications-engineer/44408/87352001888) | 15h |
 
 #### 🔷 **Intel** (5 positions)
 
@@ -167,8 +174,8 @@
 | Data Scientist Intern | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63317&source=WEB_Search_NA) | 1d |
 | System Services Representative Austin, Texas | Austin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59666&source=WEB_Search_NA) | 1d |
 | Support Engineer - HashiCorp | Austin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA) | 1d |
-| Postdoctoral Researcher | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) | 1d |
 | Mixed Signal Circuit Design Engineer - Entry Level | ROCHESTER | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA) | 1d |
+| Postdoctoral Researcher | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) | 1d |
 | Technical Support Engineer Bellevue, Washington | BELLEVUE | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=42826&source=WEB_Search_NA) | 1d |
 
 ### 💻 **Enterprise Software** (10 positions)
@@ -232,7 +239,7 @@
 | Technology Support III - Application Support | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210648829/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Quant Researcher & Developer | Boston | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210670287/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 
-### 🏭 **Manufacturing & Industrial** (20 positions)
+### 🏭 **Manufacturing & Industrial** (21 positions)
 
 #### 💪 **Arm** (2 positions)
 
@@ -262,12 +269,13 @@
 | AI Engineer/Data Scientist | Atlanta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/118385/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Systems Engineer | Clearwater, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/123859/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 
-#### 🚗 **Magna International** (7 positions)
+#### 🚗 **Magna International** (8 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | eMotor Design Engineer | Troy, Michigan | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/eMotor-Design-Engineer_R00198172-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 4d |
 | QA Engineer | Lowell, Massachusetts | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/QA-Engineer_R00201549?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 3d |
+| Controls/Automation Engineer | Troy, Michigan | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Controls-Automation-Engineer_R00203332-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Controls Engineer | Highland Park, Michigan | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Controls-Engineer_R00215662?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 3d |
 | Quality Engineer | Shepherdsville, Kentucky | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Shepherdsville-Kentucky-US/Quality-Engineer_R00215974?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Quality Engineer Internship | Highland Park, Michigan | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Quality-Engineer-Internship_R00215681?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 3d |
@@ -282,8 +290,8 @@
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (30 positions) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+#### ⭐ **FAANG+** (4 companies)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (30 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (1 company)
@@ -299,9 +307,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 16 | 16% | No or minimal experience |
-| 🟡 Beginner & Early Career | 39 | 39% | 1-2 years of experience |
-| 🔴 Manager         | 46 | 46% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 15 | 14% | No or minimal experience |
+| 🟡 Beginner & Early Career | 42 | 40% | 1-2 years of experience |
+| 🔴 Manager         | 47 | 45% | 2+ years of experience |
 
 ---
 
@@ -311,16 +319,16 @@
 - **US, TX**: 5 positions
 - **US, CA**: 5 positions
 - **Sunnyvale, CA**: 5 positions
+- **Austin, Texas**: 4 positions
+- **Austin**: 3 positions
 - **Boise, Idaho**: 3 positions
 - **US, Texas**: 3 positions
-- **Highland Park, Michigan**: 3 positions
-- **Austin, Texas**: 3 positions
 
 ---
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 101+ verified CS internships and entry-level hardware roles from 18 elite tech companies.
+✅ **100% Real Jobs:** 104+ verified CS internships and entry-level hardware roles from 19 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -374,7 +382,7 @@
 
 <div align="center">
 
-**🎯 101 current opportunities from 18 elite companies.**
+**🎯 104 current opportunities from 19 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
