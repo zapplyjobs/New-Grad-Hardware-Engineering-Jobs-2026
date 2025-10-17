@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 19+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 18+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -17,9 +17,9 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 103 
-- **🏢 Companies**: 19 elite tech companies
-- **⭐ FAANG+ Jobs**: 34 premium opportunities  
+- **🔥 Active Positions**: 101 
+- **🏢 Companies**: 18 elite tech companies
+- **⭐ FAANG+ Jobs**: 32 premium opportunities  
 - **📅 Last Updated**: October 17, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 0 (older than 1 week)
@@ -66,7 +66,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (34 positions)
+### ⭐ **FAANG+** (32 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -118,13 +118,6 @@
 
 </details>
 
-#### 🍎 **Apple** (2 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| iPad Hardware System Design Engineer | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625685-0157/ipad-hardware-system-design-engineer?team=HRDWR) | 4d |
-| Cellular RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626632-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 1d |
-
 ### 🏢 **Top Tech** (26 positions)
 
 #### 💾 **Marvel Technology** (1 position)
@@ -137,7 +130,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| IP Applications Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/austin/ip-applications-engineer/44408/87352001888) | 13h |
+| IP Applications Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/austin/ip-applications-engineer/44408/87352001888) | 14h |
 
 #### 🔷 **Intel** (5 positions)
 
@@ -174,8 +167,8 @@
 | Data Scientist Intern | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63317&source=WEB_Search_NA) | 1d |
 | System Services Representative Austin, Texas | Austin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59666&source=WEB_Search_NA) | 1d |
 | Support Engineer - HashiCorp | Austin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA) | 1d |
-| Mixed Signal Circuit Design Engineer - Entry Level | ROCHESTER | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA) | 1d |
 | Postdoctoral Researcher | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) | 1d |
+| Mixed Signal Circuit Design Engineer - Entry Level | ROCHESTER | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA) | 1d |
 | Technical Support Engineer Bellevue, Washington | BELLEVUE | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=42826&source=WEB_Search_NA) | 1d |
 
 ### 💻 **Enterprise Software** (10 positions)
@@ -289,8 +282,8 @@
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **FAANG+** (4 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (30 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+#### ⭐ **FAANG+** (3 companies)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (30 positions) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (1 company)
@@ -307,8 +300,8 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 16 | 16% | No or minimal experience |
-| 🟡 Beginner & Early Career | 41 | 40% | 1-2 years of experience |
-| 🔴 Manager         | 46 | 45% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 39 | 39% | 1-2 years of experience |
+| 🔴 Manager         | 46 | 46% | 2+ years of experience |
 
 ---
 
@@ -318,16 +311,16 @@
 - **US, TX**: 5 positions
 - **US, CA**: 5 positions
 - **Sunnyvale, CA**: 5 positions
-- **Austin**: 3 positions
 - **Boise, Idaho**: 3 positions
 - **US, Texas**: 3 positions
 - **Highland Park, Michigan**: 3 positions
+- **Austin, Texas**: 3 positions
 
 ---
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 103+ verified CS internships and entry-level hardware roles from 19 elite tech companies.
+✅ **100% Real Jobs:** 101+ verified CS internships and entry-level hardware roles from 18 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -381,7 +374,7 @@
 
 <div align="center">
 
-**🎯 103 current opportunities from 19 elite companies.**
+**🎯 101 current opportunities from 18 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
