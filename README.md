@@ -17,7 +17,7 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 99 
+- **🔥 Active Positions**: 100 
 - **🏢 Companies**: 19 elite tech companies
 - **⭐ FAANG+ Jobs**: 34 premium opportunities  
 - **📅 Last Updated**: October 17, 2025
@@ -137,7 +137,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| IP Applications Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/austin/ip-applications-engineer/44408/87352001888) | 10h |
+| IP Applications Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/austin/ip-applications-engineer/44408/87352001888) | 11h |
 
 #### 🔷 **Intel** (5 positions)
 
@@ -174,8 +174,8 @@
 | Data Scientist Intern | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63317&source=WEB_Search_NA) | 1d |
 | System Services Representative Austin, Texas | Austin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59666&source=WEB_Search_NA) | 1d |
 | Support Engineer - HashiCorp | Austin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA) | 1d |
-| Mixed Signal Circuit Design Engineer - Entry Level | ROCHESTER | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA) | 1d |
 | Postdoctoral Researcher | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) | 1d |
+| Mixed Signal Circuit Design Engineer - Entry Level | ROCHESTER | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA) | 1d |
 | Technical Support Engineer Bellevue, Washington | BELLEVUE | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=42826&source=WEB_Search_NA) | 1d |
 
 ### 💻 **Enterprise Software** (9 positions)
@@ -237,14 +237,15 @@
 | Technology Support III - Application Support | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210648829/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Quant Researcher & Developer | Boston | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210670287/?keyword=hardware+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 
-### 🏭 **Manufacturing & Industrial** (18 positions)
+### 🏭 **Manufacturing & Industrial** (19 positions)
 
-#### 💪 **Arm** (2 positions)
+#### 💪 **Arm** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Intern AI/ML Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/intern-ai-ml-engineer/33099/86634179152) | 1d |
 | Graduate GPU Modeling Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/graduate-gpu-modeling-engineer/33099/70199981248) | 1d |
+| Field Application Engineer (FAE) | San Jose, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/san-jose/field-application-engineer-fae/33099/82957297728) | 1d |
 
 #### 💾 **Micron Technology** (4 positions)
 
@@ -303,7 +304,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 14 | 14% | No or minimal experience |
-| 🟡 Beginner & Early Career | 41 | 41% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 42 | 42% | 1-2 years of experience |
 | 🔴 Manager         | 44 | 44% | 2+ years of experience |
 
 ---
@@ -323,7 +324,7 @@
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 99+ verified CS internships and entry-level hardware roles from 19 elite tech companies.
+✅ **100% Real Jobs:** 100+ verified CS internships and entry-level hardware roles from 19 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -377,7 +378,7 @@
 
 <div align="center">
 
-**🎯 99 current opportunities from 19 elite companies.**
+**🎯 100 current opportunities from 19 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
