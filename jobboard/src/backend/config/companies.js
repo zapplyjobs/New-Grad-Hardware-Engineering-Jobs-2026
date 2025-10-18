@@ -25,7 +25,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "dell": {
       name: "Dell",
       baseUrl: "https://dell.wd1.myworkdayjobs.com",
-      url: `https://dell.wd1.myworkdayjobs.com/External?q=${encodeURIComponent(searchQuery)}&Location_Country=bc33aa3152ec42d4995f4791a106ed09`,
+      url: `https://dell.wd1.myworkdayjobs.com/External?q=${encodeURIComponent(searchQuery)}&Location_Country=bc33aa3152ec42d4995f4791a106ed09&Job_Profiles=914289f44c2f01475be600a29c39ecdb&Job_Profiles=914289f44c2f01b0c7aff9a19c39e0db&Job_Profiles=914289f44c2f01d8b3155fac9c39a8e9&Job_Profiles=914289f44c2f01ad5ccc2da09c39a5d9&Job_Profiles=914289f44c2f01b14805ccaa9c3924e7&Job_Profiles=914289f44c2f01251a64b7aa9c390ce7&Job_Profiles=914289f44c2f01fb8c5ab89e9c395bd8`,
       selector: selectors.dell
     },
 
@@ -48,16 +48,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       //done
     },
 
-    "siemens": {
-      name: "Siemens",
-      baseUrl: "https://jobs.siemens.com/careers",
-      url: `https://jobs.siemens.com/careers?query=${encodeURIComponent(searchQuery)}&location=USA&pid=563156126459716&level=recent%20college%20graduate&level=student%20%28not%20yet%20graduated%29&level=mid-level%20professional&level=early%20professional&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us`,
-      selector: selectors.siemens,
-      //no links 
-      //already applied filters
-      //done
-
-    },
+    
 
     analogdevices: {
       name: "Analog Devices",
@@ -106,7 +97,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "cisco": {
       name: "Cisco",
       baseUrl: `https://jobs.cisco.com/jobs/SearchJobs`,
-      url: `https://jobs.cisco.com/jobs/SearchJobs/${searchQuery}?21178=%5B169482%5D&21178_format=6020&21180=%5B166%2C164%2C165%5D&21180_format=6022&listFilterMode=1&projectOffset=${(pageNum - 1) * 10}`,
+      url: `https://jobs.cisco.com/jobs/SearchJobs/${searchQuery}?21178=%5B169482%5D&21178_format=6020&21180=%5B166%2C164%2C165%5D&21180_format=6022&21181=%5B186%5D&21181_format=6023&listFilterMode=1&projectOffset=${(pageNum - 1) * 10}`,
       selector: selectors.cisco
       // filtered by url for apprentice ,early in career ,intern
       //done
@@ -115,7 +106,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "gdit": {
       name: "General Dynamics",
       baseUrl: "https://gdit.wd5.myworkdayjobs.com",
-      url: `https://gdit.wd5.myworkdayjobs.com/External_Career_Site?q=${encodeURIComponent(searchQuery)}`,
+      url: `https://gdit.wd5.myworkdayjobs.com/External_Career_Site?q=Hardware`,
       selector: selectors.gdit
       // on clicking each job we have to use the selector
       // document.querySelector('.css-1x6f30n').textContent;
@@ -126,7 +117,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "10xgenomics": {
       name: "10x Genomics",
       baseUrl: "https://careers.10xgenomics.com",
-      url: `https://careers.10xgenomics.com/careers?query=${encodeURIComponent(searchQuery.replace(/ /g, '+'))}&start=${(pageNum - 1) * 10}&location=united+states&sort_by=solr&filter_include_remote=1`,
+      url: `https://careers.10xgenomics.com/careers?query=${encodeURIComponent(searchQuery.replace(/ /g, '+'))}&start=${(pageNum - 1) * 10}&location=united+states&sort_by=solr&filter_include_remote=1&filter_department=Engineering+-+Hardware`,
       selector: selectors['10xgenomics']
       //same click the job and use this selctor 
       // //#job-description-container > div > ul:nth-child(10)
@@ -136,7 +127,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "guidehouse": {
       name: "Guidehouse",
       baseUrl: "https://guidehouse.wd1.myworkdayjobs.com",
-      url: `https://guidehouse.wd1.myworkdayjobs.com/en-US/External?q=${encodeURIComponent(searchQuery)}&Location_Country=bc33aa3152ec42d4995f4791a106ed09`,
+      url: `https://guidehouse.wd1.myworkdayjobs.com/en-US/External?q=${encodeURIComponent(searchQuery)}&Location_Country=bc33aa3152ec42d4995f4791a106ed09&jobFamily=d44ba6ecd0281001edd9329c45a90000`,
       selector: selectors.guidehouse
       //same click one each job and use the selector
       //#mainContent > div > div.css-1142bqn > div > div > section > div > div.css-oa138a > div > div > div > div.css-1i27f3a > div > div.css-ydj8rt > ul:nth-child(13)
@@ -146,7 +137,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "hpe": {
       name: "Hewlett Packard Enterprise",
       baseUrl: "https://hpe.wd5.myworkdayjobs.com",
-      url: `https://hpe.wd5.myworkdayjobs.com/WFMathpe?q=${encodeURIComponent(searchQuery)}`,
+      url: `https://hpe.wd5.myworkdayjobs.com/WFMathpe?q=${encodeURIComponent(searchQuery)}&jobFamilyGroup=98cbd30d374e10333e00271ec8445e81`,
       selector: selectors.hpe
       //same as before click on each job and use this selector
       //#mainContent > div > div.css-1142bqn > div > div > section > div > div.css-oa138a > div > div > div > div.css-1i27f3a > div > div.css-11ukcqc
@@ -166,7 +157,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "intel": {
       name: "Intel",
       baseUrl: "https://intel.wd1.myworkdayjobs.com",
-      url: `https://intel.wd1.myworkdayjobs.com/External?q=${encodeURIComponent(searchQuery)}&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf`,
+      url: `https://intel.wd1.myworkdayjobs.com/External?q=${encodeURIComponent(searchQuery)}&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf&jobFamilyGroup=c37a9eaa90371000c6fd2261025d0000`,
       selector: selectors.intel
       // same as above and use the selector
       //#mainContent > div > div.css-1142bqn > div > div > section > div > div.css-oa138a > div > div > div > div.css-1i27f3a > div > div.css-1hv0qyi > div:nth-child(17)
@@ -176,7 +167,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "magna": {
       name: "Magna International",
       baseUrl: "https://wd3.myworkdaysite.com",
-      url: `https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna?q=${encodeURIComponent(searchQuery)}&Country=bc33aa3152ec42d4995f4791a106ed09`,
+      url: `https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna?q=Hardware%20Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df`,
       selector: selectors.magna
       //same use this selctor after clicking the job 
       //#mainContent > div > div.css-1142bqn > div > div > section > div > div.css-oa138a > div > div > div > div.css-1i27f3a > div > div.css-zokh5w > div:nth-child(11)
@@ -186,7 +177,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "marvel": {
       name: "Marvel Technology",
       baseUrl: "https://marvell.wd1.myworkdayjobs.com",
-      url: `https://marvell.wd1.myworkdayjobs.com/MarvellCareers?q=${encodeURIComponent(searchQuery)}&Country=bc33aa3152ec42d4995f4791a106ed09`,
+      url: `https://marvell.wd1.myworkdayjobs.com/MarvellCareers?q=${encodeURIComponent(searchQuery)}&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=65dea26481d0011d9f4e14dd98175801`,
       selector: selectors.marvel
       // //same use this selctor after clicking the job 
       //       //#mainContent > div > div.css-1142bqn > div > div > section > div > div.css-oa138a > div > div > div > div.css-1i27f3a > div > div.css-dwylkc > ul:nth-child(17)
@@ -196,7 +187,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "nvidia": {
       name: "NVIDIA",
       baseUrl: "https://nvidia.wd5.myworkdayjobs.com",
-      url: `https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=${encodeURIComponent(searchQuery)}&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8`,
+      url: `https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=${encodeURIComponent(searchQuery)}&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78`,
       selector: selectors.nvidia
       //same as above
       //#mainContent > div > div.css-1142bqn > div > div > section > div > div.css-oa138a > div > div > div > div.css-1i27f3a > div > div.css-4r17ng > ul:nth-child(9)
@@ -234,7 +225,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "amd": {
       name: "AMD",
       baseUrl: "",
-      url: `https://careers.amd.com/careers-home/jobs?&keywords=${encodeURIComponent(searchQuery)}&stretchUnit=MILES&stretch=10&location=United%20States&woe=12&regionCode=US&page=${pageNum}`,
+      url: `https://careers.amd.com/careers-home/jobs?&keywords=MTS%20Hardware%20Development%20Eng.&stretchUnit=MILES&stretch=10&location=United%20States&woe=12&regionCode=US&page=${pageNum}`,
       selector: selectors.amd
     },
     // done
@@ -246,7 +237,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "abb": {
       name: "ABB",
       baseUrl: "https://careers.abb/global/en/search-results",
-      url: `https://careers.abb/global/en/search-results?keywords=${encodeURIComponent(searchQuery)}&from=${(pageNum - 1) * 10}&s=1`,
+      url: `https://careers.abb/global/en/search-results?keywords=R&D%20Engineer&from=${(pageNum - 1) * 10}&s=1`,
       selector: selectors.abb,
       filters: {
         "applyUSAFilter": {
@@ -293,7 +284,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "rivian": {
       name: "RIVIAN",
       baseUrl: "https://careers.rivian.com/careers-home/jobs",
-      url: `https://careers.rivian.com/careers-home/jobs?keywords=${encodeURIComponent(searchQuery)}&location=united%20states&stretch=10&stretchUnit=MILES&sortBy=relevance&page=${pageNum}`,
+      url: `https://careers.rivian.com/careers-home/jobs?keywords=${encodeURIComponent(searchQuery)}&location=united%20states&stretch=10&stretchUnit=MILES&sortBy=relevance&page=${pageNum}&categories=Attributes%7CDesign%7CEnergy%20%26%20Charging%7CInformation%20Technology%7CManufacturing%7CService%7CSupply%20Chain%20%26%20Logistics%7CTest%20and%20Development`,
       selector: selectors.rivian
     },
 
@@ -308,12 +299,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     apple: {
       name: "Apple",
       baseUrl: "https://jobs.apple.com",
-      url: `https://jobs.apple.com/en-us/search?search=${encodeURIComponent(
-        searchQuery
-      ).replace(
-        /%20/g,
-        "+"
-      )}&sort=relevance&location=united-states-USA&page=${pageNum}`,
+      url: `https://jobs.apple.com/en-us/search?search=Hardware+Systems+Engineer&sort=relevance&location=united-states-USA&page=${pageNum}`,
       selector: selectors.apple,
     },
     //      "job_apply_link": "https://jobs.apple.com/en-us/details/200607287-0157/data science-development-engineer-data-center-data science?team=HRDWR"
@@ -340,7 +326,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       baseUrl: "https://careers.honeywell.com",
       url: `https://careers.honeywell.com/en/sites/Honeywell/jobs?keyword=${encodeURIComponent(
         searchQuery
-      )}&location=United+States&locationId=300000000469866&locationLevel=country&mode=location`,
+      )}&lastSelectedFacet=TITLES&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000017425610&selectedTitlesFacet=120%3B119%3B117%3B114%3B126%3B247%3B118`,
       selector: selectors.honeywell,
 
       //   //"job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/108065/?keyword=data science+engineer&location=United+States&locationId=300000000469866&locationLevel=country&mode=location"
@@ -355,7 +341,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       baseUrl: "https://jpmc.fa.oraclecloud.com",
       url: `https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?keyword=${encodeURIComponent(
         searchQuery
-      )}&location=United+States&locationId=300000000469866&locationLevel=country&mode=location`,
+      )}&lastSelectedFacet=CATEGORIES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedCategoriesFacet=300000086249821%3B300000086153391%3B300000086144371`,
       selector: selectors.jpmc,
 
       //      "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210629578/?keyword=data science+engineer&location=United+States&locationId=300000000469866&locationLevel=country&mode=location"
@@ -366,9 +352,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     ti: {
       name: "Texas Instruments",
       baseUrl: "https://careers.ti.com",
-      url: `https://careers.ti.com/en/sites/CX/jobs?keyword=${encodeURIComponent(
-        searchQuery
-      )}&location=United+States&locationId=300000000361862&locationLevel=country&mode=location`,
+      url: `https://careers.ti.com/en/sites/CX/jobs?keyword=hardware%20systems&location=United+States&locationId=300000000361862&locationLevel=country&mode=location`,
       selector: selectors.ti,
       //"job_apply_link": "https://careers.ti.com/en/sites/CX/job/25002271/?keyword=data science+engineer&location=United+States&locationId=300000000361862&locationLevel=country&mode=location"
       //https://careers.ti.com/en/sites/CX/jobs/preview/25002271/?keyword=data science+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location
@@ -386,7 +370,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "waymo": {
       name: "Waymo",
       baseUrl: "https://careers.withwaymo.com/jobs/search",
-      url: `https://careers.withwaymo.com/jobs/search?page=${pageNum}&country_codes%5B%5D=US&dropdown_field_1_uids%5B%5D=032bf1b3c966086ebe1d0cd037cd2eef&dropdown_field_1_uids%5B%5D=5c171b4c656ebf8d39faf490d07d69d1&dropdown_field_1_uids%5B%5D=c08225843430b8d611354d3bffcc2bea&query=${encodeURIComponent(searchQuery)}`,
+      url: `https://careers.withwaymo.com/jobs/search?page=${pageNum}&country_codes%5B%5D=US&department_uids%5B%5D=afe9f094ba57bd8540f71610af92f3f6&dropdown_field_1_uids%5B%5D=032bf1b3c966086ebe1d0cd037cd2eef&dropdown_field_1_uids%5B%5D=5c171b4c656ebf8d39faf490d07d69d1&dropdown_field_1_uids%5B%5D=c08225843430b8d611354d3bffcc2bea&query=${encodeURIComponent(searchQuery)}`,
       selector: selectors.waymo
       //done
 
@@ -398,7 +382,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     google: {
       name: "Google",
       baseUrl:
-        "https://www.google.com/about/careers/applications/jobs/results/",
+        "https://www.google.com/about/careers/applications",
       url: `https://www.google.com/about/careers/applications/jobs/results/?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=${encodeURIComponent(
         searchQuery
       )}&page=${pageNum}`,
@@ -411,7 +395,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       name: "Amazon",
       baseUrl: "https://amazon.jobs",
       url: `https://www.amazon.jobs/en-gb/search?offset=${(pageNum - 1) * 10
-        }&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&industry_experience=one_to_three_years&latitude=38.89036&longitude=-77.03196&loc_group_id=&loc_query=united%20states&base_query=${encodeURIComponent(
+        }&result_limit=10&sort=relevant&category%5B%5D=hardware-development&distanceType=Mi&radius=24km&industry_experience=one_to_three_years&latitude=38.89036&longitude=-77.03196&loc_group_id=&loc_query=united%20states&base_query=${encodeURIComponent(
           searchQuery
         )}&city=&country=USA&region=&county=&query_options=&`,
       selector: selectors.amazon,
@@ -422,9 +406,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     meta: {
       name: "Meta",
       baseUrl: "https://www.metacareers.com",
-      url: `https://www.metacareers.com/jobs?teams[0]=University%20Grad%20-%20Business&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&teams[2]=University%20Grad%20-%20PhD%20%26%20Postdoc&q=${encodeURIComponent(
-        searchQuery
-      )}&page=${pageNum}`
+      url: `https://www.metacareers.com/jobs?teams[0]=University%20Grad%20-%20Business&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&teams[2]=University%20Grad%20-%20PhD%20%26%20Postdoc&teams[3]=Infrastructure&teams[4]=Internship%20-%20Engineering%2C%20Tech%20%26%20Design&teams[5]=AR%2FVR&q=hardware%20systems&page=${pageNum}`
       ,
       selector: selectors.meta,
       //filter applied
@@ -435,7 +417,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       baseUrl: "https://jobs.careers.microsoft.com",
       url: `https://jobs.careers.microsoft.com/global/en/search?&q=${encodeURIComponent(
         searchQuery
-      )}&lc=United%20States&exp=Students%20and%20graduates&l=en_us&pg=${pageNum}&pgSz=20&o=Relevance&flt=true`
+      )}&d=Hardware%20Engineering&lc=United%20States&exp=Students%20and%20graduates&l=en_us&pg=${pageNum}&pgSz=20&o=Relevance&flt=true`
       ,
       selector: selectors.microsoft,
       // filter applied
