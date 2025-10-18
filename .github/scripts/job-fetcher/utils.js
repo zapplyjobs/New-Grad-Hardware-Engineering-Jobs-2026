@@ -705,7 +705,7 @@ function getJobCategory(title, description = "") {
     return "Full Stack Development";
   }
 
-  return "hardware Engineering";
+  return "Software Engineering";
 }
 
 function formatLocation(city, state) {
