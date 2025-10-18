@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 18+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 20+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -17,9 +17,9 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 100 
-- **🏢 Companies**: 18 elite tech companies
-- **⭐ FAANG+ Jobs**: 31 premium opportunities  
+- **🔥 Active Positions**: 113 
+- **🏢 Companies**: 20 elite tech companies
+- **⭐ FAANG+ Jobs**: 35 premium opportunities  
 - **📅 Last Updated**: October 18, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 0 (older than 1 week)
@@ -66,7 +66,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (31 positions)
+### ⭐ **FAANG+** (35 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -117,6 +117,15 @@
 
 </details>
 
+#### 🍎 **Apple** (4 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| iPad Hardware System Design Engineer | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625685-0157/ipad-hardware-system-design-engineer?team=HRDWR) | 5d |
+| Cellular RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626632-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 2d |
+| Data Engineer - Camera Hardware | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200620247-3543/data-engineer-camera-hardware?team=HRDWR) | 1d |
+| Connectivity RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627021-3956/connectivity-rf-hardware-design-engineer?team=HRDWR) | 1d |
+
 ### 🏢 **Top Tech** (30 positions)
 
 #### 💾 **Marvel Technology** (2 positions)
@@ -160,8 +169,8 @@
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Entry Level Hardware Developer | TUCSON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58486&source=WEB_Search_NA) | 1d |
-| Data Scientist Intern | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63317&source=WEB_Search_NA) | 1d |
 | Site Reliability Engineering Intern | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66497&source=WEB_Search_NA) | 1d |
+| Data Scientist Intern | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63317&source=WEB_Search_NA) | 1d |
 | System Services Representative Austin, Texas | Austin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59666&source=WEB_Search_NA) | 1d |
 | Site Reliability Engineer | Austin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64732&source=WEB_Search_NA) | 1d |
 | Support Engineer - HashiCorp | Austin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA) | 1d |
@@ -169,7 +178,7 @@
 | Mixed Signal Circuit Design Engineer - Entry Level | ROCHESTER | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA) | 1d |
 | Software Engineer - Backend | DURHAM | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53086&source=WEB_Search_NA) | 1d |
 
-### 💻 **Enterprise Software** (3 positions)
+### 💻 **Enterprise Software** (11 positions)
 
 #### 🖥️ **Hewlett Packard Enterprise** (2 positions)
 
@@ -184,9 +193,22 @@
 |------|----------|-----------|-----|
 | Fab Equipment Engineer | USA-Colorado-Fort Collins-4380 Ziegler Road | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Fab-Equipment-Engineer_R023585?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
-### 🚀 **Startups & Growth** (7 positions)
+#### 📱 **Verizon** (8 positions)
 
-#### 🛡️ **BAE Systems** (5 positions)
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Outside Plant Technician | Boston, Massachusetts | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Boston-Massachusetts/Outside-Plant-Technician_R-1063100?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Field Technician | Portsmouth, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Portsmouth-Virginia/Field-Technician_R-1085682?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
+| Outside Plant Technician | Saugus, Massachusetts | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Saugus-Massachusetts/Outside-Plant-Technician_R-1075591?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3d |
+| Field Technician | Newport News, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Newport-News-Virginia/Field-Technician_R-1085664?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3d |
+| Field Technician | Richmond, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Richmond-Virginia/Field-Technician_R-1085681?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3d |
+| Field Technician | ltimore, Maryland | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Baltimore-Maryland/Field-Technician_R-1085660?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3d |
+| Outside Plant Technician | South Kingstown, Rhode Island | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/South-Kingstown-Rhode-Island/Outside-Plant-Technician_R-1085573?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
+| Outside plant Technician | Coatesville, Pennsylvania | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Coatesville-Pennsylvania/Outside-plant-Technician_R-1085649?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
+
+### 🚀 **Startups & Growth** (8 positions)
+
+#### 🛡️ **BAE Systems** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -195,6 +217,7 @@
 | Network Engineer | Norfolk, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Network-Engineer_R0223841?q=hardware+engineering) | 2d |
 | Telecommunications Engineer | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Telecommunications-Engineer_R0228278?q=hardware+engineering) | 1d |
 | Network Infrastructure Engineer | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Network-Infrastructure-Engineer_R0224849?q=hardware+engineering) | 2d |
+| F5 Network Engineer | Charleston, SC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/F5-Network-Engineer_R0228305?q=hardware+engineering) | 1d |
 
 #### ⚙️ **General Dynamics** (2 positions)
 
@@ -246,10 +269,10 @@
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Intern - Probe Engineering | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30700221) | 1d |
-| Central Mask Tapeout Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38050023) | 4d |
+| Central Mask Tapeout Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38050023) | 5d |
 | DRAM Product Engineer | nassas, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30826027) | 1d |
 | Quality Technician | Longmont, Colorado | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/27273578) | 1d |
-| MTS Module Validation Developer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38467305) | 5d |
+| MTS Module Validation Developer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38467305) | 6d |
 | Fab Support Equipment Maintenance Technician | nassas, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/37974392) | 1d |
 
 #### 🏗️ **Honeywell** (5 positions)
@@ -283,16 +306,16 @@
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+#### ⭐ **FAANG+** (4 companies)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (4) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (1 company)
 🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (4 positions)
 
 
-#### ☁️ **Enterprise & Cloud** (6 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (2 positions) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (2) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (8) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (11) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (9)
+#### ☁️ **Enterprise & Cloud** (7 companies)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (2 positions) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (8) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (2) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (8) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (11) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (9)
 
 ---
 
@@ -300,9 +323,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 17 | 17% | No or minimal experience |
-| 🟡 Beginner & Early Career | 41 | 41% | 1-2 years of experience |
-| 🔴 Manager         | 42 | 42% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 17 | 15% | No or minimal experience |
+| 🟡 Beginner & Early Career | 45 | 40% | 1-2 years of experience |
+| 🔴 Manager         | 51 | 45% | 2+ years of experience |
 
 ---
 
@@ -312,7 +335,7 @@
 - **US, TX**: 5 positions
 - **US, CA**: 5 positions
 - **Sunnyvale, CA**: 5 positions
-- **Austin**: 3 positions
+- **Austin**: 4 positions
 - **Boise, Idaho**: 3 positions
 - **US, Texas**: 3 positions
 - **US, California**: 3 positions
@@ -321,7 +344,7 @@
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 100+ verified CS internships and entry-level hardware roles from 18 elite tech companies.
+✅ **100% Real Jobs:** 113+ verified CS internships and entry-level hardware roles from 20 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -375,7 +398,7 @@
 
 <div align="center">
 
-**🎯 100 current opportunities from 18 elite companies.**
+**🎯 113 current opportunities from 20 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
