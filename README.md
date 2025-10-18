@@ -17,7 +17,7 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 75 
+- **🔥 Active Positions**: 74 
 - **🏢 Companies**: 11 elite tech companies
 - **⭐ FAANG+ Jobs**: 34 premium opportunities  
 - **📅 Last Updated**: October 18, 2025
@@ -78,7 +78,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineer: Azure Data Intern Opportunities for University Students, Austin | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1d |
+| Mechanical Engineer: Internship Opportunities - PhD - Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1d |
 
 <details>
 <summary><h4>🟢 <strong>Google</strong> (29 positions)</h4></summary>
@@ -125,7 +125,7 @@
 | Cellular RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626632-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 2d |
 | Connectivity RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627021-3956/connectivity-rf-hardware-design-engineer?team=HRDWR) | 1d |
 
-### 🏢 **Top Tech** (21 positions)
+### 🏢 **Top Tech** (20 positions)
 
 #### 🔶 **AMD** (11 positions)
 
@@ -143,7 +143,7 @@
 | Design Verification Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/67993/login) | 1d |
 | C-Simulation Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71273/login) | 1d |
 
-#### 🔵 **IBM** (10 positions)
+#### 🔵 **IBM** (9 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -156,7 +156,6 @@
 | Postdoctoral Researcher | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) | 1d |
 | Mixed Signal Circuit Design Engineer - Entry Level | ROCHESTER | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA) | 1d |
 | Software Engineer - Backend | DURHAM | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53086&source=WEB_Search_NA) | 1d |
-| System Services Representative - Elk Grove Village (Chicago, IL Service Territory) | Chicago | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66098&source=WEB_Search_NA) | 1d |
 
 ### 🛒 **Consumer & E-Commerce** (3 positions)
 
@@ -226,7 +225,7 @@
 
 
 #### ☁️ **Enterprise & Cloud** (2 companies)
-🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (11 positions) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (10)
+🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (11 positions) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (9)
 
 ---
 
@@ -235,7 +234,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 17 | 23% | No or minimal experience |
-| 🟡 Beginner & Early Career | 37 | 49% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 36 | 49% | 1-2 years of experience |
 | 🔴 Manager         | 21 | 28% | 2+ years of experience |
 
 ---
@@ -248,14 +247,14 @@
 - **Sunnyvale, CA**: 5 positions
 - **Austin**: 4 positions
 - **Boise, Idaho**: 3 positions
-- **Austin, Texas**: 3 positions
 - **Atlanta, GA**: 3 positions
+- **shipAustin**: 2 positions
 
 ---
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 75+ verified CS internships and entry-level hardware roles from 11 elite tech companies.
+✅ **100% Real Jobs:** 74+ verified CS internships and entry-level hardware roles from 11 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -309,7 +308,7 @@
 
 <div align="center">
 
-**🎯 75 current opportunities from 11 elite companies.**
+**🎯 74 current opportunities from 11 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
