@@ -19,7 +19,7 @@
 ## 📊 **Live Stats**
 - **🔥 Active Positions**: 110 
 - **🏢 Companies**: 20 elite tech companies
-- **⭐ FAANG+ Jobs**: 32 premium opportunities  
+- **⭐ FAANG+ Jobs**: 33 premium opportunities  
 - **📅 Last Updated**: October 18, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 60 (older than 1 week)
@@ -66,7 +66,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (32 positions)
+### ⭐ **FAANG+** (33 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -117,11 +117,12 @@
 
 </details>
 
-#### 🍎 **Apple** (1 position)
+#### 🍎 **Apple** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Engineer - Camera Hardware | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200620247-3543/data-engineer-camera-hardware?team=HRDWR) | 1d |
+| Connectivity RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627021-3956/connectivity-rf-hardware-design-engineer?team=HRDWR) | 1d |
 
 ### 🏢 **Top Tech** (30 positions)
 
@@ -203,9 +204,9 @@
 | Outside Plant Technician | South Kingstown, Rhode Island | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/South-Kingstown-Rhode-Island/Outside-Plant-Technician_R-1085573?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
 | Outside plant Technician | Coatesville, Pennsylvania | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Coatesville-Pennsylvania/Outside-plant-Technician_R-1085649?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
 
-### 🚀 **Startups & Growth** (8 positions)
+### 🚀 **Startups & Growth** (7 positions)
 
-#### 🛡️ **BAE Systems** (6 positions)
+#### 🛡️ **BAE Systems** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -214,7 +215,6 @@
 | Network Engineer | Norfolk, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Network-Engineer_R0223841?q=hardware+engineering) | 2d |
 | Telecommunications Engineer | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Telecommunications-Engineer_R0228278?q=hardware+engineering) | 1d |
 | Network Infrastructure Engineer | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Network-Infrastructure-Engineer_R0224849?q=hardware+engineering) | 2d |
-| F5 Network Engineer | Charleston, SC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/F5-Network-Engineer_R0228305?q=hardware+engineering) | 1d |
 
 #### ⚙️ **General Dynamics** (2 positions)
 
@@ -304,7 +304,7 @@
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (4 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (1 company)
@@ -320,9 +320,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 16 | 15% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 17 | 15% | No or minimal experience |
 | 🟡 Beginner & Early Career | 43 | 39% | 1-2 years of experience |
-| 🔴 Manager         | 51 | 46% | 2+ years of experience |
+| 🔴 Manager         | 50 | 45% | 2+ years of experience |
 
 ---
 
