@@ -17,12 +17,12 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 113 
+- **🔥 Active Positions**: 110 
 - **🏢 Companies**: 20 elite tech companies
-- **⭐ FAANG+ Jobs**: 34 premium opportunities  
+- **⭐ FAANG+ Jobs**: 32 premium opportunities  
 - **📅 Last Updated**: October 18, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 62 (older than 1 week)
+- **📁 Archived Jobs**: 60 (older than 1 week)
 
 
 
@@ -66,7 +66,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (34 positions)
+### ⭐ **FAANG+** (32 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -117,15 +117,13 @@
 
 </details>
 
-#### 🍎 **Apple** (3 positions)
+#### 🍎 **Apple** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| iPad Hardware System Design Engineer | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625685-0157/ipad-hardware-system-design-engineer?team=HRDWR) | 5d |
 | Data Engineer - Camera Hardware | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200620247-3543/data-engineer-camera-hardware?team=HRDWR) | 1d |
-| Connectivity RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627021-3956/connectivity-rf-hardware-design-engineer?team=HRDWR) | 1d |
 
-### 🏢 **Top Tech** (31 positions)
+### 🏢 **Top Tech** (30 positions)
 
 #### 💾 **Marvel Technology** (2 positions)
 
@@ -163,7 +161,7 @@
 | Design Verification Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/67993/login) | 1d |
 | C-Simulation Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71273/login) | 1d |
 
-#### 🔵 **IBM** (10 positions)
+#### 🔵 **IBM** (9 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -176,7 +174,6 @@
 | Postdoctoral Researcher | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) | 1d |
 | Mixed Signal Circuit Design Engineer - Entry Level | ROCHESTER | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA) | 1d |
 | Software Engineer - Backend | DURHAM | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53086&source=WEB_Search_NA) | 1d |
-| System Services Representative - Elk Grove Village (Chicago, IL Service Territory) | Chicago | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66098&source=WEB_Search_NA) | 1d |
 
 ### 💻 **Enterprise Software** (11 positions)
 
@@ -307,7 +304,7 @@
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (4 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (3) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (1 company)
@@ -315,7 +312,7 @@
 
 
 #### ☁️ **Enterprise & Cloud** (7 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (2 positions) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (8) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (2) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (8) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (11) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (10)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (2 positions) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (8) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (2) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (8) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (11) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (9)
 
 ---
 
@@ -323,9 +320,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 18 | 16% | No or minimal experience |
-| 🟡 Beginner & Early Career | 44 | 39% | 1-2 years of experience |
-| 🔴 Manager         | 51 | 45% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 16 | 15% | No or minimal experience |
+| 🟡 Beginner & Early Career | 43 | 39% | 1-2 years of experience |
+| 🔴 Manager         | 51 | 46% | 2+ years of experience |
 
 ---
 
@@ -335,7 +332,7 @@
 - **US, TX**: 5 positions
 - **US, CA**: 5 positions
 - **Sunnyvale, CA**: 5 positions
-- **Austin**: 4 positions
+- **Austin**: 3 positions
 - **Boise, Idaho**: 3 positions
 - **US, Texas**: 3 positions
 - **US, California**: 3 positions
@@ -344,7 +341,7 @@
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 113+ verified CS internships and entry-level hardware roles from 20 elite tech companies.
+✅ **100% Real Jobs:** 110+ verified CS internships and entry-level hardware roles from 20 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -397,16 +394,16 @@
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 62 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 60 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 62 positions
+- **📁 Total Jobs**: 60 positions
 - **🏢 Companies**: 20 companies  
-- **⭐ FAANG+ Jobs & Internships**: 6 roles
+- **⭐ FAANG+ Jobs & Internships**: 4 roles
 
-### ⭐ **FAANG+** (6 positions)
+### ⭐ **FAANG+** (4 positions)
 
 #### 📦 **Amazon** (4 positions)
 
@@ -416,13 +413,6 @@
 | Operations Engineer II, MSP CX-DR | Detroit, MI | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3105322/operations-engineer-ii-msp-cx-dr) | 1w |
 | Hardware Development Engineer AWS AI & ML, Accelerator Servers | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3103434/hardware-development-engineer-aws-ai-ml-accelerator-servers) | 1w |
 | Hardware Development Engineer II, AWS Mainstream Compute | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3089771/hardware-development-engineer-ii-aws-mainstream-compute) | 3w |
-
-#### 🍎 **Apple** (2 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Baseband Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200622618-3956/baseband-hardware-design-engineer?team=HRDWR) | 2w |
-| Systems Validation Engineer - Data Center Hardware | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624875-3956/systems-validation-engineer-data-center-hardware?team=HRDWR) | 1w |
 
 ### 🏢 **Top Tech** (3 positions)
 
@@ -559,7 +549,7 @@
 
 <div align="center">
 
-**🎯 113 current opportunities from 20 elite companies.**
+**🎯 110 current opportunities from 20 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
