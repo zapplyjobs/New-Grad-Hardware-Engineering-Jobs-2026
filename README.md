@@ -120,7 +120,7 @@
 | Connectivity RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627021-3956/connectivity-rf-hardware-design-engineer?team=HRDWR) | 2d |
 | Cellular RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626632-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 3d |
 
-### 🏢 **Top Tech** (36 positions)
+### 🏢 **Top Tech** (37 positions)
 
 #### 💾 **Marvel Technology** (1 position)
 
@@ -174,7 +174,7 @@
 | Software Engineering LMTS | Washington Bellevue | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr312351/software-engineering-lmts/) | 1d |
 | Solution Engineer (Pre-Sales) - All Levels | New York New York | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr282101/solution-engineer-pre-sales-all-levels/) | 1d |
 
-#### 🔵 **IBM** (9 positions)
+#### 🔵 **IBM** (10 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -187,6 +187,7 @@
 | Postdoctoral Researcher | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) | 1d |
 | Mixed Signal Circuit Design Engineer - Entry Level | ROCHESTER | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA) | 1d |
 | Software Engineer - Backend | DURHAM | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53086&source=WEB_Search_NA) | 1d |
+| System Services Representative - Elk Grove Village (Chicago, IL Service Territory) | Chicago | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66098&source=WEB_Search_NA) | 1d |
 
 ### 💻 **Enterprise Software** (12 positions)
 
@@ -217,9 +218,9 @@
 | Outside Plant Technician | South Kingstown, Rhode Island | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/South-Kingstown-Rhode-Island/Outside-Plant-Technician_R-1085573?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
 | Outside plant Technician | Coatesville, Pennsylvania | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Coatesville-Pennsylvania/Outside-plant-Technician_R-1085649?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
 
-### 🚀 **Startups & Growth** (6 positions)
+### 🚀 **Startups & Growth** (5 positions)
 
-#### 🛡️ **BAE Systems** (6 positions)
+#### 🛡️ **BAE Systems** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -228,7 +229,6 @@
 | Network Engineer | Norfolk, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Network-Engineer_R0223841?q=hardware+engineering) | 3d |
 | Telecommunications Engineer | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Telecommunications-Engineer_R0228278?q=hardware+engineering) | 2d |
 | Network Infrastructure Engineer | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Network-Infrastructure-Engineer_R0224849?q=hardware+engineering) | 3d |
-| F5 Network Engineer | Charleston, SC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/F5-Network-Engineer_R0228305?q=hardware+engineering) | 2d |
 
 ### 🛒 **Consumer & E-Commerce** (3 positions)
 
@@ -310,7 +310,7 @@ No companies available
 
 
 #### ☁️ **Enterprise & Cloud** (9 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (3 positions) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (8) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (3) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (3) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (10) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (10) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (9)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (3 positions) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (8) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (3) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (3) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (10) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (10) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (10)
 
 ---
 
@@ -318,9 +318,9 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 26 | 24% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 28 | 26% | No or minimal experience |
 | 🟡 Beginner & Early Career | 42 | 39% | 1-2 years of experience |
-| 🔴 Manager         | 40 | 37% | 2+ years of experience |
+| 🔴 Manager         | 38 | 35% | 2+ years of experience |
 
 ---
 
