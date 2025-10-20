@@ -242,7 +242,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| BMS Technician 3- 1st Shift 🏠 | US California San Diego | [<img src="./image.png" width="100" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Facilities-Maintenance-Technician-2--2nd-Shift_41132-JOB?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3d |
+| BMS Technician 3- 1st Shift 🏠 | US California San Diego | [<img src="./image.png" width="100" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Facilities-Maintenance-Technician-2--2nd-Shift_41132-JOB?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
 ### 🏭 **Manufacturing & Industrial** (9 positions)
 
@@ -300,9 +300,9 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 24 | 25% | No or minimal experience |
-| 🟡 Beginner & Early Career | 41 | 43% | 1-2 years of experience |
-| 🔴 Manager         | 30 | 32% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 26 | 27% | No or minimal experience |
+| 🟡 Beginner & Early Career | 40 | 42% | 1-2 years of experience |
+| 🔴 Manager         | 29 | 31% | 2+ years of experience |
 
 ---
 
