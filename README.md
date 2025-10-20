@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 17+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 18+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -17,8 +17,8 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 94 
-- **🏢 Companies**: 17 elite tech companies
+- **🔥 Active Positions**: 97 
+- **🏢 Companies**: 18 elite tech companies
 - **⭐ FAANG+ Jobs**: 33 premium opportunities  
 - **📅 Last Updated**: October 20, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
@@ -115,9 +115,9 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Cellular RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626632-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 4d |
 | Data Engineer - Camera Hardware | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200620247-3543/data-engineer-camera-hardware?team=HRDWR) | 3d |
 | Connectivity RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627021-3956/connectivity-rf-hardware-design-engineer?team=HRDWR) | 3d |
+| Cellular RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626632-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 4d |
 
 ### 🏢 **Top Tech** (36 positions)
 
@@ -218,6 +218,16 @@
 | Telecommunications Engineer | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Telecommunications-Engineer_R0228278?q=hardware+engineering) | 3d |
 | Network Infrastructure Engineer | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Network-Infrastructure-Engineer_R0224849?q=hardware+engineering) | 4d |
 
+### 🛒 **Consumer & E-Commerce** (3 positions)
+
+#### 🚙 **RIVIAN** (3 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Vehicle Operator II, Autonomy Systems Validation | Wittmann, Arizona | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/26917/login) | 1d |
+| Prototype Fabricator, Special Projects | Irvine, California | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/25334/login) | 1d |
+| Vehicle Test Engineer | Tustin, California | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/26637/login) | 1d |
+
 ### 🛡️ **Defense & Aerospace** (2 positions)
 
 #### 🚗 **Waymo** (2 positions)
@@ -287,9 +297,9 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 26 | 28% | No or minimal experience |
-| 🟡 Beginner & Early Career | 36 | 38% | 1-2 years of experience |
-| 🔴 Manager         | 32 | 34% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 26 | 27% | No or minimal experience |
+| 🟡 Beginner & Early Career | 39 | 40% | 1-2 years of experience |
+| 🔴 Manager         | 32 | 33% | 2+ years of experience |
 
 ---
 
@@ -308,7 +318,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 94+ verified CS internships and entry-level hardware roles from 17 elite tech companies.
+✅ **100% Real Jobs:** 97+ verified CS internships and entry-level hardware roles from 18 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -367,7 +377,7 @@ No companies available
 
 ### **Archived Job Stats**
 - **📁 Total Jobs**: 65 positions
-- **🏢 Companies**: 17 companies  
+- **🏢 Companies**: 18 companies  
 - **⭐ FAANG+ Jobs & Internships**: 5 roles
 
 ### ⭐ **FAANG+** (5 positions)
@@ -538,7 +548,7 @@ No companies available
 
 <div align="center">
 
-**🎯 94 current opportunities from 17 elite companies.**
+**🎯 97 current opportunities from 18 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
