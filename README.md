@@ -17,7 +17,7 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 95 
+- **🔥 Active Positions**: 100 
 - **🏢 Companies**: 18 elite tech companies
 - **⭐ FAANG+ Jobs**: 33 premium opportunities  
 - **📅 Last Updated**: October 21, 2025
@@ -114,7 +114,7 @@
 | Connectivity RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627021-3956/connectivity-rf-hardware-design-engineer?team=HRDWR) | 4d |
 | Cellular RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626632-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 5d |
 
-### 🏢 **Top Tech** (33 positions)
+### 🏢 **Top Tech** (38 positions)
 
 #### 💾 **Marvel Technology** (1 position)
 
@@ -152,7 +152,7 @@
 | ASIC Bootcode and Firmware Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71965/login) | 1d |
 | Hardware Validation Engineer – Infrastructure & Tooling | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/68057/login) | 1d |
 
-#### ☁️ **Salesforce** (5 positions)
+#### ☁️ **Salesforce** (10 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -161,6 +161,11 @@
 | Software Engineering LMTS/SMTS, EntSecTech, Autonomous IAM | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr312311/software-engineering-lmtssmts-entsectech-autonomous-iam/) | 1d |
 | Software Engineering LMTS (Service Mesh, Ingress Gateway) | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr304216/software-engineering-lmts-service-mesh-ingress-gateway/) | 1d |
 | Software Engineering SMTS | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313479/software-engineering-smts/) | 1d |
+| Software Engineering Developer CI Infrastructure PMTS | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313273/software-engineering-developer-ci-infrastructure-pmts/) | 1d |
+| Software Engineering, Frontend (Slack - Multiple levels) | Georgia Atlanta | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr310106/software-engineering-frontend-slack-multiple-levels/) | 1d |
+| Software Engineering LMTS | Washington Bellevue | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr312351/software-engineering-lmts/) | 1d |
+| Summer 2026 Intern - Software Engineer | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/) | 1d |
+| Solution Engineering, Early Career | Illinois Chicago | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr310975/solution-engineering-early-career/) | 1d |
 
 #### 🔵 **IBM** (12 positions)
 
@@ -289,7 +294,7 @@
 
 
 #### ☁️ **Enterprise & Cloud** (8 companies)
-📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1 position) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (6) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (2) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (3) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (10) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (5) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (12)
+📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1 position) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (6) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (2) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (3) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (10) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (10) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (12)
 
 ---
 
@@ -297,18 +302,18 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 26 | 27% | No or minimal experience |
-| 🟡 Beginner & Early Career | 44 | 46% | 1-2 years of experience |
-| 🔴 Manager         | 25 | 26% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 32 | 32% | No or minimal experience |
+| 🟡 Beginner & Early Career | 42 | 42% | 1-2 years of experience |
+| 🔴 Manager         | 26 | 26% | 2+ years of experience |
 
 ---
 
 ## 🌍 **Top Locations**
 
 - **Mountain View, CA**: 17 positions
+- **California San Francisco**: 6 positions
 - **US, CA**: 5 positions
 - **Sunnyvale, CA**: 5 positions
-- **California San Francisco**: 4 positions
 - **Austin, TX**: 4 positions
 - **US, TX**: 4 positions
 - **shipAustin**: 3 positions
@@ -318,7 +323,7 @@
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 95+ verified CS internships and entry-level hardware roles from 18 elite tech companies.
+✅ **100% Real Jobs:** 100+ verified CS internships and entry-level hardware roles from 18 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -551,7 +556,7 @@
 
 <div align="center">
 
-**🎯 95 current opportunities from 18 elite companies.**
+**🎯 100 current opportunities from 18 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
