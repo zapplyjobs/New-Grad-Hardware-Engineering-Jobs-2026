@@ -22,7 +22,7 @@
 - **⭐ FAANG+ Jobs**: 33 premium opportunities  
 - **📅 Last Updated**: October 21, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 68 (older than 1 week)
+- **📁 Archived Jobs**: 67 (older than 1 week)
 
 
 
@@ -120,7 +120,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Hardware Design Intern - Bachelor's Degree | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Hardware-Design-Intern---Bachelor-s-Degree_2502390-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=65dea26481d0011d9f4e14dd98175801) | 4d |
+| Hardware Design Intern - Bachelor's Degree | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Hardware-Design-Intern---Bachelor-s-Degree_2502390-1?q=hardware+engineering&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=65dea26481d0011d9f4e14dd98175801) | 5d |
 
 #### 🔬 **Synopsys** (2 positions)
 
@@ -133,8 +133,8 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Emulation Engineer | US, Texas | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Emulation-Engineer_JR0276365?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf&jobFamilyGroup=c37a9eaa90371000c6fd2261025d0000) | 4d |
-| Power Analysis and Optimization Engineer | US, Texas | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Power-Analysis-and-Optimization-Engineer_JR0276594?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf&jobFamilyGroup=c37a9eaa90371000c6fd2261025d0000) | 4d |
+| Emulation Engineer | US, Texas | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Emulation-Engineer_JR0276365?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf&jobFamilyGroup=c37a9eaa90371000c6fd2261025d0000) | 5d |
+| Power Analysis and Optimization Engineer | US, Texas | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Power-Analysis-and-Optimization-Engineer_JR0276594?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf&jobFamilyGroup=c37a9eaa90371000c6fd2261025d0000) | 5d |
 
 #### 🔶 **AMD** (10 positions)
 
@@ -189,18 +189,18 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Fab Equipment Engineer | USA-Colorado-Fort Collins-4380 Ziegler Road | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Fab-Equipment-Engineer_R023585?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3d |
+| Fab Equipment Engineer | USA-Colorado-Fort Collins-4380 Ziegler Road | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Fab-Equipment-Engineer_R023585?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
 
 #### 📱 **Verizon** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Outside Plant Technician | Boston, Massachusetts | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Boston-Massachusetts/Outside-Plant-Technician_R-1063100?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3d |
-| Field Technician | Portsmouth, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Portsmouth-Virginia/Field-Technician_R-1085682?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
-| Outside Plant Technician | Saugus, Massachusetts | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Saugus-Massachusetts/Outside-Plant-Technician_R-1075591?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
-| Field Technician | Newport News, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Newport-News-Virginia/Field-Technician_R-1085664?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
-| Field Technician | Richmond, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Richmond-Virginia/Field-Technician_R-1085681?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
-| Field Technician | ltimore, Maryland | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Baltimore-Maryland/Field-Technician_R-1085660?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
+| Outside Plant Technician | Boston, Massachusetts | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Boston-Massachusetts/Outside-Plant-Technician_R-1063100?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
+| Field Technician | Portsmouth, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Portsmouth-Virginia/Field-Technician_R-1085682?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
+| Outside Plant Technician | Saugus, Massachusetts | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Saugus-Massachusetts/Outside-Plant-Technician_R-1075591?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
+| Field Technician | Newport News, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Newport-News-Virginia/Field-Technician_R-1085664?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
+| Field Technician | Richmond, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Richmond-Virginia/Field-Technician_R-1085681?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
+| Field Technician | ltimore, Maryland | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Baltimore-Maryland/Field-Technician_R-1085660?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
 
 ### 🚀 **Startups & Growth** (5 positions)
 
@@ -208,11 +208,11 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Mechanical Engineer | Panama City, FL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Panama-City-FL/Mechanical-Engineer_R0225740?q=hardware+engineering) | 6d |
-| Network Engineer | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Network-Engineer_R0228212?q=hardware+engineering) | 4d |
-| Network Engineer | Norfolk, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Network-Engineer_R0223841?q=hardware+engineering) | 4d |
-| Telecommunications Engineer | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Telecommunications-Engineer_R0228278?q=hardware+engineering) | 3d |
-| Network Infrastructure Engineer | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Network-Infrastructure-Engineer_R0224849?q=hardware+engineering) | 4d |
+| Network Engineer | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Network-Engineer_R0228212?q=hardware+engineering) | 5d |
+| Network Engineer | Norfolk, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Network-Engineer_R0223841?q=hardware+engineering) | 5d |
+| Telecommunications Engineer | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Telecommunications-Engineer_R0228278?q=hardware+engineering) | 4d |
+| System and Network Administrator | Annapolis Junction, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/System-and-Network-Administrator_R0228405?q=hardware+engineering) | 1d |
+| Network Infrastructure Engineer | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Network-Infrastructure-Engineer_R0224849?q=hardware+engineering) | 5d |
 
 ### 🛒 **Consumer & E-Commerce** (3 positions)
 
@@ -263,10 +263,10 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Controls/Automation Engineer | Troy, Michigan | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Controls-Automation-Engineer_R00203332-1?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 3d |
+| Controls/Automation Engineer | Troy, Michigan | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Controls-Automation-Engineer_R00203332-1?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 4d |
 | Mech, Maintenance | Excelsior Springs, Missouri | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Excelsior-Springs-Missouri-US/Mech--Maintenance_R00216052?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 1d |
-| Assembler | Highland Park, Michigan | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Assembler_R00216231?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 3d |
-| Production Team Associate | Detroit, Michigan | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Detroit-Michigan-US/Production-Team-Associate_R00166861?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 4d |
+| Assembler | Highland Park, Michigan | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Assembler_R00216231?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 4d |
+| Production Team Associate | Detroit, Michigan | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Detroit-Michigan-US/Production-Team-Associate_R00166861?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 5d |
 
 
 
@@ -367,12 +367,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 68 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 67 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 68 positions
+- **📁 Total Jobs**: 67 positions
 - **🏢 Companies**: 17 companies  
 - **⭐ FAANG+ Jobs & Internships**: 5 roles
 
@@ -436,7 +436,7 @@ No companies available
 | Outside Plant Technician | Norristown, Pennsylvania | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Norristown-Pennsylvania/Outside-Plant-Technician_R-1084595?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | Outside Plant Technician | Dracut, Massachusetts | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Dracut-Massachusetts/Outside-Plant-Technician_R-1085897?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 | Outside Plant Technician | Waldorf, Maryland | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Waldorf-Maryland/Outside-Plant-Technician_R-1084568?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
-| Outside Plant Technician | Harrisburg, Pennsylvania | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Harrisburg-Pennsylvania/Outside-Plant-Technician_R-1085582?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
+| Outside Plant Technician | Harrisburg, Pennsylvania | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Harrisburg-Pennsylvania/Outside-Plant-Technician_R-1085582?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 | Outside Plant Technician | East Stroudsburg, Pennsylvania | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/East-Stroudsburg-Pennsylvania/Outside-Plant-Technician_R-1084598?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 | Outside Plant Technician | Greensburg, Pennsylvania | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Greensburg-Pennsylvania/Outside-Plant-Technician_R-1085583?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 
@@ -446,24 +446,24 @@ No companies available
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Mechanical Engineer | Panama City, FL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Panama-City-FL/Mechanical-Engineer_R0225740?q=hardware+engineering) | 1w |
 | Network Engineer, Mid | Arlington Heights, IL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-Heights-IL/Network-Engineer--Mid_R0227266?q=hardware+engineering) | 3w |
 | Network Engineer, Mid | Fort Bliss, TX | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Bliss-TX/Network-Engineer--Mid_R0227381?q=hardware+engineering) | 2w |
 | FPGA Engineer, Mid | Lexington Park, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/FPGA-Engineer--Mid_R0220608?q=hardware+engineering) | 3w |
 | Robotics Engineer | Shaw AFB, SC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Shaw-AFB-SC/Robotics-Engineer_R0227597?q=hardware+engineering) | 2w |
 | Electrical Engineer | King George, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/King-George-VA/Electrical-Engineer_R0225223?q=hardware+engineering) | 2w |
-| Network Engineer | Keyport, WA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Keyport-WA/Network-Engineer_R0227158?q=hardware+engineering) | 2w |
+| Network Engineer | Keyport, WA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Keyport-WA/Network-Engineer_R0227158?q=hardware+engineering) | 3w |
 | Network Engineer | Annapolis Junction, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Network-Engineer_R0227928?q=hardware+engineering) | 1w |
 | Automation Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Automation-Engineer_R0226900?q=hardware+engineering) | 3w |
 | Tactical Networks Systems Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Tactical-Networks-Systems-Engineer_R0225154-1?q=hardware+engineering) | 3w |
 | Electronics Engineer, Mid | Dahlgren, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Electronics-Engineer--Mid_R0224026?q=hardware+engineering) | 2w |
 | Tactical Network Engineer | Lorton, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Tactical-Network-Engineer_R0223520?q=hardware+engineering) | 2w |
-| Network Engineer, Mid | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Network-Engineer--Mid_R0227524?q=hardware+engineering) | 2w |
 
 #### 📊 **Guidehouse** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| BAS Technician | US AL, Huntsville | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---AL-Huntsville/BAS-Technician_32779?q=hardware+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09&jobFamily=d44ba6ecd0281001edd9329c45a90000) | 2w |
+| BAS Technician | US AL, Huntsville | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---AL-Huntsville/BAS-Technician_32779?q=hardware+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09&jobFamily=d44ba6ecd0281001edd9329c45a90000) | 3w |
 
 #### ⚙️ **General Dynamics** (7 positions)
 
@@ -485,7 +485,7 @@ No companies available
 |------|----------|-----------|-----|
 | Infrastructure Engineer III - VMware ESXi | Tampa, FL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210663158/?keyword=hardware+engineering&lastSelectedFacet=CATEGORIES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedCategoriesFacet=300000086249821%253B300000086153391%253B300000086144371) | 2w |
 
-### 🏭 **Manufacturing & Industrial** (24 positions)
+### 🏭 **Manufacturing & Industrial** (23 positions)
 
 #### ⚗️ **Applied Materials** (6 positions)
 
@@ -523,17 +523,16 @@ No companies available
 | Reliability Engineer | Minneapolis, MN | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/123004/?keyword=hardware+engineering&lastSelectedFacet=TITLES&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000017425610&selectedTitlesFacet=120%253B119%253B117%253B114%253B126%253B247%253B118) | 1w |
 | Electrical Engineer | Frederick, MD | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/120176/?keyword=hardware+engineering&lastSelectedFacet=TITLES&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000017425610&selectedTitlesFacet=120%253B119%253B117%253B114%253B126%253B247%253B118) | 2w |
 
-#### 🚗 **Magna International** (8 positions)
+#### 🚗 **Magna International** (7 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| 1st shift Controls Technician | Bowling Green, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Bowling-Green-Ohio-US/XMLNAME-1st-shift-Controls-Technician_R00212608?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 2w |
-| 2nd shift Controls Technician | Bowling Green, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Bowling-Green-Ohio-US/XMLNAME-2nd-shift-Controls-Technician_R00212610?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 2w |
-| 3rd shift Controls Technician | Bowling Green, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Bowling-Green-Ohio-US/XMLNAME-3rd-shift-Controls-Technician_R00212611?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 2w |
+| 1st shift Controls Technician | Bowling Green, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Bowling-Green-Ohio-US/XMLNAME-1st-shift-Controls-Technician_R00212608?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 3w |
+| 2nd shift Controls Technician | Bowling Green, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Bowling-Green-Ohio-US/XMLNAME-2nd-shift-Controls-Technician_R00212610?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 3w |
+| 3rd shift Controls Technician | Bowling Green, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Bowling-Green-Ohio-US/XMLNAME-3rd-shift-Controls-Technician_R00212611?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 3w |
 | Production Operator - 3rd Shift | Lancaster, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lancaster-Ohio-US/Production-Operator---3rd-Shift_R00213666?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 2w |
 | Mgr, Production | Excelsior Springs, Missouri | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Excelsior-Springs-Missouri-US/Mgr--Production_R00184407?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 4w |
 | Production Operator - 1st shift | Lancaster, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lancaster-Ohio-US/Production-Operator---1st-shift_R00211210?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 2w |
-| Production Operator - 2nd shift | Lancaster, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lancaster-Ohio-US/Production-Operator---2nd-shift_R00213951?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 2w |
 | Foam Manufacturing Engineer | Shepherdsville, Kentucky | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Shepherdsville-Kentucky-US/Foam-Manufacturing-Engineer_R00214219?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 1w |
 
 
