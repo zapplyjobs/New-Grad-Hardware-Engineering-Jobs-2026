@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 17+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 18+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -17,12 +17,12 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 92 
-- **🏢 Companies**: 17 elite tech companies
+- **🔥 Active Positions**: 98 
+- **🏢 Companies**: 18 elite tech companies
 - **⭐ FAANG+ Jobs**: 34 premium opportunities  
 - **📅 Last Updated**: October 21, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 57 (older than 1 week)
+- **📁 Archived Jobs**: 61 (older than 1 week)
 
 
 
@@ -253,7 +253,18 @@
 |------|----------|-----------|-----|
 | BMS Technician 3- 1st Shift 🏠 | US California San Diego | [<img src="./image.png" width="100" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Facilities-Maintenance-Technician-2--2nd-Shift_41132-JOB?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
-### 🏭 **Manufacturing & Industrial** (4 positions)
+### 🏭 **Manufacturing & Industrial** (10 positions)
+
+#### 💾 **Micron Technology** (6 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Intern - Probe Engineering | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30700221) | 1d |
+| DRAM Product Engineer | nassas, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30826027) | 1d |
+| Applications Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38572276) | 1d |
+| Quality Technician | Longmont, Colorado | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/27273578) | 1d |
+| MTS Circuit Design Engineer, HSIO | Folsom, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30868369) | 1d |
+| Fab Support Equipment Maintenance Technician | nassas, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/37974392) | 1d |
 
 #### 🚗 **Magna International** (4 positions)
 
@@ -289,9 +300,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 30 | 33% | No or minimal experience |
-| 🟡 Beginner & Early Career | 39 | 42% | 1-2 years of experience |
-| 🔴 Manager         | 23 | 25% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 32 | 33% | No or minimal experience |
+| 🟡 Beginner & Early Career | 42 | 43% | 1-2 years of experience |
+| 🔴 Manager         | 24 | 24% | 2+ years of experience |
 
 ---
 
@@ -310,7 +321,7 @@
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 92+ verified CS internships and entry-level hardware roles from 17 elite tech companies.
+✅ **100% Real Jobs:** 98+ verified CS internships and entry-level hardware roles from 18 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -363,13 +374,13 @@
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 57 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 61 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 57 positions
-- **🏢 Companies**: 17 companies  
+- **📁 Total Jobs**: 61 positions
+- **🏢 Companies**: 18 companies  
 - **⭐ FAANG+ Jobs & Internships**: 5 roles
 
 ### ⭐ **FAANG+** (5 positions)
@@ -436,7 +447,7 @@
 | Outside Plant Technician | East Stroudsburg, Pennsylvania | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/East-Stroudsburg-Pennsylvania/Outside-Plant-Technician_R-1084598?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 | Outside Plant Technician | Greensburg, Pennsylvania | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Greensburg-Pennsylvania/Outside-Plant-Technician_R-1085583?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 
-### 🚀 **Startups & Growth** (21 positions)
+### 🚀 **Startups & Growth** (20 positions)
 
 #### 🛡️ **BAE Systems** (12 positions)
 
@@ -461,7 +472,7 @@
 |------|----------|-----------|-----|
 | BAS Technician | US AL, Huntsville | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---AL-Huntsville/BAS-Technician_32779?q=hardware+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09&jobFamily=d44ba6ecd0281001edd9329c45a90000) | 3w |
 
-#### ⚙️ **General Dynamics** (8 positions)
+#### ⚙️ **General Dynamics** (7 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -472,7 +483,6 @@
 | Systems Administrator Technician _TS/SCI with Polygraph | USA CO Aurora | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CO-Aurora/Systems-Administrator--Technician--TS-SCI-with-Polygraph_RQ201167?q=Hardware) | 2w |
 | System Administrator Associate_TS/SCI with Polygraph | USA CO Aurora | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CO-Aurora/System-Administrator-Associate-TS-SCI-with-Polygraph_RQ198811?q=Hardware) | 2w |
 | Systems Engineer | USA DC Washington | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Systems-Engineer_RQ208590?q=Hardware) | 1w |
-| Network/System Administrator (Net/Sys Admin) | USA CO Colorado Springs | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CO-Colorado-Springs/Network-System-Administrator--Net-Sys-Admin--II_RQ207603-1?q=Hardware) | 1w |
 
 ### 💰 **Financial & Fintech** (1 position)
 
@@ -482,7 +492,17 @@
 |------|----------|-----------|-----|
 | Infrastructure Engineer III - VMware ESXi | Tampa, FL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210663158/?keyword=hardware+engineering&lastSelectedFacet=CATEGORIES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedCategoriesFacet=300000086249821%253B300000086153391%253B300000086144371) | 3w |
 
-### 🏭 **Manufacturing & Industrial** (12 positions)
+### 🏭 **Manufacturing & Industrial** (17 positions)
+
+#### 💾 **Micron Technology** (5 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Intern - Hardware Validation Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38306490) | 3w |
+| Intern - Design Engineering, HBM | Richardson, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30954489) | 1w |
+| Central Mask Tapeout Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38050023) | 1w |
+| MTS Module Validation Developer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38467305) | 1w |
+| Intern - HBM Design Engineer | Richardson, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38283376) | 3w |
 
 #### 📡 **Analog Devices** (1 position)
 
@@ -522,7 +542,7 @@
 
 <div align="center">
 
-**🎯 92 current opportunities from 17 elite companies.**
+**🎯 98 current opportunities from 18 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
