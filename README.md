@@ -22,7 +22,7 @@
 - **⭐ FAANG+ Jobs**: 33 premium opportunities  
 - **📅 Last Updated**: October 21, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 63 (older than 1 week)
+- **📁 Archived Jobs**: 67 (older than 1 week)
 
 
 
@@ -178,10 +178,10 @@
 | Site Reliability Engineer | Austin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64732&source=WEB_Search_NA) | 1d |
 | Support Engineer - HashiCorp | Austin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA) | 1d |
 | Federal Data Engineer Intern: | shipWASHINGTON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57946&source=WEB_Search_NA) | 1d |
-| Postdoctoral Researcher | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) | 1d |
 | Mixed Signal Circuit Design Engineer - Entry Level | ROCHESTER | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA) | 1d |
-| Back End Developer Intern | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62827&source=WEB_Search_NA) | 1d |
+| Postdoctoral Researcher | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) | 1d |
 | Software Engineer - Backend | DURHAM | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53086&source=WEB_Search_NA) | 1d |
+| Back End Developer Intern | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62827&source=WEB_Search_NA) | 1d |
 
 ### 💻 **Enterprise Software** (7 positions)
 
@@ -367,12 +367,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 63 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 67 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 63 positions
+- **📁 Total Jobs**: 67 positions
 - **🏢 Companies**: 17 companies  
 - **⭐ FAANG+ Jobs & Internships**: 5 roles
 
@@ -485,7 +485,7 @@ No companies available
 |------|----------|-----------|-----|
 | Infrastructure Engineer III - VMware ESXi | Tampa, FL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210663158/?keyword=hardware+engineering&lastSelectedFacet=CATEGORIES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedCategoriesFacet=300000086249821%253B300000086153391%253B300000086144371) | 2w |
 
-### 🏭 **Manufacturing & Industrial** (19 positions)
+### 🏭 **Manufacturing & Industrial** (23 positions)
 
 #### ⚗️ **Applied Materials** (6 positions)
 
@@ -508,7 +508,22 @@ No companies available
 | MTS Module Validation Developer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38467305) | 1w |
 | Intern - HBM Design Engineer | Richardson, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38283374) | 3w |
 
-#### 🚗 **Magna International** (8 positions)
+#### 📡 **Analog Devices** (2 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Embedded System Design Engineer | US, Wilmington | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Embedded-System-Design-Engineer_R255777?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
+| Test Development Engineer | US, NC | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Test-Development-Engineer_R256376?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
+
+#### 🏗️ **Honeywell** (3 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Hardware Engineer | Fort Washington, PA | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/116090/?keyword=hardware+engineering&lastSelectedFacet=TITLES&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000017425610&selectedTitlesFacet=120%253B119%253B117%253B114%253B126%253B247%253B118) | 3w |
+| Reliability Engineer | Minneapolis, MN | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/123004/?keyword=hardware+engineering&lastSelectedFacet=TITLES&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000017425610&selectedTitlesFacet=120%253B119%253B117%253B114%253B126%253B247%253B118) | 1w |
+| Electrical Engineer | Frederick, MD | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/120176/?keyword=hardware+engineering&lastSelectedFacet=TITLES&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000017425610&selectedTitlesFacet=120%253B119%253B117%253B114%253B126%253B247%253B118) | 2w |
+
+#### 🚗 **Magna International** (7 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -518,7 +533,6 @@ No companies available
 | Production Operator - 3rd Shift | Lancaster, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lancaster-Ohio-US/Production-Operator---3rd-Shift_R00213666?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 2w |
 | Mgr, Production | Excelsior Springs, Missouri | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Excelsior-Springs-Missouri-US/Mgr--Production_R00184407?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 4w |
 | Production Operator - 1st shift | Lancaster, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lancaster-Ohio-US/Production-Operator---1st-shift_R00211210?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 2w |
-| Production Operator - 2nd shift | Lancaster, Ohio | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lancaster-Ohio-US/Production-Operator---2nd-shift_R00213951?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 2w |
 | Foam Manufacturing Engineer | Shepherdsville, Kentucky | [<img src="./image.png" width="100" alt="Apply">](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Shepherdsville-Kentucky-US/Foam-Manufacturing-Engineer_R00214219?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df) | 1w |
 
 
