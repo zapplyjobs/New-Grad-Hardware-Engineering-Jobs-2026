@@ -17,12 +17,12 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 96 
+- **🔥 Active Positions**: 95 
 - **🏢 Companies**: 21 elite tech companies
 - **⭐ FAANG+ Jobs**: 35 premium opportunities  
 - **📅 Last Updated**: October 22, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 66 (older than 1 week)
+- **📁 Archived Jobs**: 65 (older than 1 week)
 
 
 
@@ -121,7 +121,7 @@
 | RF/mmW Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627767-3956/rf-mmw-hardware-design-engineer?team=HRDWR) | 23h |
 | Connectivity RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627021-3956/connectivity-rf-hardware-design-engineer?team=HRDWR) | 5d |
 
-### 🏢 **Top Tech** (33 positions)
+### 🏢 **Top Tech** (31 positions)
 
 #### 💾 **Marvel Technology** (1 position)
 
@@ -159,7 +159,7 @@
 | ASIC Bootcode and Firmware Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71965/login) | 1d |
 | Hardware Validation Engineer – Infrastructure & Tooling | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/68057/login) | 1d |
 
-#### ☁️ **Salesforce** (8 positions)
+#### ☁️ **Salesforce** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -169,8 +169,6 @@
 | Software Engineering Developer CI Infrastructure PMTS | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313273/software-engineering-developer-ci-infrastructure-pmts/) | 1d |
 | Software Engineering, Frontend (Slack - Multiple levels) | Georgia Atlanta | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr310106/software-engineering-frontend-slack-multiple-levels/) | 1d |
 | Software Engineering SMTS | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313479/software-engineering-smts/) | 1d |
-| Software Engineering LMTS | Washington Bellevue | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr312351/software-engineering-lmts/) | 1d |
-| Summer 2026 Intern - Software Engineer | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/) | 1d |
 
 #### 🔵 **IBM** (9 positions)
 
@@ -258,14 +256,15 @@
 |------|----------|-----------|-----|
 | BMS Technician 3- 1st Shift 🏠 | US California San Diego | [<img src="./image.png" width="100" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Facilities-Maintenance-Technician-2--2nd-Shift_41132-JOB?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 
-### 🏭 **Manufacturing & Industrial** (13 positions)
+### 🏭 **Manufacturing & Industrial** (14 positions)
 
-#### ⚗️ **Applied Materials** (2 positions)
+#### ⚗️ **Applied Materials** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Hardware Engineering Technician | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312512897?domain=appliedmaterials.com&triggerGoButton=false) | 3d |
 | Engineering Technician | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312556946?domain=appliedmaterials.com&triggerGoButton=false) | 2d |
+| Engineering Technician III - (T3) | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790304280042?domain=appliedmaterials.com&triggerGoButton=false) | 1d |
 
 #### 💾 **Micron Technology** (7 positions)
 
@@ -305,7 +304,7 @@
 
 
 #### ☁️ **Enterprise & Cloud** (9 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (2) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (2) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (3) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (10) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (8) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (9)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (2) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (2) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (3) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (10) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (6) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (9)
 
 ---
 
@@ -315,7 +314,7 @@
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 27 | 28% | No or minimal experience |
 | 🟡 Beginner & Early Career | 42 | 44% | 1-2 years of experience |
-| 🔴 Manager         | 27 | 28% | 2+ years of experience |
+| 🔴 Manager         | 26 | 27% | 2+ years of experience |
 
 ---
 
@@ -323,7 +322,7 @@
 
 - **Mountain View, CA**: 17 positions
 - **Sunnyvale, CA**: 7 positions
-- **California San Francisco**: 6 positions
+- **California San Francisco**: 5 positions
 - **US, CA**: 5 positions
 - **US, TX**: 4 positions
 - **Austin**: 3 positions
@@ -334,7 +333,7 @@
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 96+ verified CS internships and entry-level hardware roles from 21 elite tech companies.
+✅ **100% Real Jobs:** 95+ verified CS internships and entry-level hardware roles from 21 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -387,12 +386,12 @@
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 66 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 65 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 66 positions
+- **📁 Total Jobs**: 65 positions
 - **🏢 Companies**: 21 companies  
 - **⭐ FAANG+ Jobs & Internships**: 4 roles
 
@@ -498,14 +497,13 @@
 |------|----------|-----------|-----|
 | Infrastructure Engineer III - VMware ESXi | Tampa, FL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210663158/?keyword=hardware+engineering&lastSelectedFacet=CATEGORIES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedCategoriesFacet=300000086249821%253B300000086153391%253B300000086144371) | 3w |
 
-### 🏭 **Manufacturing & Industrial** (22 positions)
+### 🏭 **Manufacturing & Industrial** (21 positions)
 
-#### ⚗️ **Applied Materials** (6 positions)
+#### ⚗️ **Applied Materials** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Engineering Technician | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312446106?domain=appliedmaterials.com&triggerGoButton=false) | 2w |
-| Engineering Technician III - (T3) | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790304280042?domain=appliedmaterials.com&triggerGoButton=false) | 3w |
 | Software Engineer IV - (E4) | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312456166?domain=appliedmaterials.com&triggerGoButton=false) | 1w |
 | Global Software Support Engineer | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312456168?domain=appliedmaterials.com&triggerGoButton=false) | 1w |
 | Systems Engineer | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312425528?domain=appliedmaterials.com&triggerGoButton=false) | 2w |
@@ -558,7 +556,7 @@
 
 <div align="center">
 
-**🎯 96 current opportunities from 21 elite companies.**
+**🎯 95 current opportunities from 21 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
