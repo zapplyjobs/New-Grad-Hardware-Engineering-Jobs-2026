@@ -118,8 +118,8 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Connectivity RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627021-3956/connectivity-rf-hardware-design-engineer?team=HRDWR) | 5d |
 | Cellular RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626632-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 6d |
+| Connectivity RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627021-3956/connectivity-rf-hardware-design-engineer?team=HRDWR) | 5d |
 
 ### 🏢 **Top Tech** (34 positions)
 
@@ -315,8 +315,8 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 29 | 30% | No or minimal experience |
-| 🟡 Beginner & Early Career | 42 | 43% | 1-2 years of experience |
-| 🔴 Manager         | 26 | 27% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 43 | 44% | 1-2 years of experience |
+| 🔴 Manager         | 25 | 26% | 2+ years of experience |
 
 ---
 
