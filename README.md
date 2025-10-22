@@ -22,7 +22,7 @@
 - **⭐ FAANG+ Jobs**: 35 premium opportunities  
 - **📅 Last Updated**: October 22, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 67 (older than 1 week)
+- **📁 Archived Jobs**: 66 (older than 1 week)
 
 
 
@@ -151,9 +151,9 @@
 | Hardware Systems Design Engineer | US, NJ | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/67943/login) | 1d |
 | Hardware Platform Design Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71202/login) | 1d |
 | System Hardware Development & Validation Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/70939/login) | 1d |
+| CPU Tools and Diagnostics Development Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72316/login) | 1d |
 | FPGA Product Development | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71851/login) | 1d |
 | Formal Design Verification Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/70124/login) | 1d |
-| Platform Emulation Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/69702/login) | 1d |
 | Customer Quality Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/70801/login) | 1d |
 | CPU Cores Design Engineer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/69353/login) | 1d |
 | ASIC Bootcode and Firmware Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71965/login) | 1d |
@@ -387,12 +387,12 @@
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 67 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 66 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 67 positions
+- **📁 Total Jobs**: 66 positions
 - **🏢 Companies**: 21 companies  
 - **⭐ FAANG+ Jobs & Internships**: 4 roles
 
@@ -412,9 +412,9 @@
 | Systems Validation Engineer - Data Center Hardware | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624875-3956/systems-validation-engineer-data-center-hardware?team=HRDWR) | 2w |
 | Baseband Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200622618-3956/baseband-hardware-design-engineer?team=HRDWR) | 2w |
 
-### 💻 **Enterprise Software** (21 positions)
+### 💻 **Enterprise Software** (20 positions)
 
-#### 🖥️ **Hewlett Packard Enterprise** (5 positions)
+#### 🖥️ **Hewlett Packard Enterprise** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -422,7 +422,6 @@
 | PCB Layout Engineer | Aguadilla, Puerto Rico | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/PCB-Layout-Engineer_1195368-2?q=hardware+engineering&jobFamilyGroup=98cbd30d374e10333e00271ec8445e81) | 1w |
 | Software Engineer | ngalore, Karnataka | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Bangalore-Karnataka-India/Software-Engineer_1191866-3?q=hardware+engineering&jobFamilyGroup=98cbd30d374e10333e00271ec8445e81) | 1w |
 | Systems/ Software Engineer | Aguadilla, Puerto Rico | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Systems--Software-Engineer_1195272?q=hardware+engineering&jobFamilyGroup=98cbd30d374e10333e00271ec8445e81) | 1w |
-| ASIC Engineer | ngalore, Karnataka | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Bangalore-Karnataka-India/ASIC-Engineer_1195653-1?q=hardware+engineering&jobFamilyGroup=98cbd30d374e10333e00271ec8445e81) | 2w |
 
 #### 💻 **Dell** (2 positions)
 
