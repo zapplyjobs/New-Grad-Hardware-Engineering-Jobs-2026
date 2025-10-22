@@ -17,9 +17,9 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 98 
+- **🔥 Active Positions**: 96 
 - **🏢 Companies**: 21 elite tech companies
-- **⭐ FAANG+ Jobs**: 36 premium opportunities  
+- **⭐ FAANG+ Jobs**: 35 premium opportunities  
 - **📅 Last Updated**: October 22, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 67 (older than 1 week)
@@ -66,7 +66,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (36 positions)
+### ⭐ **FAANG+** (35 positions)
 
 #### 📦 **Amazon** (2 positions)
 
@@ -114,13 +114,12 @@
 
 </details>
 
-#### 🍎 **Apple** (3 positions)
+#### 🍎 **Apple** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | RF/mmW Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627767-3956/rf-mmw-hardware-design-engineer?team=HRDWR) | 22h |
 | Connectivity RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627021-3956/connectivity-rf-hardware-design-engineer?team=HRDWR) | 5d |
-| Cellular RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626632-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 6d |
 
 ### 🏢 **Top Tech** (33 positions)
 
@@ -208,16 +207,15 @@
 | Outside Plant Technician | Boston, Massachusetts | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Boston-Massachusetts/Outside-Plant-Technician_R-1063100?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
 | Field Technician | Portsmouth, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Portsmouth-Virginia/Field-Technician_R-1085682?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
 
-### 🚀 **Startups & Growth** (6 positions)
+### 🚀 **Startups & Growth** (5 positions)
 
-#### 🛡️ **BAE Systems** (5 positions)
+#### 🛡️ **BAE Systems** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Network Engineer | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Network-Engineer_R0228212?q=hardware+engineering) | 6d |
 | Telecommunications Engineer | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Telecommunications-Engineer_R0228278?q=hardware+engineering) | 5d |
 | Network Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Network-Engineer_R0228482?q=hardware+engineering) | 1d |
-| System and Network Administrator | Annapolis Junction, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/System-and-Network-Administrator_R0228405?q=hardware+engineering) | 2d |
 | Network Infrastructure Engineer | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Network-Infrastructure-Engineer_R0224849?q=hardware+engineering) | 6d |
 
 #### ⚙️ **General Dynamics** (1 position)
@@ -279,7 +277,7 @@
 | MTS Circuit Design Engineer, HSIO | Folsom, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30868369) | 2d |
 | Fab Support Equipment Maintenance Technician | nassas, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/37974392) | 1d |
 | Intern - Process Technician | nassas, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38566554) | 3d |
-| Intern - Technician, Process | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com) | 1d |
+| Shift Operations Process Technician | nassas, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com) | 2d |
 
 #### 🚗 **Magna International** (4 positions)
 
@@ -299,7 +297,7 @@
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (31 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (3) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (2)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (31 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (2)
 
 
 #### 💰 **Fintech Leaders** (1 company)
@@ -315,9 +313,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 27 | 28% | No or minimal experience |
-| 🟡 Beginner & Early Career | 43 | 44% | 1-2 years of experience |
-| 🔴 Manager         | 28 | 29% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 28 | 29% | No or minimal experience |
+| 🟡 Beginner & Early Career | 42 | 44% | 1-2 years of experience |
+| 🔴 Manager         | 26 | 27% | 2+ years of experience |
 
 ---
 
@@ -327,16 +325,16 @@
 - **Sunnyvale, CA**: 7 positions
 - **California San Francisco**: 6 positions
 - **US, CA**: 5 positions
+- **nassas, Virginia**: 4 positions
 - **US, TX**: 4 positions
 - **Austin**: 3 positions
-- **Boise, Idaho**: 3 positions
-- **nassas, Virginia**: 3 positions
+- **Austin, TX**: 3 positions
 
 ---
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 98+ verified CS internships and entry-level hardware roles from 21 elite tech companies.
+✅ **100% Real Jobs:** 96+ verified CS internships and entry-level hardware roles from 21 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -471,8 +469,8 @@
 | Automation Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Automation-Engineer_R0226900?q=hardware+engineering) | 3w |
 | Network Engineer | Keyport, WA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Keyport-WA/Network-Engineer_R0227158?q=hardware+engineering) | 3w |
 | Network Engineer | Annapolis Junction, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Network-Engineer_R0227928?q=hardware+engineering) | 1w |
-| Electrical Engineer | King George, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/King-George-VA/Electrical-Engineer_R0225223?q=hardware+engineering) | 2w |
 | Tactical Networks Systems Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Tactical-Networks-Systems-Engineer_R0225154-1?q=hardware+engineering) | 3w |
+| Electronics Engineer, Mid | Dahlgren, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Electronics-Engineer--Mid_R0224026?q=hardware+engineering) | 2w |
 
 #### 📊 **Guidehouse** (1 position)
 
@@ -561,7 +559,7 @@
 
 <div align="center">
 
-**🎯 98 current opportunities from 21 elite companies.**
+**🎯 96 current opportunities from 21 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
