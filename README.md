@@ -17,7 +17,7 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 94 
+- **🔥 Active Positions**: 96 
 - **🏢 Companies**: 20 elite tech companies
 - **⭐ FAANG+ Jobs**: 34 premium opportunities  
 - **📅 Last Updated**: October 22, 2025
@@ -253,7 +253,7 @@
 |------|----------|-----------|-----|
 | BMS Technician 3- 1st Shift 🏠 | US California San Diego | [<img src="./image.png" width="100" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Facilities-Maintenance-Technician-2--2nd-Shift_41132-JOB?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 
-### 🏭 **Manufacturing & Industrial** (11 positions)
+### 🏭 **Manufacturing & Industrial** (13 positions)
 
 #### ⚗️ **Applied Materials** (2 positions)
 
@@ -262,7 +262,7 @@
 | Hardware Engineering Technician | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312512897?domain=appliedmaterials.com&triggerGoButton=false) | 3d |
 | Engineering Technician | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312556946?domain=appliedmaterials.com&triggerGoButton=false) | 2d |
 
-#### 💾 **Micron Technology** (5 positions)
+#### 💾 **Micron Technology** (7 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -271,6 +271,8 @@
 | Applications Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38572276) | 2d |
 | MTS Circuit Design Engineer, HSIO | Folsom, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30868369) | 2d |
 | Fab Support Equipment Maintenance Technician | nassas, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/37974392) | 1d |
+| Intern - Process Technician | nassas, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38566554) | 3d |
+| Intern - Technician, Process | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com) | 1d |
 
 #### 🚗 **Magna International** (4 positions)
 
@@ -306,9 +308,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 26 | 28% | No or minimal experience |
-| 🟡 Beginner & Early Career | 43 | 46% | 1-2 years of experience |
-| 🔴 Manager         | 25 | 27% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 29 | 30% | No or minimal experience |
+| 🟡 Beginner & Early Career | 41 | 43% | 1-2 years of experience |
+| 🔴 Manager         | 26 | 27% | 2+ years of experience |
 
 ---
 
@@ -321,13 +323,13 @@
 - **Austin**: 4 positions
 - **Austin, TX**: 4 positions
 - **US, TX**: 4 positions
-- **shipAustin**: 2 positions
+- **Boise, Idaho**: 3 positions
 
 ---
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 94+ verified CS internships and entry-level hardware roles from 20 elite tech companies.
+✅ **100% Real Jobs:** 96+ verified CS internships and entry-level hardware roles from 20 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -554,7 +556,7 @@
 
 <div align="center">
 
-**🎯 94 current opportunities from 20 elite companies.**
+**🎯 96 current opportunities from 20 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
