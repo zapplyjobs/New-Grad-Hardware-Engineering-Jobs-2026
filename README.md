@@ -17,12 +17,12 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 100 
+- **🔥 Active Positions**: 99 
 - **🏢 Companies**: 20 elite tech companies
 - **⭐ FAANG+ Jobs**: 34 premium opportunities  
 - **📅 Last Updated**: October 22, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 67 (older than 1 week)
+- **📁 Archived Jobs**: 66 (older than 1 week)
 
 
 
@@ -120,7 +120,7 @@
 | Connectivity RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627021-3956/connectivity-rf-hardware-design-engineer?team=HRDWR) | 5d |
 | Cellular RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626632-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 6d |
 
-### 🏢 **Top Tech** (37 positions)
+### 🏢 **Top Tech** (36 positions)
 
 #### 💾 **Marvel Technology** (1 position)
 
@@ -158,7 +158,7 @@
 | ASIC Bootcode and Firmware Engineer | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71965/login) | 1d |
 | Hardware Validation Engineer – Infrastructure & Tooling | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/68057/login) | 1d |
 
-#### ☁️ **Salesforce** (9 positions)
+#### ☁️ **Salesforce** (8 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -166,7 +166,6 @@
 | AI Forward Deployed Engineer (Early Career) | Washington Bellevue | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr312405/ai-forward-deployed-engineer-early-career/) | 1d |
 | Software Engineering LMTS/SMTS, EntSecTech, Autonomous IAM | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr312311/software-engineering-lmtssmts-entsectech-autonomous-iam/) | 1d |
 | Software Engineering LMTS (Service Mesh, Ingress Gateway) | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr304216/software-engineering-lmts-service-mesh-ingress-gateway/) | 1d |
-| Software Engineering Developer CI Infrastructure PMTS | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313273/software-engineering-developer-ci-infrastructure-pmts/) | 1d |
 | Software Engineering, Frontend (Slack - Multiple levels) | Georgia Atlanta | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr310106/software-engineering-frontend-slack-multiple-levels/) | 1d |
 | Software Engineering SMTS | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313479/software-engineering-smts/) | 1d |
 | Software Engineering LMTS | Washington Bellevue | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr312351/software-engineering-lmts/) | 1d |
@@ -304,7 +303,7 @@
 
 
 #### ☁️ **Enterprise & Cloud** (9 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (6) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (2) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (3) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (10) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (9) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (12)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (6) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (2) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (3) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (10) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (8) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (12)
 
 ---
 
@@ -314,15 +313,15 @@
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 31 | 31% | No or minimal experience |
 | 🟡 Beginner & Early Career | 41 | 41% | 1-2 years of experience |
-| 🔴 Manager         | 28 | 28% | 2+ years of experience |
+| 🔴 Manager         | 27 | 27% | 2+ years of experience |
 
 ---
 
 ## 🌍 **Top Locations**
 
 - **Mountain View, CA**: 17 positions
-- **California San Francisco**: 6 positions
 - **Sunnyvale, CA**: 6 positions
+- **California San Francisco**: 5 positions
 - **US, CA**: 5 positions
 - **Austin**: 4 positions
 - **US, TX**: 4 positions
@@ -333,7 +332,7 @@
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 100+ verified CS internships and entry-level hardware roles from 20 elite tech companies.
+✅ **100% Real Jobs:** 99+ verified CS internships and entry-level hardware roles from 20 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -386,12 +385,12 @@
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 67 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 66 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 67 positions
+- **📁 Total Jobs**: 66 positions
 - **🏢 Companies**: 20 companies  
 - **⭐ FAANG+ Jobs & Internships**: 4 roles
 
@@ -458,7 +457,7 @@
 | Outside Plant Technician | East Stroudsburg, Pennsylvania | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/East-Stroudsburg-Pennsylvania/Outside-Plant-Technician_R-1084598?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 | Outside Plant Technician | Greensburg, Pennsylvania | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Greensburg-Pennsylvania/Outside-Plant-Technician_R-1085583?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 
-### 🚀 **Startups & Growth** (21 positions)
+### 🚀 **Startups & Growth** (20 positions)
 
 #### 🛡️ **BAE Systems** (12 positions)
 
@@ -483,7 +482,7 @@
 |------|----------|-----------|-----|
 | BAS Technician | US AL, Huntsville | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---AL-Huntsville/BAS-Technician_32779?q=hardware+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09&jobFamily=d44ba6ecd0281001edd9329c45a90000) | 3w |
 
-#### ⚙️ **General Dynamics** (8 positions)
+#### ⚙️ **General Dynamics** (7 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -494,7 +493,6 @@
 | Systems Administrator Technician _TS/SCI with Polygraph | USA CO Aurora | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CO-Aurora/Systems-Administrator--Technician--TS-SCI-with-Polygraph_RQ201167?q=Hardware) | 2w |
 | System Administrator Associate_TS/SCI with Polygraph | USA CO Aurora | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CO-Aurora/System-Administrator-Associate-TS-SCI-with-Polygraph_RQ198811?q=Hardware) | 2w |
 | Systems Engineer | USA DC Washington | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Systems-Engineer_RQ208590?q=Hardware) | 1w |
-| Network/System Administrator (Net/Sys Admin) | USA CO Colorado Springs | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CO-Colorado-Springs/Network-System-Administrator--Net-Sys-Admin--II_RQ207603-1?q=Hardware) | 1w |
 
 ### 💰 **Financial & Fintech** (1 position)
 
@@ -565,7 +563,7 @@
 
 <div align="center">
 
-**🎯 100 current opportunities from 20 elite companies.**
+**🎯 99 current opportunities from 20 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
