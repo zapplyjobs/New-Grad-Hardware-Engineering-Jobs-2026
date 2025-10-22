@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Back End Developer",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Entry Level Back End Developer 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66451&source=WEB_Search_NA",
+    "id": "ibm-entry-level-back-end-developer-austin"
+  },
+  {
+    "employer_name": "Applied Materials",
+    "job_title": "Engineering Technician",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "hardware engineering job for the role Engineering Technician IV",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790312556946?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-engineering-technician-austin"
+  }
+]
