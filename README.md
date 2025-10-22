@@ -17,9 +17,9 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 92 
+- **🔥 Active Positions**: 93 
 - **🏢 Companies**: 20 elite tech companies
-- **⭐ FAANG+ Jobs**: 33 premium opportunities  
+- **⭐ FAANG+ Jobs**: 34 premium opportunities  
 - **📅 Last Updated**: October 22, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 68 (older than 1 week)
@@ -66,7 +66,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (33 positions)
+### ⭐ **FAANG+** (34 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -112,12 +112,13 @@
 
 </details>
 
-#### 🍎 **Apple** (2 positions)
+#### 🍎 **Apple** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Cellular RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626632-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 6d |
 | Data Engineer - Camera Hardware | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200620247-3543/data-engineer-camera-hardware?team=HRDWR) | 5d |
+| Connectivity RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627021-3956/connectivity-rf-hardware-design-engineer?team=HRDWR) | 5d |
+| Cellular RF Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626632-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 6d |
 
 ### 🏢 **Top Tech** (34 positions)
 
@@ -288,7 +289,7 @@
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (30 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (30 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (3) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (1 company)
@@ -304,8 +305,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 27 | 29% | No or minimal experience |
-| 🟡 Beginner & Early Career | 41 | 45% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 28 | 30% | No or minimal experience |
+| 🟡 Beginner & Early Career | 41 | 44% | 1-2 years of experience |
 | 🔴 Manager         | 24 | 26% | 2+ years of experience |
 
 ---
@@ -325,7 +326,7 @@
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 92+ verified CS internships and entry-level hardware roles from 20 elite tech companies.
+✅ **100% Real Jobs:** 93+ verified CS internships and entry-level hardware roles from 20 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -512,7 +513,7 @@
 | Intern - Design Engineering, HBM | Richardson, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30954489) | 1w |
 | Central Mask Tapeout Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38050023) | 1w |
 | MTS Module Validation Developer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38467305) | 1w |
-| Intern - HBM Design Engineer | Richardson, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38283374) | 3w |
+| Intern - HBM Design Engineer | Richardson, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38283376) | 3w |
 
 #### 📡 **Analog Devices** (1 position)
 
@@ -551,7 +552,7 @@
 
 <div align="center">
 
-**🎯 92 current opportunities from 20 elite companies.**
+**🎯 93 current opportunities from 20 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
