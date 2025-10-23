@@ -2,7 +2,7 @@ const fs = require("fs");
 const { generateJobId } = require("./job-fetcher/utils");
 const { isUSOnlyJob } = require("./job-fetcher/utils");
 const { filterJobsByLevel } = require("./job-fetcher/utils");
-const { filterHardwareEngineeringJobs } = require("./job-fetcher/utils.js"); // NEW IMPORT
+const { filterHardwareEngineeringJobs } = require("./job-fetcher/utils.js");
 const { scrapeCompanyData } = require('../../jobboard/src/backend/core/scraper.js');
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
 const { transformJobs, convertDateToRelative } = require('../../jobboard/src/backend/output/jobTransformer.js');
@@ -14,12 +14,12 @@ const companies = JSON.parse(
 const ALL_COMPANIES = Object.values(companies).flat();
 
 const BATCH_CONFIG = {
-  batchSize: 18,                    // Number of scrapers to run concurrently in each batch (8 companies)
-  delayBetweenBatches: 2000,       // Delay in milliseconds between batches (2 seconds)
-  maxRetries: 1,                   // Maximum retry attempts for failed scrapers
-  timeout: 900000,                 // Timeout for individual scrapers (3 minutes)
-  enableProgressBar: true,          // Enable progress tracking
-  enableDetailedLogging: true      // Enable detailed logging for each scraper
+  batchSize: 18,
+  delayBetweenBatches: 2000,
+  maxRetries: 1,
+  timeout: 900000,
+  enableProgressBar: true,
+  enableDetailedLogging: true
 };
 
 function safeISOString(dateValue) {
@@ -41,7 +41,6 @@ function safeISOString(dateValue) {
     }
 }
 
-// Function to create custom batch configuration
 function createBatchConfig(options = {}) {
   return {
     ...BATCH_CONFIG,
@@ -49,12 +48,10 @@ function createBatchConfig(options = {}) {
   };
 }
 
-// Utility functions
 function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-// Fetch jobs from all companies with real career API
 async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages = 3, batchConfig = BATCH_CONFIG) {
   console.log("🚀 Starting REAL career page scraping...");
 
@@ -62,26 +59,22 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
   const companies = getCompanies(searchQuery);
   const companyKeys = Object.keys(companies);
 
-  // Add execution tracking to prevent loops
   const executionId = Date.now();
   console.log(`🔍 Execution ID: ${executionId}`);
 
-  // Define scraper configurations for batch processing
   const scraperConfigs = companyKeys.map(companyKey => ({
     name: companies[companyKey].name,
     companyKey: companyKey,
     scraper: () => scrapeCompanyData(companyKey, searchQuery, maxPages),
     query: searchQuery,
-    executionId // Add execution ID to track this run
+    executionId
   }));
 
-  // Enhanced batch processing function with comprehensive tracking and error handling
   async function processScrapersInBatches(configs, config = batchConfig) {
     const results = [];
     const totalBatches = Math.ceil(configs.length / config.batchSize);
-    const processedCompanies = new Set(); // Track processed companies to prevent duplicates
+    const processedCompanies = new Set();
 
-    // Enhanced tracking objects
     const overallProgress = {
       totalCompanies: configs.length,
       processedCompanies: 0,
@@ -114,7 +107,6 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
 
       console.log(`\n📦 Processing Batch ${batchNumber}/${totalBatches}: ${batch.map(c => c.name).join(', ')}`);
 
-      // Filter out already processed companies
       const filteredBatch = batch.filter(scraperConfig => {
         if (processedCompanies.has(scraperConfig.companyKey)) {
           console.log(`⚠️ Skipping already processed company: ${scraperConfig.name}`);
@@ -131,7 +123,6 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
         continue;
       }
 
-      // Batch-level tracking
       const batchProgress = {
         batchNumber,
         companies: filteredBatch.map(c => c.name),
@@ -142,19 +133,16 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
         startTime: batchStartTime
       };
 
-      // Process current batch concurrently with retry logic
       const batchPromises = filteredBatch.map(async (scraperConfig) => {
         let lastError = null;
         let startTime = Date.now();
 
         for (let attempt = 1; attempt <= config.maxRetries; attempt++) {
           try {
-            // Update startTime for each attempt
             startTime = Date.now();
 
             let jobs;
             if (config.timeout > 0) {
-              // Timeout enabled
               const timeoutPromise = new Promise((_, reject) => {
                 setTimeout(() => reject(new Error('Scraper timeout')), config.timeout);
               });
@@ -164,7 +152,6 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
                 timeoutPromise
               ]);
             } else {
-              // No timeout - wait indefinitely for the scraper to complete
               jobs = await scraperConfig.scraper();
             }
 
@@ -173,7 +160,6 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
             overallProgress.successfulCompanies++;
             overallProgress.totalJobsCollected += jobs?.length || 0;
 
-            // Track successful company
             const successInfo = {
               name: scraperConfig.name,
               jobs: jobs?.length || 0,
@@ -204,13 +190,11 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
               console.log(`⚠️  ${scraperConfig.name} attempt ${attempt} failed: ${error.message}`);
             }
 
-            // If this is the last attempt, mark as failed
             if (attempt === config.maxRetries) {
               const duration = Date.now() - startTime;
               overallProgress.processedCompanies++;
               overallProgress.failedCompanies++;
 
-              // Track failed company
               const failInfo = {
                 name: scraperConfig.name,
                 error: error.message,
@@ -233,10 +217,9 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
               };
             }
 
-            // Exponential backoff with jitter for retry delay
             const baseDelay = 2000 * Math.pow(2, attempt - 1);
-            const jitter = Math.random() * 1000; // Add jitter to avoid thundering herd
-            const retryDelay = Math.min(baseDelay + jitter, 10000); // Max 10s
+            const jitter = Math.random() * 1000;
+            const retryDelay = Math.min(baseDelay + jitter, 10000);
             if (config.enableDetailedLogging) {
               console.log(`⏳ Retrying ${scraperConfig.name} in ${retryDelay.toFixed(0)}ms...`);
             }
@@ -245,21 +228,18 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
         }
       });
 
-      // Wait for current batch to complete, with error tolerance (continue on individual failures)
       let batchResults;
       try {
         batchResults = await Promise.all(batchPromises);
       } catch (batchError) {
         console.error(`❌ Batch ${batchNumber} had an unhandled error: ${batchError.message}. Continuing with available results.`);
-        batchResults = []; // Or collect partial if using allSettled
+        batchResults = [];
       }
-      results.push(...batchResults.filter(result => result)); // Filter nulls if any
+      results.push(...batchResults.filter(result => result));
 
-      // Complete batch tracking
       batchProgress.duration = Date.now() - batchStartTime;
       overallProgress.batchResults.push(batchProgress);
 
-      // Enhanced progress reporting after each batch
       const progressPercent = ((overallProgress.processedCompanies / overallProgress.totalCompanies) * 100).toFixed(1);
       const elapsedTime = Date.now() - overallProgress.startTime;
       const avgTimePerCompany = overallProgress.processedCompanies > 0 ? elapsedTime / overallProgress.processedCompanies : 0;
@@ -286,14 +266,12 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
       console.log(`   ⏱️  Elapsed Time: ${(elapsedTime/1000).toFixed(1)}s`);
       console.log(`   🔮 Estimated Time Remaining: ${(estimatedTimeRemaining/1000).toFixed(1)}s`);
 
-      // Add delay between batches (except for the last batch)
       if (i + config.batchSize < configs.length) {
         console.log(`⏳ Waiting ${config.delayBetweenBatches}ms before next batch...`);
         await new Promise(resolve => setTimeout(resolve, config.delayBetweenBatches));
       }
     }
 
-    // Final comprehensive summary
     const totalDuration = Date.now() - overallProgress.startTime;
     console.log(`\n🏆 ===== BATCH PROCESSING COMPLETE =====`);
     console.log(`🕐 Total Duration: ${(totalDuration/1000).toFixed(1)}s (${(totalDuration/60000).toFixed(1)} minutes)`);
@@ -305,10 +283,9 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
     console.log(`   📊 Total Jobs Collected: ${overallProgress.totalJobsCollected}`);
     console.log(`   ⚡ Average Jobs per Successful Company: ${overallProgress.successfulCompanies > 0 ? (overallProgress.totalJobsCollected/overallProgress.successfulCompanies).toFixed(1) : 0}`);
 
-    // Detailed success and failure breakdown
     console.log(`\n🎉 Successful Companies (${companiesStatus.successful.length}):`);
     companiesStatus.successful
-      .sort((a, b) => b.jobs - a.jobs) // Sort by job count descending
+      .sort((a, b) => b.jobs - a.jobs)
       .forEach((company, index) => {
         console.log(`   ${index + 1}. ${company.name}: ${company.jobs} jobs (${(company.duration/1000).toFixed(1)}s, ${company.attempts} attempts)`);
       });
@@ -331,21 +308,49 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
     return results;
   }
 
-  // Process all scrapers in optimized batches
   const batchResults = await processScrapersInBatches(scraperConfigs, batchConfig);
 
-  // Collect all jobs from successful scrapers and transform immediately
-  const processedJobIds = new Set(); // Track processed job IDs to prevent duplicates
+  const processedJobIds = new Set();
 
   batchResults.forEach(result => {
     if (result.success && result.jobs && result.jobs.length > 0) {
       try {
-        const transformedJobs = transformJobs(result.jobs, searchQuery);
-        console.log(`🔄 Transforming ${result.jobs.length} jobs from ${result.name}`);
-        let resultJobs = result.jobs.forEach(job => {
-          return job;
+        console.log(`\n${'='.repeat(80)}`);
+        console.log(`🔍 LOCATION DEBUGGING for ${result.name}`);
+        console.log(`${'='.repeat(80)}`);
+        console.log(`📊 Total raw jobs before transformation: ${result.jobs.length}`);
+        
+        // Log first 5 jobs with their raw location data
+        const sampleSize = Math.min(5, result.jobs.length);
+        console.log(`\n📍 Sample of raw location data (first ${sampleSize} jobs):`);
+        
+        result.jobs.slice(0, sampleSize).forEach((job, index) => {
+          console.log(`\n   Job ${index + 1}:`);
+          console.log(`   ├─ Company: ${job.company}`);
+          console.log(`   ├─ Title: ${job.title}`);
+          console.log(`   ├─ Raw Location: "${job.location}"`);
+          console.log(`   ├─ Location Type: ${typeof job.location}`);
+          console.log(`   ├─ Location Length: ${job.location ? job.location.length : 0}`);
+          console.log(`   └─ Location (trimmed): "${job.location ? job.location.trim() : 'N/A'}"`);
         });
-        console.log(resultJobs);
+        
+        console.log(`\n🔄 Now transforming ${result.jobs.length} jobs from ${result.name}...`);
+        const transformedJobs = transformJobs(result.jobs, searchQuery);
+        console.log(`✅ Transformation complete: ${transformedJobs.length} jobs processed`);
+        
+        // Log transformed location data for comparison
+        console.log(`\n📍 Sample of TRANSFORMED location data (first ${sampleSize} jobs):`);
+        
+        transformedJobs.slice(0, sampleSize).forEach((job, index) => {
+          const originalJob = result.jobs[index];
+          console.log(`\n   Job ${index + 1}:`);
+          console.log(`   ├─ Original Location: "${originalJob.location}"`);
+          console.log(`   ├─ Transformed City: "${job.job_city}"`);
+          console.log(`   ├─ Transformed State: "${job.job_state}"`);
+          console.log(`   └─ Full Transformed: "${job.job_city}${job.job_state ? ', ' + job.job_state : ''}"`);
+        });
+        
+        console.log(`\n${'='.repeat(80)}\n`);
 
         // Filter out already processed jobs
         const newJobs = transformedJobs.filter(job => {
@@ -365,6 +370,7 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
         }
       } catch (transformError) {
         console.error(`❌ Error transforming jobs from ${result.name}:`, transformError.message);
+        console.error(`Stack trace:`, transformError.stack);
       }
     } else if (result.success) {
       console.log(`ℹ️ ${result.name} returned no jobs`);
@@ -373,14 +379,11 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
 
   console.log(`📊 Total scraped jobs collected after transformation: ${allJobs.length}`);
 
-  // Early exit if no jobs found
   if (allJobs.length === 0) {
     console.log(`⚠️ No scraped jobs found. Will only collect API jobs.`);
   }
 
-  // ========== NEW FILTERING PIPELINE ==========
-  
-  // STEP 1: Filter by job title (remove internships and non-software engineering jobs)
+  // STEP 1: Filter by job title
   console.log('\n🎯 STEP 1: Filtering jobs by title (removing internships and non-software roles)...');
   let titleFilteredJobs = [];
   try {
@@ -390,10 +393,10 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
     }
   } catch (titleFilterError) {
     console.error('❌ Error in title filtering:', titleFilterError.message);
-    titleFilteredJobs = allJobs; // Fallback to unfiltered jobs
+    titleFilteredJobs = allJobs;
   }
 
-  // STEP 2: Filter by experience level (remove senior-level positions)
+  // STEP 2: Filter by experience level
   console.log('\n🎯 STEP 2: Filtering jobs by experience level...');
   let levelFilteredJobs = [];
   try {
@@ -403,7 +406,7 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
     }
   } catch (filterError) {
     console.error('❌ Error in level filtering:', filterError.message);
-    levelFilteredJobs = titleFilteredJobs; // Fallback to title-filtered jobs
+    levelFilteredJobs = titleFilteredJobs;
   }
 
   // STEP 3: Filter by location (US only)
@@ -418,10 +421,10 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
 
         if (!isUSJob) {
           removedJobs.push(job);
-          return false; // Remove non-US job
+          return false;
         }
 
-        return true; // Keep US job
+        return true;
       });
 
       console.log(`🗺️ Location filtering: ${initialCount} -> ${levelFilteredJobs.length} jobs (removed ${removedJobs.length} non-US jobs)`);
@@ -430,7 +433,7 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
     console.error('❌ Error in location filtering:', locationError.message);
   }
 
-  // STEP 4: Final deduplication using standardized job ID generation
+  // STEP 4: Final deduplication
   console.log('\n🎯 STEP 4: Final deduplication...');
   const uniqueJobs = levelFilteredJobs.filter((job, index, self) => {
     const jobId = generateJobId(job);
@@ -439,20 +442,18 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
 
   console.log(`🧹 Deduplication: ${levelFilteredJobs.length} -> ${uniqueJobs.length} jobs`);
 
-  // STEP 5: Sort by posting date (descending - latest first)
+  // STEP 5: Sort by posting date
   uniqueJobs.sort((a, b) => {
     const dateA = new Date(a.job_posted_at);
     const dateB = new Date(b.job_posted_at);
     return dateB - dateA;
   });
 
-  // Calculate final statistics
   const scrapedJobsCount = allJobs.length;
   const afterTitleFilter = titleFilteredJobs.length;
   const afterLevelFilter = levelFilteredJobs.length;
   const afterLocationFilter = uniqueJobs.length;
 
-  // Final comprehensive summary
   console.log(`\n🎯 ===== FINAL FILTERING SUMMARY =====`);
   console.log(`📊 Initial scraped jobs: ${scrapedJobsCount}`);
   console.log(`   ⬇️  After title filtering (internships & non-SWE): ${afterTitleFilter} (${((afterTitleFilter/scrapedJobsCount)*100).toFixed(1)}%)`);
