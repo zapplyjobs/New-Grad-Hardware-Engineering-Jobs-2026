@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineering PMTS",
+    "job_city": "California San Francisco",
+    "job_state": "",
+    "job_posted_at": "1d",
+    "job_description": "• Interacting with broader archival team to help integrate the projects/features and collaborate tightly on code, design and test strategy reviewsDemonstrate engineering expertise by working closely with architects, and engineering managers to execute on the strategy for your feature areas, help plan the backlogs, and enable your Scrum team to execute that roadmap flawlesslyCollaborate with architect and product owner to own and drive the design and development of the features for high qualityOwning and resolving Customer issues with utmost urgency and adhering to customer trustDrive cross team collaborative work environment with other Scrum teams and engineering managers that fosters autonomy, innovation, learning, respect and transparency while holding a high bar for delivery Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows BS/MS in Computer ScienceExcellent communication skills and problem-solving skillsExperience with highly-scalable and highly-available distributed systems.\n• Experienced with developing backup/restore features for cloud databasePrior experience with using Kubernetes to build and operate clusters is a mustPrior experience with CI/CD, Infra-as-a-Code is a mustExperience in Java development.\n• Experience with backup and restore product development, demonstrated by working on critical areas of a successful commercial archival solutions15+ years in software development which includes experience in varying aspects of development cycle, including design, coding.\n• You will need to deliver highly complex features with the scalability and performance needed to match the staggering growth of our service.\n• You will need familiarity with archival internals, distributed systems or networking, interest in system programming, exceptional software engineering skills, and relish the opportunity to work on very complex, highly concurrent, highly scalable and resilient systems.\n• You must have a proven track record of success where you demonstrated end to end ownership of architecture, design, implementation, monitoring, testing, and product support on large mission critical systems at petabyte scale.\n• Org Sustainability Investors Give us your Feedback University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.\n• Own design and development to deliver technical outcomes on all project related issuesHelp with backlog planning, cross-team dependency planning and drive the team to execute on the plan.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313745/software-engineering-pmts/",
+    "id": "salesforce-software-engineering-pmts-california-san-francisco"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Database Engineer",
+    "job_city": "California San Francisco",
+    "job_state": "",
+    "job_posted_at": "1d",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr311549/database-engineer/",
+    "id": "salesforce-database-engineer-california-san-francisco"
+  }
+]
