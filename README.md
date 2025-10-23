@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 14+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 15+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -17,8 +17,8 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 56 
-- **🏢 Companies**: 14 elite tech companies
+- **🔥 Active Positions**: 57 
+- **🏢 Companies**: 15 elite tech companies
 - **⭐ FAANG+ Jobs**: 24 premium opportunities  
 - **📅 Last Updated**: October 23, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
@@ -70,11 +70,11 @@
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627241-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 2d |
-| Hardware Reliability Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200622165-0157/hardware-reliability-engineer?team=HRDWR) | 15h |
+| Hardware Reliability Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200622165-0157/hardware-reliability-engineer?team=HRDWR) | 16h |
 | Electrical Engineer - Camera Hardware | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627419-0836/electrical-engineer-camera-hardware?team=HRDWR) | 2d |
 | RF/mmW Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627767-3956/rf-mmw-hardware-design-engineer?team=HRDWR) | 1d |
 
-### 🏢 **Top Tech** (20 positions)
+### 🏢 **Top Tech** (21 positions)
 
 #### 🔬 **Synopsys** (5 positions)
 
@@ -85,6 +85,12 @@
 | Logic Design Architect | Hillsboro, OR | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/hillsboro/logic-design-architect/44408/77257867232) | 6d |
 | Principal Applications Engineer (ASIC/SoC/IP Engineer) - | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/sunnyvale/principal-applications-engineer-asic-soc-ip-engineer-12953/44408/87383798832) | 1d |
 | R&D Engineering, Sr Staff Engineer - Physical Design | Boxborough, MA | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/boxborough/r-and-d-engineering-sr-staff-engineer-physical-design/44408/84650311664) | 6d |
+
+#### 🎮 **NVIDIA** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| ASIC Design Engineer - Hardware 🏠 | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Engineer---Hardware_JR1993847-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 1d |
 
 #### 🔷 **Intel** (2 positions)
 
@@ -187,8 +193,8 @@
 No companies available
 
 
-#### ☁️ **Enterprise & Cloud** (5 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (5) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (2) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (12) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (1)
+#### ☁️ **Enterprise & Cloud** (6 companies)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (5) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (2) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (12) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (1)
 
 ---
 
@@ -196,9 +202,9 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 5 | 9% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 4 | 7% | No or minimal experience |
 | 🟡 Beginner & Early Career | 22 | 39% | 1-2 years of experience |
-| 🔴 Manager         | 29 | 52% | 2+ years of experience |
+| 🔴 Manager         | 31 | 54% | 2+ years of experience |
 
 ---
 
@@ -206,8 +212,8 @@ No companies available
 
 - **Mountain View, CA**: 14 positions
 - **Sunnyvale, CA**: 10 positions
+- **Austin, TX**: 6 positions
 - **Santa Clara  Santa Clara, California US, CA**: 6 positions
-- **Austin, TX**: 5 positions
 - **Austin  Austin, Texas US, TX**: 4 positions
 - **Hillsboro, OR**: 2 positions
 - **Cupertino, CA**: 2 positions
@@ -217,7 +223,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 56+ verified CS internships and entry-level hardware roles from 14 elite tech companies.
+✅ **100% Real Jobs:** 57+ verified CS internships and entry-level hardware roles from 15 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -276,7 +282,7 @@ No companies available
 
 ### **Archived Job Stats**
 - **📁 Total Jobs**: 46 positions
-- **🏢 Companies**: 14 companies  
+- **🏢 Companies**: 15 companies  
 - **⭐ FAANG+ Jobs & Internships**: 6 roles
 
 ### ⭐ **FAANG+** (6 positions)
@@ -418,7 +424,7 @@ No companies available
 
 <div align="center">
 
-**🎯 56 current opportunities from 14 elite companies.**
+**🎯 57 current opportunities from 15 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
