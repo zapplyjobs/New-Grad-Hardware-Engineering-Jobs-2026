@@ -1,262 +1,232 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering LMTS",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr304562/software-engineering-lmts/",
-    "id": "salesforce-software-engineering-lmts-san-francisco"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering PMTS",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Interacting with broader archival team to help integrate the projects/features and collaborate tightly on code, design and test strategy reviewsDemonstrate engineering expertise by working closely with architects, and engineering managers to execute on the strategy for your feature areas, help plan the backlogs, and enable your Scrum team to execute that roadmap flawlesslyCollaborate with architect and product owner to own and drive the design and development of the features for high qualityOwning and resolving Customer issues with utmost urgency and adhering to customer trustDrive cross team collaborative work environment with other Scrum teams and engineering managers that fosters autonomy, innovation, learning, respect and transparency while holding a high bar for delivery Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows BS/MS in Computer ScienceExcellent communication skills and problem-solving skillsExperience with highly-scalable and highly-available distributed systems.\n• Experienced with developing backup/restore features for cloud databasePrior experience with using Kubernetes to build and operate clusters is a mustPrior experience with CI/CD, Infra-as-a-Code is a mustExperience in Java development.\n• Experience with backup and restore product development, demonstrated by working on critical areas of a successful commercial archival solutions15+ years in software development which includes experience in varying aspects of development cycle, including design, coding.\n• You will need to deliver highly complex features with the scalability and performance needed to match the staggering growth of our service.\n• You will need familiarity with archival internals, distributed systems or networking, interest in system programming, exceptional software engineering skills, and relish the opportunity to work on very complex, highly concurrent, highly scalable and resilient systems.\n• You must have a proven track record of success where you demonstrated end to end ownership of architecture, design, implementation, monitoring, testing, and product support on large mission critical systems at petabyte scale.\n• Org Sustainability Investors Give us your Feedback University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.\n• Own design and development to deliver technical outcomes on all project related issuesHelp with backlog planning, cross-team dependency planning and drive the team to execute on the plan.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313745/software-engineering-pmts/",
-    "id": "salesforce-software-engineering-pmts-san-francisco"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Database Engineer",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr311549/database-engineer/",
-    "id": "salesforce-database-engineer-san-francisco"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering LMTS (Service Mesh, Ingress Gateway)",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr304216/software-engineering-lmts-service-mesh-ingress-gateway/",
-    "id": "salesforce-software-engineering-lmts-service-mesh-ingress-gateway-san-francisco"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering Developer CI Infrastructure PMTS",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Extensive experience (10+ years for Staff) in a DevOps, Infrastructure, or Site Reliability Engineering role, with a proven track record of architecting and managing large-scale, mission-critical systems across diverse operating systems (Linux, macOS, Windows).\n• Experience managing and scaling Source Control Management systems, like GitHub Enterprise, is highly desirable.\n• Hands-on experience with modern CI/CD systems (e.\n• Exceptional leadership and communication skills, with the ability to mentor other engineers, drive consensus across teams, and articulate a clear technical vision to both technical and non-technical audiences.\n• Improve and maintain existing services, balancing forward-looking strategic work with the operational excellence (KTLO) required to keep our developers productive.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.\n• Deep expertise in cloud infrastructure, particularly AWS, and a strong command of Infrastructure as Code tools like Terraform, Chef, or Ansible.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313273/software-engineering-developer-ci-infrastructure-pmts/",
-    "id": "salesforce-software-engineering-developer-ci-infrastructure-pmts-san-francisco"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering LMTS/SMTS, EntSecTech, Autonomous IAM",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr312311/software-engineering-lmtssmts-entsectech-autonomous-iam/",
-    "id": "salesforce-software-engineering-lmts-smts-entsectech-autonomous-iam-san-francisco"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering, Frontend (Slack - Multiple levels)",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_posted_at": "1d",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr310106/software-engineering-frontend-slack-multiple-levels/",
-    "id": "salesforce-software-engineering-frontend-slack-multiple-levels-atlanta"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering SMTS",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Required QualificationsYou are a great team player and like to work with others.\n• You have experience making computer programs that do things by themselves (automation).\n• You know Test-Driven Development, Code review and all phases of SDLC and CI/CD Pipelines Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows It would be great if you have worked on finding and fixing computer vulnerabilities before.\n• Master’s degree in Computer Science, Engineering (any field), or related field of study, and three (3) years of experience in job offered or in any occupation in a related field OR Bachelor’s degree (or its foreign degree equivalent) in Computer Science, Engineering (any field), or related field of study, and five (5) years of progressively responsible experience in job offered or in any occupation in a related field.\n• Org Sustainability Investors Give us your Feedback University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.\n• Collaborate Across Teams: Partner with talented engineers, security specialists, and operations teams to solve complex challenges and build resilient solutions.\n• Design and Deliver Automation: Develop advanced, scalable automation to detect, prioritize, and remediate vulnerabilities—turning manual processes into efficient, self-operating systems.\n• Apply AI and Machine Learning: Leverage AI/ML models for intelligent data analysis, anomaly detection, and predictive security, accelerating our ability to identify and mitigate threats.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313479/software-engineering-smts/",
-    "id": "salesforce-software-engineering-smts-san-francisco"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering LMTS",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_posted_at": "1d",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr312351/software-engineering-lmts/",
-    "id": "salesforce-software-engineering-lmts-bellevue"
-  },
-  {
-    "employer_name": "Infineon Technologies",
-    "job_title": "Internship – Mixed Signal IC Verification Engineer",
-    "job_city": "Dallas TX (United States) + 1 more",
+    "employer_name": "Analog Devices",
+    "job_title": "Senior Analog Design Verification Engineer",
+    "job_city": "MA, Wilmington",
     "job_state": "",
-    "job_posted_at": "1d",
-    "job_description": "• US citizen or green cardholder: This position requires access to documentation that is controlled by the export laws of the United States.\n• Candidates are required to provide proof of either US citizenship, Permanent US residency, or classification as a protected individual as defined in 8USC 1324b(a)(3).\n• Verification Knowledge: Solid understanding of mixed-signal design and verification, including UVM-based methodologies Team Attributes: Outstanding communication, leadership, and teamwork skills, alongside a self-starter mindset Education: Actively pursuing a Bachelor's or Master's in Electrical Engineering or equivalent Tool Proficiency: Experience with EDA tools such as Cadence Virtuoso, Maestro, and vManager Programming Skills: Proficient in System Verilog, VAMS, or real number modeling techniques.",
-    "job_apply_link": "https://jobs.infineon.com/careers/careers/job/563808962158613?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com",
-    "id": "infineon-technologies-internship-mixed-signal-ic-verification-engineer-dallas-tx-united-states-1-more"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "Applications Engineer",
-    "job_city": "Boise",
-    "job_state": "ID",
-    "job_posted_at": "2d",
-    "job_description": "• Less than 2 years DRAM Architect – Principal Engineer | MTS - TPGBoise, Idaho, United States of AmericaPosted a month ago Principal Engineer - HIG HBM - PE Design ValidationSingapore, SingaporePosted 3 months ago HIG HBM PE Principal Component Validation EngineerSingapore, SingaporePosted 3 months ago Senior/Principal NAND Device EngineerSingapore, SingaporePosted 3 months ago.",
-    "job_apply_link": "https://careers.micron.com/careers/job/38572276",
-    "id": "micron-technology-applications-engineer-boise"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "Intern - Process Technician",
-    "job_city": "nassas",
-    "job_state": "VA",
     "job_posted_at": "3d",
-    "job_description": "• , SMT, Mechatronics, STEM related) or bachelor’s degree (e.\n• Address process issues by investigating out-of-spec qualifications, executing special work requests, and supporting new process qualifications.\n• Perform equipment-related tasks to improve availability, including tool tracking, qualification tests, and automation troubleshooting.\n• Complete all required safety training, participate in safety audits, and contribute to safety improvement initiatives.\n• Strong problem-solving, communication, and teamwork skills.\n• Train and mentor new team members as needed.\n• Less than 2 years Willing to relocate to Boise, Idaho for the internship and post-graduation employment if offered.\n• Currently pursuing an associate’s (e.",
-    "job_apply_link": "https://careers.micron.com/careers/job/38566554",
-    "id": "micron-technology-intern-process-technician-nassas"
-  },
-  {
-    "employer_name": "Applied Materials",
-    "job_title": "Hardware Engineering Technician",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "3d",
-    "job_description": "hardware engineering job for the role Hardware Engineering Technician",
-    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790312512897?domain=appliedmaterials.com&triggerGoButton=false",
-    "id": "applied-materials-hardware-engineering-technician-santa-clara"
-  },
-  {
-    "employer_name": "Applied Materials",
-    "job_title": "Engineering Technician",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "2d",
-    "job_description": "hardware engineering job for the role Engineering Technician IV",
-    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790312556946?domain=appliedmaterials.com&triggerGoButton=false",
-    "id": "applied-materials-engineering-technician-austin"
+    "job_description": "• Lead RF Hardware EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR252164Staff Engineer, RF EngineeringlocationsUS, MA, Wilmingtonposted onPosted 10 Days AgoR256115SERDES Digital Design EngineerlocationsUS, CO, Colorado Springs, Centennialposted onPosted 30+ Days AgoR243200Senior Manager, Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR251574Senior Digital Design Engineer _FPGAlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR252165Design Evaluation (PhD)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR255048Digital Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR255049Design Verification Engineerlocations3 Locationsposted onPosted 30+ Days AgoR255047Analog Design Engineerlocations4 Locationsposted onPosted 30+ Days AgoR255044Design Evaluation EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR255046Analog Design Engineer (PhD)locations2 Locationsposted onPosted 30+ Days AgoR255045Digital Design EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR254468IC Design Engineer - RF/Mixed-SignallocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR254728Senior Engineer, Design Evaluation EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR255728Senior Engineer, Analog Design EngineeringlocationsUS, TX, Dallas, Tollwayposted onPosted 16 Days AgoR255248RF Design EngineeringlocationsUS, MA, Chelmsford, Elizabethposted onPosted 10 Days AgoR256072Senior Analog Design Verification Engineer locationsUS, MA, Wilmingtonposted onPosted 3 Days AgoR257462Principal Mixed Signal Design EngineerlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR251701Senior Engineer, Mixed Signal Design Engineering (multiple openings)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR253275Senior Engineer, Mixed Signal Design Engineering (multiple openings)locationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR253276.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Analog-Design-Verification-Engineer-_R257462?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-senior-analog-design-verification-engineer-ma-wilmington"
   },
   {
     "employer_name": "BAE Systems",
-    "job_title": "System and Network Administrator",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_posted_at": "3d",
-    "job_description": "• Network Engineer, SeniorlocationsAnnapolis Junction, MDposted onPosted 2 Days AgoR0221945 Integration Engineer, LeadlocationsBeavercreek, OHposted onPosted 7 Days AgoR0228025 Red Team Operator, SeniorlocationsChantilly, VAposted onPosted 14 Days AgoR0221485 Software Engineer, Seniorlocations2 Locationsposted onPosted 6 Days AgoR0228368 Network Engineer, SeniorlocationsTampa, FLposted onPosted 30+ Days AgoR0222576.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/System-and-Network-Administrator_R0228405?q=hardware+engineering",
-    "id": "bae-systems-system-and-network-administrator-annapolis-junction"
+    "job_title": "Embedded Hardware Security Engineer, Senior",
+    "job_city": "Quantico",
+    "job_state": "VA",
+    "job_posted_at": "1d",
+    "job_description": "• University, Hardware Engineer InternlocationsRoseville, CAposted onPosted 30+ Days AgoR0225555 University - Hardware EngineerlocationsRoseville, CAposted onPosted 30+ Days AgoR0225563 Embedded Hardware Security Engineer, SeniorlocationsQuantico, VAposted onPosted YesterdayR0228605 Network Engineer, Leadlocations2 Locationsposted onPosted 9 Days AgoR0225420 Integration LeadlocationsStafford, VAposted onPosted 2 Days AgoR0228461.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Embedded-Hardware-Security-Engineer--Senior_R0228605?q=hardware+engineering",
+    "id": "bae-systems-embedded-hardware-security-engineer-senior-quantico"
   },
   {
-    "employer_name": "Broadcom",
-    "job_title": "Fab Equipment Engineer",
-    "job_city": "USA-Colorado-Fort Collins",
-    "job_state": "",
-    "job_posted_at": "2d",
-    "job_description": "• Senior Quality Engineer - Virtual Machine MonitorlocationsCHN-Beijing-InfoTechtime typeFull timeposted onPosted 24 Days AgoR023809 Senior Software Engineer - PerformancelocationsUSA-CA - Promontory Dtime typeFull timeposted onPosted 27 Days AgoR023796 Senior Software EngineerlocationsUSA-TX Plano Legacy Drive Suite 700time typeFull timeposted onPosted 3 Days AgoR023906 Senior Linux QA EngineerlocationsUSA-TX Plano Legacy Drive Suite 700time typeFull timeposted onPosted 3 Days AgoR023891 Technology Alliance Program Managerlocations2 Locationstime typeFull timeposted onPosted 27 Days AgoR023784 Senior QA EngineerlocationsCZE-Praha 11 V Parku 2308/8time typeFull timeposted onPosted TodayR023350.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Fab-Equipment-Engineer_R023941?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-fab-equipment-engineer-usa-colorado-fort-collins"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "HSM Engineer - Active Top Secret Required",
-    "job_city": "DC Washington",
+    "employer_name": "AMD",
+    "job_title": "Senior Hardware System Engineer",
+    "job_city": "CA,Santa Clara  Santa Clara, California US",
     "job_state": "",
     "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Sr-Principal-Security-Engineer-for-HSM---Active-Top-Secret-Required_RQ208310-1?q=Hardware",
-    "id": "general-dynamics-hsm-engineer-active-top-secret-required-dc-washington"
+    "job_description": "• Experience with hardware development tools, including CAD software (e.\n• Experience with specific hardware technologies, such as FPGA, CPLD, ASIC, or high-speed digital design.\n• Experience with configuration management tools, such as Git or SVN.\n• Collaborate with cross-functional teams, including escalation from manufacturing, quality, and field service, to ensure hardware products meet customer requirements.\n• Collaborate with stakeholders, including product management, sales, and marketing, to understand customer requirements and market needs.\n• Extensive experience in hardware engineering around next-gen PCIe Gen5 and above, DDR4/DDR5 memory, and 100G ethernet and above.\n• Experience with hand-on hardware troubleshooting down to component isolation and root cause, repair, and replacement.\n• Strong problem-solving skills, with ability to analyze complex technical issues and develop effective solutions.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/67323/login",
+    "id": "amd-senior-hardware-system-engineer-ca-santa-clara-santa-clara-california-us"
   },
   {
-    "employer_name": "Illumina",
-    "job_title": "BMS Technician 3- 1st Shift",
-    "job_city": "- California - San Diego",
+    "employer_name": "AMD",
+    "job_title": "Senior Hardware Development Engineer – Signal/Power Integrity",
+    "job_city": "CA,Santa Clara  Santa Clara, California US",
     "job_state": "",
-    "job_posted_at": "3d",
-    "job_description": "• Staff Hardware Systems Engineer (Embedded)locationsUS - California - San Diegoposted onPosted 30+ Days Ago41221-JOBSr.\n• Deep Learning/AI Engineer - Machine Learning (Hybrid or Remote)locations7 Locationsposted onPosted 30+ Days Ago40197-JOBStaff Software Engineer - Instrument SoftwarelocationsUS - California - San Diegoposted onPosted 20 Days Ago41346-JOBOnsite Service Engineer 2locationsUS - California - Northern - Remoteposted onPosted 30+ Days Ago41170-JOBBMS Technician 3- 1st ShiftlocationsUS - California - San Diegoposted onPosted 3 Days Ago41132-JOB.",
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Facilities-Maintenance-Technician-2--2nd-Shift_41132-JOB?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "illumina-bms-technician-3-1st-shift-california-san-diego"
+    "job_posted_at": "1d",
+    "job_description": "• PCB physical design for high-speed and high-power boards from initial concept to mass productionOptimize component placement, high-speed signal routing, critical power planeCreate design constraints based on the requirements of Hardware Design engineers, Signal/Power-Integrity engineers, Mechanical/Thermal engineersEnsure that complex system layouts meet electrical and mechanical/thermal specificationsAdapt designs to fit component availability or manufacturing limitations Resolve any issue related to PCB physical design and ensure a smooth transition from design to productionGenerate comprehensive manufacturing and assembly packages such as Gerber, ODBBuilding strong relationships with both engineers and manufacturers to reduce the risk of redesigning Collaborate with cross-functional teams to drive product development while keeping projects on schedule and within scope.\n• Stay at the forefront of PCB physical design innovations and technologies to ensure AMD leadership in the industry 6+ years of experience on PCB physical design for high-speed/high-power systemsStrong background in electronic fundamentalsStrong expertise in PCB design software such as Cadence AllegroDeep knowledge on different types of layers such as copper, silkscreen, solder mask, and different types of component models such as symbol, footprintBasic knowledge of mechanical, thermal, signal integrity, power integrity Familiarity with PCB manufacturing processes and standardsHands-on experience of balancing the technical requirements from hardware engineers and the practical constraints set by manufacturersExcellent problem-solving and cross-functional collaboration skills Bachelor or Master degree of Electrical Engineering, Computer Engineering, or related field AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/72760/login",
+    "id": "amd-senior-hardware-development-engineer-signal-power-integrity-ca-santa-clara-santa-clara-california-us"
   },
   {
-    "employer_name": "Magna International",
-    "job_title": "Assembler",
-    "job_city": "Highland Park",
-    "job_state": "MI",
+    "employer_name": "AMD",
+    "job_title": "Principal Hardware Development Engineer – Signal/Power Integrity",
+    "job_city": "CA,Santa Clara  Santa Clara, California US",
+    "job_state": "",
+    "job_posted_at": "1d",
+    "job_description": "• 10+ years of experience in high-speed signal integrity and power integrity engineering fieldsStrong background in PCB/package physical design for high-speed systemsStrong expertise in high-speed architecture, interconnects and PCB/package designDeep knowledge of high-speed interfaces (PCIe, Ethernet, DDR, etc.\n• )Proficiency in SI/PI simulation tools (Keysight ADS, Cadence Sigrity, Ansys HFSS)Familiarity with MATLAB or Python for data analysis and automationHands-on experience with lab testing tools (TDR, VNA, High-Speed Oscilloscopes, Spectrum Analyzer)Excellent problem-solving and cross-functional collaboration skills Master or PhD’s degree in Electrical Engineering, Computer Engineering, or related fields AMD Partner Hub Authorized Distributors AMD University Program Model and simulate the end-to-end high-speed channels including transceivers, IC package, PCB and cross-boards connectors/cablesUtilize industry-standard tools and methodologies to perform a variety of time/frequency domain signal integrity analysis (IBIS-AMI, SPICE, full-wave EM analysis, etc.\n• )Identify the link quality such as loss, reflection and crosstalk, and resolve the issuesConduct channel-simulations to optimize Eye Diagram, Bit Error Rate (BER) and Signal-Noise-Ratio (SNR) for high-speed signaling across complex systemsPerform Channel Operation Margin (COM) analysis to validate the channel health for IEEE complianceExcise Design of Experiments (DOE) sweeping to statistically evaluate the signal integrity qualities across process variations, like silicon corners, trace impedance, routing length, terminations, etc.\n• Interpret the simulation results to provide the design guidelines on board materials, stack-up, transmission line routings, component placement and layout optimizationWork on critical circuits (especially reference clocks and high-speed signals) to ensure signal integrity and power integrityDrive PCB physical design, create PCB stack-up, generate PCB design rules, review PCB layout, identify the potential signal integrity and power integrity issues, and propose solutionsSupport lab validation and debugging to correlate with the simulation dataCollaborate with cross-functional teams to drive product development while keeping projects on schedule and within scope.\n• Stay at the forefront of signal integrity and power integrity innovations and high-speed design technologies, ensuring that AMD continues to lead the industry Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/72667/login",
+    "id": "amd-principal-hardware-development-engineer-signal-power-integrity-ca-santa-clara-santa-clara-california-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "SR Continuation Hardware System Engineer",
+    "job_city": "CA,Santa Clara  Santa Clara, California US",
+    "job_state": "",
+    "job_posted_at": "1d",
+    "job_description": "• Experience with specific hardware technologies, such as FPGA, ASIC, or high-speed digital design.\n• Experience with configuration management tools, such as Git or SVN.\n• Experience with hardware development tools, including CAD software (e.\n• Collaborate with cross-functional teams, including escalation from manufacturing, quality, and field service, to ensure hardware products meet customer requirements.\n• Collaborate with stakeholders, including product management, sales, and marketing, to understand customer requirements and market needs.\n• Extensive experience in hardware engineering, with a focus on sustainment and maintenance of complex hardware systems.\n• Experience with hand-on hardware troubleshooting down to component isolation and root cause, repair, and replacement.\n• Strong problem-solving skills, with ability to analyze complex technical issues and develop effective solutions.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/70422/login",
+    "id": "amd-sr-continuation-hardware-system-engineer-ca-santa-clara-santa-clara-california-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Hardware Platform Design Engineer",
+    "job_city": "TX,Austin  Austin, Texas US",
+    "job_state": "",
+    "job_posted_at": "1d",
+    "job_description": "• Experience with Cadence tools (Concept Capture, Allegro PCB).\n• Experience with power delivery for GPUs/CPUs is a plus.\n• Hands-on experience with hardware lab tools (oscilloscopes, digital analyzers, etc.\n• Experience with scripting languages (Python, BASH, Perl) to support design automation and daily tasks.\n• Strong teamwork, communication, and organizational skills.\n• Experience with high-speed serial interfaces (PCIe, USB) is a plus.\n• Background in switch, CPU, and FPGA board design with SI/PI knowledge, particularly Broadcom or Cisco switches.\n• Drive the physical design of multilevel boards, including DFM (Design for Manufacturing), power regulation, board bring-up, debug, and qualification.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/71202/login",
+    "id": "amd-hardware-platform-design-engineer-tx-austin-austin-texas-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "System Hardware Development & Validation Engineer",
+    "job_city": "CA,Santa Clara  Santa Clara, California US",
+    "job_state": "",
+    "job_posted_at": "1d",
+    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/70939/login",
+    "id": "amd-system-hardware-development-validation-engineer-ca-santa-clara-santa-clara-california-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "FPGA Product Development",
+    "job_city": "CA,San Jose  San Jose, California US",
+    "job_state": "",
+    "job_posted_at": "1d",
+    "job_description": "• Product Inception & Definition PhasePropose new FPGA-based products aligned with market and application needs (e.\n• Hands-on experience with SystemVerilog, digital design methodologies, and protocol integration.\n• Solid grasp of customer requirements, solution trade-offs, and system-level thinking.\n• Strong scripting and automation skills to support design and validation flows.\n• Propose new FPGA-based products aligned with market and application needs (e.\n• AMD Partner Hub Authorized Distributors AMD University Program Bachelors or Masters degree in computer engineering/Electrical Engineering Ensure robust test plans and validation strategies are in place before silicon return.\n• Develop product definitions with inputs from architecture, marketing, and engineering.\n• Drive initial costing, resource planning, and schedule estimation.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/71851/login",
+    "id": "amd-fpga-product-development-ca-san-jose-san-jose-california-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Formal Design Verification Engineer",
+    "job_city": "CA,Santa Clara  Santa Clara, California US",
+    "job_state": "",
+    "job_posted_at": "1d",
+    "job_description": "• Proven experience in formal verification and simulation, model checking, and theorem proving applied to complex IP or systems.\n• AMD Partner Hub Authorized Distributors AMD University Program Bachelors or Masters degree in computer engineering/Electrical Engineering Lead formal verification team to ensure IP quality and project execution.\n• Proficiency in formal verification tools such as VC-Formal or JasperGoalStrong understanding of hardware description languages (e.\n• , VHDL, Verilog) and/or programming languages (e.\n• , System verilog, C, C++, Python).\n• Develop and implement comprehensive formal verification plans, including constraint/assertion property development, model development, inconclusive issue resolve and sign off, etc.\n• Collaborate with IP architects, hardware designer, verification engineers, and other stakeholders to design efficient formal verification strategies.\n• Mentor and guide junior engineers in formal verification techniques and best practices.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/70124/login",
+    "id": "amd-formal-design-verification-engineer-ca-santa-clara-santa-clara-california-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Platform Emulation Engineer",
+    "job_city": "TX,Austin  Austin, Texas US",
+    "job_state": "",
+    "job_posted_at": "1d",
+    "job_description": "• Solid experience working on emulation platforms such as Veloce, Zebu, or Palladium (compilation, debug, performance, and throughput tuning)Debugging experience is a must particularly in HW/SW co-debug environmentsAbility to trace code across multiple domains and root cause using waveforms and other tracing toolsUnderstanding of Verilog, VHDL designUnderstanding of System Verilog, UVM verification environments is a plusKnowledge of computer hardware architecture (Graphic card, CPU/APU, memory, bus logic, and display technologies)Knowledge of computer software architecture and boot flow (bootrom, firmware, bios, device drivers, OS)Knowledge of HPC, Parallel programming (OpenMP, OpenMPI), heterogeneous platforms consisting of CPU and GPU a plusNetworking, ethernet experience a plusWorking knowledge of Linux/Unix environment and shell scriptingExperience in Building and Installing software packages on Linux platform a plusExperience writing/building ML systems is a plusProgramming skills, C, C++, Python, Tcl, Ruby, assembly (ARM & x86) Familiarity with bug tracking tools such as JiraExcellent oral and written communication skills AMD Partner Hub Authorized Distributors AMD University Program CPU/GPU Firmware/OS bring up and debug using leading edge emulators (Veloce, Zebu, Palladium)Develop/modify/enhance functional/stress tests to find silicon bugs on emulatorInterface with Central Emulation team responsible for helping to develop, debug and establish CPU/GPU Emulation environment.\n• Provide debug leadership, input to test plans and hands on executionWork with extended teams to debug environment, drive cross team testing (Firmware, Software, Diags/tools, Validation, Apps)Triage failures with design, verification, firmware, software, and emulation teamsResearch and enable new tools and infrastructure to support emulation activitiesRun and collect data for analysis on AMD’s high-end emulators and simulation modelsDevelop scripts/tools to parse data from emulation runsInstrument firmware code to support failure debugRun and collect functional and performance data for HPC/AI ML workloadsAttend weekly meetings, status communication, presentations.\n• Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/69702/login",
+    "id": "amd-platform-emulation-engineer-tx-austin-austin-texas-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "ASIC Bootcode and Firmware Engineer",
+    "job_city": "TX,Austin  Austin, Texas US",
+    "job_state": "",
+    "job_posted_at": "1d",
+    "job_description": "• Development and modification of the System Verilog and C driven testbench and bus functional models as required.\n• ASIC FW and HW design and verification experience Prior software development and debug experience Proficient in C, C++, Assembly, Verilog, System Verilog, and several scripting languages (Make, Perl, Python, etc.\n• AXI, AHB, AMBA) Firmware design on commercial microprocessors Experience with microprocessor tool chain, compiler, assembler, debugger ASIC verification tools, simulation, linting, power aware simulation, etc.\n• Strong analytical/problem solving skills and attention to details Being a motivated team member, and able to independently drive tasks to completion as well Professional interpersonal and communication skills AMD Partner Hub Authorized Distributors AMD University Program Major in Electrical or Computer Engineering.\n• Master’s or PhD Degree preferred Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Development and verification of embedded firmware for SOC secure boot, SOC initialization and embedded microprocessor driven hardware acceleration services for cryptography, decompression and large-scale DMA functions.\n• Hardware/Firmware co-verification in UVM System Verilog and C-DPI structured testbench.\n• Hardware/Firmware co-verification in FPGA hardware prototype platform.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/71965/login",
+    "id": "amd-asic-bootcode-and-firmware-engineer-tx-austin-austin-texas-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Hardware Validation Engineer – Infrastructure & Tooling",
+    "job_city": "TX,Austin  Austin, Texas US",
+    "job_state": "",
+    "job_posted_at": "1d",
+    "job_description": "• Education: Bachelor’s degree in Engineering, Electrical Engineering, Mechanical Engineering, or a related field.\n• Experience: Prior experience in hardware validation, lab operations, or tooling development preferred.\n• Project Management Skills: Proven ability to coordinate multiple initiatives, manage vendor relationships, and drive tool lifecycle planning.\n• Leadership Ability: Experience managing cross-functional teams and guiding contractors or specialists in an operational setting.\n• Hardware Validation & Testing: Lead validation efforts for small tools and fixtures utilized in lab/test environments to ensure operational efficiency and accuracy.\n• Cross-functional Collaboration: Work closely with Engineering, Operations, and external vendors to coordinate repairs, upgrades, and long-term tool lifecycle planning.\n• Tool Development & Optimization: Research, scope, and implement next-generation hardware tools and revisions to enhance lab processes and testing methodologies.\n• Inventory & Silicon Management: Oversee inventory tracking and silicon coordination related to test tooling, ensuring availability and proper utilization.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/68057/login",
+    "id": "amd-hardware-validation-engineer-infrastructure-tooling-tx-austin-austin-texas-us"
+  },
+  {
+    "employer_name": "Synopsys",
+    "job_title": "Vice President Customer Success- Hardware Assisted Verification Team",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "6d",
-    "job_description": "• 1st shift Controls TechnicianlocationsBowling Green, Ohio, USposted onPosted 23 Days AgoR002126082nd shift Controls TechnicianlocationsBowling Green, Ohio, USposted onPosted 23 Days AgoR002126103rd shift Controls TechnicianlocationsBowling Green, Ohio, USposted onPosted 23 Days AgoR00212611Controls Technician - 2nd Shift (3 PM - 11:30 PM)locationsDuncan, South Carolina, USposted onPosted 30+ Days AgoR00202124Controls/Automation EngineerlocationsTroy, Michigan, USposted onPosted 6 Days AgoR00203332Maintenance Technician - OFF SHIFTlocationsLancaster, Ohio, USposted onPosted 30+ Days AgoR00166686Production Operator - 3rd ShiftlocationsLancaster, Ohio, USposted onPosted 17 Days AgoR00213666Controls Technician - 3rd ShiftlocationsAlto, Michigan, USposted onPosted 30+ Days AgoR00198142Controls Technician - 3rd Shift (11 PM - 7:30 AM)locationsDuncan, South Carolina, USposted onPosted 30+ Days AgoR00204483Technician, MaintenancelocationsShepherdsville, Kentucky, USposted onPosted 30+ Days AgoR00189873Maintenance TechnicianlocationsHighland Park, Michigan, USposted onPosted 30+ Days AgoR00210722Production OperatorlocationsShelby Twp, Michigan, USposted onPosted 30+ Days AgoR00166815Mech, MaintenancelocationsExcelsior Springs, Missouri, USposted onPosted 3 Days AgoR00216052Maintenance Supervisor - ClocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00186660Mgr, ProductionlocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00184407Foam OperatorlocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00165824AssemblerlocationsHighland Park, Michigan, USposted onPosted 6 Days AgoR00216231Production OperatorlocationsExcelsior Springs, Missouri, USposted onPosted 30+ Days AgoR00165853Production Team AssociatelocationsDetroit, Michigan, USposted onPosted 7 Days AgoR00166861Production Operator - 1st shiftlocationsLancaster, Ohio, USposted onPosted 17 Days AgoR00211210.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Highland-Park-Michigan-US/Assembler_R00216231?q=Hardware+Test&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f4301e050504eca250341df",
-    "id": "magna-international-assembler-highland-park"
+    "job_description": "• Devising and positioning solutions around customer needs and competitive landscapes to maximize Synopsys’ advantage.\n• Influencing R&D roadmaps by identifying future market opportunities and customer requirements.\n• Minimum 15 years of experience in pre- and post-silicon validation and system/platform validation using FPGA and emulation technologies.\n• Proven experience working with CSPs/OEMs to understand customer pain points and system/platform validation use cases.\n• Exceptional customer interface, negotiation, communication, and planning skills.\n• Strong background in building and managing large, high-performing teams and managing resources at scale.\n• Experience with department budgeting, financial forecasting, and resource allocation at scale.\n• Leadership experience with a proven track record of success in large enterprise customer engagements.",
+    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/sunnyvale/vice-president-customer-success-hardware-assisted-verification-team/44408/87383798752",
+    "id": "synopsys-vice-president-customer-success-hardware-assisted-verification-team-sunnyvale"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Hardware System Design Electrical Engineer - iPhone",
-    "job_city": "Cupertino",
+    "employer_name": "Synopsys",
+    "job_title": "SOC Engineering, Sr Staff Engineer",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_posted_at": "2d",
-    "job_description": "• Minimum QualificationsBS Electrical/Computer Engineering or equivalent5+ years industry experienceElectrical engineering fundamentals including analog and high speed digital designBroad experience across different applications and technologiesDesign of complex system architectures.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200627241-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR",
-    "id": "apple-hardware-system-design-electrical-engineer-iphone-cupertino"
+    "job_posted_at": "6d",
+    "job_description": "• Partitioning and architecting designs from requirements, including high-level and microarchitecture.\n• If you do not allow these cookies, you will experience less targeted advertising.\n• Bachelor’s Degree in Electrical or Computer Engineering.\n• 12+ years of experience designing and verifying ASIC/FPGA devices.\n• Experience with vendor tooling within an ASIC development flow (Simulators, LINT, CDC/RDC, Synthesis, STA).\n• Sitemap Modify Preferences Formal Verification Engineer Bengaluru, India Sales Account Management, Director Seongnam-si, South Korea Applications Engineering, Staff Engineer Seongnam-si, South Korea Applications Engineering, Staff Engineer Bengaluru, India FPGA Emulation Application Engineer Sunnyvale, California Test & Validation Engineer, Staff Austin, Texas Principal Applications Engineer, Synopsys IP-12663 Sunnyvale, California.\n• Driving the successful execution of full turnkey SoC subsystem designs from specification through backend place and route.\n• Ensuring the delivery of high-quality, high-performance ASIC and FPGA devices.",
+    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/sunnyvale/soc-engineering-sr-staff-engineer/44408/86301355024",
+    "id": "synopsys-soc-engineering-sr-staff-engineer-sunnyvale"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Electrical Engineer - Camera Hardware",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_posted_at": "2d",
-    "job_description": "• Minimum QualificationsBS in Electrical or Computer EngineeringAnalog and digital circuit design including Schematics capture and supervising layout for substrate, rigid PCB or FlexKnowledge of signal and power integrity (High-speed design, PDN analysis)System integration knowledge for grounding, shielding, EMI, EMC and ESD.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200627419-0836/electrical-engineer-camera-hardware?team=HRDWR",
-    "id": "apple-electrical-engineer-camera-hardware-cupertino"
+    "employer_name": "Synopsys",
+    "job_title": "Logic Design Architect",
+    "job_city": "Hillsboro",
+    "job_state": "OR",
+    "job_posted_at": "6d",
+    "job_description": "• If you do not allow these cookies, you will experience less targeted advertising.\n• Participating in the full design cycle and supporting silicon/customer needs.\n• BSEE with 15+ years direct industry experience in SerDes, DDR/HBM, or UCIe PHY architecture.\n• System Verilog and RTL-to-gate design skills.\n• Strong problem-solving and communication skills.\n• Sitemap Modify Preferences FPGA Emulation Application Engineer Sunnyvale, California Applications Engineering, Architect Sunnyvale, California Test & Validation Engineer, Staff Austin, Texas HAV Product Management Director Sunnyvale, California Principal Applications Engineer, Synopsys IP-12663 Sunnyvale, California Director Product Management for Automotive Software Sunnyvale, California SOC Engineering, Sr Staff Engineer Sunnyvale, California Memory Design Architect Sunnyvale, California Formal Verification Engineer Bengaluru, India Sales Account Management, Director Seongnam-si, South Korea Applications Engineering, Staff Engineer Seongnam-si, South Korea Applications Engineering, Staff Engineer Bengaluru, India.\n• Targeting Cookies Switch Label labelThese cookies may be set through our site by our advertising partners.\n• They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.",
+    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/hillsboro/logic-design-architect/44408/77257867232",
+    "id": "synopsys-logic-design-architect-hillsboro"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Infrastructure Engineer [Multiple Positions Available]",
-    "job_city": "Plano",
+    "employer_name": "Synopsys",
+    "job_title": "R&D Engineering, Sr Staff Engineer - Physical Design",
+    "job_city": "Boxborough",
+    "job_state": "MA",
+    "job_posted_at": "6d",
+    "job_description": "• BS or MS in Electrical Engineering or related discipline, with 10+ years of hands-on experience in high-speed digital IP core and/or SOC development.\n• Direct experience with Synopsys Fusion Compiler or equivalent industry Synthesis and Place & Route tools.\n• Strong analytical, debugging, and problem-solving skills, with a keen eye for detail.\n• Excellent written and verbal communication skills, with experience creating clear documentation and delivering technical training.\n• If you do not allow these cookies, you will experience less targeted advertising.\n• Sitemap Modify Preferences FPGA Emulation Application Engineer Sunnyvale, California Principal Applications Engineer (ASIC/SoC/IP Engineer) - 12953 Sunnyvale, California IP Solutions Architect - 12954 Sunnyvale, California Applications Engineering, Architect Sunnyvale, California Test & Validation Engineer, Staff Austin, Texas Principal Software Engineer - User Interface (Exton, PA) Exton, Pennsylvania Engineering Services Manager/Document Control Manager - 12434 Sunnyvale, California Logic Design Architect Hillsboro, Oregon HAV Product Management Director Sunnyvale, California IP Applications Engineer Austin, Texas Formal Verification Engineer Bengaluru, India Sales Account Management, Director Seongnam-si, South Korea Applications Engineering, Staff Engineer Seongnam-si, South Korea Applications Engineering, Staff Engineer Bengaluru, India Drive innovation in the development of high-speed digital IP cores and subsystems.\n• In-depth knowledge of ASIC implementation, physical design flow, and associated tools, including memories, logic libraries, and PDK management.\n• Proven ability to lead and facilitate cross-functional collaboration, driving innovation and delivering results.",
+    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/boxborough/r-and-d-engineering-sr-staff-engineer-physical-design/44408/84650311664",
+    "id": "synopsys-r-d-engineering-sr-staff-engineer-physical-design-boxborough"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Electronics Hardware Lead Engineer",
+    "job_city": "Chandler",
+    "job_state": "AZ",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/chandler/electronics-hardware-lead-engineer/33099/86070307440",
+    "id": "arm-electronics-hardware-lead-engineer-chandler"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Systems Architect Engineer",
+    "job_city": "Austin",
     "job_state": "TX",
     "job_posted_at": "1d",
-    "job_description": "• Careers Students How we hire Work with us Grow with us.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210676252/?keyword=hardware+engineering&lastSelectedFacet=CATEGORIES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedCategoriesFacet=300000086249821%253B300000086153391%253B300000086144371",
-    "id": "jpmorgan-chase-infrastructure-engineer-multiple-positions-available-plano"
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/systems-architect-engineer/33099/85751639712",
+    "id": "arm-systems-architect-engineer-austin"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Principal System Signal Integrity Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/principal-system-signal-integrity-engineer/33099/86816078400",
+    "id": "arm-principal-system-signal-integrity-engineer-austin"
   },
   {
     "employer_name": "Google",
-    "job_title": "Imaging Systems Engineer, Technical Engineering",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "hardware engineering job for the role Imaging Systems Engineer, Technical Engineering",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/96773138183791302-imaging-systems-engineer-technical-engineering?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2",
-    "id": "google-imaging-systems-engineer-technical-engineering-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Application Engineer, Product Design and Engineering Systems",
+    "job_title": "Hardware Architecture Modeling Engineer, Accelerators",
     "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "hardware engineering job for the role Application Engineer, Product Design and Engineering Systems",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/84838489220096710-application-engineer-product-design-and-engineering-systems?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2",
-    "id": "google-application-engineer-product-design-and-engineering-systems-sunnyvale"
+    "job_description": "hardware engineering job for the role Hardware Architecture Modeling Engineer, Accelerators",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/101253780808311494-hardware-architecture-modeling-engineer-accelerators?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1",
+    "id": "google-hardware-architecture-modeling-engineer-accelerators-sunnyvale"
   },
   {
     "employer_name": "Google",
-    "job_title": "Silicon Formal Verification Engineer",
+    "job_title": "Senior CPU Physical Design Engineer, Silicon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1h",
+    "job_description": "hardware engineering job for the role Senior CPU Physical Design Engineer, Silicon",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/136750538216612550-senior-cpu-physical-design-engineer-silicon?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1",
+    "id": "google-senior-cpu-physical-design-engineer-silicon-austin"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Senior Design Verification Engineer, Silicon",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "hardware engineering job for the role Silicon Formal Verification Engineer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/142344871498130118-silicon-formal-verification-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2",
-    "id": "google-silicon-formal-verification-engineer-mountain-view"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Electrical Engineer, Inter-satellite Link Avionics",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "1d",
-    "job_description": "hardware engineering job for the role Electrical Engineer, Inter-satellite Link Avionics",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3113776/electrical-engineer-inter-satellite-link-avionics",
-    "id": "amazon-electrical-engineer-inter-satellite-link-avionics-redmond"
+    "job_description": "hardware engineering job for the role Senior Design Verification Engineer, Silicon",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/133524000406938310-senior-design-verification-engineer-silicon?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2",
+    "id": "google-senior-design-verification-engineer-silicon-mountain-view"
   }
 ]
