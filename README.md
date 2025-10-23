@@ -17,7 +17,7 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 97 
+- **🔥 Active Positions**: 96 
 - **🏢 Companies**: 21 elite tech companies
 - **⭐ FAANG+ Jobs**: 34 premium opportunities  
 - **📅 Last Updated**: October 23, 2025
@@ -258,7 +258,7 @@
 |------|----------|-----------|-----|
 | BMS Technician 3- 1st Shift 🏠 | US California San Diego | [<img src="./image.png" width="100" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Facilities-Maintenance-Technician-2--2nd-Shift_41132-JOB?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 
-### 🏭 **Manufacturing & Industrial** (14 positions)
+### 🏭 **Manufacturing & Industrial** (13 positions)
 
 #### ⚗️ **Applied Materials** (3 positions)
 
@@ -268,7 +268,7 @@
 | Engineering Technician | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312556946?domain=appliedmaterials.com&triggerGoButton=false) | 2d |
 | Engineering Technician III - (T3) | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790304280042?domain=appliedmaterials.com&triggerGoButton=false) | 1d |
 
-#### 💾 **Micron Technology** (7 positions)
+#### 💾 **Micron Technology** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -278,7 +278,6 @@
 | MTS Circuit Design Engineer, HSIO | Folsom, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30868369) | 2d |
 | Fab Support Equipment Maintenance Technician | nassas, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/37974392) | 1d |
 | Intern - Process Technician | nassas, Virginia | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38566554) | 3d |
-| Intern - Technician, Process | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com) | 1d |
 
 #### 🚗 **Magna International** (4 positions)
 
@@ -314,9 +313,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 27 | 28% | No or minimal experience |
-| 🟡 Beginner & Early Career | 42 | 43% | 1-2 years of experience |
-| 🔴 Manager         | 28 | 29% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 28 | 29% | No or minimal experience |
+| 🟡 Beginner & Early Career | 41 | 43% | 1-2 years of experience |
+| 🔴 Manager         | 27 | 28% | 2+ years of experience |
 
 ---
 
@@ -328,14 +327,14 @@
 - **US, CA**: 5 positions
 - **Austin**: 4 positions
 - **US, TX**: 4 positions
-- **Boise, Idaho**: 3 positions
 - **nassas, Virginia**: 3 positions
+- **Santa Clara, CA**: 3 positions
 
 ---
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 97+ verified CS internships and entry-level hardware roles from 21 elite tech companies.
+✅ **100% Real Jobs:** 96+ verified CS internships and entry-level hardware roles from 21 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -519,7 +518,7 @@
 | Intern - Design Engineering, HBM | Richardson, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30954489) | 2w |
 | Central Mask Tapeout Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38050023) | 1w |
 | MTS Module Validation Developer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38467305) | 1w |
-| Intern - HBM Design Engineer | Richardson, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38283374) | 3w |
+| Intern - HBM Design Engineer | Richardson, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38283376) | 3w |
 
 #### 📡 **Analog Devices** (1 position)
 
@@ -558,7 +557,7 @@
 
 <div align="center">
 
-**🎯 97 current opportunities from 21 elite companies.**
+**🎯 96 current opportunities from 21 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
