@@ -17,7 +17,7 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 85 
+- **🔥 Active Positions**: 90 
 - **🏢 Companies**: 20 elite tech companies
 - **⭐ FAANG+ Jobs**: 34 premium opportunities  
 - **📅 Last Updated**: October 23, 2025
@@ -120,7 +120,7 @@
 | Hardware Reliability Engineer | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200622165-0157/hardware-reliability-engineer?team=HRDWR) | 9h |
 | RF/mmW Hardware Design Engineer | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627767-3956/rf-mmw-hardware-design-engineer?team=HRDWR) | 1d |
 
-### 🏢 **Top Tech** (26 positions)
+### 🏢 **Top Tech** (31 positions)
 
 #### 🔬 **Synopsys** (1 position)
 
@@ -163,7 +163,7 @@
 | Software Engineering SMTS | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313479/software-engineering-smts/) | 1d |
 | Software Engineering LMTS | Washington Bellevue | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr312351/software-engineering-lmts/) | 1d |
 
-#### 🔵 **IBM** (5 positions)
+#### 🔵 **IBM** (10 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -172,6 +172,11 @@
 | Back-End Developer Co-op | shipTUCSON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66994&source=WEB_Search_NA) | 1d |
 | Site Reliability Engineer | Austin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64732&source=WEB_Search_NA) | 1d |
 | Support Engineer - HashiCorp | Austin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA) | 1d |
+| Federal Data Engineer Intern: | shipWASHINGTON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57946&source=WEB_Search_NA) | 1d |
+| Postdoctoral Researcher | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA) | 1d |
+| Back End Developer Intern | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62827&source=WEB_Search_NA) | 1d |
+| Entry Level Back End Developer | Austin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66451&source=WEB_Search_NA) | 1d |
+| System Services Representative - Elk Grove Village (Chicago, IL Service Territory) | Chicago | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66098&source=WEB_Search_NA) | 1d |
 
 ### 💻 **Enterprise Software** (3 positions)
 
@@ -289,7 +294,7 @@
 
 
 #### ☁️ **Enterprise & Cloud** (8 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (1) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (1) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (10) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (9) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (5)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (1) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (1) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (10) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (9) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (10)
 
 ---
 
@@ -297,9 +302,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 23 | 27% | No or minimal experience |
-| 🟡 Beginner & Early Career | 41 | 48% | 1-2 years of experience |
-| 🔴 Manager         | 21 | 25% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 26 | 29% | No or minimal experience |
+| 🟡 Beginner & Early Career | 43 | 48% | 1-2 years of experience |
+| 🔴 Manager         | 21 | 23% | 2+ years of experience |
 
 ---
 
@@ -309,8 +314,8 @@
 - **California San Francisco**: 7 positions
 - **Sunnyvale, CA**: 7 positions
 - **US, CA**: 5 positions
+- **Austin**: 4 positions
 - **US, TX**: 4 positions
-- **Austin**: 3 positions
 - **nassas, Virginia**: 3 positions
 - **Austin, TX**: 3 positions
 
@@ -318,7 +323,7 @@
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 85+ verified CS internships and entry-level hardware roles from 20 elite tech companies.
+✅ **100% Real Jobs:** 90+ verified CS internships and entry-level hardware roles from 20 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -562,7 +567,7 @@
 
 <div align="center">
 
-**🎯 85 current opportunities from 20 elite companies.**
+**🎯 90 current opportunities from 20 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
