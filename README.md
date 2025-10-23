@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 14+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 15+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -17,12 +17,12 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 55 
-- **🏢 Companies**: 14 elite tech companies
+- **🔥 Active Positions**: 56 
+- **🏢 Companies**: 15 elite tech companies
 - **⭐ FAANG+ Jobs**: 23 premium opportunities  
 - **📅 Last Updated**: October 23, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 43 (older than 1 week)
+- **📁 Archived Jobs**: 46 (older than 1 week)
 
 
 ---
@@ -129,6 +129,14 @@
 |------|----------|-----------|-----|
 | Thermal Design Engineer | Spring, TX | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Spring-Texas-United-States-of-America/Thermal-Design-Engineer_1193488-1?q=hardware+engineering&jobFamilyGroup=98cbd30d374e10333e00271ec8445e81) | 2d |
 
+### 🚀 **Startups & Growth** (1 position)
+
+#### 🛡️ **BAE Systems** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Embedded Hardware Security Engineer, Senior | Quantico, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Embedded-Hardware-Security-Engineer--Senior_R0228605?q=hardware+engineering) | 1d |
+
 ### 🛡️ **Defense & Aerospace** (3 positions)
 
 #### 🚗 **Waymo** (3 positions)
@@ -193,9 +201,9 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 5 | 9% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 4 | 7% | No or minimal experience |
 | 🟡 Beginner & Early Career | 21 | 38% | 1-2 years of experience |
-| 🔴 Manager         | 29 | 53% | 2+ years of experience |
+| 🔴 Manager         | 31 | 55% | 2+ years of experience |
 
 ---
 
@@ -214,7 +222,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 55+ verified CS internships and entry-level hardware roles from 14 elite tech companies.
+✅ **100% Real Jobs:** 56+ verified CS internships and entry-level hardware roles from 15 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -267,13 +275,13 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 43 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 46 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 43 positions
-- **🏢 Companies**: 14 companies  
+- **📁 Total Jobs**: 46 positions
+- **🏢 Companies**: 15 companies  
 - **⭐ FAANG+ Jobs & Internships**: 6 roles
 
 ### ⭐ **FAANG+** (6 positions)
@@ -350,7 +358,15 @@ No companies available
 |------|----------|-----------|-----|
 | R&D Engineer Hardware | USA-CA San Jose Innovation Drive | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-Hardware-5_R023827?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 
-### 🚀 **Startups & Growth** (1 position)
+### 🚀 **Startups & Growth** (4 positions)
+
+#### 🛡️ **BAE Systems** (3 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| FPGA Engineer, Mid | Lexington Park, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/FPGA-Engineer--Mid_R0220608?q=hardware+engineering) | 4w |
+| Electrical Engineer | King George, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/King-George-VA/Electrical-Engineer_R0225223?q=hardware+engineering) | 3w |
+| Electronics Engineer, Mid | Dahlgren, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/Electronics-Engineer--Mid_R0224026?q=hardware+engineering) | 3w |
 
 #### ⚙️ **General Dynamics** (1 position)
 
@@ -407,7 +423,7 @@ No companies available
 
 <div align="center">
 
-**🎯 55 current opportunities from 14 elite companies.**
+**🎯 56 current opportunities from 15 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
