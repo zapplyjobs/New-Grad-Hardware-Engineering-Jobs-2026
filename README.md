@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 13+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 14+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -17,12 +17,12 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 50 
-- **🏢 Companies**: 13 elite tech companies
-- **⭐ FAANG+ Jobs**: 20 premium opportunities  
+- **🔥 Active Positions**: 56 
+- **🏢 Companies**: 14 elite tech companies
+- **⭐ FAANG+ Jobs**: 24 premium opportunities  
 - **📅 Last Updated**: October 23, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 39 (older than 1 week)
+- **📁 Archived Jobs**: 45 (older than 1 week)
 
 
 ---
@@ -30,7 +30,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (20 positions)
+### ⭐ **FAANG+** (24 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -65,7 +65,16 @@
 
 </details>
 
-### 🏢 **Top Tech** (18 positions)
+#### 🍎 **Apple** (4 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627241-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 2d |
+| Hardware Reliability Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200622165-0157/hardware-reliability-engineer?team=HRDWR) | 15h |
+| Electrical Engineer - Camera Hardware | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627419-0836/electrical-engineer-camera-hardware?team=HRDWR) | 2d |
+| RF/mmW Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627767-3956/rf-mmw-hardware-design-engineer?team=HRDWR) | 1d |
+
+### 🏢 **Top Tech** (20 positions)
 
 #### 🔬 **Synopsys** (5 positions)
 
@@ -77,27 +86,29 @@
 | Principal Applications Engineer (ASIC/SoC/IP Engineer) - | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/sunnyvale/principal-applications-engineer-asic-soc-ip-engineer-12953/44408/87383798832) | 1d |
 | R&D Engineering, Sr Staff Engineer - Physical Design | Boxborough, MA | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/boxborough/r-and-d-engineering-sr-staff-engineer-physical-design/44408/84650311664) | 6d |
 
-#### 🔷 **Intel** (1 position)
+#### 🔷 **Intel** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Senior CPU Logic Design Engineer | Texas, Austin | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Senior-CPU-Logic-Design-Engineer_JR0277892?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf&jobFamilyGroup=c37a9eaa90371000c6fd2261025d0000) | 1d |
+| SoC Design Verification Engineer | Hillsboro, OR | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/SoC-Design-Verification-Engineer_JR0277661?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf&jobFamilyGroup=c37a9eaa90371000c6fd2261025d0000) | 2d |
+| Senior CPU Logic Design Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Senior-CPU-Logic-Design-Engineer_JR0277892?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf&jobFamilyGroup=c37a9eaa90371000c6fd2261025d0000) | 1d |
 
-#### 🔶 **AMD** (11 positions)
+#### 🔶 **AMD** (12 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Senior Hardware System Engineer | CA,Santa Clara  Santa Clara, California US | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/67323/login) | 1d |
-| Senior Hardware Development Engineer – Signal/Power Integrity | CA,Santa Clara  Santa Clara, California US | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72760/login) | 1d |
-| Principal Hardware Development Engineer – Signal/Power Integrity | CA,Santa Clara  Santa Clara, California US | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72667/login) | 1d |
-| SR Continuation Hardware System Engineer | CA,Santa Clara  Santa Clara, California US | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/70422/login) | 1d |
-| Hardware Platform Design Engineer | TX,Austin  Austin, Texas US | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71202/login) | 1d |
-| System Hardware Development & Validation Engineer | CA,Santa Clara  Santa Clara, California US | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/70939/login) | 1d |
-| FPGA Product Development | CA,San Jose  San Jose, California US | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71851/login) | 1d |
-| Formal Design Verification Engineer | CA,Santa Clara  Santa Clara, California US | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/70124/login) | 1d |
-| Platform Emulation Engineer | TX,Austin  Austin, Texas US | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/69702/login) | 1d |
-| ASIC Bootcode and Firmware Engineer | TX,Austin  Austin, Texas US | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71965/login) | 1d |
-| Hardware Validation Engineer – Infrastructure & Tooling | TX,Austin  Austin, Texas US | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/68057/login) | 1d |
+| Senior Hardware System Engineer | Santa Clara  Santa Clara, California US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/67323/login) | 1d |
+| Senior Hardware Development Engineer – Signal/Power Integrity | Santa Clara  Santa Clara, California US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72760/login) | 1d |
+| Principal Hardware Development Engineer – Signal/Power Integrity | Santa Clara  Santa Clara, California US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72667/login) | 1d |
+| Hardware Systems Design Engineer | Secaucus_Meadowlands  1st FL. Secaucus, New Jersey US, NJ | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/67943/login) | 1d |
+| SR Continuation Hardware System Engineer | Santa Clara  Santa Clara, California US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/70422/login) | 1d |
+| Hardware Platform Design Engineer | Austin  Austin, Texas US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71202/login) | 1d |
+| System Hardware Development & Validation Engineer | Santa Clara  Santa Clara, California US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/70939/login) | 1d |
+| FPGA Product Development | San Jose  San Jose, California US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71851/login) | 1d |
+| Formal Design Verification Engineer | Santa Clara  Santa Clara, California US, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/70124/login) | 1d |
+| Platform Emulation Engineer | Austin  Austin, Texas US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/69702/login) | 1d |
+| ASIC Bootcode and Firmware Engineer | Austin  Austin, Texas US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71965/login) | 1d |
+| Hardware Validation Engineer – Infrastructure & Tooling | Austin  Austin, Texas US, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/68057/login) | 1d |
 
 #### 🔵 **IBM** (1 position)
 
@@ -151,7 +162,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Senior Analog Design Verification Engineer | MA, Wilmington | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Analog-Design-Verification-Engineer-_R257462?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3d |
+| Senior Analog Design Verification Engineer | Wilmington, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Analog-Design-Verification-Engineer-_R257462?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3d |
 
 #### 🏗️ **Honeywell** (2 positions)
 
@@ -168,8 +179,8 @@
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **FAANG+** (2 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (19 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+#### ⭐ **FAANG+** (3 companies)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (19 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (4) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -177,7 +188,7 @@ No companies available
 
 
 #### ☁️ **Enterprise & Cloud** (5 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (5) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (11) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (1)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (5) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (2) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (12) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (1)
 
 ---
 
@@ -185,28 +196,28 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 4 | 8% | No or minimal experience |
-| 🟡 Beginner & Early Career | 20 | 40% | 1-2 years of experience |
-| 🔴 Manager         | 26 | 52% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 5 | 9% | No or minimal experience |
+| 🟡 Beginner & Early Career | 22 | 39% | 1-2 years of experience |
+| 🔴 Manager         | 29 | 52% | 2+ years of experience |
 
 ---
 
 ## 🌍 **Top Locations**
 
 - **Mountain View, CA**: 14 positions
-- **Sunnyvale, CA**: 9 positions
-- **CA,Santa Clara  Santa Clara, California US**: 6 positions
-- **TX,Austin  Austin, Texas US**: 4 positions
-- **Austin, TX**: 3 positions
+- **Sunnyvale, CA**: 10 positions
+- **Santa Clara  Santa Clara, California US, CA**: 6 positions
+- **Austin, TX**: 5 positions
+- **Austin  Austin, Texas US, TX**: 4 positions
+- **Hillsboro, OR**: 2 positions
+- **Cupertino, CA**: 2 positions
 - **TUCSON**: 1 positions
-- **Folsom, CA**: 1 positions
-- **MA, Wilmington**: 1 positions
 
 ---
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 50+ verified CS internships and entry-level hardware roles from 13 elite tech companies.
+✅ **100% Real Jobs:** 56+ verified CS internships and entry-level hardware roles from 14 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -259,16 +270,16 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 39 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 45 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 39 positions
-- **🏢 Companies**: 13 companies  
-- **⭐ FAANG+ Jobs & Internships**: 1 roles
+- **📁 Total Jobs**: 45 positions
+- **🏢 Companies**: 14 companies  
+- **⭐ FAANG+ Jobs & Internships**: 6 roles
 
-### ⭐ **FAANG+** (1 position)
+### ⭐ **FAANG+** (6 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -276,7 +287,17 @@ No companies available
 |------|----------|-----------|-----|
 | Hardware Development Engineer AWS AI & ML, Accelerator Servers | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3103434/hardware-development-engineer-aws-ai-ml-accelerator-servers) | 2w |
 
-### 🏢 **Top Tech** (14 positions)
+#### 🍎 **Apple** (5 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| iPhone Hardware Senior System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626244-0836/iphone-hardware-senior-system-design-engineer?team=HRDWR) | 1w |
+| Systems Validation Engineer - Data Center Hardware | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624875-3956/systems-validation-engineer-data-center-hardware?team=HRDWR) | 2w |
+| Touch/Force/Motion Hardware - Sensing System Architect | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626293-3543/touch-force-motion-hardware-sensing-system-architect?team=HRDWR) | 1w |
+| Baseband Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200622618-3956/baseband-hardware-design-engineer?team=HRDWR) | 2w |
+| Hardware Developer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625613-0836/hardware-developer?team=HRDWR) | 1w |
+
+### 🏢 **Top Tech** (15 positions)
 
 #### 💾 **Marvel Technology** (8 positions)
 
@@ -295,17 +316,18 @@ No companies available
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Senior Mask Design Engineer - Hardware 🏠 | CA, Santa Clara | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mask-Design-Engineer---Hardware_JR1966157?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 1w |
-| Senior Packaging Technical Engineer - Hardware 🏠 | CA, Remote | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Packaging-Technical-Engineer---Hardware_JR1998772?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 3w |
-| Manager, Hardware Quality Assurance | CA, Santa Clara | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Hardware-Quality-Assurance_JR2004610?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 3w |
-| Senior Signal and Power Integrity Engineer - Hardware | CA, Santa Clara | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Signal-and-Power-Integrity-Engineer---Hardware_JR2005353-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 2w |
+| Senior Mask Design Engineer - Hardware 🏠 | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mask-Design-Engineer---Hardware_JR1966157?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 1w |
+| Senior Packaging Technical Engineer - Hardware 🏠 | Remote, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Packaging-Technical-Engineer---Hardware_JR1998772?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 3w |
+| Manager, Hardware Quality Assurance | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Hardware-Quality-Assurance_JR2004610?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 3w |
+| Senior Signal and Power Integrity Engineer - Hardware | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Signal-and-Power-Integrity-Engineer---Hardware_JR2005353-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 2w |
 
-#### 🔷 **Intel** (2 positions)
+#### 🔷 **Intel** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Emulation Engineer | Texas, Austin | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Emulation-Engineer_JR0276365?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf&jobFamilyGroup=c37a9eaa90371000c6fd2261025d0000) | 1w |
-| Senior CPU Circuit Design Engineer | Texas, Austin | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Senior-CPU-Circuit-Design-Engineer_JR0277119?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf&jobFamilyGroup=c37a9eaa90371000c6fd2261025d0000) | 1w |
+| Emulation Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Emulation-Engineer_JR0276365?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf&jobFamilyGroup=c37a9eaa90371000c6fd2261025d0000) | 1w |
+| Senior CPU Circuit Design Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Senior-CPU-Circuit-Design-Engineer_JR0277119?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf&jobFamilyGroup=c37a9eaa90371000c6fd2261025d0000) | 1w |
+| Senior SOC Design Engineer - Physical Design and Integration | Hillsboro, OR | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Senior-SOC-Design-Engineer---Physical-Design-and-Integration_JR0277363?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf&jobFamilyGroup=c37a9eaa90371000c6fd2261025d0000) | 1w |
 
 ### 💻 **Enterprise Software** (7 positions)
 
@@ -345,7 +367,7 @@ No companies available
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Hardware Engineer (Tactical Network - CANES) - Active Secret clearance | CA San Diego | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Hardware-Engineer--Tactical-Network---CANES----Active-Secret-clearance_RQ207964-1?q=Hardware) | 2w |
+| Hardware Engineer (Tactical Network - CANES) - Active Secret clearance | Diego, CA San | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Hardware-Engineer--Tactical-Network---CANES----Active-Secret-clearance_RQ207964-1?q=Hardware) | 2w |
 
 ### 💰 **Financial & Fintech** (1 position)
 
@@ -361,10 +383,10 @@ No companies available
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Staff Engineer, RF Engineering | MA, Wilmington | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Engineer--RF-Engineering_R256115?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Senior Engineer, Analog Design Engineering | TX, Dallas, Tollway | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Dallas-Tollway/Senior-Engineer--Analog-Design-Engineering_R255248?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
-| RF Design Engineering | MA, Chelmsford, Elizabeth | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/RF-Design-Engineering_R256072?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Robotics Hardware System Architect | MA, Wilmington | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Robotics-Hardware-System-Architect_R257085?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
+| Staff Engineer, RF Engineering | Wilmington, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Staff-Engineer--RF-Engineering_R256115?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
+| Senior Engineer, Analog Design Engineering | Dallas, Tollway, TX | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Dallas-Tollway/Senior-Engineer--Analog-Design-Engineering_R255248?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
+| RF Design Engineering | Chelmsford, Elizabeth, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/RF-Design-Engineering_R256072?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
+| Robotics Hardware System Architect | Wilmington, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Robotics-Hardware-System-Architect_R257085?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 
 #### 🏗️ **Honeywell** (8 positions)
 
@@ -390,7 +412,7 @@ No companies available
 
 <div align="center">
 
-**🎯 50 current opportunities from 13 elite companies.**
+**🎯 56 current opportunities from 14 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
