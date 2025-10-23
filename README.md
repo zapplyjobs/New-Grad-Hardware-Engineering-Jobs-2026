@@ -17,48 +17,12 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 53 
+- **🔥 Active Positions**: 50 
 - **🏢 Companies**: 13 elite tech companies
-- **⭐ FAANG+ Jobs**: 24 premium opportunities  
+- **⭐ FAANG+ Jobs**: 20 premium opportunities  
 - **📅 Last Updated**: October 23, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 44 (older than 1 week)
-
-
-
----
-
-## 🎓 **2025/2026 Summer Internships** 
-
-> **Fresh internship opportunities for students and upcoming grads**
-
-### 📚 **Top Internship Resources**
-
-| Platform | Description | Visit Now |
-|----------|-------------|-----------|
-| **👼 AngelList Internships** | Trending startup internships and entry-level roles | <a href="https://wellfound.com/jobs#internships"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
-| **🔗 LinkedIn Student Jobs** | New Jobs and professional networking for students | <a href="https://www.linkedin.com/jobs/search/?currentJobId=4292794755&geoId=103644278&keywords=hardware%20engineering%20intern&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
-| **🔵 Indeed Internships** | Comprehensive internship search engine | <a href="https://www.indeed.com/jobs?q=hardware%20engineering%20intern&l=United%20States&from=searchOnDesktopSerp%2Cwhereautocomplete&cf-turnstile-response=0.ZJCZbNXcxcvufJaZndsqVZt_cKlKAHi24tPPk6n9v399nZHXwzLOL8P43R6ir2fKfa6BvndTrPbW_cSnPqQyLnard6MNWqZbqAcRe5Xk6qhevasj90JYORHAWNaztKmx71uUniLoCEo_csEXBvZ8awZ5F6IhXpAJC8gF-R44ir09b9w3x16auEKJdPpnf5UyLmhezEgeMSGRUwbmFNrs5iDWupecoRzbvKgf8EBnzD4k8SJIERx3rCt92k0OksFz7C_X2N4lUEjqiLSb9ZI2J7wUmUMQf2l7keXpf2uMdbIuBkxpUj3cpyiK87Wj5fi-v9yDE9U1Sd8sm-jD6TASVUgF_6KvV3SwMMLErS8fhWNCuiGu3Tk-zk354ovM_cskTBRnaCLVHeUucoHiLJGE61X9NYHCIY4HJMxXlR6BcLdMwSgAIlPqtQVzolpCsrOHWrAD3SAiD7OKFX2rtm3YGTk7pRjDURwg-uia-yoLCWrqOyTI8cfPes4J5VxguGJGqb2A7KVow3x54UjuVBxHPljJ4a_rKTd5qzshvas4FqM35um5CmVTVrQJfuzAZBSp_72nOEwtVpwrfu_Ff39EPAb1c-IVifGhtpPq7ceWOM6_w4s96HAhHiCskNy8BbhcqHCOohxXYWw3o2VFEMdOIUp9SLWv19GpaZAU3rdE--GosWrdamyZ5-nwYRg_FJ3r7cmCCRi8CAKqp4uoTxgYYtSs_eTBleyPOdMU0v0iNskpU5T-hViWduBKcCr5ouXa82fRBt-9zw7aymZdwWVaJRcUiTDrdGtes53XJy2Ub1sAoCEI9UCeEhRJGeO2D1sp2crya84ADsBmSuk4Q0pplaRV_u2fc9gHKfW098qNVxTBcxhXgt8YKoRpVPkMPVLaHePlyHySFqV42xEqjLsMwz7eCb4OyAK-YO22C-V-T1Xg73nDf0fHRT2GAy5TXRdM.5QbZ9QPdwp8M71i25CqN1g.c4b098184b3143ef21e5dad9abb502f3444659952a73cbd8c95694153a14ae72"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
-| **🏢 Glassdoor Internships** | Internships with company reviews and salary data | <a href="https://www.glassdoor.com/Job/united-states-hardware-engineer-intern-jobs-SRCH_IL.0,13_IN1_KO14,38.htm"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
-| **🏫 University Career Centers** | National Association of Colleges and Employers | <a href="https://www.naceweb.org/tag/internships"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
-
-
-### 🏢 **FAANG+ Internship Programs**
-
-| Company | Program | Apply Now |
-|---------|---------|-----------|
-| 🟢 **Google** | STEP Internship |<a href="https://careers.google.com/students/"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| 🟦 **Microsoft** | hardware Engineering Internship |<a href="https://careers.microsoft.com/students"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| 🔵 **Meta** | hardware Engineer Internship |<a href="https://www.metacareers.com/careerprograms/students"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| 📦 **Amazon** | SDE Internship |<a href="https://www.amazon.jobs/en/teams/internships-for-students"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| 🍎 **Apple** | hardware Engineering Internship |<a href="https://jobs.apple.com/en-us/search?search=hardware+engineering&sort=relevance&location=united-states-USA&team=internships-STDNT-INTRN"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| 🎬 **Netflix** | hardware Engineering Internship |<a href="https://explore.jobs.netflix.net/careers?query=hardware%20internship&pid=790302560337&domain=netflix.com&sort_by=relevance&triggerGoButton=false"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| ⚡ **Tesla** | hardware Engineering Internship |<a href="https://www.tesla.com/careers/search/?query=hardware%20intern&site=US"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| 🎮 **Nvidia** | hardware Engineering Internship |<a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=hardware+intern&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| 💳 **Stripe** | hardware Engineering Internship |<a href="https://stripe.com/jobs/search?query=hardware+intern&remote_locations=North+America--US+Remote&office_locations=North+America--New+York&office_locations=North+America--New+York+Privy+HQ&office_locations=North+America--San+Francisco+Bridge+HQ&office_locations=North+America--Seattle&office_locations=North+America--South+San+Francisco&office_locations=North+America--Washington+DC"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| ₿ **Coinbase** | hardware Engineering Internship |<a href="https://www.coinbase.com/careers/positions?search=hardware%2520internship"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-
-
+- **📁 Archived Jobs**: 39 (older than 1 week)
 
 
 ---
@@ -66,7 +30,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (24 positions)
+### ⭐ **FAANG+** (20 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -101,16 +65,7 @@
 
 </details>
 
-#### 🍎 **Apple** (4 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627241-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 2d |
-| Hardware Reliability Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200622165-0157/hardware-reliability-engineer?team=HRDWR) | 14h |
-| Electrical Engineer - Camera Hardware | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627419-0836/electrical-engineer-camera-hardware?team=HRDWR) | 2d |
-| RF/mmW Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627767-3956/rf-mmw-hardware-design-engineer?team=HRDWR) | 1d |
-
-### 🏢 **Top Tech** (17 positions)
+### 🏢 **Top Tech** (18 positions)
 
 #### 🔬 **Synopsys** (5 positions)
 
@@ -121,6 +76,12 @@
 | Logic Design Architect | Hillsboro, OR | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/hillsboro/logic-design-architect/44408/77257867232) | 6d |
 | Principal Applications Engineer (ASIC/SoC/IP Engineer) - | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/sunnyvale/principal-applications-engineer-asic-soc-ip-engineer-12953/44408/87383798832) | 1d |
 | R&D Engineering, Sr Staff Engineer - Physical Design | Boxborough, MA | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/search-jobs/job/boxborough/r-and-d-engineering-sr-staff-engineer-physical-design/44408/84650311664) | 6d |
+
+#### 🔷 **Intel** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Senior CPU Logic Design Engineer | Texas, Austin | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Senior-CPU-Logic-Design-Engineer_JR0277892?q=hardware+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf&jobFamilyGroup=c37a9eaa90371000c6fd2261025d0000) | 1d |
 
 #### 🔶 **AMD** (11 positions)
 
@@ -207,16 +168,16 @@
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (19 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (4) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+#### ⭐ **FAANG+** (2 companies)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (19 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
 No companies available
 
 
-#### ☁️ **Enterprise & Cloud** (4 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (5) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (11) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (1)
+#### ☁️ **Enterprise & Cloud** (5 companies)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (5) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (11) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (1)
 
 ---
 
@@ -224,28 +185,28 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 5 | 9% | No or minimal experience |
-| 🟡 Beginner & Early Career | 22 | 42% | 1-2 years of experience |
-| 🔴 Manager         | 26 | 49% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 4 | 8% | No or minimal experience |
+| 🟡 Beginner & Early Career | 20 | 40% | 1-2 years of experience |
+| 🔴 Manager         | 26 | 52% | 2+ years of experience |
 
 ---
 
 ## 🌍 **Top Locations**
 
 - **Mountain View, CA**: 14 positions
-- **Sunnyvale, CA**: 10 positions
+- **Sunnyvale, CA**: 9 positions
 - **CA,Santa Clara  Santa Clara, California US**: 6 positions
 - **TX,Austin  Austin, Texas US**: 4 positions
-- **Austin, TX**: 4 positions
-- **Cupertino, CA**: 2 positions
+- **Austin, TX**: 3 positions
 - **TUCSON**: 1 positions
 - **Folsom, CA**: 1 positions
+- **MA, Wilmington**: 1 positions
 
 ---
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 53+ verified CS internships and entry-level hardware roles from 13 elite tech companies.
+✅ **100% Real Jobs:** 50+ verified CS internships and entry-level hardware roles from 13 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -298,32 +259,22 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 44 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 39 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 44 positions
+- **📁 Total Jobs**: 39 positions
 - **🏢 Companies**: 13 companies  
-- **⭐ FAANG+ Jobs & Internships**: 6 roles
+- **⭐ FAANG+ Jobs & Internships**: 1 roles
 
-### ⭐ **FAANG+** (6 positions)
+### ⭐ **FAANG+** (1 position)
 
 #### 📦 **Amazon** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Hardware Development Engineer AWS AI & ML, Accelerator Servers | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3103434/hardware-development-engineer-aws-ai-ml-accelerator-servers) | 2w |
-
-#### 🍎 **Apple** (5 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| iPhone Hardware Senior System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626244-0836/iphone-hardware-senior-system-design-engineer?team=HRDWR) | 1w |
-| Systems Validation Engineer - Data Center Hardware | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624875-3956/systems-validation-engineer-data-center-hardware?team=HRDWR) | 2w |
-| Touch/Force/Motion Hardware - Sensing System Architect | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626293-3543/touch-force-motion-hardware-sensing-system-architect?team=HRDWR) | 1w |
-| Baseband Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200622618-3956/baseband-hardware-design-engineer?team=HRDWR) | 2w |
-| Hardware Developer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625613-0836/hardware-developer?team=HRDWR) | 1w |
 
 ### 🏢 **Top Tech** (14 positions)
 
@@ -439,7 +390,7 @@ No companies available
 
 <div align="center">
 
-**🎯 53 current opportunities from 13 elite companies.**
+**🎯 50 current opportunities from 13 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
