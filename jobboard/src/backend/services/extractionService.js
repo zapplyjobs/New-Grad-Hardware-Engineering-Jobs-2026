@@ -189,18 +189,16 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
         for (const span of locationSpans) {
           const text = span.textContent.trim();
           if (
-            text.includes(',') ||
-            text.toLowerCase().includes('united states') ||
-            text.match(/[A-Z]{2}/) ||
-            text.includes('TX') ||
-            text.includes('Dallas')
+            text.includes(',')
           ) {
             location = text;
+            console.log(location);
             break;
           }
         }
       } else {
         location = getText(sel.locationSelector);
+        console.log(location);
       }
 
       let posted = 'Recently';

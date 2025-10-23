@@ -146,7 +146,7 @@ function filterJobsByLevel(jobs) {
     'junior', 'jr.', 'jr ', 'entry', 'entry-level', 'entry level',
     'graduate', 'new grad', 'new graduate', 'recent graduate', 
     'college graduate', 'university graduate', 'fresh graduate',
-    'intern', 'internship', 'trainee', 'apprentice', 'rotational',
+    , 'trainee', 'apprentice', 'rotational',
     'graduate program', 'training program', 'development program',
     'associate', 'fresh', 'beginner', 'starting', 'early career',
     'level 1', 'level i', 'grade 1', 'tier 1', '0-2 years'

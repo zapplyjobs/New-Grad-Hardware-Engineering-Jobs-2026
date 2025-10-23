@@ -171,42 +171,6 @@ function generateJobTable(jobs) {
   return output;
 }
 
-function generateInternshipSection(internshipData) {
-  if (!internshipData) return "";
-
-  return `
----
-
-## 🎓 **2025/2026 Summer Internships** 
-
-> **Fresh internship opportunities for students and upcoming grads**
-
-### 📚 **Top Internship Resources**
-
-| Platform | Description | Visit Now |
-|----------|-------------|-----------|
-${internshipData.sources
-  .map(
-    (source) =>
-      `| **${source.emogi} ${source.name}** | ${source.description} | <a href="${source.url}"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|`
-  )
-  .join("\n")}
-
-
-### 🏢 **FAANG+ Internship Programs**
-
-| Company | Program | Apply Now |
-|---------|---------|-----------|
-${internshipData.companyPrograms
-  .map((program) => {
-   
-    return `| ${program.emogi} **${program.company}** | ${program.program} |<a href="${program.url}"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|`;
-  })
-  .join("\n")}
-
-
-`;
-}
 
 function generateArchivedSection(archivedJobs, stats) {
   if (archivedJobs.length === 0) return "";
@@ -283,8 +247,6 @@ async function generateReadme(
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: ${archivedJobs.length} (older than 1 week)
 
-
-${internshipData ? generateInternshipSection(internshipData) : ""}
 
 ---
 
@@ -480,7 +442,6 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
 
 module.exports = {
   generateJobTable,
-  generateInternshipSection,
   generateArchivedSection,
   generateReadme,
   updateReadme,
