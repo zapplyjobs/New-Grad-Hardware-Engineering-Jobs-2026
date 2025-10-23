@@ -1031,5 +1031,6 @@ module.exports = {
   formatLocation,
   filterJobsByLevel,
   fetchInternshipData,
+  filterHardwareEngineeringJobs
 };
 
