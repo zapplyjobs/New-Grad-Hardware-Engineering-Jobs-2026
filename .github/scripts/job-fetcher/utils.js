@@ -709,100 +709,26 @@ function getJobCategory(title, description = "") {
 }
 
 function formatLocation(city, state) {
-  // Normalize inputs
-  let normalizedCity = city ? city.trim() : '';
-  let normalizedState = state ? state.trim() : '';
-
-  // STEP 1: Handle remote
-  if (normalizedCity.toLowerCase() === 'remote' || normalizedState.toLowerCase() === 'remote') {
-    return 'Remote 🏠';
-  }
-
-  // STEP 2: Filter out generic/invalid state values
-  const invalidStates = [
-    'us', 'usa', 'u.s.', 'u.s.a', 'united states',
-    'multiple locations', 'various locations', 'nationwide',
-    'location not specified', 'tbd', 'tba', 'n/a'
-  ];
-  
-  if (invalidStates.includes(normalizedState.toLowerCase())) {
-    normalizedState = ''; // Clear invalid state
-  }
-
-  // STEP 3: Clean city - remove job-level keywords if they got through
-  const cityCleanupKeywords = [
-    'internship', 'intern', 'entry level', 'entrylevel', 'entry',
-    'senior', 'junior', 'multiple cities', 'various'
-  ];
-  
-  cityCleanupKeywords.forEach(keyword => {
-    const regex = new RegExp(`^${keyword}\\s*`, 'gi');
-    normalizedCity = normalizedCity.replace(regex, '').trim();
-  });
-
-  // STEP 4: If city contains "United States", remove it
-  normalizedCity = normalizedCity
-    .replace(/,?\s*United States$/i, '')
-    .replace(/,?\s*USA$/i, '')
-    .replace(/,?\s*U\.S\.A?$/i, '')
-    .trim();
-
-  // STEP 5: Handle state containing "United States"
-  if (normalizedState.toLowerCase().includes('united states')) {
-    // If state is "United States" or contains it, clear it unless there's specific info
-    if (normalizedState.toLowerCase() === 'united states') {
-      normalizedState = '';
-    } else {
-      // Extract actual state if format is like "California, United States"
-      normalizedState = normalizedState
-        .replace(/,?\s*United States$/i, '')
-        .replace(/,?\s*USA$/i, '')
-        .trim();
+    // Handle US - Remote
+    if (city === 'US - Remote') return 'US - Remote 🏠';
+    
+    // Handle empty cases (shouldn't happen but safety check)
+    if (!city && !state) return 'US - Remote 🏠';
+    
+    // Handle only state (e.g., "US, CA" becomes just "CA")
+    if (!city && state) return state;
+    
+    // Handle only city (no state provided)
+    if (city && !state) {
+        // Special cases
+        if (city === 'Multiple Cities') return 'Multiple Cities';
+        if (city.toLowerCase() === 'remote') return 'US - Remote 🏠';
+        // Just return the city
+        return city;
     }
-  }
-
-  // STEP 6: Handle patterns like "California - San Francisco"
-  // This means state came first, so swap them
-  if (normalizedCity.includes(' - ')) {
-    const parts = normalizedCity.split(' - ').map(p => p.trim());
-    if (parts.length === 2) {
-      // First part is likely state, second is city
-      normalizedState = normalizedState || parts[0];
-      normalizedCity = parts[1];
-    }
-  }
-
-  // STEP 7: Final validation - filter out if city or state are too short or invalid
-  if (normalizedCity && normalizedCity.length < 2) {
-    normalizedCity = '';
-  }
-  if (normalizedState && normalizedState.length < 2) {
-    normalizedState = '';
-  }
-
-  // STEP 8: Check if city is actually just numbers or special characters
-  if (normalizedCity && /^[\d\s,\-._]+$/.test(normalizedCity)) {
-    normalizedCity = '';
-  }
-
-  // STEP 9: Return formatted location based on what we have
-  // Both city and state
-  if (normalizedCity && normalizedState) {
-    return `${normalizedCity}, ${normalizedState}`;
-  }
-  
-  // Only state
-  if (!normalizedCity && normalizedState) {
-    return normalizedState;
-  }
-  
-  // Only city
-  if (normalizedCity && !normalizedState) {
-    return normalizedCity;
-  }
-
-  // Neither (should be filtered out in stats)
-  return null; // Return null instead of a string so it can be filtered
+    
+    // Standard format: City, ST (e.g., "Seattle, WA")
+    return `${city}, ${state}`;
 }
 
 // Fetch internship data from popular sources
