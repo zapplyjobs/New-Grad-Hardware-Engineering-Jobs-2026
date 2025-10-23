@@ -176,7 +176,7 @@ function filterJobsByLevel(jobs) {
   // Pattern to detect search query formatted descriptions
   function isSearchQueryDescription(description) {
     if (!description) return false;
-    
+    o
     const searchQueryPattern = /\b\w+\s+job\s+for\s+the\s+role\s+\w+/i;
     const isSearchQuery = searchQueryPattern.test(description);
     
@@ -731,6 +731,159 @@ function formatLocation(city, state) {
     return `${city}, ${state}`;
 }
 
+function filterHardwareEngineeringJobs(jobs) {
+  console.log(`🔍 Starting job title filtering for ${jobs.length} jobs...`);
+  
+  // Keywords that indicate INTERNSHIP positions (to EXCLUDE)
+  const internshipKeywords = [
+    'intern', 'internship', 'co-op', 'coop', 'co op',
+    'summer program', 'training program', 'rotational program',
+    'student position', 'student program', 'campus hire'
+  ];
+  
+  // Keywords that indicate NON-HARDWARE ENGINEERING roles (to EXCLUDE)
+  const nonHardwareKeywords = [
+    // Software Development
+    'software engineer', 'software developer', 'software development',
+    'backend engineer', 'backend developer', 'back-end',
+    'frontend engineer', 'frontend developer', 'front-end',
+    'full stack', 'fullstack', 'full-stack',
+    'web developer', 'web engineer', 'mobile developer', 'mobile engineer',
+    'application developer', 'application engineer', 'app developer',
+    'devops engineer', 'cloud engineer', 'platform engineer',
+    'game developer', 'api developer', 'middleware developer',
+    
+    // Data Science & Analytics
+    'data scientist', 'data science', 'data analyst', 'data analytics',
+    'business analyst', 'business intelligence', 'bi analyst',
+    'machine learning engineer', 'ml engineer', 'ai engineer',
+    'research scientist', 'applied scientist', 'quantitative analyst',
+    
+    // Testing & QA (Non-Engineering)
+    'qa tester', 'quality assurance tester', 'test analyst',
+    'quality control', 'qc engineer', 'test technician',
+    
+    // Technicians & Lab Roles (Non-Engineering)
+    'technician', 'lab technician', 'laboratory technician',
+    'it technician', 'support technician', 'field technician',
+    'service technician', 'maintenance technician', 'repair technician',
+    
+    // Manufacturing & Operations (Non-Design)
+    'manufacturing engineer', 'production engineer', 'process engineer',
+    'industrial engineer', 'operations engineer', 'plant engineer',
+    'facilities engineer', 'assembly engineer',
+    
+    // Mechanical & Other Engineering
+    'mechanical engineer', 'civil engineer', 'aerospace engineer',
+    'biomedical engineer', 'chemical engineer', 'environmental engineer',
+    'materials engineer', 'metallurgical', 'structural engineer',
+    
+    // Product & Design (Non-Technical)
+    'product manager', 'product owner', 'program manager', 'project manager',
+    'product designer', 'ux designer', 'ui designer', 'graphic designer',
+    
+    // IT & Network (Non-Hardware Design)
+    'network administrator', 'sysadmin', 'systems administrator',
+    'it administrator', 'help desk', 'desktop support',
+    
+    // Sales & Support
+    'sales engineer', 'solutions engineer', 'technical sales',
+    'customer success engineer', 'support engineer',
+    
+    // Other Non-Hardware
+    'safety engineer', 'compliance engineer', 'regulatory engineer'
+  ];
+  
+  // Keywords that CONFIRM hardware engineering roles (to INCLUDE)
+  const hardwareKeywords = [
+    // Core Hardware Engineering
+    'hardware engineer', 'hardware', 'electrical engineer', 'electronics engineer',
+    'ee engineer', 'hardware design engineer', 'hardware development engineer',
+    
+    // Circuit & PCB Design
+    'circuit design', 'circuit engineer', 'pcb design', 'pcb engineer',
+    'board design', 'schematic design', 'layout engineer',
+    'analog design', 'digital design', 'mixed signal',
+    
+    // FPGA & ASIC
+    'fpga', 'fpga engineer', 'fpga design', 'fpga developer',
+    'asic', 'asic engineer', 'asic design', 'asic verification',
+    'vlsi', 'vlsi engineer', 'vlsi design', 'rtl design', 'rtl engineer',
+    'logic design', 'digital logic', 'verilog', 'vhdl', 'systemverilog',
+    
+    // Embedded Hardware
+    'embedded hardware', 'embedded engineer', 'embedded systems engineer',
+    'firmware engineer', 'firmware developer', 'firmware hardware',
+    
+    // RF & Wireless
+    'rf engineer', 'rf design', 'radio frequency', 'wireless engineer',
+    'antenna engineer', 'antenna design', 'microwave engineer',
+    'wireless hardware', '5g engineer', 'wireless communication',
+    
+    // Power & Energy
+    'power engineer', 'power electronics', 'power systems',
+    'battery engineer', 'charging systems', 'power management',
+    'power conversion', 'dc-dc', 'power supply',
+    
+    // Signal Processing
+    'signal processing', 'dsp engineer', 'signal integrity',
+    'emi engineer', 'emc engineer',
+    
+    // Verification & Validation (Hardware)
+    'hardware verification', 'hardware validation', 'design verification engineer',
+    'dv engineer', 'silicon validation', 'post-silicon validation',
+    'emulation engineer', 'hardware test engineer',
+    
+    // Chip & Silicon
+    'chip engineer', 'silicon engineer', 'ic design', 'integrated circuit',
+    'semiconductor engineer', 'chip design', 'physical design',
+    
+    // Systems & Architecture (Hardware)
+    'hardware architect', 'systems architect', 'computer architect',
+    'soc engineer', 'system on chip', 'hardware systems engineer',
+    
+    // Manufacturing Engineering (Design-Related)
+    'design for manufacturing', 'dfm engineer', 'design for test',
+    'dft engineer', 'test engineering', 'hardware integration engineer',
+    
+    // Specialty Hardware
+    'optics engineer', 'photonics engineer', 'sensor engineer',
+    'mems engineer', 'display engineer', 'imaging engineer',
+    'thermal engineer', 'thermal design', 'cooling systems'
+  ];
+  
+  const filteredJobs = jobs.filter(job => {
+    const titleLower = job.job_title.toLowerCase();
+    
+    // EXCLUDE: Internships
+    const isInternship = internshipKeywords.some(keyword => 
+      titleLower.includes(keyword.toLowerCase())
+    );
+    if (isInternship) {
+      return false;
+    }
+    
+    // EXCLUDE: Non-hardware roles
+    const isNonHardware = nonHardwareKeywords.some(keyword => 
+      titleLower.includes(keyword.toLowerCase())
+    );
+    if (isNonHardware) {
+      return false;
+    }
+    
+    // INCLUDE: Hardware engineering roles
+    const isHardware = hardwareKeywords.some(keyword => 
+      titleLower.includes(keyword.toLowerCase())
+    );
+    
+    return isHardware;
+  });
+  
+  console.log(`✅ Filtered to ${filteredJobs.length} hardware engineering jobs`);
+  console.log(`❌ Removed ${jobs.length - filteredJobs.length} non-hardware/internship jobs`);
+  
+  return filteredJobs;
+}
 // Fetch internship data from popular sources
 async function fetchInternshipData() {
   console.log("🎓 Fetching 2025/2026 internship opportunities...");
