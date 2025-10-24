@@ -164,7 +164,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| MTS Circuit Design Engineer, HSIO | Folsom, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30868369) | 3d |
+| MTS Circuit Design Engineer, HSIO | Folsom, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30868369) | 4d |
 
 #### 📡 **Analog Devices** (1 position)
 
@@ -203,9 +203,9 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 4 | 8% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 3 | 6% | No or minimal experience |
 | 🟡 Beginner & Early Career | 21 | 40% | 1-2 years of experience |
-| 🔴 Manager         | 28 | 53% | 2+ years of experience |
+| 🔴 Manager         | 29 | 55% | 2+ years of experience |
 
 ---
 
