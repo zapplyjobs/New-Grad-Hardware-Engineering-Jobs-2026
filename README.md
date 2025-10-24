@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 17+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 16+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -18,7 +18,7 @@
 
 ## 📊 **Live Stats**
 - **🔥 Active Positions**: 52 
-- **🏢 Companies**: 17 elite tech companies
+- **🏢 Companies**: 16 elite tech companies
 - **⭐ FAANG+ Jobs**: 22 premium opportunities  
 - **📅 Last Updated**: October 24, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
@@ -130,21 +130,14 @@
 |------|----------|-----------|-----|
 | Thermal Design Engineer | Spring, TX | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Spring-Texas-United-States-of-America/Thermal-Design-Engineer_1193488-1?q=hardware+engineering&jobFamilyGroup=98cbd30d374e10333e00271ec8445e81) | 2d |
 
-### 🚀 **Startups & Growth** (1 position)
+### 🚀 **Startups & Growth** (2 positions)
 
-#### 🛡️ **BAE Systems** (1 position)
+#### 🛡️ **BAE Systems** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Embedded Hardware Security Engineer, Senior | Quantico, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Embedded-Hardware-Security-Engineer--Senior_R0228605?q=hardware+engineering) | 1d |
-
-### 💰 **Financial & Fintech** (1 position)
-
-#### 🏦 **JPMorgan Chase** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Senior Lead Infrastructure Engineer - X86 Hardware Performance and Evaluation | Jersey City, NJ | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210629578/?keyword=hardware+engineering&lastSelectedFacet=CATEGORIES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedCategoriesFacet=300000086249821%253B300000086153391%253B300000086144371) | 1h |
+| Electrical Engineer, Mid | Eglin AFB, FL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Eglin-AFB-FL/Electrical-Engineer--Mid_R0228452?q=hardware+engineering) | 1d |
 
 ### 🛡️ **Defense & Aerospace** (3 positions)
 
@@ -196,8 +189,8 @@
 🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (18 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (3) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
-#### 💰 **Fintech Leaders** (1 company)
-🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (1 position)
+#### 💰 **Fintech Leaders** (0 companies)
+No companies available
 
 
 #### ☁️ **Enterprise & Cloud** (7 companies)
@@ -230,7 +223,7 @@
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 52+ verified CS internships and entry-level hardware roles from 17 elite tech companies.
+✅ **100% Real Jobs:** 52+ verified CS internships and entry-level hardware roles from 16 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -289,7 +282,7 @@
 
 ### **Archived Job Stats**
 - **📁 Total Jobs**: 50 positions
-- **🏢 Companies**: 17 companies  
+- **🏢 Companies**: 16 companies  
 - **⭐ FAANG+ Jobs & Internships**: 7 roles
 
 ### ⭐ **FAANG+** (7 positions)
@@ -435,7 +428,7 @@
 
 <div align="center">
 
-**🎯 52 current opportunities from 17 elite companies.**
+**🎯 52 current opportunities from 16 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
