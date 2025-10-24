@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 15+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 16+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -18,11 +18,11 @@
 
 ## 📊 **Live Stats**
 - **🔥 Active Positions**: 51 
-- **🏢 Companies**: 15 elite tech companies
+- **🏢 Companies**: 16 elite tech companies
 - **⭐ FAANG+ Jobs**: 22 premium opportunities  
 - **📅 Last Updated**: October 24, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 42 (older than 1 week)
+- **📁 Archived Jobs**: 50 (older than 1 week)
 
 
 ---
@@ -130,14 +130,13 @@
 |------|----------|-----------|-----|
 | Thermal Design Engineer | Spring, TX | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Spring-Texas-United-States-of-America/Thermal-Design-Engineer_1193488-1?q=hardware+engineering&jobFamilyGroup=98cbd30d374e10333e00271ec8445e81) | 2d |
 
-### 🚀 **Startups & Growth** (2 positions)
+### 🚀 **Startups & Growth** (1 position)
 
-#### 🛡️ **BAE Systems** (2 positions)
+#### 🛡️ **BAE Systems** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Embedded Hardware Security Engineer, Senior | Quantico, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Embedded-Hardware-Security-Engineer--Senior_R0228605?q=hardware+engineering) | 1d |
-| Electrical Engineer, Mid | Eglin AFB, FL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Eglin-AFB-FL/Electrical-Engineer--Mid_R0228452?q=hardware+engineering) | 1d |
 
 ### 🛡️ **Defense & Aerospace** (3 positions)
 
@@ -149,7 +148,7 @@
 | Electrical Engineer, Compute Hardware | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/electrical-engineer-compute-hardware-mountain-view-california-united-states) | 1d |
 | Senior Design Engineer, ASIC | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/senior-design-engineer-asic-mountain-view-california-united-states) | 1d |
 
-### 🏭 **Manufacturing & Industrial** (5 positions)
+### 🏭 **Manufacturing & Industrial** (6 positions)
 
 #### 💪 **Arm** (3 positions)
 
@@ -170,6 +169,12 @@
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Senior Analog Design Verification Engineer | Wilmington, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Senior-Analog-Design-Verification-Engineer-_R257462?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3d |
+
+#### 🏗️ **Honeywell** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Advanced Hardware Engineer | Lincolnshire, IL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/115219/?keyword=hardware+engineering&lastSelectedFacet=TITLES&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000017425610&selectedTitlesFacet=120%253B119%253B117%253B114%253B126%253B247%253B118) | 4d |
 
 
 
@@ -196,9 +201,9 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 4 | 8% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 3 | 6% | No or minimal experience |
 | 🟡 Beginner & Early Career | 21 | 41% | 1-2 years of experience |
-| 🔴 Manager         | 26 | 51% | 2+ years of experience |
+| 🔴 Manager         | 27 | 53% | 2+ years of experience |
 
 ---
 
@@ -217,7 +222,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 51+ verified CS internships and entry-level hardware roles from 15 elite tech companies.
+✅ **100% Real Jobs:** 51+ verified CS internships and entry-level hardware roles from 16 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -270,13 +275,13 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 42 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 50 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 42 positions
-- **🏢 Companies**: 15 companies  
+- **📁 Total Jobs**: 50 positions
+- **🏢 Companies**: 16 companies  
 - **⭐ FAANG+ Jobs & Internships**: 7 roles
 
 ### ⭐ **FAANG+** (7 positions)
@@ -293,7 +298,7 @@ No companies available
 |------|----------|-----------|-----|
 | iPhone Hardware Senior System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626244-0836/iphone-hardware-senior-system-design-engineer?team=HRDWR) | 1w |
 | Systems Validation Engineer - Data Center Hardware | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624875-3956/systems-validation-engineer-data-center-hardware?team=HRDWR) | 2w |
-| Touch/Force/Motion Hardware - Sensing System Architect | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626293-3543/touch-force-motion-hardware-sensing-system-architect?team=HRDWR) | 1w |
+| Touch/Force/Motion Hardware - Sensing System Architect | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626292-3543/touch-force-motion-hardware-sensing-system-architect?team=HRDWR) | 1w |
 | Baseband Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200622618-3956/baseband-hardware-design-engineer?team=HRDWR) | 3w |
 | Hardware Developer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625613-0836/hardware-developer?team=HRDWR) | 1w |
 | Cellular RF Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626632-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 1w |
@@ -387,7 +392,7 @@ No companies available
 |------|----------|-----------|-----|
 | Lead Infrastructure Engineer - Mainframe Hardware Storage | Columbus, OH | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210644930/?keyword=hardware+engineering&lastSelectedFacet=CATEGORIES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedCategoriesFacet=300000086249821%253B300000086153391%253B300000086144371) | 2w |
 
-### 🏭 **Manufacturing & Industrial** (4 positions)
+### 🏭 **Manufacturing & Industrial** (12 positions)
 
 #### 📡 **Analog Devices** (4 positions)
 
@@ -397,6 +402,19 @@ No companies available
 | Senior Engineer, Analog Design Engineering | Dallas, Tollway, TX | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Dallas-Tollway/Senior-Engineer--Analog-Design-Engineering_R255248?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 | RF Design Engineering | Chelmsford, Elizabeth, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/RF-Design-Engineering_R256072?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | Robotics Hardware System Architect | Wilmington, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Robotics-Hardware-System-Architect_R257085?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
+
+#### 🏗️ **Honeywell** (8 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Hardware Engineer | Fort Washington, PA | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/116090/?keyword=hardware+engineering&lastSelectedFacet=TITLES&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000017425610&selectedTitlesFacet=120%253B119%253B117%253B114%253B126%253B247%253B118) | 4w |
+| Advanced Hardware Engineer | Minneapolis, MN | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/119024/?keyword=hardware+engineering&lastSelectedFacet=TITLES&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000017425610&selectedTitlesFacet=120%253B119%253B117%253B114%253B126%253B247%253B118) | 3w |
+| Sr Advanced Hardware Engineer | Phoenix, AZ | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/123523/?keyword=hardware+engineering&lastSelectedFacet=TITLES&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000017425610&selectedTitlesFacet=120%253B119%253B117%253B114%253B126%253B247%253B118) | 1w |
+| Sr. Advanced Hardware Engineer | Clearwater, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/119810/?keyword=hardware+engineering&lastSelectedFacet=TITLES&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000017425610&selectedTitlesFacet=120%253B119%253B117%253B114%253B126%253B247%253B118) | 4w |
+| Sr. Advanced Hardware Engineer | Minneapolis, MN | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/119819/?keyword=hardware+engineering&lastSelectedFacet=TITLES&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000017425610&selectedTitlesFacet=120%253B119%253B117%253B114%253B126%253B247%253B118) | 4w |
+| Advanced Hardware Engineer - Reliability | Clearwater, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/122523/?keyword=hardware+engineering&lastSelectedFacet=TITLES&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000017425610&selectedTitlesFacet=120%253B119%253B117%253B114%253B126%253B247%253B118) | 2w |
+| Sr Advanced FPGA Design Engineer | Phoenix, AZ | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/107758/?keyword=hardware+engineering&lastSelectedFacet=TITLES&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000017425610&selectedTitlesFacet=120%253B119%253B117%253B114%253B126%253B247%253B118) | 1w |
+| Electrical Engineer | Frederick, MD | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/120176/?keyword=hardware+engineering&lastSelectedFacet=TITLES&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000017425610&selectedTitlesFacet=120%253B119%253B117%253B114%253B126%253B247%253B118) | 3w |
 
 
 
@@ -409,7 +427,7 @@ No companies available
 
 <div align="center">
 
-**🎯 51 current opportunities from 15 elite companies.**
+**🎯 51 current opportunities from 16 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
