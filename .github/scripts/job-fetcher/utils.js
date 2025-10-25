@@ -125,133 +125,76 @@ function isJobOlderThanWeek(dateString) {
 function filterJobsByLevel(jobs) {
   console.log(`🔍 Starting job level filtering for ${jobs.length} jobs...`);
   
-  // Enhanced keywords that indicate senior/advanced level positions (to EXCLUDE)
+  // CRITICAL: More comprehensive senior keywords - EXCLUDE these
   const seniorKeywords = [
-    'senior', 'sr.', 'sr ', 'lead', 'principal', 'staff', 'architect', 
+    'senior', 'sr.', 'sr ', 'sr,', 'lead', 'principal', 'staff', 'architect',
     'director', 'manager', 'head of', 'chief', 'vp', 'vice president',
     'expert', 'specialist', 'consultant', 'advanced', 'executive',
     'tech lead', 'technical lead', 'team lead', 'team leader',
     'supervisor', 'coordinator', 'program manager', 'project manager',
-    'engineering manager', 'senior director', 'executive director', 
-    'group leader', 'division head', 'department head', 'fellow', 
-    'guru', 'master', 'senior specialist', 'principal consultant', 
-    'distinguished', 'senior architect', 'lead architect', 'chief architect', 
-    'senior scientist', 'strategy', 'strategic', 'portfolio manager', 
-    'senior advisor', 'principal advisor', 'veteran', 'seasoned', 
-    'senior consultant', 'lead consultant', 'senior lead'
+    'engineering manager', 'senior director', 'executive director',
+    'group leader', 'division head', 'department head', 'fellow',
+    'guru', 'master', 'senior specialist', 'principal consultant',
+    'distinguished', 'senior architect', 'lead architect', 'chief architect',
+    'senior scientist', 'strategy', 'strategic', 'portfolio manager',
+    'senior advisor', 'principal advisor', 'veteran', 'seasoned',
+    'senior consultant', 'lead consultant', 'senior lead',
+    // Additional patterns
+    'sr engineer', 'sr.engineer', 'sr-engineer', 'senior engineer',
+    'lead engineer', 'principal engineer', 'staff engineer',
+    'continuation', 'sr continuation' // AMD specific
   ];
   
-  // Enhanced keywords that indicate entry/junior level positions (to INCLUDE)
+  // Entry/junior level keywords - INCLUDE these
   const juniorKeywords = [
     'junior', 'jr.', 'jr ', 'entry', 'entry-level', 'entry level',
-    'graduate', 'new grad', 'new graduate', 'recent graduate', 
+    'graduate', 'new grad', 'new graduate', 'recent graduate',
     'college graduate', 'university graduate', 'fresh graduate',
     'intern', 'internship', 'trainee', 'apprentice', 'rotational',
     'graduate program', 'training program', 'development program',
     'associate', 'fresh', 'beginner', 'starting', 'early career',
-    'level 1', 'level i', 'grade 1', 'tier 1', '0-2 years'
+    'level 1', 'level i', 'grade 1', 'tier 1', '0-2 years',
+    'university graduate' // Google specific
   ];
   
-  // Enhanced experience patterns to check in descriptions
+  // Experience patterns
   const experiencePatterns = [
     /(\d+)\s*[-+to]\s*(\d+)?\s*years?\s*(?:of\s*)?(?:experience|exp|work)/gi,
     /(?:minimum|min|at least|require[ds]?|need|must have)\s*(\d+)\s*years?\s*(?:of\s*)?(?:experience|exp)/gi,
     /(\d+)\s*\+\s*years?\s*(?:of\s*)?(?:experience|exp)/gi,
     /(\d+)\s*or\s*more\s*years?\s*(?:of\s*)?(?:experience|exp)/gi,
-    /(?:with|having)\s*(\d+)\s*years?\s*(?:of\s*)?(?:experience|exp)/gi,
-    /(\d+)\s*years?\s*(?:of\s*)?(?:professional|relevant|related)\s*(?:experience|exp)/gi,
-    /(?:minimum|at least)\s*(\d+)\s*years?\s*in/gi,
-    /(\d+)\s*years?\s*(?:background|history)/gi,
-    /(?:experience|background|history|track record).*?(\d+)\s*years?/gi,
-    /(?:skilled|experienced|seasoned|veteran).*?(\d+)\s*years?/gi,
-    /(?:portfolio|work|projects).*?(\d+)\s*years?/gi,
-    /(?:must|should|need|require).*?(\d+)\s*years?/gi,
   ];
   
-  // Advanced education requirements (to EXCLUDE)
+  // Advanced education requirements
   const advancedEducation = [
-    'phd', 'ph.d.', 'doctorate', 'doctoral', 'postgraduate required'
+    'phd required', 'ph.d. required', 'doctorate required', 'doctoral required'
   ];
 
-  // Pattern to detect search query formatted descriptions
   function isSearchQueryDescription(description) {
     if (!description) return false;
-    
-    const searchQueryPattern = /\b\w+\s+job\s+for\s+the\s+role\s+\w+/i;
-    const isSearchQuery = searchQueryPattern.test(description);
-    
-    if (isSearchQuery) {
-      console.log(`   🔍 Detected search query format description - will ignore for experience filtering`);
-    }
-    
-    return isSearchQuery;
+    const searchQueryPattern = /\b\w+\s+job\s+for\s+the\s+role\s+/i;
+    return searchQueryPattern.test(description);
   }
 
   function extractYearsFromDescription(description) {
-    if (!description) return [];
-    
-    if (isSearchQueryDescription(description)) {
-      console.log(`   ⚠️  Skipping experience extraction from search query format description`);
-      return [];
-    }
+    if (!description || isSearchQueryDescription(description)) return [];
     
     const years = [];
-    const lowerDesc = description.toLowerCase();
+    const lowerDesc = description.toLowerCase().replace(/\s+/g, ' ').trim();
     
-    // Clean description to handle multiple spaces and line breaks
-    const cleanDesc = lowerDesc.replace(/\s+/g, ' ').trim();
-    
-    console.log(`   🔍 Analyzing description for experience patterns...`);
-    
-    experiencePatterns.forEach((pattern, index) => {
-      const matches = [...cleanDesc.matchAll(pattern)];
+    experiencePatterns.forEach((pattern) => {
+      const matches = [...lowerDesc.matchAll(pattern)];
       matches.forEach(match => {
-        // Handle different capture groups based on pattern
         if (match[1] && !isNaN(parseInt(match[1]))) {
-          const year1 = parseInt(match[1]);
-          years.push(year1);
-          console.log(`   📊 Pattern ${index + 1} found: ${year1} years (from: "${match[0].trim()}")`);
+          years.push(parseInt(match[1]));
         }
-        
         if (match[2] && !isNaN(parseInt(match[2]))) {
-          const year2 = parseInt(match[2]);
-          years.push(year2);
-          console.log(`   📊 Pattern ${index + 1} found: ${year2} years (from: "${match[0].trim()}")`);
+          years.push(parseInt(match[2]));
         }
       });
     });
     
-    // Additional contextual checks for common phrases that might indicate experience
-    const contextualChecks = [
-      { pattern: /(?:experience|background|history|track record).*?(\d+)\s*years?/gi, context: 'general experience' },
-      { pattern: /(?:skilled|experienced|seasoned|veteran).*?(\d+)\s*years?/gi, context: 'skill level' },
-      { pattern: /(?:portfolio|work|projects).*?(\d+)\s*years?/gi, context: 'work history' },
-      { pattern: /(?:must|should|need|require).*?(\d+)\s*years?/gi, context: 'requirements' }
-    ];
-    
-    contextualChecks.forEach(check => {
-      const matches = [...cleanDesc.matchAll(check.pattern)];
-      matches.forEach(match => {
-        if (match[1] && !isNaN(parseInt(match[1]))) {
-          const contextYears = parseInt(match[1]);
-          if (!years.includes(contextYears)) {
-            years.push(contextYears);
-            console.log(`   🎯 Contextual pattern (${check.context}) found: ${contextYears} years (from: "${match[0].trim()}")`);
-          }
-        }
-      });
-    });
-    
-    // Remove duplicates and sort
-    const uniqueYears = [...new Set(years)].sort((a, b) => a - b);
-    
-    if (uniqueYears.length > 0) {
-      console.log(`   📈 Total years extracted: [${uniqueYears.join(', ')}]`);
-    } else {
-      console.log(`   ℹ️  No experience requirements found in description`);
-    }
-    
-    return uniqueYears;
+    return [...new Set(years)].sort((a, b) => a - b);
   }
 
   function checkTitleLevel(title) {
@@ -259,16 +202,27 @@ function filterJobsByLevel(jobs) {
     
     const lowerTitle = title.toLowerCase();
     
-    // Check for senior-level indicators FIRST (EXCLUDE)
+    // CRITICAL: Check for senior-level FIRST with word boundaries
     for (const keyword of seniorKeywords) {
-      if (lowerTitle.includes(keyword.toLowerCase())) {
+      const keywordLower = keyword.toLowerCase();
+      
+      // Check with word boundaries to avoid false matches
+      const wordBoundaryPattern = new RegExp(`\\b${keywordLower.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i');
+      
+      if (wordBoundaryPattern.test(lowerTitle)) {
+        return { level: 'senior', matchedKeyword: keyword };
+      }
+      
+      // Also check for variations without word boundaries for patterns like "Sr." or "Sr,"
+      if (lowerTitle.includes(keywordLower)) {
         return { level: 'senior', matchedKeyword: keyword };
       }
     }
     
-    // Check for junior-level indicators SECOND (INCLUDE)
+    // Check for junior-level indicators
     for (const keyword of juniorKeywords) {
-      if (lowerTitle.includes(keyword.toLowerCase())) {
+      const keywordLower = keyword.toLowerCase();
+      if (lowerTitle.includes(keywordLower)) {
         return { level: 'junior', matchedKeyword: keyword };
       }
     }
@@ -277,22 +231,14 @@ function filterJobsByLevel(jobs) {
   }
 
   function checkEducationRequirements(description) {
-    if (!description) return { level: 'acceptable', matchedRequirement: '' };
-    
-    if (isSearchQueryDescription(description)) {
-      console.log(`   📚 Skipping education requirement check for search query format description`);
-      return { level: 'acceptable', matchedRequirement: 'search_query_format' };
+    if (!description || isSearchQueryDescription(description)) {
+      return { level: 'acceptable', matchedRequirement: '' };
     }
     
     const lowerDesc = description.toLowerCase();
     
     for (const edu of advancedEducation) {
       if (lowerDesc.includes(edu.toLowerCase())) {
-        if (lowerDesc.includes('preferred') || lowerDesc.includes('nice to have') || 
-            lowerDesc.includes('plus') || lowerDesc.includes('bonus') || 
-            lowerDesc.includes('optional') || lowerDesc.includes('desired')) {
-          continue;
-        }
         return { level: 'too_advanced', matchedRequirement: edu };
       }
     }
@@ -300,7 +246,7 @@ function filterJobsByLevel(jobs) {
     return { level: 'acceptable', matchedRequirement: '' };
   }
 
-  // Filter jobs with improved hierarchy
+  // Filter jobs
   const filteredJobs = [];
   const removedJobs = [];
   
@@ -319,95 +265,91 @@ function filterJobsByLevel(jobs) {
     // STEP 1: Check senior-level titles FIRST (EXCLUDE immediately)
     if (titleAnalysis.level === 'senior') {
       shouldInclude = false;
-      reason = `Senior-level title detected`;
-      category = `EXCLUDED - Title contains "${titleAnalysis.matchedKeyword}"`;
-      console.log(`   ❌ STEP 1 - ${category}`);
+      reason = `Senior-level title detected: "${titleAnalysis.matchedKeyword}"`;
+      category = `EXCLUDED - Senior title`;
+      console.log(`   ❌ ${category} - keyword: "${titleAnalysis.matchedKeyword}"`);
     }
     
     // STEP 2: Check junior-level titles SECOND (INCLUDE immediately)
     else if (titleAnalysis.level === 'junior') {
       shouldInclude = true;
       reason = `Junior-level title confirmed`;
-      category = `INCLUDED - Entry-level title contains "${titleAnalysis.matchedKeyword}"`;
-      console.log(`   ✅ STEP 2 - ${category}`);
+      category = `INCLUDED - Entry-level title`;
+      console.log(`   ✅ ${category} - keyword: "${titleAnalysis.matchedKeyword}"`);
     }
     
-    // STEP 3: Check description for experience requirements THIRD
+    // STEP 3: Check experience requirements for unclear titles
     else {
       if (yearsRequired.length > 0) {
         const maxYears = Math.max(...yearsRequired);
-        console.log(`   📊 STEP 3 - Experience required: ${yearsRequired.join(', ')} years (max: ${maxYears})`);
+        console.log(`   📊 Experience: ${yearsRequired.join(', ')} years (max: ${maxYears})`);
         
         if (maxYears >= 5) {
           shouldInclude = false;
           reason = `Requires ${maxYears}+ years experience`;
-          category = `EXCLUDED - Too much experience required (${maxYears}+ years)`;
-          console.log(`   ❌ STEP 3 - ${category}`);
+          category = `EXCLUDED - Too much experience`;
+          console.log(`   ❌ ${category}`);
         } else {
           shouldInclude = true;
-          category = `INCLUDED - Acceptable experience requirement (${maxYears} years)`;
-          console.log(`   ✅ STEP 3 - ${category}`);
+          category = `INCLUDED - Acceptable experience (${maxYears} years)`;
+          console.log(`   ✅ ${category}`);
         }
-      }
-      
-      // STEP 4: If no clear description or years mentioned, mark as unclear (INCLUDE by default)
-      else {
+      } else {
         shouldInclude = true;
         if (isSearchQueryFormat) {
-          category = `INCLUDED - Search query format, no filtering applied`;
-          reason = `Search query generated description`;
-        } else if (titleAnalysis.level === 'unclear') {
-          category = `INCLUDED - Unclear level, no experience requirements (assuming entry-friendly)`;
-          reason = `No clear barriers identified`;
+          category = `INCLUDED - Search query format`;
+          reason = `No filtering applied`;
+        } else {
+          category = `INCLUDED - No clear barriers`;
+          reason = `Assuming entry-friendly`;
         }
-        console.log(`   ✅ STEP 4 - ${category}`);
+        console.log(`   ✅ ${category}`);
       }
     }
     
-    // STEP 5: Check education requirements (if still included)
+    // STEP 4: Check education requirements
     if (shouldInclude && educationAnalysis.level === 'too_advanced') {
       shouldInclude = false;
-      reason = `Requires advanced degree (${educationAnalysis.matchedRequirement})`;
-      category = `EXCLUDED - Advanced degree required: ${educationAnalysis.matchedRequirement}`;
-      console.log(`   ❌ STEP 5 - Education: ${category}`);
+      reason = `Requires: ${educationAnalysis.matchedRequirement}`;
+      category = `EXCLUDED - Advanced degree`;
+      console.log(`   ❌ ${category}`);
     }
     
     // Final decision
     if (shouldInclude) {
-      console.log(`   ✅ FINAL DECISION: INCLUDED`);
+      console.log(`   ✅ FINAL: INCLUDED`);
       filteredJobs.push(job);
     } else {
-      console.log(`   ❌ FINAL DECISION: EXCLUDED - ${reason}`);
+      console.log(`   ❌ FINAL: EXCLUDED - ${reason}`);
       removedJobs.push({ ...job, removal_reason: reason, category: category });
     }
   });
   
-  // Summary logging
-  console.log(`\n${'='.repeat(50)}`);
+  // Summary
+  console.log(`\n${'='.repeat(60)}`);
   console.log(`🎯 JOB LEVEL FILTERING SUMMARY`);
-  console.log(`${'='.repeat(50)}`);
+  console.log(`${'='.repeat(60)}`);
   console.log(`📊 Original jobs: ${jobs.length}`);
-  console.log(`✅ Suitable jobs (entry/mid-level): ${filteredJobs.length} (${((filteredJobs.length/jobs.length)*100).toFixed(1)}%)`);
-  console.log(`❌ Removed jobs (senior/advanced): ${removedJobs.length} (${((removedJobs.length/jobs.length)*100).toFixed(1)}%)`);
+  console.log(`✅ Included (entry/mid): ${filteredJobs.length} (${((filteredJobs.length/jobs.length)*100).toFixed(1)}%)`);
+  console.log(`❌ Excluded (senior/advanced): ${removedJobs.length} (${((removedJobs.length/jobs.length)*100).toFixed(1)}%)`);
   
-  const searchQueryJobs = jobs.filter(job => isSearchQueryDescription(job.job_description));
-  if (searchQueryJobs.length > 0) {
-    console.log(`🎯 Search query format jobs found: ${searchQueryJobs.length} (protected from description-based filtering)`);
+  if (removedJobs.length > 0) {
+    const removalReasons = {};
+    removedJobs.forEach(job => {
+      const reason = job.category || job.removal_reason;
+      removalReasons[reason] = (removalReasons[reason] || 0) + 1;
+    });
+    
+    console.log(`\n📈 EXCLUSION BREAKDOWN:`);
+    Object.entries(removalReasons)
+      .sort((a, b) => b[1] - a[1])
+      .forEach(([reason, count]) => {
+        const percentage = ((count / removedJobs.length) * 100).toFixed(1);
+        console.log(`   • ${reason}: ${count} jobs (${percentage}%)`);
+      });
   }
   
-  const removalReasons = {};
-  removedJobs.forEach(job => {
-    const reason = job.removal_reason;
-    removalReasons[reason] = (removalReasons[reason] || 0) + 1;
-  });
-  
-  console.log(`\n📈 REMOVAL REASONS BREAKDOWN:`);
-  Object.entries(removalReasons).forEach(([reason, count]) => {
-    const percentage = ((count / removedJobs.length) * 100).toFixed(1);
-    console.log(`   • ${reason}: ${count} jobs (${percentage}%)`);
-  });
-  
-  console.log(`\n${'='.repeat(50)}`);
+  console.log(`${'='.repeat(60)}\n`);
   
   return filteredJobs;
 }
