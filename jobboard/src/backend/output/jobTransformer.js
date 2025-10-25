@@ -249,11 +249,35 @@ function parseLocation(locationText) {
   }
 
   cleanLocation = removeAddressComponents(cleanLocation);
-  cleanLocation = removeDuplicatedPhrases(cleanLocation);
   
-  // Remove duplicated city names across commas (e.g., "Santa Clara, Santa Clara, CA")
-  const cityDupPattern = /\b([A-Za-z\s]+),\s*\1\b/gi;
-  cleanLocation = cleanLocation.replace(cityDupPattern, '$1');
+  // Remove city name duplications with content in between
+  // Pattern: "Santa Clara [anything] Santa Clara, State"
+  const commaParts = cleanLocation.split(',').map(p => p.trim());
+  
+  if (commaParts.length >= 2) {
+    const lastPart = commaParts[commaParts.length - 1];
+    const stateCheck = normalizeState(lastPart);
+    
+    if (stateCheck) {
+      const beforeState = commaParts.slice(0, -1).join(',').trim();
+      const wordsInLocation = beforeState.split(/\s+/);
+      
+      for (let cityWordCount = 1; cityWordCount <= 3; cityWordCount++) {
+        if (cityWordCount > wordsInLocation.length) break;
+        
+        const potentialCity = wordsInLocation.slice(0, cityWordCount).join(' ');
+        const potentialCityLower = potentialCity.toLowerCase();
+        const restOfLocation = wordsInLocation.slice(cityWordCount).join(' ').toLowerCase();
+        
+        if (restOfLocation.includes(potentialCityLower)) {
+          cleanLocation = potentialCity + ', ' + lastPart;
+          break;
+        }
+      }
+    }
+  }
+  
+  cleanLocation = removeDuplicatedPhrases(cleanLocation);
 
   cleanLocation = cleanLocation
     .replace(/\s+US\s*,/gi, ',')

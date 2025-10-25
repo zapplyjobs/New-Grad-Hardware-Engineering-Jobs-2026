@@ -146,7 +146,7 @@ function filterJobsByLevel(jobs) {
     'junior', 'jr.', 'jr ', 'entry', 'entry-level', 'entry level',
     'graduate', 'new grad', 'new graduate', 'recent graduate', 
     'college graduate', 'university graduate', 'fresh graduate',
-    , 'trainee', 'apprentice', 'rotational',
+    'intern', 'internship', 'trainee', 'apprentice', 'rotational',
     'graduate program', 'training program', 'development program',
     'associate', 'fresh', 'beginner', 'starting', 'early career',
     'level 1', 'level i', 'grade 1', 'tier 1', '0-2 years'
@@ -176,7 +176,7 @@ function filterJobsByLevel(jobs) {
   // Pattern to detect search query formatted descriptions
   function isSearchQueryDescription(description) {
     if (!description) return false;
-    o
+    
     const searchQueryPattern = /\b\w+\s+job\s+for\s+the\s+role\s+\w+/i;
     const isSearchQuery = searchQueryPattern.test(description);
     
@@ -411,6 +411,7 @@ function filterJobsByLevel(jobs) {
   
   return filteredJobs;
 }
+
 
 
 function isUSOnlyJob(job) {
