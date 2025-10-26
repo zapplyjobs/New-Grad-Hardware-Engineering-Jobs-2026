@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 9+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 8+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -17,8 +17,8 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 33 
-- **🏢 Companies**: 9 elite tech companies
+- **🔥 Active Positions**: 32 
+- **🏢 Companies**: 8 elite tech companies
 - **⭐ FAANG+ Jobs**: 21 premium opportunities  
 - **📅 Last Updated**: October 26, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
@@ -106,14 +106,6 @@
 |------|----------|-----------|-----|
 | Electrical Engineer, Mid | Eglin AFB, FL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Eglin-AFB-FL/Electrical-Engineer--Mid_R0228452?q=hardware+engineering) | 3d |
 
-### 🛒 **Consumer & E-Commerce** (1 position)
-
-#### 🚙 **RIVIAN** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Security Firmware Engineer | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/26527/login) | 1d |
-
 ### 🏭 **Manufacturing & Industrial** (2 positions)
 
 #### 💾 **Micron Technology** (2 positions)
@@ -149,8 +141,8 @@ No companies available
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 2 | 6% | No or minimal experience |
-| 🟡 Beginner & Early Career | 24 | 73% | 1-2 years of experience |
-| 🔴 Manager         | 7 | 21% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 23 | 72% | 1-2 years of experience |
+| 🔴 Manager         | 7 | 22% | 2+ years of experience |
 
 ---
 
@@ -162,14 +154,14 @@ No companies available
 - **Cupertino, CA**: 3 positions
 - **San Jose 2100 Logic Drive San Jose, CA**: 1 positions
 - **Santa Clara 2485 Augustine Drive Santa Clara, CA**: 1 positions
-- **Palo Alto, CA**: 1 positions
 - **dison, WI**: 1 positions
+- **Redmond, WA**: 1 positions
 
 ---
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 33+ verified CS internships and entry-level hardware roles from 9 elite tech companies.
+✅ **100% Real Jobs:** 32+ verified CS internships and entry-level hardware roles from 8 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -228,7 +220,7 @@ No companies available
 
 ### **Archived Job Stats**
 - **📁 Total Jobs**: 10 positions
-- **🏢 Companies**: 9 companies  
+- **🏢 Companies**: 8 companies  
 - **⭐ FAANG+ Jobs & Internships**: 5 roles
 
 ### ⭐ **FAANG+** (5 positions)
@@ -290,7 +282,7 @@ No companies available
 
 <div align="center">
 
-**🎯 33 current opportunities from 9 elite companies.**
+**🎯 32 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
