@@ -20,7 +20,7 @@
 - **🔥 Active Positions**: 33 
 - **🏢 Companies**: 9 elite tech companies
 - **⭐ FAANG+ Jobs**: 21 premium opportunities  
-- **📅 Last Updated**: October 26, 2025
+- **📅 Last Updated**: October 27, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 9 (older than 1 week)
 
@@ -36,7 +36,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Electrical Engineer, Inter-satellite Link Avionics | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3113776/electrical-engineer-inter-satellite-link-avionics) | 4d |
+| Electrical Engineer, Inter-satellite Link Avionics | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3113776/electrical-engineer-inter-satellite-link-avionics) | 5d |
 
 <details>
 <summary><h4>🟢 <strong>Google</strong> (16 positions)</h4></summary>
@@ -66,10 +66,10 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Electrical Engineer - Camera Hardware | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627419-0836/electrical-engineer-camera-hardware?team=HRDWR) | 5d |
-| RF/mmW Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627767-3956/rf-mmw-hardware-design-engineer?team=HRDWR) | 4d |
-| Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200586649-0836/hardware-systems-validation-engineer?team=HRDWR) | 2d |
-| Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627369-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 4d |
+| Electrical Engineer - Camera Hardware | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627419-0836/electrical-engineer-camera-hardware?team=HRDWR) | 6d |
+| RF/mmW Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627767-3956/rf-mmw-hardware-design-engineer?team=HRDWR) | 5d |
+| Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200586649-0836/hardware-systems-validation-engineer?team=HRDWR) | 3d |
+| Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627369-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 5d |
 
 ### 🏢 **Top Tech** (7 positions)
 
@@ -297,6 +297,6 @@ No companies available
 
 ---
 
-**Last Updated:** October 26, 2025 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** October 27, 2025 • **Next Update:** Daily at 9 AM UTC
 
 </div>
