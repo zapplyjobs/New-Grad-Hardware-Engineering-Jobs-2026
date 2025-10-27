@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "iPhone Hardware Systems Validation Engineer",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "23h",
+    "job_description": "• Minimum QualificationsBachelors in Electrical / Computer EngineeringExpertise with hardware bring-up and bench-top measurements with lab equipment (e.\n• Digital oscilloscope, logic analyzer, power supply) for signal and power integrityStrong communication and people skills.\n• Able to work with cross functional teams on a regular basis.\n• Basic understanding of both low-speed and high-speed digital interfacesFamiliarity with power electronics, especially DC-DC converters.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200628398-0836/iphone-hardware-systems-validation-engineer?team=HRDWR",
+    "id": "apple-iphone-hardware-systems-validation-engineer-cupertino"
+  }
+]
