@@ -17,9 +17,9 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 35 
+- **🔥 Active Positions**: 36 
 - **🏢 Companies**: 10 elite tech companies
-- **⭐ FAANG+ Jobs**: 21 premium opportunities  
+- **⭐ FAANG+ Jobs**: 22 premium opportunities  
 - **📅 Last Updated**: October 27, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 8 (older than 1 week)
@@ -30,7 +30,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (21 positions)
+### ⭐ **FAANG+** (22 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -39,7 +39,7 @@
 | Electrical Engineer, Inter-satellite Link Avionics | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3113776/electrical-engineer-inter-satellite-link-avionics) | 5d |
 
 <details>
-<summary><h4>🟢 <strong>Google</strong> (16 positions)</h4></summary>
+<summary><h4>🟢 <strong>Google</strong> (17 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -57,6 +57,7 @@
 | Design Verification Engineer, Google Cloud | dison, WI | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96988272692994758-design-verification-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1h |
 | Design Verification Engineer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/134560610091180742-design-verification-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1h |
 | ASIC Design Engineer, Machine Learning | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/109138331849106118-asic-design-engineer-machine-learning?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1h |
+| ASIC Design Verification and Methodology Engineer, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113291127137673926-asic-design-verification-and-methodology-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1h |
 | ASIC Design Verification Engineer, Devices and Services | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/89426246181495494-asic-design-verification-engineer-devices-and-services?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1h |
 | SoC DFT Engineer, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/93961830430319302-soc-dft-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1h |
 
@@ -139,7 +140,7 @@
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (16 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (4) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (17 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (4) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -155,16 +156,16 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 3 | 9% | No or minimal experience |
-| 🟡 Beginner & Early Career | 23 | 66% | 1-2 years of experience |
-| 🔴 Manager         | 9 | 26% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 3 | 8% | No or minimal experience |
+| 🟡 Beginner & Early Career | 24 | 67% | 1-2 years of experience |
+| 🔴 Manager         | 9 | 25% | 2+ years of experience |
 
 ---
 
 ## 🌍 **Top Locations**
 
 - **Mountain View, CA**: 10 positions
-- **Sunnyvale, CA**: 6 positions
+- **Sunnyvale, CA**: 7 positions
 - **Austin 7171 Southwest Parkway Austin, TX**: 3 positions
 - **Cupertino, CA**: 3 positions
 - **San Jose 2100 Logic Drive San Jose, CA**: 1 positions
@@ -176,7 +177,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 35+ verified CS internships and entry-level hardware roles from 10 elite tech companies.
+✅ **100% Real Jobs:** 36+ verified CS internships and entry-level hardware roles from 10 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -290,7 +291,7 @@ No companies available
 
 <div align="center">
 
-**🎯 35 current opportunities from 10 elite companies.**
+**🎯 36 current opportunities from 10 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
