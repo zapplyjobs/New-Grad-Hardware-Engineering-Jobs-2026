@@ -17,7 +17,7 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 34 
+- **🔥 Active Positions**: 35 
 - **🏢 Companies**: 10 elite tech companies
 - **⭐ FAANG+ Jobs**: 21 premium opportunities  
 - **📅 Last Updated**: October 27, 2025
@@ -71,7 +71,7 @@
 | Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200586649-0836/hardware-systems-validation-engineer?team=HRDWR) | 3d |
 | Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627369-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 5d |
 
-### 🏢 **Top Tech** (6 positions)
+### 🏢 **Top Tech** (7 positions)
 
 #### 🎮 **NVIDIA** (2 positions)
 
@@ -80,7 +80,7 @@
 | ASIC Design Engineer - Hardware 🏠 | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Engineer---Hardware_JR1993847-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 4d |
 | ASIC Floorplan Design Engineer - New College Grad | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2025_JR1997894?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 5d |
 
-#### 🔶 **AMD** (4 positions)
+#### 🔶 **AMD** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -88,6 +88,7 @@
 | Hardware Validation Engineer – Infrastructure & Tooling | Austin 7171 Southwest Parkway Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/68057/login) | 1d |
 | System & Hardware Validation and DVT Engineer | San Jose 2100 Logic Drive San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72391/login) | 1d |
 | System Hardware Development & Validation Engineer | Santa Clara 2485 Augustine Drive Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/70939/login) | 1d |
+| Design Verification Engineer- GPU Diagnostics | Austin 7171 Southwest Parkway Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/58351/login) | 1d |
 
 ### 💻 **Enterprise Software** (3 positions)
 
@@ -146,7 +147,7 @@ No companies available
 
 
 #### ☁️ **Enterprise & Cloud** (4 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (2 positions) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (2) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (4)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (2 positions) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (2) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5)
 
 ---
 
@@ -155,8 +156,8 @@ No companies available
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 2 | 6% | No or minimal experience |
-| 🟡 Beginner & Early Career | 24 | 71% | 1-2 years of experience |
-| 🔴 Manager         | 8 | 24% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 24 | 69% | 1-2 years of experience |
+| 🔴 Manager         | 9 | 26% | 2+ years of experience |
 
 ---
 
@@ -164,8 +165,8 @@ No companies available
 
 - **Mountain View, CA**: 10 positions
 - **Sunnyvale, CA**: 6 positions
+- **Austin 7171 Southwest Parkway Austin, TX**: 3 positions
 - **Cupertino, CA**: 3 positions
-- **Austin 7171 Southwest Parkway Austin, TX**: 2 positions
 - **San Jose 2100 Logic Drive San Jose, CA**: 1 positions
 - **Santa Clara 2485 Augustine Drive Santa Clara, CA**: 1 positions
 - **Palo Alto, CA**: 1 positions
@@ -175,7 +176,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 34+ verified CS internships and entry-level hardware roles from 10 elite tech companies.
+✅ **100% Real Jobs:** 35+ verified CS internships and entry-level hardware roles from 10 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -289,7 +290,7 @@ No companies available
 
 <div align="center">
 
-**🎯 34 current opportunities from 10 elite companies.**
+**🎯 35 current opportunities from 10 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
