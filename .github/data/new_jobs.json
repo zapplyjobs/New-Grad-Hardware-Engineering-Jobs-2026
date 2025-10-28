@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AMD",
+    "job_title": "Design Verification Engineer",
+    "job_city": "Austin 7171 Southwest Parkway Austin",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• Proficient in System Verilog, object oriented programming, and scripting (using Ruby, Perl, Python and Makefile)Proven skills in creating UVC and other UVM components.\n• Experience with C-DPI and FPV techniques are valuable assets.\n• AXI, AHB, AMBA)Proven experience with ASIC verification tools: simulation, debugging, linting, power aware simulation, etc.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Bachelor's Degree or Master's Degree in Electrical Engineering, Computer Engineering, or Computer Science, or possibly a related fieldMaster's Degree preferred.\n• Proven understanding of MP subsystem and/or common hardware datapath accelerator architectures as well as deep knowledge on applicable state-of-art verification methodology and best practices.\n• Excellent understanding of standard bus/interface protocols (i.\n• Relevant design domain specific knowledge and technical leadership capability.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/67993/login",
+    "id": "amd-design-verification-engineer-austin-7171-southwest-parkway-austin"
+  }
+]
