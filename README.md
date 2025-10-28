@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 9+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 10+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -17,8 +17,8 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 33 
-- **🏢 Companies**: 9 elite tech companies
+- **🔥 Active Positions**: 34 
+- **🏢 Companies**: 10 elite tech companies
 - **⭐ FAANG+ Jobs**: 22 premium opportunities  
 - **📅 Last Updated**: October 28, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
@@ -105,6 +105,14 @@
 |------|----------|-----------|-----|
 | R&D Engineer Hardware | USA-CA San Jose Innovation Drive | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-Hardware-5_R023955?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
+### 🚀 **Startups & Growth** (1 position)
+
+#### 🛡️ **BAE Systems** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Electrical Engineer, Mid | Eglin AFB, FL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Eglin-AFB-FL/Electrical-Engineer--Mid_R0228452?q=hardware+engineering) | 5d |
+
 ### 🛒 **Consumer & E-Commerce** (1 position)
 
 #### 🚙 **RIVIAN** (1 position)
@@ -146,9 +154,9 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 3 | 9% | No or minimal experience |
-| 🟡 Beginner & Early Career | 24 | 73% | 1-2 years of experience |
-| 🔴 Manager         | 6 | 18% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 2 | 6% | No or minimal experience |
+| 🟡 Beginner & Early Career | 25 | 74% | 1-2 years of experience |
+| 🔴 Manager         | 7 | 21% | 2+ years of experience |
 
 ---
 
@@ -167,7 +175,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 33+ verified CS internships and entry-level hardware roles from 9 elite tech companies.
+✅ **100% Real Jobs:** 34+ verified CS internships and entry-level hardware roles from 10 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -226,7 +234,7 @@ No companies available
 
 ### **Archived Job Stats**
 - **📁 Total Jobs**: 10 positions
-- **🏢 Companies**: 9 companies  
+- **🏢 Companies**: 10 companies  
 - **⭐ FAANG+ Jobs & Internships**: 6 roles
 
 ### ⭐ **FAANG+** (6 positions)
@@ -283,7 +291,7 @@ No companies available
 
 <div align="center">
 
-**🎯 33 current opportunities from 9 elite companies.**
+**🎯 34 current opportunities from 10 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
