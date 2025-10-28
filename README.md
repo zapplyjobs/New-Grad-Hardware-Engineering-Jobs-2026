@@ -17,7 +17,7 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 36 
+- **🔥 Active Positions**: 35 
 - **🏢 Companies**: 10 elite tech companies
 - **⭐ FAANG+ Jobs**: 22 premium opportunities  
 - **📅 Last Updated**: October 28, 2025
@@ -122,13 +122,12 @@
 |------|----------|-----------|-----|
 | Security Firmware Engineer | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/26527/login) | 1d |
 
-### 🏭 **Manufacturing & Industrial** (2 positions)
+### 🏭 **Manufacturing & Industrial** (1 position)
 
-#### 💾 **Micron Technology** (2 positions)
+#### 💾 **Micron Technology** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| MTS Circuit Design Engineer, HSIO | Folsom, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30868369) | 4d |
 | Engineer, Electrical Design – FPGA/ASIC | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30512424) | 4d |
 
 
@@ -157,8 +156,8 @@ No companies available
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 2 | 6% | No or minimal experience |
-| 🟡 Beginner & Early Career | 25 | 69% | 1-2 years of experience |
-| 🔴 Manager         | 9 | 25% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 25 | 71% | 1-2 years of experience |
+| 🔴 Manager         | 8 | 23% | 2+ years of experience |
 
 ---
 
@@ -177,7 +176,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 36+ verified CS internships and entry-level hardware roles from 10 elite tech companies.
+✅ **100% Real Jobs:** 35+ verified CS internships and entry-level hardware roles from 10 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -292,7 +291,7 @@ No companies available
 
 <div align="center">
 
-**🎯 36 current opportunities from 10 elite companies.**
+**🎯 35 current opportunities from 10 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
