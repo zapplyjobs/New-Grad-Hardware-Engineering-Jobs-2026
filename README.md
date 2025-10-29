@@ -60,7 +60,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Cellular RF Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200623034-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 16h |
+| Cellular RF Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200623034-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 17h |
 | Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200586649-0836/hardware-systems-validation-engineer?team=HRDWR) | 5d |
 | iPhone Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628398-0836/iphone-hardware-systems-validation-engineer?team=HRDWR) | 2d |
 
@@ -138,8 +138,8 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 2 | 7% | No or minimal experience |
-| 🟡 Beginner & Early Career | 21 | 70% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 4 | 13% | No or minimal experience |
+| 🟡 Beginner & Early Career | 19 | 63% | 1-2 years of experience |
 | 🔴 Manager         | 7 | 23% | 2+ years of experience |
 
 ---
