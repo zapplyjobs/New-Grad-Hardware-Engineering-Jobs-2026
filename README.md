@@ -17,9 +17,9 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 31 
+- **🔥 Active Positions**: 32 
 - **🏢 Companies**: 8 elite tech companies
-- **⭐ FAANG+ Jobs**: 20 premium opportunities  
+- **⭐ FAANG+ Jobs**: 21 premium opportunities  
 - **📅 Last Updated**: October 30, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 12 (older than 1 week)
@@ -30,7 +30,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (20 positions)
+### ⭐ **FAANG+** (21 positions)
 
 <details>
 <summary><h4>🟢 <strong>Google</strong> (16 positions)</h4></summary>
@@ -56,11 +56,12 @@
 
 </details>
 
-#### 🍎 **Apple** (4 positions)
+#### 🍎 **Apple** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628727-0836/hardware-electrical-engineer?team=HRDWR) | 1d |
+| Camera Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629239-0836/camera-hardware-electrical-engineer?team=HRDWR) | 1h |
 | Cellular RF Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200623034-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 1d |
 | Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200586649-0836/hardware-systems-validation-engineer?team=HRDWR) | 6d |
 | iPhone Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628398-0836/iphone-hardware-systems-validation-engineer?team=HRDWR) | 3d |
@@ -123,7 +124,7 @@
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (2 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (16 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (4)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (16 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (5)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -139,9 +140,9 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 2 | 6% | No or minimal experience |
-| 🟡 Beginner & Early Career | 22 | 71% | 1-2 years of experience |
-| 🔴 Manager         | 7 | 23% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 5 | 16% | No or minimal experience |
+| 🟡 Beginner & Early Career | 20 | 63% | 1-2 years of experience |
+| 🔴 Manager         | 7 | 22% | 2+ years of experience |
 
 ---
 
@@ -150,7 +151,7 @@ No companies available
 - **Mountain View, CA**: 10 positions
 - **Sunnyvale, CA**: 6 positions
 - **Austin 7171 Southwest Parkway Austin, TX**: 4 positions
-- **Cupertino, CA**: 3 positions
+- **Cupertino, CA**: 4 positions
 - **Santa Clara 2485 Augustine Drive Santa Clara, CA**: 2 positions
 - **Palo Alto, CA**: 1 positions
 - **dison, WI**: 1 positions
@@ -160,7 +161,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 31+ verified CS internships and entry-level hardware roles from 8 elite tech companies.
+✅ **100% Real Jobs:** 32+ verified CS internships and entry-level hardware roles from 8 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -285,7 +286,7 @@ No companies available
 
 <div align="center">
 
-**🎯 31 current opportunities from 8 elite companies.**
+**🎯 32 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
