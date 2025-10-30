@@ -77,7 +77,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Security Firmware Engineer | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/26527/login) | 9h |
+| Security Firmware Engineer | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/26527/login) | 10h |
 
 ### 🏭 **Manufacturing & Industrial** (3 positions)
 
