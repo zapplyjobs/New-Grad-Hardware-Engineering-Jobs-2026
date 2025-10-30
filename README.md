@@ -85,7 +85,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Engineer, Electrical Design – FPGA/ASIC | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30512424) | 21h |
+| Engineer, Electrical Design – FPGA/ASIC | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30512424) | 1h |
 
 
 
@@ -120,7 +120,6 @@ No companies available
 
 ## 🌍 **Top Locations**
 
-- **Palo Alto, CA**: 1 positions
 - **Boise, ID**: 1 positions
 - **Palo Alto, CA**: 1 positions
 
