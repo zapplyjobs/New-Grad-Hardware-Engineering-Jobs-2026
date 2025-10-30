@@ -1,6 +1,6 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Job opportunities from 6+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 5+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -17,8 +17,8 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 30 
-- **🏢 Companies**: 6 elite tech companies
+- **🔥 Active Positions**: 29 
+- **🏢 Companies**: 5 elite tech companies
 - **⭐ FAANG+ Jobs**: 21 premium opportunities  
 - **📅 Last Updated**: October 30, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
@@ -61,7 +61,7 @@
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628727-0836/hardware-electrical-engineer?team=HRDWR) | 1d |
-| Camera Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629239-0836/camera-hardware-electrical-engineer?team=HRDWR) | 9h |
+| Camera Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629239-0836/camera-hardware-electrical-engineer?team=HRDWR) | 10h |
 | Cellular RF Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200623034-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 1d |
 | Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200586649-0836/hardware-systems-validation-engineer?team=HRDWR) | 6d |
 | iPhone Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628398-0836/iphone-hardware-systems-validation-engineer?team=HRDWR) | 3d |
@@ -79,19 +79,13 @@
 | Design Verification Engineer- GPU Diagnostics | Austin 7171 Southwest Parkway Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/58351/login) | 1d |
 | Design Verification Engineer | Austin 7171 Southwest Parkway Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/67993/login) | 1d |
 
-### 💻 **Enterprise Software** (2 positions)
+### 💻 **Enterprise Software** (1 position)
 
 #### 🖥️ **Hewlett Packard Enterprise** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | High Performance Computing Hardware Engineer,Top Secret Clearance Required, On-Site, Aberdeen, MD, 10K Sign-On Bonus | All, MD | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/All-Maryland-United-States-of-America/High-Performance-Computing-Hardware-Engineer-Top-Secret-Clearance-Required--On-Site--Aberdeen--MD--10K-Sign-On-Bonus_1196800-1?q=hardware+engineering&locations=e459dee6bf0a01f51082fd2708240d5c&locations=3950c424ea1c01d5b87223aa442cc958&locations=e69f9781661b10219199635d840babb5&locations=bb84e32ded880145afe5d2d0dd2b5c62&locations=f607629c2aa1010d124a5599402c703f&locations=e69f9781661b102191a28884e0f0b85f&locations=e459dee6bf0a01607d49d56409244b64&locations=e69f9781661b1021919815e9ca32a9ee&locations=bb84e32ded88013ee847c281d92b6745&locations=90058e87ba0e1001d2f4d7e27b0d0000&locations=47385449f64a017d4c903202dc2b5657&locations=98cbd30d374e10330ceffda6d7a4fc41&locations=2e0d9cc9554b01deafe88869442cb356&locations=acac3e510b17018644380803dc2b7f55&locations=bb84e32ded88017f2a05da01dc2b4656&locations=2e0d9cc9554b01761ed1696d442cbe56&locations=62b0c47c914b015d3c97fb6707248955&locations=acac3e510b1701630be274ffdb2b6d55&locations=98cbd30d374e10330cf05e491004fc5f&locations=cc3bff87cf8101bded44c0f2dc00e375&locations=f607629c2aa10196b908a08e462c0567) | 4d |
-
-#### 📡 **Broadcom** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| R&D Engineer Hardware 🏠 | USA-CA San Jose Innovation Drive | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-Hardware-5_R023955?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3d |
 
 ### 🛒 **Consumer & E-Commerce** (1 position)
 
@@ -117,8 +111,8 @@
 No companies available
 
 
-#### ☁️ **Enterprise & Cloud** (3 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (6)
+#### ☁️ **Enterprise & Cloud** (2 companies)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (6)
 
 ---
 
@@ -127,8 +121,8 @@ No companies available
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 5 | 17% | No or minimal experience |
-| 🟡 Beginner & Early Career | 20 | 67% | 1-2 years of experience |
-| 🔴 Manager         | 5 | 17% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 20 | 69% | 1-2 years of experience |
+| 🔴 Manager         | 4 | 14% | 2+ years of experience |
 
 ---
 
@@ -141,13 +135,13 @@ No companies available
 - **Santa Clara 2485 Augustine Drive Santa Clara, CA**: 2 positions
 - **Palo Alto, CA**: 1 positions
 - **dison, WI**: 1 positions
-- **USA-CA San Jose Innovation Drive**: 1 positions
+- **All, MD**: 1 positions
 
 ---
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 30+ verified CS internships and entry-level hardware roles from 6 elite tech companies.
+✅ **100% Real Jobs:** 29+ verified CS internships and entry-level hardware roles from 5 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -206,7 +200,7 @@ No companies available
 
 ### **Archived Job Stats**
 - **📁 Total Jobs**: 15 positions
-- **🏢 Companies**: 6 companies  
+- **🏢 Companies**: 5 companies  
 - **⭐ FAANG+ Jobs & Internships**: 7 roles
 
 ### ⭐ **FAANG+** (7 positions)
@@ -275,7 +269,7 @@ No companies available
 
 <div align="center">
 
-**🎯 30 current opportunities from 6 elite companies.**
+**🎯 29 current opportunities from 5 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
