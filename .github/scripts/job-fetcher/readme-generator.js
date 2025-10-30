@@ -221,7 +221,48 @@ async function generateReadme(
     companies.faang_plus.some((c) => c.name === job.employer_name)
   ).length;
 
-  return `# 💼 2026 New Grad Jobs by Zapply
+    return `<div align="center">
+
+<!-- Banner -->
+<img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
+
+<h3>💼 New Grad Hardware Engineering Jobs 2025-2026</h3>
+<p><em>Real-time job opportunities from ${totalCompanies}</em></p>
+
+<br>
+
+<!-- Row 1: Job Stats (Custom Static Badges) -->
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-${currentJobs.length}-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-${faangJobs}-red?style=flat&logo=star)
+![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
+
+<!-- Row 2: Repository Stats -->
+![GitHub stars](https://img.shields.io/github/stars/zapplyjobs/New-Grad-Hardware-Engineering-Jobs?style=flat&logo=github&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/zapplyjobs/New-Grad-Hardware-Engineering-Jobs?style=flat&logo=github&color=blue)
+![Last commit](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-Hardware-Engineering-Jobs?style=flat&color=red)
+![Contributors](https://img.shields.io/github/contributors/zapplyjobs/New-Grad-Hardware-Engineering-Jobs?style=flat&color=green)
+
+<!-- Row 3: Workflow Health -->
+![Update Jobs](https://img.shields.io/github/actions/workflow/status/zapplyjobs/New-Grad-Hardware-Engineering-Jobs/update-jobs.yml?style=flat&label=job-updates&logo=github-actions&logoColor=white)
+
+<!-- Row 4: Community & Links (for-the-badge style) -->
+[![Browse Jobs](https://img.shields.io/badge/Browse_Jobs-Live_Site-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://new-grad-positions.vercel.app/)
+[![Zapply](https://img.shields.io/badge/Zapply-Company_Site-4F46E5?style=for-the-badge&logo=zap&logoColor=white)](https://zapply-jobs.vercel.app/)
+[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
+[![Reddit](https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Zapply/)
+[![Report Issue](https://img.shields.io/badge/Report_Issue-Bug_Tracker-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs/issues)
+
+<!-- Zapply extension badge - add when extension launches -->
+<!-- [![Zapply Extension](https://img.shields.io/badge/Extension-Apply_Faster-4F46E5?style=for-the-badge&logo=chrome&logoColor=white)](https://zapply-extension-url) -->
+
+</div>
+
+---
+    
+  
+  # 💼 2026 New Grad Hardware Engineering Jobs by Zapply
 
 **🚀 Job opportunities from ${totalCompanies}+ top companies • Updated daily • US Positions**
 
