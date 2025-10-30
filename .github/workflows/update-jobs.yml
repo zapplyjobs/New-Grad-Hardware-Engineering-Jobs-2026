@@ -3,7 +3,7 @@ name: Update Zapply Jobs
 on:
   schedule:
     # Run every hour
-    - cron: '*/20 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch: # Allow manual triggering
   push:
     branches: [ main ]
@@ -29,8 +29,9 @@ jobs:
         
         
     - name: Install scraper dependencies
-      working-directory: jobboard
-      run: npm install puppeteer
+      run: |
+        npm install puppeteer
+        npx puppeteer browsers install chrome
       
     - name: Update job listings
       env:
@@ -78,20 +79,28 @@ jobs:
         Updated categories, locations, and experience levels
         Next update tomorrow"
         
-    - name: Push changes
+    - name: 🔄 Pull latest changes
       if: steps.verify-changed-files.outputs.changed == 'true'
       run: |
-        # Pull latest changes and rebase our commit on top
-        git pull --rebase origin main || {
-          echo "Rebase failed, trying merge strategy..."
-          git rebase --abort 2>/dev/null || true
-          git pull origin main --no-edit || {
-            echo "Merge also failed, attempting force push of our changes..."
-            git push origin main --force-with-lease
-          }
-        }
-        # Push the changes
-        git push origin main
+          echo "📥 Pulling latest changes with rebase (ours strategy) to avoid conflicts..."
+           git fetch origin main
+           git rebase origin/main --strategy-option=ours || git merge -X ours origin/main --no-edit
+           echo "✅ Pull completed successfully!"
+    - name: 🚀 Push updated changes with retry logic
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        echo "🚀 Pushing changes with retry logic..."
+        for i in 1 2 3; do
+          echo "Push attempt $i of 3..."
+          if git push origin main; then
+            echo "✅ Successfully pushed changes!"
+            break
+          else
+            echo "⚠️ Push failed — pulling latest changes before retry..."
+            git pull origin main --rebase --autostash || git pull origin main --no-edit
+            sleep 5
+          fi
+        done
         
     - name: Create job summary
       run: |
