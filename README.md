@@ -4,13 +4,13 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Hardware Engineering Jobs 2025-2026</h3>
-<p><em>Real-time job opportunities from 3</em></p>
+<p><em>Real-time job opportunities from 2</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-4-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-2-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-2-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -41,7 +41,7 @@
   
   # 💼 2026 New Grad Hardware Engineering Jobs by Zapply
 
-**🚀 Job opportunities from 3+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 2+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -58,8 +58,8 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 4 
-- **🏢 Companies**: 3 elite tech companies
+- **🔥 Active Positions**: 2 
+- **🏢 Companies**: 2 elite tech companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities  
 - **📅 Last Updated**: October 30, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
@@ -77,22 +77,15 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Security Firmware Engineer | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/26527/login) | 7h |
+| Security Firmware Engineer | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/26527/login) | 8h |
 
-### 🏭 **Manufacturing & Industrial** (3 positions)
+### 🏭 **Manufacturing & Industrial** (1 position)
 
 #### 💾 **Micron Technology** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Engineer, Electrical Design – FPGA/ASIC | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30512424) | 21h |
-
-#### ⚡ **ABB** (2 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Electrical Engineer | Pinetops, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96131302/Electrical-Engineer) | 5h |
-| Associate Electrical Engineer | Pinetops, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96131370/Associate-Electrical-Engineer) | 5h |
 
 
 
@@ -119,15 +112,14 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 2 | 50% | No or minimal experience |
-| 🟡 Beginner & Early Career | 2 | 50% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 0 | 0% | No or minimal experience |
+| 🟡 Beginner & Early Career | 2 | 100% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 **Top Locations**
 
-- **Pinetops, NC**: 2 positions
 - **Palo Alto, CA**: 1 positions
 - **Boise, ID**: 1 positions
 
@@ -135,7 +127,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 4+ verified CS internships and entry-level hardware roles from 3 elite tech companies.
+✅ **100% Real Jobs:** 2+ verified CS internships and entry-level hardware roles from 2 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -194,7 +186,7 @@ No companies available
 
 ### **Archived Job Stats**
 - **📁 Total Jobs**: 3 positions
-- **🏢 Companies**: 3 companies  
+- **🏢 Companies**: 2 companies  
 - **⭐ FAANG+ Jobs & Internships**: 0 roles
 
 ### 💻 **Enterprise Hardware** (3 positions)
@@ -223,7 +215,7 @@ No companies available
 
 <div align="center">
 
-**🎯 4 current opportunities from 3 elite companies.**
+**🎯 2 current opportunities from 2 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
