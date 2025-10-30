@@ -190,7 +190,7 @@ No companies available
 - **🏢 Companies**: 2 companies  
 - **⭐ FAANG+ Jobs & Internships**: 0 roles
 
-### 💻 **Enterprise Software** (3 positions)
+### 💻 **Enterprise Hardware** (3 positions)
 
 #### 🖥️ **Hewlett Packard Enterprise** (2 positions)
 
