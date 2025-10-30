@@ -382,7 +382,6 @@
     "applyLinkSelector": "a",
     "linkAttribute": "href",
     "locationSelector": "span.job-tile__location",
-    "postedType":"next-page",
     "postedSelector": "#main > job-details-wrapper > div > div > job-details-checker > job-details-loader > job-details-page > div > article > job-details-content > div > div.cc-page.cc-page--job-details-fullscreen > div > div > div > div:nth-child(1) > div > div > div > div.component-styling-wrapper-89164 > div > div.job-details__info-section > div > div > ul > li:nth-child(4)>span.job-meta__subitem",
     "categorySelector": "span.job-tile__category",
     "descriptionSelector": "ul",
