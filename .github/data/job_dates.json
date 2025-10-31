@@ -34,5 +34,269 @@
     "job_title": "Engineer, ID1 RAM Hardware",
     "company": "Micron Technology",
     "first_seen": "2025-10-30T22:45:44.016Z"
+  },
+  "amd-hardware-platform-design-engineer-austin": {
+    "assigned_date": "2025-10-31T12:31:22.237Z",
+    "job_title": "Hardware Platform Design Engineer",
+    "company": "AMD",
+    "first_seen": "2025-10-31T12:31:22.237Z"
+  },
+  "amd-high-speed-signal-integrity-&-power-integrity-validation-engineer-santa-clara": {
+    "assigned_date": "2025-10-31T12:31:22.237Z",
+    "job_title": "High-Speed Signal Integrity & Power Integrity Validation Engineer",
+    "company": "AMD",
+    "first_seen": "2025-10-31T12:31:22.237Z"
+  },
+  "amd-hardware-validation-engineer-–-infrastructure-&-tooling-austin": {
+    "assigned_date": "2025-10-31T12:31:22.237Z",
+    "job_title": "Hardware Validation Engineer – Infrastructure & Tooling",
+    "company": "AMD",
+    "first_seen": "2025-10-31T12:31:22.237Z"
+  },
+  "amd-system-hardware-development-&-validation-engineer-santa-clara": {
+    "assigned_date": "2025-10-31T12:31:22.237Z",
+    "job_title": "System Hardware Development & Validation Engineer",
+    "company": "AMD",
+    "first_seen": "2025-10-31T12:31:22.237Z"
+  },
+  "amd-design-verification-engineer--gpu-diagnostics-austin": {
+    "assigned_date": "2025-10-31T12:31:22.237Z",
+    "job_title": "Design Verification Engineer- GPU Diagnostics",
+    "company": "AMD",
+    "first_seen": "2025-10-31T12:31:22.237Z"
+  },
+  "amd-design-verification-engineer-austin": {
+    "assigned_date": "2025-10-31T12:31:22.237Z",
+    "job_title": "Design Verification Engineer",
+    "company": "AMD",
+    "first_seen": "2025-10-31T12:31:22.237Z"
+  },
+  "google-hardware-engineer,-platforms,-university-graduate-sunnyvale": {
+    "assigned_date": "2025-10-31T12:31:22.237Z",
+    "job_title": "Hardware Engineer, Platforms, University Graduate",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.237Z"
+  },
+  "google-camera-hardware-engineer-mountain-view": {
+    "assigned_date": "2025-10-31T12:31:22.237Z",
+    "job_title": "Camera Hardware Engineer",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.237Z"
+  },
+  "google-hardware-reliability-engineer,-beam-mountain-view": {
+    "assigned_date": "2025-10-31T12:31:22.237Z",
+    "job_title": "Hardware Reliability Engineer, Beam",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.237Z"
+  },
+  "google-hardware-manufacturing-test-engineer,-google-beam-mountain-view": {
+    "assigned_date": "2025-10-31T12:31:22.237Z",
+    "job_title": "Hardware Manufacturing Test Engineer, Google Beam",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.237Z"
+  },
+  "google-hardware-signal-integrity-test-engineer,-platforms,-university-graduate-sunnyvale": {
+    "assigned_date": "2025-10-31T12:31:22.237Z",
+    "job_title": "Hardware Signal Integrity Test Engineer, Platforms, University Graduate",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.237Z"
+  },
+  "google-fpga-engineer,-platforms,-hardware-sunnyvale": {
+    "assigned_date": "2025-10-31T12:31:22.237Z",
+    "job_title": "FPGA Engineer, Platforms, Hardware",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.237Z"
+  },
+  "google-optics-and-display-test-engineer,-consumer-hardware-mountain-view": {
+    "assigned_date": "2025-10-31T12:31:22.237Z",
+    "job_title": "Optics and Display Test Engineer, Consumer Hardware",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.237Z"
+  },
+  "google-asic-engineer,-ip-design,-silicon-mountain-view": {
+    "assigned_date": "2025-10-31T12:31:22.237Z",
+    "job_title": "ASIC Engineer, IP Design, Silicon",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.237Z"
+  },
+  "google-failure-analysis-engineer,-consumer-hardware-mountain-view": {
+    "assigned_date": "2025-10-31T12:31:22.237Z",
+    "job_title": "Failure Analysis Engineer, Consumer Hardware",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.237Z"
+  },
+  "google-silicon-validation-engineer-mountain-view": {
+    "assigned_date": "2025-10-31T12:31:22.237Z",
+    "job_title": "Silicon Validation Engineer",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.237Z"
+  },
+  "google-design-verification-engineer,-google-cloud-madison": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "Design Verification Engineer, Google Cloud",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "google-design-verification-engineer-mountain-view": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "Design Verification Engineer",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "google-asic-design-engineer,-machine-learning-mountain-view": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "ASIC Design Engineer, Machine Learning",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "google-asic-design-verification-and-methodology-engineer,-google-cloud-sunnyvale": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "ASIC Design Verification and Methodology Engineer, Google Cloud",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "google-asic-design-verification-engineer,-devices-and-services-mountain-view": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "ASIC Design Verification Engineer, Devices and Services",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "google-signal-integrity-engineer,-platforms-sunnyvale": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "Signal Integrity Engineer, Platforms",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "google-soc-dft-engineer,-google-cloud-sunnyvale": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "SoC DFT Engineer, Google Cloud",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "google-camera-firmware-engineer-mountain-view": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "Camera Firmware Engineer",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "google-physical-design-flow-and-methodology-engineer-sunnyvale": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "Physical Design Flow and Methodology Engineer",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "google-cpu-execution-unit-rtl-designer-austin": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "CPU Execution Unit RTL Designer",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "bae-systems-fpga-engineer,-mid-lexington-park": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "FPGA Engineer, Mid",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "bae-systems-electronics-engineer,-mid-odon": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "Electronics Engineer, Mid",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "bae-systems-electrical-engineer-king-george": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "Electrical Engineer",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "bae-systems-electrical-engineer,-mid-eglin-afb": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "Electrical Engineer, Mid",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "bae-systems-electronics-engineer,-mid-dahlgren": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "Electronics Engineer, Mid",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "bae-systems-radio-frequency-communications-system-engineer-nellis-afb": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "Radio Frequency Communications System Engineer",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "broadcom-r&d-engineer-hardware-usa-ca-san-jose-innovation-drive": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "R&D Engineer Hardware",
+    "company": "Broadcom",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "general-dynamics-hardware-engineer-(tactical-network---canes)---active-secret-clearance-usa-ca-san-diego": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "Hardware Engineer (Tactical Network - CANES) - Active Secret clearance",
+    "company": "General Dynamics",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "hewlett-packard-enterprise-high-performance-computing-hardware-engineer,-secret-clearance-required,-on-site,-aberdeen,-md-all": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "High Performance Computing Hardware Engineer, Secret Clearance Required, On-Site, Aberdeen, MD",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "hewlett-packard-enterprise-high-performance-computing-hardware-engineer,top-secret-clearance-required,-on-site,-aberdeen,-md,-10k-sign-on-bonus-all": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "High Performance Computing Hardware Engineer,Top Secret Clearance Required, On-Site, Aberdeen, MD, 10K Sign-On Bonus",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "hewlett-packard-enterprise-thermal-design-engineer-spring": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "Thermal Design Engineer",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "hewlett-packard-enterprise-asic-engineer-san-jose": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "ASIC Engineer",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "magna-international-hardware-test-engineer-lowell": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "Hardware Test Engineer",
+    "company": "Magna International",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "nvidia-hardware-validation-engineer-": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "Hardware Validation Engineer",
+    "company": "NVIDIA",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "nvidia-datacenter-hardware-applications-engineer-": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "Datacenter Hardware Applications Engineer",
+    "company": "NVIDIA",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "nvidia-asic-design-engineer---hardware-": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "ASIC Design Engineer - Hardware",
+    "company": "NVIDIA",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "nvidia-asic-floorplan-design-engineer---new-college-grad-": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "ASIC Floorplan Design Engineer - New College Grad",
+    "company": "NVIDIA",
+    "first_seen": "2025-10-31T12:31:22.238Z"
+  },
+  "nvidia-firmware-engineer-": {
+    "assigned_date": "2025-10-31T12:31:22.238Z",
+    "job_title": "Firmware Engineer",
+    "company": "NVIDIA",
+    "first_seen": "2025-10-31T12:31:22.238Z"
   }
 }
