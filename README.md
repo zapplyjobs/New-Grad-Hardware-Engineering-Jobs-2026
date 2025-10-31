@@ -77,7 +77,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Security Firmware Engineer | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/26527/login) | 11h |
+| Security Firmware Engineer | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/26527/login) | 12h |
 
 ### 🏭 **Manufacturing & Industrial** (4 positions)
 
@@ -85,15 +85,15 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Engineer, ID1 RAM Hardware | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38690548) | 2h |
-| Engineer, Electrical Design – FPGA/ASIC | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30512424) | 3h |
+| Engineer, ID1 RAM Hardware | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38690548) | 3h |
+| Engineer, Electrical Design – FPGA/ASIC | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30512424) | 4h |
 
 #### ⚡ **ABB** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Electrical Engineer | Pinetops, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96131302/Electrical-Engineer) | 9h |
-| Associate Electrical Engineer | Pinetops, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96131370/Associate-Electrical-Engineer) | 9h |
+| Electrical Engineer | Pinetops, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96131302/Electrical-Engineer) | 10h |
+| Associate Electrical Engineer | Pinetops, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96131370/Associate-Electrical-Engineer) | 10h |
 
 
 
