@@ -52,7 +52,7 @@ function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages = 3, batchConfig = BATCH_CONFIG) {
+async function fetchAllRealJobs(searchQuery = 'hardware engineering', maxPages = 3, batchConfig = BATCH_CONFIG) {
   console.log("🚀 Starting REAL career page scraping...");
 
   let allJobs = [];
