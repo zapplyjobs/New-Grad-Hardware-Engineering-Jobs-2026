@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-4-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-2-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -58,7 +58,7 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 3 
+- **🔥 Active Positions**: 4 
 - **🏢 Companies**: 2 elite tech companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities  
 - **📅 Last Updated**: October 31, 2025
@@ -79,14 +79,15 @@
 |------|----------|-----------|-----|
 | Security Firmware Engineer | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/26527/login) | 22h |
 
-### 🏭 **Manufacturing & Industrial** (2 positions)
+### 🏭 **Manufacturing & Industrial** (3 positions)
 
-#### 💾 **Micron Technology** (2 positions)
+#### 💾 **Micron Technology** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Engineer, ID1 RAM Hardware | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38690548) | 13h |
-| Engineer, Electrical Design – FPGA/ASIC | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30512424) | 14h |
+| US Expansion Layout Engineer | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com) | 17h |
+| Engineer, Electrical Design – FPGA/ASIC | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30512424) | 2d |
+| Engineer, ID1 RAM Hardware | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38690548) | 2d |
 
 
 
@@ -113,22 +114,22 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 0 | 0% | No or minimal experience |
-| 🟡 Beginner & Early Career | 2 | 67% | 1-2 years of experience |
-| 🔴 Manager         | 1 | 33% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 1 | 25% | No or minimal experience |
+| 🟡 Beginner & Early Career | 2 | 50% | 1-2 years of experience |
+| 🔴 Manager         | 1 | 25% | 2+ years of experience |
 
 ---
 
 ## 🌍 **Top Locations**
 
-- **Boise, ID**: 2 positions
+- **Boise, ID**: 3 positions
 - **Palo Alto, CA**: 1 positions
 
 ---
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 3+ verified CS internships and entry-level hardware roles from 2 elite tech companies.
+✅ **100% Real Jobs:** 4+ verified CS internships and entry-level hardware roles from 2 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -210,7 +211,7 @@ No companies available
 
 <div align="center">
 
-**🎯 3 current opportunities from 2 elite companies.**
+**🎯 4 current opportunities from 2 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
