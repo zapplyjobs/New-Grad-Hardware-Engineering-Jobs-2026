@@ -12,7 +12,7 @@
   "enterprise": {
     "companies": ["Cisco", "Hewlett Packard Enterprise", "Dell", "Broadcom", "Verizon", "Workday"],
     "emoji": "💻",
-    "title": "Enterprise Software"
+    "title": "Enterprise Hardware"
   },
   "startups": {
     "companies": ["BAE Systems", "Guidehouse", "General Dynamics"],
