@@ -538,13 +538,46 @@ if (amdStylePattern) {
 
   // Pattern 6: Handle "US,State,City" with address in the middle (simpler version)
   const usStateCityWithAddress = cleanLocation.match(/^(US|USA),([A-Z]{2}),([A-Za-z\s]+?)(?:\s+\d+.*)?$/i);
-  if (usStateCityWithAddress) {
-    const state = normalizeState(usStateCityWithAddress[2].trim());
-    const city = usStateCityWithAddress[3].trim();
-    if (state) {
-      return { city, state };
-    }
+if (usStateCityWithAddress) {
+  const state = normalizeState(usStateCityWithAddress[2].trim());
+  const city = usStateCityWithAddress[3].trim();
+  if (state) {
+    return { city, state };
   }
+}
+
+// NEW PATTERN: Handle "USA-CA San Jose Innovation Drive" format
+const usaStateCityAddressPattern = cleanLocation.match(/^(USA|US)-([A-Z]{2})\s+([A-Za-z\s]+(?:\s+[A-Za-z]+)*)(?:\s+[A-Za-z\s]*)?$/i);
+if (usaStateCityAddressPattern) {
+  const state = normalizeState(usaStateCityAddressPattern[2].trim());
+  let city = usaStateCityAddressPattern[3].trim();
+  
+  // Extract only the city name (first one or two words before street name)
+  const cityParts = city.split(/\s+/);
+  let cityName = '';
+  
+  // Handle multi-word city names (like San Jose, Los Angeles, New York, etc.)
+  if (cityParts.length >= 2) {
+    // Check if first two words form a known multi-word city
+    const potentialCity2 = `${cityParts[0]} ${cityParts[1]}`.trim();
+    const stateForCity2 = getStateForCity(potentialCity2);
+    
+    if (stateForCity2) {
+      cityName = potentialCity2;
+    } else {
+      // Check if first word alone is a known city
+      const potentialCity1 = cityParts[0].trim();
+      const stateForCity1 = getStateForCity(potentialCity1);
+      cityName = stateForCity1 ? potentialCity1 : potentialCity2;
+    }
+  } else {
+    cityName = cityParts[0];
+  }
+  
+  if (state && cityName) {
+    return { city: cityName, state };
+  }
+}
 
   // Pattern 7: Street address on separate line BEFORE city (e.g., "2485 Augustine Drive\nSanta Clara, California US")
   const addressBeforeCityNewline = cleanLocation.match(/^\d+\s+[A-Za-z\s]+(Street|St|Avenue|Ave|Road|Rd|Drive|Dr|Boulevard|Blvd|Lane|Ln|Way|Court|Ct|Parkway|Pkwy)\s+([A-Za-z\s]+),\s*([A-Za-z\s]+)\s*(US|USA)?$/i);
