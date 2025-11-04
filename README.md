@@ -198,9 +198,9 @@ No companies available
 - **Austin, TX**: 5 positions
 - **Boise, ID**: 2 positions
 - **Santa Clara, CA**: 2 positions
-- **Cupertino, CA**: 2 positions
 - **Madison, WI**: 1 positions
 - **Eglin AFB, FL**: 1 positions
+- **Port Hueneme, CA**: 1 positions
 
 ---
 
@@ -316,13 +316,7 @@ No companies available
 |------|----------|-----------|-----|
 | R&D Engineer Hardware 🏠 | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-Hardware-5_R023955?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 
-### 🚀 **Startups & Growth** (2 positions)
-
-#### 🛡️ **BAE Systems** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Radio Frequency Communications System Engineer | Nellis AFB, NV | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Nellis-AFB-NV/Radio-Frequency-Communications-System-Engineer_R0227486?q=hardware+engineering) | 4w |
+### 🚀 **Startups & Growth** (1 position)
 
 #### ⚙️ **General Dynamics** (1 position)
 
