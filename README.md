@@ -63,7 +63,7 @@
 - **⭐ FAANG+ Jobs**: 21 premium opportunities  
 - **📅 Last Updated**: November 4, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 17 (older than 1 week)
+- **📁 Archived Jobs**: 19 (older than 1 week)
 
 
 ---
@@ -258,16 +258,16 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 17 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 19 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 17 positions
+- **📁 Total Jobs**: 19 positions
 - **🏢 Companies**: 8 companies  
-- **⭐ FAANG+ Jobs & Internships**: 8 roles
+- **⭐ FAANG+ Jobs & Internships**: 10 roles
 
-### ⭐ **FAANG+** (8 positions)
+### ⭐ **FAANG+** (10 positions)
 
 #### 📦 **Amazon** (2 positions)
 
@@ -276,11 +276,13 @@ No companies available
 | Electrical Engineer, Inter-satellite Link Avionics | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3113776/electrical-engineer-inter-satellite-link-avionics) | 1w |
 | Hardware Development Engineer AWS AI & ML, Accelerator Servers | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3103434/hardware-development-engineer-aws-ai-ml-accelerator-servers) | 4w |
 
-#### 🍎 **Apple** (6 positions)
+#### 🍎 **Apple** (8 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Baseband Hardware Design Engineer | Waltham, MA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627796-6205/baseband-hardware-design-engineer?team=HRDWR) | 1w |
+| RF/mmW Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627767-3956/rf-mmw-hardware-design-engineer?team=HRDWR) | 1w |
+| Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200586649-0836/hardware-systems-validation-engineer?team=HRDWR) | 1w |
 | iPhone Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628398-0836/iphone-hardware-systems-validation-engineer?team=HRDWR) | 1w |
 | Electrical Engineer - Camera Hardware | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627419-0836/electrical-engineer-camera-hardware?team=HRDWR) | 2w |
 | iPhone Hardware System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626244-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 2w |
