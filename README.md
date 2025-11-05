@@ -63,7 +63,7 @@
 - **⭐ FAANG+ Jobs**: 18 premium opportunities  
 - **📅 Last Updated**: November 5, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 20 (older than 1 week)
+- **📁 Archived Jobs**: 21 (older than 1 week)
 
 
 ---
@@ -102,7 +102,7 @@
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Baseband Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630133-3956/baseband-hardware-design-engineer?team=HRDWR) | 1d |
-| Camera Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629239-0836/camera-hardware-electrical-engineer?team=HRDWR) | 6d |
+| Manufacturing Design Engineer (MDE) - Hardware Enclosures | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200609062-3956/manufacturing-design-engineer-mde-hardware-enclosures?team=OPMFG) | 1d |
 
 ### 🏢 **Top Tech** (6 positions)
 
@@ -182,15 +182,15 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 3 | 10% | No or minimal experience |
-| 🟡 Beginner & Early Career | 19 | 61% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 5 | 16% | No or minimal experience |
+| 🟡 Beginner & Early Career | 17 | 55% | 1-2 years of experience |
 | 🔴 Manager         | 9 | 29% | 2+ years of experience |
 
 ---
 
 ## 🌍 **Top Locations**
 
-- **Sunnyvale, CA**: 8 positions
+- **Sunnyvale, CA**: 9 positions
 - **Mountain View, CA**: 7 positions
 - **Austin, TX**: 5 positions
 - **Santa Clara, CA**: 2 positions
@@ -256,16 +256,16 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 20 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 21 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 20 positions
+- **📁 Total Jobs**: 21 positions
 - **🏢 Companies**: 8 companies  
-- **⭐ FAANG+ Jobs & Internships**: 11 roles
+- **⭐ FAANG+ Jobs & Internships**: 12 roles
 
-### ⭐ **FAANG+** (11 positions)
+### ⭐ **FAANG+** (12 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -273,7 +273,7 @@ No companies available
 |------|----------|-----------|-----|
 | Electrical Engineer, Inter-satellite Link Avionics | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3113776/electrical-engineer-inter-satellite-link-avionics) | 2w |
 
-#### 🍎 **Apple** (10 positions)
+#### 🍎 **Apple** (11 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -287,6 +287,7 @@ No companies available
 | Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627241-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 2w |
 | iPhone Hardware System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626244-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 3w |
 | Camera Image Quality Validation Engineer - Camera Hardware | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624872-0836/camera-image-quality-validation-engineer-camera-hardware?team=HRDWR) | 3w |
+| Systems Validation Engineer - Data Center Hardware | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624875-3956/systems-validation-engineer-data-center-hardware?team=HRDWR) | 4w |
 
 ### 🏢 **Top Tech** (3 positions)
 
