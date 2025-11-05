@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-28-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-30-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-8-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-17-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-19-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -58,12 +58,12 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 28 
+- **🔥 Active Positions**: 30 
 - **🏢 Companies**: 8 elite tech companies
-- **⭐ FAANG+ Jobs**: 17 premium opportunities  
+- **⭐ FAANG+ Jobs**: 19 premium opportunities  
 - **📅 Last Updated**: November 5, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 14 (older than 1 week)
+- **📁 Archived Jobs**: 22 (older than 1 week)
 
 
 ---
@@ -71,7 +71,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (17 positions)
+### ⭐ **FAANG+** (19 positions)
 
 <details>
 <summary><h4>🟢 <strong>Google</strong> (16 positions)</h4></summary>
@@ -97,10 +97,12 @@
 
 </details>
 
-#### 🍎 **Apple** (1 position)
+#### 🍎 **Apple** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Baseband Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630133-3956/baseband-hardware-design-engineer?team=HRDWR) | 1d |
+| Manufacturing Design Engineer (MDE) - Hardware Enclosures | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200609062-3956/manufacturing-design-engineer-mde-hardware-enclosures?team=OPMFG) | 1d |
 | Camera Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629239-0836/camera-hardware-electrical-engineer?team=HRDWR) | 6d |
 
 ### 🏢 **Top Tech** (6 positions)
@@ -163,7 +165,7 @@
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (2 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (16 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (16 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (3)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -179,16 +181,16 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 3 | 11% | No or minimal experience |
-| 🟡 Beginner & Early Career | 18 | 64% | 1-2 years of experience |
-| 🔴 Manager         | 7 | 25% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 6 | 20% | No or minimal experience |
+| 🟡 Beginner & Early Career | 17 | 57% | 1-2 years of experience |
+| 🔴 Manager         | 7 | 23% | 2+ years of experience |
 
 ---
 
 ## 🌍 **Top Locations**
 
+- **Sunnyvale, CA**: 9 positions
 - **Mountain View, CA**: 7 positions
-- **Sunnyvale, CA**: 7 positions
 - **Austin, TX**: 5 positions
 - **Santa Clara, CA**: 2 positions
 - **King George, VA**: 1 positions
@@ -200,7 +202,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 28+ verified CS internships and entry-level hardware roles from 8 elite tech companies.
+✅ **100% Real Jobs:** 30+ verified CS internships and entry-level hardware roles from 8 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -253,16 +255,16 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 14 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 22 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 14 positions
+- **📁 Total Jobs**: 22 positions
 - **🏢 Companies**: 8 companies  
-- **⭐ FAANG+ Jobs & Internships**: 6 roles
+- **⭐ FAANG+ Jobs & Internships**: 13 roles
 
-### ⭐ **FAANG+** (6 positions)
+### ⭐ **FAANG+** (13 positions)
 
 #### 📦 **Amazon** (2 positions)
 
@@ -271,22 +273,30 @@ No companies available
 | Electrical Engineer, Inter-satellite Link Avionics | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3113776/electrical-engineer-inter-satellite-link-avionics) | 2w |
 | Hardware Development Engineer AWS AI & ML, Accelerator Servers | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3103434/hardware-development-engineer-aws-ai-ml-accelerator-servers) | 4w |
 
-#### 🍎 **Apple** (4 positions)
+#### 🍎 **Apple** (11 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628727-0836/hardware-electrical-engineer?team=HRDWR) | 1w |
+| Cellular RF Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200623034-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 1w |
+| Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200586649-0836/hardware-systems-validation-engineer?team=HRDWR) | 1w |
+| iPhone Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628398-0836/iphone-hardware-systems-validation-engineer?team=HRDWR) | 1w |
 | Baseband Hardware Design Engineer | Waltham, MA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627796-6205/baseband-hardware-design-engineer?team=HRDWR) | 2w |
+| Electrical Engineer - Camera Hardware | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627419-0836/electrical-engineer-camera-hardware?team=HRDWR) | 2w |
+| RF/mmW Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627767-3956/rf-mmw-hardware-design-engineer?team=HRDWR) | 2w |
+| Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627241-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 2w |
 | iPhone Hardware System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626244-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 3w |
 | Camera Image Quality Validation Engineer - Camera Hardware | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624872-0836/camera-image-quality-validation-engineer-camera-hardware?team=HRDWR) | 3w |
 | Systems Validation Engineer - Data Center Hardware | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624875-3956/systems-validation-engineer-data-center-hardware?team=HRDWR) | 4w |
 
-### 🏢 **Top Tech** (2 positions)
+### 🏢 **Top Tech** (3 positions)
 
-#### 🎮 **NVIDIA** (2 positions)
+#### 🎮 **NVIDIA** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | ASIC Design Engineer - Hardware | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Engineer---Hardware_JR1993847-1?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 1w |
+| Firmware Engineer | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Firmware-Engineer_JR2006666?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 1w |
 | ASIC Floorplan Design Engineer - New College Grad | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2025_JR1997894?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 2w |
 
 ### 💻 **Enterprise Hardware** (3 positions)
@@ -337,7 +347,7 @@ No companies available
 
 <div align="center">
 
-**🎯 28 current opportunities from 8 elite companies.**
+**🎯 30 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
