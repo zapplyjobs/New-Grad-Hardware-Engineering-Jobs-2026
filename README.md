@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-34-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-32-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-8-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-20-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-19-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -58,12 +58,12 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 34 
+- **🔥 Active Positions**: 32 
 - **🏢 Companies**: 8 elite tech companies
-- **⭐ FAANG+ Jobs**: 20 premium opportunities  
+- **⭐ FAANG+ Jobs**: 19 premium opportunities  
 - **📅 Last Updated**: November 5, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 21 (older than 1 week)
+- **📁 Archived Jobs**: 22 (older than 1 week)
 
 
 ---
@@ -71,10 +71,10 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (20 positions)
+### ⭐ **FAANG+** (19 positions)
 
 <details>
-<summary><h4>🟢 <strong>Google</strong> (17 positions)</h4></summary>
+<summary><h4>🟢 <strong>Google</strong> (16 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -87,7 +87,6 @@
 | Silicon Validation Engineer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127745791925068486-silicon-validation-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 4d |
 | Design Verification Engineer, Google Cloud | Madison, WI | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96988272692994758-design-verification-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 4d |
 | Design Verification Engineer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/134560610091180742-design-verification-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 4d |
-| ASIC Design Engineer, Machine Learning | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/109138331849106118-asic-design-engineer-machine-learning?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 4d |
 | ASIC Design Verification and Methodology Engineer, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113291127137673926-asic-design-verification-and-methodology-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 4d |
 | ASIC Design Verification Engineer, Devices and Services | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/89426246181495494-asic-design-verification-engineer-devices-and-services?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 4d |
 | Signal Integrity Engineer, Platforms | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/83062593257644742-signal-integrity-engineer-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 4d |
@@ -151,14 +150,13 @@
 |------|----------|-----------|-----|
 | Security Firmware Engineer | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/26527/login) | 5d |
 
-### 🏭 **Manufacturing & Industrial** (2 positions)
+### 🏭 **Manufacturing & Industrial** (1 position)
 
-#### 💾 **Micron Technology** (2 positions)
+#### 💾 **Micron Technology** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Engineer, ID1 RAM Hardware | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38690548) | 2d |
-| Engineer, Electrical Design – FPGA/ASIC | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30512424) | 6d |
+| Engineer, ID1 RAM Hardware | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38690548) | 3d |
 
 
 
@@ -169,7 +167,7 @@
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (2 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (17 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (3)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (16 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (3)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -185,28 +183,28 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 6 | 18% | No or minimal experience |
-| 🟡 Beginner & Early Career | 19 | 56% | 1-2 years of experience |
-| 🔴 Manager         | 9 | 26% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 4 | 13% | No or minimal experience |
+| 🟡 Beginner & Early Career | 19 | 59% | 1-2 years of experience |
+| 🔴 Manager         | 9 | 28% | 2+ years of experience |
 
 ---
 
 ## 🌍 **Top Locations**
 
 - **Sunnyvale, CA**: 9 positions
-- **Mountain View, CA**: 8 positions
+- **Mountain View, CA**: 7 positions
 - **Austin, TX**: 5 positions
-- **Boise, ID**: 2 positions
 - **Santa Clara, CA**: 2 positions
 - **King George, VA**: 1 positions
 - **Dahlgren, VA**: 1 positions
+- **Boise, ID**: 1 positions
 - **Madison, WI**: 1 positions
 
 ---
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 34+ verified CS internships and entry-level hardware roles from 8 elite tech companies.
+✅ **100% Real Jobs:** 32+ verified CS internships and entry-level hardware roles from 8 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -259,12 +257,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 21 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 22 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 21 positions
+- **📁 Total Jobs**: 22 positions
 - **🏢 Companies**: 8 companies  
 - **⭐ FAANG+ Jobs & Internships**: 13 roles
 
@@ -332,6 +330,14 @@ No companies available
 |------|----------|-----------|-----|
 | Hardware Engineer (Tactical Network - CANES) - Active Secret clearance | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Hardware-Engineer--Tactical-Network---CANES----Active-Secret-clearance_RQ207964-1?q=hardware+engineering) | 3w |
 
+### 🏭 **Manufacturing & Industrial** (1 position)
+
+#### 💾 **Micron Technology** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Engineer, Electrical Design – FPGA/ASIC | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30512424) | 1w |
+
 
 
 </details>
@@ -343,7 +349,7 @@ No companies available
 
 <div align="center">
 
-**🎯 34 current opportunities from 8 elite companies.**
+**🎯 32 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
