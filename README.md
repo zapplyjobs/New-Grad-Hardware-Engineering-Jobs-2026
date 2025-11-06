@@ -159,7 +159,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| New College Grad - Engineer, Electrical Design – FPGA/ASIC | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30512424) | 21h |
+| New College Grad - Engineer, Electrical Design – FPGA/ASIC | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30512424) | 1h |
 | Design Verification Engineer, DRAM | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38744707) | 2d |
 | Engineer, ID1 RAM Hardware | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38690548) | 4d |
 
