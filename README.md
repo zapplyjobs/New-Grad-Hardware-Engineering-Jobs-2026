@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-31-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-33-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-18-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -58,7 +58,7 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 31 
+- **🔥 Active Positions**: 33 
 - **🏢 Companies**: 9 elite tech companies
 - **⭐ FAANG+ Jobs**: 18 premium opportunities  
 - **📅 Last Updated**: November 6, 2025
@@ -104,7 +104,7 @@
 | Baseband Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630133-3956/baseband-hardware-design-engineer?team=HRDWR) | 2d |
 | Manufacturing Design Engineer (MDE) - Hardware Enclosures | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200609062-3956/manufacturing-design-engineer-mde-hardware-enclosures?team=OPMFG) | 2d |
 
-### 🏢 **Top Tech** (5 positions)
+### 🏢 **Top Tech** (7 positions)
 
 #### 🎮 **NVIDIA** (1 position)
 
@@ -112,10 +112,12 @@
 |------|----------|-----------|-----|
 | Post-Silicon Hardware Engineer | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Post-Silicon-Hardware-Engineer_JR2003779?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 1d |
 
-#### 🔶 **AMD** (4 positions)
+#### 🔶 **AMD** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Hardware Platform Design Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/71202/login) | 5d |
+| High-Speed Signal Integrity & Power Integrity Validation Engineer | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72778/login) | 5d |
 | Hardware Validation Engineer – Infrastructure & Tooling | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/68057/login) | 5d |
 | System Hardware Development & Validation Engineer | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/70939/login) | 5d |
 | Design Verification Engineer- GPU Diagnostics | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/58351/login) | 5d |
@@ -179,7 +181,7 @@ No companies available
 
 
 #### ☁️ **Enterprise & Cloud** (3 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (4)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (6)
 
 ---
 
@@ -187,9 +189,9 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 3 | 10% | No or minimal experience |
-| 🟡 Beginner & Early Career | 18 | 58% | 1-2 years of experience |
-| 🔴 Manager         | 10 | 32% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 5 | 15% | No or minimal experience |
+| 🟡 Beginner & Early Career | 18 | 55% | 1-2 years of experience |
+| 🔴 Manager         | 10 | 30% | 2+ years of experience |
 
 ---
 
@@ -197,9 +199,9 @@ No companies available
 
 - **Sunnyvale, CA**: 9 positions
 - **Mountain View, CA**: 7 positions
-- **Austin, TX**: 4 positions
+- **Austin, TX**: 5 positions
+- **Santa Clara, CA**: 3 positions
 - **Boise, ID**: 2 positions
-- **Santa Clara, CA**: 2 positions
 - **King George, VA**: 1 positions
 - **Dahlgren, VA**: 1 positions
 - **Madison, WI**: 1 positions
@@ -208,7 +210,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 31+ verified CS internships and entry-level hardware roles from 9 elite tech companies.
+✅ **100% Real Jobs:** 33+ verified CS internships and entry-level hardware roles from 9 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -286,10 +288,10 @@ No companies available
 | Camera Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629239-0836/camera-hardware-electrical-engineer?team=HRDWR) | 1w |
 | Cellular RF Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200623034-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 1w |
 | Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200586649-0836/hardware-systems-validation-engineer?team=HRDWR) | 1w |
-| iPhone Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628398-0836/iphone-hardware-systems-validation-engineer?team=HRDWR) | 1w |
 | Baseband Hardware Design Engineer | Waltham, MA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627796-6205/baseband-hardware-design-engineer?team=HRDWR) | 2w |
+| Electrical Engineer - Camera Hardware | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627419-0836/electrical-engineer-camera-hardware?team=HRDWR) | 2w |
 | RF/mmW Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627767-3956/rf-mmw-hardware-design-engineer?team=HRDWR) | 2w |
-| Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627241-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 2w |
+| Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627369-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 2w |
 | iPhone Hardware System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626244-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 3w |
 | Camera Image Quality Validation Engineer - Camera Hardware | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624872-0836/camera-image-quality-validation-engineer-camera-hardware?team=HRDWR) | 3w |
 | Systems Validation Engineer - Data Center Hardware | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624875-3956/systems-validation-engineer-data-center-hardware?team=HRDWR) | 4w |
@@ -352,7 +354,7 @@ No companies available
 
 <div align="center">
 
-**🎯 31 current opportunities from 9 elite companies.**
+**🎯 33 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
