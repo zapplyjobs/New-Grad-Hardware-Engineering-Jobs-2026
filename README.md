@@ -161,8 +161,8 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Design Verification Engineer, DRAM | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38744707) | 14h |
-| Engineer, ID1 RAM Hardware | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38690548) | 3d |
+| Design Verification Engineer, DRAM | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38744707) | 2d |
+| Engineer, ID1 RAM Hardware | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38690548) | 4d |
 
 
 
@@ -189,8 +189,8 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 3 | 9% | No or minimal experience |
-| 🟡 Beginner & Early Career | 20 | 61% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 5 | 15% | No or minimal experience |
+| 🟡 Beginner & Early Career | 18 | 55% | 1-2 years of experience |
 | 🔴 Manager         | 10 | 30% | 2+ years of experience |
 
 ---
