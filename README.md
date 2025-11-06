@@ -153,7 +153,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Graphics Hardware Debug Engineer | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/cambridge/graphics-hardware-debug-engineer/33099/84349465808) | 2h |
+| Graphics Hardware Debug Engineer | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/cambridge/graphics-hardware-debug-engineer/33099/84349465808) | 3h |
 
 #### 💾 **Micron Technology** (3 positions)
 
@@ -188,8 +188,8 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 5 | 15% | No or minimal experience |
-| 🟡 Beginner & Early Career | 18 | 53% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 7 | 21% | No or minimal experience |
+| 🟡 Beginner & Early Career | 16 | 47% | 1-2 years of experience |
 | 🔴 Manager         | 11 | 32% | 2+ years of experience |
 
 ---
