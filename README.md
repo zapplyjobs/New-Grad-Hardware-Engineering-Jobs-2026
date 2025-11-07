@@ -144,7 +144,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Firmware Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/firmware-engineer/33099/77745466144) | 9h |
+| Firmware Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/firmware-engineer/33099/77745466144) | 10h |
 
 #### 💾 **Micron Technology** (3 positions)
 
@@ -179,8 +179,8 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 6 | 19% | No or minimal experience |
-| 🟡 Beginner & Early Career | 17 | 53% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 4 | 13% | No or minimal experience |
+| 🟡 Beginner & Early Career | 19 | 59% | 1-2 years of experience |
 | 🔴 Manager         | 9 | 28% | 2+ years of experience |
 
 ---
@@ -275,6 +275,7 @@ No companies available
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628727-0836/hardware-electrical-engineer?team=HRDWR) | 1w |
+| Camera Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629239-0836/camera-hardware-electrical-engineer?team=HRDWR) | 1w |
 | Cellular RF Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200623034-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 1w |
 | iPhone Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628398-0836/iphone-hardware-systems-validation-engineer?team=HRDWR) | 1w |
 | Baseband Hardware Design Engineer | Waltham, MA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627796-6205/baseband-hardware-design-engineer?team=HRDWR) | 2w |
@@ -282,7 +283,6 @@ No companies available
 | RF/mmW Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627767-3956/rf-mmw-hardware-design-engineer?team=HRDWR) | 2w |
 | Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627369-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 2w |
 | iPhone Hardware System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626244-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 3w |
-| Camera Image Quality Validation Engineer - Camera Hardware | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624872-0836/camera-image-quality-validation-engineer-camera-hardware?team=HRDWR) | 4w |
 
 ### 🏢 **Top Tech** (3 positions)
 
