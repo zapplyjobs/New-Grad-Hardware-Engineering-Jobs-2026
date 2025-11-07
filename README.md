@@ -121,7 +121,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Firmware Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/firmware-engineer/33099/77745466144) | 19h |
+| Firmware Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/firmware-engineer/33099/77745466144) | 20h |
 
 #### 💾 **Micron Technology** (3 positions)
 
