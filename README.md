@@ -159,7 +159,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| New College Grad - Engineer, Electrical Design – FPGA/ASIC | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30512424) | 4h |
+| New College Grad - Engineer, Electrical Design – FPGA/ASIC | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30512424) | 5h |
 | Design Verification Engineer, DRAM | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38744707) | 2d |
 | Engineer, ID1 RAM Hardware | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38690548) | 4d |
 
@@ -188,8 +188,8 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 5 | 15% | No or minimal experience |
-| 🟡 Beginner & Early Career | 19 | 56% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 4 | 12% | No or minimal experience |
+| 🟡 Beginner & Early Career | 20 | 59% | 1-2 years of experience |
 | 🔴 Manager         | 10 | 29% | 2+ years of experience |
 
 ---
