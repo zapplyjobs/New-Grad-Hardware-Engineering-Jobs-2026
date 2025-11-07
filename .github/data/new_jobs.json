@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Firmware Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1h",
+    "job_description": "• ‘Wherever Computing Happens’, we need to enable Arm by providing software solutions that interface higher-level software stacks with the hardware itself.\n• Experience in development and maintenance of product quality firmware with good knowledge of bootloaders and device drivers.\n• Experience in providing support and maintenance of production quality firmware in server segment.\n• Expert in C programming for embedded systems with excellent debugging skills.\n• Server firmware development experience.\n• “Nice To Have” Skills and Experience: Required Skills and Experience: Experienced Professionals.\n• Technology built on Arm is all around us, from industrial and automotive applications, to the IoT, to the desktop and data center.\n• Familiarity with technologies such as RAS, hypervisors, CXL, power management and security.",
+    "job_apply_link": "https://careers.arm.com/job/austin/firmware-engineer/33099/77745466144",
+    "id": "arm-firmware-engineer-austin"
+  }
+]

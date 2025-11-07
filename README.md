@@ -153,13 +153,13 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Graphics Hardware Debug Engineer | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/cambridge/graphics-hardware-debug-engineer/33099/84349465808) | 5h |
+| Firmware Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/firmware-engineer/33099/77745466144) | 1h |
 
 #### 💾 **Micron Technology** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| New College Grad - Engineer, Electrical Design – FPGA/ASIC | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30512424) | 2h |
+| New College Grad - Engineer, Electrical Design – FPGA/ASIC | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30512424) | 3h |
 | Design Verification Engineer, DRAM | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38744707) | 2d |
 | Engineer, ID1 RAM Hardware | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38690548) | 4d |
 
@@ -188,9 +188,9 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 7 | 21% | No or minimal experience |
-| 🟡 Beginner & Early Career | 16 | 47% | 1-2 years of experience |
-| 🔴 Manager         | 11 | 32% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 5 | 15% | No or minimal experience |
+| 🟡 Beginner & Early Career | 19 | 56% | 1-2 years of experience |
+| 🔴 Manager         | 10 | 29% | 2+ years of experience |
 
 ---
 
@@ -198,12 +198,12 @@ No companies available
 
 - **Sunnyvale, CA**: 9 positions
 - **Mountain View, CA**: 7 positions
-- **Austin, TX**: 5 positions
+- **Austin, TX**: 6 positions
 - **Boise, ID**: 3 positions
 - **Santa Clara, CA**: 3 positions
-- **Cambridge, MA**: 1 positions
 - **King George, VA**: 1 positions
 - **Dahlgren, VA**: 1 positions
+- **Madison, WI**: 1 positions
 
 ---
 
