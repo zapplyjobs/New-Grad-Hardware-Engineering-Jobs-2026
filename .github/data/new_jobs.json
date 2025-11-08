@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Hardware System Design Engineer, Retail and Event Product Design",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "• Minimum QualificationsBachelor’s in Electrical Engineering or a closely related field plus 5+ years of relevant industry experienceStrong Electrical Engineering fundamentals with experience in prototyping, hardware bring-up, bench instrumentation and validationExperience in detailed EE design, EE schematics entry and layoutExperience with digital hardware design such as micro-controllers and digital interfacesExperienced with HW and FW integration, specially USB-C, PD controllers and MicroPythonAdvanced Hands-On Lab & Debugging Skills.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200631012-0836/hardware-system-design-engineer-retail-and-event-product-design?team=HRDWR",
+    "id": "apple-hardware-system-design-engineer-retail-and-event-product-design-cupertino"
+  }
+]
