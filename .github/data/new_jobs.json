@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Hardware Engineer, Superconducting Digital Electronics, Quantum AI",
+    "job_city": "Goleta",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "hardware engineering job for the role Hardware Engineer, Superconducting Digital Electronics, Quantum AI",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/140882682094461638-hardware-engineer-superconducting-digital-electronics-quantum-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1",
+    "id": "google-hardware-engineer-superconducting-digital-electronics-quantum-ai-goleta"
+  }
+]
