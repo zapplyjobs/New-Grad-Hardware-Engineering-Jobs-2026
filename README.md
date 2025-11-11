@@ -145,6 +145,7 @@ No companies available
 
 ## 🌍 **Top Locations**
 
+- **Cupertino, CA**: 2 positions
 - **Boise, ID**: 2 positions
 - **Seattle, WA**: 1 positions
 - **Dahlgren, VA**: 1 positions
