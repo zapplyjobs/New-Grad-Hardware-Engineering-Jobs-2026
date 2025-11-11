@@ -1,12 +1,1 @@
-[
-  {
-    "employer_name": "Apple",
-    "job_title": "Hardware Engineer - Apple Maps",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_posted_at": "7h",
-    "job_description": "• Minimum QualificationsBS in Electrical/Computer Engineering or equivalent5+ years of industry experience in a hardware development roleStrong electrical engineering fundamentals, with an ability to analyze and debug complex analog, digital, and power systemsDeep experience in system integration, including grounding, shielding, EMI/EMC mitigation, and power distribution strategiesProven experience overseeing the full PCB development cycle, including specification, architecture, design, simulation, prototype, bring-up, testing, and release to productionHands-on experience with lab equipment (oscilloscopes, logic analyzers, spectrum analyzers, VNAs) for bring-up and debugging of difficult hardware issuesExperience working with microcontrollers and firmware, sufficient to perform system bring-up and debug low-level hardware/software interactionsAbility to drive and mentor junior engineers, fostering best practices in system design and validation.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200631379-0836/hardware-engineer-apple-maps?team=SFTWR",
-    "id": "apple-hardware-engineer-apple-maps-cupertino"
-  }
-]
+[]
