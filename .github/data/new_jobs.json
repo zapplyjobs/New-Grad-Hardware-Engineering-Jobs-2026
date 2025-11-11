@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Amazon",
+    "job_title": "Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "18h",
+    "job_description": "hardware engineering job for the role Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3124656/systems-development-eng-aws-generative-ai-ml-servers-aws-hardware-engineering-accelerators",
+    "id": "amazon-systems-development-eng-aws-generative-ai-ml-servers-aws-hardware-engineering-accelerators-austin"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Generative AI & ML Servers",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "18h",
+    "job_description": "hardware engineering job for the role Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Generative AI & ML Servers",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3124658/cloud-hardware-dev-engineer-aws-generative-ai-ml-servers-aws-generative-ai-ml-servers",
+    "id": "amazon-cloud-hardware-dev-engineer-aws-generative-ai-ml-servers-aws-generative-ai-ml-servers-cupertino"
+  }
+]
