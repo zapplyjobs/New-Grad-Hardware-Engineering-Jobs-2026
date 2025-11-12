@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-11-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-12-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-4-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-5-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -58,9 +58,9 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 11 
+- **🔥 Active Positions**: 12 
 - **🏢 Companies**: 7 elite tech companies
-- **⭐ FAANG+ Jobs**: 4 premium opportunities  
+- **⭐ FAANG+ Jobs**: 5 premium opportunities  
 - **📅 Last Updated**: November 12, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 42 (older than 1 week)
@@ -71,7 +71,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (4 positions)
+### ⭐ **FAANG+** (5 positions)
 
 #### 📦 **Amazon** (3 positions)
 
@@ -81,10 +81,11 @@
 | Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Generative AI & ML Servers | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3124658/cloud-hardware-dev-engineer-aws-generative-ai-ml-servers-aws-generative-ai-ml-servers) | 1d |
 | Cloud Hardware Development Engineer, Hardware Engineering Services | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3122907/cloud-hardware-development-engineer-hardware-engineering-services) | 5d |
 
-#### 🍎 **Apple** (1 position)
+#### 🍎 **Apple** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Hardware Engineer - Apple Maps | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631379-0836/hardware-engineer-apple-maps?team=SFTWR) | 1d |
 | Hardware System Design Engineer, Retail and Event Product Design | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631012-0836/hardware-system-design-engineer-retail-and-event-product-design?team=HRDWR) | 4d |
 
 ### 🏢 **Top Tech** (1 position)
@@ -136,7 +137,7 @@
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (2 companies)
-🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1 position) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (3)
+🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (3)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -152,16 +153,16 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 2 | 18% | No or minimal experience |
-| 🟡 Beginner & Early Career | 3 | 27% | 1-2 years of experience |
-| 🔴 Manager         | 6 | 55% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 2 | 17% | No or minimal experience |
+| 🟡 Beginner & Early Career | 3 | 25% | 1-2 years of experience |
+| 🔴 Manager         | 7 | 58% | 2+ years of experience |
 
 ---
 
 ## 🌍 **Top Locations**
 
+- **Cupertino, CA**: 3 positions
 - **Austin, TX**: 2 positions
-- **Cupertino, CA**: 2 positions
 - **Boise, ID**: 1 positions
 - **Durham, NC**: 1 positions
 - **Fort Collins, CO**: 1 positions
@@ -173,7 +174,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 11+ verified CS internships and entry-level hardware roles from 7 elite tech companies.
+✅ **100% Real Jobs:** 12+ verified CS internships and entry-level hardware roles from 7 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -271,8 +272,8 @@ No companies available
 | Cellular RF Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200623034-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 2w |
 | iPhone Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628398-0836/iphone-hardware-systems-validation-engineer?team=HRDWR) | 2w |
 | RF/mmW Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627767-3956/rf-mmw-hardware-design-engineer?team=HRDWR) | 3w |
-| Electrical Engineer - Camera Hardware | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627419-0836/electrical-engineer-camera-hardware?team=HRDWR) | 3w |
 | Baseband Hardware Design Engineer | Waltham, MA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627796-6205/baseband-hardware-design-engineer?team=HRDWR) | 3w |
+| Electrical Engineer - Camera Hardware | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627419-0836/electrical-engineer-camera-hardware?team=HRDWR) | 3w |
 | Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627369-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 3w |
 | iPhone Hardware System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626244-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 4w |
 
@@ -355,7 +356,7 @@ No companies available
 
 <div align="center">
 
-**🎯 11 current opportunities from 7 elite companies.**
+**🎯 12 current opportunities from 7 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
