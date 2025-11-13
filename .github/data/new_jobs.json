@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AMD",
+    "job_title": "FPGA Prototyping and Emulation Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1h",
+    "job_description": "• Experience with emulation platforms such as Synopsys ZeBu, Cadence Palladium/Protium, or Mentor Veloce.\n• Background in semiconductor validation and hardware/software co-debug.\n• Extensive experience with lab equipment (protocol/logic analyzers, oscilloscopes, etc.\n• Deep experience with board/platform-level debug, delivery, sequencing, and optimization.\n• Excellent analytical and problem-solving skills with attention to detail.\n• Strong hands-on experience with Xilinx FPGA architecture and toolchains.\n• Experience with Synopsys HAPS prototyping platforms.\n• Understanding of BIOS for system, x86, and ARM cores.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/73364/login",
+    "id": "amd-fpga-prototyping-and-emulation-engineer-austin"
+  }
+]
