@@ -86,7 +86,7 @@
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Hardware Reliability Engineer - Watch System Reliability | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631378-0836/hardware-reliability-engineer-watch-system-reliability?team=HRDWR) | 1d |
-| Hardware System Design Engineer, Retail and Event Product Design | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631012-0836/hardware-system-design-engineer-retail-and-event-product-design?team=HRDWR) | 5d |
+| Hardware Engineer - Apple Maps | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631379-0836/hardware-engineer-apple-maps?team=SFTWR) | 2d |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -153,9 +153,9 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 3 | 25% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 2 | 17% | No or minimal experience |
 | 🟡 Beginner & Early Career | 3 | 25% | 1-2 years of experience |
-| 🔴 Manager         | 6 | 50% | 2+ years of experience |
+| 🔴 Manager         | 7 | 58% | 2+ years of experience |
 
 ---
 
