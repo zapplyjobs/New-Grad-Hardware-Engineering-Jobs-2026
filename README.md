@@ -102,7 +102,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| FPGA Prototyping and Emulation Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/73364/login) | 9h |
+| FPGA Prototyping and Emulation Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/73364/login) | 10h |
 
 ### 💻 **Enterprise Hardware** (2 positions)
 
