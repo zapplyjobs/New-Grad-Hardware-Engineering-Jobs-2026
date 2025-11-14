@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-9-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-10-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-5-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-6-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -58,12 +58,12 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 9 
+- **🔥 Active Positions**: 10 
 - **🏢 Companies**: 6 elite tech companies
-- **⭐ FAANG+ Jobs**: 5 premium opportunities  
+- **⭐ FAANG+ Jobs**: 6 premium opportunities  
 - **📅 Last Updated**: November 14, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 45 (older than 1 week)
+- **📁 Archived Jobs**: 46 (older than 1 week)
 
 
 ---
@@ -71,7 +71,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (5 positions)
+### ⭐ **FAANG+** (6 positions)
 
 #### 📦 **Amazon** (2 positions)
 
@@ -84,12 +84,13 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Radio Frequency Hardware Engineer, Google Pixel | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91161901924262598-radio-frequency-hardware-engineer-google-pixel?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 2h |
+| Radio Frequency Hardware Engineer, Google Pixel | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91161901924262598-radio-frequency-hardware-engineer-google-pixel?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 3h |
 
-#### 🍎 **Apple** (2 positions)
+#### 🍎 **Apple** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Hardware Systems Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631334-0836/hardware-systems-engineer?team=HRDWR) | 18h |
 | Hardware Reliability Engineer - Watch System Reliability | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631378-0836/hardware-reliability-engineer-watch-system-reliability?team=HRDWR) | 2d |
 | Hardware Engineer - Apple Maps | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631379-0836/hardware-engineer-apple-maps?team=SFTWR) | 3d |
 
@@ -99,7 +100,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| FPGA Prototyping and Emulation Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/73364/login) | 20h |
+| FPGA Prototyping and Emulation Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/73364/login) | 21h |
 
 ### 💻 **Enterprise Hardware** (2 positions)
 
@@ -127,7 +128,7 @@
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (1 position) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (2)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (1 position) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (3) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (2)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -143,15 +144,15 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 2 | 22% | No or minimal experience |
-| 🟡 Beginner & Early Career | 3 | 33% | 1-2 years of experience |
-| 🔴 Manager         | 4 | 44% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 2 | 20% | No or minimal experience |
+| 🟡 Beginner & Early Career | 4 | 40% | 1-2 years of experience |
+| 🔴 Manager         | 4 | 40% | 2+ years of experience |
 
 ---
 
 ## 🌍 **Top Locations**
 
-- **Cupertino, CA**: 3 positions
+- **Cupertino, CA**: 4 positions
 - **Austin, TX**: 2 positions
 - **Mountain View, CA**: 1 positions
 - **Durham, NC**: 1 positions
@@ -162,7 +163,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 9+ verified CS internships and entry-level hardware roles from 6 elite tech companies.
+✅ **100% Real Jobs:** 10+ verified CS internships and entry-level hardware roles from 6 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -215,16 +216,16 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 45 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 46 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 45 positions
+- **📁 Total Jobs**: 46 positions
 - **🏢 Companies**: 6 companies  
-- **⭐ FAANG+ Jobs & Internships**: 24 roles
+- **⭐ FAANG+ Jobs & Internships**: 25 roles
 
-### ⭐ **FAANG+** (24 positions)
+### ⭐ **FAANG+** (25 positions)
 
 #### 📦 **Amazon** (2 positions)
 
@@ -252,18 +253,19 @@ No companies available
 | Physical Design Flow and Methodology Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/114109120839066310-physical-design-flow-and-methodology-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3) | 2w |
 | CPU Execution Unit RTL Designer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139917336252424902-cpu-execution-unit-rtl-designer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3) | 2w |
 
-#### 🍎 **Apple** (8 positions)
+#### 🍎 **Apple** (9 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Baseband Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630133-3956/baseband-hardware-design-engineer?team=HRDWR) | 1w |
 | Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628727-0836/hardware-electrical-engineer?team=HRDWR) | 2w |
 | Camera Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629239-0836/camera-hardware-electrical-engineer?team=HRDWR) | 2w |
-| Cellular RF Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200623034-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 2w |
+| iPhone Hardware System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629320-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 2w |
 | iPhone Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628398-0836/iphone-hardware-systems-validation-engineer?team=HRDWR) | 2w |
 | RF/mmW Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627767-3956/rf-mmw-hardware-design-engineer?team=HRDWR) | 3w |
-| Baseband Hardware Design Engineer | Waltham, MA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627796-6205/baseband-hardware-design-engineer?team=HRDWR) | 3w |
-| Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627241-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 3w |
+| Electrical Engineer - Camera Hardware | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627419-0836/electrical-engineer-camera-hardware?team=HRDWR) | 3w |
+| Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627369-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 3w |
+| Cellular RF Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626632-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 4w |
 
 ### 🏢 **Top Tech** (8 positions)
 
@@ -347,7 +349,7 @@ No companies available
 
 <div align="center">
 
-**🎯 9 current opportunities from 6 elite companies.**
+**🎯 10 current opportunities from 6 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
