@@ -126,7 +126,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Design Verification Engineer, DRAM | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38744707) | 5d |
+| Design Verification Engineer, DRAM | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38744707) | 6d |
 
 #### 🔧 **Texas Instruments** (1 position)
 
@@ -173,8 +173,8 @@ No companies available
 - **Santa Clara, CA**: 2 positions
 - **TX**: 1 positions
 - **Sunnyvale, CA**: 1 positions
-- **Boise, ID**: 1 positions
 - **Durham, NC**: 1 positions
+- **Boise, ID**: 1 positions
 
 ---
 
