@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "RTL Design Engineer (CPU team)",
+    "job_city": "Cambridge",
+    "job_state": "MA",
+    "job_posted_at": "1h",
+    "job_description": "• Degree from a University or Engineering School in Computer Science, Mathematics, Electronic / Electrical Engineering, or other related field.\n• Ability to make trade-offs between power, performance and area appropriately to meet product requirements.\n• Strong RTL design skills in Verilog, SystemVerilog or VHDL.\n• “Nice To Have” Skills and Experience : Working experience in digital design.\n• Required Skills and Experience : Experienced Professionals.\n• Knowledge of scripting languages like Perl, TCL or Python.\n• Knowledge of computer architecture.",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/rtl-design-engineer-cpu-team/33099/88641178208",
+    "id": "arm-rtl-design-engineer-cpu-team-cambridge"
+  }
+]
