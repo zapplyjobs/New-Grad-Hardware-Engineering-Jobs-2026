@@ -1,12 +1,1 @@
-[
-  {
-    "employer_name": "Apple",
-    "job_title": "Network Systems Integration Engineer - Data Center Hardware",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "6h",
-    "job_description": "• Minimum QualificationsBS Degree in engineering with 4-8 years relevant work experienceStrong command of network design principles and engineering practices, including the implementation and management of core L2/L3, routing protocols, VLAN segmentation, and Quality of Service (QoS) in high-bandwidth Ethernet environments.\n• Hands-on experience architecting and stress-testing high-performance, lossless fabrics.\n• Proven ability to validate and benchmark network behavior, meticulously analyzing throughput, latency, and congestion patterns within complex, multi-rack deployments.\n• Proficient in optimizing Linux systems through kernel tuning and NIC driver configuration.\n• Leverages Python, Bash, and Ansible to automate infrastructure provisioning, configuration management, and validation workflows, enhancing efficiency and repeatability.\n• Acknowledged for exceptional troubleshooting acumen, with a demonstrated ability to diagnose and resolve multifaceted performance, connectivity, and integration challenges by systematically isolating faults across the entire hardware and software stack.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200633188-3956/network-systems-integration-engineer-data-center-hardware?team=HRDWR",
-    "id": "apple-network-systems-integration-engineer-data-center-hardware-sunnyvale"
-  }
-]
+[]
