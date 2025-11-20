@@ -83,7 +83,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| RTL Design Engineer, Multimedia and Machine Learning Accelerators | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143549426214806214-rtl-design-engineer-multimedia-and-machine-learning-accelerators?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 13h |
+| RTL Design Engineer, Multimedia and Machine Learning Accelerators | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143549426214806214-rtl-design-engineer-multimedia-and-machine-learning-accelerators?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 14h |
 | Hardware Engineer, Input Sensing | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131631841156178630-hardware-engineer-input-sensing?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 2d |
 | Sensor Hardware Engineer, Consumer Hardware | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/78134209553539782-sensor-hardware-engineer-consumer-hardware?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 2d |
 | Radio Frequency Hardware Engineer, Google Pixel | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91161901924262598-radio-frequency-hardware-engineer-google-pixel?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 5d |
@@ -168,8 +168,8 @@ No companies available
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 0 | 0% | No or minimal experience |
-| 🟡 Beginner & Early Career | 8 | 44% | 1-2 years of experience |
-| 🔴 Manager         | 10 | 56% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 7 | 39% | 1-2 years of experience |
+| 🔴 Manager         | 11 | 61% | 2+ years of experience |
 
 ---
 
@@ -248,9 +248,9 @@ No companies available
 ### **Archived Job Stats**
 - **📁 Total Jobs**: 46 positions
 - **🏢 Companies**: 9 companies  
-- **⭐ FAANG+ Jobs & Internships**: 27 roles
+- **⭐ FAANG+ Jobs & Internships**: 28 roles
 
-### ⭐ **FAANG+** (27 positions)
+### ⭐ **FAANG+** (28 positions)
 
 #### 📦 **Amazon** (3 positions)
 
@@ -278,21 +278,22 @@ No companies available
 | CPU Execution Unit RTL Designer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139917336252424902-cpu-execution-unit-rtl-designer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3) | 2w |
 | CAD/PCB Design Engineer, Pixel Phones | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120612933980824262-cadpcb-design-engineer-pixel-phones?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3) | 2w |
 
-#### 🍎 **Apple** (11 positions)
+#### 🍎 **Apple** (12 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Administrative Assistant, Hardware Technology | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631674-3956/administrative-assistant-hardware-technology?team=CORSV) | 1w |
 | Hardware Engineer - Apple Maps | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631379-0836/hardware-engineer-apple-maps?team=SFTWR) | 1w |
 | Hardware Reliability Engineer - Watch System Reliability | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631378-0836/hardware-reliability-engineer-watch-system-reliability?team=HRDWR) | 1w |
-| Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630678-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 1w |
 | Baseband Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630133-3956/baseband-hardware-design-engineer?team=HRDWR) | 2w |
 | Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628727-0836/hardware-electrical-engineer?team=HRDWR) | 3w |
 | Cellular RF Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200623034-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 3w |
+| Camera Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629239-0836/camera-hardware-electrical-engineer?team=HRDWR) | 3w |
 | iPhone Hardware System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629320-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 3w |
 | iPhone Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628398-0836/iphone-hardware-systems-validation-engineer?team=HRDWR) | 3w |
 | RF/mmW Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627767-3956/rf-mmw-hardware-design-engineer?team=HRDWR) | 4w |
 | Baseband Hardware Design Engineer | Waltham, MA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627796-6205/baseband-hardware-design-engineer?team=HRDWR) | 4w |
+| Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627369-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 4w |
 
 ### 🏢 **Top Tech** (6 positions)
 
@@ -346,14 +347,6 @@ No companies available
 |------|----------|-----------|-----|
 | Telecommunications Engineer Basic - Columbus OH | Columb, OH | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-OH-Columbus/Telecommunications-Engineer-Basic---Columbus-OH_RQ209909-1?q=hardware+engineering) | 1w |
 | Telecommunications Engineer Basic - Richmond VA | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Richmond/Telecommunications-Engineer-Basic---Richmond-VA_RQ209902-1?q=hardware+engineering) | 1w |
-
-### 🛒 **Consumer & E-Commerce** (1 position)
-
-#### 🚙 **RIVIAN** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Security Firmware Engineer | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/26527/login) | 2w |
 
 ### 🏭 **Manufacturing & Industrial** (1 position)
 
