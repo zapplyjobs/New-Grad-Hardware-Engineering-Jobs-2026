@@ -63,7 +63,7 @@
 - **⭐ FAANG+ Jobs**: 10 premium opportunities  
 - **📅 Last Updated**: November 20, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 46 (older than 1 week)
+- **📁 Archived Jobs**: 45 (older than 1 week)
 
 
 ---
@@ -178,8 +178,8 @@ No companies available
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 0 | 0% | No or minimal experience |
-| 🟡 Beginner & Early Career | 10 | 43% | 1-2 years of experience |
-| 🔴 Manager         | 13 | 57% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 11 | 48% | 1-2 years of experience |
+| 🔴 Manager         | 12 | 52% | 2+ years of experience |
 
 ---
 
@@ -251,12 +251,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 46 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 45 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 46 positions
+- **📁 Total Jobs**: 45 positions
 - **🏢 Companies**: 10 companies  
 - **⭐ FAANG+ Jobs & Internships**: 28 roles
 
@@ -364,14 +364,6 @@ No companies available
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Security Firmware Engineer | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/26527/login) | 3w |
-
-### 🏭 **Manufacturing & Industrial** (1 position)
-
-#### 💾 **Micron Technology** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Design Verification Engineer, DRAM | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38744707) | 1w |
 
 
 
