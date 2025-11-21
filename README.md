@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-18-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-19-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-9-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -58,12 +58,12 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 18 
+- **🔥 Active Positions**: 19 
 - **🏢 Companies**: 7 elite tech companies
 - **⭐ FAANG+ Jobs**: 9 premium opportunities  
 - **📅 Last Updated**: November 21, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 41 (older than 1 week)
+- **📁 Archived Jobs**: 40 (older than 1 week)
 
 
 ---
@@ -113,12 +113,13 @@
 | Hardware Systems Design Engineer | NJ | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/67943/login) | 4d |
 | Hardware Applications Engineer | TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/73365/login) | 6d |
 
-### 💻 **Enterprise Hardware** (3 positions)
+### 💻 **Enterprise Hardware** (4 positions)
 
-#### 📡 **Broadcom** (3 positions)
+#### 📡 **Broadcom** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Board Hardware Engineer | Duluth, GA | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-GA-Duluth-River-Green-Parkway/Board-Hardware-Engineer_R024348?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | SI Hardware Engineer | Duluth, GA | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-GA-Duluth-River-Green-Parkway/SI-Hardware-Engineer_R024350?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Design Automation DFT Engineer | Fort Collins, CO | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Design-Automation-DFT-Engineer_R024258?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Design Verification Engineer | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R024289?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
@@ -149,7 +150,7 @@ No companies available
 
 
 #### ☁️ **Enterprise & Cloud** (3 companies)
-📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (3 positions) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (2) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (2)
+📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (4 positions) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (2) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (2)
 
 ---
 
@@ -157,9 +158,9 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 1 | 6% | No or minimal experience |
-| 🟡 Beginner & Early Career | 11 | 61% | 1-2 years of experience |
-| 🔴 Manager         | 6 | 33% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 1 | 5% | No or minimal experience |
+| 🟡 Beginner & Early Career | 10 | 53% | 1-2 years of experience |
+| 🔴 Manager         | 8 | 42% | 2+ years of experience |
 
 ---
 
@@ -167,18 +168,18 @@ No companies available
 
 - **Cupertino, CA**: 3 positions
 - **Mountain View, CA**: 3 positions
+- **Duluth, GA**: 2 positions
 - **San Jose, CA**: 2 positions
 - **Sunnyvale, CA**: 1 positions
 - **Chicago, IL**: 1 positions
 - **Seattle, WA**: 1 positions
-- **Duluth, GA**: 1 positions
 - **Boise, ID**: 1 positions
 
 ---
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 18+ verified CS internships and entry-level hardware roles from 7 elite tech companies.
+✅ **100% Real Jobs:** 19+ verified CS internships and entry-level hardware roles from 7 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -231,16 +232,16 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 41 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 40 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 41 positions
+- **📁 Total Jobs**: 40 positions
 - **🏢 Companies**: 7 companies  
-- **⭐ FAANG+ Jobs & Internships**: 24 roles
+- **⭐ FAANG+ Jobs & Internships**: 23 roles
 
-### ⭐ **FAANG+** (24 positions)
+### ⭐ **FAANG+** (23 positions)
 
 #### 📦 **Amazon** (2 positions)
 
@@ -267,13 +268,12 @@ No companies available
 | Physical Design Flow and Methodology Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/114109120839066310-physical-design-flow-and-methodology-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3) | 3w |
 | CPU Execution Unit RTL Designer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139917336252424902-cpu-execution-unit-rtl-designer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3) | 3w |
 
-#### 🍎 **Apple** (9 positions)
+#### 🍎 **Apple** (8 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Hardware Systems Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631334-0836/hardware-systems-engineer?team=HRDWR) | 1w |
+| Administrative Assistant, Hardware Technology | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631674-3956/administrative-assistant-hardware-technology?team=CORSV) | 1w |
 | Hardware Engineer - Apple Maps | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631379-0836/hardware-engineer-apple-maps?team=SFTWR) | 1w |
-| Hardware Reliability Engineer - Watch System Reliability | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631378-0836/hardware-reliability-engineer-watch-system-reliability?team=HRDWR) | 1w |
 | Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630678-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 2w |
 | Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628727-0836/hardware-electrical-engineer?team=HRDWR) | 3w |
 | Cellular RF Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200623034-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 3w |
@@ -312,7 +312,7 @@ No companies available
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Junior Firmware Engineer - NIC Products | Durham, NC | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-NC-Durham-Swabia-Court-Suite-400/Junior-Firmware-Engineer---NIC-Products_R024193?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
+| Junior Firmware Engineer - NIC Products 🏠 | Durham, NC | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-NC-Durham-Swabia-Court-Suite-400/Junior-Firmware-Engineer---NIC-Products_R024193?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | ASIC Design Automation Engineer 🏠 | Fort Collins, CO | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/ASIC-Design-Automation-Engineer_R024234?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | R&D Engineer Hardware 🏠 | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-Hardware-5_R023955?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 
@@ -352,7 +352,7 @@ No companies available
 
 <div align="center">
 
-**🎯 18 current opportunities from 7 elite companies.**
+**🎯 19 current opportunities from 7 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
