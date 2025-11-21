@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Data Center Hardware Engineering - Hardware System Integration Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "22h",
+    "job_description": "• Minimum QualificationsBS in electrical or computer engineering required.\n• MS preferredMinimum 2 years relevant industry work experienceWorking knowledge of design and validation requirements for common low-speed and high-speed digital interfaces: I2C/SMBus, SPI, JTAG, USB, PCIe, Ethernet (SGMII, RMII, QSFP), DDR MemoryExcellent skills to debug problems from the system-level down to the transistor levelOutstanding written, verbal, and visual communication skills in order to develop functional specs, procedures, and other documentation needed for complex system integration.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200633413-3956/data-center-hardware-engineering-hardware-system-integration-engineer?team=HRDWR",
+    "id": "apple-data-center-hardware-engineering-hardware-system-integration-engineer-sunnyvale"
+  }
+]
