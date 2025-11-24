@@ -93,7 +93,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| GNSS Hardware Systems Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633243-3956/gnss-hardware-systems-engineer?team=HRDWR) | 4d |
+| Data Center Hardware Engineering - Hardware System Integration Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633413-3956/data-center-hardware-engineering-hardware-system-integration-engineer?team=HRDWR) | 3d |
 | GNSS Hardware Systems Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633246-3543/gnss-hardware-systems-engineer?team=HRDWR) | 4d |
 
 ### 🏢 **Top Tech** (2 positions)
