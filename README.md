@@ -92,9 +92,9 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Center Hardware Engineering - Hardware System Integration Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633413-3956/data-center-hardware-engineering-hardware-system-integration-engineer?team=HRDWR) | 4d |
 | GNSS Hardware Systems Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633243-3956/gnss-hardware-systems-engineer?team=HRDWR) | 5d |
 | GNSS Hardware Systems Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633246-3543/gnss-hardware-systems-engineer?team=HRDWR) | 5d |
+| Network Systems Integration Engineer - Data Center Hardware | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633188-3956/network-systems-integration-engineer-data-center-hardware?team=HRDWR) | 5d |
 
 ### 🏢 **Top Tech** (2 positions)
 
@@ -151,8 +151,8 @@ No companies available
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 1 | 6% | No or minimal experience |
-| 🟡 Beginner & Early Career | 8 | 50% | 1-2 years of experience |
-| 🔴 Manager         | 7 | 44% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 7 | 44% | 1-2 years of experience |
+| 🔴 Manager         | 8 | 50% | 2+ years of experience |
 
 ---
 
@@ -271,8 +271,8 @@ No companies available
 | Hardware Engineer - Apple Maps | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631379-0836/hardware-engineer-apple-maps?team=SFTWR) | 2w |
 | Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630678-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 2w |
 | Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628727-0836/hardware-electrical-engineer?team=HRDWR) | 3w |
-| Camera Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629239-0836/camera-hardware-electrical-engineer?team=HRDWR) | 3w |
 | Cellular RF Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200623034-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 3w |
+| Camera Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629239-0836/camera-hardware-electrical-engineer?team=HRDWR) | 3w |
 | iPhone Hardware System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629320-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 3w |
 | iPhone Hardware Systems Validation Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628398-0836/iphone-hardware-systems-validation-engineer?team=HRDWR) | 4w |
 
