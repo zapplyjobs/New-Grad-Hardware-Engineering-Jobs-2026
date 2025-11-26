@@ -4,13 +4,13 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Hardware Engineering Jobs 2025-2026</h3>
-<p><em>Real-time job opportunities from 5</em></p>
+<p><em>Real-time job opportunities from 4</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-12-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-11-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-9-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -41,7 +41,7 @@
   
   # 💼 2026 New Grad Hardware Engineering Jobs by Zapply
 
-**🚀 Job opportunities from 5+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 4+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -58,8 +58,8 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 12 
-- **🏢 Companies**: 5 elite tech companies
+- **🔥 Active Positions**: 11 
+- **🏢 Companies**: 4 elite tech companies
 - **⭐ FAANG+ Jobs**: 9 premium opportunities  
 - **📅 Last Updated**: November 26, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
@@ -94,8 +94,8 @@
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Center Hardware Engineering - Hardware System Integration Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633413-3956/data-center-hardware-engineering-hardware-system-integration-engineer?team=HRDWR) | 5d |
-| GNSS Hardware Systems Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633243-3956/gnss-hardware-systems-engineer?team=HRDWR) | 6d |
 | GNSS Hardware Systems Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633246-3543/gnss-hardware-systems-engineer?team=HRDWR) | 6d |
+| GNSS Hardware Systems Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633246-3956/gnss-hardware-systems-engineer?team=HRDWR) | 6d |
 
 ### 💻 **Enterprise Hardware** (2 positions)
 
@@ -105,14 +105,6 @@
 |------|----------|-----------|-----|
 | Board Hardware Engineer | Duluth, GA | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-GA-Duluth-River-Green-Parkway/Board-Hardware-Engineer_R024348?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
 | SI Hardware Engineer | Duluth, GA | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-GA-Duluth-River-Green-Parkway/SI-Hardware-Engineer_R024350?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
-
-### 🚀 **Startups & Growth** (1 position)
-
-#### 🛡️ **BAE Systems** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Electrical Engineer | Reston, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Reston-VA/Electrical-Engineer_R0229980?q=hardware+engineering) | 1d |
 
 
 
@@ -139,9 +131,9 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 1 | 8% | No or minimal experience |
-| 🟡 Beginner & Early Career | 8 | 67% | 1-2 years of experience |
-| 🔴 Manager         | 3 | 25% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 1 | 9% | No or minimal experience |
+| 🟡 Beginner & Early Career | 8 | 73% | 1-2 years of experience |
+| 🔴 Manager         | 2 | 18% | 2+ years of experience |
 
 ---
 
@@ -152,15 +144,15 @@ No companies available
 - **Cupertino, CA**: 2 positions
 - **Goleta, CA**: 1 positions
 - **Poughkeepsie, NY**: 1 positions
-- **Reston, VA**: 1 positions
 - **San Diego, CA**: 1 positions
 - **Chicago, IL**: 1 positions
+- **Seattle, WA**: 1 positions
 
 ---
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 12+ verified CS internships and entry-level hardware roles from 5 elite tech companies.
+✅ **100% Real Jobs:** 11+ verified CS internships and entry-level hardware roles from 4 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -219,7 +211,7 @@ No companies available
 
 ### **Archived Job Stats**
 - **📁 Total Jobs**: 44 positions
-- **🏢 Companies**: 5 companies  
+- **🏢 Companies**: 4 companies  
 - **⭐ FAANG+ Jobs & Internships**: 24 roles
 
 ### ⭐ **FAANG+** (24 positions)
@@ -258,10 +250,10 @@ No companies available
 | Hardware Systems Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631334-0836/hardware-systems-engineer?team=HRDWR) | 1w |
 | Administrative Assistant, Hardware Technology | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631674-3956/administrative-assistant-hardware-technology?team=CORSV) | 1w |
 | Hardware Reliability Engineer - Watch System Reliability | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631378-0836/hardware-reliability-engineer-watch-system-reliability?team=HRDWR) | 2w |
+| Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630678-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 2w |
 | Camera Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629239-0836/camera-hardware-electrical-engineer?team=HRDWR) | 3w |
 | Baseband Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630133-3956/baseband-hardware-design-engineer?team=HRDWR) | 3w |
 | Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628727-0836/hardware-electrical-engineer?team=HRDWR) | 4w |
-| Cellular RF Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200623034-3956/cellular-rf-hardware-design-engineer?team=HRDWR) | 4w |
 
 ### 🏢 **Top Tech** (9 positions)
 
@@ -339,7 +331,7 @@ No companies available
 
 <div align="center">
 
-**🎯 12 current opportunities from 5 elite companies.**
+**🎯 11 current opportunities from 4 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
