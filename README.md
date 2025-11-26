@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-10-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-12-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-7-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-9-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -58,9 +58,9 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 10 
+- **🔥 Active Positions**: 12 
 - **🏢 Companies**: 5 elite tech companies
-- **⭐ FAANG+ Jobs**: 7 premium opportunities  
+- **⭐ FAANG+ Jobs**: 9 premium opportunities  
 - **📅 Last Updated**: November 26, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 46 (older than 1 week)
@@ -71,7 +71,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (7 positions)
+### ⭐ **FAANG+** (9 positions)
 
 #### 📦 **Amazon** (3 positions)
 
@@ -88,12 +88,14 @@
 | Electrical Engineer, Google Pixel | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/97640160010609350-electrical-engineer-google-pixel?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 5d |
 | RTL Design Engineer, Multimedia and Machine Learning Accelerators | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143549426214806214-rtl-design-engineer-multimedia-and-machine-learning-accelerators?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 6d |
 
-#### 🍎 **Apple** (2 positions)
+#### 🍎 **Apple** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Center Hardware Engineering - Hardware System Integration Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633413-3956/data-center-hardware-engineering-hardware-system-integration-engineer?team=HRDWR) | 5d |
 | GNSS Hardware Systems Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633246-3543/gnss-hardware-systems-engineer?team=HRDWR) | 6d |
+| GNSS Hardware Systems Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633246-3956/gnss-hardware-systems-engineer?team=HRDWR) | 6d |
+| Network Systems Integration Engineer - Data Center Hardware | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633188-3956/network-systems-integration-engineer-data-center-hardware?team=HRDWR) | 6d |
 
 ### 💻 **Enterprise Hardware** (2 positions)
 
@@ -121,7 +123,7 @@
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (2 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (3)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (2 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (4) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (3)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -137,17 +139,17 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 1 | 10% | No or minimal experience |
-| 🟡 Beginner & Early Career | 7 | 70% | 1-2 years of experience |
-| 🔴 Manager         | 2 | 20% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 1 | 8% | No or minimal experience |
+| 🟡 Beginner & Early Career | 8 | 67% | 1-2 years of experience |
+| 🔴 Manager         | 3 | 25% | 2+ years of experience |
 
 ---
 
 ## 🌍 **Top Locations**
 
+- **Sunnyvale, CA**: 3 positions
 - **Duluth, GA**: 2 positions
 - **Cupertino, CA**: 2 positions
-- **Sunnyvale, CA**: 1 positions
 - **Chicago, IL**: 1 positions
 - **San Diego, CA**: 1 positions
 - **Mountain View, CA**: 1 positions
@@ -158,7 +160,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 10+ verified CS internships and entry-level hardware roles from 5 elite tech companies.
+✅ **100% Real Jobs:** 12+ verified CS internships and entry-level hardware roles from 5 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -339,7 +341,7 @@ No companies available
 
 <div align="center">
 
-**🎯 10 current opportunities from 5 elite companies.**
+**🎯 12 current opportunities from 5 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
