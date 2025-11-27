@@ -320,6 +320,30 @@ No companies available
 
 ---
 
+## 📜 License
+
+This project is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+
+### ✅ You CAN:
+- **Use** for personal job searching and career development
+- **Fork and modify** for educational or non-commercial projects
+- **Share** with proper attribution to Zapply
+- **Build upon** this work for non-profit purposes
+
+### ❌ You CANNOT:
+- **Sell or commercialize** this data (e.g., recruiting agencies, paid job boards)
+- **Remove attribution** to Zapply or claim as your own work
+- **Relicense** derivatives under more permissive terms (ShareAlike applies)
+- **Use for commercial SaaS** or subscription services
+
+### 💼 Commercial Use?
+Interested in using this data commercially? Contact us at **hello@zapply.com** for licensing options.
+
+### 📄 Full License
+[View Full CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) | [Human-Readable Summary](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+---
+
 
 
 
