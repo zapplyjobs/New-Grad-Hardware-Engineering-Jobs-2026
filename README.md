@@ -238,11 +238,11 @@ No companies available
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Hardware Systems Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631334-0836/hardware-systems-engineer?team=HRDWR) | 1w |
+| GNSS Hardware Systems Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633243-3956/gnss-hardware-systems-engineer?team=HRDWR) | 1w |
 | GNSS Hardware Systems Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633246-3543/gnss-hardware-systems-engineer?team=HRDWR) | 1w |
-| GNSS Hardware Systems Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633246-3956/gnss-hardware-systems-engineer?team=HRDWR) | 1w |
 | Network Systems Integration Engineer - Data Center Hardware | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633188-3956/network-systems-integration-engineer-data-center-hardware?team=HRDWR) | 1w |
-| Administrative Assistant, Hardware Technology | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631674-3956/administrative-assistant-hardware-technology?team=CORSV) | 2w |
 | Hardware Engineer - Apple Maps | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631379-0836/hardware-engineer-apple-maps?team=SFTWR) | 2w |
+| Hardware Reliability Engineer - Watch System Reliability | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631378-0836/hardware-reliability-engineer-watch-system-reliability?team=HRDWR) | 2w |
 | Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630678-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 2w |
 | Baseband Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630133-3956/baseband-hardware-design-engineer?team=HRDWR) | 3w |
 | Hardware Electrical Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628727-0836/hardware-electrical-engineer?team=HRDWR) | 4w |
