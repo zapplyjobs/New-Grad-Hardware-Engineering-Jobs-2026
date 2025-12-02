@@ -77,7 +77,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Design Verification Engineer, HW Compute Group | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3134730/design-verification-engineer-hw-compute-group) | 5h |
+| Design Verification Engineer, HW Compute Group | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3134730/design-verification-engineer-hw-compute-group) | 6h |
 
 #### 🟢 **Google** (8 positions)
 
