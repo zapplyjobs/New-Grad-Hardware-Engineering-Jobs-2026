@@ -4,14 +4,14 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Hardware Engineering Jobs 2025-2026</h3>
-<p><em>Real-time job opportunities from 6</em></p>
+<p><em>Real-time job opportunities from 7</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-12-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-6-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-13-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-7-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -41,7 +41,7 @@
   
   # 💼 2026 New Grad Hardware Engineering Jobs by Zapply
 
-**🚀 Job opportunities from 6+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 7+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -58,12 +58,12 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 12 
-- **🏢 Companies**: 6 elite tech companies
-- **⭐ FAANG+ Jobs**: 6 premium opportunities  
+- **🔥 Active Positions**: 13 
+- **🏢 Companies**: 7 elite tech companies
+- **⭐ FAANG+ Jobs**: 7 premium opportunities  
 - **📅 Last Updated**: December 3, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 35 (older than 1 week)
+- **📁 Archived Jobs**: 33 (older than 1 week)
 
 
 ---
@@ -71,7 +71,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (6 positions)
+### ⭐ **FAANG+** (7 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -88,6 +88,12 @@
 | SoC DFT Engineer, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91731193396896454-soc-dft-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1mo |
 | Camera Firmware Engineer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92858759348396742-camera-firmware-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1mo |
 | Physical Design Flow and Methodology Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/114109120839066310-physical-design-flow-and-methodology-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1mo |
+
+#### 🍎 **Apple** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Data Center Hardware Engineering - Hardware System Integration Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633634-3956/data-center-hardware-engineering-hardware-system-integration-engineer?team=HRDWR) | 3d |
 
 ### 🏢 **Top Tech** (3 positions)
 
@@ -131,8 +137,8 @@
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **FAANG+** (2 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (5 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+#### ⭐ **FAANG+** (3 companies)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (5 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -148,19 +154,19 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 3 | 25% | No or minimal experience |
-| 🟡 Beginner & Early Career | 6 | 50% | 1-2 years of experience |
-| 🔴 Manager         | 3 | 25% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 3 | 23% | No or minimal experience |
+| 🟡 Beginner & Early Career | 7 | 54% | 1-2 years of experience |
+| 🔴 Manager         | 3 | 23% | 2+ years of experience |
 
 ---
 
 ## 🌍 **Top Locations**
 
-- **Sunnyvale, CA**: 5 positions
+- **Sunnyvale, CA**: 6 positions
 - **Austin, TX**: 2 positions
 - **Santa Clara, CA**: 1 positions
-- **Irvine, CA**: 1 positions
 - **Palo Alto, CA**: 1 positions
+- **Irvine, CA**: 1 positions
 - **Mountain View, CA**: 1 positions
 - **Boise, ID**: 1 positions
 
@@ -168,7 +174,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 12+ verified CS internships and entry-level hardware roles from 6 elite tech companies.
+✅ **100% Real Jobs:** 13+ verified CS internships and entry-level hardware roles from 7 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -221,23 +227,23 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 35 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 33 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 35 positions
-- **🏢 Companies**: 6 companies  
-- **⭐ FAANG+ Jobs & Internships**: 19 roles
+- **📁 Total Jobs**: 33 positions
+- **🏢 Companies**: 7 companies  
+- **⭐ FAANG+ Jobs & Internships**: 17 roles
 
-### ⭐ **FAANG+** (19 positions)
+### ⭐ **FAANG+** (17 positions)
 
 #### 📦 **Amazon** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3129967/systems-development-eng-aws-generative-ai-ml-servers-aws-hardware-engineering-accelerators) | 1w |
 | Embedded Software Dev Engineer, AWS Hardware Engineering | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3129954/embedded-software-dev-engineer-aws-hardware-engineering) | 1w |
+| Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3129967/systems-development-eng-aws-generative-ai-ml-servers-aws-hardware-engineering-accelerators) | 1w |
 | Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Generative AI & ML Servers | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3129971/cloud-hardware-dev-engineer-aws-generative-ai-ml-servers-aws-generative-ai-ml-servers) | 1w |
 | Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Generative AI & ML Servers | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3128589/hardware-dev-engineer-aws-generative-ai-ml-servers-aws-generative-ai-ml-servers) | 2w |
 | Cloud Hardware Development Engineer, Hardware Engineering Services | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3122907/cloud-hardware-development-engineer-hardware-engineering-services) | 3w |
@@ -254,17 +260,15 @@ No companies available
 | Radio Frequency Hardware Engineer, Google Pixel | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91161901924262598-radio-frequency-hardware-engineer-google-pixel?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 2w |
 | RTL Design Engineer, Multimedia and Machine Learning Accelerators | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143549426214806214-rtl-design-engineer-multimedia-and-machine-learning-accelerators?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 2w |
 
-#### 🍎 **Apple** (7 positions)
+#### 🍎 **Apple** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Center Hardware Engineering - Hardware System Integration Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633413-3956/data-center-hardware-engineering-hardware-system-integration-engineer?team=HRDWR) | 1w |
 | GNSS Hardware Systems Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633243-3956/gnss-hardware-systems-engineer?team=HRDWR) | 1w |
-| GNSS Hardware Systems Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633246-3543/gnss-hardware-systems-engineer?team=HRDWR) | 1w |
-| Hardware Systems Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631334-0836/hardware-systems-engineer?team=HRDWR) | 2w |
+| Administrative Assistant, Hardware Technology | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631674-3956/administrative-assistant-hardware-technology?team=CORSV) | 2w |
 | Hardware Engineer - Apple Maps | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631379-0836/hardware-engineer-apple-maps?team=SFTWR) | 3w |
 | Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630678-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 3w |
-| Baseband Hardware Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630133-3956/baseband-hardware-design-engineer?team=HRDWR) | 4w |
+| Hardware Reliability Engineer - Watch System Reliability | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631378-0836/hardware-reliability-engineer-watch-system-reliability?team=HRDWR) | 3w |
 
 ### 🏢 **Top Tech** (6 positions)
 
@@ -326,7 +330,7 @@ No companies available
 
 <div align="center">
 
-**🎯 12 current opportunities from 6 elite companies.**
+**🎯 13 current opportunities from 7 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
