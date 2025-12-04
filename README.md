@@ -63,7 +63,7 @@
 - **⭐ FAANG+ Jobs**: 11 premium opportunities  
 - **📅 Last Updated**: December 4, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 32 (older than 1 week)
+- **📁 Archived Jobs**: 33 (older than 1 week)
 
 
 ---
@@ -237,12 +237,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 32 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 33 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 32 positions
+- **📁 Total Jobs**: 33 positions
 - **🏢 Companies**: 8 companies  
 - **⭐ FAANG+ Jobs & Internships**: 18 roles
 
