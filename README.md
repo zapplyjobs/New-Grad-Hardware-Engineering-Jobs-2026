@@ -63,7 +63,7 @@
 - **⭐ FAANG+ Jobs**: 10 premium opportunities  
 - **📅 Last Updated**: December 4, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 31 (older than 1 week)
+- **📁 Archived Jobs**: 32 (older than 1 week)
 
 
 ---
@@ -84,7 +84,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| System Hardware Reliability Engineer | Atlanta, GA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110406840776303302-system-hardware-reliability-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 2h |
+| System Hardware Reliability Engineer | Atlanta, GA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110406840776303302-system-hardware-reliability-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 3h |
 | Hardware Engineer, Platforms, University Graduate | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127517607023518406-hardware-engineer-platforms-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1mo |
 | Hardware Signal Integrity Test Engineer, Platforms, University Graduate | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82077197702963910-hardware-signal-integrity-test-engineer-platforms-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1mo |
 | SoC DFT Engineer, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91731193396896454-soc-dft-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1mo |
@@ -163,8 +163,8 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 3 | 18% | No or minimal experience |
-| 🟡 Beginner & Early Career | 10 | 59% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 2 | 12% | No or minimal experience |
+| 🟡 Beginner & Early Career | 11 | 65% | 1-2 years of experience |
 | 🔴 Manager         | 4 | 24% | 2+ years of experience |
 
 ---
@@ -237,16 +237,16 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 31 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 32 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 31 positions
+- **📁 Total Jobs**: 32 positions
 - **🏢 Companies**: 8 companies  
-- **⭐ FAANG+ Jobs & Internships**: 16 roles
+- **⭐ FAANG+ Jobs & Internships**: 17 roles
 
-### ⭐ **FAANG+** (16 positions)
+### ⭐ **FAANG+** (17 positions)
 
 #### 📦 **Amazon** (4 positions)
 
@@ -261,20 +261,21 @@ No companies available
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Hardware Engineer, Quantum Superconducting Digital Electronics | Goleta, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/75478255464784582-hardware-engineer-quantum-superconducting-digital-electronics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1w |
 | CPU Design Verification Engineer, Silicon, University Graduate | Poughkeepsie, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111600029935772358-cpu-design-verification-engineer-silicon-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1w |
+| Hardware Engineer, Quantum Superconducting Digital Electronics | Goleta, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/75478255464784582-hardware-engineer-quantum-superconducting-digital-electronics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1w |
 | Hardware Engineer, Input Sensing | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131631841156178630-hardware-engineer-input-sensing?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 2w |
 | Sensor Hardware Engineer, Consumer Hardware | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/78134209553539782-sensor-hardware-engineer-consumer-hardware?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 2w |
 | Radio Frequency Hardware Engineer, Google Pixel | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91161901924262598-radio-frequency-hardware-engineer-google-pixel?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 2w |
 | Electrical Engineer, Google Pixel | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/97640160010609350-electrical-engineer-google-pixel?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 2w |
 | RTL Design Engineer, Multimedia and Machine Learning Accelerators | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143549426214806214-rtl-design-engineer-multimedia-and-machine-learning-accelerators?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 2w |
 
-#### 🍎 **Apple** (5 positions)
+#### 🍎 **Apple** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| GNSS Hardware Systems Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633246-3543/gnss-hardware-systems-engineer?team=HRDWR) | 2w |
-| GNSS Hardware Systems Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633246-3956/gnss-hardware-systems-engineer?team=HRDWR) | 2w |
+| Hardware Systems Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631334-0836/hardware-systems-engineer?team=HRDWR) | 2w |
+| GNSS Hardware Systems Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633243-3956/gnss-hardware-systems-engineer?team=HRDWR) | 2w |
+| GNSS Hardware Systems Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633243-3543/gnss-hardware-systems-engineer?team=HRDWR) | 2w |
 | Administrative Assistant, Hardware Technology | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631674-3956/administrative-assistant-hardware-technology?team=CORSV) | 3w |
 | Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630678-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 3w |
 | Hardware Reliability Engineer - Watch System Reliability | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631378-0836/hardware-reliability-engineer-watch-system-reliability?team=HRDWR) | 3w |
@@ -303,8 +304,8 @@ No companies available
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Board Hardware Engineer | Duluth, GA | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-GA-Duluth-River-Green-Parkway/Board-Hardware-Engineer_R024348?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | SI Hardware Engineer | Duluth, GA | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-GA-Duluth-River-Green-Parkway/SI-Hardware-Engineer_R024350?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
+| Board Hardware Engineer | Duluth, GA | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-GA-Duluth-River-Green-Parkway/Board-Hardware-Engineer_R024348?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | Design Automation DFT Engineer | Fort Collins, CO | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Design-Automation-DFT-Engineer_R024258?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 | Design Verification Engineer | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R024289?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 | Junior Firmware Engineer - NIC Products 🏠 | Durham, NC | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-NC-Durham-Swabia-Court-Suite-400/Junior-Firmware-Engineer---NIC-Products_R024193?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
