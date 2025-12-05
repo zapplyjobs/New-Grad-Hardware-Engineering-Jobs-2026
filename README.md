@@ -185,11 +185,11 @@ No companies available
 - **Sunnyvale, CA**: 6 positions
 - **Austin, TX**: 2 positions
 - **Santa Clara, CA**: 2 positions
-- **Mountain View, CA**: 2 positions
 - **Cupertino, CA**: 2 positions
+- **Mountain View, CA**: 2 positions
+- **Palo Alto, CA**: 1 positions
 - **Redmond, WA**: 1 positions
-- **Florence, KY**: 1 positions
-- **King George, VA**: 1 positions
+- **Atlanta, GA**: 1 positions
 
 ---
 
@@ -284,9 +284,9 @@ No companies available
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | GNSS Hardware Systems Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633243-3956/gnss-hardware-systems-engineer?team=HRDWR) | 2w |
-| GNSS Hardware Systems Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633246-3543/gnss-hardware-systems-engineer?team=HRDWR) | 2w |
 | Network Systems Integration Engineer - Data Center Hardware | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633188-3956/network-systems-integration-engineer-data-center-hardware?team=HRDWR) | 2w |
 | Hardware Systems Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631334-0836/hardware-systems-engineer?team=HRDWR) | 3w |
+| Administrative Assistant, Hardware Technology | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631674-3956/administrative-assistant-hardware-technology?team=CORSV) | 3w |
 | Hardware Engineer - Apple Maps | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631379-0836/hardware-engineer-apple-maps?team=SFTWR) | 3w |
 | Hardware Reliability Engineer - Watch System Reliability | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631378-0836/hardware-reliability-engineer-watch-system-reliability?team=HRDWR) | 3w |
 | Hardware System Design Electrical Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630678-0836/hardware-system-design-electrical-engineer-iphone?team=HRDWR) | 4w |
@@ -305,7 +305,7 @@ No companies available
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Hardware Applications Engineer | TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/73365/login) | 2w |
+| Hardware Applications Engineer | TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/73365/login) | 3w |
 | FPGA Prototyping and Emulation Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/73364/login) | 3w |
 
 ### 💻 **Enterprise Hardware** (6 positions)
