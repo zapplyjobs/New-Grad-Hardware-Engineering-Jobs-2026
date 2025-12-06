@@ -176,8 +176,8 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 4 | 17% | No or minimal experience |
-| 🟡 Beginner & Early Career | 13 | 57% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 3 | 13% | No or minimal experience |
+| 🟡 Beginner & Early Career | 14 | 61% | 1-2 years of experience |
 | 🔴 Manager         | 6 | 26% | 2+ years of experience |
 
 ---
