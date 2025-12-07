@@ -63,7 +63,7 @@
 - **⭐ FAANG+ Jobs**: 12 premium opportunities  
 - **📅 Last Updated**: December 7, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 29 (older than 1 week)
+- **📁 Archived Jobs**: 30 (older than 1 week)
 
 
 ---
@@ -175,8 +175,8 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 4 | 18% | No or minimal experience |
-| 🟡 Beginner & Early Career | 12 | 55% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 3 | 14% | No or minimal experience |
+| 🟡 Beginner & Early Career | 13 | 59% | 1-2 years of experience |
 | 🔴 Manager         | 6 | 27% | 2+ years of experience |
 
 ---
@@ -189,8 +189,8 @@ No companies available
 - **Cupertino, CA**: 2 positions
 - **Mountain View, CA**: 2 positions
 - **Boise, ID**: 2 positions
+- **King George, VA**: 1 positions
 - **Palo Alto, CA**: 1 positions
-- **Atlanta, GA**: 1 positions
 
 ---
 
@@ -249,22 +249,23 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 29 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 30 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 29 positions
+- **📁 Total Jobs**: 30 positions
 - **🏢 Companies**: 9 companies  
-- **⭐ FAANG+ Jobs & Internships**: 16 roles
+- **⭐ FAANG+ Jobs & Internships**: 17 roles
 
-### ⭐ **FAANG+** (16 positions)
+### ⭐ **FAANG+** (17 positions)
 
-#### 📦 **Amazon** (1 position)
+#### 📦 **Amazon** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Embedded Software Dev Engineer, AWS Hardware Engineering | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3129954/embedded-software-dev-engineer-aws-hardware-engineering) | 2w |
+| Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Generative AI & ML Servers | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3129971/cloud-hardware-dev-engineer-aws-generative-ai-ml-servers-aws-generative-ai-ml-servers) | 2w |
 
 #### 🟢 **Google** (7 positions)
 
