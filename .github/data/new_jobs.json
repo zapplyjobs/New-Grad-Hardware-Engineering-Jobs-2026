@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Hardware System Engineer",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "20h",
+    "job_description": "• Minimum QualificationsBS/MS in Electrical Engineering, Computer Engineering, or related field and 3+ years in hardware systems test, silicon test experience working in a NPI/HVM environmentSolid OOP programming experience in C or C++Good EE fundamentals, experience in interpreting schematics, understanding of embedded systems conceptsExcellent written and interpersonal skills.\n• Clear communication with cross-functional teams and leadershipAbility to travel internationally to manufacturing sites, up to 20%.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200634897-0836/hardware-system-engineer?team=HRDWR",
+    "id": "apple-hardware-system-engineer-cupertino"
+  }
+]
