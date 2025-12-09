@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AMD",
+    "job_title": "Hardware Design Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1h",
+    "job_description": "• Drive qualification, characterization, and pattern development efforts across engineering teams.\n• Cross-Functional CollaborationCollaborate with product, qualification, characterization, engineering, program management, NPI, and production test teams.\n• Strong experience across PCB schematic and layout design.\n• PCB design Experience on ATE platform preferably 93K SI/PI simulation using Cadence Sigrity, Ansys SIwave, and HFSS 3D simulation tools.\n• Understand industrial standards: bus specifications (PCI Express, AGP), SSTL, G/DDR2/3/5, I2C, high-speed/digital interfaces (TMDS, DP, HDMI, DVI), and video standards (VESA, Composite, S-Video and Component Video)Logic analyzers, voltmeters, oscilloscopes, hardware bring-up and debugSolid understanding of transistors and computer basicsExperience in MS Excel.\n• Experience in Python programming is preferred.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• ATE Hardware DevelopmentLead core aspects of the hardware design process from concept to production.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/75891/login",
+    "id": "amd-hardware-design-engineer-austin"
+  }
+]
