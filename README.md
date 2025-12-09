@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-23-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-24-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-13-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -58,12 +58,12 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 23 
+- **🔥 Active Positions**: 24 
 - **🏢 Companies**: 9 elite tech companies
 - **⭐ FAANG+ Jobs**: 13 premium opportunities  
 - **📅 Last Updated**: December 9, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 29 (older than 1 week)
+- **📁 Archived Jobs**: 28 (older than 1 week)
 
 
 ---
@@ -77,10 +77,10 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Cloud Hardware Development Engineer, Thermal & Mechanical | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139264/cloud-hardware-development-engineer-thermal-mechanical) | 3h |
-| Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3136557/systems-development-eng-aws-generative-ai-ml-servers-aws-hardware-engineering-accelerators) | 6d |
+| Cloud Hardware Development Engineer, Thermal & Mechanical | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139264/cloud-hardware-development-engineer-thermal-mechanical) | 4h |
 | RF Engineer (WiFi), Amazon Leo - Customer Terminals | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3138254/rf-engineer-wifi-amazon-leo-customer-terminals) | 4d |
 | Product Test Engineer - Machine Learning Hardware, RRL Technical Engineering | Florence, KY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3137361/product-test-engineer-machine-learning-hardware-rrl-technical-engineering) | 5d |
+| Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3136557/systems-development-eng-aws-generative-ai-ml-servers-aws-hardware-engineering-accelerators) | 6d |
 
 #### 🟢 **Google** (6 positions)
 
@@ -97,7 +97,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Hardware Systems Engineer - Board Design | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200635178-0836/hardware-systems-engineer-board-design?team=HRDWR) | 3h |
+| Hardware Systems Engineer - Board Design | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200635178-0836/hardware-systems-engineer-board-design?team=HRDWR) | 4h |
 | Hardware Systems Integration Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200635422-0836/hardware-systems-integration-engineer?team=HRDWR) | 1d |
 | Hardware Systems Engineer - iPad | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200634918-0836/hardware-systems-engineer-ipad?team=HRDWR) | 6d |
 
@@ -142,12 +142,13 @@
 |------|----------|-----------|-----|
 | Security Firmware Engineer | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/26527/login) | 1mo |
 
-### 🏭 **Manufacturing & Industrial** (2 positions)
+### 🏭 **Manufacturing & Industrial** (3 positions)
 
-#### 💾 **Micron Technology** (2 positions)
+#### 💾 **Micron Technology** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| MTS Circuit Design Engineer, HSIO | Folsom, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30868369) | 6d |
 | New College Grad - Engineer, Electrical Design – FPGA/ASIC | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30512424) | 1mo |
 | Engineer, ID1 RAM Hardware | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38690548) | 1mo |
 
@@ -177,8 +178,8 @@ No companies available
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 4 | 17% | No or minimal experience |
-| 🟡 Beginner & Early Career | 12 | 52% | 1-2 years of experience |
-| 🔴 Manager         | 7 | 30% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 13 | 54% | 1-2 years of experience |
+| 🔴 Manager         | 7 | 29% | 2+ years of experience |
 
 ---
 
@@ -191,13 +192,13 @@ No companies available
 - **Mountain View, CA**: 2 positions
 - **Boise, ID**: 2 positions
 - **Seattle, WA**: 1 positions
-- **King George, VA**: 1 positions
+- **Atlanta, GA**: 1 positions
 
 ---
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 23+ verified CS internships and entry-level hardware roles from 9 elite tech companies.
+✅ **100% Real Jobs:** 24+ verified CS internships and entry-level hardware roles from 9 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -250,16 +251,16 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 29 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 28 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 29 positions
+- **📁 Total Jobs**: 28 positions
 - **🏢 Companies**: 9 companies  
-- **⭐ FAANG+ Jobs & Internships**: 17 roles
+- **⭐ FAANG+ Jobs & Internships**: 16 roles
 
-### ⭐ **FAANG+** (17 positions)
+### ⭐ **FAANG+** (16 positions)
 
 #### 📦 **Amazon** (2 positions)
 
@@ -280,7 +281,7 @@ No companies available
 | Sensor Hardware Engineer, Consumer Hardware | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/78134209553539782-sensor-hardware-engineer-consumer-hardware?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 3w |
 | Radio Frequency Hardware Engineer, Google Pixel | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91161901924262598-radio-frequency-hardware-engineer-google-pixel?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 3w |
 
-#### 🍎 **Apple** (8 positions)
+#### 🍎 **Apple** (7 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -290,7 +291,6 @@ No companies available
 | Network Systems Integration Engineer - Data Center Hardware | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633188-3956/network-systems-integration-engineer-data-center-hardware?team=HRDWR) | 2w |
 | Hardware Systems Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631334-0836/hardware-systems-engineer?team=HRDWR) | 3w |
 | Administrative Assistant, Hardware Technology | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631674-3956/administrative-assistant-hardware-technology?team=CORSV) | 3w |
-| Hardware Reliability Engineer - Watch System Reliability | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631378-0836/hardware-reliability-engineer-watch-system-reliability?team=HRDWR) | 3w |
 | Hardware Engineer - Apple Maps | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631379-0836/hardware-engineer-apple-maps?team=SFTWR) | 4w |
 
 ### 🏢 **Top Tech** (5 positions)
@@ -299,8 +299,8 @@ No companies available
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Post Silicon Hardware System Integration Engineer' | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Post-Silicon-Hardware-Engineer_JR2003779?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 2w |
 | ASIC Design Engineer, Hardware Tools and Methodology Development | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Engineer--Hardware-Tools-and-Methodology-Development_JR2008177?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 2w |
+| Post Silicon Hardware System Integration Engineer' | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Post-Silicon-Hardware-Engineer_JR2003779?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 2w |
 | ATE Hardware Engineer | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ATE-Hardware-Engineer_JR2006929?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 3w |
 
 #### 🔶 **AMD** (2 positions)
@@ -342,7 +342,7 @@ No companies available
 
 <div align="center">
 
-**🎯 23 current opportunities from 9 elite companies.**
+**🎯 24 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
