@@ -4,13 +4,13 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Hardware Engineering Jobs 2025-2026</h3>
-<p><em>Real-time job opportunities from 9</em></p>
+<p><em>Real-time job opportunities from 8</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-24-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-23-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-8-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-12-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -41,7 +41,7 @@
   
   # 💼 2026 New Grad Hardware Engineering Jobs by Zapply
 
-**🚀 Job opportunities from 9+ top companies • Updated daily • US Positions**
+**🚀 Job opportunities from 8+ top companies • Updated daily • US Positions**
 
 > Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
 
@@ -58,8 +58,8 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 24 
-- **🏢 Companies**: 9 elite tech companies
+- **🔥 Active Positions**: 23 
+- **🏢 Companies**: 8 elite tech companies
 - **⭐ FAANG+ Jobs**: 12 premium opportunities  
 - **📅 Last Updated**: December 10, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
@@ -118,13 +118,7 @@
 | Power Methodology Engineer, Data Center Hardware IPs | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/75241/login) | 4d |
 | Design Verification Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/67993/login) | 1mo |
 
-### 🚀 **Startups & Growth** (2 positions)
-
-#### 🛡️ **BAE Systems** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Electrical Engineer | King George, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/King-George-VA/Electrical-Engineer_R0230291?q=hardware+engineering) | 6d |
+### 🚀 **Startups & Growth** (1 position)
 
 #### ⚙️ **General Dynamics** (1 position)
 
@@ -176,8 +170,8 @@ No companies available
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 4 | 17% | No or minimal experience |
-| 🟡 Beginner & Early Career | 10 | 42% | 1-2 years of experience |
-| 🔴 Manager         | 10 | 42% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 10 | 43% | 1-2 years of experience |
+| 🔴 Manager         | 9 | 39% | 2+ years of experience |
 
 ---
 
@@ -196,7 +190,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 24+ verified CS internships and entry-level hardware roles from 9 elite tech companies.
+✅ **100% Real Jobs:** 23+ verified CS internships and entry-level hardware roles from 8 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -255,7 +249,7 @@ No companies available
 
 ### **Archived Job Stats**
 - **📁 Total Jobs**: 30 positions
-- **🏢 Companies**: 9 companies  
+- **🏢 Companies**: 8 companies  
 - **⭐ FAANG+ Jobs & Internships**: 17 roles
 
 ### ⭐ **FAANG+** (17 positions)
@@ -342,7 +336,7 @@ No companies available
 
 <div align="center">
 
-**🎯 24 current opportunities from 9 elite companies.**
+**🎯 23 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
