@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Amazon",
+    "job_title": "Electrical Engineer, Amazon Leo",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "23h",
+    "job_description": "hardware engineering job for the role Electrical Engineer, Amazon Leo",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3141570/electrical-engineer-amazon-leo",
+    "id": "amazon-electrical-engineer-amazon-leo-redmond"
+  }
+]
