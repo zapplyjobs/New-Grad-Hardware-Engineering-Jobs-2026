@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Product Quality Engineer, Google Cloud, Hardware",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "hardware engineering job for the role Product Quality Engineer, Google Cloud, Hardware",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74656677076312774-product-quality-engineer-google-cloud-hardware?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1",
+    "id": "google-product-quality-engineer-google-cloud-hardware-sunnyvale"
+  }
+]
