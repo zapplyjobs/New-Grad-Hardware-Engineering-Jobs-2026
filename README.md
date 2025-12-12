@@ -83,8 +83,8 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Product Design Engineer, Pixel Hardware | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/121328523313849030-product-design-engineer-pixel-hardware?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1h |
-| Product Quality Engineer, Google Cloud, Hardware | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/74656677076312774-product-quality-engineer-google-cloud-hardware?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 15h |
+| Product Design Engineer, Pixel Hardware | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/121328523313849030-product-design-engineer-pixel-hardware?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 2h |
+| Product Quality Engineer, Google Cloud, Hardware | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/74656677076312774-product-quality-engineer-google-cloud-hardware?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 16h |
 | SoC Physical Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/79886744651997894-soc-physical-design-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1d |
 | Hardware Validation Engineer, Cloud Platforms | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/95984754523808454-hardware-validation-engineer-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 6d |
 | Hardware Engineer, Platforms, University Graduate | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127517607023518406-hardware-engineer-platforms-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1mo |
@@ -97,9 +97,9 @@
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | System Hardware Validation Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636176-0157/system-hardware-validation-engineer?team=HRDWR) | 1d |
+| iPhone Hardware System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636096-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 1d |
 | Hardware System Modeling Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636091-0836/hardware-system-modeling-engineer-iphone?team=HRDWR) | 1d |
 | Hardware System Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200634897-0836/hardware-system-engineer?team=HRDWR) | 3d |
-| Hardware Systems Engineer - Board Design | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200635178-0836/hardware-systems-engineer-board-design?team=HRDWR) | 3d |
 | Hardware Systems Integration Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200635422-0836/hardware-systems-integration-engineer?team=HRDWR) | 4d |
 
 ### 🏢 **Top Tech** (5 positions)
@@ -178,9 +178,9 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 2 | 8% | No or minimal experience |
-| 🟡 Beginner & Early Career | 12 | 48% | 1-2 years of experience |
-| 🔴 Manager         | 11 | 44% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 3 | 12% | No or minimal experience |
+| 🟡 Beginner & Early Career | 10 | 40% | 1-2 years of experience |
+| 🔴 Manager         | 12 | 48% | 2+ years of experience |
 
 ---
 
