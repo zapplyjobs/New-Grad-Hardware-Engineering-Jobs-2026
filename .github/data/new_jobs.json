@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Quality Field Test Engineer - Camera Hardware",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "23h",
+    "job_description": "• Minimum Qualifications3+ years in mobile device QA, camera image quality testing, or relevant experienceExperience working with optics, image sensors, and ISP algorithms and how they impact final image qualityPortfolio of photography work demonstrating creative and technical skill sCoding experience with Python or other scripting language.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200635457-0836/quality-field-test-engineer-camera-hardware?team=HRDWR",
+    "id": "apple-quality-field-test-engineer-camera-hardware-cupertino"
+  }
+]
