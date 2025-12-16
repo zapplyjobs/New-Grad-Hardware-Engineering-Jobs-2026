@@ -484,5 +484,17 @@
     "job_title": "ASIC Design Verification Engineer, Machine Learning",
     "company": "Google",
     "first_seen": "2025-12-15T15:12:36.340Z"
+  },
+  "google-hardware-engineer,-google-pixel-mountain-view": {
+    "assigned_date": "2025-12-16T12:50:58.460Z",
+    "job_title": "Hardware Engineer, Google Pixel",
+    "company": "Google",
+    "first_seen": "2025-12-16T12:50:58.460Z"
+  },
+  "google-asic-design-verification-engineer,-university-graduate-sunnyvale": {
+    "assigned_date": "2025-12-16T12:50:58.460Z",
+    "job_title": "ASIC Design Verification Engineer, University Graduate",
+    "company": "Google",
+    "first_seen": "2025-12-16T12:50:58.460Z"
   }
 }
