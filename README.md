@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-25-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-26-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-14-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-15-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -58,9 +58,9 @@
 ---
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 25 
+- **🔥 Active Positions**: 26 
 - **🏢 Companies**: 9 elite tech companies
-- **⭐ FAANG+ Jobs**: 14 premium opportunities  
+- **⭐ FAANG+ Jobs**: 15 premium opportunities  
 - **📅 Last Updated**: December 17, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 33 (older than 1 week)
@@ -71,7 +71,7 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (14 positions)
+### ⭐ **FAANG+** (15 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -93,14 +93,15 @@
 | SoC DFT Engineer, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91731193396896454-soc-dft-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1mo |
 | Camera Firmware Engineer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92858759348396742-camera-firmware-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1mo |
 
-#### 🍎 **Apple** (4 positions)
+#### 🍎 **Apple** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Administrative Assistant, Hardware Technology | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633141-0365/administrative-assistant-hardware-technology?team=CORSV) | 4d |
-| Administrative Assistant, Hardware Technology | Waltham, MA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633141-6205/administrative-assistant-hardware-technology?team=CORSV) | 4d |
 | Administrative Assistant, Hardware Technology | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636373-3956/administrative-assistant-hardware-technology?team=CORSV) | 4d |
+| Administrative Assistant, Hardware Technology | Waltham, MA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633141-6205/administrative-assistant-hardware-technology?team=CORSV) | 4d |
 | System Hardware Validation Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636176-0157/system-hardware-validation-engineer?team=HRDWR) | 6d |
+| Hardware System Modeling Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636091-0836/hardware-system-modeling-engineer-iphone?team=HRDWR) | 6d |
 
 ### 🏢 **Top Tech** (5 positions)
 
@@ -158,7 +159,7 @@
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (9 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (4) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (9 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (5) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -174,9 +175,9 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 3 | 12% | No or minimal experience |
-| 🟡 Beginner & Early Career | 12 | 48% | 1-2 years of experience |
-| 🔴 Manager         | 10 | 40% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 4 | 15% | No or minimal experience |
+| 🟡 Beginner & Early Career | 12 | 46% | 1-2 years of experience |
+| 🔴 Manager         | 10 | 38% | 2+ years of experience |
 
 ---
 
@@ -195,7 +196,7 @@ No companies available
 
 ## 🔮 **Why Hardware Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 25+ verified CS internships and entry-level hardware roles from 9 elite tech companies.
+✅ **100% Real Jobs:** 26+ verified CS internships and entry-level hardware roles from 9 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -278,9 +279,9 @@ No companies available
 | SoC Physical Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/79886744651997894-soc-physical-design-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1w |
 | Hardware Engineer, Quantum Superconducting Digital Electronics | Goleta, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/75478255464784582-hardware-engineer-quantum-superconducting-digital-electronics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 2w |
 | CPU Design Verification Engineer, Silicon, University Graduate | Poughkeepsie, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111600029935772358-cpu-design-verification-engineer-silicon-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 2w |
+| RTL Design Engineer, Multimedia and Machine Learning Accelerators | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143549426214806214-rtl-design-engineer-multimedia-and-machine-learning-accelerators?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 3w |
 | Hardware Engineer, Input Sensing | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131631841156178630-hardware-engineer-input-sensing?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 4w |
 | Electrical Engineer, Google Pixel | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/97640160010609350-electrical-engineer-google-pixel?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 3w |
-| RTL Design Engineer, Multimedia and Machine Learning Accelerators | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143549426214806214-rtl-design-engineer-multimedia-and-machine-learning-accelerators?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 3w |
 
 #### 🍎 **Apple** (8 positions)
 
@@ -356,7 +357,7 @@ No companies available
 
 <div align="center">
 
-**🎯 25 current opportunities from 9 elite companies.**
+**🎯 26 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
