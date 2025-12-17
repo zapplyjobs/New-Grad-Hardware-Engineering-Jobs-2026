@@ -98,9 +98,9 @@
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Administrative Assistant, Hardware Technology | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633141-0365/administrative-assistant-hardware-technology?team=CORSV) | 4d |
-| Administrative Assistant, Hardware Technology | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636373-3956/administrative-assistant-hardware-technology?team=CORSV) | 4d |
 | Administrative Assistant, Hardware Technology | Waltham, MA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633141-6205/administrative-assistant-hardware-technology?team=CORSV) | 4d |
 | System Hardware Validation Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636176-0157/system-hardware-validation-engineer?team=HRDWR) | 6d |
+| iPhone Hardware System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636096-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 6d |
 | Hardware System Modeling Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636091-0836/hardware-system-modeling-engineer-iphone?team=HRDWR) | 6d |
 
 ### 🏢 **Top Tech** (5 positions)
@@ -175,22 +175,22 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 4 | 15% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 3 | 12% | No or minimal experience |
 | 🟡 Beginner & Early Career | 12 | 46% | 1-2 years of experience |
-| 🔴 Manager         | 10 | 38% | 2+ years of experience |
+| 🔴 Manager         | 11 | 42% | 2+ years of experience |
 
 ---
 
 ## 🌍 **Top Locations**
 
-- **Sunnyvale, CA**: 7 positions
+- **Sunnyvale, CA**: 6 positions
 - **Austin, TX**: 4 positions
 - **Mountain View, CA**: 3 positions
 - **Quantico, VA**: 2 positions
 - **Arlington, VA**: 2 positions
+- **Cupertino, CA**: 2 positions
 - **Santa Clara, CA**: 1 positions
 - **TX**: 1 positions
-- **Spring, TX**: 1 positions
 
 ---
 
