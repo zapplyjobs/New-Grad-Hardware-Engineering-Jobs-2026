@@ -172,7 +172,7 @@ No companies available
 - **Santa Clara, CA**: 1 positions
 - **TX**: 1 positions
 - **Reston, VA**: 1 positions
-- **Irvine, CA**: 1 positions
+- **Cupertino, CA**: 1 positions
 
 ---
 
