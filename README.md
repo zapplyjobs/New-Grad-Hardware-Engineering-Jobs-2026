@@ -63,7 +63,7 @@
 - **⭐ FAANG+ Jobs**: 14 premium opportunities  
 - **📅 Last Updated**: December 21, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 33 (older than 1 week)
+- **📁 Archived Jobs**: 32 (older than 1 week)
 
 
 ---
@@ -156,8 +156,8 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 4 | 18% | No or minimal experience |
-| 🟡 Beginner & Early Career | 12 | 55% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 5 | 23% | No or minimal experience |
+| 🟡 Beginner & Early Career | 11 | 50% | 1-2 years of experience |
 | 🔴 Manager         | 6 | 27% | 2+ years of experience |
 
 ---
@@ -230,12 +230,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 33 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 32 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 33 positions
+- **📁 Total Jobs**: 32 positions
 - **🏢 Companies**: 6 companies  
 - **⭐ FAANG+ Jobs & Internships**: 20 roles
 
@@ -266,14 +266,14 @@ No companies available
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| System Hardware Validation Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636176-0157/system-hardware-validation-engineer?team=HRDWR) | 1w |
+| iPhone Hardware System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636096-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 1w |
+| Hardware System Modeling Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636091-0836/hardware-system-modeling-engineer-iphone?team=HRDWR) | 1w |
+| Administrative Assistant, Hardware Technology | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636373-3956/administrative-assistant-hardware-technology?team=CORSV) | 1w |
 | Hardware System Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200634897-0836/hardware-system-engineer?team=HRDWR) | 1w |
 | Hardware Systems Integration Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200635422-0836/hardware-systems-integration-engineer?team=HRDWR) | 1w |
-| Administrative Assistant, Hardware Technology | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633141-0365/administrative-assistant-hardware-technology?team=CORSV) | 1w |
-| Administrative Assistant, Hardware Technology | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636373-3956/administrative-assistant-hardware-technology?team=CORSV) | 1w |
-| iPhone Hardware System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636096-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 1w |
 | Hardware Systems Engineer - Board Design | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200635178-0836/hardware-systems-engineer-board-design?team=HRDWR) | 1w |
 | Administrative Assistant, Hardware Technology | Waltham, MA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633141-6205/administrative-assistant-hardware-technology?team=CORSV) | 1w |
-| Hardware Systems Engineer - iPad | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200634918-0836/hardware-systems-engineer-ipad?team=HRDWR) | 2w |
 | Data Center Hardware Engineering - Hardware System Integration Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633634-3956/data-center-hardware-engineering-hardware-system-integration-engineer?team=HRDWR) | 3w |
 
 ### 🏢 **Top Tech** (5 positions)
@@ -302,13 +302,12 @@ No companies available
 | Board Hardware Engineer | Duluth, GA | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-GA-Duluth-River-Green-Parkway/Board-Hardware-Engineer_R024348?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | SI Hardware Engineer | Duluth, GA | [<img src="./image.png" width="100" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-GA-Duluth-River-Green-Parkway/SI-Hardware-Engineer_R024350?q=hardware+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4w |
 
-### 🚀 **Startups & Growth** (5 positions)
+### 🚀 **Startups & Growth** (4 positions)
 
-#### 🛡️ **BAE Systems** (2 positions)
+#### 🛡️ **BAE Systems** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Electrical Engineer | King George, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/King-George-VA/Electrical-Engineer_R0230291?q=hardware+engineering) | 2w |
 | Electrical Engineer | Reston, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Reston-VA/Electrical-Engineer_R0229980?q=hardware+engineering) | 3w |
 
 #### ⚙️ **General Dynamics** (3 positions)
