@@ -532,5 +532,17 @@
     "job_title": "Hardware Emulation Engineer",
     "company": "Arm",
     "first_seen": "2025-12-22T00:49:14.183Z"
+  },
+  "google-physical-design-engineer,-3d-technology,-phd,-university-graduate-sunnyvale": {
+    "assigned_date": "2025-12-23T14:19:43.271Z",
+    "job_title": "Physical Design Engineer, 3D Technology, PhD, University Graduate",
+    "company": "Google",
+    "first_seen": "2025-12-23T14:19:43.271Z"
+  },
+  "google-physical-design-engineer,-university-graduate,-phd-sunnyvale": {
+    "assigned_date": "2025-12-23T14:19:43.271Z",
+    "job_title": "Physical Design Engineer, University Graduate, PhD",
+    "company": "Google",
+    "first_seen": "2025-12-23T14:19:43.271Z"
   }
 }
