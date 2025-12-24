@@ -63,7 +63,7 @@
 - **⭐ FAANG+ Jobs**: 12 premium opportunities  
 - **📅 Last Updated**: December 24, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 38 (older than 1 week)
+- **📁 Archived Jobs**: 39 (older than 1 week)
 
 
 ---
@@ -77,7 +77,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Physical Design Engineer, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/137650363258806982-physical-design-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 7h |
+| Physical Design Engineer, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/137650363258806982-physical-design-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 8h |
 | Physical Design Engineer, 3D Technology, PhD, University Graduate | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106741356235236038-physical-design-engineer-3d-technology-phd-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1d |
 | Physical Design Engineer, University Graduate, PhD | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/100868314875470534-physical-design-engineer-university-graduate-phd?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1d |
 | Power Systems Engineer, Google Data Centers | Reston, VA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138456376148927174-power-systems-engineer-google-data-centers?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 5d |
@@ -221,16 +221,16 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 38 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 39 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 38 positions
+- **📁 Total Jobs**: 39 positions
 - **🏢 Companies**: 5 companies  
-- **⭐ FAANG+ Jobs & Internships**: 24 roles
+- **⭐ FAANG+ Jobs & Internships**: 25 roles
 
-### ⭐ **FAANG+** (24 positions)
+### ⭐ **FAANG+** (25 positions)
 
 #### 📦 **Amazon** (4 positions)
 
@@ -257,14 +257,15 @@ No companies available
 | Hardware Engineer, Quantum Superconducting Digital Electronics | Goleta, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/75478255464784582-hardware-engineer-quantum-superconducting-digital-electronics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 4w |
 | CPU Design Verification Engineer, Silicon, University Graduate | Poughkeepsie, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111600029935772358-cpu-design-verification-engineer-silicon-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 4w |
 
-#### 🍎 **Apple** (9 positions)
+#### 🍎 **Apple** (10 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | iPhone Hardware System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636096-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 1w |
+| Hardware System Modeling Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636091-0836/hardware-system-modeling-engineer-iphone?team=HRDWR) | 1w |
 | Administrative Assistant, Hardware Technology | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633141-0365/administrative-assistant-hardware-technology?team=CORSV) | 1w |
 | Administrative Assistant, Hardware Technology | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636373-3956/administrative-assistant-hardware-technology?team=CORSV) | 1w |
-| Administrative Assistant, Hardware Technology | Waltham, MA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633141-6205/administrative-assistant-hardware-technology?team=CORSV) | 1w |
+| Image Quality Field Test Engineer - Camera Hardware | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200635457-0836/image-quality-field-test-engineer-camera-hardware?team=HRDWR) | 1w |
 | Hardware System Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200634897-0836/hardware-system-engineer?team=HRDWR) | 2w |
 | Hardware Systems Integration Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200635422-0836/hardware-systems-integration-engineer?team=HRDWR) | 2w |
 | Hardware Systems Engineer - Board Design | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200635178-0836/hardware-systems-engineer-board-design?team=HRDWR) | 2w |
