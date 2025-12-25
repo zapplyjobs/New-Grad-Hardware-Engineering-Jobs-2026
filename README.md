@@ -11,7 +11,7 @@
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-15-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-12-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-10-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -60,10 +60,10 @@
 ## 📊 **Live Stats**
 - **🔥 Active Positions**: 15 
 - **🏢 Companies**: 5 elite tech companies
-- **⭐ FAANG+ Jobs**: 12 premium opportunities  
+- **⭐ FAANG+ Jobs**: 10 premium opportunities  
 - **📅 Last Updated**: December 25, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 36 (older than 1 week)
+- **📁 Archived Jobs**: 39 (older than 1 week)
 
 
 ---
@@ -71,18 +71,16 @@
 
 ## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (12 positions)
+### ⭐ **FAANG+** (10 positions)
 
-#### 🟢 **Google** (11 positions)
+#### 🟢 **Google** (9 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Physical Design Engineer, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/137650363258806982-physical-design-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 20h |
 | Physical Design Engineer, 3D Technology, PhD, University Graduate | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106741356235236038-physical-design-engineer-3d-technology-phd-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1d |
+| Physical Design Engineer, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/137650363258806982-physical-design-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 20h |
 | Physical Design Engineer, University Graduate, PhD | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/100868314875470534-physical-design-engineer-university-graduate-phd?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1d |
 | Power Systems Engineer, Google Data Centers | Reston, VA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138456376148927174-power-systems-engineer-google-data-centers?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 5d |
-| Hardware Power Test Engineer, Platforms | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131731299176981190-hardware-power-test-engineer-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 6d |
-| RTL Design Engineer, University Graduate, PhD, Machine Learning | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105829554005648070-rtl-design-engineer-university-graduate-phd-machine-learning?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3) | 6d |
 | Hardware Engineer, Platforms, University Graduate | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127517607023518406-hardware-engineer-platforms-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1mo |
 | Hardware Signal Integrity Test Engineer, Platforms, University Graduate | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82077197702963910-hardware-signal-integrity-test-engineer-platforms-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1mo |
 | SoC DFT Engineer, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91731193396896454-soc-dft-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1mo |
@@ -95,13 +93,15 @@
 |------|----------|-----------|-----|
 | Hardware Reliability Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200638307-0836/hardware-reliability-engineer?team=HRDWR) | 3d |
 
-### 🏢 **Top Tech** (1 position)
+### 🏢 **Top Tech** (3 positions)
 
-#### 🔶 **AMD** (1 position)
+#### 🔶 **AMD** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | High-Speed Signal Integrity & Power Integrity Validation Engineer | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/72778/login) | 1mo |
+| Hardware Applications Engineer | TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/73365/login) | 1mo |
+| FPGA Prototyping and Emulation Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/73364/login) | 1mo |
 
 ### 💻 **Enterprise Hardware** (1 position)
 
@@ -128,7 +128,7 @@
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (2 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (11 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (9 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -136,7 +136,7 @@ No companies available
 
 
 #### ☁️ **Enterprise & Cloud** (2 companies)
-📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1 position) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (1)
+📡 **[Broadcom](https://broadcom.wd1.myworkdayjobs.com/External_Career)** (1 position) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (3)
 
 ---
 
@@ -144,21 +144,22 @@ No companies available
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 6 | 40% | No or minimal experience |
-| 🟡 Beginner & Early Career | 8 | 53% | 1-2 years of experience |
-| 🔴 Manager         | 1 | 7% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 4 | 27% | No or minimal experience |
+| 🟡 Beginner & Early Career | 9 | 60% | 1-2 years of experience |
+| 🔴 Manager         | 2 | 13% | 2+ years of experience |
 
 ---
 
 ## 🌍 **Top Locations**
 
-- **Sunnyvale, CA**: 8 positions
+- **Sunnyvale, CA**: 6 positions
 - **Mountain View, CA**: 2 positions
 - **Santa Clara, CA**: 1 positions
-- **Cupertino, CA**: 1 positions
+- **TX**: 1 positions
 - **San Diego, CA**: 1 positions
-- **Reston, VA**: 1 positions
 - **Irvine, CA**: 1 positions
+- **Austin, TX**: 1 positions
+- **Cupertino, CA**: 1 positions
 
 ---
 
@@ -217,16 +218,16 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 36 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 39 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 36 positions
+- **📁 Total Jobs**: 39 positions
 - **🏢 Companies**: 5 companies  
-- **⭐ FAANG+ Jobs & Internships**: 22 roles
+- **⭐ FAANG+ Jobs & Internships**: 25 roles
 
-### ⭐ **FAANG+** (22 positions)
+### ⭐ **FAANG+** (25 positions)
 
 #### 📦 **Amazon** (4 positions)
 
@@ -234,36 +235,39 @@ No companies available
 |------|----------|-----------|-----|
 | Electrical Engineer, Amazon Leo | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141570/electrical-engineer-amazon-leo) | 2w |
 | RF Engineer (WiFi), Amazon Leo - Customer Terminals | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3138254/rf-engineer-wifi-amazon-leo-customer-terminals) | 2w |
-| Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3136557/systems-development-eng-aws-generative-ai-ml-servers-aws-hardware-engineering-accelerators) | 3w |
 | Product Test Engineer - Machine Learning Hardware, RRL Technical Engineering | Florence, KY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3137361/product-test-engineer-machine-learning-hardware-rrl-technical-engineering) | 3w |
+| Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3136557/systems-development-eng-aws-generative-ai-ml-servers-aws-hardware-engineering-accelerators) | 3w |
 
-#### 🟢 **Google** (11 positions)
+#### 🟢 **Google** (13 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Hardware Engineer, Google Pixel | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140192599498465990-hardware-engineer-google-pixel?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1w |
+| Hardware Power Test Engineer, Platforms | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131731299176981190-hardware-power-test-engineer-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1w |
 | Hardware Test Engineer, Optics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131903888142803654-hardware-test-engineer-optics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1w |
 | Product Design Engineer, Pixel Hardware | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/121328523313849030-product-design-engineer-pixel-hardware?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1w |
 | ASIC Design Verification Engineer, Machine Learning | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96287347854713542-asic-design-verification-engineer-machine-learning?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1w |
 | ASIC Design Verification Engineer, University Graduate | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/85093872807355078-asic-design-verification-engineer-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1w |
 | DFT Engineer, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106629495959495366-dft-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3) | 1w |
-| SoC Physical Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/79886744651997894-soc-physical-design-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 2w |
-| System Hardware Reliability Engineer | Atlanta, GA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110406840776303302-system-hardware-reliability-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 3w |
-| Hardware Engineer, Quantum Superconducting Digital Electronics | Goleta, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/75478255464784582-hardware-engineer-quantum-superconducting-digital-electronics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 4w |
+| RTL Design Engineer, University Graduate, PhD, Machine Learning | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105829554005648070-rtl-design-engineer-university-graduate-phd-machine-learning?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3) | 1w |
 | Hardware Validation Engineer, Cloud Platforms | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/95984754523808454-hardware-validation-engineer-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 2w |
+| SoC Physical Design Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/79886744651997894-soc-physical-design-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 2w |
+| Hardware Engineer, Quantum Superconducting Digital Electronics | Goleta, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/75478255464784582-hardware-engineer-quantum-superconducting-digital-electronics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 4w |
+| System Hardware Reliability Engineer | Atlanta, GA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110406840776303302-system-hardware-reliability-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 3w |
 | CPU Design Verification Engineer, Silicon, University Graduate | Poughkeepsie, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111600029935772358-cpu-design-verification-engineer-silicon-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 4w |
 
-#### 🍎 **Apple** (7 positions)
+#### 🍎 **Apple** (8 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Administrative Assistant, Hardware Technology | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633141-0365/administrative-assistant-hardware-technology?team=CORSV) | 1w |
 | Administrative Assistant, Hardware Technology | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636373-3956/administrative-assistant-hardware-technology?team=CORSV) | 1w |
-| Administrative Assistant, Hardware Technology | Waltham, MA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633141-6205/administrative-assistant-hardware-technology?team=CORSV) | 1w |
+| Image Quality Field Test Engineer - Camera Hardware | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200635457-0836/image-quality-field-test-engineer-camera-hardware?team=HRDWR) | 1w |
 | System Hardware Validation Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636176-0157/system-hardware-validation-engineer?team=HRDWR) | 2w |
 | Hardware System Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200634897-0836/hardware-system-engineer?team=HRDWR) | 2w |
 | iPhone Hardware System Design Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636096-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 2w |
-| Hardware Systems Integration Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200635422-0836/hardware-systems-integration-engineer?team=HRDWR) | 2w |
-| Hardware System Modeling Engineer - iPhone | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636091-0836/hardware-system-modeling-engineer-iphone?team=HRDWR) | 2w |
+| Data Center Hardware Engineering - Hardware System Integration Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200633634-3956/data-center-hardware-engineering-hardware-system-integration-engineer?team=HRDWR) | 3w |
+| Hardware Systems Engineer - iPad | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200634918-0836/hardware-systems-engineer-ipad?team=HRDWR) | 3w |
 
 ### 🏢 **Top Tech** (5 positions)
 
