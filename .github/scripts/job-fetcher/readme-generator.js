@@ -300,7 +300,7 @@ ${faangJobs > 0 ? '![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-' + f
 
 <img src="images/community.png" alt="Join Our Community - Illustration of people holding hands.">
 
-Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers navigating their career journey together!
+Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of new grads and students navigating their career journey together!
 
 <p align="center">
   <a href="https://discord.gg/EXR6rWnd"><img src="images/discord.png" alt="Join Our Discord" width="235"></a>
