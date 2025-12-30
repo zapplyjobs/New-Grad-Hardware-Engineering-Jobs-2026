@@ -103,7 +103,7 @@ function isJobOlderThanWeek(dateString) {
   if (!dateString) return false;
 
   // Check if the date is in relative format (e.g., '1d', '2w')
-  const relativeMatch = dateString.match(/^(\d+)([hdwmo])$/i);
+  const relativeMatch = dateString.match(/^(\d+)(h|d|w|mo)$/i);
   if (relativeMatch) {
     const value = parseInt(relativeMatch[1]);
     const unit = relativeMatch[2].toLowerCase();
