@@ -346,11 +346,11 @@ ${generateJobTable(currentJobs)}
 
 ### 🏢 Top Companies
 
-#### ⭐ **FAANG+** (${(() => {
-  const count = companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
-  return `${count} ${count === 1 ? 'company' : 'companies'}`;
-})()})
-${companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+${(() => {
+  const faangWithJobs = companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0) || [];
+  if (faangWithJobs.length === 0) return '';
+  return `#### ⭐ **FAANG+** (${faangWithJobs.length} ${faangWithJobs.length === 1 ? 'company' : 'companies'})
+${faangWithJobs.map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
   const jobText = totalJobs === 1 ? 'position' : 'positions';
   if (index === 0) {
@@ -358,14 +358,15 @@ ${companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name
   } else {
     return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
   }
-}).join(" • ") || "No companies available"}
+}).join(" • ")}
 
-
-#### 💰 **Fintech Leaders** (${(() => {
-  const count = companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
-  return `${count} ${count === 1 ? 'company' : 'companies'}`;
-})()})
-${companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+`;
+})()}
+${(() => {
+  const fintechWithJobs = companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0) || [];
+  if (fintechWithJobs.length === 0) return '';
+  return `#### 💰 **Fintech Leaders** (${fintechWithJobs.length} ${fintechWithJobs.length === 1 ? 'company' : 'companies'})
+${fintechWithJobs.map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
   const jobText = totalJobs === 1 ? 'position' : 'positions';
   if (index === 0) {
@@ -373,14 +374,15 @@ ${companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name ==
   } else {
     return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
   }
-}).join(" • ") || "No companies available"}
+}).join(" • ")}
 
-
-#### ☁️ **Enterprise & Cloud** (${(() => {
-  const count = [...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
-  return `${count} ${count === 1 ? 'company' : 'companies'}`;
-})()})
-${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+`;
+})()}
+${(() => {
+  const enterpriseWithJobs = [...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0) || [];
+  if (enterpriseWithJobs.length === 0) return '';
+  return `#### ☁️ **Enterprise & Cloud** (${enterpriseWithJobs.length} ${enterpriseWithJobs.length === 1 ? 'company' : 'companies'})
+${enterpriseWithJobs.map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
   const jobText = totalJobs === 1 ? 'position' : 'positions';
   if (index === 0) {
@@ -388,7 +390,10 @@ ${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter
   } else {
     return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
   }
-}).join(" • ") || "No companies available"}
+}).join(" • ")}
+
+`;
+})()}
 
 ---
 
@@ -419,7 +424,7 @@ ${
     ? Object.entries(stats.byLocation)
         .sort((a, b) => b[1] - a[1])
         .slice(0, 8)
-        .map(([location, count]) => `- **${location}**: ${count} positions`)
+        .map(([location, count]) => `- **${location}**: ${count} ${count === 1 ? 'position' : 'positions'}`)
         .join("\n")
     : ""
 }
@@ -508,8 +513,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 - Questions? Create a miscellaneous issue, and we’ll assist! 🙏
 
 ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : ""}
-
----
 
 <div align="center">
 
