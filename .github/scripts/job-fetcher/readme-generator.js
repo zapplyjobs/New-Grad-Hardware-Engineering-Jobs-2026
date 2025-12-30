@@ -224,10 +224,9 @@ async function generateReadme(
     return `<div align="center">
 
 <!-- Banner -->
-<img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
+<img src="images/hej-heading.png" alt="Hardware Engineering Jobs 2026 - Illustration of people working in hardware.">
 
-<h3>💼 New Grad Hardware Engineering Jobs 2025-2026</h3>
-<p><em>Real-time job opportunities from ${totalCompanies}</em></p>
+# Hardware Engineering Jobs 2026
 
 <br>
 
@@ -259,48 +258,64 @@ async function generateReadme(
 
 </div>
 
----
-    
-  
-  # 💼 2026 New Grad Hardware Engineering Jobs by Zapply
+<p align="center">🚀 Job opportunities from ${totalCompanies}+ top companies • Updated daily • US Positions</p>
 
-**🚀 Job opportunities from ${totalCompanies}+ top companies • Updated daily • US Positions**
+<p align="center">🎯 Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**</p>
 
-> Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**
-
-## 🌟 **Join Our Community**
-- Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join thousands of developers navigating their career journey together!
-
- <div align="center">
-  <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
-    <img src="./discord-button.png" width="400" alt="Join Discord - Job Finder & Career Hub by Zapply">
-  </a>
-</div>
-
+> [!TIP]
+> 🛠  Help us grow! Add new jobs by submitting an issue! View [contributing steps](CONTRIBUTING-GUIDE.md) here.
 
 ---
 
-## 📊 **Live Stats**
-- **🔥 Active Positions**: ${currentJobs.length} 
-- **🏢 Companies**: ${totalCompanies} elite tech companies
-- **⭐ FAANG+ Jobs**: ${faangJobs} premium opportunities  
-- **📅 Last Updated**: ${currentDate}
+## Join Our Community
+
+<img src="images/community.png" alt="Join Our Community - Illustration of people holding hands.">
+
+Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers navigating their career journey together!
+
+<p align="center">
+  <a href="https://discord.gg/EXR6rWnd"><img src="images/discord.png" alt="Join Our Discord" width="235"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/r/Zapply/"><img src="images/reddit.png" alt="Join Our Reddit" width="200"></a>
+</p>
+
+---
+
+## Alerts
+
+<img src="images/alerts.png" alt="Watch, fork, and star the repo to get alerts on new jobs.">
+
+**Don't miss new opportunities!**  
+- 🌟 **Star this repo** to get updates on your GitHub dashboard.
+- 👁️ **Watch** for instant notifications on new jobs.
+- 🔔 **Turn on notifications** to never miss FAANG+ postings.
+
+---
+
+## Live Stats
+
+<img src="images/stats.png" alt="Real-time counts of roles and companies.">
+
+- **🔥 Current Positions**: ${currentJobs.length}<br>
+- **🏢 Companies**: ${totalCompanies} companies<br>${faangJobs > 0 ? `- **⭐ FAANG+ Jobs**: ${faangJobs} premium opportunities` : ''}
+- **📅 Last Updated**: ${currentDate}<br>
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: ${archivedJobs.length} (older than 1 week)
-
 
 ---
 
+## Fresh Hardware Jobs 2026
 
-## 🎯 **Fresh Hardware Job Listings 2026 (under 1 week)**
+<img src="images/hej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 ${generateJobTable(currentJobs)}
 
-
 ---
-## **✨ Insights on the Repo**
 
-### 🏢 **Top Companies**
+## Insights on the Repo
+
+<img src="images/insights.png" alt="Insights pulled from current listings.">
+
+### 🏢 Top Companies
 
 #### ⭐ **FAANG+** (${(() => {
   const count = companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
@@ -348,7 +363,7 @@ ${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter
 
 ---
 
-### 📈 **Experience Breakdown**
+### 📈 Experience Breakdown
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
@@ -368,7 +383,7 @@ ${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter
 
 ---
 
-## 🌍 **Top Locations**
+### 🌍 Top Locations
 
 ${
   stats
@@ -382,7 +397,7 @@ ${
 
 ---
 
-## 🔮 **Why Hardware Engineers Choose Our Job Board**
+### 🔮 Why Hardware Engineers Choose Our Job Board
 
 ✅ **100% Real Jobs:** ${
     currentJobs.length
@@ -400,43 +415,70 @@ ${
 
 ---
 
-## 🚀 **Job Hunt Tips That Actually Work**
+## Job Hunt Tips That Actually Work
 
 ### 🔍 **Research Before Applying**
-
 - **Find the hiring manager:** Search "[Company] [Team] engineering manager" on LinkedIn.
 - **Check recent tech decisions:** Read their engineering blog for stack changes or new initiatives.
 - **Verify visa requirements:** Look for 🇺🇸 indicator or "US persons only" in job description.
 - [Use this 100% ATS-compliant and job-targeted resume template](https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx).
 
 ### 📄 **Resume Best Practices**
-
 - **Mirror their tech stack:** Copy exact keywords from job post (React, Django, Node.js, etc.).
 - **Lead with business impact:** "Improved app speed by 30%" > "Used JavaScript."
 - **Show product familiarity:** "Built Netflix-style recommendation engine" or "Created Stripe payment integration."
 - [Read this informative guide on tweaking your resume](https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e).
 
 ### 🎯 **Interview Best Practices**
-
 - **Ask tech-specific questions:** "How do you handle CI/CD at scale?" shows real research.
 - **Prepare failure stories:** "Migration failed, learned X, rebuilt with Y" demonstrates growth mindset.
 - **Reference their products:** "As a daily Slack user, I've noticed..." proves genuine interest.
 - [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0).
 
+<p align="center">
+  <a href="https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx"><img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e"><img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0"><img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="250"></a>
+</p>
+
 ---
 
-## 📬 **Stay Updated**
+## Become a Contributor
 
-- ⭐ **Star this repo** to bookmark and check daily.
-- 👀 **Watch** to get notified of new SWE jobs.
-- 📱 **Bookmark on your phone** for quick job hunting.
-- 🤝 **Become a contributor** and add new jobs! Visit our CONTRIBUTING GUIDE [here](CONTRIBUTING-GUIDE.md).
+<img src="images/contributor.png" alt="Add roles, report issues, or suggest improvements.">
 
----
+Add new jobs! See the [contributing guide](CONTRIBUTING.md).
 
+### Contributing Guide
+#### 🎯 Roles We Accept
+- Located in the US, Canada, or Remote.
+- Not already in our database.
+- Currently accepting applications.
+
+#### 🚀 How to Add Jobs
+1. Create a new issue.
+2. Select the "New Job" template.
+3. Fill out and submit the form.
+   > Submit separate issues for each position, even from the same company.
+
+#### ✏️ How to Update Jobs
+1. Copy the job URL to edit.
+2. Create a new issue.
+3. Select the "Edit Job" template.
+4. Paste the URL and describe changes.
+
+#### ⚡ What Happens Next
+- Our team reviews within 24-48 hours.
+- Approved jobs are added to the main list.
+- The README updates automatically via script.
+- Contributions go live at the next daily refresh (9 AM UTC).
+- Questions? Create a miscellaneous issue, and we’ll assist! 🙏
 
 ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : ""}
 
+---
 
 <div align="center">
 
