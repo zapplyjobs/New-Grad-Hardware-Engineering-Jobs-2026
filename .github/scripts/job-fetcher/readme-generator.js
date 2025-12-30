@@ -12,6 +12,23 @@ const {
   formatLocation,
 } = require("./utils");
 
+// Filter jobs by age - jobs posted within last 7 days are "current", older ones are "archived"
+function filterJobsByAge(allJobs) {
+  const currentJobs = [];
+  const archivedJobs = [];
+
+  allJobs.forEach((job) => {
+    if (isJobOlderThanWeek(job.job_posted_at)) {
+      archivedJobs.push(job);
+    } else {
+      currentJobs.push(job);
+    }
+  });
+
+  console.log(`📅 Filtered: ${currentJobs.length} current (≤7 days), ${archivedJobs.length} archived (>7 days)`);
+  return { currentJobs, archivedJobs };
+}
+
 function generateJobTable(jobs) {
   console.log(
     `🔍 DEBUG: Starting generateJobTable with ${jobs.length} total jobs`
@@ -270,7 +287,7 @@ ${faangJobs > 0 ? '![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-' + f
 
 </div>
 
-<p align="center">🚀 Job opportunities from ${totalCompanies}+ top companies • Updated daily • US Positions</p>
+<p align="center">🚀 Job opportunities from ${totalCompanies}+ top companies • Updated daily • US Positions.</p>
 
 <p align="center">🎯 Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes.</p>
 
@@ -542,6 +559,7 @@ module.exports = {
   generateArchivedSection,
   generateReadme,
   updateReadme,
+  filterJobsByAge,
 };
 
 
