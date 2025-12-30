@@ -17,12 +17,11 @@ function generateJobTable(jobs) {
     `🔍 DEBUG: Starting generateJobTable with ${jobs.length} total jobs`
   );
 
-  if (jobs.length === 0) {
-    return `| Company | Role | Location | Apply Now | Age |
-|---------|------|----------|-----------|-----|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* |`;
-  }
-
+if (jobs.length === 0) {
+  return `| Company | Role | Location | Level | Apply Now | Age |
+|---------|------|----------|-------|-----------|-----|
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |`;
+}
   // Create a map of lowercase company names to actual names for case-insensitive matching
   const companyNameMap = new Map();
   Object.entries(companyCategory).forEach(([categoryKey, category]) => {
@@ -129,8 +128,8 @@ function generateJobTable(jobs) {
           output += `#### ${emoji} **${companyName}** (${companyJobs.length} ${positionText})\n\n`;
         }
 
-        output += `| Role | Location | Apply Now | Age |\n`;
-        output += `|------|----------|-----------|-----|\n`;
+        output += `| Role | Location | Level | Apply Now | Age |\n`;
+        output += `|------|----------|-------|-----------|-----|\n`;
 
         companyJobs.forEach((job) => {
           const role = job.job_title;
@@ -138,6 +137,19 @@ function generateJobTable(jobs) {
           const posted = job.job_posted_at;
           const applyLink =
             job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+
+          // Get experience level and create badge
+          const level = getExperienceLevel(job.job_title, job.job_description);
+          let levelBadge = '';
+          if (level === 'Entry-Level') {
+            levelBadge = '![Entry](https://img.shields.io/badge/Entry-00C853)';
+          } else if (level === 'Mid-Level') {
+            levelBadge = '![Mid](https://img.shields.io/badge/Mid-FFD600)';
+          } else if (level === 'Senior') {
+            levelBadge = '![Senior](https://img.shields.io/badge/Senior-FF5252)';
+          } else {
+            levelBadge = '![Unknown](https://img.shields.io/badge/Unknown-9E9E9E)';
+          }
 
           let statusIndicator = "";
           const description = (job.job_description || "").toLowerCase();
@@ -151,7 +163,7 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${role}${statusIndicator} | ${location} | [<img src="./image.png" width="100" alt="Apply">](${applyLink}) | ${posted} |\n`;
+          output += `| ${role}${statusIndicator} | ${location} | ${levelBadge} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) | ${posted} |\n`;
         });
 
         if (companyJobs.length > 15) {
@@ -233,7 +245,7 @@ async function generateReadme(
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-${currentJobs.length}-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-${faangJobs}-red?style=flat&logo=star)
+${faangJobs > 0 ? '![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-' + faangJobs + '-red?style=flat&logo=star)' : ''}
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -260,7 +272,7 @@ async function generateReadme(
 
 <p align="center">🚀 Job opportunities from ${totalCompanies}+ top companies • Updated daily • US Positions</p>
 
-<p align="center">🎯 Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes. **Filtered for US-based positions.**</p>
+<p align="center">🎯 Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes.</p>
 
 > [!TIP]
 > 🛠  Help us grow! Add new jobs by submitting an issue! View [contributing steps](CONTRIBUTING-GUIDE.md) here.
@@ -297,8 +309,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
 - **🔥 Current Positions**: ${currentJobs.length}<br>
-- **🏢 Companies**: ${totalCompanies} companies<br>${faangJobs > 0 ? `- **⭐ FAANG+ Jobs**: ${faangJobs} premium opportunities` : ''}
-- **📅 Last Updated**: ${currentDate}<br>
+- **🏢 Companies**: ${totalCompanies} companies<br>
+${faangJobs > 0 ? '- **⭐ FAANG+ Jobs**: ' + faangJobs + ' premium opportunities<br>\n' : ''}- **📅 Last Updated**: ${currentDate}<br>
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
 ---
@@ -402,20 +414,22 @@ ${
 ✅ **100% Real Jobs:** ${
     currentJobs.length
   }+ verified CS internships and entry-level hardware roles from ${totalCompanies} elite tech companies.
-
+<br>
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
-
+<br>
 ✅ **Entry-Level Focused:** Smart filtering for CS majors, new grads, and early-career engineers.
-
+<br>
 ✅ **Intern-to-FTE Pipeline:** Track internships that convert to full-time Hardware Engineering roles.
-
+<br>
 ✅ **Direct Applications:** Skip recruiters -- apply straight to company career pages for Tesla, Amazon, and NVIDIA positions.
-
+<br>
 ✅ **Mobile-Optimized:** Perfect mobile experience for CS students job hunting between classes.
 
 ---
 
 ## Job Hunt Tips That Actually Work
+
+<img src="images/tips.png" alt="No fluff — just strategies that help.">
 
 ### 🔍 **Research Before Applying**
 - **Find the hiring manager:** Search "[Company] [Team] engineering manager" on LinkedIn.
@@ -449,7 +463,7 @@ ${
 
 <img src="images/contributor.png" alt="Add roles, report issues, or suggest improvements.">
 
-Add new jobs! See the [contributing guide](CONTRIBUTING.md).
+Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 ### Contributing Guide
 #### 🎯 Roles We Accept
