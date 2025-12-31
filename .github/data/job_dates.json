@@ -256,5 +256,41 @@
     "job_title": "Hardware Test Engineer, Verification Engineering",
     "company": "Google",
     "first_seen": "2025-12-31T09:45:48.129Z"
+  },
+  "amd-high-speed-signal-integrity-&-power-integrity-validation-engineer-santa-clara": {
+    "assigned_date": "2025-12-31T09:58:03.710Z",
+    "job_title": "High-Speed Signal Integrity & Power Integrity Validation Engineer",
+    "company": "AMD",
+    "first_seen": "2025-12-31T09:58:03.710Z"
+  },
+  "amd-design-verification-engineer-austin": {
+    "assigned_date": "2025-12-31T09:58:03.710Z",
+    "job_title": "Design Verification Engineer",
+    "company": "AMD",
+    "first_seen": "2025-12-31T09:58:03.710Z"
+  },
+  "google-hardware-engineer,-platforms,-university-graduate-sunnyvale": {
+    "assigned_date": "2025-12-31T09:58:03.710Z",
+    "job_title": "Hardware Engineer, Platforms, University Graduate",
+    "company": "Google",
+    "first_seen": "2025-12-31T09:58:03.710Z"
+  },
+  "google-hardware-signal-integrity-test-engineer,-platforms,-university-graduate-sunnyvale": {
+    "assigned_date": "2025-12-31T09:58:03.710Z",
+    "job_title": "Hardware Signal Integrity Test Engineer, Platforms, University Graduate",
+    "company": "Google",
+    "first_seen": "2025-12-31T09:58:03.710Z"
+  },
+  "google-soc-dft-engineer,-google-cloud-sunnyvale": {
+    "assigned_date": "2025-12-31T09:58:03.710Z",
+    "job_title": "SoC DFT Engineer, Google Cloud",
+    "company": "Google",
+    "first_seen": "2025-12-31T09:58:03.710Z"
+  },
+  "google-camera-firmware-engineer-mountain-view": {
+    "assigned_date": "2025-12-31T09:58:03.710Z",
+    "job_title": "Camera Firmware Engineer",
+    "company": "Google",
+    "first_seen": "2025-12-31T09:58:03.710Z"
   }
 }
