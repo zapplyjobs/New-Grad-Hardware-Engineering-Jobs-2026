@@ -514,8 +514,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : ""}
 
----
-
 ## More Resources
 
 <p align="center">
