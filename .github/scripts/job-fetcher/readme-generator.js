@@ -538,6 +538,8 @@ ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : ""}
   <a href="https://github.com/zapplyjobs/underclassmen-internships"><img src="images/repo-uci.png" alt="Underclassmen Internships" height="40"></a>
 </p>
 
+---
+
 <div align="center">
 
 **🎯 ${
