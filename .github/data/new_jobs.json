@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AMD",
+    "job_title": "Hardware /Software Codesign Engineer",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "• Hands-on experience with FPGAs RTL Expertise: Expert in SystemVerilog/Verilog, synchronous design, and timing closure for high-speed logic Firmware/Software: Strong C/C++ skills for Bare-metal or RTOS programming on ARM/RISC-V cores.\n• Linux kernel-mode driver development experience is a strong plus Protocols: Deep knowledge of PCIe, AXI, DDR, and Ethernet.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• AMD Partner Hub Authorized Distributors AMD University Program Bachelors or Masters degree in computer engineering/Electrical Engineering Participate in technical role in all phases of the product development cycle from new product exploration, architecture through implementation, prototyping, validation, productization and support including but not limited to architecture, design, and documentation for Ips Collaborate with architects, hardware engineers, and firmware engineers to understand the new features to be developed RTL Development: Design, verify, and validate high-performance logic using System Verilog/Verilog.\n• Familiarity with CXL or UAL is highly desirable Verification: Familiarity with UVM-based verification frameworks and emulation platforms (Palladium, Protium, Zebu) Validation: Proficiency with ILAs, high-speed oscilloscopes, and protocol analyzers for hardware debugging Tools: Proficiency in Python, Tcl, Makefiles, and Shell scripting for automation Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• You will focus on the data and control path, implementing interfaces for PCIe (Gen 6/7), CXL, UAL, Ethernet, and DDR5/6.\n• Embedded System Development: Develop firmware and low-level system software for the on-chip ARM Cortex (APU/RPU) or RISC-V soft cores.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/76472/login",
+    "id": "amd-hardware-software-codesign-engineer-san-jose"
+  }
+]

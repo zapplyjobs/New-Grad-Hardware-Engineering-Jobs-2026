@@ -1,10 +1,4 @@
 {
-  "micron-technology-new-college-grad---engineer,-electrical-design-–-fpga/asic-boise": {
-    "assigned_date": "2025-11-06T21:40:58.593Z",
-    "job_title": "New College Grad - Engineer, Electrical Design – FPGA/ASIC",
-    "company": "Micron Technology",
-    "first_seen": "2025-11-06T21:40:58.593Z"
-  },
   "arm-firmware-engineer-austin": {
     "assigned_date": "2025-11-07T00:46:09.783Z",
     "job_title": "Firmware Engineer",
@@ -280,5 +274,11 @@
     "job_title": "Linux Kernel Engineer – Hardware Enablement",
     "company": "Arm",
     "first_seen": "2026-01-05T18:49:11.575Z"
+  },
+  "amd-hardware-/software-codesign-engineer-san-jose": {
+    "assigned_date": "2026-01-05T23:42:55.760Z",
+    "job_title": "Hardware /Software Codesign Engineer",
+    "company": "AMD",
+    "first_seen": "2026-01-05T23:42:55.760Z"
   }
 }
