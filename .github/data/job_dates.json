@@ -1,22 +1,4 @@
 {
-  "google-cad/pcb-design-engineer,-pixel-phones-mountain-view": {
-    "assigned_date": "2025-11-03T07:08:46.354Z",
-    "job_title": "CAD/PCB Design Engineer, Pixel Phones",
-    "company": "Google",
-    "first_seen": "2025-11-03T07:08:46.354Z"
-  },
-  "micron-technology-design-verification-engineer,-dram-boise": {
-    "assigned_date": "2025-11-05T21:40:22.914Z",
-    "job_title": "Design Verification Engineer, DRAM",
-    "company": "Micron Technology",
-    "first_seen": "2025-11-05T21:40:22.914Z"
-  },
-  "arm-graphics-hardware-debug-engineer-cambridge": {
-    "assigned_date": "2025-11-06T18:47:53.296Z",
-    "job_title": "Graphics Hardware Debug Engineer",
-    "company": "Arm",
-    "first_seen": "2025-11-06T18:47:53.296Z"
-  },
   "micron-technology-new-college-grad---engineer,-electrical-design-–-fpga/asic-boise": {
     "assigned_date": "2025-11-06T21:40:58.593Z",
     "job_title": "New College Grad - Engineer, Electrical Design – FPGA/ASIC",
@@ -292,5 +274,11 @@
     "job_title": "Camera Firmware Engineer",
     "company": "Google",
     "first_seen": "2025-12-31T09:58:03.710Z"
+  },
+  "arm-linux-kernel-engineer-–-hardware-enablement-cambridge": {
+    "assigned_date": "2026-01-05T18:49:11.575Z",
+    "job_title": "Linux Kernel Engineer – Hardware Enablement",
+    "company": "Arm",
+    "first_seen": "2026-01-05T18:49:11.575Z"
   }
 }
