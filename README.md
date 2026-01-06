@@ -8,9 +8,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-15-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-8-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-13-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-6-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -35,7 +35,7 @@
 
 </div>
 
-<p align="center">🚀 Job opportunities from 7+ top companies • Updated daily • US Positions.</p>
+<p align="center">🚀 Job opportunities from 6+ top companies • Updated daily • US Positions.</p>
 
 <p align="center">🎯 Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes.</p>
 
@@ -73,9 +73,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- **🔥 Current Positions**: 15<br>
-- **🏢 Companies**: 7 companies<br>
-- **⭐ FAANG+ Jobs**: 8 premium opportunities<br>
+- **🔥 Current Positions**: 13<br>
+- **🏢 Companies**: 6 companies<br>
+- **⭐ FAANG+ Jobs**: 6 premium opportunities<br>
 - **📅 Last Updated**: January 6, 2026<br>
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
@@ -85,7 +85,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/hej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-### ⭐ **FAANG+** (8 positions)
+### ⭐ **FAANG+** (6 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -102,13 +102,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Hardware Signal Integrity Test Engineer, Platforms, University Graduate | Sunnyvale, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82077197702963910-hardware-signal-integrity-test-engineer-platforms-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 6d |
 | SoC DFT Engineer, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104885207735116486-soc-dft-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 6d |
 | Camera Firmware Engineer | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92858759348396742-camera-firmware-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 6d |
-
-#### 🍎 **Apple** (2 positions)
-
-| Role | Location | Level | Apply Now | Age |
-|------|----------|-------|-----------|-----|
-| Hardware Systems Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200631334-0836/hardware-systems-engineer?team=HRDWR) | 1d |
-| Hardware Systems Engineer - SoC (iPhone Systems Technologies) | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200639673-0836/hardware-systems-engineer-soc-iphone-systems-technologies?team=HRDWR) | 1d |
 
 ### 🏢 **Top Tech** (4 positions)
 
@@ -153,8 +146,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🏢 Top Companies
 
-#### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (5 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+#### ⭐ **FAANG+** (2 companies)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (5 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 
@@ -169,18 +162,18 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 3 | 20% | No or minimal experience |
-| 🟡 Beginner & Early Career | 6 | 40% | 1-2 years of experience |
-| 🔴 Manager         | 6 | 40% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 3 | 23% | No or minimal experience |
+| 🟡 Beginner & Early Career | 4 | 31% | 1-2 years of experience |
+| 🔴 Manager         | 6 | 46% | 2+ years of experience |
 
 ---
 
 ### 🌍 Top Locations
 
-- **Cupertino, CA**: 3 positions
 - **Sunnyvale, CA**: 3 positions
 - **Santa Clara, CA**: 2 positions
 - **San Jose, CA**: 1 position
+- **Cupertino, CA**: 1 position
 - **Arlington, VA**: 1 position
 - **Spring, TX**: 1 position
 - **San Diego, CA**: 1 position
@@ -190,7 +183,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🔮 Why Hardware Engineers Choose Our Job Board
 
-✅ **100% Real Jobs:** 15+ verified CS internships and entry-level hardware roles from 7 elite tech companies.
+✅ **100% Real Jobs:** 13+ verified CS internships and entry-level hardware roles from 6 elite tech companies.
 <br>
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 <br>
@@ -277,10 +270,10 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 ### **Archived Job Stats**
 - **📁 Total Jobs**: 37 positions
-- **🏢 Companies**: 7 companies  
-- **⭐ FAANG+ Jobs & Internships**: 23 roles
+- **🏢 Companies**: 6 companies  
+- **⭐ FAANG+ Jobs & Internships**: 24 roles
 
-### ⭐ **FAANG+** (23 positions)
+### ⭐ **FAANG+** (24 positions)
 
 #### 📦 **Amazon** (3 positions)
 
@@ -308,7 +301,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | DFT Engineer, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106629495959495366-dft-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 3w |
 | CPU Design Verification Engineer, Silicon, University Graduate | Poughkeepsie, NY | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111600029935772358-cpu-design-verification-engineer-silicon-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1mo |
 
-#### 🍎 **Apple** (7 positions)
+#### 🍎 **Apple** (8 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -316,9 +309,10 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | System Hardware Validation Engineer | Austin, TX | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636176-0157/system-hardware-validation-engineer?team=HRDWR) | 3w |
 | iPhone Hardware System Design Engineer | Cupertino, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636096-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 3w |
 | Hardware System Modeling Engineer - iPhone | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636091-0836/hardware-system-modeling-engineer-iphone?team=HRDWR) | 3w |
+| Image Quality Field Test Engineer - Camera Hardware | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200635457-0836/image-quality-field-test-engineer-camera-hardware?team=HRDWR) | 3w |
+| Administrative Assistant, Hardware Technology | Waltham, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200633141-6205/administrative-assistant-hardware-technology?team=CORSV) | 3w |
 | Hardware System Engineer | Cupertino, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200634897-0836/hardware-system-engineer?team=HRDWR) | 4w |
 | Hardware Systems Integration Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200635422-0836/hardware-systems-integration-engineer?team=HRDWR) | 4w |
-| Hardware Systems Engineer - Board Design | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200635178-0836/hardware-systems-engineer-board-design?team=HRDWR) | 4w |
 
 ### 🏢 **Top Tech** (6 positions)
 
@@ -363,19 +357,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Hardware Reverse Engineer | Quantico, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Hardware-Reverse-Engineer_R0230862?q=hardware+engineering) | 3w |
 | Hardware Vulnerability Researcher | Quantico, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Hardware-Vulnerability-Researcher_R0230873?q=hardware+engineering) | 3w |
 
-### 🏭 **Manufacturing & Industrial** (2 positions)
+### 🏭 **Manufacturing & Industrial** (1 position)
 
 #### 💪 **Arm** (1 position)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Hardware Emulation Engineer | San Diego, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.arm.com/job/san-diego/hardware-emulation-engineer/33099/70017006032) | 2w |
-
-#### 💾 **Micron Technology** (1 position)
-
-| Role | Location | Level | Apply Now | Age |
-|------|----------|-------|-----------|-----|
-| ASIC Verification Engineer | Minneapolis, MN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.micron.com/careers/job/39219351) | 3w |
 
 
 
@@ -413,7 +401,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 <div align="center">
 
-**🎯 15 current opportunities from 7 elite companies.**
+**🎯 13 current opportunities from 6 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
