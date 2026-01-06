@@ -121,7 +121,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| High-Speed Signal Integrity & Power Integrity Validation Engineer | Santa Clara, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/72778/login) | 6d |
+| High-Speed Signal Integrity & Power Integrity Validation Engineer | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/72778/login) | 6d |
 | Design Verification Engineer | Austin, TX | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/67993/login) | 6d |
 
 ### 💻 **Enterprise Hardware** (1 position)
@@ -167,8 +167,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 2 | 15% | No or minimal experience |
-| 🟡 Beginner & Early Career | 6 | 46% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 3 | 23% | No or minimal experience |
+| 🟡 Beginner & Early Career | 5 | 38% | 1-2 years of experience |
 | 🔴 Manager         | 5 | 38% | 2+ years of experience |
 
 ---
@@ -269,16 +269,16 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 33 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 35 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 33 positions
+- **📁 Total Jobs**: 35 positions
 - **🏢 Companies**: 7 companies  
-- **⭐ FAANG+ Jobs & Internships**: 20 roles
+- **⭐ FAANG+ Jobs & Internships**: 22 roles
 
-### ⭐ **FAANG+** (20 positions)
+### ⭐ **FAANG+** (22 positions)
 
 #### 📦 **Amazon** (3 positions)
 
@@ -292,11 +292,11 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Physical Design Engineer, 3D Technology, PhD, University Graduate | Sunnyvale, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106741356235236038-physical-design-engineer-3d-technology-phd-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1w |
 | Physical Design Engineer, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/137650363258806982-physical-design-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1w |
-| Physical Design Engineer, University Graduate, PhD | Sunnyvale, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/100868314875470534-physical-design-engineer-university-graduate-phd?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1w |
 | Hardware Power Test Engineer, Platforms | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131731299176981190-hardware-power-test-engineer-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 2w |
 | Hardware Test Engineer, Optics | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131903888142803654-hardware-test-engineer-optics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 2w |
+| Physical Design Engineer, 3D Technology, PhD, University Graduate | Sunnyvale, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106741356235236038-physical-design-engineer-3d-technology-phd-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 2w |
+| Physical Design Engineer, University Graduate, PhD | Sunnyvale, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/100868314875470534-physical-design-engineer-university-graduate-phd?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 2w |
 | RTL Design Engineer, University Graduate, PhD, Machine Learning | Sunnyvale, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105829554005648070-rtl-design-engineer-university-graduate-phd-machine-learning?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 2w |
 | Hardware Engineer, Google Pixel | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140192599498465990-hardware-engineer-google-pixel?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 3w |
 | Product Design Engineer, Pixel Hardware | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/121328523313849030-product-design-engineer-pixel-hardware?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 3w |
@@ -306,14 +306,16 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | DFT Engineer, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106629495959495366-dft-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 3w |
 | CPU Design Verification Engineer, Silicon, University Graduate | Poughkeepsie, NY | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111600029935772358-cpu-design-verification-engineer-silicon-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1mo |
 
-#### 🍎 **Apple** (4 positions)
+#### 🍎 **Apple** (6 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
+| Hardware Reliability Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200638307-0836/hardware-reliability-engineer?team=HRDWR) | 2w |
+| System Hardware Validation Engineer | Austin, TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636176-0157/system-hardware-validation-engineer?team=HRDWR) | 3w |
 | iPhone Hardware System Design Engineer | Cupertino, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636096-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 3w |
-| Hardware System Modeling Engineer - iPhone | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636091-0836/hardware-system-modeling-engineer-iphone?team=HRDWR) | 3w |
-| Hardware System Engineer | Cupertino, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200634897-0836/hardware-system-engineer?team=HRDWR) | 4w |
+| Hardware System Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200634897-0836/hardware-system-engineer?team=HRDWR) | 4w |
 | Hardware Systems Integration Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200635422-0836/hardware-systems-integration-engineer?team=HRDWR) | 4w |
+| Hardware Systems Engineer - Data Center HWE | Austin, TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200635221-0157/hardware-systems-engineer-data-center-hwe?team=HRDWR) | 4w |
 
 ### 🏢 **Top Tech** (6 positions)
 
