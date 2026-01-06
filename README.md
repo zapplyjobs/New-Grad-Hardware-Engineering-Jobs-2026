@@ -8,9 +8,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-13-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-6-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-12-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-5-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -35,7 +35,7 @@
 
 </div>
 
-<p align="center">🚀 Job opportunities from 7+ top companies • Updated daily • US Positions.</p>
+<p align="center">🚀 Job opportunities from 6+ top companies • Updated daily • US Positions.</p>
 
 <p align="center">🎯 Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes.</p>
 
@@ -73,9 +73,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- **🔥 Current Positions**: 13<br>
-- **🏢 Companies**: 7 companies<br>
-- **⭐ FAANG+ Jobs**: 6 premium opportunities<br>
+- **🔥 Current Positions**: 12<br>
+- **🏢 Companies**: 6 companies<br>
+- **⭐ FAANG+ Jobs**: 5 premium opportunities<br>
 - **📅 Last Updated**: January 6, 2026<br>
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
@@ -85,7 +85,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/hej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-### ⭐ **FAANG+** (6 positions)
+### ⭐ **FAANG+** (5 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -101,12 +101,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Hardware Test Engineer, Verification Engineering | Council Bluffs, IA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/74190061091857094-hardware-test-engineer-verification-engineering?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 5d |
 | Hardware Signal Integrity Test Engineer, Platforms, University Graduate | Sunnyvale, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82077197702963910-hardware-signal-integrity-test-engineer-platforms-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 5d |
 | Camera Firmware Engineer | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/92858759348396742-camera-firmware-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 5d |
-
-#### 🍎 **Apple** (1 position)
-
-| Role | Location | Level | Apply Now | Age |
-|------|----------|-------|-----------|-----|
-| Hardware Systems Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200631334-0836/hardware-systems-engineer?team=HRDWR) | 1d |
 
 ### 🏢 **Top Tech** (4 positions)
 
@@ -151,8 +145,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🏢 Top Companies
 
-#### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (4 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+#### ⭐ **FAANG+** (2 companies)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (4 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 
@@ -167,18 +161,18 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 3 | 23% | No or minimal experience |
-| 🟡 Beginner & Early Career | 4 | 31% | 1-2 years of experience |
-| 🔴 Manager         | 6 | 46% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 3 | 25% | No or minimal experience |
+| 🟡 Beginner & Early Career | 3 | 25% | 1-2 years of experience |
+| 🔴 Manager         | 6 | 50% | 2+ years of experience |
 
 ---
 
 ### 🌍 Top Locations
 
 - **Santa Clara, CA**: 2 positions
-- **Cupertino, CA**: 2 positions
 - **Sunnyvale, CA**: 2 positions
 - **San Jose, CA**: 1 position
+- **Cupertino, CA**: 1 position
 - **Arlington, VA**: 1 position
 - **Spring, TX**: 1 position
 - **San Diego, CA**: 1 position
@@ -188,7 +182,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🔮 Why Hardware Engineers Choose Our Job Board
 
-✅ **100% Real Jobs:** 13+ verified CS internships and entry-level hardware roles from 7 elite tech companies.
+✅ **100% Real Jobs:** 12+ verified CS internships and entry-level hardware roles from 6 elite tech companies.
 <br>
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 <br>
@@ -275,7 +269,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 ### **Archived Job Stats**
 - **📁 Total Jobs**: 35 positions
-- **🏢 Companies**: 7 companies  
+- **🏢 Companies**: 6 companies  
 - **⭐ FAANG+ Jobs & Internships**: 21 roles
 
 ### ⭐ **FAANG+** (21 positions)
@@ -310,11 +304,11 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| System Hardware Validation Engineer | Austin, TX | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636176-0157/system-hardware-validation-engineer?team=HRDWR) | 3w |
 | iPhone Hardware System Design Engineer | Cupertino, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636096-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 3w |
 | Hardware System Modeling Engineer - iPhone | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636091-0836/hardware-system-modeling-engineer-iphone?team=HRDWR) | 3w |
 | Hardware System Engineer | Cupertino, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200634897-0836/hardware-system-engineer?team=HRDWR) | 4w |
 | Hardware Systems Integration Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200635422-0836/hardware-systems-integration-engineer?team=HRDWR) | 4w |
+| Hardware Systems Engineer - Board Design | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200635178-0836/hardware-systems-engineer-board-design?team=HRDWR) | 4w |
 
 ### 🏢 **Top Tech** (6 positions)
 
@@ -409,7 +403,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 <div align="center">
 
-**🎯 13 current opportunities from 7 elite companies.**
+**🎯 12 current opportunities from 6 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
