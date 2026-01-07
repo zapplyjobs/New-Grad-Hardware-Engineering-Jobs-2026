@@ -8,9 +8,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-8-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-4-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-10-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-5-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -35,7 +35,7 @@
 
 </div>
 
-<p align="center">🚀 Job opportunities from 6+ top companies • Updated daily • US Positions.</p>
+<p align="center">🚀 Job opportunities from 7+ top companies • Updated daily • US Positions.</p>
 
 <p align="center">🎯 Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes.</p>
 
@@ -73,9 +73,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- **🔥 Current Positions**: 8<br>
-- **🏢 Companies**: 6 companies<br>
-- **⭐ FAANG+ Jobs**: 4 premium opportunities<br>
+- **🔥 Current Positions**: 10<br>
+- **🏢 Companies**: 7 companies<br>
+- **⭐ FAANG+ Jobs**: 5 premium opportunities<br>
 - **📅 Last Updated**: January 7, 2026<br>
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
@@ -85,7 +85,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/hej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-### ⭐ **FAANG+** (4 positions)
+### ⭐ **FAANG+** (5 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -99,20 +99,27 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-------|-----------|-----|
 | System Hardware Reliability Engineer, TPU Systems | Austin, TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/132890851226329798-system-hardware-reliability-engineer-tpu-systems?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 7h |
 
-#### 🍎 **Apple** (2 positions)
+#### 🍎 **Apple** (3 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Hardware Systems Engineer - Board Design | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200640070-0836/hardware-systems-engineer-board-design?team=HRDWR) | 1d |
 | Hardware Systems Engineer - Board Design | Austin, TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200640070-0157/hardware-systems-engineer-board-design?team=HRDWR) | 1d |
+| Hardware Systems Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200631334-0836/hardware-systems-engineer?team=HRDWR) | 2d |
 
-### 🏢 **Top Tech** (1 position)
+### 🏢 **Top Tech** (2 positions)
 
 #### 🎮 **NVIDIA** (1 position)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Firmware Engineer | Santa Clara, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Firmware-Engineer_JR2006666?q=hardware+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78) | 2d |
+
+#### 🔶 **AMD** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| ASIC Design Verification Engineer | Boxborough, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/76416/login) | 1h |
 
 ### 💻 **Enterprise Hardware** (1 position)
 
@@ -142,12 +149,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 Top Companies
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (1 position) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (1 position) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (3) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 
-#### ☁️ **Enterprise & Cloud** (2 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1)
+#### ☁️ **Enterprise & Cloud** (3 companies)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (1)
 
 
 
@@ -158,15 +165,16 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 0 | 0% | No or minimal experience |
-| 🟡 Beginner & Early Career | 4 | 50% | 1-2 years of experience |
-| 🔴 Manager         | 4 | 50% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 6 | 60% | 1-2 years of experience |
+| 🔴 Manager         | 4 | 40% | 2+ years of experience |
 
 ---
 
 ### 🌍 Top Locations
 
+- **Cupertino, CA**: 3 positions
 - **Austin, TX**: 2 positions
-- **Cupertino, CA**: 2 positions
+- **Boxborough, MA**: 1 position
 - **Arlington, VA**: 1 position
 - **Spring, TX**: 1 position
 - **Santa Clara, CA**: 1 position
@@ -176,7 +184,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🔮 Why Hardware Engineers Choose Our Job Board
 
-✅ **100% Real Jobs:** 8+ verified CS internships and entry-level hardware roles from 6 elite tech companies.
+✅ **100% Real Jobs:** 10+ verified CS internships and entry-level hardware roles from 7 elite tech companies.
 <br>
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 <br>
@@ -257,16 +265,16 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 42 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 41 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 42 positions
-- **🏢 Companies**: 6 companies  
-- **⭐ FAANG+ Jobs & Internships**: 27 roles
+- **📁 Total Jobs**: 41 positions
+- **🏢 Companies**: 7 companies  
+- **⭐ FAANG+ Jobs & Internships**: 26 roles
 
-### ⭐ **FAANG+** (27 positions)
+### ⭐ **FAANG+** (26 positions)
 
 #### 📦 **Amazon** (3 positions)
 
@@ -302,16 +310,15 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 </details>
 
-#### 🍎 **Apple** (6 positions)
+#### 🍎 **Apple** (5 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Hardware Reliability Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200638307-0836/hardware-reliability-engineer?team=HRDWR) | 2w |
-| System Hardware Validation Engineer | Austin, TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636176-0157/system-hardware-validation-engineer?team=HRDWR) | 3w |
+| System Hardware Validation Engineer | Austin, TX | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636176-0157/system-hardware-validation-engineer?team=HRDWR) | 3w |
 | iPhone Hardware System Design Engineer | Cupertino, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636096-0836/iphone-hardware-system-design-engineer?team=HRDWR) | 3w |
-| Hardware System Modeling Engineer - iPhone | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636091-0836/hardware-system-modeling-engineer-iphone?team=HRDWR) | 3w |
 | Administrative Assistant, Hardware Technology | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636373-3956/administrative-assistant-hardware-technology?team=CORSV) | 3w |
-| Hardware System Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200634897-0836/hardware-system-engineer?team=HRDWR) | 4w |
+| Hardware System Engineer | Cupertino, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200634897-0836/hardware-system-engineer?team=HRDWR) | 4w |
 
 ### 🏢 **Top Tech** (8 positions)
 
@@ -355,8 +362,8 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | RF Electrical Engineer | Colorado Springs, CO | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Colorado-Springs-CO/RF-Electrical-Engineer_R0231433?q=hardware+engineering) | 1w |
-| Hardware Reverse Engineer | Quantico, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Hardware-Reverse-Engineer_R0230862?q=hardware+engineering) | 3w |
 | Hardware Vulnerability Researcher | Quantico, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Hardware-Vulnerability-Researcher_R0230873?q=hardware+engineering) | 3w |
+| Hardware Reverse Engineer | Quantico, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Hardware-Reverse-Engineer_R0230862?q=hardware+engineering) | 3w |
 
 ### 🏭 **Manufacturing & Industrial** (1 position)
 
@@ -402,7 +409,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 <div align="center">
 
-**🎯 8 current opportunities from 6 elite companies.**
+**🎯 10 current opportunities from 7 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
