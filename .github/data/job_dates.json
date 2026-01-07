@@ -1,10 +1,4 @@
 {
-  "arm-firmware-engineer-austin": {
-    "assigned_date": "2025-11-07T00:46:09.783Z",
-    "job_title": "Firmware Engineer",
-    "company": "Arm",
-    "first_seen": "2025-11-07T00:46:09.783Z"
-  },
   "google-hardware-engineer,-superconducting-digital-electronics,-quantum-ai-goleta": {
     "assigned_date": "2025-11-10T07:40:01.339Z",
     "job_title": "Hardware Engineer, Superconducting Digital Electronics, Quantum AI",
@@ -280,5 +274,11 @@
     "job_title": "Hardware /Software Codesign Engineer",
     "company": "AMD",
     "first_seen": "2026-01-05T23:42:55.760Z"
+  },
+  "google-system-hardware-reliability-engineer,-tpu-systems-austin": {
+    "assigned_date": "2026-01-07T07:17:28.929Z",
+    "job_title": "System Hardware Reliability Engineer, TPU Systems",
+    "company": "Google",
+    "first_seen": "2026-01-07T07:17:28.929Z"
   }
 }
