@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AMD",
+    "job_title": "ASIC Design Verification Engineer",
+    "job_city": "Boxborough",
+    "job_state": "MA",
+    "job_posted_at": "1h",
+    "job_description": "• Experienced with Verilog, System Verilog, C, and C++.\n• Strong background in C++, preferably on Linux with exposure to Windows platform.\n• Good understanding and hands-on experience in the UVM concepts and SystemVerilog language.\n• Scripting language experience: Perl, Ruby, Makefile, shell preferred.\n• Estimate the time required to write the new feature tests and any required changes to the test environment.\n• Review functional and code coverage metrics – modify or add tests or constrain random tests to meet the coverage requirements.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• AMD Partner Hub Authorized Distributors AMD University Program Bachelors or Masters degree in Computer Engineering/Electrical Engineering.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/76416/login",
+    "id": "amd-asic-design-verification-engineer-boxborough"
+  }
+]
