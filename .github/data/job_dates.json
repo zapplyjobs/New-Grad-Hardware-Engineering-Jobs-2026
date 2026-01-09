@@ -1,10 +1,4 @@
 {
-  "google-hardware-engineer,-superconducting-digital-electronics,-quantum-ai-goleta": {
-    "assigned_date": "2025-11-10T07:40:01.339Z",
-    "job_title": "Hardware Engineer, Superconducting Digital Electronics, Quantum AI",
-    "company": "Google",
-    "first_seen": "2025-11-10T07:40:01.339Z"
-  },
   "amd-fpga-prototyping-and-emulation-engineer-austin": {
     "assigned_date": "2025-11-13T21:08:51.612Z",
     "job_title": "FPGA Prototyping and Emulation Engineer",
@@ -292,5 +286,11 @@
     "job_title": "Graduate Design Verification Engineer",
     "company": "Arm",
     "first_seen": "2026-01-08T19:53:12.594Z"
+  },
+  "google-electrical-engineer,-display-test-systems,-raxium-fremont": {
+    "assigned_date": "2026-01-09T15:46:22.416Z",
+    "job_title": "Electrical Engineer, Display Test Systems, Raxium",
+    "company": "Google",
+    "first_seen": "2026-01-09T15:46:22.416Z"
   }
 }
