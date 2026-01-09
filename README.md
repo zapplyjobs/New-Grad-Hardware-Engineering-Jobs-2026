@@ -106,7 +106,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Electrical Engineer - Camera Hardware | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200640417-0836/electrical-engineer-camera-hardware?team=HRDWR) | 1d |
 | Hardware Systems Engineer - Board Design | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200640070-0836/hardware-systems-engineer-board-design?team=HRDWR) | 3d |
 | Hardware Systems Engineer - Board Design | Austin, TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200640070-0157/hardware-systems-engineer-board-design?team=HRDWR) | 3d |
-| Hardware Systems Engineer - SoC (iPhone Systems Technologies) | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200639673-0836/hardware-systems-engineer-soc-iphone-systems-technologies?team=HRDWR) | 4d |
+| Hardware Systems Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200631334-0836/hardware-systems-engineer?team=HRDWR) | 4d |
 
 ### 🏢 **Top Tech** (2 positions)
 
@@ -338,7 +338,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 |------|----------|-------|-----------|-----|
 | Hardware Design Engineer | Austin, TX | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/75891/login) | 1mo |
 | Hardware Applications Engineer | TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73365/login) | 1mo |
-| High-Speed Signal Integrity & Power Integrity Validation Engineer | Santa Clara, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/72778/login) | 1w |
+| High-Speed Signal Integrity & Power Integrity Validation Engineer | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/72778/login) | 1w |
 | Design Verification Engineer | Austin, TX | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/67993/login) | 1w |
 | Power Methodology Engineer, Data Center Hardware IPs | Santa Clara, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/75241/login) | 1mo |
 | Hardware Systems Design Engineer | NJ | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/75082/login) | 1mo |
