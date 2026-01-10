@@ -280,16 +280,16 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 27 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 26 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 27 positions
+- **📁 Total Jobs**: 26 positions
 - **🏢 Companies**: 8 companies  
-- **⭐ FAANG+ Jobs & Internships**: 16 roles
+- **⭐ FAANG+ Jobs & Internships**: 15 roles
 
-### ⭐ **FAANG+** (16 positions)
+### ⭐ **FAANG+** (15 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -316,12 +316,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Product Design Engineer, Pixel Hardware | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/121328523313849030-product-design-engineer-pixel-hardware?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 4w |
 | DFT Engineer, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106629495959495366-dft-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 4w |
 
-#### 🍎 **Apple** (1 position)
-
-| Role | Location | Level | Apply Now | Age |
-|------|----------|-------|-----------|-----|
-| Hardware Reliability Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200638307-0836/hardware-reliability-engineer?team=HRDWR) | 2w |
-
 ### 🏢 **Top Tech** (5 positions)
 
 #### 🔶 **AMD** (5 positions)
@@ -329,7 +323,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Hardware Design Engineer | Austin, TX | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/75891/login) | 1mo |
-| High-Speed Signal Integrity & Power Integrity Validation Engineer | Santa Clara, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/72778/login) | 1w |
+| High-Speed Signal Integrity & Power Integrity Validation Engineer | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/72778/login) | 1w |
 | Hardware Applications Engineer | TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73365/login) | 1mo |
 | Power Methodology Engineer, Data Center Hardware IPs | Santa Clara, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/75241/login) | 1mo |
 | FPGA Prototyping and Emulation Engineer | Austin, TX | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73364/login) | 1mo |
