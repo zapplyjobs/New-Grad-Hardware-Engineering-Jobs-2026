@@ -105,7 +105,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Electrical Engineer - Camera Hardware | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200640417-0836/electrical-engineer-camera-hardware?team=HRDWR) | 2d |
-| Hardware Systems Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200631334-0836/hardware-systems-engineer?team=HRDWR) | 5d |
+| Hardware Systems Engineer - Board Design | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200640070-0836/hardware-systems-engineer-board-design?team=HRDWR) | 4d |
 
 ### 🏢 **Top Tech** (8 positions)
 
@@ -278,16 +278,16 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 25 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 26 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 25 positions
+- **📁 Total Jobs**: 26 positions
 - **🏢 Companies**: 8 companies  
-- **⭐ FAANG+ Jobs & Internships**: 15 roles
+- **⭐ FAANG+ Jobs & Internships**: 16 roles
 
-### ⭐ **FAANG+** (15 positions)
+### ⭐ **FAANG+** (16 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -313,6 +313,12 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | RTL Design Engineer, University Graduate, PhD, Machine Learning | Sunnyvale, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105829554005648070-rtl-design-engineer-university-graduate-phd-machine-learning?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3) | 3w |
 | Product Design Engineer, Pixel Hardware | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/121328523313849030-product-design-engineer-pixel-hardware?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 4w |
 | DFT Engineer, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106629495959495366-dft-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 4w |
+
+#### 🍎 **Apple** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Hardware Reliability Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200638307-0836/hardware-reliability-engineer?team=HRDWR) | 2w |
 
 ### 🏢 **Top Tech** (5 positions)
 
