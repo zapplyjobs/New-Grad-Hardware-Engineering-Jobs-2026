@@ -1,58 +1,4 @@
 {
-  "amd-fpga-prototyping-and-emulation-engineer-austin": {
-    "assigned_date": "2025-11-13T21:08:51.612Z",
-    "job_title": "FPGA Prototyping and Emulation Engineer",
-    "company": "AMD",
-    "first_seen": "2025-11-13T21:08:51.612Z"
-  },
-  "google-radio-frequency-hardware-engineer,-google-pixel-mountain-view": {
-    "assigned_date": "2025-11-14T15:08:37.825Z",
-    "job_title": "Radio Frequency Hardware Engineer, Google Pixel",
-    "company": "Google",
-    "first_seen": "2025-11-14T15:08:37.825Z"
-  },
-  "amd-hardware-applications-engineer-": {
-    "assigned_date": "2025-11-14T22:41:04.755Z",
-    "job_title": "Hardware Applications Engineer",
-    "company": "AMD",
-    "first_seen": "2025-11-14T22:41:04.755Z"
-  },
-  "google-sensor-hardware-engineer,-consumer-hardware-mountain-view": {
-    "assigned_date": "2025-11-17T06:50:50.376Z",
-    "job_title": "Sensor Hardware Engineer, Consumer Hardware",
-    "company": "Google",
-    "first_seen": "2025-11-17T06:50:50.376Z"
-  },
-  "google-hardware-engineer,-input-sensing-mountain-view": {
-    "assigned_date": "2025-11-17T15:44:48.467Z",
-    "job_title": "Hardware Engineer, Input Sensing",
-    "company": "Google",
-    "first_seen": "2025-11-17T15:44:48.467Z"
-  },
-  "amd-hardware-systems-design-engineer-": {
-    "assigned_date": "2025-11-17T16:48:41.231Z",
-    "job_title": "Hardware Systems Design Engineer",
-    "company": "AMD",
-    "first_seen": "2025-11-17T16:48:41.231Z"
-  },
-  "google-rtl-design-engineer,-multimedia-and-machine-learning-accelerators-mountain-view": {
-    "assigned_date": "2025-11-19T11:11:10.369Z",
-    "job_title": "RTL Design Engineer, Multimedia and Machine Learning Accelerators",
-    "company": "Google",
-    "first_seen": "2025-11-19T11:11:10.369Z"
-  },
-  "micron-technology-asic-product-engineer-san-jose": {
-    "assigned_date": "2025-11-19T21:40:52.545Z",
-    "job_title": "ASIC Product Engineer",
-    "company": "Micron Technology",
-    "first_seen": "2025-11-19T21:40:52.545Z"
-  },
-  "google-electrical-engineer,-google-pixel-chicago": {
-    "assigned_date": "2025-11-20T10:45:46.960Z",
-    "job_title": "Electrical Engineer, Google Pixel",
-    "company": "Google",
-    "first_seen": "2025-11-20T10:45:46.960Z"
-  },
   "arm-rtl-design-engineer-(cpu-team)-cambridge": {
     "assigned_date": "2025-11-20T14:44:38.881Z",
     "job_title": "RTL Design Engineer (CPU team)",
@@ -292,5 +238,53 @@
     "job_title": "Electrical Engineer, Display Test Systems, Raxium",
     "company": "Google",
     "first_seen": "2026-01-09T15:46:22.416Z"
+  },
+  "google-hardware-design-engineer,-board-and-systems-sunnyvale": {
+    "assigned_date": "2026-01-19T11:44:35.742Z",
+    "job_title": "Hardware Design Engineer, Board and Systems",
+    "company": "Google",
+    "first_seen": "2026-01-19T11:44:35.742Z"
+  },
+  "google-hardware-systems-quality-and-reliability-engineer,-platforms-sunnyvale": {
+    "assigned_date": "2026-01-19T11:44:35.754Z",
+    "job_title": "Hardware Systems Quality and Reliability Engineer, Platforms",
+    "company": "Google",
+    "first_seen": "2026-01-19T11:44:35.754Z"
+  },
+  "google-hardware-test-engineer-sunnyvale": {
+    "assigned_date": "2026-01-19T11:44:35.754Z",
+    "job_title": "Hardware Test Engineer",
+    "company": "Google",
+    "first_seen": "2026-01-19T11:44:35.754Z"
+  },
+  "google-hardware-validation-engineer,-university-graduate,-platforms-infrastructure-sunnyvale": {
+    "assigned_date": "2026-01-19T11:44:35.754Z",
+    "job_title": "Hardware Validation Engineer, University Graduate, Platforms Infrastructure",
+    "company": "Google",
+    "first_seen": "2026-01-19T11:44:35.754Z"
+  },
+  "google-hardware-validation-engineer,-ml-products,-google-cloud-sunnyvale": {
+    "assigned_date": "2026-01-19T11:44:35.754Z",
+    "job_title": "Hardware Validation Engineer, ML Products, Google Cloud",
+    "company": "Google",
+    "first_seen": "2026-01-19T11:44:35.754Z"
+  },
+  "google-hardware-emulation-engineer-sunnyvale": {
+    "assigned_date": "2026-01-19T11:44:35.754Z",
+    "job_title": "Hardware Emulation Engineer",
+    "company": "Google",
+    "first_seen": "2026-01-19T11:44:35.754Z"
+  },
+  "google-signal-integrity-engineer,-university-graduate,-phd,-platforms-infrastructure-sunnyvale": {
+    "assigned_date": "2026-01-19T11:44:35.754Z",
+    "job_title": "Signal Integrity Engineer, University Graduate, PhD, Platforms Infrastructure",
+    "company": "Google",
+    "first_seen": "2026-01-19T11:44:35.754Z"
+  },
+  "google-silicon-validation-engineer,-google-cloud-sunnyvale": {
+    "assigned_date": "2026-01-19T11:44:35.754Z",
+    "job_title": "Silicon Validation Engineer, Google Cloud",
+    "company": "Google",
+    "first_seen": "2026-01-19T11:44:35.754Z"
   }
 }
