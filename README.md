@@ -85,13 +85,13 @@ Check out what we're doing on our socials, join our community to connect with fe
 |------|----------|-------|-----------|-----|
 | Hardware Design Engineer, Board and Systems | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106100275457991366-hardware-design-engineer-board-and-systems?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1h |
 | Hardware Systems Quality and Reliability Engineer, Platforms | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106312927878750918-hardware-systems-quality-and-reliability-engineer-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1h |
-| Hardware Test Engineer | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/84554949974729414-hardware-test-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1h |
 | Hardware Validation Engineer, University Graduate, Platforms Infrastructure | Sunnyvale, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128978741610062534-hardware-validation-engineer-university-graduate-platforms-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1h |
 | Hardware Validation Engineer, ML Products, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/112305289872450246-hardware-validation-engineer-ml-products-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1h |
-| Hardware Emulation Engineer | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98282341910094534-hardware-emulation-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1h |
+| Signal Integrity Engineer, University Graduate, PhD, Platforms Infrastructure | Sunnyvale, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/129545024458105542-signal-integrity-engineer-university-graduate-phd-platforms-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1h |
 | Silicon Validation Engineer, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/108847010122998470-silicon-validation-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1h |
 | RTL Design Engineer, Multimedia and Machine Learning Accelerators | Mountain View, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120227041369825990-rtl-design-engineer-multimedia-and-machine-learning-accelerators?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=2) | 1h |
-| Signal Integrity Engineer, University Graduate, PhD, Platforms Infrastructure | Sunnyvale, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/129545024458105542-signal-integrity-engineer-university-graduate-phd-platforms-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1h |
+| Hardware Test Engineer | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/84554949974729414-hardware-test-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1h |
+| Hardware Emulation Engineer | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98282341910094534-hardware-emulation-engineer?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=1) | 1h |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -162,16 +162,16 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 27 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 24 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 27 positions
+- **📁 Total Jobs**: 24 positions
 - **🏢 Companies**: 7 companies  
-- **⭐ FAANG+ Jobs & Internships**: 14 roles
+- **⭐ FAANG+ Jobs & Internships**: 11 roles
 
-### ⭐ **FAANG+** (14 positions)
+### ⭐ **FAANG+** (11 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -194,22 +194,12 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | DFT Engineer, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/134860544703111878-dft-engineer-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3) | 1mo |
 | RTL Design Engineer, University Graduate, PhD, Machine Learning | Sunnyvale, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105829554005648070-rtl-design-engineer-university-graduate-phd-machine-learning?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=hardware%20engineering&page=3) | 1mo |
 
-#### 🍎 **Apple** (3 positions)
+### 🏢 **Top Tech** (2 positions)
+
+#### 🔶 **AMD** (2 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Hardware Systems Engineer - Board Design | Cupertino, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200640070-0836/hardware-systems-engineer-board-design?team=HRDWR) | 1w |
-| Electrical Engineer - Camera Hardware | Cupertino, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200640417-0836/electrical-engineer-camera-hardware?team=HRDWR) | 1w |
-| Hardware Systems Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200631334-0836/hardware-systems-engineer?team=HRDWR) | 2w |
-| Hardware Reliability Engineer | Cupertino, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200638307-0836/hardware-reliability-engineer?team=HRDWR) | 4w |
-
-### 🏢 **Top Tech** (3 positions)
-
-#### 🔶 **AMD** (3 positions)
-
-| Role | Location | Level | Apply Now | Age |
-|------|----------|-------|-----------|-----|
-| Hardware Design Engineer | Austin, TX | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/75891/login) | 1mo |
 | ASIC Design Verification Engineer | Boxborough, MA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/76416/login) | 1w |
 | High-Speed Signal Integrity & Power Integrity Validation Engineer | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/72778/login) | 2w |
 
