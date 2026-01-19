@@ -220,7 +220,7 @@ function generateArchivedSection(archivedJobs, stats) {
   ).length;
 
   // ADD THIS LINE:
-  currentJobs = filterOutSeniorPositions(currentJobs);
+  // currentJobs = filterOutSeniorPositions(currentJobs);
 
   return `
 ---
