@@ -286,5 +286,23 @@
     "job_title": "Silicon Validation Engineer, Google Cloud",
     "company": "Google",
     "first_seen": "2026-01-19T11:44:35.754Z"
+  },
+  "amd-hardware-applications-engineer-": {
+    "assigned_date": "2026-01-19T12:03:49.360Z",
+    "job_title": "Hardware Applications Engineer",
+    "company": "AMD",
+    "first_seen": "2026-01-19T12:03:49.360Z"
+  },
+  "amd-fpga-prototyping-and-emulation-engineer-austin": {
+    "assigned_date": "2026-01-19T12:03:49.360Z",
+    "job_title": "FPGA Prototyping and Emulation Engineer",
+    "company": "AMD",
+    "first_seen": "2026-01-19T12:03:49.360Z"
+  },
+  "google-rtl-design-engineer,-multimedia-and-machine-learning-accelerators-mountain-view": {
+    "assigned_date": "2026-01-19T12:03:49.360Z",
+    "job_title": "RTL Design Engineer, Multimedia and Machine Learning Accelerators",
+    "company": "Google",
+    "first_seen": "2026-01-19T12:03:49.360Z"
   }
 }
