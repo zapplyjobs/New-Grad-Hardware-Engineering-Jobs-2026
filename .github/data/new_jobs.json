@@ -1,0 +1,72 @@
+[
+  {
+    "employer_name": "AMD",
+    "job_title": "Software Development Engineer - AI Group",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "• Good experience with complex compute systems used in AI, HPC deployments, backend network designs in RDMA clustersExperience in validating complex AI infrastructure - GPUs, networking, ROCEv2, UEC, running benchmark tests like IBPerf benchmarking, RCCL/NCCL.\n• Experience with running training of LLMs, MoE models, Image Generation, recommendations models with different frameworks like PyTorch, Tensorflow, Megatron-LM, JAX.\n• Running training performance benchmarks.\n• Experience with running inference workloads in AI clusters with different inference frameworks like vLLM, SGLang.\n• Running performance benchmarks for inference.\n• Experience with distributed systems and schedulers like Kubernetes, SlurmAbility to write high quality automation frameworks and scripts using Python or Golang Experience with performance profiling of CPUs, GPUs and debugging complex compute, network, storage problems.\n• Experience with AMD ROCM would be an added advantageExperience with Linux, Windows operating systemsEffective communication and problem-solving skills Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/67191/login",
+    "id": "amd-software-development-engineer-ai-group-us"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Computer Vision Engineer",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_posted_at": "2w",
+    "job_description": "• Develop and implement object detection and identification algorithms for real-time applicationsDesign and optimize depth sensing and 3D mapping pipelines, integrating data from cameras and other sensorsSpecify, configure, and calibrate camera systems, including selection of optics, sensors, and hardwareDevelop tools and processes for camera calibration, synchronization, and data acquisitionFuse data from multiple cameras/sensors to improve accuracy and robustness in perception systemsCollaborate with robotics, controls, and systems engineers to integrate computer vision into robotic platformsConduct experiments, evaluate performance, and refine algorithms for accuracy, efficiency, and scalability Bachelor’s or Master’s degree in Computer Science, Electrical Engineering, Robotics, or related fieldStrong experience with computer vision algorithms (object detection, tracking, identification, SLAM)Proficiency in depth sensing and 3D reconstruction techniques (stereo vision, structured light, ToF, LiDAR integration)Hands-on experience with camera setup, specification, and calibration (intrinsic/extrinsic, distortion models, multi-camera rigs)Proficiency with computer vision libraries and frameworks (OpenCV, PyTorch/TensorFlow, CUDA)Experience developing in C++ and/or Python for high-performance vision applicationsStrong understanding of camera hardware and imaging pipelinesAbility to design experiments, analyze results, and iterate quickly in a collaborative engineering environment Experience with ROS/ROS2 integration for robotic visionFamiliarity with real-time embedded systems or GPU optimizationKnowledge of multi-sensor fusion (IMU, LiDAR, radar) for perceptionBackground in calibration automation and large-scale data collection pipelines.",
+    "job_apply_link": "https://www.aijobs.com/jobs/156873391-computer-vision-engineer",
+    "id": "ai-jobs-computer-vision-engineer-boston"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Software Engineer, Privacy",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "2w",
+    "job_description": "• Design, build, and implement back-end systems that power privacy and security functions within our API products and consumer applications.\n• Conduct threat modeling, privacy design reviews, and code-level assessments to ensure the highest privacy and security standards.\n• Collaborate with product managers, and other engineering teams to develop new products that leverage emerging research while maintaining privacy and security integrity.\n• Work closely with the legal team to document and evaluate internal compliance practices, ensuring alignment with legal requirements and organizational standards, and conduct thorough internal audits to maintain the highest levels of compliance and integrity.\n• Coordinate and actively participate in privacy incident response efforts.\n• Have substantial experience in building (and re-engineering) production systems to meet legal requirements, manage increased scale, and uphold privacy and security standards.\n• Have led or been a significant contributor to security projects, demonstrating a cross-functional collaboration skill set.\n• Deeply care about user experience and take pride in developing products that meet customer needs whilst drawing on experience in threat modeling, secure design, and regulatory compliance.",
+    "job_apply_link": "https://www.aijobs.com/jobs/156868839-software-engineer-privacy",
+    "id": "ai-jobs-software-engineer-privacy-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "EMC/SI/PI Engineer",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "2w",
+    "job_description": "• Have shipped high-volume devices as the EMC/SI/PI owner, moving confidently between frequency- and time-domain analysisAre fluent with SI/PI tools (e.\n• , Ansys SIwave/HFSS, Cadence Sigrity, Keysight ADS/CST), IBIS/IBIS-AMI, S-parameters, and PDN modeling, and can translate simulations into actionable layout rulesBring strong lab skills (VNA/TDR, oscilloscopes, spectrum analyzers, LISNs, near-field probing, ESD guns) and enjoy rapid design → measure → iterate cyclesUnderstand regulatory and immunity standards (FCC Part 15, CISPR 32/35, IEC 61000-4-2) and can apply pragmatic pre-compliance strategiesCollaborate effectively with external manufacturing partners, translating engineering intent into testable production requirements, and are comfortable working across time zones with EE/ME/RF/FW/Compliance/Manufacturing teams.",
+    "job_apply_link": "https://www.aijobs.com/jobs/156868848-emc-si-pi-engineer",
+    "id": "ai-jobs-emc-si-pi-engineer-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Product Designer, Growth",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "2w",
+    "job_description": "• Design end-to-end experiences that help people understand, trust, and return to ChatGPT.\n• Collaborate with product, engineering, and content design to run experiments and ship high-impact improvements.\n• Translate complex AI capabilities into clear, intuitive interfaces that lower barriers to entry.\n• Use data and research to guide decisions, while knowing when to trust your instincts.\n• Contribute to the evolution of OpenAI’s design systems and voice.\n• Help establish our design culture and grow our team Have a strong portfolio showing thoughtful product design, with experience in growth, onboarding, or consumer-facing products.\n• Are comfortable working in fast cycles—sketching, prototyping, and testing ideas quickly.\n• Are able to balance qualitative insights with quantitative data.",
+    "job_apply_link": "https://www.aijobs.com/jobs/156576635-product-designer-growth",
+    "id": "ai-jobs-product-designer-growth-san-francisco"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Mechanical Engineer - TeleOp",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "5d",
+    "job_description": "• Design parts in 3D CAD that satisfy load conditions, industrial design form factor, and durability requirements.\n• Build prototypes to test assembly, range of motion, wire routing.\n• Generate accurate 2D drawings using GD&T per ASME Y14.\n• Work with our GSM team to pick a supplier and order parts.\n• Inspect first articles, build test stands, and continuously support part on robot development platforms.\n• 2+ years of experience in mechanical engineering\nBachelor’s or Master’s Degree in Mechanical, Biomechanical, Robotics, Mechatronics, or similar field\nExpert in using 3D CAD software to design parts with complex geometry\nExperience designing and building prototypes\nExperienced with simulation and analysis methodology (FEA, MATLAB etc.\n• )\nAbility to write and maintain clean documentation for design processes.\n• Experience with actuators, including strain-wave, planetary, or cycloidal\nExperience with electromechanical integration, such as sensors, motors, motor drivers, wire harnesses, and communication buses.",
+    "job_apply_link": "https://www.aijobs.com/jobs/158835765-mechanical-engineer-teleop",
+    "id": "ai-jobs-mechanical-engineer-teleop-san-jose"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Computer Vision Engineer",
+    "job_city": "Salt Lake City",
+    "job_state": "UT",
+    "job_posted_at": "2w",
+    "job_description": "• Bachelor’s or Master’s degree in Computer Science, Electrical Engineering, Robotics, or related field.\n• 3+ years of experience in computer vision or robotics software development.\n• Proficient in Python and C++ for algorithm development and deployment.\n• Experience with OpenCV, ROS, and deep learning frameworks such as TensorFlow or PyTorch.\n• Solid understanding of SLAM, structure from motion, and geometric vision concepts.\n• Familiarity with deploying real-time vision systems on embedded platforms or edge devices.\n• Experience working with UAVs, robotics, or mobile autonomous systems.\n• Familiarity with camera calibration, lens distortion correction, and multi-sensor synchronization.",
+    "job_apply_link": "https://www.aijobs.com/jobs/156608307-computer-vision-engineer",
+    "id": "ai-jobs-computer-vision-engineer-salt-lake-city"
+  }
+]
