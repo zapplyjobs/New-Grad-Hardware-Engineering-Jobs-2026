@@ -271,8 +271,6 @@ async function generateReadme(
 
 # Hardware Engineering Jobs 2026
 
-<br>
-
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-${currentJobs.length}-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building)
@@ -313,7 +311,7 @@ Experience an advanced career journey with us! 🚀
 
 ## Explore Around
 
-<img src="images/connect.png" alt="Explore Around">
+<img src="images/community.png" alt="Explore Around">
 
 Connect and seek advice from a growing network of fellow students and new grads.
 
