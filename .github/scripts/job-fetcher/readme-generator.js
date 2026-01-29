@@ -363,7 +363,7 @@ Check out our other repos for jobs and free resources:
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/underclassmen-internships"><img src="images/repo-uci.png" alt="Underclassmen Internships" height="40"></a>
 </p>
-
+ 
 ---
 
 ## Become a Contributor
