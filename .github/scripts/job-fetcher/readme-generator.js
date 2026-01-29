@@ -10,6 +10,7 @@ const {
   getExperienceLevel,
   getJobCategory,
   formatLocation,
+  isJobOlderThanWeek,
 } = require("./utils");
 
 // Filter jobs by age - jobs posted within last 7 days are "current", older ones are "archived"
