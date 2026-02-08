@@ -1,0 +1,122 @@
+{
+  "faang_plus": [
+    {
+      "name": "Apple",
+      "emoji": "🍎",
+      "career_url": "https://jobs.apple.com",
+      "api_names": ["apple"]
+    },
+    {
+      "name": "Google",
+      "emoji": "🟢",
+      "career_url": "https://careers.google.com",
+      "api_names": ["google", "alphabet"]
+    },
+    {
+      "name": "Microsoft",
+      "emoji": "🟦",
+      "career_url": "https://careers.microsoft.com",
+      "api_names": ["microsoft"]
+    },
+    {
+      "name": "Meta",
+      "emoji": "🔵",
+      "career_url": "https://careers.meta.com",
+      "api_names": ["meta", "facebook"]
+    }
+  ],
+  "hardware_companies": [
+    {
+      "name": "Nvidia",
+      "emoji": "🎮",
+      "career_url": "https://careers.nvidia.com",
+      "api_names": ["nvidia"]
+    },
+    {
+      "name": "Intel",
+      "emoji": "💻",
+      "career_url": "https://jobs.intel.com",
+      "api_names": ["intel"]
+    },
+    {
+      "name": "AMD",
+      "emoji": "🔶",
+      "career_url": "https://www.amd.com/en/careers",
+      "api_names": ["amd", "advanced micro devices"]
+    },
+    {
+      "name": "Texas Instruments",
+      "emoji": "🔬",
+      "career_url": "https://careers.ti.com",
+      "api_names": ["texas instruments", "ti"]
+    },
+    {
+      "name": "Qualcomm",
+      "emoji": "📡",
+      "career_url": "https://www.qualcomm.com/careers",
+      "api_names": ["qualcomm"]
+    },
+    {
+      "name": "Broadcom",
+      "emoji": "🔴",
+      "career_url": "https://www.broadcom.com/careers",
+      "api_names": ["broadcom"]
+    },
+    {
+      "name": "Samsung",
+      "emoji": "📱",
+      "career_url": "https://www.samsung.com/us/careers",
+      "api_names": ["samsung"]
+    },
+    {
+      "name": "Sony",
+      "emoji": "📺",
+      "career_url": "https://www.sony.com/en/SonyInfo/careers",
+      "api_names": ["sony"]
+    },
+    {
+      "name": "Tesla",
+      "emoji": "⚡",
+      "career_url": "https://careers.tesla.com",
+      "api_names": ["tesla"]
+    },
+    {
+      "name": "Analog Devices",
+      "emoji": "📊",
+      "career_url": "https://www.analog.com/en/careers",
+      "api_names": ["analog devices"]
+    }
+  ],
+  "aerospace_defense": [
+    {
+      "name": "Lockheed Martin",
+      "emoji": "🚀",
+      "career_url": "https://www.lockheedmartinjobs.com",
+      "api_names": ["lockheed martin", "lockheed"]
+    },
+    {
+      "name": "Raytheon",
+      "emoji": "🛡️",
+      "career_url": "https://www.rtx.com/careers.html",
+      "api_names": ["raytheon", "rtx"]
+    },
+    {
+      "name": "Northrop Grumman",
+      "emoji": "✈️",
+      "career_url": "https://www.northropgrumman.com/careers",
+      "api_names": ["northrop grumman", "northrop"]
+    },
+    {
+      "name": "Boeing",
+      "emoji": "✈️",
+      "career_url": "https://boeing.com/careers",
+      "api_names": ["boeing"]
+    },
+    {
+      "name": "SpaceX",
+      "emoji": "🚀",
+      "career_url": "https://www.spacex.com/careers",
+      "api_names": ["spacex"]
+    }
+  ]
+}
