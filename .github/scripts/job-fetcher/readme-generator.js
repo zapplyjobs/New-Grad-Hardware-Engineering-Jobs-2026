@@ -8,6 +8,7 @@ const {
   getCompanyCareerUrl,
   formatTimeAgo,
   getExperienceLevel,
+  getJobCategory,
   formatLocation,
 } = require("./utils");
 
