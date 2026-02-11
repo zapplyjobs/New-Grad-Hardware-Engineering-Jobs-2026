@@ -1,24 +1,21 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="images/hej-heading.png" alt="Hardware Engineering Jobs 2026 - Illustration of people working in hardware.">
+<img src="images/rmj-heading.png" alt="Remote Jobs 2026 - Illustration of people networking.">
 
-# Hardware Engineering Jobs 2026
+# Remote Jobs 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-7-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-2-blue?style=flat&logo=building)
-
-![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-0-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-0-blue?style=flat&logo=building) ![Software E](https://img.shields.io/badge/Software_Engine-0-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Job opportunities from 2+ top companies • Updated daily • US Positions.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 0 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 0 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
 
-<p align="center">🎯 Fresh hardware engineering jobs scraped directly from company career pages. Open positions from FAANG, unicorns, and elite startups, updated every 10 minutes.</p>
+<p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
 > [!TIP]
-> 🛠  Help us grow! Add new jobs by submitting an issue! View [contributing steps](CONTRIBUTING-GUIDE.md) here.
+> 🛠  Help us grow! Add new jobs by submitting an issue! View [contributing steps](CONTRIBUTING.md) here.
 
 ---
 
@@ -43,11 +40,11 @@ Experience an advanced career journey with us! 🚀
 
 ---
 
-## Explore Around
+## Join Our Community
 
-<img src="images/community.png" alt="Explore Around">
+<img src="images/community.png" alt="Join Our Community - Illustration of people holding hands.">
 
-Connect and seek advice from a growing network of fellow students and new grads.
+Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
 
 <p align="center">
   <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Visit Our Website" width="250"></a>
@@ -56,42 +53,32 @@ Connect and seek advice from a growing network of fellow students and new grads.
   &nbsp;&nbsp;
   <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" width="120"></a>
 </p>
- 
+
 ---
 
-## Fresh Hardware Jobs 2026
+## Fresh Software Jobs 2026
 
-<img src="images/hej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
+<img src="images/rmj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-### 🏢 **Top Tech** (1 position)
-
-#### 🔶 **AMD** (1 position)
-
-| Role | Location | Level | Apply Now | Age |
-|------|----------|-------|-----------|-----|
-| Software Development Engineer - AI Group | US, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/67191/login) | Recently |
-
-
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 ---
 
 ## More Resources
-
-<img src="images/more-resources.png" alt="Jobs and templates in our other repos.">
-
-Check out our other repos for jobs and free resources:
 
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026"><img src="images/repo-dsj.png" alt="Data Science Jobs" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/New-Grad-Nursing-Jobs-2026"><img src="images/repo-nsj.png" alt="Nursing Jobs" height="40"></a>
+  <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2026"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs" height="40"></a>
 </p>
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2026"><img src="images/repo-ngj.png" alt="New Grad Jobs" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/Remote-Jobs-2026"><img src="images/repo-rmj.png" alt="Remote Jobs" height="40"></a>
+  <a href="https://github.com/zapplyjobs/New-Grad-Nursing-Jobs-2026"><img src="images/repo-nsj.png" alt="Nursing Jobs" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/resume-samples-2026"><img src="images/repo-rss.png" alt="Resume Samples" height="40"></a>
   &nbsp;&nbsp;
@@ -104,7 +91,7 @@ Check out our other repos for jobs and free resources:
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/underclassmen-internships"><img src="images/repo-uci.png" alt="Underclassmen Internships" height="40"></a>
 </p>
- 
+
 ---
 
 ## Become a Contributor
@@ -126,14 +113,16 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 7 current opportunities from 2 elite companies.**
+---
 
-**Found this helpful? Give it a ⭐ to support us!**
+**🎯 0 current opportunities from 0 companies**
+
+**Found this helpful? Give it a ⭐ to support Zapply!**
 
 *Not affiliated with any companies listed. All applications redirect to official career pages.*
 
 ---
 
-**Last Updated:** January 29, 2026 • **Next Update:** Daily at 9 AM UTC
+**Last Updated**: February 11, 2026 • **Next Update**: Daily at 9 AM UTC
 
 </div>
