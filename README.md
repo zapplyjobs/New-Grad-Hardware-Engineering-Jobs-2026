@@ -6,11 +6,11 @@
 # Remote Jobs 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-0-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-0-blue?style=flat&logo=building) ![Software E](https://img.shields.io/badge/Software_Engine-0-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-1-blue?style=flat&logo=building) ![Embedded S](https://img.shields.io/badge/Embedded_System-1-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 0 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 0 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 1 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -60,9 +60,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/rmj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
+### 🏢 **Other Companies** (1 positions)
+
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+| 🏢 **Ford Model-e U.S.** | Embedded Software Engineer | Dearborn, Mi | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.ford.com/en/sites/Ford-Model-e/job/58634/?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300002487925632&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
 
 ---
 
@@ -110,12 +114,35 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
+---
+
+<details>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 13 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+
+### 📊 **Archived Job Stats**
+- **📁 Total Jobs**: 13 positions
+- **🏢 Companies**: 1 companies
+- **🏷️ Top Category**: Hardware Engineer
+
+### 🏢 **Other Companies** (1 positions)
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🛡️ **Raytheon** | Embedded Software Engineer II 🏠 | McKinney, Te | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.indeed.com/viewjob?jk=b3b381dc6710ecd3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
+
+</details>
+
+---
+
+
 
 <div align="center">
 
 ---
 
-**🎯 0 current opportunities from 0 companies**
+**🎯 1 current opportunities from 1 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
