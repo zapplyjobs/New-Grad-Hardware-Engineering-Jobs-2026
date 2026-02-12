@@ -25,7 +25,15 @@ const ACTIVE_WINDOW_MS = ACTIVE_WINDOW_DAYS * 24 * 60 * 60 * 1000;
  * Check if a job is within the active window
  */
 function isJobActive(job) {
-  const postedDate = new Date(job.postedAt || job.posted_to_discord || job.sourceDate || job.job_posted_at_datetime_utc);
+  const dateValue = job.postedAt || job.posted_to_discord || job.sourceDate || job.job_posted_at_datetime_utc || job.job_posted_at;
+  const postedDate = new Date(dateValue);
+
+  // Handle invalid dates (e.g., "Recently", "Today", etc.)
+  if (isNaN(postedDate.getTime())) {
+    // If date is unparseable, assume it's recent and allow it
+    return true;
+  }
+
   const now = new Date();
   const ageMs = now - postedDate;
   return ageMs < ACTIVE_WINDOW_MS;
