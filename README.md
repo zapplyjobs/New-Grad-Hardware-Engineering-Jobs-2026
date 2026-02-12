@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="images/sej-heading.png" alt="Software Engineering Jobs 2026 - Illustration of people working on tech.">
+<img src="images/hej-heading.png" alt="Hardware Engineering Jobs 2026 - Illustration of people working on hardware.">
 
-# Software Engineering Jobs 2026
+# Hardware Engineering Jobs 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-7-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-14-blue?style=flat&logo=building) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
