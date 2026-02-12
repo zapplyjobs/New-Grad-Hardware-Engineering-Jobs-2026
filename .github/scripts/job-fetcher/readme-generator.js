@@ -8,18 +8,26 @@ const {
   getCompanyCareerUrl,
   formatTimeAgo,
   getExperienceLevel,
-  getJobCategory,
   formatLocation,
+  generateMinimalJobFingerprint,
 } = require("./utils");
 
-// Fallback empty company category for Remote-Jobs-2026 (uses job categories instead)
-const companyCategory = {
-  remote_companies: {
-    companies: [],
-    emoji: "🏠",
-    title: "Remote Companies"
-  }
-};
+// Path to repo root README.md
+const REPO_README_PATH = path.join(__dirname, '../../../README.md');
+// Import or load the JSON configuration
+
+// Filter jobs by age (1 week = 7 days)
+// NOTE: This function is NOT used - job-processor.js already filters by age (14 days)
+// The currentJobs/archivedJobs split is done in job-processor, not here
+// Keeping this for backwards compatibility but it should not be called
+function filterJobsByAge(allJobs) {
+  // Jobs are already filtered by job-processor.js to 14-day window
+  // No additional filtering needed here
+  return {
+    currentJobs: allJobs,
+    archivedJobs: []
+  };
+}
 
 // Helper function to categorize a job based on keywords
 function getJobCategoryFromKeywords(jobTitle, jobDescription = '') {
@@ -34,28 +42,7 @@ function getJobCategoryFromKeywords(jobTitle, jobDescription = '') {
     }
   }
 
-  return 'software_engineering'; // Default fallback
-}
-
-// Path to repo root README.md
-const REPO_README_PATH = path.join(__dirname, '../../../README.md');
-
-// Filter jobs by age (1 week = 7 days)
-function filterJobsByAge(allJobs) {
-  const oneWeekAgo = new Date();
-  oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
-
-  const currentJobs = allJobs.filter(job => {
-    const jobDate = new Date(job.job_posted_at_datetime_utc);
-    return jobDate >= oneWeekAgo;
-  });
-
-  const archivedJobs = allJobs.filter(job => {
-    const jobDate = new Date(job.job_posted_at_datetime_utc);
-    return jobDate < oneWeekAgo;
-  });
-
-  return { currentJobs, archivedJobs };
+  return 'hardware_engineer'; // Default fallback for software engineering
 }
 
 // Filter out senior positions - only keep Entry-Level and Mid-Level
@@ -66,14 +53,12 @@ function filterOutSeniorPositions(jobs) {
   });
 }
 
-// Generate enhanced job table with better formatting
-
+// Generate job table organized by job type categories
 function generateJobTable(jobs) {
-  console.log(`🔍 DEBUG: Starting generateJobTable with ${jobs.length} total jobs`);
+  console.log('Starting generateJobTable', { total_jobs: jobs.length });
 
-  // Filter out senior positions
   jobs = filterOutSeniorPositions(jobs);
-  console.log(`🔍 DEBUG: After filtering seniors: ${jobs.length} jobs remaining`);
+  console.log('After filtering seniors', { remaining_jobs: jobs.length });
 
   if (jobs.length === 0) {
     return `| Company | Role | Location | Posted | Level | Apply |
@@ -81,221 +66,78 @@ function generateJobTable(jobs) {
 | *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |`;
   }
 
-  // Create a map of lowercase company names to actual names for case-insensitive matching
-  const companyNameMap = new Map();
-  Object.entries(companyCategory).forEach(([categoryKey, category]) => {
-    category.companies.forEach(company => {
-      companyNameMap.set(company.toLowerCase(), { 
-        name: company, 
-        category: categoryKey,
-        categoryTitle: category.title 
-      });
-    });
+  console.log('Configured job categories', {
+    categories: Object.entries(jobCategories).map(([categoryKey, category]) => ({
+      emoji: category.emoji,
+      title: category.title,
+      keywords: category.keywords.join(', ')
+    }))
   });
 
-  console.log(`🏢 DEBUG: Configured companies by category:`);
-  Object.entries(companyCategory).forEach(([categoryKey, category]) => {
-    console.log(`  ${category.emoji} ${category.title}: ${category.companies.join(', ')}`);
-  });
-
-  // Get unique companies from job data
-  const uniqueJobCompanies = [...new Set(jobs.map(job => job.employer_name))];
-  console.log(`\n📊 DEBUG: Unique companies found in job data (${uniqueJobCompanies.length}):`, uniqueJobCompanies);
-
-  // Group jobs by company - PROCESS ALL COMPANIES (whitelist filter removed)
-  const jobsByCompany = {};
-  const processedCompanies = new Set();
+  // Categorize each job and group by category
+  const jobsByCategory = {};
+  const categorizedJobs = new Set();
 
   jobs.forEach((job) => {
-    const companyName = job.employer_name;
-    processedCompanies.add(companyName);
+    const categoryKey = getJobCategoryFromKeywords(job.job_title, job.job_description);
+    // Use fingerprint instead of job.id to handle jobs without id field
+    const jobFingerprint = generateMinimalJobFingerprint(job);
+    categorizedJobs.add(jobFingerprint);
 
-    if (!jobsByCompany[companyName]) {
-      jobsByCompany[companyName] = [];
+    if (!jobsByCategory[categoryKey]) {
+      jobsByCategory[categoryKey] = [];
     }
-    jobsByCompany[companyName].push(job);
+    jobsByCategory[categoryKey].push(job);
   });
 
-  console.log(`\n✅ DEBUG: ALL Companies INCLUDED (${processedCompanies.size}):`, [...processedCompanies].sort());
-
-  // Log job counts by company
-  console.log(`\n📈 DEBUG: Job counts by company:`);
-  Object.entries(jobsByCompany)
-    .sort((a, b) => b[1].length - a[1].length) // Sort by job count descending
-    .forEach(([company, jobs]) => {
-      const companyInfo = companyNameMap.get(company.toLowerCase());
-      const category = companyInfo?.categoryTitle || 'Uncategorized';
-      console.log(`  ${company}: ${jobs.length} jobs (Category: ${category})`);
-    });
+  console.log('Jobs by category', {
+    by_category: Object.entries(jobsByCategory).map(([categoryKey, categoryJobs]) => ({
+      category: jobCategories[categoryKey]?.title || categoryKey,
+      count: categoryJobs.length
+    }))
+  });
 
   let output = "";
 
-  // Handle each category
-  Object.entries(companyCategory).forEach(([categoryKey, categoryData]) => {
-    // Filter companies that actually have jobs
-    const companiesWithJobs = categoryData.companies.filter(company => 
-      jobsByCompany[company] && jobsByCompany[company].length > 0
-    );
-    
-    if (companiesWithJobs.length > 0) {
-      const totalJobs = companiesWithJobs.reduce((sum, company) => 
-        sum + jobsByCompany[company].length, 0
-      );
-      
-      console.log(`\n📝 DEBUG: Processing category "${categoryData.title}" with ${companiesWithJobs.length} companies and ${totalJobs} total jobs:`);
-      companiesWithJobs.forEach(company => {
-        console.log(`  - ${company}: ${jobsByCompany[company].length} jobs`);
-      });
-      
-      output += `### ${categoryData.emoji} **${categoryData.title}** (${totalJobs} positions)\n\n`;
+  // Handle each job category
+  Object.entries(jobCategories).forEach(([categoryKey, categoryData]) => {
+    const categoryJobs = jobsByCategory[categoryKey];
 
-      // First handle companies with more than 10 jobs - each gets its own table/section
-      const bigCompanies = companiesWithJobs.filter(
-        companyName => jobsByCompany[companyName].length > 10
-      );
-
-      bigCompanies.forEach((companyName) => {
-        const companyJobs = jobsByCompany[companyName];
-        const emoji = getCompanyEmoji(companyName);
-        
-        if (companyJobs.length > 50) {
-          output += `<details>\n`;
-          output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} positions)</h4></summary>\n\n`;
-        } else {
-          output += `#### ${emoji} **${companyName}** (${companyJobs.length} positions)\n\n`;
-        }
-        
-        output += `| Role | Location | Posted | Level | Apply |\n`;
-        output += `|------|----------|--------|-------|-------|\n`;
-        
-        companyJobs.forEach((job) => {
-          const role = job.job_title.substring(0, 35) + (job.job_title.length > 35 ? "..." : "");
-          const location = formatLocation(job.job_city, job.job_state).substring(0, 12);
-          const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
-          const level = getExperienceLevel(job.job_title, job.job_description);
-          const category = getJobCategory(job.job_title, job.job_description);
-          const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
-
-          // Shorten level
-          const levelShort = {
-            "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
-            "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level")',
-            "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
-          }[level] || level;
-          // Shorten category
-          const categoryShort = category
-            .replace("Machine Learning & AI", "ML/AI")
-            .replace("DevOps & Infrastructure", "DevOps")
-            .replace("Data Science & Analytics", "Data")
-            .replace("Software Engineering", "Software")
-            .replace("Full Stack Development", "Full Stack")
-            .replace("Frontend Development", "Frontend")
-            .replace("Backend Development", "Backend")
-            .replace(" Development", "")
-            .replace(" Engineering", "");
-
-          let statusIndicator = "";
-          const description = (job.job_description || "").toLowerCase();
-          if (description.includes("no sponsorship") || description.includes("us citizen")) {
-            statusIndicator = " 🇺🇸";
-          }
-          if (description.includes("remote")) {
-            statusIndicator += " 🏠";
-          }
-
-          output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | [<img src="images/apply.png" width="75" alt="Apply button">](${applyLink}) |\n`;
-        });
-        
-        if (companyJobs.length > 50) {
-          output += `\n</details>\n\n`;
-        } else {
-          output += "\n";
-        }
-      });
-
-      // Then combine all companies with 10 or fewer jobs into one table
-      const smallCompanies = companiesWithJobs.filter(
-        companyName => jobsByCompany[companyName].length <= 10
-      );
-
-      if (smallCompanies.length > 0) {
-        output += `| Company | Role | Location | Posted | Level | Apply |\n`;
-        output += `|---------|------|----------|--------|-------|-------|\n`;
-
-        smallCompanies.forEach((companyName) => {
-          const companyJobs = jobsByCompany[companyName];
-          const emoji = getCompanyEmoji(companyName);
-          
-          companyJobs.forEach((job) => {
-            const role = job.job_title.substring(0, 35) + (job.job_title.length > 35 ? "..." : "");
-            const location = formatLocation(job.job_city, job.job_state).substring(0, 12);
-            const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
-            const level = getExperienceLevel(job.job_title, job.job_description);
-            const category = getJobCategory(job.job_title, job.job_description);
-            const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
-
-            // ADD THESE TWO LINES:
-            const levelShort = {
-              "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
-              "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level")',
-              "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
-            }[level] || level;
-            const categoryShort = category
-              .replace("Machine Learning & AI", "ML/AI")
-              .replace("DevOps & Infrastructure", "DevOps")
-              .replace("Data Science & Analytics", "Data")
-              .replace("Software Engineering", "Software")
-              .replace("Full Stack Development", "Full Stack")
-              .replace("Frontend Development", "Frontend")
-              .replace("Backend Development", "Backend")
-              .replace(" Development", "")
-              .replace(" Engineering", "");
-
-            let statusIndicator = "";
-            const description = (job.job_description || "").toLowerCase();
-            if (description.includes("no sponsorship") || description.includes("us citizen")) {
-              statusIndicator = " 🇺🇸";
-            }
-            if (description.includes("remote")) {
-              statusIndicator += " 🏠";
-            }
-
-            output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
-          });
-        });
-        
-        output += "\n";
-      }
+    if (!categoryJobs || categoryJobs.length === 0) {
+      return; // Skip empty categories
     }
-  });
 
-  // NEW: Process uncategorized companies (not in software.json)
-  const categorizedCompanies = new Set();
-  Object.values(companyCategory).forEach(category => {
-    category.companies.forEach(company => categorizedCompanies.add(company));
-  });
+    const totalJobs = categoryJobs.length;
+    console.log('Processing category', { category: categoryData.title, jobs: totalJobs });
 
-  const uncategorizedCompanies = Object.keys(jobsByCompany).filter(
-    company => !categorizedCompanies.has(company)
-  );
+    // Group jobs by company within this category
+    const jobsByCompany = {};
+    categoryJobs.forEach((job) => {
+      const company = job.employer_name;
+      if (!jobsByCompany[company]) {
+        jobsByCompany[company] = [];
+      }
+      jobsByCompany[company].push(job);
+    });
 
-  if (uncategorizedCompanies.length > 0) {
-    const totalUncategorizedJobs = uncategorizedCompanies.reduce(
-      (sum, company) => sum + jobsByCompany[company].length, 0
-    );
+    // Start collapsible category section
+    output += `<details>\n`;
+    output += `<summary><h3>${categoryData.emoji} <strong>${categoryData.title}</strong> (${totalJobs} positions)</h3></summary>\n\n`;
 
-    console.log(`\n📝 DEBUG: Processing UNCATEGORIZED companies: ${uncategorizedCompanies.length} companies with ${totalUncategorizedJobs} jobs`);
+    // Handle companies with >10 jobs separately
+    const bigCompanies = Object.entries(jobsByCompany)
+      .filter(([_, companyJobs]) => companyJobs.length > 10)
+      .sort((a, b) => b[1].length - a[1].length);
 
-    output += `### 🏢 **Other Companies** (${totalUncategorizedJobs} positions)\n\n`;
-
-    // Handle large uncategorized companies (>10 jobs) separately
-    const bigUncategorized = uncategorizedCompanies.filter(
-      company => jobsByCompany[company].length > 10
-    );
-
-    bigUncategorized.forEach((companyName) => {
-      const companyJobs = jobsByCompany[companyName];
+    bigCompanies.forEach(([companyName, companyJobs]) => {
       const emoji = getCompanyEmoji(companyName);
+
+      // Sort jobs by date (newest first)
+      const sortedJobs = companyJobs.sort((a, b) => {
+        const dateA = new Date(a.job_posted_at_datetime_utc);
+        const dateB = new Date(b.job_posted_at_datetime_utc);
+        return dateB - dateA; // Newest first
+      });
 
       if (companyJobs.length > 50) {
         output += `<details>\n`;
@@ -307,29 +149,18 @@ function generateJobTable(jobs) {
       output += `| Role | Location | Posted | Level | Apply |\n`;
       output += `|------|----------|--------|-------|-------|\n`;
 
-      companyJobs.forEach((job) => {
-        const role = job.job_title.substring(0, 35) + (job.job_title.length > 35 ? "..." : "");
-        const location = formatLocation(job.job_city, job.job_state).substring(0, 12);
+      sortedJobs.forEach((job) => {
+        const role = job.job_title.length > 35 ? job.job_title.substring(0, 32) + "..." : job.job_title;
+        const location = formatLocation(job.job_city, job.job_state);
         const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
         const level = getExperienceLevel(job.job_title, job.job_description);
-        const category = getJobCategory(job.job_title, job.job_description);
         const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
         const levelShort = {
           "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
-          "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level")',
+          "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
           "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
         }[level] || level;
-        const categoryShort = category
-          .replace("Machine Learning & AI", "ML/AI")
-          .replace("DevOps & Infrastructure", "DevOps")
-          .replace("Data Science & Analytics", "Data")
-          .replace("Software Engineering", "Software")
-          .replace("Full Stack Development", "Full Stack")
-          .replace("Frontend Development", "Frontend")
-          .replace("Backend Development", "Backend")
-          .replace(" Development", "")
-          .replace(" Engineering", "");
 
         let statusIndicator = "";
         const description = (job.job_description || "").toLowerCase();
@@ -344,78 +175,81 @@ function generateJobTable(jobs) {
       });
 
       if (companyJobs.length > 50) {
-        output += `</details>\n\n`;
+        output += `\n</details>\n\n`;
       } else {
         output += "\n";
       }
     });
 
-    // Handle small uncategorized companies (<=10 jobs) in one table
-    const smallUncategorized = uncategorizedCompanies.filter(
-      company => jobsByCompany[company].length <= 10
-    );
+    // Combine companies with <=10 jobs into one table
+    const smallCompanies = Object.entries(jobsByCompany)
+      .filter(([_, companyJobs]) => companyJobs.length <= 10);
 
-    if (smallUncategorized.length > 0) {
+    if (smallCompanies.length > 0) {
+      // Flatten all jobs from small companies and sort by date
+      const allSmallCompanyJobs = smallCompanies.flatMap(([companyName, companyJobs]) =>
+        companyJobs.map(job => ({ ...job, companyName }))
+      );
+
+      // Sort all jobs by date (newest first)
+      allSmallCompanyJobs.sort((a, b) => {
+        const dateA = new Date(a.job_posted_at_datetime_utc);
+        const dateB = new Date(b.job_posted_at_datetime_utc);
+        return dateB - dateA; // Newest first
+      });
+
       output += `| Company | Role | Location | Posted | Level | Apply |\n`;
       output += `|---------|------|----------|--------|-------|-------|\n`;
 
-      smallUncategorized.forEach((companyName) => {
-        const companyJobs = jobsByCompany[companyName];
+      allSmallCompanyJobs.forEach((job) => {
+        const companyName = job.companyName;
         const emoji = getCompanyEmoji(companyName);
 
-        companyJobs.forEach((job) => {
-          const role = job.job_title.substring(0, 35) + (job.job_title.length > 35 ? "..." : "");
-          const location = formatLocation(job.job_city, job.job_state).substring(0, 12);
-          const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
-          const level = getExperienceLevel(job.job_title, job.job_description);
-          const category = getJobCategory(job.job_title, job.job_description);
-          const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+        const role = job.job_title.length > 35 ? job.job_title.substring(0, 32) + "..." : job.job_title;
+        const location = formatLocation(job.job_city, job.job_state);
+        const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
+        const level = getExperienceLevel(job.job_title, job.job_description);
+        const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
-          const levelShort = {
-            "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
-            "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level")',
-            "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
-          }[level] || level;
-          const categoryShort = category
-            .replace("Machine Learning & AI", "ML/AI")
-            .replace("DevOps & Infrastructure", "DevOps")
-            .replace("Data Science & Analytics", "Data")
-            .replace("Software Engineering", "Software")
-            .replace("Full Stack Development", "Full Stack")
-            .replace("Frontend Development", "Frontend")
-            .replace("Backend Development", "Backend")
-            .replace(" Development", "")
-            .replace(" Engineering", "");
+        const levelShort = {
+          "Entry-Level": '![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level")',
+          "Mid-Level": '![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level")',
+          "Senior": '![Senior](https://img.shields.io/badge/-Senior-red "Senior-Level")'
+        }[level] || level;
 
-          let statusIndicator = "";
-          const description = (job.job_description || "").toLowerCase();
-          if (description.includes("no sponsorship") || description.includes("us citizen")) {
-            statusIndicator = " 🇺🇸";
-          }
-          if (description.includes("remote")) {
-            statusIndicator += " 🏠";
-          }
+        let statusIndicator = "";
+        const description = (job.job_description || "").toLowerCase();
+        if (description.includes("no sponsorship") || description.includes("us citizen")) {
+          statusIndicator = " 🇺🇸";
+        }
+        if (description.includes("remote")) {
+          statusIndicator += " 🏠";
+        }
 
-          output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
-        });
+        output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${levelShort} | [<img src="images/apply.png" width="75" alt="Apply">](${applyLink}) |\n`;
       });
 
       output += "\n";
     }
-  }
 
-  console.log(`\n🎉 DEBUG: Finished generating job table with ${Object.keys(jobsByCompany).length} companies processed (${categorizedCompanies.size} categorized + ${uncategorizedCompanies.length} uncategorized)`);
+    // End collapsible category section
+    output += `</details>\n\n`;
+  });
+
+  console.log('Finished generating job table', { categorized_jobs: categorizedJobs.size });
   return output;
 }
+
 function generateInternshipSection(internshipData) {
   if (!internshipData) return "";
 
   return `
+
 ---
 
 ## SWE Internships 2026
 
-<img src="images/ngj-internships.png" alt="Software engineering internships for 2026.">
+<img src="images/sej-internships.png" alt="Software engineering internships for 2026.">
 
 ### 🏢 **FAANG+ Internship Programs**
 
@@ -436,7 +270,7 @@ ${internshipData.companyPrograms
 ${internshipData.sources
   .map(
     (source) =>
-      `| **${source.emogi} ${source.name}** | ${source.type} | ${source.description} | [<img src="images/ngj-visit.png" width="75" alt="Visit button">](${source.url}) |`
+      `| **${source.emogi} ${source.name}** | ${source.type} | ${source.description} | [<img src="images/sej-visit.png" width="75" alt="Visit button">](${source.url}) |`
   )
   .join("\n")}
 
@@ -446,27 +280,24 @@ ${internshipData.sources
 function generateArchivedSection(archivedJobs, stats) {
   if (archivedJobs.length === 0) return "";
 
-  // Get top category from archived jobs
-  const categoryCounts = {};
-  archivedJobs.forEach(job => {
-    const cat = getJobCategoryFromKeywords(job.job_title, job.job_description);
-    const catTitle = jobCategories[cat]?.title || 'Software Engineering';
-    categoryCounts[catTitle] = (categoryCounts[catTitle] || 0) + 1;
-  });
-  const topCategory = Object.entries(categoryCounts).sort((a, b) => b[1] - a[1])[0]?.[0] || 'Software Engineering';
+  const archivedFaangJobs = archivedJobs.filter((job) =>
+    companies.faang_plus?.companies?.includes(job.employer_name)
+  ).length;
 
   return `
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - ${
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - ${
     archivedJobs.length
-  } Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+  } (7+ days old) - Click to Expand</h2></summary>
 
-### 📊 **Archived Job Stats**
+> Either still hiring or useful for research.
+
+### **Archived Job Stats**
 - **📁 Total Jobs**: ${archivedJobs.length} positions
-- **🏢 Companies**: ${Object.keys(stats.totalByCompany).length} companies
-- **🏷️ Top Category**: ${topCategory}
+- **🏢 Companies**: ${Object.keys(stats.totalByCompany).length} companies  
+- **⭐ FAANG+ Jobs & Internships**: ${archivedFaangJobs} roles
 
 ${generateJobTable(archivedJobs)}
 
@@ -478,73 +309,44 @@ ${generateJobTable(archivedJobs)}
 }
 
 // Generate comprehensive README
-async function generateReadme(currentJobs, archivedJobs = [], internshipData = null, stats = null) {
+async function generateReadme(
+  currentJobs,
+  archivedJobs = [],
+  internshipData = null,
+  stats = null
+) {
   const currentDate = new Date().toLocaleDateString("en-US", {
     year: "numeric",
     month: "long",
     day: "numeric",
   });
 
-  // Filter out senior positions BEFORE calculating stats and badge counts
+  const totalCompanies = Object.keys(stats?.totalByCompany || {}).length;
+  // Filter out senior positions BEFORE calculating badge counts
   currentJobs = filterOutSeniorPositions(currentJobs);
 
-  // Calculate stats from currentJobs only (not archived)
-  const currentStats = {
-    byLevel: {},
-    byLocation: {},
-    byCategory: {},
-    totalByCompany: {}
-  };
-
-  currentJobs.forEach(job => {
-    // Count by level
-    const level = getExperienceLevel(job.job_title, job.job_description);
-    currentStats.byLevel[level] = (currentStats.byLevel[level] || 0) + 1;
-
-    // Count by location
-    const location = formatLocation(job.job_city, job.job_state);
-    currentStats.byLocation[location] = (currentStats.byLocation[location] || 0) + 1;
-
-    // Count by category (using new job categories)
-    const categoryKey = getJobCategoryFromKeywords(job.job_title, job.job_description);
-    const categoryTitle = jobCategories[categoryKey]?.title || 'Software Engineering';
-    currentStats.byCategory[categoryTitle] = (currentStats.byCategory[categoryTitle] || 0) + 1;
-
-    // Count by company
-    const company = job.employer_name;
-    currentStats.totalByCompany[company] = (currentStats.totalByCompany[company] || 0) + 1;
-  });
-
-  const totalCurrentJobs = (currentStats.byLevel["Entry-Level"] || 0) +
-                           (currentStats.byLevel["Mid-Level"] || 0) +
-                           (currentStats.byLevel["Senior"] || 0);
-
-  const totalCompanies = Object.keys(currentStats.totalByCompany).length;
-
-  // Get top category for badge
-  const topCategoryEntry = Object.entries(currentStats.byCategory).sort((a, b) => b[1] - a[1])[0];
-  const topCategory = topCategoryEntry?.[0] || 'Software Engineering';
-  const topCategoryCount = topCategoryEntry?.[1] || 0;
-  const topCategoryBadge = topCategory.replace(/\s+/g, '_').substring(0, 15);
+  const faangJobs = currentJobs.filter((job) =>
+    companies.faang_plus?.companies?.includes(job.employer_name)
+  ).length;
 
   return `<div align="center">
 
 <!-- Banner -->
-<img src="images/rmj-heading.png" alt="Remote Jobs 2026 - Illustration of people networking.">
+<img src="images/sej-heading.png" alt="Software Engineering Jobs 2026 - Illustration of people working on tech.">
 
-# Remote Jobs 2026
+# Software Engineering Jobs 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-${currentJobs.length}-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building) ![${topCategory.substring(0, 10)}](https://img.shields.io/badge/${topCategoryBadge}-${topCategoryCount}-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-${currentJobs.length}-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building) ${faangJobs > 0 ? '![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-' + faangJobs + '-red?style=flat&logo=star) ' : ''}![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from ${totalCompanies} companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with ${currentJobs.length} fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with ${currentJobs.length}+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
 > [!TIP]
-> 🛠  Help us grow! Add new jobs by submitting an issue! View [contributing steps](CONTRIBUTING.md) here.
+> 🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md).
 
 ---
 
@@ -569,25 +371,25 @@ Experience an advanced career journey with us! 🚀
 
 ---
 
-## Join Our Community
+## Explore Around
 
-<img src="images/community.png" alt="Join Our Community - Illustration of people holding hands.">
+<img src="images/community.png" alt="Explore Around">
 
-Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
+Connect and seek advice from a growing network of fellow students and new grads.
 
 <p align="center">
   <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Visit Our Website" width="250"></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" width="120"></a>
+  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" height="75"></a>
   &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" width="120"></a>
+  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="75"></a>
 </p>
 
 ---
 
 ## Fresh Software Jobs 2026
 
-<img src="images/rmj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
+<img src="images/sej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 ${generateJobTable(currentJobs)}
 
@@ -595,17 +397,21 @@ ${generateJobTable(currentJobs)}
 
 ## More Resources
 
+<img src="images/more-resources.png" alt="Jobs and templates in our other repos.">
+
+Check out our other repos for jobs and free resources:
+
 <p align="center">
-  <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
-  &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026"><img src="images/repo-dsj.png" alt="Data Science Jobs" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2026"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/New-Grad-Nursing-Jobs-2026"><img src="images/repo-nsj.png" alt="Nursing Jobs" height="40"></a>
 </p>
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2026"><img src="images/repo-ngj.png" alt="New Grad Jobs" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/New-Grad-Nursing-Jobs-2026"><img src="images/repo-nsj.png" alt="Nursing Jobs" height="40"></a>
+  <a href="https://github.com/zapplyjobs/Remote-Jobs-2026"><img src="images/repo-rmj.png" alt="Remote Jobs" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/resume-samples-2026"><img src="images/repo-rss.png" alt="Resume Samples" height="40"></a>
   &nbsp;&nbsp;
@@ -636,38 +442,31 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
-${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, currentStats) : ""}
-
-<div align="center">
+${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : ""}
 
 ---
 
-**🎯 ${currentJobs.length} current opportunities from ${totalCompanies} companies**
+<div align="center">
 
-**Found this helpful? Give it a ⭐ to support Zapply!**
+**🎯 ${
+    currentJobs.length
+  } current opportunities from ${totalCompanies} elite companies.**
+
+**Found this helpful? Give it a ⭐ to support us!**
 
 *Not affiliated with any companies listed. All applications redirect to official career pages.*
 
 ---
 
-**Last Updated**: ${currentDate} • **Next Update**: Daily at 9 AM UTC
+**Last Updated:** ${currentDate} • **Next Update:** Daily at 9 AM UTC
 
 </div>`;
 }
 
 // Update README file
-async function updateReadme(allJobs, existingArchivedJobs = [], internshipData, stats) {
+async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
   try {
     console.log("📝 Generating README content...");
-    
-    // Filter jobs by age - only show jobs from last 7 days as current
-    const { currentJobs, archivedJobs: newArchivedJobs } = filterJobsByAge(allJobs);
-    
-    // Combine new archived jobs with existing archived jobs
-    const archivedJobs = [...newArchivedJobs, ...existingArchivedJobs];
-    
-    console.log(`📅 Jobs filtered: ${currentJobs.length} current (≤7 days), ${archivedJobs.length} archived (>7 days)`);
-    
     const readmeContent = await generateReadme(
       currentJobs,
       archivedJobs,
@@ -695,5 +494,7 @@ module.exports = {
   generateArchivedSection,
   generateReadme,
   updateReadme,
-  filterJobsByAge, 
+  filterJobsByAge,
+  filterOutSeniorPositions,  // ADD THIS
 };
+
