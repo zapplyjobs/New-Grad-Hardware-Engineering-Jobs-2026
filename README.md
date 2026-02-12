@@ -6,11 +6,11 @@
 # Software Engineering Jobs 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-9-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-18-blue?style=flat&logo=building) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-4-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-15-blue?style=flat&logo=building) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 18+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 9+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 15+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 4+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -61,7 +61,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/sej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>⚡ <strong>Hardware Engineer</strong> (8 positions)</h3></summary>
+<summary><h3>⚡ <strong>Hardware Engineer</strong> (4 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -69,19 +69,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **AI Jobs** | Computer Vision Engineer | Boston, MA | Recently | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.aijobs.com/jobs/156873391-computer-vision-engineer) |
 | 🏢 **AI Jobs** | Mechanical Engineer - TeleOp | San Jose, CA | Recently | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.aijobs.com/jobs/158835765-mechanical-engineer-teleop) |
 | 🏢 **AI Jobs** | Computer Vision Engineer | Salt Lake City, UT | Recently | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.aijobs.com/jobs/156608307-computer-vision-engineer) |
-| 🏢 **Marotta Controls, Inc.** | ECAD Designer (PCB Designer) 🇺🇸 | Far Hills, New Jersey | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/far-hills-nj/ecad-designer-pcb-designer-336168/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **DEKA Research & Development** | Electronic PCB Designer | Manchester, New Hampshire | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/electronic-pcb-designer?id=2443737508&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Shield AI** | PCB Designer II (R4358) 🏠 | Remote | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobgether.com/offer/6981962a9242569942711cc7-pcb-designer-ii-r4358?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🚀 **SpaceX** | PCB Designer (Starshield) | Hawthorne, California | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://spacecrew.com/space-jobs/ml1znvx2-spacex-pcb-designer-starshield?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-</details>
-
-<details>
-<summary><h3>✅ <strong>Validation Engineer</strong> (1 positions)</h3></summary>
-
-| Company | Role | Location | Posted | Level | Apply |
-|---------|------|----------|--------|-------|-------|
-| 🏢 **AdvancedPCB Holdings, Inc.** | PCB Designer | Denver, Colorado | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/d360bc85aa74541a0ef5d80f5380a04e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -140,22 +127,21 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 5 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 6 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 5 positions
-- **🏢 Companies**: 18 companies  
+- **📁 Total Jobs**: 6 positions
+- **🏢 Companies**: 15 companies  
 - **⭐ FAANG+ Jobs & Internships**: 0 roles
 
 <details>
-<summary><h3>⚡ <strong>Hardware Engineer</strong> (2 positions)</h3></summary>
+<summary><h3>⚡ <strong>Hardware Engineer</strong> (1 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **DEKA Research & Development** | PCB Layout Designer | Manchester, New Hampshire | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://deka.applytojob.com/apply/es12ku4ziK/PCB-Layout-Designer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Corvid Technologies LLC** | PCB Designer/Librarian 🇺🇸 | Mooresville, North Carolina | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.tealhq.com/job/pcb-designer-librarian_7ea1ac3815c55368852cd76f9f360a3584141?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Teradyne** | Hardware Engineer (NEXTEST; Tual... | Tualatin, Oregon | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.teradyne.com/Teradyne/job/Tualatin-Hardware-Engineer-%28NEXTEST-Tualatin%2C-OR%29-OR/1331177300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -171,7 +157,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 9 current opportunities from 18 elite companies.**
+**🎯 4 current opportunities from 15 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
