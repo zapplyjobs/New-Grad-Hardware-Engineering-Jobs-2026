@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="images/rmj-heading.png" alt="Remote Jobs 2026 - Illustration of people networking.">
+<img src="images/sej-heading.png" alt="Software Engineering Jobs 2026 - Illustration of people working on tech.">
 
-# Remote Jobs 2026
+# Software Engineering Jobs 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-1-blue?style=flat&logo=building) ![Hardware E](https://img.shields.io/badge/Hardware_Engine-1-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-5-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-15-blue?style=flat&logo=building) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 1 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 15+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 5+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
 > [!TIP]
-> 🛠  Help us grow! Add new jobs by submitting an issue! View [contributing steps](CONTRIBUTING.md) here.
+> 🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md).
 
 ---
 
@@ -33,9 +33,9 @@ Explore Zapply's website and check out:
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" height="60"></a>
+  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://chromewebstore.google.com/detail/zapply-instant-autofill-f/lkomdndabnpakcabffgobiejimpamjom"><img src="images/extension-button.png" alt="Install Our Extension" height="60"></a>
+  <a href=""><img src="images/extension-button.png" alt="Install Our Extension - Coming Soon" width="300"></a>
 </p>
 
 ---
@@ -47,24 +47,31 @@ Experience an advanced career journey with us! 🚀
 Connect and seek advice from a growing network of fellow students and new grads.
 
 <p align="center">
-  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Join Our Discord" height="60"></a>
+  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Visit Our Website" width="250"></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" height="60"></a>
+  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" height="75"></a>
   &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="60"></a>
+  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="75"></a>
 </p>
 
 ---
 
 ## Fresh Software Jobs 2026
 
-<img src="images/rmj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
+<img src="images/sej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-### 🏢 **Other Companies** (1 positions)
+<details>
+<summary><h3>⚡ <strong>Hardware Engineer</strong> (5 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Globus Medical** | Firmware Engineer | King of Prus | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/firmware-engineer-at-globus-medical-4356481809?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🔶 **AMD** | Software Development Engineer - ... | US, CA | Recently | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/67191/login) |
+| 🏢 **AI Jobs** | Computer Vision Engineer | Boston, MA | Recently | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.aijobs.com/jobs/156873391-computer-vision-engineer) |
+| 🏢 **AI Jobs** | Mechanical Engineer - TeleOp | San Jose, CA | Recently | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.aijobs.com/jobs/158835765-mechanical-engineer-teleop) |
+| 🏢 **AI Jobs** | Computer Vision Engineer | Salt Lake City, UT | Recently | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.aijobs.com/jobs/156608307-computer-vision-engineer) |
+| 🏢 **Cisco** | ASIC Physical Design Engineer - ... | Maynard, Massachusetts | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/CISCISGLOBAL2004145EXTERNALENGLOBAL/ASIC-Physical-Design-Engineer-Maynard-MA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
 
 
 
@@ -72,17 +79,21 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 ## More Resources
 
+<img src="images/more-resources.png" alt="Jobs and templates in our other repos.">
+
+Check out our other repos for jobs and free resources:
+
 <p align="center">
-  <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
-  &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026"><img src="images/repo-dsj.png" alt="Data Science Jobs" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2026"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/New-Grad-Nursing-Jobs-2026"><img src="images/repo-nsj.png" alt="Nursing Jobs" height="40"></a>
 </p>
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2026"><img src="images/repo-ngj.png" alt="New Grad Jobs" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/New-Grad-Nursing-Jobs-2026"><img src="images/repo-nsj.png" alt="Nursing Jobs" height="40"></a>
+  <a href="https://github.com/zapplyjobs/Remote-Jobs-2026"><img src="images/repo-rmj.png" alt="Remote Jobs" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/resume-samples-2026"><img src="images/repo-rss.png" alt="Resume Samples" height="40"></a>
   &nbsp;&nbsp;
@@ -117,21 +128,18 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 10 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 4 (7+ days old) - Click to Expand</h2></summary>
 
-### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 10 positions
-- **🏢 Companies**: 1 companies
-- **🏷️ Top Category**: Hardware Engineer
+> Either still hiring or useful for research.
 
-### 🏢 **Other Companies** (2 positions)
+### **Archived Job Stats**
+- **📁 Total Jobs**: 4 positions
+- **🏢 Companies**: 15 companies  
+- **⭐ FAANG+ Jobs & Internships**: 0 roles
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Thorlabs** | Firmware Engineer II | Newton, New  | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.thorlabs.com/careers/job/327EEB6DA8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Robert Half** | Firmware Engineer | Germantown,  | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.roberthalf.com/us/en/job/germantown-wi/firmware-engineer/04600-0013372238-usen?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 </details>
 
@@ -139,18 +147,18 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
 
-<div align="center">
-
 ---
 
-**🎯 1 current opportunities from 1 companies**
+<div align="center">
 
-**Found this helpful? Give it a ⭐ to support Zapply!**
+**🎯 5 current opportunities from 15 elite companies.**
+
+**Found this helpful? Give it a ⭐ to support us!**
 
 *Not affiliated with any companies listed. All applications redirect to official career pages.*
 
 ---
 
-**Last Updated**: February 12, 2026 • **Next Update**: Daily at 9 AM UTC
+**Last Updated:** February 12, 2026 • **Next Update:** Daily at 9 AM UTC
 
 </div>
