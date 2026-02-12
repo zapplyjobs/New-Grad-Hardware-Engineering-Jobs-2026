@@ -6,11 +6,11 @@
 # Remote Jobs 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-0-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-0-blue?style=flat&logo=building) ![Software E](https://img.shields.io/badge/Software_Engine-0-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-1-blue?style=flat&logo=building) ![Hardware E](https://img.shields.io/badge/Hardware_Engine-1-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 0 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 0 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 1 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -60,9 +60,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/rmj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
+### 🏢 **Other Companies** (1 positions)
+
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+| 🏢 **AST SpaceMobile** | Intern - Electrical Engineering Int... | Lanham, Mary | 18h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://spacecrew.com/space-jobs/mlhpl9bt-ast-spacemobile-intern-electrical-engineering-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+
 
 ---
 
@@ -113,19 +117,18 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 15 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 12 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 15 positions
-- **🏢 Companies**: 0 companies
+- **📁 Total Jobs**: 12 positions
+- **🏢 Companies**: 1 companies
 - **🏷️ Top Category**: Hardware Engineer
 
-### 🏢 **Other Companies** (2 positions)
+### 🏢 **Other Companies** (1 positions)
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **LS3002 GE Vernova Operations LLC** | Electronics Hardware Engineer | Niskayuna, N | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Electronics-Hardware-Engineer_R5030768?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Stellantis** | Propulsion HIL Systems and Hardware... | Auburn Hills | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.stellantis.com/job/22904830/propulsion-hil-systems-and-hardware-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Naval Nuclear Laboratory** | Associate Electrical Engineer | West Mifflin | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://navalnuclearlab.energy.gov/job-search/job-detail/?job-id=7077&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 
@@ -139,7 +142,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**🎯 0 current opportunities from 0 companies**
+**🎯 1 current opportunities from 1 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
