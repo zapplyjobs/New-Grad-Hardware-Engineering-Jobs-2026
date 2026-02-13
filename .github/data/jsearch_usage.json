@@ -1,12 +1,13 @@
 {
   "date": "Fri Feb 13 2026",
-  "requests": 5,
-  "remaining": 25,
+  "requests": 6,
+  "remaining": 24,
   "queries_executed": [
     "embedded software engineer",
     "embedded software engineer",
     "embedded software engineer",
     "firmware engineer",
+    "fpga engineer",
     "fpga engineer"
   ]
 }
