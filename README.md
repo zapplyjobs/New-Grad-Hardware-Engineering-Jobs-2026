@@ -11,7 +11,7 @@
 
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-5-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building)
-![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-4-red?style=flat&logo=star)
+![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-5-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/hej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>⚡ <strong>Hardware Engineer</strong> (4 positions)</h3></summary>
+<summary><h3>⚡ <strong>Hardware Engineer</strong> (5 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -77,15 +77,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **AI Jobs** | Computer Vision Engineer | Boston, MA | Recently | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.aijobs.com/jobs/156873391-computer-vision-engineer) |
 | 🏢 **AI Jobs** | Mechanical Engineer - TeleOp | San Jose, CA | Recently | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.aijobs.com/jobs/158835765-mechanical-engineer-teleop) |
 | 🏢 **AI Jobs** | Computer Vision Engineer | Salt Lake City, UT | Recently | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.aijobs.com/jobs/156608307-computer-vision-engineer) |
-
-</details>
-
-<details>
-<summary><h3>🔲 <strong>FPGA/ASIC</strong> (1 positions)</h3></summary>
-
-| Company | Role | Location | Posted | Level | Apply |
-|---------|------|----------|--------|-------|-------|
-| 🏢 **Cirrus Logic** | Analog Design Engineer AB-TBD 33 | New Mexico | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-nm-all-cities-analog-design-engineer-ab-tbd-33-cirrus-logic-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **GE Vernova** | Electronics Hardware Engineer | Niskayuna, New York | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.gevernova.com/electronics-hardware-engineer/job/R5030768?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -146,19 +138,20 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 1 positions
+- **📁 Total Jobs**: 2 positions
 - **🏢 Companies**: 3 companies
-- **🏷️ Top Category**: FPGA/ASIC
+- **🏷️ Top Category**: Hardware Engineer
 
 <details>
-<summary><h3>🔲 <strong>FPGA/ASIC</strong> (1 positions)</h3></summary>
+<summary><h3>⚡ <strong>Hardware Engineer</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 📊 **Analog Devices** | Digital Design Engineer Intern | North Carolina | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://refresh.cv/jobs/analog-devices/f52b418a-7026-4ef9-8d08-155fa0f89ef0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Cleveland-Cliffs, Inc.** | Power Engineer | Butler Township, Pennsylvania | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Cleveland-Cliffs,-Inc./Job/Power-Engineer/-in-Lyndora,PA?jid=6aa8b668e67da191&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Electro Standards Laboratories** | Electrical Engineer, Firmware/Po... | Cranston, Rhode Island | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.indeed.com/viewjob?jk=a04a72122dc41be0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
