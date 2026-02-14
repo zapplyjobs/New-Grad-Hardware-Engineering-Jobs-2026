@@ -85,7 +85,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Jobs via eFinancialCareers** | Embedded Software Engineer - Ham... | Manchester-by-the-Sea, Massachusetts | 12h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/embedded-software-engineer-hampshire-hybrid-%C2%A350-%C2%A365-000-morgan-mckinley-at-jobs-via-efinancialcareers-4364500104?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Morgan McKinley** | Embedded Software Engineer - Ham... | Massachusetts | 17h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.efinancialcareers.com/jobs-United_States-Manchester-Embedded_Software_Engineer_-_Hampshire_Hybrid_-_%C2%A350-%C2%A365000.id23828872?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -146,23 +146,16 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 0 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 1 positions
+- **📁 Total Jobs**: 0 positions
 - **🏢 Companies**: 3 companies
-- **🏷️ Top Category**: Hardware Engineer
-
-<details>
-<summary><h3>⚡ <strong>Hardware Engineer</strong> (1 positions)</h3></summary>
+- **🏷️ Top Category**: Software Engineering
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Viasat** | Embedded Software Engineer, Vias... 🇺🇸 | Linthicum Heights, Maryland | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/embedded-software-engineer-viasat-government-at-viasat-4345226003?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-</details>
-
-
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 </details>
 
