@@ -1,7 +1,7 @@
 {
   "date": "Sat Feb 14 2026",
-  "requests": 24,
-  "remaining": 6,
+  "requests": 25,
+  "remaining": 5,
   "queries_executed": [
     "hardware engineer",
     "hardware engineer",
@@ -26,6 +26,7 @@
     "verification engineer",
     "digital design engineer",
     "digital design engineer",
-    "digital design engineer"
+    "digital design engineer",
+    "analog engineer"
   ]
 }
