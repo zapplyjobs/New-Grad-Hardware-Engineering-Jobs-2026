@@ -298,6 +298,11 @@
         "is_direct": true
       },
       {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/lead-principal-engineer-analog-mixed-signal-design-infineontechnologies-el-segundo-ca_85687075?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "Glassdoor",
         "apply_link": "https://www.glassdoor.com/job-listing/lead-principal-engineer-analog-mixed-signal-design-infineon-technologies-JV_IC1146779_KO0,50_KE51,72.htm?jl=1010033895473&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -310,11 +315,6 @@
       {
         "publisher": "Jobright",
         "apply_link": "https://jobright.ai/jobs/info/698f34520cc8ea15f1d9a5be?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/I3-9bntWdpZKp41XUoduPZHFya3Moifa1eJMEbupL52oR3eRr23FRQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -600,8 +600,8 @@
     "job_longitude": -122.2059833,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_suurIVYg45pri_TAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 100000,
@@ -671,6 +671,11 @@
       {
         "publisher": "BeBee",
         "apply_link": "https://us.bebee.com/job/f1324e175a92b23af20bf993a83bb219?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JobLeads",
+        "apply_link": "https://www.jobleads.com/us/job/analog-circuit-design-engineer--hillsboro--e9544e8196dd39d59e8138bb603939854?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
@@ -966,8 +971,8 @@
     "job_latitude": 34.7295497,
     "job_longitude": -86.5853155,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D01fGh98neVhb-0iBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1087,9 +1092,9 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Df-yCc_PkNwuklX8TAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1352,8 +1357,8 @@
     "job_latitude": 36.778261,
     "job_longitude": -119.4179324,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRMoZX69r0LCId45aAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 125000,
@@ -1604,8 +1609,8 @@
     "job_latitude": 40.0583238,
     "job_longitude": -74.4056612,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DcTKQRx8eIRVx-VaVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1658,6 +1663,203 @@
     "job_onet_soc": "17207200",
     "job_onet_job_zone": "4",
     "id": "builtin-com-job-digital-design-engineer-8484269",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "pfPpIJoX2iTUHdTXAAAAAA==",
+    "job_title": "Senior Analog Design Engineer",
+    "employer_name": "Ametek, Inc.",
+    "employer_logo": null,
+    "employer_website": "https://www.ametek.com",
+    "job_publisher": "Ametek Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.ametek.com/job/Pleasanton-Senior-Analog-Design-Engineer-CA-94588/1355586300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Ametek Careers",
+        "apply_link": "https://jobs.ametek.com/job/Pleasanton-Senior-Analog-Design-Engineer-CA-94588/1355586300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=fca286f64bfea477&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Ametek/Job/Senior-Analog-Design-Engineer/-in-Pleasanton,CA?jid=1a71f4f22581163a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/z5x5r_GzCcQxbYR837oOgyMzTqZz6PTiyLQ3THBOBC2s4BEDVveX7g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/senior-analog-design-engineer-pleasanton-ametek-inc-d11186a6f729cb2064cd055af4575691?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-analog-design-engineer-at-ametek-4361166971?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "EQuest Jobs",
+        "apply_link": "https://jobs.equest.com/jobs/CA/ametek-inc/senior-analog-design-engineer-443870776.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "CareerBuilder",
+        "apply_link": "https://www.careerbuilder.com/job/J3T4HW7024S7MTFDY4P?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "We are seeking an experienced Senior Analog – mixed signal Engineer for our current and next generation cameras, imaging energy filters, specimen preparation equipment and other electron microscopy products. This individual will be responsible for working closely with System, Hardware and Software groups, will design circuits and systems from concept and design specifications through schematic design, layout supervision, board and system checkout and transition to production. This position will be based out of our Pleasanton, CA office.\n\nThe primary function of this role will be as an analog designer on complex, mixed signal systems including architecture and hardware design. Other responsibilities include exploration of technology. The incumbent will also be responsible for defining system requirements and integration.\n\nMINIMUM REQUIREMENTS:\n• Experience designing high performance transimpedance and instrumentation amplifiers for detectors such as PMTs, photo-diodes, silicon drift detectors, etc.\n• Deep understanding of low noise, high speed analog-mixed signal circuits such as OpAmps, filters, transistors, ADCs, DACs, linear, switching power supplies and Spice simulation.\n• Must have extensive experience in low noise high speed mixed signal PCBs, schematics, layout, modeling and functional simulation.\n• Familiarity with CPLD/FPGA logic design, and board layout for high-speed digital signals.\n• Ability to architect hardware platforms and high-speed interfaces.\n• Must have ability to diagnose and resolve complex system level issues.\n• Strong comfort level working in a hands-on lab environment using Oscilloscopes, function generators, signal analyzers De-emphasize the digital stuff.\n\nDESIRABLE SKILLS AND EXPERIENCE:\n• General RF engineering such as RF power generation, impedance matching, transmission line theory, RF filter design.\n• High voltage (2KV), low noise, low power supply design experience.\n• Design with Plasma generators, laser drivers, PID and motion control.\n\nEDUCATION & EXPERIENCE:\n• BS in Electrical Engineering from a four-year college or university, MS degree is a plus\n• 10+ years of analog hardware development experience\n\nABOUT US:\n\nGatan, Inc. is the world's leading manufacturer of instrumentation and software used to enhance and extend the operation and performance of electron microscopes. Gatan products, which are fully compatible with nearly all electron microscope models and include the EDAX portfolio, cover the entire range of the research process—from specimen preparation and manipulation to imaging and analysis.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Pleasanton, CA",
+    "job_city": "Pleasanton",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.6604484,
+    "job_longitude": -121.87579679999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpfPpIJoX2iTUHdTXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Experience designing high performance transimpedance and instrumentation amplifiers for detectors such as PMTs, photo-diodes, silicon drift detectors, etc",
+        "Deep understanding of low noise, high speed analog-mixed signal circuits such as OpAmps, filters, transistors, ADCs, DACs, linear, switching power supplies and Spice simulation",
+        "Must have extensive experience in low noise high speed mixed signal PCBs, schematics, layout, modeling and functional simulation",
+        "Familiarity with CPLD/FPGA logic design, and board layout for high-speed digital signals",
+        "Ability to architect hardware platforms and high-speed interfaces",
+        "Must have ability to diagnose and resolve complex system level issues",
+        "Strong comfort level working in a hands-on lab environment using Oscilloscopes, function generators, signal analyzers De-emphasize the digital stuff",
+        "General RF engineering such as RF power generation, impedance matching, transmission line theory, RF filter design",
+        "High voltage (2KV), low noise, low power supply design experience",
+        "Design with Plasma generators, laser drivers, PID and motion control",
+        "10+ years of analog hardware development experience"
+      ],
+      "Responsibilities": [
+        "This individual will be responsible for working closely with System, Hardware and Software groups, will design circuits and systems from concept and design specifications through schematic design, layout supervision, board and system checkout and transition to production",
+        "The primary function of this role will be as an analog designer on complex, mixed signal systems including architecture and hardware design",
+        "Other responsibilities include exploration of technology",
+        "The incumbent will also be responsible for defining system requirements and integration"
+      ]
+    },
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "jobs-ametek-com-job-pleasanton-senior-analog-design-engineer-ca-94588-1355586300",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "iKlztq4xXQbcnfCbAAAAAA==",
+    "job_title": "Sr Analog Design I& Layout Engineer (Microelectronic Commons)",
+    "employer_name": "Henpen Corporation",
+    "employer_logo": null,
+    "employer_website": "https://henpencorp.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Henpen/Job/Sr-Analog-Design-I&-Layout-Engineer-(Microelectronic-Commons)/-in-Los-Angeles,CA?jid=ee3b72a07a647ad6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Henpen/Job/Sr-Analog-Design-I&-Layout-Engineer-(Microelectronic-Commons)/-in-Los-Angeles,CA?jid=ee3b72a07a647ad6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/tIoIqELrdvkTeQDVKtYJ3JEXsIiwAZTfDF-XlstRg7rcOnT4dCtb2w?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5625199065?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/los-angeles/california/engineering/4864393918/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobrapido",
+        "apply_link": "https://us.jobrapido.com/jobpreview/10665015828807680?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Senior Analog Design & Layout Engineer (Microelectronic Commons)\n(OOJ - 42577)\nActive\n02/01/2026 (8 days ago)\nLos Angeles\nCalifornia, USA\nRecruiter\nPaul Reino\nFirm Name\nAccurIT Staffing CorporationInfoConsiderationsApplicationsJob Details\nJob Id\nOOJ - 42577\nJob Title\nSenior Analog Design & Layout Engineer (Microelectronic Commons)\nStatus\nActive\nMember Firm\nAccurIT Staffing Corporation\nRecruiter\nPaul Reino\nIndustry(ies)\nElectronics/ Semi-conductors\nPrimary Skills\nanalog circuit design, eda\nSecondary Skills\ncadence virtuoso, cadence virtuoso layout editor, mentor graphics\nOccupational Categories\nEngineering/ Manufacturing/ Production/ Operations\nCountry\nUSA\nState/Province\nCalifornia\nCity\nLos Angeles, CA\nWork Experience (Years)\n3-10\nNo. Positions\n1\nLanguages Required\n-\nRemote Status\nNo Remote\nClient Willing to Sponsor\nNo\nTarget Date\n-\nDegree\nUniversity - Bachelor's Degree/3-4 Year Degree\nMajor\nElectronics, Electrical Engineer, computer engineering\nRelocation Paid\nNo\nRecruit From\nNationwide\nHiring Contact\nHuman Resources\nRelationship\nContingency\nOffice Internal #\n-Salary Details\nCurrency\nUS Dollars\nEmployment Type\nFull Time/Direct Hire\nPay Type\nAnnual Salary\nPay Rate\n157000-180000\nOther Compensation\n-\nShow Salary on Job Board\nYesClient Fee and Guarantee Terms\nClient Fee Percentage\n25\nGuarantee Terms\n30-, 60-, 90-day\nMoney Back\nYes\nFee Based on * Unfulfilled replacements could result in a refund of the candidate-side fee\nSalaryJob Description\nJob Description\n\nSenior Analog Design & Layout Engineer (Microelectronic Commons) - Job Order 3539\n\nLocation: Los Angeles, CA\n\nUS citizenship or Permanent Residency required\n\n$157K to $180K\n\nThe Opportunity\n\nWe are seeking a versatile Analog Design and Layout Engineer to join a premier microelectronics hub. This role is unique: you will function as a technical consultant for external customers, a mentor for advanced circuit design courses, and a key contributor to funded research. If you enjoy the intersection of hands-on physical layout and academic innovation-moving from schematic capture to tape-out across diverse process technologies-this is your ideal environment.\n\nKey Responsibilities\n\" Technical Consulting & Design Support: Partner with external customers to develop high-performance analog or digital circuit designs. You will provide expert guidance on schematic capture, simulation, and layout implementation.\n\n\" Multi-Process Expertise: Navigate and implement designs across a variety of technologies, including CMOS, BiCMOS, and III-V, ensuring strict compliance with foundry design rules\n\n\" Academic & Research Integration: Support specialized \"tape-out\" curriculum by demonstrating advanced layout techniques and troubleshooting design-flow bottlenecks for students.\n\n\" Full Lifecycle Verification: Lead efforts in post-layout simulation, parasitic extraction, and layout verification (DRC/LVS) for high-impact research projects.\n\n\" Collaborative Documentation: Author technical design reports and layout closure documentation for both industry partners and academic stakeholders.\nQualifications\n\nRequired Qualifications\n\n\" Education: Bachelor's, Master's, or PhD in Electrical Engineering or a related technical field.\n\n\" Experience: Minimum 3+ years of professional experience in analog circuit design and/or physical layout.\n\n\" Tooling: Mastery of industry-standard CAD environments (e.g., Cadence Virtuoso, SPICE simulators, or Mentor Graphics).\n\n\" Verification: Deep understanding of layout verification methodologies and parasitic extraction.\n\n\" Communication: Exceptional interpersonal skills; ability to translate complex technical concepts for both customers and students.\nPreferred Skills\n\n\" Experience with device-level, electromagnetic, or photonic component simulations.\n\n\" Prior experience in a teaching, tutoring, or workshop-led environment.\nWhy is This a Great Opportunity\n\nThis is part of the Microeletronics Commons effort to bring back integrated circuit design to the USA. Multple regions including academia and industry are working jointly to achieve this goal.\nPrivate Notes to Members\nComments\n\nThis is an amazing program and this individual will be working with some of the brightest semiconductor mines in the country. A major benefit is after 2 years of employment tuition free courses will be available to the individual AND/OR FAMILY MEMBERS. This is a big savings if the person wants to pursue advanced degrees or if they have children about to enter college.",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Los Angeles, CA",
+    "job_city": "Los Angeles",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 34.0549076,
+    "job_longitude": -118.242643,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DiKlztq4xXQbcnfCbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Remote Status",
+        "No Remote",
+        "University - Bachelor's Degree/3-4 Year Degree",
+        "US citizenship or Permanent Residency required",
+        "\" Education: Bachelor's, Master's, or PhD in Electrical Engineering or a related technical field",
+        "\" Experience: Minimum 3+ years of professional experience in analog circuit design and/or physical layout",
+        "\" Tooling: Mastery of industry-standard CAD environments (e.g., Cadence Virtuoso, SPICE simulators, or Mentor Graphics)",
+        "\" Verification: Deep understanding of layout verification methodologies and parasitic extraction",
+        "\" Communication: Exceptional interpersonal skills; ability to translate complex technical concepts for both customers and students",
+        "\" Experience with device-level, electromagnetic, or photonic component simulations",
+        "\" Prior experience in a teaching, tutoring, or workshop-led environment"
+      ],
+      "Benefits": [
+        "Annual Salary",
+        "Pay Rate",
+        "Show Salary on Job Board",
+        "YesClient Fee and Guarantee Terms",
+        "30-, 60-, 90-day",
+        "Money Back",
+        "Unfulfilled replacements could result in a refund of the candidate-side fee",
+        "A major benefit is after 2 years of employment tuition free courses will be available to the individual AND/OR FAMILY MEMBERS",
+        "This is a big savings if the person wants to pursue advanced degrees or if they have children about to enter college"
+      ],
+      "Responsibilities": [
+        "Client Willing to Sponsor",
+        "This role is unique: you will function as a technical consultant for external customers, a mentor for advanced circuit design courses, and a key contributor to funded research",
+        "If you enjoy the intersection of hands-on physical layout and academic innovation-moving from schematic capture to tape-out across diverse process technologies-this is your ideal environment",
+        "\" Technical Consulting & Design Support: Partner with external customers to develop high-performance analog or digital circuit designs",
+        "You will provide expert guidance on schematic capture, simulation, and layout implementation",
+        "\" Multi-Process Expertise: Navigate and implement designs across a variety of technologies, including CMOS, BiCMOS, and III-V, ensuring strict compliance with foundry design rules",
+        "\" Academic & Research Integration: Support specialized \"tape-out\" curriculum by demonstrating advanced layout techniques and troubleshooting design-flow bottlenecks for students",
+        "\" Full Lifecycle Verification: Lead efforts in post-layout simulation, parasitic extraction, and layout verification (DRC/LVS) for high-impact research projects",
+        "\" Collaborative Documentation: Author technical design reports and layout closure documentation for both industry partners and academic stakeholders"
+      ]
+    },
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "www-ziprecruiter-com-c-henpen-job-sr-analog-design-i-layout-engineer-microelectronic-commons-in-los-angeles-ca",
     "_source": "new_jobs"
   },
   {
@@ -1839,102 +2041,71 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "iKlztq4xXQbcnfCbAAAAAA==",
-    "job_title": "Sr Analog Design I& Layout Engineer (Microelectronic Commons)",
-    "employer_name": "Henpen Corporation",
+    "job_id": "LVGrDfgkFfClq4yeAAAAAA==",
+    "job_title": "Senior Analog Design Engineer",
+    "employer_name": "Mechanical Design Consulting",
     "employer_logo": null,
-    "employer_website": "https://henpencorp.com",
-    "job_publisher": "ZipRecruiter",
+    "employer_website": null,
+    "job_publisher": "Stemta.com",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Henpen/Job/Sr-Analog-Design-I&-Layout-Engineer-(Microelectronic-Commons)/-in-Los-Angeles,CA?jid=ee3b72a07a647ad6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://stemta.com/job/senior-analog-design-engineer-261/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": true,
     "apply_options": [
       {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Henpen/Job/Sr-Analog-Design-I&-Layout-Engineer-(Microelectronic-Commons)/-in-Los-Angeles,CA?jid=ee3b72a07a647ad6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Stemta.com",
+        "apply_link": "https://stemta.com/job/senior-analog-design-engineer-261/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/tIoIqELrdvkTeQDVKtYJ3JEXsIiwAZTfDF-XlstRg7rcOnT4dCtb2w?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5625199065?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/los-angeles/california/engineering/4864393918/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/10665015828807680?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
       }
     ],
-    "job_description": "Senior Analog Design & Layout Engineer (Microelectronic Commons)\n(OOJ - 42577)\nActive\n02/01/2026 (8 days ago)\nLos Angeles\nCalifornia, USA\nRecruiter\nPaul Reino\nFirm Name\nAccurIT Staffing CorporationInfoConsiderationsApplicationsJob Details\nJob Id\nOOJ - 42577\nJob Title\nSenior Analog Design & Layout Engineer (Microelectronic Commons)\nStatus\nActive\nMember Firm\nAccurIT Staffing Corporation\nRecruiter\nPaul Reino\nIndustry(ies)\nElectronics/ Semi-conductors\nPrimary Skills\nanalog circuit design, eda\nSecondary Skills\ncadence virtuoso, cadence virtuoso layout editor, mentor graphics\nOccupational Categories\nEngineering/ Manufacturing/ Production/ Operations\nCountry\nUSA\nState/Province\nCalifornia\nCity\nLos Angeles, CA\nWork Experience (Years)\n3-10\nNo. Positions\n1\nLanguages Required\n-\nRemote Status\nNo Remote\nClient Willing to Sponsor\nNo\nTarget Date\n-\nDegree\nUniversity - Bachelor's Degree/3-4 Year Degree\nMajor\nElectronics, Electrical Engineer, computer engineering\nRelocation Paid\nNo\nRecruit From\nNationwide\nHiring Contact\nHuman Resources\nRelationship\nContingency\nOffice Internal #\n-Salary Details\nCurrency\nUS Dollars\nEmployment Type\nFull Time/Direct Hire\nPay Type\nAnnual Salary\nPay Rate\n157000-180000\nOther Compensation\n-\nShow Salary on Job Board\nYesClient Fee and Guarantee Terms\nClient Fee Percentage\n25\nGuarantee Terms\n30-, 60-, 90-day\nMoney Back\nYes\nFee Based on * Unfulfilled replacements could result in a refund of the candidate-side fee\nSalaryJob Description\nJob Description\n\nSenior Analog Design & Layout Engineer (Microelectronic Commons) - Job Order 3539\n\nLocation: Los Angeles, CA\n\nUS citizenship or Permanent Residency required\n\n$157K to $180K\n\nThe Opportunity\n\nWe are seeking a versatile Analog Design and Layout Engineer to join a premier microelectronics hub. This role is unique: you will function as a technical consultant for external customers, a mentor for advanced circuit design courses, and a key contributor to funded research. If you enjoy the intersection of hands-on physical layout and academic innovation-moving from schematic capture to tape-out across diverse process technologies-this is your ideal environment.\n\nKey Responsibilities\n\" Technical Consulting & Design Support: Partner with external customers to develop high-performance analog or digital circuit designs. You will provide expert guidance on schematic capture, simulation, and layout implementation.\n\n\" Multi-Process Expertise: Navigate and implement designs across a variety of technologies, including CMOS, BiCMOS, and III-V, ensuring strict compliance with foundry design rules\n\n\" Academic & Research Integration: Support specialized \"tape-out\" curriculum by demonstrating advanced layout techniques and troubleshooting design-flow bottlenecks for students.\n\n\" Full Lifecycle Verification: Lead efforts in post-layout simulation, parasitic extraction, and layout verification (DRC/LVS) for high-impact research projects.\n\n\" Collaborative Documentation: Author technical design reports and layout closure documentation for both industry partners and academic stakeholders.\nQualifications\n\nRequired Qualifications\n\n\" Education: Bachelor's, Master's, or PhD in Electrical Engineering or a related technical field.\n\n\" Experience: Minimum 3+ years of professional experience in analog circuit design and/or physical layout.\n\n\" Tooling: Mastery of industry-standard CAD environments (e.g., Cadence Virtuoso, SPICE simulators, or Mentor Graphics).\n\n\" Verification: Deep understanding of layout verification methodologies and parasitic extraction.\n\n\" Communication: Exceptional interpersonal skills; ability to translate complex technical concepts for both customers and students.\nPreferred Skills\n\n\" Experience with device-level, electromagnetic, or photonic component simulations.\n\n\" Prior experience in a teaching, tutoring, or workshop-led environment.\nWhy is This a Great Opportunity\n\nThis is part of the Microeletronics Commons effort to bring back integrated circuit design to the USA. Multple regions including academia and industry are working jointly to achieve this goal.\nPrivate Notes to Members\nComments\n\nThis is an amazing program and this individual will be working with some of the brightest semiconductor mines in the country. A major benefit is after 2 years of employment tuition free courses will be available to the individual AND/OR FAMILY MEMBERS. This is a big savings if the person wants to pursue advanced degrees or if they have children about to enter college.",
+    "job_description": "Are you passionate about pushing the boundaries of analog design and innovation? Do you thrive in a collaborative, cutting-edge environment where your skills can truly shine? If so, we have the perfect opportunity for you.\n\nAbout Us:\n\nWe are pioneers in Aerospace Engineering and Consulting. Our commitment to excellence and innovation has propelled us to the forefront of our field. We are seeking a Senior Analog Design Engineer to join our dynamic team and help us continue to lead the way in Aerospace Engineering.\n\nRole:\n\nAs a Senior Analog Design Engineer you will play a pivotal role in driving our projects to success. Your responsibilities will include:\n• Leveraging your extensive experience in analog and low power design using advanced deep micron process technology.\n• Showcasing your proficiency in Verilog RTL coding, both in synchronous and asynchronous state machines, to craft elegant and efficient solutions.\n• Harnessing your expertise with Hspice and other analog simulators to validate and optimize your designs.\n• Applying your knowledge of Cadence schematic capture to translate ideas into real-world schematics.\n• Utilizing your Linux experience to work seamlessly within our collaborative development environment.\n\nQualifications:\n\nTo excel in this role, you will need:\n• A proven track record in analog and low power design using advanced deep micron process technology.\n• Proficiency in Verilog RTL coding, particularly in designing both synchronous and asynchronous state machines.\n• Strong experience with Hspice and other analog simulators.\n• A solid background in Cadence schematic capture.\n• Familiarity with Linux.\n\nWe believe in nurturing talent and fostering a culture of innovation. When you join our team, you’ll have the opportunity to:\n• Work on cutting-edge projects that push the boundaries of technology.\n• Collaborate with some of the brightest minds in the industry.\n• Continuously expand your skill set and stay at the forefront of your field.\n• Enjoy a competitive compensation package and comprehensive benefits.\n• Be part of a company that values diversity, inclusion, and work-life balance.\n\nIf you’re ready to make your mark in the world of analog design and take your career to new heights, we want to hear from you. Apply today to join our team of innovators and shape the future of Aerospace Engineering.\n\nWe are an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.\n\nBase Salary Max:: 132000",
     "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Los Angeles, CA",
-    "job_city": "Los Angeles",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Sunnyvale, CA",
+    "job_city": "Sunnyvale",
     "job_state": "California",
     "job_country": "US",
-    "job_latitude": 34.0549076,
-    "job_longitude": -118.242643,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DiKlztq4xXQbcnfCbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 37.368829999999996,
+    "job_longitude": -122.0363496,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLVGrDfgkFfClq4yeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Remote Status",
-        "No Remote",
-        "University - Bachelor's Degree/3-4 Year Degree",
-        "US citizenship or Permanent Residency required",
-        "\" Education: Bachelor's, Master's, or PhD in Electrical Engineering or a related technical field",
-        "\" Experience: Minimum 3+ years of professional experience in analog circuit design and/or physical layout",
-        "\" Tooling: Mastery of industry-standard CAD environments (e.g., Cadence Virtuoso, SPICE simulators, or Mentor Graphics)",
-        "\" Verification: Deep understanding of layout verification methodologies and parasitic extraction",
-        "\" Communication: Exceptional interpersonal skills; ability to translate complex technical concepts for both customers and students",
-        "\" Experience with device-level, electromagnetic, or photonic component simulations",
-        "\" Prior experience in a teaching, tutoring, or workshop-led environment"
+        "A proven track record in analog and low power design using advanced deep micron process technology",
+        "Proficiency in Verilog RTL coding, particularly in designing both synchronous and asynchronous state machines",
+        "Strong experience with Hspice and other analog simulators",
+        "A solid background in Cadence schematic capture",
+        "Familiarity with Linux",
+        "Collaborate with some of the brightest minds in the industry"
       ],
       "Benefits": [
-        "Annual Salary",
-        "Pay Rate",
-        "Show Salary on Job Board",
-        "YesClient Fee and Guarantee Terms",
-        "30-, 60-, 90-day",
-        "Money Back",
-        "Unfulfilled replacements could result in a refund of the candidate-side fee",
-        "A major benefit is after 2 years of employment tuition free courses will be available to the individual AND/OR FAMILY MEMBERS",
-        "This is a big savings if the person wants to pursue advanced degrees or if they have children about to enter college"
+        "Continuously expand your skill set and stay at the forefront of your field",
+        "Enjoy a competitive compensation package and comprehensive benefits",
+        "Be part of a company that values diversity, inclusion, and work-life balance"
       ],
       "Responsibilities": [
-        "Client Willing to Sponsor",
-        "This role is unique: you will function as a technical consultant for external customers, a mentor for advanced circuit design courses, and a key contributor to funded research",
-        "If you enjoy the intersection of hands-on physical layout and academic innovation-moving from schematic capture to tape-out across diverse process technologies-this is your ideal environment",
-        "\" Technical Consulting & Design Support: Partner with external customers to develop high-performance analog or digital circuit designs",
-        "You will provide expert guidance on schematic capture, simulation, and layout implementation",
-        "\" Multi-Process Expertise: Navigate and implement designs across a variety of technologies, including CMOS, BiCMOS, and III-V, ensuring strict compliance with foundry design rules",
-        "\" Academic & Research Integration: Support specialized \"tape-out\" curriculum by demonstrating advanced layout techniques and troubleshooting design-flow bottlenecks for students",
-        "\" Full Lifecycle Verification: Lead efforts in post-layout simulation, parasitic extraction, and layout verification (DRC/LVS) for high-impact research projects",
-        "\" Collaborative Documentation: Author technical design reports and layout closure documentation for both industry partners and academic stakeholders"
+        "As a Senior Analog Design Engineer you will play a pivotal role in driving our projects to success",
+        "Leveraging your extensive experience in analog and low power design using advanced deep micron process technology",
+        "Showcasing your proficiency in Verilog RTL coding, both in synchronous and asynchronous state machines, to craft elegant and efficient solutions",
+        "Harnessing your expertise with Hspice and other analog simulators to validate and optimize your designs",
+        "Applying your knowledge of Cadence schematic capture to translate ideas into real-world schematics",
+        "Utilizing your Linux experience to work seamlessly within our collaborative development environment",
+        "Work on cutting-edge projects that push the boundaries of technology"
       ]
     },
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
-    "id": "www-ziprecruiter-com-c-henpen-job-sr-analog-design-i-layout-engineer-microelectronic-commons-in-los-angeles-ca",
+    "id": "stemta-com-job-senior-analog-design-engineer-261",
     "_source": "new_jobs"
   },
   {
@@ -2115,9 +2286,9 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLaKu8ZFOJQjz_RAkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -2168,108 +2339,6 @@
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
     "id": "careers-cisco-com-global-en-job-ciscisglobal1443040externalenglobal-senior-analog-mixed-signal-ic-design-engineer-acacia-hybrid",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "ZXxE0jgRE0iUKW8EAAAAAA==",
-    "job_title": "Senior Analog Design Engineer $200K +",
-    "employer_name": "Confidential",
-    "employer_logo": null,
-    "employer_website": "https://confidential.careers",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/CyberCoders/Job/Senior-Analog-Design-Engineer-$200K-+--/-in-Pleasanton,CA?jid=bd4501b6ff3943ae&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/CyberCoders/Job/Senior-Analog-Design-Engineer-$200K-+--/-in-Pleasanton,CA?jid=bd4501b6ff3943ae&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=2ea2db045f03c013&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SaluteMyJob",
-        "apply_link": "https://salutemyjob.com/jobs/job-senior-analog-design-engineer-pleasanton-california/2618871203-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/ghujXgBEk4tLNYm396kCdlTLfypQlzq5v3osaKlyLYK0hxFCrC8vpw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WDTN Jobs",
-        "apply_link": "https://jobs.wdtn.com/jobs/job-senior-analog-design-engineer-pleasanton-california/2618871203-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "FOX21News Jobs",
-        "apply_link": "https://jobs.fox21news.com/jobs/job-senior-analog-design-engineer-pleasanton-california/2618871203-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Senior Analog Design Engineer $200K +\n\nSenior Analog Design Engineer\n\nHybrid: Pleasanton, CA\n\nSalary: $200K +/- depending on experience (please note no stock options or bonus)\n\nPosition Overview\nWe are seeking a highly skilled Senior Analog Design Engineer to join our innovative team. The ideal candidate will play a crucial role in designing, developing, and testing analog circuits for high-speed applications. This position requires a deep understanding of analog electronics and a passion for creating cutting-edge solutions in hardware design.\n\nKey Responsibilities\n• Design and develop analog circuits for high-speed applications\n• Collaborate with cross-functional teams to integrate analog components with digital systems\n• Conduct simulations and tests to validate circuit performance and reliability\n• Create and review PCB layouts to ensure optimal performance and manufacturability\n• Troubleshoot and resolve issues in analog and mixed-signal systems\n• Document design specifications and maintain project documentation\n• Mentor junior engineers and provide technical guidance during project development\n\nQualifications\n• Bachelor's or Master's degree in Electrical Engineering or a related field\n• Proven experience in Analog circuit design\n• High voltage (2KV), low noise, low power supply design experience\n• Experience designing high performance transimpedance and instrumentation amplifiers\n• Strong knowledge of PCB design and layout techniques\n• Familiarity with high-speed digital design and RF concepts\n• Experience with OpAmps, ADCs, DACs, and low noise analog design\n• Proficient in hardware design and implementation using FPGAs and CPLDs\n• Ability to work effectively in a team environment and communicate technical concepts clearly\n\nBenefits\n• Vacation/PTO\n• Medical\n• Dental\n• Vision\n• 401k\n\n- For this position, you must be currently authorized to work in the United States without the need for sponsorship for a non-immigrant visa. CyberCoders will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.This job was first posted by CyberCoders on 01/28/2026 and applications will be accepted on an ongoing basis until the position is filled or closed.CyberCoders is proud to be an Equal Opportunity Employer\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, sexual orientation, gender identity or expression, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, status as a crime victim, disability, protected veteran status, or any other characteristic protected by law. Our hiring process includes AI screening for keywords and minimum qualifications. Recruiters review all results. CyberCoders will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable state and local law, including but not limited to the Los Angeles County Fair Chance Ordinance, the San Francisco Fair Chance Ordinance, and the California Fair Chance Act. CyberCoders is committed to working with and providing reasonable accommodation to individuals with physical and mental disabilities. Individuals needing special assistance or an accommodation while seeking employment can contact a member of our Human Resources team at Benefits@CyberCoders.com to make arrangements.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Pleasanton, CA",
-    "job_city": "Pleasanton",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.6604484,
-    "job_longitude": -121.87579679999999,
-    "job_benefits": [
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZXxE0jgRE0iUKW8EAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "The ideal candidate will play a crucial role in designing, developing, and testing analog circuits for high-speed applications",
-        "This position requires a deep understanding of analog electronics and a passion for creating cutting-edge solutions in hardware design",
-        "Bachelor's or Master's degree in Electrical Engineering or a related field",
-        "Proven experience in Analog circuit design",
-        "High voltage (2KV), low noise, low power supply design experience",
-        "Experience designing high performance transimpedance and instrumentation amplifiers",
-        "Strong knowledge of PCB design and layout techniques",
-        "Familiarity with high-speed digital design and RF concepts",
-        "Experience with OpAmps, ADCs, DACs, and low noise analog design",
-        "Proficient in hardware design and implementation using FPGAs and CPLDs",
-        "Ability to work effectively in a team environment and communicate technical concepts clearly",
-        "For this position, you must be currently authorized to work in the United States without the need for sponsorship for a non-immigrant visa"
-      ],
-      "Benefits": [
-        "Senior Analog Design Engineer $200K +",
-        "Salary: $200K +/- depending on experience (please note no stock options or bonus)",
-        "Vacation/PTO",
-        "Medical",
-        "Dental",
-        "Vision",
-        "401k"
-      ],
-      "Responsibilities": [
-        "Design and develop analog circuits for high-speed applications",
-        "Collaborate with cross-functional teams to integrate analog components with digital systems",
-        "Conduct simulations and tests to validate circuit performance and reliability",
-        "Create and review PCB layouts to ensure optimal performance and manufacturability",
-        "Troubleshoot and resolve issues in analog and mixed-signal systems",
-        "Document design specifications and maintain project documentation",
-        "Mentor junior engineers and provide technical guidance during project development"
-      ]
-    },
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "www-ziprecruiter-com-c-cybercoders-job-senior-analog-design-engineer-200k-in-pleasanton-ca",
     "_source": "new_jobs"
   }
 ]
