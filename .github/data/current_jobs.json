@@ -31,9 +31,9 @@
     "job_latitude": 35.995568399999996,
     "job_longitude": -78.9002077,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgjoZHl4QF_Y98_3iAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 157080,
@@ -441,8 +441,8 @@
     "job_longitude": -121.88525249999999,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Df-yCc_PkNwuklX8TAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -544,9 +544,9 @@
     "job_latitude": 40.065629099999995,
     "job_longitude": -79.8917139,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaB5iXY3vgvGFPIzOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1141,9 +1141,9 @@
     "job_latitude": 39.744655,
     "job_longitude": -75.5483909,
     "job_benefits": [
+      "paid_time_off",
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_2EHWsENDgxLQwaMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1331,9 +1331,9 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLaKu8ZFOJQjz_RAkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1387,95 +1387,172 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "uWgW6Y9AC5g6-U5WAAAAAA==",
-    "job_title": "Electrical Engineer (High Speed, Mixed Signal Electronics)",
-    "employer_name": "Northwoodspace",
+    "job_id": "g8IxcoER54KJtyW6AAAAAA==",
+    "job_title": "Staff Analog & Mixed-Signal Design Engineer",
+    "employer_name": "1010 Analog Devices Inc.",
     "employer_logo": null,
-    "employer_website": "https://www.northwoodspace.io",
+    "employer_website": null,
+    "job_publisher": "Workday",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Staff-Analog---Mixed-Signal-Design-Engineer_R258819?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Workday",
+        "apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Staff-Analog---Mixed-Signal-Design-Engineer_R258819?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Sign In",
+        "apply_link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23279/?lastSelectedFacet=CATEGORIES&mode=locationutm_medium&selectedCategoriesFacet=300000009357785&utm_source=google&hotJobFlag=trueutm_mediumutm_mediumutm_mediumutm_medium&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/analog-design-engineer_7ea1a2bce930a4bb2cf1121c07fb2b1a97128?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/fee25dcb15d76e9235cbc475f6e9b4a4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-analog-mixed-signal-engineer-at-mythic-4309595932?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5443236989?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jooble",
+        "apply_link": "https://jooble.org/jdp/2741814773979997420?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/lead-principal-engineer-analog-mixed-signal-design-infineon-technologies-JV_KO0,50_KE51,72.htm?jl=1010033063350&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "About Analog Devices Analog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world. With revenue of more than $9 billion in FY24 and approximately 24,000 people globally, ADI ensures today's innovators stay Ahead of What's Possible™. Learn more at www.analog.com and on LinkedIn and Twitter (X). Staff Analog & Mixed-Signal Design Engineer Analog Devices is hiring a Staff Analog & Mixed-Signal IC Design Engineer for the Instrumentation business unit, primarily targeting Automatic Test Equipment (ATE) applications. The role involves analysis, research, design, simulation, characterization, and release-to-production of high-performance, power-delivery and measurement Integrated Circuits. As part of the ATE design team, you will create high-performance solutions used worldwide in production testing of the most advanced ICs. The continued growth of high-performance computational ICs such as AI processors, GPUs, High Bandwidth Memory and other advanced semiconductors demands innovative solutions for high performance power handling and measurement. The successful candidate will join a team that has created the most advanced and highly integrated solutions on the market. The successful candidate must have a strong, intuitive capability in solving complex challenges. The candidate will be self-motivated and able to work effectively within a team. Job Location: Colorado Springs, CO (preferred) or Wilmington, MA Responsibilities Lead the architectural definition and design of complex mixed-signal ICs from concept through production release Participate in design optimization for power, performance, and area, and ensure compliance with rigorous quality standards. Additionally, you will provide technical guidance to junior engineers and collaborate closely with cross-functional teams to drive innovative solutions and deliver successful products to market. Work with digital design and design verification teams on block and system integration and verification at the chip level Coordinate with product definition, applications, and test engineering to define requirements and oversee the transition of new products from concept to production release Assess and resolve complex integrated circuit issues in the laboratory Education and Experience Requirements: M.S. or Ph.D. in Electrical Engineering, 7+ years CMOS IC design experience Familiar with high-gain/low-noise amplifiers, switching regulator circuits, comparators, integrators, voltage references, LDOs, ADCs and DACs Excellent written/verbal communication; strong cross-team collaboration Manage layout and post-layout simulations Preferred Qualifications Switching regulator circuit design background Precision analog design background (amplifiers, low noise circuitry, ADCs and DACs) Experience with BiCMOS analog design Proficient in Cadence schematic capture and SPICE simulation Skilled with MATLAB or similar modeling tools Analog/digital behavioral modelling expertise Team and project leadership experience For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process. Analog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group. EEO is the Law: Notice of Applicant Rights Under the Law. Job Req Type: Experienced Required Travel: Yes, 10% of the time Shift Type: 1st Shift/Days The expected wage range for a new hire into this position is $124,721 to $180,602. Actual wage offered may vary depending on work location, experience, education, training, external market data, internal pay equity, or other bona fide factors. This position qualifies for a discretionary performance-based bonus which is based on personal and company factors. This position includes medical, vision and dental coverage, 401k, paid vacation, holidays, and sick time, and other benefits. Analog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world. With revenue of more than $9 billion in FY24 and approximately 24,000 people globally, ADI ensures today's innovators stay Ahead of What's Possible™. Learn more at www.analog.com and on LinkedIn and Twitter (X). Come join ADI – a place where Innovation meets Impact. For more than 55 years, Analog Devices has been inventing new breakthrough technologies that transform lives. At ADI you will work alongside the brightest minds to collaborate on solving complex problems that matter from autonomous vehicles, drones and factories to augmented reality and remote healthcare. ADI fosters a culture that focuses on employees through beneficial programs, aligned goals, continuous learning opportunities, and practices that create a more sustainable future.",
+    "job_is_remote": false,
+    "job_posted_at": "13 days ago",
+    "job_posted_at_timestamp": 1769990400,
+    "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
+    "job_location": "United States",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 38.794595199999996,
+    "job_longitude": -106.5348379,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dg8IxcoER54KJtyW6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "analogdevices-wd1-myworkdayjobs-com-en-us-external-job-staff-analog-mixed-signal-design-engineer_r258819",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "JAfEWttttda2bPMWAAAAAA==",
+    "job_title": "Senior Mixed-Signal/Analog Design Engineer",
+    "employer_name": "Analog Devices",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9RJTiEoX2YI_Jw_pMdJ-U0rIEaV-9QvT6ovPk&s=0",
+    "employer_website": "https://www.analog.com",
     "job_publisher": "ZipRecruiter",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Northwoodspace/Job/Electrical-Engineer-(High-Speed,-Mixed-Signal-Electronics)/-in-Torrance,CA?jid=c5ee08cea5c12d0d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.ziprecruiter.com/c/Analogdevices/Job/Senior-Mixed-Signal-Analog-Design-Engineer/-in-Colorado-Springs,CO?jid=f9daa77db3ea700a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": true,
     "apply_options": [
       {
         "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Northwoodspace/Job/Electrical-Engineer-(High-Speed,-Mixed-Signal-Electronics)/-in-Torrance,CA?jid=c5ee08cea5c12d0d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.ziprecruiter.com/c/Analogdevices/Job/Senior-Mixed-Signal-Analog-Design-Engineer/-in-Colorado-Springs,CO?jid=f9daa77db3ea700a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
-        "publisher": "Long Journey Ventures Job Board",
-        "apply_link": "https://jobs.longjourney.vc/companies/northwood-space/jobs/57820242-electrical-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
+        "publisher": "EchoJobs",
+        "apply_link": "https://echojobs.io/job/analog-devices-senior-mixed-signal-analog-design-engineer-0yoct?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
       },
       {
-        "publisher": "SpaceTalent Job Board",
-        "apply_link": "https://jobs.spacetalent.org/companies/northwood-space/jobs/57820242-electrical-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Humba Ventures Job Board",
-        "apply_link": "https://jobs.humbaventures.com/companies/northwood-space/jobs/57820242-electrical-engineer-high-speed-mixed-signal-electronics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/3146637654745939968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Recruit.net",
+        "apply_link": "https://www.recruit.net/job/mixed-signal-analog-design-engineer-jobs/C41F53FBCB575D8A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Northwood is on a mission to transform connectivity between Earth and space by taking a vertically integrated approach to ground, developing advanced ground-segment technology that is scalable and reliable. Northwood has not only designed the highest power commercial communication phased array ever built, but deployed and installed 8 Portal units halfway across the world within only a 3-month turnaround time. Following our recent $100 million Series B funding round (led by Washington Harbour Partners and Andreessen Horowitz) and a $49.8 million contract with the United States Space Force to support and upgrade the Satellite Control Network, we're developing a high-capability phased-array network to enable global constellations of satellites. If you thrive on building quickly, seeing your innovations deployed globally with real impact on critical missions, we want you at Northwood.\n\nELECTRICAL ENGINEER (HIGH SPEED, MIXED SIGNAL ELECTRONICS)\n\nThe Hardware team at Northwood develops cutting-edge digital compute and high power electronics that power our next-generation antennas and ground systems. These complex digital platforms enable high-rate processing and reliable performance for space communications, no matter the deployment location around the world. Our engineers prioritize design excellence and first principles fundamentals to deliver hardware known for its reliability, scalability, and cost-effectiveness in demanding environments.\n\nAs an Electrical Engineer at Northwood, you will drive the electrical design of high-speed digital systems, own key aspects of PCB development, and collaborate across multidisciplinary teams to optimize overall system performance. You will contribute to architecture trades, prototype bring-up, testing in lab and field settings, and ensure designs transition smoothly to production. Your work will directly support our mission to enable faster, more capable space operations through innovative ground infrastructure.\n\nRESPONSIBILITIES:\n• Drive electrical design for high-speed digital communication systems, implementing RF and mixed-signal designs in complex, multilayer PCBs\n• Work with 100G high-speed networking, intricate digital power trees, and lead system trades to inform architecture decisions\n• Perform schematic capture, PCB layout oversight, and bring-up/validation on diverse digital systems including FPGAs, microcontrollers, and associated peripherals\n• Collaborate closely with hardware, software, RF, antenna, FPGA, and firmware engineers to optimize system performance and design integration\n• Test prototypes rigorously in the lab and field to assess and improve performance\n• Partner with production teams to develop testable, manufacturable products for efficient in-house integration and scaling\n\nBASIC QUALIFICATIONS:\n• Bachelor's degree in electrical engineering or a related engineering discipline\n• 0-4+ years of professional experience in electrical design (internships, co-ops, and project experience qualify)\n\nPREFERRED SKILLS AND EXPERIENCE:\n• Proficiency in high-density/high-speed PCB design, including FPGAs, high-speed data converters, SerDes, 10/100 GigE networking, and JESD204C interfaces\n• Strong experience with schematic capture tools and best practices in PCB layout for signal integrity and power distribution\n• Hands-on troubleshooting of EMI/EMC issues (conducted or radiated)\n• Knowledge of PCB materials selection and board stack-up definition for high-performance applications\n• Familiarity with soldering, hot air rework, and prototype assembly techniques\n• Experience across the full product lifecycle, from concept through production ramp-up\n• Strong collaborative skills, enthusiasm for solving complex engineering challenges, and passion for advancing space communications technology\n\nCOMPENSATION AND BENEFITS:\n\nElectrical Engineer/Level 1: $100,000 - $120,000 per year\n\nElectrical Engineer/Level 2: $115,000 - $145,000 per year\n\nYour actual level and base salary will be determined on a case-by-case basis and may vary based on job-related knowledge, skills, education, and experience.\n\nBase salary is just one part of your total rewards package at Northwood. You may also be eligible for equity in the form of stock options or other long-term incentives, as well as potential performance bonuses. We offer comprehensive medical, vision, and dental coverage, a 401(k) retirement plan, short- and long-term disability insurance, life insurance, paid parental leave, generous paid time off, and various other perks and discounts.\n\nADDITIONAL INFORMATION:\n\nTo conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.\n\nNorthwood is an Equal Opportunity Employer; employment with Northwood is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.",
+    "job_description": "About Analog Devices\n\nAnalog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world. With revenue of more than $9 billion in FY24 and approximately 24,000 people globally, ADI ensures today's innovators stay Ahead of What's Possible™. Learn more at www.analog.com and on LinkedIn and Twitter (X).\n\nSenior Mixed-Signal/Analog Design Engineer\n\nPosition Overview:\n\nAs ADI expands into new product and market segments, the Instrumentation group is looking for a skilled Mixed-Signal/Analog IC Design Engineer based in Colorado Springs, CO who will be responsible for designing high performance mixed-signal ICs with companion DC/DC converters targeted at ATE power management markets.\n\nAs a Mixed-Signal/Analog IC Design Engineer, you will perform a full range of product development activities including, but not limited to:\n• Transistor-level circuit design and simulation.\n• Architect, implement and analyze trade-offs of analog blocks.\n• Design and/or integrate Linear Amplifiers, Bias blocks, Switches, DFX, Digital I/O, LDO's, ADCs and DACs.\n• Perform mixed-signal IC simulation and modelling.\n• Create analog system and circuit models to support digital system verification.\n• Collaborate with digital design to integrate analog and digital systems.\n• Supervise and provide guidance to the physical layout team.\n• Evaluate and troubleshoot complex integrated circuit problems in the laboratory.\n• Interface with test, product and applications engineering to successfully bring new products from initial concept through production release.\n• Product datasheet authoring and review.\n• Collaborate with test engineering to ensure adequate test coverage.\n• Analyze ATE characterization data to set test limits and validate product specification.\n• Participate in root cause analysis of customer returns and functional issues.\n\nMinimum Qualifications:\n• BSEE and 4+ years of relevant industry experience with a strong background in analog and mixed-signal design. MSEE preferred.\n• Experience with mixed-signal design, simulation and modelling.\n• Knowledge of general lab equipment.\n• Knowledge and experience in designing Linear Amplifiers, Bias blocks, Switches, DFX, Digital I/O, LDO's, ADCs and DACs.\n• Knowledge of circuit layout techniques.\n• Motivated, results oriented and creative problem solver with good writing, presentation and overall communication skills.\n• Must be self-directed, detail-oriented and thorough.\n• Ability to collaborate in a team environment.\n\nFor positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position - except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) - may have to go through an export licensing review process.\n\nAnalog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group.\n\nEEO is the Law: Notice of Applicant Rights Under the Law.\nJob Req Type: Experienced\n\nRequired Travel: Yes, 10% of the time\n\nShift Type: 1st Shift/Days\n\nThe expected wage range for a new hire into this position is $104,866 to $144,217.\n• Actual wage offered may vary depending on work location, experience, education, training, external market data, internal pay equity, or other bona fide factors.\n• This position qualifies for a discretionary performance-based bonus which is based on personal and company factors.\n• This position includes medical, vision and dental coverage, 401k, paid vacation, holidays, and sick time, and other benefits.",
     "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Torrance, CA",
-    "job_city": "Torrance",
-    "job_state": "California",
+    "job_posted_at": "13 days ago",
+    "job_posted_at_timestamp": 1769990400,
+    "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
+    "job_location": "Colorado Springs, CO",
+    "job_city": "Colorado Springs",
+    "job_state": "Colorado",
     "job_country": "US",
-    "job_latitude": 33.8369217,
-    "job_longitude": -118.34074509999999,
+    "job_latitude": 38.8353142,
+    "job_longitude": -104.82160089999999,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DuWgW6Y9AC5g6-U5WAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 100000,
-    "job_max_salary": 145000,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJAfEWttttda2bPMWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 104866,
+    "job_max_salary": 144217,
     "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "Bachelor's degree in electrical engineering or a related engineering discipline",
-        "0-4+ years of professional experience in electrical design (internships, co-ops, and project experience qualify)",
-        "To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C",
-        "1324b(a)(3), or eligible to obtain the required authorizations from the U.S"
+        "BSEE and 4+ years of relevant industry experience with a strong background in analog and mixed-signal design",
+        "For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S",
+        "Department of Commerce - Bureau of Industry and Security and/or the U.S",
+        "As such, applicants for this position - except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C",
+        "1324b(a)(3) - may have to go through an export licensing review process",
+        "Required Travel: Yes, 10% of the time"
       ],
       "Benefits": [
-        "Electrical Engineer/Level 1: $100,000 - $120,000 per year",
-        "Electrical Engineer/Level 2: $115,000 - $145,000 per year",
-        "Your actual level and base salary will be determined on a case-by-case basis and may vary based on job-related knowledge, skills, education, and experience",
-        "Base salary is just one part of your total rewards package at Northwood",
-        "You may also be eligible for equity in the form of stock options or other long-term incentives, as well as potential performance bonuses",
-        "We offer comprehensive medical, vision, and dental coverage, a 401(k) retirement plan, short- and long-term disability insurance, life insurance, paid parental leave, generous paid time off, and various other perks and discounts"
+        "The expected wage range for a new hire into this position is $104,866 to $144,217",
+        "Actual wage offered may vary depending on work location, experience, education, training, external market data, internal pay equity, or other bona fide factors",
+        "This position qualifies for a discretionary performance-based bonus which is based on personal and company factors",
+        "This position includes medical, vision and dental coverage, 401k, paid vacation, holidays, and sick time, and other benefits"
       ],
       "Responsibilities": [
-        "As an Electrical Engineer at Northwood, you will drive the electrical design of high-speed digital systems, own key aspects of PCB development, and collaborate across multidisciplinary teams to optimize overall system performance",
-        "You will contribute to architecture trades, prototype bring-up, testing in lab and field settings, and ensure designs transition smoothly to production",
-        "Your work will directly support our mission to enable faster, more capable space operations through innovative ground infrastructure",
-        "Drive electrical design for high-speed digital communication systems, implementing RF and mixed-signal designs in complex, multilayer PCBs",
-        "Work with 100G high-speed networking, intricate digital power trees, and lead system trades to inform architecture decisions",
-        "Perform schematic capture, PCB layout oversight, and bring-up/validation on diverse digital systems including FPGAs, microcontrollers, and associated peripherals",
-        "Collaborate closely with hardware, software, RF, antenna, FPGA, and firmware engineers to optimize system performance and design integration",
-        "Test prototypes rigorously in the lab and field to assess and improve performance",
-        "Partner with production teams to develop testable, manufacturable products for efficient in-house integration and scaling"
+        "As a Mixed-Signal/Analog IC Design Engineer, you will perform a full range of product development activities including, but not limited to:",
+        "Transistor-level circuit design and simulation",
+        "Architect, implement and analyze trade-offs of analog blocks",
+        "Design and/or integrate Linear Amplifiers, Bias blocks, Switches, DFX, Digital I/O, LDO's, ADCs and DACs",
+        "Perform mixed-signal IC simulation and modelling",
+        "Create analog system and circuit models to support digital system verification",
+        "Collaborate with digital design to integrate analog and digital systems",
+        "Supervise and provide guidance to the physical layout team",
+        "Evaluate and troubleshoot complex integrated circuit problems in the laboratory",
+        "Interface with test, product and applications engineering to successfully bring new products from initial concept through production release",
+        "Product datasheet authoring and review",
+        "Collaborate with test engineering to ensure adequate test coverage",
+        "Analyze ATE characterization data to set test limits and validate product specification",
+        "Participate in root cause analysis of customer returns and functional issues"
       ]
     },
-    "job_onet_soc": "17207100",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-northwoodspace-job-electrical-engineer-high-speed-mixed-signal-electronics-in-torrance-ca",
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "www-ziprecruiter-com-c-analogdevices-job-senior-mixed-signal-analog-design-engineer-in-colorado-springs-co",
     "_source": "new_jobs"
   },
   {
@@ -1663,9 +1740,9 @@
     "job_latitude": 38.794595199999996,
     "job_longitude": -106.5348379,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DvHjb1d-h7YoKf71vAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
