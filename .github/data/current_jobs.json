@@ -32,8 +32,8 @@
     "job_longitude": -78.9002077,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgjoZHl4QF_Y98_3iAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 157080,
@@ -374,6 +374,125 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "o-ANwyY_UhA2qE-6AAAAAA==",
+    "job_title": "Principal Mixed Signal Design Engineer, Automotive",
+    "employer_name": "1010 Analog Devices",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "SaluteMyJob",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://salutemyjob.com/jobs/principal-mixed-signal-design-engineer-automotive-beaverton-oregon/2619428110-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "SaluteMyJob",
+        "apply_link": "https://salutemyjob.com/jobs/principal-mixed-signal-design-engineer-automotive-beaverton-oregon/2619428110-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KGET Jobs",
+        "apply_link": "https://jobs.kget.com/jobs/principal-mixed-signal-design-engineer-automotive-beaverton-oregon/2619428110-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KHON2 Jobs",
+        "apply_link": "https://jobs.khon2.com/jobs/principal-mixed-signal-design-engineer-automotive-beaverton-oregon/2619428110-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Vacancies For Col U Fans",
+        "apply_link": "https://vacancies.cu-fc.com/jobs/principal-mixed-signal-design-engineer-automotive-beaverton-oregon/2619428110-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WDTN Jobs",
+        "apply_link": "https://jobs.wdtn.com/jobs/principal-mixed-signal-design-engineer-automotive-beaverton-oregon/2619428110-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Hire The Better",
+        "apply_link": "https://www.hirethebetter.com/jobs/principal-mixed-signal-design-engineer-automotive-beaverton-oregon/2619428110-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs ExForces",
+        "apply_link": "https://jobsforces.net/jobs/principal-mixed-signal-design-engineer-automotive-beaverton-oregon/2619428110-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WKRN Jobs",
+        "apply_link": "https://jobs.wkrn.com/jobs/principal-mixed-signal-design-engineer-automotive-beaverton-oregon/2619428110-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "About Analog Devices\n\nAnalog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world. With revenue of more than $9 billion in FY24 and approximately 24,000 people globally, ADI ensures today's innovators stay Ahead of What's Possible™. Learn more at www.analog.com and on LinkedIn and Twitter (X) .\n\nJoin our Automotive GMSL Team as a Principal Mixed-Signal Design Engineer! We are seeking an experienced, self-motivated, and passionate engineer to lead, architect, and design cutting-edge products for Automotive SerDes applications.\n\nGMSL (Gigabit Multimedia Serial Link) is the leading technology in the automotive industry for high-speed in-car serial links. It ensures safe and secure video transport while reducing the cost, weight, and complexity of vehicle cable harnesses. Our extensive portfolio of GMSL products is in full production, with millions of vehicles worldwide relying on GMSL links daily. GMSL offers cost-effective video transport and bridging for various applications, including basic information displays and rearview cameras in mass-market vehicles, safety-critical cameras in autonomous vehicles, and high-resolution touch screens in high-end vehicles.\n\nThe position is based in Beaverton, Oregon.\n\nResponsibilities:\n• Evaluate and Develop Architectures: Create and specify individual circuit blocks. Perform system-level analysis to develop optimal system implementations.\n• Circuit Ownership: Oversee analog and mixed-signal circuits used in automotive SerDes products throughout the product development cycle.\n• Design and Verification: Conduct detailed circuit design, simulations, and verification of high-performance SerDes and auxiliary circuits, including Rx equalizers, DFEs, CDR, Tx drivers, clock generation (VCO, PLL, dividers, etc.), and bias circuitry.\n• Technical Leadership: Provide technical leadership for complex SerDes products.\n• Layout Supervision: Supervise layout and conduct post-layout simulations.\n• Documentation and Reviews: Prepare documentation and conduct design reviews.\n• Lab Evaluation and Debug: Perform lab evaluation and debug.\n• Cross-Functional Interaction: Collaborate with cross-functional teams to define requirements and specifications. Assist in production test development.\n\nMinimum Qualifications:\n• MSEE or Equivalent: Master's degree in Electrical Engineering or equivalent with 10+ years of relevant experience.\n• Advanced Knowledge: Expertise in high-speed SerDes circuits, including Rx equalizers, DFEs, CDR, Tx drivers, clock generation (VCO, PLL, dividers, etc.), and bias circuitry.\n• Communication Skills: Clear and concise written and verbal communication skills, with team working experience and a proactive approach to problem-solving.\n• Proven Track Record: Demonstrated success in designing, leading, and introducing products to the market.\n• Technical Leadership: Ability to provide technical leadership across a wide range of engineering disciplines on highly complex products, processes, and projects.\n• Cadence Tools Expertise: Extensive experience with and advanced knowledge of Cadence design, simulation, layout, and verification tools for analog and mixed-signal designs.\n• Semiconductor Background: Solid understanding of semiconductor basics, including the device physics of CMOS transistors, diodes, MIM capacitors, integrated inductors, and implanted resistors.\n• Transistor-Level Design: Strong intuitive and analytical understanding of transistor-level design, with good working knowledge of small signal and large signal CMOS device models.\n• Circuit Analysis Skills: Extensive circuit analysis skills, recognizing potential problems due to model limitations, high-frequency effects, and device temperature effects.\n• Lab Experience: Experience characterizing and debugging mixed-signal SoCs in a lab environment, using signal generators, oscilloscopes, BERTs, logic analyzers, and data acquisition systems.\n• Package and Layout Intuition: Good intuition of package and layout parasitics, with experience in extracted simulations.\n\nPreferred Qualifications:\n• Video Protocols: Expertise in video protocols such as DisplayPort, CSI/DSI, HDMI, and PCIe.\n• Behavioral Modeling: Experience with analog and digital behavioral modeling, design, and synthesis of digital control blocks and state machines.\n• DSP Design: Proficiency in Matlab and design of DSP blocks, including digital filters and decimators.\n• Automated Digital Design: Familiarity with automated digital design tools and processes, including Verilog, synthesis, place & route, and static timing analysis (STA).\n• Team Leadership: Experience leading teams and/or projects.\n\n#LI-PG1\n\nFor positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position - except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) - may have to go through an export licensing review process.\n\nAnalog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group.\n\nEEO is the Law: Notice of Applicant Rights Under the Law .\nJob Req Type: Experienced\n\nRequired Travel: Yes, 10% of the time\n\nShift Type: 1st Shift/Days\n\nThe expected wage range for a new hire into this position is $148,500 to $222,750.\n• Actual wage offered may vary depending on work location , experience, education, training, external market data, internal pay equity, or other bona fide factors.\n• This position qualifies for a discretionary performance-based bonus which is based on personal and company factors.\n• This position includes medical, vision and dental coverage, 401k, paid vacation, holidays, and sick time, and other benefits.",
+    "job_is_remote": false,
+    "job_posted_at": "4 hours ago",
+    "job_posted_at_timestamp": 1771142400,
+    "job_posted_at_datetime_utc": "2026-02-15T08:00:00.000Z",
+    "job_location": "Beaverton, OR",
+    "job_city": "Beaverton",
+    "job_state": "Oregon",
+    "job_country": "US",
+    "job_latitude": 45.486928299999995,
+    "job_longitude": -122.80403199999999,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Do-ANwyY_UhA2qE-6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "MSEE or Equivalent: Master's degree in Electrical Engineering or equivalent with 10+ years of relevant experience",
+        "Advanced Knowledge: Expertise in high-speed SerDes circuits, including Rx equalizers, DFEs, CDR, Tx drivers, clock generation (VCO, PLL, dividers, etc.), and bias circuitry",
+        "Communication Skills: Clear and concise written and verbal communication skills, with team working experience and a proactive approach to problem-solving",
+        "Proven Track Record: Demonstrated success in designing, leading, and introducing products to the market",
+        "Technical Leadership: Ability to provide technical leadership across a wide range of engineering disciplines on highly complex products, processes, and projects",
+        "Cadence Tools Expertise: Extensive experience with and advanced knowledge of Cadence design, simulation, layout, and verification tools for analog and mixed-signal designs",
+        "Semiconductor Background: Solid understanding of semiconductor basics, including the device physics of CMOS transistors, diodes, MIM capacitors, integrated inductors, and implanted resistors",
+        "Transistor-Level Design: Strong intuitive and analytical understanding of transistor-level design, with good working knowledge of small signal and large signal CMOS device models",
+        "Circuit Analysis Skills: Extensive circuit analysis skills, recognizing potential problems due to model limitations, high-frequency effects, and device temperature effects",
+        "Lab Experience: Experience characterizing and debugging mixed-signal SoCs in a lab environment, using signal generators, oscilloscopes, BERTs, logic analyzers, and data acquisition systems",
+        "Package and Layout Intuition: Good intuition of package and layout parasitics, with experience in extracted simulations",
+        "For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S",
+        "Department of Commerce - Bureau of Industry and Security and/or the U.S",
+        "As such, applicants for this position - except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C",
+        "1324b(a)(3) - may have to go through an export licensing review process",
+        "Required Travel: Yes, 10% of the time"
+      ],
+      "Benefits": [
+        "The expected wage range for a new hire into this position is $148,500 to $222,750",
+        "Actual wage offered may vary depending on work location , experience, education, training, external market data, internal pay equity, or other bona fide factors",
+        "This position qualifies for a discretionary performance-based bonus which is based on personal and company factors",
+        "This position includes medical, vision and dental coverage, 401k, paid vacation, holidays, and sick time, and other benefits"
+      ],
+      "Responsibilities": [
+        "Evaluate and Develop Architectures: Create and specify individual circuit blocks",
+        "Perform system-level analysis to develop optimal system implementations",
+        "Circuit Ownership: Oversee analog and mixed-signal circuits used in automotive SerDes products throughout the product development cycle",
+        "Design and Verification: Conduct detailed circuit design, simulations, and verification of high-performance SerDes and auxiliary circuits, including Rx equalizers, DFEs, CDR, Tx drivers, clock generation (VCO, PLL, dividers, etc.), and bias circuitry",
+        "Technical Leadership: Provide technical leadership for complex SerDes products",
+        "Layout Supervision: Supervise layout and conduct post-layout simulations",
+        "Documentation and Reviews: Prepare documentation and conduct design reviews",
+        "Lab Evaluation and Debug: Perform lab evaluation and debug",
+        "Cross-Functional Interaction: Collaborate with cross-functional teams to define requirements and specifications",
+        "Assist in production test development"
+      ]
+    },
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "salutemyjob-com-jobs-principal-mixed-signal-design-engineer-automotive-beaverton-oregon-2619428110-2",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "f-yCc_PkNwuklX8TAAAAAA==",
     "job_title": "Analog/mixed-signal IC Design Engineer - Acacia (Hybrid)",
     "employer_name": "Cisco",
@@ -544,9 +663,9 @@
     "job_latitude": 40.065629099999995,
     "job_longitude": -79.8917139,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaB5iXY3vgvGFPIzOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -784,6 +903,127 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "kHqFVHyfK0CVI2dCAAAAAA==",
+    "job_title": "Mixed Signals Electronics Engineer - Full-time",
+    "employer_name": "Infleqtion",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLXndZ6KiShU_c8MfvensJrJQIZtCy-jHcI3iX&s=0",
+    "employer_website": "https://infleqtion.com",
+    "job_publisher": "Snagajob",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.snagajob.com/jobs/1121613815?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1121613815?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Infleqtion is a global quantum technology company solving the world’s most challenging problems. The company harnesses quantum mechanics to build and integrate quantum computers, sensors, and networks. From fundamental physics to leading edge commercial products, Infleqtion enables “quantum everywhere” through our ecosystem of devices and platforms. We are recruiting for a Mixed Signals Electronics Engineer.\n\nLOCATION\n\nInfleqtion has offices in the USA, United Kingdom, and Australia. This is a full-time position split between our Kidlington, Oxford office and the National Quantum Computing Centre, Harwell. Work from home permitted up to 2 days per week based on business needs and manager approval.\n\nJOB SUMMARY\n\nInfleqtion UK is looking for a Mixed Signals Electronics Engineer with a passion for working with a multi-disciplinary team to bring state-of-the-art quantum technologies outside the laboratory and into the real world. You will use your skills to contribute to the design, verification, and implementation of electronic systems and subsystems for Infleqtion’s quantum products. This role requires strong skills and relevant experience with mixed-signal and analogue electronics, supporting the advancements of our innovative solutions.\n\nJOB RESPONSIBILITIES\n\nThe duties and responsibilities outlined below include essential functions of the role. Depending on business needs, this role may perform a combination of some or all of the following duties. Duties, responsibilities, and activities may change, or new ones may be assigned.\n• Design and develop mixed signal electronics systems that interface digital and analogue components effectively.\n• Translating functional requirements into PCBA implementation.\n• Perform modelling, simulation, and analytical calculations to ensure system stability and performance.\n• Conduct PCB design and layout, focusing on signal integrity and optimal routing techniques.\n• Generate manufacturing files and auxiliary documentation for PCB fabrication.\n• Build prototypes and PCBAs, modify and fix errors when required.\n• Develop and execute testing protocols to validate design performance against specifications.\n• Collaborate closely with other engineering disciplines to integrate mixed-signal solutions into larger systems.\n• Support supplier identification and engagement for component sourcing..\n\nRequirements\n• Bachelor’s degree or substantive experience in electrical engineering, electrical and computer engineering, or related fields.\n• Excellent understanding of both analogue and digital circuit principles, with a focus on mixed-signal design.\n• Experience full PCB design lifecycle from taking functional specifications to generating manufacturing data.\n• Hands-on experience with PCB design tools (e.g., Altium) and simulation software (e.g., SPICE).\n• Demonstrated ability to troubleshoot and resolve complex electronics issues.\n• Experience utilizing laboratory equipment for testing and validation, such as oscilloscopes, spectrum analysers, and network analysers.\n• Experience of building prototypes and loading components on PCBs by hand.\n• Good communication skills, with the ability to collaborate within cross-functional teams.\n\nDesirable Skills and Knowledge\n• Experience with digital signal processing (DSP) techniques.\n• Knowledge of RF design and integration related to mixed-signal systems.\n• Familiarity with product life cycle management, from initial design through production and support.\n• Experience of microcontroller programming or FPGA development.\n• Familiarity with digital communication protocols like SPI, I2C, UART, Ethernet\n\nEQUAL OPPORTUNITY\n\nRegardless of your interest in the quantum industry, you can take pride in the fact that Infleqtion is building an ecosystem of quantum technologies and commercial products, driving the industry towards the future. Studies reveal that while men apply for jobs when they meet an average of 60% of the requirements, women and other groups tend to apply only when they meet all the criteria. If you believe you have the potential but don't meet every single point in our job advertisement, please don't hesitate to contact us! We would love to chat with you and see how you could bring great value to our team. Our goal is to find exceptional individuals who can enrich our team culture, actively contribute, and have a genuine passion for their work. Here you have freedom to embrace your whole self: who you love, your gender identity and expression, skin colour, age, appearance, disability, neurodiversity, DNA, military/veteran status, citizenship, and other factors that make up who you are. Your uniqueness is valued, welcomed, and appreciated here. We are dedicated to providing a positive workplace and base all employment decisions on your qualifications, performance, merits, as well as business needs. We are proud to be an Equal Employment Opportunity Employer.\n\nBenefits\n\nIn addition to your base compensation, we offer a generous Total Rewards program which includes:\n• Competitive salary\n• Unlimited PTO\n• Generous company 10% pension contribution regardless of employee contribution\n• Cycle to work scheme\n• Tax efficient technology schemes\n• Incentive Stock Option Plan\n• BUPA Private Healthcare Insurance once probationary period is successfully completed\n\nInfleqtion is a global quantum technology company solving the world’s most challenging problems. The company harnesses quantum mechanics to build and integrate quantum computers, sensors, and networks. From fundamental physics to leading edge commercial products, Infleqtion enables “quantum everywhere” through our ecosystem of devices and platforms. We are recruiting for a Mixed Signals Electronics Engineer.\n\nLOCATION\n\nInfleqtion has offices in the USA, United Kingdom, and Australia. This is a full-time position split between our Kidlington, Oxford office and the National Quantum Computing Centre, Harwell. Work from home permitted up to 2 days per week based on business needs and manager approval.\n\nJOB SUMMARY\n\nInfleqtion UK is looking for a Mixed Signals Electronics Engineer with a passion for working with a multi-disciplinary team to bring state-of-the-art quantum technologies outside the laboratory and into the real world. You will use your skills to contribute to the design, verification, and implementation of electronic systems and subsystems for Infleqtion’s quantum products. This role requires strong skills and relevant experience with mixed-signal and analogue electronics, supporting the advancements of our innovative solutions.\n\nJOB RESPONSIBILITIES\n\nThe duties and responsibilities outlined below include essential functions of the role. Depending on business needs, this role may perform a combination of some or all of the following duties. Duties, responsibilities, and activities may change, or new ones may be assigned.\n• Design and develop mixed signal electronics systems that interface digital and analogue components effectively.\n• Translating functional requirements into PCBA implementation.\n• Perform modelling, simulation, and analytical calculations to ensure system stability and performance.\n• Conduct PCB design and layout, focusing on signal integrity and optimal routing techniques.\n• Generate manufacturing files and auxiliary documentation for PCB fabrication.\n• Build prototypes and PCBAs, modify and fix errors when required.\n• Develop and execute testing protocols to validate design performance against specifications.\n• Collaborate closely with other engineering disciplines to integrate mixed-signal solutions into larger systems.\n• Support supplier identification and engagement for component sourcing..\n\nRequirements\n• Bachelor’s degree or substantive experience in electrical engineering, electrical and computer engineering, or related fields.\n• Excellent understanding of both analogue and digital circuit principles, with a focus on mixed-signal design.\n• Experience full PCB design lifecycle from taking functional specifications to generating manufacturing data.\n• Hands-on experience with PCB design tools (e.g., Altium) and simulation software (e.g., SPICE).\n• Demonstrated ability to troubleshoot and resolve complex electronics issues.\n• Experience utilizing laboratory equipment for testing and validation, such as oscilloscopes, spectrum analysers, and network analysers.\n• Experience of building prototypes and loading components on PCBs by hand.\n• Good communication skills, with the ability to collaborate within cross-functional teams.\n\nDesirable Skills and Knowledge\n• Experience with digital signal processing (DSP) techniques.\n• Knowledge of RF design and integration related to mixed-signal systems.\n• Familiarity with product life cycle management, from initial design through production and support.\n• Experience of microcontroller programming or FPGA development.\n• Familiarity with digital communication protocols like SPI, I2C, UART, Ethernet\n\nEQUAL OPPORTUNITY\n\nRegardless of your interest in the quantum industry, you can take pride in the fact that Infleqtion is building an ecosystem of quantum technologies and commercial products, driving the industry towards the future. Studies reveal that while men apply for jobs when they meet an average of 60% of the requirements, women and other groups tend to apply only when they meet all the criteria. If you believe you have the potential but don't meet every single point in our job advertisement, please don't hesitate to contact us! We would love to chat with you and see how you could bring great value to our team. Our goal is to find exceptional individuals who can enrich our team culture, actively contribute, and have a genuine passion for their work. Here you have freedom to embrace your whole self: who you love, your gender identity and expression, skin colour, age, appearance, disability, neurodiversity, DNA, military/veteran status, citizenship, and other factors that make up who you are. Your uniqueness is valued, welcomed, and appreciated here. We are dedicated to providing a positive workplace and base all employment decisions on your qualifications, performance, merits, as well as business needs. We are proud to be an Equal Employment Opportunity Employer.\n\nBenefits\n\nIn addition to your base compensation, we offer a generous Total Rewards program which includes:\n• Competitive salary\n• Unlimited PTO\n• Generous company 10% pension contribution regardless of employee contribution\n• Cycle to work scheme\n• Tax efficient technology schemes\n• Incentive Stock Option Plan\n• BUPA Private Healthcare Insurance once probationary period is successfully completed",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Sumner, ME",
+    "job_city": "Sumner",
+    "job_state": "Maine",
+    "job_country": "US",
+    "job_latitude": 44.3920113,
+    "job_longitude": -70.43839439999999,
+    "job_benefits": [
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkHqFVHyfK0CVI2dCAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor’s degree or substantive experience in electrical engineering, electrical and computer engineering, or related fields",
+        "Excellent understanding of both analogue and digital circuit principles, with a focus on mixed-signal design",
+        "Experience full PCB design lifecycle from taking functional specifications to generating manufacturing data",
+        "Hands-on experience with PCB design tools (e.g., Altium) and simulation software (e.g., SPICE)",
+        "Demonstrated ability to troubleshoot and resolve complex electronics issues",
+        "Experience utilizing laboratory equipment for testing and validation, such as oscilloscopes, spectrum analysers, and network analysers",
+        "Experience of building prototypes and loading components on PCBs by hand",
+        "Good communication skills, with the ability to collaborate within cross-functional teams",
+        "Experience with digital signal processing (DSP) techniques",
+        "Knowledge of RF design and integration related to mixed-signal systems",
+        "Familiarity with product life cycle management, from initial design through production and support",
+        "Experience of microcontroller programming or FPGA development",
+        "Familiarity with digital communication protocols like SPI, I2C, UART, Ethernet",
+        "Work from home permitted up to 2 days per week based on business needs and manager approval",
+        "This role requires strong skills and relevant experience with mixed-signal and analogue electronics, supporting the advancements of our innovative solutions",
+        "Bachelor’s degree or substantive experience in electrical engineering, electrical and computer engineering, or related fields",
+        "Excellent understanding of both analogue and digital circuit principles, with a focus on mixed-signal design",
+        "Experience full PCB design lifecycle from taking functional specifications to generating manufacturing data",
+        "Hands-on experience with PCB design tools (e.g., Altium) and simulation software (e.g., SPICE)",
+        "Demonstrated ability to troubleshoot and resolve complex electronics issues",
+        "Experience utilizing laboratory equipment for testing and validation, such as oscilloscopes, spectrum analysers, and network analysers",
+        "Experience of building prototypes and loading components on PCBs by hand",
+        "Good communication skills, with the ability to collaborate within cross-functional teams",
+        "Experience with digital signal processing (DSP) techniques",
+        "Knowledge of RF design and integration related to mixed-signal systems",
+        "Familiarity with product life cycle management, from initial design through production and support",
+        "Experience of microcontroller programming or FPGA development",
+        "Familiarity with digital communication protocols like SPI, I2C, UART, Ethernet"
+      ],
+      "Benefits": [
+        "In addition to your base compensation, we offer a generous Total Rewards program which includes:",
+        "Competitive salary",
+        "Unlimited PTO",
+        "Generous company 10% pension contribution regardless of employee contribution",
+        "Cycle to work scheme",
+        "Tax efficient technology schemes",
+        "Incentive Stock Option Plan",
+        "BUPA Private Healthcare Insurance once probationary period is successfully completed",
+        "In addition to your base compensation, we offer a generous Total Rewards program which includes:",
+        "Competitive salary",
+        "Unlimited PTO",
+        "Generous company 10% pension contribution regardless of employee contribution",
+        "Cycle to work scheme",
+        "Tax efficient technology schemes",
+        "Incentive Stock Option Plan",
+        "BUPA Private Healthcare Insurance once probationary period is successfully completed"
+      ],
+      "Responsibilities": [
+        "You will use your skills to contribute to the design, verification, and implementation of electronic systems and subsystems for Infleqtion’s quantum products",
+        "This role requires strong skills and relevant experience with mixed-signal and analogue electronics, supporting the advancements of our innovative solutions",
+        "Depending on business needs, this role may perform a combination of some or all of the following duties",
+        "Duties, responsibilities, and activities may change, or new ones may be assigned",
+        "Design and develop mixed signal electronics systems that interface digital and analogue components effectively",
+        "Translating functional requirements into PCBA implementation",
+        "Perform modelling, simulation, and analytical calculations to ensure system stability and performance",
+        "Conduct PCB design and layout, focusing on signal integrity and optimal routing techniques",
+        "Generate manufacturing files and auxiliary documentation for PCB fabrication",
+        "Build prototypes and PCBAs, modify and fix errors when required",
+        "Develop and execute testing protocols to validate design performance against specifications",
+        "Collaborate closely with other engineering disciplines to integrate mixed-signal solutions into larger systems",
+        "Support supplier identification and engagement for component sourcing.",
+        "You will use your skills to contribute to the design, verification, and implementation of electronic systems and subsystems for Infleqtion’s quantum products",
+        "Depending on business needs, this role may perform a combination of some or all of the following duties",
+        "Duties, responsibilities, and activities may change, or new ones may be assigned",
+        "Design and develop mixed signal electronics systems that interface digital and analogue components effectively",
+        "Translating functional requirements into PCBA implementation",
+        "Perform modelling, simulation, and analytical calculations to ensure system stability and performance",
+        "Conduct PCB design and layout, focusing on signal integrity and optimal routing techniques",
+        "Generate manufacturing files and auxiliary documentation for PCB fabrication",
+        "Build prototypes and PCBAs, modify and fix errors when required",
+        "Develop and execute testing protocols to validate design performance against specifications",
+        "Collaborate closely with other engineering disciplines to integrate mixed-signal solutions into larger systems",
+        "Support supplier identification and engagement for component sourcing."
+      ]
+    },
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "www-snagajob-com-jobs-1121613815",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "FDir0mHlLf_7mUMsAAAAAA==",
     "job_title": "Senior Analog / Mixed Signal Application Engineer - Full-time",
     "employer_name": "Intel",
@@ -1009,9 +1249,9 @@
     ],
     "job_description": "Overview:\n\nKeysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.\n\nOur award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.\n\nResponsibilities:\n\nAbout the Job:\n\nYou will join one of our ASIC design teams in Santa Clara for a 3-month project in the area of high-speed/high-resolution data converter circuit design aimed at future Keysight products. You will get experience with the tools, skills, insights and tradeoffs necessary for successful integrated circuit design. Keysight fosters a collaborative engineering environment which emphasizes teamwork, mentoring, enthusiasm, and excellence in design.\n\nAbout the Team:\n\nWithin several world-wide teams Keysight's Advanced Technology Labs Mixed-Signal ASIC Design Section develops (and often publishes) the world’s-fastest data converters (ADC: analog-to-digital converters, DAC: digital-to-analog converters) and other mixed-signal integrated circuits, as well as analog signal conditioning circuits using a variety of state-of-the art semiconductor technologies. Our chips provide the speed and accuracy performance that enable many of Keysight’s world-leading electronic test and measurement products.\n\nResponsibilities:\n\nYou will do designs and simulations within a circuit program supporting the analog frontend of one of our next generation ADC chips or the analog backend of one of our next generation DAC chips. Design may be at the block or circuit level, and simulation may include circuit simulation, electromagnetic simulation, and/or high-level custom software simulation.\n\nQualifications:\n\nRequired Qualifications:\n• Enrolled in a MS or PhD EE program\n• Strong skills in transistor-level design of mixed-signal CMOS and/or BiCMOS circuits\n• Familiar with schematic entry / layout / simulation tool flow (preferably Cadence)\n• Familiar with the use of one or more software scripting tools to support design, such as Bash, Python, PERL, Awk or SKILL\n\nDesired Qualifications:\n• Experience with high-speed designs (> 1 GHz)\n• Experience in data converter calibration and analysis in particular related to ADCs\n• Good communication and collaboration skills\n\nOther Information:\n• Right to work in the U.S. is required\n• This position requires access to technical data regulated under export controls by the U.S. Government. If an export license is required, employment may not commence until such license is received\n• Relocation is not available for this position\n\nKeysight Internship Program Requirements\n\nCandidates who wish to be considered must be enrolled in a accredited college/university as of September 2026. Applicants who have graduated before September 2026 will not be considered unless they are starting a MS or PHD program after graduating.\n\nCareers Privacy Statement***Keysight is an Equal Opportunity Employer.***",
     "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770076800,
-    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
+    "job_posted_at": "13 days ago",
+    "job_posted_at_timestamp": 1769990400,
+    "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
     "job_location": "Santa Clara, CA",
     "job_city": "Santa Clara",
     "job_state": "California",
@@ -1105,166 +1345,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "_2EHWsENDgxLQwaMAAAAAA==",
-    "job_title": "Mixed Signal IC Design Engineer",
-    "employer_name": "Insight Global",
-    "employer_logo": null,
-    "employer_website": "https://insightglobal.com",
-    "job_publisher": "BeBee",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://us.bebee.com/job/8d1a94d991c9f877673b788b3012afc9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/8d1a94d991c9f877673b788b3012afc9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/amp/job/us-delaware-wilmington-mixed-signal-ic-design-engineer-insight-global?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job description\nInsight Global is hiring a Staff Mixed Signal IC Design Engineer for the Hearables and Wearables Consumer Business Unit. The role involves analysis, research, design, simulation, characterization, and release-to-production of high-performance, ultra-low power integrated circuits.\n\nAs part of the hearables and wearables design team, you will create high-performance edge processing solutions that shape device operation, music enjoyment, and connectivity.\nThe rise of connected, voice-activated devices and wearable audio peripherals demands innovative solutions.\n\nThe successful candidate will join a team with a track record of producing breakthrough innovative architectures for audio DAC/ADC and ultra-low power circuits.\nThe successful candidate must have a strong, intuitive capability in solving complex challenges. The candidate will be self-motivated and be able to work effectively within a team.\n\nEducation and Experience Requirements:\nM.S. or Ph.\nD. in Electrical Engineering, 7+ years CMOS IC design experience\nFamiliar with high-gain amplifiers, switched-capacitor circuits, comparators, integrators, voltage references, LDOs\nExcellent written/verbal communication; strong cross-team collaboration\nManage layout and post-layout simulations\n\nPreferred Qualifications\nADC/DAC design experience\nAudio IC design background\nProficient in Cadence schematic capture and SPICE simulation\nSkilled with MATLAB or similar modeling tools\nKnowledgeable in digital signal processing concepts\nAnalog/digital behavioral modelling expertise\nTeam and project leadership experience\n\nCompensation:\n$150k-$175k\n\nExact compensation may vary based on several factors, including skills, experience, and education.\n\nEmployees in this role will enjoy a comprehensive benefits package starting on day one of employment, including options for medical, dental, and vision insurance.\nEligibility to enroll in the 401(k) retirement plan begins after 90 days of employment.\n\nAdditionally, employees in this role will have access to paid sick leave and other paid time off benefits as required under the applicable law of the worksite location.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Wilmington, DE",
-    "job_city": "Wilmington",
-    "job_state": "Delaware",
-    "job_country": "US",
-    "job_latitude": 39.744655,
-    "job_longitude": -75.5483909,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_2EHWsENDgxLQwaMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "The successful candidate must have a strong, intuitive capability in solving complex challenges",
-        "The candidate will be self-motivated and be able to work effectively within a team",
-        "M.S. or Ph",
-        "in Electrical Engineering, 7+ years CMOS IC design experience",
-        "Familiar with high-gain amplifiers, switched-capacitor circuits, comparators, integrators, voltage references, LDOs",
-        "Excellent written/verbal communication; strong cross-team collaboration",
-        "ADC/DAC design experience",
-        "Audio IC design background",
-        "Proficient in Cadence schematic capture and SPICE simulation",
-        "Skilled with MATLAB or similar modeling tools",
-        "Knowledgeable in digital signal processing concepts",
-        "Analog/digital behavioral modelling expertise",
-        "Team and project leadership experience"
-      ],
-      "Benefits": [
-        "$150k-$175k",
-        "Exact compensation may vary based on several factors, including skills, experience, and education",
-        "Employees in this role will enjoy a comprehensive benefits package starting on day one of employment, including options for medical, dental, and vision insurance",
-        "Eligibility to enroll in the 401(k) retirement plan begins after 90 days of employment",
-        "Additionally, employees in this role will have access to paid sick leave and other paid time off benefits as required under the applicable law of the worksite location"
-      ],
-      "Responsibilities": [
-        "The role involves analysis, research, design, simulation, characterization, and release-to-production of high-performance, ultra-low power integrated circuits",
-        "As part of the hearables and wearables design team, you will create high-performance edge processing solutions that shape device operation, music enjoyment, and connectivity",
-        "Manage layout and post-layout simulations"
-      ]
-    },
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "us-bebee-com-job-8d1a94d991c9f877673b788b3012afc9",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "BFerd1IH03nnKWzeAAAAAA==",
-    "job_title": "Analog/Mixed-Signal IC Design Engineer",
-    "employer_name": "Stathera, Inc.",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRvl3Q4cYUsVTV1x5VlqRyN5XtB1jdgD7yrZzN&s=0",
-    "employer_website": "https://www.stathera.com",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/analog-mixed-signal-ic-design-engineer-at-stathera-inc-4358502093?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/analog-mixed-signal-ic-design-engineer-at-stathera-inc-4358502093?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/695ecaba08ab990f282a1611?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/boston/massachusetts/engineering/4832615039/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Stathera is a fabless semiconductor company focused on delivering cutting-edge MEMS-based timing solutions. With offices in Montreal, Toronto, and Boston, our team is re-architecting the traditional quartz-based timing industry through the introduction of state-of-the-art DualMode™ frequency technology. This breakthrough innovation is redefining the possibilities in timing and synchronization applications and has the potential to transform the entire $9.4 billion electronics timing industry.\n\nINTRODUCTION TO ROLE\n\nWe are looking for a Senior Analog/Mixed-Signal IC Design Engineer to join our team in Toronto, Canada or Boston, USA. We encourage individuals who possess a combination of technical expertise, leadership acumen, and a strong drive for innovation to apply for this position.\n\nA successful candidate will have MS with 5+ years of relevant experience, OR Ph.D. with 2+ years of industry experience designing analog and mixed-signal circuits. The Senior Analog/Mixed-Signal IC Design Engineer will report directly to the Director of ASIC Engineering and will be expected to work a total of 40 hours per week.\n\nRESPONSIBILITIES AND DUTIES\n• Work in a newly formed team, designing a full ASIC from scratch;\n• Contribute to all aspects and the complete cycle of circuit design & development;\n• Define the required tests and the verification methodology;\n• Debug the circuits (pre- and post-layout), to achieve the required performance;\n• Help with the post-silicon debug, and ASIC/MEMS integration.\n\nREQUIRED SKILLS\n• Analog-oriented circuit designer, excited about working on a full-chip design;\n• Knowledge and design experience with analog circuits such as bandgap, regulator, data converters, clock generators, and switched-capacitor circuits\n• Good understanding of signal processing concepts, both continuous and discrete time.\n• Proficient with schematic capture tools such as Cadence Virtuoso or Synopsys Custom Compiler and Spice-based circuit simulators such as Spectre and HSpice or AFS\n• Decent knowledge of design flow, testing methodology, block-level specifications, calibration & compensation, etc.\n• Familiar with the layout design concepts (parasitic effects, symmetry, regularity and matching, gradient and proximity effects, reliability, etc.).\n\nDESIRED SKILLS\n• Experience using scripting languages (Shell, PERL, Python, TCL, etc.);\n• Experience with analog circuit modeling in Verilog or VerilogA;\n• Experience with Matlab and Simulink.\n\nBENEFITS\n\nAt Stathera, we value the well-being and success of our exceptional employees. That's why we proudly offer a comprehensive Group Benefits Plan and an ICHRA Allowance.\n\nIn line with our commitment to fostering a collaborative and inclusive work environment, we provide the opportunity to our employees to share in our success through our Employee Stock Ownership Plan.\n\nIn addition to our competitive compensation plans, we also understand the importance of maintaining a healthy work-life balance. To support this, we provide employees with annual personal days in addition to their accrued vacation days, empowering our employees to effectively manage personal commitments while maintaining their professional pursuits.\n\nWe invite you to apply to join our supportive and innovative team, where your well-being and professional growth are top of mind.\n\nStathera is an Equal Opportunity and Affirmative Action employer. We are committed to creating a work environment based on mutual respect, hard work and inclusion without bias or discrimination. Our team is made up of people from all backgrounds and walks of life, and each member is valued for what they know and what they can contribute. As a collective we are continuously learning and encourage each other to push our boundaries and make mistakes we can all learn from. Those who do so will get an opportunity to grow with us and share in our success.",
-    "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770076800,
-    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
-    "job_location": "Boston, MA",
-    "job_city": "Boston",
-    "job_state": "Massachusetts",
-    "job_country": "US",
-    "job_latitude": 42.355507599999996,
-    "job_longitude": -71.0565364,
-    "job_benefits": [
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBFerd1IH03nnKWzeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "We are looking for a Senior Analog/Mixed-Signal IC Design Engineer to join our team in Toronto, Canada or Boston, USA",
-        "We encourage individuals who possess a combination of technical expertise, leadership acumen, and a strong drive for innovation to apply for this position",
-        "A successful candidate will have MS with 5+ years of relevant experience, OR Ph.D. with 2+ years of industry experience designing analog and mixed-signal circuits",
-        "Analog-oriented circuit designer, excited about working on a full-chip design;",
-        "Knowledge and design experience with analog circuits such as bandgap, regulator, data converters, clock generators, and switched-capacitor circuits",
-        "Good understanding of signal processing concepts, both continuous and discrete time",
-        "Proficient with schematic capture tools such as Cadence Virtuoso or Synopsys Custom Compiler and Spice-based circuit simulators such as Spectre and HSpice or AFS",
-        "Decent knowledge of design flow, testing methodology, block-level specifications, calibration & compensation, etc",
-        "Familiar with the layout design concepts (parasitic effects, symmetry, regularity and matching, gradient and proximity effects, reliability, etc.)"
-      ],
-      "Benefits": [
-        "In line with our commitment to fostering a collaborative and inclusive work environment, we provide the opportunity to our employees to share in our success through our Employee Stock Ownership Plan",
-        "In addition to our competitive compensation plans, we also understand the importance of maintaining a healthy work-life balance",
-        "To support this, we provide employees with annual personal days in addition to their accrued vacation days, empowering our employees to effectively manage personal commitments while maintaining their professional pursuits"
-      ],
-      "Responsibilities": [
-        "The Senior Analog/Mixed-Signal IC Design Engineer will report directly to the Director of ASIC Engineering and will be expected to work a total of 40 hours per week",
-        "Work in a newly formed team, designing a full ASIC from scratch;",
-        "Contribute to all aspects and the complete cycle of circuit design & development;",
-        "Define the required tests and the verification methodology;",
-        "Debug the circuits (pre- and post-layout), to achieve the required performance;",
-        "Help with the post-silicon debug, and ASIC/MEMS integration"
-      ]
-    },
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "www-linkedin-com-jobs-view-analog-mixed-signal-ic-design-engineer-at-stathera-inc-4358502093",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "LaKu8ZFOJQjz_RAkAAAAAA==",
     "job_title": "Senior Analog/mixed-signal IC Design Engineer - Acacia (Hybrid)",
     "employer_name": "Cisco",
@@ -1321,9 +1401,9 @@
     ],
     "job_description": "The application window is expected to close on 12/31/25. Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nThis is a hybrid role with three days per week at our San Jose, CA office.\n\nAcacia designs intelligent transceivers using advanced signal processing and photonic integration for the 100G, 400G and 1T bit speed fiber optic transmission market deployed in data center, metro, long-haul and ultra-long haul telecommunication networks.\n\nMeet the Team\n\nWe are Mixed-signal IC design group that develops high speed ()25Gb/s), and high accuracy, analog designs for optical communications products. We optimize design that will integrate into the ASIC. Our team interacts with other Acacia groups including digital/DSP design, system design, package design, and module design.\n\nYour Impact\n• You will architect, design, layout, measure and productize ultra-deep sub-micron-based CMOS products.\n• You will lead efforts for a large block on a complex chip, mentor team members and track deliverables, participate in peer review of complex IC designs and provide solid design methodology from conception to production.\n• You will also collaborate with packaging and hardware design team to ensure signal and power integrity specifications are met.\n• You will develop high speed AMS circuits and best-in-class products that push the boundaries of what is possible.\n\nMinimum qualifications:\n• BSEE degree with 12+ years of experience or equivalent or an MS degree with 8+ years of experience, or equivalent or a PhD with 5+ years of experience, or equivalent\n• Design, simulation and measurement of high speed ICs in at least 3 areas below:\n\nHigh Speed Serial Links utilizing serializers, deserializers, and data converters, voltage regulators, output drivers, phase locked loops, clock transmission/propagation, Opamps, programmable gain amplifiers, and equalization\n\nPreferred qualifications:\n• Experience with electrical transceiver applications including backplane and cable communications\n• Experience with FinFET technology\n• High-frequency layout experience a plus: Passive component design: inductors,\n• transformers, transmission-lines, etc.\n• Floorplanning (power/ground, digital/analog signal routing, etc.) experience\n• Custom transistor layout experience\n• Experience designing for manufacturability\n• Experience with ESD laboratory practices and methodology\n• Experience with Cadence (virtuoso), Spectre/APS/SpectreX, Matlab, EMX\n• Experience with mixed-signal simulations in AMS\n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nThe starting salary range posted for this position is $191,400.00 to $281,400.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits.\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$191,400.00 - $323,600.00\n\nNon-Metro New York state & Washington state:\n$176,100.00 - $287,900.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
     "job_is_remote": false,
-    "job_posted_at": "12 hours ago",
-    "job_posted_at_timestamp": 1771113600,
-    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
+    "job_posted_at": "13 hours ago",
+    "job_posted_at_timestamp": 1771110000,
+    "job_posted_at_datetime_utc": "2026-02-14T23:00:00.000Z",
     "job_location": "San Jose, CA",
     "job_city": "San Jose",
     "job_state": "California",
@@ -1331,8 +1411,8 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLaKu8ZFOJQjz_RAkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1387,88 +1467,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "g8IxcoER54KJtyW6AAAAAA==",
-    "job_title": "Staff Analog & Mixed-Signal Design Engineer",
-    "employer_name": "1010 Analog Devices Inc.",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Workday",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Staff-Analog---Mixed-Signal-Design-Engineer_R258819?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Workday",
-        "apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Staff-Analog---Mixed-Signal-Design-Engineer_R258819?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Sign In",
-        "apply_link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23279/?lastSelectedFacet=CATEGORIES&mode=locationutm_medium&selectedCategoriesFacet=300000009357785&utm_source=google&hotJobFlag=trueutm_mediumutm_mediumutm_mediumutm_medium&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/analog-design-engineer_7ea1a2bce930a4bb2cf1121c07fb2b1a97128?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/fee25dcb15d76e9235cbc475f6e9b4a4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/senior-analog-mixed-signal-engineer-at-mythic-4309595932?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5443236989?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jooble",
-        "apply_link": "https://jooble.org/jdp/2741814773979997420?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/lead-principal-engineer-analog-mixed-signal-design-infineon-technologies-JV_KO0,50_KE51,72.htm?jl=1010033063350&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "About Analog Devices Analog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world. With revenue of more than $9 billion in FY24 and approximately 24,000 people globally, ADI ensures today's innovators stay Ahead of What's Possible™. Learn more at www.analog.com and on LinkedIn and Twitter (X). Staff Analog & Mixed-Signal Design Engineer Analog Devices is hiring a Staff Analog & Mixed-Signal IC Design Engineer for the Instrumentation business unit, primarily targeting Automatic Test Equipment (ATE) applications. The role involves analysis, research, design, simulation, characterization, and release-to-production of high-performance, power-delivery and measurement Integrated Circuits. As part of the ATE design team, you will create high-performance solutions used worldwide in production testing of the most advanced ICs. The continued growth of high-performance computational ICs such as AI processors, GPUs, High Bandwidth Memory and other advanced semiconductors demands innovative solutions for high performance power handling and measurement. The successful candidate will join a team that has created the most advanced and highly integrated solutions on the market. The successful candidate must have a strong, intuitive capability in solving complex challenges. The candidate will be self-motivated and able to work effectively within a team. Job Location: Colorado Springs, CO (preferred) or Wilmington, MA Responsibilities Lead the architectural definition and design of complex mixed-signal ICs from concept through production release Participate in design optimization for power, performance, and area, and ensure compliance with rigorous quality standards. Additionally, you will provide technical guidance to junior engineers and collaborate closely with cross-functional teams to drive innovative solutions and deliver successful products to market. Work with digital design and design verification teams on block and system integration and verification at the chip level Coordinate with product definition, applications, and test engineering to define requirements and oversee the transition of new products from concept to production release Assess and resolve complex integrated circuit issues in the laboratory Education and Experience Requirements: M.S. or Ph.D. in Electrical Engineering, 7+ years CMOS IC design experience Familiar with high-gain/low-noise amplifiers, switching regulator circuits, comparators, integrators, voltage references, LDOs, ADCs and DACs Excellent written/verbal communication; strong cross-team collaboration Manage layout and post-layout simulations Preferred Qualifications Switching regulator circuit design background Precision analog design background (amplifiers, low noise circuitry, ADCs and DACs) Experience with BiCMOS analog design Proficient in Cadence schematic capture and SPICE simulation Skilled with MATLAB or similar modeling tools Analog/digital behavioral modelling expertise Team and project leadership experience For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process. Analog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group. EEO is the Law: Notice of Applicant Rights Under the Law. Job Req Type: Experienced Required Travel: Yes, 10% of the time Shift Type: 1st Shift/Days The expected wage range for a new hire into this position is $124,721 to $180,602. Actual wage offered may vary depending on work location, experience, education, training, external market data, internal pay equity, or other bona fide factors. This position qualifies for a discretionary performance-based bonus which is based on personal and company factors. This position includes medical, vision and dental coverage, 401k, paid vacation, holidays, and sick time, and other benefits. Analog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world. With revenue of more than $9 billion in FY24 and approximately 24,000 people globally, ADI ensures today's innovators stay Ahead of What's Possible™. Learn more at www.analog.com and on LinkedIn and Twitter (X). Come join ADI – a place where Innovation meets Impact. For more than 55 years, Analog Devices has been inventing new breakthrough technologies that transform lives. At ADI you will work alongside the brightest minds to collaborate on solving complex problems that matter from autonomous vehicles, drones and factories to augmented reality and remote healthcare. ADI fosters a culture that focuses on employees through beneficial programs, aligned goals, continuous learning opportunities, and practices that create a more sustainable future.",
-    "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1769990400,
-    "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
-    "job_location": "United States",
-    "job_city": null,
-    "job_state": null,
-    "job_country": "US",
-    "job_latitude": 38.794595199999996,
-    "job_longitude": -106.5348379,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dg8IxcoER54KJtyW6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {},
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "analogdevices-wd1-myworkdayjobs-com-en-us-external-job-staff-analog-mixed-signal-design-engineer_r258819",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "JAfEWttttda2bPMWAAAAAA==",
     "job_title": "Senior Mixed-Signal/Analog Design Engineer",
     "employer_name": "Analog Devices",
@@ -1510,9 +1508,9 @@
     "job_latitude": 38.8353142,
     "job_longitude": -104.82160089999999,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJAfEWttttda2bPMWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 104866,
@@ -1553,6 +1551,98 @@
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
     "id": "www-ziprecruiter-com-c-analogdevices-job-senior-mixed-signal-analog-design-engineer-in-colorado-springs-co",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "uWgW6Y9AC5g6-U5WAAAAAA==",
+    "job_title": "Electrical Engineer (High Speed, Mixed Signal Electronics)",
+    "employer_name": "Northwoodspace",
+    "employer_logo": null,
+    "employer_website": "https://www.northwoodspace.io",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Northwoodspace/Job/Electrical-Engineer-(High-Speed,-Mixed-Signal-Electronics)/-in-Torrance,CA?jid=c5ee08cea5c12d0d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Northwoodspace/Job/Electrical-Engineer-(High-Speed,-Mixed-Signal-Electronics)/-in-Torrance,CA?jid=c5ee08cea5c12d0d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Long Journey Ventures Job Board",
+        "apply_link": "https://jobs.longjourney.vc/companies/northwood-space/jobs/57820242-electrical-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SpaceTalent Job Board",
+        "apply_link": "https://jobs.spacetalent.org/companies/northwood-space/jobs/57820242-electrical-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Humba Ventures Job Board",
+        "apply_link": "https://jobs.humbaventures.com/companies/northwood-space/jobs/57820242-electrical-engineer-high-speed-mixed-signal-electronics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobrapido",
+        "apply_link": "https://us.jobrapido.com/jobpreview/3146637654745939968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Northwood is on a mission to transform connectivity between Earth and space by taking a vertically integrated approach to ground, developing advanced ground-segment technology that is scalable and reliable. Northwood has not only designed the highest power commercial communication phased array ever built, but deployed and installed 8 Portal units halfway across the world within only a 3-month turnaround time. Following our recent $100 million Series B funding round (led by Washington Harbour Partners and Andreessen Horowitz) and a $49.8 million contract with the United States Space Force to support and upgrade the Satellite Control Network, we're developing a high-capability phased-array network to enable global constellations of satellites. If you thrive on building quickly, seeing your innovations deployed globally with real impact on critical missions, we want you at Northwood.\n\nELECTRICAL ENGINEER (HIGH SPEED, MIXED SIGNAL ELECTRONICS)\n\nThe Hardware team at Northwood develops cutting-edge digital compute and high power electronics that power our next-generation antennas and ground systems. These complex digital platforms enable high-rate processing and reliable performance for space communications, no matter the deployment location around the world. Our engineers prioritize design excellence and first principles fundamentals to deliver hardware known for its reliability, scalability, and cost-effectiveness in demanding environments.\n\nAs an Electrical Engineer at Northwood, you will drive the electrical design of high-speed digital systems, own key aspects of PCB development, and collaborate across multidisciplinary teams to optimize overall system performance. You will contribute to architecture trades, prototype bring-up, testing in lab and field settings, and ensure designs transition smoothly to production. Your work will directly support our mission to enable faster, more capable space operations through innovative ground infrastructure.\n\nRESPONSIBILITIES:\n• Drive electrical design for high-speed digital communication systems, implementing RF and mixed-signal designs in complex, multilayer PCBs\n• Work with 100G high-speed networking, intricate digital power trees, and lead system trades to inform architecture decisions\n• Perform schematic capture, PCB layout oversight, and bring-up/validation on diverse digital systems including FPGAs, microcontrollers, and associated peripherals\n• Collaborate closely with hardware, software, RF, antenna, FPGA, and firmware engineers to optimize system performance and design integration\n• Test prototypes rigorously in the lab and field to assess and improve performance\n• Partner with production teams to develop testable, manufacturable products for efficient in-house integration and scaling\n\nBASIC QUALIFICATIONS:\n• Bachelor's degree in electrical engineering or a related engineering discipline\n• 0-4+ years of professional experience in electrical design (internships, co-ops, and project experience qualify)\n\nPREFERRED SKILLS AND EXPERIENCE:\n• Proficiency in high-density/high-speed PCB design, including FPGAs, high-speed data converters, SerDes, 10/100 GigE networking, and JESD204C interfaces\n• Strong experience with schematic capture tools and best practices in PCB layout for signal integrity and power distribution\n• Hands-on troubleshooting of EMI/EMC issues (conducted or radiated)\n• Knowledge of PCB materials selection and board stack-up definition for high-performance applications\n• Familiarity with soldering, hot air rework, and prototype assembly techniques\n• Experience across the full product lifecycle, from concept through production ramp-up\n• Strong collaborative skills, enthusiasm for solving complex engineering challenges, and passion for advancing space communications technology\n\nCOMPENSATION AND BENEFITS:\n\nElectrical Engineer/Level 1: $100,000 - $120,000 per year\n\nElectrical Engineer/Level 2: $115,000 - $145,000 per year\n\nYour actual level and base salary will be determined on a case-by-case basis and may vary based on job-related knowledge, skills, education, and experience.\n\nBase salary is just one part of your total rewards package at Northwood. You may also be eligible for equity in the form of stock options or other long-term incentives, as well as potential performance bonuses. We offer comprehensive medical, vision, and dental coverage, a 401(k) retirement plan, short- and long-term disability insurance, life insurance, paid parental leave, generous paid time off, and various other perks and discounts.\n\nADDITIONAL INFORMATION:\n\nTo conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.\n\nNorthwood is an Equal Opportunity Employer; employment with Northwood is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Torrance, CA",
+    "job_city": "Torrance",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 33.8369217,
+    "job_longitude": -118.34074509999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DuWgW6Y9AC5g6-U5WAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 100000,
+    "job_max_salary": 145000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor's degree in electrical engineering or a related engineering discipline",
+        "0-4+ years of professional experience in electrical design (internships, co-ops, and project experience qualify)",
+        "To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C",
+        "1324b(a)(3), or eligible to obtain the required authorizations from the U.S"
+      ],
+      "Benefits": [
+        "Electrical Engineer/Level 1: $100,000 - $120,000 per year",
+        "Electrical Engineer/Level 2: $115,000 - $145,000 per year",
+        "Your actual level and base salary will be determined on a case-by-case basis and may vary based on job-related knowledge, skills, education, and experience",
+        "Base salary is just one part of your total rewards package at Northwood",
+        "You may also be eligible for equity in the form of stock options or other long-term incentives, as well as potential performance bonuses",
+        "We offer comprehensive medical, vision, and dental coverage, a 401(k) retirement plan, short- and long-term disability insurance, life insurance, paid parental leave, generous paid time off, and various other perks and discounts"
+      ],
+      "Responsibilities": [
+        "As an Electrical Engineer at Northwood, you will drive the electrical design of high-speed digital systems, own key aspects of PCB development, and collaborate across multidisciplinary teams to optimize overall system performance",
+        "You will contribute to architecture trades, prototype bring-up, testing in lab and field settings, and ensure designs transition smoothly to production",
+        "Your work will directly support our mission to enable faster, more capable space operations through innovative ground infrastructure",
+        "Drive electrical design for high-speed digital communication systems, implementing RF and mixed-signal designs in complex, multilayer PCBs",
+        "Work with 100G high-speed networking, intricate digital power trees, and lead system trades to inform architecture decisions",
+        "Perform schematic capture, PCB layout oversight, and bring-up/validation on diverse digital systems including FPGAs, microcontrollers, and associated peripherals",
+        "Collaborate closely with hardware, software, RF, antenna, FPGA, and firmware engineers to optimize system performance and design integration",
+        "Test prototypes rigorously in the lab and field to assess and improve performance",
+        "Partner with production teams to develop testable, manufacturable products for efficient in-house integration and scaling"
+      ]
+    },
+    "job_onet_soc": "17207100",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-northwoodspace-job-electrical-engineer-high-speed-mixed-signal-electronics-in-torrance-ca",
     "_source": "new_jobs"
   },
   {
@@ -1740,9 +1830,9 @@
     "job_latitude": 38.794595199999996,
     "job_longitude": -106.5348379,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DvHjb1d-h7YoKf71vAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
