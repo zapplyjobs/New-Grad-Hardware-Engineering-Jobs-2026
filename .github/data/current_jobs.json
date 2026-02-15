@@ -31,8 +31,8 @@
     "job_latitude": 39.1731621,
     "job_longitude": -77.2716502,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Ds65OUraCvDMCG5okAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -298,11 +298,6 @@
         "is_direct": true
       },
       {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/lead-principal-engineer-analog-mixed-signal-design-infineontechnologies-el-segundo-ca_85687075?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "Glassdoor",
         "apply_link": "https://www.glassdoor.com/job-listing/lead-principal-engineer-analog-mixed-signal-design-infineon-technologies-JV_IC1146779_KO0,50_KE51,72.htm?jl=1010033895473&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -315,6 +310,11 @@
       {
         "publisher": "Jobright",
         "apply_link": "https://jobright.ai/jobs/info/698f34520cc8ea15f1d9a5be?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/I3-9bntWdpZKp41XUoduPZHFya3Moifa1eJMEbupL52oR3eRr23FRQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -674,11 +674,6 @@
         "is_direct": false
       },
       {
-        "publisher": "JobLeads",
-        "apply_link": "https://www.jobleads.com/us/job/analog-circuit-design-engineer--hillsboro--e9544e8196dd39d59e8138bb603939854?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "Learn4Good",
         "apply_link": "https://www.learn4good.com/jobs/hillsboro/oregon/engineering/4866133758/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -971,8 +966,8 @@
     "job_latitude": 34.7295497,
     "job_longitude": -86.5853155,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D01fGh98neVhb-0iBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1092,9 +1087,9 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Df-yCc_PkNwuklX8TAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1357,8 +1352,8 @@
     "job_latitude": 36.778261,
     "job_longitude": -119.4179324,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRMoZX69r0LCId45aAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 125000,
@@ -1573,6 +1568,99 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "cTKQRx8eIRVx-VaVAAAAAA==",
+    "job_title": "Digital Design Engineer",
+    "employer_name": "Analog Devices",
+    "employer_logo": null,
+    "employer_website": "https://www.analog.com",
+    "job_publisher": "Tech Jobs Personalized",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://builtin.com/job/digital-design-engineer/8484269?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Tech Jobs Personalized",
+        "apply_link": "https://builtin.com/job/digital-design-engineer/8484269?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Analog-Devices/Job/Digital-Design-Engineer/-in-Wilmington,MA?jid=3120b34d4df107ee&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "About Analog Devices\n\nAnalog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world. With revenue of more than $9 billion in FY24 and approximately 24,000 people globally, ADI ensures today's innovators stay Ahead of What's Possible™. Learn more at www.analog.com and on LinkedIn and Twitter (X).\n\nPrincipal Digital Design Engineer\nAbout the Role\nAs a Principal Digital Design Engineer, you will drive technical strategy and innovation for complex digital systems, including System on Chips (SoCs). You'll define product and technology roadmaps, lead architecture for mission-critical projects, and serve as a technical authority within the organization. This position requires exceptional expertise across multiple domains and the ability to influence business direction while mentoring and developing technical talent.\nKey Responsibilities\n• Develop and maintain system-level models (e.g., in SystemVerilog, or MATLAB) to analyze architectural trade-offs, verify system behavior, and inform hardware/software partitioning.\n• Own the architecture, micro-architecture, and RTL design of complex digital blocks and/or subsystems (such as signal processing functions, control, or processor subsystems) for mixed signal ICs.\n• Collaborate closely with multi location teams such as system architects, analog designers, DV, physical design, product engineering, applications, and firmware teams to during architecture, design, evaluation, and release phases.\n• Lead design reviews, participate in specification, and ensure alignment with broader project goals.\n• Perform RTL coding (Verilog and SystemVerilog), synthesis, and lint/CDC analysis; drive designs to timing closure and area/power targets.\n• Develop and execute verification plans in collaboration with DV, including functional coverage and support for simulation/debug.\n• Analyze and resolve design, timing, and functional issues across the full digital development flow.\n• Contribute to top-level integration, including interface definition, constraint development, and support for physical implementation for functional and DFT modes.\n• Mentor and guide junior engineers, sharing expertise and promoting best practices.\n• Author and maintain clear documentation, user guides, and design collateral.\n• Stay current with industry trends and identify opportunities for process or technology improvement.\n• Perform silicon lab evaluation and debug.\n• Use Python applications to develop tests on evaluation platforms.\n\nMust Have Skills\n• Bachelor’s or Master’s degree in Electrical Engineering, Computer Engineering, or related field.\n• 8+ years of experience in digital design for ASIC/SoC, with track record of successful tapeouts.\n• Expertise in RTL design (SystemVerilog), logic synthesis, and digital verification methodologies with Cadence tools.\n• Experience with modeling and scripting (Matlab, TCL, Python) for design automation.\n• Strong understanding of digital design flows, timing analysis, and constraints.\n• Experience collaborating across functions (DV, PD, systems, analog/mixed-signal).\n• Excellent communication and documentation skills.\n• Demonstrated ability to lead technical projects or major design subsystems.\n• Strong understanding of business context and ability to align technical strategy with business goals\n\nPreferred Qualifications:\n• Experience with high-speed interfaces, high speed signal processing, and low-power design.\n• Familiarity with UVM or similar verification frameworks.\n• Prior mentorship or technical leadership experience.\n\nPreferred Education and Experience\n• Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or equivalent experience\n• 12+ years of relevant experience in digital design engineering\n\nWhy You'll Love Working Here\nAt Analog Devices, you'll be part of a collaborative and innovative team that's shaping the future of technology. We offer a supportive environment focused on professional growth, competitive compensation and benefits, work-life balance, and the opportunity to work on cutting-edge projects that make a real impact on the world.\nYour expertise will shape the future of technology, and you’ll be supported by a culture that values continuous advancement and professional growth. Join us and help create the technologies that bridge the physical and digital worlds, making a tangible difference in how people live, work, and connect.\n\nFor positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.\n\nAnalog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group.\n\nEEO is the Law: Notice of Applicant Rights Under the Law.\nJob Req Type: Experienced\n\nRequired Travel: Yes, 10% of the time\n\nShift Type: 1st Shift/Days\n\nThe expected wage range for a new hire into this position is $159,638 to $239,457.\n• Actual wage offered may vary depending on work location, experience, education, training, external market data, internal pay equity, or other bona fide factors.\n• This position qualifies for a discretionary performance-based bonus which is based on personal and company factors.\n• This position includes medical, vision and dental coverage, 401k, paid vacation, holidays, and sick time, and other benefits.",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "New Jersey",
+    "job_city": null,
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 40.0583238,
+    "job_longitude": -74.4056612,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DcTKQRx8eIRVx-VaVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 159638,
+    "job_max_salary": 239457,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor’s or Master’s degree in Electrical Engineering, Computer Engineering, or related field",
+        "8+ years of experience in digital design for ASIC/SoC, with track record of successful tapeouts",
+        "Expertise in RTL design (SystemVerilog), logic synthesis, and digital verification methodologies with Cadence tools",
+        "Experience with modeling and scripting (Matlab, TCL, Python) for design automation",
+        "Strong understanding of digital design flows, timing analysis, and constraints",
+        "Experience collaborating across functions (DV, PD, systems, analog/mixed-signal)",
+        "Excellent communication and documentation skills",
+        "Demonstrated ability to lead technical projects or major design subsystems",
+        "Strong understanding of business context and ability to align technical strategy with business goals",
+        "For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S",
+        "Department of Commerce - Bureau of Industry and Security and/or the U.S",
+        "As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C",
+        "1324b(a)(3) – may have to go through an export licensing review process",
+        "Required Travel: Yes, 10% of the time"
+      ],
+      "Benefits": [
+        "We offer a supportive environment focused on professional growth, competitive compensation and benefits, work-life balance, and the opportunity to work on cutting-edge projects that make a real impact on the world",
+        "The expected wage range for a new hire into this position is $159,638 to $239,457",
+        "Actual wage offered may vary depending on work location, experience, education, training, external market data, internal pay equity, or other bona fide factors",
+        "This position qualifies for a discretionary performance-based bonus which is based on personal and company factors",
+        "This position includes medical, vision and dental coverage, 401k, paid vacation, holidays, and sick time, and other benefits"
+      ],
+      "Responsibilities": [
+        "As a Principal Digital Design Engineer, you will drive technical strategy and innovation for complex digital systems, including System on Chips (SoCs)",
+        "You'll define product and technology roadmaps, lead architecture for mission-critical projects, and serve as a technical authority within the organization",
+        "This position requires exceptional expertise across multiple domains and the ability to influence business direction while mentoring and developing technical talent",
+        "Develop and maintain system-level models (e.g., in SystemVerilog, or MATLAB) to analyze architectural trade-offs, verify system behavior, and inform hardware/software partitioning",
+        "Own the architecture, micro-architecture, and RTL design of complex digital blocks and/or subsystems (such as signal processing functions, control, or processor subsystems) for mixed signal ICs",
+        "Collaborate closely with multi location teams such as system architects, analog designers, DV, physical design, product engineering, applications, and firmware teams to during architecture, design, evaluation, and release phases",
+        "Lead design reviews, participate in specification, and ensure alignment with broader project goals",
+        "Perform RTL coding (Verilog and SystemVerilog), synthesis, and lint/CDC analysis; drive designs to timing closure and area/power targets",
+        "Develop and execute verification plans in collaboration with DV, including functional coverage and support for simulation/debug",
+        "Analyze and resolve design, timing, and functional issues across the full digital development flow",
+        "Contribute to top-level integration, including interface definition, constraint development, and support for physical implementation for functional and DFT modes",
+        "Mentor and guide junior engineers, sharing expertise and promoting best practices",
+        "Author and maintain clear documentation, user guides, and design collateral",
+        "Stay current with industry trends and identify opportunities for process or technology improvement",
+        "Perform silicon lab evaluation and debug",
+        "Use Python applications to develop tests on evaluation platforms"
+      ]
+    },
+    "job_onet_soc": "17207200",
+    "job_onet_job_zone": "4",
+    "id": "builtin-com-job-digital-design-engineer-8484269",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "ENjjEqISQV1fNbH3AAAAAA==",
     "job_title": "Experienced Analog/Mixed Signal IC Design Engineer",
     "employer_name": "MACOM",
@@ -1644,117 +1732,6 @@
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
     "id": "career-io-job-experienced-analogmixed-signal-ic-design-engineer-hillsboro-macom-6ab903cef96001c35cc09a071d6231b6",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "KKYjMcbLI5mgKPHGAAAAAA==",
-    "job_title": "RF/Analog Design Engineer - Longwood, FL",
-    "employer_name": "Analog Modules, Inc.",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiwt9QWlnsTK839zhQnHSWW-wFgZuc1aUf1hzx&s=0",
-    "employer_website": "https://analogmodules.com",
-    "job_publisher": "Milwaukee Jobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.milwaukeejobs.com/job/detail/86157299/RF-Analog-Design-Engineer-Longwood-FL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Milwaukee Jobs",
-        "apply_link": "https://www.milwaukeejobs.com/job/detail/86157299/RF-Analog-Design-Engineer-Longwood-FL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/longwood/florida/engineering/4856559599/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "<sdf-icon-button _ngcontent-ng-c4503598582405439=\"\" id=\"back-button\" emphasis=\"tertiary\" class=\"action-button hydrated\" shape=\"rounded\">Back </sdf-icon-button>\nRF/Analog Design Engineer\n#26-121\nLongwood, Florida, United States\n<cx-social-share _ngcontent-ng-c4503598582405439=\"\" class=\"mob-share cx-new-share-btn\" _nghost-ng-c4503597561641772=\"\"><sdf-action-menu _ngcontent-ng-c4503597561641772=\"\" icon=\"action-share\" icon-only=\"true\" type=\"button\" aria-label=\"Share Button\" size=\"sm\" class=\"hydrated\"><sdf-menu _ngcontent-ng-c4503597561641772=\"\" class=\"cx-share-buttons-list flex flex-column items-start p-5 hydrated\" role=\"menu\"><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"0\" role=\"menuitem\" class=\"hydrated\"> X </sdf-menu-item><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"-1\" role=\"menuitem\" class=\"hydrated\"> Facebook </sdf-menu-item><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"-1\" role=\"menuitem\" class=\"hydrated\"> LinkedIn </sdf-menu-item><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"-1\" role=\"menuitem\" class=\"hydrated\"> Email </sdf-menu-item><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"-1\" role=\"menuitem\" class=\"hydrated\"> Copy </sdf-menu-item></sdf-menu></sdf-action-menu>\n\n</cx-social-share>\n\nCompany\nAnalog Modules Inc.\n\nEmployment Status\nFull-Time\n\nCareer Level\nExperienced Non-Manager\n\nJob Description\n\nAnalog Modules, Inc., a subsidiary of HEICO Corporation, designs and manufactures a wide range of analog electronic products for the laser and electro-optics industries. These products serve applications in medical, military, scientific, and industrial markets.\n\nOur products include laser diode drivers, pockels cell drivers, laser power supplies, capacitor charging power supplies, CW arc lamp power supplies, pulsed flash lamp drivers, simmer supplies, laser rangefinder receivers, laser spot trackers, photodetector-amplifier modules, HV bias supplies, fiber optic links, fast peak pulse stretchers, transimpedance amplifiers, voltage amplifiers and logarithmic amplifiers.\n\nAnalog Modules, Inc. is currently recruiting for the position of RF/Analog Design Engineer.\n\nThe RF/Analog Design Engineer responsibilities include, but are not limited to the following:\n• Designs and develops new high speed analog products for electro-optics, laser electronics, and other applications using computer assisted engineering, design software, and customer guidelines.\n• Supports existing product lines with required modifications.\n• Updates products as needed by manufacturing, testing, and quality control departments.\n• Manages assigned projects to guarantee compliance with required specifications within the project schedule.\n• Ensures that budgets of time and raw materials are not exceeded.\n• Provides support in the development of project and product specifications and schedules.\n• Designs and develops electronic assemblies with the aid of hand tools, soldering iron, and computer design software\n• Writes documentation and creates schematics for products. Provides documentation to drafting and assists in drawing creation and review as required.\n• Responsible for design verification testing and acceptance of all assigned project prototypes and first articles.\n• Performs required testing and or supervises assigned technicians and prototype assemblers in testing and fabrication of product.\n• Discusses proposed changes in design with manufacturing and quality control departments to improve manufacturing procedures.\n• Develops acceptance test procedures, design development plans and budgets/schedules, test plans, and design verification tests (DVT) and reports for assigned products and projects.\n• Reviews test results and documentation prior to shipment.\n• Reviews customer returns and repairs for assigned products.\n• Applies advanced mathematical concepts and operations with logical or scientific thinking to solve a wide range of intellectual and practical problems.\n• Provides insights to other engineering personnel regarding non-assigned projects.\n• Assists technical sales personnel with project costs by estimating time and raw materials needed on a per job basis.\n• Troubleshoots with customers to resolve technical questions and ensure all customer specifications have been met.\n• Identifies and prepares requisitions, materials, tools, and test equipment for specific jobs.\n\nRequirements\n• Bachelor of Science in Electrical Engineering\n• Minimum of ten years industry experience required. MSEE preferred.\n• Proficient in electronics engineering design, testing, and documentation.\n• Strong understanding of analog and RF electronics design. Proficiency in higher frequency techniques including network analysis and simulation is desired.\n• Low noise analog design and testing experience is required.\n• Background and design expertise in electro-optic receivers and ultra-fast laser drivers is desired.\n• Knowledge of circuit board electrical layout techniques and EMI effects are essential.\n• Ability to manage multiple projects simultaneously, successfully setting priorities to accomplish goals.\n• Basic computer skills are essential.\n• A wide degree of creativity and latitude is necessary.\n• Analog Modules, Inc. is located in Longwood, Florida, and the job must be performed onsite. Relocation assistance may be offered.\n• This position requires use of information or access to hardware, which is subject to the International Traffic in Arms Regulations (ITAR). All applicants must be U.S. persons within the meaning of ITAR. ITAR defines a U.S. person as a U.S. Citizen, U.S. Permanent Resident (i.e. 'Green Card Holder'), Political Asylee, or Refugee.\n\nBenefits\n\nAnalog Modules, Inc. offers a competitive salary, medical, dental, and vision insurance, company paid life insurance, company paid short term and long term disability insurance, equity builder, and a 401k with company match. Critical illness and accident insurance are also available.\n\nOur Team Members work a 9/80 schedule, which means our workweek splits on Friday. Full-time Team Members work 9 hours per day Monday - Thursday and 8 hours on Friday one week of our pay period and the following week they work 9 hours per day Monday - Thursday and have that Friday off. This allows Team Members to enjoy a three-day weekend twice a month.\n\nWe also offer generous paid time off benefits.\n\nAnalog Modules, Inc., a subsidiary of HEICO Corporation, designs and manufactures a wide range of analog electronic products for the laser and electro-optics industries. These products serve applications in medical, military, scientific, and industrial markets.\nOur products include laser diode drivers, pockels cell drivers, laser power supplies, capacitor charging power supplies, CW arc lamp power supplies, pulsed flash lamp drivers, simmer supplies, laser rangefinder receivers, laser spot trackers, photodetector-amplifier modules, HV bias supplies, fiber optic links, fast peak pulse stretchers, transimpedance amplifiers, voltage amplifiers and logarithmic amplifiers.\nAnalog Modules, Inc. is currently recruiting for the position of RF/Analog Design Engineer.\nThe RF/Analog Design Engineer responsibilities include, but are not limited to the following:\n• Designs and develops new high speed analog products for electro-optics, laser electronics, and other applications using computer assisted engineering, design software, and customer guidelines.\n• Supports existing product lines with required modifications.\n• Updates products as needed by manufacturing, testing, and quality control departments.\n• Manages assigned projects to guarantee compliance with required specifications within the project schedule.\n• Ensures that budgets of time and raw materials are not exceeded.\n• Provides support in the development of project and product specifications and schedules.\n• Designs and develops electronic assemblies with the aid of hand tools, soldering iron, and computer design software\n• Writes documentation and creates schematics for products. Provides documentation to drafting and assists in drawing creation and review as required.\n• Responsible for design verification testing and acceptance of all assigned project prototypes and first articles.\n• Performs required testing and or supervises assigned technicians and prototype assemblers in testing and fabrication of product.\n• Discusses proposed changes in design with manufacturing and quality control departments to improve manufacturing procedures.\n• Develops acceptance test procedures, design development plans and budgets/schedules, test plans, and design verification tests (DVT) and reports for assigned products and projects.\n• Reviews test results and documentation prior to shipment.\n• Reviews customer returns and repairs for assigned products.\n• Applies advanced mathematical concepts and operations with logical or scientific thinking to solve a wide range of intellectual and practical problems.\n• Provides insights to other engineering personnel regarding non-assigned projects.\n• Assists technical sales personnel with project costs by estimating time and raw materials needed on a per job basis.\n• Troubleshoots with customers to resolve technical questions and ensure all customer specifications have been met.\n• Identifies and prepares requisitions, materials, tools, and test equipment for specific jobs.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Longwood, FL",
-    "job_city": "Longwood",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 28.7030519,
-    "job_longitude": -81.3384011,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKKYjMcbLI5mgKPHGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor of Science in Electrical Engineering",
-        "Minimum of ten years industry experience required",
-        "This position requires use of information or access to hardware, which is subject to the International Traffic in Arms Regulations (ITAR)",
-        "All applicants must be U.S. persons within the meaning of ITAR",
-        "ITAR defines a U.S. person as a U.S. Citizen, U.S. Permanent Resident (i.e",
-        "'Green Card Holder'), Political Asylee, or Refugee"
-      ],
-      "Benefits": [
-        "Analog Modules, Inc. offers a competitive salary, medical, dental, and vision insurance, company paid life insurance, company paid short term and long term disability insurance, equity builder, and a 401k with company match",
-        "Critical illness and accident insurance are also available",
-        "Our Team Members work a 9/80 schedule, which means our workweek splits on Friday",
-        "Full-time Team Members work 9 hours per day Monday - Thursday and 8 hours on Friday one week of our pay period and the following week they work 9 hours per day Monday - Thursday and have that Friday off",
-        "This allows Team Members to enjoy a three-day weekend twice a month",
-        "We also offer generous paid time off benefits"
-      ],
-      "Responsibilities": [
-        "Designs and develops new high speed analog products for electro-optics, laser electronics, and other applications using computer assisted engineering, design software, and customer guidelines",
-        "Supports existing product lines with required modifications",
-        "Updates products as needed by manufacturing, testing, and quality control departments",
-        "Manages assigned projects to guarantee compliance with required specifications within the project schedule",
-        "Ensures that budgets of time and raw materials are not exceeded",
-        "Provides support in the development of project and product specifications and schedules",
-        "Designs and develops electronic assemblies with the aid of hand tools, soldering iron, and computer design software",
-        "Writes documentation and creates schematics for products",
-        "Provides documentation to drafting and assists in drawing creation and review as required",
-        "Responsible for design verification testing and acceptance of all assigned project prototypes and first articles",
-        "Performs required testing and or supervises assigned technicians and prototype assemblers in testing and fabrication of product",
-        "Discusses proposed changes in design with manufacturing and quality control departments to improve manufacturing procedures",
-        "Develops acceptance test procedures, design development plans and budgets/schedules, test plans, and design verification tests (DVT) and reports for assigned products and projects",
-        "Reviews test results and documentation prior to shipment",
-        "Reviews customer returns and repairs for assigned products",
-        "Applies advanced mathematical concepts and operations with logical or scientific thinking to solve a wide range of intellectual and practical problems",
-        "Provides insights to other engineering personnel regarding non-assigned projects",
-        "Assists technical sales personnel with project costs by estimating time and raw materials needed on a per job basis",
-        "Troubleshoots with customers to resolve technical questions and ensure all customer specifications have been met",
-        "Identifies and prepares requisitions, materials, tools, and test equipment for specific jobs",
-        "Designs and develops new high speed analog products for electro-optics, laser electronics, and other applications using computer assisted engineering, design software, and customer guidelines",
-        "Supports existing product lines with required modifications",
-        "Updates products as needed by manufacturing, testing, and quality control departments",
-        "Manages assigned projects to guarantee compliance with required specifications within the project schedule",
-        "Ensures that budgets of time and raw materials are not exceeded",
-        "Provides support in the development of project and product specifications and schedules",
-        "Designs and develops electronic assemblies with the aid of hand tools, soldering iron, and computer design software",
-        "Writes documentation and creates schematics for products",
-        "Provides documentation to drafting and assists in drawing creation and review as required",
-        "Responsible for design verification testing and acceptance of all assigned project prototypes and first articles",
-        "Performs required testing and or supervises assigned technicians and prototype assemblers in testing and fabrication of product",
-        "Discusses proposed changes in design with manufacturing and quality control departments to improve manufacturing procedures",
-        "Develops acceptance test procedures, design development plans and budgets/schedules, test plans, and design verification tests (DVT) and reports for assigned products and projects",
-        "Reviews test results and documentation prior to shipment",
-        "Reviews customer returns and repairs for assigned products",
-        "Applies advanced mathematical concepts and operations with logical or scientific thinking to solve a wide range of intellectual and practical problems",
-        "Provides insights to other engineering personnel regarding non-assigned projects",
-        "Assists technical sales personnel with project costs by estimating time and raw materials needed on a per job basis",
-        "Troubleshoots with customers to resolve technical questions and ensure all customer specifications have been met",
-        "Identifies and prepares requisitions, materials, tools, and test equipment for specific jobs"
-      ]
-    },
-    "job_onet_soc": "17207200",
-    "job_onet_job_zone": "4",
-    "id": "www-milwaukeejobs-com-job-detail-86157299-rf-analog-design-engineer-longwood-fl",
     "_source": "new_jobs"
   },
   {
@@ -1961,6 +1938,239 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "KKYjMcbLI5mgKPHGAAAAAA==",
+    "job_title": "RF/Analog Design Engineer - Longwood, FL",
+    "employer_name": "Analog Modules, Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiwt9QWlnsTK839zhQnHSWW-wFgZuc1aUf1hzx&s=0",
+    "employer_website": "https://analogmodules.com",
+    "job_publisher": "Milwaukee Jobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.milwaukeejobs.com/job/detail/86157299/RF-Analog-Design-Engineer-Longwood-FL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Milwaukee Jobs",
+        "apply_link": "https://www.milwaukeejobs.com/job/detail/86157299/RF-Analog-Design-Engineer-Longwood-FL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/longwood/florida/engineering/4856559599/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "<sdf-icon-button _ngcontent-ng-c4503598582405439=\"\" id=\"back-button\" emphasis=\"tertiary\" class=\"action-button hydrated\" shape=\"rounded\">Back </sdf-icon-button>\nRF/Analog Design Engineer\n#26-121\nLongwood, Florida, United States\n<cx-social-share _ngcontent-ng-c4503598582405439=\"\" class=\"mob-share cx-new-share-btn\" _nghost-ng-c4503597561641772=\"\"><sdf-action-menu _ngcontent-ng-c4503597561641772=\"\" icon=\"action-share\" icon-only=\"true\" type=\"button\" aria-label=\"Share Button\" size=\"sm\" class=\"hydrated\"><sdf-menu _ngcontent-ng-c4503597561641772=\"\" class=\"cx-share-buttons-list flex flex-column items-start p-5 hydrated\" role=\"menu\"><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"0\" role=\"menuitem\" class=\"hydrated\"> X </sdf-menu-item><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"-1\" role=\"menuitem\" class=\"hydrated\"> Facebook </sdf-menu-item><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"-1\" role=\"menuitem\" class=\"hydrated\"> LinkedIn </sdf-menu-item><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"-1\" role=\"menuitem\" class=\"hydrated\"> Email </sdf-menu-item><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"-1\" role=\"menuitem\" class=\"hydrated\"> Copy </sdf-menu-item></sdf-menu></sdf-action-menu>\n\n</cx-social-share>\n\nCompany\nAnalog Modules Inc.\n\nEmployment Status\nFull-Time\n\nCareer Level\nExperienced Non-Manager\n\nJob Description\n\nAnalog Modules, Inc., a subsidiary of HEICO Corporation, designs and manufactures a wide range of analog electronic products for the laser and electro-optics industries. These products serve applications in medical, military, scientific, and industrial markets.\n\nOur products include laser diode drivers, pockels cell drivers, laser power supplies, capacitor charging power supplies, CW arc lamp power supplies, pulsed flash lamp drivers, simmer supplies, laser rangefinder receivers, laser spot trackers, photodetector-amplifier modules, HV bias supplies, fiber optic links, fast peak pulse stretchers, transimpedance amplifiers, voltage amplifiers and logarithmic amplifiers.\n\nAnalog Modules, Inc. is currently recruiting for the position of RF/Analog Design Engineer.\n\nThe RF/Analog Design Engineer responsibilities include, but are not limited to the following:\n• Designs and develops new high speed analog products for electro-optics, laser electronics, and other applications using computer assisted engineering, design software, and customer guidelines.\n• Supports existing product lines with required modifications.\n• Updates products as needed by manufacturing, testing, and quality control departments.\n• Manages assigned projects to guarantee compliance with required specifications within the project schedule.\n• Ensures that budgets of time and raw materials are not exceeded.\n• Provides support in the development of project and product specifications and schedules.\n• Designs and develops electronic assemblies with the aid of hand tools, soldering iron, and computer design software\n• Writes documentation and creates schematics for products. Provides documentation to drafting and assists in drawing creation and review as required.\n• Responsible for design verification testing and acceptance of all assigned project prototypes and first articles.\n• Performs required testing and or supervises assigned technicians and prototype assemblers in testing and fabrication of product.\n• Discusses proposed changes in design with manufacturing and quality control departments to improve manufacturing procedures.\n• Develops acceptance test procedures, design development plans and budgets/schedules, test plans, and design verification tests (DVT) and reports for assigned products and projects.\n• Reviews test results and documentation prior to shipment.\n• Reviews customer returns and repairs for assigned products.\n• Applies advanced mathematical concepts and operations with logical or scientific thinking to solve a wide range of intellectual and practical problems.\n• Provides insights to other engineering personnel regarding non-assigned projects.\n• Assists technical sales personnel with project costs by estimating time and raw materials needed on a per job basis.\n• Troubleshoots with customers to resolve technical questions and ensure all customer specifications have been met.\n• Identifies and prepares requisitions, materials, tools, and test equipment for specific jobs.\n\nRequirements\n• Bachelor of Science in Electrical Engineering\n• Minimum of ten years industry experience required. MSEE preferred.\n• Proficient in electronics engineering design, testing, and documentation.\n• Strong understanding of analog and RF electronics design. Proficiency in higher frequency techniques including network analysis and simulation is desired.\n• Low noise analog design and testing experience is required.\n• Background and design expertise in electro-optic receivers and ultra-fast laser drivers is desired.\n• Knowledge of circuit board electrical layout techniques and EMI effects are essential.\n• Ability to manage multiple projects simultaneously, successfully setting priorities to accomplish goals.\n• Basic computer skills are essential.\n• A wide degree of creativity and latitude is necessary.\n• Analog Modules, Inc. is located in Longwood, Florida, and the job must be performed onsite. Relocation assistance may be offered.\n• This position requires use of information or access to hardware, which is subject to the International Traffic in Arms Regulations (ITAR). All applicants must be U.S. persons within the meaning of ITAR. ITAR defines a U.S. person as a U.S. Citizen, U.S. Permanent Resident (i.e. 'Green Card Holder'), Political Asylee, or Refugee.\n\nBenefits\n\nAnalog Modules, Inc. offers a competitive salary, medical, dental, and vision insurance, company paid life insurance, company paid short term and long term disability insurance, equity builder, and a 401k with company match. Critical illness and accident insurance are also available.\n\nOur Team Members work a 9/80 schedule, which means our workweek splits on Friday. Full-time Team Members work 9 hours per day Monday - Thursday and 8 hours on Friday one week of our pay period and the following week they work 9 hours per day Monday - Thursday and have that Friday off. This allows Team Members to enjoy a three-day weekend twice a month.\n\nWe also offer generous paid time off benefits.\n\nAnalog Modules, Inc., a subsidiary of HEICO Corporation, designs and manufactures a wide range of analog electronic products for the laser and electro-optics industries. These products serve applications in medical, military, scientific, and industrial markets.\nOur products include laser diode drivers, pockels cell drivers, laser power supplies, capacitor charging power supplies, CW arc lamp power supplies, pulsed flash lamp drivers, simmer supplies, laser rangefinder receivers, laser spot trackers, photodetector-amplifier modules, HV bias supplies, fiber optic links, fast peak pulse stretchers, transimpedance amplifiers, voltage amplifiers and logarithmic amplifiers.\nAnalog Modules, Inc. is currently recruiting for the position of RF/Analog Design Engineer.\nThe RF/Analog Design Engineer responsibilities include, but are not limited to the following:\n• Designs and develops new high speed analog products for electro-optics, laser electronics, and other applications using computer assisted engineering, design software, and customer guidelines.\n• Supports existing product lines with required modifications.\n• Updates products as needed by manufacturing, testing, and quality control departments.\n• Manages assigned projects to guarantee compliance with required specifications within the project schedule.\n• Ensures that budgets of time and raw materials are not exceeded.\n• Provides support in the development of project and product specifications and schedules.\n• Designs and develops electronic assemblies with the aid of hand tools, soldering iron, and computer design software\n• Writes documentation and creates schematics for products. Provides documentation to drafting and assists in drawing creation and review as required.\n• Responsible for design verification testing and acceptance of all assigned project prototypes and first articles.\n• Performs required testing and or supervises assigned technicians and prototype assemblers in testing and fabrication of product.\n• Discusses proposed changes in design with manufacturing and quality control departments to improve manufacturing procedures.\n• Develops acceptance test procedures, design development plans and budgets/schedules, test plans, and design verification tests (DVT) and reports for assigned products and projects.\n• Reviews test results and documentation prior to shipment.\n• Reviews customer returns and repairs for assigned products.\n• Applies advanced mathematical concepts and operations with logical or scientific thinking to solve a wide range of intellectual and practical problems.\n• Provides insights to other engineering personnel regarding non-assigned projects.\n• Assists technical sales personnel with project costs by estimating time and raw materials needed on a per job basis.\n• Troubleshoots with customers to resolve technical questions and ensure all customer specifications have been met.\n• Identifies and prepares requisitions, materials, tools, and test equipment for specific jobs.",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Longwood, FL",
+    "job_city": "Longwood",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 28.7030519,
+    "job_longitude": -81.3384011,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKKYjMcbLI5mgKPHGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor of Science in Electrical Engineering",
+        "Minimum of ten years industry experience required",
+        "This position requires use of information or access to hardware, which is subject to the International Traffic in Arms Regulations (ITAR)",
+        "All applicants must be U.S. persons within the meaning of ITAR",
+        "ITAR defines a U.S. person as a U.S. Citizen, U.S. Permanent Resident (i.e",
+        "'Green Card Holder'), Political Asylee, or Refugee"
+      ],
+      "Benefits": [
+        "Analog Modules, Inc. offers a competitive salary, medical, dental, and vision insurance, company paid life insurance, company paid short term and long term disability insurance, equity builder, and a 401k with company match",
+        "Critical illness and accident insurance are also available",
+        "Our Team Members work a 9/80 schedule, which means our workweek splits on Friday",
+        "Full-time Team Members work 9 hours per day Monday - Thursday and 8 hours on Friday one week of our pay period and the following week they work 9 hours per day Monday - Thursday and have that Friday off",
+        "This allows Team Members to enjoy a three-day weekend twice a month",
+        "We also offer generous paid time off benefits"
+      ],
+      "Responsibilities": [
+        "Designs and develops new high speed analog products for electro-optics, laser electronics, and other applications using computer assisted engineering, design software, and customer guidelines",
+        "Supports existing product lines with required modifications",
+        "Updates products as needed by manufacturing, testing, and quality control departments",
+        "Manages assigned projects to guarantee compliance with required specifications within the project schedule",
+        "Ensures that budgets of time and raw materials are not exceeded",
+        "Provides support in the development of project and product specifications and schedules",
+        "Designs and develops electronic assemblies with the aid of hand tools, soldering iron, and computer design software",
+        "Writes documentation and creates schematics for products",
+        "Provides documentation to drafting and assists in drawing creation and review as required",
+        "Responsible for design verification testing and acceptance of all assigned project prototypes and first articles",
+        "Performs required testing and or supervises assigned technicians and prototype assemblers in testing and fabrication of product",
+        "Discusses proposed changes in design with manufacturing and quality control departments to improve manufacturing procedures",
+        "Develops acceptance test procedures, design development plans and budgets/schedules, test plans, and design verification tests (DVT) and reports for assigned products and projects",
+        "Reviews test results and documentation prior to shipment",
+        "Reviews customer returns and repairs for assigned products",
+        "Applies advanced mathematical concepts and operations with logical or scientific thinking to solve a wide range of intellectual and practical problems",
+        "Provides insights to other engineering personnel regarding non-assigned projects",
+        "Assists technical sales personnel with project costs by estimating time and raw materials needed on a per job basis",
+        "Troubleshoots with customers to resolve technical questions and ensure all customer specifications have been met",
+        "Identifies and prepares requisitions, materials, tools, and test equipment for specific jobs",
+        "Designs and develops new high speed analog products for electro-optics, laser electronics, and other applications using computer assisted engineering, design software, and customer guidelines",
+        "Supports existing product lines with required modifications",
+        "Updates products as needed by manufacturing, testing, and quality control departments",
+        "Manages assigned projects to guarantee compliance with required specifications within the project schedule",
+        "Ensures that budgets of time and raw materials are not exceeded",
+        "Provides support in the development of project and product specifications and schedules",
+        "Designs and develops electronic assemblies with the aid of hand tools, soldering iron, and computer design software",
+        "Writes documentation and creates schematics for products",
+        "Provides documentation to drafting and assists in drawing creation and review as required",
+        "Responsible for design verification testing and acceptance of all assigned project prototypes and first articles",
+        "Performs required testing and or supervises assigned technicians and prototype assemblers in testing and fabrication of product",
+        "Discusses proposed changes in design with manufacturing and quality control departments to improve manufacturing procedures",
+        "Develops acceptance test procedures, design development plans and budgets/schedules, test plans, and design verification tests (DVT) and reports for assigned products and projects",
+        "Reviews test results and documentation prior to shipment",
+        "Reviews customer returns and repairs for assigned products",
+        "Applies advanced mathematical concepts and operations with logical or scientific thinking to solve a wide range of intellectual and practical problems",
+        "Provides insights to other engineering personnel regarding non-assigned projects",
+        "Assists technical sales personnel with project costs by estimating time and raw materials needed on a per job basis",
+        "Troubleshoots with customers to resolve technical questions and ensure all customer specifications have been met",
+        "Identifies and prepares requisitions, materials, tools, and test equipment for specific jobs"
+      ]
+    },
+    "job_onet_soc": "17207200",
+    "job_onet_job_zone": "4",
+    "id": "www-milwaukeejobs-com-job-detail-86157299-rf-analog-design-engineer-longwood-fl",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "LaKu8ZFOJQjz_RAkAAAAAA==",
+    "job_title": "Senior Analog/mixed-signal IC Design Engineer - Acacia (Hybrid)",
+    "employer_name": "Cisco",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgthNpO3rocjBOmZqIhYrkphz9zbGG6DQ5B9CQ&s=0",
+    "employer_website": "https://www.cisco.com",
+    "job_publisher": "Careers - Cisco",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL1443040EXTERNALENGLOBAL/Senior-Analog-mixed-signal-IC-Design-Engineer-Acacia-Hybrid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Careers - Cisco",
+        "apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL1443040EXTERNALENGLOBAL/Senior-Analog-mixed-signal-IC-Design-Engineer-Acacia-Hybrid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Cisco-Systems,-Inc./Job/Senior-Analog-mixed-signal-IC-Design-Engineer-Acacia/-in-San-Jose,CA?jid=fd49da01e2e913ea&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/senior-analog-mixed-signal-ic-design-engineer-acacia-hybrid-cisco-systems-JV_IC1147436_KO0,59_KE60,73.htm?jl=1009775355508&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-analog-mixed-signal-ic-design-engineer-acacia-hybrid-at-cisco-4335591505?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "| USNLX Veterans Jobs - National Labor Exchange",
+        "apply_link": "https://veterans.usnlx.com/san-jose-ca/senior-analogmixed-signal-ic-design-engineer-acacia-hybrid/633C638731604921BF6125AACEFC80D3/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs For Veterans & Job Fairs Nationwide | RecruitMilitary",
+        "apply_link": "https://my.recruitmilitary.com/job/47447542/Senior-Analog-mixed-signal-IC-Design-Engineer-Acacia-Hybrid-Cisco-Systems-Inc-San-Jose-CA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KSNT Jobs",
+        "apply_link": "https://jobs.ksnt.com/jobs/senior-analog-mixed-signal-ic-design-engineer-acacia-hybrid-san-jose-california/2590327244-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Levels.fyi",
+        "apply_link": "https://www.levels.fyi/jobs?jobId=76387904305144518&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "The application window is expected to close on 12/31/25. Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nThis is a hybrid role with three days per week at our San Jose, CA office.\n\nAcacia designs intelligent transceivers using advanced signal processing and photonic integration for the 100G, 400G and 1T bit speed fiber optic transmission market deployed in data center, metro, long-haul and ultra-long haul telecommunication networks.\n\nMeet the Team\n\nWe are Mixed-signal IC design group that develops high speed ()25Gb/s), and high accuracy, analog designs for optical communications products. We optimize design that will integrate into the ASIC. Our team interacts with other Acacia groups including digital/DSP design, system design, package design, and module design.\n\nYour Impact\n• You will architect, design, layout, measure and productize ultra-deep sub-micron-based CMOS products.\n• You will lead efforts for a large block on a complex chip, mentor team members and track deliverables, participate in peer review of complex IC designs and provide solid design methodology from conception to production.\n• You will also collaborate with packaging and hardware design team to ensure signal and power integrity specifications are met.\n• You will develop high speed AMS circuits and best-in-class products that push the boundaries of what is possible.\n\nMinimum qualifications:\n• BSEE degree with 12+ years of experience or equivalent or an MS degree with 8+ years of experience, or equivalent or a PhD with 5+ years of experience, or equivalent\n• Design, simulation and measurement of high speed ICs in at least 3 areas below:\n\nHigh Speed Serial Links utilizing serializers, deserializers, and data converters, voltage regulators, output drivers, phase locked loops, clock transmission/propagation, Opamps, programmable gain amplifiers, and equalization\n\nPreferred qualifications:\n• Experience with electrical transceiver applications including backplane and cable communications\n• Experience with FinFET technology\n• High-frequency layout experience a plus: Passive component design: inductors,\n• transformers, transmission-lines, etc.\n• Floorplanning (power/ground, digital/analog signal routing, etc.) experience\n• Custom transistor layout experience\n• Experience designing for manufacturability\n• Experience with ESD laboratory practices and methodology\n• Experience with Cadence (virtuoso), Spectre/APS/SpectreX, Matlab, EMX\n• Experience with mixed-signal simulations in AMS\n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nThe starting salary range posted for this position is $191,400.00 to $281,400.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits.\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$191,400.00 - $323,600.00\n\nNon-Metro New York state & Washington state:\n$176,100.00 - $287,900.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+    "job_is_remote": false,
+    "job_posted_at": "12 hours ago",
+    "job_posted_at_timestamp": 1771110000,
+    "job_posted_at_datetime_utc": "2026-02-14T23:00:00.000Z",
+    "job_location": "San Jose, CA",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.33874,
+    "job_longitude": -121.88525249999999,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLaKu8ZFOJQjz_RAkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "BSEE degree with 12+ years of experience or equivalent or an MS degree with 8+ years of experience, or equivalent or a PhD with 5+ years of experience, or equivalent",
+        "Design, simulation and measurement of high speed ICs in at least 3 areas below:"
+      ],
+      "Benefits": [
+        "The starting salary range posted for this position is $191,400.00 to $281,400.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits",
+        "Individual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training",
+        "The full salary range for certain locations is listed below",
+        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
+        "U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
+        "Please see the Cisco careers site to discover more benefits and perks",
+        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
+        "U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:",
+        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
+        "1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
+        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
+        "Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
+        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
+        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
+        "Optional 10 paid days per full calendar year to volunteer",
+        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
+        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
+        "For quota-based incentive pay, Cisco typically pays as follows:",
+        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
+        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
+        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
+        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
+        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
+        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
+        "For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined",
+        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
+      ],
+      "Responsibilities": [
+        "You will architect, design, layout, measure and productize ultra-deep sub-micron-based CMOS products",
+        "You will lead efforts for a large block on a complex chip, mentor team members and track deliverables, participate in peer review of complex IC designs and provide solid design methodology from conception to production",
+        "You will also collaborate with packaging and hardware design team to ensure signal and power integrity specifications are met",
+        "You will develop high speed AMS circuits and best-in-class products that push the boundaries of what is possible",
+        "High Speed Serial Links utilizing serializers, deserializers, and data converters, voltage regulators, output drivers, phase locked loops, clock transmission/propagation, Opamps, programmable gain amplifiers, and equalization"
+      ]
+    },
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "careers-cisco-com-global-en-job-ciscisglobal1443040externalenglobal-senior-analog-mixed-signal-ic-design-engineer-acacia-hybrid",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "ZXxE0jgRE0iUKW8EAAAAAA==",
     "job_title": "Senior Analog Design Engineer $200K +",
     "employer_name": "Confidential",
@@ -2002,11 +2212,6 @@
       {
         "publisher": "FOX21News Jobs",
         "apply_link": "https://jobs.fox21news.com/jobs/job-senior-analog-design-engineer-pleasanton-california/2618871203-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "California Careers",
-        "apply_link": "https://california.topstatecareers.com/jobs/job-senior-analog-design-engineer-pleasanton-california/2618871203-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -2065,55 +2270,6 @@
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
     "id": "www-ziprecruiter-com-c-cybercoders-job-senior-analog-design-engineer-200k-in-pleasanton-ca",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "aDbfw_0yF2CiYV_mAAAAAA==",
-    "job_title": "Senior Analog IC Design Engineer – Mixed-Signal Lead",
-    "employer_name": "Analog Devices, Inc.",
-    "employer_logo": null,
-    "employer_website": "https://www.analog.com",
-    "job_publisher": "Learn4Good",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.learn4good.com/jobs/athens/georgia/engineering/4865720434/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/athens/georgia/engineering/4865720434/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A leading technology company in the United States is seeking an experienced engineer focused on integrated circuit design in wired automotive connectivity. The ideal candidate will have over 7 years' experience in analogue or mixed-signal design, and strong knowledge of circuit designs such as amplifiers and converters.\n\nThis role offers the opportunity to work on innovative projects and collaborate with a talented team. The company values excellence and a collaborative culture.\n#J-18808-Ljbffr",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Athens, GA",
-    "job_city": "Athens",
-    "job_state": "Georgia",
-    "job_country": "US",
-    "job_latitude": 33.9596643,
-    "job_longitude": -83.3764161,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaDbfw_0yF2CiYV_mAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 60000,
-    "job_max_salary": 80000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "The ideal candidate will have over 7 years' experience in analogue or mixed-signal design, and strong knowledge of circuit designs such as amplifiers and converters"
-      ],
-      "Responsibilities": [
-        "This role offers the opportunity to work on innovative projects and collaborate with a talented team"
-      ]
-    },
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "www-learn4good-com-jobs-athens-georgia-engineering-4865720434-e",
     "_source": "new_jobs"
   }
 ]
