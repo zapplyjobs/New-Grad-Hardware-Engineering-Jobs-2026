@@ -454,9 +454,9 @@
     ],
     "job_description": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.\n\nAbout The Team\n\nThe Anduril Imaging team develops state-of-the-art imaging systems across both hardware and software, deployed to tackle the most significant security challenges of America and its allies. The team is heavily involved in utilizing computer vision, perception, electro-optical, infrared, and sensor data to give our war fighters and allies an advantage.\n\nAbout The Job\n\nAs an Electrical Hardware Engineer at Anduril Imaging, you will design and develop advanced electronics for airborne EO/IR systems, focusing on sensor electronics, aircraft interfaces, and power management. Your role will involve hands-on testing and collaboration with cross-functional teams to ensure optimal performance and integration of cutting-edge technologies.\n\nWhat You’ll Do\n• Contribute to the design, development, and testing of electronics for airborne EO/IR systems, including sensor electronics, aircraft interfaces, and power management.\n• Support systems engineering teams in defining and refining requirements based on physics-based models of sensor and system performance.\n• Assist in the design and development of PCB layouts in collaboration with the electrical engineering team.\n• Participate in system testing at laboratory, ground, and flight test levels, providing detailed data analysis and feedback.\n• Conduct troubleshooting and testing of electronic components and subsystems to ensure optimal performance.\n• Work closely with technical leads and project teams to support system integration efforts.\n• Document test results, system designs, and processes to maintain thorough technical records.\n\nRequired Qualifications\n• 5+ years of experience in electrical engineering, focusing on system-level design, development, and testing.\n• A degree in Electrical Engineering or equivalent.\n• Experience with analog and digital electronics design, testing, and troubleshooting.\n• Proficiency in laboratory skills, including setting up and running experiments.\n• Familiarity with PCB design tools and methodologies.\n• Excellent problem-solving skills with a detail-oriented mindset.\n• Ability to collaborate effectively within a multidisciplinary engineering team\n• Eligible to obtain and maintain an active U.S. Secret security clearance\n\nPreferred Qualifications\n• Experience in sensor or communication systems, such as RF, EO/IR, or optical technologies.\n• Familiarity with analytical tools and programming languages such as MATLAB, Python, or C++.\n• Understanding of system integration processes and workflows in aerospace or defense environments.\n\nUS Salary Range\n\n$129,000—$171,000 USD\n\nHealthcare Benefits\n\nThe salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including:\n• US Roles: Comprehensive medical, dental, and vision plans at little to no cost to you.\n• UK & AUS Roles: We cover full cost of medical insurance premiums for you and your dependents.\n• IE Roles: We offer an annual contribution toward your private health insurance for you and your dependents.\n\nAdditional Benefits\n• Income Protection: Anduril covers life and disability insurance for all employees.\n• Generous time off: Highly competitive PTO plans with a holiday hiatus in December. Caregiver & Wellness Leave is available to care for family members, bond with a new baby, or address your own medical needs.\n• Family Planning & Parenting Support: Coverage for fertility treatments (e.g., IVF, preservation), adoption, and gestational carriers, along with resources to support you and your partner from planning to parenting.\n• Mental Health Resources: Access free mental health resources 24/7, including therapy and life coaching. Additional work-life services, such as legal and financial support, are also available.\n• Professional Development: Annual reimbursement for professional development\n• Commuter Benefits: Company-funded commuter benefits based on your region.\n• Relocation Assistance: Available depending on role eligibility.\n\nRetirement Savings Plan\n• US Roles: Traditional 401(k), Roth, and after-tax (mega backdoor Roth) options.\n• UK & IE Roles: Pension plan with employer match.\n• AUS Roles: Superannuation plan.\n\nThe recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process.\n\nTo view Anduril's candidate data privacy policy, please visit https://anduril.com/applicant-privacy-notice/.",
     "job_is_remote": false,
-    "job_posted_at": "1 day ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
     "job_location": "Massachusetts",
     "job_city": null,
     "job_state": "Massachusetts",
@@ -558,9 +558,9 @@
     "job_latitude": 43.156577899999995,
     "job_longitude": -77.6088465,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMa9xC4SJfokptzojAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -946,79 +946,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "gVQVdU278qr3NU7vAAAAAA==",
-    "job_title": "Lead Hardware Engineer",
-    "employer_name": "Pentangle Tech Services | P5 Group",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpsgyE61hSNyqws1PgEhDiOAokPE-7O9ycfDPZ&s=0",
-    "employer_website": null,
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/lead-hardware-engineer-at-pentangle-tech-services-p5-group-4372722788?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/lead-hardware-engineer-at-pentangle-tech-services-p5-group-4372722788?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698f512a6ea51a7610f19e22?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/6d0a0e25aa1241a427fc8bd5075ec58a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/amp/job/us-california-mountain-view-lead-hardware-engineer-pentangle-tech?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Responsibilities\n• Experience: 10+ Years\n• Qualification: B.Tech/M.Tech (Electronics & Communication Engineering)\n• Design experience in analog/digital electronic circuits for automotive application\n• Good knowledge in automotive hardware development\n• Experience in the Automotive domain with hands on knowledge of ISO 26262 Functional Safety Standard\n• Should have hands on experience on design analysis such as WCCA, DFMEA, FMEDA, FTA using tools\n• Experiences in various software tools such as Mathcad, Ansys Medini etc.\n• Work closely with hardware team with constant communication\n\nSkills:\n• Min 10 yrs experience in Automotive HW development with min 2 yrs in Infotainment or/and Telematics\n• WCA(Worst Case Analysis), HW DFMEA, FMEDA",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Mountain View, CA",
-    "job_city": "Mountain View",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.390026399999996,
-    "job_longitude": -122.0812304,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgVQVdU278qr3NU7vAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Experience: 10+ Years",
-        "Qualification: B.Tech/M.Tech (Electronics & Communication Engineering)",
-        "Design experience in analog/digital electronic circuits for automotive application",
-        "Good knowledge in automotive hardware development",
-        "Experience in the Automotive domain with hands on knowledge of ISO 26262 Functional Safety Standard",
-        "Should have hands on experience on design analysis such as WCCA, DFMEA, FMEDA, FTA using tools",
-        "Experiences in various software tools such as Mathcad, Ansys Medini etc",
-        "Min 10 yrs experience in Automotive HW development with min 2 yrs in Infotainment or/and Telematics",
-        "WCA(Worst Case Analysis), HW DFMEA, FMEDA"
-      ],
-      "Responsibilities": [
-        "Work closely with hardware team with constant communication"
-      ]
-    },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "www-linkedin-com-jobs-view-lead-hardware-engineer-at-pentangle-tech-services-p5-group-4372722788",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "O4QM-2y5vWp9nDRKAAAAAA==",
     "job_title": "Hardware Engineer - Junior (US)",
     "employer_name": "Trilyon, Inc.",
@@ -1109,101 +1036,110 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "CVBwMfcA4XgJOoZ_AAAAAA==",
-    "job_title": "Hardware Embedded Engineering CO-OP / Intern",
-    "employer_name": "Riverside Research Institute",
+    "job_id": "xtTZk3chmSYgIIP1AAAAAA==",
+    "job_title": "Hardware Engineer",
+    "employer_name": "Westinghouse Electric Company, LLC",
     "employer_logo": null,
-    "employer_website": "https://www.riversideresearch.org",
-    "job_publisher": "ZipRecruiter",
+    "employer_website": "https://westinghousenuclear.com",
+    "job_publisher": "Westinghouse Nuclear",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Riverside-Research-Institute/Job/Hardware-Embedded-Engineering-CO-OP-Intern/-in-Dayton,OH?jid=d52b0061ecc0e472&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
+    "job_apply_link": "https://careers.westinghousenuclear.com/job/Warrendale-Hardware-Engineer-OR/1353656000/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Riverside-Research-Institute/Job/Hardware-Embedded-Engineering-CO-OP-Intern/-in-Dayton,OH?jid=d52b0061ecc0e472&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
+        "publisher": "Westinghouse Nuclear",
+        "apply_link": "https://careers.westinghousenuclear.com/job/Warrendale-Hardware-Engineer-OR/1353656000/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
       },
       {
-        "publisher": "Monster",
-        "apply_link": "https://www.monster.com/job-openings/hardware-embedded-engineering-co-op-intern-beavercreek-oh--d7754386-aafc-4953-91ec-55937294e5cb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=e4af129bf9dcbb17&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/hardware-embedded-engineering-co-op-intern_7ea1a5d123df9b86368b3331eed9f29a05d6f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Riverside Research Institute - ICIMS",
-        "apply_link": "https://careers-riversideresearch.icims.com/jobs/4119/hardware-embedded-engineering-co-op---intern/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/hardware-embedded-engineering-co-op-intern-at-riverside-research-4369978912?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698667b08ca8121a3a68a912?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.tealhq.com/job/hardware-engineer_7ea1a3d1b77caf6639e0055adac5b2a291052?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/3LmybFAatvCuKG0bTxBjypsqV_z8Z3_0gOxaWbRZz-3JcWRc2NbBCQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.simplyhired.com/job/1MTSmsojqy0mdMTwgpMi8xQZnodnaQ0LiLmDk21d2wJ35ezBKX4RIw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Lensa",
-        "apply_link": "https://lensa.com/job-v1/riverside-research/beavercreek-oh/hardware-embedded-engineering-co-op-intern/5ff4b44c78e30a4fc1db616dde5ef0af?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/926591256fe8b1f96f8b173315a0a12e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/hardware-engineer-at-westinghouse-electric-company-4330507979?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/hardware-engineer-westinghouse-JV_IC1153057_KO0,17_KE18,30.htm?jl=1009989184927&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/695d91d7fbd62a0a6566418d?utm_campaign=Engineering+and+Development&utm_source=1103&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Riverside Overview\n\nRiverside Research is an independent National Security Nonprofit dedicated to research and development in the national interest. We provide high-end technical services, research and development, and prototype solutions to some of the country's most challenging technical problems.\n\nAll Riverside Research opportunities require U.S. Citizenship.\n\nPosition Overview\n\nRiverside Research is seeking an entry-level Embedded Hardware Security Research Engineer to work alongside our US Air Force (USAF) and Department of Defense (DoD) partners to develop tamper-protected microelectronic devices and intellectual property (IP). This position is an entry-level engineering role that provides a technical path and opportunity to become a Subject Matter Expert (SME) role in the understanding of advanced attacks against state-of-the-art integrated circuits and the design and development of protective controls to mitigate such attacks. You will work with nationally recognized hardware security experts employing a range of microelectronics test equipment, custom software, and computing resources to provide exceptional support to our customers. This research work is conducted on-site in Riverside Research's microelectronics and embedded systems security laboratory in Beavercreek, Ohio.\n\nThis internship is open for either Summer 2026 or Fall 2026.\n\nResponsibilities\n• Conducts technical research activities assigned by senior technical leads developing solutions to complex hardware security projects.\n• Performs research supporting assessment state-of-the-art attack effectiveness against various microelectronic devices by performing attacks like side channel analysis, fault injection, and reverse engineering.\n• Supports development of hardware algorithms for secure microelectronic devices (microcontrollers, FPGAs, etc.).\n• Analyzes secure architectures to identify vulnerabilities.\n• Support Engineering team with code reviews and design meetings.\n• Documents findings in technical reports and presentations.\n• Presents technical findings and solutions to peer-level technical audience.\n\nQualifications\n\nRequired Qualifications:\n• Enrolled in accredited program in Electrical Engineering, Computer Engineering, Cybersecurity Engineering, Physics, Mathematics, or other related discipline.\n• Proficiency in C, C++, Rust, or Python.\n• Familiarity and interest in cryptography and/or embedded hardware security.\n• Ability to work semi-independently on assigned tasks with limited scope and with technical supervision in a highly collaborative team-based R&D environment.\n• Ability to present technical briefings to peer-level technical audiences.\n• Ability and willingness to obtain a security clearance, and program access requirements.\n\nDesired Qualifications:\n• Experience with Verilog, VHDL, or SystemC.\n• Experience designing or working with FPGAs or ASICs.\n• Experience performing statistical and data analysis.\n• Interest in the implementation cryptographic algorithms and protocols on embedded technologies including microcontrollers, FPGAs, ASICs, and related technologies.\n• Experience using lab equipment (oscilloscopes, power supplies, etc.).\n• Understanding of implementation attacks including side-channel, glitching, etc.\n• Experience in creating technical reports, developing research papers and presentations supporting research areas.\n• Active security clearance.\n\nGlobal Comp\n\n$25.00- $35.00/hr This represents the typical compensation range for this position based on experience, location and other factors.\n\nClosing Statement\n\nRiverside Research Institute is a not-for-profit, technology-oriented defense company, where service to our customers and support of our staff is our overall mission. Riverside is an affirmative action-equal opportunity employer and complies with all applicable federal, state, and local laws regarding recruitment and hiring. Riverside offers comprehensive compensation and benefit packages to our employees.\nRiverside bases its employment decisions solely on technical experience, qualifications and other job-related criteria related to our organizational purpose as a not-for-profit company, and without regard to race, color, religion, age, sex marital status, sexual orientation, national origin, physical or mental disability, veteran's status or any other status legally protected by applicable federal, state, and local law.",
+    "job_description": "Hardware Engineer\n\nYou will oversee the entry level design, integration and documentation of Plant Process Computer Systems used in nuclear power plants. You will assist principal engineer in the area of design, documentation, assisting with builds, testing and debug of system hardware acquisition equipment designs to ensure customer requirements are met. You will help design custom adapters/cabling and interfaces to transition existing plant equipment to new computer equipment. You will also assist with cabinet layout and design incorporated with needed power distribution, network distribution, network equipment, data acquisition equipment and servers which are the primary design components. You will include preparation of documentation required by the customer to maintain the system after delivery.\n\nYour Day to Day\n\n· Perform review of hardware design, review in the area of system architecture, network layout, cabinet design, system cabling interface, custom panel and kit design, cabinet power design.\n\n· Perform review of data acquisition designs including interface cabling and custom adapter designs\n\n· Learning and understanding of component selection to meet system needs and contract deliverables.\n\n· Participate in the set-up, system modification and system integration and testing, and delivery of our Projects.\n\n· Understand and implement the quality standards applicable to nuclear safety systems.\n\n· Willing to travel and work with local customers.\n\nYou will bring:\n\n· Bachelor's degree in Electrical Engineering or Mechanical Engineering with applicable years' experience drawing review and design.\n\n· Minimum 0 -2 years of applicable experience required.\n\n· Data acquisition hardware and software\n\n· Entry level knowledge of circuit designs to support custom cables and interfaces.\n\n· Entry level knowledge of Data Acquisition systems consisting of Servers, workstations, controllers, I/O modules or boards.\n\n· Experience with ACAD, 3D modeling.\n\n· Drawing creation and review.\n\n· Experience with Cisco switches.\n\n· Experience with RTP data acquisition systems.\n\n· Experience with Servers and workstations.\n\nWe are committed to transparency and equity in all of our people practices. The base salary range for this position, which is dependent upon experience, qualifications and skills, is estimated to be $58,400 to $73,000 annually.",
     "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Beavercreek, OH",
-    "job_city": "Beavercreek",
-    "job_state": "Ohio",
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770163200,
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_location": "Warrendale, PA",
+    "job_city": "Warrendale",
+    "job_state": "Pennsylvania",
     "job_country": "US",
-    "job_latitude": 39.709226199999996,
-    "job_longitude": -84.06326849999999,
+    "job_latitude": 40.653207599999995,
+    "job_longitude": -80.0794925,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCVBwMfcA4XgJOoZ_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 25,
-    "job_max_salary": 35,
-    "job_salary_period": "HOUR",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DxtTZk3chmSYgIIP1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Enrolled in accredited program in Electrical Engineering, Computer Engineering, Cybersecurity Engineering, Physics, Mathematics, or other related discipline",
-        "Proficiency in C, C++, Rust, or Python",
-        "Familiarity and interest in cryptography and/or embedded hardware security",
-        "Ability to work semi-independently on assigned tasks with limited scope and with technical supervision in a highly collaborative team-based R&D environment",
-        "Ability to present technical briefings to peer-level technical audiences",
-        "Ability and willingness to obtain a security clearance, and program access requirements"
+        "Bachelor's degree in Electrical Engineering or Mechanical Engineering with applicable years' experience drawing review and design",
+        "Minimum 0 -2 years of applicable experience required",
+        "Data acquisition hardware and software",
+        "Entry level knowledge of circuit designs to support custom cables and interfaces",
+        "Entry level knowledge of Data Acquisition systems consisting of Servers, workstations, controllers, I/O modules or boards",
+        "Experience with ACAD, 3D modeling",
+        "Drawing creation and review",
+        "Experience with Cisco switches",
+        "Experience with RTP data acquisition systems",
+        "Experience with Servers and workstations"
       ],
       "Benefits": [
-        "$25.00- $35.00/hr This represents the typical compensation range for this position based on experience, location and other factors"
+        "The base salary range for this position, which is dependent upon experience, qualifications and skills, is estimated to be $58,400 to $73,000 annually"
       ],
       "Responsibilities": [
-        "Conducts technical research activities assigned by senior technical leads developing solutions to complex hardware security projects",
-        "Performs research supporting assessment state-of-the-art attack effectiveness against various microelectronic devices by performing attacks like side channel analysis, fault injection, and reverse engineering",
-        "Supports development of hardware algorithms for secure microelectronic devices (microcontrollers, FPGAs, etc.)",
-        "Analyzes secure architectures to identify vulnerabilities",
-        "Support Engineering team with code reviews and design meetings",
-        "Documents findings in technical reports and presentations",
-        "Presents technical findings and solutions to peer-level technical audience"
+        "You will oversee the entry level design, integration and documentation of Plant Process Computer Systems used in nuclear power plants",
+        "You will assist principal engineer in the area of design, documentation, assisting with builds, testing and debug of system hardware acquisition equipment designs to ensure customer requirements are met",
+        "You will help design custom adapters/cabling and interfaces to transition existing plant equipment to new computer equipment",
+        "You will also assist with cabinet layout and design incorporated with needed power distribution, network distribution, network equipment, data acquisition equipment and servers which are the primary design components",
+        "You will include preparation of documentation required by the customer to maintain the system after delivery",
+        "Perform review of hardware design, review in the area of system architecture, network layout, cabinet design, system cabling interface, custom panel and kit design, cabinet power design",
+        "Perform review of data acquisition designs including interface cabling and custom adapter designs",
+        "Learning and understanding of component selection to meet system needs and contract deliverables",
+        "Participate in the set-up, system modification and system integration and testing, and delivery of our Projects",
+        "Understand and implement the quality standards applicable to nuclear safety systems",
+        "Willing to travel and work with local customers"
       ]
     },
-    "job_onet_soc": "15113300",
+    "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-riverside-research-institute-job-hardware-embedded-engineering-co-op-intern-in-dayton-oh",
+    "id": "careers-westinghousenuclear-com-job-warrendale-hardware-engineer-or-1353656000",
     "_source": "new_jobs"
   },
   {
@@ -1387,8 +1323,8 @@
     "job_latitude": 33.919179899999996,
     "job_longitude": -118.41646519999999,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4mBiUiZa0WX-pXy1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1460,6 +1396,104 @@
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
     "id": "careers-rtx-com-global-en-job-01814184-sr-electrical-hardware-design-engineer-onsite",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "CVBwMfcA4XgJOoZ_AAAAAA==",
+    "job_title": "Hardware Embedded Engineering CO-OP / Intern",
+    "employer_name": "Riverside Research Institute",
+    "employer_logo": null,
+    "employer_website": "https://www.riversideresearch.org",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Riverside-Research-Institute/Job/Hardware-Embedded-Engineering-CO-OP-Intern/-in-Dayton,OH?jid=d52b0061ecc0e472&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Riverside-Research-Institute/Job/Hardware-Embedded-Engineering-CO-OP-Intern/-in-Dayton,OH?jid=d52b0061ecc0e472&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Monster",
+        "apply_link": "https://www.monster.com/job-openings/hardware-embedded-engineering-co-op-intern-beavercreek-oh--d7754386-aafc-4953-91ec-55937294e5cb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/hardware-embedded-engineering-co-op-intern_7ea1a5d123df9b86368b3331eed9f29a05d6f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Riverside Research Institute - ICIMS",
+        "apply_link": "https://careers-riversideresearch.icims.com/jobs/4119/hardware-embedded-engineering-co-op---intern/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/hardware-embedded-engineering-co-op-intern-at-riverside-research-4369978912?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/698667b08ca8121a3a68a912?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/3LmybFAatvCuKG0bTxBjypsqV_z8Z3_0gOxaWbRZz-3JcWRc2NbBCQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/riverside-research/beavercreek-oh/hardware-embedded-engineering-co-op-intern/5ff4b44c78e30a4fc1db616dde5ef0af?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Riverside Overview\n\nRiverside Research is an independent National Security Nonprofit dedicated to research and development in the national interest. We provide high-end technical services, research and development, and prototype solutions to some of the country's most challenging technical problems.\n\nAll Riverside Research opportunities require U.S. Citizenship.\n\nPosition Overview\n\nRiverside Research is seeking an entry-level Embedded Hardware Security Research Engineer to work alongside our US Air Force (USAF) and Department of Defense (DoD) partners to develop tamper-protected microelectronic devices and intellectual property (IP). This position is an entry-level engineering role that provides a technical path and opportunity to become a Subject Matter Expert (SME) role in the understanding of advanced attacks against state-of-the-art integrated circuits and the design and development of protective controls to mitigate such attacks. You will work with nationally recognized hardware security experts employing a range of microelectronics test equipment, custom software, and computing resources to provide exceptional support to our customers. This research work is conducted on-site in Riverside Research's microelectronics and embedded systems security laboratory in Beavercreek, Ohio.\n\nThis internship is open for either Summer 2026 or Fall 2026.\n\nResponsibilities\n• Conducts technical research activities assigned by senior technical leads developing solutions to complex hardware security projects.\n• Performs research supporting assessment state-of-the-art attack effectiveness against various microelectronic devices by performing attacks like side channel analysis, fault injection, and reverse engineering.\n• Supports development of hardware algorithms for secure microelectronic devices (microcontrollers, FPGAs, etc.).\n• Analyzes secure architectures to identify vulnerabilities.\n• Support Engineering team with code reviews and design meetings.\n• Documents findings in technical reports and presentations.\n• Presents technical findings and solutions to peer-level technical audience.\n\nQualifications\n\nRequired Qualifications:\n• Enrolled in accredited program in Electrical Engineering, Computer Engineering, Cybersecurity Engineering, Physics, Mathematics, or other related discipline.\n• Proficiency in C, C++, Rust, or Python.\n• Familiarity and interest in cryptography and/or embedded hardware security.\n• Ability to work semi-independently on assigned tasks with limited scope and with technical supervision in a highly collaborative team-based R&D environment.\n• Ability to present technical briefings to peer-level technical audiences.\n• Ability and willingness to obtain a security clearance, and program access requirements.\n\nDesired Qualifications:\n• Experience with Verilog, VHDL, or SystemC.\n• Experience designing or working with FPGAs or ASICs.\n• Experience performing statistical and data analysis.\n• Interest in the implementation cryptographic algorithms and protocols on embedded technologies including microcontrollers, FPGAs, ASICs, and related technologies.\n• Experience using lab equipment (oscilloscopes, power supplies, etc.).\n• Understanding of implementation attacks including side-channel, glitching, etc.\n• Experience in creating technical reports, developing research papers and presentations supporting research areas.\n• Active security clearance.\n\nGlobal Comp\n\n$25.00- $35.00/hr This represents the typical compensation range for this position based on experience, location and other factors.\n\nClosing Statement\n\nRiverside Research Institute is a not-for-profit, technology-oriented defense company, where service to our customers and support of our staff is our overall mission. Riverside is an affirmative action-equal opportunity employer and complies with all applicable federal, state, and local laws regarding recruitment and hiring. Riverside offers comprehensive compensation and benefit packages to our employees.\nRiverside bases its employment decisions solely on technical experience, qualifications and other job-related criteria related to our organizational purpose as a not-for-profit company, and without regard to race, color, religion, age, sex marital status, sexual orientation, national origin, physical or mental disability, veteran's status or any other status legally protected by applicable federal, state, and local law.",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Beavercreek, OH",
+    "job_city": "Beavercreek",
+    "job_state": "Ohio",
+    "job_country": "US",
+    "job_latitude": 39.709226199999996,
+    "job_longitude": -84.06326849999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCVBwMfcA4XgJOoZ_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 25,
+    "job_max_salary": 35,
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "Enrolled in accredited program in Electrical Engineering, Computer Engineering, Cybersecurity Engineering, Physics, Mathematics, or other related discipline",
+        "Proficiency in C, C++, Rust, or Python",
+        "Familiarity and interest in cryptography and/or embedded hardware security",
+        "Ability to work semi-independently on assigned tasks with limited scope and with technical supervision in a highly collaborative team-based R&D environment",
+        "Ability to present technical briefings to peer-level technical audiences",
+        "Ability and willingness to obtain a security clearance, and program access requirements"
+      ],
+      "Benefits": [
+        "$25.00- $35.00/hr This represents the typical compensation range for this position based on experience, location and other factors"
+      ],
+      "Responsibilities": [
+        "Conducts technical research activities assigned by senior technical leads developing solutions to complex hardware security projects",
+        "Performs research supporting assessment state-of-the-art attack effectiveness against various microelectronic devices by performing attacks like side channel analysis, fault injection, and reverse engineering",
+        "Supports development of hardware algorithms for secure microelectronic devices (microcontrollers, FPGAs, etc.)",
+        "Analyzes secure architectures to identify vulnerabilities",
+        "Support Engineering team with code reviews and design meetings",
+        "Documents findings in technical reports and presentations",
+        "Presents technical findings and solutions to peer-level technical audience"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-riverside-research-institute-job-hardware-embedded-engineering-co-op-intern-in-dayton-oh",
     "_source": "new_jobs"
   },
   {
@@ -1751,9 +1785,9 @@
     "job_latitude": 42.6875323,
     "job_longitude": -83.2341028,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgBsyWAVBaRZmzUbGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1875,8 +1909,8 @@
     "job_latitude": 33.6594835,
     "job_longitude": -117.99880259999999,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRcCKVy96QfUe1ih4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1931,112 +1965,252 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "IozW1FMf1VHG_yKuAAAAAA==",
-    "job_title": "Hardware Development Engineer Internship – 2026 (US), Leo Manufacturing",
-    "employer_name": "Amazon.com Services LLC",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpHPsPCtT7v0dsfLzY7WalItl5ZK269S36ESB&s=0",
-    "employer_website": "https://www.amazon.com",
-    "job_publisher": "Indeed",
+    "job_id": "eunV6q7Z6HJj35ZeAAAAAA==",
+    "job_title": "Lead Hardware Engineer - Digital Design, Industrialization",
+    "employer_name": "GE Vernova",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpGN-UL04guDxaKDmitRLx-yMPrA7ZpK-y_SGX&s=0",
+    "employer_website": "https://www.gevernova.com",
+    "job_publisher": "GE Vernova Careers",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=28e8b56bcad76e08&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
+    "job_apply_link": "https://careers.gevernova.com/lead-hardware-engineer-digital-design-industrialization/job/R5030236?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
     "apply_options": [
       {
+        "publisher": "GE Vernova Careers",
+        "apply_link": "https://careers.gevernova.com/lead-hardware-engineer-digital-design-industrialization/job/R5030236?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Workday",
+        "apply_link": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rochester/Lead-Hardware-Engineer---Digital-Design--Industrialization_R5030236-3/apply?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=28e8b56bcad76e08&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.indeed.com/viewjob?jk=846b72f29079b193&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Qumulo/Job/Software-Development-Engineer-Internship-(Winter,-Spring,-or-Summer-26)/-in-Seattle,WA?jid=253179da9355214d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.ziprecruiter.com/c/GE-Vernova/Job/Lead-Hardware-Engineer-Digital-Design,-Industrialization/-in-Rochester,NY?jid=b01a42b1148e667f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/hardware-development-engineer-internship_7ea1a835888bac7331fb2e413040497ba8734?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Monster",
+        "apply_link": "https://www.monster.com/job-openings/lead-hardware-engineer-digital-design-industrialization-rochester-ny--3029a162-297e-4c09-b01e-76137f1613be?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "MyGwork",
-        "apply_link": "https://mygwork.com/jobs/amazon-hardware-development-engineer-internship-2026-us-leo-manufacturing?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/hardware-development-engineer-internship-%E2%80%93-2026-us-leo-manufacturing-amazon-JV_IC1150505_KO0,68_KE69,75.htm?jl=1010020450669&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Manufacturing Engineer",
-        "apply_link": "https://www.ihiremanufacturingengineers.com/jobs/view/508574234?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/JRlEEJOtov0PutXiQZ4yojLYF37QB20_mB3CQ2KkZcWulhkPgWAHPw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/software-development-engineer-internship-winter-spring-or-summer-26-at-qumulo-4298154070?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.linkedin.com/jobs/view/lead-hardware-engineer-digital-design-industrialization-at-ge-vernova-4366977050?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/31ce5a774eaae8ef00f1b90663092ad6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "EarnBetter",
+        "apply_link": "https://earnbetter.com/app/job/01KG8VZM89PRSZ1F6A0XYKEXJM/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "DESCRIPTION\n\nAmazon Leo is Amazon’s low Earth orbit satellite network. Our mission is to deliver fast, reliable internet connectivity to customers beyond the reach of existing networks. From individual households to schools, hospitals, businesses, and government agencies, Amazon Leo will serve people and organizations operating in locations without reliable connectivity.\n\nExport Control Requirement:\nDue to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.\n\nAmazon internships across all seasons are full-time positions, and interns should expect to work in office, Monday-Friday, up to 40 hours per week typically between 8am-5pm. Specific team norms around working hours will be communicated by your manager. Interns should not have conflicts such as classes or other employment during the Amazon work-day.\n\nApplicants should have a minimum of one quarter/semester/trimester remaining in their studies after their internship concludes. By applying to this position, your application will be considered for all Hardware Development Engineering Intern roles at all locations we hire for in the United States including but not limited to: Greater Seattle Area (Seattle, Bellevue, Redmond), Greater Bay Area (San Francisco, Sunnyvale, Santa Clara), Greater DMV (DC, MD, VA), Greater Boston Area (Boston, North Reading), Greater Los Angeles Area (Los Angeles, Pasadena, Northridge), Detroit (MI), San Diego (CA).\n\nYou will be able to provide your preference of location and start date during the application process but, we cannot guarantee that we can meet your selection based on several factors including but not limited to the availability and business needs of this role. Finalization on the location and start dates available will be provided to you at the time of job offer.\n\nStart dates for our internships in this posting include the following periods:\n1. Winter (Starts January/February 2026)\n2. Summer (Starts May/June 2026)\n3. Fall (Starts August/September 2026)\n\nAt Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The intense focus we have on our customers is why we are one of the world’s most beloved brands. Customer obsession is part of our company DNA.\n\nYou will be part of a project team you will work alongside Senior Electrical Engineers; supporting the design, debug, validation and optimization of the products. You will be involved in projects from concept through production, gaining exposure to the complete design lifecycle. You will also support engineering builds gaining experience with high volume manufacturing.\n\nKey job responsibilities\nAs a Hardware Development Engineer intern you will collaborate with experienced cross-functional teams to develop and implement quality systems for Amazon Leo's satellite manufacturing operations. You will work closely with internal teams and external partners to drive quality assurance, process improvements, and testing protocols. You must be responsive, flexible, and able to thrive in an open collaborative environment.\n• Develop quality control plans, MSAs, and statistical process control systems\n• Perform data analysis using Lean Six Sigma methodologies and analytical tools\n• Support continuous improvement initiatives and manufacturing execution systems\n• Conduct fixture and tooling design validation and debug activities\n\nA day in the life\nOur internship program provides hands-on learning and building experiences for students who are interested in a career in hardware engineering. In addition to working on an impactful project, you will have the opportunity to engage with Amazonians for both personal and professional development, expand your network, and participate in fun activities with other interns throughout the summer. No matter the location of your internship, we give you the tools to own your internship and learn in a real-world setting.\n\nBASIC QUALIFICATIONS\n• Are 18 years of age or older\n• Work 40 hours/week minimum and commit to 12 week internship maximum\n• Are enrolled in a academic program that is physically located in the United States\n• Knowledge of analog and digital skills\n• Knowledge of schematic design and debug skills\n• Experience with embedded systems\n• Currently working towards a Bachelor’s or Master's Degree in Mechanical Engineering, Electrical Engineering, Systems Engineering, or other equivalent discipline, with an expected conferral date between October 2026 – December 2029.\n\nPREFERRED QUALIFICATIONS\n• Experience that includes strong analytical skills, attention to detail, and effective communication abilities\n• Experience in manufacturing, process, or industrial engineering\n• Experience with lean methodologies\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe starting pay for this position is listed below. Final starting pay will be based on factors including experience, qualifications, and location. Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k) matching. Learn more about our benefits at https://hiring.amazon.com/why-amazon/benefits.\n\nUSA, WA, Seattle - 96,600.00 - 160,000.00 USD annually",
+    "job_description": "Job Description Summary\nAs a Lead Hardware Engineer for Critical Infrastructure Communications (CIC) at GE Grid Solutions, you will be responsible for leading the design of industrial grade wired and wireless communications products. CIC is seeking an experienced Electrical Engineer who is team-oriented, can thrive in the critical path, and has a demonstrated track record of bringing a broad range of products from concept to production. A successful candidate will have practical circuit-level design and troubleshooting experience in a laboratory environment. The ideal candidate should have working knowledge at the product level, as the candidate will be responsible for various aspects of the design throughout the product lifecycle including production. The successful candidate must also be capable of working collaboratively with peers in an international engineering organization to ensure design goals are met and critical trade-offs are identified. This role requires strong written and verbal communication skills to accurately convey complex solutions to audiences of varying technical expertise on a cross-functional team spanning multiple sites.\n\nAbout us:Grid Solutions, a GE Vernova business, serves customers globally with over 12,000 employees. We are focused on bringing together technologies and expertise to help solve the toughest power system challenges, accelerating the global transition to a more resilient and reliable grid. For more about GE’s Grid Solutions, visit https://www.gevernova.com/grid-solutions/.\n\nJob Description\n\nRoles and Responsibilities:\n• Contribute to the hardware development of industrial-grade communications equipment by applying principles and techniques of electrical engineering, circuit design, and analysis.\n• Complete the analysis and design of digital and mixed-signal communications circuitry including MCU, CPU, flash, Ethernet, and USB considering EMC, thermal, mechanical, and electrical safety constraints.\n• Complete schematic and PCB layouts containing digital, analog, and RF circuitry.\n• Create new components and maintain component database.\n• Create production documentation including top level bills of material and label specifications.\n• Perform sustaining engineer activities for legacy products by mitigating component shortages through qualifying alternatives or redesigning circuits and sub-assemblies to address obsolescence.\n• Distill product requirements into technical requirements, estimate scope of work, and develop hardware concept designs as required to meet project deadlines.\n• Work onsite with a team of Electrical and Embedded Firmware Engineers in an office/lab environment.\n• Perform and document the results of circuit level validation testing.\n• Ensure compliance to product safety, emissions, and performance standards supporting 3rd party certification labs as needed.\n• Support and troubleshoot existing product design deficiencies reported by customers and manufacturing.\n• Perform MTBF and reliability data for the individual product subsystems.\n• Provide support and specifications to Manufacturing and Test Engineering teams.\n\nRequired Qualifications:\n• Bachelor’s degree in Engineering with 8-10 years of prior hardware design experience and product development ideally in telecommunication products.\n• Minimum of 8 years of experience with hardware design.\n• Familiarity with emissions standards including FCC, IC, ETSI, Anatel, or ACMA.\n\nDesired Characteristics:\n• Experience with communication interfaces and protocols (ex. Ethernet, USB, I2C, SPI, etc).\n• Familiarity with safety standards including EN62368-1 and EN6095-1.\n• Proven knowledge of EMC and environmental standards required for CE Mark certification of telecommunication products.\n• Ability to multi-task, prioritize tasks, and quickly adapt in a fast-paced engineering environment.\n• Experience with Altium Designer.\n• Ability to solder/desolder surface mount and through hole components using a soldering station and heat gun.\n• Experience using signal generators, network analyzers, and spectrum analyzers.\n• Ability to work collaboratively with an international development team.\n• Experience with MCU, SoC, and modem Integration for 4G LTE, 5G, and WiFi technologies.\n• Demonstrated ability to work autonomously and collaborate with a team to resolve technical issues.\n• Demonstrated ability to produce Hardware Design Specifications and other relevant design documentation.\n• Strong interpersonal and leadership skills.\n\nGE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.\n\nGE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable).\n\nRelocation Assistance Provided: Yes\n\nFor candidates applying to a U.S. based position, the pay range for this position is between $89,300.00 and $148,700.00. The Company pays a geographic differential of 110%, 120% or 130% of salary in certain areas. The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set.\n\nBonus eligibility: ineligible.\n\nThis posting is expected to remain open for at least seven days after it was posted on January 28, 2026.\n\nAvailable benefits include medical, dental, vision, and prescription drug coverage; access to Health Coach from GE Vernova, a 24/7 nurse-based resource; and access to the Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral services. Retirement benefits include the GE Vernova Retirement Savings Plan, a tax-advantaged 401(k) savings opportunity with company matching contributions and company retirement contributions, as well as access to Fidelity resources and financial planning consultants. Other benefits include tuition assistance, adoption assistance, paid parental leave, disability benefits, life insurance, 12 paid holidays, and permissive time off.\n\nGE Vernova Inc. or its affiliates (collectively or individually, “GE Vernova”) sponsor certain employee benefit plans or programs GE Vernova reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a GE Vernova welfare benefit plan or program. This document does not create a contract of employment with any individual.",
     "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770076800,
-    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
-    "job_location": "Seattle, WA",
-    "job_city": "Seattle",
-    "job_state": "Washington",
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Rochester, NY",
+    "job_city": "Rochester",
+    "job_state": "New York",
     "job_country": "US",
-    "job_latitude": 47.6061389,
-    "job_longitude": -122.33284809999999,
+    "job_latitude": 43.156577899999995,
+    "job_longitude": -77.6088465,
     "job_benefits": [
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIozW1FMf1VHG_yKuAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 96600,
-    "job_max_salary": 160000,
-    "job_salary_period": "YEAR",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DeunV6q7Z6HJj35ZeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Due to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum",
-        "You must be responsive, flexible, and able to thrive in an open collaborative environment",
-        "Are 18 years of age or older",
-        "Work 40 hours/week minimum and commit to 12 week internship maximum",
-        "Are enrolled in a academic program that is physically located in the United States",
-        "Knowledge of analog and digital skills",
-        "Knowledge of schematic design and debug skills",
-        "Experience with embedded systems",
-        "Currently working towards a Bachelor’s or Master's Degree in Mechanical Engineering, Electrical Engineering, Systems Engineering, or other equivalent discipline, with an expected conferral date between October 2026 – December 2029"
+        "A successful candidate will have practical circuit-level design and troubleshooting experience in a laboratory environment",
+        "The ideal candidate should have working knowledge at the product level, as the candidate will be responsible for various aspects of the design throughout the product lifecycle including production",
+        "The successful candidate must also be capable of working collaboratively with peers in an international engineering organization to ensure design goals are met and critical trade-offs are identified",
+        "This role requires strong written and verbal communication skills to accurately convey complex solutions to audiences of varying technical expertise on a cross-functional team spanning multiple sites",
+        "Bachelor’s degree in Engineering with 8-10 years of prior hardware design experience and product development ideally in telecommunication products",
+        "Minimum of 8 years of experience with hardware design",
+        "Familiarity with emissions standards including FCC, IC, ETSI, Anatel, or ACMA",
+        "Ethernet, USB, I2C, SPI, etc)",
+        "Familiarity with safety standards including EN62368-1 and EN6095-1",
+        "Proven knowledge of EMC and environmental standards required for CE Mark certification of telecommunication products",
+        "Ability to multi-task, prioritize tasks, and quickly adapt in a fast-paced engineering environment",
+        "Experience with Altium Designer",
+        "Ability to solder/desolder surface mount and through hole components using a soldering station and heat gun",
+        "Experience using signal generators, network analyzers, and spectrum analyzers",
+        "Ability to work collaboratively with an international development team",
+        "Experience with MCU, SoC, and modem Integration for 4G LTE, 5G, and WiFi technologies",
+        "Demonstrated ability to work autonomously and collaborate with a team to resolve technical issues",
+        "Demonstrated ability to produce Hardware Design Specifications and other relevant design documentation",
+        "Strong interpersonal and leadership skills"
       ],
       "Benefits": [
-        "No matter the location of your internship, we give you the tools to own your internship and learn in a real-world setting",
-        "Final starting pay will be based on factors including experience, qualifications, and location",
-        "Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k) matching"
+        "GE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation",
+        "For candidates applying to a U.S. based position, the pay range for this position is between $89,300.00 and $148,700.00",
+        "The Company pays a geographic differential of 110%, 120% or 130% of salary in certain areas",
+        "The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set",
+        "Available benefits include medical, dental, vision, and prescription drug coverage; access to Health Coach from GE Vernova, a 24/7 nurse-based resource; and access to the Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral services",
+        "Retirement benefits include the GE Vernova Retirement Savings Plan, a tax-advantaged 401(k) savings opportunity with company matching contributions and company retirement contributions, as well as access to Fidelity resources and financial planning consultants",
+        "Other benefits include tuition assistance, adoption assistance, paid parental leave, disability benefits, life insurance, 12 paid holidays, and permissive time off",
+        "GE Vernova Inc. or its affiliates (collectively or individually, “GE Vernova”) sponsor certain employee benefit plans or programs GE Vernova reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion"
       ],
       "Responsibilities": [
-        "Specific team norms around working hours will be communicated by your manager",
-        "Interns should not have conflicts such as classes or other employment during the Amazon work-day",
-        "You will be part of a project team you will work alongside Senior Electrical Engineers; supporting the design, debug, validation and optimization of the products",
-        "You will be involved in projects from concept through production, gaining exposure to the complete design lifecycle",
-        "You will also support engineering builds gaining experience with high volume manufacturing",
-        "As a Hardware Development Engineer intern you will collaborate with experienced cross-functional teams to develop and implement quality systems for Amazon Leo's satellite manufacturing operations",
-        "You will work closely with internal teams and external partners to drive quality assurance, process improvements, and testing protocols",
-        "Develop quality control plans, MSAs, and statistical process control systems",
-        "Perform data analysis using Lean Six Sigma methodologies and analytical tools",
-        "Support continuous improvement initiatives and manufacturing execution systems",
-        "Conduct fixture and tooling design validation and debug activities"
+        "As a Lead Hardware Engineer for Critical Infrastructure Communications (CIC) at GE Grid Solutions, you will be responsible for leading the design of industrial grade wired and wireless communications products",
+        "CIC is seeking an experienced Electrical Engineer who is team-oriented, can thrive in the critical path, and has a demonstrated track record of bringing a broad range of products from concept to production",
+        "Contribute to the hardware development of industrial-grade communications equipment by applying principles and techniques of electrical engineering, circuit design, and analysis",
+        "Complete the analysis and design of digital and mixed-signal communications circuitry including MCU, CPU, flash, Ethernet, and USB considering EMC, thermal, mechanical, and electrical safety constraints",
+        "Complete schematic and PCB layouts containing digital, analog, and RF circuitry",
+        "Create new components and maintain component database",
+        "Create production documentation including top level bills of material and label specifications",
+        "Perform sustaining engineer activities for legacy products by mitigating component shortages through qualifying alternatives or redesigning circuits and sub-assemblies to address obsolescence",
+        "Distill product requirements into technical requirements, estimate scope of work, and develop hardware concept designs as required to meet project deadlines",
+        "Work onsite with a team of Electrical and Embedded Firmware Engineers in an office/lab environment",
+        "Perform and document the results of circuit level validation testing",
+        "Ensure compliance to product safety, emissions, and performance standards supporting 3rd party certification labs as needed",
+        "Support and troubleshoot existing product design deficiencies reported by customers and manufacturing",
+        "Perform MTBF and reliability data for the individual product subsystems",
+        "Provide support and specifications to Manufacturing and Test Engineering teams"
       ]
     },
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
-    "id": "www-indeed-com-viewjob",
+    "id": "careers-gevernova-com-lead-hardware-engineer-digital-design-industrialization-job-r5030236",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "0CBCY9z_68dTpnQDAAAAAA==",
+    "job_title": "Manager, Hardware Design Engineering - Full-time",
+    "employer_name": "Celestica",
+    "employer_logo": null,
+    "employer_website": "https://www.celestica.com",
+    "job_publisher": "Snagajob",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.snagajob.com/jobs/1186182767?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1186182767?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Req ID: 130115\n\nRegion: Americas\n\nCountry: USA\n\nState/Province: California\n\nCity: San Jose\n• *Summary**\n\nThe Manager, Hardware Design Engineering manages cross functional teams with other designers, customers, manufacturing engineering and project leadership to ensure robust and high quality product development. Enhance designs with feedback from reviews in areas such as manufacturing, test, supply chain, reliability, industrial design and simulations. Provide support throughout the manufacturing process of the electrical/mechanical system that they have designed.\n\nThe Manager, Hardware Design Engineering is responsible for leading and managing the work of developing new electrical systems/circuits for various applications. Research system ideas and draw up plans for these systems, and capture them in schematics and system specifications. Test, simulate, validate and qualify their systems and make adjustments as needed\n• *Detailed Description**\n\nPerforms tasks such as, but not limited to, the following:\n\n+ Lead the design, development and implementation of technical solutions for complex projects, involving multiple domains. Participate in project planning and scheduling. .\n\n+ Take responsibility for non-technical elements of an engineering project (people, financials etc.).\n\n+ Review and interpret customer requirements/specifications and may act as primary customer contract.\n\n+ Analyze trade-offs in complex systems and recommend solutions. Develops deployment strategies and plans.\n\n+ Lead the deployment of strategic complex programs and coordinate site-wide deployment efforts.\n\n+ Creation of Schematics, Bills of material, diagrams, drawings, etc.\n\n+ Analyzing and interpreting data and information\n\n+ Creating reports and documentation\n\n+ May manage relationships with key vendors/partners.\n\n+ Research systems ideas and will draw up plans for these systems\n\n+ Design, modify and implement systems that meet customer and Celestica needs.\n\n+ Create designs in line with Celesticas procedures, regulations and customer standards\n\n+ Keep up to date with relevant industry knowledge and regulations\n\n+ Solve complex problems\n\n+ Liaison with suppliers, customers, contractors, and other internal teams.\n\n+ Recommend system modifications\n\n+ Set yearly plans and goals for the department, give direction on expected performance, provide regular performance evaluations and ongoing feedback. Accountable for all department objectives and achieving agreed targets for key performance indicators.\n• *Physical Demands**\n\n+ Duties of this position are performed in a normal office environment.\n\n+ Duties may require extended periods of sitting and sustained visual concentration on a computer monitor or on numbers and other detailed data.\n\n+ Repetitive manual movements (e.g., data entry, using a computer mouse, using a calculator, etc.) are frequently required.\n\n+ Occasional travel may be required.\n• *Typical Experience**\n\n+ 7+ years of related experience; Experience in similar job roles\n• *Typical Education**\n\nBachelor degree or consideration of an equivalent combination of education and experience.\n\nEducational Requirements may vary by Geography\n• *Notes**\n\nThis job description is not intended to be an exhaustive list of all duties and responsibilities of the position. Employees are held accountable for all duties of the job. Job duties and the % of time identified for any function are subject to change at any time.\n\nThe salary range described in this posting is an estimate by the Company, and may change based on several factors, including by not limited to a change in the duties covered by the job posting, or the credentials, experience or geographic jurisdiction of the successful candidate. $150,000-205,000 USD/year\n\nCelestica is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, pregnancy, genetic information, disability, status as a protected veteran, or any other protected category under applicable federal, state, and local laws.\n\nThis policy applies to hiring, promotion, discharge, pay, fringe benefits, job training, classification, referral and other aspects of employment and also states that retaliation against a person who files a charge of discrimination, participates in a discrimination proceeding, or otherwise opposes an unlawful employment practice will not be tolerated. All information will be kept confidential according to EEO guidelines.\n\nCelestica is an E-Verify employer.\n• *COMPANY OVERVIEW:**\n\nCelestica (NYSE, TSX: CLS) enables the world’s best brands. Through our recognized customer-centric approach, we partner with leading companies in Aerospace and Defense, Communications, Enterprise, HealthTech, Industrial, Capital Equipment and Energy to deliver solutions for their most complex challenges. As a leader in design, manufacturing, hardware platform and supply chain solutions, Celestica brings global expertise and insight at every stage of product development – from drawing board to full-scale production and after-market services for products from advanced medical devices, to highly engineered aviation systems, to next-generation hardware platform solutions for the Cloud. Headquartered in Toronto, with talented teams spanning 40+ locations in 13 countries across the Americas, Europe and Asia, we imagine, develop and deliver a better future with our customers.\n\nCelestica would like to thank all applicants, however, only qualified applicants will be contacted.\n\nCelestica does not accept unsolicited resumes from recruitment agencies or fee based recruitment services.\n\nReq ID: 130115\n\nRegion: Americas\n\nCountry: USA\n\nState/Province: California\n\nCity: San Jose\n• *Summary**\n\nThe Manager, Hardware Design Engineering manages cross functional teams with other designers, customers, manufacturing engineering and project leadership to ensure robust and high quality product development. Enhance designs with feedback from reviews in areas such as manufacturing, test, supply chain, reliability, industrial design and simulations. Provide support throughout the manufacturing process of the electrical/mechanical system that they have designed.\n\nThe Manager, Hardware Design Engineering is responsible for leading and managing the work of developing new electrical systems/circuits for various applications. Research system ideas and draw up plans for these systems, and capture them in schematics and system specifications. Test, simulate, validate and qualify their systems and make adjustments as needed\n• *Detailed Description**\n\nPerforms tasks such as, but not limited to, the following:\n\n+ Lead the design, development and implementation of technical solutions for complex projects, involving multiple domains. Participate in project planning and scheduling. .\n\n+ Take responsibility for non-technical elements of an engineering project (people, financials etc.).\n\n+ Review and interpret customer requirements/specifications and may act as primary customer contract.\n\n+ Analyze trade-offs in complex systems and recommend solutions. Develops deployment strategies and plans.\n\n+ Lead the deployment of strategic complex programs and coordinate site-wide deployment efforts.\n\n+ Creation of Schematics, Bills of material, diagrams, drawings, etc.\n\n+ Analyzing and interpreting data and information\n\n+ Creating reports and documentation\n\n+ May manage relationships with key vendors/partners.\n\n+ Research systems ideas and will draw up plans for these systems\n\n+ Design, modify and implement systems that meet customer and Celestica needs.\n\n+ Create designs in line with Celesticas procedures, regulations and customer standards\n\n+ Keep up to date with relevant industry knowledge and regulations\n\n+ Solve complex problems\n\n+ Liaison with suppliers, customers, contractors, and other internal teams.\n\n+ Recommend system modifications\n\n+ Set yearly plans and goals for the department, give direction on expected performance, provide regular performance evaluations and ongoing feedback. Accountable for all department objectives and achieving agreed targets for key performance indicators.\n• *Physical Demands**\n\n+ Duties of this position are performed in a normal office environment.\n\n+ Duties may require extended periods of sitting and sustained visual concentration on a computer monitor or on numbers and other detailed data.\n\n+ Repetitive manual movements (e.g., data entry, using a computer mouse, using a calculator, etc.) are frequently required.\n\n+ Occasional travel may be required.\n• *Typical Experience**\n\n+ 7+ years of related experience; Experience in similar job roles\n• *Typical Education**\n\nBachelor degree or consideration of an equivalent combination of education and experience.\n\nEducational Requirements may vary by Geography\n• *Notes**\n\nThis job description is not intended to be an exhaustive list of all duties and responsibilities of the position. Employees are held accountable for all duties of the job. Job duties and the % of time identified for any function are subject to change at any time.\n\nThe salary range described in this posting is an estimate by the Company, and may change based on several factors, including by not limited to a change in the duties covered by the job posting, or the credentials, experience or geographic jurisdiction of the successful candidate. $150,000-205,000 USD/year\n\nCelestica is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, pregnancy, genetic information, disability, status as a protected veteran, or any other protected category under applicable federal, state, and local laws.\n\nThis policy applies to hiring, promotion, discharge, pay, fringe benefits, job training, classification, referral and other aspects of employment and also states that retaliation against a person who files a charge of discrimination, participates in a discrimination proceeding, or otherwise opposes an unlawful employment practice will not be tolerated. All information will be kept confidential according to EEO guidelines.\n\nCelestica is an E-Verify employer.\n• *COMPANY OVERVIEW:**\n\nCelestica (NYSE, TSX: CLS) enables the world’s best brands. Through our recognized customer-centric approach, we partner with leading companies in Aerospace and Defense, Communications, Enterprise, HealthTech, Industrial, Capital Equipment and Energy to deliver solutions for their most complex challenges. As a leader in design, manufacturing, hardware platform and supply chain solutions, Celestica brings global expertise and insight at every stage of product development – from drawing board to full-scale production and after-market services for products from advanced medical devices, to highly engineered aviation systems, to next-generation hardware platform solutions for the Cloud. Headquartered in Toronto, with talented teams spanning 40+ locations in 13 countries across the Americas, Europe and Asia, we imagine, develop and deliver a better future with our customers.\n\nCelestica would like to thank all applicants, however, only qualified applicants will be contacted.\n\nCelestica does not accept unsolicited resumes from recruitment agencies or fee based recruitment services.",
+    "job_is_remote": false,
+    "job_posted_at": "13 hours ago",
+    "job_posted_at_timestamp": 1771095600,
+    "job_posted_at_datetime_utc": "2026-02-14T19:00:00.000Z",
+    "job_location": "San Jose, CA",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.33874,
+    "job_longitude": -121.88525249999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0CBCY9z_68dTpnQDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Keep up to date with relevant industry knowledge and regulations",
+        "Repetitive manual movements (e.g., data entry, using a computer mouse, using a calculator, etc.) are frequently required",
+        "7+ years of related experience; Experience in similar job roles",
+        "Bachelor degree or consideration of an equivalent combination of education and experience",
+        "Keep up to date with relevant industry knowledge and regulations",
+        "Solve complex problems",
+        "Recommend system modifications",
+        "Repetitive manual movements (e.g., data entry, using a computer mouse, using a calculator, etc.) are frequently required",
+        "Occasional travel may be required",
+        "7+ years of related experience; Experience in similar job roles",
+        "Bachelor degree or consideration of an equivalent combination of education and experience",
+        "Educational Requirements may vary by Geography"
+      ],
+      "Responsibilities": [
+        "The Manager, Hardware Design Engineering manages cross functional teams with other designers, customers, manufacturing engineering and project leadership to ensure robust and high quality product development",
+        "Enhance designs with feedback from reviews in areas such as manufacturing, test, supply chain, reliability, industrial design and simulations",
+        "Provide support throughout the manufacturing process of the electrical/mechanical system that they have designed",
+        "The Manager, Hardware Design Engineering is responsible for leading and managing the work of developing new electrical systems/circuits for various applications",
+        "Research system ideas and draw up plans for these systems, and capture them in schematics and system specifications",
+        "Test, simulate, validate and qualify their systems and make adjustments as needed",
+        "*Detailed Description**",
+        "Lead the design, development and implementation of technical solutions for complex projects, involving multiple domains",
+        "Participate in project planning and scheduling. ",
+        "Take responsibility for non-technical elements of an engineering project (people, financials etc.)",
+        "Review and interpret customer requirements/specifications and may act as primary customer contract",
+        "Analyze trade-offs in complex systems and recommend solutions",
+        "Develops deployment strategies and plans",
+        "Lead the deployment of strategic complex programs and coordinate site-wide deployment efforts",
+        "Creation of Schematics, Bills of material, diagrams, drawings, etc",
+        "Analyzing and interpreting data and information",
+        "Creating reports and documentation",
+        "May manage relationships with key vendors/partners",
+        "Research systems ideas and will draw up plans for these systems",
+        "Design, modify and implement systems that meet customer and Celestica needs",
+        "Create designs in line with Celesticas procedures, regulations and customer standards",
+        "Solve complex problems",
+        "Liaison with suppliers, customers, contractors, and other internal teams",
+        "Recommend system modifications",
+        "Set yearly plans and goals for the department, give direction on expected performance, provide regular performance evaluations and ongoing feedback",
+        "Accountable for all department objectives and achieving agreed targets for key performance indicators",
+        "*Physical Demands**",
+        "Duties of this position are performed in a normal office environment",
+        "Duties may require extended periods of sitting and sustained visual concentration on a computer monitor or on numbers and other detailed data",
+        "Occasional travel may be required",
+        "Employees are held accountable for all duties of the job",
+        "The Manager, Hardware Design Engineering manages cross functional teams with other designers, customers, manufacturing engineering and project leadership to ensure robust and high quality product development",
+        "Enhance designs with feedback from reviews in areas such as manufacturing, test, supply chain, reliability, industrial design and simulations",
+        "Provide support throughout the manufacturing process of the electrical/mechanical system that they have designed",
+        "The Manager, Hardware Design Engineering is responsible for leading and managing the work of developing new electrical systems/circuits for various applications",
+        "Research system ideas and draw up plans for these systems, and capture them in schematics and system specifications",
+        "Test, simulate, validate and qualify their systems and make adjustments as needed",
+        "*Detailed Description**",
+        "Lead the design, development and implementation of technical solutions for complex projects, involving multiple domains",
+        "Participate in project planning and scheduling. ",
+        "Take responsibility for non-technical elements of an engineering project (people, financials etc.)",
+        "Review and interpret customer requirements/specifications and may act as primary customer contract",
+        "Analyze trade-offs in complex systems and recommend solutions",
+        "Develops deployment strategies and plans",
+        "Lead the deployment of strategic complex programs and coordinate site-wide deployment efforts",
+        "Creation of Schematics, Bills of material, diagrams, drawings, etc",
+        "Analyzing and interpreting data and information",
+        "Creating reports and documentation",
+        "May manage relationships with key vendors/partners",
+        "Research systems ideas and will draw up plans for these systems",
+        "Design, modify and implement systems that meet customer and Celestica needs",
+        "Create designs in line with Celesticas procedures, regulations and customer standards",
+        "Liaison with suppliers, customers, contractors, and other internal teams",
+        "Set yearly plans and goals for the department, give direction on expected performance, provide regular performance evaluations and ongoing feedback",
+        "Accountable for all department objectives and achieving agreed targets for key performance indicators",
+        "*Physical Demands**",
+        "Duties of this position are performed in a normal office environment",
+        "Duties may require extended periods of sitting and sustained visual concentration on a computer monitor or on numbers and other detailed data"
+      ]
+    },
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "www-snagajob-com-jobs-1186182767",
     "_source": "new_jobs"
   },
   {
@@ -2178,124 +2352,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "0CBCY9z_68dTpnQDAAAAAA==",
-    "job_title": "Manager, Hardware Design Engineering - Full-time",
-    "employer_name": "Celestica",
-    "employer_logo": null,
-    "employer_website": "https://www.celestica.com",
-    "job_publisher": "Snagajob",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.snagajob.com/jobs/1186182767?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Snagajob",
-        "apply_link": "https://www.snagajob.com/jobs/1186182767?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Req ID: 130115\n\nRegion: Americas\n\nCountry: USA\n\nState/Province: California\n\nCity: San Jose\n• *Summary**\n\nThe Manager, Hardware Design Engineering manages cross functional teams with other designers, customers, manufacturing engineering and project leadership to ensure robust and high quality product development. Enhance designs with feedback from reviews in areas such as manufacturing, test, supply chain, reliability, industrial design and simulations. Provide support throughout the manufacturing process of the electrical/mechanical system that they have designed.\n\nThe Manager, Hardware Design Engineering is responsible for leading and managing the work of developing new electrical systems/circuits for various applications. Research system ideas and draw up plans for these systems, and capture them in schematics and system specifications. Test, simulate, validate and qualify their systems and make adjustments as needed\n• *Detailed Description**\n\nPerforms tasks such as, but not limited to, the following:\n\n+ Lead the design, development and implementation of technical solutions for complex projects, involving multiple domains. Participate in project planning and scheduling. .\n\n+ Take responsibility for non-technical elements of an engineering project (people, financials etc.).\n\n+ Review and interpret customer requirements/specifications and may act as primary customer contract.\n\n+ Analyze trade-offs in complex systems and recommend solutions. Develops deployment strategies and plans.\n\n+ Lead the deployment of strategic complex programs and coordinate site-wide deployment efforts.\n\n+ Creation of Schematics, Bills of material, diagrams, drawings, etc.\n\n+ Analyzing and interpreting data and information\n\n+ Creating reports and documentation\n\n+ May manage relationships with key vendors/partners.\n\n+ Research systems ideas and will draw up plans for these systems\n\n+ Design, modify and implement systems that meet customer and Celestica needs.\n\n+ Create designs in line with Celesticas procedures, regulations and customer standards\n\n+ Keep up to date with relevant industry knowledge and regulations\n\n+ Solve complex problems\n\n+ Liaison with suppliers, customers, contractors, and other internal teams.\n\n+ Recommend system modifications\n\n+ Set yearly plans and goals for the department, give direction on expected performance, provide regular performance evaluations and ongoing feedback. Accountable for all department objectives and achieving agreed targets for key performance indicators.\n• *Physical Demands**\n\n+ Duties of this position are performed in a normal office environment.\n\n+ Duties may require extended periods of sitting and sustained visual concentration on a computer monitor or on numbers and other detailed data.\n\n+ Repetitive manual movements (e.g., data entry, using a computer mouse, using a calculator, etc.) are frequently required.\n\n+ Occasional travel may be required.\n• *Typical Experience**\n\n+ 7+ years of related experience; Experience in similar job roles\n• *Typical Education**\n\nBachelor degree or consideration of an equivalent combination of education and experience.\n\nEducational Requirements may vary by Geography\n• *Notes**\n\nThis job description is not intended to be an exhaustive list of all duties and responsibilities of the position. Employees are held accountable for all duties of the job. Job duties and the % of time identified for any function are subject to change at any time.\n\nThe salary range described in this posting is an estimate by the Company, and may change based on several factors, including by not limited to a change in the duties covered by the job posting, or the credentials, experience or geographic jurisdiction of the successful candidate. $150,000-205,000 USD/year\n\nCelestica is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, pregnancy, genetic information, disability, status as a protected veteran, or any other protected category under applicable federal, state, and local laws.\n\nThis policy applies to hiring, promotion, discharge, pay, fringe benefits, job training, classification, referral and other aspects of employment and also states that retaliation against a person who files a charge of discrimination, participates in a discrimination proceeding, or otherwise opposes an unlawful employment practice will not be tolerated. All information will be kept confidential according to EEO guidelines.\n\nCelestica is an E-Verify employer.\n• *COMPANY OVERVIEW:**\n\nCelestica (NYSE, TSX: CLS) enables the world’s best brands. Through our recognized customer-centric approach, we partner with leading companies in Aerospace and Defense, Communications, Enterprise, HealthTech, Industrial, Capital Equipment and Energy to deliver solutions for their most complex challenges. As a leader in design, manufacturing, hardware platform and supply chain solutions, Celestica brings global expertise and insight at every stage of product development – from drawing board to full-scale production and after-market services for products from advanced medical devices, to highly engineered aviation systems, to next-generation hardware platform solutions for the Cloud. Headquartered in Toronto, with talented teams spanning 40+ locations in 13 countries across the Americas, Europe and Asia, we imagine, develop and deliver a better future with our customers.\n\nCelestica would like to thank all applicants, however, only qualified applicants will be contacted.\n\nCelestica does not accept unsolicited resumes from recruitment agencies or fee based recruitment services.\n\nReq ID: 130115\n\nRegion: Americas\n\nCountry: USA\n\nState/Province: California\n\nCity: San Jose\n• *Summary**\n\nThe Manager, Hardware Design Engineering manages cross functional teams with other designers, customers, manufacturing engineering and project leadership to ensure robust and high quality product development. Enhance designs with feedback from reviews in areas such as manufacturing, test, supply chain, reliability, industrial design and simulations. Provide support throughout the manufacturing process of the electrical/mechanical system that they have designed.\n\nThe Manager, Hardware Design Engineering is responsible for leading and managing the work of developing new electrical systems/circuits for various applications. Research system ideas and draw up plans for these systems, and capture them in schematics and system specifications. Test, simulate, validate and qualify their systems and make adjustments as needed\n• *Detailed Description**\n\nPerforms tasks such as, but not limited to, the following:\n\n+ Lead the design, development and implementation of technical solutions for complex projects, involving multiple domains. Participate in project planning and scheduling. .\n\n+ Take responsibility for non-technical elements of an engineering project (people, financials etc.).\n\n+ Review and interpret customer requirements/specifications and may act as primary customer contract.\n\n+ Analyze trade-offs in complex systems and recommend solutions. Develops deployment strategies and plans.\n\n+ Lead the deployment of strategic complex programs and coordinate site-wide deployment efforts.\n\n+ Creation of Schematics, Bills of material, diagrams, drawings, etc.\n\n+ Analyzing and interpreting data and information\n\n+ Creating reports and documentation\n\n+ May manage relationships with key vendors/partners.\n\n+ Research systems ideas and will draw up plans for these systems\n\n+ Design, modify and implement systems that meet customer and Celestica needs.\n\n+ Create designs in line with Celesticas procedures, regulations and customer standards\n\n+ Keep up to date with relevant industry knowledge and regulations\n\n+ Solve complex problems\n\n+ Liaison with suppliers, customers, contractors, and other internal teams.\n\n+ Recommend system modifications\n\n+ Set yearly plans and goals for the department, give direction on expected performance, provide regular performance evaluations and ongoing feedback. Accountable for all department objectives and achieving agreed targets for key performance indicators.\n• *Physical Demands**\n\n+ Duties of this position are performed in a normal office environment.\n\n+ Duties may require extended periods of sitting and sustained visual concentration on a computer monitor or on numbers and other detailed data.\n\n+ Repetitive manual movements (e.g., data entry, using a computer mouse, using a calculator, etc.) are frequently required.\n\n+ Occasional travel may be required.\n• *Typical Experience**\n\n+ 7+ years of related experience; Experience in similar job roles\n• *Typical Education**\n\nBachelor degree or consideration of an equivalent combination of education and experience.\n\nEducational Requirements may vary by Geography\n• *Notes**\n\nThis job description is not intended to be an exhaustive list of all duties and responsibilities of the position. Employees are held accountable for all duties of the job. Job duties and the % of time identified for any function are subject to change at any time.\n\nThe salary range described in this posting is an estimate by the Company, and may change based on several factors, including by not limited to a change in the duties covered by the job posting, or the credentials, experience or geographic jurisdiction of the successful candidate. $150,000-205,000 USD/year\n\nCelestica is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, pregnancy, genetic information, disability, status as a protected veteran, or any other protected category under applicable federal, state, and local laws.\n\nThis policy applies to hiring, promotion, discharge, pay, fringe benefits, job training, classification, referral and other aspects of employment and also states that retaliation against a person who files a charge of discrimination, participates in a discrimination proceeding, or otherwise opposes an unlawful employment practice will not be tolerated. All information will be kept confidential according to EEO guidelines.\n\nCelestica is an E-Verify employer.\n• *COMPANY OVERVIEW:**\n\nCelestica (NYSE, TSX: CLS) enables the world’s best brands. Through our recognized customer-centric approach, we partner with leading companies in Aerospace and Defense, Communications, Enterprise, HealthTech, Industrial, Capital Equipment and Energy to deliver solutions for their most complex challenges. As a leader in design, manufacturing, hardware platform and supply chain solutions, Celestica brings global expertise and insight at every stage of product development – from drawing board to full-scale production and after-market services for products from advanced medical devices, to highly engineered aviation systems, to next-generation hardware platform solutions for the Cloud. Headquartered in Toronto, with talented teams spanning 40+ locations in 13 countries across the Americas, Europe and Asia, we imagine, develop and deliver a better future with our customers.\n\nCelestica would like to thank all applicants, however, only qualified applicants will be contacted.\n\nCelestica does not accept unsolicited resumes from recruitment agencies or fee based recruitment services.",
-    "job_is_remote": false,
-    "job_posted_at": "12 hours ago",
-    "job_posted_at_timestamp": 1771099200,
-    "job_posted_at_datetime_utc": "2026-02-14T20:00:00.000Z",
-    "job_location": "San Jose, CA",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.33874,
-    "job_longitude": -121.88525249999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0CBCY9z_68dTpnQDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Keep up to date with relevant industry knowledge and regulations",
-        "Repetitive manual movements (e.g., data entry, using a computer mouse, using a calculator, etc.) are frequently required",
-        "7+ years of related experience; Experience in similar job roles",
-        "Bachelor degree or consideration of an equivalent combination of education and experience",
-        "Keep up to date with relevant industry knowledge and regulations",
-        "Solve complex problems",
-        "Recommend system modifications",
-        "Repetitive manual movements (e.g., data entry, using a computer mouse, using a calculator, etc.) are frequently required",
-        "Occasional travel may be required",
-        "7+ years of related experience; Experience in similar job roles",
-        "Bachelor degree or consideration of an equivalent combination of education and experience",
-        "Educational Requirements may vary by Geography"
-      ],
-      "Responsibilities": [
-        "The Manager, Hardware Design Engineering manages cross functional teams with other designers, customers, manufacturing engineering and project leadership to ensure robust and high quality product development",
-        "Enhance designs with feedback from reviews in areas such as manufacturing, test, supply chain, reliability, industrial design and simulations",
-        "Provide support throughout the manufacturing process of the electrical/mechanical system that they have designed",
-        "The Manager, Hardware Design Engineering is responsible for leading and managing the work of developing new electrical systems/circuits for various applications",
-        "Research system ideas and draw up plans for these systems, and capture them in schematics and system specifications",
-        "Test, simulate, validate and qualify their systems and make adjustments as needed",
-        "*Detailed Description**",
-        "Lead the design, development and implementation of technical solutions for complex projects, involving multiple domains",
-        "Participate in project planning and scheduling. ",
-        "Take responsibility for non-technical elements of an engineering project (people, financials etc.)",
-        "Review and interpret customer requirements/specifications and may act as primary customer contract",
-        "Analyze trade-offs in complex systems and recommend solutions",
-        "Develops deployment strategies and plans",
-        "Lead the deployment of strategic complex programs and coordinate site-wide deployment efforts",
-        "Creation of Schematics, Bills of material, diagrams, drawings, etc",
-        "Analyzing and interpreting data and information",
-        "Creating reports and documentation",
-        "May manage relationships with key vendors/partners",
-        "Research systems ideas and will draw up plans for these systems",
-        "Design, modify and implement systems that meet customer and Celestica needs",
-        "Create designs in line with Celesticas procedures, regulations and customer standards",
-        "Solve complex problems",
-        "Liaison with suppliers, customers, contractors, and other internal teams",
-        "Recommend system modifications",
-        "Set yearly plans and goals for the department, give direction on expected performance, provide regular performance evaluations and ongoing feedback",
-        "Accountable for all department objectives and achieving agreed targets for key performance indicators",
-        "*Physical Demands**",
-        "Duties of this position are performed in a normal office environment",
-        "Duties may require extended periods of sitting and sustained visual concentration on a computer monitor or on numbers and other detailed data",
-        "Occasional travel may be required",
-        "Employees are held accountable for all duties of the job",
-        "The Manager, Hardware Design Engineering manages cross functional teams with other designers, customers, manufacturing engineering and project leadership to ensure robust and high quality product development",
-        "Enhance designs with feedback from reviews in areas such as manufacturing, test, supply chain, reliability, industrial design and simulations",
-        "Provide support throughout the manufacturing process of the electrical/mechanical system that they have designed",
-        "The Manager, Hardware Design Engineering is responsible for leading and managing the work of developing new electrical systems/circuits for various applications",
-        "Research system ideas and draw up plans for these systems, and capture them in schematics and system specifications",
-        "Test, simulate, validate and qualify their systems and make adjustments as needed",
-        "*Detailed Description**",
-        "Lead the design, development and implementation of technical solutions for complex projects, involving multiple domains",
-        "Participate in project planning and scheduling. ",
-        "Take responsibility for non-technical elements of an engineering project (people, financials etc.)",
-        "Review and interpret customer requirements/specifications and may act as primary customer contract",
-        "Analyze trade-offs in complex systems and recommend solutions",
-        "Develops deployment strategies and plans",
-        "Lead the deployment of strategic complex programs and coordinate site-wide deployment efforts",
-        "Creation of Schematics, Bills of material, diagrams, drawings, etc",
-        "Analyzing and interpreting data and information",
-        "Creating reports and documentation",
-        "May manage relationships with key vendors/partners",
-        "Research systems ideas and will draw up plans for these systems",
-        "Design, modify and implement systems that meet customer and Celestica needs",
-        "Create designs in line with Celesticas procedures, regulations and customer standards",
-        "Liaison with suppliers, customers, contractors, and other internal teams",
-        "Set yearly plans and goals for the department, give direction on expected performance, provide regular performance evaluations and ongoing feedback",
-        "Accountable for all department objectives and achieving agreed targets for key performance indicators",
-        "*Physical Demands**",
-        "Duties of this position are performed in a normal office environment",
-        "Duties may require extended periods of sitting and sustained visual concentration on a computer monitor or on numbers and other detailed data"
-      ]
-    },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "www-snagajob-com-jobs-1186182767",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "fxGE3vad7pyilcOMAAAAAA==",
     "job_title": "Senior Hardware Design Engineer",
     "employer_name": "Goodwin Recruiting",
@@ -2370,134 +2426,112 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "eunV6q7Z6HJj35ZeAAAAAA==",
-    "job_title": "Lead Hardware Engineer - Digital Design, Industrialization",
-    "employer_name": "GE Vernova",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpGN-UL04guDxaKDmitRLx-yMPrA7ZpK-y_SGX&s=0",
-    "employer_website": "https://www.gevernova.com",
-    "job_publisher": "GE Vernova Careers",
+    "job_id": "IozW1FMf1VHG_yKuAAAAAA==",
+    "job_title": "Hardware Development Engineer Internship – 2026 (US), Leo Manufacturing",
+    "employer_name": "Amazon.com Services LLC",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpHPsPCtT7v0dsfLzY7WalItl5ZK269S36ESB&s=0",
+    "employer_website": "https://www.amazon.com",
+    "job_publisher": "Indeed",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://careers.gevernova.com/lead-hardware-engineer-digital-design-industrialization/job/R5030236?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
+    "job_apply_link": "https://www.indeed.com/viewjob?jk=28e8b56bcad76e08&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "GE Vernova Careers",
-        "apply_link": "https://careers.gevernova.com/lead-hardware-engineer-digital-design-industrialization/job/R5030236?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Workday",
-        "apply_link": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rochester/Lead-Hardware-Engineer---Digital-Design--Industrialization_R5030236-3/apply?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=846b72f29079b193&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.indeed.com/viewjob?jk=28e8b56bcad76e08&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/GE-Vernova/Job/Lead-Hardware-Engineer-Digital-Design,-Industrialization/-in-Rochester,NY?jid=b01a42b1148e667f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.ziprecruiter.com/c/Qumulo/Job/Software-Development-Engineer-Internship-(Winter,-Spring,-or-Summer-26)/-in-Seattle,WA?jid=253179da9355214d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
-        "publisher": "Monster",
-        "apply_link": "https://www.monster.com/job-openings/lead-hardware-engineer-digital-design-industrialization-rochester-ny--3029a162-297e-4c09-b01e-76137f1613be?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/hardware-development-engineer-internship_7ea1a835888bac7331fb2e413040497ba8734?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/JRlEEJOtov0PutXiQZ4yojLYF37QB20_mB3CQ2KkZcWulhkPgWAHPw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "MyGwork",
+        "apply_link": "https://mygwork.com/jobs/amazon-hardware-development-engineer-internship-2026-us-leo-manufacturing?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/hardware-development-engineer-internship-%E2%80%93-2026-us-leo-manufacturing-amazon-JV_IC1150505_KO0,68_KE69,75.htm?jl=1010020450669&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Manufacturing Engineer",
+        "apply_link": "https://www.ihiremanufacturingengineers.com/jobs/view/508574234?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/lead-hardware-engineer-digital-design-industrialization-at-ge-vernova-4366977050?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.linkedin.com/jobs/view/software-development-engineer-internship-winter-spring-or-summer-26-at-qumulo-4298154070?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "EarnBetter",
-        "apply_link": "https://earnbetter.com/app/job/01KG8VZM89PRSZ1F6A0XYKEXJM/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/31ce5a774eaae8ef00f1b90663092ad6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Job Description Summary\nAs a Lead Hardware Engineer for Critical Infrastructure Communications (CIC) at GE Grid Solutions, you will be responsible for leading the design of industrial grade wired and wireless communications products. CIC is seeking an experienced Electrical Engineer who is team-oriented, can thrive in the critical path, and has a demonstrated track record of bringing a broad range of products from concept to production. A successful candidate will have practical circuit-level design and troubleshooting experience in a laboratory environment. The ideal candidate should have working knowledge at the product level, as the candidate will be responsible for various aspects of the design throughout the product lifecycle including production. The successful candidate must also be capable of working collaboratively with peers in an international engineering organization to ensure design goals are met and critical trade-offs are identified. This role requires strong written and verbal communication skills to accurately convey complex solutions to audiences of varying technical expertise on a cross-functional team spanning multiple sites.\n\nAbout us:Grid Solutions, a GE Vernova business, serves customers globally with over 12,000 employees. We are focused on bringing together technologies and expertise to help solve the toughest power system challenges, accelerating the global transition to a more resilient and reliable grid. For more about GE’s Grid Solutions, visit https://www.gevernova.com/grid-solutions/.\n\nJob Description\n\nRoles and Responsibilities:\n• Contribute to the hardware development of industrial-grade communications equipment by applying principles and techniques of electrical engineering, circuit design, and analysis.\n• Complete the analysis and design of digital and mixed-signal communications circuitry including MCU, CPU, flash, Ethernet, and USB considering EMC, thermal, mechanical, and electrical safety constraints.\n• Complete schematic and PCB layouts containing digital, analog, and RF circuitry.\n• Create new components and maintain component database.\n• Create production documentation including top level bills of material and label specifications.\n• Perform sustaining engineer activities for legacy products by mitigating component shortages through qualifying alternatives or redesigning circuits and sub-assemblies to address obsolescence.\n• Distill product requirements into technical requirements, estimate scope of work, and develop hardware concept designs as required to meet project deadlines.\n• Work onsite with a team of Electrical and Embedded Firmware Engineers in an office/lab environment.\n• Perform and document the results of circuit level validation testing.\n• Ensure compliance to product safety, emissions, and performance standards supporting 3rd party certification labs as needed.\n• Support and troubleshoot existing product design deficiencies reported by customers and manufacturing.\n• Perform MTBF and reliability data for the individual product subsystems.\n• Provide support and specifications to Manufacturing and Test Engineering teams.\n\nRequired Qualifications:\n• Bachelor’s degree in Engineering with 8-10 years of prior hardware design experience and product development ideally in telecommunication products.\n• Minimum of 8 years of experience with hardware design.\n• Familiarity with emissions standards including FCC, IC, ETSI, Anatel, or ACMA.\n\nDesired Characteristics:\n• Experience with communication interfaces and protocols (ex. Ethernet, USB, I2C, SPI, etc).\n• Familiarity with safety standards including EN62368-1 and EN6095-1.\n• Proven knowledge of EMC and environmental standards required for CE Mark certification of telecommunication products.\n• Ability to multi-task, prioritize tasks, and quickly adapt in a fast-paced engineering environment.\n• Experience with Altium Designer.\n• Ability to solder/desolder surface mount and through hole components using a soldering station and heat gun.\n• Experience using signal generators, network analyzers, and spectrum analyzers.\n• Ability to work collaboratively with an international development team.\n• Experience with MCU, SoC, and modem Integration for 4G LTE, 5G, and WiFi technologies.\n• Demonstrated ability to work autonomously and collaborate with a team to resolve technical issues.\n• Demonstrated ability to produce Hardware Design Specifications and other relevant design documentation.\n• Strong interpersonal and leadership skills.\n\nGE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.\n\nGE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable).\n\nRelocation Assistance Provided: Yes\n\nFor candidates applying to a U.S. based position, the pay range for this position is between $89,300.00 and $148,700.00. The Company pays a geographic differential of 110%, 120% or 130% of salary in certain areas. The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set.\n\nBonus eligibility: ineligible.\n\nThis posting is expected to remain open for at least seven days after it was posted on January 28, 2026.\n\nAvailable benefits include medical, dental, vision, and prescription drug coverage; access to Health Coach from GE Vernova, a 24/7 nurse-based resource; and access to the Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral services. Retirement benefits include the GE Vernova Retirement Savings Plan, a tax-advantaged 401(k) savings opportunity with company matching contributions and company retirement contributions, as well as access to Fidelity resources and financial planning consultants. Other benefits include tuition assistance, adoption assistance, paid parental leave, disability benefits, life insurance, 12 paid holidays, and permissive time off.\n\nGE Vernova Inc. or its affiliates (collectively or individually, “GE Vernova”) sponsor certain employee benefit plans or programs GE Vernova reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a GE Vernova welfare benefit plan or program. This document does not create a contract of employment with any individual.",
+    "job_description": "DESCRIPTION\n\nAmazon Leo is Amazon’s low Earth orbit satellite network. Our mission is to deliver fast, reliable internet connectivity to customers beyond the reach of existing networks. From individual households to schools, hospitals, businesses, and government agencies, Amazon Leo will serve people and organizations operating in locations without reliable connectivity.\n\nExport Control Requirement:\nDue to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.\n\nAmazon internships across all seasons are full-time positions, and interns should expect to work in office, Monday-Friday, up to 40 hours per week typically between 8am-5pm. Specific team norms around working hours will be communicated by your manager. Interns should not have conflicts such as classes or other employment during the Amazon work-day.\n\nApplicants should have a minimum of one quarter/semester/trimester remaining in their studies after their internship concludes. By applying to this position, your application will be considered for all Hardware Development Engineering Intern roles at all locations we hire for in the United States including but not limited to: Greater Seattle Area (Seattle, Bellevue, Redmond), Greater Bay Area (San Francisco, Sunnyvale, Santa Clara), Greater DMV (DC, MD, VA), Greater Boston Area (Boston, North Reading), Greater Los Angeles Area (Los Angeles, Pasadena, Northridge), Detroit (MI), San Diego (CA).\n\nYou will be able to provide your preference of location and start date during the application process but, we cannot guarantee that we can meet your selection based on several factors including but not limited to the availability and business needs of this role. Finalization on the location and start dates available will be provided to you at the time of job offer.\n\nStart dates for our internships in this posting include the following periods:\n1. Winter (Starts January/February 2026)\n2. Summer (Starts May/June 2026)\n3. Fall (Starts August/September 2026)\n\nAt Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The intense focus we have on our customers is why we are one of the world’s most beloved brands. Customer obsession is part of our company DNA.\n\nYou will be part of a project team you will work alongside Senior Electrical Engineers; supporting the design, debug, validation and optimization of the products. You will be involved in projects from concept through production, gaining exposure to the complete design lifecycle. You will also support engineering builds gaining experience with high volume manufacturing.\n\nKey job responsibilities\nAs a Hardware Development Engineer intern you will collaborate with experienced cross-functional teams to develop and implement quality systems for Amazon Leo's satellite manufacturing operations. You will work closely with internal teams and external partners to drive quality assurance, process improvements, and testing protocols. You must be responsive, flexible, and able to thrive in an open collaborative environment.\n• Develop quality control plans, MSAs, and statistical process control systems\n• Perform data analysis using Lean Six Sigma methodologies and analytical tools\n• Support continuous improvement initiatives and manufacturing execution systems\n• Conduct fixture and tooling design validation and debug activities\n\nA day in the life\nOur internship program provides hands-on learning and building experiences for students who are interested in a career in hardware engineering. In addition to working on an impactful project, you will have the opportunity to engage with Amazonians for both personal and professional development, expand your network, and participate in fun activities with other interns throughout the summer. No matter the location of your internship, we give you the tools to own your internship and learn in a real-world setting.\n\nBASIC QUALIFICATIONS\n• Are 18 years of age or older\n• Work 40 hours/week minimum and commit to 12 week internship maximum\n• Are enrolled in a academic program that is physically located in the United States\n• Knowledge of analog and digital skills\n• Knowledge of schematic design and debug skills\n• Experience with embedded systems\n• Currently working towards a Bachelor’s or Master's Degree in Mechanical Engineering, Electrical Engineering, Systems Engineering, or other equivalent discipline, with an expected conferral date between October 2026 – December 2029.\n\nPREFERRED QUALIFICATIONS\n• Experience that includes strong analytical skills, attention to detail, and effective communication abilities\n• Experience in manufacturing, process, or industrial engineering\n• Experience with lean methodologies\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe starting pay for this position is listed below. Final starting pay will be based on factors including experience, qualifications, and location. Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k) matching. Learn more about our benefits at https://hiring.amazon.com/why-amazon/benefits.\n\nUSA, WA, Seattle - 96,600.00 - 160,000.00 USD annually",
     "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Rochester, NY",
-    "job_city": "Rochester",
-    "job_state": "New York",
+    "job_posted_at": "12 days ago",
+    "job_posted_at_timestamp": 1770076800,
+    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
+    "job_location": "Seattle, WA",
+    "job_city": "Seattle",
+    "job_state": "Washington",
     "job_country": "US",
-    "job_latitude": 43.156577899999995,
-    "job_longitude": -77.6088465,
+    "job_latitude": 47.6061389,
+    "job_longitude": -122.33284809999999,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DeunV6q7Z6HJj35ZeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIozW1FMf1VHG_yKuAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 96600,
+    "job_max_salary": 160000,
+    "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "A successful candidate will have practical circuit-level design and troubleshooting experience in a laboratory environment",
-        "The ideal candidate should have working knowledge at the product level, as the candidate will be responsible for various aspects of the design throughout the product lifecycle including production",
-        "The successful candidate must also be capable of working collaboratively with peers in an international engineering organization to ensure design goals are met and critical trade-offs are identified",
-        "This role requires strong written and verbal communication skills to accurately convey complex solutions to audiences of varying technical expertise on a cross-functional team spanning multiple sites",
-        "Bachelor’s degree in Engineering with 8-10 years of prior hardware design experience and product development ideally in telecommunication products",
-        "Minimum of 8 years of experience with hardware design",
-        "Familiarity with emissions standards including FCC, IC, ETSI, Anatel, or ACMA",
-        "Ethernet, USB, I2C, SPI, etc)",
-        "Familiarity with safety standards including EN62368-1 and EN6095-1",
-        "Proven knowledge of EMC and environmental standards required for CE Mark certification of telecommunication products",
-        "Ability to multi-task, prioritize tasks, and quickly adapt in a fast-paced engineering environment",
-        "Experience with Altium Designer",
-        "Ability to solder/desolder surface mount and through hole components using a soldering station and heat gun",
-        "Experience using signal generators, network analyzers, and spectrum analyzers",
-        "Ability to work collaboratively with an international development team",
-        "Experience with MCU, SoC, and modem Integration for 4G LTE, 5G, and WiFi technologies",
-        "Demonstrated ability to work autonomously and collaborate with a team to resolve technical issues",
-        "Demonstrated ability to produce Hardware Design Specifications and other relevant design documentation",
-        "Strong interpersonal and leadership skills"
+        "Due to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum",
+        "You must be responsive, flexible, and able to thrive in an open collaborative environment",
+        "Are 18 years of age or older",
+        "Work 40 hours/week minimum and commit to 12 week internship maximum",
+        "Are enrolled in a academic program that is physically located in the United States",
+        "Knowledge of analog and digital skills",
+        "Knowledge of schematic design and debug skills",
+        "Experience with embedded systems",
+        "Currently working towards a Bachelor’s or Master's Degree in Mechanical Engineering, Electrical Engineering, Systems Engineering, or other equivalent discipline, with an expected conferral date between October 2026 – December 2029"
       ],
       "Benefits": [
-        "GE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation",
-        "For candidates applying to a U.S. based position, the pay range for this position is between $89,300.00 and $148,700.00",
-        "The Company pays a geographic differential of 110%, 120% or 130% of salary in certain areas",
-        "The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set",
-        "Available benefits include medical, dental, vision, and prescription drug coverage; access to Health Coach from GE Vernova, a 24/7 nurse-based resource; and access to the Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral services",
-        "Retirement benefits include the GE Vernova Retirement Savings Plan, a tax-advantaged 401(k) savings opportunity with company matching contributions and company retirement contributions, as well as access to Fidelity resources and financial planning consultants",
-        "Other benefits include tuition assistance, adoption assistance, paid parental leave, disability benefits, life insurance, 12 paid holidays, and permissive time off",
-        "GE Vernova Inc. or its affiliates (collectively or individually, “GE Vernova”) sponsor certain employee benefit plans or programs GE Vernova reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion"
+        "No matter the location of your internship, we give you the tools to own your internship and learn in a real-world setting",
+        "Final starting pay will be based on factors including experience, qualifications, and location",
+        "Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k) matching"
       ],
       "Responsibilities": [
-        "As a Lead Hardware Engineer for Critical Infrastructure Communications (CIC) at GE Grid Solutions, you will be responsible for leading the design of industrial grade wired and wireless communications products",
-        "CIC is seeking an experienced Electrical Engineer who is team-oriented, can thrive in the critical path, and has a demonstrated track record of bringing a broad range of products from concept to production",
-        "Contribute to the hardware development of industrial-grade communications equipment by applying principles and techniques of electrical engineering, circuit design, and analysis",
-        "Complete the analysis and design of digital and mixed-signal communications circuitry including MCU, CPU, flash, Ethernet, and USB considering EMC, thermal, mechanical, and electrical safety constraints",
-        "Complete schematic and PCB layouts containing digital, analog, and RF circuitry",
-        "Create new components and maintain component database",
-        "Create production documentation including top level bills of material and label specifications",
-        "Perform sustaining engineer activities for legacy products by mitigating component shortages through qualifying alternatives or redesigning circuits and sub-assemblies to address obsolescence",
-        "Distill product requirements into technical requirements, estimate scope of work, and develop hardware concept designs as required to meet project deadlines",
-        "Work onsite with a team of Electrical and Embedded Firmware Engineers in an office/lab environment",
-        "Perform and document the results of circuit level validation testing",
-        "Ensure compliance to product safety, emissions, and performance standards supporting 3rd party certification labs as needed",
-        "Support and troubleshoot existing product design deficiencies reported by customers and manufacturing",
-        "Perform MTBF and reliability data for the individual product subsystems",
-        "Provide support and specifications to Manufacturing and Test Engineering teams"
+        "Specific team norms around working hours will be communicated by your manager",
+        "Interns should not have conflicts such as classes or other employment during the Amazon work-day",
+        "You will be part of a project team you will work alongside Senior Electrical Engineers; supporting the design, debug, validation and optimization of the products",
+        "You will be involved in projects from concept through production, gaining exposure to the complete design lifecycle",
+        "You will also support engineering builds gaining experience with high volume manufacturing",
+        "As a Hardware Development Engineer intern you will collaborate with experienced cross-functional teams to develop and implement quality systems for Amazon Leo's satellite manufacturing operations",
+        "You will work closely with internal teams and external partners to drive quality assurance, process improvements, and testing protocols",
+        "Develop quality control plans, MSAs, and statistical process control systems",
+        "Perform data analysis using Lean Six Sigma methodologies and analytical tools",
+        "Support continuous improvement initiatives and manufacturing execution systems",
+        "Conduct fixture and tooling design validation and debug activities"
       ]
     },
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
-    "id": "careers-gevernova-com-lead-hardware-engineer-digital-design-industrialization-job-r5030236",
+    "id": "www-indeed-com-viewjob",
     "_source": "new_jobs"
   }
 ]
