@@ -1,5 +1,105 @@
 [
   {
+    "job_id": "GFTkqYExWXIvGJ49AAAAAA==",
+    "job_title": "Senior FPGA Development Engineer, Bespoke Solutions",
+    "employer_name": "Amazon Development Center U.S., Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNhvF9EGO240KecCy-EZXI--1oeDiOBgHLdexL&s=0",
+    "employer_website": "https://aws.amazon.com",
+    "job_publisher": "Indeed",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.indeed.com/viewjob?jk=f7d0e4df86c21c60&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=f7d0e4df86c21c60&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-fpga-development-engineer-bespoke-solutions-at-amazon-web-services-aws-4342975032?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "USNLX Ability Jobs - National Labor Exchange",
+        "apply_link": "https://ability.usnlx.com/herndon-va/senior-fpga-development-engineer-bespoke-solutions/37216B2861944558B3E19356125A9A15/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Bandana.com",
+        "apply_link": "https://bandana.com/jobs/b7136e4e-891d-495d-aff7-78b1ffea0a3f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/digital-design?id=2336637256&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/herndon/virginia/engineering/4832628607/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "DESCRIPTION\n\nApplication deadline: Applications will be accepted on an ongoing basis\n\nAre you interested in developing high speed digital logic using the highest speeds and latest technology? Amazon is expanding Amazon Web Services (AWS) connectivity and is looking for help.\n\nAWS seeks a Senior FPGA Development Engineer with experience developing programmable logic on the most advanced FPGAs. They will help architect, develop, and integrate scalable FPGA systems in the AWS technology ecosystem.\n\nIf Arlington HQ (HQ2):\n\nThis role will sit in our new headquarters in Northern Virginia, where Amazon will invest $2.5 billion dollars, occupy 4 million square feet of energy efficient office space, and create at least 25,000 new full-time jobs. Our employees and the neighboring community will also benefit from the associated investments from the Commonwealth including infrastructure updates, public transportation improvements, and new access to Reagan National Airport.\n\nBy working together on behalf of our customers, we are building the future one innovative product, service, and idea at a time. Are you ready to embrace the challenge? Come build the future with us.\n\nThis position requires that the candidate selected be a US Citizen and currently possess and maintain an active Secret security clearance. The position further requires that, after start, the selected candidate obtain and maintain an active TS/SCI security clearance with polygraph or commensurate clearance for each government agency for which they perform AWS work.\n\n10012\n\nKey job responsibilities\n• Develop custom RTL and integrate with third party libraries to build end to end 100G+ solutions.\n• Collaborate with design and system engineers to perform tradeoffs and architect new solutions for customers.\n• Own the interface between software and hardware by developing drivers, and providing software examples.\n• Lead in design meetings to plan development and review peer designs.\n• Help identify new opportunities and new technologies to improve the customer experience and add features.\n\nA day in the life\nYou will work on a cross-functional team of hardware and software developers, writing programmable logic and embedded software to interact with custom hardware. You will debug RTL in simulation, synthesize and implement ensuring it meets timing and performance requirements. You help deploy RTL onto hardware targets and help debug issues that come along in RTL, hardware, or software. You will provide subject matter expertise in architectural discussions, and strategic planning meetings.\n\nWe develop AWS owned hardware solutions in order to scale globally, minimize cost, and maximize value for our customers. We are a growing team of hardware, software and FPGA engineers with a dedicated product development lab in Arlington, VA.\n\nAbout the team\nWhy AWS\n\nOur team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge-sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects that help our team members develop your engineering expertise so you feel empowered to take on more complex tasks in the future.\n\nDiverse Experiences\n\nAWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.\n\nAbout AWS\n\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.\n\nUtility Computing (UC)\n\nAWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (Iot), Platform, and Productivity Apps services in AWS.\n\nInclusive Team Culture\n\nAWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.\n\nMentorship & Career Growth\n\nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.\n\nWork/Life Balance\n\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.\n\nBASIC QUALIFICATIONS\n• Bachelor's degree in Computer Science, Computer Engineering, or Electrical Engineering\n• 5+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience\n• Experience programming with at least one software programming language\n• 7+ years of non-internship professional RTL development experience\n• 3+ years developing programmable logic in VHDL or Verilog for FPGA SOCs\n\nPREFERRED QUALIFICATIONS\n• Master's degree or Ph.D. degree in Electrical Engineering or related field\n• 7+ years of full RTL development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience\n• Experience developing programmable logic for FPGAs in VHDL or Verilog\n• Experience with Xilinx Ultrascale+ FPGAs, Versal ACAPs, and/or Intel Agilex SOCs\n• Experience developing programmable logic for 100G Networking Systems\n• Current, active US Government Security Clearance of Top Secret or above\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. For salaried roles, your Amazon package will include listed sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits/us-benefits-and-stock.\n\nColorado $159,200 - $215,300 annually\nNational $143,300 - $247,600 annually",
+    "job_is_remote": false,
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Herndon, VA",
+    "job_city": "Herndon",
+    "job_state": "Virginia",
+    "job_country": "US",
+    "job_latitude": 38.9695545,
+    "job_longitude": -77.3860976,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DGFTkqYExWXIvGJ49AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 159000,
+    "job_max_salary": 215000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "This position requires that the candidate selected be a US Citizen and currently possess and maintain an active Secret security clearance",
+        "Bachelor's degree in Computer Science, Computer Engineering, or Electrical Engineering",
+        "5+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience",
+        "Experience programming with at least one software programming language",
+        "7+ years of non-internship professional RTL development experience",
+        "3+ years developing programmable logic in VHDL or Verilog for FPGA SOCs"
+      ],
+      "Benefits": [
+        "Work/Life Balance",
+        "We value work-life harmony",
+        "For salaried roles, your Amazon package will include listed sign-on payments and restricted stock units (RSUs)",
+        "Final compensation will be determined based on factors including experience, qualifications, and location",
+        "Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave",
+        "National $143,300 - $247,600 annually"
+      ],
+      "Responsibilities": [
+        "They will help architect, develop, and integrate scalable FPGA systems in the AWS technology ecosystem",
+        "Develop custom RTL and integrate with third party libraries to build end to end 100G+ solutions",
+        "Collaborate with design and system engineers to perform tradeoffs and architect new solutions for customers",
+        "Own the interface between software and hardware by developing drivers, and providing software examples",
+        "Lead in design meetings to plan development and review peer designs",
+        "Help identify new opportunities and new technologies to improve the customer experience and add features",
+        "You will work on a cross-functional team of hardware and software developers, writing programmable logic and embedded software to interact with custom hardware",
+        "You will debug RTL in simulation, synthesize and implement ensuring it meets timing and performance requirements",
+        "You help deploy RTL onto hardware targets and help debug issues that come along in RTL, hardware, or software",
+        "You will provide subject matter expertise in architectural discussions, and strategic planning meetings"
+      ]
+    },
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "www-indeed-com-viewjob",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "i6x-XhIHti4wQemHAAAAAA==",
     "job_title": "FPGA Design Engineer (Active Secret Clearance required)",
     "employer_name": "RedBeard Solutions",
@@ -251,8 +351,8 @@
     "job_latitude": 39.5480789,
     "job_longitude": -104.9739333,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkQImm6qaplaz_3W1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -547,8 +647,8 @@
     "job_latitude": 39.7592225,
     "job_longitude": -84.1936144,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dma8Ml1E0SvGlMEHRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -592,122 +692,6 @@
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
     "id": "careers-geaerospace-com-global-en-job-gaogayglobalr5028280externalenglobal-senior-engineer-fpga-design",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "k8X7UmL_I68JcpkDAAAAAA==",
-    "job_title": "Senior FPGA Engineer, Xilinx Development",
-    "employer_name": "CACI",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8tQdq7ZytYyB8Uw1_ipSYgZgY_QM4JZ7YD80&s=0",
-    "employer_website": null,
-    "job_publisher": "CACI Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.caci.com/global/en/job/CACIGLOBAL321769EXTERNALENGLOBAL/Senior-FPGA-Engineer-Xilinx-Development?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "CACI Careers",
-        "apply_link": "https://careers.caci.com/global/en/job/CACIGLOBAL321769EXTERNALENGLOBAL/Senior-FPGA-Engineer-Xilinx-Development?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/CACI/Job/Senior-FPGA-Engineer,-Xilinx-Development/-in-Dulles,VA?jid=250c68856444ec57&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "ClearedJobs.Net",
-        "apply_link": "https://clearedjobs.net/job/senior-fpga-engineer-xilinx-development-dulles-virginia-1852125?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Tech Jobs Personalized",
-        "apply_link": "https://builtin.com/job/senior-fpga-engineer-xilinx-development/8403945?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=0ac2e8b0c028cf0a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Hispanic Today",
-        "apply_link": "https://hispanic-today.com/dulles-va/senior-fpga-engineer-xilinx-development/84B19E2005474BCC99B8C922FA483D77/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/senior-fpga-engineer-xilinx-development-dulles-caci-international-inc-4b705a99321d2922d6b52e46c5c88783?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/senior-fpga-engineer-xilinx-development-at-caci-international-inc-4369266648?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Title: Senior FPGA Engineer, Xilinx Development\n\nJob Category: Engineering\n\nTime Type: Full time\n\nMinimum Clearance Required to Start: Top Secret\n\nEmployee Type: Regular\n\nPercentage of Travel Required: Up to 10%\n\nType of Travel: Local\n• * *\n\nThe Senior FPGA Engineer is responsible for the architecture, design and development of digital signal processing applications utilizing Xilinx devices to be deployed on CACI designed tactical SIGINT/EW solutions. Designs include signal processing algorithms to support radio frequency (RF) software defined radio functionality, Signal Intelligence (SIGINT) applications, data communication with peripheral devices, and other capabilities as required. They will work closely with other hardware and software teams to define system specifications and architectures, to document detailed designs, and to implement, troubleshoot, and verify designs.\n\nDuties and Responsibilities:\n• Work within a team of scientists and engineers to architect and implement FPGA solutions for wideband RF signal collection and processing systems.\n• Design and Implement FGPA algorithms and techniques for signal detection, processing, and engagement in current generation FPGA devices.\n\nYou’ll Bring These Qualifications:\n• Bachelor's degree or equivalent, with 5+ years of related experience\n• Recent experience with design and implementation of software defined radio capabilities for FPGAs (e.g., Peak Detectors, Digital Filters, Modulation, Demodulation, CORDIC, FFT).\n• Experience with Xilinx Ultrascale and/or Versal FPGA families within an RFSOC architecture.\n• Experience with VHDL design entry, constraint, simulation, and synthesis tools using Xilinx Vivado.\n• Experience debugging FPGA-based systems using test equipment such as oscilloscopes, spectrum analyzers, network analyzers, signal generators, etc…\n• Experience with RF transceiver design, in a multitude of frequency ranges.\n• Active Top Secret clearance (US citizenship required) able to obtain SCI.\n\nThese Qualifications Would be Nice to Have:\n• Experience with interfacing FPGAs to ARM processors/microcontrollers.\n• Experience with C/C++ in either software or embedded firmware environments.\n• Experience with Embedded Linux on Single Board Computer (SBC) environments or PetaLinux on Xilinx platforms.\n• Experience with MATLAB, particularly with the HDL Coder or Embedded Coder product lines.\n• Experience with Altera FPGAs and their respective toolchains (Quartus, Signal Tap, etc…)\n\n-\n\n_________________________________________________________________________\n\nWhat You Can Expect:\n\nA culture of integrity.\n\nAt CACI, we place character and innovation at the center of everything we do. As a valued team member, you’ll be part of a high-performing group dedicated to our customer’s missions and driven by a higher purpose – to ensure the safety of our nation.\n\nAn environment of trust.\n\nCACI values the unique contributions that every employee brings to our company and our customers - every day. You’ll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality.\n\nA focus on continuous growth.\n\nTogether, we will advance our nation's most critical missions, build on our lengthy track record of business success, and find opportunities to break new ground — in your career and in our legacy.\n\nYour potential is limitless. So is ours.\n\n_________________________________________________________________________\n\nPay Range: There are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives. We offer competitive compensation, benefits and learning and development opportunities. Our broad and competitive mix of benefits options is designed to support and protect employees and their families. At CACI, you will receive comprehensive benefits such as; healthcare, wellness, financial, retirement, family support, continuing education, and time off benefits.\n\nThe proposed salary range for this position is:\n$94,400 - $198,200\n\nCACI is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, age, national origin, disability, status as a protected veteran, or any other protected characteristic.",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770508800,
-    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
-    "job_location": "Dulles, VA",
-    "job_city": "Dulles",
-    "job_state": "Virginia",
-    "job_country": "US",
-    "job_latitude": 38.9639112,
-    "job_longitude": -77.4496269,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dk8X7UmL_I68JcpkDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Minimum Clearance Required to Start: Top Secret",
-        "Bachelor's degree or equivalent, with 5+ years of related experience",
-        "Recent experience with design and implementation of software defined radio capabilities for FPGAs (e.g., Peak Detectors, Digital Filters, Modulation, Demodulation, CORDIC, FFT)",
-        "Experience with Xilinx Ultrascale and/or Versal FPGA families within an RFSOC architecture",
-        "Experience with VHDL design entry, constraint, simulation, and synthesis tools using Xilinx Vivado",
-        "Experience debugging FPGA-based systems using test equipment such as oscilloscopes, spectrum analyzers, network analyzers, signal generators, etc…",
-        "Experience with RF transceiver design, in a multitude of frequency ranges",
-        "Active Top Secret clearance (US citizenship required) able to obtain SCI",
-        "Experience with interfacing FPGAs to ARM processors/microcontrollers",
-        "Experience with C/C++ in either software or embedded firmware environments",
-        "Experience with Embedded Linux on Single Board Computer (SBC) environments or PetaLinux on Xilinx platforms",
-        "Experience with MATLAB, particularly with the HDL Coder or Embedded Coder product lines",
-        "Experience with Altera FPGAs and their respective toolchains (Quartus, Signal Tap, etc…)"
-      ],
-      "Benefits": [
-        "CACI values the unique contributions that every employee brings to our company and our customers - every day",
-        "You’ll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality",
-        "A focus on continuous growth",
-        "Pay Range: There are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications",
-        "Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives",
-        "We offer competitive compensation, benefits and learning and development opportunities",
-        "Our broad and competitive mix of benefits options is designed to support and protect employees and their families",
-        "At CACI, you will receive comprehensive benefits such as; healthcare, wellness, financial, retirement, family support, continuing education, and time off benefits",
-        "$94,400 - $198,200"
-      ],
-      "Responsibilities": [
-        "Percentage of Travel Required: Up to 10%",
-        "The Senior FPGA Engineer is responsible for the architecture, design and development of digital signal processing applications utilizing Xilinx devices to be deployed on CACI designed tactical SIGINT/EW solutions",
-        "Designs include signal processing algorithms to support radio frequency (RF) software defined radio functionality, Signal Intelligence (SIGINT) applications, data communication with peripheral devices, and other capabilities as required",
-        "They will work closely with other hardware and software teams to define system specifications and architectures, to document detailed designs, and to implement, troubleshoot, and verify designs",
-        "Work within a team of scientists and engineers to architect and implement FPGA solutions for wideband RF signal collection and processing systems",
-        "Design and Implement FGPA algorithms and techniques for signal detection, processing, and engagement in current generation FPGA devices"
-      ]
-    },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "careers-caci-com-global-en-job-caciglobal321769externalenglobal-senior-fpga-engineer-xilinx-development",
     "_source": "new_jobs"
   },
   {
@@ -767,9 +751,9 @@
     ],
     "job_description": "The application window is expected to close on: 02/12/2026\n\nJob posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nThe application window is expected to close on: 3/31/26.\n\nJob posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nThis is a hybrid role with three days per week at Cisco's Maynard, MA office.\n\nMeet the Team\n\nAcacia, now part of Cisco, designs intelligent optical transceivers using sophisticated signal processing and photonic integration for >1T bit speed fiber optic transmission market deployed in data center, metro, long-haul and ultra-long haul telecommunication networks. The team is a versatile and upbeat team of enthusiastic engineers in an environment where team members experience mutual enhancement and improvement. You will have the opportunity to collaborate cross-functionally with our Hardware, Software, Optics, and manufacturing teams.\n\nYour Impact\n\nYou are a high-energy FGPA Design engineer who loves to work on complex communications products. You are a team player with a startup mentality who loves to challenge the status quo with creation and innovation. You can figure things out by yourself, but you are comfortable to participate in our friendly and team-oriented collaboration approach to learn from others. You are not shy to point out how we can be more effective as a team, and yet you are open to similar suggestions by your team members to foster mutual growth for all.\n• Design/Verify FGPAs For Acacia's Product and Evaluation platform\n• Write Python routines for Test Development and Automation\n• Contribute to FPGA Emulation of ASIC Blocks\n• Contribute to our custom ASIC RTL code\n\nMinimum Qualifications:\n• Bachelors +8 years of experience, or Masters +6 years of experience, or PHD +3 years of experience of related experience or higher with minimum\n• 5+ years of FPGA design and verification experience\n• Experience in Verilog RTL coding and synthesis for FPGAs\n• Experience with Python and Linux\n• Experience designing interfaces with Processors, SPI & I2C devices, MDIO, high speed SERDES, etc.\n• Experience in Xilinx® design tool chain for design, place, and route (ISE®, Vivado® suite)\n\nPreferred Qualifications:\n• C/C++ and experience coding with embedded MCUs\n• Experience in designs and timing closure with multiple clock domains\n• Experience work in labs and experience with test equipment to help with board level and FPGA bring up\n• Experience with analog components (OpAmps, DACs/ADCs, etc.)\n• Experience implementing digital control loops and DSP functions\n• Experience with Xilinx FPGA families such as Ultrascale+\n• Experience with Synopsys VCS simulation and Synplify® synthesis tools for FPGAs\n• Expertise in creating FPGA implementations from ASIC RTL code\n• Expertise in digital design of standard cell ASICs\n• Experience presenting technical information to technical and non-technical audiences.\n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nThe starting salary range posted for this position is $148,800.00 to $212,900.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits.\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$168,800.00 - $277,400.00\n\nNon-Metro New York state & Washington state:\n$148,800.00 - $248,200.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
     "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
     "job_location": "Maynard, MA",
     "job_city": "Maynard",
     "job_state": "Massachusetts",
@@ -777,8 +761,8 @@
     "job_latitude": 42.4303138,
     "job_longitude": -71.460433,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVA_0IVQBnyoGpstyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -839,118 +823,59 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "VQ5VfbVcMREanKbYAAAAAA==",
-    "job_title": "FPGA Design Engineer -- Early-Career",
-    "employer_name": "Lockheed Martin",
-    "employer_logo": null,
-    "employer_website": "https://www.lockheedmartin.com",
-    "job_publisher": "Lockheed Martin Careers",
+    "job_id": "U3Dw7yE8FDZ6jD2EAAAAAA==",
+    "job_title": "Senior FPGA Engineer - Up to $600k 1st Year Total Compensation - Leading Fintech Firm - New York (Hybrid Working)",
+    "employer_name": "Hunter Bond",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgqf5DgpCX6Ql6O9h7qJZbMNAzeB-yWjfsIfG&s=0",
+    "employer_website": "https://www.hunterbond.com",
+    "job_publisher": "LinkedIn",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.lockheedmartinjobs.com/job/sunnyvale/fpga-design-engineer-early-career/694/91421454976?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/senior-fpga-engineer-up-to-%24600k-1st-year-total-compensation-leading-fintech-firm-new-york-hybrid-working-at-hunter-bond-4363169380?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Lockheed Martin Careers",
-        "apply_link": "https://www.lockheedmartinjobs.com/job/sunnyvale/fpga-design-engineer-early-career/694/91421454976?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Lockheed-Martin/Job/FPGA-Design-Engineer--Early-Career/-in-Sunnyvale,CA?jid=5cb851f7862c47fa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=817287f598e9dd33&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/3fe527e1-fccf-44a3-bd7f-55849f8c6fd6?q=Verilog&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/o2eftlc7duYICMT9B3LaPiKoZen0JfL6_LuluO6atIy5gsdihZcSaw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Iitjobs",
-        "apply_link": "https://www.iitjobs.com/job/design-engineer-iii-pcb-layout-engineer-sunnyvale-ca-usa-59886?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JSfirm.com",
-        "apply_link": "https://www.jsfirm.com/job/Engineering-FPGA-Design-Engineer----Early-Career/Sunnyvale-California/jobID_1850044?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/fpga-design-engineer_7ea1ae8e2945cf6e64de988f9c3dee1eed6ff?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-fpga-engineer-up-to-%24600k-1st-year-total-compensation-leading-fintech-firm-new-york-hybrid-working-at-hunter-bond-4363169380?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Description:By bringing together people that use their\npassion for purposeful innovation, at\nLockheed Martin we keep people safe and\nsolve the world's most complex challenges.\nOur people are some of the greatest minds\nin the industry and truly make Lockheed\nMartin a great place to work.\n\nWith our employees as our priority, we\nprovide diverse career opportunities\ndesigned to propel development and boost\nagility. Our flexible schedules, competitive\npay, and comprehensive benefits enable\nour employees to live a healthy, fulfilling\nlife at and outside of work.\n\nAt Lockheed Martin, we place an emphasis\non empowering our employees by\nfostering innovation, integrity, and\nexemplifying the epitome of corporate\nresponsibility.\n\nYour Mission is Ours.\n\nThe Silicon Solutions team of Lockheed Martin Space is building the best ASIC/FPGA team in the world, and are seeking a highly talented and motivated ASIC & FPGA Engineers who has a passion for microchip design and space.\n\nJoin Our Team as an ASIC & FPGA Design Engineer where you will support over 50 different programs and research and development (R&D) efforts, affecting technology across military space, civil space, commercial space, missiles, missile defense platforms, satellite surveillance platforms, deep space exploration, and manned flight missions.\nBasic Qualifications:\nBachelor of Science or higher from an accredited college in Electrical Engineering or related discipline from accredited school.\nExperience or coursework in the design of FPGA and/or ASIC devices.\nHDL programming experience with VHDL, Verilog, and/or SystemVerilog.\nWilling and able to obtain and maintain a DoD Secret clearance, thus US Citizenship is required for this position.\nDesired Skills:\nExperience or coursework in the design of FPGA and/or ASIC devices.\nExperience in ASIC / FPGA life cycle (architecture, design, simulation, verification, validation, integration & test).\nKnowledge of digital design, development, and simulation.\nClearance Level: None\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 9x80 every other Friday off\nPay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $68,000 - $119,830. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\n(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.\nThis position is incentive plan eligible.\nPay Rate: The annual base salary range for this position in most major metropolitan areas in California, Massachusetts, and New York is $78,200 - $135,470. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\nThis position is incentive plan eligible.\nLockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nAt Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.\n\nWith our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.\n\nIf this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.\nExperience Level: 4 yr and up College\nBusiness Unit: SPACE\nRelocation Available: Possible\nCareer Area: Electrical Engineering\nType: Full-Time\nShift: First",
+    "job_description": "Title: Senior FPGA Engineer\n\nLocation: New York City (Hybrid)\n\nFirm: Elite FinTech Firm\n\nCompensation: Up to $600k 1st Year Total Compensation\n\nI'm headhunting for the top 1% of FPGA Engineers for a top quant fund!\n\nThey are an Elite Tech Driven Firm who combine data, research, technology, and trading expertise to achieve industry-leading returns! They hire the best candidates in the country who all work for an elite team (they hire from the likes of HRT, Jump Trading, and Two Sigma).\n\nThey are a leading global quantitative trading firm built on a high-performance technology platform and a fast-paced engineering culture. The firm combines advanced research, world-class engineering, and systematic trading expertise to identify and execute unique market opportunities across global markets!\n\nThey foster a meritocratic, engineering-driven culture where small, entrepreneurial teams are empowered to innovate. With a strong focus on low-latency systems, FPGA acceleration, and scalable trading infrastructure, they provide the resources of a global organisation while maintaining a collaborative, no-ego environment.\n\nRequirements:\n• Bachelor's degree in Electrical/Electronic Engineering or related field.\n• 4+ years of experience in RTL design and verification for FPGAs using Verilog, SystemVerilog, or VHDL.\n• Experience with FPGA toolchains\n\nDesirable Skills:\n• Knowledge of networking protocols, such as Ethernet, UDP, TCP, etc.\n• Expertise within a Linux environment\n• Exposure to continuous integration and automated test tools.\n• Knowledge of Market Data protocols is a huge plus",
     "job_is_remote": false,
-    "job_posted_at": "10 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Sunnyvale, CA",
-    "job_city": "Sunnyvale",
-    "job_state": "California",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "United States",
+    "job_city": null,
+    "job_state": null,
     "job_country": "US",
-    "job_latitude": 37.368829999999996,
-    "job_longitude": -122.0363496,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVQ5VfbVcMREanKbYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 38.794595199999996,
+    "job_longitude": -106.5348379,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DU3Dw7yE8FDZ6jD2EAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Bachelor of Science or higher from an accredited college in Electrical Engineering or related discipline from accredited school",
-        "Experience or coursework in the design of FPGA and/or ASIC devices",
-        "HDL programming experience with VHDL, Verilog, and/or SystemVerilog",
-        "Willing and able to obtain and maintain a DoD Secret clearance, thus US Citizenship is required for this position",
-        "Experience or coursework in the design of FPGA and/or ASIC devices",
-        "Experience in ASIC / FPGA life cycle (architecture, design, simulation, verification, validation, integration & test)",
-        "Knowledge of digital design, development, and simulation",
-        "Experience Level: 4 yr and up College"
+        "Bachelor's degree in Electrical/Electronic Engineering or related field",
+        "4+ years of experience in RTL design and verification for FPGAs using Verilog, SystemVerilog, or VHDL",
+        "Experience with FPGA toolchains",
+        "Knowledge of networking protocols, such as Ethernet, UDP, TCP, etc",
+        "Expertise within a Linux environment",
+        "Exposure to continuous integration and automated test tools",
+        "Knowledge of Market Data protocols is a huge plus"
       ],
       "Benefits": [
-        "Our flexible schedules, competitive",
-        "pay, and comprehensive benefits enable",
-        "our employees to live a healthy, fulfilling",
-        "Schedules range from standard 40 hours over a five day work week while others may be condensed",
-        "These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits",
-        "Schedule for this Position: 9x80 every other Friday off",
-        "Pay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $68,000 - $119,830",
-        "Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays",
-        "(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays",
-        "Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays",
-        "PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year",
-        "This position is incentive plan eligible",
-        "Pay Rate: The annual base salary range for this position in most major metropolitan areas in California, Massachusetts, and New York is $78,200 - $135,470",
-        "Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays",
-        "This position is incentive plan eligible",
-        "Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work",
-        "Relocation Available: Possible"
-      ],
-      "Responsibilities": [
-        "designed to propel development and boost"
+        "Compensation: Up to $600k 1st Year Total Compensation"
       ]
     },
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
-    "id": "www-lockheedmartinjobs-com-job-sunnyvale-fpga-design-engineer-early-career-694-91421454976",
+    "id": "www-linkedin-com-jobs-view-senior-fpga-engineer-up-to-24600k-1st-year-total-compensation-leading-fintech-firm-new-york-hybrid-working-at-hunter-bond-4363169380",
     "_source": "new_jobs"
   },
   {
@@ -1131,8 +1056,8 @@
     "job_latitude": 42.8000049,
     "job_longitude": -73.89144069999999,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DuEkKd0w24vlB8wUfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1183,62 +1108,6 @@
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
     "id": "careers-gevernova-com-fr-fpga-design-lead-research-engineer-clearance-required-job-r5031219",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "U3Dw7yE8FDZ6jD2EAAAAAA==",
-    "job_title": "Senior FPGA Engineer - Up to $600k 1st Year Total Compensation - Leading Fintech Firm - New York (Hybrid Working)",
-    "employer_name": "Hunter Bond",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgqf5DgpCX6Ql6O9h7qJZbMNAzeB-yWjfsIfG&s=0",
-    "employer_website": "https://www.hunterbond.com",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/senior-fpga-engineer-up-to-%24600k-1st-year-total-compensation-leading-fintech-firm-new-york-hybrid-working-at-hunter-bond-4363169380?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/senior-fpga-engineer-up-to-%24600k-1st-year-total-compensation-leading-fintech-firm-new-york-hybrid-working-at-hunter-bond-4363169380?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Title: Senior FPGA Engineer\n\nLocation: New York City (Hybrid)\n\nFirm: Elite FinTech Firm\n\nCompensation: Up to $600k 1st Year Total Compensation\n\nI'm headhunting for the top 1% of FPGA Engineers for a top quant fund!\n\nThey are an Elite Tech Driven Firm who combine data, research, technology, and trading expertise to achieve industry-leading returns! They hire the best candidates in the country who all work for an elite team (they hire from the likes of HRT, Jump Trading, and Two Sigma).\n\nThey are a leading global quantitative trading firm built on a high-performance technology platform and a fast-paced engineering culture. The firm combines advanced research, world-class engineering, and systematic trading expertise to identify and execute unique market opportunities across global markets!\n\nThey foster a meritocratic, engineering-driven culture where small, entrepreneurial teams are empowered to innovate. With a strong focus on low-latency systems, FPGA acceleration, and scalable trading infrastructure, they provide the resources of a global organisation while maintaining a collaborative, no-ego environment.\n\nRequirements:\n• Bachelor's degree in Electrical/Electronic Engineering or related field.\n• 4+ years of experience in RTL design and verification for FPGAs using Verilog, SystemVerilog, or VHDL.\n• Experience with FPGA toolchains\n\nDesirable Skills:\n• Knowledge of networking protocols, such as Ethernet, UDP, TCP, etc.\n• Expertise within a Linux environment\n• Exposure to continuous integration and automated test tools.\n• Knowledge of Market Data protocols is a huge plus",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "United States",
-    "job_city": null,
-    "job_state": null,
-    "job_country": "US",
-    "job_latitude": 38.794595199999996,
-    "job_longitude": -106.5348379,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DU3Dw7yE8FDZ6jD2EAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor's degree in Electrical/Electronic Engineering or related field",
-        "4+ years of experience in RTL design and verification for FPGAs using Verilog, SystemVerilog, or VHDL",
-        "Experience with FPGA toolchains",
-        "Knowledge of networking protocols, such as Ethernet, UDP, TCP, etc",
-        "Expertise within a Linux environment",
-        "Exposure to continuous integration and automated test tools",
-        "Knowledge of Market Data protocols is a huge plus"
-      ],
-      "Benefits": [
-        "Compensation: Up to $600k 1st Year Total Compensation"
-      ]
-    },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "www-linkedin-com-jobs-view-senior-fpga-engineer-up-to-24600k-1st-year-total-compensation-leading-fintech-firm-new-york-hybrid-working-at-hunter-bond-4363169380",
     "_source": "new_jobs"
   },
   {
@@ -1397,9 +1266,9 @@
     "job_latitude": 47.673988099999995,
     "job_longitude": -122.121512,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDgQfIfRAl2sUVxWaAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 159000,
@@ -1514,94 +1383,235 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "88IG6NjZsIGHabK1AAAAAA==",
-    "job_title": "2026 Raytheon Full Time - FPGA Design Engineer II (Onsite)",
-    "employer_name": "RTX",
+    "job_id": "7cKFBzRKuMLDaoDqAAAAAA==",
+    "job_title": "FPGA Design Engineer Staff",
+    "employer_name": "Lockheed Martin",
     "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "RTX - Careers",
+    "employer_website": "https://www.lockheedmartin.com",
+    "job_publisher": "Lockheed Martin Careers",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://careers.rtx.com/ca/fr/job/01823163/2026-Raytheon-Full-Time-FPGA-Design-Engineer-II-Onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.lockheedmartinjobs.com/job/orlando/fpga-design-engineer-staff/694/91600575440?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "RTX - Careers",
-        "apply_link": "https://careers.rtx.com/ca/fr/job/01823163/2026-Raytheon-Full-Time-FPGA-Design-Engineer-II-Onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JSfirm.com",
-        "apply_link": "https://www.jsfirm.com/Engineering/2026+Raytheon+Full+Time+-+Effector+Power+Design+Engineer+I+(Onsite)/TUCSON-Arizona/jobID_1847096?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Energy Jobline",
-        "apply_link": "https://www.energyjobline.com/job/2026-raytheon-full-time-electrical-engineer-i-onsite-tucson-29294364?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "IHireEngineering",
-        "apply_link": "https://www.ihireengineering.com/jobs/view/509062116?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/effector-power-test-engineer-i_7ea1a2bbf1b61cff1804f68da5e04d94abbb6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Lockheed Martin Careers",
+        "apply_link": "https://www.lockheedmartinjobs.com/job/orlando/fpga-design-engineer-staff/694/91600575440?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Raytheon/Job/2026-Raytheon-Full-Time-FPGA-Design-Engineer-II-(Onsite)/-in-Tucson,AZ?jid=2ec5b4995ab89957&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.ziprecruiter.com/c/Lockheed-Martin/Job/FPGA-Design-Engineer-Staff/-in-Orlando,FL?jid=003a5f4dde12722e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/2026-raytheon-full-time-fpga-design-engineer-ii-onsite-at-raytheon-4371736703?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=36d93b28cb162c20&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/fpga-design-engineer-staff_0aa08a17-2c2b-44d9-a51b-7ce57e63ca84?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/a39de4bc-722f-4a5c-8404-47c003625090?q=2026+Full+Time++Raytheon+FPGA+Design+Engineer+I++Onsite&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.dice.com/job-detail/afc8b8b4-b9d5-4fe7-9e5f-91317d608b1e?q=cybersecurity+researcher&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/fpga-design-engineer-staff-at-lockheed-martin-4371212937?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Experteer",
+        "apply_link": "https://us.experteer.com/career/view-jobs/fpga-design-engineer-staff-orlando-fl-usa-56100310?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/698bfca20f6f7e7a2ce78c10?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Date Posted:\n2026-02-12\n\nCountry:\nUnited States of America\n\nLocation:\nUS-AZ-TUCSON-M02 1151 E Hermans Rd BLDG M02\n\nPosition Role Type:\nOnsite\n\nU.S. Citizen, U.S. Person, or Immigration Status Requirements:\nActive and transferable U.S. government issued security clearance is required prior to start date.​ U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance​\n\nSecurity Clearance Type:\nDoD Clearance: Secret\n\nSecurity Clearance Status:\nAbility to obtain INTERIM U.S. government issued security clearance is required prior to start date\n\nAt Raytheon, the foundation of everything we do is rooted in our values and a higher calling – to help our nation and allies defend freedoms and deter aggression. We bring the strength of more than 100 years of experience and renowned engineering expertise to meet the needs of today’s mission and stay ahead of tomorrow’s threat. Our team solves tough, meaningful problems that create a safer, more secure world.\n\nThe Digital Products department designs digital electronic circuit cards and electronic units, which are supported from proposal through transition to production. Our systems are subject to environments ranging from the frigid, sub-zero vacuum of space, to the blistering heat of the desert floor, to the high pressures of the ocean depths. We are seeking current college students willing to collaborate, innovate, and team with our engineers to generate and utilize today’s cutting-edge technology to design digital electronic circuits that implement missile guidance, video and digital signal processing. Our technology base includes high-speed digital electronics, configurable logic, and homogeneous / heterogeneous multiprocessor designs.\n\nQualifications You Must Have\n• Master’s degree in Electrical Engineering or related Science, Technology, Engineering and Mathematics (STEM) major.\n• Demonstrated experience with digital design and VHDL or Verilog coding.\n• Familiarity with Xilinx, Altera or Microsemi/Microchip FPGAs.\n• This position requires 12 months or less of relevant professional work experience (excluding internships).\n\nQualifications We Prefer\n• ABET is the preferred, although not required.\n• Demonstrated ability to work in a team.\n\nWhat We Offer\n• Our values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Safety, Trust, Respect, Accountability, Collaboration, and Innovation.\n• Relocation Eligibility\n\nLearn More & Apply Now!\n\nPlease consider the following role type definition as you apply for this role.\n• Onsite: Employees who are working in Onsite roles will work primarily onsite. This includes all production and maintenance employees, as they are essential to the development of our products.\n• Please upload a copy of your most recent transcripts with your resume when applying to this requisition. Include your cumulative GPA and projected graduation date on your resume.\n• This position requires a security clearance. DCSA Consolidated Adjudication Services (DCSA CAS), an agency of the Department of Defense, handles and adjudicates the security clearance process. More information about Security Clearances can be found on the US Department of State government website here: https://www.state.gov/m/ds/clearances/c10978.htm\n• Tucson, AZ: https://careers.rtx.com/global/en/raytheon-tucson,-az-location\n\nAs part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote.\n\nThe salary range for this role is 68,900 USD - 131,100 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.\n\nHired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.\n\nHired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.\n\nThis role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.\n\nRTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.\n\nRTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.\n\nPrivacy Policy and Terms:\n\nClick on this link to read the Policy and Terms",
+    "job_description": "Description:\n\nYou will be a FPGA Design & Verification Engineer at Lockheed Martin, responsible for designing, simulating, and integrating Field-Programmable Gate Arrays (FPGAs). Our team is looking for a talented engineer to join our team and support the development of cutting-edge technologies.\n\nWhat You Will Be Doing\nAs the FPGA Engineer you will perform requirements capture, design architecture, implementation, simulation, integration, and troubleshooting for the datalink FPGA designs that are being used to support a new capability. Your responsibilities will include:\n\n• Capturing and deriving requirements for FPGA designs\n• incorporate new crypto architecture leveraging existing NSA algorithms interfacing with data link radio module\n• RF waveform implementation and incorporation of Simulink/HDL Coder into FPGA design and low-speed messaging and communication with external peripherals\n• Working with Xilinx/AMD or Microchip FPGA to development solution for Complex Electronic System\n• Performing detailed design, simulation, and integration of FPGAs\n• Integrating, troubleshooting, and updating existing FPGA designs\n• Designing and implementing new FPGA designs for future capabilities\n• Supporting all FPGA designs, including:\n• External peripherals as well as High speed data interfaces.\n• Utilizing prior experience with Microchip FPGAs, Xilinx FPGAs, UVM, and GitLab to support FPGA design and development\n\nWhy Join Us\nDo you want to be part of a company culture that empowers employees to think big, lead with a growth mindset, and make the impossible a reality? We provide the resources and give you the flexibility to enable inspiration and focus. If you have the passion and courage to dream big, work hard, and have fun doing what you love then we want to build a better tomorrow with you.\n\nWe offer flexible work schedules to comprehensive benefits investing in your future and security, Learn more about Lockheed Martin’s comprehensive benefits package here.\n\nFurther Information About This Opportunity:\nThis position is in Orlando. Discover more about our Orlando, Florida location.\n\nMUST BE A U.S. CITIZEN - This position is located at a facility that requires special access. An active Secret Clearance with most recent investigation in the last 5 years is required to start.\nBasic Qualifications:\n-Bachelor’s degree or higher in Electrical or Computer Engineering.\n\n-Relevant experience with FPGA design and simulation verification.\nDesired Skills:\n- Strong communications, collaboration, and presentation skills\n- LM Design Experience\n- Missile Experience\n- MSEE, MSCE would be a plus.\n- Experience with System-Verilog, Verilog, C/C++, MatLab / Simulink, System Verilog languages; Synopsis Synplify, Synopsis VCS, NCSim, ChipScope tool sets desired.\n-Experience with Xilinx/AMD and MicroSemi/Microchip part families internal FPGA fabric and IP.\n- FPGA design experience with tools noted above.\n- Previous experience related to aerospace design techniques would be a plus.\n- Prior experience with Lockheed Marin MFC is a plus\n- Experience Implementing NSA algorithms (i.e. AES, counter mode, etc)\n- Experience with management of Configuration Control (GitLab preferred)\n- Experience with Vivado, and Vitis FPGA toolsets\n- Experience with UVM\n- Experience with Simulink and HDL Coder\n- Comfortable using digital oscilloscopes, spectrum analyzers, power meters, signal generators and other test equipment\n- Experience with troubleshooting and debugging with board-level testing and FPGA validation\n- Experience in ASIC / FPGA life cycle (architecture, design, simulation, verification, validation, integration & test)\nSecurity Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration.\nClearance Level: Secret\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 4x10 hour day, 3 days off per week\nLockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nAt Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.\n\nWith our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.\n\nIf this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.\nExperience Level: Experienced Professional\nBusiness Unit: MISSILES AND FIRE CONTROL\nRelocation Available: Yes\nCareer Area: Hardware Engineering\nType: Full-Time\nShift: First",
     "job_is_remote": false,
-    "job_posted_at": "1 day ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Tucson, AZ",
-    "job_city": "Tucson",
-    "job_state": "Arizona",
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Orlando, FL",
+    "job_city": "Orlando",
+    "job_state": "Florida",
     "job_country": "US",
-    "job_latitude": 32.2539787,
-    "job_longitude": -110.97417689999999,
+    "job_latitude": 28.5383832,
+    "job_longitude": -81.3789269,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D88IG6NjZsIGHabK1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7cKFBzRKuMLDaoDqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Active and transferable U.S. government issued security clearance is required prior to start date.​ U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance​",
-        "Ability to obtain INTERIM U.S. government issued security clearance is required prior to start date",
-        "Master’s degree in Electrical Engineering or related Science, Technology, Engineering and Mathematics (STEM) major",
-        "Demonstrated experience with digital design and VHDL or Verilog coding",
-        "Familiarity with Xilinx, Altera or Microsemi/Microchip FPGAs",
-        "This position requires 12 months or less of relevant professional work experience (excluding internships)",
-        "Demonstrated ability to work in a team",
-        "Include your cumulative GPA and projected graduation date on your resume",
-        "This position requires a security clearance"
+        "CITIZEN - This position is located at a facility that requires special access",
+        "An active Secret Clearance with most recent investigation in the last 5 years is required to start",
+        "Bachelor’s degree or higher in Electrical or Computer Engineering",
+        "Relevant experience with FPGA design and simulation verification",
+        "AES, counter mode, etc)",
+        "Experience with Vivado, and Vitis FPGA toolsets",
+        "Experience with UVM",
+        "Experience with Simulink and HDL Coder",
+        "Comfortable using digital oscilloscopes, spectrum analyzers, power meters, signal generators and other test equipment",
+        "Experience with troubleshooting and debugging with board-level testing and FPGA validation",
+        "Experience in ASIC / FPGA life cycle (architecture, design, simulation, verification, validation, integration & test)",
+        "Security Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration",
+        "Experience Level: Experienced Professional",
+        "Business Unit: MISSILES AND FIRE CONTROL"
       ],
       "Benefits": [
+        "We offer flexible work schedules to comprehensive benefits investing in your future and security, Learn more about Lockheed Martin’s comprehensive benefits package here",
+        "Schedules range from standard 40 hours over a five day work week while others may be condensed",
+        "These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits",
+        "Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work",
+        "Relocation Available: Yes"
+      ],
+      "Responsibilities": [
+        "As the FPGA Engineer you will perform requirements capture, design architecture, implementation, simulation, integration, and troubleshooting for the datalink FPGA designs that are being used to support a new capability",
+        "Capturing and deriving requirements for FPGA designs",
+        "incorporate new crypto architecture leveraging existing NSA algorithms interfacing with data link radio module",
+        "RF waveform implementation and incorporation of Simulink/HDL Coder into FPGA design and low-speed messaging and communication with external peripherals",
+        "Working with Xilinx/AMD or Microchip FPGA to development solution for Complex Electronic System",
+        "Performing detailed design, simulation, and integration of FPGAs",
+        "Integrating, troubleshooting, and updating existing FPGA designs",
+        "Designing and implementing new FPGA designs for future capabilities",
+        "Supporting all FPGA designs, including:",
+        "External peripherals as well as High speed data interfaces",
+        "Utilizing prior experience with Microchip FPGAs, Xilinx FPGAs, UVM, and GitLab to support FPGA design and development"
+      ]
+    },
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "www-lockheedmartinjobs-com-job-orlando-fpga-design-engineer-staff-694-91600575440",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "M72HwV4DbLPyv9CRAAAAAA==",
+    "job_title": "Senior FPGA/ASIC Engineer (Onsite)",
+    "employer_name": "RTX",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07Pszg4ykzzcAw_UvR1DUvJRFJlczRuZXiZQp&s=0",
+    "employer_website": null,
+    "job_publisher": "RTX - Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.rtx.com/global/en/job/01783409/Senior-FPGA-ASIC-Engineer-Onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "RTX - Careers",
+        "apply_link": "https://careers.rtx.com/global/en/job/01783409/Senior-FPGA-ASIC-Engineer-Onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Raytheon-Technologies/Job/Senior-FPGA-ASIC-Engineer-(Onsite)/-in-Cedar-Rapids,IA?jid=6efb0febf2bbfa1e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=4e075826bae62e79&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/senior-fpga-asic-engineer-onsite-collins-aerospace-JV_IC1149160_KO0,32_KE33,50.htm?jl=1010011848256&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/-PfLh4Eq14oEYHMNxOBeYP4yoxvlo5yBy5-6Yz9pOtJd7ZT9O6vZoQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-fpga-asic-engineer-onsite-at-collins-aerospace-4278652696?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=6f8e49ee2160&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/senior-fpga-asic-engineer-onsite-raytheontechnologies-cedar-rapids-ia_82682904?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Date Posted:\n2025-08-07\n\nCountry:\nUnited States of America\n\nLocation:\nHIA32: Cedar Rapids, IA 400 Collins Rd NE , Cedar Rapids, IA, 52498-0505 USA\n\nPosition Role Type:\nOnsite\n\nU.S. Citizen, U.S. Person, or Immigration Status Requirements:\nU.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract.\n\nSecurity Clearance:\nNone/Not Required\n\nAre you interested in becoming part of a growing Avionics FPGA/ASIC team? This position is for a highly experienced, highly motivated Electrical or Computer Engineer that will be involved in the design, implementation, verification and integration of a wide variety of high-performance ASICs, FPGAs, and SoPCs for Collins Avionics solutions. As an engineer in this organization, you will be employing best practice design and verification methodologies supporting our legacy and next generation Displays, Computing, and Networking Products.\n\nWhat You Will Do:\n• Requirements capture, decomposition, and traceability.\n• ASIC/FPGA/SoPC digital architecture development and design.\n• Develop RTL design code and simulation in VHDL, Verilog, and/or SystemVerilog.\n• Create UVM constrained random environments using SystemVerilog.\n• Create placement and timing constraints.\n• Perform synthesis, place and route.\n• Perform static timing analysis, linting analysis, LEC, and clock-domain-crossing analysis.\n• Perform ASIC/FPGA/SoPC verification using inspection, analysis, simulation, and test methods.\n• Creation of DO-254 DAL-A certification artifacts for Airborne Electronic Hardware (AEH).\n• Conduct and/or participate in peer reviews throughout product lifecycle.\n• Participate in FAA SOI audits.\n• Create engineering bids and support RFIs and RFPs.\n• Communicate well with a wide variety of individuals including Engineering, Program Management, internal leadership and customers.\n• May perform the duties of a project engineer.\n• Recommend new tools and practices for continuous improvement in the group’s ASIC/FPGA design flow.\n• Provide guidance or mentor other engineers with a variety of skills and backgrounds.\n• Up to 10% is needed both domestic and globally.\n\nQualifications You Must Have:\n• Typically requires a degree in Science, Technology, Engineering or Mathematics (STEM) and minimum 5 years prior relevant experience or an Advanced Degree in a related field and minimum 3 years of experience.\n• Experience writing RTL and testbenches using VHDL, Verilog, or SystemVerilog.\n• Experience using FPGA specific tools (e.g. Questasim, Vivado, Libero, Synplify Pro, etc.).\n• Experience with data interfaces (PCIe, DDR, I2C, Ethernet, CDN, ARINC-429, etc.).\n• Experience with device level timing and clock domain crossing.\n• Experience with Linux (or Unix), scripting, C/C++, Python, and/or Perl.\n\nQualifications We Prefer:\n• Ability to work with minimal supervision, as part of a team of engineers with a variety of skills and backgrounds, located throughout the world and matrixed into projects with aggressive schedules and frequent milestones.\n• Experience with UVM Constrained Random Methodology.\n• Experience with DO-254 processes and design assurance activities for ASIC, FPGA, and/or SoPC developments.\n• Experience with video and/or networking concepts and architectures.\n• Familiarity with best practice chip-level verification techniques and languages (e.g. constrained random, functional coverage, code coverage, LEC, SystemVerilog).\n• Experience successfully managing cost, schedule, and performance objectives.\n• Basic risk management skills (identify, quantify, and mitigate risks).\n\nWhat We Offer:\n\nBenefits:\n\nSome of our competitive benefits package includes: \n• Medical, dental, and vision insurance\n• Three weeks of vacation for newly hired employees\n• Generous 401(k) plan that includes employer matching funds and separate employer retirement contribution, including a Lifetime Income Strategy option\n• Tuition reimbursement program\n• Student Loan Repayment Program\n• Life insurance and disability coverage\n• Optional coverages you can buy pet insurance, home and auto insurance, additional life and accident insurance, critical illness insurance, group legal, ID theft protection\n• Birth, adoption, parental leave benefits\n• Ovia Health, fertility, and family planning\n• Adoption Assistance         \n• Autism Benefit\n• Employee Assistance Plan, including up to 10 free counseling sessions\n• Healthy You Incentives, wellness rewards program\n• Doctor on Demand, virtual doctor visits\n• Bright Horizons, child and elder care services\n• Teladoc Medical Experts, second opinion program\n•  And more! \n\nThis position may be eligible for relocation to Cedar Rapids.\n\nAvionics delivers advanced cockpit displays, vision systems, and comprehensive digital solutions for global government, commercial and business aviation customers. We provide connectivity and managed data services to ensure safety and seamless communication for passengers, crews, and militaries, from aircraft and airports to air traffic management. Join us in creating solutions that connect the world, one flight at a time. Start your application today.\n\nOnsite: Employees who are working in Onsite roles will work primarily onsite. This includes all production and maintenance employees, as they are essential to the development of our products.\n\nAt Collins, the paths we pave together lead to limitless possibility. And the bonds we form – with our customers and with each other -- propel us all higher, again and again.\n\nApply now and be part of the team that’s redefining aerospace, every day.\n\nThe salary range for this role is 82,000 USD - 164,000 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.\n\nHired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.\n\nHired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.\n\nThis role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.\n\nRTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.\n\nRTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.\n\nPrivacy Policy and Terms:\n\nClick on this link to read the Policy and Terms",
+    "job_is_remote": false,
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Cedar Rapids, IA",
+    "job_city": "Cedar Rapids",
+    "job_state": "Iowa",
+    "job_country": "US",
+    "job_latitude": 41.9778795,
+    "job_longitude": -91.6656232,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DM72HwV4DbLPyv9CRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "U.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract",
+        "Typically requires a degree in Science, Technology, Engineering or Mathematics (STEM) and minimum 5 years prior relevant experience or an Advanced Degree in a related field and minimum 3 years of experience",
+        "Experience writing RTL and testbenches using VHDL, Verilog, or SystemVerilog",
+        "Experience using FPGA specific tools (e.g. Questasim, Vivado, Libero, Synplify Pro, etc.)",
+        "Experience with data interfaces (PCIe, DDR, I2C, Ethernet, CDN, ARINC-429, etc.)",
+        "Experience with device level timing and clock domain crossing",
+        "Experience with Linux (or Unix), scripting, C/C++, Python, and/or Perl",
+        "Ability to work with minimal supervision, as part of a team of engineers with a variety of skills and backgrounds, located throughout the world and matrixed into projects with aggressive schedules and frequent milestones",
+        "Experience with UVM Constrained Random Methodology",
+        "Experience with DO-254 processes and design assurance activities for ASIC, FPGA, and/or SoPC developments",
+        "Experience with video and/or networking concepts and architectures",
+        "Familiarity with best practice chip-level verification techniques and languages (e.g. constrained random, functional coverage, code coverage, LEC, SystemVerilog)",
+        "Experience successfully managing cost, schedule, and performance objectives",
+        "Basic risk management skills (identify, quantify, and mitigate risks)"
+      ],
+      "Benefits": [
+        "Some of our competitive benefits package includes: ",
+        "Medical, dental, and vision insurance",
+        "Three weeks of vacation for newly hired employees",
+        "Generous 401(k) plan that includes employer matching funds and separate employer retirement contribution, including a Lifetime Income Strategy option",
+        "Tuition reimbursement program",
+        "Student Loan Repayment Program",
+        "Life insurance and disability coverage",
+        "Optional coverages you can buy pet insurance, home and auto insurance, additional life and accident insurance, critical illness insurance, group legal, ID theft protection",
+        "Birth, adoption, parental leave benefits",
+        "Ovia Health, fertility, and family planning",
+        "Adoption Assistance         ",
+        "Autism Benefit",
+        "Employee Assistance Plan, including up to 10 free counseling sessions",
+        "Healthy You Incentives, wellness rewards program",
+        "Doctor on Demand, virtual doctor visits",
+        "Bright Horizons, child and elder care services",
+        "Teladoc Medical Experts, second opinion program",
+        " And more! ",
         "The salary range provided is a good faith estimate representative of all experience levels",
         "Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays",
         "Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement",
@@ -1609,14 +1619,32 @@
         "Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance"
       ],
       "Responsibilities": [
+        "This position is for a highly experienced, highly motivated Electrical or Computer Engineer that will be involved in the design, implementation, verification and integration of a wide variety of high-performance ASICs, FPGAs, and SoPCs for Collins Avionics solutions",
+        "As an engineer in this organization, you will be employing best practice design and verification methodologies supporting our legacy and next generation Displays, Computing, and Networking Products",
+        "Requirements capture, decomposition, and traceability",
+        "ASIC/FPGA/SoPC digital architecture development and design",
+        "Develop RTL design code and simulation in VHDL, Verilog, and/or SystemVerilog",
+        "Create UVM constrained random environments using SystemVerilog",
+        "Create placement and timing constraints",
+        "Perform synthesis, place and route",
+        "Perform static timing analysis, linting analysis, LEC, and clock-domain-crossing analysis",
+        "Perform ASIC/FPGA/SoPC verification using inspection, analysis, simulation, and test methods",
+        "Creation of DO-254 DAL-A certification artifacts for Airborne Electronic Hardware (AEH)",
+        "Conduct and/or participate in peer reviews throughout product lifecycle",
+        "Participate in FAA SOI audits",
+        "Create engineering bids and support RFIs and RFPs",
+        "Communicate well with a wide variety of individuals including Engineering, Program Management, internal leadership and customers",
+        "May perform the duties of a project engineer",
+        "Recommend new tools and practices for continuous improvement in the group’s ASIC/FPGA design flow",
+        "Provide guidance or mentor other engineers with a variety of skills and backgrounds",
+        "Up to 10% is needed both domestic and globally",
         "Onsite: Employees who are working in Onsite roles will work primarily onsite",
-        "This includes all production and maintenance employees, as they are essential to the development of our products",
-        "Please upload a copy of your most recent transcripts with your resume when applying to this requisition"
+        "This includes all production and maintenance employees, as they are essential to the development of our products"
       ]
     },
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
-    "id": "careers-rtx-com-ca-fr-job-01823163-2026-raytheon-full-time-fpga-design-engineer-ii-onsite",
+    "id": "careers-rtx-com-global-en-job-01783409-senior-fpga-asic-engineer-onsite",
     "_source": "new_jobs"
   },
   {
@@ -1783,9 +1811,9 @@
     "job_latitude": 37.4323341,
     "job_longitude": -121.8995741,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsG1IW2K2HHINMGEYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -2036,8 +2064,8 @@
     "job_longitude": -118.3525748,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D8w3FrTaVQ1quTUZGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 160000,
@@ -2256,9 +2284,9 @@
     "job_latitude": 39.1492746,
     "job_longitude": -76.7752493,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLjqLtohCEfIDoQqtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 130000,
