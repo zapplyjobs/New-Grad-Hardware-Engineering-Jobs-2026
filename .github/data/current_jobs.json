@@ -66,9 +66,9 @@
     "job_latitude": 40.1012856,
     "job_longitude": -75.3835525,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzoyihTY5kqRrh8BRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -380,8 +380,8 @@
     "job_latitude": 40.7325997,
     "job_longitude": -73.4454009,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMjstkDqEU0X4NC5eAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -519,102 +519,115 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "4cjReVvM4kjsey7jAAAAAA==",
-    "job_title": "Pcb Designer",
-    "employer_name": "Actalent",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoSxJxYbmxN-G4xrVO8ggcCMX6SQ5wNhxEPnb&s=0",
-    "employer_website": "https://www.actalentservices.com",
-    "job_publisher": "Actalent Careers",
+    "job_id": "lBNF7_EsXre50hrMAAAAAA==",
+    "job_title": "Senior PCB Designer II (RF) - Full-time",
+    "employer_name": "CesiumAstro",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrivxGrCn-xppVib3G7ueSLC_rkpZ6TnXvX_Jz&s=0",
+    "employer_website": "https://www.cesiumastro.com",
+    "job_publisher": "Snagajob",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://careers.actalentservices.com/us/en/job/JP-005824916/Pcb-Designer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.snagajob.com/jobs/1170015403?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Actalent Careers",
-        "apply_link": "https://careers.actalentservices.com/us/en/job/JP-005824916/Pcb-Designer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talentify",
-        "apply_link": "https://www.talentify.io/job/pcb-designer-fort-wayne-indiana-us-talentify-jp-005824916?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/pcb-designer-at-actalent-4371818598?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/5afce9246ed784be16f79bce4ff62fb4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5626941335?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-indiana-fort-wayne-pcb-designer-actalent-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1170015403?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Job Title: PCB Designer\n\nJob Description\n\nJoin a dynamic Electrical Engineering team dedicated to the development and production of Aerospace and Defense technology. You will be instrumental in supporting the design, documentation, and release of cutting-edge electrical circuit card assemblies, collaborating closely with the Electrical Engineering team.\n\nResponsibilities\n• Create and maintain detailed electrical design documentation, including schematics, PCB layouts, and assembly documentation in accordance with company and IPC standards.\n• Optimize PCB layouts through component placement, routing, and DFM/DFT reviews to ensure manufacturability and testability.\n• Generate and manage Bills of Material (BOMs), revisions, and associated documentation in coordination with engineering and configuration management.\n• Collaborate with electrical and mechanical engineers to implement schematic changes, perform ECAD–MCAD integration, and ensure design intent is accurately reflected in CAD deliverables.\n• Work with manufacturing and supply chain teams to ensure drawings, documentation, and BOMs support production and procurement activities.\n• Maintain configuration control by managing drawing standards, version control, and file management within the company’s configuration management system.\n• Participate in design reviews and continuous improvement efforts, contributing to CAD process enhancements, templates, and documentation best practices.\n\nEssential Skills\n• Associate’s degree in Electrical Engineering Technology, Drafting/Design, or related field with a minimum of 6 years of experience, or Bachelor's degree with a minimum of 4 years of experience.\n• Proficiency with ECAD tools such as Altium Designer (preferred), Mentor Graphics (PADS/Xpedition), or Cadence Allegro/OrCAD.\n• Strong attention to detail, organizational skills, and ability to manage multiple tasks in parallel.\n• Excellent communication and teamwork skills in a cross-functional environment.\n• Strong computer skills and proficiency in MS Office.\n\nAdditional Skills & Qualifications\n• Familiarity with IPC standards (e.g., IPC-A-610, IPC-2221, IPC-7351, IPC-2615) and industry drawing conventions.\n• Experience in Electrical Engineering or prior experience as an Electrical Engineering Technician.\n• Knowledge of PCB fabrication and assembly processes.\n• Experience working under configuration control and design change processes.\n• Strong writing skills.\n\nWork Environment\n\nThe role offers a flexible schedule with the possibility to work five days a week. The work environment promotes collaboration and innovation, providing the opportunity to work on advanced technologies in a supportive and inclusive team.\nJob Type & Location\n\nThis is a Permanent position based out of Fort Wayne, IN.\nPay and Benefits\n\nThe pay range for this position is $80000.00 - $90000.00/yr.\n\ncompetitive medical, dental, and vision insurance, a 401(k), paid time off,\nWorkplace Type\n\nThis is a fully onsite position in Fort Wayne,IN.\nApplication Deadline\n\nThis position is anticipated to close on Feb 18, 2026.\nAbout Actalent\n\nActalent is a global leader in engineering and sciences services and talent solutions. We help visionary companies advance their engineering and science initiatives through access to specialized experts who drive scale, innovation and speed to market. With a network of almost 30,000 consultants and more than 4,500 clients across the U.S., Canada, Asia and Europe, Actalent serves many of the Fortune 500.\n\nThe company is an equal opportunity employer and will consider all applications without regard to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.\n\nIf you would like to request a reasonable accommodation, such as the modification or adjustment of the job application process or interviewing due to a disability, please email actalentaccommodation@actalentservices.com for other accommodation options.",
+    "job_description": "Please Note: To conform with the United States Government Space Technology Export Regulations, the applicant must be a U.S. citizen, lawful permanent resident of the U.S., conditional resident, asylee or refugee (protected individuals as defined by 8 U.S.C. 1324b(a)(3)), or eligible to obtain the required authorizations from the U.S. Department of State.\n\nAt CesiumAstro, we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn, develop, and engage across our organization. If you are looking for hands-on, interactive, and autonomous work, CesiumAstro is the place for you. We are actively seeking passionate, collaborative, energetic, and forward-thinking individuals to join our team.\n\nWe are looking to add a Senior PCB Designer II (RF) to our team. If you are excited about working in a startup environment, have a strong work ethic, and are passionate about cutting-edge electronics, we would like to hear from you.\n\nIn this position, you will perform PCB layout and library management for state-of-the-art power, digital, and RF electronics for aerospace applications. Electronics design is a core part of the company’s business, and as such, these functions are critical. You will have the opportunity to work with and learn from a highly talented team with state-of-the-art tools.\n\nAs a small company, the Cesium team “wears many hats.” Candidates should be comfortable with a varied workflow that may involve multitasking between PCB layout, library management, schematic capture, review, and other related tasks.\n\nWe are looking to add a Senior PCB Designer II (RF) to our team. If you are excited about working in a startup environment, have a strong work ethic, and are passionate about cutting-edge electronics, we would like to hear from you.\n\nIn this position, you will perform PCB layout and library management for state-of-the-art power, digital, and RF electronics for aerospace applications. Electronics design is a core part of the company’s business, and as such, these functions are critical. You will have the opportunity to work with and learn from a highly talented team with state-of-the-art tools.\n\nAs a small company, the Cesium team “wears many hats.” Candidates should be comfortable with a varied workflow that may involve multitasking between PCB layout, library management, schematic capture, review, and other related tasks.\n\nJOB DUTIES AND RESPONSIBILITIES\n• Perform complex RF and mixed-signal PCB layout in Altium Designer, working closely with engineers on staff.\n• Own intricate and challenging PCB layouts that often feature 30 GHz RF, power, and digital on the same board, with high density and complex stackups.\n• Generate and revise drawings and release packages for PCBs and assemblies.\n• Manage and maintain electronic component libraries in Altium Enterprise.\n• Generate and review schematic symbols and footprints.\n• Maintain templates for schematics, layouts, bills-of-materials (BOMs), and other documents.\n\nJOB REQUIREMENTS AND MINIMUM QUALIFICATIONS\n• An Associate degree in Electronics Engineering Technology or similar.\n• 7 years of experience as a PCB Designer.\n• Strong experience with Altium Designer.\n• Strong understanding of the technical principles of PCB layout, with a focus on high-frequency RF. This includes shielding and impedance matching among others.\n• Experience with high-reliability, aerospace, and/or IPC Class 3 designs.\n• Experience with advanced PCB manufacturing techniques such as blind vias and microvias.\n• Strong organizational skills.\n• An eye for detail and commitment to excellence.\n• Comfortability with collaboration tools such as MS Teams, Confluence, and Jira.\n• The ability to work well under deadlines.\n• Strong digital, written, and spoken communication skills, especially in the context of working with hardware engineers and mechanical engineers to complete a layout.\n\nPREFERRED EXPERIENCE\n• Experience managing an electronic component library.\n• Experience with PLM systems such as Arena.\n\nCesiumAstro considers several factors when extending an offer, including but not limited to, the role and associated responsibilities, a candidate’s work experience, education/training, and key skills. Full-time employment offers include company stock options and a generous benefits package including health, dental, vision, HSA, FSA, life, disability and retirement plans.\n\nCesiumAstro is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected Veteran Status, or any other characteristic protected by applicable federal, state, or local law.\n\nPlease note: CesiumAstro does not accept unsolicited resumes from contract agencies or search firms. Any unsolicited resumes submitted to our website or to CesiumAstro team members not through our approved vendor list or Talent Acquisition will be considered property of CesiumAstro, and we will not be obligated to pay any referral fees.\n\nPlease Note: To conform with the United States Government Space Technology Export Regulations, the applicant must be a U.S. citizen, lawful permanent resident of the U.S., conditional resident, asylee or refugee (protected individuals as defined by 8 U.S.C. 1324b(a)(3)), or eligible to obtain the required authorizations from the U.S. Department of State.\n\nAt CesiumAstro, we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn, develop, and engage across our organization. If you are looking for hands-on, interactive, and autonomous work, CesiumAstro is the place for you. We are actively seeking passionate, collaborative, energetic, and forward-thinking individuals to join our team.\n\nWe are looking to add a Senior PCB Designer II (RF) to our team. If you are excited about working in a startup environment, have a strong work ethic, and are passionate about cutting-edge electronics, we would like to hear from you.\n\nIn this position, you will perform PCB layout and library management for state-of-the-art power, digital, and RF electronics for aerospace applications. Electronics design is a core part of the company’s business, and as such, these functions are critical. You will have the opportunity to work with and learn from a highly talented team with state-of-the-art tools.\n\nAs a small company, the Cesium team “wears many hats.” Candidates should be comfortable with a varied workflow that may involve multitasking between PCB layout, library management, schematic capture, review, and other related tasks.\n\nWe are looking to add a Senior PCB Designer II (RF) to our team. If you are excited about working in a startup environment, have a strong work ethic, and are passionate about cutting-edge electronics, we would like to hear from you.\n\nIn this position, you will perform PCB layout and library management for state-of-the-art power, digital, and RF electronics for aerospace applications. Electronics design is a core part of the company’s business, and as such, these functions are critical. You will have the opportunity to work with and learn from a highly talented team with state-of-the-art tools.\n\nAs a small company, the Cesium team “wears many hats.” Candidates should be comfortable with a varied workflow that may involve multitasking between PCB layout, library management, schematic capture, review, and other related tasks.\n\nJOB DUTIES AND RESPONSIBILITIES\n• Perform complex RF and mixed-signal PCB layout in Altium Designer, working closely with engineers on staff.\n• Own intricate and challenging PCB layouts that often feature 30 GHz RF, power, and digital on the same board, with high density and complex stackups.\n• Generate and revise drawings and release packages for PCBs and assemblies.\n• Manage and maintain electronic component libraries in Altium Enterprise.\n• Generate and review schematic symbols and footprints.\n• Maintain templates for schematics, layouts, bills-of-materials (BOMs), and other documents.\n\nJOB REQUIREMENTS AND MINIMUM QUALIFICATIONS\n• An Associate degree in Electronics Engineering Technology or similar.\n• 7 years of experience as a PCB Designer.\n• Strong experience with Altium Designer.\n• Strong understanding of the technical principles of PCB layout, with a focus on high-frequency RF. This includes shielding and impedance matching among others.\n• Experience with high-reliability, aerospace, and/or IPC Class 3 designs.\n• Experience with advanced PCB manufacturing techniques such as blind vias and microvias.\n• Strong organizational skills.\n• An eye for detail and commitment to excellence.\n• Comfortability with collaboration tools such as MS Teams, Confluence, and Jira.\n• The ability to work well under deadlines.\n• Strong digital, written, and spoken communication skills, especially in the context of working with hardware engineers and mechanical engineers to complete a layout.\n\nPREFERRED EXPERIENCE\n• Experience managing an electronic component library.\n• Experience with PLM systems such as Arena.\n\nCesiumAstro considers several factors when extending an offer, including but not limited to, the role and associated responsibilities, a candidate’s work experience, education/training, and key skills. Full-time employment offers include company stock options and a generous benefits package including health, dental, vision, HSA, FSA, life, disability and retirement plans.\n\nCesiumAstro is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected Veteran Status, or any other characteristic protected by applicable federal, state, or local law.\n\nPlease note: CesiumAstro does not accept unsolicited resumes from contract agencies or search firms. Any unsolicited resumes submitted to our website or to CesiumAstro team members not through our approved vendor list or Talent Acquisition will be considered property of CesiumAstro, and we will not be obligated to pay any referral fees.",
     "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Fort Wayne, IN",
-    "job_city": "Fort Wayne",
-    "job_state": "Indiana",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Westminster, CO",
+    "job_city": "Westminster",
+    "job_state": "Colorado",
     "job_country": "US",
-    "job_latitude": 41.0794759,
-    "job_longitude": -85.1362929,
+    "job_latitude": 39.836652799999996,
+    "job_longitude": -105.0372046,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4cjReVvM4kjsey7jAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 80000,
-    "job_max_salary": 90000,
-    "job_salary_period": "YEAR",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlBNF7_EsXre50hrMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": "HOUR",
     "job_highlights": {
       "Qualifications": [
-        "Associate’s degree in Electrical Engineering Technology, Drafting/Design, or related field with a minimum of 6 years of experience, or Bachelor's degree with a minimum of 4 years of experience",
-        "Strong attention to detail, organizational skills, and ability to manage multiple tasks in parallel",
-        "Excellent communication and teamwork skills in a cross-functional environment",
-        "Strong computer skills and proficiency in MS Office",
-        "Familiarity with IPC standards (e.g., IPC-A-610, IPC-2221, IPC-7351, IPC-2615) and industry drawing conventions",
-        "Experience in Electrical Engineering or prior experience as an Electrical Engineering Technician",
-        "Knowledge of PCB fabrication and assembly processes",
-        "Experience working under configuration control and design change processes",
-        "Strong writing skills"
+        "Please Note: To conform with the United States Government Space Technology Export Regulations, the applicant must be a U.S. citizen, lawful permanent resident of the U.S., conditional resident, asylee or refugee (protected individuals as defined by 8 U.S.C",
+        "1324b(a)(3)), or eligible to obtain the required authorizations from the U.S",
+        "An Associate degree in Electronics Engineering Technology or similar",
+        "7 years of experience as a PCB Designer",
+        "Strong experience with Altium Designer",
+        "Strong understanding of the technical principles of PCB layout, with a focus on high-frequency RF",
+        "Experience with high-reliability, aerospace, and/or IPC Class 3 designs",
+        "Experience with advanced PCB manufacturing techniques such as blind vias and microvias",
+        "Strong organizational skills",
+        "An eye for detail and commitment to excellence",
+        "Comfortability with collaboration tools such as MS Teams, Confluence, and Jira",
+        "The ability to work well under deadlines",
+        "Strong digital, written, and spoken communication skills, especially in the context of working with hardware engineers and mechanical engineers to complete a layout",
+        "CesiumAstro considers several factors when extending an offer, including but not limited to, the role and associated responsibilities, a candidate’s work experience, education/training, and key skills",
+        "Please Note: To conform with the United States Government Space Technology Export Regulations, the applicant must be a U.S. citizen, lawful permanent resident of the U.S., conditional resident, asylee or refugee (protected individuals as defined by 8 U.S.C",
+        "1324b(a)(3)), or eligible to obtain the required authorizations from the U.S",
+        "As a small company, the Cesium team “wears many hats.” Candidates should be comfortable with a varied workflow that may involve multitasking between PCB layout, library management, schematic capture, review, and other related tasks",
+        "As a small company, the Cesium team “wears many hats.” Candidates should be comfortable with a varied workflow that may involve multitasking between PCB layout, library management, schematic capture, review, and other related tasks",
+        "An Associate degree in Electronics Engineering Technology or similar",
+        "7 years of experience as a PCB Designer",
+        "Strong experience with Altium Designer",
+        "Strong understanding of the technical principles of PCB layout, with a focus on high-frequency RF",
+        "This includes shielding and impedance matching among others",
+        "Experience with high-reliability, aerospace, and/or IPC Class 3 designs",
+        "Experience with advanced PCB manufacturing techniques such as blind vias and microvias",
+        "Strong organizational skills",
+        "An eye for detail and commitment to excellence",
+        "Comfortability with collaboration tools such as MS Teams, Confluence, and Jira",
+        "The ability to work well under deadlines",
+        "Strong digital, written, and spoken communication skills, especially in the context of working with hardware engineers and mechanical engineers to complete a layout",
+        "CesiumAstro considers several factors when extending an offer, including but not limited to, the role and associated responsibilities, a candidate’s work experience, education/training, and key skills"
       ],
       "Benefits": [
-        "The role offers a flexible schedule with the possibility to work five days a week",
-        "The pay range for this position is $80000.00 - $90000.00/yr",
-        "competitive medical, dental, and vision insurance, a 401(k), paid time off,"
+        "Full-time employment offers include company stock options and a generous benefits package including health, dental, vision, HSA, FSA, life, disability and retirement plans",
+        "Full-time employment offers include company stock options and a generous benefits package including health, dental, vision, HSA, FSA, life, disability and retirement plans"
       ],
       "Responsibilities": [
-        "Join a dynamic Electrical Engineering team dedicated to the development and production of Aerospace and Defense technology",
-        "You will be instrumental in supporting the design, documentation, and release of cutting-edge electrical circuit card assemblies, collaborating closely with the Electrical Engineering team",
-        "Create and maintain detailed electrical design documentation, including schematics, PCB layouts, and assembly documentation in accordance with company and IPC standards",
-        "Optimize PCB layouts through component placement, routing, and DFM/DFT reviews to ensure manufacturability and testability",
-        "Generate and manage Bills of Material (BOMs), revisions, and associated documentation in coordination with engineering and configuration management",
-        "Collaborate with electrical and mechanical engineers to implement schematic changes, perform ECAD–MCAD integration, and ensure design intent is accurately reflected in CAD deliverables",
-        "Work with manufacturing and supply chain teams to ensure drawings, documentation, and BOMs support production and procurement activities",
-        "Maintain configuration control by managing drawing standards, version control, and file management within the company’s configuration management system",
-        "Participate in design reviews and continuous improvement efforts, contributing to CAD process enhancements, templates, and documentation best practices"
+        "In this position, you will perform PCB layout and library management for state-of-the-art power, digital, and RF electronics for aerospace applications",
+        "Electronics design is a core part of the company’s business, and as such, these functions are critical",
+        "You will have the opportunity to work with and learn from a highly talented team with state-of-the-art tools",
+        "As a small company, the Cesium team “wears many hats.” Candidates should be comfortable with a varied workflow that may involve multitasking between PCB layout, library management, schematic capture, review, and other related tasks",
+        "In this position, you will perform PCB layout and library management for state-of-the-art power, digital, and RF electronics for aerospace applications",
+        "Electronics design is a core part of the company’s business, and as such, these functions are critical",
+        "You will have the opportunity to work with and learn from a highly talented team with state-of-the-art tools",
+        "As a small company, the Cesium team “wears many hats.” Candidates should be comfortable with a varied workflow that may involve multitasking between PCB layout, library management, schematic capture, review, and other related tasks",
+        "Perform complex RF and mixed-signal PCB layout in Altium Designer, working closely with engineers on staff",
+        "Own intricate and challenging PCB layouts that often feature 30 GHz RF, power, and digital on the same board, with high density and complex stackups",
+        "Generate and revise drawings and release packages for PCBs and assemblies",
+        "Manage and maintain electronic component libraries in Altium Enterprise",
+        "Generate and review schematic symbols and footprints",
+        "Maintain templates for schematics, layouts, bills-of-materials (BOMs), and other documents",
+        "This includes shielding and impedance matching among others",
+        "In this position, you will perform PCB layout and library management for state-of-the-art power, digital, and RF electronics for aerospace applications",
+        "Electronics design is a core part of the company’s business, and as such, these functions are critical",
+        "You will have the opportunity to work with and learn from a highly talented team with state-of-the-art tools",
+        "In this position, you will perform PCB layout and library management for state-of-the-art power, digital, and RF electronics for aerospace applications",
+        "Electronics design is a core part of the company’s business, and as such, these functions are critical",
+        "You will have the opportunity to work with and learn from a highly talented team with state-of-the-art tools",
+        "Perform complex RF and mixed-signal PCB layout in Altium Designer, working closely with engineers on staff",
+        "Own intricate and challenging PCB layouts that often feature 30 GHz RF, power, and digital on the same board, with high density and complex stackups",
+        "Generate and revise drawings and release packages for PCBs and assemblies",
+        "Manage and maintain electronic component libraries in Altium Enterprise",
+        "Generate and review schematic symbols and footprints",
+        "Maintain templates for schematics, layouts, bills-of-materials (BOMs), and other documents"
       ]
     },
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
-    "id": "careers-actalentservices-com-us-en-job-jp-005824916-pcb-designer",
+    "id": "www-snagajob-com-jobs-1170015403",
     "_source": "new_jobs"
   },
   {
@@ -649,9 +662,9 @@
     "job_latitude": 40.199813999999996,
     "job_longitude": -76.7310806,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dq7sJ_RUkOyoWlHNlAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 140000,
@@ -699,6 +712,74 @@
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
     "id": "www-ziprecruiter-com-c-te-connectivity-inc-job-sr-pcb-design-engineer-in-middletown-pa",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "81ZVDOspuqCPEf9AAAAAAA==",
+    "job_title": "PCB Design Engineer",
+    "employer_name": "Reliance One, Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkfhBscWLRhc6qJhTPo-zWQQr3LQdMrScrTp9l&s=0",
+    "employer_website": "https://www.reliance-one.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/pcb-design-engineer-at-reliance-one-inc-4316950133?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/pcb-design-engineer-at-reliance-one-inc-4316950133?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Printed Circuit Board Design Engineer (PCB Engineer)\n\nPCB Design Engineer\n\nLocation: San Antonio, Texas, United States\n\nEmployment Type: Full Time | Direct Hire | On Site\n\nCompensation: $100,000 – $120,000 base salary\n\nBenefits: Competitive benefits\n\nRelocation: Assistance offered\n\nWork Authorization: Must have US work authorization; H1B sponsorship not available\n\nOverview\n\nReliance One, Inc. is hiring for one of our clients for a PCB Design Engineer to develop printed circuit boards for advanced products including engine controllers, fuel system devices, lithium-ion battery management systems (BMS) and chargers, and IoT telematics systems. This role requires precision, collaboration, and expertise with Altium design software.\n\nKey Responsibilities\n• Design printed circuit boards for new products, ensuring high-quality, defect-free designs within project timelines.\n• Generate Gerber data and all necessary fabrication files.\n• Create PCB footprints from manufacturer datasheets and maintain component library.\n• Collaborate with vendors, Mechanical, and Electrical Engineering teams to optimize packaging, thermal, electrical, and manufacturing performance.\n• Independently interpret electrical standards (IEC, CSA, UL) and implement them in designs.\n\nRequired Qualifications\n• BS in Engineering or related discipline.\n• 7+ years of relevant PCB design experience.\n• Expert in PCB layout techniques and best practices (EMC, thermal, small signal integrity).\n• Highly proficient with the Altium tool suite.\n• Experience interpreting electrical schematics to create optimal PCB layouts.\n• Experience with 10+ layer PCB designs.\n• Familiarity with standards such as UL, CSA, IEC.\n\nEqual Employment Opportunity Commission (EEOC) Statement\n\nReliance One, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.\n\nThis policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "San Antonio, TX",
+    "job_city": "San Antonio",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 29.4251905,
+    "job_longitude": -98.4945922,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D81ZVDOspuqCPEf9AAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 90000,
+    "job_max_salary": 120000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Work Authorization: Must have US work authorization; H1B sponsorship not available",
+        "BS in Engineering or related discipline",
+        "7+ years of relevant PCB design experience",
+        "Expert in PCB layout techniques and best practices (EMC, thermal, small signal integrity)",
+        "Highly proficient with the Altium tool suite",
+        "Experience interpreting electrical schematics to create optimal PCB layouts",
+        "Experience with 10+ layer PCB designs",
+        "Familiarity with standards such as UL, CSA, IEC"
+      ],
+      "Benefits": [
+        "Compensation: $100,000 – $120,000 base salary",
+        "Benefits: Competitive benefits",
+        "Relocation: Assistance offered"
+      ],
+      "Responsibilities": [
+        "This role requires precision, collaboration, and expertise with Altium design software",
+        "Design printed circuit boards for new products, ensuring high-quality, defect-free designs within project timelines",
+        "Generate Gerber data and all necessary fabrication files",
+        "Create PCB footprints from manufacturer datasheets and maintain component library",
+        "Collaborate with vendors, Mechanical, and Electrical Engineering teams to optimize packaging, thermal, electrical, and manufacturing performance",
+        "Independently interpret electrical standards (IEC, CSA, UL) and implement them in designs"
+      ]
+    },
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "www-linkedin-com-jobs-view-pcb-design-engineer-at-reliance-one-inc-4316950133",
     "_source": "new_jobs"
   },
   {
@@ -848,71 +929,53 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "81ZVDOspuqCPEf9AAAAAAA==",
-    "job_title": "PCB Design Engineer",
-    "employer_name": "Reliance One, Inc.",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkfhBscWLRhc6qJhTPo-zWQQr3LQdMrScrTp9l&s=0",
-    "employer_website": "https://www.reliance-one.com",
-    "job_publisher": "LinkedIn",
+    "job_id": "14oOCAM6crr1xgJUAAAAAA==",
+    "job_title": "Hybrid PCB Designer — Altium & High-Speed Layout",
+    "employer_name": "Life Fitness",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYMLI7wCKp2EPeLClXuZ6r9Y1gQULMV8ZPn5xH&s=0",
+    "employer_website": "https://www.lifefitness.com",
+    "job_publisher": "Mediabistro",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/pcb-design-engineer-at-reliance-one-inc-4316950133?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.mediabistro.com/jobs/2477289316-hybrid-pcb-designer-altium-and-high-speed-layout?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/pcb-design-engineer-at-reliance-one-inc-4316950133?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Mediabistro",
+        "apply_link": "https://www.mediabistro.com/jobs/2477289316-hybrid-pcb-designer-altium-and-high-speed-layout?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Printed Circuit Board Design Engineer (PCB Engineer)\n\nPCB Design Engineer\n\nLocation: San Antonio, Texas, United States\n\nEmployment Type: Full Time | Direct Hire | On Site\n\nCompensation: $100,000 – $120,000 base salary\n\nBenefits: Competitive benefits\n\nRelocation: Assistance offered\n\nWork Authorization: Must have US work authorization; H1B sponsorship not available\n\nOverview\n\nReliance One, Inc. is hiring for one of our clients for a PCB Design Engineer to develop printed circuit boards for advanced products including engine controllers, fuel system devices, lithium-ion battery management systems (BMS) and chargers, and IoT telematics systems. This role requires precision, collaboration, and expertise with Altium design software.\n\nKey Responsibilities\n• Design printed circuit boards for new products, ensuring high-quality, defect-free designs within project timelines.\n• Generate Gerber data and all necessary fabrication files.\n• Create PCB footprints from manufacturer datasheets and maintain component library.\n• Collaborate with vendors, Mechanical, and Electrical Engineering teams to optimize packaging, thermal, electrical, and manufacturing performance.\n• Independently interpret electrical standards (IEC, CSA, UL) and implement them in designs.\n\nRequired Qualifications\n• BS in Engineering or related discipline.\n• 7+ years of relevant PCB design experience.\n• Expert in PCB layout techniques and best practices (EMC, thermal, small signal integrity).\n• Highly proficient with the Altium tool suite.\n• Experience interpreting electrical schematics to create optimal PCB layouts.\n• Experience with 10+ layer PCB designs.\n• Familiarity with standards such as UL, CSA, IEC.\n\nEqual Employment Opportunity Commission (EEOC) Statement\n\nReliance One, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.\n\nThis policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.",
+    "job_description": "A leading fitness equipment manufacturer seeks a Printed Circuit Board Designer in Schaumburg, IL. This hybrid role involves designing PCBs for innovative fitness technology, requiring expertise in Altium Designer and collaborative work with engineers. The ideal candidate has 5+ years of experience and a Bachelor's in Electrical Engineering, with a strong focus on high-speed layouts and manufacturing standards.\n#J-18808-Ljbffr",
     "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "San Antonio, TX",
-    "job_city": "San Antonio",
-    "job_state": "Texas",
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Chicago, IL",
+    "job_city": "Chicago",
+    "job_state": "Illinois",
     "job_country": "US",
-    "job_latitude": 29.4251905,
-    "job_longitude": -98.4945922,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D81ZVDOspuqCPEf9AAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 90000,
-    "job_max_salary": 120000,
-    "job_salary_period": "YEAR",
+    "job_latitude": 41.88325,
+    "job_longitude": -87.6323879,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D14oOCAM6crr1xgJUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Work Authorization: Must have US work authorization; H1B sponsorship not available",
-        "BS in Engineering or related discipline",
-        "7+ years of relevant PCB design experience",
-        "Expert in PCB layout techniques and best practices (EMC, thermal, small signal integrity)",
-        "Highly proficient with the Altium tool suite",
-        "Experience interpreting electrical schematics to create optimal PCB layouts",
-        "Experience with 10+ layer PCB designs",
-        "Familiarity with standards such as UL, CSA, IEC"
-      ],
-      "Benefits": [
-        "Compensation: $100,000 – $120,000 base salary",
-        "Benefits: Competitive benefits",
-        "Relocation: Assistance offered"
+        "The ideal candidate has 5+ years of experience and a Bachelor's in Electrical Engineering, with a strong focus on high-speed layouts and manufacturing standards"
       ],
       "Responsibilities": [
-        "This role requires precision, collaboration, and expertise with Altium design software",
-        "Design printed circuit boards for new products, ensuring high-quality, defect-free designs within project timelines",
-        "Generate Gerber data and all necessary fabrication files",
-        "Create PCB footprints from manufacturer datasheets and maintain component library",
-        "Collaborate with vendors, Mechanical, and Electrical Engineering teams to optimize packaging, thermal, electrical, and manufacturing performance",
-        "Independently interpret electrical standards (IEC, CSA, UL) and implement them in designs"
+        "This hybrid role involves designing PCBs for innovative fitness technology, requiring expertise in Altium Designer and collaborative work with engineers"
       ]
     },
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
-    "id": "www-linkedin-com-jobs-view-pcb-design-engineer-at-reliance-one-inc-4316950133",
+    "id": "www-mediabistro-com-jobs-2477289316-hybrid-pcb-designer-altium-and-high-speed-layout",
     "_source": "new_jobs"
   },
   {
@@ -947,9 +1010,9 @@
     "job_latitude": 40.1012856,
     "job_longitude": -75.3835525,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dqn7ytdHU-rhKSP1yAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -996,78 +1059,6 @@
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
     "id": "www-lockheedmartinjobs-com-job-highlands-ranch-printed-circuit-board-ecad-design-checker-iii-telework-694-91388097680",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "CFpnZ_42FIGjov0TAAAAAA==",
-    "job_title": "Altium PCB Designer",
-    "employer_name": "General Dynamics Mission Systems",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4TzeiXZ66BE_QPHSp1hea2hnCYG5jwbHhw80Y&s=0",
-    "employer_website": "https://gdmissionsystems.com",
-    "job_publisher": "GetHiredToday - Women For Hire",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.womenforhire.com/job/usa/julian-nc/altium-pcb-designer-021605/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "GetHiredToday - Women For Hire",
-        "apply_link": "https://jobs.womenforhire.com/job/usa/julian-nc/altium-pcb-designer-021605/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Basic Qualifications\n\nAssociate's degree or equivalent is required plus a minimum of 7 years of relevant experience.\n\nCLEARANCE REQUIREMENTS: Department of Defense Secret security clearance is preferred or obtainable within a reasonable amount of time after hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.\n\nResponsibilities for this Position\n\nRole and Position Objectives:\n\nQualifications\n\nAs a PCB Designer for Undersea Systems, you'll support CCA development for electronics used in high reliability undersea communication systems. We encourage you to apply if you have any of these preferred skills or experiences:\n• A minimum of four years' experience using Altium for PCB design.\n• Preferred candidates can work onsite in McLeansville North Carolina 3 or more days per week.\n\nWhat sets you apart:\n• Experience with Altium Designer 27 or Altium IPC footprint and schematic generators\n• Experience with library management practices in Altium or Xpedition.\n• Knowledge of PCB layout tools from the Mentor Graphics suite (xDM, Xpedition. DXdatabook, BoardStation, Hyperlynx).\n• Experience with schematic capture in Xpedition and Altium is valuable.\n• 3D modeling in Solidworks, NX, or CREO.\n• Experience with Footprint Expert.\n• Circuit design and hands on prototyping experience.\n• Basic knowledge of IPC and manufacturing standards.\n• In depth knowledge of CCA fabrication techniques. Ability to communicate with suppliers when asked to provide clarification on design documentation packages.\n• Documentation capture including (bill of material parts lists, ODB++ digital fabrication packages, 3D model generation)\n\nOur Commitment to You:\n• An exciting career path with opportunities for continuous learning and development.\n• Research oriented work, alongside award winning teams developing practical solutions for our nation's security\n• Flexible schedules with every other Friday off work, if desired (9/80 schedule)\n\nWorkplace Options:\n• This position is onsite/hybrid\n• While on-site, you will be a part of the McLeansville, NC location.\n\nhttps://gdmissionsystems.com/about-us/major-locations/greensboro\n\nSalary Note\n\nThis estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled.\n\nCombined Salary Range\n\nUSD $56.73 - USD $60.84 /Hr.\n\nCompany Overview\n\nGeneral Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 12,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high-performance team!\n\nEqual Opportunity Employer / Individuals with Disabilities / Protected Veterans",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Julian, NC",
-    "job_city": "Julian",
-    "job_state": "North Carolina",
-    "job_country": "US",
-    "job_latitude": 35.905136299999995,
-    "job_longitude": -79.660304,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCFpnZ_42FIGjov0TAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Associate's degree or equivalent is required plus a minimum of 7 years of relevant experience",
-        "Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information",
-        "As a PCB Designer for Undersea Systems, you'll support CCA development for electronics used in high reliability undersea communication systems",
-        "Experience with Altium Designer 27 or Altium IPC footprint and schematic generators",
-        "Experience with library management practices in Altium or Xpedition",
-        "Knowledge of PCB layout tools from the Mentor Graphics suite (xDM, Xpedition",
-        "Experience with schematic capture in Xpedition and Altium is valuable",
-        "3D modeling in Solidworks, NX, or CREO",
-        "Experience with Footprint Expert",
-        "Circuit design and hands on prototyping experience",
-        "Basic knowledge of IPC and manufacturing standards",
-        "In depth knowledge of CCA fabrication techniques"
-      ],
-      "Benefits": [
-        "An exciting career path with opportunities for continuous learning and development",
-        "Research oriented work, alongside award winning teams developing practical solutions for our nation's security",
-        "Flexible schedules with every other Friday off work, if desired (9/80 schedule)",
-        "Salary Note",
-        "This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary",
-        "Combined Salary Range",
-        "USD $56.73 - USD $60.84 /Hr",
-        "You will also enjoy a flexible work environment where contributions are recognized and rewarded"
-      ],
-      "Responsibilities": [
-        "Ability to communicate with suppliers when asked to provide clarification on design documentation packages",
-        "Documentation capture including (bill of material parts lists, ODB++ digital fabrication packages, 3D model generation)"
-      ]
-    },
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "jobs-womenforhire-com-job-usa-julian-nc-altium-pcb-designer-021605",
     "_source": "new_jobs"
   },
   {
@@ -1146,251 +1137,6 @@
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
     "id": "www-ziprecruiter-com-c-dbsi-services-inc-job-senior-pcb-ecad-design-engineer-in-freedom-pa",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "lBNF7_EsXre50hrMAAAAAA==",
-    "job_title": "Senior PCB Designer II (RF) - Full-time",
-    "employer_name": "CesiumAstro",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrivxGrCn-xppVib3G7ueSLC_rkpZ6TnXvX_Jz&s=0",
-    "employer_website": "https://www.cesiumastro.com",
-    "job_publisher": "Snagajob",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.snagajob.com/jobs/1170015403?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Snagajob",
-        "apply_link": "https://www.snagajob.com/jobs/1170015403?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Please Note: To conform with the United States Government Space Technology Export Regulations, the applicant must be a U.S. citizen, lawful permanent resident of the U.S., conditional resident, asylee or refugee (protected individuals as defined by 8 U.S.C. 1324b(a)(3)), or eligible to obtain the required authorizations from the U.S. Department of State.\n\nAt CesiumAstro, we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn, develop, and engage across our organization. If you are looking for hands-on, interactive, and autonomous work, CesiumAstro is the place for you. We are actively seeking passionate, collaborative, energetic, and forward-thinking individuals to join our team.\n\nWe are looking to add a Senior PCB Designer II (RF) to our team. If you are excited about working in a startup environment, have a strong work ethic, and are passionate about cutting-edge electronics, we would like to hear from you.\n\nIn this position, you will perform PCB layout and library management for state-of-the-art power, digital, and RF electronics for aerospace applications. Electronics design is a core part of the company’s business, and as such, these functions are critical. You will have the opportunity to work with and learn from a highly talented team with state-of-the-art tools.\n\nAs a small company, the Cesium team “wears many hats.” Candidates should be comfortable with a varied workflow that may involve multitasking between PCB layout, library management, schematic capture, review, and other related tasks.\n\nWe are looking to add a Senior PCB Designer II (RF) to our team. If you are excited about working in a startup environment, have a strong work ethic, and are passionate about cutting-edge electronics, we would like to hear from you.\n\nIn this position, you will perform PCB layout and library management for state-of-the-art power, digital, and RF electronics for aerospace applications. Electronics design is a core part of the company’s business, and as such, these functions are critical. You will have the opportunity to work with and learn from a highly talented team with state-of-the-art tools.\n\nAs a small company, the Cesium team “wears many hats.” Candidates should be comfortable with a varied workflow that may involve multitasking between PCB layout, library management, schematic capture, review, and other related tasks.\n\nJOB DUTIES AND RESPONSIBILITIES\n• Perform complex RF and mixed-signal PCB layout in Altium Designer, working closely with engineers on staff.\n• Own intricate and challenging PCB layouts that often feature 30 GHz RF, power, and digital on the same board, with high density and complex stackups.\n• Generate and revise drawings and release packages for PCBs and assemblies.\n• Manage and maintain electronic component libraries in Altium Enterprise.\n• Generate and review schematic symbols and footprints.\n• Maintain templates for schematics, layouts, bills-of-materials (BOMs), and other documents.\n\nJOB REQUIREMENTS AND MINIMUM QUALIFICATIONS\n• An Associate degree in Electronics Engineering Technology or similar.\n• 7 years of experience as a PCB Designer.\n• Strong experience with Altium Designer.\n• Strong understanding of the technical principles of PCB layout, with a focus on high-frequency RF. This includes shielding and impedance matching among others.\n• Experience with high-reliability, aerospace, and/or IPC Class 3 designs.\n• Experience with advanced PCB manufacturing techniques such as blind vias and microvias.\n• Strong organizational skills.\n• An eye for detail and commitment to excellence.\n• Comfortability with collaboration tools such as MS Teams, Confluence, and Jira.\n• The ability to work well under deadlines.\n• Strong digital, written, and spoken communication skills, especially in the context of working with hardware engineers and mechanical engineers to complete a layout.\n\nPREFERRED EXPERIENCE\n• Experience managing an electronic component library.\n• Experience with PLM systems such as Arena.\n\nCesiumAstro considers several factors when extending an offer, including but not limited to, the role and associated responsibilities, a candidate’s work experience, education/training, and key skills. Full-time employment offers include company stock options and a generous benefits package including health, dental, vision, HSA, FSA, life, disability and retirement plans.\n\nCesiumAstro is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected Veteran Status, or any other characteristic protected by applicable federal, state, or local law.\n\nPlease note: CesiumAstro does not accept unsolicited resumes from contract agencies or search firms. Any unsolicited resumes submitted to our website or to CesiumAstro team members not through our approved vendor list or Talent Acquisition will be considered property of CesiumAstro, and we will not be obligated to pay any referral fees.\n\nPlease Note: To conform with the United States Government Space Technology Export Regulations, the applicant must be a U.S. citizen, lawful permanent resident of the U.S., conditional resident, asylee or refugee (protected individuals as defined by 8 U.S.C. 1324b(a)(3)), or eligible to obtain the required authorizations from the U.S. Department of State.\n\nAt CesiumAstro, we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn, develop, and engage across our organization. If you are looking for hands-on, interactive, and autonomous work, CesiumAstro is the place for you. We are actively seeking passionate, collaborative, energetic, and forward-thinking individuals to join our team.\n\nWe are looking to add a Senior PCB Designer II (RF) to our team. If you are excited about working in a startup environment, have a strong work ethic, and are passionate about cutting-edge electronics, we would like to hear from you.\n\nIn this position, you will perform PCB layout and library management for state-of-the-art power, digital, and RF electronics for aerospace applications. Electronics design is a core part of the company’s business, and as such, these functions are critical. You will have the opportunity to work with and learn from a highly talented team with state-of-the-art tools.\n\nAs a small company, the Cesium team “wears many hats.” Candidates should be comfortable with a varied workflow that may involve multitasking between PCB layout, library management, schematic capture, review, and other related tasks.\n\nWe are looking to add a Senior PCB Designer II (RF) to our team. If you are excited about working in a startup environment, have a strong work ethic, and are passionate about cutting-edge electronics, we would like to hear from you.\n\nIn this position, you will perform PCB layout and library management for state-of-the-art power, digital, and RF electronics for aerospace applications. Electronics design is a core part of the company’s business, and as such, these functions are critical. You will have the opportunity to work with and learn from a highly talented team with state-of-the-art tools.\n\nAs a small company, the Cesium team “wears many hats.” Candidates should be comfortable with a varied workflow that may involve multitasking between PCB layout, library management, schematic capture, review, and other related tasks.\n\nJOB DUTIES AND RESPONSIBILITIES\n• Perform complex RF and mixed-signal PCB layout in Altium Designer, working closely with engineers on staff.\n• Own intricate and challenging PCB layouts that often feature 30 GHz RF, power, and digital on the same board, with high density and complex stackups.\n• Generate and revise drawings and release packages for PCBs and assemblies.\n• Manage and maintain electronic component libraries in Altium Enterprise.\n• Generate and review schematic symbols and footprints.\n• Maintain templates for schematics, layouts, bills-of-materials (BOMs), and other documents.\n\nJOB REQUIREMENTS AND MINIMUM QUALIFICATIONS\n• An Associate degree in Electronics Engineering Technology or similar.\n• 7 years of experience as a PCB Designer.\n• Strong experience with Altium Designer.\n• Strong understanding of the technical principles of PCB layout, with a focus on high-frequency RF. This includes shielding and impedance matching among others.\n• Experience with high-reliability, aerospace, and/or IPC Class 3 designs.\n• Experience with advanced PCB manufacturing techniques such as blind vias and microvias.\n• Strong organizational skills.\n• An eye for detail and commitment to excellence.\n• Comfortability with collaboration tools such as MS Teams, Confluence, and Jira.\n• The ability to work well under deadlines.\n• Strong digital, written, and spoken communication skills, especially in the context of working with hardware engineers and mechanical engineers to complete a layout.\n\nPREFERRED EXPERIENCE\n• Experience managing an electronic component library.\n• Experience with PLM systems such as Arena.\n\nCesiumAstro considers several factors when extending an offer, including but not limited to, the role and associated responsibilities, a candidate’s work experience, education/training, and key skills. Full-time employment offers include company stock options and a generous benefits package including health, dental, vision, HSA, FSA, life, disability and retirement plans.\n\nCesiumAstro is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected Veteran Status, or any other characteristic protected by applicable federal, state, or local law.\n\nPlease note: CesiumAstro does not accept unsolicited resumes from contract agencies or search firms. Any unsolicited resumes submitted to our website or to CesiumAstro team members not through our approved vendor list or Talent Acquisition will be considered property of CesiumAstro, and we will not be obligated to pay any referral fees.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Westminster, CO",
-    "job_city": "Westminster",
-    "job_state": "Colorado",
-    "job_country": "US",
-    "job_latitude": 39.836652799999996,
-    "job_longitude": -105.0372046,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlBNF7_EsXre50hrMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": "HOUR",
-    "job_highlights": {
-      "Qualifications": [
-        "Please Note: To conform with the United States Government Space Technology Export Regulations, the applicant must be a U.S. citizen, lawful permanent resident of the U.S., conditional resident, asylee or refugee (protected individuals as defined by 8 U.S.C",
-        "1324b(a)(3)), or eligible to obtain the required authorizations from the U.S",
-        "An Associate degree in Electronics Engineering Technology or similar",
-        "7 years of experience as a PCB Designer",
-        "Strong experience with Altium Designer",
-        "Strong understanding of the technical principles of PCB layout, with a focus on high-frequency RF",
-        "Experience with high-reliability, aerospace, and/or IPC Class 3 designs",
-        "Experience with advanced PCB manufacturing techniques such as blind vias and microvias",
-        "Strong organizational skills",
-        "An eye for detail and commitment to excellence",
-        "Comfortability with collaboration tools such as MS Teams, Confluence, and Jira",
-        "The ability to work well under deadlines",
-        "Strong digital, written, and spoken communication skills, especially in the context of working with hardware engineers and mechanical engineers to complete a layout",
-        "CesiumAstro considers several factors when extending an offer, including but not limited to, the role and associated responsibilities, a candidate’s work experience, education/training, and key skills",
-        "Please Note: To conform with the United States Government Space Technology Export Regulations, the applicant must be a U.S. citizen, lawful permanent resident of the U.S., conditional resident, asylee or refugee (protected individuals as defined by 8 U.S.C",
-        "1324b(a)(3)), or eligible to obtain the required authorizations from the U.S",
-        "As a small company, the Cesium team “wears many hats.” Candidates should be comfortable with a varied workflow that may involve multitasking between PCB layout, library management, schematic capture, review, and other related tasks",
-        "As a small company, the Cesium team “wears many hats.” Candidates should be comfortable with a varied workflow that may involve multitasking between PCB layout, library management, schematic capture, review, and other related tasks",
-        "An Associate degree in Electronics Engineering Technology or similar",
-        "7 years of experience as a PCB Designer",
-        "Strong experience with Altium Designer",
-        "Strong understanding of the technical principles of PCB layout, with a focus on high-frequency RF",
-        "This includes shielding and impedance matching among others",
-        "Experience with high-reliability, aerospace, and/or IPC Class 3 designs",
-        "Experience with advanced PCB manufacturing techniques such as blind vias and microvias",
-        "Strong organizational skills",
-        "An eye for detail and commitment to excellence",
-        "Comfortability with collaboration tools such as MS Teams, Confluence, and Jira",
-        "The ability to work well under deadlines",
-        "Strong digital, written, and spoken communication skills, especially in the context of working with hardware engineers and mechanical engineers to complete a layout",
-        "CesiumAstro considers several factors when extending an offer, including but not limited to, the role and associated responsibilities, a candidate’s work experience, education/training, and key skills"
-      ],
-      "Benefits": [
-        "Full-time employment offers include company stock options and a generous benefits package including health, dental, vision, HSA, FSA, life, disability and retirement plans",
-        "Full-time employment offers include company stock options and a generous benefits package including health, dental, vision, HSA, FSA, life, disability and retirement plans"
-      ],
-      "Responsibilities": [
-        "In this position, you will perform PCB layout and library management for state-of-the-art power, digital, and RF electronics for aerospace applications",
-        "Electronics design is a core part of the company’s business, and as such, these functions are critical",
-        "You will have the opportunity to work with and learn from a highly talented team with state-of-the-art tools",
-        "As a small company, the Cesium team “wears many hats.” Candidates should be comfortable with a varied workflow that may involve multitasking between PCB layout, library management, schematic capture, review, and other related tasks",
-        "In this position, you will perform PCB layout and library management for state-of-the-art power, digital, and RF electronics for aerospace applications",
-        "Electronics design is a core part of the company’s business, and as such, these functions are critical",
-        "You will have the opportunity to work with and learn from a highly talented team with state-of-the-art tools",
-        "As a small company, the Cesium team “wears many hats.” Candidates should be comfortable with a varied workflow that may involve multitasking between PCB layout, library management, schematic capture, review, and other related tasks",
-        "Perform complex RF and mixed-signal PCB layout in Altium Designer, working closely with engineers on staff",
-        "Own intricate and challenging PCB layouts that often feature 30 GHz RF, power, and digital on the same board, with high density and complex stackups",
-        "Generate and revise drawings and release packages for PCBs and assemblies",
-        "Manage and maintain electronic component libraries in Altium Enterprise",
-        "Generate and review schematic symbols and footprints",
-        "Maintain templates for schematics, layouts, bills-of-materials (BOMs), and other documents",
-        "This includes shielding and impedance matching among others",
-        "In this position, you will perform PCB layout and library management for state-of-the-art power, digital, and RF electronics for aerospace applications",
-        "Electronics design is a core part of the company’s business, and as such, these functions are critical",
-        "You will have the opportunity to work with and learn from a highly talented team with state-of-the-art tools",
-        "In this position, you will perform PCB layout and library management for state-of-the-art power, digital, and RF electronics for aerospace applications",
-        "Electronics design is a core part of the company’s business, and as such, these functions are critical",
-        "You will have the opportunity to work with and learn from a highly talented team with state-of-the-art tools",
-        "Perform complex RF and mixed-signal PCB layout in Altium Designer, working closely with engineers on staff",
-        "Own intricate and challenging PCB layouts that often feature 30 GHz RF, power, and digital on the same board, with high density and complex stackups",
-        "Generate and revise drawings and release packages for PCBs and assemblies",
-        "Manage and maintain electronic component libraries in Altium Enterprise",
-        "Generate and review schematic symbols and footprints",
-        "Maintain templates for schematics, layouts, bills-of-materials (BOMs), and other documents"
-      ]
-    },
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "www-snagajob-com-jobs-1170015403",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "ISS-F9eWcwC2fiznAAAAAA==",
-    "job_title": "PCB Designer - NASA Avionics Systems - Military Veterans",
-    "employer_name": "Amentum",
-    "employer_logo": null,
-    "employer_website": "https://www.amentum.com",
-    "job_publisher": "Jobs For Veterans & Job Fairs Nationwide | RecruitMilitary",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://my.recruitmilitary.com/job/47943691/PCB-Designer-NASA-Avionics-Systems-Amentum-Houston-TX?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobs For Veterans & Job Fairs Nationwide | RecruitMilitary",
-        "apply_link": "https://my.recruitmilitary.com/job/47943691/PCB-Designer-NASA-Avionics-Systems-Amentum-Houston-TX?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Clearance Jobs",
-        "apply_link": "https://www.clearancejobs.com/jobs/8749298/pcb-designer-nasa-avionics-systems?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Are you passionate about human space exploration, understanding the origins of the universe, and working with a passionate and diverse team to make a difference? If you are, we need you!\n\nWe need your talent, teamwork, and energy to help us achieve great things that inspire people all over the globe. We need you to bring creative ideas and diverse backgrounds to help us envision, shape, and deliver systems that will enable the exploration of space while benefiting people here on Earth. We are excited about what we do, and we need you on our team as we take on exciting challenges for NASA's pursuits in deep space exploration. As NASA's largest engineering solutions provider working together with NASA at centers across the United States.\n\nWe have an exciting opportunity for a temporary intermittent PCB Designer - NASA Avionics Systems to join the JETSII Contract.\n\nWe are looking for a PCB Designer - NASA Avionics Systems to join our team. Do you have the following skills?\n• Report directly to the Electronics and Electrical Section Manager as part of group of over 45 Electronics and Electrical Engineers and Designers.\n• Provide printed circuit board design support to various projects at NASA Johnson Space Center.\n• Create multilayer PCB designs and layouts using Altium Designer.\n• Work with Electrical Engineers to implement desired design packages.\n• Work with Mechanical Engineers and Designers to implement desired packaging plans.\n• Perform the implementation of analog, digital, high frequency, matched differential pairs, and high-power circuitry, utilizing through hole and surface mount technologies.\n• Create Gerber data and package all files for fabrication.\n• Create PCB footprints for the master library by interpreting manufacturer's data sheets.\n• Document and archive schematic diagrams, PCB assembly drawings, PCB mechanical support drawings, and wiring harness drawings.\n• Work with vendors to communicate and provide clarity during PCB fabrication.\n• Perform other tasks assigned.\n\nRequisition Qualifications:\n\nThis position has been posted at multiple levels. Depending on the candidate's experience, requirements, and business needs, we reserve the right to consider candidates at any level for which this position has been advertised.\n• Typically requires a HS Diploma or its equivalent and 15 years of experience in the field or related area and may require additional experience or education in one of the physical sciences directly applicable to the tasks performed\nPCB Development and Design:\n• Knowledge of IPC standards.\n• In-depth experience, proficiency, and knowledge of Altium Designer.\n• Extensive experience with component library management and creation.\n• Experience with creating, updating and modifications of 3D component models.\n• Familiar with both MIL-STD and commercial components.\n• Proficient in high-density/high-speed design.\n• Experience with low noise design and minimization of EMI/EMC.\n• Highly accomplished experience with multi-layer PCB IPC Class 3 designs for space applications.\n• Experience with DRCs and interfacing with manufacturing to produce designs that meet DFM guidelines.\nPCB Designer to provide expertise in the following areas:\n• Create PCB footprints and symbols for component library by interpreting manufacturer's data sheets and engineering parts request.\n• Drive and ensure ECAD standards are followed for components and projects.\n• Ensure appropriate DRCs and DFM guidelines are followed.\n• Provide PCB design support to various projects using Altium Designer.\n• Work with Electrical Engineers to execute design packages.\n• Work with Mechanical Engineers to ensure PCB form, fit, and function.\n• Perform the implementation of analog, digital, high frequency, matched differential pairs, and high-power circuitry, utilizing through hole and surface mount technologies.\n• Document and archive schematic diagrams, PCB assembly drawings, PCB mechanical support drawings, and wiring harness drawings.\n• Work with vendor manufacturers to communicate and provide clarity during PCB fabrication.\nRequisition Preferences:\n• In-depth experience, proficiency, and knowledge of Altium Designer.\n• Detailed knowledge of IPC standards (such as IPC-2222 and IPC-2221A)\n• IPC CID Certification.\n• Experience with other printed circuit board design packages such as PADS, Mentor Graphics, ORCAD Capture etc.\n• Experience and knowledge with impedance control and matching, differential pairs, buried capacitance,\nEMI control, high frequency applications etc.\n• Familiarity with NASA and or Military design/drawing standards.\n• Working knowledge of high power applications and design for thermal management.\n• Extensive experience with various form factors and specifications including but not limited to PCIe, PCI, VME etc.\n• Experience with layout of multi-pin fine pitch and ball grid components.\n• Working knowledge of the PCB fabrication and assembly processes.\n• Knowledge and skill in drafting methods, procedures and techniques required.\n• Must have the ability to produce drawings conforming to ASME Y14.5 using AutoCad and or Pro/E.\n• Proficient in MS Office programs, particularly MS Project, Excel, PowerPoint, Word and Outlook.\n• Excellent communication and organizational skills and the ability to work in a team environment.\nWhy Join Our Team?\n\nIn addition to exciting career opportunities, we also have:\n• Excellent personal and professional career growth\n• 9/80 work schedule (every other Friday off), when applicable\n• Onsite cafeteria (breakfast & lunch)\n• Much, much more!\nFor more information on our partnership with NASA at Johnson Space Center (JSC), please visit www.wehavespaceforyou.com\n• Proof of U.S. Citizenship or US Permanent Residency may be a requirement for this position.\n• Must be able to complete a U.S. government background investigation.\n• Management has the prerogative to select at any level for which the position is advertised.\n\nEssential Functions\n\nWork Environment\n\nGenerally, an office environment, but can involve inside or outside work depending on task.\n\nPhysical Requirements\n\nWork may involve sitting or standing for extended periods (90% of time). May require lifting and carrying up to 25 lbs. (5% of time).\n\nEquipment and Machines\n\nStandard office equipment (PC, telephone, printer, etc.).\n\nAttendance\n\nRegular attendance in accordance with established work schedule is critical. Ability to work outside normal schedule and adjust schedule to meet peak periods and surge requirements.\n\nOther Essential Functions\n\nProfessional behavior that enhances productivity and promotes teamwork and cooperation. Grooming and dress must be appropriate for the position and must not impose a safety risk/hazard to the employee or others.\n\n#JETS #JETSII\n\nCompensation Details:\nTNS\n\nThe compensation range or hourly rate listed for this position is provided as a good-faith estimate of what the company intends to offer for this role at the time this posting was issued. Actual compensation may vary based on factors such as job responsibilities, education, experience, skills, internal equity, market data, applicable collective bargaining agreements, and relevant laws.\n\nBenefits Overview:\n\nOur health and welfare benefits are designed to support you and your priorities. Offerings include:\n• Health, dental, and vision insurance\n• Paid time off and holidays\n• Retirement benefits (including 401(k) matching)\n• Educational reimbursement\n• Parental leave\n• Employee stock purchase plan\n• Tax-saving options\n• Disability and life insurance\n• Pet insurance\n\nNote: Benefits may vary based on employment type, location, and applicable agreements. Positions governed by a Collective Bargaining Agreement (CBA), the McNamara-O'Hara Service Contract Act (SCA), or other employment contracts may include different provisions/benefits.\n\nOriginal Posting:\n02/12/2026 - Until Filled\nAmentum anticipates this job requisition will remain open for at least three days, with a closing date no earlier than three days after the original posting. This timeline may change based on business needs.\n\nAmentum is proud to be an Equal Opportunity Employer. Our hiring practices provide equal opportunity for employment without regard to race, sex, sexual orientation, pregnancy (including pregnancy, childbirth, breastfeeding, or medical conditions related to pregnancy, childbirth, or breastfeeding), age, ancestry, United States military or veteran status, color, religion, creed, marital or domestic partner status, medical condition, genetic information, national origin, citizenship status, low-income status, or mental or physical disability so long as the essential functions of the job can be performed with or without reasonable accommodation, or any other protected category under federal, state, or local law. Learn more about your rights under Federal laws and supplemental language at Labor Laws Posters.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Houston, TX",
-    "job_city": "Houston",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 29.7600771,
-    "job_longitude": -95.37011079999999,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DISS-F9eWcwC2fiznAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Report directly to the Electronics and Electrical Section Manager as part of group of over 45 Electronics and Electrical Engineers and Designers",
-        "Typically requires a HS Diploma or its equivalent and 15 years of experience in the field or related area and may require additional experience or education in one of the physical sciences directly applicable to the tasks performed",
-        "Knowledge of IPC standards",
-        "In-depth experience, proficiency, and knowledge of Altium Designer",
-        "Extensive experience with component library management and creation",
-        "Familiar with both MIL-STD and commercial components",
-        "Proficient in high-density/high-speed design",
-        "Experience with low noise design and minimization of EMI/EMC",
-        "Highly accomplished experience with multi-layer PCB IPC Class 3 designs for space applications",
-        "In-depth experience, proficiency, and knowledge of Altium Designer",
-        "Detailed knowledge of IPC standards (such as IPC-2222 and IPC-2221A)",
-        "IPC CID Certification",
-        "Experience with other printed circuit board design packages such as PADS, Mentor Graphics, ORCAD Capture etc",
-        "Experience and knowledge with impedance control and matching, differential pairs, buried capacitance,",
-        "EMI control, high frequency applications etc",
-        "Familiarity with NASA and or Military design/drawing standards",
-        "Working knowledge of high power applications and design for thermal management",
-        "Extensive experience with various form factors and specifications including but not limited to PCIe, PCI, VME etc",
-        "Experience with layout of multi-pin fine pitch and ball grid components",
-        "Working knowledge of the PCB fabrication and assembly processes",
-        "Knowledge and skill in drafting methods, procedures and techniques required",
-        "Must have the ability to produce drawings conforming to ASME Y14.5 using AutoCad and or Pro/E",
-        "Proficient in MS Office programs, particularly MS Project, Excel, PowerPoint, Word and Outlook",
-        "Excellent communication and organizational skills and the ability to work in a team environment",
-        "Proof of U.S. Citizenship or US Permanent Residency may be a requirement for this position",
-        "Must be able to complete a U.S. government background investigation",
-        "Management has the prerogative to select at any level for which the position is advertised",
-        "Work may involve sitting or standing for extended periods (90% of time)",
-        "May require lifting and carrying up to 25 lbs",
-        "Standard office equipment (PC, telephone, printer, etc.)",
-        "Regular attendance in accordance with established work schedule is critical",
-        "Ability to work outside normal schedule and adjust schedule to meet peak periods and surge requirements",
-        "Grooming and dress must be appropriate for the position and must not impose a safety risk/hazard to the employee or others"
-      ],
-      "Benefits": [
-        "In addition to exciting career opportunities, we also have:",
-        "Excellent personal and professional career growth",
-        "9/80 work schedule (every other Friday off), when applicable",
-        "Onsite cafeteria (breakfast & lunch)",
-        "Much, much more!",
-        "The compensation range or hourly rate listed for this position is provided as a good-faith estimate of what the company intends to offer for this role at the time this posting was issued",
-        "Actual compensation may vary based on factors such as job responsibilities, education, experience, skills, internal equity, market data, applicable collective bargaining agreements, and relevant laws",
-        "Our health and welfare benefits are designed to support you and your priorities",
-        "Health, dental, and vision insurance",
-        "Paid time off and holidays",
-        "Retirement benefits (including 401(k) matching)",
-        "Educational reimbursement",
-        "Parental leave",
-        "Employee stock purchase plan",
-        "Tax-saving options",
-        "Disability and life insurance",
-        "Pet insurance"
-      ],
-      "Responsibilities": [
-        "Provide printed circuit board design support to various projects at NASA Johnson Space Center",
-        "Create multilayer PCB designs and layouts using Altium Designer",
-        "Work with Electrical Engineers to implement desired design packages",
-        "Work with Mechanical Engineers and Designers to implement desired packaging plans",
-        "Perform the implementation of analog, digital, high frequency, matched differential pairs, and high-power circuitry, utilizing through hole and surface mount technologies",
-        "Create Gerber data and package all files for fabrication",
-        "Create PCB footprints for the master library by interpreting manufacturer's data sheets",
-        "Document and archive schematic diagrams, PCB assembly drawings, PCB mechanical support drawings, and wiring harness drawings",
-        "Work with vendors to communicate and provide clarity during PCB fabrication",
-        "Perform other tasks assigned",
-        "Experience with creating, updating and modifications of 3D component models",
-        "Experience with DRCs and interfacing with manufacturing to produce designs that meet DFM guidelines",
-        "PCB Designer to provide expertise in the following areas:",
-        "Create PCB footprints and symbols for component library by interpreting manufacturer's data sheets and engineering parts request",
-        "Drive and ensure ECAD standards are followed for components and projects",
-        "Ensure appropriate DRCs and DFM guidelines are followed",
-        "Provide PCB design support to various projects using Altium Designer",
-        "Work with Electrical Engineers to execute design packages",
-        "Work with Mechanical Engineers to ensure PCB form, fit, and function",
-        "Perform the implementation of analog, digital, high frequency, matched differential pairs, and high-power circuitry, utilizing through hole and surface mount technologies",
-        "Document and archive schematic diagrams, PCB assembly drawings, PCB mechanical support drawings, and wiring harness drawings",
-        "Work with vendor manufacturers to communicate and provide clarity during PCB fabrication",
-        "Generally, an office environment, but can involve inside or outside work depending on task",
-        "Professional behavior that enhances productivity and promotes teamwork and cooperation"
-      ]
-    },
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "my-recruitmilitary-com-job-47943691-pcb-designer-nasa-avionics-systems-amentum-houston-tx",
     "_source": "new_jobs"
   },
   {
@@ -1660,8 +1406,8 @@
     "job_longitude": -93.0899578,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DM4hBb8eJD7oL0ITOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 78000,
@@ -1755,9 +1501,9 @@
     "job_latitude": 45.1602442,
     "job_longitude": -93.0888324,
     "job_benefits": [
+      "paid_time_off",
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBSlkHCADUJ8MwZ3nAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -2075,9 +1821,9 @@
     "job_latitude": 40.854906,
     "job_longitude": -73.1954295,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlMQHmQcOKzQWi4gZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
