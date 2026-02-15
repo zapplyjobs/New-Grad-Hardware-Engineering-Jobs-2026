@@ -1,7 +1,7 @@
 {
   "date": "Sun Feb 15 2026",
-  "requests": 16,
-  "remaining": 14,
+  "requests": 17,
+  "remaining": 13,
   "queries_executed": [
     "hardware engineer",
     "hardware engineer",
@@ -16,6 +16,7 @@
     "pcb designer",
     "pcb designer",
     "pcb designer",
+    "hardware design engineer",
     "hardware design engineer",
     "hardware design engineer",
     "hardware design engineer"

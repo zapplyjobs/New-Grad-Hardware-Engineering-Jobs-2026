@@ -67,8 +67,8 @@
     "job_longitude": -73.89144069999999,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZB-1SrnizaRgXtyiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -170,9 +170,9 @@
     "job_latitude": 40.5852602,
     "job_longitude": -105.084423,
     "job_benefits": [
+      "paid_time_off",
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUP8rEQMr4kJOOJZVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 93400,
@@ -464,9 +464,9 @@
     "job_latitude": 42.4072107,
     "job_longitude": -71.3824374,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLN5OVNWJvt52vdFZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 129000,
@@ -743,9 +743,9 @@
     "job_latitude": 41.9778795,
     "job_longitude": -91.6656232,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIXxi4suvwRo1-twtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -887,9 +887,9 @@
     "job_latitude": 40.8951079,
     "job_longitude": -74.2242141,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dgt6Fx8bFbWyG3Hq8AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -943,96 +943,6 @@
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
     "id": "jobs-baesystems-com-global-en-job-118764br-hardware-development-lead-hybrid",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "O4QM-2y5vWp9nDRKAAAAAA==",
-    "job_title": "Hardware Engineer - Junior (US)",
-    "employer_name": "Trilyon, Inc.",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFJSVj7ZYY5IwP8xLQn_FWed6mZ3yRpSHUbYna&s=0",
-    "employer_website": "https://trilyonservices.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=03958436271a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=03958436271a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Recruit.net",
-        "apply_link": "https://www.recruit.net/job/hardware-engineer-us-jobs/7516AE4DF2F57592?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "For over 16 years, Trilyon has been a leader in global workforce solutions, specializing in Cloud Technology, AI / ML, Software Development, Technical Writing, and Digital Transformation. We partner with top companies to deliver high-quality talent in engineering, IT, and emerging technologies. For additional information or to view all of our job opportunities, please visit our website https : / / trilyonservices.com / careers /\n\nWe are seeking a Hardware Engineer Junior (US) to join our team. This Hardware Engineer Junior role will involve board-level design, high-speed PCB development, hardware validation, and supporting first-silicon (First Si) hardware delivery for advanced adaptive embedded computing platforms. The ideal Hardware Engineer Junior will have experience in PCB schematic and layout design, ATE board development, signal and power integrity fundamentals, and lab-based debugging, along with a passion for semiconductor and FPGA-based hardware innovation. The Hardware Engineer Junior will collaborate closely with cross-functional engineering teams to ensure seamless hardware integration and production readiness. This Hardware Engineer Junior will contribute to strategic hardware planning and on-time product delivery. The Hardware Engineer Junior will play a critical role in designing and validating cutting-edge hardware solutions.\n\nJob Title : Hardware Engineer Junior (US) (AMDJP00004898)\n\nLocation : San Jose, CA (On-site)\n\nDuration : March 9, 2026 March 5, 2027\n\nJob Description :\n\nThe Hardware Engineer Junior will work as a board designer within the Hardware Engineering team responsible for developing first Si hardware boards, backend packaged test components, and system-level solutions supporting adaptive embedded computing products.\n\nThis role combines strategic planning and hands-on technical execution to design, validate, and deliver high-performance hardware solutions. The position supports hardware development from concept through production, ensuring quality, innovation, and alignment with delivery timelines.\n\nKey Responsibilities :\n\nSupport hardware design strategy aligned with engineering and organizational objectives.\n\nDrive core aspects of the hardware design lifecycle including schematic capture, PCB layout, validation, and production release.\n\nDesign high-speed PCBs including layout and schematic development.\n\nDevelop and support ATE and characterization boards (Advantest T2000 and 93K platforms preferred).\n\nDesign power distribution networks (PDN) for PCBs and multiphase power regulation systems.\n\nPerform SI & PI analysis using tools such as Cadence Sigrity, Ansys Siwave, and HFSS (preferred).\n\nConduct board bring-up, debug, and root cause analysis of design and fabrication failures.\n\nUtilize lab equipment including oscilloscopes, multimeters, and standard lab tools for validation and troubleshooting.\n\nCollaborate with product, qualification, pattern development, characterization engineering teams, program management, NPI, and production test sites to ensure seamless hardware integration.\n\nStay updated on emerging hardware technologies and FPGA / 3D IC advancements to drive innovation.\n\nRequired Education :\n\nBachelor's Degree in Electrical Engineering.\n\nRequired & Preferred Experience :\n\nDemonstrated experience collaborating within engineering teams and delivering to scheduled milestones.\n\nStrong hands-on experience in high-speed PCB design, layout, and schematic capture.\n\nProficiency with Cadence Allegro and Capture CIS .\n\nExperience with ATE and characterization board development (preferred).\n\nExperience designing PCB power distribution networks and multiphase regulators.\n\nSI / PI simulation experience (preferred).\n\nExperience with initial board bring-up and hardware debugging in lab environments.\n\nUnderstanding of FPGA technologies, multi-node architectures, and 3D IC packaging concepts (preferred).\n\nExposure to automation scripting using Python / C / C++ is a plus.\n\nRequired Skills :\n\nStrong PCB layout and schematic design skills.\n\nHigh-speed signal integrity and power integrity fundamentals.\n\nHardware debugging and root cause analysis capability.\n\nAbility to work in a collaborative, cross-functional engineering environment.\n\nStrong analytical and problem-solving skills.\n\nAbility to deliver hardware solutions on schedule with high quality standards.\n\nWhy Join Us?\n\nTrilyon, Inc., offers a comprehensive benefits package.\n\nOpportunities for growth and professional development.\n\nCollaborative and inclusive company culture.\n\nEqual Employment Opportunity (EEO) Statement :\n\nTrilyon, Inc., is an Equal Opportunity Employer committed to diversity, equity, and inclusion. We do not discriminate based on race, color, religion, gender, gender identity, sexual orientation, national origin, age, disability, veteran status, or any other protected status under applicable laws. Our diverse team drives innovation, competitiveness, and creativity, enhancing our ability to effectively serve our clients and communities. This commitment to diversity makes us stronger and more adaptable.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "California",
-    "job_city": null,
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 36.778261,
-    "job_longitude": -119.4179324,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DO4QM-2y5vWp9nDRKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor's Degree in Electrical Engineering",
-        "Demonstrated experience collaborating within engineering teams and delivering to scheduled milestones",
-        "Strong hands-on experience in high-speed PCB design, layout, and schematic capture",
-        "Proficiency with Cadence Allegro and Capture CIS ",
-        "Experience designing PCB power distribution networks and multiphase regulators",
-        "Experience with initial board bring-up and hardware debugging in lab environments",
-        "Strong PCB layout and schematic design skills",
-        "High-speed signal integrity and power integrity fundamentals",
-        "Hardware debugging and root cause analysis capability",
-        "Ability to work in a collaborative, cross-functional engineering environment",
-        "Strong analytical and problem-solving skills",
-        "Ability to deliver hardware solutions on schedule with high quality standards"
-      ],
-      "Benefits": [
-        "Trilyon, Inc., offers a comprehensive benefits package",
-        "Opportunities for growth and professional development",
-        "Collaborative and inclusive company culture"
-      ],
-      "Responsibilities": [
-        "This Hardware Engineer Junior role will involve board-level design, high-speed PCB development, hardware validation, and supporting first-silicon (First Si) hardware delivery for advanced adaptive embedded computing platforms",
-        "The ideal Hardware Engineer Junior will have experience in PCB schematic and layout design, ATE board development, signal and power integrity fundamentals, and lab-based debugging, along with a passion for semiconductor and FPGA-based hardware innovation",
-        "The Hardware Engineer Junior will collaborate closely with cross-functional engineering teams to ensure seamless hardware integration and production readiness",
-        "This Hardware Engineer Junior will contribute to strategic hardware planning and on-time product delivery",
-        "The Hardware Engineer Junior will play a critical role in designing and validating cutting-edge hardware solutions",
-        "The Hardware Engineer Junior will work as a board designer within the Hardware Engineering team responsible for developing first Si hardware boards, backend packaged test components, and system-level solutions supporting adaptive embedded computing products",
-        "This role combines strategic planning and hands-on technical execution to design, validate, and deliver high-performance hardware solutions",
-        "The position supports hardware development from concept through production, ensuring quality, innovation, and alignment with delivery timelines",
-        "Support hardware design strategy aligned with engineering and organizational objectives",
-        "Drive core aspects of the hardware design lifecycle including schematic capture, PCB layout, validation, and production release",
-        "Design high-speed PCBs including layout and schematic development",
-        "Develop and support ATE and characterization boards (Advantest T2000 and 93K platforms preferred)",
-        "Design power distribution networks (PDN) for PCBs and multiphase power regulation systems",
-        "Perform SI & PI analysis using tools such as Cadence Sigrity, Ansys Siwave, and HFSS (preferred)",
-        "Conduct board bring-up, debug, and root cause analysis of design and fabrication failures",
-        "Utilize lab equipment including oscilloscopes, multimeters, and standard lab tools for validation and troubleshooting",
-        "Collaborate with product, qualification, pattern development, characterization engineering teams, program management, NPI, and production test sites to ensure seamless hardware integration",
-        "Stay updated on emerging hardware technologies and FPGA / 3D IC advancements to drive innovation"
-      ]
-    },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -1323,9 +1233,9 @@
     "job_latitude": 33.919179899999996,
     "job_longitude": -118.41646519999999,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4mBiUiZa0WX-pXy1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1785,9 +1695,9 @@
     "job_latitude": 42.6875323,
     "job_longitude": -83.2341028,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgBsyWAVBaRZmzUbGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1840,128 +1750,6 @@
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
     "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "RcCKVy96QfUe1ih4AAAAAA==",
-    "job_title": "Intelligence Systems Electrical Hardware Design Engineer (Associate or Mid-Level)",
-    "employer_name": "Boeing",
-    "employer_logo": null,
-    "employer_website": "https://www.boeing.com",
-    "job_publisher": "Boeing",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.boeing.com/job/huntington-beach/intelligence-systems-electrical-hardware-design-engineer-associate-or-mid-level/185/91354172720?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Boeing",
-        "apply_link": "https://jobs.boeing.com/job/huntington-beach/intelligence-systems-electrical-hardware-design-engineer-associate-or-mid-level/185/91354172720?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=36267a2053a04032&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Boeing/Job/Intelligence-Systems-Electrical-Hardware-Design-Engineer-(Associate-or-Mid-Level)/-in-Huntington-Beach,CA?jid=22108e512ab8e413&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "JSfirm.com",
-        "apply_link": "https://www.jsfirm.com/Engineering/Intelligence+Systems+Electrical+Hardware+Design+Engineer+(Associate+or+Mid-Level)/Huntington+Beach-California/jobID_1845158?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Built In",
-        "apply_link": "https://builtin.com/job/intelligence-systems-electrical-hardware-design-engineer-associate-or-mid-level/8410403?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/intelligence-systems-electrical-hardware-design-engineer-associate-or-mid-level-boeing-JV_IC1146795_KO0,79_KE80,86.htm?jl=1010022925127&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/cf0a2e7e-b0bf-40c0-bfae-7e7106a856f6?q=Marine+Electrician&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/intelligence-systems-electrical-hardware-design-engineer_7ea1a529a0c7c9dee093143b8e08f42659f3d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Description\n\nAt Boeing, we innovate and collaborate to make the world a better place. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.\n\nThe Boeing Company is looking for an experienced Intelligence Systems Electrical Hardware Design Engineer (Associate or Mid-Level) to join the Electrostatically Supported Gyro Navigator (ESGN) Replacement team located in Huntington Beach, California.\n\nThis position will report to the Intelligence Systems Organization. The role will emphasize test and troubleshooting, as well as anomaly resolution of existing electrical/electronic hardware used in inertial navigation systems. Also, in addition to program sustainment work, there will be opportunities to support the Electronic Products center of excellence with future design work.\n\nPosition Responsibilities:\n• Analyze customer and system requirements to support architectural approaches and detailed specifications for various electronic products\n• Review, analyze, and translate customer requirements into the design of electrical hardware products and systems\n• Test, debug, and integrate hardware into existing systems while meeting industry, customer, safety, and regulatory standards\n• Integrate and troubleshoot hardware components with embedded software, FPGAs, IC chips, and discrete components\n• Develop and maintain acceptance test procedures to support production\n• Test, troubleshoot and provide rework statements of work to the Supplier\n• Support obsolescence management\n• Work within configuration management and procedure controls common to defense contracts\n• Investigate emerging technologies to develop concepts for future product designs to meet projected requirements\n• Provide support input to aid EMI compatibility, signal integrity, and power integrity analysis and simulation models\n• Support the technical aspects of proposal preparation and project planning through schedule and budget estimations as well as make/buy recommendations\n\nBasic Qualifications (Required Skills/Experience):\n• Bachelor of Science degree in Engineering (with a focus in Electrical, Mechanical or Aeronautical), Computer Science, Data Science, Mathematics, Physics, Chemistry or non-US equivalent qualifications directly related to the work statement\n• Ability to obtain a U.S. Security Clearance for which the U.S. Government requires U.S. Citizenship. Final U.S. Secret clearance Post-Start is required\n• 1+ years of experience in electrical hardware engineering development\n• Familiarity with multilayer mixed-signal circuits, sensors (especially navigation sensors), analog/digital conversion, firmware/FPGA programming including VHDL, and the use of test equipment\n• Experience with electronic analytic tools, Mentor graphics and performing product verification testing\n• Experience managing supplier assemblies and requirements\n• Demonstrated performance on development programs and the ability to resolve technical issues in complex environments\n• Ability to prepare and present briefings covering technical aspects of the position\n• Level 2: 1+ years of related work experience or an equivalent combination of education and experience\n\nPreferred Qualifications (Desired Skills/Experience):\n• Active U.S. Security Clearance\n• Level 3: 3+ years of related work experience or an equivalent combination of education and experience\n• Experience with Xilinx FPGA place/route tools\n• Proficient in digital logic design (gate-level & VHDL) and simulation\n• Experience with analog circuits, power supplies, and EMI protection devices\n• Experience in quality assurance and design validations\n\nDrug Free Workplace:\n\nBoeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.\n\nPay & Benefits:\n\nAt Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent. Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.\n\nThe Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.\n\nThe specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.\n\nPay is based upon candidate experience and qualifications, as well as market and business considerations.\n\nSummary pay range for Associate (Level 2): $98,600.00 - $133,400.00\n\nSummary pay range for Mid-Level (Level 3): $119,850.00 - $162,150.00\n\nApplications for this position will be accepted until Feb. 18, 2026\n\nExport Control Requirements:\n\nThis is not an Export Control position.\n\nEducation\n\nBachelor's Degree or Equivalent Required\n\nRelocation\n\nRelocation assistance is not a negotiable benefit for this position.\n\nSecurity Clearance\n\nThis position requires the ability to obtain a U.S. Security Clearance for which the U.S. Government requires U.S. Citizenship. An interim and/or final U.S. Secret Clearance Post-Start is required.\n\nVisa Sponsorship\n\nEmployer will not sponsor applicants for employment visa status.\n\nShift\n\nThis position is for 1st shift\n\nEqual Opportunity Employer:\n\nBoeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.",
-    "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770076800,
-    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
-    "job_location": "Huntington Beach, CA",
-    "job_city": "Huntington Beach",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 33.6594835,
-    "job_longitude": -117.99880259999999,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRcCKVy96QfUe1ih4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor of Science degree in Engineering (with a focus in Electrical, Mechanical or Aeronautical), Computer Science, Data Science, Mathematics, Physics, Chemistry or non-US equivalent qualifications directly related to the work statement",
-        "Ability to obtain a U.S. Security Clearance for which the U.S. Government requires U.S. Citizenship",
-        "Final U.S. Secret clearance Post-Start is required",
-        "1+ years of experience in electrical hardware engineering development",
-        "Familiarity with multilayer mixed-signal circuits, sensors (especially navigation sensors), analog/digital conversion, firmware/FPGA programming including VHDL, and the use of test equipment",
-        "Experience with electronic analytic tools, Mentor graphics and performing product verification testing",
-        "Experience managing supplier assemblies and requirements",
-        "Demonstrated performance on development programs and the ability to resolve technical issues in complex environments",
-        "Ability to prepare and present briefings covering technical aspects of the position",
-        "Level 2: 1+ years of related work experience or an equivalent combination of education and experience",
-        "Bachelor's Degree or Equivalent Required",
-        "This position requires the ability to obtain a U.S. Security Clearance for which the U.S. Government requires U.S. Citizenship",
-        "An interim and/or final U.S. Secret Clearance Post-Start is required"
-      ],
-      "Benefits": [
-        "At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent",
-        "Elements of the Total Rewards package include competitive base pay and variable compensation opportunities",
-        "The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work",
-        "The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements",
-        "Summary pay range for Associate (Level 2): $98,600.00 - $133,400.00",
-        "Summary pay range for Mid-Level (Level 3): $119,850.00 - $162,150.00",
-        "Relocation assistance is not a negotiable benefit for this position"
-      ],
-      "Responsibilities": [
-        "This position will report to the Intelligence Systems Organization",
-        "The role will emphasize test and troubleshooting, as well as anomaly resolution of existing electrical/electronic hardware used in inertial navigation systems",
-        "Also, in addition to program sustainment work, there will be opportunities to support the Electronic Products center of excellence with future design work",
-        "Analyze customer and system requirements to support architectural approaches and detailed specifications for various electronic products",
-        "Review, analyze, and translate customer requirements into the design of electrical hardware products and systems",
-        "Test, debug, and integrate hardware into existing systems while meeting industry, customer, safety, and regulatory standards",
-        "Integrate and troubleshoot hardware components with embedded software, FPGAs, IC chips, and discrete components",
-        "Develop and maintain acceptance test procedures to support production",
-        "Test, troubleshoot and provide rework statements of work to the Supplier",
-        "Support obsolescence management",
-        "Work within configuration management and procedure controls common to defense contracts",
-        "Investigate emerging technologies to develop concepts for future product designs to meet projected requirements",
-        "Provide support input to aid EMI compatibility, signal integrity, and power integrity analysis and simulation models",
-        "Support the technical aspects of proposal preparation and project planning through schedule and budget estimations as well as make/buy recommendations"
-      ]
-    },
-    "job_onet_soc": "17207100",
-    "job_onet_job_zone": "4",
-    "id": "jobs-boeing-com-job-huntington-beach-intelligence-systems-electrical-hardware-design-engineer-associate-or-mid-level-185-91354172720",
     "_source": "new_jobs"
   },
   {
@@ -2031,9 +1819,9 @@
     "job_latitude": 43.156577899999995,
     "job_longitude": -77.6088465,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DeunV6q7Z6HJj35ZeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -2214,6 +2002,68 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "A3sfA264MT77PqOAAAAAAA==",
+    "job_title": "R&D Hardware Design Engineer (High Speed Analog)",
+    "employer_name": "8613 Broadcom Corporation",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "Workday",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/R-D-Hardware-Design-Engineer--High-Speed-Analog-_R024941-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Workday",
+        "apply_link": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/R-D-Hardware-Design-Engineer--High-Speed-Analog-_R024941-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/r-d-hardware-design-engineer-high-speed-analog_7ea1a04617f232b2b821c32c8656767a5a051?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/6980e58849964d25b5e3a936?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5611881720?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Please Note: 1. If you are a first time user, please create your candidate login account before you apply for a job. (Click Sign In > Create Account) 2. If you already have a Candidate Account, please Sign-In before you apply. Job Description: Designs, develops, modifies and evaluates electronic parts, components or integrated circuitry for electronic equipment and other hardware systems. In this line of work, the prospective employee will specialize in high-speed analog circuit design for wireline transceivers Determines design approaches and parameters. Analyzes equipment to establish operating data; conducts experimental tests and evaluates results. Selects components and equipment based on analysis of specifications and reliability. May also review vendor capability to support product development. Layout/design work is done with state-of-art CAD tools. Works on problems of moderate scope where analysis of situations or data requires a review of a variety of factors. Exercises judgment within defined procedures and practices to determine appropriate action. Builds productive internal/external working relationships. The prior work or academic experience in one or more of the following design areas are highly desirable: High-Speed (>10Gbps) ADC and DAC Design High-Speed (>28GHz) and Low Jitter (<100fs-rms) PLL Design High Linearity (1-3% THD) Low-Noise TIA and Laser Driver Design Equalization Techniques for Backplanes and Optical Links High-Speed Low Latency Clock & Data Recovery Circuits Education/Experience: Bachelor's degree in Engineering/Computer Science and 8+ years of related experience or Masters degree in Engineering/Computer Science and 6+ years of related experience Additional Job Description: Compensation and Benefits The annual base salary range for this position is $108,000 - $172,800 This position is also eligible for a discretionary annual bonus in accordance with relevant plan documents, and equity in accordance with equity plan documents and equity award agreements. Broadcom offers a competitive and comprehensive benefits package: Medical, dental and vision plans, 401(K) participation including company matching, Employee Stock Purchase Program (ESPP), Employee Assistance Program (EAP), company paid holidays, paid sick leave and vacation time. The company follows all applicable laws for Paid Family Leave and other leaves of absence. Broadcom is proud to be an equal opportunity employer. We will consider qualified applicants without regard to race, color, creed, religion, sex, sexual orientation, national origin, citizenship, disability status, medical condition, pregnancy, protected veteran status or any other characteristic protected by federal, state, or local law. We will also consider qualified applicants with arrest and conviction records consistent with local law. If you are located outside USA, please be sure to fill out a home address as this will be used for future correspondence. Welcome! Thank you for your interest in Broadcom! We are a global technology leader that designs, develops and supplies a broad range of semiconductor and infrastructure software solutions. For more information please visit our video library and check out our Connected by Broadcom series. Follow us on Linked In Broadcom Inc.",
+    "job_is_remote": false,
+    "job_posted_at": "13 days ago",
+    "job_posted_at_timestamp": 1769990400,
+    "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
+    "job_location": "United States",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 38.794595199999996,
+    "job_longitude": -106.5348379,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DA3sfA264MT77PqOAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "broadcom-wd1-myworkdayjobs-com-external_career-job-usa-ca-irvine-alton-parkway-bldg-2-r-d-hardware-design-engineer-high-speed-analog-_r024941-1",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "yzOGo4K59ngfV6pnAAAAAA==",
     "job_title": "Senior Design Quality Engineer -Electronics/Hardware",
     "employer_name": "Medtronic",
@@ -2349,189 +2199,6 @@
     "job_onet_soc": "17211200",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-medtronic-job-senior-design-quality-engineer-electronics-hardware-in-lafayette-co",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "fxGE3vad7pyilcOMAAAAAA==",
-    "job_title": "Senior Hardware Design Engineer",
-    "employer_name": "Goodwin Recruiting",
-    "employer_logo": null,
-    "employer_website": "https://www.goodwinrecruiting.com",
-    "job_publisher": "Women For Hire- Job Board",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.womenforhire.com/job/usa/calistoga-ca/senior-hardware-design-engineer-399329/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Women For Hire- Job Board",
-        "apply_link": "https://jobs.womenforhire.com/job/usa/calistoga-ca/senior-hardware-design-engineer-399329/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Our client is a specialized product design firm in Northern Marin, CA seeking a Senior Hardware Design Engineer to own circuit design and system architecture for complex, high-volume consumer products. This is a hybrid, client-facing role that blends deep technical ownership with hands-on lab work and direct collaboration with customers. The ideal candidate has led schematic and circuit design from concept through validation and is comfortable driving PCB layout as part of a complete hardware solution. Join an innovative, fast-moving team that values precision, accountability, and impact.\n\nSenior Hardware Design Engineer Responsibilities:\n• Own end-to-end circuit design, from system architecture and schematic development through validation\n• Design, build, and validate electronic systems for high-volume consumer products\n• Lead schematic capture and drive or review PCB layout using OrCAD and Allegro to ensure design intent\n• Develop and integrate hardware architectures across multi-component systems\n• Conduct hands-on board bring-up, system-level testing, validation, and debugging in a lab environment\n• Collaborate with software, mechanical, and manufacturing teams to ensure cohesive system design\n• Interface directly with clients to gather requirements, lead design reviews, and provide technical direction\n• Perform root cause analysis and implement effective hardware design improvements\n\nSenior Hardware Design Engineer Requirements:\n• Bachelor’s Degree in Electrical Engineering preferred\n• 7+ years of experience in hardware or electrical design engineering\n• Proven ownership of schematic and circuit design for consumer electronic products\n• Experience designing and validating power, analog, and digital circuits\n• Proficiency with OrCAD Capture and Allegro PCB Editor\n• Strong analytical, troubleshooting, and lab debugging skills\n• Excellent communication skills with the ability to explain design decisions to clients\n• Hands-on experience supporting hardware through the full product lifecycle\n\nSenior Hardware Design Engineer Compensation:\n• Annual salary range of $150K–$180K, based on experience\n• Hybrid schedule in SF Bay Area to start\n• Unlimited vacation\n• Health insurance stipend\n• Collaborative environment with strong growth potential",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Calistoga, CA",
-    "job_city": "Calistoga",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 38.578796499999996,
-    "job_longitude": -122.5797054,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DfxGE3vad7pyilcOMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "7+ years of experience in hardware or electrical design engineering",
-        "Proven ownership of schematic and circuit design for consumer electronic products",
-        "Experience designing and validating power, analog, and digital circuits",
-        "Proficiency with OrCAD Capture and Allegro PCB Editor",
-        "Strong analytical, troubleshooting, and lab debugging skills",
-        "Excellent communication skills with the ability to explain design decisions to clients",
-        "Hands-on experience supporting hardware through the full product lifecycle"
-      ],
-      "Benefits": [
-        "Annual salary range of $150K–$180K, based on experience",
-        "Hybrid schedule in SF Bay Area to start",
-        "Unlimited vacation",
-        "Health insurance stipend",
-        "Collaborative environment with strong growth potential"
-      ],
-      "Responsibilities": [
-        "The ideal candidate has led schematic and circuit design from concept through validation and is comfortable driving PCB layout as part of a complete hardware solution",
-        "Own end-to-end circuit design, from system architecture and schematic development through validation",
-        "Design, build, and validate electronic systems for high-volume consumer products",
-        "Lead schematic capture and drive or review PCB layout using OrCAD and Allegro to ensure design intent",
-        "Develop and integrate hardware architectures across multi-component systems",
-        "Conduct hands-on board bring-up, system-level testing, validation, and debugging in a lab environment",
-        "Collaborate with software, mechanical, and manufacturing teams to ensure cohesive system design",
-        "Interface directly with clients to gather requirements, lead design reviews, and provide technical direction",
-        "Perform root cause analysis and implement effective hardware design improvements"
-      ]
-    },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "jobs-womenforhire-com-job-usa-calistoga-ca-senior-hardware-design-engineer-399329",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "IozW1FMf1VHG_yKuAAAAAA==",
-    "job_title": "Hardware Development Engineer Internship – 2026 (US), Leo Manufacturing",
-    "employer_name": "Amazon.com Services LLC",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpHPsPCtT7v0dsfLzY7WalItl5ZK269S36ESB&s=0",
-    "employer_website": "https://www.amazon.com",
-    "job_publisher": "Indeed",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=28e8b56bcad76e08&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=28e8b56bcad76e08&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Qumulo/Job/Software-Development-Engineer-Internship-(Winter,-Spring,-or-Summer-26)/-in-Seattle,WA?jid=253179da9355214d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/hardware-development-engineer-internship_7ea1a835888bac7331fb2e413040497ba8734?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "MyGwork",
-        "apply_link": "https://mygwork.com/jobs/amazon-hardware-development-engineer-internship-2026-us-leo-manufacturing?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/hardware-development-engineer-internship-%E2%80%93-2026-us-leo-manufacturing-amazon-JV_IC1150505_KO0,68_KE69,75.htm?jl=1010020450669&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Manufacturing Engineer",
-        "apply_link": "https://www.ihiremanufacturingengineers.com/jobs/view/508574234?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/software-development-engineer-internship-winter-spring-or-summer-26-at-qumulo-4298154070?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/31ce5a774eaae8ef00f1b90663092ad6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "DESCRIPTION\n\nAmazon Leo is Amazon’s low Earth orbit satellite network. Our mission is to deliver fast, reliable internet connectivity to customers beyond the reach of existing networks. From individual households to schools, hospitals, businesses, and government agencies, Amazon Leo will serve people and organizations operating in locations without reliable connectivity.\n\nExport Control Requirement:\nDue to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.\n\nAmazon internships across all seasons are full-time positions, and interns should expect to work in office, Monday-Friday, up to 40 hours per week typically between 8am-5pm. Specific team norms around working hours will be communicated by your manager. Interns should not have conflicts such as classes or other employment during the Amazon work-day.\n\nApplicants should have a minimum of one quarter/semester/trimester remaining in their studies after their internship concludes. By applying to this position, your application will be considered for all Hardware Development Engineering Intern roles at all locations we hire for in the United States including but not limited to: Greater Seattle Area (Seattle, Bellevue, Redmond), Greater Bay Area (San Francisco, Sunnyvale, Santa Clara), Greater DMV (DC, MD, VA), Greater Boston Area (Boston, North Reading), Greater Los Angeles Area (Los Angeles, Pasadena, Northridge), Detroit (MI), San Diego (CA).\n\nYou will be able to provide your preference of location and start date during the application process but, we cannot guarantee that we can meet your selection based on several factors including but not limited to the availability and business needs of this role. Finalization on the location and start dates available will be provided to you at the time of job offer.\n\nStart dates for our internships in this posting include the following periods:\n1. Winter (Starts January/February 2026)\n2. Summer (Starts May/June 2026)\n3. Fall (Starts August/September 2026)\n\nAt Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The intense focus we have on our customers is why we are one of the world’s most beloved brands. Customer obsession is part of our company DNA.\n\nYou will be part of a project team you will work alongside Senior Electrical Engineers; supporting the design, debug, validation and optimization of the products. You will be involved in projects from concept through production, gaining exposure to the complete design lifecycle. You will also support engineering builds gaining experience with high volume manufacturing.\n\nKey job responsibilities\nAs a Hardware Development Engineer intern you will collaborate with experienced cross-functional teams to develop and implement quality systems for Amazon Leo's satellite manufacturing operations. You will work closely with internal teams and external partners to drive quality assurance, process improvements, and testing protocols. You must be responsive, flexible, and able to thrive in an open collaborative environment.\n• Develop quality control plans, MSAs, and statistical process control systems\n• Perform data analysis using Lean Six Sigma methodologies and analytical tools\n• Support continuous improvement initiatives and manufacturing execution systems\n• Conduct fixture and tooling design validation and debug activities\n\nA day in the life\nOur internship program provides hands-on learning and building experiences for students who are interested in a career in hardware engineering. In addition to working on an impactful project, you will have the opportunity to engage with Amazonians for both personal and professional development, expand your network, and participate in fun activities with other interns throughout the summer. No matter the location of your internship, we give you the tools to own your internship and learn in a real-world setting.\n\nBASIC QUALIFICATIONS\n• Are 18 years of age or older\n• Work 40 hours/week minimum and commit to 12 week internship maximum\n• Are enrolled in a academic program that is physically located in the United States\n• Knowledge of analog and digital skills\n• Knowledge of schematic design and debug skills\n• Experience with embedded systems\n• Currently working towards a Bachelor’s or Master's Degree in Mechanical Engineering, Electrical Engineering, Systems Engineering, or other equivalent discipline, with an expected conferral date between October 2026 – December 2029.\n\nPREFERRED QUALIFICATIONS\n• Experience that includes strong analytical skills, attention to detail, and effective communication abilities\n• Experience in manufacturing, process, or industrial engineering\n• Experience with lean methodologies\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe starting pay for this position is listed below. Final starting pay will be based on factors including experience, qualifications, and location. Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k) matching. Learn more about our benefits at https://hiring.amazon.com/why-amazon/benefits.\n\nUSA, WA, Seattle - 96,600.00 - 160,000.00 USD annually",
-    "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770076800,
-    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
-    "job_location": "Seattle, WA",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_country": "US",
-    "job_latitude": 47.6061389,
-    "job_longitude": -122.33284809999999,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIozW1FMf1VHG_yKuAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 96600,
-    "job_max_salary": 160000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Due to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum",
-        "You must be responsive, flexible, and able to thrive in an open collaborative environment",
-        "Are 18 years of age or older",
-        "Work 40 hours/week minimum and commit to 12 week internship maximum",
-        "Are enrolled in a academic program that is physically located in the United States",
-        "Knowledge of analog and digital skills",
-        "Knowledge of schematic design and debug skills",
-        "Experience with embedded systems",
-        "Currently working towards a Bachelor’s or Master's Degree in Mechanical Engineering, Electrical Engineering, Systems Engineering, or other equivalent discipline, with an expected conferral date between October 2026 – December 2029"
-      ],
-      "Benefits": [
-        "No matter the location of your internship, we give you the tools to own your internship and learn in a real-world setting",
-        "Final starting pay will be based on factors including experience, qualifications, and location",
-        "Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k) matching"
-      ],
-      "Responsibilities": [
-        "Specific team norms around working hours will be communicated by your manager",
-        "Interns should not have conflicts such as classes or other employment during the Amazon work-day",
-        "You will be part of a project team you will work alongside Senior Electrical Engineers; supporting the design, debug, validation and optimization of the products",
-        "You will be involved in projects from concept through production, gaining exposure to the complete design lifecycle",
-        "You will also support engineering builds gaining experience with high volume manufacturing",
-        "As a Hardware Development Engineer intern you will collaborate with experienced cross-functional teams to develop and implement quality systems for Amazon Leo's satellite manufacturing operations",
-        "You will work closely with internal teams and external partners to drive quality assurance, process improvements, and testing protocols",
-        "Develop quality control plans, MSAs, and statistical process control systems",
-        "Perform data analysis using Lean Six Sigma methodologies and analytical tools",
-        "Support continuous improvement initiatives and manufacturing execution systems",
-        "Conduct fixture and tooling design validation and debug activities"
-      ]
-    },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "www-indeed-com-viewjob",
     "_source": "new_jobs"
   }
 ]
