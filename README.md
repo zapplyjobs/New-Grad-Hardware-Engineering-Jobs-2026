@@ -9,8 +9,8 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-4-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)
 ![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -18,7 +18,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 3+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 3+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 4+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 4+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -74,8 +74,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🛡️ **RTX** | Electrical Computer Aided Design... 🏠 | Tucson, Arizona | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rtx.com/global/en/job/01824219/Electrical-Computer-Aided-Designer-Engineer-ECAD?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Reliance One, Inc.** | PCB Design Engineer | San Antonio, Texas | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/pcb-design-engineer-at-reliance-one-inc-4316950133?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **CyberCoders** | Electrical Design Engineer - Cir... | Bohemia, New York | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/electrical-design-engineer-circuit-design-at-cybercoders-4363200495?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Analog Modules, Inc.** | RF/Analog Design Engineer - Long... | Longwood, Florida | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.milwaukeejobs.com/job/detail/86157299/RF-Analog-Design-Engineer-Longwood-FL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+<details>
+<summary><h3>🔋 <strong>Electrical Engineer</strong> (1 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🔬 **Texas Instruments** | Analog IC Design Engineering Int... | Remote | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25004837/?lastSelectedFacet=AttributeChar8&location=Santa+Clara%2525252525252525252C+CA%2525252525252525252C+United+States&locationId=300000056269817&locationLevel=city&mode=location&radius=25&radiusUnit=MI&selectedFlexFieldsFacets=%25252525252525252522AttributeChar8%2525252525252525257CInterns%25252525252525252522utm_medium&utm_source=google&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -140,15 +149,15 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 1 positions
-- **🏢 Companies**: 3 companies
-- **🏷️ Top Category**: Hardware Engineer
+- **🏢 Companies**: 4 companies
+- **🏷️ Top Category**: FPGA/ASIC
 
 <details>
-<summary><h3>⚡ <strong>Hardware Engineer</strong> (1 positions)</h3></summary>
+<summary><h3>🔲 <strong>FPGA/ASIC</strong> (1 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| ✈️ **Northrop Grumman** | Associate Engineer / Electronic ... | Xenia, Ohio | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://refresh.cv/jobs/northrop-grumman/41ba0167-8297-40ec-a788-57adbbd47367?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 📊 **Analog Devices** | Digital Design Engineer Intern | North Carolina | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://refresh.cv/jobs/analog-devices/f52b418a-7026-4ef9-8d08-155fa0f89ef0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -162,7 +171,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3 current opportunities from 3 companies**
+**🎯 4 current opportunities from 4 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
