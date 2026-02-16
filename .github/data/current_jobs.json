@@ -1,6 +1,6 @@
 [
   {
-    "job_id": "Caz2rwfwIWytBjuuAAAAAA==",
+    "job_id": "sqlhuyk3G-MP4kDRAAAAAA==",
     "job_title": "Senior Software Engineer, VLSI",
     "employer_name": "VirtualVocations",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
@@ -10,12 +10,17 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=f60a340b5110&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=9f9efd52af5d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=f60a340b5110&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.talent.com/view?id=9f9efd52af5d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/manassas/virginia/software_development/4849258636/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -24,14 +29,14 @@
     "job_posted_at": "7 days ago",
     "job_posted_at_timestamp": 1770595200,
     "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Toms River, NJ",
-    "job_city": "Toms River",
-    "job_state": "New Jersey",
+    "job_location": "Manassas, VA",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
     "job_country": "US",
-    "job_latitude": 39.963417799999995,
-    "job_longitude": -74.18733859999999,
+    "job_latitude": 38.7512726,
+    "job_longitude": -77.4706769,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCaz2rwfwIWytBjuuAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dsqlhuyk3G-MP4kDRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
@@ -53,6 +58,77 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "MuOn56vOIuCVJXcRAAAAAA==",
+    "job_title": "Senior Software Engineer, VLSI AI Agent 10",
+    "employer_name": "Nvidia",
+    "employer_logo": null,
+    "employer_website": "https://www.nvidia.com",
+    "job_publisher": "Jobilize",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.jobilize.com/job/us-fl-all-cities-senior-software-engineer-vlsi-ai-agent-10-nvidia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-fl-all-cities-senior-software-engineer-vlsi-ai-agent-10-nvidia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years.\nIt's a unique legacy of innovation that's fueled by great technology-and amazing people.\nToday, we're tapping into the unlimited potential of AI to define the next era of computing.\nAn era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world.\nDoing what's never been done before takes vision, innovation, and the world's best talent.\nAs an NVIDIAN, you'll be immersed in a diverse, supportive environment where everyone is inspired to do their best work.\nCome join the team and see how you can make a lasting impact on the world.\n\nWe are looking for talented Software Engineers to work on developing and deploying an AI agent that leverages machine learning models to solve complex problems in VLSI design.\nThe ideal candidate will have a strong background in computer science, electrical engineering, or a related field, with experience in machine learning, deep learning, and software development.\nThe successful candidate will work closely with our team of experts in VLSI design, machine learning, and software engineering to create and integrate machine learning-based solutions that enhance the efficiency, productivity, and quality of our VLSI design flows.\n\nWhat you will be doing:\n• Create and integrate AI agents to enhance the efficiency, productivity, and quality of VLSI design flows.\n• Collaborate on the design and implementation of algorithms and models that can optimize VLSI design processes.\n• Contribute to the development of software tools and frameworks that support the integration of AI in VLSI design.\n• Analyze and interpret data to identify patterns and insights that can inform the development of AI-driven design methodologies.\n• Stay ahead of the latest advancements in machine learning, deep learning, and VLSI build to continuously improve our solutions.\n\nWhat We Need to See:\n• BS/MS/PhD in Computer Science, Electrical/Computer Engineering, or a related field (or equivalent experience).\n• 6+ years of experience building AI-driven software systems, ideally applied to complex engineering workflows.\n• Strong programming skills in Python, with experience developing production-quality systems.\n• Demonstrated experience designing and applying AI agents or learning-based decision systems (e.g., RL, planning, LLM-based agents) to optimize processes.\n• Proficiency with modern ML frameworks (PyTorch, TensorFlow) and data-driven model development.\n• Strong problem-solving and collaboration skills, with the ability to translate complex design challenges into agent-driven solutions.\n\nWays to stand out from the crowd:\n• Experience with Large Language Models (LLMs) and their applications in software and AI development\n• Proficiency in standard methodologies for software development, including version control, testing, and CI/CD.\n• Deeply interested in learning disparate concepts and putting them together in innovative new ways\n\nWith competitive salaries and a generous benefits package, we are widely considered to be one of the technology world's most desirable employers.\nWe have some of the most forward-thinking and hardworking people in the world working for us and, due to unprecedented growth, our exclusive engineering teams are rapidly growing.\nIf you're a creative and autonomous engineer with a real passion for technology, we want to hear from you.\n\nYour base salary will be determined based on your location, experience, and the pay of employees in similar positions.\nThe base salary range is 184,000 USD - 287,500 USD for Level 4, and 224,000 USD - 356,500 USD for Level 5.\n\nYou will also be eligible for equity and benefits.\n\nApplications for this job will be accepted at least until February 14, 2026.\n\nThis posting is for an existing vacancy.\n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer.\nAs we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Florida",
+    "job_city": null,
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 27.6648274,
+    "job_longitude": -81.5157535,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMuOn56vOIuCVJXcRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate will have a strong background in computer science, electrical engineering, or a related field, with experience in machine learning, deep learning, and software development",
+        "BS/MS/PhD in Computer Science, Electrical/Computer Engineering, or a related field (or equivalent experience)",
+        "6+ years of experience building AI-driven software systems, ideally applied to complex engineering workflows",
+        "Strong programming skills in Python, with experience developing production-quality systems",
+        "Demonstrated experience designing and applying AI agents or learning-based decision systems (e.g., RL, planning, LLM-based agents) to optimize processes",
+        "Proficiency with modern ML frameworks (PyTorch, TensorFlow) and data-driven model development",
+        "Strong problem-solving and collaboration skills, with the ability to translate complex design challenges into agent-driven solutions",
+        "Experience with Large Language Models (LLMs) and their applications in software and AI development",
+        "Proficiency in standard methodologies for software development, including version control, testing, and CI/CD",
+        "Deeply interested in learning disparate concepts and putting them together in innovative new ways"
+      ],
+      "Benefits": [
+        "Your base salary will be determined based on your location, experience, and the pay of employees in similar positions",
+        "The base salary range is 184,000 USD - 287,500 USD for Level 4, and 224,000 USD - 356,500 USD for Level 5",
+        "You will also be eligible for equity and benefits"
+      ],
+      "Responsibilities": [
+        "The successful candidate will work closely with our team of experts in VLSI design, machine learning, and software engineering to create and integrate machine learning-based solutions that enhance the efficiency, productivity, and quality of our VLSI design flows",
+        "Create and integrate AI agents to enhance the efficiency, productivity, and quality of VLSI design flows",
+        "Collaborate on the design and implementation of algorithms and models that can optimize VLSI design processes",
+        "Contribute to the development of software tools and frameworks that support the integration of AI in VLSI design",
+        "Analyze and interpret data to identify patterns and insights that can inform the development of AI-driven design methodologies",
+        "Stay ahead of the latest advancements in machine learning, deep learning, and VLSI build to continuously improve our solutions"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-jobilize-com-job-us-fl-all-cities-senior-software-engineer-vlsi-ai-agent-10-nvidia",
     "_source": "new_jobs"
   },
   {
@@ -180,8 +256,8 @@
     "job_latitude": 42.4303138,
     "job_longitude": -71.460433,
     "job_benefits": [
-      "dental_coverage",
       "paid_time_off",
+      "dental_coverage",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dzlqgze9A0-uJUfX3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -240,111 +316,6 @@
     "job_onet_soc": "17214100",
     "job_onet_job_zone": "4",
     "id": "careers-cisco-com-global-en-job-ciscisglobal2006088externalenglobal-physcial-design-engineer-i-full-time-united-states",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "N04ym_G0zCblfvACAAAAAA==",
-    "job_title": "GPU Physical Design Engineer Lead",
-    "employer_name": "100 Intel Corporation",
-    "employer_logo": null,
-    "employer_website": "https://www.intel.com",
-    "job_publisher": "Workday",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/GPU-Physical-Design-Engineer_JR0280805?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Workday",
-        "apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/GPU-Physical-Design-Engineer_JR0280805?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Intel/Job/GPU-Physical-Design-Engineer-Lead/-in-Folsom,CA?jid=c8ee549db9c93ea3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LocalJobs.com",
-        "apply_link": "https://www.localjobs.com/job/folsom-ca-gpu-physical-design-engineer-lead?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/EIPS1ZDD-S4GTioifcho3m3Q7Q76fcCTTIeHhH-EGzoxHgz_rKz3ow?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/f49354edd9eb1ca258bd278db9d28178?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/gpu-physical-design-engineer-lead-at-intel-corporation-4369862500?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Experteer",
-        "apply_link": "https://us.experteer.com/career/view-jobs/gpu-physical-design-engineer-lead-folsom-ca-usa-56078661?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ITJobsWeb.com",
-        "apply_link": "https://www.itjobsweb.com/job/gpu-physical-design-engineer-lead/82380055/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Details: Job Description: The primary responsibilities for this role will include, but are not limited to: In this position, the candidate will be part of a team implementing ASIC designs for Integrated/Discrete Graphics and AI SoCs on leading edge process technology and EDA tools. The team is responsible for all SoC level physical design and optimization flows ranging from Floor-planning, Clocking, Synthesis through GDS and parallel verification aspects such as Static Timing Analysis, Formal Verification, EM/IR/PDN verification, Quality Assurance, Layout Verification etc. Responsibilities may also include defining design requirements such as frequency, operating voltages, power, etc. to achieve optimized designs on new technologies, processes and architectures. The candidate would be required to work closely with the rest of the project team members to resolve issues which arise during the design cycle and take the key learnings into the next product cycle. A successful candidate will have proven experience demonstrating the following skills and behavioral traits: The ideal candidate will be capable of leading a small team as well as interacting with architecture and design teams to improve IP and ultimate product quality and performance. Good leadership and communication skills are necessary due to the nature of the work, size and complexity of the products and the size of the team. Qualifications: Minimum Qualifications: Minimum qualifications are required to be initially considered for this position. Requirements listed would be obtained through a combination of industry-relevant job experience, internship experience and or schoolwork/classes/research. Bachelor’s in Electrical/Computer Engineering with 9+ years relevant work experience, or Master's in Electrical/Computer Engineering with 6+ years relevant work experience. Experience in: Logic Design, VLSI/ASIC Design, Computer Architecture. Current Industry Experience in one or more ASIC style design flows – floorplanning, clock construction, synthesis, place and route, static timing analysis, layout verification. Experience with Unix/Linux, Perl and TCL in order to implement useable, flexible cshell/perl/tcl programs that automate tool/flow methodologies. Preferred Qualifications: Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates Preferred Experience in SoC integration methodologies including floorplan/timing integration of a variety of blocks into an SoC design. Preferred Knowledge of Clock Construction Methodology and Power estimation/optimization. Job Type: Experienced Hire Shift: Shift 1 (United States of America) Primary Location: US, California, Folsom Additional Locations: US, California, Santa Clara Business group: At the Data Center Group (DCG), we're committed to delivering exceptional products and delighting our customers. We offer both broad-market Xeon-based solutions and custom x86-based products, ensuring tailored innovation for diverse needs across general-purpose compute, web services, HPC, and AI-accelerated systems. Our charter encompasses defining business strategy and roadmaps, product management, developing ecosystems and business opportunities, delivering strong financial performance, and reinvigorating x86 leadership. Join us as we transform the data center segment through workload driven leadership products and close collaboration with our partners. Posting Statement: All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance. Position of Trust N/A Benefits We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs which include health, retirement, and vacation. Find out more about the benefits of working at Intel. Annual Salary Range for jobs which could be performed in the US: $190,610.00-269,100.00 USD The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific compensation range for your preferred location during the hiring process. Work Model for this Role This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. * Job posting details (such as work model, location or time type) are subject to change. * ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you are asked to pay any fees during our hiring process, please report this immediately to your recruiter. Intel’s official careers website. Find your next job and take on projects that shape tomorrow’s technology. Benefits Internships Life at Intel Locations Recruitment Process Discover your place in our world-changing work.",
-    "job_is_remote": false,
-    "job_posted_at": "11 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Folsom, CA",
-    "job_city": "Folsom",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 38.6719495,
-    "job_longitude": -121.1612945,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DN04ym_G0zCblfvACAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "A successful candidate will have proven experience demonstrating the following skills and behavioral traits: The ideal candidate will be capable of leading a small team as well as interacting with architecture and design teams to improve IP and ultimate product quality and performance",
-        "Good leadership and communication skills are necessary due to the nature of the work, size and complexity of the products and the size of the team",
-        "Requirements listed would be obtained through a combination of industry-relevant job experience, internship experience and or schoolwork/classes/research",
-        "Bachelor’s in Electrical/Computer Engineering with 9+ years relevant work experience, or Master's in Electrical/Computer Engineering with 6+ years relevant work experience",
-        "Experience in: Logic Design, VLSI/ASIC Design, Computer Architecture",
-        "Current Industry Experience in one or more ASIC style design flows – floorplanning, clock construction, synthesis, place and route, static timing analysis, layout verification",
-        "Experience with Unix/Linux, Perl and TCL in order to implement useable, flexible cshell/perl/tcl programs that automate tool/flow methodologies",
-        "Job Type: Experienced Hire Shift: Shift 1 (United States of America) Primary Location: US, California, Folsom Additional Locations: US, California, Santa Clara Business group: At the Data Center Group (DCG), we're committed to delivering exceptional products and delighting our customers"
-      ],
-      "Benefits": [
-        "It consists of competitive pay, stock bonuses, and benefit programs which include health, retirement, and vacation",
-        "Annual Salary Range for jobs which could be performed in the US: $190,610.00-269,100.00 USD The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations",
-        "Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training",
-        "Your recruiter can share more about the specific compensation range for your preferred location during the hiring process"
-      ],
-      "Responsibilities": [
-        "The team is responsible for all SoC level physical design and optimization flows ranging from Floor-planning, Clocking, Synthesis through GDS and parallel verification aspects such as Static Timing Analysis, Formal Verification, EM/IR/PDN verification, Quality Assurance, Layout Verification etc",
-        "Responsibilities may also include defining design requirements such as frequency, operating voltages, power, etc",
-        "to achieve optimized designs on new technologies, processes and architectures",
-        "The candidate would be required to work closely with the rest of the project team members to resolve issues which arise during the design cycle and take the key learnings into the next product cycle",
-        "We offer both broad-market Xeon-based solutions and custom x86-based products, ensuring tailored innovation for diverse needs across general-purpose compute, web services, HPC, and AI-accelerated systems"
-      ]
-    },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "intel-wd1-myworkdayjobs-com-en-us-external-job-gpu-physical-design-engineer_jr0280805",
     "_source": "new_jobs"
   },
   {
@@ -489,8 +460,113 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "MuOn56vOIuCVJXcRAAAAAA==",
-    "job_title": "Senior Software Engineer, VLSI AI Agent 10",
+    "job_id": "N04ym_G0zCblfvACAAAAAA==",
+    "job_title": "GPU Physical Design Engineer Lead",
+    "employer_name": "100 Intel Corporation",
+    "employer_logo": null,
+    "employer_website": "https://www.intel.com",
+    "job_publisher": "Workday",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/GPU-Physical-Design-Engineer_JR0280805?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Workday",
+        "apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/GPU-Physical-Design-Engineer_JR0280805?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Intel/Job/GPU-Physical-Design-Engineer-Lead/-in-Folsom,CA?jid=c8ee549db9c93ea3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LocalJobs.com",
+        "apply_link": "https://www.localjobs.com/job/folsom-ca-gpu-physical-design-engineer-lead?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/EIPS1ZDD-S4GTioifcho3m3Q7Q76fcCTTIeHhH-EGzoxHgz_rKz3ow?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/f49354edd9eb1ca258bd278db9d28178?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/gpu-physical-design-engineer-lead-at-intel-corporation-4369862500?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Experteer",
+        "apply_link": "https://us.experteer.com/career/view-jobs/gpu-physical-design-engineer-lead-folsom-ca-usa-56078661?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ITJobsWeb.com",
+        "apply_link": "https://www.itjobsweb.com/job/gpu-physical-design-engineer-lead/82380055/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Details: Job Description: The primary responsibilities for this role will include, but are not limited to: In this position, the candidate will be part of a team implementing ASIC designs for Integrated/Discrete Graphics and AI SoCs on leading edge process technology and EDA tools. The team is responsible for all SoC level physical design and optimization flows ranging from Floor-planning, Clocking, Synthesis through GDS and parallel verification aspects such as Static Timing Analysis, Formal Verification, EM/IR/PDN verification, Quality Assurance, Layout Verification etc. Responsibilities may also include defining design requirements such as frequency, operating voltages, power, etc. to achieve optimized designs on new technologies, processes and architectures. The candidate would be required to work closely with the rest of the project team members to resolve issues which arise during the design cycle and take the key learnings into the next product cycle. A successful candidate will have proven experience demonstrating the following skills and behavioral traits: The ideal candidate will be capable of leading a small team as well as interacting with architecture and design teams to improve IP and ultimate product quality and performance. Good leadership and communication skills are necessary due to the nature of the work, size and complexity of the products and the size of the team. Qualifications: Minimum Qualifications: Minimum qualifications are required to be initially considered for this position. Requirements listed would be obtained through a combination of industry-relevant job experience, internship experience and or schoolwork/classes/research. Bachelor’s in Electrical/Computer Engineering with 9+ years relevant work experience, or Master's in Electrical/Computer Engineering with 6+ years relevant work experience. Experience in: Logic Design, VLSI/ASIC Design, Computer Architecture. Current Industry Experience in one or more ASIC style design flows – floorplanning, clock construction, synthesis, place and route, static timing analysis, layout verification. Experience with Unix/Linux, Perl and TCL in order to implement useable, flexible cshell/perl/tcl programs that automate tool/flow methodologies. Preferred Qualifications: Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates Preferred Experience in SoC integration methodologies including floorplan/timing integration of a variety of blocks into an SoC design. Preferred Knowledge of Clock Construction Methodology and Power estimation/optimization. Job Type: Experienced Hire Shift: Shift 1 (United States of America) Primary Location: US, California, Folsom Additional Locations: US, California, Santa Clara Business group: At the Data Center Group (DCG), we're committed to delivering exceptional products and delighting our customers. We offer both broad-market Xeon-based solutions and custom x86-based products, ensuring tailored innovation for diverse needs across general-purpose compute, web services, HPC, and AI-accelerated systems. Our charter encompasses defining business strategy and roadmaps, product management, developing ecosystems and business opportunities, delivering strong financial performance, and reinvigorating x86 leadership. Join us as we transform the data center segment through workload driven leadership products and close collaboration with our partners. Posting Statement: All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance. Position of Trust N/A Benefits We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock bonuses, and benefit programs which include health, retirement, and vacation. Find out more about the benefits of working at Intel. Annual Salary Range for jobs which could be performed in the US: $190,610.00-269,100.00 USD The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific compensation range for your preferred location during the hiring process. Work Model for this Role This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. * Job posting details (such as work model, location or time type) are subject to change. * ADDITIONAL INFORMATION: Intel is committed to Responsible Business Alliance (RBA) compliance and ethical hiring practices. We do not charge any fees during our hiring process. Candidates should never be required to pay recruitment fees, medical examination fees, or any other charges as a condition of employment. If you are asked to pay any fees during our hiring process, please report this immediately to your recruiter. Intel’s official careers website. Find your next job and take on projects that shape tomorrow’s technology. Benefits Internships Life at Intel Locations Recruitment Process Discover your place in our world-changing work.",
+    "job_is_remote": false,
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "Folsom, CA",
+    "job_city": "Folsom",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 38.6719495,
+    "job_longitude": -121.1612945,
+    "job_benefits": [
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DN04ym_G0zCblfvACAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "A successful candidate will have proven experience demonstrating the following skills and behavioral traits: The ideal candidate will be capable of leading a small team as well as interacting with architecture and design teams to improve IP and ultimate product quality and performance",
+        "Good leadership and communication skills are necessary due to the nature of the work, size and complexity of the products and the size of the team",
+        "Requirements listed would be obtained through a combination of industry-relevant job experience, internship experience and or schoolwork/classes/research",
+        "Bachelor’s in Electrical/Computer Engineering with 9+ years relevant work experience, or Master's in Electrical/Computer Engineering with 6+ years relevant work experience",
+        "Experience in: Logic Design, VLSI/ASIC Design, Computer Architecture",
+        "Current Industry Experience in one or more ASIC style design flows – floorplanning, clock construction, synthesis, place and route, static timing analysis, layout verification",
+        "Experience with Unix/Linux, Perl and TCL in order to implement useable, flexible cshell/perl/tcl programs that automate tool/flow methodologies",
+        "Job Type: Experienced Hire Shift: Shift 1 (United States of America) Primary Location: US, California, Folsom Additional Locations: US, California, Santa Clara Business group: At the Data Center Group (DCG), we're committed to delivering exceptional products and delighting our customers"
+      ],
+      "Benefits": [
+        "It consists of competitive pay, stock bonuses, and benefit programs which include health, retirement, and vacation",
+        "Annual Salary Range for jobs which could be performed in the US: $190,610.00-269,100.00 USD The range displayed on this job posting reflects the minimum and maximum target compensation for the position across all US locations",
+        "Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training",
+        "Your recruiter can share more about the specific compensation range for your preferred location during the hiring process"
+      ],
+      "Responsibilities": [
+        "The team is responsible for all SoC level physical design and optimization flows ranging from Floor-planning, Clocking, Synthesis through GDS and parallel verification aspects such as Static Timing Analysis, Formal Verification, EM/IR/PDN verification, Quality Assurance, Layout Verification etc",
+        "Responsibilities may also include defining design requirements such as frequency, operating voltages, power, etc",
+        "to achieve optimized designs on new technologies, processes and architectures",
+        "The candidate would be required to work closely with the rest of the project team members to resolve issues which arise during the design cycle and take the key learnings into the next product cycle",
+        "We offer both broad-market Xeon-based solutions and custom x86-based products, ensuring tailored innovation for diverse needs across general-purpose compute, web services, HPC, and AI-accelerated systems"
+      ]
+    },
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "intel-wd1-myworkdayjobs-com-en-us-external-job-gpu-physical-design-engineer_jr0280805",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "qt56sgf-RMY1DVtzAAAAAA==",
+    "job_title": "Senior Software Engineer, VLSI AI Agent 27",
     "employer_name": "Nvidia",
     "employer_logo": null,
     "employer_website": "https://www.nvidia.com",
@@ -499,12 +575,12 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.jobilize.com/job/us-fl-all-cities-senior-software-engineer-vlsi-ai-agent-10-nvidia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.jobilize.com/amp/job/us-mt-all-cities-senior-software-engineer-vlsi-ai-agent-27-nvidia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-fl-all-cities-senior-software-engineer-vlsi-ai-agent-10-nvidia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.jobilize.com/amp/job/us-mt-all-cities-senior-software-engineer-vlsi-ai-agent-27-nvidia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -513,16 +589,16 @@
     "job_posted_at": "4 days ago",
     "job_posted_at_timestamp": 1770854400,
     "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Florida",
+    "job_location": "Montana",
     "job_city": null,
-    "job_state": "Florida",
+    "job_state": "Montana",
     "job_country": "US",
-    "job_latitude": 27.6648274,
-    "job_longitude": -81.5157535,
+    "job_latitude": 46.8796822,
+    "job_longitude": -110.3625658,
     "job_benefits": [
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMuOn56vOIuCVJXcRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dqt56sgf-RMY1DVtzAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
@@ -556,7 +632,7 @@
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "www-jobilize-com-job-us-fl-all-cities-senior-software-engineer-vlsi-ai-agent-10-nvidia",
+    "id": "www-jobilize-com-amp-job-us-mt-all-cities-senior-software-engineer-vlsi-ai-agent-27-nvidia",
     "_source": "new_jobs"
   },
   {
@@ -608,6 +684,94 @@
     "job_onet_soc": "17219900",
     "job_onet_job_zone": "4",
     "id": "us-bebee-com-job-f216e0fa20764be1bc473403d44942b6",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "JV0MuyGYKgtEluJEAAAAAA==",
+    "job_title": "ASIC Verification Engineer",
+    "employer_name": "Hewlett Packard Enterprise",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBiS_JbgeKmt-3pO94uwHVwY0J7ku6owJMxcAb&s=0",
+    "employer_website": null,
+    "job_publisher": "Recruit.net",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.recruit.net/job/asic-verification-engineer-jobs/EB3D32D321E6F0A0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Recruit.net",
+        "apply_link": "https://www.recruit.net/job/asic-verification-engineer-jobs/EB3D32D321E6F0A0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "ASIC Verification Engineer\n\nThis role has been designed as ‘’Onsite’ with an expectation that you will primarily work from an HPE office.\n\nWho We Are:\n\nHewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n\nJob Description:\n\nDesigns, analyzes, develops, modifies and evaluates VLSI components and hardware systems. Determines architecture and logic design, design verification through software developed for component and system simulation, and builds physical implementations through development of multidimensional designs involving the layout of complex integrated circuits. Analyzes designs to establish operating data, conducts experimental tests and evaluates results to enable prototype and production VLSI solutions. May direct support personnel in the preparation of detailed design, design testing and prototype fabrication.\n\nContributions impact technical components of HPE products, solutions, or services regularly and sustainable. Applies advanced subject matter knowledge to solve complex business issues and is regarded as a subject matter expert. Provides expertise and partnership to functional and technical project teams and may participate in cross-functional initiatives. Exercises significant independent judgment to determine best method for achieving objectives. May provide team leadership and mentoring to others.\n\nResponsibilities:\n• Provide technical expertise and leads project teams of Electronic and VLSI engineers and internal and outsourced development partners responsible for all stages of VLSI design and development for complex products, solutions, and platforms, including design, validation, and testing.\n• Reviews and evaluates designs and project activities for compliance with VLSI technology and development guidelines and standards; provides tangible feedback to improve product quality.\n• Provides VLSI-specific and technical expertise along with the overall architecture design and platform leadership to cross-organization projects, programs, and activities.\n• Provides leadership of project team of other VLSI engineers and internal and outsourced development partners to develop reliable, cost effective and high quality solutions for VLSI prototypes and products.\n• Provides guidance and mentoring to less experienced staff members to set an example of VLSI design and development innovation and excellence.\n• Participates in and provides input on process for selection of future technical leaders.\n• Drives VLSI innovation and integration of new technologies into projects and activities in the design organization.\n\nEducation and Experience Required:\n• Bachelor's or Master's degree in Electrical Engineering, Computer engineering or equivalent\n• 6-10 years of experience in VLSI design, verification, or implementation\n• Experience with scripting languages (Python, PERL, TCL or equivalent)\n• Experience with software programming languages (C; C++)\n• Experience with Verilog/System Verilog\n• Proficient in UVM methodologies\n• Specman knowledge is a plus\n\nKnowledge and Skills:\n• Expert level proficiency in electrical engineering fundamentals, VLSI principles, digital logic, and computer architecture.\n• Expert level analytical and problem solving skills.\n• Expert level knowledge of designing VLSI components, integrated circuitry, architectures and algorithms into VLSI solutions.\n• Expert level knowledge of a programming and scripting, hardware description language, electronic design automation (EDA), and/or FPGA tools. Coursework in VLSI design or VLSI concepts.\n• Experience in executive written and verbal communication skills; mastery in English and local language.\n• Subject matter expertise or discipline leadership as evidenced through patents/publications in the field of VSLI or Electronic/hardware component designs and tools.\n\nAdditional Skills:\nAccountability, Accountability, Action Planning, Active Learning, Active Listening, Agile Methodology, Agile Scrum Development, Analytical Thinking, Bias, Coaching, Creativity, Critical Thinking, Cross-Functional Teamwork, Data Analysis Management, Data Collection Management (Inactive), Data Controls, Design, Design Thinking, Empathy, Follow-Through, Group Problem Solving, Growth Mindset, Intellectual Curiosity (Inactive), Long Term Planning, Managing Ambiguity {+ 5 more}\n\nWhat We Can Offer You:\n\nHealth & Wellbeing\n\nWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.\n\nPersonal & Professional Development\n\nWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.\n\nUnconditional Inclusion\n\nWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.\n\nLet's Stay Connected:\n\nFollow @HPECareers on Instagram to see the latest on people, culture and tech at HPE.\n#unitedstates\n\nJob:\nEngineering\n\nJob Level:\nTCP_04\n\n\"The expected salary/wage range for this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level.\n– United States of America: Annual Salary USD 153,500 - 310,500 in California\nThe listed salary range reflects base salary. Variable incentives may also be offered.\"\n\nInformation about employee benefits offered in the US can be found at https://myhperewards.com/main/new-hire-enrollment.html\n\nHPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.\n\nHewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.\n\nHPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.\n\nNo Fees Notice & Recruitment Fraud Disclaimer\n\nIt has come to HPE’s attention that there has been an increase in recruitment fraud whereby scammer impersonate HPE or HPE-authorized recruiting agencies and offer fake employment opportunities to candidates. These scammers often seek to obtain personal information or money from candidates.\n\nPlease note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge any candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. The credentials of any hiring agency that claims to be working with HPE for recruitment of talent should be verified by candidates and candidates shall be solely responsible to conduct such verification. Any candidate/individual who relies on the erroneous representations made by fraudulent employment agencies does so at their own risk, and HPE disclaims liability for any damages or claims that may result from any such communication.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Roseville, AR",
+    "job_city": "Roseville",
+    "job_state": "Arkansas",
+    "job_country": "US",
+    "job_latitude": 35.3825868,
+    "job_longitude": -93.77547369999999,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJV0MuyGYKgtEluJEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Applies advanced subject matter knowledge to solve complex business issues and is regarded as a subject matter expert",
+        "Bachelor's or Master's degree in Electrical Engineering, Computer engineering or equivalent",
+        "6-10 years of experience in VLSI design, verification, or implementation",
+        "Experience with scripting languages (Python, PERL, TCL or equivalent)",
+        "Experience with software programming languages (C; C++)",
+        "Experience with Verilog/System Verilog",
+        "Proficient in UVM methodologies",
+        "Expert level proficiency in electrical engineering fundamentals, VLSI principles, digital logic, and computer architecture",
+        "Expert level analytical and problem solving skills",
+        "Expert level knowledge of designing VLSI components, integrated circuitry, architectures and algorithms into VLSI solutions",
+        "Expert level knowledge of a programming and scripting, hardware description language, electronic design automation (EDA), and/or FPGA tools",
+        "Coursework in VLSI design or VLSI concepts",
+        "Experience in executive written and verbal communication skills; mastery in English and local language",
+        "Subject matter expertise or discipline leadership as evidenced through patents/publications in the field of VSLI or Electronic/hardware component designs and tools",
+        "Accountability, Accountability, Action Planning, Active Learning, Active Listening, Agile Methodology, Agile Scrum Development, Analytical Thinking, Bias, Coaching, Creativity, Critical Thinking, Cross-Functional Teamwork, Data Analysis Management, Data Collection Management (Inactive), Data Controls, Design, Design Thinking, Empathy, Follow-Through, Group Problem Solving, Growth Mindset, Intellectual Curiosity (Inactive), Long Term Planning, Managing Ambiguity {+ 5 more}"
+      ],
+      "Benefits": [
+        "Health & Wellbeing",
+        "We strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing",
+        "Personal & Professional Development",
+        "We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division",
+        "The listed salary range reflects base salary",
+        "Variable incentives may also be offered.\""
+      ],
+      "Responsibilities": [
+        "Designs, analyzes, develops, modifies and evaluates VLSI components and hardware systems",
+        "Determines architecture and logic design, design verification through software developed for component and system simulation, and builds physical implementations through development of multidimensional designs involving the layout of complex integrated circuits",
+        "Analyzes designs to establish operating data, conducts experimental tests and evaluates results to enable prototype and production VLSI solutions",
+        "May direct support personnel in the preparation of detailed design, design testing and prototype fabrication",
+        "Contributions impact technical components of HPE products, solutions, or services regularly and sustainable",
+        "Provides expertise and partnership to functional and technical project teams and may participate in cross-functional initiatives",
+        "Exercises significant independent judgment to determine best method for achieving objectives",
+        "May provide team leadership and mentoring to others",
+        "Provide technical expertise and leads project teams of Electronic and VLSI engineers and internal and outsourced development partners responsible for all stages of VLSI design and development for complex products, solutions, and platforms, including design, validation, and testing",
+        "Reviews and evaluates designs and project activities for compliance with VLSI technology and development guidelines and standards; provides tangible feedback to improve product quality",
+        "Provides VLSI-specific and technical expertise along with the overall architecture design and platform leadership to cross-organization projects, programs, and activities",
+        "Provides leadership of project team of other VLSI engineers and internal and outsourced development partners to develop reliable, cost effective and high quality solutions for VLSI prototypes and products",
+        "Provides guidance and mentoring to less experienced staff members to set an example of VLSI design and development innovation and excellence",
+        "Participates in and provides input on process for selection of future technical leaders",
+        "Drives VLSI innovation and integration of new technologies into projects and activities in the design organization"
+      ]
+    },
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "www-recruit-net-job-asic-verification-engineer-jobs-eb3d32d321e6f0a0",
     "_source": "new_jobs"
   },
   {
@@ -813,9 +977,9 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
+      "health_insurance",
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Do_tEI4Bgh9YB7VnQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -886,8 +1050,8 @@
     "job_latitude": 42.4303138,
     "job_longitude": -71.460433,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D14rWHGqWVyUYMVhrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
