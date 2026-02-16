@@ -26,14 +26,14 @@
     "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
     "job_location": "Alabama",
     "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_state": "Alabama",
+    "job_country": "US",
+    "job_latitude": 32.3182314,
+    "job_longitude": -86.902298,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D9Lhp91vK4guv8EBjAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -177,14 +177,14 @@
     "job_posted_at_timestamp": 1770595200,
     "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
     "job_location": "Rochester, NY",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Rochester",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 43.156577899999995,
+    "job_longitude": -77.6088465,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DeunV6q7Z6HJj35ZeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -308,15 +308,15 @@
     "job_posted_at_timestamp": 1771113600,
     "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
     "job_location": "Tucson, AZ",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Tucson",
+    "job_state": "Arizona",
+    "job_country": "US",
+    "job_latitude": 32.2539787,
+    "job_longitude": -110.97417689999999,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkMtNAZgfBqjJh6oXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -396,11 +396,11 @@
     "job_posted_at_timestamp": 1770854400,
     "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
     "job_location": "Glen Echo, MD",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Glen Echo",
+    "job_state": "Maryland",
+    "job_country": "US",
+    "job_latitude": 38.969555,
+    "job_longitude": -77.14192299999999,
     "job_benefits": [
       "health_insurance"
     ],
@@ -511,11 +511,11 @@
     "job_posted_at_timestamp": 1770940800,
     "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
     "job_location": "Long Beach, CA",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Long Beach",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 33.770050399999995,
+    "job_longitude": -118.19373949999999,
     "job_benefits": [
       "health_insurance",
       "dental_coverage",
@@ -653,11 +653,11 @@
     "job_posted_at_timestamp": 1770422400,
     "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
     "job_location": "Austin, TX",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 30.267152999999997,
+    "job_longitude": -97.7430608,
     "job_benefits": [
       "dental_coverage",
       "health_insurance"
@@ -769,15 +769,15 @@
     "job_posted_at_timestamp": 1771027200,
     "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
     "job_location": "Niskayuna",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Niskayuna",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 42.8000049,
+    "job_longitude": -73.89144069999999,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzZOlaqKz-NKfXZOCAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -895,15 +895,15 @@
     "job_posted_at_timestamp": 1770940800,
     "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
     "job_location": "Totowa, NJ",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Totowa",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 40.8951079,
+    "job_longitude": -74.2242141,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dgt6Fx8bFbWyG3Hq8AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -990,14 +990,14 @@
     "job_posted_at_timestamp": 1770163200,
     "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
     "job_location": "Worcester, MA",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Worcester",
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.262811299999996,
+    "job_longitude": -71.80249309999999,
     "job_benefits": [
-      "paid_time_off",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3J7tfTVpqzrj0abyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 141910,
@@ -1099,11 +1099,11 @@
     "job_posted_at_timestamp": 1770940800,
     "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
     "job_location": "Novi, MI",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Novi",
+    "job_state": "Michigan",
+    "job_country": "US",
+    "job_latitude": 42.48059,
+    "job_longitude": -83.4754913,
     "job_benefits": null,
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYwzBmXhyJMJOZ_i8AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1184,15 +1184,15 @@
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
     "job_location": "Hartford, CT",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Hartford",
+    "job_state": "Connecticut",
+    "job_country": "US",
+    "job_latitude": 41.7658043,
+    "job_longitude": -72.6733723,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2TZ54nvQ33ZrcGF0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1244,6 +1244,113 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "_suurIVYg45pri_TAAAAAA==",
+    "job_title": "Senior Analog IC Design Engineer or Analog IC Design Engineer",
+    "employer_name": "Mitutoyo Research & Development America (formerly Micro Encoder Inc.)",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUGSAEjbgzlaCN0GeUyHTiJCDRR1ELlpOf8vno&s=0",
+    "employer_website": null,
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/senior-analog-ic-design-engineer-or-analog-ic-design-engineer-at-mitutoyo-research-development-america-formerly-micro-encoder-inc-4363215217?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-analog-ic-design-engineer-or-analog-ic-design-engineer-at-mitutoyo-research-development-america-formerly-micro-encoder-inc-4363215217?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/senior-analog-ic-design-engineer-or-analog-ic-design-engineer-hiremojo-JV_IC1150472_KO0,61_KE62,70.htm?jl=1010031297295&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/fdycoUSB4b686vqsb_yHphuXjrnOP4BF6zs2D77QCuUeSIK3ZTLihw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/698d81cef64d441a164f9aee?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/0f91119db2dba409f706d85b21154378?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Craigslist Seattle",
+        "apply_link": "https://seattle.craigslist.org/est/egr/d/kirkland-senior-analog-ic-design/7914379643.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/amp/job/us-washington-kirkland-senior-analog-ic-design-engineer-mitutoyo-research?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Senior Analog IC Design Engineer or Analog IC Design Engineer\n\nKirkland, Washington - Full Time\n\nLooking for a dynamic role where you can leverage your expertise in analog IC design? Look no further. We're seeking a Senior Analog IC Design Engineer or an Analog IC Design Engineer who thrives on developing innovative solutions. At Mitutoyo Research & Development America, Inc. (MRDA), you'll be creating cutting-edge analog CMOS ASICs. Collaborating with a diverse team of IC designers and scientists, you'll tackle challenging product requirements using clever circuit design techniques.\n\nYou’ll also enjoy the flexibility of our hybrid work model. At MRDA, we prioritize your well-being and work-life balance.\n\nClick here for the detailed job description: https://www.mitutoyo-rda.com/s/2026-03-JD-Analog-IC-Design-Engineer.pdf\n\nTHE COOL THINGS YOU WILL BE DOING WITH YOUR TALENTS\n\nAs a talented Analog IC Design Engineer, you'll have the opportunity to work on exciting projects. You'll be designing, simulating, laying out, and testing Analog and Mixed Signal ICs that interface with imaging sensors, and capacitive and inductive transducers. Some of the circuits you and your team will be designing: signal conditioning, sensor excitation, analog-digital conversion (ADC, DAC), system on a chip (SoC), power management circuits.\n\nYou will also be working with scientists on the definition and system design of the next generation of metrology products.\n\nBut that's not all - you'll also have the chance to research and investigate new and innovative technologies, industry trends, and techniques to improve our products. This means you'll be at the forefront of innovation, pushing the boundaries of what's possible and driving our products forward.\n\nOccasional travel to Japan will offer you an opportunity to experience a different culture and learn from it.\n\nWHAT YOU NEED TO SUCCEED\n\nTo thrive in this role, you'll need an intuitive and analytical understanding of analog CMOS circuit design. Proficiency with EDA design tools is also essential. A successful track record of designing and debugging low power CMOS analog ICs is a must-have.\n\nIf you’re a Senior Analog IC Design Engineer with 12+ years of industry experience and architecture planning, system level design and modeling skills, this is the perfect fit. If you’re an Analog IC Design Engineer with 3+ years of industry experience and are eager to grow into a senior role, we also want to hear from you.\n\nGreat written and oral communication skills are also crucial, including the ability to clearly explain technology and document design concepts in detail. Finally, a willingness to learn new skills, work effectively independently or in a cross-functional team, and collaborate with diverse cultures and attitudes is essential for success in this role.\n\nAt MRDA, we value not just what you bring to the table today, but also your potential to shape tomorrow's innovations.\n\nFor a list of required and beneficial skills and experience, see the job description at https://www.mitutoyo-rda.com/2026-03.\n\nCOMPENSATION AND BENEFITS\n\nThe salary range is $120,000-$180,000 per year for the Senior Analog IC Design Engineer and $100,000-$140,000 per year for the Analog IC Design Engineer. The successful candidate’s salary will be determined based on job-related experience/ knowledge/ skills, education, and complexity and responsibility of the role. Benefits include 100% paid medical, dental, vision insurance (75% for dependents), 100% paid life and disability insurance, 6% matching 401k, 15 vacation days, 12 paid holidays, 10 paid sick days per year, and eligibility for performance based annual bonus. Additional benefits and details can be found at https://www.mitutoyo-rda.com/benefits.\n\nWHY YOU WILL LOVE WORKING HERE\n\nYour work here will help make a positive impact on society. You’ll enjoy working in our casual and friendly environment with very flexible hours and hybrid work model. You will get to work with a very intelligent group of people using our state-of-the-art facilities and equipment. We are highly stable and we’ll support your career development with training opportunities and our cultural focus on individual growth. You’ll love our excellent benefits package.\n\nTO APPLY, VISIT\n\nhttps://app.hiremojo.com/mojo/ce/508698359/Mitutoyo-Research--Development-America-Inc/Washington/Kirkland/Analog-IC-Design-Engineer\n\nOUR COMPANY\n\nMRDA, a wholly owned subsidiary of Mitutoyo Corporation, is at the forefront of developing state-of-the-art technologies and software that enhance lives through world-leading metrology solutions. Our products are integral in ensuring quality in industries such as automotive, aerospace, electronics, semiconductors, medical equipment, and machine tools.\n\nLocated in the beautiful Northwest in a modern, well-equipped facility, we offer a challenging, team-oriented, and casual work environment. We value work-life balance, offering great benefits and a fun, energetic atmosphere where we work hard, play hard, and enjoy life.\n\nFor more information about life at MRDA, check out https://www.mitutoyo-rda.com/life-at-mrda.\n\nMRDA is an equal opportunity employer. Applicants must be authorized to work for any employer in the U.S. MRDA participates in E-Verify. Detailed information: E-Verify (https://www.mitutoyo-rda.com/s/E-Verify_Participation_Poster.pdf) and Right to Work Statement (https://www.mitutoyo-rda.com/s/IER_RightToWorkPoster.pdf).\n\nSenior Analog IC Design Engineer, CMOS ASICs, Imaging sensors, mixed signal ASICs, EDA design tools, dimensional metrology, R&D, Electrical Engineer, LabVIEW, R, Matlab/Simulink, tcl, bash, ad Python, Application knowledge: Siemens/Tanner Tools/Mentor (S-Edit, L-Edit, Calibre, AFS, etc.), revision control software, Visio and RedHat Linux, #LI-JY1",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Kirkland, WA",
+    "job_city": "Kirkland",
+    "job_state": "Washington",
+    "job_country": "US",
+    "job_latitude": 47.676892699999996,
+    "job_longitude": -122.2059833,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_suurIVYg45pri_TAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 100000,
+    "job_max_salary": 180000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "To thrive in this role, you'll need an intuitive and analytical understanding of analog CMOS circuit design",
+        "Proficiency with EDA design tools is also essential",
+        "A successful track record of designing and debugging low power CMOS analog ICs is a must-have",
+        "If you’re a Senior Analog IC Design Engineer with 12+ years of industry experience and architecture planning, system level design and modeling skills, this is the perfect fit",
+        "If you’re an Analog IC Design Engineer with 3+ years of industry experience and are eager to grow into a senior role, we also want to hear from you",
+        "Great written and oral communication skills are also crucial, including the ability to clearly explain technology and document design concepts in detail",
+        "Finally, a willingness to learn new skills, work effectively independently or in a cross-functional team, and collaborate with diverse cultures and attitudes is essential for success in this role",
+        "Applicants must be authorized to work for any employer in the U.S. MRDA participates in E-Verify",
+        "Senior Analog IC Design Engineer, CMOS ASICs, Imaging sensors, mixed signal ASICs, EDA design tools, dimensional metrology, R&D, Electrical Engineer, LabVIEW, R, Matlab/Simulink, tcl, bash, ad Python, Application knowledge: Siemens/Tanner Tools/Mentor (S-Edit, L-Edit, Calibre, AFS, etc.), revision control software, Visio and RedHat Linux, #LI-JY1"
+      ],
+      "Benefits": [
+        "Occasional travel to Japan will offer you an opportunity to experience a different culture and learn from it",
+        "The salary range is $120,000-$180,000 per year for the Senior Analog IC Design Engineer and $100,000-$140,000 per year for the Analog IC Design Engineer",
+        "The successful candidate’s salary will be determined based on job-related experience/ knowledge/ skills, education, and complexity and responsibility of the role",
+        "Benefits include 100% paid medical, dental, vision insurance (75% for dependents), 100% paid life and disability insurance, 6% matching 401k, 15 vacation days, 12 paid holidays, 10 paid sick days per year, and eligibility for performance based annual bonus",
+        "Additional benefits and details can be found at https://www.mitutoyo-rda.com/benefits",
+        "You’ll enjoy working in our casual and friendly environment with very flexible hours and hybrid work model",
+        "You will get to work with a very intelligent group of people using our state-of-the-art facilities and equipment",
+        "We are highly stable and we’ll support your career development with training opportunities and our cultural focus on individual growth",
+        "You’ll love our excellent benefits package"
+      ],
+      "Responsibilities": [
+        "Collaborating with a diverse team of IC designers and scientists, you'll tackle challenging product requirements using clever circuit design techniques",
+        "As a talented Analog IC Design Engineer, you'll have the opportunity to work on exciting projects",
+        "You'll be designing, simulating, laying out, and testing Analog and Mixed Signal ICs that interface with imaging sensors, and capacitive and inductive transducers",
+        "Some of the circuits you and your team will be designing: signal conditioning, sensor excitation, analog-digital conversion (ADC, DAC), system on a chip (SoC), power management circuits",
+        "You will also be working with scientists on the definition and system design of the next generation of metrology products",
+        "This means you'll be at the forefront of innovation, pushing the boundaries of what's possible and driving our products forward"
+      ]
+    },
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "www-linkedin-com-jobs-view-senior-analog-ic-design-engineer-or-analog-ic-design-engineer-at-mitutoyo-research-development-america-formerly-micro-encoder-inc-4363215217",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "81ZVDOspuqCPEf9AAAAAAA==",
     "job_title": "PCB Design Engineer",
     "employer_name": "Reliance One, Inc.",
@@ -1269,11 +1376,11 @@
     "job_posted_at_timestamp": 1770940800,
     "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
     "job_location": "San Antonio, TX",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "San Antonio",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 29.4251905,
+    "job_longitude": -98.4945922,
     "job_benefits": [
       "health_insurance"
     ],
@@ -1312,86 +1419,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "hk-K-f9DfDRUpRGEAAAAAA==",
-    "job_title": "Principal FPGA Design Engineer",
-    "employer_name": "The Charles Stark Draper Laboratory, Inc.",
-    "employer_logo": null,
-    "employer_website": "https://www.draper.com",
-    "job_publisher": "Workday",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Principal-FPGA-Design-Engineer_JR000114?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Workday",
-        "apply_link": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Principal-FPGA-Design-Engineer_JR000114?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/principal-fpga-rtl-design-engineer-signal-processing_7ea1a80583972d9c751b79f392d7b6be3680a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/d88fa44e-3150-4d27-8be3-524b1701548c?q=PCI+Express&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Ascend.mysmartpros",
-        "apply_link": "https://ascend.mysmartpros.com/job/971914?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5554953941?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JSfirm.com",
-        "apply_link": "https://www.jsfirm.com/job/Engineering-Senior-Principal-FPGA-Verification-Engineer---15K-Sign-On-Bonus/Westminster-Colorado/jobID_1839682?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/678b10dac66013d93e3010a255f4856a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Simplify",
-        "apply_link": "https://simplify.jobs/p/5527f8d0-d28c-47e3-85be-56359cc47639/Principal-FPGA-Design-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Overview: Draper is an independent, nonprofit research and development company headquartered in Cambridge, MA. The 2,000+ employees of Draper tackle important national challenges with a promise of delivering successful and usable solutions. From military defense and space exploration to biomedical engineering, lives often depend on the solutions we provide. Our multidisciplinary teams of engineers and scientists work in a collaborative environment that inspires the cross-fertilization of ideas necessary for true innovation. For more information about Draper, visit www.draper.com. Job Description Summary: We are seeking a talented principal engineer to join the digital design team at Draper. The successful candidate will contribute to FPGA development with an emphasis on architecture, design, simulation, and test/support. Candidate must have experience using high level design and simulation tools and be familiar with process flows supporting design and simulation for digital FPGA efforts. Applicant should also be familiar with embedded software development for FPGA SoCs. The ideal candidate will be capable of working independently as well as working and communicating effectively with team members from multiple engineering, program, and customer groups. As a principal member, you will have leadership opportunities and mentoring responsibilities. Preference will be given to candidates with an understanding of hardware security, signal or image processing, filter design and algorithm implementation in hardware. Direct experience with embedded FPGA design is required. Minimum of 3 days/week onsite. Job Description: Duties/Responsibilities • Translate project and system requirements into well-defined hardware architectures working with cross-functional teams. • Design and/or complete instruments including microprocessors, power, and analog components. • Innovatively solve issues, drive completion of the project to schedule, and collaboratively work with other technical contributors. • Build and test prototypes, debug, and prepare documentation for manufacturing, and support. • Research and enable innovative solutions for cutting-edge designs. • Engage other engineers and partners to develop reliable, cost effective and solutions for products. • Independently drive solutions to complex problems - develop requirements, propose ways forward when customer requirements are unclear or incomplete, and adapt appropriately to changes in requirements. • Subject Matter Expert (SME) able to perform advanced architectures and designs for complex ASICs. • Involved in business development and proposal activities. • Identify program/system-level technical risks and develop and execute mitigation strategies. • Manage multi-disciplinary tasks with multiple engineers and effectively communicate status to project leadership and customers. • Develop, document, and teach best practices to less experienced engineers. • Performs other duties as assigned. Skills/Abilities • Proficiency in electronic design, microprocessor or embedded computing. • Understanding of design and general computer architecture. • Ability to write detailed design specifications. • Computer programming and coding abilities. • Excellent verbal and written communication skills. • Excellent mathematical skills. • Excellent organizational skills and attention to detail. • Excellent time management skills with the proven ability to meet deadlines. • Strong analytical and problem-solving skills. • Ability to prioritize tasks. • Thorough understanding of engineering theories and procedures. • Strong organization, planning, and time management skills to achieve program goals. Education Bachelor's degree in Electronic or Electrical Engineering or related field. Master's Degree preferred. Experience 7-10 years experience in Electronic or Electrical Engineering or related. Additional Job Description: Fluent in Verilog or VHDL Significant experience in FPGA Design / Development Familiarity with Xilinx Vivado and/or Microsemi Libero Digital simulation using Modelsim/Questa Significant experience with design closure including timing, power, and area for SWaP constrained designs Experience with high speed interfaces like SERDES, PCIe, DDR2/3/4, LVDS Experience implementing digital signal processing algorithms Strong analysis and problem-solving skills Experience with scripting languages Excellent communication and teaming skills Self-starter and a good team player Ability to mentor and willingness to be mentored Experience with Matlab/Simulink UVM skills (Test and/or Test Bench Development) Experience in hardware design and hands-on lab debug Experience working with FPGA design verification teams Applicants selected for this position will be required to obtain and maintain a government security clearance. Connect With Draper for Future Opportunities! If you don't find the right posting in our Career Opportunities, you may submit your resume for future consideration. Job Location - City: Cambridge Job Location - State: Massachusetts Job Location - Postal Code: 02139-3563 The US base salary range for this full-time position is $95,000.00 - $245,000.00 Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Union ranges will be in compliance with the collective bargaining agreement's approved rates by location and role. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and does not include bonuses or benefits. Our work is very important to us, but so is our life outside of work. Draper supports many programs to improve work-life balance including workplace flexibility, employee clubs ranging from photography to yoga, health and finance workshops, off site social events and discounts to local museums and cultural activities. If this specific job opportunity and the chance to work at a nationally renowned R&D innovation company appeals to you, apply now www.draper.com/careers. Draper is committed to creating an inclusive environment. We understand the value of inclusivity and its impact on a high-performance culture. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, national origin, veteran status, or genetic information. Draper is committed to providing access, equal opportunity, and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. To request reasonable accommodation, please contact hr@draper.com. We are in the business of redefining what is possible. Join our inclusive, multidisciplinary team to engineer the groundbreaking solutions of tomorrow. Explore life at Draper with our unique culture and benefits at draper.com.",
-    "job_is_remote": true,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770163200,
-    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-    "job_location": "Cambridge, MA",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dhk-K-f9DfDRUpRGEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {},
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "draper-wd5-myworkdayjobs-com-en-us-draper_careers-job-principal-fpga-design-engineer_jr000114",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "THtn-MThrkudNKeYAAAAAA==",
     "job_title": "ASIC Design Verfication Engineer II (Full Time) - United States",
     "employer_name": "Cisco",
@@ -1422,11 +1449,11 @@
     "job_posted_at_timestamp": 1770854400,
     "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
     "job_location": "Carlsbad, CA",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Carlsbad",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 33.1640648,
+    "job_longitude": -117.34108189999999,
     "job_benefits": [
       "dental_coverage",
       "health_insurance",
@@ -1543,14 +1570,14 @@
     "job_posted_at_timestamp": 1770681600,
     "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
     "job_location": "Berkeley, MO",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Berkeley",
+    "job_state": "Missouri",
+    "job_country": "US",
+    "job_latitude": 38.7544952,
+    "job_longitude": -90.3312256,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0AC33IAFvS6SXhLaAAAAAA%3D%3D&vssid=jobs-detail-viewer",
