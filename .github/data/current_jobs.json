@@ -31,9 +31,9 @@
     "job_latitude": 35.995568399999996,
     "job_longitude": -78.9002077,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgjoZHl4QF_Y98_3iAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 157080,
@@ -340,9 +340,9 @@
     "job_latitude": 45.486928299999995,
     "job_longitude": -122.80403199999999,
     "job_benefits": [
+      "paid_time_off",
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Do-ANwyY_UhA2qE-6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -559,9 +559,9 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Df-yCc_PkNwuklX8TAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -668,8 +668,8 @@
     "job_latitude": 39.5500507,
     "job_longitude": -105.78206739999999,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DbB6rFcaKWGAzY5uOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -747,9 +747,9 @@
     "job_latitude": 40.065629099999995,
     "job_longitude": -79.8917139,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaB5iXY3vgvGFPIzOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1098,8 +1098,8 @@
     "job_latitude": 45.5201237,
     "job_longitude": -122.99133409999999,
     "job_benefits": [
-      "paid_time_off",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFDir0mHlLf_7mUMsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1267,8 +1267,8 @@
     "job_latitude": 38.8353142,
     "job_longitude": -104.82160089999999,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJAfEWttttda2bPMWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1311,100 +1311,6 @@
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
     "id": "www-ziprecruiter-com-c-analogdevices-job-senior-mixed-signal-analog-design-engineer-in-colorado-springs-co",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "Jt3BSB4BerQ4lpqKAAAAAA==",
-    "job_title": "Analog/Mixed-Signal IC Design Engineer Intern",
-    "employer_name": "Keysight Technologies, Inc.",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuLMTBSecA9U7Smewt5E1YGASnrk96SkkVuZYL&s=0",
-    "employer_website": "https://investor.keysight.com",
-    "job_publisher": "Indeed",
-    "job_employment_type": "Internship",
-    "job_employment_types": [
-      "INTERN"
-    ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=ddcab3a6dd0ed413&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=ddcab3a6dd0ed413&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/analog-mixed-signal-ic-design-engineer-intern_7ea1af408d22f51499643882e552cfa8188db?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/analog-mixed-signal-ic-design-engineer-intern-at-keysight-technologies-4357574222?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Keysight/Job/Analog-Mixed-Signal-IC-Design-Engineer-Intern/-in-Santa-Clara,CA?jid=ad029b1cf13dadcf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/1b427bc67d241c63b5e8234701635bc1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Monster",
-        "apply_link": "https://www.monster.com/job-openings/analog-mixed-signal-ic-design-engineer-intern-santa-clara-ca--4869121c-7af7-49fb-b2c3-55526c2b4356?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/analog-mixed-signal-ic-design-engineer-intern-keysight-technologies-JV_IC1147439_KO0,45_KE46,67.htm?jl=1010020661390&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Joinrs",
-        "apply_link": "https://www.joinrs.com/es/job-offers/588360/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Overview:\n\nKeysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.\n\nOur award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.\n\nResponsibilities:\n\nAbout the Job:\n\nYou will join one of our ASIC design teams in Santa Clara for a 3-month project in the area of high-speed/high-resolution data converter circuit design aimed at future Keysight products. You will get experience with the tools, skills, insights and tradeoffs necessary for successful integrated circuit design. Keysight fosters a collaborative engineering environment which emphasizes teamwork, mentoring, enthusiasm, and excellence in design.\n\nAbout the Team:\n\nWithin several world-wide teams Keysight's Advanced Technology Labs Mixed-Signal ASIC Design Section develops (and often publishes) the world’s-fastest data converters (ADC: analog-to-digital converters, DAC: digital-to-analog converters) and other mixed-signal integrated circuits, as well as analog signal conditioning circuits using a variety of state-of-the art semiconductor technologies. Our chips provide the speed and accuracy performance that enable many of Keysight’s world-leading electronic test and measurement products.\n\nResponsibilities:\n\nYou will do designs and simulations within a circuit program supporting the analog frontend of one of our next generation ADC chips or the analog backend of one of our next generation DAC chips. Design may be at the block or circuit level, and simulation may include circuit simulation, electromagnetic simulation, and/or high-level custom software simulation.\n\nQualifications:\n\nRequired Qualifications:\n• Enrolled in a MS or PhD EE program\n• Strong skills in transistor-level design of mixed-signal CMOS and/or BiCMOS circuits\n• Familiar with schematic entry / layout / simulation tool flow (preferably Cadence)\n• Familiar with the use of one or more software scripting tools to support design, such as Bash, Python, PERL, Awk or SKILL\n\nDesired Qualifications:\n• Experience with high-speed designs (> 1 GHz)\n• Experience in data converter calibration and analysis in particular related to ADCs\n• Good communication and collaboration skills\n\nOther Information:\n• Right to work in the U.S. is required\n• This position requires access to technical data regulated under export controls by the U.S. Government. If an export license is required, employment may not commence until such license is received\n• Relocation is not available for this position\n\nKeysight Internship Program Requirements\n\nCandidates who wish to be considered must be enrolled in a accredited college/university as of September 2026. Applicants who have graduated before September 2026 will not be considered unless they are starting a MS or PHD program after graduating.\n\nCareers Privacy Statement***Keysight is an Equal Opportunity Employer.***",
-    "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1770076800,
-    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
-    "job_location": "Santa Clara, CA",
-    "job_city": "Santa Clara",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.354107899999995,
-    "job_longitude": -121.9552356,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJt3BSB4BerQ4lpqKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "You will get experience with the tools, skills, insights and tradeoffs necessary for successful integrated circuit design",
-        "Enrolled in a MS or PhD EE program",
-        "Strong skills in transistor-level design of mixed-signal CMOS and/or BiCMOS circuits",
-        "Familiar with schematic entry / layout / simulation tool flow (preferably Cadence)",
-        "Familiar with the use of one or more software scripting tools to support design, such as Bash, Python, PERL, Awk or SKILL",
-        "Right to work in the U.S. is required",
-        "This position requires access to technical data regulated under export controls by the U.S. Government",
-        "Candidates who wish to be considered must be enrolled in a accredited college/university as of September 2026",
-        "Applicants who have graduated before September 2026 will not be considered unless they are starting a MS or PHD program after graduating"
-      ],
-      "Responsibilities": [
-        "You will do designs and simulations within a circuit program supporting the analog frontend of one of our next generation ADC chips or the analog backend of one of our next generation DAC chips",
-        "Design may be at the block or circuit level, and simulation may include circuit simulation, electromagnetic simulation, and/or high-level custom software simulation"
-      ]
-    },
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "www-indeed-com-viewjob",
     "_source": "new_jobs"
   },
   {
@@ -1474,9 +1380,9 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLaKu8ZFOJQjz_RAkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1647,8 +1553,8 @@
     "job_longitude": -75.5483909,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_2EHWsENDgxLQwaMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1928,8 +1834,8 @@
     "job_longitude": -118.34074509999999,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DuWgW6Y9AC5g6-U5WAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 100000,
