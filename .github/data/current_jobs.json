@@ -102,6 +102,11 @@
         "is_direct": false
       },
       {
+        "publisher": "Craigslist",
+        "apply_link": "https://seattle.craigslist.org/est/egr/d/kirkland-senior-analog-ic-design/7914379643.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "SimplyHired",
         "apply_link": "https://www.simplyhired.com/job/fdycoUSB4b686vqsb_yHphuXjrnOP4BF6zs2D77QCuUeSIK3ZTLihw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -114,11 +119,6 @@
       {
         "publisher": "BeBee",
         "apply_link": "https://us.bebee.com/job/0f91119db2dba409f706d85b21154378?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Craigslist Seattle",
-        "apply_link": "https://seattle.craigslist.org/est/egr/d/kirkland-senior-analog-ic-design/7914379643.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
@@ -187,84 +187,6 @@
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
     "id": "www-linkedin-com-jobs-view-senior-analog-ic-design-engineer-or-analog-ic-design-engineer-at-mitutoyo-research-development-america-formerly-micro-encoder-inc-4363215217",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "ONcKpwpUVHrl-oObAAAAAA==",
-    "job_title": "Analog Circuit Design Engineer",
-    "employer_name": "191 Altera Corporation",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_Rz2EN73HT05bhI2BQLxCDHlOpBOKrJQGpm_&s=0",
-    "employer_website": null,
-    "job_publisher": "Workday",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://altera.wd1.myworkdayjobs.com/en-US/Altera/job/Analog-Circuit-Design-Engineer_R01948?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Workday",
-        "apply_link": "https://altera.wd1.myworkdayjobs.com/en-US/Altera/job/Analog-Circuit-Design-Engineer_R01948?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Altera/Job/Analog-Circuit-Design-Engineer/-in-San-Jose,CA?jid=fe7c5fe5ee3cc2d0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/analog-circuit-design-engineer_7ea1adb3f79995835e312a2dc1b76595c06d9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Built In Austin",
-        "apply_link": "https://www.builtinaustin.com/job/analog-circuit-design-engineer/8445731?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/eff99adcfee7914e9372e6e4ebae98d8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/analog-circuit-design-engineer-at-altera-4370885528?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698a61fb4db8972cecffa29a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5624319385?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Details: Job Description: About Altera For decades, Altera has been a leader in programmable logic solutions, enabling customers across aerospace, automotive, data center, communications, and industrial markets to deliver innovative, high-performance systems. As part of our continued growth, we are expanding our mixed-signal and analog design capabilities to support next-generation FPGA and SoC platforms. About the Role As a Mixed Signal Design Engineer you will be part of a team designing various mixed-signal circuit designs on Altera FPGAs such as voltage regulators, bandgaps and bias circuits, Analog to digital converter (ADC), Delay locked loops (DLLs), high speed clock distribution and other clocking circuits, IO circuits such as high voltage IO, RCOMP/SCOMP, memory circuits etc. on advanced processes nodes and have an opportunity to work on a diverse set of blocks and tasks in all phases of the design. The ideal candidate will be an independent self-starter who can own/design a custom analog or digital IP. An important part of this role is delivering all aspects of the design and collateral, including timing and reliability collateral. In addition, you should be able to drive transitions to AI tool-based design. You should be a motivated team-player who is able to work with cross-functional and cross-geo teams to understand, articulate and solve problems . Responsibilities Design, develop and deliver circuit building block schematic, perform pre layout and post layout design optimization to meet design specification across PVT, process variation sensitivity analysis, aging, EOS, RV checks for design reliability. Work with custom layout team to define plan (floorplan, routing, matching, metal grid etc) to meet circuit performance Collateral generation like circuit integration spec, and be a key driver to drive transition to AI tool-based design BMOD, timing model, power model, ICCT, IBIS, alpha numbers. Own specifications and design verification plans covering functionality, performance and reliability meeting high volume productization requirement. Collaborate with logic designer, logic verification designer, structural physical design engineers, integration engineers, signal integrity and power deliver engineer to define clear collateral handoff requirements to ensure efficient IP integration. Perform post silicon data analysis and debug and make necessary design enhancement to meet design specification. Conduct design reviews; actively contribute to design reviews Represent the team on related IP in cross-functional meetings and co-ordination of deliverables Work with external IP vendors as point of contact for analog designs Salary Range The pay range below is for Bay Area California only. Actual salary may vary based on a number of factors including job location, job-related knowledge, skills, experiences, trainings, etc. We also offer incentive opportunities that reward employees based on individual and company performance. $127,400 - $180,400 USD We use artificial intelligence to screen, assess, or select applicants for the position. Applicants must be eligible for any required U.S. export authorizations. Qualifications: Minimum Qualifications BSEE/MSEE/PhD in Electrical Engineering or equivalent with a minimum of 4+ years of experience in analog/mixed signal, high speed, or high voltage IO designs Direct design experience with analog and mixed signal circuits like amplifiers, comparators, regulators, IO, PLL etc Exposure to analog/mixed signal circuit design and layout flow and running post-layout simulations Solid understanding of analog design trade-offs and design for process variation and reliability in modern CMOS technologies Proficient in circuit design tools like Virtuoso, Spice, StarRC, Totem etc Understanding of Verilog, static timing analysis, UPF and related aspects of mixed signal design Job Type: Regular Shift: Shift 1 (United States of America) Primary Location: San Jose, California, United States Additional Locations: Austin, Texas, United States, Oregon Hillsboro Posting Statement: All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance. About Altera Altera: Accelerating Innovators Altera provides leadership programmable solutions that are easy-to-use and deploy in applications from cloud to edge, offering limitless AI possibilities. Our end-to-end broad portfolio of products including FPGAs, CPLDs, Intellectual Property, development tools, System on Modules, SmartNICs and IPUs provide the flexibility to accelerate innovation. Altera is helping to shape the future through pioneering innovation that unlocks extraordinary possibilities for everyone on the planet. Don't see the dream job you are looking for? Click \"Get Started\" below to drop off your contact information and resume and we will reach out to you if we find the perfect fit.",
-    "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "San Jose, CA",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.33874,
-    "job_longitude": -121.88525249999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DONcKpwpUVHrl-oObAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {},
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "altera-wd1-myworkdayjobs-com-en-us-altera-job-analog-circuit-design-engineer_r01948",
     "_source": "new_jobs"
   },
   {
@@ -365,127 +287,6 @@
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
     "id": "www-indeed-com-viewjob",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "3h_d1shxeTzn-HNdAAAAAA==",
-    "job_title": "Analog Design Engineer",
-    "employer_name": "Boeing",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrZMAXhe-mD5loYAi7dRFR0HOLo2zbmY5kUnuq&s=0",
-    "employer_website": "https://www.boeing.com",
-    "job_publisher": "Boeing",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.boeing.com/job/huntsville/analog-design-engineer/185/91629240560?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Boeing",
-        "apply_link": "https://jobs.boeing.com/job/huntsville/analog-design-engineer/185/91629240560?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Boeing/Job/Analog-Design-Engineer/-in-Huntsville,AL?jid=596aaad4e10ccfdf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/analog-design-engineer-at-boeing-4363119836?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/cf7cdf3bbeb119d6f7879a2a801cfcbd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Fair360 Jobs",
-        "apply_link": "https://jobs.fair360.com/job/analog-design-engineer-huntsville-alabama-65584647?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698da77a78b4502f12a46148?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/-yCBC64NDWlZxet6gj3rGu2loyOsEIApenD0Tv9LZ2kCSbaKpGZp0w?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JOBSwithDOD",
-        "apply_link": "https://jobswithdod.com/defense-company-jobs/analog-design-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Description\n\nAt Boeing, we innovate and collaborate to make the world a better place. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.\n\nBoeing Defense, Space & Security (BDS) seeks an Analog Design Engineer to join our Electrical Engineering Capability Team in Huntsville, AL. We design, sustain, and upgrade next generation electronics concepts, and we support analog and digital circuit card assembly (CCA) design.\n\nPosition Responsibilities:\n• Translate electrical requirements into system and hardware architectures, detailed interface specifications, and build/test plans.\n• Create and release engineering drawings, schematics, and PCB layouts to support fabrication and integration.\n• Perform circuit analysis, simulation, and troubleshooting using tools such as PSpice, LTSpice, Simplis, or equivalent.\n• Develop and execute verification and validation tests in the lab using oscilloscopes, DMMs, spectrum analyzers, power supplies, and other test equipment; analyze results and iterate designs.\n• Research and evaluate emerging technologies and components; make recommendations for design improvements and technology investments to meet program needs.\n• Produce clear technical documentation, design reviews, and test reports to support program milestones and compliance requirements.\n• Collaborate with manufacturing, reliability, and sustainment teams to ensure producibility, testability, and maintainability of designs.\n• Support configuration management and change control activities; ensure designs meet applicable standards and requirements.\n\nAn interim or final U.S. Secret clearance Post Start is required for which the U.S. Government requires U.S. Citizenship.\n\nBasic Qualifications (Required Skills/Experience):\n• Years of related experience: 3+ for level 3, 5+ for level 4.\n• Analog electronics experience.\n• Electronics design experience.\n• Bachelor of Science degree in Engineering (with a focus in Electrical, Mechanical or Aeronautical), Computer Science, Data Science, Mathematics, Physics, Chemistry or non-US equivalent qualifications directly related to the work statement.\n\nPreferred Qualifications (Desired Skills/Experience):\n• Bachelor’s degree or higher in electrical engineering or computer engineering.\n• Analog design or RF design experience.\n• Circuit design, integrated circuit design, analog circuit design, mixed-signal IC Design.\n• SME of electrical design with proven previous design experience.\n• Hands-on experience using lab equipment such as oscilloscope, multimeter, DMM, spectrum analyzer, power supply, …\n• Simulation software experience such as MATLAB, PSpice, LTSpice, Simplis, or similar.\n• Schematic capture, Printed Circuit Board (PCB) Design experience with Altium, Mentor Graphics Siemens, or other drafting CAD tools.\n• Familiarity with FPGA and microcontrollers.\n• Active Security Clearance.\n\nTypical Education & Experience:\n\nLevel 3: Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, engineering technology (includes manufacturing engineering technology), computer science, engineering data science, mathematics, physics or chemistry (e.g. Bachelor) and typically 5 or more years' related work experience or an equivalent combination of technical education and experience or non-US equivalent qualifications. In the USA, ABET accreditation is the preferred, although not required, accreditation standard.\n\nLevel 4: Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, engineering technology (includes manufacturing engineering technology), computer science, engineering data science, mathematics, physics or chemistry (e.g. Bachelor) and typically 9 or more years' related work experience or an equivalent combination of technical education and experience or non-US equivalent qualifications. In the USA, ABET accreditation is the preferred, although not required, accreditation standard.\n\nConflict of Interest:\n\nSuccessful candidates must satisfy the Company’s Conflict of Interest (COI) assessment process.\n\nDrug Free Workplace:\n\nBoeing is a Drug Free Workplace (DFW) where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.\n\nRelocation:\n\nThis position offers relocation based on candidate eligibility.\n\nPay & Benefits:\n\nAt Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent. Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.\n\nThe Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.\n\nThe specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.\n\nPay is based upon candidate experience and qualifications, as well as market and business considerations.\n\nSummary Pay Range:\n\nLevel 3: $112,200 to $151,800\n\nLevel 4: $136,850 to $185,150\n\nApplications for this position will be accepted until Feb. 26, 2026\n\nExport Control Requirements:\n\nThis position must meet U.S. export control compliance requirements. To meet U.S. export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120.62 is required. “U.S. Person” includes U.S. Citizen, U.S. National, lawful permanent resident, refugee, or asylee.\n\nExport Control Details:\n\nUS based job, US Person required\n\nEducation\n\nBachelor's Degree or Equivalent Required\n\nRelocation\n\nThis position offers relocation based on candidate eligibility.\n\nSecurity Clearance\n\nThis position requires the ability to obtain a U.S. Security Clearance for which the U.S. Government requires U.S. Citizenship. An interim and/or final U.S. Secret Clearance Post-Start is required.\n\nVisa Sponsorship\n\nEmployer will not sponsor applicants for employment visa status.\n\nShift\n\nThis position is for 1st shift\n\nEqual Opportunity Employer:\n\nBoeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Huntsville, AL",
-    "job_city": "Huntsville",
-    "job_state": "Alabama",
-    "job_country": "US",
-    "job_latitude": 34.7295497,
-    "job_longitude": -86.5853155,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3h_d1shxeTzn-HNdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "An interim or final U.S. Secret clearance Post Start is required for which the U.S. Government requires U.S. Citizenship",
-        "Years of related experience: 3+ for level 3, 5+ for level 4",
-        "Analog electronics experience",
-        "Electronics design experience",
-        "Bachelor of Science degree in Engineering (with a focus in Electrical, Mechanical or Aeronautical), Computer Science, Data Science, Mathematics, Physics, Chemistry or non-US equivalent qualifications directly related to the work statement",
-        "Design experience with Altium, Mentor Graphics Siemens, or other drafting CAD tools",
-        "Familiarity with FPGA and microcontrollers",
-        "Active Security Clearance",
-        "Level 3: Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, engineering technology (includes manufacturing engineering technology), computer science, engineering data science, mathematics, physics or chemistry (e.g. Bachelor) and typically 5 or more years' related work experience or an equivalent combination of technical education and experience or non-US equivalent qualifications",
-        "Level 4: Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, engineering technology (includes manufacturing engineering technology), computer science, engineering data science, mathematics, physics or chemistry (e.g. Bachelor) and typically 9 or more years' related work experience or an equivalent combination of technical education and experience or non-US equivalent qualifications",
-        "Successful candidates must satisfy the Company’s Conflict of Interest (COI) assessment process",
-        "This position must meet U.S. export control compliance requirements",
-        "To meet U.S. export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120.62 is required",
-        "“U.S. Person” includes U.S. Citizen, U.S. National, lawful permanent resident, refugee, or asylee",
-        "US based job, US Person required",
-        "Bachelor's Degree or Equivalent Required",
-        "This position requires the ability to obtain a U.S. Security Clearance for which the U.S. Government requires U.S. Citizenship",
-        "An interim and/or final U.S. Secret Clearance Post-Start is required"
-      ],
-      "Benefits": [
-        "At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent",
-        "Elements of the Total Rewards package include competitive base pay and variable compensation opportunities",
-        "The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work",
-        "The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements",
-        "Pay is based upon candidate experience and qualifications, as well as market and business considerations",
-        "Level 3: $112,200 to $151,800",
-        "Level 4: $136,850 to $185,150"
-      ],
-      "Responsibilities": [
-        "Translate electrical requirements into system and hardware architectures, detailed interface specifications, and build/test plans",
-        "Create and release engineering drawings, schematics, and PCB layouts to support fabrication and integration",
-        "Perform circuit analysis, simulation, and troubleshooting using tools such as PSpice, LTSpice, Simplis, or equivalent",
-        "Develop and execute verification and validation tests in the lab using oscilloscopes, DMMs, spectrum analyzers, power supplies, and other test equipment; analyze results and iterate designs",
-        "Research and evaluate emerging technologies and components; make recommendations for design improvements and technology investments to meet program needs",
-        "Produce clear technical documentation, design reviews, and test reports to support program milestones and compliance requirements",
-        "Collaborate with manufacturing, reliability, and sustainment teams to ensure producibility, testability, and maintainability of designs",
-        "Support configuration management and change control activities; ensure designs meet applicable standards and requirements"
-      ]
-    },
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "jobs-boeing-com-job-huntsville-analog-design-engineer-185-91629240560",
     "_source": "new_jobs"
   },
   {
@@ -593,142 +394,220 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "f-yCc_PkNwuklX8TAAAAAA==",
-    "job_title": "Analog/mixed-signal IC Design Engineer - Acacia (Hybrid)",
-    "employer_name": "Cisco",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgthNpO3rocjBOmZqIhYrkphz9zbGG6DQ5B9CQ&s=0",
-    "employer_website": "https://www.cisco.com",
-    "job_publisher": "Cisco Careers",
+    "job_id": "6Zo3REnb8svvpP_dAAAAAA==",
+    "job_title": "Analog Electronics Design Engineer II",
+    "employer_name": "The Charles Stark Draper Laboratory, Inc.",
+    "employer_logo": null,
+    "employer_website": "https://www.draper.com",
+    "job_publisher": "Workday",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2006009EXTERNALENGLOBAL/Analog-mixed-signal-IC-Design-Engineer-Acacia-Hybrid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Hardware-Analog-Electronics-Design-Engineer_JR001146?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Cisco Careers",
-        "apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2006009EXTERNALENGLOBAL/Analog-mixed-signal-IC-Design-Engineer-Acacia-Hybrid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Workday",
+        "apply_link": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Hardware-Analog-Electronics-Design-Engineer_JR001146?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=ecb1533b8995dc17&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Cisco/Job/Analog-mixed-signal-IC-Design-Engineer-Acacia-(Hybrid)/-in-San-Jose,CA?jid=f7ecca8fd324ab1d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/analog-mixed-signal-ic-design-engineer-acacia-hybrid-cisco-systems-JV_IC1147436_KO0,52_KE53,66.htm?jl=1010008559084&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/analog-mixed-signal-ic-design-engineer-acacia-hybrid-at-cisco-4365499629?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "National Labor Exchange",
-        "apply_link": "https://usnlx.com/san-jose-ca/analogmixed-signal-ic-design-engineer-acacia-hybrid/500560AEB04C442A9AFBFD4CE73DE057/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Milwaukee Jobs",
-        "apply_link": "https://www.milwaukeejobs.com/job/detail/86066425/Analog-mixed-signal-IC-Design-Engineer-Acacia-Hybrid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Lensa",
-        "apply_link": "https://lensa.com/job-v1/cisco/san-jose-ca/ic-design-engineer/2bfb0fd897d9c5f5c9b9d4af43f557f6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/68f4c1af9e0f62631646167801d49e7a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "The application window is expected to close on:\n\nJob posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nThe application window is expected to close on 4/1/26.\n\nJob posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nThis is a hybrid role that can be performed three days per week from our San Jose, CA office.\n\nMeet the Team\n\nAcacia designs intelligent transceivers using advanced signal processing and photonic integration for the 100G, 400G, 800G and 1.6T+ bit speed fiber optic transmission market deployed in data center, metro, long-haul and ultra-long haul telecommunication networks.\n\nYou will work with other Acacia mixed-signal engineers to collaborate in order to provide an optimized design that will integrate into the ASIC. In addition, you will have the opportunity to interact with other Acacia groups including digital/DSP design, system design, package design, and module design. Acacia takes pride in providing and fostering a collaborate environment in order ensure success and personal growth.\n\nYour Impact\n\nAs a member of the Mixed Signal Design team, you will be a key member of a small, dynamic IC Design group that develops high speed ()25Gb/s), and high accuracy, analog designs for optical communications products. You will architect, design, layout, measure and productize ultra-deep sub-micron-based CMOS products.\n\nYou will lead efforts for a large block on a complex chip, mentor team members and track deliverables, participate in peer review of complex IC designs and provide solid design methodology from conception to production.\n\nYou will also collaborate with packaging and hardware design team to ensure signal and power integrity specifications are met.\n\nYou are enthusiastic about developing high speed AMS circuits and best-in-class products that push the boundaries of what is possible. You are detail oriented, high energy and the drive to get things done and solve difficult problems.\n\nYou are capable to figure things out by yourself, but you also participate in our friendly and team-oriented collaboration approach, which means you enjoy learning from your colleagues and letting them learn from you.\n\nYou are not shy to always point out how we can be more effective as a team, and you are open to similar suggestions by your team members.\n\nMinimum qualification:\nBachelors + 8 years of related experience, or Masters + 6 years of related experience, or PhD + 3 years of related experience.\n\nExperience in design, simulation and measurement of high speed ICs in at least 3 of the areas listed below:\n• High Speed Serial Links utilizing serializers, deserializers, and data convertors.\n• Modeling requirements for system link simulations\n• High Performance Output Drivers\n• High Performance Phase Locked Loops\n• Efficient clock transmission/propagation.\n• Opamps and Programmable Gain Amplifiers.\n• Equalization techniques.\n\nPreferred Qualifications\n\nExperience with electrical transceiver applications including backplane and cable communications.\n• Experience in FinFET and GAA technologies.\n• High-frequency layout experience including floorplaning (power/ground, digital/analog signal routing), passives components (inductors, transformers, and transmission-lins).\n• Experience in design for manufacturability including characterization over PVT, electromigration analysis,self-heating, and IR drop analysis.\n• Experience in laboratory validation including ESD practices/methodology and construction of test setups.\n• Experience in design software including Cadence (Virtuoso), Specture/APS/SpectreX, layout validation tools (Virtuoso and Calibre), EMX, mixed-signal simulations in AMS, and Matlab.\n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nThe starting salary range posted for this position is $168,800.00 to $241,200.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits.\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$168,800.00 - $277,400.00\n\nNon-Metro New York state & Washington state:\n$148,800.00 - $248,200.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
-    "job_is_remote": false,
-    "job_posted_at": "10 days ago",
-    "job_posted_at_timestamp": 1770422400,
-    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
-    "job_location": "San Jose, CA",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "job_description": "Overview: Draper is an independent, nonprofit research and development company headquartered in Cambridge, MA. The 2,000+ employees of Draper tackle important national challenges with a promise of delivering successful and usable solutions. From military defense and space exploration to biomedical engineering, lives often depend on the solutions we provide. Our multidisciplinary teams of engineers and scientists work in a collaborative environment that inspires the cross-fertilization of ideas necessary for true innovation. For more information about Draper, visit www.draper.com. Job Description Summary: As a Hardware Analog Electronics Design Engineer, this person designs, specifies, develops, and tests analog electronics for a wide array of applications, including analog front ends, signal conditioning, analog-to-digital conversion, precision feedback systems, dc/dc conversion. They also perform a variety of engineering work in the initial planning and design phase of specifications and requirements of the systems. The Hardware Analog Electronics Design Engineer designs these circuits, performs simulations, implements the physical layout, verifies and tests designs. They also perform a variety of engineering activities throughout the life cycle to support planning, design, test, deployment, and sustainment. This role requires the candidate to have an active US secret clearance. Job Description: Duties/Responsibilities • Design, develop, and build power system architectures. • Conduct research, design, development, and testing of hardware such as miniature power conversion and management circuitry, distributed power architectures, radiation hardened designs. • Optimize system designs for reduced size, weight, and power. • Design new products and develop technical specifications for their production. • Analyze hardware configuration and processing solutions and test hardware conformance to specifications. • Develop and maintain effective internal/external relationships. • Independently executes assignments under the oversight of program leadership. • Eager to learn new technical skills and expand their depth/technical knowledge. • Contributes content for technical reports and presentations with appropriate guidance. • Adapt appropriately to changes in program requirements. • Identify challenges associated with assigned work and communicate them to project leadership. • Perform other related duties as assigned. Skills/Abilities • Knowledge in at least one of the following areas: Isolated and non-Isolated dc/dc power conversion; rectification; inversion; battery management systems; motor controller design; system-level power distribution design; system/board level grounding/shielding and EMC design techniques. • Designing and troubleshooting power electronics. • Proficient with schematic capture and printed circuit board layout. • Ability to perform circuit simulation using Spice or other simulation tools. • System modeling and analysis experience using MATLAB, Simulink, or other comparable tools. • Understanding of applied math and physics. • Strong analytical and problem-solving skills. • Excellent organizational skills and attention to detail. • Excellent verbal and written communication skills. • Ability to write detailed documentation. Education Bachelor's degree in Electrical Engineering or a related field required, Master’s Degree preferred. Experience 3-5 years of experience in Power Systems Engineering or related. Additional Job Description: Collaborate and communicate with management, internal, and development partners regarding design status, project progress, and issue resolution. As well as: Able to apply technical knowledge to solve problems. Contribute high quality content for technical reports and presentations with minimal guidance. Adapt appropriately to changes in program requirements. Proactively identify needs and concerns associated with design decisions and communicate them to project leadership. Knowledge in at least one of the following areas: Low-noise electronics, analog-digital conversion, methods of synchronous detection, analog and digital signal processing, phase-locked loops, high speed and precision amplifiers, discrete transistor level design, dc/dc power conversion, battery management systems. Designing and troubleshooting analog electronics This role requires the ability to be onsite in Cambridge, MA. Applicants selected for this position will be required to obtain and maintain a government security clearance Connect With Draper for Future Opportunities! If you don't find the right posting in our Career Opportunities, you may submit your resume for future consideration. Job Location - City: Cambridge Job Location - State: Massachusetts Job Location - Postal Code: 02139-3563 The US base salary range for this full-time position is $75,000.00 - $150,000.00 Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Union ranges will be in compliance with the collective bargaining agreement's approved rates by location and role. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and does not include bonuses or benefits. Our work is very important to us, but so is our life outside of work. Draper supports many programs to improve work-life balance including workplace flexibility, employee clubs ranging from photography to yoga, health and finance workshops, off site social events and discounts to local museums and cultural activities. If this specific job opportunity and the chance to work at a nationally renowned R&D innovation company appeals to you, apply now www.draper.com/careers. Draper is committed to creating an inclusive environment. We understand the value of inclusivity and its impact on a high-performance culture. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, national origin, veteran status, or genetic information. Draper is committed to providing access, equal opportunity, and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. To request reasonable accommodation, please contact hr@draper.com. We are in the business of redefining what is possible. Join our inclusive, multidisciplinary team to engineer the groundbreaking solutions of tomorrow. Explore life at Draper with our unique culture and benefits at draper.com.",
+    "job_is_remote": true,
+    "job_posted_at": "12 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "Cambridge, MA",
+    "job_city": "Cambridge",
+    "job_state": "Massachusetts",
     "job_country": "US",
-    "job_latitude": 37.33874,
-    "job_longitude": -121.88525249999999,
+    "job_latitude": 42.3666036,
+    "job_longitude": -71.1056916,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Df-yCc_PkNwuklX8TAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D6Zo3REnb8svvpP_dAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "You are enthusiastic about developing high speed AMS circuits and best-in-class products that push the boundaries of what is possible",
-        "You are detail oriented, high energy and the drive to get things done and solve difficult problems",
-        "You are capable to figure things out by yourself, but you also participate in our friendly and team-oriented collaboration approach, which means you enjoy learning from your colleagues and letting them learn from you",
-        "Bachelors + 8 years of related experience, or Masters + 6 years of related experience, or PhD + 3 years of related experience",
-        "Experience in design, simulation and measurement of high speed ICs in at least 3 of the areas listed below:",
-        "High Speed Serial Links utilizing serializers, deserializers, and data convertors",
-        "Modeling requirements for system link simulations",
-        "Experience with electrical transceiver applications including backplane and cable communications",
-        "Experience in FinFET and GAA technologies",
-        "High-frequency layout experience including floorplaning (power/ground, digital/analog signal routing), passives components (inductors, transformers, and transmission-lins)",
-        "Experience in design for manufacturability including characterization over PVT, electromigration analysis,self-heating, and IR drop analysis",
-        "Experience in laboratory validation including ESD practices/methodology and construction of test setups",
-        "Experience in design software including Cadence (Virtuoso), Specture/APS/SpectreX, layout validation tools (Virtuoso and Calibre), EMX, mixed-signal simulations in AMS, and Matlab"
+        "Knowledge in at least one of the following areas: Isolated and non-Isolated dc/dc power conversion; rectification; inversion; battery management systems; motor controller design; system-level power distribution design; system/board level grounding/shielding and EMC design techniques",
+        "Designing and troubleshooting power electronics",
+        "Proficient with schematic capture and printed circuit board layout",
+        "Ability to perform circuit simulation using Spice or other simulation tools",
+        "System modeling and analysis experience using MATLAB, Simulink, or other comparable tools",
+        "Understanding of applied math and physics",
+        "Strong analytical and problem-solving skills",
+        "Excellent organizational skills and attention to detail",
+        "Excellent verbal and written communication skills",
+        "Ability to write detailed documentation",
+        "Experience 3-5 years of experience in Power Systems Engineering or related",
+        "Additional Job Description: Collaborate and communicate with management, internal, and development partners regarding design status, project progress, and issue resolution",
+        "Knowledge in at least one of the following areas: Low-noise electronics, analog-digital conversion, methods of synchronous detection, analog and digital signal processing, phase-locked loops, high speed and precision amplifiers, discrete transistor level design, dc/dc power conversion, battery management systems"
       ],
       "Benefits": [
-        "High Performance Phase Locked Loops",
-        "Efficient clock transmission/propagation",
-        "Opamps and Programmable Gain Amplifiers",
-        "Equalization techniques",
-        "The starting salary range posted for this position is $168,800.00 to $241,200.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits",
-        "Individual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training",
-        "The full salary range for certain locations is listed below",
-        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
-        "U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
-        "Please see the Cisco careers site to discover more benefits and perks",
-        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
-        "U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:",
-        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
-        "1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
-        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
-        "Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
-        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
-        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
-        "Optional 10 paid days per full calendar year to volunteer",
-        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
-        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
-        "For quota-based incentive pay, Cisco typically pays as follows:",
-        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
-        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
-        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
-        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
-        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
-        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
-        "For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined",
-        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
+        "Job Location - City: Cambridge Job Location - State: Massachusetts Job Location - Postal Code: 02139-3563 The US base salary range for this full-time position is $75,000.00 - $150,000.00 Our salary ranges are determined by role, level, and location",
+        "Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training",
+        "Union ranges will be in compliance with the collective bargaining agreement's approved rates by location and role",
+        "Draper supports many programs to improve work-life balance including workplace flexibility, employee clubs ranging from photography to yoga, health and finance workshops, off site social events and discounts to local museums and cultural activities"
       ],
       "Responsibilities": [
-        "Acacia designs intelligent transceivers using advanced signal processing and photonic integration for the 100G, 400G, 800G and 1.6T+ bit speed fiber optic transmission market deployed in data center, metro, long-haul and ultra-long haul telecommunication networks",
-        "You will work with other Acacia mixed-signal engineers to collaborate in order to provide an optimized design that will integrate into the ASIC",
-        "In addition, you will have the opportunity to interact with other Acacia groups including digital/DSP design, system design, package design, and module design",
-        "As a member of the Mixed Signal Design team, you will be a key member of a small, dynamic IC Design group that develops high speed ()25Gb/s), and high accuracy, analog designs for optical communications products",
-        "You will architect, design, layout, measure and productize ultra-deep sub-micron-based CMOS products",
-        "You will lead efforts for a large block on a complex chip, mentor team members and track deliverables, participate in peer review of complex IC designs and provide solid design methodology from conception to production",
-        "You will also collaborate with packaging and hardware design team to ensure signal and power integrity specifications are met"
+        "Job Description Summary: As a Hardware Analog Electronics Design Engineer, this person designs, specifies, develops, and tests analog electronics for a wide array of applications, including analog front ends, signal conditioning, analog-to-digital conversion, precision feedback systems, dc/dc conversion",
+        "They also perform a variety of engineering work in the initial planning and design phase of specifications and requirements of the systems",
+        "The Hardware Analog Electronics Design Engineer designs these circuits, performs simulations, implements the physical layout, verifies and tests designs",
+        "They also perform a variety of engineering activities throughout the life cycle to support planning, design, test, deployment, and sustainment",
+        "This role requires the candidate to have an active US secret clearance",
+        "Design, develop, and build power system architectures",
+        "Conduct research, design, development, and testing of hardware such as miniature power conversion and management circuitry, distributed power architectures, radiation hardened designs",
+        "Optimize system designs for reduced size, weight, and power",
+        "Design new products and develop technical specifications for their production",
+        "Analyze hardware configuration and processing solutions and test hardware conformance to specifications",
+        "Develop and maintain effective internal/external relationships",
+        "Independently executes assignments under the oversight of program leadership",
+        "Eager to learn new technical skills and expand their depth/technical knowledge",
+        "Contributes content for technical reports and presentations with appropriate guidance",
+        "Adapt appropriately to changes in program requirements",
+        "Identify challenges associated with assigned work and communicate them to project leadership",
+        "Perform other related duties as assigned",
+        "As well as: Able to apply technical knowledge to solve problems",
+        "Contribute high quality content for technical reports and presentations with minimal guidance",
+        "Adapt appropriately to changes in program requirements",
+        "Proactively identify needs and concerns associated with design decisions and communicate them to project leadership",
+        "Designing and troubleshooting analog electronics This role requires the ability to be onsite in Cambridge, MA"
       ]
     },
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
-    "id": "careers-cisco-com-global-en-job-ciscisglobal2006009externalenglobal-analog-mixed-signal-ic-design-engineer-acacia-hybrid",
+    "id": "draper-wd5-myworkdayjobs-com-en-us-draper_careers-job-hardware-analog-electronics-design-engineer_jr001146",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "3h_d1shxeTzn-HNdAAAAAA==",
+    "job_title": "Analog Design Engineer",
+    "employer_name": "Boeing",
+    "employer_logo": null,
+    "employer_website": "https://www.boeing.com",
+    "job_publisher": "Boeing",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.boeing.com/job/huntsville/analog-design-engineer/185/91629240560?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Boeing",
+        "apply_link": "https://jobs.boeing.com/job/huntsville/analog-design-engineer/185/91629240560?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Boeing/Job/Analog-Design-Engineer/-in-Huntsville,AL?jid=596aaad4e10ccfdf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/analog-design-engineer-at-boeing-4363119836?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/cf7cdf3bbeb119d6f7879a2a801cfcbd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Fair360 Jobs",
+        "apply_link": "https://jobs.fair360.com/job/analog-design-engineer-huntsville-alabama-65584647?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/698da77a78b4502f12a46148?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/-yCBC64NDWlZxet6gj3rGu2loyOsEIApenD0Tv9LZ2kCSbaKpGZp0w?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JOBSwithDOD",
+        "apply_link": "https://jobswithdod.com/defense-company-jobs/analog-design-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Description\n\nAt Boeing, we innovate and collaborate to make the world a better place. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.\n\nBoeing Defense, Space & Security (BDS) seeks an Analog Design Engineer to join our Electrical Engineering Capability Team in Huntsville, AL. We design, sustain, and upgrade next generation electronics concepts, and we support analog and digital circuit card assembly (CCA) design.\n\nPosition Responsibilities:\n• Translate electrical requirements into system and hardware architectures, detailed interface specifications, and build/test plans.\n• Create and release engineering drawings, schematics, and PCB layouts to support fabrication and integration.\n• Perform circuit analysis, simulation, and troubleshooting using tools such as PSpice, LTSpice, Simplis, or equivalent.\n• Develop and execute verification and validation tests in the lab using oscilloscopes, DMMs, spectrum analyzers, power supplies, and other test equipment; analyze results and iterate designs.\n• Research and evaluate emerging technologies and components; make recommendations for design improvements and technology investments to meet program needs.\n• Produce clear technical documentation, design reviews, and test reports to support program milestones and compliance requirements.\n• Collaborate with manufacturing, reliability, and sustainment teams to ensure producibility, testability, and maintainability of designs.\n• Support configuration management and change control activities; ensure designs meet applicable standards and requirements.\n\nAn interim or final U.S. Secret clearance Post Start is required for which the U.S. Government requires U.S. Citizenship.\n\nBasic Qualifications (Required Skills/Experience):\n• Years of related experience: 3+ for level 3, 5+ for level 4.\n• Analog electronics experience.\n• Electronics design experience.\n• Bachelor of Science degree in Engineering (with a focus in Electrical, Mechanical or Aeronautical), Computer Science, Data Science, Mathematics, Physics, Chemistry or non-US equivalent qualifications directly related to the work statement.\n\nPreferred Qualifications (Desired Skills/Experience):\n• Bachelor’s degree or higher in electrical engineering or computer engineering.\n• Analog design or RF design experience.\n• Circuit design, integrated circuit design, analog circuit design, mixed-signal IC Design.\n• SME of electrical design with proven previous design experience.\n• Hands-on experience using lab equipment such as oscilloscope, multimeter, DMM, spectrum analyzer, power supply, …\n• Simulation software experience such as MATLAB, PSpice, LTSpice, Simplis, or similar.\n• Schematic capture, Printed Circuit Board (PCB) Design experience with Altium, Mentor Graphics Siemens, or other drafting CAD tools.\n• Familiarity with FPGA and microcontrollers.\n• Active Security Clearance.\n\nTypical Education & Experience:\n\nLevel 3: Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, engineering technology (includes manufacturing engineering technology), computer science, engineering data science, mathematics, physics or chemistry (e.g. Bachelor) and typically 5 or more years' related work experience or an equivalent combination of technical education and experience or non-US equivalent qualifications. In the USA, ABET accreditation is the preferred, although not required, accreditation standard.\n\nLevel 4: Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, engineering technology (includes manufacturing engineering technology), computer science, engineering data science, mathematics, physics or chemistry (e.g. Bachelor) and typically 9 or more years' related work experience or an equivalent combination of technical education and experience or non-US equivalent qualifications. In the USA, ABET accreditation is the preferred, although not required, accreditation standard.\n\nConflict of Interest:\n\nSuccessful candidates must satisfy the Company’s Conflict of Interest (COI) assessment process.\n\nDrug Free Workplace:\n\nBoeing is a Drug Free Workplace (DFW) where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.\n\nRelocation:\n\nThis position offers relocation based on candidate eligibility.\n\nPay & Benefits:\n\nAt Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent. Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.\n\nThe Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.\n\nThe specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.\n\nPay is based upon candidate experience and qualifications, as well as market and business considerations.\n\nSummary Pay Range:\n\nLevel 3: $112,200 to $151,800\n\nLevel 4: $136,850 to $185,150\n\nApplications for this position will be accepted until Feb. 26, 2026\n\nExport Control Requirements:\n\nThis position must meet U.S. export control compliance requirements. To meet U.S. export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120.62 is required. “U.S. Person” includes U.S. Citizen, U.S. National, lawful permanent resident, refugee, or asylee.\n\nExport Control Details:\n\nUS based job, US Person required\n\nEducation\n\nBachelor's Degree or Equivalent Required\n\nRelocation\n\nThis position offers relocation based on candidate eligibility.\n\nSecurity Clearance\n\nThis position requires the ability to obtain a U.S. Security Clearance for which the U.S. Government requires U.S. Citizenship. An interim and/or final U.S. Secret Clearance Post-Start is required.\n\nVisa Sponsorship\n\nEmployer will not sponsor applicants for employment visa status.\n\nShift\n\nThis position is for 1st shift\n\nEqual Opportunity Employer:\n\nBoeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Huntsville, AL",
+    "job_city": "Huntsville",
+    "job_state": "Alabama",
+    "job_country": "US",
+    "job_latitude": 34.7295497,
+    "job_longitude": -86.5853155,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3h_d1shxeTzn-HNdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "An interim or final U.S. Secret clearance Post Start is required for which the U.S. Government requires U.S. Citizenship",
+        "Years of related experience: 3+ for level 3, 5+ for level 4",
+        "Analog electronics experience",
+        "Electronics design experience",
+        "Bachelor of Science degree in Engineering (with a focus in Electrical, Mechanical or Aeronautical), Computer Science, Data Science, Mathematics, Physics, Chemistry or non-US equivalent qualifications directly related to the work statement",
+        "Design experience with Altium, Mentor Graphics Siemens, or other drafting CAD tools",
+        "Familiarity with FPGA and microcontrollers",
+        "Active Security Clearance",
+        "Level 3: Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, engineering technology (includes manufacturing engineering technology), computer science, engineering data science, mathematics, physics or chemistry (e.g. Bachelor) and typically 5 or more years' related work experience or an equivalent combination of technical education and experience or non-US equivalent qualifications",
+        "Level 4: Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, engineering technology (includes manufacturing engineering technology), computer science, engineering data science, mathematics, physics or chemistry (e.g. Bachelor) and typically 9 or more years' related work experience or an equivalent combination of technical education and experience or non-US equivalent qualifications",
+        "Successful candidates must satisfy the Company’s Conflict of Interest (COI) assessment process",
+        "This position must meet U.S. export control compliance requirements",
+        "To meet U.S. export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120.62 is required",
+        "“U.S. Person” includes U.S. Citizen, U.S. National, lawful permanent resident, refugee, or asylee",
+        "US based job, US Person required",
+        "Bachelor's Degree or Equivalent Required",
+        "This position requires the ability to obtain a U.S. Security Clearance for which the U.S. Government requires U.S. Citizenship",
+        "An interim and/or final U.S. Secret Clearance Post-Start is required"
+      ],
+      "Benefits": [
+        "At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent",
+        "Elements of the Total Rewards package include competitive base pay and variable compensation opportunities",
+        "The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work",
+        "The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements",
+        "Pay is based upon candidate experience and qualifications, as well as market and business considerations",
+        "Level 3: $112,200 to $151,800",
+        "Level 4: $136,850 to $185,150"
+      ],
+      "Responsibilities": [
+        "Translate electrical requirements into system and hardware architectures, detailed interface specifications, and build/test plans",
+        "Create and release engineering drawings, schematics, and PCB layouts to support fabrication and integration",
+        "Perform circuit analysis, simulation, and troubleshooting using tools such as PSpice, LTSpice, Simplis, or equivalent",
+        "Develop and execute verification and validation tests in the lab using oscilloscopes, DMMs, spectrum analyzers, power supplies, and other test equipment; analyze results and iterate designs",
+        "Research and evaluate emerging technologies and components; make recommendations for design improvements and technology investments to meet program needs",
+        "Produce clear technical documentation, design reviews, and test reports to support program milestones and compliance requirements",
+        "Collaborate with manufacturing, reliability, and sustainment teams to ensure producibility, testability, and maintainability of designs",
+        "Support configuration management and change control activities; ensure designs meet applicable standards and requirements"
+      ]
+    },
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "jobs-boeing-com-job-huntsville-analog-design-engineer-185-91629240560",
     "_source": "new_jobs"
   },
   {
@@ -830,99 +709,142 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "6Zo3REnb8svvpP_dAAAAAA==",
-    "job_title": "Analog Electronics Design Engineer II",
-    "employer_name": "The Charles Stark Draper Laboratory, Inc.",
-    "employer_logo": null,
-    "employer_website": "https://www.draper.com",
-    "job_publisher": "Workday",
+    "job_id": "f-yCc_PkNwuklX8TAAAAAA==",
+    "job_title": "Analog/mixed-signal IC Design Engineer - Acacia (Hybrid)",
+    "employer_name": "Cisco",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgthNpO3rocjBOmZqIhYrkphz9zbGG6DQ5B9CQ&s=0",
+    "employer_website": "https://www.cisco.com",
+    "job_publisher": "Cisco Careers",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Hardware-Analog-Electronics-Design-Engineer_JR001146?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2006009EXTERNALENGLOBAL/Analog-mixed-signal-IC-Design-Engineer-Acacia-Hybrid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Workday",
-        "apply_link": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Hardware-Analog-Electronics-Design-Engineer_JR001146?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Cisco Careers",
+        "apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2006009EXTERNALENGLOBAL/Analog-mixed-signal-IC-Design-Engineer-Acacia-Hybrid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/68f4c1af9e0f62631646167801d49e7a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=ecb1533b8995dc17&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Cisco/Job/Analog-mixed-signal-IC-Design-Engineer-Acacia-(Hybrid)/-in-San-Jose,CA?jid=f7ecca8fd324ab1d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/analog-mixed-signal-ic-design-engineer-acacia-hybrid-cisco-systems-JV_IC1147436_KO0,52_KE53,66.htm?jl=1010008559084&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/analog-mixed-signal-ic-design-engineer-acacia-hybrid-at-cisco-4365499629?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "National Labor Exchange",
+        "apply_link": "https://usnlx.com/san-jose-ca/analogmixed-signal-ic-design-engineer-acacia-hybrid/500560AEB04C442A9AFBFD4CE73DE057/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Milwaukee Jobs",
+        "apply_link": "https://www.milwaukeejobs.com/job/detail/86066425/Analog-mixed-signal-IC-Design-Engineer-Acacia-Hybrid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/cisco/san-jose-ca/ic-design-engineer/2bfb0fd897d9c5f5c9b9d4af43f557f6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Overview: Draper is an independent, nonprofit research and development company headquartered in Cambridge, MA. The 2,000+ employees of Draper tackle important national challenges with a promise of delivering successful and usable solutions. From military defense and space exploration to biomedical engineering, lives often depend on the solutions we provide. Our multidisciplinary teams of engineers and scientists work in a collaborative environment that inspires the cross-fertilization of ideas necessary for true innovation. For more information about Draper, visit www.draper.com. Job Description Summary: As a Hardware Analog Electronics Design Engineer, this person designs, specifies, develops, and tests analog electronics for a wide array of applications, including analog front ends, signal conditioning, analog-to-digital conversion, precision feedback systems, dc/dc conversion. They also perform a variety of engineering work in the initial planning and design phase of specifications and requirements of the systems. The Hardware Analog Electronics Design Engineer designs these circuits, performs simulations, implements the physical layout, verifies and tests designs. They also perform a variety of engineering activities throughout the life cycle to support planning, design, test, deployment, and sustainment. This role requires the candidate to have an active US secret clearance. Job Description: Duties/Responsibilities • Design, develop, and build power system architectures. • Conduct research, design, development, and testing of hardware such as miniature power conversion and management circuitry, distributed power architectures, radiation hardened designs. • Optimize system designs for reduced size, weight, and power. • Design new products and develop technical specifications for their production. • Analyze hardware configuration and processing solutions and test hardware conformance to specifications. • Develop and maintain effective internal/external relationships. • Independently executes assignments under the oversight of program leadership. • Eager to learn new technical skills and expand their depth/technical knowledge. • Contributes content for technical reports and presentations with appropriate guidance. • Adapt appropriately to changes in program requirements. • Identify challenges associated with assigned work and communicate them to project leadership. • Perform other related duties as assigned. Skills/Abilities • Knowledge in at least one of the following areas: Isolated and non-Isolated dc/dc power conversion; rectification; inversion; battery management systems; motor controller design; system-level power distribution design; system/board level grounding/shielding and EMC design techniques. • Designing and troubleshooting power electronics. • Proficient with schematic capture and printed circuit board layout. • Ability to perform circuit simulation using Spice or other simulation tools. • System modeling and analysis experience using MATLAB, Simulink, or other comparable tools. • Understanding of applied math and physics. • Strong analytical and problem-solving skills. • Excellent organizational skills and attention to detail. • Excellent verbal and written communication skills. • Ability to write detailed documentation. Education Bachelor's degree in Electrical Engineering or a related field required, Master’s Degree preferred. Experience 3-5 years of experience in Power Systems Engineering or related. Additional Job Description: Collaborate and communicate with management, internal, and development partners regarding design status, project progress, and issue resolution. As well as: Able to apply technical knowledge to solve problems. Contribute high quality content for technical reports and presentations with minimal guidance. Adapt appropriately to changes in program requirements. Proactively identify needs and concerns associated with design decisions and communicate them to project leadership. Knowledge in at least one of the following areas: Low-noise electronics, analog-digital conversion, methods of synchronous detection, analog and digital signal processing, phase-locked loops, high speed and precision amplifiers, discrete transistor level design, dc/dc power conversion, battery management systems. Designing and troubleshooting analog electronics This role requires the ability to be onsite in Cambridge, MA. Applicants selected for this position will be required to obtain and maintain a government security clearance Connect With Draper for Future Opportunities! If you don't find the right posting in our Career Opportunities, you may submit your resume for future consideration. Job Location - City: Cambridge Job Location - State: Massachusetts Job Location - Postal Code: 02139-3563 The US base salary range for this full-time position is $75,000.00 - $150,000.00 Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Union ranges will be in compliance with the collective bargaining agreement's approved rates by location and role. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and does not include bonuses or benefits. Our work is very important to us, but so is our life outside of work. Draper supports many programs to improve work-life balance including workplace flexibility, employee clubs ranging from photography to yoga, health and finance workshops, off site social events and discounts to local museums and cultural activities. If this specific job opportunity and the chance to work at a nationally renowned R&D innovation company appeals to you, apply now www.draper.com/careers. Draper is committed to creating an inclusive environment. We understand the value of inclusivity and its impact on a high-performance culture. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, national origin, veteran status, or genetic information. Draper is committed to providing access, equal opportunity, and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. To request reasonable accommodation, please contact hr@draper.com. We are in the business of redefining what is possible. Join our inclusive, multidisciplinary team to engineer the groundbreaking solutions of tomorrow. Explore life at Draper with our unique culture and benefits at draper.com.",
-    "job_is_remote": true,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Cambridge, MA",
-    "job_city": "Cambridge",
-    "job_state": "Massachusetts",
+    "job_description": "The application window is expected to close on:\n\nJob posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nThe application window is expected to close on 4/1/26.\n\nJob posting may be removed earlier if the position is filled or if a sufficient number of applications are received.\n\nThis is a hybrid role that can be performed three days per week from our San Jose, CA office.\n\nMeet the Team\n\nAcacia designs intelligent transceivers using advanced signal processing and photonic integration for the 100G, 400G, 800G and 1.6T+ bit speed fiber optic transmission market deployed in data center, metro, long-haul and ultra-long haul telecommunication networks.\n\nYou will work with other Acacia mixed-signal engineers to collaborate in order to provide an optimized design that will integrate into the ASIC. In addition, you will have the opportunity to interact with other Acacia groups including digital/DSP design, system design, package design, and module design. Acacia takes pride in providing and fostering a collaborate environment in order ensure success and personal growth.\n\nYour Impact\n\nAs a member of the Mixed Signal Design team, you will be a key member of a small, dynamic IC Design group that develops high speed ()25Gb/s), and high accuracy, analog designs for optical communications products. You will architect, design, layout, measure and productize ultra-deep sub-micron-based CMOS products.\n\nYou will lead efforts for a large block on a complex chip, mentor team members and track deliverables, participate in peer review of complex IC designs and provide solid design methodology from conception to production.\n\nYou will also collaborate with packaging and hardware design team to ensure signal and power integrity specifications are met.\n\nYou are enthusiastic about developing high speed AMS circuits and best-in-class products that push the boundaries of what is possible. You are detail oriented, high energy and the drive to get things done and solve difficult problems.\n\nYou are capable to figure things out by yourself, but you also participate in our friendly and team-oriented collaboration approach, which means you enjoy learning from your colleagues and letting them learn from you.\n\nYou are not shy to always point out how we can be more effective as a team, and you are open to similar suggestions by your team members.\n\nMinimum qualification:\nBachelors + 8 years of related experience, or Masters + 6 years of related experience, or PhD + 3 years of related experience.\n\nExperience in design, simulation and measurement of high speed ICs in at least 3 of the areas listed below:\n• High Speed Serial Links utilizing serializers, deserializers, and data convertors.\n• Modeling requirements for system link simulations\n• High Performance Output Drivers\n• High Performance Phase Locked Loops\n• Efficient clock transmission/propagation.\n• Opamps and Programmable Gain Amplifiers.\n• Equalization techniques.\n\nPreferred Qualifications\n\nExperience with electrical transceiver applications including backplane and cable communications.\n• Experience in FinFET and GAA technologies.\n• High-frequency layout experience including floorplaning (power/ground, digital/analog signal routing), passives components (inductors, transformers, and transmission-lins).\n• Experience in design for manufacturability including characterization over PVT, electromigration analysis,self-heating, and IR drop analysis.\n• Experience in laboratory validation including ESD practices/methodology and construction of test setups.\n• Experience in design software including Cadence (Virtuoso), Specture/APS/SpectreX, layout validation tools (Virtuoso and Calibre), EMX, mixed-signal simulations in AMS, and Matlab.\n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nThe starting salary range posted for this position is $168,800.00 to $241,200.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits.\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$168,800.00 - $277,400.00\n\nNon-Metro New York state & Washington state:\n$148,800.00 - $248,200.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+    "job_is_remote": false,
+    "job_posted_at": "10 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "San Jose, CA",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_country": "US",
-    "job_latitude": 42.3666036,
-    "job_longitude": -71.1056916,
+    "job_latitude": 37.33874,
+    "job_longitude": -121.88525249999999,
     "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D6Zo3REnb8svvpP_dAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Df-yCc_PkNwuklX8TAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Knowledge in at least one of the following areas: Isolated and non-Isolated dc/dc power conversion; rectification; inversion; battery management systems; motor controller design; system-level power distribution design; system/board level grounding/shielding and EMC design techniques",
-        "Designing and troubleshooting power electronics",
-        "Proficient with schematic capture and printed circuit board layout",
-        "Ability to perform circuit simulation using Spice or other simulation tools",
-        "System modeling and analysis experience using MATLAB, Simulink, or other comparable tools",
-        "Understanding of applied math and physics",
-        "Strong analytical and problem-solving skills",
-        "Excellent organizational skills and attention to detail",
-        "Excellent verbal and written communication skills",
-        "Ability to write detailed documentation",
-        "Experience 3-5 years of experience in Power Systems Engineering or related",
-        "Additional Job Description: Collaborate and communicate with management, internal, and development partners regarding design status, project progress, and issue resolution",
-        "Knowledge in at least one of the following areas: Low-noise electronics, analog-digital conversion, methods of synchronous detection, analog and digital signal processing, phase-locked loops, high speed and precision amplifiers, discrete transistor level design, dc/dc power conversion, battery management systems"
+        "You are enthusiastic about developing high speed AMS circuits and best-in-class products that push the boundaries of what is possible",
+        "You are detail oriented, high energy and the drive to get things done and solve difficult problems",
+        "You are capable to figure things out by yourself, but you also participate in our friendly and team-oriented collaboration approach, which means you enjoy learning from your colleagues and letting them learn from you",
+        "Bachelors + 8 years of related experience, or Masters + 6 years of related experience, or PhD + 3 years of related experience",
+        "Experience in design, simulation and measurement of high speed ICs in at least 3 of the areas listed below:",
+        "High Speed Serial Links utilizing serializers, deserializers, and data convertors",
+        "Modeling requirements for system link simulations",
+        "Experience with electrical transceiver applications including backplane and cable communications",
+        "Experience in FinFET and GAA technologies",
+        "High-frequency layout experience including floorplaning (power/ground, digital/analog signal routing), passives components (inductors, transformers, and transmission-lins)",
+        "Experience in design for manufacturability including characterization over PVT, electromigration analysis,self-heating, and IR drop analysis",
+        "Experience in laboratory validation including ESD practices/methodology and construction of test setups",
+        "Experience in design software including Cadence (Virtuoso), Specture/APS/SpectreX, layout validation tools (Virtuoso and Calibre), EMX, mixed-signal simulations in AMS, and Matlab"
       ],
       "Benefits": [
-        "Job Location - City: Cambridge Job Location - State: Massachusetts Job Location - Postal Code: 02139-3563 The US base salary range for this full-time position is $75,000.00 - $150,000.00 Our salary ranges are determined by role, level, and location",
-        "Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training",
-        "Union ranges will be in compliance with the collective bargaining agreement's approved rates by location and role",
-        "Draper supports many programs to improve work-life balance including workplace flexibility, employee clubs ranging from photography to yoga, health and finance workshops, off site social events and discounts to local museums and cultural activities"
+        "High Performance Phase Locked Loops",
+        "Efficient clock transmission/propagation",
+        "Opamps and Programmable Gain Amplifiers",
+        "Equalization techniques",
+        "The starting salary range posted for this position is $168,800.00 to $241,200.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits",
+        "Individual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training",
+        "The full salary range for certain locations is listed below",
+        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
+        "U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
+        "Please see the Cisco careers site to discover more benefits and perks",
+        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
+        "U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:",
+        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
+        "1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
+        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
+        "Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
+        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
+        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
+        "Optional 10 paid days per full calendar year to volunteer",
+        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
+        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
+        "For quota-based incentive pay, Cisco typically pays as follows:",
+        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
+        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
+        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
+        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
+        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
+        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
+        "For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined",
+        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
       ],
       "Responsibilities": [
-        "Job Description Summary: As a Hardware Analog Electronics Design Engineer, this person designs, specifies, develops, and tests analog electronics for a wide array of applications, including analog front ends, signal conditioning, analog-to-digital conversion, precision feedback systems, dc/dc conversion",
-        "They also perform a variety of engineering work in the initial planning and design phase of specifications and requirements of the systems",
-        "The Hardware Analog Electronics Design Engineer designs these circuits, performs simulations, implements the physical layout, verifies and tests designs",
-        "They also perform a variety of engineering activities throughout the life cycle to support planning, design, test, deployment, and sustainment",
-        "This role requires the candidate to have an active US secret clearance",
-        "Design, develop, and build power system architectures",
-        "Conduct research, design, development, and testing of hardware such as miniature power conversion and management circuitry, distributed power architectures, radiation hardened designs",
-        "Optimize system designs for reduced size, weight, and power",
-        "Design new products and develop technical specifications for their production",
-        "Analyze hardware configuration and processing solutions and test hardware conformance to specifications",
-        "Develop and maintain effective internal/external relationships",
-        "Independently executes assignments under the oversight of program leadership",
-        "Eager to learn new technical skills and expand their depth/technical knowledge",
-        "Contributes content for technical reports and presentations with appropriate guidance",
-        "Adapt appropriately to changes in program requirements",
-        "Identify challenges associated with assigned work and communicate them to project leadership",
-        "Perform other related duties as assigned",
-        "As well as: Able to apply technical knowledge to solve problems",
-        "Contribute high quality content for technical reports and presentations with minimal guidance",
-        "Adapt appropriately to changes in program requirements",
-        "Proactively identify needs and concerns associated with design decisions and communicate them to project leadership",
-        "Designing and troubleshooting analog electronics This role requires the ability to be onsite in Cambridge, MA"
+        "Acacia designs intelligent transceivers using advanced signal processing and photonic integration for the 100G, 400G, 800G and 1.6T+ bit speed fiber optic transmission market deployed in data center, metro, long-haul and ultra-long haul telecommunication networks",
+        "You will work with other Acacia mixed-signal engineers to collaborate in order to provide an optimized design that will integrate into the ASIC",
+        "In addition, you will have the opportunity to interact with other Acacia groups including digital/DSP design, system design, package design, and module design",
+        "As a member of the Mixed Signal Design team, you will be a key member of a small, dynamic IC Design group that develops high speed ()25Gb/s), and high accuracy, analog designs for optical communications products",
+        "You will architect, design, layout, measure and productize ultra-deep sub-micron-based CMOS products",
+        "You will lead efforts for a large block on a complex chip, mentor team members and track deliverables, participate in peer review of complex IC designs and provide solid design methodology from conception to production",
+        "You will also collaborate with packaging and hardware design team to ensure signal and power integrity specifications are met"
       ]
     },
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
-    "id": "draper-wd5-myworkdayjobs-com-en-us-draper_careers-job-hardware-analog-electronics-design-engineer_jr001146",
+    "id": "careers-cisco-com-global-en-job-ciscisglobal2006009externalenglobal-analog-mixed-signal-ic-design-engineer-acacia-hybrid",
     "_source": "new_jobs"
   },
   {
@@ -1049,9 +971,9 @@
     "job_latitude": 40.0583238,
     "job_longitude": -74.4056612,
     "job_benefits": [
+      "health_insurance",
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DcTKQRx8eIRVx-VaVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 159638,
@@ -1277,8 +1199,8 @@
     "job_latitude": 34.7295497,
     "job_longitude": -86.5853155,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D01fGh98neVhb-0iBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1369,9 +1291,9 @@
     "job_latitude": 28.7030519,
     "job_longitude": -81.3384011,
     "job_benefits": [
-      "health_insurance",
       "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKKYjMcbLI5mgKPHGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1444,222 +1366,101 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "ZXxE0jgRE0iUKW8EAAAAAA==",
-    "job_title": "Senior Analog Design Engineer $200K +",
-    "employer_name": "Confidential",
-    "employer_logo": null,
+    "job_id": "rC8LIQq-ANIXat-_AAAAAA==",
+    "job_title": "Principal Analog Layout Engineer",
+    "employer_name": "UST",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1rLv4WKwc6Wb58tB6QjizWerFc8DTNzun-g3S&s=0",
     "employer_website": null,
-    "job_publisher": "ZipRecruiter",
+    "job_publisher": "LinkedIn",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/CyberCoders/Job/Senior-Analog-Design-Engineer-$200K-+--/-in-Pleasanton,CA?jid=bd4501b6ff3943ae&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/CyberCoders/Job/Senior-Analog-Design-Engineer-$200K-+--/-in-Pleasanton,CA?jid=bd4501b6ff3943ae&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/senior-analog-design-engineer-200k-cybercoders-JV_IC1147390_KO0,34_KE35,46.htm?jl=1010032150850&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "SaluteMyJob",
-        "apply_link": "https://salutemyjob.com/jobs/job-senior-analog-design-engineer-pleasanton-california/2618871203-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WDTN Jobs",
-        "apply_link": "https://jobs.wdtn.com/jobs/job-senior-analog-design-engineer-pleasanton-california/2618871203-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "FOX21News Jobs",
-        "apply_link": "https://jobs.fox21news.com/jobs/job-senior-analog-design-engineer-pleasanton-california/2618871203-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "California Careers",
-        "apply_link": "https://california.topstatecareers.com/jobs/job-senior-analog-design-engineer-pleasanton-california/2618871203-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Senior Analog Design Engineer $200K +\n\nSenior Analog Design Engineer\n\nHybrid: Pleasanton, CA\n\nSalary: $200K +/- depending on experience (please note no stock options or bonus)\n\nPosition Overview\nWe are seeking a highly skilled Senior Analog Design Engineer to join our innovative team. The ideal candidate will play a crucial role in designing, developing, and testing analog circuits for high-speed applications. This position requires a deep understanding of analog electronics and a passion for creating cutting-edge solutions in hardware design.\n\nKey Responsibilities\n• Design and develop analog circuits for high-speed applications\n• Collaborate with cross-functional teams to integrate analog components with digital systems\n• Conduct simulations and tests to validate circuit performance and reliability\n• Create and review PCB layouts to ensure optimal performance and manufacturability\n• Troubleshoot and resolve issues in analog and mixed-signal systems\n• Document design specifications and maintain project documentation\n• Mentor junior engineers and provide technical guidance during project development\n\nQualifications\n• Bachelor's or Master's degree in Electrical Engineering or a related field\n• Proven experience in Analog circuit design\n• High voltage (2KV), low noise, low power supply design experience\n• Experience designing high performance transimpedance and instrumentation amplifiers\n• Strong knowledge of PCB design and layout techniques\n• Familiarity with high-speed digital design and RF concepts\n• Experience with OpAmps, ADCs, DACs, and low noise analog design\n• Proficient in hardware design and implementation using FPGAs and CPLDs\n• Ability to work effectively in a team environment and communicate technical concepts clearly\n\nBenefits\n• Vacation/PTO\n• Medical\n• Dental\n• Vision\n• 401k\n\n- For this position, you must be currently authorized to work in the United States without the need for sponsorship for a non-immigrant visa. CyberCoders will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.This job was first posted by CyberCoders on 01/28/2026 and applications will be accepted on an ongoing basis until the position is filled or closed.CyberCoders is proud to be an Equal Opportunity Employer\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, sexual orientation, gender identity or expression, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, status as a crime victim, disability, protected veteran status, or any other characteristic protected by law. Our hiring process includes AI screening for keywords and minimum qualifications. Recruiters review all results. CyberCoders will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable state and local law, including but not limited to the Los Angeles County Fair Chance Ordinance, the San Francisco Fair Chance Ordinance, and the California Fair Chance Act. CyberCoders is committed to working with and providing reasonable accommodation to individuals with physical and mental disabilities. Individuals needing special assistance or an accommodation while seeking employment can contact a member of our Human Resources team at Benefits@CyberCoders.com to make arrangements.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Pleasanton, CA",
-    "job_city": "Pleasanton",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.6604484,
-    "job_longitude": -121.87579679999999,
-    "job_benefits": [
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZXxE0jgRE0iUKW8EAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "The ideal candidate will play a crucial role in designing, developing, and testing analog circuits for high-speed applications",
-        "This position requires a deep understanding of analog electronics and a passion for creating cutting-edge solutions in hardware design",
-        "Bachelor's or Master's degree in Electrical Engineering or a related field",
-        "Proven experience in Analog circuit design",
-        "High voltage (2KV), low noise, low power supply design experience",
-        "Experience designing high performance transimpedance and instrumentation amplifiers",
-        "Strong knowledge of PCB design and layout techniques",
-        "Familiarity with high-speed digital design and RF concepts",
-        "Experience with OpAmps, ADCs, DACs, and low noise analog design",
-        "Proficient in hardware design and implementation using FPGAs and CPLDs",
-        "Ability to work effectively in a team environment and communicate technical concepts clearly",
-        "For this position, you must be currently authorized to work in the United States without the need for sponsorship for a non-immigrant visa"
-      ],
-      "Benefits": [
-        "Senior Analog Design Engineer $200K +",
-        "Salary: $200K +/- depending on experience (please note no stock options or bonus)",
-        "Vacation/PTO",
-        "Medical",
-        "Dental",
-        "Vision",
-        "401k"
-      ],
-      "Responsibilities": [
-        "Design and develop analog circuits for high-speed applications",
-        "Collaborate with cross-functional teams to integrate analog components with digital systems",
-        "Conduct simulations and tests to validate circuit performance and reliability",
-        "Create and review PCB layouts to ensure optimal performance and manufacturability",
-        "Troubleshoot and resolve issues in analog and mixed-signal systems",
-        "Document design specifications and maintain project documentation",
-        "Mentor junior engineers and provide technical guidance during project development"
-      ]
-    },
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "www-ziprecruiter-com-c-cybercoders-job-senior-analog-design-engineer-200k-in-pleasanton-ca",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "aDbfw_0yF2CiYV_mAAAAAA==",
-    "job_title": "Senior Analog IC Design Engineer – Mixed-Signal Lead",
-    "employer_name": "Analog Devices, Inc.",
-    "employer_logo": null,
-    "employer_website": "https://www.analog.com",
-    "job_publisher": "Learn4Good",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.learn4good.com/jobs/athens/georgia/engineering/4865720434/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/principal-analog-layout-engineer-at-ust-4362234379?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/athens/georgia/engineering/4865720434/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/principal-analog-layout-engineer-at-ust-4362234379?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JobLeads",
+        "apply_link": "https://www.jobleads.com/us/job/principal-analog-layout-engineer--united-states--e12f1f4d95175bb08f38073967403e34a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "A leading technology company in the United States is seeking an experienced engineer focused on integrated circuit design in wired automotive connectivity. The ideal candidate will have over 7 years' experience in analogue or mixed-signal design, and strong knowledge of circuit designs such as amplifiers and converters.\n\nThis role offers the opportunity to work on innovative projects and collaborate with a talented team. The company values excellence and a collaborative culture.\n#J-18808-Ljbffr",
-    "job_is_remote": false,
+    "job_description": "Role Description\n\nPrincipal Analog Layout Engineer\n\nTechnical Lead I – VLSI\n\nWho We Are\n\nBorn digital, UST transforms lives through the power of technology. We walk alongside our clients and partners, embedding innovation and agility into everything they do. We help them create transformative experiences and human-centered solutions for a better world.\n\nUST is a mission-driven group of 29,000+ practical problem solvers and creative thinkers in more than 30 countries. Our entrepreneurial teams are empowered to innovate, act nimbly, and create a lasting and sustainable impact for our clients, their customers, and the communities in which we live.\n\nWith us, you’ll create a boundless impact that transforms your career—and the lives of people across the world.\n\nVisit us at UST.com.\n\nYou Are\n\nSeeking a highly skilled Principal Analog Layout Engineer to contribute to cutting-edge high-speed and precision analog designs. The ideal candidate will possess strong technical expertise, excellent communication skills, and the ability to thrive in a collaborative remote environment.\n\nThe Opportunity\n• Design and simulate high-speed SerDes blocks (Equalizers, PLL, CDR, etc.) for 28Gbps+ data rates.\n• Design inductors, transmission lines, TIAs, and modulator drivers.\n• Design precision analog circuits like ADC/DACs.\n• Participate in mixed-signal design and verification flows.\n• Contribute to full-chip designs, ESDs, and verification flows.\n• Mentor junior engineers and contribute to architecture and strategy.\n\nThis position description identifies the responsibilities and tasks typically associated with the performance of the position. Other relevant essential functions may be required.\n\nWhat You Need\n• Experience in industry standard mask design/verification tools (Cadence/Synopsys, Calibre).\n• Hands-on custom layout design experience of high-speed SerDes blocks like Equalizers, PLL, PhaseInterpolators, CDR, etc.\n• Hands-on custom layout design experience of precision analog blocks like ADCs/DACs.\n• Experience in floor planning, closing design sign-off with multiple rails/ESDs.\n• Experience in integration of digital hard IPs.\n• Experience in efficient DRC debugging, SKILL coding.\n• Excellent oral and written communication skills.\n• MS in Electrical Engineering.\n• 8+ years of experience in high-speed serial links.\n• Deep knowledge of analog CMOS/BiCMOS designs in deep sub-micron process technologies.\n• Hands-on circuit design experience.\n• Experience with mixed-signal design/verification flows.\n• Excellent oral and written communication skills.\n\nCompensation can differ depending on factors including but not limited to the specific office location, role, skill set, education, and level of experience. UST provides a reasonable range of compensation for roles that may be hired in various U.S. markets as set forth below.\n\nRole Location: Remote\n\nCompensation Range: $87,000-$131,000\n\nBenefits\n\nFull-time, regular employees accrue a minimum of 10 days of paid vacation per year, receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year), 10 paid holidays, and are eligible for paid bereavement leave and jury duty. They are eligible to participate in the Company’s 401(k) Retirement Plan with employer matching. They and their dependents residing in the US are eligible for medical, dental, and vision insurance, as well as the following Company-paid Employee Only benefits: basic life insurance, accidental death and disability insurance, and short- and long-term disability benefits. Regular employees may purchase additional voluntary short-term disability benefits, and participate in a Health Savings Account (HSA) as well as a Flexible Spending Account (FSA) for healthcare, dependent child care, and/or commuting expenses as allowable under IRS guidelines. Benefits offerings vary in Puerto Rico.\n\nPart-time employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year) and are eligible to participate in the Company’s 401(k) Retirement Plan with employer matching.\n\nFull-time temporary employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year) and are eligible to participate in the Company’s 401(k) program with employer matching. They and their dependents residing in the US are eligible for medical, dental, and vision insurance.\n\nPart-time temporary employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year).\n\nAll US employees who work in a state or locality with more generous paid sick leave benefits than specified here will receive the benefit of those sick leave laws.\n\nWhat We Believe\n\nWe proudly embrace the values that have shaped UST since day one. We build our culture of Humility, Humanity, and Integrity. These values inspire us to nurture a people-first, human centric culture that fosters diversity, prioritizes sustainable solutions, and keeps our people and clients at the forefront of all decisions.\n\nHumility\n\nWe will listen, learn, be empathetic and help selflessly in our interactions with everyone.\n\nHumanity\n\nThrough business, we will better the lives of those less fortunate than ourselves.\n\nIntegrity\n\nWe honor our commitments and act with responsibility in all our relationships.\n\nEqual Employment Opportunity Statement\n\nUST is an Equal Opportunity Employer.\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other applicable characteristics protected by law. We will consider qualified applicants with arrest or conviction records in accordance with state and local laws and “fair chance” ordinances.\n\nUST reserves the right to periodically redefine your roles and responsibilities based on the requirements of the organization and/or your performance.\n\n#UST\n\nSkills\n\ndesign verification,vlsi design,analog design engineering,mixed-signal verification,high speed design",
+    "job_is_remote": true,
     "job_posted_at": "5 days ago",
     "job_posted_at_timestamp": 1770854400,
     "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Athens, GA",
-    "job_city": "Athens",
-    "job_state": "Georgia",
+    "job_location": "Santa Clara, CA",
+    "job_city": "Santa Clara",
+    "job_state": "California",
     "job_country": "US",
-    "job_latitude": 33.9596643,
-    "job_longitude": -83.3764161,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaDbfw_0yF2CiYV_mAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 60000,
-    "job_max_salary": 80000,
+    "job_latitude": 37.354107899999995,
+    "job_longitude": -121.9552356,
+    "job_benefits": [
+      "health_insurance",
+      "paid_time_off",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DrC8LIQq-ANIXat-_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 87000,
+    "job_max_salary": 131000,
     "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "The ideal candidate will have over 7 years' experience in analogue or mixed-signal design, and strong knowledge of circuit designs such as amplifiers and converters"
-      ],
-      "Responsibilities": [
-        "This role offers the opportunity to work on innovative projects and collaborate with a talented team"
-      ]
-    },
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "www-learn4good-com-jobs-athens-georgia-engineering-4865720434-e",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "LVGrDfgkFfClq4yeAAAAAA==",
-    "job_title": "Senior Analog Design Engineer",
-    "employer_name": "Mechanical Design Consulting",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Stemta.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://stemta.com/job/senior-analog-design-engineer-261/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "Stemta.com",
-        "apply_link": "https://stemta.com/job/senior-analog-design-engineer-261/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Are you passionate about pushing the boundaries of analog design and innovation? Do you thrive in a collaborative, cutting-edge environment where your skills can truly shine? If so, we have the perfect opportunity for you.\n\nAbout Us:\n\nWe are pioneers in Aerospace Engineering and Consulting. Our commitment to excellence and innovation has propelled us to the forefront of our field. We are seeking a Senior Analog Design Engineer to join our dynamic team and help us continue to lead the way in Aerospace Engineering.\n\nRole:\n\nAs a Senior Analog Design Engineer you will play a pivotal role in driving our projects to success. Your responsibilities will include:\n• Leveraging your extensive experience in analog and low power design using advanced deep micron process technology.\n• Showcasing your proficiency in Verilog RTL coding, both in synchronous and asynchronous state machines, to craft elegant and efficient solutions.\n• Harnessing your expertise with Hspice and other analog simulators to validate and optimize your designs.\n• Applying your knowledge of Cadence schematic capture to translate ideas into real-world schematics.\n• Utilizing your Linux experience to work seamlessly within our collaborative development environment.\n\nQualifications:\n\nTo excel in this role, you will need:\n• A proven track record in analog and low power design using advanced deep micron process technology.\n• Proficiency in Verilog RTL coding, particularly in designing both synchronous and asynchronous state machines.\n• Strong experience with Hspice and other analog simulators.\n• A solid background in Cadence schematic capture.\n• Familiarity with Linux.\n\nWe believe in nurturing talent and fostering a culture of innovation. When you join our team, you’ll have the opportunity to:\n• Work on cutting-edge projects that push the boundaries of technology.\n• Collaborate with some of the brightest minds in the industry.\n• Continuously expand your skill set and stay at the forefront of your field.\n• Enjoy a competitive compensation package and comprehensive benefits.\n• Be part of a company that values diversity, inclusion, and work-life balance.\n\nIf you’re ready to make your mark in the world of analog design and take your career to new heights, we want to hear from you. Apply today to join our team of innovators and shape the future of Aerospace Engineering.\n\nWe are an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.\n\nBase Salary Max:: 132000",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Sunnyvale, CA",
-    "job_city": "Sunnyvale",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.368829999999996,
-    "job_longitude": -122.0363496,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLVGrDfgkFfClq4yeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "A proven track record in analog and low power design using advanced deep micron process technology",
-        "Proficiency in Verilog RTL coding, particularly in designing both synchronous and asynchronous state machines",
-        "Strong experience with Hspice and other analog simulators",
-        "A solid background in Cadence schematic capture",
-        "Familiarity with Linux",
-        "Collaborate with some of the brightest minds in the industry"
+        "Seeking a highly skilled Principal Analog Layout Engineer to contribute to cutting-edge high-speed and precision analog designs",
+        "The ideal candidate will possess strong technical expertise, excellent communication skills, and the ability to thrive in a collaborative remote environment",
+        "Experience in industry standard mask design/verification tools (Cadence/Synopsys, Calibre)",
+        "Hands-on custom layout design experience of high-speed SerDes blocks like Equalizers, PLL, PhaseInterpolators, CDR, etc",
+        "Hands-on custom layout design experience of precision analog blocks like ADCs/DACs",
+        "Experience in floor planning, closing design sign-off with multiple rails/ESDs",
+        "Experience in integration of digital hard IPs",
+        "Experience in efficient DRC debugging, SKILL coding",
+        "Excellent oral and written communication skills",
+        "MS in Electrical Engineering",
+        "8+ years of experience in high-speed serial links",
+        "Deep knowledge of analog CMOS/BiCMOS designs in deep sub-micron process technologies",
+        "Hands-on circuit design experience",
+        "Experience with mixed-signal design/verification flows",
+        "Excellent oral and written communication skills",
+        "UST reserves the right to periodically redefine your roles and responsibilities based on the requirements of the organization and/or your performance",
+        "design verification,vlsi design,analog design engineering,mixed-signal verification,high speed design"
       ],
       "Benefits": [
-        "Continuously expand your skill set and stay at the forefront of your field",
-        "Enjoy a competitive compensation package and comprehensive benefits",
-        "Be part of a company that values diversity, inclusion, and work-life balance"
+        "Compensation can differ depending on factors including but not limited to the specific office location, role, skill set, education, and level of experience",
+        "UST provides a reasonable range of compensation for roles that may be hired in various U.S. markets as set forth below",
+        "Role Location: Remote",
+        "Compensation Range: $87,000-$131,000",
+        "Benefits",
+        "Full-time, regular employees accrue a minimum of 10 days of paid vacation per year, receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year), 10 paid holidays, and are eligible for paid bereavement leave and jury duty",
+        "They are eligible to participate in the Company’s 401(k) Retirement Plan with employer matching",
+        "They and their dependents residing in the US are eligible for medical, dental, and vision insurance, as well as the following Company-paid Employee Only benefits: basic life insurance, accidental death and disability insurance, and short- and long-term disability benefits",
+        "Regular employees may purchase additional voluntary short-term disability benefits, and participate in a Health Savings Account (HSA) as well as a Flexible Spending Account (FSA) for healthcare, dependent child care, and/or commuting expenses as allowable under IRS guidelines",
+        "Benefits offerings vary in Puerto Rico",
+        "Part-time employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year) and are eligible to participate in the Company’s 401(k) Retirement Plan with employer matching",
+        "Full-time temporary employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year) and are eligible to participate in the Company’s 401(k) program with employer matching",
+        "They and their dependents residing in the US are eligible for medical, dental, and vision insurance",
+        "Part-time temporary employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year)",
+        "All US employees who work in a state or locality with more generous paid sick leave benefits than specified here will receive the benefit of those sick leave laws"
       ],
       "Responsibilities": [
-        "As a Senior Analog Design Engineer you will play a pivotal role in driving our projects to success",
-        "Leveraging your extensive experience in analog and low power design using advanced deep micron process technology",
-        "Showcasing your proficiency in Verilog RTL coding, both in synchronous and asynchronous state machines, to craft elegant and efficient solutions",
-        "Harnessing your expertise with Hspice and other analog simulators to validate and optimize your designs",
-        "Applying your knowledge of Cadence schematic capture to translate ideas into real-world schematics",
-        "Utilizing your Linux experience to work seamlessly within our collaborative development environment",
-        "Work on cutting-edge projects that push the boundaries of technology"
+        "Design and simulate high-speed SerDes blocks (Equalizers, PLL, CDR, etc.) for 28Gbps+ data rates",
+        "Design inductors, transmission lines, TIAs, and modulator drivers",
+        "Design precision analog circuits like ADC/DACs",
+        "Participate in mixed-signal design and verification flows",
+        "Contribute to full-chip designs, ESDs, and verification flows",
+        "Mentor junior engineers and contribute to architecture and strategy",
+        "This position description identifies the responsibilities and tasks typically associated with the performance of the position",
+        "Other relevant essential functions may be required"
       ]
     },
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
-    "id": "stemta-com-job-senior-analog-design-engineer-261",
+    "id": "www-linkedin-com-jobs-view-principal-analog-layout-engineer-at-ust-4362234379",
     "_source": "new_jobs"
   },
   {
@@ -1729,8 +1530,8 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
+      "paid_time_off",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLaKu8ZFOJQjz_RAkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1855,101 +1656,117 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "rC8LIQq-ANIXat-_AAAAAA==",
-    "job_title": "Principal Analog Layout Engineer",
-    "employer_name": "UST",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1rLv4WKwc6Wb58tB6QjizWerFc8DTNzun-g3S&s=0",
-    "employer_website": null,
-    "job_publisher": "LinkedIn",
+    "job_id": "UDvO9atOFfwc_0VmAAAAAA==",
+    "job_title": "Senior Staff Analog Design Engineer",
+    "employer_name": "Synopsys",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZT7aCtU7NwDs04X0a35dWFbv0UKLhd6vFoi9P&s=0",
+    "employer_website": "https://www.synopsys.com",
+    "job_publisher": "Glassdoor",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/principal-analog-layout-engineer-at-ust-4362234379?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.glassdoor.com/job-listing/senior-staff-analog-design-engineer-synopsys-JV_IC1151603_KO0,35_KE36,44.htm?jl=1009992953592&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/principal-analog-layout-engineer-at-ust-4362234379?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/senior-staff-analog-design-engineer-synopsys-JV_IC1151603_KO0,35_KE36,44.htm?jl=1009992953592&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "JobLeads",
-        "apply_link": "https://www.jobleads.com/us/job/principal-analog-layout-engineer--united-states--e12f1f4d95175bb08f38073967403e34a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/senior-staff-analog-design-engineer-synopsyslns-hillsboro-or_85133366?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/senior-staff-analog-design-engineer-hillsboro-synopsys-inc-5b583eb38216e5206de29d49da2cbb14?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Experteer",
+        "apply_link": "https://us.experteer.com/career/view-jobs/senior-staff-analog-design-engineer-hillsboro-or-usa-55634942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/senior-staff-asic-design-engineer_4b6ecf24-e269-41b7-bbe2-4b94167b2922?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Discover Technata Job Board",
+        "apply_link": "https://jobs.discovertechnata.com/companies/synopsys-2-40cdf835-e3bd-4932-a6b1-755a6e93b52a/jobs/64838384-senior-staff-analog-design-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs Warehouse",
+        "apply_link": "https://www.jobswarehouse.co.uk/jobs/senior-staff-analog-design-engineer-hillsboro-oregon/2581145368-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-hillsboro-senior-staff-analog-design-engineer-synopsys-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Role Description\n\nPrincipal Analog Layout Engineer\n\nTechnical Lead I – VLSI\n\nWho We Are\n\nBorn digital, UST transforms lives through the power of technology. We walk alongside our clients and partners, embedding innovation and agility into everything they do. We help them create transformative experiences and human-centered solutions for a better world.\n\nUST is a mission-driven group of 29,000+ practical problem solvers and creative thinkers in more than 30 countries. Our entrepreneurial teams are empowered to innovate, act nimbly, and create a lasting and sustainable impact for our clients, their customers, and the communities in which we live.\n\nWith us, you’ll create a boundless impact that transforms your career—and the lives of people across the world.\n\nVisit us at UST.com.\n\nYou Are\n\nSeeking a highly skilled Principal Analog Layout Engineer to contribute to cutting-edge high-speed and precision analog designs. The ideal candidate will possess strong technical expertise, excellent communication skills, and the ability to thrive in a collaborative remote environment.\n\nThe Opportunity\n• Design and simulate high-speed SerDes blocks (Equalizers, PLL, CDR, etc.) for 28Gbps+ data rates.\n• Design inductors, transmission lines, TIAs, and modulator drivers.\n• Design precision analog circuits like ADC/DACs.\n• Participate in mixed-signal design and verification flows.\n• Contribute to full-chip designs, ESDs, and verification flows.\n• Mentor junior engineers and contribute to architecture and strategy.\n\nThis position description identifies the responsibilities and tasks typically associated with the performance of the position. Other relevant essential functions may be required.\n\nWhat You Need\n• Experience in industry standard mask design/verification tools (Cadence/Synopsys, Calibre).\n• Hands-on custom layout design experience of high-speed SerDes blocks like Equalizers, PLL, PhaseInterpolators, CDR, etc.\n• Hands-on custom layout design experience of precision analog blocks like ADCs/DACs.\n• Experience in floor planning, closing design sign-off with multiple rails/ESDs.\n• Experience in integration of digital hard IPs.\n• Experience in efficient DRC debugging, SKILL coding.\n• Excellent oral and written communication skills.\n• MS in Electrical Engineering.\n• 8+ years of experience in high-speed serial links.\n• Deep knowledge of analog CMOS/BiCMOS designs in deep sub-micron process technologies.\n• Hands-on circuit design experience.\n• Experience with mixed-signal design/verification flows.\n• Excellent oral and written communication skills.\n\nCompensation can differ depending on factors including but not limited to the specific office location, role, skill set, education, and level of experience. UST provides a reasonable range of compensation for roles that may be hired in various U.S. markets as set forth below.\n\nRole Location: Remote\n\nCompensation Range: $87,000-$131,000\n\nBenefits\n\nFull-time, regular employees accrue a minimum of 10 days of paid vacation per year, receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year), 10 paid holidays, and are eligible for paid bereavement leave and jury duty. They are eligible to participate in the Company’s 401(k) Retirement Plan with employer matching. They and their dependents residing in the US are eligible for medical, dental, and vision insurance, as well as the following Company-paid Employee Only benefits: basic life insurance, accidental death and disability insurance, and short- and long-term disability benefits. Regular employees may purchase additional voluntary short-term disability benefits, and participate in a Health Savings Account (HSA) as well as a Flexible Spending Account (FSA) for healthcare, dependent child care, and/or commuting expenses as allowable under IRS guidelines. Benefits offerings vary in Puerto Rico.\n\nPart-time employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year) and are eligible to participate in the Company’s 401(k) Retirement Plan with employer matching.\n\nFull-time temporary employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year) and are eligible to participate in the Company’s 401(k) program with employer matching. They and their dependents residing in the US are eligible for medical, dental, and vision insurance.\n\nPart-time temporary employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year).\n\nAll US employees who work in a state or locality with more generous paid sick leave benefits than specified here will receive the benefit of those sick leave laws.\n\nWhat We Believe\n\nWe proudly embrace the values that have shaped UST since day one. We build our culture of Humility, Humanity, and Integrity. These values inspire us to nurture a people-first, human centric culture that fosters diversity, prioritizes sustainable solutions, and keeps our people and clients at the forefront of all decisions.\n\nHumility\n\nWe will listen, learn, be empathetic and help selflessly in our interactions with everyone.\n\nHumanity\n\nThrough business, we will better the lives of those less fortunate than ourselves.\n\nIntegrity\n\nWe honor our commitments and act with responsibility in all our relationships.\n\nEqual Employment Opportunity Statement\n\nUST is an Equal Opportunity Employer.\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other applicable characteristics protected by law. We will consider qualified applicants with arrest or conviction records in accordance with state and local laws and “fair chance” ordinances.\n\nUST reserves the right to periodically redefine your roles and responsibilities based on the requirements of the organization and/or your performance.\n\n#UST\n\nSkills\n\ndesign verification,vlsi design,analog design engineering,mixed-signal verification,high speed design",
-    "job_is_remote": true,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Santa Clara, CA",
-    "job_city": "Santa Clara",
-    "job_state": "California",
+    "job_description": "We Are:\n\nAt Synopsys, we drive innovations that transform how we live and connect. Our technology powers the Era of Pervasive Intelligence, leading in chip design, verification, and IP integration. Join us to shape the future through technological excellence.\n\nYou Are:\n\nYou are an expert in high-speed analog design, with hands-on experience in wireline or optical SerDes above 200GBaud. You excel with PLLs, ILOs, DLLs, and phase mixers, as well as transmitters, serializers, optical drivers, receiver analog front ends, TIAs, and data converters. You adapt quickly, lead by example, and thrive in collaborative, global teams—mentoring others and driving robust, innovative solutions.\n\nWhat You’ll Be Doing:\n• Designing advanced SerDes and clocking circuits for ultra-high-speed data.\n• Developing transmitters, serializers, and optical drivers.\n• Creating receiver analog front ends and TIAs.\n• Optimizing signal integrity and power usage.\n• Collaborating across global teams.\n• Mentoring junior engineers.\n\nThe Impact You Will Have:\n• Enable next-gen connectivity solutions.\n• Strengthen Synopsys’ technology leadership.\n• Accelerate product innovation and time-to-market.\n• Improve reliability and performance of industry-leading chips.\n• Foster technical growth across teams.\n• Influence industry standards.\n\nWhat You’ll Need:\n• BSEE with at least 8+ years of direct industry experience.\n• Extensive analog/SerDes IC design experience above 200GBaud.\n• Expertise with PLLs, DLLs, ILOs, phase mixers, and related circuits.\n• Proficiency in EDA tools and advanced process technologies.\n• Strong signal integrity and layout skills.\n• Lab validation and debugging experience.\n\nWho You Are:\n• Collaborative and proactive leader.\n• Detail-oriented problem solver.\n• Effective technical communicator.\n• Innovative and curious.\n• Supportive mentor.\n\nThe Team You’ll Be A Part Of:\n\nJoin an elite analog design team focused on high-speed connectivity and SerDes IP, collaborating globally to deliver breakthrough solutions.\n\nRewards and Benefits:\n\nWe offer a comprehensive range of health, wellness, and financial benefits. Your recruiter will share full details during the hiring process.",
+    "job_is_remote": false,
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Hillsboro, OR",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
     "job_country": "US",
-    "job_latitude": 37.354107899999995,
-    "job_longitude": -121.9552356,
+    "job_latitude": 45.5201237,
+    "job_longitude": -122.99133409999999,
     "job_benefits": [
-      "dental_coverage",
-      "paid_time_off",
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DrC8LIQq-ANIXat-_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 87000,
-    "job_max_salary": 131000,
-    "job_salary_period": "YEAR",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUDvO9atOFfwc_0VmAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Seeking a highly skilled Principal Analog Layout Engineer to contribute to cutting-edge high-speed and precision analog designs",
-        "The ideal candidate will possess strong technical expertise, excellent communication skills, and the ability to thrive in a collaborative remote environment",
-        "Experience in industry standard mask design/verification tools (Cadence/Synopsys, Calibre)",
-        "Hands-on custom layout design experience of high-speed SerDes blocks like Equalizers, PLL, PhaseInterpolators, CDR, etc",
-        "Hands-on custom layout design experience of precision analog blocks like ADCs/DACs",
-        "Experience in floor planning, closing design sign-off with multiple rails/ESDs",
-        "Experience in integration of digital hard IPs",
-        "Experience in efficient DRC debugging, SKILL coding",
-        "Excellent oral and written communication skills",
-        "MS in Electrical Engineering",
-        "8+ years of experience in high-speed serial links",
-        "Deep knowledge of analog CMOS/BiCMOS designs in deep sub-micron process technologies",
-        "Hands-on circuit design experience",
-        "Experience with mixed-signal design/verification flows",
-        "Excellent oral and written communication skills",
-        "UST reserves the right to periodically redefine your roles and responsibilities based on the requirements of the organization and/or your performance",
-        "design verification,vlsi design,analog design engineering,mixed-signal verification,high speed design"
+        "You are an expert in high-speed analog design, with hands-on experience in wireline or optical SerDes above 200GBaud",
+        "BSEE with at least 8+ years of direct industry experience",
+        "Extensive analog/SerDes IC design experience above 200GBaud",
+        "Expertise with PLLs, DLLs, ILOs, phase mixers, and related circuits",
+        "Proficiency in EDA tools and advanced process technologies",
+        "Strong signal integrity and layout skills",
+        "Lab validation and debugging experience",
+        "Collaborative and proactive leader",
+        "Detail-oriented problem solver",
+        "Effective technical communicator",
+        "Innovative and curious",
+        "Supportive mentor"
       ],
       "Benefits": [
-        "Compensation can differ depending on factors including but not limited to the specific office location, role, skill set, education, and level of experience",
-        "UST provides a reasonable range of compensation for roles that may be hired in various U.S. markets as set forth below",
-        "Role Location: Remote",
-        "Compensation Range: $87,000-$131,000",
-        "Benefits",
-        "Full-time, regular employees accrue a minimum of 10 days of paid vacation per year, receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year), 10 paid holidays, and are eligible for paid bereavement leave and jury duty",
-        "They are eligible to participate in the Company’s 401(k) Retirement Plan with employer matching",
-        "They and their dependents residing in the US are eligible for medical, dental, and vision insurance, as well as the following Company-paid Employee Only benefits: basic life insurance, accidental death and disability insurance, and short- and long-term disability benefits",
-        "Regular employees may purchase additional voluntary short-term disability benefits, and participate in a Health Savings Account (HSA) as well as a Flexible Spending Account (FSA) for healthcare, dependent child care, and/or commuting expenses as allowable under IRS guidelines",
-        "Benefits offerings vary in Puerto Rico",
-        "Part-time employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year) and are eligible to participate in the Company’s 401(k) Retirement Plan with employer matching",
-        "Full-time temporary employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year) and are eligible to participate in the Company’s 401(k) program with employer matching",
-        "They and their dependents residing in the US are eligible for medical, dental, and vision insurance",
-        "Part-time temporary employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year)",
-        "All US employees who work in a state or locality with more generous paid sick leave benefits than specified here will receive the benefit of those sick leave laws"
+        "We offer a comprehensive range of health, wellness, and financial benefits"
       ],
       "Responsibilities": [
-        "Design and simulate high-speed SerDes blocks (Equalizers, PLL, CDR, etc.) for 28Gbps+ data rates",
-        "Design inductors, transmission lines, TIAs, and modulator drivers",
-        "Design precision analog circuits like ADC/DACs",
-        "Participate in mixed-signal design and verification flows",
-        "Contribute to full-chip designs, ESDs, and verification flows",
-        "Mentor junior engineers and contribute to architecture and strategy",
-        "This position description identifies the responsibilities and tasks typically associated with the performance of the position",
-        "Other relevant essential functions may be required"
+        "You excel with PLLs, ILOs, DLLs, and phase mixers, as well as transmitters, serializers, optical drivers, receiver analog front ends, TIAs, and data converters",
+        "You adapt quickly, lead by example, and thrive in collaborative, global teams—mentoring others and driving robust, innovative solutions",
+        "Designing advanced SerDes and clocking circuits for ultra-high-speed data",
+        "Developing transmitters, serializers, and optical drivers",
+        "Creating receiver analog front ends and TIAs",
+        "Optimizing signal integrity and power usage",
+        "Collaborating across global teams",
+        "Mentoring junior engineers",
+        "Enable next-gen connectivity solutions",
+        "Strengthen Synopsys’ technology leadership",
+        "Accelerate product innovation and time-to-market",
+        "Improve reliability and performance of industry-leading chips",
+        "Foster technical growth across teams",
+        "Influence industry standards"
       ]
     },
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
-    "id": "www-linkedin-com-jobs-view-principal-analog-layout-engineer-at-ust-4362234379",
+    "id": "www-glassdoor-com-job-listing-senior-staff-analog-design-engineer-synopsys-jv_ic1151603_ko0-35_ke36-44-htm",
     "_source": "new_jobs"
   }
 ]
