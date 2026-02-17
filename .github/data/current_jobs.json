@@ -31,8 +31,8 @@
     "job_latitude": 39.1731621,
     "job_longitude": -77.2716502,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Ds65OUraCvDMCG5okAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -102,11 +102,6 @@
         "is_direct": false
       },
       {
-        "publisher": "Craigslist",
-        "apply_link": "https://seattle.craigslist.org/est/egr/d/kirkland-senior-analog-ic-design/7914379643.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "SimplyHired",
         "apply_link": "https://www.simplyhired.com/job/fdycoUSB4b686vqsb_yHphuXjrnOP4BF6zs2D77QCuUeSIK3ZTLihw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -119,6 +114,11 @@
       {
         "publisher": "BeBee",
         "apply_link": "https://us.bebee.com/job/0f91119db2dba409f706d85b21154378?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Craigslist Seattle",
+        "apply_link": "https://seattle.craigslist.org/est/egr/d/kirkland-senior-analog-ic-design/7914379643.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
@@ -144,9 +144,9 @@
     "job_latitude": 47.676892699999996,
     "job_longitude": -122.2059833,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_suurIVYg45pri_TAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 100000,
@@ -190,6 +190,84 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "ONcKpwpUVHrl-oObAAAAAA==",
+    "job_title": "Analog Circuit Design Engineer",
+    "employer_name": "191 Altera Corporation",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_Rz2EN73HT05bhI2BQLxCDHlOpBOKrJQGpm_&s=0",
+    "employer_website": null,
+    "job_publisher": "Workday",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://altera.wd1.myworkdayjobs.com/en-US/Altera/job/Analog-Circuit-Design-Engineer_R01948?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Workday",
+        "apply_link": "https://altera.wd1.myworkdayjobs.com/en-US/Altera/job/Analog-Circuit-Design-Engineer_R01948?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Altera/Job/Analog-Circuit-Design-Engineer/-in-San-Jose,CA?jid=fe7c5fe5ee3cc2d0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/analog-circuit-design-engineer_7ea1adb3f79995835e312a2dc1b76595c06d9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Built In Austin",
+        "apply_link": "https://www.builtinaustin.com/job/analog-circuit-design-engineer/8445731?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/eff99adcfee7914e9372e6e4ebae98d8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/analog-circuit-design-engineer-at-altera-4370885528?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/698a61fb4db8972cecffa29a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5624319385?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Details: Job Description: About Altera For decades, Altera has been a leader in programmable logic solutions, enabling customers across aerospace, automotive, data center, communications, and industrial markets to deliver innovative, high-performance systems. As part of our continued growth, we are expanding our mixed-signal and analog design capabilities to support next-generation FPGA and SoC platforms. About the Role As a Mixed Signal Design Engineer you will be part of a team designing various mixed-signal circuit designs on Altera FPGAs such as voltage regulators, bandgaps and bias circuits, Analog to digital converter (ADC), Delay locked loops (DLLs), high speed clock distribution and other clocking circuits, IO circuits such as high voltage IO, RCOMP/SCOMP, memory circuits etc. on advanced processes nodes and have an opportunity to work on a diverse set of blocks and tasks in all phases of the design. The ideal candidate will be an independent self-starter who can own/design a custom analog or digital IP. An important part of this role is delivering all aspects of the design and collateral, including timing and reliability collateral. In addition, you should be able to drive transitions to AI tool-based design. You should be a motivated team-player who is able to work with cross-functional and cross-geo teams to understand, articulate and solve problems . Responsibilities Design, develop and deliver circuit building block schematic, perform pre layout and post layout design optimization to meet design specification across PVT, process variation sensitivity analysis, aging, EOS, RV checks for design reliability. Work with custom layout team to define plan (floorplan, routing, matching, metal grid etc) to meet circuit performance Collateral generation like circuit integration spec, and be a key driver to drive transition to AI tool-based design BMOD, timing model, power model, ICCT, IBIS, alpha numbers. Own specifications and design verification plans covering functionality, performance and reliability meeting high volume productization requirement. Collaborate with logic designer, logic verification designer, structural physical design engineers, integration engineers, signal integrity and power deliver engineer to define clear collateral handoff requirements to ensure efficient IP integration. Perform post silicon data analysis and debug and make necessary design enhancement to meet design specification. Conduct design reviews; actively contribute to design reviews Represent the team on related IP in cross-functional meetings and co-ordination of deliverables Work with external IP vendors as point of contact for analog designs Salary Range The pay range below is for Bay Area California only. Actual salary may vary based on a number of factors including job location, job-related knowledge, skills, experiences, trainings, etc. We also offer incentive opportunities that reward employees based on individual and company performance. $127,400 - $180,400 USD We use artificial intelligence to screen, assess, or select applicants for the position. Applicants must be eligible for any required U.S. export authorizations. Qualifications: Minimum Qualifications BSEE/MSEE/PhD in Electrical Engineering or equivalent with a minimum of 4+ years of experience in analog/mixed signal, high speed, or high voltage IO designs Direct design experience with analog and mixed signal circuits like amplifiers, comparators, regulators, IO, PLL etc Exposure to analog/mixed signal circuit design and layout flow and running post-layout simulations Solid understanding of analog design trade-offs and design for process variation and reliability in modern CMOS technologies Proficient in circuit design tools like Virtuoso, Spice, StarRC, Totem etc Understanding of Verilog, static timing analysis, UPF and related aspects of mixed signal design Job Type: Regular Shift: Shift 1 (United States of America) Primary Location: San Jose, California, United States Additional Locations: Austin, Texas, United States, Oregon Hillsboro Posting Statement: All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance. About Altera Altera: Accelerating Innovators Altera provides leadership programmable solutions that are easy-to-use and deploy in applications from cloud to edge, offering limitless AI possibilities. Our end-to-end broad portfolio of products including FPGAs, CPLDs, Intellectual Property, development tools, System on Modules, SmartNICs and IPUs provide the flexibility to accelerate innovation. Altera is helping to shape the future through pioneering innovation that unlocks extraordinary possibilities for everyone on the planet. Don't see the dream job you are looking for? Click \"Get Started\" below to drop off your contact information and resume and we will reach out to you if we find the perfect fit.",
+    "job_is_remote": false,
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "San Jose, CA",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.33874,
+    "job_longitude": -121.88525249999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DONcKpwpUVHrl-oObAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "altera-wd1-myworkdayjobs-com-en-us-altera-job-analog-circuit-design-engineer_r01948",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "ugfPNecvTGH2Qmb-AAAAAA==",
     "job_title": "Lead Principal Engineer Analog Mixed-Signal Design",
     "employer_name": "Infineon Technologies AG",
@@ -214,6 +292,11 @@
         "is_direct": false
       },
       {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/lead-principal-engineer-analog-mixed-signal-design-infineon-technologies-JV_IC1146779_KO0,50_KE51,72.htm?jl=1010033895473&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "LinkedIn",
         "apply_link": "https://www.linkedin.com/jobs/view/lead-principal-engineer-analog-mixed-signal-design-at-infineon-technologies-4372705490?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -231,11 +314,6 @@
       {
         "publisher": "Ladders",
         "apply_link": "https://www.theladders.com/job/lead-principal-engineer-analog-mixed-signal-design-infineontechnologies-el-segundo-ca_85687075?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/lead-principal-engineer-analog-mixed-signal-design-infineon-technologies-JV_IC1146779_KO0,50_KE51,72.htm?jl=1010033895473&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
@@ -290,210 +368,10 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "Kal8qtBGCWrYwxNkAAAAAA==",
-    "job_title": "Analog Circuit Design Engineer",
-    "employer_name": "Altera",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8G2hGat7lzIRCNQ74LQhD0e2QwLQy9RajN1Q&s=0",
-    "employer_website": "https://www.altera.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Altera/Job/Analog-Circuit-Design-Engineer/-in-Hillsboro,OR?jid=a882d9f69e7bdc1a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Altera/Job/Analog-Circuit-Design-Engineer/-in-Hillsboro,OR?jid=a882d9f69e7bdc1a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/analog-circuit-design-engineer-hillsboro-wipro-ltd-e4dfad8806a64cdb14d331bece7101be?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/analog-circuit-design-engineer-at-altera-4370868614?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/f1324e175a92b23af20bf993a83bb219?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JobLeads",
-        "apply_link": "https://www.jobleads.com/us/job/analog-circuit-design-engineer--hillsboro--e9544e8196dd39d59e8138bb603939854?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/hillsboro/oregon/engineering/4866133758/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/amp/job/us-washington-hillsboro-analog-circuit-design-engineer-wipro-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Details:\n\nJob Description:\n\nAbout Altera\nFor decades, Altera has been a leader in programmable logic solutions, enabling customers across aerospace, automotive, data center, communications, and industrial markets to deliver innovative, high-performance systems. As part of our continued growth, we are expanding our mixed-signal and analog design capabilities to support next-generation FPGA and SoC platforms.\n\nAbout the Role\n\nAs a Mixed Signal Design Engineer you will be part of a team designing various mixed-signal circuit designs on Altera FPGAs such as voltage regulators, bandgaps and bias circuits, Analog to digital converter (ADC), Delay locked loops (DLLs), high speed clock distribution and other clocking circuits, IO circuits such as high voltage IO, RCOMP/SCOMP, memory circuits etc. on advanced processes nodes and have an opportunity to work on a diverse set of blocks and tasks in all phases of the design. The ideal candidate will be an independent self-starter who can own/design a custom analog or digital IP. An important part of this role is delivering all aspects of the design and collateral, including timing and reliability collateral. In addition, you should be able to drive transitions to AI tool-based design. You should be a motivated team-player who is able to work with cross-functional and cross-geo teams to understand, articulate and solve problems .\n\nResponsibilities\n• Design, develop and deliver circuit building block schematic, perform pre layout and post layout design optimization to meet design specification across PVT, process variation sensitivity analysis, aging, EOS, RV checks for design reliability.\n• Work with custom layout team to define plan (floorplan, routing, matching, metal grid etc) to meet circuit performance\n• Collateral generation like circuit integration spec, and be a key driver to drive transition to AI tool-based design\n• BMOD, timing model, power model, ICCT, IBIS, alpha numbers.\n• Own specifications and design verification plans covering functionality, performance and reliability meeting high volume productization requirement.\n• Collaborate with logic designer, logic verification designer, structural physical design engineers, integration engineers, signal integrity and power deliver engineer to define clear collateral handoff requirements to ensure efficient IP integration.\n• Perform post silicon data analysis and debug and make necessary design enhancement to meet design specification.\n• Conduct design reviews; actively contribute to design reviews\n• Represent the team on related IP in cross-functional meetings and co-ordination of deliverables\n• Work with external IP vendors as point of contact for analog designs\n\nSalary Range\n\nThe pay range below is for Bay Area California only. Actual salary may vary based ona number offactors including job location, job-related knowledge, skills, experiences,trainings, etc. We also offer incentive opportunities that reward employees based on individual and company performance.\n\n$127,400 - $180,400USD\n\nWe use artificial intelligence to screen, assess, or select applicants for the position.Applicants must be eligible for any required U.S. export authorizations.\n\nQualifications:\n\nMinimum Qualifications\n• BSEE/MSEE/PhD in Electrical Engineering or equivalent with a minimum of 4+ years of experience in analog/mixed signal, high speed, or high voltage IO designs\n• Direct design experience with analog and mixed signal circuits like amplifiers, comparators, regulators, IO, PLL etc\n• Exposure to analog/mixed signal circuit design and layout flow and running post-layout simulations\n• Solid understanding of analog design trade-offs and design for process variation and reliability in modern CMOS technologies\n• Proficient in circuit design tools like Virtuoso, Spice, StarRC, Totem etc\n• Understanding of Verilog, static timing analysis, UPF and related aspects of mixed signal design\n\nJob Type: Regular\n\nShift:Shift 1 (United States of America)\n\nPrimary Location:San Jose, California, United States\n\nAdditional Locations:Austin, Texas, United States, Oregon Hillsboro\n\nPosting Statement:All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.",
-    "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Hillsboro, OR",
-    "job_city": "Hillsboro",
-    "job_state": "Oregon",
-    "job_country": "US",
-    "job_latitude": 45.5201237,
-    "job_longitude": -122.99133409999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKal8qtBGCWrYwxNkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 127000,
-    "job_max_salary": 180000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "In addition, you should be able to drive transitions to AI tool-based design",
-        "You should be a motivated team-player who is able to work with cross-functional and cross-geo teams to understand, articulate and solve problems ",
-        "Applicants must be eligible for any required U.S. export authorizations",
-        "BSEE/MSEE/PhD in Electrical Engineering or equivalent with a minimum of 4+ years of experience in analog/mixed signal, high speed, or high voltage IO designs",
-        "Direct design experience with analog and mixed signal circuits like amplifiers, comparators, regulators, IO, PLL etc",
-        "Exposure to analog/mixed signal circuit design and layout flow and running post-layout simulations",
-        "Solid understanding of analog design trade-offs and design for process variation and reliability in modern CMOS technologies",
-        "Proficient in circuit design tools like Virtuoso, Spice, StarRC, Totem etc",
-        "Understanding of Verilog, static timing analysis, UPF and related aspects of mixed signal design"
-      ],
-      "Benefits": [
-        "The pay range below is for Bay Area California only",
-        "Actual salary may vary based ona number offactors including job location, job-related knowledge, skills, experiences,trainings, etc",
-        "We also offer incentive opportunities that reward employees based on individual and company performance",
-        "$127,400 - $180,400USD"
-      ],
-      "Responsibilities": [
-        "As a Mixed Signal Design Engineer you will be part of a team designing various mixed-signal circuit designs on Altera FPGAs such as voltage regulators, bandgaps and bias circuits, Analog to digital converter (ADC), Delay locked loops (DLLs), high speed clock distribution and other clocking circuits, IO circuits such as high voltage IO, RCOMP/SCOMP, memory circuits etc. on advanced processes nodes and have an opportunity to work on a diverse set of blocks and tasks in all phases of the design",
-        "An important part of this role is delivering all aspects of the design and collateral, including timing and reliability collateral",
-        "Design, develop and deliver circuit building block schematic, perform pre layout and post layout design optimization to meet design specification across PVT, process variation sensitivity analysis, aging, EOS, RV checks for design reliability",
-        "Work with custom layout team to define plan (floorplan, routing, matching, metal grid etc) to meet circuit performance",
-        "Collateral generation like circuit integration spec, and be a key driver to drive transition to AI tool-based design",
-        "BMOD, timing model, power model, ICCT, IBIS, alpha numbers",
-        "Own specifications and design verification plans covering functionality, performance and reliability meeting high volume productization requirement",
-        "Collaborate with logic designer, logic verification designer, structural physical design engineers, integration engineers, signal integrity and power deliver engineer to define clear collateral handoff requirements to ensure efficient IP integration",
-        "Perform post silicon data analysis and debug and make necessary design enhancement to meet design specification",
-        "Conduct design reviews; actively contribute to design reviews",
-        "Represent the team on related IP in cross-functional meetings and co-ordination of deliverables",
-        "Work with external IP vendors as point of contact for analog designs"
-      ]
-    },
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "www-ziprecruiter-com-c-altera-job-analog-circuit-design-engineer-in-hillsboro-or",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "6Zo3REnb8svvpP_dAAAAAA==",
-    "job_title": "Analog Electronics Design Engineer II",
-    "employer_name": "The Charles Stark Draper Laboratory, Inc.",
-    "employer_logo": null,
-    "employer_website": "https://www.draper.com",
-    "job_publisher": "Workday",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Hardware-Analog-Electronics-Design-Engineer_JR001146?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Workday",
-        "apply_link": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Hardware-Analog-Electronics-Design-Engineer_JR001146?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/68f4c1af9e0f62631646167801d49e7a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Overview: Draper is an independent, nonprofit research and development company headquartered in Cambridge, MA. The 2,000+ employees of Draper tackle important national challenges with a promise of delivering successful and usable solutions. From military defense and space exploration to biomedical engineering, lives often depend on the solutions we provide. Our multidisciplinary teams of engineers and scientists work in a collaborative environment that inspires the cross-fertilization of ideas necessary for true innovation. For more information about Draper, visit www.draper.com. Job Description Summary: As a Hardware Analog Electronics Design Engineer, this person designs, specifies, develops, and tests analog electronics for a wide array of applications, including analog front ends, signal conditioning, analog-to-digital conversion, precision feedback systems, dc/dc conversion. They also perform a variety of engineering work in the initial planning and design phase of specifications and requirements of the systems. The Hardware Analog Electronics Design Engineer designs these circuits, performs simulations, implements the physical layout, verifies and tests designs. They also perform a variety of engineering activities throughout the life cycle to support planning, design, test, deployment, and sustainment. This role requires the candidate to have an active US secret clearance. Job Description: Duties/Responsibilities • Design, develop, and build power system architectures. • Conduct research, design, development, and testing of hardware such as miniature power conversion and management circuitry, distributed power architectures, radiation hardened designs. • Optimize system designs for reduced size, weight, and power. • Design new products and develop technical specifications for their production. • Analyze hardware configuration and processing solutions and test hardware conformance to specifications. • Develop and maintain effective internal/external relationships. • Independently executes assignments under the oversight of program leadership. • Eager to learn new technical skills and expand their depth/technical knowledge. • Contributes content for technical reports and presentations with appropriate guidance. • Adapt appropriately to changes in program requirements. • Identify challenges associated with assigned work and communicate them to project leadership. • Perform other related duties as assigned. Skills/Abilities • Knowledge in at least one of the following areas: Isolated and non-Isolated dc/dc power conversion; rectification; inversion; battery management systems; motor controller design; system-level power distribution design; system/board level grounding/shielding and EMC design techniques. • Designing and troubleshooting power electronics. • Proficient with schematic capture and printed circuit board layout. • Ability to perform circuit simulation using Spice or other simulation tools. • System modeling and analysis experience using MATLAB, Simulink, or other comparable tools. • Understanding of applied math and physics. • Strong analytical and problem-solving skills. • Excellent organizational skills and attention to detail. • Excellent verbal and written communication skills. • Ability to write detailed documentation. Education Bachelor's degree in Electrical Engineering or a related field required, Master’s Degree preferred. Experience 3-5 years of experience in Power Systems Engineering or related. Additional Job Description: Collaborate and communicate with management, internal, and development partners regarding design status, project progress, and issue resolution. As well as: Able to apply technical knowledge to solve problems. Contribute high quality content for technical reports and presentations with minimal guidance. Adapt appropriately to changes in program requirements. Proactively identify needs and concerns associated with design decisions and communicate them to project leadership. Knowledge in at least one of the following areas: Low-noise electronics, analog-digital conversion, methods of synchronous detection, analog and digital signal processing, phase-locked loops, high speed and precision amplifiers, discrete transistor level design, dc/dc power conversion, battery management systems. Designing and troubleshooting analog electronics This role requires the ability to be onsite in Cambridge, MA. Applicants selected for this position will be required to obtain and maintain a government security clearance Connect With Draper for Future Opportunities! If you don't find the right posting in our Career Opportunities, you may submit your resume for future consideration. Job Location - City: Cambridge Job Location - State: Massachusetts Job Location - Postal Code: 02139-3563 The US base salary range for this full-time position is $75,000.00 - $150,000.00 Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Union ranges will be in compliance with the collective bargaining agreement's approved rates by location and role. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and does not include bonuses or benefits. Our work is very important to us, but so is our life outside of work. Draper supports many programs to improve work-life balance including workplace flexibility, employee clubs ranging from photography to yoga, health and finance workshops, off site social events and discounts to local museums and cultural activities. If this specific job opportunity and the chance to work at a nationally renowned R&D innovation company appeals to you, apply now www.draper.com/careers. Draper is committed to creating an inclusive environment. We understand the value of inclusivity and its impact on a high-performance culture. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, national origin, veteran status, or genetic information. Draper is committed to providing access, equal opportunity, and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. To request reasonable accommodation, please contact hr@draper.com. We are in the business of redefining what is possible. Join our inclusive, multidisciplinary team to engineer the groundbreaking solutions of tomorrow. Explore life at Draper with our unique culture and benefits at draper.com.",
-    "job_is_remote": true,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Cambridge, MA",
-    "job_city": "Cambridge",
-    "job_state": "Massachusetts",
-    "job_country": "US",
-    "job_latitude": 42.3666036,
-    "job_longitude": -71.1056916,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D6Zo3REnb8svvpP_dAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Knowledge in at least one of the following areas: Isolated and non-Isolated dc/dc power conversion; rectification; inversion; battery management systems; motor controller design; system-level power distribution design; system/board level grounding/shielding and EMC design techniques",
-        "Designing and troubleshooting power electronics",
-        "Proficient with schematic capture and printed circuit board layout",
-        "Ability to perform circuit simulation using Spice or other simulation tools",
-        "System modeling and analysis experience using MATLAB, Simulink, or other comparable tools",
-        "Understanding of applied math and physics",
-        "Strong analytical and problem-solving skills",
-        "Excellent organizational skills and attention to detail",
-        "Excellent verbal and written communication skills",
-        "Ability to write detailed documentation",
-        "Experience 3-5 years of experience in Power Systems Engineering or related",
-        "Additional Job Description: Collaborate and communicate with management, internal, and development partners regarding design status, project progress, and issue resolution",
-        "Knowledge in at least one of the following areas: Low-noise electronics, analog-digital conversion, methods of synchronous detection, analog and digital signal processing, phase-locked loops, high speed and precision amplifiers, discrete transistor level design, dc/dc power conversion, battery management systems"
-      ],
-      "Benefits": [
-        "Job Location - City: Cambridge Job Location - State: Massachusetts Job Location - Postal Code: 02139-3563 The US base salary range for this full-time position is $75,000.00 - $150,000.00 Our salary ranges are determined by role, level, and location",
-        "Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training",
-        "Union ranges will be in compliance with the collective bargaining agreement's approved rates by location and role",
-        "Draper supports many programs to improve work-life balance including workplace flexibility, employee clubs ranging from photography to yoga, health and finance workshops, off site social events and discounts to local museums and cultural activities"
-      ],
-      "Responsibilities": [
-        "Job Description Summary: As a Hardware Analog Electronics Design Engineer, this person designs, specifies, develops, and tests analog electronics for a wide array of applications, including analog front ends, signal conditioning, analog-to-digital conversion, precision feedback systems, dc/dc conversion",
-        "They also perform a variety of engineering work in the initial planning and design phase of specifications and requirements of the systems",
-        "The Hardware Analog Electronics Design Engineer designs these circuits, performs simulations, implements the physical layout, verifies and tests designs",
-        "They also perform a variety of engineering activities throughout the life cycle to support planning, design, test, deployment, and sustainment",
-        "This role requires the candidate to have an active US secret clearance",
-        "Design, develop, and build power system architectures",
-        "Conduct research, design, development, and testing of hardware such as miniature power conversion and management circuitry, distributed power architectures, radiation hardened designs",
-        "Optimize system designs for reduced size, weight, and power",
-        "Design new products and develop technical specifications for their production",
-        "Analyze hardware configuration and processing solutions and test hardware conformance to specifications",
-        "Develop and maintain effective internal/external relationships",
-        "Independently executes assignments under the oversight of program leadership",
-        "Eager to learn new technical skills and expand their depth/technical knowledge",
-        "Contributes content for technical reports and presentations with appropriate guidance",
-        "Adapt appropriately to changes in program requirements",
-        "Identify challenges associated with assigned work and communicate them to project leadership",
-        "Perform other related duties as assigned",
-        "As well as: Able to apply technical knowledge to solve problems",
-        "Contribute high quality content for technical reports and presentations with minimal guidance",
-        "Adapt appropriately to changes in program requirements",
-        "Proactively identify needs and concerns associated with design decisions and communicate them to project leadership",
-        "Designing and troubleshooting analog electronics This role requires the ability to be onsite in Cambridge, MA"
-      ]
-    },
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "draper-wd5-myworkdayjobs-com-en-us-draper_careers-job-hardware-analog-electronics-design-engineer_jr001146",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "3h_d1shxeTzn-HNdAAAAAA==",
     "job_title": "Analog Design Engineer",
     "employer_name": "Boeing",
-    "employer_logo": null,
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrZMAXhe-mD5loYAi7dRFR0HOLo2zbmY5kUnuq&s=0",
     "employer_website": "https://www.boeing.com",
     "job_publisher": "Boeing",
     "job_employment_type": "Full-time",
@@ -611,101 +489,107 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "pfPpIJoX2iTUHdTXAAAAAA==",
-    "job_title": "Senior Analog Design Engineer",
-    "employer_name": "Ametek, Inc.",
-    "employer_logo": null,
-    "employer_website": "https://www.ametek.com",
-    "job_publisher": "AMETEK",
+    "job_id": "Kal8qtBGCWrYwxNkAAAAAA==",
+    "job_title": "Analog Circuit Design Engineer",
+    "employer_name": "Altera",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8G2hGat7lzIRCNQ74LQhD0e2QwLQy9RajN1Q&s=0",
+    "employer_website": "https://www.altera.com",
+    "job_publisher": "ZipRecruiter",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://jobs.ametek.com/job/Pleasanton-Senior-Analog-Design-Engineer-CA-94588/1355586300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
+    "job_apply_link": "https://www.ziprecruiter.com/c/Altera/Job/Analog-Circuit-Design-Engineer/-in-Hillsboro,OR?jid=a882d9f69e7bdc1a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
     "apply_options": [
       {
-        "publisher": "AMETEK",
-        "apply_link": "https://jobs.ametek.com/job/Pleasanton-Senior-Analog-Design-Engineer-CA-94588/1355586300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=fca286f64bfea477&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Ametek/Job/Senior-Analog-Design-Engineer/-in-Pleasanton,CA?jid=1a71f4f22581163a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.ziprecruiter.com/c/Altera/Job/Analog-Circuit-Design-Engineer/-in-Hillsboro,OR?jid=a882d9f69e7bdc1a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/z5x5r_GzCcQxbYR837oOgyMzTqZz6PTiyLQ3THBOBC2s4BEDVveX7g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "Career.io",
-        "apply_link": "https://career.io/job/senior-analog-design-engineer-pleasanton-ametek-inc-d11186a6f729cb2064cd055af4575691?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://career.io/job/analog-circuit-design-engineer-hillsboro-wipro-ltd-e4dfad8806a64cdb14d331bece7101be?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
         "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/senior-analog-design-engineer-at-ametek-4361166971?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.linkedin.com/jobs/view/analog-circuit-design-engineer-at-altera-4370868614?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "EQuest Jobs",
-        "apply_link": "https://jobs.equest.com/jobs/CA/ametek-inc/senior-analog-design-engineer-443870776.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/f1324e175a92b23af20bf993a83bb219?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "JOFDAV",
-        "apply_link": "https://www.jofdav.com/jobs/56962892-senior-analog-design-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "JobLeads",
+        "apply_link": "https://www.jobleads.com/us/job/analog-circuit-design-engineer--hillsboro--e9544e8196dd39d59e8138bb603939854?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/hillsboro/oregon/engineering/4866133758/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/amp/job/us-washington-hillsboro-analog-circuit-design-engineer-wipro-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "We are seeking an experienced Senior Analog – mixed signal Engineer for our current and next generation cameras, imaging energy filters, specimen preparation equipment and other electron microscopy products. This individual will be responsible for working closely with System, Hardware and Software groups, will design circuits and systems from concept and design specifications through schematic design, layout supervision, board and system checkout and transition to production. This position will be based out of our Pleasanton, CA office.\n\nThe primary function of this role will be as an analog designer on complex, mixed signal systems including architecture and hardware design. Other responsibilities include exploration of technology. The incumbent will also be responsible for defining system requirements and integration.\n\nMINIMUM REQUIREMENTS:\n• Experience designing high performance transimpedance and instrumentation amplifiers for detectors such as PMTs, photo-diodes, silicon drift detectors, etc.\n• Deep understanding of low noise, high speed analog-mixed signal circuits such as OpAmps, filters, transistors, ADCs, DACs, linear, switching power supplies and Spice simulation.\n• Must have extensive experience in low noise high speed mixed signal PCBs, schematics, layout, modeling and functional simulation.\n• Familiarity with CPLD/FPGA logic design, and board layout for high-speed digital signals.\n• Ability to architect hardware platforms and high-speed interfaces.\n• Must have ability to diagnose and resolve complex system level issues.\n• Strong comfort level working in a hands-on lab environment using Oscilloscopes, function generators, signal analyzers De-emphasize the digital stuff.\n\nDESIRABLE SKILLS AND EXPERIENCE:\n• General RF engineering such as RF power generation, impedance matching, transmission line theory, RF filter design.\n• High voltage (2KV), low noise, low power supply design experience.\n• Design with Plasma generators, laser drivers, PID and motion control.\n\nEDUCATION & EXPERIENCE:\n• BS in Electrical Engineering from a four-year college or university, MS degree is a plus\n• 10+ years of analog hardware development experience\n\nABOUT US:\n\nGatan, Inc. is the world's leading manufacturer of instrumentation and software used to enhance and extend the operation and performance of electron microscopes. Gatan products, which are fully compatible with nearly all electron microscope models and include the EDAX portfolio, cover the entire range of the research process—from specimen preparation and manipulation to imaging and analysis.",
+    "job_description": "Job Details:\n\nJob Description:\n\nAbout Altera\nFor decades, Altera has been a leader in programmable logic solutions, enabling customers across aerospace, automotive, data center, communications, and industrial markets to deliver innovative, high-performance systems. As part of our continued growth, we are expanding our mixed-signal and analog design capabilities to support next-generation FPGA and SoC platforms.\n\nAbout the Role\n\nAs a Mixed Signal Design Engineer you will be part of a team designing various mixed-signal circuit designs on Altera FPGAs such as voltage regulators, bandgaps and bias circuits, Analog to digital converter (ADC), Delay locked loops (DLLs), high speed clock distribution and other clocking circuits, IO circuits such as high voltage IO, RCOMP/SCOMP, memory circuits etc. on advanced processes nodes and have an opportunity to work on a diverse set of blocks and tasks in all phases of the design. The ideal candidate will be an independent self-starter who can own/design a custom analog or digital IP. An important part of this role is delivering all aspects of the design and collateral, including timing and reliability collateral. In addition, you should be able to drive transitions to AI tool-based design. You should be a motivated team-player who is able to work with cross-functional and cross-geo teams to understand, articulate and solve problems .\n\nResponsibilities\n• Design, develop and deliver circuit building block schematic, perform pre layout and post layout design optimization to meet design specification across PVT, process variation sensitivity analysis, aging, EOS, RV checks for design reliability.\n• Work with custom layout team to define plan (floorplan, routing, matching, metal grid etc) to meet circuit performance\n• Collateral generation like circuit integration spec, and be a key driver to drive transition to AI tool-based design\n• BMOD, timing model, power model, ICCT, IBIS, alpha numbers.\n• Own specifications and design verification plans covering functionality, performance and reliability meeting high volume productization requirement.\n• Collaborate with logic designer, logic verification designer, structural physical design engineers, integration engineers, signal integrity and power deliver engineer to define clear collateral handoff requirements to ensure efficient IP integration.\n• Perform post silicon data analysis and debug and make necessary design enhancement to meet design specification.\n• Conduct design reviews; actively contribute to design reviews\n• Represent the team on related IP in cross-functional meetings and co-ordination of deliverables\n• Work with external IP vendors as point of contact for analog designs\n\nSalary Range\n\nThe pay range below is for Bay Area California only. Actual salary may vary based ona number offactors including job location, job-related knowledge, skills, experiences,trainings, etc. We also offer incentive opportunities that reward employees based on individual and company performance.\n\n$127,400 - $180,400USD\n\nWe use artificial intelligence to screen, assess, or select applicants for the position.Applicants must be eligible for any required U.S. export authorizations.\n\nQualifications:\n\nMinimum Qualifications\n• BSEE/MSEE/PhD in Electrical Engineering or equivalent with a minimum of 4+ years of experience in analog/mixed signal, high speed, or high voltage IO designs\n• Direct design experience with analog and mixed signal circuits like amplifiers, comparators, regulators, IO, PLL etc\n• Exposure to analog/mixed signal circuit design and layout flow and running post-layout simulations\n• Solid understanding of analog design trade-offs and design for process variation and reliability in modern CMOS technologies\n• Proficient in circuit design tools like Virtuoso, Spice, StarRC, Totem etc\n• Understanding of Verilog, static timing analysis, UPF and related aspects of mixed signal design\n\nJob Type: Regular\n\nShift:Shift 1 (United States of America)\n\nPrimary Location:San Jose, California, United States\n\nAdditional Locations:Austin, Texas, United States, Oregon Hillsboro\n\nPosting Statement:All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.",
     "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Pleasanton, CA",
-    "job_city": "Pleasanton",
-    "job_state": "California",
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Hillsboro, OR",
+    "job_city": "Hillsboro",
+    "job_state": "Oregon",
     "job_country": "US",
-    "job_latitude": 37.6604484,
-    "job_longitude": -121.87579679999999,
+    "job_latitude": 45.5201237,
+    "job_longitude": -122.99133409999999,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpfPpIJoX2iTUHdTXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKal8qtBGCWrYwxNkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 127000,
+    "job_max_salary": 180000,
+    "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "Experience designing high performance transimpedance and instrumentation amplifiers for detectors such as PMTs, photo-diodes, silicon drift detectors, etc",
-        "Deep understanding of low noise, high speed analog-mixed signal circuits such as OpAmps, filters, transistors, ADCs, DACs, linear, switching power supplies and Spice simulation",
-        "Must have extensive experience in low noise high speed mixed signal PCBs, schematics, layout, modeling and functional simulation",
-        "Familiarity with CPLD/FPGA logic design, and board layout for high-speed digital signals",
-        "Ability to architect hardware platforms and high-speed interfaces",
-        "Must have ability to diagnose and resolve complex system level issues",
-        "Strong comfort level working in a hands-on lab environment using Oscilloscopes, function generators, signal analyzers De-emphasize the digital stuff",
-        "General RF engineering such as RF power generation, impedance matching, transmission line theory, RF filter design",
-        "High voltage (2KV), low noise, low power supply design experience",
-        "Design with Plasma generators, laser drivers, PID and motion control",
-        "10+ years of analog hardware development experience"
+        "In addition, you should be able to drive transitions to AI tool-based design",
+        "You should be a motivated team-player who is able to work with cross-functional and cross-geo teams to understand, articulate and solve problems ",
+        "Applicants must be eligible for any required U.S. export authorizations",
+        "BSEE/MSEE/PhD in Electrical Engineering or equivalent with a minimum of 4+ years of experience in analog/mixed signal, high speed, or high voltage IO designs",
+        "Direct design experience with analog and mixed signal circuits like amplifiers, comparators, regulators, IO, PLL etc",
+        "Exposure to analog/mixed signal circuit design and layout flow and running post-layout simulations",
+        "Solid understanding of analog design trade-offs and design for process variation and reliability in modern CMOS technologies",
+        "Proficient in circuit design tools like Virtuoso, Spice, StarRC, Totem etc",
+        "Understanding of Verilog, static timing analysis, UPF and related aspects of mixed signal design"
+      ],
+      "Benefits": [
+        "The pay range below is for Bay Area California only",
+        "Actual salary may vary based ona number offactors including job location, job-related knowledge, skills, experiences,trainings, etc",
+        "We also offer incentive opportunities that reward employees based on individual and company performance",
+        "$127,400 - $180,400USD"
       ],
       "Responsibilities": [
-        "This individual will be responsible for working closely with System, Hardware and Software groups, will design circuits and systems from concept and design specifications through schematic design, layout supervision, board and system checkout and transition to production",
-        "The primary function of this role will be as an analog designer on complex, mixed signal systems including architecture and hardware design",
-        "Other responsibilities include exploration of technology",
-        "The incumbent will also be responsible for defining system requirements and integration"
+        "As a Mixed Signal Design Engineer you will be part of a team designing various mixed-signal circuit designs on Altera FPGAs such as voltage regulators, bandgaps and bias circuits, Analog to digital converter (ADC), Delay locked loops (DLLs), high speed clock distribution and other clocking circuits, IO circuits such as high voltage IO, RCOMP/SCOMP, memory circuits etc. on advanced processes nodes and have an opportunity to work on a diverse set of blocks and tasks in all phases of the design",
+        "An important part of this role is delivering all aspects of the design and collateral, including timing and reliability collateral",
+        "Design, develop and deliver circuit building block schematic, perform pre layout and post layout design optimization to meet design specification across PVT, process variation sensitivity analysis, aging, EOS, RV checks for design reliability",
+        "Work with custom layout team to define plan (floorplan, routing, matching, metal grid etc) to meet circuit performance",
+        "Collateral generation like circuit integration spec, and be a key driver to drive transition to AI tool-based design",
+        "BMOD, timing model, power model, ICCT, IBIS, alpha numbers",
+        "Own specifications and design verification plans covering functionality, performance and reliability meeting high volume productization requirement",
+        "Collaborate with logic designer, logic verification designer, structural physical design engineers, integration engineers, signal integrity and power deliver engineer to define clear collateral handoff requirements to ensure efficient IP integration",
+        "Perform post silicon data analysis and debug and make necessary design enhancement to meet design specification",
+        "Conduct design reviews; actively contribute to design reviews",
+        "Represent the team on related IP in cross-functional meetings and co-ordination of deliverables",
+        "Work with external IP vendors as point of contact for analog designs"
       ]
     },
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
-    "id": "jobs-ametek-com-job-pleasanton-senior-analog-design-engineer-ca-94588-1355586300",
+    "id": "www-ziprecruiter-com-c-altera-job-analog-circuit-design-engineer-in-hillsboro-or",
     "_source": "new_jobs"
   },
   {
@@ -848,296 +732,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "mh9Hy-zv2wty4WiHAAAAAA==",
-    "job_title": "Lead Analog Layout Engineer",
-    "employer_name": "Mogi I/O : OTT/Podcast/Short Video Apps for you",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "JobLeads",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.jobleads.com/us/job/lead-analog-layout-engineer--united-states--e6fc984c3e642118ba2ce36f2d12f85dd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "JobLeads",
-        "apply_link": "https://www.jobleads.com/us/job/lead-analog-layout-engineer--united-states--e6fc984c3e642118ba2ce36f2d12f85dd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Overview\n\nWe are seeking an experienced Sr. Layout Designer to support advanced analog and mixed signal IC development at a cutting-edge semiconductor organization. This is a senior individual contributor role requiring deep hands-on expertise in high-speed analog layout design across advanced process nodes. The role is fully onsite in Austin Texas and involves close collaboration with circuit designers and cross-functional engineering teams through multiple tape-outs. Candidates must demonstrate strong technical depth, leadership ability, and long-term job stability.\nLocation and Employment\n\nLocation: Austin Texas United States\n\nWork Type: Full Time Onsite\n\nExperience Required: 10 Plus Years\n\nCompensation: Competitive Market Based\n\nEligibility: H1B Sponsorship Available\nKey Responsibilities\n• Develop layouts for high-speed ADC DAC and SerDes circuits with strong attention to timing matching and shielding\n• Design and implement analog and mixed signal layouts for advanced process nodes ranging from 2nm to 16nm\n• Apply best practices for electromigration reliability ESD and signal integrity\n• Perform schematic to layout implementation using Cadence Virtuoso Layout XL PVS and Quantus\n• Lead and support tape-out activities including signoff checks documentation and reviews\n• Collaborate with circuit designers verification and manufacturing teams\n• Guide and mentor junior layout engineers and review their work\n• Ensure layouts meet performance power area and reliability targets\n• Participate in design reviews and clearly communicate technical decisions\nMust-Have Qualifications\n• Hands-on experience with advanced process nodes preferably TSMC\n• 10 plus years of industry experience in analog mixed signal layout design\n• Strong experience designing layouts for ADC DAC SerDes PLL amplifiers bandgaps and sensors\n• Expertise with Cadence Virtuoso tools including Layout XL PVS and Quantus\n• Strong understanding of FinFET and or Gate All Around technologies\n• Deep knowledge of analog layout techniques including differential pairs current mirrors resistors capacitors guard rings shielding and ESD structures\n• Experience leading full tape-out cycles\n• Strong written and verbal communication skills\n• Ability to mentor junior engineers and lead technically\n• Demonstrated job stability with no frequent job changes\n• Masters degree in Electrical Engineering Computer Engineering or related field\nNice-to-Have Qualifications\n• Experience with Mentor Siemens Calibre verification tools\n• Scripting experience using Skill, Python, or Tcl for layout automation\n• Exposure to floorplanning and top-level SoC integration\n• Experience optimizing layouts for signal integrity, IR drop, and thermal effects\nAdditional Information\n• This role is strictly onsite in Austin Texas five days a week\n• H1B visa sponsorship is available\n• Relocation support may be provided based on candidate profile\n• Equity component will be discussed at later interview stages\n• End client name must not be disclosed to candidates during initial stages\n• Interview process consists of three rounds over approximately two weeks\nWhat We Offer\n• Full medical and dental coverage\n• Meaningful equity participation\n• Opportunity to work on advanced semiconductor technologies\n• Long-term career growth in a high-impact engineering environment",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771113600,
-    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
-    "job_location": "United States",
-    "job_city": null,
-    "job_state": null,
-    "job_country": "US",
-    "job_latitude": 38.794595199999996,
-    "job_longitude": -106.5348379,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dmh9Hy-zv2wty4WiHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 60000,
-    "job_max_salary": 80000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Layout Designer to support advanced analog and mixed signal IC development at a cutting-edge semiconductor organization",
-        "Candidates must demonstrate strong technical depth, leadership ability, and long-term job stability",
-        "Experience Required: 10 Plus Years",
-        "Hands-on experience with advanced process nodes preferably TSMC",
-        "10 plus years of industry experience in analog mixed signal layout design",
-        "Strong experience designing layouts for ADC DAC SerDes PLL amplifiers bandgaps and sensors",
-        "Expertise with Cadence Virtuoso tools including Layout XL PVS and Quantus",
-        "Strong understanding of FinFET and or Gate All Around technologies",
-        "Deep knowledge of analog layout techniques including differential pairs current mirrors resistors capacitors guard rings shielding and ESD structures",
-        "Experience leading full tape-out cycles",
-        "Strong written and verbal communication skills",
-        "Ability to mentor junior engineers and lead technically",
-        "Demonstrated job stability with no frequent job changes",
-        "Masters degree in Electrical Engineering Computer Engineering or related field",
-        "Experience with Mentor Siemens Calibre verification tools",
-        "Scripting experience using Skill, Python, or Tcl for layout automation",
-        "Exposure to floorplanning and top-level SoC integration",
-        "Experience optimizing layouts for signal integrity, IR drop, and thermal effects",
-        "H1B visa sponsorship is available",
-        "End client name must not be disclosed to candidates during initial stages"
-      ],
-      "Benefits": [
-        "Compensation: Competitive Market Based",
-        "Eligibility: H1B Sponsorship Available",
-        "Full medical and dental coverage",
-        "Meaningful equity participation",
-        "Opportunity to work on advanced semiconductor technologies",
-        "Long-term career growth in a high-impact engineering environment"
-      ],
-      "Responsibilities": [
-        "Develop layouts for high-speed ADC DAC and SerDes circuits with strong attention to timing matching and shielding",
-        "Design and implement analog and mixed signal layouts for advanced process nodes ranging from 2nm to 16nm",
-        "Apply best practices for electromigration reliability ESD and signal integrity",
-        "Perform schematic to layout implementation using Cadence Virtuoso Layout XL PVS and Quantus",
-        "Lead and support tape-out activities including signoff checks documentation and reviews",
-        "Collaborate with circuit designers verification and manufacturing teams",
-        "Guide and mentor junior layout engineers and review their work",
-        "Ensure layouts meet performance power area and reliability targets",
-        "Participate in design reviews and clearly communicate technical decisions"
-      ]
-    },
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "www-jobleads-com-us-job-lead-analog-layout-engineer-united-states-e6fc984c3e642118ba2ce36f2d12f85dd",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "cTKQRx8eIRVx-VaVAAAAAA==",
-    "job_title": "Digital Design Engineer",
-    "employer_name": "Analog Devices",
-    "employer_logo": null,
-    "employer_website": "https://www.analog.com",
-    "job_publisher": "Tech Jobs Personalized",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://builtin.com/job/digital-design-engineer/8484269?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Tech Jobs Personalized",
-        "apply_link": "https://builtin.com/job/digital-design-engineer/8484269?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Analog-Devices/Job/Digital-Design-Engineer/-in-Wilmington,MA?jid=3120b34d4df107ee&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "About Analog Devices\n\nAnalog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world. With revenue of more than $9 billion in FY24 and approximately 24,000 people globally, ADI ensures today's innovators stay Ahead of What's Possible™. Learn more at www.analog.com and on LinkedIn and Twitter (X).\n\nPrincipal Digital Design Engineer\nAbout the Role\nAs a Principal Digital Design Engineer, you will drive technical strategy and innovation for complex digital systems, including System on Chips (SoCs). You'll define product and technology roadmaps, lead architecture for mission-critical projects, and serve as a technical authority within the organization. This position requires exceptional expertise across multiple domains and the ability to influence business direction while mentoring and developing technical talent.\nKey Responsibilities\n• Develop and maintain system-level models (e.g., in SystemVerilog, or MATLAB) to analyze architectural trade-offs, verify system behavior, and inform hardware/software partitioning.\n• Own the architecture, micro-architecture, and RTL design of complex digital blocks and/or subsystems (such as signal processing functions, control, or processor subsystems) for mixed signal ICs.\n• Collaborate closely with multi location teams such as system architects, analog designers, DV, physical design, product engineering, applications, and firmware teams to during architecture, design, evaluation, and release phases.\n• Lead design reviews, participate in specification, and ensure alignment with broader project goals.\n• Perform RTL coding (Verilog and SystemVerilog), synthesis, and lint/CDC analysis; drive designs to timing closure and area/power targets.\n• Develop and execute verification plans in collaboration with DV, including functional coverage and support for simulation/debug.\n• Analyze and resolve design, timing, and functional issues across the full digital development flow.\n• Contribute to top-level integration, including interface definition, constraint development, and support for physical implementation for functional and DFT modes.\n• Mentor and guide junior engineers, sharing expertise and promoting best practices.\n• Author and maintain clear documentation, user guides, and design collateral.\n• Stay current with industry trends and identify opportunities for process or technology improvement.\n• Perform silicon lab evaluation and debug.\n• Use Python applications to develop tests on evaluation platforms.\n\nMust Have Skills\n• Bachelor’s or Master’s degree in Electrical Engineering, Computer Engineering, or related field.\n• 8+ years of experience in digital design for ASIC/SoC, with track record of successful tapeouts.\n• Expertise in RTL design (SystemVerilog), logic synthesis, and digital verification methodologies with Cadence tools.\n• Experience with modeling and scripting (Matlab, TCL, Python) for design automation.\n• Strong understanding of digital design flows, timing analysis, and constraints.\n• Experience collaborating across functions (DV, PD, systems, analog/mixed-signal).\n• Excellent communication and documentation skills.\n• Demonstrated ability to lead technical projects or major design subsystems.\n• Strong understanding of business context and ability to align technical strategy with business goals\n\nPreferred Qualifications:\n• Experience with high-speed interfaces, high speed signal processing, and low-power design.\n• Familiarity with UVM or similar verification frameworks.\n• Prior mentorship or technical leadership experience.\n\nPreferred Education and Experience\n• Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or equivalent experience\n• 12+ years of relevant experience in digital design engineering\n\nWhy You'll Love Working Here\nAt Analog Devices, you'll be part of a collaborative and innovative team that's shaping the future of technology. We offer a supportive environment focused on professional growth, competitive compensation and benefits, work-life balance, and the opportunity to work on cutting-edge projects that make a real impact on the world.\nYour expertise will shape the future of technology, and you’ll be supported by a culture that values continuous advancement and professional growth. Join us and help create the technologies that bridge the physical and digital worlds, making a tangible difference in how people live, work, and connect.\n\nFor positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.\n\nAnalog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group.\n\nEEO is the Law: Notice of Applicant Rights Under the Law.\nJob Req Type: Experienced\n\nRequired Travel: Yes, 10% of the time\n\nShift Type: 1st Shift/Days\n\nThe expected wage range for a new hire into this position is $159,638 to $239,457.\n• Actual wage offered may vary depending on work location, experience, education, training, external market data, internal pay equity, or other bona fide factors.\n• This position qualifies for a discretionary performance-based bonus which is based on personal and company factors.\n• This position includes medical, vision and dental coverage, 401k, paid vacation, holidays, and sick time, and other benefits.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "New Jersey",
-    "job_city": null,
-    "job_state": "New Jersey",
-    "job_country": "US",
-    "job_latitude": 40.0583238,
-    "job_longitude": -74.4056612,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DcTKQRx8eIRVx-VaVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 159638,
-    "job_max_salary": 239457,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor’s or Master’s degree in Electrical Engineering, Computer Engineering, or related field",
-        "8+ years of experience in digital design for ASIC/SoC, with track record of successful tapeouts",
-        "Expertise in RTL design (SystemVerilog), logic synthesis, and digital verification methodologies with Cadence tools",
-        "Experience with modeling and scripting (Matlab, TCL, Python) for design automation",
-        "Strong understanding of digital design flows, timing analysis, and constraints",
-        "Experience collaborating across functions (DV, PD, systems, analog/mixed-signal)",
-        "Excellent communication and documentation skills",
-        "Demonstrated ability to lead technical projects or major design subsystems",
-        "Strong understanding of business context and ability to align technical strategy with business goals",
-        "For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S",
-        "Department of Commerce - Bureau of Industry and Security and/or the U.S",
-        "As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C",
-        "1324b(a)(3) – may have to go through an export licensing review process",
-        "Required Travel: Yes, 10% of the time"
-      ],
-      "Benefits": [
-        "We offer a supportive environment focused on professional growth, competitive compensation and benefits, work-life balance, and the opportunity to work on cutting-edge projects that make a real impact on the world",
-        "The expected wage range for a new hire into this position is $159,638 to $239,457",
-        "Actual wage offered may vary depending on work location, experience, education, training, external market data, internal pay equity, or other bona fide factors",
-        "This position qualifies for a discretionary performance-based bonus which is based on personal and company factors",
-        "This position includes medical, vision and dental coverage, 401k, paid vacation, holidays, and sick time, and other benefits"
-      ],
-      "Responsibilities": [
-        "As a Principal Digital Design Engineer, you will drive technical strategy and innovation for complex digital systems, including System on Chips (SoCs)",
-        "You'll define product and technology roadmaps, lead architecture for mission-critical projects, and serve as a technical authority within the organization",
-        "This position requires exceptional expertise across multiple domains and the ability to influence business direction while mentoring and developing technical talent",
-        "Develop and maintain system-level models (e.g., in SystemVerilog, or MATLAB) to analyze architectural trade-offs, verify system behavior, and inform hardware/software partitioning",
-        "Own the architecture, micro-architecture, and RTL design of complex digital blocks and/or subsystems (such as signal processing functions, control, or processor subsystems) for mixed signal ICs",
-        "Collaborate closely with multi location teams such as system architects, analog designers, DV, physical design, product engineering, applications, and firmware teams to during architecture, design, evaluation, and release phases",
-        "Lead design reviews, participate in specification, and ensure alignment with broader project goals",
-        "Perform RTL coding (Verilog and SystemVerilog), synthesis, and lint/CDC analysis; drive designs to timing closure and area/power targets",
-        "Develop and execute verification plans in collaboration with DV, including functional coverage and support for simulation/debug",
-        "Analyze and resolve design, timing, and functional issues across the full digital development flow",
-        "Contribute to top-level integration, including interface definition, constraint development, and support for physical implementation for functional and DFT modes",
-        "Mentor and guide junior engineers, sharing expertise and promoting best practices",
-        "Author and maintain clear documentation, user guides, and design collateral",
-        "Stay current with industry trends and identify opportunities for process or technology improvement",
-        "Perform silicon lab evaluation and debug",
-        "Use Python applications to develop tests on evaluation platforms"
-      ]
-    },
-    "job_onet_soc": "17207200",
-    "job_onet_job_zone": "4",
-    "id": "builtin-com-job-digital-design-engineer-8484269",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "T8lqdX97snIsx2iCAAAAAA==",
-    "job_title": "Senior Electrical Engineer-Analog/Mixed-Signal & FPGA",
-    "employer_name": "AURA TECHNOLOGIES LLC.",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST026_UTG6i2Ze9uYqrc0Rn6ql8IE8plvDnHYo&s=0",
-    "employer_website": null,
-    "job_publisher": "Startup Jobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://startup.jobs/senior-electrical-engineer-analog-mixed-signal-fpga-aura-technologies-llc-7738238?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Startup Jobs",
-        "apply_link": "https://startup.jobs/senior-electrical-engineer-analog-mixed-signal-fpga-aura-technologies-llc-7738238?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/AURA-Technologies/Job/Senior-Electrical-Engineer-Analog-Mixed-Signal-&-FPGA/-in-Durham,NC?jid=a729bbe574364d43&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/senior-electrical-engineer-analog-mixed-signal-fpga-at-aura-technologies-llc-4363900881?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698d177f78b4502f12a39967?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5628086833?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/durham/north-carolina/engineering/4872724049/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "AURA Technologies, LLC (AURA) is an advanced research and development (R&D) company creating game-changing innovations for the US Department of Defense and the private sector in cutting-edge technology.\n\nIf you are a smart, capable, and talented individual who possesses high integrity, thrives in a fast-paced environment, wants to chart your own course based on your capabilities, and is willing to be accountable for failures and successes, then continue reading because you may be the ideal candidate to join our exponentially growing R&D business. \n\nAURA has an immediate opening for a full-time Senior Electrical Engineer. The successful candidate must be located within commuting distance of our corporate office in the Research Triangle Park, North Carolina area. This is a senior, hands-on technical leadership role within a dynamic multidisciplinary research and development organization.\n\nESSENTIAL DUTIES AND RESPONSIBILITIES\n\nThis position combines deep individual technical contribution with technical leadership. The Senior Electrical Engineer is responsible for requirements definition, detailed design, implementation, and validation of complex electronic systems. The role involves designing and delivering solutions that integrate embedded systems, sensing, FPGA, analog, and power electronics. You will lead your technical team in collaboration with other senior architects, designers, and test/validation groups.\n\nMINIMUM TECHNICAL REQUIREMENTS\n• Expert-level experience designing, implementing, and validating analog, digital, and mixed-signal embedded systems, including requirements definition, analog and digital design, schematic capture, PCB layout, fabrication and assembly vendor coordination, bring-up, debugging, rework, testing, and transition to production.\n• Strong experience leading FPGA-based product development, including hands-on implementation of FPGA-based control and data-processing systems and integration into larger systems.\n• Fluency in Verilog, with the ability to develop, debug, and maintain production-quality FPGA RTL designs.\n• Strong experience designing analog front ends, multi-channel digitizers, digital interconnects, and FPGA- or SoC-based control and data-processing systems.\n• Experience evaluating, characterizing, and selecting analog sensors for precision measurement applications.\n• Experience with designing for EMI mitigation, noise immunity, shielding, and galvanic isolation of analog and digital components.\n• Familiarity with voltage and current sensing technologies for both AC and DC systems in precision measurement applications.\n• Proficiency with industry-standard electronics design and collaboration tools, including schematic capture and PCB layout (Altium strongly preferred), and disciplined application of design-for-fabrication, design-for-test, and design-for-reliability best practices.\n• High competency with standard laboratory test equipment, including oscilloscopes, logic analyzers, and digital multimeters.\n• Outstanding troubleshooting and debugging skills, with the ability to approach complex problems creatively and work effectively with incomplete or evolving specifications.\n• Excellent written and verbal communication skills, with the ability to clearly document designs and communicate technical concepts to diverse audiences.\n\nOTHER DESIRABLE EXPERIENCE\n• Strong experience with Xilinx Ultrascale Plus FPGA development using the Vivado tool suite; experience with Zynq SoC platforms is a significant plus.\n• Embedded software development experience in C/C++, including designing and implementing low-level drivers and hardware abstraction layers to enable software access to sensors, actuators, and communication interfaces\n• Embedded software development on Zynq SoC or Xilinx soft cores in Xilinx Vivado/Vitus toolchain (bare-metal and/or Linux, as appropriate).\n• Familiarity with power systems for medium-voltage DC switching, instrumentation, and control applications.\n• Experience developing manufacturing test strategies, including first-hand experience implementing JTAG-based test procedures.\n• Exposure to network cybersecurity products or other high-security or mission-critical hardware systems.\n• Proven experience transitioning products from functional prototypes through qualification and into low-rate initial production (LRIP).\n• First-hand experience guiding products through certification and homologation testing, including FCC emissions compliance and UL or equivalent safety requirements.\n\nWORK EXPERIENCE, EDUCATION & TECHNICAL REQUIREMENTS\n\nMinimum Years of Work Experience: \n• 10+ years of professional experience in the design and implementation of mixed-signal electronics, or a balanced combination of analog and digital system design.\n• 5+ years of FPGA development and implementation experience, which may be concurrent with mixed-signal electronics experience.\n• Experience serving as lead designer or architect for at least two distinct products, subsystems, or major functional modules.\n• A PhD in a relevant scientific or technical discipline may substitute for up to three (3) years of professional experience, provided the research is directly applicable to this role.\n\nMinimum Education:\n• A bachelor’s degree (Master’s strongly preferred) or higher in Electrical Engineering, Electronics, or a closely related technical discipline is required; master’s degrees in other technical fields may be considered with sufficient relevant experience.\n\nADDITIONAL REQUIREMENTS\n• Due to Department of Defense contract requirements, candidates must be U.S. Citizens to be considered for this position.\n\nBENEFITS:\n• Fortune 500-level Health Care Coverage\n• Unlimited Leave Program after 60 days\n• 10 Paid holidays & Paid Winter Break\n• 401(k) Safe Harbor Contributions\n• Employee Discount Program\n\nTO APPLY FOR THIS POSITION:\n\nSubmit your resume/CV in PDF format via instructions at the following link: http://aura.company/careers/ \n\nNo phone calls after submission. We will let candidates know via automated reply that we have received their resumes and will contact them if there is a good fit after the closing date for this job. \n\nAURA Technologies, LLC is an Equal Opportunity Employer and affirmative action employer of veterans protected under the Vietnam Era Veterans’ Readjustment Assistant Act (VEVRAA). We are a Drug Free Workplace and thus, all job offers are contingent on successful criminal background check and drug screen. As a US Federal Contractor, AURA uses the Department of Homeland Security e-Verify system to determine eligibility to legally work in the United States.\n\nWrite a carefully crafted, well-written cover letter that elaborates on your interest in this position and why you think you are the best candidate for the job. Submit your cover letter, CV and three professional references (one of which must be from a current or former supervisor) in PDF format ONLY via BambooHR.\n\nAny attachments must be in PDF format or will not be opened due to virus concerns. No phone calls after submission. We will let candidates know via automated reply that we have received their resumes and will contact them if there is a good fit after the closing date for this job.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Durham, NC",
-    "job_city": "Durham",
-    "job_state": "North Carolina",
-    "job_country": "US",
-    "job_latitude": 35.995568399999996,
-    "job_longitude": -78.9002077,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DT8lqdX97snIsx2iCAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Expert-level experience designing, implementing, and validating analog, digital, and mixed-signal embedded systems, including requirements definition, analog and digital design, schematic capture, PCB layout, fabrication and assembly vendor coordination, bring-up, debugging, rework, testing, and transition to production",
-        "Strong experience leading FPGA-based product development, including hands-on implementation of FPGA-based control and data-processing systems and integration into larger systems",
-        "Fluency in Verilog, with the ability to develop, debug, and maintain production-quality FPGA RTL designs",
-        "Strong experience designing analog front ends, multi-channel digitizers, digital interconnects, and FPGA- or SoC-based control and data-processing systems",
-        "Experience evaluating, characterizing, and selecting analog sensors for precision measurement applications",
-        "Experience with designing for EMI mitigation, noise immunity, shielding, and galvanic isolation of analog and digital components",
-        "Familiarity with voltage and current sensing technologies for both AC and DC systems in precision measurement applications",
-        "High competency with standard laboratory test equipment, including oscilloscopes, logic analyzers, and digital multimeters",
-        "Outstanding troubleshooting and debugging skills, with the ability to approach complex problems creatively and work effectively with incomplete or evolving specifications",
-        "Excellent written and verbal communication skills, with the ability to clearly document designs and communicate technical concepts to diverse audiences",
-        "Strong experience with Xilinx Ultrascale Plus FPGA development using the Vivado tool suite; experience with Zynq SoC platforms is a significant plus",
-        "Embedded software development experience in C/C++, including designing and implementing low-level drivers and hardware abstraction layers to enable software access to sensors, actuators, and communication interfaces",
-        "Embedded software development on Zynq SoC or Xilinx soft cores in Xilinx Vivado/Vitus toolchain (bare-metal and/or Linux, as appropriate)",
-        "Familiarity with power systems for medium-voltage DC switching, instrumentation, and control applications",
-        "Experience developing manufacturing test strategies, including first-hand experience implementing JTAG-based test procedures",
-        "Exposure to network cybersecurity products or other high-security or mission-critical hardware systems",
-        "Proven experience transitioning products from functional prototypes through qualification and into low-rate initial production (LRIP)",
-        "First-hand experience guiding products through certification and homologation testing, including FCC emissions compliance and UL or equivalent safety requirements",
-        "WORK EXPERIENCE, EDUCATION & TECHNICAL REQUIREMENTS",
-        "Minimum Years of Work Experience: ",
-        "10+ years of professional experience in the design and implementation of mixed-signal electronics, or a balanced combination of analog and digital system design",
-        "5+ years of FPGA development and implementation experience, which may be concurrent with mixed-signal electronics experience",
-        "Experience serving as lead designer or architect for at least two distinct products, subsystems, or major functional modules",
-        "A PhD in a relevant scientific or technical discipline may substitute for up to three (3) years of professional experience, provided the research is directly applicable to this role",
-        "Due to Department of Defense contract requirements, candidates must be U.S. Citizens to be considered for this position",
-        "Any attachments must be in PDF format or will not be opened due to virus concerns"
-      ],
-      "Benefits": [
-        "Fortune 500-level Health Care Coverage",
-        "Unlimited Leave Program after 60 days",
-        "10 Paid holidays & Paid Winter Break",
-        "401(k) Safe Harbor Contributions",
-        "Employee Discount Program"
-      ],
-      "Responsibilities": [
-        "This position combines deep individual technical contribution with technical leadership",
-        "The Senior Electrical Engineer is responsible for requirements definition, detailed design, implementation, and validation of complex electronic systems",
-        "The role involves designing and delivering solutions that integrate embedded systems, sensing, FPGA, analog, and power electronics",
-        "You will lead your technical team in collaboration with other senior architects, designers, and test/validation groups"
-      ]
-    },
-    "job_onet_soc": "17207100",
-    "job_onet_job_zone": "4",
-    "id": "startup-jobs-senior-electrical-engineer-analog-mixed-signal-fpga-aura-technologies-llc-7738238",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "01fGh98neVhb-0iBAAAAAA==",
     "job_title": "Analog Design Engineer",
     "employer_name": "The Boeing Company",
@@ -1199,8 +793,8 @@
     "job_latitude": 34.7295497,
     "job_longitude": -86.5853155,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D01fGh98neVhb-0iBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1255,6 +849,108 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "ZXxE0jgRE0iUKW8EAAAAAA==",
+    "job_title": "Senior Analog Design Engineer $200K +",
+    "employer_name": "Confidential",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/CyberCoders/Job/Senior-Analog-Design-Engineer-$200K-+--/-in-Pleasanton,CA?jid=bd4501b6ff3943ae&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/CyberCoders/Job/Senior-Analog-Design-Engineer-$200K-+--/-in-Pleasanton,CA?jid=bd4501b6ff3943ae&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/senior-analog-design-engineer-200k-cybercoders-JV_IC1147390_KO0,34_KE35,46.htm?jl=1010032150850&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "SaluteMyJob",
+        "apply_link": "https://salutemyjob.com/jobs/job-senior-analog-design-engineer-pleasanton-california/2618871203-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WDTN Jobs",
+        "apply_link": "https://jobs.wdtn.com/jobs/job-senior-analog-design-engineer-pleasanton-california/2618871203-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "FOX21News Jobs",
+        "apply_link": "https://jobs.fox21news.com/jobs/job-senior-analog-design-engineer-pleasanton-california/2618871203-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "California Careers",
+        "apply_link": "https://california.topstatecareers.com/jobs/job-senior-analog-design-engineer-pleasanton-california/2618871203-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Senior Analog Design Engineer $200K +\n\nSenior Analog Design Engineer\n\nHybrid: Pleasanton, CA\n\nSalary: $200K +/- depending on experience (please note no stock options or bonus)\n\nPosition Overview\nWe are seeking a highly skilled Senior Analog Design Engineer to join our innovative team. The ideal candidate will play a crucial role in designing, developing, and testing analog circuits for high-speed applications. This position requires a deep understanding of analog electronics and a passion for creating cutting-edge solutions in hardware design.\n\nKey Responsibilities\n• Design and develop analog circuits for high-speed applications\n• Collaborate with cross-functional teams to integrate analog components with digital systems\n• Conduct simulations and tests to validate circuit performance and reliability\n• Create and review PCB layouts to ensure optimal performance and manufacturability\n• Troubleshoot and resolve issues in analog and mixed-signal systems\n• Document design specifications and maintain project documentation\n• Mentor junior engineers and provide technical guidance during project development\n\nQualifications\n• Bachelor's or Master's degree in Electrical Engineering or a related field\n• Proven experience in Analog circuit design\n• High voltage (2KV), low noise, low power supply design experience\n• Experience designing high performance transimpedance and instrumentation amplifiers\n• Strong knowledge of PCB design and layout techniques\n• Familiarity with high-speed digital design and RF concepts\n• Experience with OpAmps, ADCs, DACs, and low noise analog design\n• Proficient in hardware design and implementation using FPGAs and CPLDs\n• Ability to work effectively in a team environment and communicate technical concepts clearly\n\nBenefits\n• Vacation/PTO\n• Medical\n• Dental\n• Vision\n• 401k\n\n- For this position, you must be currently authorized to work in the United States without the need for sponsorship for a non-immigrant visa. CyberCoders will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.This job was first posted by CyberCoders on 01/28/2026 and applications will be accepted on an ongoing basis until the position is filled or closed.CyberCoders is proud to be an Equal Opportunity Employer\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, sexual orientation, gender identity or expression, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, status as a crime victim, disability, protected veteran status, or any other characteristic protected by law. Our hiring process includes AI screening for keywords and minimum qualifications. Recruiters review all results. CyberCoders will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable state and local law, including but not limited to the Los Angeles County Fair Chance Ordinance, the San Francisco Fair Chance Ordinance, and the California Fair Chance Act. CyberCoders is committed to working with and providing reasonable accommodation to individuals with physical and mental disabilities. Individuals needing special assistance or an accommodation while seeking employment can contact a member of our Human Resources team at Benefits@CyberCoders.com to make arrangements.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Pleasanton, CA",
+    "job_city": "Pleasanton",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.6604484,
+    "job_longitude": -121.87579679999999,
+    "job_benefits": [
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZXxE0jgRE0iUKW8EAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate will play a crucial role in designing, developing, and testing analog circuits for high-speed applications",
+        "This position requires a deep understanding of analog electronics and a passion for creating cutting-edge solutions in hardware design",
+        "Bachelor's or Master's degree in Electrical Engineering or a related field",
+        "Proven experience in Analog circuit design",
+        "High voltage (2KV), low noise, low power supply design experience",
+        "Experience designing high performance transimpedance and instrumentation amplifiers",
+        "Strong knowledge of PCB design and layout techniques",
+        "Familiarity with high-speed digital design and RF concepts",
+        "Experience with OpAmps, ADCs, DACs, and low noise analog design",
+        "Proficient in hardware design and implementation using FPGAs and CPLDs",
+        "Ability to work effectively in a team environment and communicate technical concepts clearly",
+        "For this position, you must be currently authorized to work in the United States without the need for sponsorship for a non-immigrant visa"
+      ],
+      "Benefits": [
+        "Senior Analog Design Engineer $200K +",
+        "Salary: $200K +/- depending on experience (please note no stock options or bonus)",
+        "Vacation/PTO",
+        "Medical",
+        "Dental",
+        "Vision",
+        "401k"
+      ],
+      "Responsibilities": [
+        "Design and develop analog circuits for high-speed applications",
+        "Collaborate with cross-functional teams to integrate analog components with digital systems",
+        "Conduct simulations and tests to validate circuit performance and reliability",
+        "Create and review PCB layouts to ensure optimal performance and manufacturability",
+        "Troubleshoot and resolve issues in analog and mixed-signal systems",
+        "Document design specifications and maintain project documentation",
+        "Mentor junior engineers and provide technical guidance during project development"
+      ]
+    },
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "www-ziprecruiter-com-c-cybercoders-job-senior-analog-design-engineer-200k-in-pleasanton-ca",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "KKYjMcbLI5mgKPHGAAAAAA==",
     "job_title": "RF/Analog Design Engineer - Longwood, FL",
     "employer_name": "Analog Modules, Inc.",
@@ -1291,9 +987,9 @@
     "job_latitude": 28.7030519,
     "job_longitude": -81.3384011,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKKYjMcbLI5mgKPHGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1366,101 +1062,96 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "rC8LIQq-ANIXat-_AAAAAA==",
-    "job_title": "Principal Analog Layout Engineer",
-    "employer_name": "UST",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1rLv4WKwc6Wb58tB6QjizWerFc8DTNzun-g3S&s=0",
-    "employer_website": null,
-    "job_publisher": "LinkedIn",
+    "job_id": "cTKQRx8eIRVx-VaVAAAAAA==",
+    "job_title": "Digital Design Engineer",
+    "employer_name": "Analog Devices",
+    "employer_logo": null,
+    "employer_website": "https://www.analog.com",
+    "job_publisher": "Tech Jobs Personalized",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/principal-analog-layout-engineer-at-ust-4362234379?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://builtin.com/job/digital-design-engineer/8484269?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/principal-analog-layout-engineer-at-ust-4362234379?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Tech Jobs Personalized",
+        "apply_link": "https://builtin.com/job/digital-design-engineer/8484269?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "JobLeads",
-        "apply_link": "https://www.jobleads.com/us/job/principal-analog-layout-engineer--united-states--e12f1f4d95175bb08f38073967403e34a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Analog-Devices/Job/Digital-Design-Engineer/-in-Wilmington,MA?jid=3120b34d4df107ee&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
       }
     ],
-    "job_description": "Role Description\n\nPrincipal Analog Layout Engineer\n\nTechnical Lead I – VLSI\n\nWho We Are\n\nBorn digital, UST transforms lives through the power of technology. We walk alongside our clients and partners, embedding innovation and agility into everything they do. We help them create transformative experiences and human-centered solutions for a better world.\n\nUST is a mission-driven group of 29,000+ practical problem solvers and creative thinkers in more than 30 countries. Our entrepreneurial teams are empowered to innovate, act nimbly, and create a lasting and sustainable impact for our clients, their customers, and the communities in which we live.\n\nWith us, you’ll create a boundless impact that transforms your career—and the lives of people across the world.\n\nVisit us at UST.com.\n\nYou Are\n\nSeeking a highly skilled Principal Analog Layout Engineer to contribute to cutting-edge high-speed and precision analog designs. The ideal candidate will possess strong technical expertise, excellent communication skills, and the ability to thrive in a collaborative remote environment.\n\nThe Opportunity\n• Design and simulate high-speed SerDes blocks (Equalizers, PLL, CDR, etc.) for 28Gbps+ data rates.\n• Design inductors, transmission lines, TIAs, and modulator drivers.\n• Design precision analog circuits like ADC/DACs.\n• Participate in mixed-signal design and verification flows.\n• Contribute to full-chip designs, ESDs, and verification flows.\n• Mentor junior engineers and contribute to architecture and strategy.\n\nThis position description identifies the responsibilities and tasks typically associated with the performance of the position. Other relevant essential functions may be required.\n\nWhat You Need\n• Experience in industry standard mask design/verification tools (Cadence/Synopsys, Calibre).\n• Hands-on custom layout design experience of high-speed SerDes blocks like Equalizers, PLL, PhaseInterpolators, CDR, etc.\n• Hands-on custom layout design experience of precision analog blocks like ADCs/DACs.\n• Experience in floor planning, closing design sign-off with multiple rails/ESDs.\n• Experience in integration of digital hard IPs.\n• Experience in efficient DRC debugging, SKILL coding.\n• Excellent oral and written communication skills.\n• MS in Electrical Engineering.\n• 8+ years of experience in high-speed serial links.\n• Deep knowledge of analog CMOS/BiCMOS designs in deep sub-micron process technologies.\n• Hands-on circuit design experience.\n• Experience with mixed-signal design/verification flows.\n• Excellent oral and written communication skills.\n\nCompensation can differ depending on factors including but not limited to the specific office location, role, skill set, education, and level of experience. UST provides a reasonable range of compensation for roles that may be hired in various U.S. markets as set forth below.\n\nRole Location: Remote\n\nCompensation Range: $87,000-$131,000\n\nBenefits\n\nFull-time, regular employees accrue a minimum of 10 days of paid vacation per year, receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year), 10 paid holidays, and are eligible for paid bereavement leave and jury duty. They are eligible to participate in the Company’s 401(k) Retirement Plan with employer matching. They and their dependents residing in the US are eligible for medical, dental, and vision insurance, as well as the following Company-paid Employee Only benefits: basic life insurance, accidental death and disability insurance, and short- and long-term disability benefits. Regular employees may purchase additional voluntary short-term disability benefits, and participate in a Health Savings Account (HSA) as well as a Flexible Spending Account (FSA) for healthcare, dependent child care, and/or commuting expenses as allowable under IRS guidelines. Benefits offerings vary in Puerto Rico.\n\nPart-time employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year) and are eligible to participate in the Company’s 401(k) Retirement Plan with employer matching.\n\nFull-time temporary employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year) and are eligible to participate in the Company’s 401(k) program with employer matching. They and their dependents residing in the US are eligible for medical, dental, and vision insurance.\n\nPart-time temporary employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year).\n\nAll US employees who work in a state or locality with more generous paid sick leave benefits than specified here will receive the benefit of those sick leave laws.\n\nWhat We Believe\n\nWe proudly embrace the values that have shaped UST since day one. We build our culture of Humility, Humanity, and Integrity. These values inspire us to nurture a people-first, human centric culture that fosters diversity, prioritizes sustainable solutions, and keeps our people and clients at the forefront of all decisions.\n\nHumility\n\nWe will listen, learn, be empathetic and help selflessly in our interactions with everyone.\n\nHumanity\n\nThrough business, we will better the lives of those less fortunate than ourselves.\n\nIntegrity\n\nWe honor our commitments and act with responsibility in all our relationships.\n\nEqual Employment Opportunity Statement\n\nUST is an Equal Opportunity Employer.\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other applicable characteristics protected by law. We will consider qualified applicants with arrest or conviction records in accordance with state and local laws and “fair chance” ordinances.\n\nUST reserves the right to periodically redefine your roles and responsibilities based on the requirements of the organization and/or your performance.\n\n#UST\n\nSkills\n\ndesign verification,vlsi design,analog design engineering,mixed-signal verification,high speed design",
-    "job_is_remote": true,
+    "job_description": "About Analog Devices\n\nAnalog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world. With revenue of more than $9 billion in FY24 and approximately 24,000 people globally, ADI ensures today's innovators stay Ahead of What's Possible™. Learn more at www.analog.com and on LinkedIn and Twitter (X).\n\nPrincipal Digital Design Engineer\nAbout the Role\nAs a Principal Digital Design Engineer, you will drive technical strategy and innovation for complex digital systems, including System on Chips (SoCs). You'll define product and technology roadmaps, lead architecture for mission-critical projects, and serve as a technical authority within the organization. This position requires exceptional expertise across multiple domains and the ability to influence business direction while mentoring and developing technical talent.\nKey Responsibilities\n• Develop and maintain system-level models (e.g., in SystemVerilog, or MATLAB) to analyze architectural trade-offs, verify system behavior, and inform hardware/software partitioning.\n• Own the architecture, micro-architecture, and RTL design of complex digital blocks and/or subsystems (such as signal processing functions, control, or processor subsystems) for mixed signal ICs.\n• Collaborate closely with multi location teams such as system architects, analog designers, DV, physical design, product engineering, applications, and firmware teams to during architecture, design, evaluation, and release phases.\n• Lead design reviews, participate in specification, and ensure alignment with broader project goals.\n• Perform RTL coding (Verilog and SystemVerilog), synthesis, and lint/CDC analysis; drive designs to timing closure and area/power targets.\n• Develop and execute verification plans in collaboration with DV, including functional coverage and support for simulation/debug.\n• Analyze and resolve design, timing, and functional issues across the full digital development flow.\n• Contribute to top-level integration, including interface definition, constraint development, and support for physical implementation for functional and DFT modes.\n• Mentor and guide junior engineers, sharing expertise and promoting best practices.\n• Author and maintain clear documentation, user guides, and design collateral.\n• Stay current with industry trends and identify opportunities for process or technology improvement.\n• Perform silicon lab evaluation and debug.\n• Use Python applications to develop tests on evaluation platforms.\n\nMust Have Skills\n• Bachelor’s or Master’s degree in Electrical Engineering, Computer Engineering, or related field.\n• 8+ years of experience in digital design for ASIC/SoC, with track record of successful tapeouts.\n• Expertise in RTL design (SystemVerilog), logic synthesis, and digital verification methodologies with Cadence tools.\n• Experience with modeling and scripting (Matlab, TCL, Python) for design automation.\n• Strong understanding of digital design flows, timing analysis, and constraints.\n• Experience collaborating across functions (DV, PD, systems, analog/mixed-signal).\n• Excellent communication and documentation skills.\n• Demonstrated ability to lead technical projects or major design subsystems.\n• Strong understanding of business context and ability to align technical strategy with business goals\n\nPreferred Qualifications:\n• Experience with high-speed interfaces, high speed signal processing, and low-power design.\n• Familiarity with UVM or similar verification frameworks.\n• Prior mentorship or technical leadership experience.\n\nPreferred Education and Experience\n• Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or equivalent experience\n• 12+ years of relevant experience in digital design engineering\n\nWhy You'll Love Working Here\nAt Analog Devices, you'll be part of a collaborative and innovative team that's shaping the future of technology. We offer a supportive environment focused on professional growth, competitive compensation and benefits, work-life balance, and the opportunity to work on cutting-edge projects that make a real impact on the world.\nYour expertise will shape the future of technology, and you’ll be supported by a culture that values continuous advancement and professional growth. Join us and help create the technologies that bridge the physical and digital worlds, making a tangible difference in how people live, work, and connect.\n\nFor positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.\n\nAnalog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group.\n\nEEO is the Law: Notice of Applicant Rights Under the Law.\nJob Req Type: Experienced\n\nRequired Travel: Yes, 10% of the time\n\nShift Type: 1st Shift/Days\n\nThe expected wage range for a new hire into this position is $159,638 to $239,457.\n• Actual wage offered may vary depending on work location, experience, education, training, external market data, internal pay equity, or other bona fide factors.\n• This position qualifies for a discretionary performance-based bonus which is based on personal and company factors.\n• This position includes medical, vision and dental coverage, 401k, paid vacation, holidays, and sick time, and other benefits.",
+    "job_is_remote": false,
     "job_posted_at": "5 days ago",
     "job_posted_at_timestamp": 1770854400,
     "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Santa Clara, CA",
-    "job_city": "Santa Clara",
-    "job_state": "California",
+    "job_location": "New Jersey",
+    "job_city": null,
+    "job_state": "New Jersey",
     "job_country": "US",
-    "job_latitude": 37.354107899999995,
-    "job_longitude": -121.9552356,
+    "job_latitude": 40.0583238,
+    "job_longitude": -74.4056612,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DrC8LIQq-ANIXat-_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 87000,
-    "job_max_salary": 131000,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DcTKQRx8eIRVx-VaVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 159638,
+    "job_max_salary": 239457,
     "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "Seeking a highly skilled Principal Analog Layout Engineer to contribute to cutting-edge high-speed and precision analog designs",
-        "The ideal candidate will possess strong technical expertise, excellent communication skills, and the ability to thrive in a collaborative remote environment",
-        "Experience in industry standard mask design/verification tools (Cadence/Synopsys, Calibre)",
-        "Hands-on custom layout design experience of high-speed SerDes blocks like Equalizers, PLL, PhaseInterpolators, CDR, etc",
-        "Hands-on custom layout design experience of precision analog blocks like ADCs/DACs",
-        "Experience in floor planning, closing design sign-off with multiple rails/ESDs",
-        "Experience in integration of digital hard IPs",
-        "Experience in efficient DRC debugging, SKILL coding",
-        "Excellent oral and written communication skills",
-        "MS in Electrical Engineering",
-        "8+ years of experience in high-speed serial links",
-        "Deep knowledge of analog CMOS/BiCMOS designs in deep sub-micron process technologies",
-        "Hands-on circuit design experience",
-        "Experience with mixed-signal design/verification flows",
-        "Excellent oral and written communication skills",
-        "UST reserves the right to periodically redefine your roles and responsibilities based on the requirements of the organization and/or your performance",
-        "design verification,vlsi design,analog design engineering,mixed-signal verification,high speed design"
+        "Bachelor’s or Master’s degree in Electrical Engineering, Computer Engineering, or related field",
+        "8+ years of experience in digital design for ASIC/SoC, with track record of successful tapeouts",
+        "Expertise in RTL design (SystemVerilog), logic synthesis, and digital verification methodologies with Cadence tools",
+        "Experience with modeling and scripting (Matlab, TCL, Python) for design automation",
+        "Strong understanding of digital design flows, timing analysis, and constraints",
+        "Experience collaborating across functions (DV, PD, systems, analog/mixed-signal)",
+        "Excellent communication and documentation skills",
+        "Demonstrated ability to lead technical projects or major design subsystems",
+        "Strong understanding of business context and ability to align technical strategy with business goals",
+        "For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S",
+        "Department of Commerce - Bureau of Industry and Security and/or the U.S",
+        "As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C",
+        "1324b(a)(3) – may have to go through an export licensing review process",
+        "Required Travel: Yes, 10% of the time"
       ],
       "Benefits": [
-        "Compensation can differ depending on factors including but not limited to the specific office location, role, skill set, education, and level of experience",
-        "UST provides a reasonable range of compensation for roles that may be hired in various U.S. markets as set forth below",
-        "Role Location: Remote",
-        "Compensation Range: $87,000-$131,000",
-        "Benefits",
-        "Full-time, regular employees accrue a minimum of 10 days of paid vacation per year, receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year), 10 paid holidays, and are eligible for paid bereavement leave and jury duty",
-        "They are eligible to participate in the Company’s 401(k) Retirement Plan with employer matching",
-        "They and their dependents residing in the US are eligible for medical, dental, and vision insurance, as well as the following Company-paid Employee Only benefits: basic life insurance, accidental death and disability insurance, and short- and long-term disability benefits",
-        "Regular employees may purchase additional voluntary short-term disability benefits, and participate in a Health Savings Account (HSA) as well as a Flexible Spending Account (FSA) for healthcare, dependent child care, and/or commuting expenses as allowable under IRS guidelines",
-        "Benefits offerings vary in Puerto Rico",
-        "Part-time employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year) and are eligible to participate in the Company’s 401(k) Retirement Plan with employer matching",
-        "Full-time temporary employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year) and are eligible to participate in the Company’s 401(k) program with employer matching",
-        "They and their dependents residing in the US are eligible for medical, dental, and vision insurance",
-        "Part-time temporary employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year)",
-        "All US employees who work in a state or locality with more generous paid sick leave benefits than specified here will receive the benefit of those sick leave laws"
+        "We offer a supportive environment focused on professional growth, competitive compensation and benefits, work-life balance, and the opportunity to work on cutting-edge projects that make a real impact on the world",
+        "The expected wage range for a new hire into this position is $159,638 to $239,457",
+        "Actual wage offered may vary depending on work location, experience, education, training, external market data, internal pay equity, or other bona fide factors",
+        "This position qualifies for a discretionary performance-based bonus which is based on personal and company factors",
+        "This position includes medical, vision and dental coverage, 401k, paid vacation, holidays, and sick time, and other benefits"
       ],
       "Responsibilities": [
-        "Design and simulate high-speed SerDes blocks (Equalizers, PLL, CDR, etc.) for 28Gbps+ data rates",
-        "Design inductors, transmission lines, TIAs, and modulator drivers",
-        "Design precision analog circuits like ADC/DACs",
-        "Participate in mixed-signal design and verification flows",
-        "Contribute to full-chip designs, ESDs, and verification flows",
-        "Mentor junior engineers and contribute to architecture and strategy",
-        "This position description identifies the responsibilities and tasks typically associated with the performance of the position",
-        "Other relevant essential functions may be required"
+        "As a Principal Digital Design Engineer, you will drive technical strategy and innovation for complex digital systems, including System on Chips (SoCs)",
+        "You'll define product and technology roadmaps, lead architecture for mission-critical projects, and serve as a technical authority within the organization",
+        "This position requires exceptional expertise across multiple domains and the ability to influence business direction while mentoring and developing technical talent",
+        "Develop and maintain system-level models (e.g., in SystemVerilog, or MATLAB) to analyze architectural trade-offs, verify system behavior, and inform hardware/software partitioning",
+        "Own the architecture, micro-architecture, and RTL design of complex digital blocks and/or subsystems (such as signal processing functions, control, or processor subsystems) for mixed signal ICs",
+        "Collaborate closely with multi location teams such as system architects, analog designers, DV, physical design, product engineering, applications, and firmware teams to during architecture, design, evaluation, and release phases",
+        "Lead design reviews, participate in specification, and ensure alignment with broader project goals",
+        "Perform RTL coding (Verilog and SystemVerilog), synthesis, and lint/CDC analysis; drive designs to timing closure and area/power targets",
+        "Develop and execute verification plans in collaboration with DV, including functional coverage and support for simulation/debug",
+        "Analyze and resolve design, timing, and functional issues across the full digital development flow",
+        "Contribute to top-level integration, including interface definition, constraint development, and support for physical implementation for functional and DFT modes",
+        "Mentor and guide junior engineers, sharing expertise and promoting best practices",
+        "Author and maintain clear documentation, user guides, and design collateral",
+        "Stay current with industry trends and identify opportunities for process or technology improvement",
+        "Perform silicon lab evaluation and debug",
+        "Use Python applications to develop tests on evaluation platforms"
       ]
     },
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "www-linkedin-com-jobs-view-principal-analog-layout-engineer-at-ust-4362234379",
+    "job_onet_soc": "17207200",
+    "job_onet_job_zone": "4",
+    "id": "builtin-com-job-digital-design-engineer-8484269",
     "_source": "new_jobs"
   },
   {
@@ -1530,9 +1221,9 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
-      "dental_coverage",
+      "health_insurance",
       "paid_time_off",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLaKu8ZFOJQjz_RAkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1583,6 +1274,221 @@
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
     "id": "careers-cisco-com-global-en-job-ciscisglobal1443040externalenglobal-senior-analog-mixed-signal-ic-design-engineer-acacia-hybrid",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "rC8LIQq-ANIXat-_AAAAAA==",
+    "job_title": "Principal Analog Layout Engineer",
+    "employer_name": "UST",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1rLv4WKwc6Wb58tB6QjizWerFc8DTNzun-g3S&s=0",
+    "employer_website": null,
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/principal-analog-layout-engineer-at-ust-4362234379?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/principal-analog-layout-engineer-at-ust-4362234379?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JobLeads",
+        "apply_link": "https://www.jobleads.com/us/job/principal-analog-layout-engineer--united-states--e12f1f4d95175bb08f38073967403e34a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Role Description\n\nPrincipal Analog Layout Engineer\n\nTechnical Lead I – VLSI\n\nWho We Are\n\nBorn digital, UST transforms lives through the power of technology. We walk alongside our clients and partners, embedding innovation and agility into everything they do. We help them create transformative experiences and human-centered solutions for a better world.\n\nUST is a mission-driven group of 29,000+ practical problem solvers and creative thinkers in more than 30 countries. Our entrepreneurial teams are empowered to innovate, act nimbly, and create a lasting and sustainable impact for our clients, their customers, and the communities in which we live.\n\nWith us, you’ll create a boundless impact that transforms your career—and the lives of people across the world.\n\nVisit us at UST.com.\n\nYou Are\n\nSeeking a highly skilled Principal Analog Layout Engineer to contribute to cutting-edge high-speed and precision analog designs. The ideal candidate will possess strong technical expertise, excellent communication skills, and the ability to thrive in a collaborative remote environment.\n\nThe Opportunity\n• Design and simulate high-speed SerDes blocks (Equalizers, PLL, CDR, etc.) for 28Gbps+ data rates.\n• Design inductors, transmission lines, TIAs, and modulator drivers.\n• Design precision analog circuits like ADC/DACs.\n• Participate in mixed-signal design and verification flows.\n• Contribute to full-chip designs, ESDs, and verification flows.\n• Mentor junior engineers and contribute to architecture and strategy.\n\nThis position description identifies the responsibilities and tasks typically associated with the performance of the position. Other relevant essential functions may be required.\n\nWhat You Need\n• Experience in industry standard mask design/verification tools (Cadence/Synopsys, Calibre).\n• Hands-on custom layout design experience of high-speed SerDes blocks like Equalizers, PLL, PhaseInterpolators, CDR, etc.\n• Hands-on custom layout design experience of precision analog blocks like ADCs/DACs.\n• Experience in floor planning, closing design sign-off with multiple rails/ESDs.\n• Experience in integration of digital hard IPs.\n• Experience in efficient DRC debugging, SKILL coding.\n• Excellent oral and written communication skills.\n• MS in Electrical Engineering.\n• 8+ years of experience in high-speed serial links.\n• Deep knowledge of analog CMOS/BiCMOS designs in deep sub-micron process technologies.\n• Hands-on circuit design experience.\n• Experience with mixed-signal design/verification flows.\n• Excellent oral and written communication skills.\n\nCompensation can differ depending on factors including but not limited to the specific office location, role, skill set, education, and level of experience. UST provides a reasonable range of compensation for roles that may be hired in various U.S. markets as set forth below.\n\nRole Location: Remote\n\nCompensation Range: $87,000-$131,000\n\nBenefits\n\nFull-time, regular employees accrue a minimum of 10 days of paid vacation per year, receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year), 10 paid holidays, and are eligible for paid bereavement leave and jury duty. They are eligible to participate in the Company’s 401(k) Retirement Plan with employer matching. They and their dependents residing in the US are eligible for medical, dental, and vision insurance, as well as the following Company-paid Employee Only benefits: basic life insurance, accidental death and disability insurance, and short- and long-term disability benefits. Regular employees may purchase additional voluntary short-term disability benefits, and participate in a Health Savings Account (HSA) as well as a Flexible Spending Account (FSA) for healthcare, dependent child care, and/or commuting expenses as allowable under IRS guidelines. Benefits offerings vary in Puerto Rico.\n\nPart-time employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year) and are eligible to participate in the Company’s 401(k) Retirement Plan with employer matching.\n\nFull-time temporary employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year) and are eligible to participate in the Company’s 401(k) program with employer matching. They and their dependents residing in the US are eligible for medical, dental, and vision insurance.\n\nPart-time temporary employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year).\n\nAll US employees who work in a state or locality with more generous paid sick leave benefits than specified here will receive the benefit of those sick leave laws.\n\nWhat We Believe\n\nWe proudly embrace the values that have shaped UST since day one. We build our culture of Humility, Humanity, and Integrity. These values inspire us to nurture a people-first, human centric culture that fosters diversity, prioritizes sustainable solutions, and keeps our people and clients at the forefront of all decisions.\n\nHumility\n\nWe will listen, learn, be empathetic and help selflessly in our interactions with everyone.\n\nHumanity\n\nThrough business, we will better the lives of those less fortunate than ourselves.\n\nIntegrity\n\nWe honor our commitments and act with responsibility in all our relationships.\n\nEqual Employment Opportunity Statement\n\nUST is an Equal Opportunity Employer.\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other applicable characteristics protected by law. We will consider qualified applicants with arrest or conviction records in accordance with state and local laws and “fair chance” ordinances.\n\nUST reserves the right to periodically redefine your roles and responsibilities based on the requirements of the organization and/or your performance.\n\n#UST\n\nSkills\n\ndesign verification,vlsi design,analog design engineering,mixed-signal verification,high speed design",
+    "job_is_remote": true,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Santa Clara, CA",
+    "job_city": "Santa Clara",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.354107899999995,
+    "job_longitude": -121.9552356,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DrC8LIQq-ANIXat-_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 87000,
+    "job_max_salary": 131000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Seeking a highly skilled Principal Analog Layout Engineer to contribute to cutting-edge high-speed and precision analog designs",
+        "The ideal candidate will possess strong technical expertise, excellent communication skills, and the ability to thrive in a collaborative remote environment",
+        "Experience in industry standard mask design/verification tools (Cadence/Synopsys, Calibre)",
+        "Hands-on custom layout design experience of high-speed SerDes blocks like Equalizers, PLL, PhaseInterpolators, CDR, etc",
+        "Hands-on custom layout design experience of precision analog blocks like ADCs/DACs",
+        "Experience in floor planning, closing design sign-off with multiple rails/ESDs",
+        "Experience in integration of digital hard IPs",
+        "Experience in efficient DRC debugging, SKILL coding",
+        "Excellent oral and written communication skills",
+        "MS in Electrical Engineering",
+        "8+ years of experience in high-speed serial links",
+        "Deep knowledge of analog CMOS/BiCMOS designs in deep sub-micron process technologies",
+        "Hands-on circuit design experience",
+        "Experience with mixed-signal design/verification flows",
+        "Excellent oral and written communication skills",
+        "UST reserves the right to periodically redefine your roles and responsibilities based on the requirements of the organization and/or your performance",
+        "design verification,vlsi design,analog design engineering,mixed-signal verification,high speed design"
+      ],
+      "Benefits": [
+        "Compensation can differ depending on factors including but not limited to the specific office location, role, skill set, education, and level of experience",
+        "UST provides a reasonable range of compensation for roles that may be hired in various U.S. markets as set forth below",
+        "Role Location: Remote",
+        "Compensation Range: $87,000-$131,000",
+        "Benefits",
+        "Full-time, regular employees accrue a minimum of 10 days of paid vacation per year, receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year), 10 paid holidays, and are eligible for paid bereavement leave and jury duty",
+        "They are eligible to participate in the Company’s 401(k) Retirement Plan with employer matching",
+        "They and their dependents residing in the US are eligible for medical, dental, and vision insurance, as well as the following Company-paid Employee Only benefits: basic life insurance, accidental death and disability insurance, and short- and long-term disability benefits",
+        "Regular employees may purchase additional voluntary short-term disability benefits, and participate in a Health Savings Account (HSA) as well as a Flexible Spending Account (FSA) for healthcare, dependent child care, and/or commuting expenses as allowable under IRS guidelines",
+        "Benefits offerings vary in Puerto Rico",
+        "Part-time employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year) and are eligible to participate in the Company’s 401(k) Retirement Plan with employer matching",
+        "Full-time temporary employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year) and are eligible to participate in the Company’s 401(k) program with employer matching",
+        "They and their dependents residing in the US are eligible for medical, dental, and vision insurance",
+        "Part-time temporary employees receive 6 days of paid sick leave each year (pro-rated for new hires throughout the year)",
+        "All US employees who work in a state or locality with more generous paid sick leave benefits than specified here will receive the benefit of those sick leave laws"
+      ],
+      "Responsibilities": [
+        "Design and simulate high-speed SerDes blocks (Equalizers, PLL, CDR, etc.) for 28Gbps+ data rates",
+        "Design inductors, transmission lines, TIAs, and modulator drivers",
+        "Design precision analog circuits like ADC/DACs",
+        "Participate in mixed-signal design and verification flows",
+        "Contribute to full-chip designs, ESDs, and verification flows",
+        "Mentor junior engineers and contribute to architecture and strategy",
+        "This position description identifies the responsibilities and tasks typically associated with the performance of the position",
+        "Other relevant essential functions may be required"
+      ]
+    },
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "www-linkedin-com-jobs-view-principal-analog-layout-engineer-at-ust-4362234379",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "aDbfw_0yF2CiYV_mAAAAAA==",
+    "job_title": "Senior Analog IC Design Engineer – Mixed-Signal Lead",
+    "employer_name": "Analog Devices, Inc.",
+    "employer_logo": null,
+    "employer_website": "https://www.analog.com",
+    "job_publisher": "Learn4Good",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.learn4good.com/jobs/athens/georgia/engineering/4865720434/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/athens/georgia/engineering/4865720434/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A leading technology company in the United States is seeking an experienced engineer focused on integrated circuit design in wired automotive connectivity. The ideal candidate will have over 7 years' experience in analogue or mixed-signal design, and strong knowledge of circuit designs such as amplifiers and converters.\n\nThis role offers the opportunity to work on innovative projects and collaborate with a talented team. The company values excellence and a collaborative culture.\n#J-18808-Ljbffr",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Athens, GA",
+    "job_city": "Athens",
+    "job_state": "Georgia",
+    "job_country": "US",
+    "job_latitude": 33.9596643,
+    "job_longitude": -83.3764161,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaDbfw_0yF2CiYV_mAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 60000,
+    "job_max_salary": 80000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate will have over 7 years' experience in analogue or mixed-signal design, and strong knowledge of circuit designs such as amplifiers and converters"
+      ],
+      "Responsibilities": [
+        "This role offers the opportunity to work on innovative projects and collaborate with a talented team"
+      ]
+    },
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "www-learn4good-com-jobs-athens-georgia-engineering-4865720434-e",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "LVGrDfgkFfClq4yeAAAAAA==",
+    "job_title": "Senior Analog Design Engineer",
+    "employer_name": "Mechanical Design Consulting",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "Stemta.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://stemta.com/job/senior-analog-design-engineer-261/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "Stemta.com",
+        "apply_link": "https://stemta.com/job/senior-analog-design-engineer-261/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Are you passionate about pushing the boundaries of analog design and innovation? Do you thrive in a collaborative, cutting-edge environment where your skills can truly shine? If so, we have the perfect opportunity for you.\n\nAbout Us:\n\nWe are pioneers in Aerospace Engineering and Consulting. Our commitment to excellence and innovation has propelled us to the forefront of our field. We are seeking a Senior Analog Design Engineer to join our dynamic team and help us continue to lead the way in Aerospace Engineering.\n\nRole:\n\nAs a Senior Analog Design Engineer you will play a pivotal role in driving our projects to success. Your responsibilities will include:\n• Leveraging your extensive experience in analog and low power design using advanced deep micron process technology.\n• Showcasing your proficiency in Verilog RTL coding, both in synchronous and asynchronous state machines, to craft elegant and efficient solutions.\n• Harnessing your expertise with Hspice and other analog simulators to validate and optimize your designs.\n• Applying your knowledge of Cadence schematic capture to translate ideas into real-world schematics.\n• Utilizing your Linux experience to work seamlessly within our collaborative development environment.\n\nQualifications:\n\nTo excel in this role, you will need:\n• A proven track record in analog and low power design using advanced deep micron process technology.\n• Proficiency in Verilog RTL coding, particularly in designing both synchronous and asynchronous state machines.\n• Strong experience with Hspice and other analog simulators.\n• A solid background in Cadence schematic capture.\n• Familiarity with Linux.\n\nWe believe in nurturing talent and fostering a culture of innovation. When you join our team, you’ll have the opportunity to:\n• Work on cutting-edge projects that push the boundaries of technology.\n• Collaborate with some of the brightest minds in the industry.\n• Continuously expand your skill set and stay at the forefront of your field.\n• Enjoy a competitive compensation package and comprehensive benefits.\n• Be part of a company that values diversity, inclusion, and work-life balance.\n\nIf you’re ready to make your mark in the world of analog design and take your career to new heights, we want to hear from you. Apply today to join our team of innovators and shape the future of Aerospace Engineering.\n\nWe are an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.\n\nBase Salary Max:: 132000",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Sunnyvale, CA",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.368829999999996,
+    "job_longitude": -122.0363496,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLVGrDfgkFfClq4yeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "A proven track record in analog and low power design using advanced deep micron process technology",
+        "Proficiency in Verilog RTL coding, particularly in designing both synchronous and asynchronous state machines",
+        "Strong experience with Hspice and other analog simulators",
+        "A solid background in Cadence schematic capture",
+        "Familiarity with Linux",
+        "Collaborate with some of the brightest minds in the industry"
+      ],
+      "Benefits": [
+        "Continuously expand your skill set and stay at the forefront of your field",
+        "Enjoy a competitive compensation package and comprehensive benefits",
+        "Be part of a company that values diversity, inclusion, and work-life balance"
+      ],
+      "Responsibilities": [
+        "As a Senior Analog Design Engineer you will play a pivotal role in driving our projects to success",
+        "Leveraging your extensive experience in analog and low power design using advanced deep micron process technology",
+        "Showcasing your proficiency in Verilog RTL coding, both in synchronous and asynchronous state machines, to craft elegant and efficient solutions",
+        "Harnessing your expertise with Hspice and other analog simulators to validate and optimize your designs",
+        "Applying your knowledge of Cadence schematic capture to translate ideas into real-world schematics",
+        "Utilizing your Linux experience to work seamlessly within our collaborative development environment",
+        "Work on cutting-edge projects that push the boundaries of technology"
+      ]
+    },
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "stemta-com-job-senior-analog-design-engineer-261",
     "_source": "new_jobs"
   },
   {
@@ -1653,120 +1559,6 @@
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
     "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "UDvO9atOFfwc_0VmAAAAAA==",
-    "job_title": "Senior Staff Analog Design Engineer",
-    "employer_name": "Synopsys",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZT7aCtU7NwDs04X0a35dWFbv0UKLhd6vFoi9P&s=0",
-    "employer_website": "https://www.synopsys.com",
-    "job_publisher": "Glassdoor",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.glassdoor.com/job-listing/senior-staff-analog-design-engineer-synopsys-JV_IC1151603_KO0,35_KE36,44.htm?jl=1009992953592&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/senior-staff-analog-design-engineer-synopsys-JV_IC1151603_KO0,35_KE36,44.htm?jl=1009992953592&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/senior-staff-analog-design-engineer-synopsyslns-hillsboro-or_85133366?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/senior-staff-analog-design-engineer-hillsboro-synopsys-inc-5b583eb38216e5206de29d49da2cbb14?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Experteer",
-        "apply_link": "https://us.experteer.com/career/view-jobs/senior-staff-analog-design-engineer-hillsboro-or-usa-55634942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/senior-staff-asic-design-engineer_4b6ecf24-e269-41b7-bbe2-4b94167b2922?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Discover Technata Job Board",
-        "apply_link": "https://jobs.discovertechnata.com/companies/synopsys-2-40cdf835-e3bd-4932-a6b1-755a6e93b52a/jobs/64838384-senior-staff-analog-design-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobs Warehouse",
-        "apply_link": "https://www.jobswarehouse.co.uk/jobs/senior-staff-analog-design-engineer-hillsboro-oregon/2581145368-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-hillsboro-senior-staff-analog-design-engineer-synopsys-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "We Are:\n\nAt Synopsys, we drive innovations that transform how we live and connect. Our technology powers the Era of Pervasive Intelligence, leading in chip design, verification, and IP integration. Join us to shape the future through technological excellence.\n\nYou Are:\n\nYou are an expert in high-speed analog design, with hands-on experience in wireline or optical SerDes above 200GBaud. You excel with PLLs, ILOs, DLLs, and phase mixers, as well as transmitters, serializers, optical drivers, receiver analog front ends, TIAs, and data converters. You adapt quickly, lead by example, and thrive in collaborative, global teams—mentoring others and driving robust, innovative solutions.\n\nWhat You’ll Be Doing:\n• Designing advanced SerDes and clocking circuits for ultra-high-speed data.\n• Developing transmitters, serializers, and optical drivers.\n• Creating receiver analog front ends and TIAs.\n• Optimizing signal integrity and power usage.\n• Collaborating across global teams.\n• Mentoring junior engineers.\n\nThe Impact You Will Have:\n• Enable next-gen connectivity solutions.\n• Strengthen Synopsys’ technology leadership.\n• Accelerate product innovation and time-to-market.\n• Improve reliability and performance of industry-leading chips.\n• Foster technical growth across teams.\n• Influence industry standards.\n\nWhat You’ll Need:\n• BSEE with at least 8+ years of direct industry experience.\n• Extensive analog/SerDes IC design experience above 200GBaud.\n• Expertise with PLLs, DLLs, ILOs, phase mixers, and related circuits.\n• Proficiency in EDA tools and advanced process technologies.\n• Strong signal integrity and layout skills.\n• Lab validation and debugging experience.\n\nWho You Are:\n• Collaborative and proactive leader.\n• Detail-oriented problem solver.\n• Effective technical communicator.\n• Innovative and curious.\n• Supportive mentor.\n\nThe Team You’ll Be A Part Of:\n\nJoin an elite analog design team focused on high-speed connectivity and SerDes IP, collaborating globally to deliver breakthrough solutions.\n\nRewards and Benefits:\n\nWe offer a comprehensive range of health, wellness, and financial benefits. Your recruiter will share full details during the hiring process.",
-    "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Hillsboro, OR",
-    "job_city": "Hillsboro",
-    "job_state": "Oregon",
-    "job_country": "US",
-    "job_latitude": 45.5201237,
-    "job_longitude": -122.99133409999999,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUDvO9atOFfwc_0VmAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "You are an expert in high-speed analog design, with hands-on experience in wireline or optical SerDes above 200GBaud",
-        "BSEE with at least 8+ years of direct industry experience",
-        "Extensive analog/SerDes IC design experience above 200GBaud",
-        "Expertise with PLLs, DLLs, ILOs, phase mixers, and related circuits",
-        "Proficiency in EDA tools and advanced process technologies",
-        "Strong signal integrity and layout skills",
-        "Lab validation and debugging experience",
-        "Collaborative and proactive leader",
-        "Detail-oriented problem solver",
-        "Effective technical communicator",
-        "Innovative and curious",
-        "Supportive mentor"
-      ],
-      "Benefits": [
-        "We offer a comprehensive range of health, wellness, and financial benefits"
-      ],
-      "Responsibilities": [
-        "You excel with PLLs, ILOs, DLLs, and phase mixers, as well as transmitters, serializers, optical drivers, receiver analog front ends, TIAs, and data converters",
-        "You adapt quickly, lead by example, and thrive in collaborative, global teams—mentoring others and driving robust, innovative solutions",
-        "Designing advanced SerDes and clocking circuits for ultra-high-speed data",
-        "Developing transmitters, serializers, and optical drivers",
-        "Creating receiver analog front ends and TIAs",
-        "Optimizing signal integrity and power usage",
-        "Collaborating across global teams",
-        "Mentoring junior engineers",
-        "Enable next-gen connectivity solutions",
-        "Strengthen Synopsys’ technology leadership",
-        "Accelerate product innovation and time-to-market",
-        "Improve reliability and performance of industry-leading chips",
-        "Foster technical growth across teams",
-        "Influence industry standards"
-      ]
-    },
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "www-glassdoor-com-job-listing-senior-staff-analog-design-engineer-synopsys-jv_ic1151603_ko0-35_ke36-44-htm",
     "_source": "new_jobs"
   }
 ]
