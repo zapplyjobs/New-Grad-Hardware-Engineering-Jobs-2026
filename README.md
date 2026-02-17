@@ -9,16 +9,16 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-2-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-2-blue?style=flat&logo=building)
-![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-2-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-1-blue?style=flat&logo=building)
+![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-1-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 2+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 2+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 1+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 1+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,11 +69,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/hej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>⚡ <strong>Hardware Engineer</strong> (2 positions)</h3></summary>
+<summary><h3>⚡ <strong>Hardware Engineer</strong> (1 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🛡️ **RTX** | Electrical Computer Aided Design... 🏠 | Tucson, Arizona | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rtx.com/global/en/job/01824219/Electrical-Computer-Aided-Designer-Engineer-ECAD?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Analog Modules, Inc.** | RF/Analog Design Engineer - Long... | Longwood, Florida | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.milwaukeejobs.com/job/detail/86157299/RF-Analog-Design-Engineer-Longwood-FL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
@@ -139,7 +138,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 1 positions
-- **🏢 Companies**: 2 companies
+- **🏢 Companies**: 1 companies
 - **🏷️ Top Category**: FPGA/ASIC
 
 <details>
@@ -161,7 +160,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2 current opportunities from 2 companies**
+**🎯 1 current opportunities from 1 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
