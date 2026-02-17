@@ -31,9 +31,9 @@
     "job_latitude": null,
     "job_longitude": null,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DO5b8gpONPy-a-ymKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -213,9 +213,9 @@
     "job_latitude": 43.156577899999995,
     "job_longitude": -77.6088465,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMa9xC4SJfokptzojAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -528,8 +528,8 @@
     "job_longitude": -73.89144069999999,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZB-1SrnizaRgXtyiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -858,7 +858,7 @@
     "job_title": "Electrical engineer- Hardware Design-John Deere",
     "employer_name": "Teklabs",
     "employer_logo": null,
-    "employer_website": "https://teklabsinc.com",
+    "employer_website": "https://teklabs.org",
     "job_publisher": "Talent.com",
     "job_employment_type": "Full-time",
     "job_employment_types": [
@@ -1073,9 +1073,9 @@
     "job_latitude": 39.5480789,
     "job_longitude": -104.9739333,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkQImm6qaplaz_3W1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1284,9 +1284,9 @@
     "job_latitude": 33.919179899999996,
     "job_longitude": -118.41646519999999,
     "job_benefits": [
-      "health_insurance",
       "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4mBiUiZa0WX-pXy1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
