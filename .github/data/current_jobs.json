@@ -1,5 +1,87 @@
 [
   {
+    "job_id": "h3h-XCv-6u3tU5-BAAAAAA==",
+    "job_title": "Firmware Engineer Senior - Hybrid - Open to U.S. Based Candidates (ET Hours)",
+    "employer_name": "Acuity",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeUXN5t3a1Vwz5XKv-nX2J0NOu0Qm1po_xNYjE&s=0",
+    "employer_website": "https://www.acuity.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/firmware-engineer-senior-hybrid-open-to-u-s-based-candidates-et-hours-at-acuity-4372565721?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/firmware-engineer-senior-hybrid-open-to-u-s-based-candidates-et-hours-at-acuity-4372565721?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5632139741?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Acuity Inc. (NYSE: AYI) is a market-leading industrial technology company. We use technology to solve problems in spaces, light and more things to come. Through our two business segments, Acuity Brands Lighting (ABL) and Acuity Intelligent Spaces (AIS), we design, manufacture, and bring to market products and services that make a valuable difference in people’s lives.\n\nWe achieve growth through the development of innovative new products and services, including lighting, lighting controls, building management solutions, and an audio, video and control platform. We focus on customer outcomes and drive growth and productivity to increase market share and deliver superior returns. We look to aggressively deploy capital to grow the business and to enter attractive new verticals.\n\nAcuity Inc. is based in Atlanta, Georgia, with operations across North America, Europe and Asia. The Company is powered by approximately 13,000 dedicated and talented associates. Visit us at www.acuityinc.com .\n\nWork location:\n• This position may be based anywhere in the United States and includes travel as part of the responsibilities.\n\nJob Summary\n\nWe are seeking a Senior Firmware Engineer to design, develop, and enhance embedded systems for our next generation of lighting control products. The ideal candidate will have a strong background in embedded C programming and a solid understanding of secure firmware design principles, with experience in bare metal, RTOS, and embedded Linux development. This role will work closely with cross-functional engineering, product and manufacturing teams to deliver high-quality, robust, and secure firmware solutions from concept to production.\n\nKey Tasks & Responsibilities (Essential Functions)\n• Design and implement firmware for new lighting control products, from concept through production.\n• Maintain and enhance firmware for existing product lines to improve performance, reliability, and security.\n• Participate in cross-functional product design teams (hardware, software, QA, manufacturing) to ensure product success.\n• Evaluate and recommend new technologies, components, and tools that can be integrated into future designs.\n• Develop and maintain firmware architecture, specifications, and validation plans.\n• Implement secure bootloaders, firmware updates (OTA), and data protection mechanisms to ensure product security and integrity.\n• Develop and maintain unit and integration tests to ensure firmware reliability.\n• Provide technical support for manufacturing, testing, and field deployment of products.\n• Lead and actively participate in code and design reviews.\n• Contribute to project planning and estimation, ensuring timely delivery of firmware deliverables.\n\nSkills And Minimum Experience Required\n\nRequired Experience and Knowledge:\n• 5+ years of Embedded C Programming (microcontroller bare metal and RTOS).\n• Experience with unit testing frameworks and automated test workflows.\n• Ability to read and follow schematics, and collaborate closely with hardware engineers\n• Must work well independently and in a team environment, be detail oriented, thorough in investigation, and produce robust solutions.\n• Demonstrated ability to devise novel technical solutions, lateral thinking (applying known solutions to new problems in related fields), willingness to challenge existing practice (technical, testing, manufacturing), willingness to add new functionalities to existing products or to start entire new product categories\n• Excellent documentation, communication, and problem-solving skills.\n\nPreferred Experience\n• Python scripting for test automation or data analysis\n• Experience developing for Embedded Linux platforms, including device drivers, kernel modules, and system bring-up.\n• Strong understanding and use of RTOS (Real Time Operating Systems).\n• IP research and analysis\n• Direct experience in lighting control, building automation, or industrial control product development.\n• Azure DevOps Experience or similar CI/CD and project management tools.\n\nEducational Background\n\nBachelor’s degree in Engineering or equivalent experience.\n\nWhy Join Us\n\nYou’ll be part of a team that’s shaping the future of smart lighting. We value innovation, technical excellence, and a culture of continuous improvement where engineers have real ownership and impact across the full product lifecycle.\n\nThe range for this position is $120,800.00 to $217,400.00. Placement within this range may vary, depending on the applicant’s experience and geographic location. Acuity offers generous benefits including health care, dental coverage, vision plans, 401K benefits, and commissions/incentive compensation depending on the role. For a list of our benefits, click here .\n\nWe value diversity and are an equal opportunity employer.  All qualified applicants will be considered for employment without regards to race, color, age, gender, sexual orientation, gender identity and expression, ethnicity or national origin, disability, pregnancy, religion, covered veteran status, protected genetic information, or any other characteristic protected by law. \n\nPlease click here and here for more information.  \n\nAccommodation for Applicants with Disabilities:  As an equal opportunity employer, Acuity Inc. is committed to providing reasonable accommodations in its application process for qualified individuals with disabilities and disabled veterans. If you have difficulty using our online system due to a disability and need an accommodation, you may contact us at (770) 922-9000, select option 4.  Please clearly indicate what type of accommodation you are requesting and for what requisition . \n\nAny unsolicited resumes sent to Acuity Inc. from a third party, such as an Agency recruiter, including unsolicited resumes sent to an Acuity Inc. mailing address, fax machine or email address, directly to Acuity Inc. employees, or to Acuity Inc. resume database will be considered Acuity Inc. property. Acuity Inc. will NOT pay a fee for any placement resulting from the receipt of an unsolicited resume.\n\nAcuity Inc. will consider any candidate for whom an Agency has submitted an unsolicited resume to have been referred by the Agency free of any charges or fees. This includes any Agency that is an approved/engaged vendor, but does not have the appropriate approvals to be engaged on a search.\n\nE-Verify Participation Poster\n\ne-verify.gov\n\neeoc.gov",
+    "job_is_remote": false,
+    "job_posted_at": "8 hours ago",
+    "job_posted_at_timestamp": 1771272000,
+    "job_posted_at_datetime_utc": "2026-02-16T20:00:00.000Z",
+    "job_location": "Decatur, GA",
+    "job_city": "Decatur",
+    "job_state": "Georgia",
+    "job_country": "US",
+    "job_latitude": 33.7748275,
+    "job_longitude": -84.2963123,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dh3h-XCv-6u3tU5-BAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 121000,
+    "job_max_salary": 217000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate will have a strong background in embedded C programming and a solid understanding of secure firmware design principles, with experience in bare metal, RTOS, and embedded Linux development",
+        "Required Experience and Knowledge:",
+        "5+ years of Embedded C Programming (microcontroller bare metal and RTOS)",
+        "Experience with unit testing frameworks and automated test workflows",
+        "Ability to read and follow schematics, and collaborate closely with hardware engineers",
+        "Must work well independently and in a team environment, be detail oriented, thorough in investigation, and produce robust solutions",
+        "Demonstrated ability to devise novel technical solutions, lateral thinking (applying known solutions to new problems in related fields), willingness to challenge existing practice (technical, testing, manufacturing), willingness to add new functionalities to existing products or to start entire new product categories",
+        "Excellent documentation, communication, and problem-solving skills",
+        "Educational Background",
+        "Bachelor’s degree in Engineering or equivalent experience"
+      ],
+      "Benefits": [
+        "The range for this position is $120,800.00 to $217,400.00",
+        "Acuity offers generous benefits including health care, dental coverage, vision plans, 401K benefits, and commissions/incentive compensation depending on the role"
+      ],
+      "Responsibilities": [
+        "This position may be based anywhere in the United States and includes travel as part of the responsibilities",
+        "We are seeking a Senior Firmware Engineer to design, develop, and enhance embedded systems for our next generation of lighting control products",
+        "This role will work closely with cross-functional engineering, product and manufacturing teams to deliver high-quality, robust, and secure firmware solutions from concept to production",
+        "Design and implement firmware for new lighting control products, from concept through production",
+        "Maintain and enhance firmware for existing product lines to improve performance, reliability, and security",
+        "Participate in cross-functional product design teams (hardware, software, QA, manufacturing) to ensure product success",
+        "Evaluate and recommend new technologies, components, and tools that can be integrated into future designs",
+        "Develop and maintain firmware architecture, specifications, and validation plans",
+        "Implement secure bootloaders, firmware updates (OTA), and data protection mechanisms to ensure product security and integrity",
+        "Develop and maintain unit and integration tests to ensure firmware reliability",
+        "Provide technical support for manufacturing, testing, and field deployment of products",
+        "Lead and actively participate in code and design reviews",
+        "Contribute to project planning and estimation, ensuring timely delivery of firmware deliverables"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "www-linkedin-com-jobs-view-firmware-engineer-senior-hybrid-open-to-u-s-based-candidates-et-hours-at-acuity-4372565721",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "0wOP-_q5wcYERKhLAAAAAA==",
     "job_title": "Firmware Engineer",
     "employer_name": "Eaton Corporation",
@@ -98,126 +180,6 @@
     "job_onet_soc": "15113300",
     "job_onet_job_zone": "4",
     "id": "career-io-job-firmware-engineer-ampthill-eaton-corporation-cf0016fcc15e5ed4b346164d61d6d077",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "_jlj4hE8ZdBZCGXSAAAAAA==",
-    "job_title": "R&D Firmware, Embedded Software Engineer",
-    "employer_name": "Veralto Global",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTUfSKsDi-0gfGB_nMKTFNvT_NXgcW4n1VgZGD&s=0",
-    "employer_website": "https://jobs.veralto.com",
-    "job_publisher": "Veralto Global Jobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.veralto.com/global/en/job/R10264674/R-D-Firmware-Embedded-Software-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Veralto Global Jobs",
-        "apply_link": "https://jobs.veralto.com/global/en/job/R10264674/R-D-Firmware-Embedded-Software-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/rd-firmware-embedded-software-engineer-loveland-veralto-corp-f1f764052bdb077379cff791bbd2f122?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Hach/Job/R&D-Firmware,-Embedded-Software-Engineer/-in-Loveland,CO?jid=3db4bd15a4d3bc3a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/r-and-d-firmware-embedded-software-engineer-hach-company-JV_IC1148237_KO0,43_KE44,56.htm?jl=1010028979622&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698a34c547434001cc686a05?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/XLjpaHSnIvUqqWcoEjQEoTPfc3rgoYcnH34bPJ_lYIpkxvaRmeBa7w?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5625318600?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/embedded-systems?id=2457037293&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Imagine Yourself\n• Creating new product development solutions that blend hardware and software to revolutionize water quality.\n• Working with a vibrant, diverse, and high-energy team that values innovation and collaboration.\n• Being part of a mission-driven company ensuring clean, safe water for people around the globe.\n\nAt Hach (www.hach.com), a Veralto company, we ensure water quality for people around the world, and every team member plays a vital role in that mission. Our founding vision is to make water analysis better—faster, simpler, greener and more informative. We accomplish this through teamwork, customer partnerships, passionate experts, and reliable, easy-to-use solutions.\n\nAs part of our team and the broader Veralto network, you’ll be part of a unique work environment where purpose meets possibility: where you’ll make an immediate, measurable impact on a global scale by enabling the world’s everyday water needs, and where you’ll have opportunities to foster your professional development and fuel your career growth.\n\nMotivated by the highest possible stakes of climate change and global health, we’re working together within a rapidly digitizing industry to find innovative technologies that guarantee the safety of our water and our environment. More about us: https://www.hach.com/about-us\n\nLearn more about how we are shaping the future at Hach: https://vimeo.com/382675805\n\nWe offer:\n• Comprehensive Benefits from Day 1: Enjoy peace of mind with our extensive medical, dental, vision and 401k coverage.\n• Inclusive Culture: Be part of a diverse team that fosters collaboration and innovation.\n• Stability and Growth: When you join Hach, you're not just joining a company; you're becoming part of Veralto, a global network with 13 operating companies, 240+ locations worldwide, and $5B in revenue.\n\nWhat You’ll Do:\n\nJoin our collaborative team to drive growth and innovation for new product development. As a firmware engineer, you’ll bring water quality products to life by designing and developing cutting-edge embedded solutions.\n\nThis position is onsite in Loveland, CO out of our large 3 building campus which includes a building designed from the ground up for Research and Development.\n\nIn this role, a typical day will look like:\n• Design and develop embedded solutions for next-generation products.\n• Collaborate in an Agile team to deliver high-quality firmware using scrum processes.\n• Use your expertise in C++ and OO design principles to ensure reliable products.\n• Analyze requirements, estimate effort, and deliver impactful solutions.\n\nThe essential requirements of the job include:\n• Education: minimum of Bachelor’s degree in Computer Engineering, Electrical Engineering, Computer Science, or related field\n• Experience: 3-5+ years with C++ user-space development\n• Experience: 3-5+ years with microcontrollers and platforms like Linux, RTOS, or bare metal\n• Experience: proficiency in Agile methodologies, CI/CD practices, and unit testing\n\nBonus Skills:\n• Education: Master’s degree in Embedded Systems Engineering\n• Experience: with Embedded Linux build systems (e.g. Yocto)\n• Experience: knowledge of networking fundamentals (TCP/IP)\n• Experience: proficiency with scripting languages (Shell, Bash, Python)\n\nHach is proud to part of the Water Quality segment of Veralto (NYSE: VLTO), a $5B global leader dedicated to ensuring access to clean water, safe food and medicine, and trusted essential goods. When you join Veralto’s vibrant global network of 16,000 associates, you join a unique culture and work environment where purpose meets possibility: where the work you do has an everyday impact on the resources and essentials we all rely on, and where you’ll have valuable opportunities to deepen your skillset, pursue your ambitions, and grow your career. Together, we’re Safeguarding the World’s Most Vital Resources™—and building rewarding careers along the way.\n\nFor Colorado roles only: We anticipate this requisition will be open for a minimum of five days, though it may be open for a longer period of time. We encourage your prompt application.\n\nUS ONLY:\n\nThe below range reflects the range of possible compensation for this role at the time of this posting. We may ultimately pay more or less than the posted range. This range may be modified in the future. An associate’s position within the salary range will be based on several factors, including, but not limited to, relevant education, qualifications, certifications, experience, skills, seniority, geographic location, performance, shift, travel requirements, sales or revenue-based metrics, any collective bargaining agreements, and business or organizational needs.\n\nThe compensation range for this role is $110,000.00 - $125,000.00 USD per year. This job is also eligible for Bonus Pay.\n\nWe offer a comprehensive package of benefits including paid time off, medical/dental/vision insurance and 401(k) to eligible employees.\n\nNote: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.\n\nUS residents: In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information.\n\nVeralto Corporation and all Veralto Companies are committed to equal opportunity regardless of race, color, national origin, religion, sex, age, marital status, disability, veteran status, sexual orientation, gender identity, or other characteristics protected by law. We value diversity and the existence of similarities and differences, both visible and not, found in our workforce, workplace and throughout the markets we serve. Our associates, customers and shareholders contribute unique and different perspectives as a result of these diverse attributes.\n\nThe EEO posters are available here.\n\nWe will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions, and to receive other benefits and privileges of employment. Please contact us at applyassistance@veralto.com to request accommodation.\n\nUnsolicited Assistance\n\nWe do not accept unsolicited assistance from any headhunters or recruitment firms for any of our job openings. All resumes or profiles submitted by search firms to any employee at any of the Veralto companies, in any form without a valid, signed search agreement in place for the specific position, approved by Talent Acquisition, will be deemed the sole property of Veralto and its companies. No fee will be paid in the event the candidate is hired by Veralto and its companies because of the unsolicited referral.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Loveland, CO",
-    "job_city": "Loveland",
-    "job_state": "Colorado",
-    "job_country": "US",
-    "job_latitude": 40.395451,
-    "job_longitude": -105.07458369999999,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_jlj4hE8ZdBZCGXSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Education: minimum of Bachelor’s degree in Computer Engineering, Electrical Engineering, Computer Science, or related field",
-        "Experience: 3-5+ years with C++ user-space development",
-        "Experience: 3-5+ years with microcontrollers and platforms like Linux, RTOS, or bare metal",
-        "Experience: proficiency in Agile methodologies, CI/CD practices, and unit testing",
-        "Education: Master’s degree in Embedded Systems Engineering",
-        "Experience: with Embedded Linux build systems (e.g",
-        "Yocto)",
-        "Experience: knowledge of networking fundamentals (TCP/IP)",
-        "Experience: proficiency with scripting languages (Shell, Bash, Python)",
-        "US residents: In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation"
-      ],
-      "Benefits": [
-        "Comprehensive Benefits from Day 1: Enjoy peace of mind with our extensive medical, dental, vision and 401k coverage",
-        "Inclusive Culture: Be part of a diverse team that fosters collaboration and innovation",
-        "Stability and Growth: When you join Hach, you're not just joining a company; you're becoming part of Veralto, a global network with 13 operating companies, 240+ locations worldwide, and $5B in revenue",
-        "The below range reflects the range of possible compensation for this role at the time of this posting",
-        "We may ultimately pay more or less than the posted range",
-        "An associate’s position within the salary range will be based on several factors, including, but not limited to, relevant education, qualifications, certifications, experience, skills, seniority, geographic location, performance, shift, travel requirements, sales or revenue-based metrics, any collective bargaining agreements, and business or organizational needs",
-        "The compensation range for this role is $110,000.00 - $125,000.00 USD per year",
-        "This job is also eligible for Bonus Pay",
-        "We offer a comprehensive package of benefits including paid time off, medical/dental/vision insurance and 401(k) to eligible employees",
-        "Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable",
-        "The amount and availability of any bonus, commission, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law"
-      ],
-      "Responsibilities": [
-        "Creating new product development solutions that blend hardware and software to revolutionize water quality",
-        "Working with a vibrant, diverse, and high-energy team that values innovation and collaboration",
-        "Being part of a mission-driven company ensuring clean, safe water for people around the globe",
-        "Join our collaborative team to drive growth and innovation for new product development",
-        "As a firmware engineer, you’ll bring water quality products to life by designing and developing cutting-edge embedded solutions",
-        "In this role, a typical day will look like:",
-        "Design and develop embedded solutions for next-generation products",
-        "Collaborate in an Agile team to deliver high-quality firmware using scrum processes",
-        "Use your expertise in C++ and OO design principles to ensure reliable products",
-        "Analyze requirements, estimate effort, and deliver impactful solutions"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "jobs-veralto-com-global-en-job-r10264674-r-d-firmware-embedded-software-engineer",
     "_source": "new_jobs"
   },
   {
@@ -407,6 +369,317 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "_Oc1J40ANFie-55XAAAAAA==",
+    "job_title": "Senior Firmware Engineer @ Eight Sleep | $180k - $210k + Equity",
+    "employer_name": "Blaze Talent",
+    "employer_logo": null,
+    "employer_website": "https://www.blazetalent.co.za",
+    "job_publisher": "Gem",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.gem.com/blazetalent/am9icG9zdDrNo9CnTyavqbcGfUpJJHPo?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Gem",
+        "apply_link": "https://jobs.gem.com/blazetalent/am9icG9zdDrNo9CnTyavqbcGfUpJJHPo?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Join the Sleep Fitness Movement\nEight Sleep is the world’s first sleep fitness company. Our mission is to fuel human potential through optimal sleep. We use innovative technology, detailed design, and proven science and data to personalize and improve each night for everybody—changing the way people sleep forever and for the better.\nBacked by leading Silicon Valley investors, we have been recognized as one of Fast Company’s Most Innovative Companies in 2018, 2022, and 2023.\nOur temperature-regulated technology, the Pod, is an absolute game changer, improving people's health and happiness by changing the way they sleep. The Pod was also recognized two years in a row by TIME's “Best Inventions of the Year.” It is available for purchase in North America (the United States and Canada) and throughout the United Kingdom, Europe (Belgium, France, Germany, Italy, Netherlands, Spain, Sweden, Denmark), and Australia via eightsleep.com. We’re excited by the success of the Pod to date and still have a long way to go toward achieving our mission.\nJoin our team as a Sr Firmware Engineer to help us bring current and next generations of Pod hardware to life. You'll be a part of a small team designing and implementing solutions with high levels of autonomy to bring our members better sleep. Your work will go directly to our fleet of existing Pods with low friction and direct impact to the business. We are a fast moving and fast growing company, and we embrace individuals with a growth mindset and strong desire to help us achieve our mission: Improving people's lives through optimal sleep.\n\nHow you’ll contribute\n• Pioneer Cutting-Edge Technology: Bring-up and implement cutting edge sensor technologies, bringing them into our products to enable the future of health monitoring.\n• Ownership and Drive: Collaborate with hardware teams to guide prototyping, drive efficient designs, as well as implementation on production hardware.\n• Innovate and Elevate: Lead the transformation of our firmware development landscape, pioneering advanced standards and state-of-the-art tooling that revolutionize our testing and deployment processes.\n• Global Collaboration and Support: Work closely with our manufacturing team in China to develop tests and deliver high quality products on time.\n• Effective Remote Communication: Thrive in an in person and remote work environment, ensuring clear and impactful communication.\n\nWhat you need to succeed\n• Proven Expertise: 5+ years of software engineering experience, with a focus on firmware in C/C++ and client or test tooling in Python or NodeJS.\n• Advanced Technical Skills: Proficiency in developing for compute-constrained and low-memory environments. Skilled in creating peripheral drivers and communication protocols (UART, I2C, SPI, USB), and knowledgeable in DMA.\n• Shipping at Scale: Have launched and maintained large fleets of devices, with experience in monitoring telemetry, and OTA firmware updates.\n• Hardware Acumen: Ability to read and interpret data sheets and schematics for hardware bring-up and debugging. Familiarity with logic analyzers and oscilloscopes.\n• Adaptive Problem Solver: A fast-paced and iterative approach to tackling complex problems.\n• Travel Readiness: Willingness and ability to travel regularly to China for team support and collaboration.\n\nWhat Sets you apart\n• Proficient with bare metal systems, low level task management, and environments without traditional RTOS.\n• Expertise in wireless communication standards (e.g., Bluetooth, Wi-Fi).\n• Expertise in automated testing and observability.\n• Deep understanding of embedded security practices.\n\nWhy you’ll love Eight Sleep\nWe’re a tight-knit, passionate team that’s working to impact people’s lives by improving the way they sleep.\nLeadership is committed to employees’ wellness and career development.\n• You’ll get a better night's sleep every night; all full-time employees receive the Pod\n• Flexible PTO.\n• 100% employer contribution for medical/dental/vision insurance.\n• Fully distributed workforce.\n• Role ownership, and uncapped growth opportunities.",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "United States",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 38.794595199999996,
+    "job_longitude": -106.5348379,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_Oc1J40ANFie-55XAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Proven Expertise: 5+ years of software engineering experience, with a focus on firmware in C/C++ and client or test tooling in Python or NodeJS",
+        "Advanced Technical Skills: Proficiency in developing for compute-constrained and low-memory environments",
+        "Skilled in creating peripheral drivers and communication protocols (UART, I2C, SPI, USB), and knowledgeable in DMA",
+        "Shipping at Scale: Have launched and maintained large fleets of devices, with experience in monitoring telemetry, and OTA firmware updates",
+        "Hardware Acumen: Ability to read and interpret data sheets and schematics for hardware bring-up and debugging",
+        "Familiarity with logic analyzers and oscilloscopes",
+        "Adaptive Problem Solver: A fast-paced and iterative approach to tackling complex problems",
+        "Travel Readiness: Willingness and ability to travel regularly to China for team support and collaboration",
+        "Proficient with bare metal systems, low level task management, and environments without traditional RTOS",
+        "Expertise in wireless communication standards (e.g., Bluetooth, Wi-Fi)",
+        "Expertise in automated testing and observability",
+        "Deep understanding of embedded security practices"
+      ],
+      "Benefits": [
+        "You’ll get a better night's sleep every night; all full-time employees receive the Pod",
+        "Flexible PTO",
+        "100% employer contribution for medical/dental/vision insurance",
+        "Fully distributed workforce",
+        "Role ownership, and uncapped growth opportunities"
+      ],
+      "Responsibilities": [
+        "You'll be a part of a small team designing and implementing solutions with high levels of autonomy to bring our members better sleep",
+        "Pioneer Cutting-Edge Technology: Bring-up and implement cutting edge sensor technologies, bringing them into our products to enable the future of health monitoring",
+        "Ownership and Drive: Collaborate with hardware teams to guide prototyping, drive efficient designs, as well as implementation on production hardware",
+        "Innovate and Elevate: Lead the transformation of our firmware development landscape, pioneering advanced standards and state-of-the-art tooling that revolutionize our testing and deployment processes",
+        "Global Collaboration and Support: Work closely with our manufacturing team in China to develop tests and deliver high quality products on time",
+        "Effective Remote Communication: Thrive in an in person and remote work environment, ensuring clear and impactful communication"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "jobs-gem-com-blazetalent-am9icg9zddrno9cntyavqbcgfupjjhpo",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "_jlj4hE8ZdBZCGXSAAAAAA==",
+    "job_title": "R&D Firmware, Embedded Software Engineer",
+    "employer_name": "Veralto Global",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTUfSKsDi-0gfGB_nMKTFNvT_NXgcW4n1VgZGD&s=0",
+    "employer_website": "https://jobs.veralto.com",
+    "job_publisher": "Veralto Global Jobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.veralto.com/global/en/job/R10264674/R-D-Firmware-Embedded-Software-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Veralto Global Jobs",
+        "apply_link": "https://jobs.veralto.com/global/en/job/R10264674/R-D-Firmware-Embedded-Software-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/rd-firmware-embedded-software-engineer-loveland-veralto-corp-f1f764052bdb077379cff791bbd2f122?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Hach/Job/R&D-Firmware,-Embedded-Software-Engineer/-in-Loveland,CO?jid=3db4bd15a4d3bc3a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/r-and-d-firmware-embedded-software-engineer-hach-company-JV_IC1148237_KO0,43_KE44,56.htm?jl=1010028979622&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/698a34c547434001cc686a05?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/XLjpaHSnIvUqqWcoEjQEoTPfc3rgoYcnH34bPJ_lYIpkxvaRmeBa7w?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5625318600?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/embedded-systems?id=2457037293&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Imagine Yourself\n• Creating new product development solutions that blend hardware and software to revolutionize water quality.\n• Working with a vibrant, diverse, and high-energy team that values innovation and collaboration.\n• Being part of a mission-driven company ensuring clean, safe water for people around the globe.\n\nAt Hach (www.hach.com), a Veralto company, we ensure water quality for people around the world, and every team member plays a vital role in that mission. Our founding vision is to make water analysis better—faster, simpler, greener and more informative. We accomplish this through teamwork, customer partnerships, passionate experts, and reliable, easy-to-use solutions.\n\nAs part of our team and the broader Veralto network, you’ll be part of a unique work environment where purpose meets possibility: where you’ll make an immediate, measurable impact on a global scale by enabling the world’s everyday water needs, and where you’ll have opportunities to foster your professional development and fuel your career growth.\n\nMotivated by the highest possible stakes of climate change and global health, we’re working together within a rapidly digitizing industry to find innovative technologies that guarantee the safety of our water and our environment. More about us: https://www.hach.com/about-us\n\nLearn more about how we are shaping the future at Hach: https://vimeo.com/382675805\n\nWe offer:\n• Comprehensive Benefits from Day 1: Enjoy peace of mind with our extensive medical, dental, vision and 401k coverage.\n• Inclusive Culture: Be part of a diverse team that fosters collaboration and innovation.\n• Stability and Growth: When you join Hach, you're not just joining a company; you're becoming part of Veralto, a global network with 13 operating companies, 240+ locations worldwide, and $5B in revenue.\n\nWhat You’ll Do:\n\nJoin our collaborative team to drive growth and innovation for new product development. As a firmware engineer, you’ll bring water quality products to life by designing and developing cutting-edge embedded solutions.\n\nThis position is onsite in Loveland, CO out of our large 3 building campus which includes a building designed from the ground up for Research and Development.\n\nIn this role, a typical day will look like:\n• Design and develop embedded solutions for next-generation products.\n• Collaborate in an Agile team to deliver high-quality firmware using scrum processes.\n• Use your expertise in C++ and OO design principles to ensure reliable products.\n• Analyze requirements, estimate effort, and deliver impactful solutions.\n\nThe essential requirements of the job include:\n• Education: minimum of Bachelor’s degree in Computer Engineering, Electrical Engineering, Computer Science, or related field\n• Experience: 3-5+ years with C++ user-space development\n• Experience: 3-5+ years with microcontrollers and platforms like Linux, RTOS, or bare metal\n• Experience: proficiency in Agile methodologies, CI/CD practices, and unit testing\n\nBonus Skills:\n• Education: Master’s degree in Embedded Systems Engineering\n• Experience: with Embedded Linux build systems (e.g. Yocto)\n• Experience: knowledge of networking fundamentals (TCP/IP)\n• Experience: proficiency with scripting languages (Shell, Bash, Python)\n\nHach is proud to part of the Water Quality segment of Veralto (NYSE: VLTO), a $5B global leader dedicated to ensuring access to clean water, safe food and medicine, and trusted essential goods. When you join Veralto’s vibrant global network of 16,000 associates, you join a unique culture and work environment where purpose meets possibility: where the work you do has an everyday impact on the resources and essentials we all rely on, and where you’ll have valuable opportunities to deepen your skillset, pursue your ambitions, and grow your career. Together, we’re Safeguarding the World’s Most Vital Resources™—and building rewarding careers along the way.\n\nFor Colorado roles only: We anticipate this requisition will be open for a minimum of five days, though it may be open for a longer period of time. We encourage your prompt application.\n\nUS ONLY:\n\nThe below range reflects the range of possible compensation for this role at the time of this posting. We may ultimately pay more or less than the posted range. This range may be modified in the future. An associate’s position within the salary range will be based on several factors, including, but not limited to, relevant education, qualifications, certifications, experience, skills, seniority, geographic location, performance, shift, travel requirements, sales or revenue-based metrics, any collective bargaining agreements, and business or organizational needs.\n\nThe compensation range for this role is $110,000.00 - $125,000.00 USD per year. This job is also eligible for Bonus Pay.\n\nWe offer a comprehensive package of benefits including paid time off, medical/dental/vision insurance and 401(k) to eligible employees.\n\nNote: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.\n\nUS residents: In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information.\n\nVeralto Corporation and all Veralto Companies are committed to equal opportunity regardless of race, color, national origin, religion, sex, age, marital status, disability, veteran status, sexual orientation, gender identity, or other characteristics protected by law. We value diversity and the existence of similarities and differences, both visible and not, found in our workforce, workplace and throughout the markets we serve. Our associates, customers and shareholders contribute unique and different perspectives as a result of these diverse attributes.\n\nThe EEO posters are available here.\n\nWe will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions, and to receive other benefits and privileges of employment. Please contact us at applyassistance@veralto.com to request accommodation.\n\nUnsolicited Assistance\n\nWe do not accept unsolicited assistance from any headhunters or recruitment firms for any of our job openings. All resumes or profiles submitted by search firms to any employee at any of the Veralto companies, in any form without a valid, signed search agreement in place for the specific position, approved by Talent Acquisition, will be deemed the sole property of Veralto and its companies. No fee will be paid in the event the candidate is hired by Veralto and its companies because of the unsolicited referral.",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Loveland, CO",
+    "job_city": "Loveland",
+    "job_state": "Colorado",
+    "job_country": "US",
+    "job_latitude": 40.395451,
+    "job_longitude": -105.07458369999999,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_jlj4hE8ZdBZCGXSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Education: minimum of Bachelor’s degree in Computer Engineering, Electrical Engineering, Computer Science, or related field",
+        "Experience: 3-5+ years with C++ user-space development",
+        "Experience: 3-5+ years with microcontrollers and platforms like Linux, RTOS, or bare metal",
+        "Experience: proficiency in Agile methodologies, CI/CD practices, and unit testing",
+        "Education: Master’s degree in Embedded Systems Engineering",
+        "Experience: with Embedded Linux build systems (e.g",
+        "Yocto)",
+        "Experience: knowledge of networking fundamentals (TCP/IP)",
+        "Experience: proficiency with scripting languages (Shell, Bash, Python)",
+        "US residents: In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation"
+      ],
+      "Benefits": [
+        "Comprehensive Benefits from Day 1: Enjoy peace of mind with our extensive medical, dental, vision and 401k coverage",
+        "Inclusive Culture: Be part of a diverse team that fosters collaboration and innovation",
+        "Stability and Growth: When you join Hach, you're not just joining a company; you're becoming part of Veralto, a global network with 13 operating companies, 240+ locations worldwide, and $5B in revenue",
+        "The below range reflects the range of possible compensation for this role at the time of this posting",
+        "We may ultimately pay more or less than the posted range",
+        "An associate’s position within the salary range will be based on several factors, including, but not limited to, relevant education, qualifications, certifications, experience, skills, seniority, geographic location, performance, shift, travel requirements, sales or revenue-based metrics, any collective bargaining agreements, and business or organizational needs",
+        "The compensation range for this role is $110,000.00 - $125,000.00 USD per year",
+        "This job is also eligible for Bonus Pay",
+        "We offer a comprehensive package of benefits including paid time off, medical/dental/vision insurance and 401(k) to eligible employees",
+        "Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable",
+        "The amount and availability of any bonus, commission, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law"
+      ],
+      "Responsibilities": [
+        "Creating new product development solutions that blend hardware and software to revolutionize water quality",
+        "Working with a vibrant, diverse, and high-energy team that values innovation and collaboration",
+        "Being part of a mission-driven company ensuring clean, safe water for people around the globe",
+        "Join our collaborative team to drive growth and innovation for new product development",
+        "As a firmware engineer, you’ll bring water quality products to life by designing and developing cutting-edge embedded solutions",
+        "In this role, a typical day will look like:",
+        "Design and develop embedded solutions for next-generation products",
+        "Collaborate in an Agile team to deliver high-quality firmware using scrum processes",
+        "Use your expertise in C++ and OO design principles to ensure reliable products",
+        "Analyze requirements, estimate effort, and deliver impactful solutions"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "jobs-veralto-com-global-en-job-r10264674-r-d-firmware-embedded-software-engineer",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "pEAvkJRoziOBTa8ZAAAAAA==",
+    "job_title": "Firmware Engineer",
+    "employer_name": "Vertiv Co",
+    "employer_logo": null,
+    "employer_website": "https://www.vertiv.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Vertiv/Job/Firmware-Engineer/-in-Lincoln,NE?jid=b27d688c689b85c3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Vertiv/Job/Firmware-Engineer/-in-Lincoln,NE?jid=b27d688c689b85c3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=44b146811b184810&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/firmware-engineer-vertiv-JV_IC1136371_KO0,17_KE18,24.htm?jl=1010026310392&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/6f9bb464005b9e135ef1554ccedc27b2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/firmware-engineer-vertiv-holdings-co-lincoln-ne_85592671?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/firmware-engineer-lincoln-vertiv-holdings-llc-1bfddb7755eedf9c8367cb23719700d0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/firmware-engineer-at-vertiv-4370110601?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Oracle Cloud Infrastructure (OCI)",
+        "apply_link": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/20260492?utm_medium=search+engine&utm_source=google&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "TheFirmware Engineer will support the Global Rack Power Distribution business and interact with and support Global design, test engineering, product and quality teams. The Firmware Engineer understands and follows the new product development process and participates in the ideation, design, testing and troubleshooting, release to manufacturing, and sustaining activities throughout the product life cycle. This role will focus on rack power distribution products.\n\nThis position will be based onsite at Vertiv's Lincoln, NE location.\n\nResponsibilities:\n• Deliver high-quality, safety-critical C/C++ code executing on real-time embedded system platforms.\n• Design the software architecture and firmware implementation with a strong focus on quality, testability, sustainability, and maintainability for high-volume manufacturing.\n• Responsible for all aspects of firmware design and development for new innovative rack power distribution products and features using embedded microcontrollers designed to measure and collect sensor data, calculate energy metering parameters, and to provide precision control of low-voltage power distribution.\n• Participates in sustaining activities for existing products including diagnosis and resolution of defects.\n• Interact with engineering, marketing, management, and project leads to assure that product development priorities are completed to schedule and budget while ensuring quality and product performance requirements are met.\n• Responsible for keeping excellent, organized project records and documentation.\n• Product development activities include design and development, design reviews, documentation, product verification, coordination with quality assurance, and field validation.\n\nRequirements:\n• Bachelor's Degree or above in Electrical Engineering, Computer Engineering, Computer Science.\n• Proficient in C and fluent in coding best practices for functional and structural software quality, including portability and reusability.\n• Experience with real-time operating systems integration, e.g., FreeRTOS.\n• Experience with managing concurrency and resource sharing in real time environments.\n• Ability to balance the demands for processing, memory, I/O, timing and other resource limitations in small range microcontrollers.\n• Familiar with digital signal processing (DSP) algorithms and analog-to-digital conversion (ADC) techniques is a plus.\n• Experience implementing BSP level boot loader and communication drivers, e.g., RS232, RS485, I2C, SPI.\n• Experience with Git, GitHub, GitLab, MPLAB, and Eclipse IDE tools is a plus.\n• Experience programming 8, 16, and 32-bit microcontrollers, e.g., Freescale Kinetis family, TI MSP, or other ARM Cortex-M architectures, and Microchip PIC family.\n• Ability to utilize troubleshooting tools such as multimeters, oscilloscopes, bus analyzers, and logic analyzers.\n• Strong written and contextual communication skills.\n• Analytical and collaborative thinker with ability to problem solve complex and cross-functional technical issues.\n\n#LI-RB1\n\nThe successful candidate will embrace Vertiv's Core Principals & Behaviors to help execute our Strategic Priorities.\n\nOUR CORE PRINCIPALS: Safety. Integrity. Respect. Teamwork. Diversity & Inclusion.\n\nOUR STRATEGIC PRIORITIES\n• Customer Focus\n• Operational Excellence\n• High-Performance Culture\n• Innovation\n• Financial Strength\n\nOUR BEHAVIORS\n• Own It\n• Act With Urgency\n• Foster a Customer-First Mindset\n• Think Big and Execute\n• Lead by Example\n• Drive Continuous Improvement\n• Learn and Seek Out Development\n\nAt Vertiv, we offer the stability of a global leader in a growing industry and the opportunity of a startup. We design, manufacture and service the mission-critical infrastructure technologies for vital applications in data centers, communication networks and commercial and industrial environments. With $5 billion in sales, a strong customer base and global reach in nearly 70 countries, our move to establish a standalone business enables us to deliver greater value to our customers and create new opportunities for our people.\n\nVertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to help.join@vertivco.com. If you are interested in applying or learning more about this role, please visit the company's career page located on Vertiv.com/Careers\n\nWork Authorization\n\nNo calls or agencies please. Vertiv will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas such as E, F-1, H-1, H-2, L, B, J, or TN or who need sponsorship for work authorization now or in the future, are not eligible for hire.\nWork Authorization\n\nNo calls or agencies please. Vertiv will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas such as E, F-1, H-1, H-2, L, B, J, or TN or who need sponsorship for work authorization now or in the future, are not eligible for hire.\n\nEqual Opportunity Employer\n\nWe promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability.",
+    "job_is_remote": false,
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Lincoln, NE",
+    "job_city": "Lincoln",
+    "job_state": "Nebraska",
+    "job_country": "US",
+    "job_latitude": 40.813663399999996,
+    "job_longitude": -96.7025764,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpEAvkJRoziOBTa8ZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor's Degree or above in Electrical Engineering, Computer Engineering, Computer Science",
+        "Proficient in C and fluent in coding best practices for functional and structural software quality, including portability and reusability",
+        "Experience with real-time operating systems integration, e.g., FreeRTOS",
+        "Experience with managing concurrency and resource sharing in real time environments",
+        "Ability to balance the demands for processing, memory, I/O, timing and other resource limitations in small range microcontrollers",
+        "Experience implementing BSP level boot loader and communication drivers, e.g., RS232, RS485, I2C, SPI",
+        "Experience programming 8, 16, and 32-bit microcontrollers, e.g., Freescale Kinetis family, TI MSP, or other ARM Cortex-M architectures, and Microchip PIC family",
+        "Ability to utilize troubleshooting tools such as multimeters, oscilloscopes, bus analyzers, and logic analyzers",
+        "Strong written and contextual communication skills",
+        "Analytical and collaborative thinker with ability to problem solve complex and cross-functional technical issues",
+        "Customer Focus",
+        "Operational Excellence",
+        "Financial Strength",
+        "Foster a Customer-First Mindset",
+        "Think Big and Execute"
+      ],
+      "Benefits": [
+        "High-Performance Culture"
+      ],
+      "Responsibilities": [
+        "TheFirmware Engineer will support the Global Rack Power Distribution business and interact with and support Global design, test engineering, product and quality teams",
+        "The Firmware Engineer understands and follows the new product development process and participates in the ideation, design, testing and troubleshooting, release to manufacturing, and sustaining activities throughout the product life cycle",
+        "This role will focus on rack power distribution products",
+        "This position will be based onsite at Vertiv's Lincoln, NE location",
+        "Deliver high-quality, safety-critical C/C++ code executing on real-time embedded system platforms",
+        "Design the software architecture and firmware implementation with a strong focus on quality, testability, sustainability, and maintainability for high-volume manufacturing",
+        "Responsible for all aspects of firmware design and development for new innovative rack power distribution products and features using embedded microcontrollers designed to measure and collect sensor data, calculate energy metering parameters, and to provide precision control of low-voltage power distribution",
+        "Participates in sustaining activities for existing products including diagnosis and resolution of defects",
+        "Interact with engineering, marketing, management, and project leads to assure that product development priorities are completed to schedule and budget while ensuring quality and product performance requirements are met",
+        "Responsible for keeping excellent, organized project records and documentation",
+        "Product development activities include design and development, design reviews, documentation, product verification, coordination with quality assurance, and field validation",
+        "Act With Urgency",
+        "Drive Continuous Improvement"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-vertiv-job-firmware-engineer-in-lincoln-ne",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "57KU_YAOtqHUx-VgAAAAAA==",
     "job_title": "Senior Firmware Engineer",
     "employer_name": "Advanced Energy Industries, Inc",
@@ -456,16 +729,16 @@
         "is_direct": false
       },
       {
-        "publisher": "Sonara",
-        "apply_link": "https://www.sonara.ai/job-details/1c4ec5e4-e063-d20a-8a69-e5d8fad9ec85?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
+        "publisher": "EarnBetter",
+        "apply_link": "https://earnbetter.com/app/job/01JM2QF5JPS9N41W3MHH1CY40W/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
       }
     ],
     "job_description": "ABOUT ADVANCED ENERGY\n\nAdvanced Energy (Nasdaq: AEIS) is a global leader in the design and manufacturing of highly engineered, precision power conversion, measurement and control solutions for mission-critical applications and processes. AE’s power solutions enable customer innovation in complex applications for a wide range of industries including semiconductor equipment, industrial, manufacturing, telecommunications, data center computing and healthcare. Advanced Energy has devoted four decades to perfecting power for its global customers and is headquartered in Denver, Colorado.\n\nPOSITION SUMMARY:\n\nA Firmware Engineer will design, modify, and evaluate embedded software, and/or programmable logic and/or electronic apparatus, components, or circuitry for use in electronic equipment and devices. You will perform engineering work in basic and applied research, development, and/or design of new products and/or sustaining of existing products. Future possibilities may include electrical design and FPGA work if there is talent and interest.\n\nRESPONSIBILITIES:\n• Participates in all phases of the Firmware development life cycle, including requirements analysis, design, implementation, integration, and test of all products.\n• Responsible for research, design, and development of computer software systems, in conjunction with hardware product development.\n• Applies computer science, engineering, and mathematical analysis concepts and principles in the development of software for the target application.\n• Demonstrates and applies comprehensive knowledge of power electronics and controls design to the successful completion of complex projects\n• Works closely with cross functional members of the engineering organization to develop and evaluate interfaces between hardware and software, and operational performance requirements and design of the overall system.\n• Develop software test procedures, software programs, and related documentation.\n• Contributes to determining, estimating, and validating the cost and scope of software efforts to ensure software performed meets program cost, schedule, and technical constraints.\n• Develop C++ Applications on embedded Systems including FPGAs and SOCs.\n• Implement assigned projects and project tasks to provide software engineering solutions including software design, documentation, verification and validation, used in evaluating, testing and processing high fidelity data acquisition systems.\n• Implement advanced software development techniques in compliance with technical reference architecture\n• Participate in on-going code reviews to improve software stability and maintainability of an aging code base\n• Perform technical review, design analysis, development and selection of hardware and mission critical computer software.\n\nWORK ENVIRONMENT:\n• Location: Wilmington, MA; Some domestic and international travel may be required  \n• Environment: Standard office environment, possible interaction through a production factory environment; uses electronic equipment and can work with high voltage    \n\nQUALIFICATIONS:\n• Demonstrates a sense of urgency and unmatched responsiveness to all work requests and customer deadlines.\n• Demonstrates a consistent, dependable work effort and accepts accountability for one’s actions\n• Completes assigned tasks within specified time limits.\n• Helps promote a cohesive and cooperative work group.\n• Understands safety regulations, takes proper care of equipment, and acts in a safe manner.\n• Strong communication skills, ability to present ideas in a clear and persuasive manner, both orally and in writing\n• Capability to respond quickly, decisively, and professionally to changing requirements\n• Excellent judgment and initiative, including the ability to effectively balance multiple priorities\n• Good analytical and problem-solving tools\n• Good interpersonal skills. Capable of team building (external & internal) to drive cross-functional collaboration\n• Strong priority setting skills, desire to meet project, tasks, and/or assignment deadlines\n• Can work with minimal supervision, with ability to multi-task in a dynamic environment\n\nEXPERIENCE:\n\nEssential\n• Proven working minimum 6 years of valid experience in embedded firmware/software engineering\n• Background in Power Electronics and/or Power Conversion disciplines\n• Experience in hands-on development and troubleshooting on embedded targets\n• Solid programming experience in C or C++\n• Proven experience in digital control of feedback systems\n• Proven experience in embedded systems design with preemptive, multitasking real-time algorithms and operating systems\n• Familiarity with software configuration management tools, defect tracking tools, unit code testing and peer review\n• Excellent knowledge of OS coding techniques, IP protocols, interfaces and hardware subsystems\n• Adequate knowledge of reading schematics and data sheets for components\n\nDesirable\n• Advanced Degree in Engineering or Physics\n• Knowledge of a scripting language (Python, Matlab)\n• Knowledge of RF Power Design\n• Knowledge of digital signal processing (DSP) and algorithm development experience. (Digital PLLs, Digital Filters, Array Processing, etc)\n• Programming experience in Visual Basic environment\n• Excellent mathematical and analytical skills\n• Ability to work well in a team environment\n• Experience in medical device firmware and/or designing in compliance with IEC 62304 an advantage\n• Experience in various forms of industrial communication protocols an advantage\n• VHDL and / or Verilog programming\n\nEDUCATION:\n• Bachelor’s Degree in Engineering or Computer Science\n\nCOMPENSATION:\n\nAs required by multiple state pay transparency laws, Advanced Energy provides a reasonable range of compensation for each job posting. Actual compensation is influenced by an array of factors including, but not limited to, skill set, level of experience, and specific office location. The range of starting pay for this role is $125,000 to $148,000 per year.\n\nBENEFITS:\n\nAs part of our total rewards philosophy, we believe in offering and maintaining competitive compensation and benefits programs for our employees to attract and retain a talented, highly engaged workforce. Our compensation programs are focused on equitable, fair pay practices including market-based base pay, an annual pay-for-performance incentive plan for eligible positions, and a discounted Employee Stock Purchase Plan.\n\nIn addition to our competitive compensation practices, we offer a strong benefits package in each of the countries in which we operate. In the U.S., we offer a rich benefits package that includes:\n• Medical - multiple medical plans are available to choose from\n• Short and long-term disability and life insurance\n• Health savings and flexible spending accounts\n• Generous time off policy starting with 3 weeks of paid vacation, 7 days of paid sick time, and 12 paid holidays\n• 8 hours of paid volunteer time off\n• 8 weeks of paid parental leave for both Moms and Dads\n• Company matched 401(k)\n• Tuition reimbursement\n• Expanded mental health coverage and employee assistance programs\n• Other voluntary benefits include critical illness, accident and hospital indemnity, pet insurance, identify theft, and legal assistance\n\nAdvanced Energy is committed to diversity in its workforce including Equal Opportunity Employment. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, and/or veteran status.\n\nAdvanced Energy is also committed to providing reasonable accommodations in our job application process/procedures for qualified individuals with disabilities. If you require assistance in completing an Advanced Energy application, please reach out to HumanResources@aei.com",
     "job_is_remote": false,
-    "job_posted_at": "20 hours ago",
-    "job_posted_at_timestamp": 1771228800,
-    "job_posted_at_datetime_utc": "2026-02-16T08:00:00.000Z",
+    "job_posted_at": "21 hours ago",
+    "job_posted_at_timestamp": 1771225200,
+    "job_posted_at_datetime_utc": "2026-02-16T07:00:00.000Z",
     "job_location": "Wilmington, MA",
     "job_city": "Wilmington",
     "job_state": "Massachusetts",
@@ -629,9 +902,9 @@
     "job_latitude": 41.058623399999995,
     "job_longitude": -74.7536066,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUUV847uJNFwzOD4fAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -684,120 +957,6 @@
     "job_onet_soc": "15113300",
     "job_onet_job_zone": "4",
     "id": "www-thorlabs-com-careers-job-327eeb6da8",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "pEAvkJRoziOBTa8ZAAAAAA==",
-    "job_title": "Firmware Engineer",
-    "employer_name": "Vertiv Co",
-    "employer_logo": null,
-    "employer_website": "https://www.vertiv.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Vertiv/Job/Firmware-Engineer/-in-Lincoln,NE?jid=b27d688c689b85c3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Vertiv/Job/Firmware-Engineer/-in-Lincoln,NE?jid=b27d688c689b85c3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=44b146811b184810&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/firmware-engineer-vertiv-JV_IC1136371_KO0,17_KE18,24.htm?jl=1010026310392&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/6f9bb464005b9e135ef1554ccedc27b2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/firmware-engineer-vertiv-holdings-co-lincoln-ne_85592671?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/firmware-engineer-lincoln-vertiv-holdings-llc-1bfddb7755eedf9c8367cb23719700d0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/firmware-engineer-at-vertiv-4370110601?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Oracle Cloud Infrastructure (OCI)",
-        "apply_link": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/20260492?utm_medium=search+engine&utm_source=google&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "TheFirmware Engineer will support the Global Rack Power Distribution business and interact with and support Global design, test engineering, product and quality teams. The Firmware Engineer understands and follows the new product development process and participates in the ideation, design, testing and troubleshooting, release to manufacturing, and sustaining activities throughout the product life cycle. This role will focus on rack power distribution products.\n\nThis position will be based onsite at Vertiv's Lincoln, NE location.\n\nResponsibilities:\n• Deliver high-quality, safety-critical C/C++ code executing on real-time embedded system platforms.\n• Design the software architecture and firmware implementation with a strong focus on quality, testability, sustainability, and maintainability for high-volume manufacturing.\n• Responsible for all aspects of firmware design and development for new innovative rack power distribution products and features using embedded microcontrollers designed to measure and collect sensor data, calculate energy metering parameters, and to provide precision control of low-voltage power distribution.\n• Participates in sustaining activities for existing products including diagnosis and resolution of defects.\n• Interact with engineering, marketing, management, and project leads to assure that product development priorities are completed to schedule and budget while ensuring quality and product performance requirements are met.\n• Responsible for keeping excellent, organized project records and documentation.\n• Product development activities include design and development, design reviews, documentation, product verification, coordination with quality assurance, and field validation.\n\nRequirements:\n• Bachelor's Degree or above in Electrical Engineering, Computer Engineering, Computer Science.\n• Proficient in C and fluent in coding best practices for functional and structural software quality, including portability and reusability.\n• Experience with real-time operating systems integration, e.g., FreeRTOS.\n• Experience with managing concurrency and resource sharing in real time environments.\n• Ability to balance the demands for processing, memory, I/O, timing and other resource limitations in small range microcontrollers.\n• Familiar with digital signal processing (DSP) algorithms and analog-to-digital conversion (ADC) techniques is a plus.\n• Experience implementing BSP level boot loader and communication drivers, e.g., RS232, RS485, I2C, SPI.\n• Experience with Git, GitHub, GitLab, MPLAB, and Eclipse IDE tools is a plus.\n• Experience programming 8, 16, and 32-bit microcontrollers, e.g., Freescale Kinetis family, TI MSP, or other ARM Cortex-M architectures, and Microchip PIC family.\n• Ability to utilize troubleshooting tools such as multimeters, oscilloscopes, bus analyzers, and logic analyzers.\n• Strong written and contextual communication skills.\n• Analytical and collaborative thinker with ability to problem solve complex and cross-functional technical issues.\n\n#LI-RB1\n\nThe successful candidate will embrace Vertiv's Core Principals & Behaviors to help execute our Strategic Priorities.\n\nOUR CORE PRINCIPALS: Safety. Integrity. Respect. Teamwork. Diversity & Inclusion.\n\nOUR STRATEGIC PRIORITIES\n• Customer Focus\n• Operational Excellence\n• High-Performance Culture\n• Innovation\n• Financial Strength\n\nOUR BEHAVIORS\n• Own It\n• Act With Urgency\n• Foster a Customer-First Mindset\n• Think Big and Execute\n• Lead by Example\n• Drive Continuous Improvement\n• Learn and Seek Out Development\n\nAt Vertiv, we offer the stability of a global leader in a growing industry and the opportunity of a startup. We design, manufacture and service the mission-critical infrastructure technologies for vital applications in data centers, communication networks and commercial and industrial environments. With $5 billion in sales, a strong customer base and global reach in nearly 70 countries, our move to establish a standalone business enables us to deliver greater value to our customers and create new opportunities for our people.\n\nVertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to help.join@vertivco.com. If you are interested in applying or learning more about this role, please visit the company's career page located on Vertiv.com/Careers\n\nWork Authorization\n\nNo calls or agencies please. Vertiv will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas such as E, F-1, H-1, H-2, L, B, J, or TN or who need sponsorship for work authorization now or in the future, are not eligible for hire.\nWork Authorization\n\nNo calls or agencies please. Vertiv will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas such as E, F-1, H-1, H-2, L, B, J, or TN or who need sponsorship for work authorization now or in the future, are not eligible for hire.\n\nEqual Opportunity Employer\n\nWe promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability.",
-    "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Lincoln, NE",
-    "job_city": "Lincoln",
-    "job_state": "Nebraska",
-    "job_country": "US",
-    "job_latitude": 40.813663399999996,
-    "job_longitude": -96.7025764,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpEAvkJRoziOBTa8ZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor's Degree or above in Electrical Engineering, Computer Engineering, Computer Science",
-        "Proficient in C and fluent in coding best practices for functional and structural software quality, including portability and reusability",
-        "Experience with real-time operating systems integration, e.g., FreeRTOS",
-        "Experience with managing concurrency and resource sharing in real time environments",
-        "Ability to balance the demands for processing, memory, I/O, timing and other resource limitations in small range microcontrollers",
-        "Experience implementing BSP level boot loader and communication drivers, e.g., RS232, RS485, I2C, SPI",
-        "Experience programming 8, 16, and 32-bit microcontrollers, e.g., Freescale Kinetis family, TI MSP, or other ARM Cortex-M architectures, and Microchip PIC family",
-        "Ability to utilize troubleshooting tools such as multimeters, oscilloscopes, bus analyzers, and logic analyzers",
-        "Strong written and contextual communication skills",
-        "Analytical and collaborative thinker with ability to problem solve complex and cross-functional technical issues",
-        "Customer Focus",
-        "Operational Excellence",
-        "Financial Strength",
-        "Foster a Customer-First Mindset",
-        "Think Big and Execute"
-      ],
-      "Benefits": [
-        "High-Performance Culture"
-      ],
-      "Responsibilities": [
-        "TheFirmware Engineer will support the Global Rack Power Distribution business and interact with and support Global design, test engineering, product and quality teams",
-        "The Firmware Engineer understands and follows the new product development process and participates in the ideation, design, testing and troubleshooting, release to manufacturing, and sustaining activities throughout the product life cycle",
-        "This role will focus on rack power distribution products",
-        "This position will be based onsite at Vertiv's Lincoln, NE location",
-        "Deliver high-quality, safety-critical C/C++ code executing on real-time embedded system platforms",
-        "Design the software architecture and firmware implementation with a strong focus on quality, testability, sustainability, and maintainability for high-volume manufacturing",
-        "Responsible for all aspects of firmware design and development for new innovative rack power distribution products and features using embedded microcontrollers designed to measure and collect sensor data, calculate energy metering parameters, and to provide precision control of low-voltage power distribution",
-        "Participates in sustaining activities for existing products including diagnosis and resolution of defects",
-        "Interact with engineering, marketing, management, and project leads to assure that product development priorities are completed to schedule and budget while ensuring quality and product performance requirements are met",
-        "Responsible for keeping excellent, organized project records and documentation",
-        "Product development activities include design and development, design reviews, documentation, product verification, coordination with quality assurance, and field validation",
-        "Act With Urgency",
-        "Drive Continuous Improvement"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-vertiv-job-firmware-engineer-in-lincoln-ne",
     "_source": "new_jobs"
   },
   {
@@ -912,9 +1071,9 @@
     ],
     "job_description": "Job Purpose\n\nProgress Rail Services Corporation, a Caterpillar Company and a leading provider of services to the Railroad industry in the US, Canada, Mexico, and Brazil, is seeking a highly motivated and experienced SENIOR FIRMWARE ENGINEER to join our team. This role performs the complete software lifecycle for company-developed embedded devices, including software design, implementation, maintenance and end-of-life management. This role is a senior, highly skilled and experienced member of the department and, as such, you’ll be expected to take on additional responsibilities beyond the scope of the immediate job. This position is in Independence, MO.\n\nReq ID\n\n11619BR\n\nWork Location Options\n\nGreater Kansas City Area\n\nCity\n\nIndependence\n\nState:\n\nMissouri\n\nCompany Description\n\nProgress Rail stands at the intersection of legacy and innovation—driving the future of rail with a pioneering spirit. Since its founding in 1983, the company has grown to become one of the world’s largest and most trusted providers of railroad products, services, and technologies. Today, Progress Rail delivers a comprehensive portfolio of cost-effective solutions to railway customers around the globe. From the rails themselves to the EMD® locomotives that ride them, the company’s products are in operation across more than 100 countries—powering progress and connecting communities. In 2006, Progress Rail joined Caterpillar Inc., further strengthening its ability to lead the rail industry with cutting-edge technology, unmatched expertise, and a commitment to excellence. At Progress Rail, the team is not just building the future of rail—they are making history every day.\n\nKey Job Elements\n• Familiarity with common Linux-based operating systems from available software frameworks;\n• Customizes operating systems for product-specific roles;\n• Provides evaluation of hardware for operating system utilization;\n• Provides customization of operating system for specific hardware utilization;\n• Designs software components in operating system specialization;\n• Implements software components in operating system specialization;\n• Maintains software components in operating system specialization, including testing and validation;\n• Performs other job-related duties as assigned.\n\nEducation / Training\n• Bachelor's degree in Electrical Engineering or Computer Science with functional cross-domain skills in working with hardware engineering.\n\nQualifications And Experience\n• Bachelor’s degree in electrical engineering or computer science with functional cross-domain skills in working with hardware engineering;\n• 5 -7+ years of solid embedded software and/or hardware driver development experience;\n• Capable of designing and implementing software, utilizing best practices;\n• Cross-discipline familiarity with embedded devices of different architectures and hardware specifics, ability to work with associated software and\n\nlab-based tools to facilitate completion of tasks;\n• Ability to work with hardware schematics and data sheets to understand impacts to software;\n• Ability to work with stakeholders on appropriate designs and implementation details;\n• Ability to read and modify code written by other people;\n• Proficiency in Microsoft Office (MS Word, PowerPoint and Excel).\n\nPreferred:\n• Software development proficiency in C, C++, C#, Python;\n• Experience with QNX;\n• Rust experience is a strong plus;\n• Full development life cycle from requirements, design, development, board bring-up, to product support;\n• Software engineering best practices for estimation, design, unit, and system testing;\n• Experience with container technologies (Docker, Containerd) or VM;\n• Experience with communication protocols such as TCP/IP, CAN, SPI;\n• Experience with secure protocols such as SSL, SSH;\n• Experience using Agile in a structured development environment such as DO 178C, ISO 26262 or IEC 61508;\n• Experience with Matroska library or Live555 library or another media container or RTP/RTSP library;\n• Excellent organizational, technical leadership and interpersonal skills;\n• Excellent written and oral communication skills; ability to communicate technical concepts and support assertions with data; ability to make\n\ndecisions based on facts;\n• Experience with AWS or other cloud services;\n• Understanding of secure coding concepts;\n• Self-motivated with a strong sense of team environment.\n\nEssential and Physical Activities Functions:\n• Strength - Position typically involves work in an office environment with frequent visits to manufacturing environment. Frequent/constant sitting. Occasional standing and walking. Occasional light- to medium- level lifting or carrying (up to 30 pounds);\n• Motion - Position regularly requires standard motions associated with working in an office environment;\n• Vision/Hearing Requirements - Frequent verbal communications, including both talking and hearing;\n• Work Environment- Position is typically located in an office environment with occasional visits to an industrial environment which may include a non-temperature-controlled environment, as well as exposure to noise (85+ decibels), occasional exposure to temperature changes, heavy machinery and other hazardous working conditions requiring the use of PPE;\n• Emotional Demands - Very high level of responsibility. Must be able to coordinate diverse aspects of a project. Requires significant interpersonal skills while sustaining very high standards. Domestic and international travel as required;\n• Safety - Position may occasionally require the use of Personal Protective Equipment during visits to industrial areas.\n\nThe preceding description is not designed to be a complete list of all duties and responsibilities required of a Senior Firmware Engineer.\n\nBenefits\n\nCompensation and benefits offered may vary depending on multiple individualized factors, job level, market location, job-related knowledge, skills, individual performance, and experience. Please note that salary is only one component of total compensation at Progress Rail.**\n• Competitive Salary\n• 401(k) plan with up to 6% company match (no waiting period with immediate vesting)\n• Medical/Dental/Vision/Life/Disability Insurance\n• Supplemental Accident, Critical Care, and Hospital Insurance available along with an HDHP and HSA with seed money\n• Flexible Spending Accounts\n• Paid Vacation\n• Paid Holidays\n• Paid Time-Off (PTO)\n• Employee Assistance Plan\n• Education Assistance Program\n• Employee Recognition Programs\n• Site specific Production and Incentive Plans\n• Site specific Step and Skill Level Wage Adjustment Plans\n• Site Specific Relocation and Sign-on Bonus Programs\n• Benefits eligibility varies by job position, full-time/part-time and regular/temporary status. The provisions of the plan documents control such benefits.\n• Subject to position, eligibility, and plan guidelines. EEO Progress Rail is an Equal Opportunity Employer, including Veterans and Individuals with Disabilities.\n\nJob Category\n\nEngineering\n\nPRS Facility Location\n\nIndependence, MO PRIIS - 287",
     "job_is_remote": false,
-    "job_posted_at": "12 hours ago",
-    "job_posted_at_timestamp": 1771257600,
-    "job_posted_at_datetime_utc": "2026-02-16T16:00:00.000Z",
+    "job_posted_at": "13 hours ago",
+    "job_posted_at_timestamp": 1771254000,
+    "job_posted_at_datetime_utc": "2026-02-16T15:00:00.000Z",
     "job_location": "Independence, MO",
     "job_city": "Independence",
     "job_state": "Missouri",
@@ -922,9 +1081,9 @@
     "job_latitude": 39.0911161,
     "job_longitude": -94.41550679999999,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMhMp7tKVOakeni3GAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1166,59 +1325,77 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "4KraC8oHZOl4dh5QAAAAAA==",
-    "job_title": "Senior Firmware Engineer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
+    "job_id": "vjtQ5MskOU0ElfPKAAAAAA==",
+    "job_title": "Senior Firmware Engineer 2",
+    "employer_name": "Rocket Lab USA",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhmTPlXd3rAFz8wQmNX3kjLkTQgxnniu4bZ35V&s=0",
+    "employer_website": "https://rocketlabcorp.com",
+    "job_publisher": "Simplify",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=77b1a63b9ab1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://simplify.jobs/p/14c9ba5d-845a-49d1-b11d-1ad46bb1e442/Senior-Firmware-Engineer-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=77b1a63b9ab1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Simplify",
+        "apply_link": "https://simplify.jobs/p/14c9ba5d-845a-49d1-b11d-1ad46bb1e442/Senior-Firmware-Engineer-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "A company is looking for a Senior Firmware Engineer to join their team working on an open-source hardware wallet.\n\nKey Responsibilities\n\nContribute to the firmware for the Jade wallet by writing secure C / Python code\n\nEnhance support for advanced signing protocols like taproot and atomic swaps\n\nDesign features for secure communication and cryptographic primitives\n\nRequired Qualifications\n\nExperience in C / C++ development for microcontrollers, specifically with esp32 / esp32s\n\nStrong understanding of Bitcoin internals, including Taproot and SegWit\n\nKnowledge of secure boot and memory protection techniques\n\nFamiliarity with low-level protocols such as SPI, I2C, and UART\n\nActive GitHub presence with contributions to open-source projects",
+    "job_description": "ABOUT ROCKET LAB\n\nRocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more – all with the goal of opening access space. The rockets and satellites we build, and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observation and missions to combat climate change, national security, and exciting new technology demonstrations.\n\nOur Electron rocket has become the second most frequently launched U.S. rocket annually and has delivered more than 230 satellites to orbit, all while we work to develop Neutron, our upcoming medium-lift, reusable launch vehicle for larger constellation deployment. Our Space Systems business designs and builds our extensive line of satellites, payloads, and their components, including spacecraft that have been selected to support NASA missions to the Moon and Mars and components used on the James Webb Space Telescope.\n\nSPACE SYSTEMS\n\nAt Rocket Lab, we’re not just launching rockets — we're building the future of space. Our Space Systems team builds everything from complete spacecraft, precision payloads to the components and subsystems that allow them to thrive in space, like solar panels, flight software, star trackers, optical systems, separation systems, radios, and more.\n\nOur Space Systems team has enabled more than 1,700 missions, ranging from interplanetary exploration, in-space manufacturing to national security and defense initiatives. The team has built spacecraft, payloads, and components for missions to the Moon and Mars, working with partners including NASA, the Space Development Agency, and the U.S. Space Force. Whether it’s a single high-performance spacecraft, constellation, or the vertically integrated components that help them get to space — our world class Space Systems team is empowering some of the boldest and most ambitious space missions.\n\nSENIOR FIRMWARE ENGINEER II\n\nRocket Lab’s Optical Systems division solves mission-critical space domain and Intelligence, Surveillance, and Reconnaissance (ISR) challenges for Department of Defense (DoD) and Intelligence Community (IC) customers. Our vision is to revolutionize the space-based payload market with innovative and novel designs for space, terrestrial, and airborne environments. Building on more than 20 years of electro-optical and infrared systems innovation from Geost, Optical Systems delivers solutions to the warfighter for responsive, scalable sensing solutions across all orbital domains.\n\nAs a Senior Firmware Engineer II based at our Optical Systems sites in Tucson, AZ, you will have the opportunity to support Tranche 3 of the U.S. Space Development Agency's (SDA) Proliferated Warfighter Space Architecture (PWSA) using the latest FPGA technologies including Xilinx to support advanced Electro-Optical (EO/IR) technology.\n\nWHAT YOU’LL GET TO DO\n• Work with the hardware design team on requirements.\n• Complete FPGA logic design, coding, simulation, and testing.\n• Support hardware and software development teams in bring-up and test of products.\n• Provide subject-matter expertise regarding design and automated test development procedures to customers and production support team.\n• Perform research and analysis of data, such as customer proposed specifications, datasheets, or manuals to determine design approach and/or feasibility.\n• Execute debugging of the design in the lab.\n• Perform synthesis, implementation, and timing analysis.\n\nYOU’LL BRING THESE QUALIFICATIONS AS SENIOR FIRMWARE ENGINEER II:\n• Bachelor’s degree in computer engineering or electrical engineering or equivalent discipline with 8-12 years of experience\n• Experience in FPGA firmware design with VHDL.\n• Ability to obtain and maintain an U.S. Government Security Clearance\n\nTHESE QUALIFICATIONS WOULD BE NICE TO HAVE:\n• Experience with Xilinx/AMD Versal architecture\n• Experience with FPGAs and embedded systems in a radiation environment, including SEU/SEL impact and mitigation.\n• Experience in FPGA- or ASIC-based image processing algorithms.\n• Experience in both creating IP from scratch in RTL and integrating existing IP into RTL and block designs.\n• Familiarity with C, Python or MATLAB and/or experience translating algorithms from a scripted language to HDL.\n• Experience with software interfaces including interrupts and DMA.\n• Experience with DDR4, Aurora, and high-speed transceiver design and verification.\n• Familiarity with AXI Stream and AXI Memory Mapped interfaces.\n• PCB design and schematic capture and layout with tools such as Altium Designer.\n• Active TS/SCI security clearance.\n\nADDITIONAL REQUIREMENTS:\n• Specific vision abilities required by this job include close vision, distance vision, peripheral vision, depth perception, and the ability to focus\n• Regularly required to sit, use hands and fingers, operate computer keyboard and controls, and communicate verbally and in writing\n• Must be physically able to commute to buildings\n\nWHAT TO EXPECT\n\nWe’re on a mission to unlock the potential of space to improve life on Earth, but that’s not an easy task. It takes hard work, determination, relentless innovation, teamwork, grit, and an unwavering commitment to achieving what others often deem impossible. Our people out-think, out-work and out-pace. We pride ourselves on having each other’s backs, checking our egos at the door, and rolling up our sleeves on all tasks big and small. We thrive under pressure, work to tight deadlines, and our focus is always on how we can deliver, rather than dwelling on the challenges that stand in the way.\n\nImportant information:\n\nFOR CANDIDATES SEEKING TO WORK IN US OFFICES ONLY:\n\nTo conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum, or be eligible to obtain the required authorizations from the U.S. Department of State and/or the U.S. Department of Commerce, as applicable. Learn more about ITAR here.\n\nRocket Lab provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment at Rocket Lab, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.\n\nApplicants requiring a reasonable accommodation for the application/interview process for a job in the United States should contact Giulia Johnson at g.biow@rocketlabusa.com.This dedicated resource is intended solely to assist job seekers with disabilities whose disability prevents them from being able to apply/interview. Only messages left for this purpose will be considered. A response to your request may take up to two business days.\n\nFOR CANDIDATES SEEKING TO WORK IN NEW ZEALAND OFFICES ONLY:\n\nFor security reasons background checks will be undertaken prior to any employment offers being made to an applicant. These checks will include nationality checks as it is a requirement of this position that you be eligible to access equipment and data regulated by the United States' International Traffic in Arms Regulations.\n\nUnder these Regulations, you may be ineligible for this role if you do not hold citizenship of Australia, Japan, New Zealand, Switzerland, the European Union or a country that is part of NATO, or if you hold ineligible dual citizenship or nationality. For more information on these Regulations, click here ITAR Regulations.",
     "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Washington, DC",
-    "job_city": "Washington",
-    "job_state": "District of Columbia",
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Tucson, AZ",
+    "job_city": "Tucson",
+    "job_state": "Arizona",
     "job_country": "US",
-    "job_latitude": 38.9072873,
-    "job_longitude": -77.0369274,
+    "job_latitude": 32.2539787,
+    "job_longitude": -110.97417689999999,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4KraC8oHZOl4dh5QAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DvjtQ5MskOU0ElfPKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Experience in C / C++ development for microcontrollers, specifically with esp32 / esp32s",
-        "Strong understanding of Bitcoin internals, including Taproot and SegWit",
-        "Knowledge of secure boot and memory protection techniques",
-        "Familiarity with low-level protocols such as SPI, I2C, and UART",
-        "Active GitHub presence with contributions to open-source projects"
+        "Bachelor’s degree in computer engineering or electrical engineering or equivalent discipline with 8-12 years of experience",
+        "Experience in FPGA firmware design with VHDL",
+        "Ability to obtain and maintain an U.S. Government Security Clearance",
+        "Experience with Xilinx/AMD Versal architecture",
+        "Experience with FPGAs and embedded systems in a radiation environment, including SEU/SEL impact and mitigation",
+        "Experience in FPGA- or ASIC-based image processing algorithms",
+        "Experience in both creating IP from scratch in RTL and integrating existing IP into RTL and block designs",
+        "Familiarity with C, Python or MATLAB and/or experience translating algorithms from a scripted language to HDL",
+        "Experience with software interfaces including interrupts and DMA",
+        "Experience with DDR4, Aurora, and high-speed transceiver design and verification",
+        "Familiarity with AXI Stream and AXI Memory Mapped interfaces",
+        "PCB design and schematic capture and layout with tools such as Altium Designer",
+        "Active TS/SCI security clearance",
+        "Specific vision abilities required by this job include close vision, distance vision, peripheral vision, depth perception, and the ability to focus",
+        "Regularly required to sit, use hands and fingers, operate computer keyboard and controls, and communicate verbally and in writing",
+        "Must be physically able to commute to buildings",
+        "To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum, or be eligible to obtain the required authorizations from the U.S",
+        "These checks will include nationality checks as it is a requirement of this position that you be eligible to access equipment and data regulated by the United States' International Traffic in Arms Regulations",
+        "Under these Regulations, you may be ineligible for this role if you do not hold citizenship of Australia, Japan, New Zealand, Switzerland, the European Union or a country that is part of NATO, or if you hold ineligible dual citizenship or nationality"
       ],
       "Responsibilities": [
-        "Contribute to the firmware for the Jade wallet by writing secure C / Python code",
-        "Enhance support for advanced signing protocols like taproot and atomic swaps",
-        "Design features for secure communication and cryptographic primitives"
+        "Work with the hardware design team on requirements",
+        "Complete FPGA logic design, coding, simulation, and testing",
+        "Support hardware and software development teams in bring-up and test of products",
+        "Provide subject-matter expertise regarding design and automated test development procedures to customers and production support team",
+        "Perform research and analysis of data, such as customer proposed specifications, datasheets, or manuals to determine design approach and/or feasibility",
+        "Execute debugging of the design in the lab",
+        "Perform synthesis, implementation, and timing analysis"
       ]
     },
     "job_onet_soc": "15113300",
     "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
+    "id": "simplify-jobs-p-14c9ba5d-845a-49d1-b11d-1ad46bb1e442-senior-firmware-engineer-2",
     "_source": "new_jobs"
   },
   {
