@@ -66,8 +66,8 @@
     "job_latitude": 42.4303138,
     "job_longitude": -71.460433,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
+      "paid_time_off",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dw3HDqeU32vecxDUkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -193,9 +193,9 @@
     "job_latitude": 37.368829999999996,
     "job_longitude": -122.0363496,
     "job_benefits": [
+      "health_insurance",
       "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DO2PsNjmfqybsvd08AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 110000,
@@ -235,6 +235,127 @@
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
     "id": "www-indeed-com-viewjob",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "Ny5QCtj8nnstDKRJAAAAAA==",
+    "job_title": "ASIC/FPGA Verification Engineer V",
+    "employer_name": "Lockheed Martin",
+    "employer_logo": null,
+    "employer_website": "https://www.lockheedmartin.com",
+    "job_publisher": "Lockheed Martin Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.lockheedmartinjobs.com/job/denver/asic-fpga-verification-engineer-v/694/91657966096?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Lockheed Martin Careers",
+        "apply_link": "https://www.lockheedmartinjobs.com/job/denver/asic-fpga-verification-engineer-v/694/91657966096?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/31bab183-ade4-4f2d-b7a6-4b7ee700e5f9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/asic-fpga-verification-engineer-iii-at-lockheed-martin-4366654947?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/348ba956fbfaf88ae47e4cfd7fcb1d08?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/697ed1307f40342e15d78033?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JOBSwithDOD",
+        "apply_link": "https://jobswithdod.com/defense-company-jobs/asic-fpga-verification-engineer-iii-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "EmbeddedJobs",
+        "apply_link": "https://embedded.jobs/job/ASIC-FPGA-Verification-Engineer-III-with-Lockheed-Martin-0d29fa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/highlands-ranch/colorado/engineering/4875281151/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Description:Join Our Team as a ASIC/FPGA Verification Engineer where you will work on the development of a sophisticated state-of-the-art avionics product in a world class Integrated Product Development environment.\n\nLocation: This position does not support teleworking; the selected candidate will be located near our Lockheed Martin Space facility in:\n\n• Denver CO or Highlands Ranch CO\n• Sunnyvale CA\n\nYou will work a flexible 9x80 schedule in the office full-time.\n\nAbout Lockheed Martin Space\n\nSpace is a critical domain, connecting our technologies, our security, and our humanity. While others view space as a destination, we see it as a realm of possibilities, where we can do more — we can innovate, invest, inspire, and integrate our capabilities to transform the future.\n\nAt Lockheed Martin Space, we aim to harness the full potential of space to cultivate innovation, reduce costs, and push the boundaries of what technology can achieve. We’re creating future-ready solutions, focusing on resiliency and urgency through our 21st Century Security® vision. We’re erasing boundaries and forming partnerships across industries and around the world. We’re advancing spacecraft and the workforce to fuel the next generation. And we’re reimagining how space can connect us, ensuring security and prosperity. Join us in shaping a new era in space and find a career that's built for you.\n\nWhat does this role look like?\n\nThe Silicon Solutions team of Lockheed Martin Space is building the best ASIC/FPGA team in the world, and are seeking a highly talented and motivated ASIC & FPGA Verification Engineer who has a passion for microchip design and space.\n\nKey activities you will accomplish in this role:\n\n• Support other aspects of ASIC and FPGA development such as architecture, design, analysis, and test.\n• Support technical reviews and be able to present to internal and external customers\n• Devise a unique verification plan for a given design.\n• Use SystemVerilog and Universal Verification Methodology (UVM) to verify a design in a Linux-based high-performance computing environment.\n• Document verification plan and results.\n• Work with an independent verification team to resolve bugs found in the design.\n• Support other aspects of ASIC and FPGA development such as architecture, design, analysis, and test.\n• Support technical reviews and be able to present to internal and external customers\n\nTo be effective in this role, you will need:\n\n• ASIC/FPGA verification experience with modern verification methodologies such as UVM, OVM or VMM.\n• 8+ years professional experience.\n• While no clearance is needed to start in this position, you will need to obtain and maintain a DoD Secret clearance, thus US Citizenship is required.\n\nWhy Lockheed Martin?\n\nOur employees play an active role in strengthening the quality of life where we live and work by volunteering more than 850,000 hours annually.\n\nLearn more about Lockheed Martin’s comprehensive benefits package.\n\nAt Space we value your skills, training, and education. We believe that by applying the highest standards of business ethics and visionary thinking, everything is within our reach – and yours as a Lockheed Martin Space employee… join us to experience your future!\n\nLet’s do Space!\nBasic Qualifications:\n• Bachelor of Science or higher from an accredited college in Electrical Engineering or related discipline, or equivalent experience/combined education.\n\n• Experience in the verification of FPGA and/or ASIC devices.\n\n• Experience with modern verification methodologies such as UVM, OVM or VMM.\n\n• HDL programming experience with VHDL, Verilog, and/or SystemVerilog.\nDesired Skills:\n• Demonstrated experience in ASIC / FPGA life cycle (architecture, design, simulation, verification, validation, integration & test).\n• Knowledge of space-grade/qualified FPGAs and ASICs and toolsets including AMD/Xilinx Vivado or Microchip Libero.\n• Knowledge of digital design, development, and simulation.\n• FPGA engineering process improvement activities.\n• Metrics collection, analysis, and reporting to senior leadership.\nSecurity Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration.\nClearance Level: Secret\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 9x80 every other Friday off\nPay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $145,200 - $255,990. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\n(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.\nThis position is incentive plan eligible.\nPay Rate: The annual base salary range for this position in most major metropolitan areas in California, Massachusetts, and New York is $167,000 - $289,340. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\nThis position is incentive plan eligible.\nLockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nAt Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.\n\nWith our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.\n\nIf this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.\nExperience Level: Experienced Professional\nBusiness Unit: SPACE\nRelocation Available: Possible\nCareer Area: Electrical Engineering\nType: Full-Time\nShift: First",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Denver, CO",
+    "job_city": "Denver",
+    "job_state": "Colorado",
+    "job_country": "US",
+    "job_latitude": 39.739235799999996,
+    "job_longitude": -104.990251,
+    "job_benefits": [
+      "health_insurance",
+      "paid_time_off",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DNy5QCtj8nnstDKRJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "ASIC/FPGA verification experience with modern verification methodologies such as UVM, OVM or VMM",
+        "8+ years professional experience",
+        "While no clearance is needed to start in this position, you will need to obtain and maintain a DoD Secret clearance, thus US Citizenship is required",
+        "Bachelor of Science or higher from an accredited college in Electrical Engineering or related discipline, or equivalent experience/combined education",
+        "Experience in the verification of FPGA and/or ASIC devices",
+        "Experience with modern verification methodologies such as UVM, OVM or VMM",
+        "HDL programming experience with VHDL, Verilog, and/or SystemVerilog",
+        "Security Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration"
+      ],
+      "Benefits": [
+        "You will work a flexible 9x80 schedule in the office full-time",
+        "Schedules range from standard 40 hours over a five day work week while others may be condensed",
+        "These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits",
+        "Schedule for this Position: 9x80 every other Friday off",
+        "Pay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $145,200 - $255,990",
+        "Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays",
+        "(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays",
+        "Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays",
+        "PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year",
+        "This position is incentive plan eligible",
+        "Pay Rate: The annual base salary range for this position in most major metropolitan areas in California, Massachusetts, and New York is $167,000 - $289,340",
+        "Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays",
+        "This position is incentive plan eligible",
+        "Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work",
+        "Relocation Available: Possible"
+      ],
+      "Responsibilities": [
+        "Support other aspects of ASIC and FPGA development such as architecture, design, analysis, and test",
+        "Support technical reviews and be able to present to internal and external customers",
+        "Devise a unique verification plan for a given design",
+        "Use SystemVerilog and Universal Verification Methodology (UVM) to verify a design in a Linux-based high-performance computing environment",
+        "Document verification plan and results",
+        "Work with an independent verification team to resolve bugs found in the design",
+        "Support other aspects of ASIC and FPGA development such as architecture, design, analysis, and test",
+        "Support technical reviews and be able to present to internal and external customers",
+        "Metrics collection, analysis, and reporting to senior leadership"
+      ]
+    },
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "www-lockheedmartinjobs-com-job-denver-asic-fpga-verification-engineer-v-694-91657966096",
     "_source": "new_jobs"
   },
   {
@@ -291,246 +412,6 @@
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
     "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "S3DyTicA6d-9fARxAAAAAA==",
-    "job_title": "ASIC Physical Design, Principal Engineer-15046",
-    "employer_name": "Synopsys",
-    "employer_logo": null,
-    "employer_website": "https://www.synopsys.com",
-    "job_publisher": "Synopsys Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.synopsys.com/job/boxborough/asic-physical-design-principal-engineer-15046/44408/91661594048?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Synopsys Careers",
-        "apply_link": "https://careers.synopsys.com/job/boxborough/asic-physical-design-principal-engineer-15046/44408/91661594048?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/asic-physical-design-principal-engineer-15046-at-synopsys-inc-4372733378?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/asic-physical-design-principal-engineer-15046-boxborough-synopsys-inc-f2130a2449219845fe68c1c3af785138?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/asic-physical-design-principal-engineer-15046-synopsyslns-boxborough-ma_85690043?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Experteer",
-        "apply_link": "https://us.experteer.com/career/view-jobs/asic-physical-design-principal-engineer-15046-boxborough-ma-usa-56151851?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/OxVbdzLeRVL3zujHF_Gers8UkAbwIFqoB0eL39u7vgzOig7UipLotA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698f4fd80cc8ea15f1d9cea2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/926a50d882d3848feb5ee489109379ac?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "We Are:\n\nAt Synopsys, we drive the innovations that shape the way we live and connect. Our technology is central to the Era of Pervasive Intelligence, from self-driving cars to learning machines. We lead in chip design, verification, and IP integration, empowering the creation of high-performance silicon chips and software content. Join us to transform the future through continuous technological innovation.\n\nYou Are:\n\nYou are a visionary and seasoned engineering leader, driven by a passion for innovation in ASIC physical design. Seeking a highly motivated and innovative ASIC Physical Design Implementation Engineer to lead the Test Chip PHY development. You will lead a team of engineers to develop Test Chips for DDR/HBM/UCIe protocols. The position offers an excellent opportunity to work on mixed-signal IPs with a focus on digital design.\n\nWhat You’ll Be Doing:\n\nLead Test Chip Physical Design Implementation: Oversee all aspects of physical implementation for test chips, including integration of IP blocks and custom logic for validation purposes. Candidate will lead multiple test chips that will be developed in parallel to tape-out for various foundry shuttles\nResource & Project Leadership: Lead a team of physical design engineers; allocate resources, schedule tasks, and manage priorities for on-time project execution.\n\nFloor planning & Power Planning: Develop overall floorplan and power/ground strategy tailored for the test chip architecture.\n\nSynthesis to GDSII: Own and drive the entire RTL-to-GDSII flow, ensuring design convergence for area, power, performance, and manufacturability.\n\nTiming Closure: Execute and oversee static timing analysis (STA) for the test chip, ensuring robust timing signoff.\n\nDesign Integrity Checks: Conduct and resolve EM/IR drop analysis and physical verification (ERC/DRC/LVS), as well as PERC/ESD analysis specific to test chips.\n\nBlock/Chip-level Integration: Integrate updated covercells, circuit/IP/PLL/hard-macros, abutment checking, and QA/review/release of hard-macros.\n\nTool Flow Enhancements & Debug: Drive tool flow automation and debugging to improve productivity and design reliability.\n\nCollaboration: Work closely with Architecture, FE RTL, Circuit and Covercell teams before and during the TC development\n\nRelease & Documentation: Prepare and release all supporting views necessary for the tape out of the test chips on to the foundry portal. File, update and maintain the mask tooling form on the foundry website and fill out the necessary checklists\n\nWhat You’ll Need:\n• 12+ years of proven experience in ASIC physical Design, with expertise in leading complex SoC or test chip implementations at advanced process nodes.\n• Deep knowledge of the entire ASIC physical design flow, including floor planning, synthesis, place and route, timing closure, IR-drop/EM analysis, LVS/DRC, and related methodologies.\n• Demonstrated experience leading engineering teams and managing cross-functional projects in high-pressure environments.\n• Familiarity with test chip methodology, IP integration, and advanced verification flows.\n• Proficiencywithstate-of-the-artCAD tools such as DC, PT, ICC2/FC, ICV, Calibre, RedHawk, and advanced technologies like FinFet.\n• Strong communication, problem-solving, and project management skills.\n\nThe Impact You Will Have:\n• Elevate Synopsys’ leadership in advanced ASIC and IP development by delivering high-performance, reliable test chips.\n• Enable rapid validation and integration of DDR/HBM/UCIe protocols, supporting next-generation silicon innovation.\n• Enhance cross-functional collaboration, accelerating project timelines and improving overall design quality.\n• Drive process improvements through tool flow automation, setting new standards for productivity and design reliability.\n• Ensure robust manufacturability and performance, reducing risk and increasing success rates in foundry tape-outs.\n• Mentor and develop junior engineers, fostering a culture of technical excellence and continuous learning.\n• Contribute to the creation of industry-leading mixed-signal IPs, elevating Synopsys’ portfolio and market position.\n\nWho You Are:\n• Innovative thinker with a passion for solving complex engineering challenges.\n• Inspirational leader who empowers teams and fosters collaborative, inclusive environments.\n• Meticulous and detail-oriented, committed to quality and design integrity.\n• Adaptable and resilient, thriving in fast-paced, dynamic settings.\n• Excellent communicator, able to articulate technical concepts to diverse audiences.\n• Continuous learner, eager to stay at the forefront of technology and industry trends.\n\nThe Team You’ll Be A Part Of:\n\nYou’ll join a highly skilled, multidisciplinary team focused on developing industry-leading test chips for cutting-edge protocols like DDR, HBM, and UCIe. The team values collaboration, innovation, and technical excellence, working closely with architecture, RTL, circuit, and verification experts to deliver best-in-class mixed-signal IP solutions. Together, you’ll shape the next generation of silicon technology and drive Synopsys’ continued success in the semiconductor industry.\n\nRewards and Benefits:\n\nWe offer a comprehensive range of health, wellness, and financial benefits to cater to your needs. Our total rewards include both monetary and non-monetary offerings. Your recruiter will provide more details about the salary range and benefits during the hiring process.\n\n#LI-NK4",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Boxborough, MA",
-    "job_city": "Boxborough",
-    "job_state": "Massachusetts",
-    "job_country": "US",
-    "job_latitude": 42.4834197,
-    "job_longitude": -71.5167139,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DS3DyTicA6d-9fARxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "You are a visionary and seasoned engineering leader, driven by a passion for innovation in ASIC physical design",
-        "12+ years of proven experience in ASIC physical Design, with expertise in leading complex SoC or test chip implementations at advanced process nodes",
-        "Deep knowledge of the entire ASIC physical design flow, including floor planning, synthesis, place and route, timing closure, IR-drop/EM analysis, LVS/DRC, and related methodologies",
-        "Demonstrated experience leading engineering teams and managing cross-functional projects in high-pressure environments",
-        "Familiarity with test chip methodology, IP integration, and advanced verification flows",
-        "Proficiencywithstate-of-the-artCAD tools such as DC, PT, ICC2/FC, ICV, Calibre, RedHawk, and advanced technologies like FinFet",
-        "Strong communication, problem-solving, and project management skills",
-        "Innovative thinker with a passion for solving complex engineering challenges",
-        "Inspirational leader who empowers teams and fosters collaborative, inclusive environments",
-        "Meticulous and detail-oriented, committed to quality and design integrity",
-        "Adaptable and resilient, thriving in fast-paced, dynamic settings",
-        "Excellent communicator, able to articulate technical concepts to diverse audiences",
-        "Continuous learner, eager to stay at the forefront of technology and industry trends",
-        "You’ll join a highly skilled, multidisciplinary team focused on developing industry-leading test chips for cutting-edge protocols like DDR, HBM, and UCIe"
-      ],
-      "Benefits": [
-        "We offer a comprehensive range of health, wellness, and financial benefits to cater to your needs",
-        "Our total rewards include both monetary and non-monetary offerings",
-        "Your recruiter will provide more details about the salary range and benefits during the hiring process"
-      ],
-      "Responsibilities": [
-        "You will lead a team of engineers to develop Test Chips for DDR/HBM/UCIe protocols",
-        "Lead Test Chip Physical Design Implementation: Oversee all aspects of physical implementation for test chips, including integration of IP blocks and custom logic for validation purposes",
-        "Candidate will lead multiple test chips that will be developed in parallel to tape-out for various foundry shuttles",
-        "Resource & Project Leadership: Lead a team of physical design engineers; allocate resources, schedule tasks, and manage priorities for on-time project execution",
-        "Floor planning & Power Planning: Develop overall floorplan and power/ground strategy tailored for the test chip architecture",
-        "Synthesis to GDSII: Own and drive the entire RTL-to-GDSII flow, ensuring design convergence for area, power, performance, and manufacturability",
-        "Timing Closure: Execute and oversee static timing analysis (STA) for the test chip, ensuring robust timing signoff",
-        "Design Integrity Checks: Conduct and resolve EM/IR drop analysis and physical verification (ERC/DRC/LVS), as well as PERC/ESD analysis specific to test chips",
-        "Block/Chip-level Integration: Integrate updated covercells, circuit/IP/PLL/hard-macros, abutment checking, and QA/review/release of hard-macros",
-        "Tool Flow Enhancements & Debug: Drive tool flow automation and debugging to improve productivity and design reliability",
-        "Collaboration: Work closely with Architecture, FE RTL, Circuit and Covercell teams before and during the TC development",
-        "Release & Documentation: Prepare and release all supporting views necessary for the tape out of the test chips on to the foundry portal",
-        "File, update and maintain the mask tooling form on the foundry website and fill out the necessary checklists",
-        "Elevate Synopsys’ leadership in advanced ASIC and IP development by delivering high-performance, reliable test chips",
-        "Enable rapid validation and integration of DDR/HBM/UCIe protocols, supporting next-generation silicon innovation",
-        "Enhance cross-functional collaboration, accelerating project timelines and improving overall design quality",
-        "Drive process improvements through tool flow automation, setting new standards for productivity and design reliability",
-        "Ensure robust manufacturability and performance, reducing risk and increasing success rates in foundry tape-outs",
-        "Mentor and develop junior engineers, fostering a culture of technical excellence and continuous learning",
-        "Contribute to the creation of industry-leading mixed-signal IPs, elevating Synopsys’ portfolio and market position"
-      ]
-    },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "careers-synopsys-com-job-boxborough-asic-physical-design-principal-engineer-15046-44408-91661594048",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "IDYwyC78M4FBGSmVAAAAAA==",
-    "job_title": "ASIC Prototyping Engineer IV",
-    "employer_name": "Lockheed Martin",
-    "employer_logo": null,
-    "employer_website": "https://www.lockheedmartin.com",
-    "job_publisher": "Lockheed Martin Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.lockheedmartinjobs.com/job/highlands-ranch/asic-prototyping-engineer-iv/694/91388095984?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Lockheed Martin Careers",
-        "apply_link": "https://www.lockheedmartinjobs.com/job/highlands-ranch/asic-prototyping-engineer-iv/694/91388095984?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Lockheed-Martin/Job/ASIC-Prototyping-Engineer-IV/-in-Highlands-Ranch,CO?jid=e8e423dc386e4181&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "KSNT Jobs",
-        "apply_link": "https://jobs.ksnt.com/jobs/asic-fpga-verification-emulation-engineer-iv-littleton-colorado/2619684129-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JOBSwithDOD",
-        "apply_link": "https://jobswithdod.com/defense-company-jobs/asic-prototyping-engineer-iv/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/2426f77c4b0a34839955b9ae8bd4e53d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talentify",
-        "apply_link": "https://www.talentify.io/job/component-engineer-level-iv-littleton-colorado-us-lockheed-martin-712491br?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "KOIN Jobs",
-        "apply_link": "https://jobs.koin.com/jobs/asic-fpga-verification-emulation-engineer-iv-littleton-colorado/2619684129-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Recruit.net",
-        "apply_link": "https://www.recruit.net/job/component-engineer-jobs/ADE1ACF7F633C561?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Description:Join Our Team as an ASIC Prototyping Engineer where you will support over 50 different programs and research and development (R&D) efforts, affecting technology across military space, civil space, commercial space, missiles, missile defense platforms, satellite surveillance platforms, deep space exploration, and manned flight missions.\n\nLocation: This position does not support teleworking; the selected candidate will be located near our Lockheed Martin Space facility in:\n• Littleton or Highlands Ranch CO\nYou will work a flexible 9x80 schedule in the office full-time.\n\nWhat does this role look like?\n\nThe Silicon Solutions team of Lockheed Martin Space is building the best ASIC/FPGA team in the world, and are seeking a highly talented and motivated ASIC Prototyping Engineer who has a passion for microchip design and space.\n\nKey activities you will accomplish in this role:\n\n• Architect and implement ASIC prototyping solutions using industry standard platforms, including Synopsys HAPS\n• Map ASIC RTL to emulation and FPGA-based platforms\n• Develop and execute validation plans for complex ASIC and FPGA designs\n• Validate and qualify ASIC and FPGA designs through simulation, hardware emulation and lab bring up\n\nTo be effective in this role, you will need:\n\n• 5+ years professional experience.\n• Excellent hardware debugging skills\n• Strong understanding of data streaming and packet based protocols like ethernet, UCIe, and JESD204\n• While no clearance is needed to start this position, you will need to obtain and maintain a Secret clearance, thus US Citizenship is required.\n\nWhy Lockheed Martin?\n\nOur employees play an active role in strengthening the quality of life where we live and work by volunteering more than 850,000 hours annually.\n\nLearn more about Lockheed Martin’s comprehensive benefits package.\n\nFind out more on how we proudly support Hiring Our Heroes.\n\nAt Space we value your skills, training, and education. We believe that by applying the highest standards of business ethics and visionary thinking, everything is within our reach – and yours as a Lockheed Martin Space employee… join us to experience your future!\n\nLet’s do Space!\nBasic Qualifications:\n• Bachelor of Science or higher from an accredited college in Computer Engineering, Electrical Engineering or related discipline, or equivalent experience/combined education.\n\n• Experience in the design of any of the following:\n- Digital ASICs\n- Mixed-signal ASICs\n\n• HDL programming experience with VHDL, Verilog, and/or SystemVerilog.\n\n• Prior prototyping using Palladium, Protium, Veloce, Strato, Zebu, HAPS.\n\n• Prior technical leadership experience preferred.\nDesired Skills:\n• Experience in leading or managing ASIC projects.\n• Demonstrated self-starter and voracious learner\n• High EQ (Emotional Intelligence).\n• Space system design experience.\n• Understanding of system and hardware requirements related to space.\n• Customer-facing communication experience (product/services sales, marketing, field, etc.).\n• Ability to obtain a Secret clearance.\nSecurity Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration.\nClearance Level: Secret\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 9x80 every other Friday off\nPay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $123,500 - $217,695. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\n(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.\nThis position is incentive plan eligible.\nLockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nAt Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.\n\nWith our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.\n\nIf this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.\nExperience Level: Experienced Professional\nBusiness Unit: SPACE\nRelocation Available: Possible\nCareer Area: Electrical Engineering\nType: Full-Time\nShift: First",
-    "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1770163200,
-    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-    "job_location": "Highlands Ranch, CO",
-    "job_city": "Highlands Ranch",
-    "job_state": "Colorado",
-    "job_country": "US",
-    "job_latitude": 39.5480789,
-    "job_longitude": -104.9739333,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIDYwyC78M4FBGSmVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "5+ years professional experience",
-        "Excellent hardware debugging skills",
-        "Strong understanding of data streaming and packet based protocols like ethernet, UCIe, and JESD204",
-        "While no clearance is needed to start this position, you will need to obtain and maintain a Secret clearance, thus US Citizenship is required",
-        "Bachelor of Science or higher from an accredited college in Computer Engineering, Electrical Engineering or related discipline, or equivalent experience/combined education",
-        "Experience in the design of any of the following:",
-        "Digital ASICs",
-        "Mixed-signal ASICs",
-        "HDL programming experience with VHDL, Verilog, and/or SystemVerilog",
-        "Prior prototyping using Palladium, Protium, Veloce, Strato, Zebu, HAPS",
-        "Security Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration"
-      ],
-      "Benefits": [
-        "Schedules range from standard 40 hours over a five day work week while others may be condensed",
-        "These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits",
-        "Schedule for this Position: 9x80 every other Friday off",
-        "Pay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $123,500 - $217,695",
-        "Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays",
-        "(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays",
-        "Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays",
-        "PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year",
-        "This position is incentive plan eligible",
-        "Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work",
-        "Relocation Available: Possible"
-      ],
-      "Responsibilities": [
-        "You will work a flexible 9x80 schedule in the office full-time",
-        "Architect and implement ASIC prototyping solutions using industry standard platforms, including Synopsys HAPS",
-        "Map ASIC RTL to emulation and FPGA-based platforms",
-        "Develop and execute validation plans for complex ASIC and FPGA designs",
-        "Validate and qualify ASIC and FPGA designs through simulation, hardware emulation and lab bring up"
-      ]
-    },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "www-lockheedmartinjobs-com-job-highlands-ranch-asic-prototyping-engineer-iv-694-91388095984",
     "_source": "new_jobs"
   },
   {
@@ -667,6 +548,446 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "IDYwyC78M4FBGSmVAAAAAA==",
+    "job_title": "ASIC Prototyping Engineer IV",
+    "employer_name": "Lockheed Martin",
+    "employer_logo": null,
+    "employer_website": "https://www.lockheedmartin.com",
+    "job_publisher": "Lockheed Martin Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.lockheedmartinjobs.com/job/highlands-ranch/asic-prototyping-engineer-iv/694/91388095984?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Lockheed Martin Careers",
+        "apply_link": "https://www.lockheedmartinjobs.com/job/highlands-ranch/asic-prototyping-engineer-iv/694/91388095984?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Lockheed-Martin/Job/ASIC-Prototyping-Engineer-IV/-in-Highlands-Ranch,CO?jid=e8e423dc386e4181&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "KSNT Jobs",
+        "apply_link": "https://jobs.ksnt.com/jobs/asic-fpga-verification-emulation-engineer-iv-littleton-colorado/2619684129-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JOBSwithDOD",
+        "apply_link": "https://jobswithdod.com/defense-company-jobs/asic-prototyping-engineer-iv/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/2426f77c4b0a34839955b9ae8bd4e53d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talentify",
+        "apply_link": "https://www.talentify.io/job/component-engineer-level-iv-littleton-colorado-us-lockheed-martin-712491br?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KOIN Jobs",
+        "apply_link": "https://jobs.koin.com/jobs/asic-fpga-verification-emulation-engineer-iv-littleton-colorado/2619684129-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Recruit.net",
+        "apply_link": "https://www.recruit.net/job/component-engineer-jobs/ADE1ACF7F633C561?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Description:Join Our Team as an ASIC Prototyping Engineer where you will support over 50 different programs and research and development (R&D) efforts, affecting technology across military space, civil space, commercial space, missiles, missile defense platforms, satellite surveillance platforms, deep space exploration, and manned flight missions.\n\nLocation: This position does not support teleworking; the selected candidate will be located near our Lockheed Martin Space facility in:\n• Littleton or Highlands Ranch CO\nYou will work a flexible 9x80 schedule in the office full-time.\n\nWhat does this role look like?\n\nThe Silicon Solutions team of Lockheed Martin Space is building the best ASIC/FPGA team in the world, and are seeking a highly talented and motivated ASIC Prototyping Engineer who has a passion for microchip design and space.\n\nKey activities you will accomplish in this role:\n\n• Architect and implement ASIC prototyping solutions using industry standard platforms, including Synopsys HAPS\n• Map ASIC RTL to emulation and FPGA-based platforms\n• Develop and execute validation plans for complex ASIC and FPGA designs\n• Validate and qualify ASIC and FPGA designs through simulation, hardware emulation and lab bring up\n\nTo be effective in this role, you will need:\n\n• 5+ years professional experience.\n• Excellent hardware debugging skills\n• Strong understanding of data streaming and packet based protocols like ethernet, UCIe, and JESD204\n• While no clearance is needed to start this position, you will need to obtain and maintain a Secret clearance, thus US Citizenship is required.\n\nWhy Lockheed Martin?\n\nOur employees play an active role in strengthening the quality of life where we live and work by volunteering more than 850,000 hours annually.\n\nLearn more about Lockheed Martin’s comprehensive benefits package.\n\nFind out more on how we proudly support Hiring Our Heroes.\n\nAt Space we value your skills, training, and education. We believe that by applying the highest standards of business ethics and visionary thinking, everything is within our reach – and yours as a Lockheed Martin Space employee… join us to experience your future!\n\nLet’s do Space!\nBasic Qualifications:\n• Bachelor of Science or higher from an accredited college in Computer Engineering, Electrical Engineering or related discipline, or equivalent experience/combined education.\n\n• Experience in the design of any of the following:\n- Digital ASICs\n- Mixed-signal ASICs\n\n• HDL programming experience with VHDL, Verilog, and/or SystemVerilog.\n\n• Prior prototyping using Palladium, Protium, Veloce, Strato, Zebu, HAPS.\n\n• Prior technical leadership experience preferred.\nDesired Skills:\n• Experience in leading or managing ASIC projects.\n• Demonstrated self-starter and voracious learner\n• High EQ (Emotional Intelligence).\n• Space system design experience.\n• Understanding of system and hardware requirements related to space.\n• Customer-facing communication experience (product/services sales, marketing, field, etc.).\n• Ability to obtain a Secret clearance.\nSecurity Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration.\nClearance Level: Secret\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 9x80 every other Friday off\nPay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $123,500 - $217,695. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\n(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.\nThis position is incentive plan eligible.\nLockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nAt Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.\n\nWith our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.\n\nIf this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.\nExperience Level: Experienced Professional\nBusiness Unit: SPACE\nRelocation Available: Possible\nCareer Area: Electrical Engineering\nType: Full-Time\nShift: First",
+    "job_is_remote": false,
+    "job_posted_at": "13 days ago",
+    "job_posted_at_timestamp": 1770163200,
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_location": "Highlands Ranch, CO",
+    "job_city": "Highlands Ranch",
+    "job_state": "Colorado",
+    "job_country": "US",
+    "job_latitude": 39.5480789,
+    "job_longitude": -104.9739333,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIDYwyC78M4FBGSmVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "5+ years professional experience",
+        "Excellent hardware debugging skills",
+        "Strong understanding of data streaming and packet based protocols like ethernet, UCIe, and JESD204",
+        "While no clearance is needed to start this position, you will need to obtain and maintain a Secret clearance, thus US Citizenship is required",
+        "Bachelor of Science or higher from an accredited college in Computer Engineering, Electrical Engineering or related discipline, or equivalent experience/combined education",
+        "Experience in the design of any of the following:",
+        "Digital ASICs",
+        "Mixed-signal ASICs",
+        "HDL programming experience with VHDL, Verilog, and/or SystemVerilog",
+        "Prior prototyping using Palladium, Protium, Veloce, Strato, Zebu, HAPS",
+        "Security Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration"
+      ],
+      "Benefits": [
+        "Schedules range from standard 40 hours over a five day work week while others may be condensed",
+        "These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits",
+        "Schedule for this Position: 9x80 every other Friday off",
+        "Pay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $123,500 - $217,695",
+        "Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays",
+        "(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays",
+        "Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays",
+        "PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year",
+        "This position is incentive plan eligible",
+        "Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work",
+        "Relocation Available: Possible"
+      ],
+      "Responsibilities": [
+        "You will work a flexible 9x80 schedule in the office full-time",
+        "Architect and implement ASIC prototyping solutions using industry standard platforms, including Synopsys HAPS",
+        "Map ASIC RTL to emulation and FPGA-based platforms",
+        "Develop and execute validation plans for complex ASIC and FPGA designs",
+        "Validate and qualify ASIC and FPGA designs through simulation, hardware emulation and lab bring up"
+      ]
+    },
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "www-lockheedmartinjobs-com-job-highlands-ranch-asic-prototyping-engineer-iv-694-91388095984",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "ScW_LT9j1sbrfscFAAAAAA==",
+    "job_title": "ASIC Design Engineer",
+    "employer_name": "Sandisk",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcj8iPATWsHHMRkwnIWSH32mm_rHuvH-dWhYVU&s=0",
+    "employer_website": "https://www.sandisk.com",
+    "job_publisher": "Smart Recruiters Jobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.smartrecruiters.com/Sandisk/744000109030645-asic-design-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Smart Recruiters Jobs",
+        "apply_link": "https://jobs.smartrecruiters.com/Sandisk/744000109030645-asic-design-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=795f7c953e448550&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/DBSI-Services,-Inc./Job/ASIC-Design-Engineer/-in-Milpitas,CA?jid=5d1eca8539d085cc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/UbioNUVm-m_t2vd0th5OxQZYfnkQuXsjczO-VErU7StTnlgsYsqSww?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/asic-design-engineer_7ea1a01aa529651f03f22eaba47c856bb140a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/asic-design-engineer-sandisk-milpitas-ca_85683619?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/asic-design-engineer-at-sandisk-4372134508?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/adcce080c5227667201034523c6693be?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Company Description\n\nSandisk understands how people and businesses consume data and we relentlessly innovate to deliver solutions that enable today’s needs and tomorrow’s next big ideas. With a rich history of groundbreaking innovations in Flash and advanced memory technologies, our solutions have become the beating heart of the digital world we’re living in and that we have the power to shape.\n\nSandisk meets people and businesses at the intersection of their aspirations and the moment, enabling them to keep moving and pushing possibility forward. We do this through the balance of our powerhouse manufacturing capabilities and our industry-leading portfolio of products that are recognized globally for innovation, performance and quality.\n\nSandisk has two facilities recognized by the World Economic Forum as part of the Global Lighthouse Network for advanced 4IR innovations. These facilities were also recognized as Sustainability Lighthouses for breakthroughs in efficient operations. With our global reach, we ensure the global supply chain has access to the Flash memory it needs to keep our world moving forward.\n\nJob Description\n\nJoin our innovative team in Milpitas, United States, as a Design Engineer in ASIC Development Engineering. In this role, you'll be at the forefront of designing cutting-edge Application-Specific Integrated Circuits (ASICs) that push the boundaries of technology. We're looking for a detail-oriented professional who thrives in a collaborative environment and is passionate about creating high-performance semiconductor solutions.\n\nESSENTIAL DUTIES AND RESPONSIBILITIES:\n• Micro architecture and RTL implementation specification, for various new IP or customize existing IP design (including but not limited to: CPU complex, DDR, Flash interface, Debug, proprietary ips)\n• Collaborate with cross-functional teams to ensure seamless integration of ASIC designs into larger systems\n• Proficiently use AI tools. Candidates must embrace emerging trends and technologies in ASIC development\n\nQualifications\n\nRequired:\n• Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or a related field\n• NCG or 1-2 years ASIC design working experience\n\nPreferred Skills:\n• Excellent problem-solving skills and attention to detail\n• Excellent communication skills and ability to work effectively in a collaborative team environment\n• Proficiency in Verilog/System Verilog\n• Proficiency in EDA tools for ASIC design and verification\n• Proficiency in AI tools for ASIC design\n• Knowledge of ASIC verification methodologies (preferred)\n• Knowledge of scripting languages like Python or TCL for design automation (preferred)\n\nAdditional Information\n\nSandisk is committed to providing equal opportunities to all applicants and employees and will not discriminate against any applicant or employee based on their race, color, ancestry, religion (including religious dress and grooming standards), sex (including pregnancy, childbirth or related medical conditions, breastfeeding or related medical conditions), gender (including a person’s gender identity, gender expression, and gender-related appearance and behavior, whether or not stereotypically associated with the person’s assigned sex at birth), age, national origin, sexual orientation, medical condition, marital status (including domestic partnership status), physical disability, mental disability, medical condition, genetic information, protected medical and family care leave, Civil Air Patrol status, military and veteran status, or other legally protected characteristics. We also prohibit harassment of any individual on any of the characteristics listed above. Our non-discrimination policy applies to all aspects of employment. We comply with the laws and regulations set forth in the \"Know Your Rights: Workplace Discrimination is Illegal” poster. Our pay transparency policy is available here.\n\nSandisk thrives on the power and potential of diversity. As a global company, we believe the most effective way to embrace the diversity of our customers and communities is to mirror it from within. We believe the fusion of various perspectives results in the best outcomes for our employees, our company, our customers, and the world around us. We are committed to an inclusive environment where every individual can thrive through a sense of belonging, respect and contribution.\n\nSandisk is committed to offering opportunities to applicants with disabilities and ensuring all candidates can successfully navigate our careers website and our hiring process. Please contact us at jobs.accommodations@sandisk.com to advise us of your accommodation request. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.\n\nBased on our experience, we anticipate that the application deadline will be 05/12/2026 although we reserve the right to close the application process sooner if we hire an applicant for this position before the application deadline. If we are not able to hire someone from this role before the application deadline, we will update this posting with a new anticipated application deadline.\n\n#LI-TG1\n\nCompensation & Benefits Details\n• An employee’s pay position within the salary range may be based on several factors including but not limited to (1) relevant education; qualifications; certifications; and experience; (2) skills, ability, knowledge of the job; (3) performance, contribution and results; (4) geographic location; (5) shift; (6) internal and external equity; and (7) business and organizational needs.\n• The salary range is what we believe to be the range of possible compensation for this role at the time of this posting. We may ultimately pay more or less than the posted range and this range is only applicable for jobs to be performed in California, Colorado, New York or remote jobs that can be performed in California, Colorado and New York. This range may be modified in the future.\n• You will be eligible to participate in Sandisk's Short-Term Incentive (STI) Plan, which provides incentive awards based on Company and individual performance. Depending on your role and your performance, you may be eligible to participate in our annual Long-Term Incentive (LTI) program, which consists of restricted stock units (RSUs) or cash equivalents, pursuant to the terms of the LTI plan. Please note that not all roles are eligible to participate in the LTI program, and not all roles are eligible for equity under the LTI plan. RSU awards are also available to eligible new hires, subject to Sandisk's Standard Terms and Conditions for Restricted Stock Unit Awards.\n• We offer a comprehensive package of benefits including paid vacation time; paid sick leave; medical/dental/vision insurance; life, accident and disability insurance; tax-advantaged flexible spending and health savings accounts; employee assistance program; other voluntary benefit programs such as supplemental life and AD&D, legal plan, pet insurance, critical illness, accident and hospital indemnity; tuition reimbursement; transit; the Applause Program, employee stock purchase plan, and the Sandisk's Savings 401(k) Plan.\n• Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Milpitas, CA",
+    "job_city": "Milpitas",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.4323341,
+    "job_longitude": -121.8995741,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DScW_LT9j1sbrfscFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "jobs-smartrecruiters-com-sandisk-744000109030645-asic-design-engineer",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "YazvjPk5KfuIUD38AAAAAA==",
+    "job_title": "ASIC/FPGA Engineer IV, Networks",
+    "employer_name": "Lockheed Martin",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSViju_9F9cJTgsoGjJHftZoVRyx4HRqi3oWgpd&s=0",
+    "employer_website": "https://www.lockheedmartin.com",
+    "job_publisher": "Indeed",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.indeed.com/viewjob?jk=1ed3e5d6a5dac5c7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=1ed3e5d6a5dac5c7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JSfirm.com",
+        "apply_link": "https://www.jsfirm.com/job/Engineering-ASIC/FPGA-Engineer-IV,-Networks/Highlands+Ranch-Colorado/jobID_1850193?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/XnBJcWLNILvkqJMhKUZK-dVmjMD-Y9nD971EBxIQUgp07ONxzW9kvw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Hispanic Today",
+        "apply_link": "https://hispanic-today.com/highlands-ranch-co/asicfpga-engineer-iv-networks/A737A65539584013BCAA121E800D71F3/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Corporate Gray Online",
+        "apply_link": "https://cgo.corporategray.com/job/496269/asic-fpga-engineer-iv-networks/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/hardware-engineer?id=2446536200&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job ID: 717029BR\nDate posted: Feb. 04, 2026\n\nDescription:Join Our Team as an ASIC & FPGA Networking Engineer where you will support over 50 different programs and research and development (R&D) efforts, affecting technology across military space, civil space, commercial space, missiles, missile defense platforms, satellite surveillance platforms, deep space exploration, and manned flight missions.\n\nLocation: This position does not support teleworking; the selected candidate will be located near our Lockheed Martin Space facility in:\n• Sunnyvale CA\n• Highlands Ranch CO\n• Littleton CO\n• King of Prussia PA\n\nYou will be working a flexible 9x80 schedule in the office full-time.\n\nWhat does this role look like?\n\nThe Silicon Solutions team of Lockheed Martin Space is building the best ASIC/FPGA team in the world, and are seeking a highly talented and motivated ASIC & FPGA Engineer who has a passion for microchip design and space.\n\nKey activities you will accomplish in this role:\n• Perform all aspects of ASIC and FPGA development through the lifecycle from initial requirements capture through architecture, design, analysis, simulations and test in a Linux-based high-performance computing environment.\n• Support technical reviews and present to internal and external stakeholders.\n• Interface with an independent verification team who will be working in parallel, verifying the design.\n• Debug issues related to network concepts like packet processing, flow control, initialization and latency bottlenecks\n• Integrate and bring up third party ASIC and FPGA IP including ethernet controllers and high speed serdes, including bring up of IP in simulations\n• Implement timing constraints required for successful implementation of networking interfaces, work closely with physical design on floorplan optimization for ASIC\n\nTo be effective in this role, you will need:\n• 5+ years professional experience.\n• Proven track record implementing and debugging AMBA interfaces like AXI and AHB\n• Deep understanding of networking protocols\n• While no clearance is needed to start this position, you will need to obtain and maintain a Secret clearance, thus US Citizenship is required.\n\nBasic Qualifications:\n• Bachelor of Science or higher from an accredited college in Computer Engineering, Electrical Engineering or related discipline, or equivalent experience/combined education.\n• Experience in the design of any of the following:\n• Digital ASICs/FPGAs\n• Mixed-signal ASICs/FPGAs\n• HDL programming experience with VHDL, Verilog, and/or SystemVerilog.\n• Prior technical leadership experience preferred.\n\nDesired Skills:\n• Experience in leading or managing ASIC projects.\n• Demonstrated self-starter and voracious learner\n• High EQ (Emotional Intelligence).\n• Space system design experience.\n• Understanding of system and hardware requirements related to space.\n• Customer-facing communication experience (product/services sales, marketing, field, etc.).\n• Ability to obtain a Secret clearance.\n\nSecurity Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration.\nClearance Level: Secret\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 9x80 every other Friday off\nPay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $123,500 - $217,695. For states not referenced above, the salary range for this position will reflect the candidate's final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\n(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.\nThis position is incentive plan eligible.\nPay Rate: The annual base salary range for this position in most major metropolitan areas in California, Massachusetts, and New York is $142,000 - $246,100. For states not referenced above, the salary range for this position will reflect the candidate's final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\nThis position is incentive plan eligible.\nLockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nAt Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.\n\nWith our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.\n\nIf this sounds like a culture you connect with, you're invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.\nExperience Level: Experienced Professional\nBusiness Unit: SPACE\nRelocation Available: Possible\nCareer Area: Electrical Engineering\nType: Full-Time\nShift: First",
+    "job_is_remote": false,
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "Highlands Ranch, CO",
+    "job_city": "Highlands Ranch",
+    "job_state": "Colorado",
+    "job_country": "US",
+    "job_latitude": 39.5480789,
+    "job_longitude": -104.9739333,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYazvjPk5KfuIUD38AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "5+ years professional experience",
+        "Proven track record implementing and debugging AMBA interfaces like AXI and AHB",
+        "Deep understanding of networking protocols",
+        "While no clearance is needed to start this position, you will need to obtain and maintain a Secret clearance, thus US Citizenship is required",
+        "Bachelor of Science or higher from an accredited college in Computer Engineering, Electrical Engineering or related discipline, or equivalent experience/combined education",
+        "Experience in the design of any of the following:",
+        "Digital ASICs/FPGAs",
+        "Mixed-signal ASICs/FPGAs",
+        "HDL programming experience with VHDL, Verilog, and/or SystemVerilog",
+        "Security Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration"
+      ],
+      "Benefits": [
+        "Schedules range from standard 40 hours over a five day work week while others may be condensed",
+        "These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits",
+        "Schedule for this Position: 9x80 every other Friday off",
+        "Pay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $123,500 - $217,695",
+        "Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays",
+        "(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays",
+        "Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays",
+        "PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year",
+        "This position is incentive plan eligible",
+        "Pay Rate: The annual base salary range for this position in most major metropolitan areas in California, Massachusetts, and New York is $142,000 - $246,100",
+        "Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays",
+        "This position is incentive plan eligible",
+        "Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work",
+        "Relocation Available: Possible"
+      ],
+      "Responsibilities": [
+        "You will be working a flexible 9x80 schedule in the office full-time",
+        "Perform all aspects of ASIC and FPGA development through the lifecycle from initial requirements capture through architecture, design, analysis, simulations and test in a Linux-based high-performance computing environment",
+        "Support technical reviews and present to internal and external stakeholders",
+        "Interface with an independent verification team who will be working in parallel, verifying the design",
+        "Debug issues related to network concepts like packet processing, flow control, initialization and latency bottlenecks",
+        "Integrate and bring up third party ASIC and FPGA IP including ethernet controllers and high speed serdes, including bring up of IP in simulations",
+        "Implement timing constraints required for successful implementation of networking interfaces, work closely with physical design on floorplan optimization for ASIC"
+      ]
+    },
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "www-indeed-com-viewjob",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "wawtuX1MvFzOaASoAAAAAA==",
+    "job_title": "Senior ASIC Design Research Engineer",
+    "employer_name": "Honda Dev. and Mfg. of Am.,LLC",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "American Honda Motor Company Careers - Honda",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.honda.com/us/en/job/9357/Senior-ASIC-Design-Research-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "American Honda Motor Company Careers - Honda",
+        "apply_link": "https://careers.honda.com/us/en/job/9357/Senior-ASIC-Design-Research-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Fluid Jobs",
+        "apply_link": "https://fluidjobs.com/jobs/200052635-senior-asic-design-research-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "IHireEngineering",
+        "apply_link": "https://www.ihireengineering.com/jobs/view/499081062?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-asic-design-research-engineer-at-american-honda-motor-company-inc-4334647593?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/jobs/detail/Senior-ASIC-Design-Research-Engineer-Honda-Dev.-and-Mfg.-of-Am.%2CLLC-Raymond-OH-43067/shakfeed/9357?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/senior-design-research-engineer-100287-raymond-honda-0b71dd609353bd335abb7c5642f2abe0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "EarnBetter",
+        "apply_link": "https://earnbetter.com/app/job/01K968QKEGP73TQD9CVNY9NSBZ/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/75edde78f3d84bfe5da57f54cfc0b9e2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "What Makes a Honda, is Who makes a Honda\nHonda has a clear vision for the future, and it’s a joyful one. We are looking for individuals with the skills, courage, persistence, and dreams that will help us reach our future-focused goals. At our core is innovation. Honda is constantly innovating and developing solutions to drive our business with record success. We strive to be a company that serves as a source of “power” that supports people around the world who are trying to do things based on their own initiative and that helps people expand their own potential. To this end, Honda strives to realize “the joy and freedom of mobility” by developing new technologies and an innovative approach to achieve a “zero environmental footprint.”\n\nWe are looking for qualified individuals with diverse backgrounds, experiences, continuous improvement values, and a strong work ethic to join our team.\n\nIf your goals and values align with Honda’s, we want you to join our team to Bring the Future!\nJob Purpose\n• The Design Research Senior Engineer in the CoE Division conducts sensing for NA market and consumer trends, extract emerging technologies, formulate hypothesis and propose research initiatives to provide value toward NA Honda’s business direction.\n\nKey Accountabilities\n• Conduct sensing for NA market and consumer trends, extract emerging technologies, and propose research initiatives.\n• Continuously summarize and correlate sensing results and conclusions with internal stakeholders.\n• Propose and carry out advanced research of emerging technologies utilizing Agile methodologies to prove hypothesis and define value with speed.\n• Independently manage technical project resources while maintaining leading knowledge of state-of-the-art principles and theories.\n• Propose new technology research themes for implementation into the Honda technical strategy through existing meeting structure and cadence.\n• Develops and maintains strong relationships with internal and external research partners, industry experts, consortium members, university staff, and policy leaders to gather expertise and grow capability.\n• Within defined technical pillar, identify root cause of highly technical and multidisciplinary problems and develop plans, designs, test systems, materials, techniques and processes to achieve objectives.\n• Gain knowledge and expertise in emerging technologies, document findings, and inform others to grow the overall technical capability in North America.\n\nQualifications, Experience, and Skills\n\nMinimum Educational Qualifications:\n• Bachelor’s of Science in Engineering field or equivalent relevant experience in science/engineering research capacity.\n\nMinimum Experience:\n• 5 or more years with focus on digital chip architectures, benchmarking, open-source IP / ISA (RISC), ARM, familiarity with CPU / GPU / NPU, FPGAs, SoCs (System-on-Chip) and heterogenous integration.\n• Familiarity with Assembly language.\n• Other highly desirables: Prior experience with industry standard EDA tools (e.g. - Synopsys / Cadence &c) for IC chip design. Exp in HDLs - e.g. - Verilog / VHDL\n\nOther Job-Specific Skills:\n• Passion for research, solving hard problems, and challenging the status quo.\n• Ability to learn new topics of apply principles to design and manufacturing challenges.\n• Working knowledge of Agile processes and methodologies\n• Design experiments to test hypothesis and prove them out.\n• Utilize agile process and methodologies to conduct sensing and research initiatives\n• Confidently make autonomous decisions bounded by the research mission and understanding of the company business model.\n• Ability to efficiently manage resources to achieve project initiatives and schedules\n• Clearly communicate new research and technology concepts and ideas to technical team members and management.\n• Scientifically analyze data provided from tests and experiments to gather knowledge and understanding of the subject of research.\n• Oversee overall research project schedule, budget, and direction.\n\nWorking Conditions\n• This position will require the employee to work at our ADC, Raymond, OH office at least 4 days per workweek. One remote workday a week may be possible with prior departmental approval.\n\nWhat differentiates Honda and make us an employer of choice?\n\nTotal Rewards:\n• Competitive Base Salary (pay will be based on several variables that include, but not limited to geographic location, work experience, etc.)\n• Paid Overtime\n• Regional Bonus (when applicable)\n• Industry-leading Benefit Plans (Medical, Dental, Vision, Rx)\n• Paid time off, including vacation, holidays, shutdown\n• Company Paid Short-Term and Long-Term Disability\n• 401K Plan with company match + additional contribution\n• Relocation assistance (if eligible)\n\nCareer Growth:\n• Advancement Opportunities\n• Career Mobility\n• Education Reimbursement for Continued Learning\n• Training and Development programs\n\nAdditional Offerings:\n• Tuition Assistance & Student Loan Repayment\n• Lifestyle Account\n• Childcare Reimbursement Account\n• Elder Care Support\n• Wellbeing Program\n• Community Service and Engagement Programs\n• Product Programs\n\nHonda is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, creed, religion, national origin, sex, sexual orientation, gender identity and expression, age, disability, veteran status, or any other protected factor.",
+    "job_is_remote": false,
+    "job_posted_at": "7 hours ago",
+    "job_posted_at_timestamp": 1771282800,
+    "job_posted_at_datetime_utc": "2026-02-16T23:00:00.000Z",
+    "job_location": "Raymond, OH",
+    "job_city": "Raymond",
+    "job_state": "Ohio",
+    "job_country": "US",
+    "job_latitude": 40.3344648,
+    "job_longitude": -83.4659573,
+    "job_benefits": [
+      "health_insurance",
+      "paid_time_off",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwawtuX1MvFzOaASoAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor’s of Science in Engineering field or equivalent relevant experience in science/engineering research capacity",
+        "5 or more years with focus on digital chip architectures, benchmarking, open-source IP / ISA (RISC), ARM, familiarity with CPU / GPU / NPU, FPGAs, SoCs (System-on-Chip) and heterogenous integration",
+        "Familiarity with Assembly language",
+        "Exp in HDLs - e.g. - Verilog / VHDL",
+        "Passion for research, solving hard problems, and challenging the status quo",
+        "Ability to learn new topics of apply principles to design and manufacturing challenges",
+        "Working knowledge of Agile processes and methodologies",
+        "Confidently make autonomous decisions bounded by the research mission and understanding of the company business model",
+        "Ability to efficiently manage resources to achieve project initiatives and schedules",
+        "Clearly communicate new research and technology concepts and ideas to technical team members and management"
+      ],
+      "Benefits": [
+        "One remote workday a week may be possible with prior departmental approval",
+        "Competitive Base Salary (pay will be based on several variables that include, but not limited to geographic location, work experience, etc.)",
+        "Paid Overtime",
+        "Regional Bonus (when applicable)",
+        "Industry-leading Benefit Plans (Medical, Dental, Vision, Rx)",
+        "Paid time off, including vacation, holidays, shutdown",
+        "Company Paid Short-Term and Long-Term Disability",
+        "401K Plan with company match + additional contribution",
+        "Relocation assistance (if eligible)",
+        "Advancement Opportunities",
+        "Career Mobility",
+        "Education Reimbursement for Continued Learning",
+        "Training and Development programs",
+        "Tuition Assistance & Student Loan Repayment",
+        "Lifestyle Account",
+        "Childcare Reimbursement Account",
+        "Elder Care Support",
+        "Wellbeing Program",
+        "Community Service and Engagement Programs"
+      ],
+      "Responsibilities": [
+        "The Design Research Senior Engineer in the CoE Division conducts sensing for NA market and consumer trends, extract emerging technologies, formulate hypothesis and propose research initiatives to provide value toward NA Honda’s business direction",
+        "Conduct sensing for NA market and consumer trends, extract emerging technologies, and propose research initiatives",
+        "Continuously summarize and correlate sensing results and conclusions with internal stakeholders",
+        "Propose and carry out advanced research of emerging technologies utilizing Agile methodologies to prove hypothesis and define value with speed",
+        "Independently manage technical project resources while maintaining leading knowledge of state-of-the-art principles and theories",
+        "Propose new technology research themes for implementation into the Honda technical strategy through existing meeting structure and cadence",
+        "Develops and maintains strong relationships with internal and external research partners, industry experts, consortium members, university staff, and policy leaders to gather expertise and grow capability",
+        "Within defined technical pillar, identify root cause of highly technical and multidisciplinary problems and develop plans, designs, test systems, materials, techniques and processes to achieve objectives",
+        "Gain knowledge and expertise in emerging technologies, document findings, and inform others to grow the overall technical capability in North America",
+        "Design experiments to test hypothesis and prove them out",
+        "Utilize agile process and methodologies to conduct sensing and research initiatives",
+        "Scientifically analyze data provided from tests and experiments to gather knowledge and understanding of the subject of research",
+        "Oversee overall research project schedule, budget, and direction",
+        "This position will require the employee to work at our ADC, Raymond, OH office at least 4 days per workweek"
+      ]
+    },
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "careers-honda-com-us-en-job-9357-senior-asic-design-research-engineer",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "eU1mpR2zJrFXVl1zAAAAAA==",
     "job_title": "Senior ASIC Design Engineer",
     "employer_name": "NVIDIA",
@@ -731,127 +1052,6 @@
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
     "id": "www-linkedin-com-jobs-view-senior-asic-design-engineer-at-nvidia-4371281431",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "yjbYE0wD0aLaYXOdAAAAAA==",
-    "job_title": "ASIC Design Verification Engineer I (Full Time) - United States",
-    "employer_name": "Cisco",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgthNpO3rocjBOmZqIhYrkphz9zbGG6DQ5B9CQ&s=0",
-    "employer_website": "https://www.cisco.com",
-    "job_publisher": "Careers - Cisco",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2004980EXTERNALENGLOBAL/ASIC-Design-Verification-Engineer-I-Full-Time-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Careers - Cisco",
-        "apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2004980EXTERNALENGLOBAL/ASIC-Design-Verification-Engineer-I-Full-Time-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Cisco/Job/ASIC-Design-Verfication-Engineer-II-(Full-Time)-United-States/-in-San-Francisco,CA?jid=3be4664dc8cfd29a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LocalJobs.com",
-        "apply_link": "https://www.localjobs.com/job/san-francisco-ca-asic-design-verfication-engineer-ii-full-time-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/asic-design-verification-engineer-i-full-sf-cisco-systems-inc-b5c0bb09bb3955accb7727da44d09613?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/asic-design-verification-engineer-i-full-time-united-states-at-cisco-4344043148?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Lensa",
-        "apply_link": "https://lensa.com/job-v1/cisco/san-francisco-ca/design-verification-engineer-full-time/aad6e1d3cefdda851eb1a082fadd6d5a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "EarnBetter",
-        "apply_link": "https://earnbetter.com/app/job/01KCPNXJVNG8PCK3755B4SA8EC/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Snagajob",
-        "apply_link": "https://www.snagajob.com/jobs/1200334466?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nApplications are accepted until further notice.  \n\n \n\nMeet the Team \n\nThe ASIC Group works closely with other development teams within Cisco, including marketing, system hardware, software, product engineering, and manufacturing.  \n\nThrough this collaboration, members of our group play a major role in defining, developing and bringing new products to market across Cisco's product line. Open-minded, driven, diverse and deeply creative people at Cisco craft the hardware that makes the internet work. Bring your knowledge of computers and networking and take it to a new level in any one of the following product categories including: cloud, social, mobile/wireless, video, VoIP, collaboration, web, Internet of Things, routing, switching, IPv6, data center, HPC, TelePresence and many more. Your work will affect billions globally.  \n\nYour Impact  \n\nJoin our award-winning ASIC team, where you’ll collaborate with top industry talent to design and deliver ground breaking communications and network processing silicon. You’ll contribute to system and processor architecture, high-speed logic design and verification, digital signal processing, memory and custom library development, physical design, DFT, signal integrity, and advanced packaging. Work with the latest VLSI techniques and deep submicron technologies, owning projects from concept to in-house physical implementation.  \n\nMinimum Qualifications  \n• Completion within the past 3 years, or current enrollment with expected completion within 12 months, of a Bachelor’s degree program. Familiarity with hardware description languages (HDLs), such as Verilog or VHDL.  \n• Experience with RTL design and simulation tools (e.g., Synopsys, Cadence, Mentor Graphics).  \n• Exposure to scripting languages (e.g., Python, Perl, TCL) for automation.  \n• Familiarity with ASIC/SoC design flow including synthesis, place & route, and timing closure.  \n\nPreferred Qualifications  \n• Experience with ASIC verification methodologies (e.g., UVM, SystemVerilog) \n• Understanding of physical design and DFT (Design for Test) principles \n• Familiarity with Linux-based development environments \n• Ability to adapt to new technologies and problem-solve sophisticated engineering challenges \n• Excellent organizational, teamwork, and communication skills \n\nWhy Cisco   \n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint. Simply put – we power the future.  \n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.  \n\nWe are Cisco, and our power starts with you.  \n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$94,200.00 - $137,500.00\n\nNon-Metro New York state & Washington state:\n$84,000.00 - $122,200.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Carlsbad, CA",
-    "job_city": "Carlsbad",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 33.1640648,
-    "job_longitude": -117.34108189999999,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DyjbYE0wD0aLaYXOdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Open-minded, driven, diverse and deeply creative people at Cisco craft the hardware that makes the internet work",
-        "Bring your knowledge of computers and networking and take it to a new level in any one of the following product categories including: cloud, social, mobile/wireless, video, VoIP, collaboration, web, Internet of Things, routing, switching, IPv6, data center, HPC, TelePresence and many more",
-        "Completion within the past 3 years, or current enrollment with expected completion within 12 months, of a Bachelor’s degree program",
-        "Familiarity with hardware description languages (HDLs), such as Verilog or VHDL.  ",
-        "Experience with RTL design and simulation tools (e.g., Synopsys, Cadence, Mentor Graphics).  ",
-        "Exposure to scripting languages (e.g., Python, Perl, TCL) for automation.  "
-      ],
-      "Benefits": [
-        "The full salary range for certain locations is listed below",
-        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
-        "U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
-        "Please see the Cisco careers site to discover more benefits and perks",
-        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
-        "U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:",
-        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
-        "1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
-        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
-        "Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
-        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
-        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
-        "Optional 10 paid days per full calendar year to volunteer",
-        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
-        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
-        "For quota-based incentive pay, Cisco typically pays as follows:",
-        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
-        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
-        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
-        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
-        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
-        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
-        "For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined"
-      ],
-      "Responsibilities": [
-        "Work with the latest VLSI techniques and deep submicron technologies, owning projects from concept to in-house physical implementation.  ",
-        "Familiarity with ASIC/SoC design flow including synthesis, place & route, and timing closure.  ",
-        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
-      ]
-    },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "careers-cisco-com-global-en-job-ciscisglobal2004980externalenglobal-asic-design-verification-engineer-i-full-time-united-states",
     "_source": "new_jobs"
   },
   {
@@ -921,9 +1121,9 @@
     "job_latitude": 42.7647763,
     "job_longitude": -71.43980739999999,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5PH5u_ghsAC24Pc2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -966,237 +1166,124 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "wawtuX1MvFzOaASoAAAAAA==",
-    "job_title": "Senior ASIC Design Research Engineer",
-    "employer_name": "Honda Dev. and Mfg. of Am.,LLC",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Honda Careers",
+    "job_id": "yjbYE0wD0aLaYXOdAAAAAA==",
+    "job_title": "ASIC Design Verification Engineer I (Full Time) - United States",
+    "employer_name": "Cisco",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgthNpO3rocjBOmZqIhYrkphz9zbGG6DQ5B9CQ&s=0",
+    "employer_website": "https://www.cisco.com",
+    "job_publisher": "Careers - Cisco",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://careers.honda.com/us/en/job/9357/Senior-ASIC-Design-Research-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2004980EXTERNALENGLOBAL/ASIC-Design-Verification-Engineer-I-Full-Time-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Honda Careers",
-        "apply_link": "https://careers.honda.com/us/en/job/9357/Senior-ASIC-Design-Research-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Careers - Cisco",
+        "apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2004980EXTERNALENGLOBAL/ASIC-Design-Verification-Engineer-I-Full-Time-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Fluid Jobs",
-        "apply_link": "https://fluidjobs.com/jobs/200052635-senior-asic-design-research-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Cisco/Job/ASIC-Design-Verfication-Engineer-II-(Full-Time)-United-States/-in-San-Francisco,CA?jid=3be4664dc8cfd29a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
       },
       {
-        "publisher": "IHireEngineering",
-        "apply_link": "https://www.ihireengineering.com/jobs/view/499081062?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/senior-asic-design-research-engineer-at-american-honda-motor-company-inc-4334647593?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/jobs/detail/Senior-ASIC-Design-Research-Engineer-Honda-Dev.-and-Mfg.-of-Am.%2CLLC-Raymond-OH-43067/shakfeed/9357?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "LocalJobs.com",
+        "apply_link": "https://www.localjobs.com/job/san-francisco-ca-asic-design-verfication-engineer-ii-full-time-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "Career.io",
-        "apply_link": "https://career.io/job/senior-design-research-engineer-100287-raymond-honda-0b71dd609353bd335abb7c5642f2abe0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://career.io/job/asic-design-verification-engineer-i-full-sf-cisco-systems-inc-b5c0bb09bb3955accb7727da44d09613?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
-        "publisher": "EarnBetter",
-        "apply_link": "https://earnbetter.com/app/job/01K968QKEGP73TQD9CVNY9NSBZ/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/asic-design-verification-engineer-i-full-time-united-states-at-cisco-4344043148?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/75edde78f3d84bfe5da57f54cfc0b9e2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/cisco/san-francisco-ca/design-verification-engineer-full-time/aad6e1d3cefdda851eb1a082fadd6d5a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "EarnBetter",
+        "apply_link": "https://earnbetter.com/app/job/01KCPNXJVNG8PCK3755B4SA8EC/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1200334466?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "What Makes a Honda, is Who makes a Honda\nHonda has a clear vision for the future, and it’s a joyful one. We are looking for individuals with the skills, courage, persistence, and dreams that will help us reach our future-focused goals. At our core is innovation. Honda is constantly innovating and developing solutions to drive our business with record success. We strive to be a company that serves as a source of “power” that supports people around the world who are trying to do things based on their own initiative and that helps people expand their own potential. To this end, Honda strives to realize “the joy and freedom of mobility” by developing new technologies and an innovative approach to achieve a “zero environmental footprint.”\n\nWe are looking for qualified individuals with diverse backgrounds, experiences, continuous improvement values, and a strong work ethic to join our team.\n\nIf your goals and values align with Honda’s, we want you to join our team to Bring the Future!\nJob Purpose\n• The Design Research Senior Engineer in the CoE Division conducts sensing for NA market and consumer trends, extract emerging technologies, formulate hypothesis and propose research initiatives to provide value toward NA Honda’s business direction.\n\nKey Accountabilities\n• Conduct sensing for NA market and consumer trends, extract emerging technologies, and propose research initiatives.\n• Continuously summarize and correlate sensing results and conclusions with internal stakeholders.\n• Propose and carry out advanced research of emerging technologies utilizing Agile methodologies to prove hypothesis and define value with speed.\n• Independently manage technical project resources while maintaining leading knowledge of state-of-the-art principles and theories.\n• Propose new technology research themes for implementation into the Honda technical strategy through existing meeting structure and cadence.\n• Develops and maintains strong relationships with internal and external research partners, industry experts, consortium members, university staff, and policy leaders to gather expertise and grow capability.\n• Within defined technical pillar, identify root cause of highly technical and multidisciplinary problems and develop plans, designs, test systems, materials, techniques and processes to achieve objectives.\n• Gain knowledge and expertise in emerging technologies, document findings, and inform others to grow the overall technical capability in North America.\n\nQualifications, Experience, and Skills\n\nMinimum Educational Qualifications:\n• Bachelor’s of Science in Engineering field or equivalent relevant experience in science/engineering research capacity.\n\nMinimum Experience:\n• 5 or more years with focus on digital chip architectures, benchmarking, open-source IP / ISA (RISC), ARM, familiarity with CPU / GPU / NPU, FPGAs, SoCs (System-on-Chip) and heterogenous integration.\n• Familiarity with Assembly language.\n• Other highly desirables: Prior experience with industry standard EDA tools (e.g. - Synopsys / Cadence &c) for IC chip design. Exp in HDLs - e.g. - Verilog / VHDL\n\nOther Job-Specific Skills:\n• Passion for research, solving hard problems, and challenging the status quo.\n• Ability to learn new topics of apply principles to design and manufacturing challenges.\n• Working knowledge of Agile processes and methodologies\n• Design experiments to test hypothesis and prove them out.\n• Utilize agile process and methodologies to conduct sensing and research initiatives\n• Confidently make autonomous decisions bounded by the research mission and understanding of the company business model.\n• Ability to efficiently manage resources to achieve project initiatives and schedules\n• Clearly communicate new research and technology concepts and ideas to technical team members and management.\n• Scientifically analyze data provided from tests and experiments to gather knowledge and understanding of the subject of research.\n• Oversee overall research project schedule, budget, and direction.\n\nWorking Conditions\n• This position will require the employee to work at our ADC, Raymond, OH office at least 4 days per workweek. One remote workday a week may be possible with prior departmental approval.\n\nWhat differentiates Honda and make us an employer of choice?\n\nTotal Rewards:\n• Competitive Base Salary (pay will be based on several variables that include, but not limited to geographic location, work experience, etc.)\n• Paid Overtime\n• Regional Bonus (when applicable)\n• Industry-leading Benefit Plans (Medical, Dental, Vision, Rx)\n• Paid time off, including vacation, holidays, shutdown\n• Company Paid Short-Term and Long-Term Disability\n• 401K Plan with company match + additional contribution\n• Relocation assistance (if eligible)\n\nCareer Growth:\n• Advancement Opportunities\n• Career Mobility\n• Education Reimbursement for Continued Learning\n• Training and Development programs\n\nAdditional Offerings:\n• Tuition Assistance & Student Loan Repayment\n• Lifestyle Account\n• Childcare Reimbursement Account\n• Elder Care Support\n• Wellbeing Program\n• Community Service and Engagement Programs\n• Product Programs\n\nHonda is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, creed, religion, national origin, sex, sexual orientation, gender identity and expression, age, disability, veteran status, or any other protected factor.",
+    "job_description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nApplications are accepted until further notice.  \n\n \n\nMeet the Team \n\nThe ASIC Group works closely with other development teams within Cisco, including marketing, system hardware, software, product engineering, and manufacturing.  \n\nThrough this collaboration, members of our group play a major role in defining, developing and bringing new products to market across Cisco's product line. Open-minded, driven, diverse and deeply creative people at Cisco craft the hardware that makes the internet work. Bring your knowledge of computers and networking and take it to a new level in any one of the following product categories including: cloud, social, mobile/wireless, video, VoIP, collaboration, web, Internet of Things, routing, switching, IPv6, data center, HPC, TelePresence and many more. Your work will affect billions globally.  \n\nYour Impact  \n\nJoin our award-winning ASIC team, where you’ll collaborate with top industry talent to design and deliver ground breaking communications and network processing silicon. You’ll contribute to system and processor architecture, high-speed logic design and verification, digital signal processing, memory and custom library development, physical design, DFT, signal integrity, and advanced packaging. Work with the latest VLSI techniques and deep submicron technologies, owning projects from concept to in-house physical implementation.  \n\nMinimum Qualifications  \n• Completion within the past 3 years, or current enrollment with expected completion within 12 months, of a Bachelor’s degree program. Familiarity with hardware description languages (HDLs), such as Verilog or VHDL.  \n• Experience with RTL design and simulation tools (e.g., Synopsys, Cadence, Mentor Graphics).  \n• Exposure to scripting languages (e.g., Python, Perl, TCL) for automation.  \n• Familiarity with ASIC/SoC design flow including synthesis, place & route, and timing closure.  \n\nPreferred Qualifications  \n• Experience with ASIC verification methodologies (e.g., UVM, SystemVerilog) \n• Understanding of physical design and DFT (Design for Test) principles \n• Familiarity with Linux-based development environments \n• Ability to adapt to new technologies and problem-solve sophisticated engineering challenges \n• Excellent organizational, teamwork, and communication skills \n\nWhy Cisco   \n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint. Simply put – we power the future.  \n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.  \n\nWe are Cisco, and our power starts with you.  \n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$94,200.00 - $137,500.00\n\nNon-Metro New York state & Washington state:\n$84,000.00 - $122,200.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
     "job_is_remote": false,
-    "job_posted_at": "1 day ago",
-    "job_posted_at_timestamp": 1771200000,
-    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
-    "job_location": "Raymond, OH",
-    "job_city": "Raymond",
-    "job_state": "Ohio",
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Carlsbad, CA",
+    "job_city": "Carlsbad",
+    "job_state": "California",
     "job_country": "US",
-    "job_latitude": 40.3344648,
-    "job_longitude": -83.4659573,
+    "job_latitude": 33.1640648,
+    "job_longitude": -117.34108189999999,
     "job_benefits": [
+      "health_insurance",
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "dental_coverage"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwawtuX1MvFzOaASoAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DyjbYE0wD0aLaYXOdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Bachelor’s of Science in Engineering field or equivalent relevant experience in science/engineering research capacity",
-        "5 or more years with focus on digital chip architectures, benchmarking, open-source IP / ISA (RISC), ARM, familiarity with CPU / GPU / NPU, FPGAs, SoCs (System-on-Chip) and heterogenous integration",
-        "Familiarity with Assembly language",
-        "Exp in HDLs - e.g. - Verilog / VHDL",
-        "Passion for research, solving hard problems, and challenging the status quo",
-        "Ability to learn new topics of apply principles to design and manufacturing challenges",
-        "Working knowledge of Agile processes and methodologies",
-        "Confidently make autonomous decisions bounded by the research mission and understanding of the company business model",
-        "Ability to efficiently manage resources to achieve project initiatives and schedules",
-        "Clearly communicate new research and technology concepts and ideas to technical team members and management"
+        "Open-minded, driven, diverse and deeply creative people at Cisco craft the hardware that makes the internet work",
+        "Bring your knowledge of computers and networking and take it to a new level in any one of the following product categories including: cloud, social, mobile/wireless, video, VoIP, collaboration, web, Internet of Things, routing, switching, IPv6, data center, HPC, TelePresence and many more",
+        "Completion within the past 3 years, or current enrollment with expected completion within 12 months, of a Bachelor’s degree program",
+        "Familiarity with hardware description languages (HDLs), such as Verilog or VHDL.  ",
+        "Experience with RTL design and simulation tools (e.g., Synopsys, Cadence, Mentor Graphics).  ",
+        "Exposure to scripting languages (e.g., Python, Perl, TCL) for automation.  "
       ],
       "Benefits": [
-        "One remote workday a week may be possible with prior departmental approval",
-        "Competitive Base Salary (pay will be based on several variables that include, but not limited to geographic location, work experience, etc.)",
-        "Paid Overtime",
-        "Regional Bonus (when applicable)",
-        "Industry-leading Benefit Plans (Medical, Dental, Vision, Rx)",
-        "Paid time off, including vacation, holidays, shutdown",
-        "Company Paid Short-Term and Long-Term Disability",
-        "401K Plan with company match + additional contribution",
-        "Relocation assistance (if eligible)",
-        "Advancement Opportunities",
-        "Career Mobility",
-        "Education Reimbursement for Continued Learning",
-        "Training and Development programs",
-        "Tuition Assistance & Student Loan Repayment",
-        "Lifestyle Account",
-        "Childcare Reimbursement Account",
-        "Elder Care Support",
-        "Wellbeing Program",
-        "Community Service and Engagement Programs"
+        "The full salary range for certain locations is listed below",
+        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
+        "U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
+        "Please see the Cisco careers site to discover more benefits and perks",
+        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
+        "U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:",
+        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
+        "1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
+        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
+        "Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
+        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
+        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
+        "Optional 10 paid days per full calendar year to volunteer",
+        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
+        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
+        "For quota-based incentive pay, Cisco typically pays as follows:",
+        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
+        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
+        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
+        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
+        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
+        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
+        "For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined"
       ],
       "Responsibilities": [
-        "The Design Research Senior Engineer in the CoE Division conducts sensing for NA market and consumer trends, extract emerging technologies, formulate hypothesis and propose research initiatives to provide value toward NA Honda’s business direction",
-        "Conduct sensing for NA market and consumer trends, extract emerging technologies, and propose research initiatives",
-        "Continuously summarize and correlate sensing results and conclusions with internal stakeholders",
-        "Propose and carry out advanced research of emerging technologies utilizing Agile methodologies to prove hypothesis and define value with speed",
-        "Independently manage technical project resources while maintaining leading knowledge of state-of-the-art principles and theories",
-        "Propose new technology research themes for implementation into the Honda technical strategy through existing meeting structure and cadence",
-        "Develops and maintains strong relationships with internal and external research partners, industry experts, consortium members, university staff, and policy leaders to gather expertise and grow capability",
-        "Within defined technical pillar, identify root cause of highly technical and multidisciplinary problems and develop plans, designs, test systems, materials, techniques and processes to achieve objectives",
-        "Gain knowledge and expertise in emerging technologies, document findings, and inform others to grow the overall technical capability in North America",
-        "Design experiments to test hypothesis and prove them out",
-        "Utilize agile process and methodologies to conduct sensing and research initiatives",
-        "Scientifically analyze data provided from tests and experiments to gather knowledge and understanding of the subject of research",
-        "Oversee overall research project schedule, budget, and direction",
-        "This position will require the employee to work at our ADC, Raymond, OH office at least 4 days per workweek"
+        "Work with the latest VLSI techniques and deep submicron technologies, owning projects from concept to in-house physical implementation.  ",
+        "Familiarity with ASIC/SoC design flow including synthesis, place & route, and timing closure.  ",
+        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
       ]
     },
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
-    "id": "careers-honda-com-us-en-job-9357-senior-asic-design-research-engineer",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "d8NXqzEvU2thWg05AAAAAA==",
-    "job_title": "ASIC Physical Design Engineer",
-    "employer_name": "Programming.com",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-gmHENcCm--kwDeZwoXpY2cQbdpR0Y90aNtRQ&s=0",
-    "employer_website": "https://www.programming.com",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/asic-physical-design-engineer-at-programming-com-4371493602?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/asic-physical-design-engineer-at-programming-com-4371493602?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/b30b77630a8334b206a0deb1bb8bb6b5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobs For Stevenage Fans",
-        "apply_link": "https://jobs.stevenagefc.com/jobs/asic-physical-design-engineer-maynard-massachusetts/2606755828-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SaluteMyJob",
-        "apply_link": "https://salutemyjob.com/jobs/asic-physical-design-engineer-maynard-massachusetts/2606755828-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "KSNT Jobs",
-        "apply_link": "https://jobs.ksnt.com/jobs/asic-physical-design-engineer-maynard-massachusetts/2606755828-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "KGET Jobs",
-        "apply_link": "https://jobs.kget.com/jobs/asic-physical-design-engineer-maynard-massachusetts/2606755828-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698d061f0f6f7e7a2ce8b4f0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Edinburgh City FC",
-        "apply_link": "https://jobs.edinburghcityfc.com/jobs/asic-physical-design-engineer-maynard-massachusetts/2606755828-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Senior ASIC Physical Design Engineer\n\nLocation: Maynard, Massachusetts\n\nExperience: 7+ Years\n\nIndustry: Semiconductor / ASIC / SoC\n\nWe are hiring a Senior Physical Design Engineer to drive RTL-to-GDSII implementation for advanced-node ASIC/SoC designs (28nm and below). This is a hands-on role requiring strong ownership of block or partition-level implementation and the ability to deliver signoff-clean designs under aggressive tape-out schedules.\n\nKey Responsibilities:\n• Own end-to-end physical implementation from netlist to GDSII\n• Perform floorplanning, macro placement, power planning, placement, CTS, and routing\n• Drive timing closure across setup/hold and signal integrity issues\n• Perform Static Timing Analysis using PrimeTime or Tempus\n• Implement ECOs and support late-stage timing convergence\n• Execute physical verification (DRC, LVS, ERC, antenna checks)\n• Analyze and resolve congestion, IR drop, and EM issues\n• Collaborate closely with RTL, synthesis, and full-chip teams\n• Support tape-out and deliver signoff-quality designs\n• Develop TCL/Python scripts to improve flow efficiency\n\nRequired Qualifications:\n• BS/MS in Electrical or Electronics Engineering\n• 7+ years of ASIC Physical Design experience\n• Strong hands-on experience in advanced nodes: 5nm, 7nm, 10nm, 14nm, 16nm, or 28nm\n• Deep understanding of floorplanning, CTS, STA, and timing closure\n• Experience with Synopsys tools (ICC2, Fusion Compiler, PrimeTime, StarRC) or Cadence tools (Innovus, Tempus)\n• Experience with low-power methodologies and UPF\n• Proven tape-out experience\n\nPreferred Qualifications:\n• Block Owner or Partition Owner experience\n• Exposure to full-chip integration\n• Experience with high-performance designs (1.5–2GHz+)\n• Power signoff experience (IR/EM analysis)\n• Networking or high-speed interface ASIC background\n\nIf you are interested or know someone who would be a strong fit, please message me directly.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Maynard, MA",
-    "job_city": "Maynard",
-    "job_state": "Massachusetts",
-    "job_country": "US",
-    "job_latitude": 42.4303138,
-    "job_longitude": -71.460433,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dd8NXqzEvU2thWg05AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Experience: 7+ Years",
-        "BS/MS in Electrical or Electronics Engineering",
-        "7+ years of ASIC Physical Design experience",
-        "Strong hands-on experience in advanced nodes: 5nm, 7nm, 10nm, 14nm, 16nm, or 28nm",
-        "Deep understanding of floorplanning, CTS, STA, and timing closure",
-        "Experience with Synopsys tools (ICC2, Fusion Compiler, PrimeTime, StarRC) or Cadence tools (Innovus, Tempus)",
-        "Experience with low-power methodologies and UPF",
-        "Proven tape-out experience"
-      ],
-      "Responsibilities": [
-        "This is a hands-on role requiring strong ownership of block or partition-level implementation and the ability to deliver signoff-clean designs under aggressive tape-out schedules",
-        "Own end-to-end physical implementation from netlist to GDSII",
-        "Perform floorplanning, macro placement, power planning, placement, CTS, and routing",
-        "Drive timing closure across setup/hold and signal integrity issues",
-        "Perform Static Timing Analysis using PrimeTime or Tempus",
-        "Implement ECOs and support late-stage timing convergence",
-        "Execute physical verification (DRC, LVS, ERC, antenna checks)",
-        "Analyze and resolve congestion, IR drop, and EM issues",
-        "Collaborate closely with RTL, synthesis, and full-chip teams",
-        "Support tape-out and deliver signoff-quality designs",
-        "Develop TCL/Python scripts to improve flow efficiency"
-      ]
-    },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "www-linkedin-com-jobs-view-asic-physical-design-engineer-at-programming-com-4371493602",
+    "id": "careers-cisco-com-global-en-job-ciscisglobal2004980externalenglobal-asic-design-verification-engineer-i-full-time-united-states",
     "_source": "new_jobs"
   },
   {
@@ -1381,9 +1468,9 @@
     "job_latitude": 33.1640648,
     "job_longitude": -117.34108189999999,
     "job_benefits": [
-      "health_insurance",
       "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DTHtn-MThrkudNKeYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1433,199 +1520,6 @@
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-cisco-job-asic-design-verfication-engineer-ii-full-time-united-states-in-carlsbad-ca",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "NLErBu6oFKjaX7fOAAAAAA==",
-    "job_title": "ASIC Engineer Intern, Implementation - Full-time",
-    "employer_name": "Meta",
-    "employer_logo": null,
-    "employer_website": "https://www.meta.com",
-    "job_publisher": "Snagajob",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.snagajob.com/jobs/1213038855?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Snagajob",
-        "apply_link": "https://www.snagajob.com/jobs/1213038855?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "**Summary:**\n\nMeta is seeking an ASIC Engineer Intern to join our Infrastructure organization. Our servers and data centers are the foundation upon which our rapidly scaling infrastructure efficiently operates and upon which our innovative services are delivered. By holding this role, you will be an integral member of an ASIC team to build accelerators for some of our top workloads enabling our data centers to scale efficiently. You will have an opportunity to participate in design implementation/emulation, physical design, EDA infrastructure methods, and design power estimation/management using state of the art tools. Come work and learn alongside our expert ASIC engineers to build “Green” data center accelerators.Internships are twelve (12) to sixteen (16) weeks long.\n• *Required Skills:**\n\nASIC Engineer Intern, Implementation Responsibilities:\n\n1. Participate in Design Implementation, Physical Design, and Design Power reviews and provide feedback\n\n2. Contribute to optimizing RTL for some of the IPs to achieve best PPA (Power, Performance, Area), and support implementation and physical design of the same\n\n3. Develop scripts, tools, and methods to enhance PPA (Power, Performance, Area)\n\n4. Support and develop EDA Infrastructure, and help improve designer productivity\n\n5. Support Simulation accelerators and post-Silicon validation\n• *Minimum Qualifications:**\n\nMinimum Qualifications:\n\n6. Currently has, or is in the process of obtaining, a Bachelor's degree in Electrical Engineering, Computer Engineering or related engineering fields\n\n7. Knowledge of Verilog, VHDL, or HLS\n\n8. Knowledge of Computer Architecture and Logic Design fundamentals\n\n9. Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment\n\n10. Intent to return to degree-program after the completion of the internship/co-op\n• *Preferred Qualifications:**\n\nPreferred Qualifications:\n\n11. Currently has, or is in the process of obtaining, a Masters or PhD degree in Electrical Engineering, Computer Engineering or related engineering fields\n\n12. Experience with Lint, Synthesis, Formal or Physical Design tools\n\n13. Scripting capability with Python or perl\n\n14. Experience with High Performance Computing\n\n15. Experience with Digital Signal Processing Techniques\n\n16. Creativity and problem solving capabilities\n• *Public Compensation:**\n\n$6,660/month to $11,647/month + benefits\n• *Industry:** Internet\n• *Equal Opportunity:**\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.\n• *Summary:**\n\nMeta is seeking an ASIC Engineer Intern to join our Infrastructure organization. Our servers and data centers are the foundation upon which our rapidly scaling infrastructure efficiently operates and upon which our innovative services are delivered. By holding this role, you will be an integral member of an ASIC team to build accelerators for some of our top workloads enabling our data centers to scale efficiently. You will have an opportunity to participate in design implementation/emulation, physical design, EDA infrastructure methods, and design power estimation/management using state of the art tools. Come work and learn alongside our expert ASIC engineers to build “Green” data center accelerators.Internships are twelve (12) to sixteen (16) weeks long.\n• *Required Skills:**\n\nASIC Engineer Intern, Implementation Responsibilities:\n\n1. Participate in Design Implementation, Physical Design, and Design Power reviews and provide feedback\n\n2. Contribute to optimizing RTL for some of the IPs to achieve best PPA (Power, Performance, Area), and support implementation and physical design of the same\n\n3. Develop scripts, tools, and methods to enhance PPA (Power, Performance, Area)\n\n4. Support and develop EDA Infrastructure, and help improve designer productivity\n\n5. Support Simulation accelerators and post-Silicon validation\n• *Minimum Qualifications:**\n\nMinimum Qualifications:\n\n6. Currently has, or is in the process of obtaining, a Bachelor's degree in Electrical Engineering, Computer Engineering or related engineering fields\n\n7. Knowledge of Verilog, VHDL, or HLS\n\n8. Knowledge of Computer Architecture and Logic Design fundamentals\n\n9. Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment\n\n10. Intent to return to degree-program after the completion of the internship/co-op\n• *Preferred Qualifications:**\n\nPreferred Qualifications:\n\n11. Currently has, or is in the process of obtaining, a Masters or PhD degree in Electrical Engineering, Computer Engineering or related engineering fields\n\n12. Experience with Lint, Synthesis, Formal or Physical Design tools\n\n13. Scripting capability with Python or perl\n\n14. Experience with High Performance Computing\n\n15. Experience with Digital Signal Processing Techniques\n\n16. Creativity and problem solving capabilities\n• *Public Compensation:**\n\n$6,660/month to $11,647/month + benefits\n• *Industry:** Internet\n• *Equal Opportunity:**\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Sunnyvale, CA",
-    "job_city": "Sunnyvale",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.368829999999996,
-    "job_longitude": -122.0363496,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DNLErBu6oFKjaX7fOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Currently has, or is in the process of obtaining, a Bachelor's degree in Electrical Engineering, Computer Engineering or related engineering fields",
-        "Knowledge of Verilog, VHDL, or HLS",
-        "Knowledge of Computer Architecture and Logic Design fundamentals",
-        "Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment",
-        "Intent to return to degree-program after the completion of the internship/co-op",
-        "Meta participates in the E-Verify program in certain locations, as required by law",
-        "Currently has, or is in the process of obtaining, a Bachelor's degree in Electrical Engineering, Computer Engineering or related engineering fields",
-        "Knowledge of Verilog, VHDL, or HLS",
-        "Knowledge of Computer Architecture and Logic Design fundamentals",
-        "Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment",
-        "Intent to return to degree-program after the completion of the internship/co-op",
-        "Meta participates in the E-Verify program in certain locations, as required by law"
-      ],
-      "Benefits": [
-        "$6,660/month to $11,647/month + benefits",
-        "$6,660/month to $11,647/month + benefits"
-      ],
-      "Responsibilities": [
-        "You will have an opportunity to participate in design implementation/emulation, physical design, EDA infrastructure methods, and design power estimation/management using state of the art tools",
-        "Participate in Design Implementation, Physical Design, and Design Power reviews and provide feedback",
-        "Contribute to optimizing RTL for some of the IPs to achieve best PPA (Power, Performance, Area), and support implementation and physical design of the same",
-        "Develop scripts, tools, and methods to enhance PPA (Power, Performance, Area)",
-        "Support and develop EDA Infrastructure, and help improve designer productivity",
-        "Support Simulation accelerators and post-Silicon validation",
-        "You will have an opportunity to participate in design implementation/emulation, physical design, EDA infrastructure methods, and design power estimation/management using state of the art tools",
-        "Participate in Design Implementation, Physical Design, and Design Power reviews and provide feedback",
-        "Contribute to optimizing RTL for some of the IPs to achieve best PPA (Power, Performance, Area), and support implementation and physical design of the same",
-        "Develop scripts, tools, and methods to enhance PPA (Power, Performance, Area)",
-        "Support and develop EDA Infrastructure, and help improve designer productivity",
-        "Support Simulation accelerators and post-Silicon validation"
-      ]
-    },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "www-snagajob-com-jobs-1213038855",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "Vrwb9ayrGsqaIxu6AAAAAA==",
-    "job_title": "ASIC Design Verfication Engineer II (Full Time) - United States",
-    "employer_name": "Cisco",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgthNpO3rocjBOmZqIhYrkphz9zbGG6DQ5B9CQ&s=0",
-    "employer_website": "https://www.cisco.com",
-    "job_publisher": "Cisco Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2002902EXTERNALENGLOBAL/ASIC-Design-Verfication-Engineer-II-Full-Time-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Cisco Careers",
-        "apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2002902EXTERNALENGLOBAL/ASIC-Design-Verfication-Engineer-II-Full-Time-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=e133c164f06da1f4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Cisco/Job/ASIC-Design-Verfication-Engineer-II-(Full-Time)-United-States/-in-San-Jose,CA?jid=d2f1d9bb4c2ab3a8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/s7zhJ0RIkwW3UgpYCYzliU_DluUJz_iRYUcUZ000mMde7ZHe_TdJEA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/asic-design-verfication-engineer-ii-full-time-united-states-at-cisco-4365412577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Discover Technata Job Board",
-        "apply_link": "https://jobs.discovertechnata.com/companies/cisco-2-59c957ab-1b0d-4f83-8da6-97644c7792b9/jobs/63659269-asic-design-verification-engineer-i-full-time-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698f911c0cc8ea15f1da23ca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nApplications are accepted until further notice. \n\nMeet the Team\n\nThe ASIC Group works closely with other development teams within Cisco, including marketing, system hardware, software, product engineering, and manufacturing. \n\nThrough this collaboration, members of our group play a major role in defining, developing and bringing new products to market across Cisco's product line. Open-minded, driven, diverse and deeply creative people at Cisco craft the hardware that makes the internet work. Bring your knowledge of computers and networking and take it to a new level in any one of the following product categories including: cloud, social, mobile/wireless, video, VoIP, collaboration, web, Internet of Things, routing, switching, IPv6, data center, HPC, TelePresence and many more. Your work will affect billions globally. \n\nYour Impact \n\nJoin our award-winning ASIC team, where you’ll collaborate with top industry talent to design and deliver ground breaking communications and network processing silicon. You’ll contribute to system and processor architecture, high-speed logic design and verification, digital signal processing, memory and custom library development, physical design, DFT, signal integrity, and advanced packaging. Work with the latest VLSI techniques and deep submicron technologies, owning projects from concept to in-house physical implementation. \n\nMinimum Qualifications \n• Completion within the past 3 years, or current enrollment with expected completion within 12 months, Bachelors + 2 years of relevant experience or Masters + 0 years of relevant experience.\n• Familiarity with hardware description languages (HDLs), such as Verilog or VHDL. \n• Experience with RTL design and simulation tools (e.g., Synopsys, Cadence, Mentor Graphics). \n• Exposure to scripting languages (e.g., Python, Perl, TCL) for automation. \n• Familiarity with ASIC/SoC design flow including synthesis, place & route, and timing closure. \n\nPreferred Qualifications \n• Experience with ASIC verification methodologies (e.g., UVM, SystemVerilog)\n• Understanding of physical design and DFT (Design for Test) principles\n• Familiarity with Linux-based development environments\n• Ability to adapt to new technologies and problem-solve sophisticated engineering challenges\n• Excellent organizational, teamwork, and communication skills\n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$123,600.00 - $200,100.00\n\nNon-Metro New York state & Washington state:\n$109,900.00 - $181,600.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Carlsbad, CA",
-    "job_city": "Carlsbad",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 33.1640648,
-    "job_longitude": -117.34108189999999,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVrwb9ayrGsqaIxu6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Open-minded, driven, diverse and deeply creative people at Cisco craft the hardware that makes the internet work",
-        "Bring your knowledge of computers and networking and take it to a new level in any one of the following product categories including: cloud, social, mobile/wireless, video, VoIP, collaboration, web, Internet of Things, routing, switching, IPv6, data center, HPC, TelePresence and many more",
-        "Completion within the past 3 years, or current enrollment with expected completion within 12 months, Bachelors + 2 years of relevant experience or Masters + 0 years of relevant experience",
-        "Familiarity with hardware description languages (HDLs), such as Verilog or VHDL. ",
-        "Experience with RTL design and simulation tools (e.g., Synopsys, Cadence, Mentor Graphics). ",
-        "Exposure to scripting languages (e.g., Python, Perl, TCL) for automation. ",
-        "Familiarity with ASIC/SoC design flow including synthesis, place & route, and timing closure. "
-      ],
-      "Benefits": [
-        "The full salary range for certain locations is listed below",
-        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
-        "U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
-        "Please see the Cisco careers site to discover more benefits and perks",
-        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
-        "U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:",
-        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
-        "1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
-        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
-        "Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
-        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
-        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
-        "Optional 10 paid days per full calendar year to volunteer",
-        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
-        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
-        "For quota-based incentive pay, Cisco typically pays as follows:",
-        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
-        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
-        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
-        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
-        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
-        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
-        "For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined",
-        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
-      ],
-      "Responsibilities": [
-        "You’ll contribute to system and processor architecture, high-speed logic design and verification, digital signal processing, memory and custom library development, physical design, DFT, signal integrity, and advanced packaging",
-        "Work with the latest VLSI techniques and deep submicron technologies, owning projects from concept to in-house physical implementation. "
-      ]
-    },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "careers-cisco-com-global-en-job-ciscisglobal2002902externalenglobal-asic-design-verfication-engineer-ii-full-time-united-states",
     "_source": "new_jobs"
   },
   {
@@ -1806,7 +1700,7 @@
         "is_direct": false
       }
     ],
-    "job_description": "Date Posted:\n2026-01-27\n\nCountry:\nUnited States of America\n\nLocation:\nUS-IA-CEDAR RAPIDS-193 1120 Collins Rd NE BLDG193\n\nPosition Role Type:\nOnsite\n\nU.S. Citizen, U.S. Person, or Immigration Status Requirements:\nU.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract.\n\nSecurity Clearance Type:\nNone/Not Required\n\nSecurity Clearance Status:\nNot Required\n\nAre you interested in becoming part of a growing Avionics FPGA/ASIC team? This position is for a highly experienced, highly motivated Electrical or Computer Engineer that will be involved in the design, implementation, verification and integration of a wide variety of high-performance ASICs, FPGAs, and SoPCs for Collins Avionics solutions. As an engineer in this organization, you will be employing best practice design and verification methodologies supporting our legacy and next generation Displays, Computing, and Networking Products.\n\nWhat You Will Do:\n• Requirements capture, decomposition, and traceability.\n• Develop RTL design code and simulation in VHDL, Verilog, and/or System Verilog.\n• Develop Hardware test case, procedures and integration\n• Define the verification strategy to be applied, such as on-Hardware verification environment, test frameworks and test tools\n• Perform ASIC/FPGA/SoPC verification using inspection, analysis, simulation, and test methods.\n• Creation of DO-254 DAL-A certification artifacts for Airborne Electronic Hardware (AEH).\n• Conduct and/or participate in peer reviews throughout product lifecycle.\n• Participate in FAA SOI audits.\n• Create engineering bids and support RFIs and RFPs.\n• Communicate well with a wide variety of individuals including Engineering, Program Management, internal leadership and customers.\n• May perform the duties of a project engineer.\n• Recommend new tools and practices for continuous improvement in the group’s ASIC/FPGA design flow.\n• Provide guidance or mentor other engineers with a variety of skills and backgrounds.\n• Up to 10% is needed both domestic and globally.\n\nQualifications You Must Have:\n• Typically requires a degree in Science, Technology, Engineering or Mathematics (STEM) and minimum 5 years prior relevant experience or an Advanced Degree in a related field and minimum 3 years of experience.\n• Experience writing RTL and test benches using VHDL, Verilog, or SystemVerilog.\n• Experience with Linux (or Unix), scripting, C/C++, Python, and/or Perl.\n• Experience using FPGA specific tools (e.g. Questasim, Vivado, Libero, Synplify Pro, etc.).\n• Experience with data interfaces (PCIe, DDR, I2C, Ethernet, CDN, ARINC-429, etc.).\n\nQualifications We Prefer:\n• Ability to work with minimal supervision, as part of a team of engineers with a variety of skills and backgrounds, located throughout the world and matrixed into projects with aggressive schedules and frequent milestones.\n• Experience with DO-254 processes and design assurance activities for ASIC, FPGA, and/or SoPC developments.\n• Familiarity with best practice chip-level verification techniques and languages (e.g. constrained random, functional coverage, code coverage, LEC, SystemVerilog).\n• Experience successfully managing cost, schedule, and performance objectives.\n• Basic risk management skills (identify, quantify, and mitigate risks).\n\nWhat We Offer:\n\nBenefits:\n\nSome of our competitive benefits package includes: \n• Medical, dental, and vision insurance\n• Three weeks of vacation for newly hired employees\n• Generous 401(k) plan that includes employer matching funds and separate employer retirement contribution, including a Lifetime Income Strategy option\n• Tuition reimbursement program\n• Student Loan Repayment Program\n• Life insurance and disability coverage\n• Optional coverages you can buy pet insurance, home and auto insurance, additional life and accident insurance, critical illness insurance, group legal, ID theft protection\n• Birth, adoption, parental leave benefits\n• Ovia Health, fertility, and family planning\n• Adoption Assistance         \n• Autism Benefit\n• Employee Assistance Plan, including up to 10 free counseling sessions\n• Healthy You Incentives, wellness rewards program\n• Doctor on Demand, virtual doctor visits\n• Bright Horizons, child and elder care services\n• Teladoc Medical Experts, second opinion program\n•  And more! \n\nThis position may be eligible for relocation.\n\nAvionics delivers advanced cockpit displays, vision systems, and comprehensive digital solutions for global government, commercial and business aviation customers. We provide connectivity and managed data services to ensure safety and seamless communication for passengers, crews, and militaries, from aircraft and airports to air traffic management. Join us in creating solutions that connect the world, one flight at a time. Start your application today.\n\nOnsite: This includes all production and maintenance employees, as they are essential to the development of our products.\n\nAt Collins, the paths we pave together lead to limitless possibility. And the bonds we form – with our customers and with each other -- propel us all higher, again and again.\n\nApply now and be part of the team that’s redefining aerospace, every day.\n\nAs part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote.\n\nThe salary range for this role is 86,800 USD - 165,200 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.\n\nHired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.\n\nHired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.\n\nThis role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.\n\nRTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.\n\nRTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.\n\nPrivacy Policy and Terms:\n\nClick on this link to read the Policy and Terms",
+    "job_description": "Date Posted:\n2026-01-27\n\nCountry:\nUnited States of America\n\nLocation:\nUS-IA-CEDAR RAPIDS-193 1120 Collins Rd NE BLDG193\n\nPosition Role Type:\nOnsite\n\nU.S. Citizen, U.S. Person, or Immigration Status Requirements:\nU.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract.\n\nSecurity Clearance Type:\nNone/Not Required\n\nSecurity Clearance Status:\nNot Required\n\nAre you interested in becoming part of a growing Avionics FPGA/ASIC team? This position is for a highly experienced, highly motivated Electrical or Computer Engineer that will be involved in the design, implementation, verification and integration of a wide variety of high-performance ASICs, FPGAs, and SoPCs for Collins Avionics solutions. As an engineer in this organization, you will be employing best practice design and verification methodologies supporting our legacy and next generation Displays, Computing, and Networking Products.\n\nWhat You Will Do:\n• Requirements capture, decomposition, and traceability.\n• Develop RTL design code and simulation in VHDL, Verilog, and/or System Verilog.\n• Develop Hardware test case, procedures and integration\n• Define the verification strategy to be applied, such as on-Hardware verification environment, test frameworks and test tools\n• Perform ASIC/FPGA/SoPC verification using inspection, analysis, simulation, and test methods.\n• Creation of DO-254 DAL-A certification artifacts for Airborne Electronic Hardware (AEH).\n• Conduct and/or participate in peer reviews throughout product lifecycle.\n• Participate in FAA SOI audits.\n• Create engineering bids and support RFIs and RFPs.\n• Communicate well with a wide variety of individuals including Engineering, Program Management, internal leadership and customers.\n• May perform the duties of a project engineer.\n• Recommend new tools and practices for continuous improvement in the group’s ASIC/FPGA design flow.\n• Provide guidance or mentor other engineers with a variety of skills and backgrounds.\n• Up to 10% is needed both domestic and globally.\n\nQualifications You Must Have:\n• Typically requires a degree in Science, Technology, Engineering or Mathematics (STEM) and minimum 5 years prior relevant experience or an Advanced Degree in a related field and minimum 3 years of experience.\n• Experience writing RTL and test benches using VHDL, Verilog, or SystemVerilog.\n• Experience with Linux (or Unix), scripting, C/C++, Python, and/or Perl.\n• Experience using FPGA specific tools (e.g. Questasim, Vivado, Libero, Synplify Pro, etc.).\n• Experience with data interfaces (PCIe, DDR, I2C, Ethernet, CDN, ARINC-429, etc.).\n\nQualifications We Prefer:\n• Ability to work with minimal supervision, as part of a team of engineers with a variety of skills and backgrounds, located throughout the world and matrixed into projects with aggressive schedules and frequent milestones.\n• Experience with DO-254 processes and design assurance activities for ASIC, FPGA, and/or SoPC developments.\n• Familiarity with best practice chip-level verification techniques and languages (e.g. constrained random, functional coverage, code coverage, LEC, SystemVerilog).\n• Experience successfully managing cost, schedule, and performance objectives.\n• Basic risk management skills (identify, quantify, and mitigate risks).\n\nWhat We Offer:\n\nBenefits:\n\nSome of our competitive benefits package includes: \n• Medical, dental, and vision insurance\n• Three weeks of vacation for newly hired employees\n• Generous 401(k) plan that includes employer matching funds and separate employer retirement contribution, including a Lifetime Income Strategy option\n• Tuition reimbursement program\n• Student Loan Repayment Program\n• Life insurance and disability coverage\n• Optional coverages you can buy pet insurance, home and auto insurance, additional life and accident insurance,���critical illness insurance, group legal, ID theft protection\n• Birth, adoption, parental leave benefits\n• Ovia Health, fertility, and family planning\n• Adoption Assistance         \n• Autism Benefit\n• Employee Assistance Plan, including up to 10 free counseling sessions\n• Healthy You Incentives, wellness rewards program\n• Doctor on Demand, virtual doctor visits\n• Bright Horizons, child and elder care services\n• Teladoc Medical Experts, second opinion program\n•  And more! \n\nThis position may be eligible for relocation.\n\nAvionics delivers advanced cockpit displays, vision systems, and comprehensive digital solutions for global government, commercial and business aviation customers. We provide connectivity and managed data services to ensure safety and seamless communication for passengers, crews, and militaries, from aircraft and airports to air traffic management. Join us in creating solutions that connect the world, one flight at a time. Start your application today.\n\nOnsite: This includes all production and maintenance employees, as they are essential to the development of our products.\n\nAt Collins, the paths we pave together lead to limitless possibility. And the bonds we form – with our customers and with each other -- propel us all higher, again and again.\n\nApply now and be part of the team that’s redefining aerospace, every day.\n\nAs part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote.\n\nThe salary range for this role is 86,800 USD - 165,200 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.\n\nHired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.\n\nHired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.\n\nThis role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.\n\nRTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.\n\nRTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.\n\nPrivacy Policy and Terms:\n\nClick on this link to read the Policy and Terms",
     "job_is_remote": false,
     "job_posted_at": "1 day ago",
     "job_posted_at_timestamp": 1771200000,
@@ -1818,8 +1712,8 @@
     "job_latitude": 41.9778795,
     "job_longitude": -91.6656232,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
+      "paid_time_off",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dpl_XZn2L32B2DYYcAAAAAA%3D%3D&vssid=jobs-detail-viewer",
