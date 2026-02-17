@@ -1,79 +1,1509 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "Software Development Engineer - AI Group",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "• Good experience with complex compute systems used in AI, HPC deployments, backend network designs in RDMA clustersExperience in validating complex AI infrastructure - GPUs, networking, ROCEv2, UEC, running benchmark tests like IBPerf benchmarking, RCCL/NCCL.\n• Experience with running training of LLMs, MoE models, Image Generation, recommendations models with different frameworks like PyTorch, Tensorflow, Megatron-LM, JAX.\n• Running training performance benchmarks.\n• Experience with running inference workloads in AI clusters with different inference frameworks like vLLM, SGLang.\n• Running performance benchmarks for inference.\n• Experience with distributed systems and schedulers like Kubernetes, SlurmAbility to write high quality automation frameworks and scripts using Python or Golang Experience with performance profiling of CPUs, GPUs and debugging complex compute, network, storage problems.\n• Experience with AMD ROCM would be an added advantageExperience with Linux, Windows operating systemsEffective communication and problem-solving skills Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/67191/login",
-    "id": "amd-software-development-engineer-ai-group-us",
+    "job_id": "WtIGSUDLYCwaNb0AAAAAAA==",
+    "job_title": "Principal Firmware Verification Engineer (ONSITE)",
+    "employer_name": "RTX",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07Pszg4ykzzcAw_UvR1DUvJRFJlczRuZXiZQp&s=0",
+    "employer_website": null,
+    "job_publisher": "RTX - Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.rtx.com/global/en/job/01822508/Principal-Firmware-Verification-Engineer-ONSITE?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "RTX - Careers",
+        "apply_link": "https://careers.rtx.com/global/en/job/01822508/Principal-Firmware-Verification-Engineer-ONSITE?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Collins-Aerospace/Job/Principal-Firmware-Verification-Engineer-(ONSITE)/-in-Marlborough,MA?jid=aec9e939de8a1a71&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=1b7b7e7d5e59fb5f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/cb5ca77a-d612-4158-8c99-c0dbab516960?q=Perl&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/principal-firmware-verification-engineer-onsite-at-collins-aerospace-4371824007?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Diversity Jobs - AbilityJOBS",
+        "apply_link": "https://career.abilityjobs.com/job/principal-firmware-verification-engineer-onsite/82475003/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "National Labor Exchange",
+        "apply_link": "https://usnlx.com/marlborough-ma/principal-firmware-verification-engineer-onsite/FD72A27205974AC985BC4FB1A2E4B603/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Massachusetts IT Jobs",
+        "apply_link": "https://mass-it.jobs/marlborough-ma/principal-firmware-verification-engineer-onsite/FD72A27205974AC985BC4FB1A2E4B603/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Date Posted:\n2026-02-11\n\nCountry:\nUnited States of America\n\nLocation:\nUS-MA-MARLBOROUGH-MA1 1001 Boston Post Rd BLDG 1\n\nPosition Role Type:\nOnsite\n\nU.S. Citizen, U.S. Person, or Immigration Status Requirements:\nThe ability to obtain and maintain a U.S. government issued security clearance is required.​ U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance\n\nSecurity Clearance Type:\nDoD Clearance: Secret\n\nSecurity Clearance Status:\nActive and existing security clearance required after day 1\n\nRaytheon Company, Managed by Collins Aerospace\n\nCollins Aerospace, an RTX company, has openings to support programs for our US Military and various international customers, keeping the world safe from foreign threats. As a Principal Firmware Verification Engineer, you will be a member of an Integrated Program Team (IPT)) creating complex Firmware Verification solutions for Field Programmable Gate Arrays (FPGAs), System on Chip (SOC), and Complex Programmable Logic Devices (CPLDs). Development activities may also include laboratory integration, test and evaluation, fault isolation of prototype hardware, and system qualification testing support.\n\nWhat You Will Do\n• Generate firmware verification requirements based on the system architecture\n• Generate firmware verification documentation that describes the firmware verification architecture, test plans, and coverage\n• Build Universal Verification Methodology Framework (UVMF)/System-Verilog based testbenches with agents, predictors, scoreboards, and testcases to verify HDL based designs\n• Create scripts to automate verification and test activities\n• Instruct, lead, and mentor other firmware engineers\n• Occasional travel required\n\nQualifications You Must Have\n• Expertise in Universal Verification Methodology (UVM)\n• Experience in both System-Verilog and VHDL languages\n• Successfully completed verification of several designs for various devices and applications\n• Experience in verified communication interfaces and bus standards (e.g., AXI, SPI, I2C, PCIe, UART, or Gb Ethernet)\n• Experience in tested and verified designs using logic analyzers, high-speed oscilloscopes, signal generators, and/or target device debugging tools\n• Typically requires a degree in Science, Technology, Engineering or Mathematics (STEM) and minimum 8 years prior relevant experience or an Advanced Degree in a related field and minimum 5 years of experience\n\nQualifications We Prefer\n• Experience with FPGA design implementation using VHDL design language\n• Experience with Universal Verification Methodology Framework (UVMF)\n• Performed Formal Verification\n• Created scripts in TCL, Perl, or Python for use in a Linux environment\n• Used GIT, SVN, or ClearCase for source control\n• Participated as a member of teams that use AGILE development\n\nWhat We Offer\n• Medical, dental, and vision insurance\n• Three weeks of vacation for newly hired employees\n• Generous 401(k) plan that includes employer matching funds and separate employer retirement contribution, including a Lifetime Income Strategy option\n• Tuition reimbursement program\n• Student Loan Repayment Program\n• Life insurance and disability coverage\n• Optional coverages you can buy pet insurance, home and auto insurance, additional life and accident insurance, critical illness insurance, group legal, ID theft protection\n• Birth, adoption, parental leave benefits\n• Ovia Health, fertility, and family planning\n• Adoption Assistance         \n• Autism Benefit\n• Employee Assistance Plan, including up to 10 free counseling sessions\n• Healthy You Incentives, wellness rewards program\n• Doctor on Demand, virtual doctor visits\n• Bright Horizons, child and elder care services\n• Teladoc Medical Experts, second opinion program\n• This position is eligible for relocation assistance\n• And more! \n\nLearn More & Apply Now!\n\nDo you want to be a part of something bigger? A team whose impact stretches across the world, and even beyond? At Collins Aerospace, our Mission Systems team helps civilian, military and government customers complete their most complex missions — whatever and wherever they may be. Our customers depend on us for intelligent and secure communications, missionized systems for specialized aircraft and spacecraft and collaborative space solutions. By joining our team, you’ll have your own critical part to play in ensuring our customer succeeds today while anticipating their needs for tomorrow. Are you up for the challenge? Join our mission today.\n• Please ensure the role type (defined below) is appropriate for your needs before applying to this role.\nONSITE: Employees who are working in Onsite roles will work primarily onsite. This includes all production and maintenance employees, as they are essential to the development of our products.\n\nAt Collins, the paths we pave together lead to limitless possibility. And the bonds we form – with our customers and with each other -- propel us all higher, again and again.\n\nApply now and be part of the team that’s redefining aerospace, every day.\n\nEmployee Referral Eligible\n\nAs part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote.\n\nThe salary range for this role is 107,500 USD - 204,500 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.\n\nHired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.\n\nHired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.\n\nThis role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.\n\nRTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.\n\nRTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.\n\nPrivacy Policy and Terms:\n\nClick on this link to read the Policy and Terms",
+    "job_is_remote": false,
+    "job_posted_at": "10 hours ago",
+    "job_posted_at_timestamp": 1771282800,
+    "job_posted_at_datetime_utc": "2026-02-16T23:00:00.000Z",
+    "job_location": "Marlborough, MA",
+    "job_city": "Marlborough",
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.3459271,
+    "job_longitude": -71.5522874,
+    "job_benefits": [
+      "health_insurance",
+      "paid_time_off",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWtIGSUDLYCwaNb0AAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ability to obtain and maintain a U.S. government issued security clearance is required.​ U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance",
+        "Active and existing security clearance required after day 1",
+        "Expertise in Universal Verification Methodology (UVM)",
+        "Experience in both System-Verilog and VHDL languages",
+        "Successfully completed verification of several designs for various devices and applications",
+        "Experience in verified communication interfaces and bus standards (e.g., AXI, SPI, I2C, PCIe, UART, or Gb Ethernet)",
+        "Experience in tested and verified designs using logic analyzers, high-speed oscilloscopes, signal generators, and/or target device debugging tools",
+        "Typically requires a degree in Science, Technology, Engineering or Mathematics (STEM) and minimum 8 years prior relevant experience or an Advanced Degree in a related field and minimum 5 years of experience",
+        "Qualifications We Prefer",
+        "Experience with FPGA design implementation using VHDL design language",
+        "Experience with Universal Verification Methodology Framework (UVMF)",
+        "Performed Formal Verification",
+        "Created scripts in TCL, Perl, or Python for use in a Linux environment",
+        "Used GIT, SVN, or ClearCase for source control",
+        "Participated as a member of teams that use AGILE development"
+      ],
+      "Benefits": [
+        "Medical, dental, and vision insurance",
+        "Three weeks of vacation for newly hired employees",
+        "Generous 401(k) plan that includes employer matching funds and separate employer retirement contribution, including a Lifetime Income Strategy option",
+        "Tuition reimbursement program",
+        "Student Loan Repayment Program",
+        "Life insurance and disability coverage",
+        "Optional coverages you can buy pet insurance, home and auto insurance, additional life and accident insurance, critical illness insurance, group legal, ID theft protection",
+        "Birth, adoption, parental leave benefits",
+        "Ovia Health, fertility, and family planning",
+        "Adoption Assistance         ",
+        "Autism Benefit",
+        "Employee Assistance Plan, including up to 10 free counseling sessions",
+        "Healthy You Incentives, wellness rewards program",
+        "Doctor on Demand, virtual doctor visits",
+        "Bright Horizons, child and elder care services",
+        "Teladoc Medical Experts, second opinion program",
+        "This position is eligible for relocation assistance",
+        "And more! ",
+        "The salary range provided is a good faith estimate representative of all experience levels",
+        "Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays",
+        "Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement",
+        "Hired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement",
+        "Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance"
+      ],
+      "Responsibilities": [
+        "As a Principal Firmware Verification Engineer, you will be a member of an Integrated Program Team (IPT)) creating complex Firmware Verification solutions for Field Programmable Gate Arrays (FPGAs), System on Chip (SOC), and Complex Programmable Logic Devices (CPLDs)",
+        "Development activities may also include laboratory integration, test and evaluation, fault isolation of prototype hardware, and system qualification testing support",
+        "Generate firmware verification requirements based on the system architecture",
+        "Generate firmware verification documentation that describes the firmware verification architecture, test plans, and coverage",
+        "Build Universal Verification Methodology Framework (UVMF)/System-Verilog based testbenches with agents, predictors, scoreboards, and testcases to verify HDL based designs",
+        "Create scripts to automate verification and test activities",
+        "Instruct, lead, and mentor other firmware engineers",
+        "Occasional travel required",
+        "ONSITE: Employees who are working in Onsite roles will work primarily onsite",
+        "This includes all production and maintenance employees, as they are essential to the development of our products"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "careers-rtx-com-global-en-job-01822508-principal-firmware-verification-engineer-onsite",
     "_source": "new_jobs"
   },
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Computer Vision Engineer",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_posted_at": "2w",
-    "job_description": "• Develop and implement object detection and identification algorithms for real-time applicationsDesign and optimize depth sensing and 3D mapping pipelines, integrating data from cameras and other sensorsSpecify, configure, and calibrate camera systems, including selection of optics, sensors, and hardwareDevelop tools and processes for camera calibration, synchronization, and data acquisitionFuse data from multiple cameras/sensors to improve accuracy and robustness in perception systemsCollaborate with robotics, controls, and systems engineers to integrate computer vision into robotic platformsConduct experiments, evaluate performance, and refine algorithms for accuracy, efficiency, and scalability Bachelor’s or Master’s degree in Computer Science, Electrical Engineering, Robotics, or related fieldStrong experience with computer vision algorithms (object detection, tracking, identification, SLAM)Proficiency in depth sensing and 3D reconstruction techniques (stereo vision, structured light, ToF, LiDAR integration)Hands-on experience with camera setup, specification, and calibration (intrinsic/extrinsic, distortion models, multi-camera rigs)Proficiency with computer vision libraries and frameworks (OpenCV, PyTorch/TensorFlow, CUDA)Experience developing in C++ and/or Python for high-performance vision applicationsStrong understanding of camera hardware and imaging pipelinesAbility to design experiments, analyze results, and iterate quickly in a collaborative engineering environment Experience with ROS/ROS2 integration for robotic visionFamiliarity with real-time embedded systems or GPU optimizationKnowledge of multi-sensor fusion (IMU, LiDAR, radar) for perceptionBackground in calibration automation and large-scale data collection pipelines.",
-    "job_apply_link": "https://www.aijobs.com/jobs/156873391-computer-vision-engineer",
-    "id": "ai-jobs-computer-vision-engineer-boston",
+    "job_id": "gZa9zzrQnnKh6isTAAAAAA==",
+    "job_title": "Test & Verification Engineer",
+    "employer_name": "Apollo Professional Solutions, Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZGGK-dGrTAu_kcy1uiXsES3wGWsUuQuZAPoE&s=0",
+    "employer_website": "https://www.apollopros.com",
+    "job_publisher": "SimplyHired",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.simplyhired.com/job/f8sf3Qu11gdqGM6qHZ2P8Mr4F_-jwnUqkYRELsGOFl6SKy851iWYKg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/f8sf3Qu11gdqGM6qHZ2P8Mr4F_-jwnUqkYRELsGOFl6SKy851iWYKg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Test & Verification Engineer\n\nPay Rate: $75.00 - $83.55 (based on education and experience).\n\nUS Citizen required for export compliance.\n\nSenior (Level 4)\n• Leads the setup and configuration of test environments, including hardware, software, and network configurations to replicate production environments.\n• Familiar with automated testing methodologies and frameworks to ensure rapid and efficient test execution is a plus.\n• Willingness to use AI Tools in HIL development required, familiarity is a plus but not required.\n• Ability to collaborate effectively with CI/CD (DevSecOps) teams to integrate software deployment with hardware-in-the-loop testing environments.\n• Proficient in NI TestStand, NI VeriStand, and NI LabVIEW for HIL testing and automation.\n• Excellent collaborator with cross-functional teams to achieve a common goal, including a teamwork mindset, good communication skills, and a desire for fast-paced development.\n• Advises on the setup and configuration of test environments, including hardware, software, and data configurations to replicate production environments.\n• Familiarity with FPGA testing/architecture is a plus.\n• Sets up and configures test environments, including hardware, software, and network configurations to replicate production environments.\n• Excellent collaborator with cross-functional teams to achieve a common goal, including a teamwork mindset, good communication skills, and a desire for fast-paced development.\n• Proficient in NI TestStand, NI VeriStand, and NI LabVIEW for HIL testing and automation, or similar HIL platforms.\n• Hands-on experience with NI PXIe systems and hardware integration.\n• Knowledge of avionics communication protocols (MIL-STD-1553, ARINC 429, CAN) a plus.\n• Experience in verifying and validating avionics display systems a plus.\n• Strong programming skills in C/C++, Python, MATLAB or similar.\n• Excellent problem-solving and troubleshooting abilities.\n• Familiarity with data acquisition and signal processing techniques.\n• Familiar with version control systems (e.g., Git).\n• Experienced with automated test and verification.\n• Comfortable with lab and hardware systems/equipment.\n\nBasic Qualifications (Required Skill/Experience):\n• Bachelor's degree and typically 3 or more years' experience in a software engineering classification or a Master's degree with 1 year of experience in a software engineering classification.\n• Must be able to work onsite in Cambridge, MA\n• No relocation offered\n\nPreferred Qualifications (Desired Skills/Experience):\n• Education or experience in modern HIL techniques and/or use of AI Tools\n• Ability to obtain a U.S. Security Clearance if sponsored.\n\nTypical Education/Experience:\n\nSenior (Level 4)\nEducation/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g. Bachelor) and typically 5 or more years' related work experience or an equivalent combination of technical education and experience (e.g. PhD+1 years' related work experience, Master+3 years' related work experience).\n\n#MWL\n\nJob Types: Full-time, Contract\n\nPay: $75.00 - $83.55 per hour\n\nBenefits:\n• 401(k)\n• Dental insurance\n• Health insurance\n• Vision insurance\n\nEducation:\n• Bachelor's (Preferred)\n\nExperience:\n• NI TestStand: 3 years (Preferred)\n• HIL testing: 3 years (Preferred)\n• FPGA testing: 3 years (Preferred)\n• C/C++: 3 years (Preferred)\n• MATLAB: 3 years (Preferred)\n\nWork Location: In person",
+    "job_is_remote": false,
+    "job_posted_at": "16 hours ago",
+    "job_posted_at_timestamp": 1771261200,
+    "job_posted_at_datetime_utc": "2026-02-16T17:00:00.000Z",
+    "job_location": "Massachusetts",
+    "job_city": null,
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.4072107,
+    "job_longitude": -71.3824374,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgZa9zzrQnnKh6isTAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "US Citizen required for export compliance",
+        "Ability to collaborate effectively with CI/CD (DevSecOps) teams to integrate software deployment with hardware-in-the-loop testing environments",
+        "Proficient in NI TestStand, NI VeriStand, and NI LabVIEW for HIL testing and automation",
+        "Excellent collaborator with cross-functional teams to achieve a common goal, including a teamwork mindset, good communication skills, and a desire for fast-paced development",
+        "Advises on the setup and configuration of test environments, including hardware, software, and data configurations to replicate production environments",
+        "Excellent collaborator with cross-functional teams to achieve a common goal, including a teamwork mindset, good communication skills, and a desire for fast-paced development",
+        "Proficient in NI TestStand, NI VeriStand, and NI LabVIEW for HIL testing and automation, or similar HIL platforms",
+        "Hands-on experience with NI PXIe systems and hardware integration",
+        "Strong programming skills in C/C++, Python, MATLAB or similar",
+        "Excellent problem-solving and troubleshooting abilities",
+        "Familiarity with data acquisition and signal processing techniques",
+        "Familiar with version control systems (e.g., Git)",
+        "Experienced with automated test and verification",
+        "Comfortable with lab and hardware systems/equipment",
+        "Bachelor's degree and typically 3 or more years' experience in a software engineering classification or a Master's degree with 1 year of experience in a software engineering classification",
+        "Must be able to work onsite in Cambridge, MA",
+        "No relocation offered",
+        "Senior (Level 4)",
+        "Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g. Bachelor) and typically 5 or more years' related work experience or an equivalent combination of technical education and experience (e.g. PhD+1 years' related work experience, Master+3 years' related work experience)"
+      ],
+      "Benefits": [
+        "Pay Rate: $75.00 - $83.55 (based on education and experience)",
+        "Pay: $75.00 - $83.55 per hour",
+        "401(k)",
+        "Dental insurance",
+        "Health insurance",
+        "Vision insurance"
+      ],
+      "Responsibilities": [
+        "Leads the setup and configuration of test environments, including hardware, software, and network configurations to replicate production environments",
+        "Sets up and configures test environments, including hardware, software, and network configurations to replicate production environments"
+      ]
+    },
+    "job_onet_soc": "17219900",
+    "job_onet_job_zone": "4",
+    "id": "www-simplyhired-com-job-f8sf3qu11gdqgm6qhz2p8mr4f_-jwnuqkyrelsgofl6sky851iwykg",
     "_source": "new_jobs"
   },
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Software Engineer, Privacy",
-    "job_city": "San Francisco",
+    "job_id": "vS3hQ-Rji6ILBRiSAAAAAA==",
+    "job_title": "Verification Engineering Intern (Summer 2026)",
+    "employer_name": "Leonardo DRS, Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLNAjj2mYezoUTZrkL1SuwAmefX88er6P1WS8b&s=0",
+    "employer_website": "https://www.leonardodrs.com",
+    "job_publisher": "Careers At Leonardo DRS",
+    "job_employment_type": "Internship",
+    "job_employment_types": [
+      "INTERN"
+    ],
+    "job_apply_link": "https://careers.leonardodrs.com/job/Huntsville-Verification-Engineering-Intern-%28Summer-2026%29-AL-35808/1354835900/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Careers At Leonardo DRS",
+        "apply_link": "https://careers.leonardodrs.com/job/Huntsville-Verification-Engineering-Intern-%28Summer-2026%29-AL-35808/1354835900/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=18a1e7323cd5d9ad&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Leonardo-DRS/Job/Verification-Engineering-Intern-(Summer-2026)/-in-Huntsville,AL?jid=f60dbe92b486ceed&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/verification-engineering-intern-summer-2026-huntsville-drs-technologies-1a45f065c1e7a3d572fc9ea106ff7d3b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/verification-engineering-intern-summer-2026-leonardo-drs-JV_IC1127653_KO0,43_KE44,56.htm?jl=1009993101478&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LocalJobNetwork.com",
+        "apply_link": "https://jobs.localjobnetwork.com/job/detail/86222519/Verification-Engineering-Intern-Summer-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/e9a0e9aa-12af-42d4-acb7-dc46e0de6374?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1228429579?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job ID: 113377\n\nThe Leonardo DRS Land Electronics business provides C4I Network computing and integrated situational awareness, as well as state-of-the-art embedded diagnostics, vehicle power management and combat vehicle integration products and services.\nJob Summary\n\nJoin our team as a Verification Engineering Technician Intern and gain valuable, hands-on experience while working side by side with our skilled mechanical and electrical engineering management. This internship offers the perfect blend of practical application and professional development, allowing you to dive into real-world projects and contribute to the verification and validation of cutting-edge designs and equipment. You will work independently on daily tasks, assist in process documentation, and analyze test results—all while becoming familiar with our state-of-the-art shop and laboratory resources. This is your chance to grow, innovate, and start building a rewarding career in engineering. Apply now to embark on an exciting journey with us.\n\nJob Responsibilities\n• Engage in hands-on tasks and support the test engineering team with routine engineering duties.\n• Independently manage daily projects, showcasing your problem-solving skills and initiative.\n• Build your technical experience and become familiar with our state-of-the-art shop and laboratory equipment.\n• Assist in the verification and validation of new or improved designs, tools, fixtures, and material handling equipment, and help coordinate their implementation.\n• Collaborate with experienced engineers to complete process documentation, test plans, test reports, and more.\n• Review project instructions and drawings to understand test specifications, procedures, objectives, and equipment, and contribute to design for manufacturing.\n• Set up and conduct tests of units and components, ensuring everything meets our high standards under expert guidance.\n• Analyze test results to ensure they align with design and test objectives, making necessary equipment adjustments.\n• Document test procedures, results, numerical and graphical data, and provide recommendations for product and test method improvements.\n• Assist in creating documentation to maintain our state-of-the-art equipment.\n\nQualifications\n• Must be actively enrolled in a 4-year undergraduate program in Electrical Engineering or Mechanical Engineering.\n• Experience using Microsoft Office.Basic technical experience and an eagerness to gain more.\n• A proactive and curious mindset ready to contribute and learn in a real-world engineering environment.\n• A collaborative spirit to work alongside a team of passionate engineers.\n• A commitment to excellence and attention to detail in everything you do.\n\nWhy You'll Love It Here\n• Immerse yourself in hands-on projects and gain valuable technical experience.\n• Explore state-of-the-art equipment and expand your knowledge in a practical setting.\n• Collaborate with a dynamic team and build lasting professional relationships.\n• Make meaningful contributions to real projects and see your impact firsthand.\n• Enjoy a supportive and inspiring work environment that fosters growth and innovation.\n\nTaking care of our people is a top priority at Leonardo DRS. We are proud to offer competitive salaries and comprehensive benefits, including medical, dental, and vision coverage, a company contribution to a health savings account, telemedicine, life and disability insurance, legal insurance, and a 401(k) savings plan. We champion wellness programs that focus on physical, emotional, and financial well-being. We develop our talent by offering programs and activities to support career-growth, professional development, and skill enhancement. And we understand there is more to life than work, and the importance of offering flexible work schedules with our 9/80 program, competitive vacation, health/emergency leave, paid parental leave, and community service hours.\n• Some employees are eligible for limited benefits only\n\nLeonardo DRS, Inc. and its subsidiaries provide equal opportunities to all employees and applicants for employment and prohibit discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws.",
+    "job_is_remote": false,
+    "job_posted_at": "10 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Huntsville, AL",
+    "job_city": "Huntsville",
+    "job_state": "Alabama",
+    "job_country": "US",
+    "job_latitude": 34.7295497,
+    "job_longitude": -86.5853155,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DvS3hQ-Rji6ILBRiSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Must be actively enrolled in a 4-year undergraduate program in Electrical Engineering or Mechanical Engineering",
+        "Experience using Microsoft Office",
+        "Basic technical experience and an eagerness to gain more",
+        "A proactive and curious mindset ready to contribute and learn in a real-world engineering environment",
+        "A collaborative spirit to work alongside a team of passionate engineers",
+        "A commitment to excellence and attention to detail in everything you do"
+      ],
+      "Benefits": [
+        "Immerse yourself in hands-on projects and gain valuable technical experience",
+        "Explore state-of-the-art equipment and expand your knowledge in a practical setting",
+        "Collaborate with a dynamic team and build lasting professional relationships",
+        "Make meaningful contributions to real projects and see your impact firsthand",
+        "Enjoy a supportive and inspiring work environment that fosters growth and innovation",
+        "We are proud to offer competitive salaries and comprehensive benefits, including medical, dental, and vision coverage, a company contribution to a health savings account, telemedicine, life and disability insurance, legal insurance, and a 401(k) savings plan",
+        "And we understand there is more to life than work, and the importance of offering flexible work schedules with our 9/80 program, competitive vacation, health/emergency leave, paid parental leave, and community service hours"
+      ],
+      "Responsibilities": [
+        "This internship offers the perfect blend of practical application and professional development, allowing you to dive into real-world projects and contribute to the verification and validation of cutting-edge designs and equipment",
+        "You will work independently on daily tasks, assist in process documentation, and analyze test results—all while becoming familiar with our state-of-the-art shop and laboratory resources",
+        "Engage in hands-on tasks and support the test engineering team with routine engineering duties",
+        "Independently manage daily projects, showcasing your problem-solving skills and initiative",
+        "Build your technical experience and become familiar with our state-of-the-art shop and laboratory equipment",
+        "Assist in the verification and validation of new or improved designs, tools, fixtures, and material handling equipment, and help coordinate their implementation",
+        "Collaborate with experienced engineers to complete process documentation, test plans, test reports, and more",
+        "Review project instructions and drawings to understand test specifications, procedures, objectives, and equipment, and contribute to design for manufacturing",
+        "Set up and conduct tests of units and components, ensuring everything meets our high standards under expert guidance",
+        "Analyze test results to ensure they align with design and test objectives, making necessary equipment adjustments",
+        "Document test procedures, results, numerical and graphical data, and provide recommendations for product and test method improvements",
+        "Assist in creating documentation to maintain our state-of-the-art equipment"
+      ]
+    },
+    "job_onet_soc": "55301800",
+    "job_onet_job_zone": null,
+    "id": "careers-leonardodrs-com-job-huntsville-verification-engineering-intern-28summer-2026-29-al-35808-1354835900",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "sUvymjUJxdS1knWGAAAAAA==",
+    "job_title": "Senior Design Verification Engineer - QGOV",
+    "employer_name": "Qualcomm",
+    "employer_logo": null,
+    "employer_website": "https://www.qualcomm.com",
+    "job_publisher": "Qualcomm",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.qualcomm.com/careers/job/446715127990-senior-design-verification-engineer-qgov-san-diego-california-united-states-of-america?domain=qualcomm.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Qualcomm",
+        "apply_link": "https://careers.qualcomm.com/careers/job/446715127990-senior-design-verification-engineer-qgov-san-diego-california-united-states-of-america?domain=qualcomm.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talents By Vaia",
+        "apply_link": "https://talents.vaia.com/companies/qualcomm/boulder/staff-sr-staff-design-verification-engineer-qgov-65145589/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-design-verification-engineer-qgov-at-qualcomm-4362525552?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/45bfeea9ec49d1f4206aa708fc096f26?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/698f2a4f0cc8ea15f1d99808?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/boulder/colorado/engineering/4722101000/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Company:\nQualcomm Technologies, Inc.\n\nJob Area:\nEngineering Group, Engineering Group > ASICS Engineering\n\nGeneral Summary:\n\nRole:\n• Familiarity with RTL design in Verilog and System Verilog\n• Develop verification methodology, ensuring scalable and portable environment across simulation and emulation.\n• Develop test plan to verify Hardware building blocks, Design macros and Standard interfaces (PCIE, DDR, USB, I2C, SPI, etc) .\n• Own end to end DV tasks from coding Test bench and test cases, write assertions, running simulations and achieving all coverage goals\n• Explore innovative DV methodologies (formal, simulation and emulation based) to continuously push the quality and efficiency of test benches\n• Develop verification methodology, ensuring scalable and portable environment across simulation and emulation.\n• Develop and maintain emulation environment to collect metrics related to emulation environment.\n• *Will need to be in San Diego full time, 5 days a week\n\nApplicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information.\n• * Must be a U.S. citizen and eligible to receive a U.S. Government security clearance **\n\nRequired Qualifications:\n• 5+ years of work experience with RTL/FPGA design (Verilog), embedded system architecture\n• 5+ years of Design Verification, Emulation and Debug experience with simulation and emulation and prototyping flows\n\nRelevant experience of 2-3+ yrs in any of the mentioned domain - Design/Verification/ Implementation\n\nPreferred Qualifications:\n\nOne or more of the following preferred:\n• Knowledge of communication protocols such as AXI4-x, DDRx, PCIe, etc.\n• Strong System Verilog/UVM based verification skills & experience with assertion & coverage-based verification methodology\n• Good understanding of chip-level functional model building\n• Good understanding of OOP concepts Experience in HVL such as System Verilog, UVM/OVM & System C\n• Knowledge of Behavioral and Structural models and familiarity with simulation environments\n• Experience customizing and debugging make-based build flows and working with Xilinx’s Vivado tools\n• Experience with cm tools such as Git and Gerrit.\n• Experience in formal / static verification methodologies will be a plus\n• Experience with emulation platforms – Palladium, Zebu, Veloce, FPGAs.\n• Experience with synthesizing and optimizing designs and verification components developed in synthesizable Verilog.\n• Experience with C/C++ DPI transactors and monitors.\n• Develop and maintain emulation environment to collect metrics related to emulation environment.\n• Develop environment to run verification test cases, OS boot, performance benchmarks and other vectors.\n• Design, develop, and maintain CAD infrastructure for silicon design teams enabling bring up, test and debug automations.\n• Execute verification plans, including design bring-up, DV environment bring-up, regression enabling for all features under your care, debug of the test failures.\n• Experience with debugging tools such as JTAG and lab test equipment such as logic analyzers, oscilloscopes, signal generators, etc.\n• Experience with GLS, and scripting languages such as Perl, Python is a plus\n• Linux OS proficiency\n\nThe ideal candidate would be a self-starter with strong initiative, discipline, motivation, and a focus on quality.\n\nThe candidate must be a team player and be flexible and open to a variety of task assignments within the team.\n\nMinimum Qualifications:\n• Bachelor's degree in Science, Engineering, or related field and 2+ years of ASIC design, verification, validation, integration, or related work experience.\nOR\nMaster's degree in Science, Engineering, or related field and 1+ year of ASIC design, verification, validation, integration, or related work experience.\nOR\nPhD in Science, Engineering, or related field.\n\nQualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process. You may e-mail disability-accomodations@qualcomm.com or call Qualcomm's toll-free number found here. Upon request, Qualcomm will provide reasonable accommodations to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. (Keep in mind that this email address is used to provide reasonable accommodations for individuals with disabilities. We will not respond here to requests for updates on applications or resume inquiries).\n\nTo all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.\n\nEEO Employer: Qualcomm is an equal opportunity employer; all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or any other protected classification.\n\nQualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law.\n\nPay range and Other Compensation & Benefits:\n$104,100.00 - $173,400.00\n\nThe above pay scale reflects the broad, minimum to maximum, pay scale for this job code for the location for which it has been posted. Even more importantly, please note that salary is only one component of total compensation at Qualcomm. We also offer a competitive annual discretionary bonus program and opportunity for annual RSU grants (employees on sales-incentive plans are not eligible for our annual bonus). In addition, our highly competitive benefits package is designed to support your success at work, at home, and at play. Your recruiter will be happy to discuss all that Qualcomm has to offer – and you can review more details about our US benefits at this link.\n\nIf you would like more information about this role, please contact Qualcomm Careers.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Boulder, CO",
+    "job_city": "Boulder",
+    "job_state": "Colorado",
+    "job_country": "US",
+    "job_latitude": 40.0189728,
+    "job_longitude": -105.2747406,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsUvymjUJxdS1knWGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Applicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information",
+        "Must be a U.S. citizen and eligible to receive a U.S. Government security clearance **",
+        "5+ years of work experience with RTL/FPGA design (Verilog), embedded system architecture",
+        "5+ years of Design Verification, Emulation and Debug experience with simulation and emulation and prototyping flows",
+        "Relevant experience of 2-3+ yrs in any of the mentioned domain - Design/Verification/ Implementation",
+        "The ideal candidate would be a self-starter with strong initiative, discipline, motivation, and a focus on quality",
+        "The candidate must be a team player and be flexible and open to a variety of task assignments within the team",
+        "Bachelor's degree in Science, Engineering, or related field and 2+ years of ASIC design, verification, validation, integration, or related work experience",
+        "Master's degree in Science, Engineering, or related field and 1+ year of ASIC design, verification, validation, integration, or related work experience",
+        "PhD in Science, Engineering, or related field"
+      ],
+      "Benefits": [
+        "$104,100.00 - $173,400.00",
+        "We also offer a competitive annual discretionary bonus program and opportunity for annual RSU grants (employees on sales-incentive plans are not eligible for our annual bonus)",
+        "In addition, our highly competitive benefits package is designed to support your success at work, at home, and at play"
+      ],
+      "Responsibilities": [
+        "Familiarity with RTL design in Verilog and System Verilog",
+        "Develop verification methodology, ensuring scalable and portable environment across simulation and emulation",
+        "Develop test plan to verify Hardware building blocks, Design macros and Standard interfaces (PCIE, DDR, USB, I2C, SPI, etc) ",
+        "Own end to end DV tasks from coding Test bench and test cases, write assertions, running simulations and achieving all coverage goals",
+        "Explore innovative DV methodologies (formal, simulation and emulation based) to continuously push the quality and efficiency of test benches",
+        "Develop verification methodology, ensuring scalable and portable environment across simulation and emulation",
+        "Develop and maintain emulation environment to collect metrics related to emulation environment",
+        "*Will need to be in San Diego full time, 5 days a week",
+        "Develop and maintain emulation environment to collect metrics related to emulation environment",
+        "Develop environment to run verification test cases, OS boot, performance benchmarks and other vectors",
+        "Design, develop, and maintain CAD infrastructure for silicon design teams enabling bring up, test and debug automations"
+      ]
+    },
+    "job_onet_soc": "17219900",
+    "job_onet_job_zone": "4",
+    "id": "careers-qualcomm-com-careers-job-446715127990-senior-design-verification-engineer-qgov-san-diego-california-united-states-of-america",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "YZPKpLGG6jWQpBfVAAAAAA==",
+    "job_title": "Systems Engineer-Verification & Validation Lead",
+    "employer_name": "Amentum",
+    "employer_logo": null,
+    "employer_website": "https://www.amentum.com",
+    "job_publisher": "Amentum Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.amentumcareers.com/jobs/systems-engineer-verification-validation-lead-huntsville-alabama-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Amentum Careers",
+        "apply_link": "https://www.amentumcareers.com/jobs/systems-engineer-verification-validation-lead-huntsville-alabama-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=641a5fb75383c4c2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/PAE/Job/Systems-Engineer-Verification-&-Validation-Lead/-in-Huntsville,AL?jid=487c007ee83d1786&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/systems-engineer-verification-validation-lead-at-amentum-4369675719?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/systems-engineer-verification-validation-lead-huntsville-amentum-8507582185466b8da7a843cd2aae2e95?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Nexxt",
+        "apply_link": "https://www.nexxt.com/jobs/systems-engineer-verification-validation-lead-huntsville-al-3155595098-job.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Built In",
+        "apply_link": "https://builtin.com/job/systems-engineer-verification-validation-lead/8413941?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/zG4Vx82mc4Hn6rLlZi67gvltQFuaPFEdznAOa9vxmfB6LYSPK7yBqA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Description\n\nCreate Your Career:\n\nGrow With Us\n\nYour growth matters to us—that’s why we offer a variety of ways for you to develop your career. With professional and leadership development opportunities like Team Lead Academy, education reimbursement, mentoring, and company sponsored networking events, you can take control of your own career path on your own terms with a company that believes in you.\n\nA Place Where You Belong\n\nPeople are at the heart of our business. We reflect a diversity of cultures, backgrounds, and experiences. We expect our people, clients, and partners to treat one another with dignity and respect. This means promoting inclusion, celebrating diversity, and appreciating the differences we all bring to our workplace.\n\nSupport Your Well-Being\n\nOur comprehensive benefits package includes wellness programs, 11 paid holidays, paid time off, employee perks and much more. With these benefits, plus the option for flexible schedules, we’ll support you as you pursue a balanced, fulfilling life—at work and at home.\n\nOur team is comprised of 10 companies working together on one mission, Moon to Mars and then beyond.\n\nPosition Description\n\nThis position will provide Subject Matter Expert (SME) Level Systems Engineering and Integration (SE&I) support to the Human Lander System (HLS) Program Office’s Systems Engineering and Integration (SE&I) Office (LP10) at the Marshall Space Flight Center (MSFC). This position will provide direct support to the Requirements and Verification manager to lead the Verification and Validation (V&V) team efforts to provide verification planning and closure documentation approval. Coordinate across the Artemis program elements, to include Orion, Gateway, Extravehicular Activity and Human Surface Mobility (EHP), and other HLS landers interfaces.\n\nSpecific support to be provided includes, but is not limited to, the following:\n• Support the Requirements and Verification group by serving as the Verification and Validation (V&V) lead.\n• Respond to requirements in support of M2M, Artemis and other programs that HLS landers support.\n• Coordinate verification discussion during requirement document development and revisions.\n• Vet and capture V&V planning and closure documentation. Support R&V strategic planning to ensure the V&V team executes the plan to support HLS milestones.\n• Develop and execute the review and approval of provided Detailed Verification Objectives (DVO)/Verification Events (VE) and Verification Closure Notices (VCN).\n• Create DVOs and VCNs for NASA requirements.\n• Coordinate development of Digital Engineering Tools to support the HLS V&V strategic plan.\n• Support HLS SE&I Cross-Program Test & Demonstration Focal regarding Moon-to-Mars cross-program test evaluation activities.\n• Develop and deliver SE&I products, documents, presentations, and action item responses.\n• Support interface and integration requirements definition, verification, and validation, and change management efforts.\n• Participate in reviews, meetings, teleconferences, and working groups.\n• Communicate issues, best practices, lessons-learned and other technical positions related to the development of the systems engineering approach for program level integration efforts.\n• Identify, describe, and communicate potential risks.\n• Deliver project briefings to all levels of management.\n• Provide clear and effective communications with internal and external partners and stakeholders.\n\nQualifications\n\nDegree in Systems Engineering or related field is required. Degree from an ABET accredited university is preferred. Typically, educational requirements are the equivalent of a BS with at least 25+ years of systems engineering and/or technical management experience. MS degree preferred.\n• Significant amount of experience supporting NASA launch vehicle and spacecraft projects.\n• Held lead type roles such as lead systems engineer, discipline lead engineer, verification lead etc.\n• Significant experience developing and documenting requirements, verifications, processes, or procedures.\n• In depth knowledge of space vehicle design, functions, terminology, interfaces, technical disciplines, and system design.\n• Flight hardware experience and/or hardware delivery experience.\n• A strong ability to perform with limited direction and guidance.\n• Self-motivated, proactive, and effective team player with excellent customer relations skills, familiar with working in a dynamic work environment, and has a “read the room” aptitude.\n• Demonstrated experience building strong working relationships with multiple stakeholders, organizing, and facilitating meetings/technical discussions.\n• Ability to interface and collaborate with all levels of engineering and project management with the ability to lead and influence consensus.\n• Intermediate skills using Microsoft Office Suite (Word, Excel, PowerPoint, Teams and Outlook).\n• Excellent written and oral technical communication skills, with the ability to clearly define and describe a technical subject to peers across various engineering disciplines.\n• Demonstrated experience developing and delivering program-level briefings and capability to communicate with program level stakeholders and partners.\n\nPreferred Qualifications:\n• 10+ years of experience years of systems engineering and/or technical or programmatic management support of NASA projects or programs.\n• Experience leading systems engineering (specifically system requirements and V&V) efforts for space vehicles.\n• Experience in project planning and technical integration.\n• DNG Experience.\n• JIRA Experience.\n• Experience with planning, supporting, and executing space/DoD hardware design, development test and evaluation (DDT&E) efforts.\n\nFamiliarity with specific NASA Systems Engineering policies and procedures related to technical management such as the NASA Space Flight Program and Project Management Requirements (NPR 7120) and NASA Systems Engineering Processes and Requirements (NPR 7123).\n\nCompensation Details:\n0.01\n\nThe compensation range or hourly rate listed for this position is provided as a good-faith estimate of what the company intends to offer for this role at the time this posting was issued. Actual compensation may vary based on factors such as job responsibilities, education, experience, skills, internal equity, market data, applicable collective bargaining agreements, and relevant laws.\n\nBenefits Overview:\n\nOur health and welfare benefits are designed to support you and your priorities. Offerings include:\n• Health, dental, and vision insurance\n• Paid time off and holidays\n• Retirement benefits (including 401(k) matching)\n• Educational reimbursement\n• Parental leave\n• Employee stock purchase plan\n• Tax-saving options\n• Disability and life insurance\n• Pet insurance\n\nNote: Benefits may vary based on employment type, location, and applicable agreements. Positions governed by a Collective Bargaining Agreement (CBA), the McNamara-O'Hara Service Contract Act (SCA), or other employment contracts may include different provisions/benefits.\n\nOriginal Posting:\n02/05/2026 - Until Filled\n\nAmentum anticipates this job requisition will remain open for at least three days, with a closing date no earlier than three days after the original posting. This timeline may change based on business needs.\n\nAmentum is proud to be an Equal Opportunity Employer. Our hiring practices provide equal opportunity for employment without regard to race, sex, sexual orientation, pregnancy (including pregnancy, childbirth, breastfeeding, or medical conditions related to pregnancy, childbirth, or breastfeeding), age, ancestry, United States military or veteran status, color, religion, creed, marital or domestic partner status, medical condition, genetic information, national origin, citizenship status, low-income status, or mental or physical disability so long as the essential functions of the job can be performed with or without reasonable accommodation, or any other protected category under federal, state, or local law. Learn more about your rights under Federal laws and supplemental language at Labor Laws Posters.",
+    "job_is_remote": false,
+    "job_posted_at": "12 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "Huntsville, AL",
+    "job_city": "Huntsville",
+    "job_state": "Alabama",
+    "job_country": "US",
+    "job_latitude": 34.7295497,
+    "job_longitude": -86.5853155,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYZPKpLGG6jWQpBfVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Degree in Systems Engineering or related field is required",
+        "Typically, educational requirements are the equivalent of a BS with at least 25+ years of systems engineering and/or technical management experience",
+        "Familiarity with specific NASA Systems Engineering policies and procedures related to technical management such as the NASA Space Flight Program and Project Management Requirements (NPR 7120) and NASA Systems Engineering Processes and Requirements (NPR 7123)"
+      ],
+      "Benefits": [
+        "With professional and leadership development opportunities like Team Lead Academy, education reimbursement, mentoring, and company sponsored networking events, you can take control of your own career path on your own terms with a company that believes in you",
+        "Our comprehensive benefits package includes wellness programs, 11 paid holidays, paid time off, employee perks and much more",
+        "With these benefits, plus the option for flexible schedules, we’ll support you as you pursue a balanced, fulfilling life—at work and at home",
+        "0.01",
+        "The compensation range or hourly rate listed for this position is provided as a good-faith estimate of what the company intends to offer for this role at the time this posting was issued",
+        "Actual compensation may vary based on factors such as job responsibilities, education, experience, skills, internal equity, market data, applicable collective bargaining agreements, and relevant laws",
+        "Our health and welfare benefits are designed to support you and your priorities",
+        "Health, dental, and vision insurance",
+        "Paid time off and holidays",
+        "Retirement benefits (including 401(k) matching)",
+        "Educational reimbursement",
+        "Parental leave",
+        "Employee stock purchase plan",
+        "Tax-saving options",
+        "Disability and life insurance",
+        "Pet insurance"
+      ],
+      "Responsibilities": [
+        "This position will provide Subject Matter Expert (SME) Level Systems Engineering and Integration (SE&I) support to the Human Lander System (HLS) Program Office’s Systems Engineering and Integration (SE&I) Office (LP10) at the Marshall Space Flight Center (MSFC)",
+        "This position will provide direct support to the Requirements and Verification manager to lead the Verification and Validation (V&V) team efforts to provide verification planning and closure documentation approval",
+        "Coordinate across the Artemis program elements, to include Orion, Gateway, Extravehicular Activity and Human Surface Mobility (EHP), and other HLS landers interfaces",
+        "Support the Requirements and Verification group by serving as the Verification and Validation (V&V) lead",
+        "Respond to requirements in support of M2M, Artemis and other programs that HLS landers support",
+        "Coordinate verification discussion during requirement document development and revisions",
+        "Vet and capture V&V planning and closure documentation",
+        "Support R&V strategic planning to ensure the V&V team executes the plan to support HLS milestones",
+        "Develop and execute the review and approval of provided Detailed Verification Objectives (DVO)/Verification Events (VE) and Verification Closure Notices (VCN)",
+        "Create DVOs and VCNs for NASA requirements",
+        "Coordinate development of Digital Engineering Tools to support the HLS V&V strategic plan",
+        "Support HLS SE&I Cross-Program Test & Demonstration Focal regarding Moon-to-Mars cross-program test evaluation activities",
+        "Develop and deliver SE&I products, documents, presentations, and action item responses",
+        "Support interface and integration requirements definition, verification, and validation, and change management efforts",
+        "Participate in reviews, meetings, teleconferences, and working groups",
+        "Communicate issues, best practices, lessons-learned and other technical positions related to the development of the systems engineering approach for program level integration efforts",
+        "Identify, describe, and communicate potential risks",
+        "Deliver project briefings to all levels of management",
+        "Provide clear and effective communications with internal and external partners and stakeholders"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "www-amentumcareers-com-jobs-systems-engineer-verification-validation-lead-huntsville-alabama-united-states",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "PPp2e2Fw4opq-P1cAAAAAA==",
+    "job_title": "FPGA Design/Verification Engineer",
+    "employer_name": "Actalent",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoSxJxYbmxN-G4xrVO8ggcCMX6SQ5wNhxEPnb&s=0",
+    "employer_website": "https://www.actalentservices.com",
+    "job_publisher": "Actalent Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.actalentservices.com/us/en/job/JP-005816596/FPGA-Design-Verification-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Actalent Careers",
+        "apply_link": "https://careers.actalentservices.com/us/en/job/JP-005816596/FPGA-Design-Verification-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=42e6facbd8353eb2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/LanceSoft/Job/FPGA-Design-Verification-Engineer/-in-Owego,NY?jid=7d671d4ff0ffc995&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "The Structures Company, LLC",
+        "apply_link": "https://jobs.thestructurescompany.com/jb/FPGA-Design-Verification-Engineer-Jobs-in-Owego-NY/13664039?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Clearance Jobs",
+        "apply_link": "https://www.clearancejobs.com/jobs/8727655/fpga-designverification-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/fpga-design-verification-engineer-the-structures-company-llc-JV_IC1131829_KO0,33_KE34,60.htm?jl=1010015198897&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "ACARA - Acara Solutions",
+        "apply_link": "https://careers.acarasolutions.com/jobdetails.asp?jo_num=557012&apply=yes&&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Monster",
+        "apply_link": "https://www.monster.com/job-openings/fpga-design-verification-engineer-owego-ny--93241deb-342c-4758-987b-95349b7facce?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "• *NEW FPGA VERIFICATION ENGINEERING OPPORTUNITY SUPPORTING THE DEVELOPMENT OF ADVANCED AVIONICS FOR A TOP AEROSPACE & DEFENSE COMPANY IN THE WORLD!!!**\n\nJob Description\n\nWe are seeking an experienced FPGA Design/Verification Engineer to join our team. The selected candidate will play a crucial role in ASIC FPGA development on RD programs, focusing primarily on verification. This position offers the opportunity to work on cutting-edge technologies in high-speed digital design and communication, system-on-chip (SoC) platforms, and digital signal processing (DSP). You will collaborate with multidisciplinary teams to create leading-edge products and contribute to the design, simulation, verification, integration, and testing of complex high-speed products.\n\nResponsibilities\n• Develop, test, and integrate digital signal processing (DSP) and high-speed digital design on FPGA platforms.\n• Work with COTS-based control platforms and embedded processors on FPGA platforms.\n• Automate and develop scripts to enhance FPGA development efforts.\n• Collaborate with Systems Architects, RF/Analog, Digital Circuit designers, and ASIC/FPGA engineers.\n• Provide support and technical direction to junior engineers.\n• Support verification activities required for DO-254 compliance, including requirement analysis, test development, execution, simulation, coverage analysis, and backannotation of results.\n• Ensure FPGA design meets stringent DO-254 Level A standards by working closely with design, systems, and certification teams.\n\nJOB SKILLS & QUALIFICATIONS:\n• Experience with FPGA design tools such as Xilinx Vivado, Intel Quartus, and Synopsys Synplify.\n• Proficiency in SystemVerilog.\n• Experience with HDL simulators, waveform viewers, and coverage tools.\n• Familiarity with hardware-in-the-loop (HIL) test setups and test equipment such as JTAG and logic analyzers.\n• Prior involvement in FAA or EASA certification audits.\n• Experience with version control systems and configuration management.\n• Proficiency in UVM.\n• BS degree with 9-15 years of experience or MS degree with 7-13 years of experience.\nJob Type & Location\n\nThis is a Permanent position based out of Owego, NY.\nPay and Benefits\n\nThe pay range for this position is $60.00 - $80.00/hr.\n\nEligibility requirements apply to some benefits and may depend on your job\nclassification and length of employment. Benefits are subject to change and may be\nsubject to specific elections, plan, or program terms. If eligible, the benefits\navailable for this temporary role may include the following:\n\n• Medical, dental & vision\n• Critical Illness, Accident, and Hospital\n• 401(k) Retirement Plan – Pre-tax and Roth post-tax contributions available\n• Life Insurance (Voluntary Life & AD&D for the employee and dependents)\n• Short and long-term disability\n• Health Spending Account (HSA)\n• Transportation benefits\n• Employee Assistance Program\n• Time Off/Leave (PTO, Vacation or Sick Leave)\nWorkplace Type\n\nThis is a hybrid position in Owego,NY.\nApplication Deadline\n\nThis position is anticipated to close on Feb 20, 2026.\nAbout Actalent\n\nActalent is a global leader in engineering and sciences services and talent solutions. We help visionary companies advance their engineering and science initiatives through access to specialized experts who drive scale, innovation and speed to market. With a network of almost 30,000 consultants and more than 4,500 clients across the U.S., Canada, Asia and Europe, Actalent serves many of the Fortune 500.\n\nThe company is an equal opportunity employer and will consider all applications without regard to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.\n\nIf you would like to request a reasonable accommodation, such as the modification or adjustment of the job application process or interviewing due to a disability, please email actalentaccommodation@actalentservices.com for other accommodation options.",
+    "job_is_remote": false,
+    "job_posted_at": "10 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Owego, NY",
+    "job_city": "Owego",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 42.103407499999996,
+    "job_longitude": -76.2621549,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPPp2e2Fw4opq-P1cAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 60,
+    "job_max_salary": 80,
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "Experience with FPGA design tools such as Xilinx Vivado, Intel Quartus, and Synopsys Synplify",
+        "Proficiency in SystemVerilog",
+        "Experience with HDL simulators, waveform viewers, and coverage tools",
+        "Familiarity with hardware-in-the-loop (HIL) test setups and test equipment such as JTAG and logic analyzers",
+        "Prior involvement in FAA or EASA certification audits",
+        "Experience with version control systems and configuration management",
+        "Proficiency in UVM",
+        "BS degree with 9-15 years of experience or MS degree with 7-13 years of experience"
+      ],
+      "Benefits": [
+        "Pay and Benefits",
+        "The pay range for this position is $60.00 - $80.00/hr",
+        "subject to specific elections, plan, or program terms",
+        "Medical, dental & vision",
+        "Critical Illness, Accident, and Hospital",
+        "401(k) Retirement Plan – Pre-tax and Roth post-tax contributions available",
+        "Life Insurance (Voluntary Life & AD&D for the employee and dependents)",
+        "Short and long-term disability",
+        "Health Spending Account (HSA)",
+        "Transportation benefits",
+        "Employee Assistance Program",
+        "Time Off/Leave (PTO, Vacation or Sick Leave)"
+      ],
+      "Responsibilities": [
+        "The selected candidate will play a crucial role in ASIC FPGA development on RD programs, focusing primarily on verification",
+        "This position offers the opportunity to work on cutting-edge technologies in high-speed digital design and communication, system-on-chip (SoC) platforms, and digital signal processing (DSP)",
+        "You will collaborate with multidisciplinary teams to create leading-edge products and contribute to the design, simulation, verification, integration, and testing of complex high-speed products",
+        "Develop, test, and integrate digital signal processing (DSP) and high-speed digital design on FPGA platforms",
+        "Work with COTS-based control platforms and embedded processors on FPGA platforms",
+        "Automate and develop scripts to enhance FPGA development efforts",
+        "Collaborate with Systems Architects, RF/Analog, Digital Circuit designers, and ASIC/FPGA engineers",
+        "Provide support and technical direction to junior engineers",
+        "Support verification activities required for DO-254 compliance, including requirement analysis, test development, execution, simulation, coverage analysis, and backannotation of results",
+        "Ensure FPGA design meets stringent DO-254 Level A standards by working closely with design, systems, and certification teams"
+      ]
+    },
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "careers-actalentservices-com-us-en-job-jp-005816596-fpga-design-verification-engineer",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "bu2iFu8YLv_b9fnqAAAAAA==",
+    "job_title": "Design Verification Engineer",
+    "employer_name": "Apple",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBpMZEyCin4RgucdyRjDpUGK1kaTTpbyYkQHbK&s=0",
+    "employer_website": "https://www.apple.com",
+    "job_publisher": "Indeed",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.indeed.com/viewjob?jk=8ff0a3f93657a2df&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=8ff0a3f93657a2df&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Apple-Inc./Job/DDR-Design-Engineer/-in-Waltham,MA?jid=ec3b849ff3b7483e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/design-verification-engineer-waltham-apple-inc-328faf35ff8a0edc2d0398a1ed2d5fdb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/design-verification-engineer_def334ac-386a-4337-a6f2-04f73b56378f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SWE Career Center",
+        "apply_link": "https://careers.swe.org/job/ddr-design-engineer/82475698/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LocalJobs.com",
+        "apply_link": "https://www.localjobs.com/job/waltham-ma-ddr-design-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Manufacturing Engineer",
+        "apply_link": "https://www.ihiremanufacturingengineers.com/jobs/view/506603595?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/6138fefabb51240a48ad6de920476f49?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Does making the next great technology product excite you? Imagine what you could do here. At Apple, our new ideas have a way of becoming great products, services, and customer experiences very quickly. We bring passion and dedication to our job and when you are a part of that team there's no telling what you could accomplish. Design Verification Engineers at Apple are responsible for verifying the functionality and performance of Apple’s premier SOCs. This is a critical job within Apple's Hardware Technology and we'd love to have you join us\n\nDescription\n\nAs part of a very dedicated team you will be at the heart of the chip design effort collaborating with all teams (vertical product model). You own ensuring the quality of the SOC or an IP or subsystem. This requires you to review design and architecture specifications and work closely with design & micro-architecture teams. A key component to the job is understanding the functional & performance goals of the design and you use this knowledge to test effectively. You develop test plans, tests & coverage plans as well as define our next generation verification methodology & testbenches. You will actively communicate and collaborate with design, architecture and software to understand the use cases and corner conditions and drive test cases. We also require additional responsibilities such as running and triaging regressions, tracking bugs, and analyzing coverage to achieve top results.\n\nPreferred Qualifications\n\nKnowledge of computer architecture and digital design fundamentals\n\nKnowledge of Verilog or SystemVerilog, digital simulation and debug\n\nExperience with Python, Perl, or similar scripting language\n\nAbility to work independently to deliver the project goals\n\nExperience with C/C++, assembly is a plus.\n\nExcellent interpersonal skills and the dream to take on diverse challenges\n\nMinimum Qualifications\n\nMinimum of BS + 0 years relevant industry experience.\n\nApple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .\n\nPay & Benefits\n\nAt Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $114,100 and $171,800, and your base pay will depend on your skills, qualifications, experience, and location.\n\nApple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses - including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.\n\nNote: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.",
+    "job_is_remote": false,
+    "job_posted_at": "10 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Waltham, MA",
+    "job_city": "Waltham",
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.376435799999996,
+    "job_longitude": -71.23575009999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dbu2iFu8YLv_b9fnqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 114000,
+    "job_max_salary": 172000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "This requires you to review design and architecture specifications and work closely with design & micro-architecture teams",
+        "A key component to the job is understanding the functional & performance goals of the design and you use this knowledge to test effectively",
+        "Knowledge of computer architecture and digital design fundamentals",
+        "Knowledge of Verilog or SystemVerilog, digital simulation and debug",
+        "Experience with Python, Perl, or similar scripting language",
+        "Ability to work independently to deliver the project goals",
+        "Excellent interpersonal skills and the dream to take on diverse challenges",
+        "Minimum of BS + 0 years relevant industry experience"
+      ],
+      "Benefits": [
+        "Pay & Benefits",
+        "At Apple, base pay is one part of our total compensation package and is determined within a range",
+        "This provides the opportunity to progress as you grow and develop within a role",
+        "The base pay range for this role is between $114,100 and $171,800, and your base pay will depend on your skills, qualifications, experience, and location",
+        "Apple employees also have the opportunity to become an Apple shareholder through participation in Apple's discretionary employee stock programs",
+        "Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's Employee Stock Purchase Plan",
+        "You'll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses - including tuition",
+        "Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation",
+        "Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program"
+      ],
+      "Responsibilities": [
+        "Design Verification Engineers at Apple are responsible for verifying the functionality and performance of Apple’s premier SOCs",
+        "As part of a very dedicated team you will be at the heart of the chip design effort collaborating with all teams (vertical product model)",
+        "You own ensuring the quality of the SOC or an IP or subsystem",
+        "You develop test plans, tests & coverage plans as well as define our next generation verification methodology & testbenches",
+        "You will actively communicate and collaborate with design, architecture and software to understand the use cases and corner conditions and drive test cases",
+        "We also require additional responsibilities such as running and triaging regressions, tracking bugs, and analyzing coverage to achieve top results"
+      ]
+    },
+    "job_onet_soc": "17219900",
+    "job_onet_job_zone": "4",
+    "id": "www-indeed-com-viewjob",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "IVY8buQsVizqMEdsAAAAAA==",
+    "job_title": "2026 Summer - Digital Design / Design Verification Engineer Intern - Dallas TX",
+    "employer_name": "Leonardo DRS",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AeOKlZGc59BmahJJwC0nNPwJbbcqm_0Ux8L5&s=0",
+    "employer_website": "https://www.leonardodrs.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time and Internship",
+    "job_employment_types": [
+      "FULLTIME",
+      "INTERN"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Leonardo-DRS/Job/2026-Summer-Digital-Design-Design-Verification-Engineer-Intern-Dallas-TX/-in-Dallas,TX?jid=e9634d73d75c80af&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Leonardo-DRS/Job/2026-Summer-Digital-Design-Design-Verification-Engineer-Intern-Dallas-TX/-in-Dallas,TX?jid=e9634d73d75c80af&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "JSfirm.com",
+        "apply_link": "https://www.jsfirm.com/Engineering/2026+Summer+-+Digital+Design+/+Design+Verification+Engineer+Intern+-+Dallas+TX/Dallas-Texas/jobID_1852238?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/digital-design-design-verification-engineer-intern_7ea1a87a962288607284b21d8dfb012dd9dc8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/690050e9960d84a7b3fc9a87d09d4034?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=56ad9b394ef4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/software-engineer?id=2456932253&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talentify",
+        "apply_link": "https://www.talentify.io/job/2026-summer-digital-design-design-verification-engineer-intern-dallas-tx-dallas-texas-us-leonardo-drs-113422?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Valley Central Jobs",
+        "apply_link": "https://jobs.valleycentral.com/jobs/2026-summer-digital-design-design-verification-engineer-intern-dallas-tx-dallas-texas/2617931493-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job ID: 113422\nLocation: Dallas TX\nSchedule: 12-14 week internship on 9/80\n\nThe Electro Optical Infrared Systems (EOIS) line of business within DRS has locations in Dallas and Austin, TX, Melbourne, FL, and Cypress, CA. EOIS develops, manufactures, and supports infrared and electro-optical solutions for soldiers, ground vehicles and airborne platforms. We offer an exciting and challenging work environment, a competitive salary and benefits package, and a business culture that rewards performance.\n\nEmploying the world's brightest. Supporting the world's bravest.\nJob Summary\n\nThe individual will be an intern for the Readout Integrated Circuit (ROIC) or the FPGA development teams of the EOIS division. In this role, the intern will work closely with other team members to support development of digital integrated circuits (IC) for ROIC and Focal Plane Arrays (FPA) or support FPGA development for Infrared Sensors and Systems. Strong mentorship is provided, with plenty of opportunities to learn and develop new skills. Responsibilities will be broad, not narrow, providing for a higher growth opportunity.\n\nJob Responsibilities\n• Support architecture tradeoff projects\n• Participate in RTL coding and test bench development\n• Contribute in IC or FPGA design flows for synthesis, place and route, timing closure, and design verification testing\n\nDesired Skills\n• Understanding of digital logic and architecture concepts, techniques, and course work\n• Basic knowledge of HDL/HVLs (e.g. VHDL, Verilog, System Verilog, UVM) and programming/scripting languages (e.g. C++, Perl, Python, TCL)\n• Good lab debug skills\n• Ability to multi-task in an evolving engineering environment\n\nQualifications\n• Enrolled in an Undergraduate or Master's degree in Computer Engineering, or Electrical Engineering or related field with at least at 3.0 GPA\n• Be available to work full-time (40 hours per week) for at least 10 weeks during Summer 2026 at the DRS Dallas facility\n• U.S. Citizenship status is required as this position will require the ability to access US only data systems\n• Windows/Linux OS\n• Good listener and communication skills (verbal and written)\n• Ambitious, dedicated, and goal-oriented\n\nU.S. Citizenship required. This position requires an active DOD security clearance or the ability to obtain such clearance within a reasonable time after commencement of employment.\n\nTaking care of our people is a top priority at Leonardo DRS. We are proud to offer competitive salaries and comprehensive benefits, including medical, dental, and vision coverage, a company contribution to a health savings account, telemedicine, life and disability insurance, legal insurance, and a 401(k) savings plan. We champion wellness programs that focus on physical, emotional, and financial well-being. We develop our talent by offering programs and activities to support career-growth, professional development, and skill enhancement. And we understand there is more to life than work, and the importance of offering flexible work schedules with our 9/80 program, competitive vacation, health/emergency leave, paid parental leave, and community service hours.\n• Some employees are eligible for limited benefits only\n\nLeonardo DRS, Inc. and its subsidiaries provide equal opportunities to all employees and applicants for employment and prohibit discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Dallas, TX",
+    "job_city": "Dallas",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 32.7766642,
+    "job_longitude": -96.79698789999999,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIVY8buQsVizqMEdsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Enrolled in an Undergraduate or Master's degree in Computer Engineering, or Electrical Engineering or related field with at least at 3.0 GPA",
+        "Be available to work full-time (40 hours per week) for at least 10 weeks during Summer 2026 at the DRS Dallas facility",
+        "U.S. Citizenship status is required as this position will require the ability to access US only data systems",
+        "Windows/Linux OS",
+        "Good listener and communication skills (verbal and written)",
+        "Ambitious, dedicated, and goal-oriented",
+        "U.S. Citizenship required",
+        "This position requires an active DOD security clearance or the ability to obtain such clearance within a reasonable time after commencement of employment"
+      ],
+      "Benefits": [
+        "We offer an exciting and challenging work environment, a competitive salary and benefits package, and a business culture that rewards performance",
+        "Strong mentorship is provided, with plenty of opportunities to learn and develop new skills",
+        "We are proud to offer competitive salaries and comprehensive benefits, including medical, dental, and vision coverage, a company contribution to a health savings account, telemedicine, life and disability insurance, legal insurance, and a 401(k) savings plan",
+        "And we understand there is more to life than work, and the importance of offering flexible work schedules with our 9/80 program, competitive vacation, health/emergency leave, paid parental leave, and community service hours"
+      ],
+      "Responsibilities": [
+        "The individual will be an intern for the Readout Integrated Circuit (ROIC) or the FPGA development teams of the EOIS division",
+        "In this role, the intern will work closely with other team members to support development of digital integrated circuits (IC) for ROIC and Focal Plane Arrays (FPA) or support FPGA development for Infrared Sensors and Systems",
+        "Support architecture tradeoff projects",
+        "Participate in RTL coding and test bench development",
+        "Contribute in IC or FPGA design flows for synthesis, place and route, timing closure, and design verification testing"
+      ]
+    },
+    "job_onet_soc": "53601100",
+    "job_onet_job_zone": "1",
+    "id": "www-ziprecruiter-com-c-leonardo-drs-job-2026-summer-digital-design-design-verification-engineer-intern-dallas-tx-in-dallas-tx",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "eiEMQMLV2dgDVRKjAAAAAA==",
+    "job_title": "SLD FPGA Verification Engineer III - Lunar Permanence",
+    "employer_name": "Blue Origin",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8WgfEFDYdKzxdn5lezBe3D-dd0KjPvaIZ-Kk3&s=0",
+    "employer_website": "https://www.blueorigin.com",
+    "job_publisher": "Built In",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://builtin.com/job/sld-fpga-verification-engineer-iii-lunar-permanence/7098934?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Built In",
+        "apply_link": "https://builtin.com/job/sld-fpga-verification-engineer-iii-lunar-permanence/7098934?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Salary range updated, see changes below.\n\nApplication close date:\nApplications will be accepted on an ongoing basis until the requisition is closed.\n\nAt Blue Origin, we envision millions of people living and working in space for the benefit of Earth. We’re working to develop reusable, safe, and low-cost space vehicles and systems within a culture of safety, collaboration, and inclusion. Join our team of problem solvers as we add new chapters to the history of spaceflight! \n\nThis role is part of the Lunar Permanence business unit, which develops Blue Origin’s Blue Moon landers and related products. To further Blue Origin's mission of millions of people living and working in space for the benefit of Earth, we are building sustainable infrastructure for our transport of crew and cargo from Earth to the lunar surface.\n\nAs part of a hardworking team, you will participate in verification of FPGA-based solutions within Sustaining Lunar Development program’s avionics, guidance, and navigation group. This includes requirements development with design engineers, verification through formal methods, UVM based simulation and on-target testing.\n\nOur FPGA team is tightly knit and very collaborative, with a variety of experience and backgrounds. We care about the success of each other and our peers and are very willing to help each other learn and grow. Together we will build high-reliability, safety-critical avionics solutions for our Human Landing System (HLS) vehicle. As such, experience with DO-254 is a plus.\n\nWe are looking for someone to apply their technical expertise, leadership skills, and dedication to quality to positively impact safe human spaceflight. Passion for our mission and vision is required!\n\nKey Responsibilities:\n• Perform requirements-based verification of FPGAs using Universal Verification Methodology (UVM).\n• Create comprehensive verification and validation plan that encompasses functional and system level verification and validation.\n• Develop IP/subsystem/system level testbench and tests to achieve required coverage goals.\n• Document plans and procedures.\n• Write directed and random test cases.\n��� Generate reports in support of certification of the design to a high DAL.\n\nQualifications:\n• BS/MS in Electrical Engineering, Computer Engineering or a closely related field of study\n• 5+ years experience verifying FPGAs or ASICSs\n• In-depth experience using RTL simulation tools such as Siemens QuestaSim, ModelSim, or equivalent\n• In-depth knowledge of System Verilog and the Universal Verification Methodology (UVM).\n• Expertise in developing testbench environment and verification components (Monitor, Scoreboard, Driver, Agent etc.) from scratch.\n• Understands different types of coverage, usage of cover classes, cover points, etc.\n• Experience with predictive testbench components, functional coverage and assertions.\n• Experience with constrained random verification.\n• Experience with the Register Abstraction Layer.\n• Develop detailed test plans and write tests, run regressions, collect coverage matrices and report progress to the program\n• Reviewing verification and validation results against the coverage goals.\n• Writing, analyzing and achieving coverage metrics.\n• Experience of debugging skills to narrow down and isolate issue between RTL design and testbench or test case is required.\n\nDesired:\n• Familiarity with the following are also helpful\n• AXI protocols, PCIe, Ethernet, SPI, I2C interfaces\n• Debugging FPGA/ASIC hardware and assisting with HW/SW integration.\n• Managing regression and continuous integration infrastructure within GITLab\n• Knowledge of scripting languages such as Python, Perl, or TCL/Shell for automation.\n• Working knowledge of NPR 7150.2, DO-254, or other safety-critical software standard.\n\nCompensation Range for:\nWA applicants is $130,706.00 - $182,987.70\n\nOther site ranges may differ\n\nCulture Statement\n\nDon’t meet all desired requirements? Studies have shown that some people are less likely to apply to jobs unless they meet every single desired qualification. At Blue Origin, we are dedicated to building an authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every desired qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.\n\nExport Control Regulations\n\nApplicants for employment at Blue Origin must be a U.S. citizen or national, U.S. permanent resident (i.e. current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.\n\nBackground Check\n• Required for all positions: Blue’s Standard Background Check\n• Required for Certain Job Profiles: Defense Biometric Identification System (DBIDS) background check if at any time the role requires one to be on a military installation\n• Required for Certain Job Profiles: Drivers who operate Commercial Motor Vehicles with a Gross Vehicle Weight (GVW), Gross Vehicle Weight Rating (GVWR) or combination of power unit and trailer that meets or exceeds 10,001 lbs. and/or transports placardable amounts of hazardous materials by ground in any vehicle on a public road while in commerce, may be subject to additional Federal Motor Carrier Safety Regulations including: Driver Qualification Files, Medical Certification (obtained before onboarding), Road Test, Hours of Service, Drug and Alcohol Testing (CDL drivers only), vehicle inspection requirements, CDL requirements (if applicable) and hazardous materials transportation/shipping training.\n• Required for certain Job Profiles: Ability to obtain and maintain Merchant Mariner Credential, which includes pre-employment and random drug testing as well as DOT physical\n\nBenefits\n• Benefits include: Medical, dental, vision, basic and supplemental life insurance, paid parental leave, short and long-term disability, 401(k) with a company match of up to 5%, and an Education Support Program.\n• Paid Time Off: Up to four (4) weeks per year based on weekly scheduled hours, and up to 14 company-paid holidays.\n• Dependent on role type and job level, employees may be eligible for benefits and bonuses based on the company's intent to reward individual contributions and enable them to share in the company's results, or other factors at the company's sole discretion. Bonus amounts and eligibility are not guaranteed and subject to change and cancellation. Please check with your recruiter for more details.\n\nEqual Employment Opportunity\n\nBlue Origin is proud to be an Equal Opportunity/Affirmative Action Employer and is committed to attracting, retaining, and developing a highly qualified and dedicated work force. Blue Origin hires and promotes people on the basis of their qualifications, performance, and abilities. We support the establishment and maintenance of a workplace that fosters trust, equality, and teamwork. We provide all qualified applicants for employment and employees with equal opportunities for hire, promotion, and other terms and conditions of employment, regardless of their race, color, religion, sex, sexual orientation, gender identity, national origin/ethnicity, age, physical or mental disability, genetic factors, military/veteran status, or any other status or characteristic protected by federal, state, and/or local law. Blue Origin will consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state, and local laws, including the Washington Fair Chance Act, the California Fair Chance Act, the Los Angeles Fair Chance in Hiring Ordinance, and other applicable laws. For more information on “Know Your Rights,” please see here.\n\nAffirmative Action and Disability Accommodation\n\nApplicants wishing to receive information on Blue Origin’s Affirmative Action Plans, or applicants requiring a reasonable accommodation in order to participate in the application and/or interview process, please contact us at EEOCompliance@blueorigin.com. Please note this is a publicly managed inbox. Please do not include any personal medical information in your request.\n\nCalifornia Applicant Privacy Notice\n\nIf you are a California resident, please reference the CA Applicant Privacy Notice here.",
+    "job_is_remote": false,
+    "job_posted_at": "13 days ago",
+    "job_posted_at_timestamp": 1770163200,
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_location": "Palm Coast, FL",
+    "job_city": "Palm Coast",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 29.5181443,
+    "job_longitude": -81.22431619999999,
+    "job_benefits": [
+      "health_insurance",
+      "paid_time_off",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DeiEMQMLV2dgDVRKjAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 130706,
+    "job_max_salary": 182987,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "We are looking for someone to apply their technical expertise, leadership skills, and dedication to quality to positively impact safe human spaceflight",
+        "Passion for our mission and vision is required!",
+        "BS/MS in Electrical Engineering, Computer Engineering or a closely related field of study",
+        "5+ years experience verifying FPGAs or ASICSs",
+        "In-depth experience using RTL simulation tools such as Siemens QuestaSim, ModelSim, or equivalent",
+        "In-depth knowledge of System Verilog and the Universal Verification Methodology (UVM)",
+        "Expertise in developing testbench environment and verification components (Monitor, Scoreboard, Driver, Agent etc.) from scratch",
+        "Understands different types of coverage, usage of cover classes, cover points, etc",
+        "Experience with predictive testbench components, functional coverage and assertions",
+        "Experience with constrained random verification",
+        "Experience with the Register Abstraction Layer",
+        "Develop detailed test plans and write tests, run regressions, collect coverage matrices and report progress to the program",
+        "Experience of debugging skills to narrow down and isolate issue between RTL design and testbench or test case is required",
+        "Applicants for employment at Blue Origin must be a U.S. citizen or national, U.S. permanent resident (i.e. current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum",
+        "Background Check",
+        "Required for all positions: Blue’s Standard Background Check",
+        "Required for Certain Job Profiles: Defense Biometric Identification System (DBIDS) background check if at any time the role requires one to be on a military installation",
+        "Required for Certain Job Profiles: Drivers who operate Commercial Motor Vehicles with a Gross Vehicle Weight (GVW), Gross Vehicle Weight Rating (GVWR) or combination of power unit and trailer that meets or exceeds 10,001 lbs",
+        "and/or transports placardable amounts of hazardous materials by ground in any vehicle on a public road while in commerce, may be subject to additional Federal Motor Carrier Safety Regulations including: Driver Qualification Files, Medical Certification (obtained before onboarding), Road Test, Hours of Service, Drug and Alcohol Testing (CDL drivers only), vehicle inspection requirements, CDL requirements (if applicable) and hazardous materials transportation/shipping training",
+        "Required for certain Job Profiles: Ability to obtain and maintain Merchant Mariner Credential, which includes pre-employment and random drug testing as well as DOT physical"
+      ],
+      "Benefits": [
+        "WA applicants is $130,706.00 - $182,987.70",
+        "Benefits include: Medical, dental, vision, basic and supplemental life insurance, paid parental leave, short and long-term disability, 401(k) with a company match of up to 5%, and an Education Support Program",
+        "Paid Time Off: Up to four (4) weeks per year based on weekly scheduled hours, and up to 14 company-paid holidays",
+        "Dependent on role type and job level, employees may be eligible for benefits and bonuses based on the company's intent to reward individual contributions and enable them to share in the company's results, or other factors at the company's sole discretion",
+        "Bonus amounts and eligibility are not guaranteed and subject to change and cancellation"
+      ],
+      "Responsibilities": [
+        "This role is part of the Lunar Permanence business unit, which develops Blue Origin’s Blue Moon landers and related products",
+        "As part of a hardworking team, you will participate in verification of FPGA-based solutions within Sustaining Lunar Development program’s avionics, guidance, and navigation group",
+        "This includes requirements development with design engineers, verification through formal methods, UVM based simulation and on-target testing",
+        "Perform requirements-based verification of FPGAs using Universal Verification Methodology (UVM)",
+        "Create comprehensive verification and validation plan that encompasses functional and system level verification and validation",
+        "Develop IP/subsystem/system level testbench and tests to achieve required coverage goals",
+        "Document plans and procedures",
+        "Write directed and random test cases",
+        "Generate reports in support of certification of the design to a high DAL",
+        "Reviewing verification and validation results against the coverage goals",
+        "Writing, analyzing and achieving coverage metrics"
+      ]
+    },
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "builtin-com-job-sld-fpga-verification-engineer-iii-lunar-permanence-7098934",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "g3WgYvCL-j-mLGulAAAAAA==",
+    "job_title": "Principal Engineer, System Design Verification Engineering",
+    "employer_name": "Sandisk",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcj8iPATWsHHMRkwnIWSH32mm_rHuvH-dWhYVU&s=0",
+    "employer_website": "https://www.sandisk.com",
+    "job_publisher": "Smart Recruiters Jobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.smartrecruiters.com/Sandisk/744000107166357-principal-engineer-system-design-verification-engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Smart Recruiters Jobs",
+        "apply_link": "https://jobs.smartrecruiters.com/Sandisk/744000107166357-principal-engineer-system-design-verification-engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/principal-engineer-system-design-verification-engineering-sandisk-milpitas-ca_85522672?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Sandisk/Job/Principal-Engineer,-System-Design-Verification-Engineering/-in-Milpitas,CA?jid=bd4d81d69b44c1f4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/principal-engineer-system-design-verification-engineering_7ea1a61060149dd41d6eb2387e2b3d0f48962?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=9a5eb25105d45e0d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/principal-engineer-system-design-verification-engineering-at-sandisk-4368890426?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "| USNLX Veterans Jobs - National Labor Exchange",
+        "apply_link": "https://veterans.usnlx.com/milpitas-ca/principal-engineer-system-design-verification-engineering/8B23A2F167C9405DAA7807D04F48CD28/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Nexxt",
+        "apply_link": "https://www.nexxt.com/jobs/principal-engineer-system-design-verification-engineering-milpitas-ca-3153161008-job.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Company Description\n\nSandisk understands how people and businesses consume data and we relentlessly innovate to deliver solutions that enable today’s needs and tomorrow’s next big ideas. With a rich history of groundbreaking innovations in Flash and advanced memory technologies, our solutions have become the beating heart of the digital world we’re living in and that we have the power to shape.\n\nSandisk meets people and businesses at the intersection of their aspirations and the moment, enabling them to keep moving and pushing possibility forward. We do this through the balance of our powerhouse manufacturing capabilities and our industry-leading portfolio of products that are recognized globally for innovation, performance and quality.\n\nSandisk has two facilities recognized by the World Economic Forum as part of the Global Lighthouse Network for advanced 4IR innovations. These facilities were also recognized as Sustainability Lighthouses for breakthroughs in efficient operations. With our global reach, we ensure the global supply chain has access to the Flash memory it needs to keep our world moving forward.\n\nJob Description\n\nEssential Duties and Responsibilities:\n\nWe’re looking for an experienced Principal Engineer to lead complex, cross‑platform system validation and interoperability efforts for our next‑generation NVMe SSD products. You will shape technical direction within the group, architect scalable validation strategies, and drive engineering excellence across adjacent teams (firmware, hardware, QA, tools/automation). This role combines deep technical expertise with hands‑on leadership, designing robust test architectures, elevating standards, and mentoring engineers to deliver high‑impact, customer‑grade quality at scale.\n\nKey Responsibilities\n• Lead system integration strategy for functional, stress, and interoperability validation across diverse platforms and operating systems.\n• Develop scalable automation for system‑level workflows, including NVMe functional tests, reset/boot flows, PCIe behaviors, and telemetry/FTDC collection.\n• Drive system‑level triage by identifying failure domains, improving debug repeatability, and accelerating root‑cause isolation.\n• Collaborate across FW, HW, Validation, Tools, and Architecture to ensure system behaviors and issues inform design and release decisions.\n• Enhance productivity by improving test coverage efficiency, reducing execution cycle time, and optimizing platform readiness.\n• Introduce new methodologies for system interop, workload generation, stress scenarios, and validation quality gating.\n• Mentor engineers, uplift technical practices, and strengthen system‑level engineering rigor.\n\nQualifications\n\nRequired:\n• BS/MS in EE/CE/CS or related field with 10+ years in SSD validation, platform integration, or storage system engineering.\n• Deep expertise in:\n• NVMe command/admin flows, queues, error‑recovery\n• PCIe link behavior, LTSSM, training, ASPM, surprise/hot removal\n• Linux (blk‑mq, IO scheduler, kern logs) and Windows storage paths\n• Server‑class BIOS/UEFI, ACPI, power/thermal states, crash dump flows\n• Robust hands‑on experience with fio, multi‑threaded stress patterns, and high‑complexity system workloads.\n• Automation proficiency with Python (preferred), Bash, and PowerShell.\n\nPreferred:\n• Prior ownership of system‑level integration or interop validation for enterprise/cloud SSDs or server platforms.\n• Knowledge of FTDC frameworks, telemetry analysis, automated RCA workflows, or system‑level coverage design.\n• Familiarity with validation KPIs such as DPPM, escape metrics, and system‑level coverage modeling.\n• Experience debugging across firmware, PCIe electrical, drivers, OS internals, and system microcode interactions.\n\nAdditional Information\n\nSandisk is committed to providing equal opportunities to all applicants and employees and will not discriminate against any applicant or employee based on their race, color, ancestry, religion (including religious dress and grooming standards), sex (including pregnancy, childbirth or related medical conditions, breastfeeding or related medical conditions), gender (including a person’s gender identity, gender expression, and gender-related appearance and behavior, whether or not stereotypically associated with the person’s assigned sex at birth), age, national origin, sexual orientation, medical condition, marital status (including domestic partnership status), physical disability, mental disability, medical condition, genetic information, protected medical and family care leave, Civil Air Patrol status, military and veteran status, or other legally protected characteristics. We also prohibit harassment of any individual on any of the characteristics listed above. Our non-discrimination policy applies to all aspects of employment. We comply with the laws and regulations set forth in the \"Know Your Rights: Workplace Discrimination is Illegal” poster. Our pay transparency policy is available here.\n\nSandisk thrives on the power and potential of diversity. As a global company, we believe the most effective way to embrace the diversity of our customers and communities is to mirror it from within. We believe the fusion of various perspectives results in the best outcomes for our employees, our company, our customers, and the world around us. We are committed to an inclusive environment where every individual can thrive through a sense of belonging, respect and contribution.\n\nSandisk is committed to offering opportunities to applicants with disabilities and ensuring all candidates can successfully navigate our careers website and our hiring process. Please contact us at jobs.accommodations@sandisk.com to advise us of your accommodation request. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.\n\nBased on our experience, we anticipate that the application deadline will be 05/03/2026 (3 months from posting), although we reserve the right to close the application process sooner if we hire an applicant for this position before the application deadline. If we are not able to hire someone from this role before the application deadline, we will update this posting with a new anticipated application deadline.\n\n#LI-TS1",
+    "job_is_remote": false,
+    "job_posted_at": "13 days ago",
+    "job_posted_at_timestamp": 1770163200,
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_location": "Milpitas, CA",
+    "job_city": "Milpitas",
     "job_state": "California",
-    "job_posted_at": "2w",
-    "job_description": "• Design, build, and implement back-end systems that power privacy and security functions within our API products and consumer applications.\n• Conduct threat modeling, privacy design reviews, and code-level assessments to ensure the highest privacy and security standards.\n• Collaborate with product managers, and other engineering teams to develop new products that leverage emerging research while maintaining privacy and security integrity.\n• Work closely with the legal team to document and evaluate internal compliance practices, ensuring alignment with legal requirements and organizational standards, and conduct thorough internal audits to maintain the highest levels of compliance and integrity.\n• Coordinate and actively participate in privacy incident response efforts.\n• Have substantial experience in building (and re-engineering) production systems to meet legal requirements, manage increased scale, and uphold privacy and security standards.\n• Have led or been a significant contributor to security projects, demonstrating a cross-functional collaboration skill set.\n• Deeply care about user experience and take pride in developing products that meet customer needs whilst drawing on experience in threat modeling, secure design, and regulatory compliance.",
-    "job_apply_link": "https://www.aijobs.com/jobs/156868839-software-engineer-privacy",
-    "id": "ai-jobs-software-engineer-privacy-san-francisco",
+    "job_country": "US",
+    "job_latitude": 37.4323341,
+    "job_longitude": -121.8995741,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dg3WgYvCL-j-mLGulAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "jobs-smartrecruiters-com-sandisk-744000107166357-principal-engineer-system-design-verification-engineering",
     "_source": "new_jobs"
   },
   {
-    "employer_name": "AI Jobs",
-    "job_title": "EMC/SI/PI Engineer",
-    "job_city": "San Francisco",
+    "job_id": "THtn-MThrkudNKeYAAAAAA==",
+    "job_title": "ASIC Design Verfication Engineer II (Full Time) - United States",
+    "employer_name": "Cisco",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh1g8XJnbmCXXb2SnDnBBYbNHm-NdV1z99p6FX&s=0",
+    "employer_website": "https://www.cisco.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Cisco/Job/ASIC-Design-Verfication-Engineer-II-(Full-Time)-United-States/-in-Carlsbad,CA?jid=983d0d40411b62bb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Cisco/Job/ASIC-Design-Verfication-Engineer-II-(Full-Time)-United-States/-in-Carlsbad,CA?jid=983d0d40411b62bb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/asic-design-verfication-engineer-ii-full-carlsbad-cisco-systems-inc-cd2a274051c677ba3d903e52362740b2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nApplications are accepted until further notice.\n\nMeet the Team\n\nThe ASIC Group works closely with other development teams within Cisco, including marketing, system hardware, software, product engineering, and manufacturing.\n\nThrough this collaboration, members of our group playa major rolein defining,developingand bringing new products to market across Cisco's product line. Open-minded, driven, diverse and deeply creative people at Cisco craft the hardware that makes the internet work. Bring your knowledge of computers and networking and take it to a new level in any one of the following product categories including: cloud, social, mobile/wireless, video, VoIP, collaboration, web, Internet of Things, routing, switching, IPv6, data center, HPC,TelePresenceand many more. Your work will affectbillionsglobally.\n\nYour Impact\n\nJoin our award-winning ASIC team, whereyou'llcollaborate with top industry talent to design and deliverground breakingcommunications and network processing silicon.You'llcontribute to system and processor architecture, high-speed logic design and verification, digital signal processing, memory and custom library development, physical design, DFT, signal integrity, and advanced packaging. Work with the latest VLSI techniques and deep submicron technologies, owning projects from concept to in-house physical implementation.\n\nMinimum Qualifications\n• Completion within the past 3 years, or current enrollment with expected completion within 12 months, Bachelors + 2 years of relevant experience or Masters + 0 years of relevant experience.\n• Familiarity with hardware description languages (HDLs), such as Verilog or VHDL.\n• Experience with RTL design and simulation tools (e.g., Synopsys, Cadence, Mentor Graphics).\n• Exposure toscripting languages (e.g., Python, Perl, TCL) for automation.\n• Familiarity with ASIC/SoC design flow including synthesis, place & route, and timing closure.\n\nPreferred Qualifications\n• Experience with ASIC verification methodologies (e.g., UVM,SystemVerilog)\n• Understanding of physical design and DFT (Design for Test) principles\n• Familiarity with Linux-based development environments\n• Ability to adapt tonew technologiesand problem-solve sophisticated engineering challenges\n• Excellent organizational, teamwork, and communication skills\n\nWhy Cisco?\n\nAt Cisco, we're revolutionizing how data and infrastructure connect and protect organizations in the AI era - and beyond. We've been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you'll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco's plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco's policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee's birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco's flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours ofunused sick timecarried forwardfrom one calendar yearto the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco's policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$123,600.00 - $200,100.00\n\nNon-Metro New York state & Washington state:\n$109,900.00 - $181,600.00\n• For quota-based sales roles on Cisco's sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Carlsbad, CA",
+    "job_city": "Carlsbad",
     "job_state": "California",
-    "job_posted_at": "2w",
-    "job_description": "• Have shipped high-volume devices as the EMC/SI/PI owner, moving confidently between frequency- and time-domain analysisAre fluent with SI/PI tools (e.\n• , Ansys SIwave/HFSS, Cadence Sigrity, Keysight ADS/CST), IBIS/IBIS-AMI, S-parameters, and PDN modeling, and can translate simulations into actionable layout rulesBring strong lab skills (VNA/TDR, oscilloscopes, spectrum analyzers, LISNs, near-field probing, ESD guns) and enjoy rapid design → measure → iterate cyclesUnderstand regulatory and immunity standards (FCC Part 15, CISPR 32/35, IEC 61000-4-2) and can apply pragmatic pre-compliance strategiesCollaborate effectively with external manufacturing partners, translating engineering intent into testable production requirements, and are comfortable working across time zones with EE/ME/RF/FW/Compliance/Manufacturing teams.",
-    "job_apply_link": "https://www.aijobs.com/jobs/156868848-emc-si-pi-engineer",
-    "id": "ai-jobs-emc-si-pi-engineer-san-francisco",
+    "job_country": "US",
+    "job_latitude": 33.1640648,
+    "job_longitude": -117.34108189999999,
+    "job_benefits": [
+      "health_insurance",
+      "paid_time_off",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DTHtn-MThrkudNKeYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Open-minded, driven, diverse and deeply creative people at Cisco craft the hardware that makes the internet work",
+        "Bring your knowledge of computers and networking and take it to a new level in any one of the following product categories including: cloud, social, mobile/wireless, video, VoIP, collaboration, web, Internet of Things, routing, switching, IPv6, data center, HPC,TelePresenceand many more",
+        "Completion within the past 3 years, or current enrollment with expected completion within 12 months, Bachelors + 2 years of relevant experience or Masters + 0 years of relevant experience",
+        "Familiarity with hardware description languages (HDLs), such as Verilog or VHDL",
+        "Experience with RTL design and simulation tools (e.g., Synopsys, Cadence, Mentor Graphics)",
+        "Exposure toscripting languages (e.g., Python, Perl, TCL) for automation",
+        "Familiarity with ASIC/SoC design flow including synthesis, place & route, and timing closure"
+      ],
+      "Benefits": [
+        "The full salary range for certain locations is listed below",
+        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
+        "U.S. employees are offered benefits, subject to Cisco's plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
+        "Please see the Cisco careers site to discover more benefits and perks",
+        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
+        "U.S. employees are eligible for paid time away as described below, subject to Cisco's policies:",
+        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
+        "1 paid day off for employee's birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
+        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
+        "Exempt employees participate in Cisco's flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
+        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours ofunused sick timecarried forwardfrom one calendar yearto the next",
+        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
+        "Optional 10 paid days per full calendar year to volunteer",
+        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco's policies",
+        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
+        "For quota-based incentive pay, Cisco typically pays as follows:",
+        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
+        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
+        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
+        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
+        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
+        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
+        "For quota-based sales roles on Cisco's sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined",
+        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
+      ],
+      "Responsibilities": [
+        "Work with the latest VLSI techniques and deep submicron technologies, owning projects from concept to in-house physical implementation"
+      ]
+    },
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-cisco-job-asic-design-verfication-engineer-ii-full-time-united-states-in-carlsbad-ca",
     "_source": "new_jobs"
   },
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Product Designer, Growth",
-    "job_city": "San Francisco",
+    "job_id": "TvmVzRCx3u70LedKAAAAAA==",
+    "job_title": "FPGA Verification Engineer",
+    "employer_name": "P Chappel Associates Inc",
+    "employer_logo": null,
+    "employer_website": "https://pchappel.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=086430c306a2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=086430c306a2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/aee89a5519a480c21fdf3e9fe5235a90?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Hacker Careers",
+        "apply_link": "https://www.hacker-careers.com/job/hudson-river-trading/fpga-verification-engineer/70b4a66f-266c-4137-95b0-b52d934139e8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Senior Verification Engineer to support verification and validation of complex FPGA-based systems for aerospace, defense, and space applications. This role focuses on FPGA verification (VHDL / Verilog), simulation, test strategies, protocols, and certification activities. Position Summary The Senior Verification Engineer will develop verification plans, build testbenches, run simulations, and ensure first-pass success of FPGA designs. You will work closely with design, hardware, and software teams while supporting certification and documentation requirements. Key Responsibilities Develop and execute FPGA verification and validation plans, test strategies, and methodologies. Create simulation environments, testbenches, and run regression testing. Verify designs written in VHDL and support verification using Verilog / SystemVerilog. Debug FPGA issues and collaborate with cross-functional engineering teams. Work with Xilinx Vivado tools and ModelSim / Questa for simulation. Validate high-speed interfaces and protocols including PCIe, 1G / 10G Ethernet, and TSN. Support DO-254 / 178C certification activities and documentation. Mentor junior engineers and contribute to continuous improvement of verification processes. Qualifications Bachelor’s or Master’s in Electrical or Computer Engineering. 8–15 years of FPGA verification experience. Strong expertise in VHDL, with working knowledge of Verilog / SystemVerilog and UVM. Proficiency with Xilinx Vivado; experience with Intel Quartus or Lattice Diamond is a plus. Experience with ModelSim / Questa and Xilinx ILA. Solid understanding of FPGA architecture and digital design. Hands-on experience with PCIe, 1G / 10G Ethernet, TSN. Experience supporting DO-254 / 178C certification processes. Strong debugging, analytical, and communication skills.",
+    "job_is_remote": false,
+    "job_posted_at": "13 days ago",
+    "job_posted_at_timestamp": 1770163200,
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_location": "New York, NY",
+    "job_city": "New York",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 40.7127753,
+    "job_longitude": -74.0059728,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DTvmVzRCx3u70LedKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Qualifications Bachelor’s or Master’s in Electrical or Computer Engineering",
+        "8–15 years of FPGA verification experience",
+        "Strong expertise in VHDL, with working knowledge of Verilog / SystemVerilog and UVM",
+        "Experience with ModelSim / Questa and Xilinx ILA. Solid understanding of FPGA architecture and digital design",
+        "Hands-on experience with PCIe, 1G / 10G Ethernet, TSN",
+        "Experience supporting DO-254 / 178C certification processes",
+        "Strong debugging, analytical, and communication skills"
+      ],
+      "Responsibilities": [
+        "Senior Verification Engineer to support verification and validation of complex FPGA-based systems for aerospace, defense, and space applications",
+        "This role focuses on FPGA verification (VHDL / Verilog), simulation, test strategies, protocols, and certification activities",
+        "Position Summary The Senior Verification Engineer will develop verification plans, build testbenches, run simulations, and ensure first-pass success of FPGA designs",
+        "You will work closely with design, hardware, and software teams while supporting certification and documentation requirements",
+        "Key Responsibilities Develop and execute FPGA verification and validation plans, test strategies, and methodologies",
+        "Create simulation environments, testbenches, and run regression testing",
+        "Verify designs written in VHDL and support verification using Verilog / SystemVerilog",
+        "Debug FPGA issues and collaborate with cross-functional engineering teams",
+        "Work with Xilinx Vivado tools and ModelSim / Questa for simulation",
+        "Validate high-speed interfaces and protocols including PCIe, 1G / 10G Ethernet, and TSN",
+        "Support DO-254 / 178C certification activities and documentation",
+        "Mentor junior engineers and contribute to continuous improvement of verification processes"
+      ]
+    },
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "0TOH32vD_BDOVDZjAAAAAA==",
+    "job_title": "Electrical Validation Engineer",
+    "employer_name": "Capgemini Holding Inc",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "Career.io",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://career.io/job/electrical-validation-engineer-capgemini-holding-inc-a39bf9fc3fa7b8703c6e3e07c94afc96?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/electrical-validation-engineer-capgemini-holding-inc-a39bf9fc3fa7b8703c6e3e07c94afc96?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you'd like, where you'll be supported and inspired by a collaborative community of colleagues around the world, and where you'll be able to reimagine what's possible. Join us and help the world's leading organizations unlock the value of technology and build a more sustainable, more inclusive world.\n\nCompensation Data\n\n$54,300 - $130,000\n\nJob Description\n\nDesign validation of battery functionality and its safety features. Activities include develop and execution of test plans and procedures.\n\nPerform functional, stress, system, and other types of testing. Identification of test tool requirements. Must be able to execute tests with little to no supervision.\n\nFind complex bugs, root cause and track them while recording and informing others of all appropriate and relevant info.\n\nLong Description\n• BS, MS in EE and/or 3-5 years of relevant experience.\n• Strong electrical engineering fundamentals.\n• Understanding of Battery fundamentals such as different battery chemistries and their characteristics.\n• Understanding of Battery charging profile, Battery terms like FCC, RSOC, C value, lifetime, termination current, pre-charge current, fast charging / turbo charging, deep discharge voltage.\n• Knowledge of Fuel Gauge, Battery Balancing circuits, Protection circuitry for battery (Over voltage, Over current, low voltage, Battery temperature etc.)\n• Knowledge of different types of Power supplies.\n• Programming skills in Labview/ batch programming /Python is a plus.\n• Hands-on experience in the development of high-volume consumer electronic product is desired.\n• Familiar with lab equipment including oscilloscopes, DMMs, signal generators, DC loads, DC power analyzer, thermal chambers etc.\n• Familiar with schematic capture and PCB layout tools (preferably Cadence Allegro, Altium Designer).\n• Ability to take high level test plans and develop detailed test cases and procedures.\n• Independent problem solving and general debugging of complex PCB designs.\n• Excellent interpersonal, influencing, leadership, verbal and written communication skills required, including ability to clearly present test results, data parsing and analyzing.\n• Great organization and time management skills.\n• Ability to manage and prioritize multiple tasks given by engineering team and delivering high quality, detailed results\n\nThe base compensation range for this role in the posted location is: $54,300- $130,000\n\nCapgemini provides compensation range information in accordance with applicable national, state, provincial, and local pay transparency laws. The base compensation range listed for this position reflects the minimum and maximum target compensation Capgemini, in good faith, believes it may pay for the role at the time of this posting. This range may be subject to change as permitted by law.\n\nThe actual compensation offered to any candidate may fall outside of the posted range and will be determined based on multiple factors legally permitted in the applicable jurisdiction.\n\nThese may include, but are not limited to: Geographic location, Education and qualifications, Certifications and licenses, Relevant experience and skills, Seniority and performance, Market and business consideration, Internal pay equity.\n\nIt is not typical for candidates to be hired at or near the top of the posted compensation range.\n\nIn addition to base salary, this role may be eligible for additional compensation such as variable incentives, bonuses, or commissions, depending on the position and applicable laws.\n\nCapgemini offers a comprehensive, non-negotiable benefits package to all regular, full-time employees. In the U.S. and Canada, available benefits are determined by local policy and eligibility and may include:\n• Paid time off based on employee grade (A-F), defined by policy: Vacation: 12-25 days, depending on grade, Company paid holidays, Personal Days, Sick Leave\n• Medical, dental, and vision coverage (or provincial healthcare coordination in Canada)\n• Retirement savings plans (e.g., 401(k) in the U.S., RRSP in Canada)\n• Life and disability insurance\n• Employee assistance programs\n• Other benefits as provided by local policy and eligibility\n\nImportant Notice: Compensation (including bonuses, commissions, or other forms of incentive pay) is not considered earned, vested, or payable until it becomes due under the terms of applicable plans or agreements and is subject to Capgemini's discretion, consistent with applicable laws. The Company reserves the right to amend or withdraw compensation programs at any time, within the limits of applicable legislation.\n\nDisclaimers\n\nCapgemini is an Equal Opportunity Employer encouraging inclusion in the workplace. Capgemini also participates in the Partnership Accreditation in Indigenous Relations (PAIR) program which supports meaningful engagement with Indigenous communities across Canada by promoting fairness, accessibility, inclusion and respect. We value the rich cultural heritage and contributions of Indigenous Peoples and actively work to create a welcoming and respectful environment. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.\n\nThis is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodation does not pose an undue hardship. Capgemini is committed to providing reasonable accommodation during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.\n\nPlease be aware that Capgemini may capture your image (video or screenshot) during the interview process and that image may be used for verification, including during the hiring and onboarding process.\n\nClick the following link for more information on your rights as an Applicant in the United States. http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law\n\nCapgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Washington",
+    "job_city": null,
+    "job_state": "Washington",
+    "job_country": "US",
+    "job_latitude": 47.7510741,
+    "job_longitude": -120.7401385,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0TOH32vD_BDOVDZjAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 54300,
+    "job_max_salary": 130000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Must be able to execute tests with little to no supervision",
+        "BS, MS in EE and/or 3-5 years of relevant experience",
+        "Strong electrical engineering fundamentals",
+        "Understanding of Battery fundamentals such as different battery chemistries and their characteristics",
+        "Understanding of Battery charging profile, Battery terms like FCC, RSOC, C value, lifetime, termination current, pre-charge current, fast charging / turbo charging, deep discharge voltage",
+        "Knowledge of Fuel Gauge, Battery Balancing circuits, Protection circuitry for battery (Over voltage, Over current, low voltage, Battery temperature etc.)",
+        "Knowledge of different types of Power supplies",
+        "Familiar with lab equipment including oscilloscopes, DMMs, signal generators, DC loads, DC power analyzer, thermal chambers etc",
+        "Familiar with schematic capture and PCB layout tools (preferably Cadence Allegro, Altium Designer)",
+        "Ability to take high level test plans and develop detailed test cases and procedures",
+        "Independent problem solving and general debugging of complex PCB designs",
+        "Excellent interpersonal, influencing, leadership, verbal and written communication skills required, including ability to clearly present test results, data parsing and analyzing",
+        "Great organization and time management skills",
+        "Ability to manage and prioritize multiple tasks given by engineering team and delivering high quality, detailed results"
+      ],
+      "Benefits": [
+        "$54,300 - $130,000",
+        "The base compensation range for this role in the posted location is: $54,300- $130,000",
+        "Capgemini provides compensation range information in accordance with applicable national, state, provincial, and local pay transparency laws",
+        "The base compensation range listed for this position reflects the minimum and maximum target compensation Capgemini, in good faith, believes it may pay for the role at the time of this posting",
+        "The actual compensation offered to any candidate may fall outside of the posted range and will be determined based on multiple factors legally permitted in the applicable jurisdiction",
+        "These may include, but are not limited to: Geographic location, Education and qualifications, Certifications and licenses, Relevant experience and skills, Seniority and performance, Market and business consideration, Internal pay equity",
+        "It is not typical for candidates to be hired at or near the top of the posted compensation range",
+        "In addition to base salary, this role may be eligible for additional compensation such as variable incentives, bonuses, or commissions, depending on the position and applicable laws",
+        "Capgemini offers a comprehensive, non-negotiable benefits package to all regular, full-time employees",
+        "In the U.S. and Canada, available benefits are determined by local policy and eligibility and may include:",
+        "Paid time off based on employee grade (A-F), defined by policy: Vacation: 12-25 days, depending on grade, Company paid holidays, Personal Days, Sick Leave",
+        "Medical, dental, and vision coverage (or provincial healthcare coordination in Canada)",
+        "Retirement savings plans (e.g., 401(k) in the U.S., RRSP in Canada)",
+        "Life and disability insurance",
+        "Employee assistance programs",
+        "Other benefits as provided by local policy and eligibility",
+        "Important Notice: Compensation (including bonuses, commissions, or other forms of incentive pay) is not considered earned, vested, or payable until it becomes due under the terms of applicable plans or agreements and is subject to Capgemini's discretion, consistent with applicable laws",
+        "The Company reserves the right to amend or withdraw compensation programs at any time, within the limits of applicable legislation"
+      ],
+      "Responsibilities": [
+        "Design validation of battery functionality and its safety features",
+        "Activities include develop and execution of test plans and procedures",
+        "Perform functional, stress, system, and other types of testing",
+        "Find complex bugs, root cause and track them while recording and informing others of all appropriate and relevant info"
+      ]
+    },
+    "job_onet_soc": "17219900",
+    "job_onet_job_zone": "4",
+    "id": "career-io-job-electrical-validation-engineer-capgemini-holding-inc-a39bf9fc3fa7b8703c6e3e07c94afc96",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "DMetbAlAiLTafZFBAAAAAA==",
+    "job_title": "Senior Firmware Validation Engineer",
+    "employer_name": "Xscape Photonics Inc",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4Gdvh8v_-j2cirQR62QGcjsWHvzsqnqQSZry&s=0",
+    "employer_website": "https://www.xscapephotonics.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/senior-firmware-validation-engineer-at-xscape-photonics-inc-4371631978?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-firmware-validation-engineer-at-xscape-photonics-inc-4371631978?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/698d3ccdf64d441a164f40ac?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/db19a3440e1ba777e2900eae8b00b2a1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "The Role\n\nWe are seeking a Senior Firmware Validation Engineer with a builder’s mindset.\n\nWhile your primary mission is to ensure the integrity of our optical modules through\n\nrigorous testing, you won't just be finding bugs — you'll be invited to help squash them.\n\nThis role offers the unique opportunity to contribute directly to firmware\n\ndevelopment, making it ideal for a validation expert who wants to keep their coding\n\nskills sharp and influence the product architecture.\n\nKey Responsibilities\n\n Test Strategy & Design: Analyze product requirements and functional\n\nspecifications to design comprehensive test plans and detailed test cases for\n\nfirmware validation.\n\n Development Contribution: Collaborate with the design team to write and\n\noptimize firmware code, implement bug fixes, and develop new features for\n\noptical control.\n\n Test Case Architecture: Transform complex technical requirements into\n\nsophisticated Python-based automation frameworks.\n\n Cross-Functional Debugging: Lead root-cause analysis sessions, bridging the\n\ngap between hardware, firmware, and optical physics.\n\n Agile Execution: Rapidly pivot between high-priority tasks in a fast-paced\n\nenvironment where requirements and hardware revisions evolve quickly.\n\nRequired Qualifications\n\n Experience: 5+ years in firmware validation or embedded software development.\n\n Technical Core: Bachelor’s degree in EE or CE and a penchant for solving\n\ncomplex technical problems.\n\n Scripting & Tooling: Expert-level Python skills for automation. Experience with\n\nC/C++ is required for your contributions to the firmware codebase.\n\n Lab Skills: Hands-on experience with hardware-in-the-loop (HIL) testing and\n\nstandard lab equipment (Oscilloscopes, Optical Spectrum Analyzers, BERTs).\n\n Mindset: A 'fail fast, learn faster' attitude. You must be highly flexible and\n\nthrive in a high-pressure, rapid-growth setting.\n\n Automation: Proven track record of building automated test benches from\n\nscratch to validate hardware/firmware interactions.\n\nPreferred Qualifications\n\nOptics: Familiarity with Silicon Photonics or Optical Transceivers is highly\n\ndesirable.\n\nMCU: Prior experience with STM32 family of microcontrollers is a plus.\n\nWhat Makes You a Good Fit?\n\nYou don't just follow a checklist; you anticipate where the system might fail and have\n\nthe technical chops to suggest—or implement—the solution. You are comfortable with\n\nambiguity and can re-prioritize your day as project needs shift.\n\nWhy Join Us?\n\nThis isn't a siloed role. You will have a seat at the table during the entire development\n\nlifecycle, from initial concept to final module deployment, working at the cutting edge of\n\noptical interconnect technology.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Santa Clara, CA",
+    "job_city": "Santa Clara",
     "job_state": "California",
-    "job_posted_at": "2w",
-    "job_description": "• Design end-to-end experiences that help people understand, trust, and return to ChatGPT.\n• Collaborate with product, engineering, and content design to run experiments and ship high-impact improvements.\n• Translate complex AI capabilities into clear, intuitive interfaces that lower barriers to entry.\n• Use data and research to guide decisions, while knowing when to trust your instincts.\n• Contribute to the evolution of OpenAI’s design systems and voice.\n• Help establish our design culture and grow our team Have a strong portfolio showing thoughtful product design, with experience in growth, onboarding, or consumer-facing products.\n• Are comfortable working in fast cycles—sketching, prototyping, and testing ideas quickly.\n• Are able to balance qualitative insights with quantitative data.",
-    "job_apply_link": "https://www.aijobs.com/jobs/156576635-product-designer-growth",
-    "id": "ai-jobs-product-designer-growth-san-francisco",
+    "job_country": "US",
+    "job_latitude": 37.354107899999995,
+    "job_longitude": -121.9552356,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDMetbAlAiLTafZFBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        " Test Case Architecture: Transform complex technical requirements into",
+        "gap between hardware, firmware, and optical physics",
+        " Experience: 5+ years in firmware validation or embedded software development",
+        " Technical Core: Bachelor’s degree in EE or CE and a penchant for solving",
+        "complex technical problems",
+        " Scripting & Tooling: Expert-level Python skills for automation",
+        "Experience with",
+        "C/C++ is required for your contributions to the firmware codebase",
+        " Lab Skills: Hands-on experience with hardware-in-the-loop (HIL) testing and",
+        "standard lab equipment (Oscilloscopes, Optical Spectrum Analyzers, BERTs)",
+        " Mindset: A 'fail fast, learn faster' attitude",
+        "You must be highly flexible and",
+        "thrive in a high-pressure, rapid-growth setting",
+        " Automation: Proven track record of building automated test benches from",
+        "scratch to validate hardware/firmware interactions",
+        "Optics: Familiarity with Silicon Photonics or Optical Transceivers is highly",
+        "the technical chops to suggest—or implement—the solution",
+        "You are comfortable with",
+        "ambiguity and can re-prioritize your day as project needs shift",
+        "lifecycle, from initial concept to final module deployment, working at the cutting edge of"
+      ],
+      "Responsibilities": [
+        "We are seeking a Senior Firmware Validation Engineer with a builder’s mindset",
+        "While your primary mission is to ensure the integrity of our optical modules through",
+        "rigorous testing, you won't just be finding bugs — you'll be invited to help squash them",
+        "This role offers the unique opportunity to contribute directly to firmware",
+        "development, making it ideal for a validation expert who wants to keep their coding",
+        "skills sharp and influence the product architecture",
+        " Test Strategy & Design: Analyze product requirements and functional",
+        "specifications to design comprehensive test plans and detailed test cases for",
+        "firmware validation",
+        " Development Contribution: Collaborate with the design team to write and",
+        "optimize firmware code, implement bug fixes, and develop new features for",
+        "optical control",
+        "sophisticated Python-based automation frameworks",
+        " Cross-Functional Debugging: Lead root-cause analysis sessions, bridging the",
+        " Agile Execution: Rapidly pivot between high-priority tasks in a fast-paced",
+        "environment where requirements and hardware revisions evolve quickly",
+        "You will have a seat at the table during the entire development"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "www-linkedin-com-jobs-view-senior-firmware-validation-engineer-at-xscape-photonics-inc-4371631978",
     "_source": "new_jobs"
   },
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Mechanical Engineer - TeleOp",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "5d",
-    "job_description": "• Design parts in 3D CAD that satisfy load conditions, industrial design form factor, and durability requirements.\n• Build prototypes to test assembly, range of motion, wire routing.\n• Generate accurate 2D drawings using GD&T per ASME Y14.\n• Work with our GSM team to pick a supplier and order parts.\n• Inspect first articles, build test stands, and continuously support part on robot development platforms.\n• 2+ years of experience in mechanical engineering\nBachelor’s or Master’s Degree in Mechanical, Biomechanical, Robotics, Mechatronics, or similar field\nExpert in using 3D CAD software to design parts with complex geometry\nExperience designing and building prototypes\nExperienced with simulation and analysis methodology (FEA, MATLAB etc.\n• )\nAbility to write and maintain clean documentation for design processes.\n• Experience with actuators, including strain-wave, planetary, or cycloidal\nExperience with electromechanical integration, such as sensors, motors, motor drivers, wire harnesses, and communication buses.",
-    "job_apply_link": "https://www.aijobs.com/jobs/158835765-mechanical-engineer-teleop",
-    "id": "ai-jobs-mechanical-engineer-teleop-san-jose",
-    "_source": "new_jobs"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Computer Vision Engineer",
-    "job_city": "Salt Lake City",
-    "job_state": "UT",
-    "job_posted_at": "2w",
-    "job_description": "• Bachelor’s or Master’s degree in Computer Science, Electrical Engineering, Robotics, or related field.\n• 3+ years of experience in computer vision or robotics software development.\n• Proficient in Python and C++ for algorithm development and deployment.\n• Experience with OpenCV, ROS, and deep learning frameworks such as TensorFlow or PyTorch.\n• Solid understanding of SLAM, structure from motion, and geometric vision concepts.\n• Familiarity with deploying real-time vision systems on embedded platforms or edge devices.\n• Experience working with UAVs, robotics, or mobile autonomous systems.\n• Familiarity with camera calibration, lens distortion correction, and multi-sensor synchronization.",
-    "job_apply_link": "https://www.aijobs.com/jobs/156608307-computer-vision-engineer",
-    "id": "ai-jobs-computer-vision-engineer-salt-lake-city",
+    "job_id": "aeoTWQyQYBCrUgpqAAAAAA==",
+    "job_title": "ASIC Engineer, Formal Verification",
+    "employer_name": "Meta",
+    "employer_logo": null,
+    "employer_website": "https://www.meta.com",
+    "job_publisher": "National Labor Exchange",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://usnlx.com/concord-nh/asic-engineer-formal-verification/C2D22FEC33154D3F8F65EBA79BF5A40D/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "National Labor Exchange",
+        "apply_link": "https://usnlx.com/concord-nh/asic-engineer-formal-verification/C2D22FEC33154D3F8F65EBA79BF5A40D/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/meta/concord-nh/asic-verification-engineer/433627039fd13cfa80cf8a944ee729e8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1129242331?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5619899410?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/concord/new-hampshire/engineering/4868530090/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Summary:\n\nMeta is hiring ASIC Formal Verification Engineer within the Infrastructure organization. We are looking for individuals with experience in Formal Verification to build IP and System On Chip (SoC) for data center applications. As a Formal Verification Engineer, you will be part of a team working with the best in the industry, focused on developing innovative ASIC solutions for Meta’s data center applications. You will be developing comprehensive formal testplans and be responsible for complete formal verification sign-off of single or multiple complex blocks. The role also provides ample opportunities to partner and collaborate with full stack software, hardware, ASIC Design, Emulation and Post-Silicon teams towards creating a first-pass silicon success.\n\nRequired Skills:\n\nASIC Engineer, Formal Verification Responsibilities:\n• Provide technical leadership in Formal Verification\n• Propose, implement and evangelize the Formal Verification Methodology to be used across the group, both at the top level and at the block level\n• Work with Architecture and Design team to come up with formal specification and implementation\n• Define formal verification scope, create formal environment and close coverage with targeted Formal Verification Techniques at IP, Subsystem and SoC level\n• Build reusable/scalable environments for Formal Verification and deploying the tools\n• Evaluate and recommend EDA solutions for Formal Verification\n• Provide training for internal teams and mentoring engineers related to Formal Verification Technology\n\nMinimum Qualifications:\n\nMinimum Qualifications:\n• Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n• 8+ years of experience in Design Verification\n• 5+ years of experience in Formal Verification\n• Experience with Formal Verification applications including Datapath, sequential equivalence, Xprop, Clock Gating, connectivity etc\n• Proven understanding of Formal Verification methodologies, complexity reduction techniques and abstraction techniques\n• Proven analytical skills to craft novel solutions to tackle industry-level complex designs\n• Demonstrated experience with effective collaboration with cross functional teams\n• Fluency in hardware description languages, such as SystemVerilog and SVA\n• Proficiency in scripting languages such as Python, Perl, or Tcl\n• Experience with JasperGold or VC-Formal\n\nPreferred Qualifications:\n\nPreferred Qualifications:\n• Experience to quickly understand and interpret specifications and extract design behaviors/properties\n• Experience in formal property verification of complex compute blocks such as DSP, CPU, GPU or HW accelerators\n• Experience with complex SoCs\n• Formal verification experience in clock domain crossing, IP-XACT based register verification and low power\n• Experience with development of fully automated flows from specification to fully verified designs\n• Experience with simulators and waveform debugging tools\n\nPublic Compensation:\n\n$178,000/year to $250,000/year + bonus + equity + benefits\n\nIndustry: Internet\n\nEqual Opportunity:\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.",
+    "job_is_remote": false,
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "Concord, NH",
+    "job_city": "Concord",
+    "job_state": "New Hampshire",
+    "job_country": "US",
+    "job_latitude": 43.206220599999995,
+    "job_longitude": -71.5398156,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaeoTWQyQYBCrUgpqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience",
+        "8+ years of experience in Design Verification",
+        "5+ years of experience in Formal Verification",
+        "Experience with Formal Verification applications including Datapath, sequential equivalence, Xprop, Clock Gating, connectivity etc",
+        "Proven understanding of Formal Verification methodologies, complexity reduction techniques and abstraction techniques",
+        "Proven analytical skills to craft novel solutions to tackle industry-level complex designs",
+        "Demonstrated experience with effective collaboration with cross functional teams",
+        "Fluency in hardware description languages, such as SystemVerilog and SVA",
+        "Proficiency in scripting languages such as Python, Perl, or Tcl",
+        "Experience with JasperGold or VC-Formal",
+        "Meta participates in the E-Verify program in certain locations, as required by law"
+      ],
+      "Benefits": [
+        "$178,000/year to $250,000/year + bonus + equity + benefits"
+      ],
+      "Responsibilities": [
+        "As a Formal Verification Engineer, you will be part of a team working with the best in the industry, focused on developing innovative ASIC solutions for Meta’s data center applications",
+        "You will be developing comprehensive formal testplans and be responsible for complete formal verification sign-off of single or multiple complex blocks",
+        "The role also provides ample opportunities to partner and collaborate with full stack software, hardware, ASIC Design, Emulation and Post-Silicon teams towards creating a first-pass silicon success",
+        "Provide technical leadership in Formal Verification",
+        "Propose, implement and evangelize the Formal Verification Methodology to be used across the group, both at the top level and at the block level",
+        "Work with Architecture and Design team to come up with formal specification and implementation",
+        "Define formal verification scope, create formal environment and close coverage with targeted Formal Verification Techniques at IP, Subsystem and SoC level",
+        "Build reusable/scalable environments for Formal Verification and deploying the tools",
+        "Evaluate and recommend EDA solutions for Formal Verification",
+        "Provide training for internal teams and mentoring engineers related to Formal Verification Technology"
+      ]
+    },
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "usnlx-com-concord-nh-asic-engineer-formal-verification-c2d22fec33154d3f8f65eba79bf5a40d-job",
     "_source": "new_jobs"
   }
 ]
