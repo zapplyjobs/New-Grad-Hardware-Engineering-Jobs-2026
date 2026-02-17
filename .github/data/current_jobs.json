@@ -66,9 +66,9 @@
     "job_latitude": 39.963532099999995,
     "job_longitude": -74.95058019999999,
     "job_benefits": [
-      "health_insurance",
       "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Di7J5TbcSN31YlMG3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -169,9 +169,9 @@
     "job_latitude": 39.2905023,
     "job_longitude": -76.6104072,
     "job_benefits": [
-      "dental_coverage",
+      "health_insurance",
       "paid_time_off",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVkHxnLlBDsotbGsRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -232,6 +232,119 @@
     "job_onet_soc": "17207200",
     "job_onet_job_zone": "4",
     "id": "jobs-northropgrumman-com-careers-job-1340070106688-sr-principal-rf-microwave-subsystem-i-t-engineer-united-states-maryland-baltimore",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "kBLmGWSSr-wsePomAAAAAA==",
+    "job_title": "RF Engineering Technician",
+    "employer_name": "BAE Systems",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7mSp-X7rzAfSjAKzmxJnQCkTSdHmmuFkuo0W&s=0",
+    "employer_website": "https://www.baesystems.com",
+    "job_publisher": "BAE Systems",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/120927BR/RF-Engineering-Technician?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "BAE Systems",
+        "apply_link": "https://jobs.baesystems.com/global/en/job/120927BR/RF-Engineering-Technician?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/rf-engineering-technician-at-bae-systems-inc-4371929577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Tech Jobs Personalized",
+        "apply_link": "https://builtin.com/job/rf-engineering-technician/8509764?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/6993babb81476f6176ab5854?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/KAxq4By4i3blHnuNuZVAZYPZBWKS1x08Xw2y8_fnQSln-nI_2EKS_A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-4112-e0a5732e220a569da265646f46f6d7c6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Job Description BAE Systems is looking for an experienced Digital/RF Technician to join their fast-paced Engineering and Test team in Nashua, New Hampshire. You will be supporting a wide variety of tasks in the day-to-day operation within an engineering lab.\n\nResponsibilities include but are not limited to:\n• Work from drawings, diagrams, customer specifications, schematics and/or test procedures\n• Diagnose and analyze problems utilizing a variety of test equipment\n• Utilize methodical and logical reasoning processes to resolve complex technical issues\n• Develop subassembly test procedures as needed\n• Construct, calibrate, adjust, test, and maintain equipment we use to support RF testing/tuning.\n• Identify any discrepancies within testing.\n• Collaborate with all functional groups on various projects.\n• Maintain accurate records, fill out logs accurately, and explain defects found-clearly and concisely\n• Test the product according to the design engineer instructions, test plans, customer specifications, internal specifications & procedures\nPlease note that pursuant to a government contract, this specific position requires US citizenship.\nBecause of the need for consistent, in-person collaboration and/or the requirement to perform all work onsite due to the nature of this particular role, it will be performed full-time on site.Required Education, Experience, & Skills AA Degree in electronics, equivalent technical degree or military electronics training preferred\nPossess a current SECRET Clearance or able to obtain a DOD security clearance\n\n· Working knowledge of MS Office, Desktop applications, Putty, etc.\n· Good hand-eye coordination for work under a microscope.\n· Working knowledge of statistical process control as applied to related assembly, inspection, and test processes\n· Working knowledge of electronic Theory relating to RF transmission, receivers’ circuits, analog and digital circuitry.\n· The ability to troubleshoot RF/Digital circuits to the component level.\n· Understanding and able to perform calibration of RF circuity and equipment calibration procedures.\n· Must have working knowledge of electronic test equipment.\n· Advanced experience with Test equipment, i.e., signal generators, oscilloscopes, power meters, spectrum analyzers, and RF equipment\n· Advanced ability to read and understand schematic diagrams to solve complex technical problems, analyze faulty circuits\n· Ability to maintain electronic technician product failure database.\n\nThis position requires the necessity to interact with all levels of engineering peers, process support, quality assurance and management on a daily basis. Ability to articulate and communicate effectively is a must. Preferred Education, Experience, & Skills Possess a current SECRET Clearance or able to obtain a DOD security clearance\nAA Degree in electronics, equivalent technical degree or military electronics training preferred\n\n· Working knowledge of MS Office, Desktop applications, Putty, etc.\n· Good hand-eye coordination for work under a microscope.\n· Working knowledge of statistical process control as applied to related assembly, inspection, and test processes\n· Working knowledge of electronic Theory relating to RF transmission, receivers’ circuits, analog and digital circuitry.\n· The ability to troubleshoot RF/Digital circuits to the component level.\n· Understanding and able to perform calibration of RF circuity and equipment calibration procedures.\n· Must have working knowledge of electronic test equipment.\n· Advanced experience with Test equipment, i.e., signal generators, oscilloscopes, power meters, spectrum analyzers, and RF equipment\n· Advanced ability to read and understand schematic diagrams to solve complex technical problems, analyze faulty circuits\n· Ability to maintain electronic technician product failure database.\n\nThis position requires the necessity to interact with all levels of engineering peers, process support, quality assurance and management on a daily basis. Ability to articulate and communicate effectively is a must.\n\nPay Information\nFull-Time Salary Range: $61050 - $97680\n\nPlease note: This range is based on our market pay structures. However, individual salaries are determined by a variety of factors including, but not limited to: business considerations, local market conditions, and internal equity, as well as candidate qualifications, such as skills, education, and experience.\n\nEmployee Benefits: At BAE Systems, we support our employees in all aspects of their life, including their health and financial well-being. Regular employees scheduled to work 20+ hours per week are offered: health, dental, and vision insurance; health savings accounts; a 401(k) savings plan; disability coverage; and life and accident insurance. We also have an employee assistance program, a legal plan, and other perks including discounts on things like home, auto, and pet insurance. Our leave programs include paid time off, paid holidays, as well as other types of leave, including paid parental, military, bereavement, and any applicable federal and state sick leave. Employees may participate in the company recognition program to receive monetary or non-monetary recognition awards. Other incentives may be available based on position level and/or job specifics.\nAbout BAE Systems Electronic Systems BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services. Improving the future and protecting lives is an ambitious mission, but it’s what we do at BAE Systems. Working here means using your passion and ingenuity where it counts – defending national security with breakthrough technology, superior products, and intelligence solutions. As you develop the latest technology and defend national security, you will continually hone your skills on a team—making a big impact on a global scale. At BAE Systems, you’ll find a rewarding career that truly makes a difference. Electronic Systems (ES) is the global innovator behind BAE Systems’ game-changing defense and commercial electronics. Exploiting every electron, we push the limits of what is possible, giving our customers the edge and our employees opportunities to change the world. Our products and capabilities can be found everywhere – from the depths of the ocean to the far reaches of space. At our core are more than 14,000 highly talented Electronic Systems employees with the brightest minds in the industry, we make an impact – for our customers and the communities we serve.\n\nThis position will be posted for at least 5 calendar days. The posting will remain active until the position is filled, or a qualified pool of candidates is identified.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771113600,
+    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
+    "job_location": "Hudson, NH",
+    "job_city": "Hudson",
+    "job_state": "New Hampshire",
+    "job_country": "US",
+    "job_latitude": 42.7647763,
+    "job_longitude": -71.43980739999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkBLmGWSSr-wsePomAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Possess a current SECRET Clearance or able to obtain a DOD security clearance",
+        "Working knowledge of MS Office, Desktop applications, Putty, etc",
+        "Good hand-eye coordination for work under a microscope",
+        "Working knowledge of statistical process control as applied to related assembly, inspection, and test processes",
+        "Working knowledge of electronic Theory relating to RF transmission, receivers’ circuits, analog and digital circuitry",
+        "The ability to troubleshoot RF/Digital circuits to the component level",
+        "Understanding and able to perform calibration of RF circuity and equipment calibration procedures",
+        "Must have working knowledge of electronic test equipment",
+        "Advanced experience with Test equipment, i.e., signal generators, oscilloscopes, power meters, spectrum analyzers, and RF equipment",
+        "Advanced ability to read and understand schematic diagrams to solve complex technical problems, analyze faulty circuits",
+        "Ability to maintain electronic technician product failure database",
+        "This position requires the necessity to interact with all levels of engineering peers, process support, quality assurance and management on a daily basis",
+        "Ability to articulate and communicate effectively is a must",
+        "This position requires the necessity to interact with all levels of engineering peers, process support, quality assurance and management on a daily basis",
+        "Ability to articulate and communicate effectively is a must"
+      ],
+      "Benefits": [
+        "Full-Time Salary Range: $61050 - $97680",
+        "Please note: This range is based on our market pay structures",
+        "Employee Benefits: At BAE Systems, we support our employees in all aspects of their life, including their health and financial well-being",
+        "Regular employees scheduled to work 20+ hours per week are offered: health, dental, and vision insurance; health savings accounts; a 401(k) savings plan; disability coverage; and life and accident insurance",
+        "We also have an employee assistance program, a legal plan, and other perks including discounts on things like home, auto, and pet insurance",
+        "Our leave programs include paid time off, paid holidays, as well as other types of leave, including paid parental, military, bereavement, and any applicable federal and state sick leave",
+        "Employees may participate in the company recognition program to receive monetary or non-monetary recognition awards",
+        "Other incentives may be available based on position level and/or job specifics"
+      ],
+      "Responsibilities": [
+        "You will be supporting a wide variety of tasks in the day-to-day operation within an engineering lab",
+        "Work from drawings, diagrams, customer specifications, schematics and/or test procedures",
+        "Diagnose and analyze problems utilizing a variety of test equipment",
+        "Utilize methodical and logical reasoning processes to resolve complex technical issues",
+        "Develop subassembly test procedures as needed",
+        "Construct, calibrate, adjust, test, and maintain equipment we use to support RF testing/tuning",
+        "Identify any discrepancies within testing",
+        "Collaborate with all functional groups on various projects",
+        "Maintain accurate records, fill out logs accurately, and explain defects found-clearly and concisely",
+        "Test the product according to the design engineer instructions, test plans, customer specifications, internal specifications & procedures",
+        "Because of the need for consistent, in-person collaboration and/or the requirement to perform all work onsite due to the nature of this particular role, it will be performed full-time on site"
+      ]
+    },
+    "job_onet_soc": "17207200",
+    "job_onet_job_zone": "4",
+    "id": "jobs-baesystems-com-global-en-job-120927br-rf-engineering-technician",
     "_source": "new_jobs"
   },
   {
@@ -301,9 +414,9 @@
     "job_latitude": 39.613321,
     "job_longitude": -105.0166498,
     "job_benefits": [
-      "dental_coverage",
+      "health_insurance",
       "paid_time_off",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4kSERLuv8xPWWKOgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -343,119 +456,6 @@
     "job_onet_soc": "17207200",
     "job_onet_job_zone": "4",
     "id": "www-lockheedmartinjobs-com-job-littleton-rf-engineering-intern-694-91730620816",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "kBLmGWSSr-wsePomAAAAAA==",
-    "job_title": "RF Engineering Technician",
-    "employer_name": "BAE Systems",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7mSp-X7rzAfSjAKzmxJnQCkTSdHmmuFkuo0W&s=0",
-    "employer_website": "https://www.baesystems.com",
-    "job_publisher": "BAE Systems",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.baesystems.com/global/en/job/120927BR/RF-Engineering-Technician?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "BAE Systems",
-        "apply_link": "https://jobs.baesystems.com/global/en/job/120927BR/RF-Engineering-Technician?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/rf-engineering-technician-at-bae-systems-inc-4371929577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Tech Jobs Personalized",
-        "apply_link": "https://builtin.com/job/rf-engineering-technician/8509764?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/6993babb81476f6176ab5854?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/KAxq4By4i3blHnuNuZVAZYPZBWKS1x08Xw2y8_fnQSln-nI_2EKS_A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Trabajo.org",
-        "apply_link": "https://us.trabajo.org/job-4112-e0a5732e220a569da265646f46f6d7c6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Job Description BAE Systems is looking for an experienced Digital/RF Technician to join their fast-paced Engineering and Test team in Nashua, New Hampshire. You will be supporting a wide variety of tasks in the day-to-day operation within an engineering lab.\n\nResponsibilities include but are not limited to:\n• Work from drawings, diagrams, customer specifications, schematics and/or test procedures\n• Diagnose and analyze problems utilizing a variety of test equipment\n• Utilize methodical and logical reasoning processes to resolve complex technical issues\n• Develop subassembly test procedures as needed\n• Construct, calibrate, adjust, test, and maintain equipment we use to support RF testing/tuning.\n• Identify any discrepancies within testing.\n• Collaborate with all functional groups on various projects.\n• Maintain accurate records, fill out logs accurately, and explain defects found-clearly and concisely\n• Test the product according to the design engineer instructions, test plans, customer specifications, internal specifications & procedures\nPlease note that pursuant to a government contract, this specific position requires US citizenship.\nBecause of the need for consistent, in-person collaboration and/or the requirement to perform all work onsite due to the nature of this particular role, it will be performed full-time on site.Required Education, Experience, & Skills AA Degree in electronics, equivalent technical degree or military electronics training preferred\nPossess a current SECRET Clearance or able to obtain a DOD security clearance\n\n· Working knowledge of MS Office, Desktop applications, Putty, etc.\n· Good hand-eye coordination for work under a microscope.\n· Working knowledge of statistical process control as applied to related assembly, inspection, and test processes\n· Working knowledge of electronic Theory relating to RF transmission, receivers’ circuits, analog and digital circuitry.\n· The ability to troubleshoot RF/Digital circuits to the component level.\n· Understanding and able to perform calibration of RF circuity and equipment calibration procedures.\n· Must have working knowledge of electronic test equipment.\n· Advanced experience with Test equipment, i.e., signal generators, oscilloscopes, power meters, spectrum analyzers, and RF equipment\n· Advanced ability to read and understand schematic diagrams to solve complex technical problems, analyze faulty circuits\n· Ability to maintain electronic technician product failure database.\n\nThis position requires the necessity to interact with all levels of engineering peers, process support, quality assurance and management on a daily basis. Ability to articulate and communicate effectively is a must. Preferred Education, Experience, & Skills Possess a current SECRET Clearance or able to obtain a DOD security clearance\nAA Degree in electronics, equivalent technical degree or military electronics training preferred\n\n· Working knowledge of MS Office, Desktop applications, Putty, etc.\n· Good hand-eye coordination for work under a microscope.\n· Working knowledge of statistical process control as applied to related assembly, inspection, and test processes\n· Working knowledge of electronic Theory relating to RF transmission, receivers’ circuits, analog and digital circuitry.\n· The ability to troubleshoot RF/Digital circuits to the component level.\n· Understanding and able to perform calibration of RF circuity and equipment calibration procedures.\n· Must have working knowledge of electronic test equipment.\n· Advanced experience with Test equipment, i.e., signal generators, oscilloscopes, power meters, spectrum analyzers, and RF equipment\n· Advanced ability to read and understand schematic diagrams to solve complex technical problems, analyze faulty circuits\n· Ability to maintain electronic technician product failure database.\n\nThis position requires the necessity to interact with all levels of engineering peers, process support, quality assurance and management on a daily basis. Ability to articulate and communicate effectively is a must.\n\nPay Information\nFull-Time Salary Range: $61050 - $97680\n\nPlease note: This range is based on our market pay structures. However, individual salaries are determined by a variety of factors including, but not limited to: business considerations, local market conditions, and internal equity, as well as candidate qualifications, such as skills, education, and experience.\n\nEmployee Benefits: At BAE Systems, we support our employees in all aspects of their life, including their health and financial well-being. Regular employees scheduled to work 20+ hours per week are offered: health, dental, and vision insurance; health savings accounts; a 401(k) savings plan; disability coverage; and life and accident insurance. We also have an employee assistance program, a legal plan, and other perks including discounts on things like home, auto, and pet insurance. Our leave programs include paid time off, paid holidays, as well as other types of leave, including paid parental, military, bereavement, and any applicable federal and state sick leave. Employees may participate in the company recognition program to receive monetary or non-monetary recognition awards. Other incentives may be available based on position level and/or job specifics.\nAbout BAE Systems Electronic Systems BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services. Improving the future and protecting lives is an ambitious mission, but it’s what we do at BAE Systems. Working here means using your passion and ingenuity where it counts – defending national security with breakthrough technology, superior products, and intelligence solutions. As you develop the latest technology and defend national security, you will continually hone your skills on a team—making a big impact on a global scale. At BAE Systems, you’ll find a rewarding career that truly makes a difference. Electronic Systems (ES) is the global innovator behind BAE Systems’ game-changing defense and commercial electronics. Exploiting every electron, we push the limits of what is possible, giving our customers the edge and our employees opportunities to change the world. Our products and capabilities can be found everywhere – from the depths of the ocean to the far reaches of space. At our core are more than 14,000 highly talented Electronic Systems employees with the brightest minds in the industry, we make an impact – for our customers and the communities we serve.\n\nThis position will be posted for at least 5 calendar days. The posting will remain active until the position is filled, or a qualified pool of candidates is identified.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771113600,
-    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
-    "job_location": "Hudson, NH",
-    "job_city": "Hudson",
-    "job_state": "New Hampshire",
-    "job_country": "US",
-    "job_latitude": 42.7647763,
-    "job_longitude": -71.43980739999999,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkBLmGWSSr-wsePomAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Possess a current SECRET Clearance or able to obtain a DOD security clearance",
-        "Working knowledge of MS Office, Desktop applications, Putty, etc",
-        "Good hand-eye coordination for work under a microscope",
-        "Working knowledge of statistical process control as applied to related assembly, inspection, and test processes",
-        "Working knowledge of electronic Theory relating to RF transmission, receivers’ circuits, analog and digital circuitry",
-        "The ability to troubleshoot RF/Digital circuits to the component level",
-        "Understanding and able to perform calibration of RF circuity and equipment calibration procedures",
-        "Must have working knowledge of electronic test equipment",
-        "Advanced experience with Test equipment, i.e., signal generators, oscilloscopes, power meters, spectrum analyzers, and RF equipment",
-        "Advanced ability to read and understand schematic diagrams to solve complex technical problems, analyze faulty circuits",
-        "Ability to maintain electronic technician product failure database",
-        "This position requires the necessity to interact with all levels of engineering peers, process support, quality assurance and management on a daily basis",
-        "Ability to articulate and communicate effectively is a must",
-        "This position requires the necessity to interact with all levels of engineering peers, process support, quality assurance and management on a daily basis",
-        "Ability to articulate and communicate effectively is a must"
-      ],
-      "Benefits": [
-        "Full-Time Salary Range: $61050 - $97680",
-        "Please note: This range is based on our market pay structures",
-        "Employee Benefits: At BAE Systems, we support our employees in all aspects of their life, including their health and financial well-being",
-        "Regular employees scheduled to work 20+ hours per week are offered: health, dental, and vision insurance; health savings accounts; a 401(k) savings plan; disability coverage; and life and accident insurance",
-        "We also have an employee assistance program, a legal plan, and other perks including discounts on things like home, auto, and pet insurance",
-        "Our leave programs include paid time off, paid holidays, as well as other types of leave, including paid parental, military, bereavement, and any applicable federal and state sick leave",
-        "Employees may participate in the company recognition program to receive monetary or non-monetary recognition awards",
-        "Other incentives may be available based on position level and/or job specifics"
-      ],
-      "Responsibilities": [
-        "You will be supporting a wide variety of tasks in the day-to-day operation within an engineering lab",
-        "Work from drawings, diagrams, customer specifications, schematics and/or test procedures",
-        "Diagnose and analyze problems utilizing a variety of test equipment",
-        "Utilize methodical and logical reasoning processes to resolve complex technical issues",
-        "Develop subassembly test procedures as needed",
-        "Construct, calibrate, adjust, test, and maintain equipment we use to support RF testing/tuning",
-        "Identify any discrepancies within testing",
-        "Collaborate with all functional groups on various projects",
-        "Maintain accurate records, fill out logs accurately, and explain defects found-clearly and concisely",
-        "Test the product according to the design engineer instructions, test plans, customer specifications, internal specifications & procedures",
-        "Because of the need for consistent, in-person collaboration and/or the requirement to perform all work onsite due to the nature of this particular role, it will be performed full-time on site"
-      ]
-    },
-    "job_onet_soc": "17207200",
-    "job_onet_job_zone": "4",
-    "id": "jobs-baesystems-com-global-en-job-120927br-rf-engineering-technician",
     "_source": "new_jobs"
   },
   {
@@ -755,9 +755,9 @@
     "job_latitude": 38.8816208,
     "job_longitude": -77.09098089999999,
     "job_benefits": [
+      "health_insurance",
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Do8mA1xjNkNVNo1PyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -796,119 +796,6 @@
     "job_onet_soc": "17207200",
     "job_onet_job_zone": "4",
     "id": "jobs-hii-tsd-com-job-arlington-2c-va-rf-spectrum-policy-engineer-2c-lead-26299-virg-1349153700",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "2JxSHggl9CkOB3CXAAAAAA==",
-    "job_title": "Sr. Staff RF Hardware Subsystem Integration and Test Engineer",
-    "employer_name": "Northrop Grumman",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0guZ8n1kKZ_nu4eaicJ4PROiwjA-BfwwxOY7w&s=0",
-    "employer_website": "https://www.northropgrumman.com",
-    "job_publisher": "Jobs At Northrop Grumman",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.northropgrumman.com/careers/job/1340070062955-sr-staff-rf-hardware-subsystem-integration-and-test-engineer-united-states-maryland-baltimore?domain=ngc.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobs At Northrop Grumman",
-        "apply_link": "https://jobs.northropgrumman.com/careers/job/1340070062955-sr-staff-rf-hardware-subsystem-integration-and-test-engineer-united-states-maryland-baltimore?domain=ngc.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Northrop-Grumman/Job/Sr.-Staff-RF-Hardware-Subsystem-Integration-and-Test-Engineer/-in-Baltimore,MD?jid=cf897382a82c0534&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/sr-staff-rf-hardware-subsystem-integration-and-test-engineer-northropgrumman-baltimore-md_85704486?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/sr-staff-rf-hardware-subsystem-integration-and-test-engineer-r10222882-at-northrop-grumman-4373233516?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Experteer",
-        "apply_link": "https://us.experteer.com/career/view-jobs/sr-staff-rf-hardware-subsystem-integration-and-test-engineer-baltimore-md-usa-56176979?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Security Clearance Jobs",
-        "apply_link": "https://www.clearancejobs.com/jobs/8757066/sr-staff-rf-hardware-subsystem-integration-and-test-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LocalJobs.com",
-        "apply_link": "https://www.localjobs.com/job/baltimore-md-sr-staff-rf-hardware-subsystem-integration-and-test-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/6990e6836ea51a7610f35879?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "RELOCATION ASSISTANCE: Relocation assistance may be available\n\nCLEARANCE TYPE: Secret\n\nTRAVEL: Yes, 10% of the Time\n\nDescription\n\nAt Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.\n\nNorthrop Grumman Mission Systems is seeking a Sr. Staff RF Hardware Subsystem Integration and Test Engineer\n\nTypical Roles and Responsibilities include: The qualified candidate will lead a diverse and talented team of engineers in hardware integration and test at the Subsystems level. Staff engineers should have a demonstrated ability in technical and team leadership overseeing engineers with experience at least at the Sr. Principal level.\n\nResponsibilities may include subsystem analysis including hardware from RF to digits, performance modeling, support for performance testing, and more. Work will be performed under consultative direction toward predetermined long-range goals and objectives. Assignments are often self-initiated.\n\nThis role is contingent upon having a current Active Secret Clearance and the ability to achieve a SAP Clearance.\n\nBasic Qualifications:\n• Must have a Bachelors Degree in Engineering or related discipline with 14 years of experience in the areas described in the job description or 12 years of experience with a Masters Degree and/or 8 years of experience with a Ph. D.\n• US Citizenship is required\n• Current Active Secret Clearance\n• Exhibit proficiency in near field or compact antenna test ranges on tasks including antenna range integration, test, data collection, data analysis, and system integration\n• Exhibit proficiency with RF test equipment including network analyzers, signal generators, spectrum analyzers, and oscilloscopes\n• Ability to develop highly novel solutions to a broad variety of RF/Microwave design and test related problems of complex difficulty which require the regular use of ingenuity and creativity\n• Established subject matter expertise in numerous areas of RF/Microwave discipline including but not limited to: Antenna, RF performance analysis, RF test verification, and production test support\n• Exhibit proficiency in electrical and mechanical troubleshooting\n• Exhibit proficiency in software scripting and debugging in MATLAB, Visual Basic, and C++\n• Exhibit general aptitude in antenna range scheduling, staffing, technical team leadership, requirements, prioritization, time management, team building, work dissemination, planning, and early identification of issues\n• Ability to design, implement, install and maintain electrical systems\n\nPreferred Qualifications:\n• Top Secret Clearance\n• Expert user of both near-field and compact antenna test ranges\n• Expert user of NSI-MI Technology antenna range test systems\n• Expert user of MATLAB for post-processing antenna range test data\n\nPrimary Level Salary Range: $184,100.00 - $276,100.00\n\nThe above salary range represents a general guideline; however, Northrop Grumman considers a number of factors when determining base salary offers such as the scope and responsibilities of the position and the candidate's experience, education, skills and current market conditions.\n\nDepending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay. Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results. Employees in Vice President or Director positions may be eligible for Long Term Incentives. In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business.\n\nThe application period for the job is estimated to be 20 days from the job posting date. However, this timeline may be shortened or extended depending on business needs and the availability of qualified candidates.\n\nNorthrop Grumman is an Equal Opportunity Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO and pay transparency statement, please visit http://www.northropgrumman.com/EEO. U.S. Citizenship is required for all positions with a government clearance and certain other restricted positions.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Baltimore, MD",
-    "job_city": "Baltimore",
-    "job_state": "Maryland",
-    "job_country": "US",
-    "job_latitude": 39.2905023,
-    "job_longitude": -76.6104072,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2JxSHggl9CkOB3CXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Staff engineers should have a demonstrated ability in technical and team leadership overseeing engineers with experience at least at the Sr",
-        "Must have a Bachelors Degree in Engineering or related discipline with 14 years of experience in the areas described in the job description or 12 years of experience with a Masters Degree and/or 8 years of experience with a Ph. D",
-        "US Citizenship is required",
-        "Current Active Secret Clearance",
-        "Exhibit proficiency in near field or compact antenna test ranges on tasks including antenna range integration, test, data collection, data analysis, and system integration",
-        "Exhibit proficiency with RF test equipment including network analyzers, signal generators, spectrum analyzers, and oscilloscopes",
-        "Ability to develop highly novel solutions to a broad variety of RF/Microwave design and test related problems of complex difficulty which require the regular use of ingenuity and creativity",
-        "Established subject matter expertise in numerous areas of RF/Microwave discipline including but not limited to: Antenna, RF performance analysis, RF test verification, and production test support",
-        "Exhibit proficiency in electrical and mechanical troubleshooting",
-        "Exhibit proficiency in software scripting and debugging in MATLAB, Visual Basic, and C++",
-        "Exhibit general aptitude in antenna range scheduling, staffing, technical team leadership, requirements, prioritization, time management, team building, work dissemination, planning, and early identification of issues",
-        "Ability to design, implement, install and maintain electrical systems"
-      ],
-      "Benefits": [
-        "Primary Level Salary Range: $184,100.00 - $276,100.00",
-        "The above salary range represents a general guideline; however, Northrop Grumman considers a number of factors when determining base salary offers such as the scope and responsibilities of the position and the candidate's experience, education, skills and current market conditions",
-        "Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay",
-        "Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results",
-        "Employees in Vice President or Director positions may be eligible for Long Term Incentives",
-        "In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business"
-      ],
-      "Responsibilities": [
-        "TRAVEL: Yes, 10% of the Time",
-        "Typical Roles and Responsibilities include: The qualified candidate will lead a diverse and talented team of engineers in hardware integration and test at the Subsystems level",
-        "Responsibilities may include subsystem analysis including hardware from RF to digits, performance modeling, support for performance testing, and more",
-        "Work will be performed under consultative direction toward predetermined long-range goals and objectives",
-        "Assignments are often self-initiated",
-        "This role is contingent upon having a current Active Secret Clearance and the ability to achieve a SAP Clearance"
-      ]
-    },
-    "job_onet_soc": "17207200",
-    "job_onet_job_zone": "4",
-    "id": "jobs-northropgrumman-com-careers-job-1340070062955-sr-staff-rf-hardware-subsystem-integration-and-test-engineer-united-states-maryland-baltimore",
     "_source": "new_jobs"
   },
   {
@@ -978,9 +865,9 @@
     "job_latitude": 39.9625112,
     "job_longitude": -83.00322179999999,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dc6bbPspo4DFPcvX_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1037,199 +924,116 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "Uo07DcOW4YX7ls4sAAAAAA==",
-    "job_title": "Radio Frequency Engineer",
-    "employer_name": "TEKsystems",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXsEN7UUtvSpIi0itdBndnljUWnfdCSoQtMsq&s=0",
-    "employer_website": "https://www.teksystems.com",
-    "job_publisher": "TEKsystems Careers",
+    "job_id": "2JxSHggl9CkOB3CXAAAAAA==",
+    "job_title": "Sr. Staff RF Hardware Subsystem Integration and Test Engineer",
+    "employer_name": "Northrop Grumman",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0guZ8n1kKZ_nu4eaicJ4PROiwjA-BfwwxOY7w&s=0",
+    "employer_website": "https://www.northropgrumman.com",
+    "job_publisher": "Jobs At Northrop Grumman",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://careers.teksystems.com/us/en/job/JP-005826452/Radio-Frequency-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://jobs.northropgrumman.com/careers/job/1340070062955-sr-staff-rf-hardware-subsystem-integration-and-test-engineer-united-states-maryland-baltimore?domain=ngc.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "TEKsystems Careers",
-        "apply_link": "https://careers.teksystems.com/us/en/job/JP-005826452/Radio-Frequency-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Jobs At Northrop Grumman",
+        "apply_link": "https://jobs.northropgrumman.com/careers/job/1340070062955-sr-staff-rf-hardware-subsystem-integration-and-test-engineer-united-states-maryland-baltimore?domain=ngc.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/TEKsystems/Job/Radio-Frequency-Engineer/-in-Honolulu,HI?jid=ac12f905efa15e00&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.ziprecruiter.com/c/Northrop-Grumman/Job/Sr.-Staff-RF-Hardware-Subsystem-Integration-and-Test-Engineer/-in-Baltimore,MD?jid=cf897382a82c0534&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/7bdb8ed9-359e-4c35-a241-9e6d5fc94a04?q=Network+Administration&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/sr-staff-rf-hardware-subsystem-integration-and-test-engineer-northropgrumman-baltimore-md_85704486?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/radio-frequency-engineer-at-teksystems-4372117305?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.linkedin.com/jobs/view/sr-staff-rf-hardware-subsystem-integration-and-test-engineer-r10222882-at-northrop-grumman-4373233516?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Milwaukee Jobs",
-        "apply_link": "https://www.milwaukeejobs.com/job/detail/86263707/Radio-Frequency-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Experteer",
+        "apply_link": "https://us.experteer.com/career/view-jobs/sr-staff-rf-hardware-subsystem-integration-and-test-engineer-baltimore-md-usa-56176979?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/9de3b71838e86cc49d7e8d2531907a49?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Security Clearance Jobs",
+        "apply_link": "https://www.clearancejobs.com/jobs/8757066/sr-staff-rf-hardware-subsystem-integration-and-test-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LocalJobs.com",
+        "apply_link": "https://www.localjobs.com/job/baltimore-md-sr-staff-rf-hardware-subsystem-integration-and-test-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/69659b295ad3a93f8230f754?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5628805786?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://jobright.ai/jobs/info/6990e6836ea51a7610f35879?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "About the Role - Fully On Site in Honolulu, HI!\n\nWe are seeking a skilled RF/Microwave Engineer to design, develop, integrate, and test high‑frequency RF/microwave components and systems. This role supports both current and next‑generation telecommunications technologies—including microwave, PTP/PMP links, DAS, LMR, and more.\n\nYou will work closely with a Senior RF Engineer on projects vital to public safety and critical infrastructure, with strong long-term growth potential into a Senior engineering role.\nWhat You’ll Do\n• Design and develop RF/microwave systems including antennas, filters, amplifiers, combiners, couplers, and transceivers.\n• Perform RF analysis, propagation modeling, link budget calculations, and system-level performance evaluations.\n• Integrate and test RF systems in field and lab environments.\n• Utilize RF tools (EDX, Pathloss, etc.) for system design and optimization.\n• Conduct measurements using RF test equipment (spectrum/network analyzers, cable & antenna analyzers, etc.).\n• Troubleshoot RF performance issues such as interference, VSWR, return loss, and modulation‑related degradations.\n• Support network upgrades, new deployments, and optimization of existing systems.\n• Collaborate with engineering teams on system design, documentation, and project execution.\nRequired Skills & Experience\n• Bachelor’s degree in Electrical Engineering or related field (RF/Microwave concentration preferred).\n• 3+ years of hands-on RF or microwave engineering experience.\n• Proficiency with RF design tools: EDX, Pathloss, or similar.\n• Strong experience with RF test instruments:\n• Spectrum analyzers\n• Network analyzers\n• Cable/antenna analyzers\n• Deep understanding of:\n• Impedance matching (VSWR, return loss)\n• Link budgets\n• Modulation schemes\n• Antenna selection and system impacts\n• Interference mitigation\n• Ability to manage multiple projects in a fast-paced environment.\n• Strong communication skills—written, verbal, and cross-team collaboration.\n• Self‑starter who can work independently and as part of a team.\nNice-to-Have Experience\n• RF network integration for:\n• LTE / 5G\n• WiFi\n• Microwave PTP/PMP (licensed, unlicensed, mmWave)\n• Satellite or defense systems\n• Familiarity with FCC/NTIA regulations and RF exposure safety standards.\n• Experience with equipment from:\n• Nokia\n• Motorola\n• Cambium\n• Siklu\n• Commscope\n• Nextivity\n\nEmployee Value Proposition (EVP)\n• Work on high‑impact projects that support public safety, government, and critical infrastructure.\n• Join a collaborative, innovative engineering team.\n• Competitive salary + full benefits package.\n• Continuous opportunities for professional development and technical growth.\n• Clear pathway toward Senior engineering roles.\nJob Type & Location\n\nThis is a Permanent position based out of Honolulu, HI.\nPay and Benefits\n\nThe pay range for this position is $90000.00 - $110000.00/yr.\n\no Medical, dental, and vision insurance\no Paid time off and holidays\no 401(k) retirement plan with company contribution\nWorkplace Type\n\nThis is a fully onsite position in Honolulu,HI.\nApplication Deadline\n\nThis position is anticipated to close on Feb 26, 2026.\nh4>About TEKsystems:\n\nWe're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.\n\nThe company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.\n\nAbout TEKsystems and TEKsystems Global Services\n\nWe’re a leading provider of business and technology services. We accelerate business transformation for our customers. Our expertise in strategy, design, execution and operations unlocks business value through a range of solutions. We’re a team of 80,000 strong, working with over 6,000 customers, including 80% of the Fortune 500 across North America, Europe and Asia, who partner with us for our scale, full-stack capabilities and speed. We’re strategic thinkers, hands-on collaborators, helping customers capitalize on change and master the momentum of technology. We’re building tomorrow by delivering business outcomes and making positive impacts in our global communities. TEKsystems and TEKsystems Global Services are Allegis Group companies. Learn more at TEKsystems.com.\n\nThe company is an equal opportunity employer and will consider all applications without regard to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.",
+    "job_description": "RELOCATION ASSISTANCE: Relocation assistance may be available\n\nCLEARANCE TYPE: Secret\n\nTRAVEL: Yes, 10% of the Time\n\nDescription\n\nAt Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.\n\nNorthrop Grumman Mission Systems is seeking a Sr. Staff RF Hardware Subsystem Integration and Test Engineer\n\nTypical Roles and Responsibilities include: The qualified candidate will lead a diverse and talented team of engineers in hardware integration and test at the Subsystems level. Staff engineers should have a demonstrated ability in technical and team leadership overseeing engineers with experience at least at the Sr. Principal level.\n\nResponsibilities may include subsystem analysis including hardware from RF to digits, performance modeling, support for performance testing, and more. Work will be performed under consultative direction toward predetermined long-range goals and objectives. Assignments are often self-initiated.\n\nThis role is contingent upon having a current Active Secret Clearance and the ability to achieve a SAP Clearance.\n\nBasic Qualifications:\n• Must have a Bachelors Degree in Engineering or related discipline with 14 years of experience in the areas described in the job description or 12 years of experience with a Masters Degree and/or 8 years of experience with a Ph. D.\n• US Citizenship is required\n• Current Active Secret Clearance\n• Exhibit proficiency in near field or compact antenna test ranges on tasks including antenna range integration, test, data collection, data analysis, and system integration\n• Exhibit proficiency with RF test equipment including network analyzers, signal generators, spectrum analyzers, and oscilloscopes\n• Ability to develop highly novel solutions to a broad variety of RF/Microwave design and test related problems of complex difficulty which require the regular use of ingenuity and creativity\n• Established subject matter expertise in numerous areas of RF/Microwave discipline including but not limited to: Antenna, RF performance analysis, RF test verification, and production test support\n• Exhibit proficiency in electrical and mechanical troubleshooting\n• Exhibit proficiency in software scripting and debugging in MATLAB, Visual Basic, and C++\n• Exhibit general aptitude in antenna range scheduling, staffing, technical team leadership, requirements, prioritization, time management, team building, work dissemination, planning, and early identification of issues\n• Ability to design, implement, install and maintain electrical systems\n\nPreferred Qualifications:\n• Top Secret Clearance\n• Expert user of both near-field and compact antenna test ranges\n• Expert user of NSI-MI Technology antenna range test systems\n• Expert user of MATLAB for post-processing antenna range test data\n\nPrimary Level Salary Range: $184,100.00 - $276,100.00\n\nThe above salary range represents a general guideline; however, Northrop Grumman considers a number of factors when determining base salary offers such as the scope and responsibilities of the position and the candidate's experience, education, skills and current market conditions.\n\nDepending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay. Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results. Employees in Vice President or Director positions may be eligible for Long Term Incentives. In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business.\n\nThe application period for the job is estimated to be 20 days from the job posting date. However, this timeline may be shortened or extended depending on business needs and the availability of qualified candidates.\n\nNorthrop Grumman is an Equal Opportunity Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO and pay transparency statement, please visit http://www.northropgrumman.com/EEO. U.S. Citizenship is required for all positions with a government clearance and certain other restricted positions.",
     "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Honolulu, HI",
-    "job_city": "Honolulu",
-    "job_state": "Hawaii",
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Baltimore, MD",
+    "job_city": "Baltimore",
+    "job_state": "Maryland",
     "job_country": "US",
-    "job_latitude": 21.3098845,
-    "job_longitude": -157.85814009999999,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUo07DcOW4YX7ls4sAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 90000,
-    "job_max_salary": 110000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "3+ years of hands-on RF or microwave engineering experience",
-        "Proficiency with RF design tools: EDX",
-        ", Pathloss, or similar",
-        "Strong experience with RF test instruments:",
-        "Strong communication skills—written, verbal, and cross-team collaboration",
-        "Self‑starter who can work independently and as part of a team",
-        "Nice-to-Have Experience",
-        "RF network integration for:",
-        "LTE / 5G",
-        "Microwave PTP/PMP (licensed, unlicensed, mmWave)",
-        "Satellite or defense systems",
-        "Familiarity with FCC/NTIA regulations and RF exposure safety standards",
-        "Experience with equipment from:",
-        "Nokia",
-        "Commscope"
-      ],
-      "Benefits": [
-        "Join a collaborative, innovative engineering team",
-        "Competitive salary + full benefits package",
-        "Continuous opportunities for professional development and technical growth",
-        "Clear pathway toward Senior engineering roles",
-        "The pay range for this position is $90000.00 - $110000.00/yr",
-        "Medical, dental, and vision insurance",
-        "Paid time off and holidays",
-        "401(k) retirement plan with company contribution"
-      ],
-      "Responsibilities": [
-        "You will work closely with a Senior RF Engineer on projects vital to public safety and critical infrastructure, with strong long-term growth potential into a Senior engineering role",
-        "Design and develop RF/microwave systems including antennas, filters, amplifiers, combiners, couplers, and transceivers",
-        "Perform RF analysis, propagation modeling, link budget calculations, and system-level performance evaluations",
-        "Integrate and test RF systems in field and lab environments",
-        "Utilize RF tools (EDX",
-        ", Pathloss, etc.) for system design and optimization",
-        "Conduct measurements using RF test equipment (spectrum/network analyzers, cable & antenna analyzers, etc.)",
-        "Troubleshoot RF performance issues such as interference, VSWR, return loss, and modulation‑related degradations",
-        "Support network upgrades, new deployments, and optimization of existing systems",
-        "Collaborate with engineering teams on system design, documentation, and project execution",
-        "Spectrum analyzers",
-        "Network analyzers",
-        "Cable/antenna analyzers",
-        "Impedance matching (VSWR, return loss)",
-        "Modulation schemes",
-        "Antenna selection and system impacts",
-        "Interference mitigation",
-        "Ability to manage multiple projects in a fast-paced environment",
-        "Work on high‑impact projects that support public safety, government, and critical infrastructure"
-      ]
-    },
-    "job_onet_soc": "17207200",
-    "job_onet_job_zone": "4",
-    "id": "careers-teksystems-com-us-en-job-jp-005826452-radio-frequency-engineer",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "jN3b6J5t9Z64oSDeAAAAAA==",
-    "job_title": "RF Engineer - Secret Clearance",
-    "employer_name": "Nesco Resource",
-    "employer_logo": null,
-    "employer_website": "https://www.nescoresource.com",
-    "job_publisher": "Nesco Resource",
-    "job_employment_type": "Contractor",
-    "job_employment_types": [
-      "CONTRACTOR"
-    ],
-    "job_apply_link": "https://www.nescoresource.com/job/27403392/rf-engineer-secret-clearance?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Nesco Resource",
-        "apply_link": "https://www.nescoresource.com/job/27403392/rf-engineer-secret-clearance?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Expertini",
-        "apply_link": "https://chelmsford.us.expertini.com/job/rf-engineer-secret-clearance-chelmsford-nesco-resource-e64fd68ba42c/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Description: *** is a global security and aerospace company that employs approximately 114,000 people worldwide and is principally engaged in the research, design, development, manufacture, integration, and sustainment of advanced technology systems, products, and services.\n\nAt ***, we apply our passion for purposeful innovation to keep people safe and solve the world's most complex challenges.\n\nWe are seeking to hire an experienced RF engineering professional at our campus in Chelmsford, Massachusetts!!\n\nWe offer an excellent working environment with a mix of cutting-edge design and genuine hands-on electronics laboratory testing and product development. This exciting role offers the RF professional an opportunity to be a key contributor on our team of industry-leading RF design experts.\n\nWhat You Will Be Doing\n-In this role, the RF Engineer will have the opportunity to support the production of complex multi-function modules used in challenging high-reliability applications in all phases of the product life cycle.\n-The engineer will work on complex technical problems and provide solutions that are innovative and ingenious.\n-The engineer will act independently to uncover and resolve issues associated with the implementation of operational products.\n-The engineering will collaborate with other engineering disciplines including hardware engineers, systems engineers, and circuit design engineers as well as technical and manufacturing support personnel.\n- Applicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information.\n\nBasic requirements:\n• Secret Clearance Required to start.\n•Bachelor of Science Degree in Electrical Engineering preferred or BS Degree in Science, Technology, Engineering, or Math (STEM) accepted plus a minimum of 5 years of relevant professional engineering experience.\n•Experience with troubleshooting designs and resolving integration issues in a production or manufacturing environment is required.\n•Experience with hands on hardware\n•Experience with the use of RF microwave test equipment and microwave simulation tools is required.\n•Excellent communication and presentation skills are required.\nDesired skills:\n•An MS in electrical engineering or closely related technical field is desired.\n•Significant relevant experience in the defense electronics industry is desired.\n•Expertise with RF subsystems and hardware including antennas, transmitters, receivers, microwave components, low noise amplifiers, high power amplifiers, advanced electronic modules, amplifiers, mixers, switches, frequency generation circuits, and frequency conversion circuits is desired.\n•Experience with microelectronics assembly techniques is desired.\n•Expertise with technical documentation such as specifications, schematic drawings, and test date is desired.\n•Strong communication skills.\n•Experience with customer interface including technical presentations.\n•Prior RF design experience is preferred\n•Ability to lead failure investigations on production or technical issues.\n•Ability work in a team collaborative environment especially with manufacturing and industrial engineers and/or operator on production support.\n• **Contractor selected will be required to start and train on first shift for 6 weeks before moving to third shift.***\nFirst Shift Training Hours: Day shift, Full-Time (M-TH) 6:00 AM - 4:30 PM Monday through Thursday\nSecond Shift Hours: Shift: Weekend Shift, Full-Time (Thursday - Sunday) 4:00pm - 2:30am Monday through Thursday\n\nNesco Resource offers a comprehensive benefits package for our associates, which includes a MEC (Minimum Essential Coverage) plan that encompasses Medical, Vision, Dental, 401K, and EAP (Employee Assistance Program) services.\n\nNesco Resource provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.",
-    "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1770163200,
-    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-    "job_location": "Chelmsford, MA",
-    "job_city": "Chelmsford",
-    "job_state": "Massachusetts",
-    "job_country": "US",
-    "job_latitude": 42.596927699999995,
-    "job_longitude": -71.3514509,
+    "job_latitude": 39.2905023,
+    "job_longitude": -76.6104072,
     "job_benefits": [
       "dental_coverage",
+      "paid_time_off",
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjN3b6J5t9Z64oSDeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 80,
-    "job_max_salary": 97.12,
-    "job_salary_period": "HOUR",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2JxSHggl9CkOB3CXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Secret Clearance Required to start",
-        "Experience with troubleshooting designs and resolving integration issues in a production or manufacturing environment is required",
-        "Experience with hands on hardware",
-        "Experience with the use of RF microwave test equipment and microwave simulation tools is required",
-        "Excellent communication and presentation skills are required"
+        "Staff engineers should have a demonstrated ability in technical and team leadership overseeing engineers with experience at least at the Sr",
+        "Must have a Bachelors Degree in Engineering or related discipline with 14 years of experience in the areas described in the job description or 12 years of experience with a Masters Degree and/or 8 years of experience with a Ph. D",
+        "US Citizenship is required",
+        "Current Active Secret Clearance",
+        "Exhibit proficiency in near field or compact antenna test ranges on tasks including antenna range integration, test, data collection, data analysis, and system integration",
+        "Exhibit proficiency with RF test equipment including network analyzers, signal generators, spectrum analyzers, and oscilloscopes",
+        "Ability to develop highly novel solutions to a broad variety of RF/Microwave design and test related problems of complex difficulty which require the regular use of ingenuity and creativity",
+        "Established subject matter expertise in numerous areas of RF/Microwave discipline including but not limited to: Antenna, RF performance analysis, RF test verification, and production test support",
+        "Exhibit proficiency in electrical and mechanical troubleshooting",
+        "Exhibit proficiency in software scripting and debugging in MATLAB, Visual Basic, and C++",
+        "Exhibit general aptitude in antenna range scheduling, staffing, technical team leadership, requirements, prioritization, time management, team building, work dissemination, planning, and early identification of issues",
+        "Ability to design, implement, install and maintain electrical systems"
+      ],
+      "Benefits": [
+        "Primary Level Salary Range: $184,100.00 - $276,100.00",
+        "The above salary range represents a general guideline; however, Northrop Grumman considers a number of factors when determining base salary offers such as the scope and responsibilities of the position and the candidate's experience, education, skills and current market conditions",
+        "Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay",
+        "Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results",
+        "Employees in Vice President or Director positions may be eligible for Long Term Incentives",
+        "In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business"
       ],
       "Responsibilities": [
-        "In this role, the RF Engineer will have the opportunity to support the production of complex multi-function modules used in challenging high-reliability applications in all phases of the product life cycle",
-        "The engineer will work on complex technical problems and provide solutions that are innovative and ingenious",
-        "The engineer will act independently to uncover and resolve issues associated with the implementation of operational products",
-        "The engineering will collaborate with other engineering disciplines including hardware engineers, systems engineers, and circuit design engineers as well as technical and manufacturing support personnel",
-        "Applicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information",
-        "First Shift Training Hours: Day shift, Full-Time (M-TH) 6:00 AM - 4:30 PM Monday through Thursday"
+        "TRAVEL: Yes, 10% of the Time",
+        "Typical Roles and Responsibilities include: The qualified candidate will lead a diverse and talented team of engineers in hardware integration and test at the Subsystems level",
+        "Responsibilities may include subsystem analysis including hardware from RF to digits, performance modeling, support for performance testing, and more",
+        "Work will be performed under consultative direction toward predetermined long-range goals and objectives",
+        "Assignments are often self-initiated",
+        "This role is contingent upon having a current Active Secret Clearance and the ability to achieve a SAP Clearance"
       ]
     },
     "job_onet_soc": "17207200",
     "job_onet_job_zone": "4",
-    "id": "www-nescoresource-com-job-27403392-rf-engineer-secret-clearance",
+    "id": "jobs-northropgrumman-com-careers-job-1340070062955-sr-staff-rf-hardware-subsystem-integration-and-test-engineer-united-states-maryland-baltimore",
     "_source": "new_jobs"
   },
   {
@@ -1346,108 +1150,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "M0uqTKnYYg92i4e4AAAAAA==",
-    "job_title": "Sr. Mechanical RF/Antenna Engineer",
-    "employer_name": "Blue Origin",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8AHeaCAfYWn95C6hdgHqg_E1i7n4EUpopF7NC&s=0",
-    "employer_website": "https://www.blueorigin.com",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/sr-mechanical-rf-antenna-engineer-at-blue-origin-4364438023?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/sr-mechanical-rf-antenna-engineer-at-blue-origin-4364438023?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/69902f5b6ea51a7610f2b2db?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/968344c644d94da3d38a33145bc152ae?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-ca-san-francisco-sr-mechanical-rf-antenna-engineer-blue-origin?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Application Close Date\n\nApplications will be accepted on an ongoing basis until the requisition is closed.\n\nAt Blue Origin, we envision millions of people living and working in space for the benefit of Earth. We’re working to develop reusable, safe, and low-cost space vehicles and systems within a culture of safety, collaboration, and inclusion. Join our team of problem solvers as we add new chapters to the history of spaceflight! \n\nThis role is part of TeraWave, a satellite communications network designed to deliver symmetrical data speeds of up to 6 Tbps anywhere on Earth. This network will service tens of thousands of enterprise, data center, and government users who require reliable connectivity for critical operations.\n\nWe are seeking a Senior Mechanical Engineer to support the design, development, flight validation, assembly, integration, testing, and in-flight performance of the Terwave Payloads. This role will support payload hardware development from initial concept through flight. The Senior Mechanical Engineer will work closely with Structures, Thermal, Electrical, and RF Engineers to develop RF components, phased-array and parabolic antennas, and related assemblies that meet high system performance requirements and can be manufactured at scale.\n\nYou should be comfortable thriving in a fast-paced environment, translating ambiguous requirements into concrete execution in support of the Terawave product mission. We are seeking individuals who enjoy solving difficult problems, demonstrate a strong bias for action, and take extreme ownership of their work.\n\nResponsibilities Include But Are Not Limited To\n• Own end-to-end payload component design, from concept through fabrication and testing.\n• Develop and own mechanical requirements, and clearly communicate them to cross-functional partners to drive system development.\n• Perform initial structural and thermal sizing of components.\n• Rapidly iterate on designs through hands-on hardware development, bringing components from concept to rate production.\n• Generate design data, fabrication, and production drawings using GD&T to clearly communicate design intent and ensure low-cost, scalable manufacturability.\n• Drive tolerancing and statistical analysis into designs to meet production and quality targets.\n• Resolve manufacturing issues and work with vendors and internal stakeholders to disposition hardware on the production floor.\n• Create 3D models, detail part drawings, assemblies, installations, and interface control documents.\n\nMinimum Qualifications\n• Bachelor of Science (BS) degree in Mechanical Engineering, Structural Engineering, or a closely related field.\n• 7+ Experience working in aerospace, satellite, automotive, or telecom production environment.\n• Experience designing enclosures and/or thermal solutions for high power electronics, high speed electronics, RF electronics, or telecom components.\n• Experience owning all aspects of electromechanical unit level development (design, thermal, structural, assembly, and test)\n• Experience working with high volume contract manufacturers.\n• Self-motivated with strong organizational, written, and oral communication skills - We are looking for leaders.\n• Mechanical design experience using CAD (Creo/Windchill preferred), hand calculations, and FEA (ANSYS preferred) tools.\n• Experience with Geometric Dimensioning and Tolerance analysis (AMSE Y14.5).\n\nPreferred Qualifications\n• Demonstrated expertise with any industry standard analysis codes: Ansys, Nastran, Optistruct, LS Dyna, Hypermesh, Hypersizer.\n• Experience doing unit level structural sizing and designing electronics to survive harsh environments.\n• Experience doing unit level thermal design and designing electronics cooling solutions to survive harsh environments.\n• Demonstrated expertise with any industry standard analysis codes: Ansys, Nastran, Optistruct, LS Dyna, Hypermesh, Hypersizer.\n• Experience designing and building electromechanical mechanisms.\n• Familiarity with ASME Y14.100 and Y14.41.\n\nCompensation Range For\n\nCA applicants is $145,188.00 - $203,263.20\n\nOther Site Ranges May Differ\n\nCulture Statement\n\nDon’t meet all desired requirements? Studies have shown that some people are less likely to apply to jobs unless they meet every single desired qualification. At Blue Origin, we are dedicated to building an authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every desired qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.\n\nExport Control Regulations\n\nApplicants for employment at Blue Origin must be a U.S. citizen or national, U.S. permanent resident (i.e. current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.\n\nBackground Check\n• Required for all positions: Blue’s Standard Background Check\n• Required for Certain Job Profiles: Defense Biometric Identification System (DBIDS) background check if at any time the role requires one to be on a military installation\n• Required for Certain Job Profiles: Drivers who operate Commercial Motor Vehicles with a Gross Vehicle Weight (GVW), Gross Vehicle Weight Rating (GVWR) or combination of power unit and trailer that meets or exceeds 10,001 lbs. and/or transports placardable amounts of hazardous materials by ground in any vehicle on a public road while in commerce, may be subject to additional Federal Motor Carrier Safety Regulations including: Driver Qualification Files, Medical Certification (obtained before onboarding), Road Test, Hours of Service, Drug and Alcohol Testing (CDL drivers only), vehicle inspection requirements, CDL requirements (if applicable) and hazardous materials transportation/shipping training.\n• Required for certain Job Profiles: Ability to obtain and maintain Merchant Mariner Credential, which includes pre-employment and random drug testing as well as DOT physical\n\nBenefits\n• Benefits include: Medical, dental, vision, basic and supplemental life insurance, paid parental leave, short and long-term disability, 401(k) with a company match of up to 5%, and an Education Support Program.\n• Paid Time Off: Up to four (4) weeks per year based on weekly scheduled hours, and up to 14 company-paid holidays.\n• Dependent on role type and job level, employees may be eligible for benefits and bonuses based on the company's intent to reward individual contributions and enable them to share in the company's results, or other factors at the company's sole discretion. Bonus amounts and eligibility are not guaranteed and subject to change and cancellation. Please check with your recruiter for more details.\n\nEqual Employment Opportunity\n\nBlue Origin is proud to be an Equal Opportunity/Affirmative Action Employer and is committed to attracting, retaining, and developing a highly qualified and dedicated work force. Blue Origin hires and promotes people on the basis of their qualifications, performance, and abilities. We support the establishment and maintenance of a workplace that fosters trust, equality, and teamwork. We provide all qualified applicants for employment and employees with equal opportunities for hire, promotion, and other terms and conditions of employment, regardless of their race, color, religion, sex, sexual orientation, gender identity, national origin/ethnicity, age, physical or mental disability, genetic factors, military/veteran status, or any other status or characteristic protected by federal, state, and/or local law. Blue Origin will consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state, and local laws, including the Washington Fair Chance Act, the California Fair Chance Act, the Los Angeles Fair Chance in Hiring Ordinance, and other applicable laws. For more information on “Know Your Rights,” please see here.\n\nAffirmative Action and Disability Accommodation\n\nApplicants wishing to receive information on Blue Origin’s Affirmative Action Plans, or applicants requiring a reasonable accommodation in order to participate in the application and/or interview process, please contact us at EEOCompliance@blueorigin.com. Please note this is a publicly managed inbox. Please do not include any personal medical information in your request.\n\nCalifornia Applicant Privacy Notice\n\nIf you are a California resident, please reference the CA Applicant Privacy Notice here.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "San Francisco, CA",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.7749295,
-    "job_longitude": -122.4194155,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DM0uqTKnYYg92i4e4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 145188,
-    "job_max_salary": 203263.2,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "You should be comfortable thriving in a fast-paced environment, translating ambiguous requirements into concrete execution in support of the Terawave product mission",
-        "We are seeking individuals who enjoy solving difficult problems, demonstrate a strong bias for action, and take extreme ownership of their work",
-        "Bachelor of Science (BS) degree in Mechanical Engineering, Structural Engineering, or a closely related field",
-        "7+ Experience working in aerospace, satellite, automotive, or telecom production environment",
-        "Experience designing enclosures and/or thermal solutions for high power electronics, high speed electronics, RF electronics, or telecom components",
-        "Experience owning all aspects of electromechanical unit level development (design, thermal, structural, assembly, and test)",
-        "Experience working with high volume contract manufacturers",
-        "Self-motivated with strong organizational, written, and oral communication skills - We are looking for leaders",
-        "Experience with Geometric Dimensioning and Tolerance analysis (AMSE Y14.5)",
-        "Applicants for employment at Blue Origin must be a U.S. citizen or national, U.S. permanent resident (i.e. current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum",
-        "Background Check",
-        "Required for all positions: Blue’s Standard Background Check",
-        "Required for Certain Job Profiles: Defense Biometric Identification System (DBIDS) background check if at any time the role requires one to be on a military installation",
-        "Required for Certain Job Profiles: Drivers who operate Commercial Motor Vehicles with a Gross Vehicle Weight (GVW), Gross Vehicle Weight Rating (GVWR) or combination of power unit and trailer that meets or exceeds 10,001 lbs",
-        "and/or transports placardable amounts of hazardous materials by ground in any vehicle on a public road while in commerce, may be subject to additional Federal Motor Carrier Safety Regulations including: Driver Qualification Files, Medical Certification (obtained before onboarding), Road Test, Hours of Service, Drug and Alcohol Testing (CDL drivers only), vehicle inspection requirements, CDL requirements (if applicable) and hazardous materials transportation/shipping training",
-        "Required for certain Job Profiles: Ability to obtain and maintain Merchant Mariner Credential, which includes pre-employment and random drug testing as well as DOT physical"
-      ],
-      "Benefits": [
-        "Compensation Range For",
-        "CA applicants is $145,188.00 - $203,263.20",
-        "Benefits include: Medical, dental, vision, basic and supplemental life insurance, paid parental leave, short and long-term disability, 401(k) with a company match of up to 5%, and an Education Support Program",
-        "Paid Time Off: Up to four (4) weeks per year based on weekly scheduled hours, and up to 14 company-paid holidays",
-        "Dependent on role type and job level, employees may be eligible for benefits and bonuses based on the company's intent to reward individual contributions and enable them to share in the company's results, or other factors at the company's sole discretion",
-        "Bonus amounts and eligibility are not guaranteed and subject to change and cancellation"
-      ],
-      "Responsibilities": [
-        "This network will service tens of thousands of enterprise, data center, and government users who require reliable connectivity for critical operations",
-        "We are seeking a Senior Mechanical Engineer to support the design, development, flight validation, assembly, integration, testing, and in-flight performance of the Terwave Payloads",
-        "This role will support payload hardware development from initial concept through flight",
-        "The Senior Mechanical Engineer will work closely with Structures, Thermal, Electrical, and RF Engineers to develop RF components, phased-array and parabolic antennas, and related assemblies that meet high system performance requirements and can be manufactured at scale",
-        "Own end-to-end payload component design, from concept through fabrication and testing",
-        "Develop and own mechanical requirements, and clearly communicate them to cross-functional partners to drive system development",
-        "Perform initial structural and thermal sizing of components",
-        "Rapidly iterate on designs through hands-on hardware development, bringing components from concept to rate production",
-        "Generate design data, fabrication, and production drawings using GD&T to clearly communicate design intent and ensure low-cost, scalable manufacturability",
-        "Drive tolerancing and statistical analysis into designs to meet production and quality targets",
-        "Resolve manufacturing issues and work with vendors and internal stakeholders to disposition hardware on the production floor",
-        "Create 3D models, detail part drawings, assemblies, installations, and interface control documents"
-      ]
-    },
-    "job_onet_soc": "17207200",
-    "job_onet_job_zone": "4",
-    "id": "www-linkedin-com-jobs-view-sr-mechanical-rf-antenna-engineer-at-blue-origin-4364438023",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "8hb33jZ8pYSh6dyNAAAAAA==",
     "job_title": "RF Engineer/ Advanced",
     "employer_name": "Zebra Technologies",
@@ -1542,6 +1244,72 @@
     "job_onet_soc": "17207200",
     "job_onet_job_zone": "4",
     "id": "grabjobs-co-us-job-full-time-others-rf-engineer-advanced-151723546",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "jN3b6J5t9Z64oSDeAAAAAA==",
+    "job_title": "RF Engineer - Secret Clearance",
+    "employer_name": "Nesco Resource",
+    "employer_logo": null,
+    "employer_website": "https://www.nescoresource.com",
+    "job_publisher": "Nesco Resource",
+    "job_employment_type": "Contractor",
+    "job_employment_types": [
+      "CONTRACTOR"
+    ],
+    "job_apply_link": "https://www.nescoresource.com/job/27403392/rf-engineer-secret-clearance?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Nesco Resource",
+        "apply_link": "https://www.nescoresource.com/job/27403392/rf-engineer-secret-clearance?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Expertini",
+        "apply_link": "https://chelmsford.us.expertini.com/job/rf-engineer-secret-clearance-chelmsford-nesco-resource-e64fd68ba42c/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Description: *** is a global security and aerospace company that employs approximately 114,000 people worldwide and is principally engaged in the research, design, development, manufacture, integration, and sustainment of advanced technology systems, products, and services.\n\nAt ***, we apply our passion for purposeful innovation to keep people safe and solve the world's most complex challenges.\n\nWe are seeking to hire an experienced RF engineering professional at our campus in Chelmsford, Massachusetts!!\n\nWe offer an excellent working environment with a mix of cutting-edge design and genuine hands-on electronics laboratory testing and product development. This exciting role offers the RF professional an opportunity to be a key contributor on our team of industry-leading RF design experts.\n\nWhat You Will Be Doing\n-In this role, the RF Engineer will have the opportunity to support the production of complex multi-function modules used in challenging high-reliability applications in all phases of the product life cycle.\n-The engineer will work on complex technical problems and provide solutions that are innovative and ingenious.\n-The engineer will act independently to uncover and resolve issues associated with the implementation of operational products.\n-The engineering will collaborate with other engineering disciplines including hardware engineers, systems engineers, and circuit design engineers as well as technical and manufacturing support personnel.\n- Applicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information.\n\nBasic requirements:\n• Secret Clearance Required to start.\n•Bachelor of Science Degree in Electrical Engineering preferred or BS Degree in Science, Technology, Engineering, or Math (STEM) accepted plus a minimum of 5 years of relevant professional engineering experience.\n•Experience with troubleshooting designs and resolving integration issues in a production or manufacturing environment is required.\n•Experience with hands on hardware\n•Experience with the use of RF microwave test equipment and microwave simulation tools is required.\n•Excellent communication and presentation skills are required.\nDesired skills:\n•An MS in electrical engineering or closely related technical field is desired.\n•Significant relevant experience in the defense electronics industry is desired.\n•Expertise with RF subsystems and hardware including antennas, transmitters, receivers, microwave components, low noise amplifiers, high power amplifiers, advanced electronic modules, amplifiers, mixers, switches, frequency generation circuits, and frequency conversion circuits is desired.\n•Experience with microelectronics assembly techniques is desired.\n•Expertise with technical documentation such as specifications, schematic drawings, and test date is desired.\n•Strong communication skills.\n•Experience with customer interface including technical presentations.\n•Prior RF design experience is preferred\n•Ability to lead failure investigations on production or technical issues.\n•Ability work in a team collaborative environment especially with manufacturing and industrial engineers and/or operator on production support.\n• **Contractor selected will be required to start and train on first shift for 6 weeks before moving to third shift.***\nFirst Shift Training Hours: Day shift, Full-Time (M-TH) 6:00 AM - 4:30 PM Monday through Thursday\nSecond Shift Hours: Shift: Weekend Shift, Full-Time (Thursday - Sunday) 4:00pm - 2:30am Monday through Thursday\n\nNesco Resource offers a comprehensive benefits package for our associates, which includes a MEC (Minimum Essential Coverage) plan that encompasses Medical, Vision, Dental, 401K, and EAP (Employee Assistance Program) services.\n\nNesco Resource provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.",
+    "job_is_remote": false,
+    "job_posted_at": "13 days ago",
+    "job_posted_at_timestamp": 1770163200,
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_location": "Chelmsford, MA",
+    "job_city": "Chelmsford",
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.596927699999995,
+    "job_longitude": -71.3514509,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjN3b6J5t9Z64oSDeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 80,
+    "job_max_salary": 97.12,
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "Secret Clearance Required to start",
+        "Experience with troubleshooting designs and resolving integration issues in a production or manufacturing environment is required",
+        "Experience with hands on hardware",
+        "Experience with the use of RF microwave test equipment and microwave simulation tools is required",
+        "Excellent communication and presentation skills are required"
+      ],
+      "Responsibilities": [
+        "In this role, the RF Engineer will have the opportunity to support the production of complex multi-function modules used in challenging high-reliability applications in all phases of the product life cycle",
+        "The engineer will work on complex technical problems and provide solutions that are innovative and ingenious",
+        "The engineer will act independently to uncover and resolve issues associated with the implementation of operational products",
+        "The engineering will collaborate with other engineering disciplines including hardware engineers, systems engineers, and circuit design engineers as well as technical and manufacturing support personnel",
+        "Applicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information",
+        "First Shift Training Hours: Day shift, Full-Time (M-TH) 6:00 AM - 4:30 PM Monday through Thursday"
+      ]
+    },
+    "job_onet_soc": "17207200",
+    "job_onet_job_zone": "4",
+    "id": "www-nescoresource-com-job-27403392-rf-engineer-secret-clearance",
     "_source": "new_jobs"
   },
   {
@@ -1641,247 +1409,68 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "Y1lWEjqJs9SPjwtOAAAAAA==",
-    "job_title": "RF Engineer Project Specialist (On-Site)",
-    "employer_name": "KBR",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCariHSqEgNjMoYbkqkHKaGMyNB7YBnJ3BHr0P&s=0",
-    "employer_website": null,
-    "job_publisher": "Careers At KBR",
-    "job_employment_type": "Full-time",
+    "job_id": "1mhx6YC2xjuWxH76AAAAAA==",
+    "job_title": "RF Engineer - III - Full-time / Part-time",
+    "employer_name": "LanceSoft Inc",
+    "employer_logo": null,
+    "employer_website": "https://www.lancesoft.com",
+    "job_publisher": "Snagajob",
+    "job_employment_type": "Full-time and Part-time",
     "job_employment_types": [
-      "FULLTIME"
+      "FULLTIME",
+      "PARTTIME"
     ],
-    "job_apply_link": "https://careers.kbr.com/us/en/job/R2118183/RF-Engineer-Project-Specialist-On-Site?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.snagajob.com/jobs/1170512037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Careers At KBR",
-        "apply_link": "https://careers.kbr.com/us/en/job/R2118183/RF-Engineer-Project-Specialist-On-Site?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=eed527095695a6b1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/KBR/Job/RF-Engineer-Project-Specialist-(On-Site)/-in-Phoenix,AZ?jid=cccaa9fade2c9b0e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/rf-engineer-project-specialist-on-site-kbr-phoenix-az_85531004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ClearedJobs.Net",
-        "apply_link": "https://clearedjobs.net/job/rf-engineer-project-specialist-on-site-phoenix-arizona-1851919?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/73a7dfd9-7c71-4a79-9db4-4e09d6d0e2ac?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/b5a089391c2ad19445e764e8ffd83c19?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/rf-engineer-project-specialist_7ea1a9e1cf6ebf106839bb7d9445e41b3375a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1170512037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Title:\nRF Engineer Project Specialist (On-Site)\n\nBelong, Connect, Grow, with KBR!\n\nProgram Summary\n\nKBR is committed to delivering innovative and reliable engineering solutions that uphold our core values of Zero Harm, Integrity, and Teamwork. As part of our Specialty Engineering team, we drive excellence in RFID system deployment across government and commercial sectors, fostering a culture of continuous improvement and operational success.\n\nJob Summary\n\nThe Sr. Technical Professional – Specialty Engineering (RF Engineering Project Specialist) is responsible for leading the planning, coordination, and execution of complex RFID installation projects. This role ensures seamless integration of technical solutions, manages multidisciplinary teams, and maintains high standards of quality, safety, and customer satisfaction throughout the project lifecycle.\n\nRoles and Responsibilities\n• Project Planning & Execution: Develop and manage detailed project plans; oversee antenna and network infrastructure installation; coordinate engineering, IT, and field teams.\n• Technical Integration & Problem Solving: Lead troubleshooting efforts to resolve technical challenges during system implementation.\n• Business Development Support: Assist in proposal development by creating bases of estimate, materials, and direct costs.\n• Marketing Collaboration: Contribute to marketing materials that highlight technical capabilities and support business growth.\n• Dispatch Process Execution: Manage personnel and resource deployment for each project phase.\n• Quality Assurance & Team Integrity: Promote system quality and team accountability.\n• Resource Strategy: Define staffing and material strategies to optimize project outcomes.\n• Technical Analysis: Conduct performance validation and recommend engineering improvements.\n• Technical Documentation: Prepare specifications, test plans, and reports to support compliance and project phases.\n• Project Management: Lead or support small-scale projects, ensuring milestone achievement and quality standards.\n• Teamwork: Collaborate with stakeholders to define requirements and resolve technical issues.\n• Technical Knowledge Sharing: Mentor junior team members and foster technical growth.\n\nBasic Qualifications\n• Bachelor’s degree in Electrical Engineering, Physics, or a related technical field.\n• Minimum of 5 years of experience in RFID, wireless communications, RF systems, RF propagation, or signal processing.\n• Demonstrated expertise in RF engineering and problem-solving.\n• Strong communication skills and experience in technical documentation.\n• Proven ability to work across multidisciplinary teams and lead project planning and integration efforts.\n• US citizenship is a requirement.\n\nPreferred Qualifications\n• Master’s degree in Electrical Engineering, Physics, or related field.\n• Active U.S. Government issued Secret Security Clearance.\n• PMP or similar project management certification.\n• Previous leadership and research experience in RF systems or specialty engineering.\n\nKBR Benefits\n\nKBR offers a selection of competitive lifestyle benefits which could include 401K plan with company match, medical, dental, vision, life insurance, AD&D, flexible spending account, disability, paid time off, or flexible work schedule. We support career advancement through professional training and development.\n\nBelong, Connect and Grow at KBR\n\nAt KBR, we are passionate about our people and our Zero Harm culture. These inform all that we do and are at the heart of our commitment to, and ongoing journey toward being a People First company. That commitment is central to our team of team’s philosophy and fosters an environment where everyone can Belong, Connect and Grow. We Deliver – Together.\n\nKBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.",
+    "job_description": "Company Description:\n\nIn business since 2000, LanceSoft is a nationally certified Minority Business Enterprise (MBE) that has established itself as a pioneer in providing highly scalable, cost-effective workforce solutions to a diverse set of customers across various industries in the United States.\nJob Description:\n\n· Sprint phone is required\n\n· Need to work from Denver work location in Englewood, CO\n\n· RF Design experience designing and deploying cell sites in the US\n\n· Strong RF design concepts including Model tuning, link budget, site placement / design, candidate reviews, deployment support and site turn up activities including reviewing / approving ATPs / Sweeps\n\n· 3-5 yrs experience working on Design tools like Atoll, MapInfo, Google Earth, Planet\n\n· Familiar with Samsung / Nokia OEM and equipment config\n\n· Familiar with processes to create RFDS / CIQ\n\n· Strong communication skills required and ability to work as an IC with minimal supervision\n\n· Basic RF Optimization / Performance skills is a plus\nQualifications:\n• Sprint phone is required\n• RF Design experience designing and deploying cell sites in the US\n\nAdditional Information:\n\nAll your information will be kept confidential according to EEO guidelines.\n\nCompany Description:\n\nIn business since 2000, LanceSoft is a nationally certified Minority Business Enterprise (MBE) that has established itself as a pioneer in providing highly scalable, cost-effective workforce solutions to a diverse set of customers across various industries in the United States.\nJob Description:\n\n· Sprint phone is required\n\n· Need to work from Denver work location in Englewood, CO\n\n· RF Design experience designing and deploying cell sites in the US\n\n· Strong RF design concepts including Model tuning, link budget, site placement / design, candidate reviews, deployment support and site turn up activities including reviewing / approving ATPs / Sweeps\n\n· 3-5 yrs experience working on Design tools like Atoll, MapInfo, Google Earth, Planet\n\n· Familiar with Samsung / Nokia OEM and equipment config\n\n· Familiar with processes to create RFDS / CIQ\n\n· Strong communication skills required and ability to work as an IC with minimal supervision\n\n· Basic RF Optimization / Performance skills is a plus\nQualifications:\n• Sprint phone is required\n• RF Design experience designing and deploying cell sites in the US\n\nAdditional Information:\n\nAll your information will be kept confidential according to EEO guidelines.",
     "job_is_remote": false,
-    "job_posted_at": "11 days ago",
-    "job_posted_at_timestamp": 1770336000,
-    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "Phoenix, AZ",
-    "job_city": "Phoenix",
-    "job_state": "Arizona",
-    "job_country": "US",
-    "job_latitude": 33.4482948,
-    "job_longitude": -112.07254879999999,
-    "job_benefits": [
-      "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DY1lWEjqJs9SPjwtOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor’s degree in Electrical Engineering, Physics, or a related technical field",
-        "Minimum of 5 years of experience in RFID, wireless communications, RF systems, RF propagation, or signal processing",
-        "Demonstrated expertise in RF engineering and problem-solving",
-        "Strong communication skills and experience in technical documentation",
-        "Proven ability to work across multidisciplinary teams and lead project planning and integration efforts",
-        "US citizenship is a requirement"
-      ],
-      "Benefits": [
-        "KBR offers a selection of competitive lifestyle benefits which could include 401K plan with company match, medical, dental, vision, life insurance, AD&D, flexible spending account, disability, paid time off, or flexible work schedule",
-        "We support career advancement through professional training and development"
-      ],
-      "Responsibilities": [
-        "Technical Professional – Specialty Engineering (RF Engineering Project Specialist) is responsible for leading the planning, coordination, and execution of complex RFID installation projects",
-        "This role ensures seamless integration of technical solutions, manages multidisciplinary teams, and maintains high standards of quality, safety, and customer satisfaction throughout the project lifecycle",
-        "Project Planning & Execution: Develop and manage detailed project plans; oversee antenna and network infrastructure installation; coordinate engineering, IT, and field teams",
-        "Technical Integration & Problem Solving: Lead troubleshooting efforts to resolve technical challenges during system implementation",
-        "Business Development Support: Assist in proposal development by creating bases of estimate, materials, and direct costs",
-        "Marketing Collaboration: Contribute to marketing materials that highlight technical capabilities and support business growth",
-        "Dispatch Process Execution: Manage personnel and resource deployment for each project phase",
-        "Quality Assurance & Team Integrity: Promote system quality and team accountability",
-        "Resource Strategy: Define staffing and material strategies to optimize project outcomes",
-        "Technical Analysis: Conduct performance validation and recommend engineering improvements",
-        "Technical Documentation: Prepare specifications, test plans, and reports to support compliance and project phases",
-        "Project Management: Lead or support small-scale projects, ensuring milestone achievement and quality standards",
-        "Teamwork: Collaborate with stakeholders to define requirements and resolve technical issues",
-        "Technical Knowledge Sharing: Mentor junior team members and foster technical growth"
-      ]
-    },
-    "job_onet_soc": "17207200",
-    "job_onet_job_zone": "4",
-    "id": "careers-kbr-com-us-en-job-r2118183-rf-engineer-project-specialist-on-site",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "EkS-FTDBLSzB9PmbAAAAAA==",
-    "job_title": "Senior Principal Engineer – RF Antenna Design",
-    "employer_name": "BAE Systems",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7mSp-X7rzAfSjAKzmxJnQCkTSdHmmuFkuo0W&s=0",
-    "employer_website": "https://www.baesystems.com",
-    "job_publisher": "BAE Systems",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.baesystems.com/global/en/job/118929BR/Senior-Principal-Engineer-RF-Antenna-Design?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "BAE Systems",
-        "apply_link": "https://jobs.baesystems.com/global/en/job/118929BR/Senior-Principal-Engineer-RF-Antenna-Design?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=3999f75292bec0c4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/senior-principal-engineer-rf-antenna-design-bae-systems-inc-JV_IC1148207_KO0,43_KE44,59.htm?jl=1009961699068&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/avc2jlDT77TH_scRZ8sEMtnLn4NjezzC24qe6a8JVLXkAf8dlwyLpQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/senior-principal-engineer-%E2%80%93-rf-antenna-design-at-bae-systems-inc-4348599731?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/2a45f591b543619d5961e02e07efda18?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JobRadars",
-        "apply_link": "https://jobradars.com/jobs/view/2115899?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Description\n\nThis engineering position will report to the manager of RF Solutions, primarily support the Tactical Solutions business unit of BAE Systems SMS, and will have Radio Frequency (RF) engineering as its area of specialization with design and test of RF antennas, systems, and components as the focus.\n\nThe Engineering, Science and Analysis (ESA) Strategic Capabilities Unit comprises the technical talent and organizational leadership that enables the successful delivery of high-impact discriminating technologies for our customers’ missions. Our collaborative, cross-functional teams are committed to innovation, integrity, continual learning and strong execution.\n\nWhat You’ll Do:\n• Be responsible for the hands-on design and realization of individual antennas, phased array antennas, RF circuits, passive RF components, and RF systems.\n• Use computational electromagnetic analysis software to design and predict performance on various types of antennas and apertures (spiral, sinuous, Vivaldi, patch, slot, horn, etc.).\n• Design frequency-selective surfaces (FSSs) for use with various radiating apertures.\n• Implement various design techniques (materials, shaping, etc.) for RCS mitigation where necessary.\n• Collaborate with other engineers and technicians to realize RF designs.\n• Participate and guide the testing of RF hardware for required performance metrics: VSWR, insertion loss, gain, polarization, radar cross section (RCS), etc.\n• Antenna requirement evaluation, initial concept trade-off and development, in-house and customer presentations, travel, and technical proposal writing and cost/schedule estimating.\n• Investigate new technologies and applications for radiating apertures, antennas, and RF systems.\n• Mentor and guide more junior engineers and technicians in the design, build, and test phases of RF projects and programs.\n• Provide technical solutions to a wide range of difficult problems involving antenna/sensor-based applications such as electronic warfare, electronic attack, electronic support measures, communications, geolocation, direction finding, etc.\n• Frequent inter-organizational and outside customer contacts. Represents the organization in providing solutions to difficult technical issues associated with specific projects.\n• Interface well with other people at all levels including customers, use initiative in applying solutions to assignments.\n• Provide technical input and support to proposals and new business opportunities.\n• Assist with the preparation and delivery of presentations.\n• Maintain a regular and predictable work schedule.\n• Establish and maintain effective working relationships within the department, the Strategic Business Units, Strategic Capabilities Units and the Company. Interact appropriately with others in order to maintain a positive and productive work environment.\n• Perform other duties as necessary.\n\nOn-Site Work Environment: This position requires regular in-person engagement by working on-site five days each normally scheduled week in the primary work location. Travel and local commute between company campuses and other possible non-company locations may be required.\n\nWorking Conditions:\n• Work is performed in an office, laboratory, production floor, or cleanroom, outdoors or remote research environment.\n• May occasionally work in production work centers where use of protective equipment and gear is required.\n• May access other facilities in various weather conditions.\nRequired Education, Experience, & Skills\n• BS degree or higher in Engineering or a related technical field is required plus 8 or more years related experience.\n• Each higher-level degree, i.e., Master’s Degree or Ph.D., may substitute for two years of experience. Related technical experience may be considered in lieu of education. Degree must be from a university, college, or school which is accredited by an agency recognized by the US Secretary of Education, US Department of Education.\n• Requires full competency in core RF engineering and antenna theory and skills and general knowledge of other related disciplines.\n• Solid communication skills.\n• Experience and skills to effectively contribute to successful producibility of designs and to cost, budget, and schedule control.\n• Experience with design of antennas and passive RF components (radiating elements, radomes, power dividers, couplers, transitions, multi-layer board designs, FSSs, etc.).\n• Analytical design experience using software and simulation tools such as AWR Microwave Office/Agilent ADS, CST, FEKO, HFSS, and SENTRI.\n• RF antenna testing experience utilizing network analyzers, PNAs, anechoic chambers, near-field ranges, etc.\n• Experience and proficiency in programming, data manipulation, and data visualization in MATLAB and Python.\n• Ability to schedule and execute measurements at internal and external facilities and perform measurement analysis and troubleshooting.\n• Demonstrated ability to apply technical expertise in RF engineering and to leverage knowledge of other related disciplines.\n• Demonstrated ability to lead RF efforts and tasks and to guide technical project teams toward the completion of program goals and milestones.\n#LI-LB2\n\nA security clearance or access with Polygraph is not required to be eligible for this position. However, the applicant must be willing and eligible for submission, depending on program requirements, after an offer is accepted and must be able to maintain the applicable clearance/access.\nPreferred Education, Experience, & Skills\n• Familiarity with and exposure to military and tactical communication and data systems / architectures.\n\nPay Information\nFull-Time Salary Range: $132962 - $226035\n\nPlease note: This range is based on our market pay structures. However, individual salaries are determined by a variety of factors including, but not limited to: business considerations, local market conditions, and internal equity, as well as candidate qualifications, such as skills, education, and experience.\n\nEmployee Benefits: At BAE Systems, we support our employees in all aspects of their life, including their health and financial well-being. Regular employees scheduled to work 20+ hours per week are offered: health, dental, and vision insurance; health savings accounts; a 401(k) savings plan; disability coverage; and life and accident insurance. We also have an employee assistance program, a legal plan, and other perks including discounts on things like home, auto, and pet insurance. Our leave programs include paid time off, paid holidays, as well as other types of leave, including paid parental, military, bereavement, and any applicable federal and state sick leave. Employees may participate in the company recognition program to receive monetary or non-monetary recognition awards. Other incentives may be available based on position level and/or job specifics.\nAbout BAE Systems Space & Mission Systems BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services. Improving the future and protecting lives is an ambitious mission, but it’s what we do at BAE Systems. Working here means using your passion and ingenuity where it counts – defending national security with breakthrough technology, superior products, and intelligence solutions. As you develop the latest technology and defend national security, you will continually hone your skills on a team—making a big impact on a global scale. At BAE Systems, you’ll find a rewarding career that truly makes a difference.\n\nHeadquartered in Boulder, Colorado, Space & Mission Systems is a leading provider of national defense and civil space applications, advanced remote sensing, scientific and tactical systems for government and commercial customers. We continually pioneer ways to innovate spacecraft, mission payloads, optical systems, and other defense and civil capabilities. Powered by endlessly curious people with an unwavering mission focus, we continually discover ways to enable our customers to perform beyond expectation and protect what matters most.\n\nThis position will be posted for at least 5 calendar days. The posting will remain active until the position is filled, or a qualified pool of candidates is identified.\n\nMultiple positions may be available on this opening.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Westminster, CO",
-    "job_city": "Westminster",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Englewood, CO",
+    "job_city": "Englewood",
     "job_state": "Colorado",
     "job_country": "US",
-    "job_latitude": 39.836652799999996,
-    "job_longitude": -105.0372046,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEkS-FTDBLSzB9PmbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 39.647765299999996,
+    "job_longitude": -104.9877597,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1mhx6YC2xjuWxH76AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "BS degree or higher in Engineering or a related technical field is required plus 8 or more years related experience",
-        "Each higher-level degree, i.e., Master’s Degree or Ph.D., may substitute for two years of experience",
-        "Related technical experience may be considered in lieu of education",
-        "Degree must be from a university, college, or school which is accredited by an agency recognized by the US Secretary of Education, US Department of Education",
-        "Requires full competency in core RF engineering and antenna theory and skills and general knowledge of other related disciplines",
-        "Solid communication skills",
-        "Experience and skills to effectively contribute to successful producibility of designs and to cost, budget, and schedule control",
-        "Experience with design of antennas and passive RF components (radiating elements, radomes, power dividers, couplers, transitions, multi-layer board designs, FSSs, etc.)",
-        "Analytical design experience using software and simulation tools such as AWR Microwave Office/Agilent ADS, CST, FEKO, HFSS, and SENTRI",
-        "RF antenna testing experience utilizing network analyzers, PNAs, anechoic chambers, near-field ranges, etc",
-        "Experience and proficiency in programming, data manipulation, and data visualization in MATLAB and Python",
-        "Ability to schedule and execute measurements at internal and external facilities and perform measurement analysis and troubleshooting",
-        "Demonstrated ability to apply technical expertise in RF engineering and to leverage knowledge of other related disciplines",
-        "Demonstrated ability to lead RF efforts and tasks and to guide technical project teams toward the completion of program goals and milestones",
-        "A security clearance or access with Polygraph is not required to be eligible for this position",
-        "However, the applicant must be willing and eligible for submission, depending on program requirements, after an offer is accepted and must be able to maintain the applicable clearance/access"
-      ],
-      "Benefits": [
-        "Full-Time Salary Range: $132962 - $226035",
-        "Please note: This range is based on our market pay structures",
-        "Employee Benefits: At BAE Systems, we support our employees in all aspects of their life, including their health and financial well-being",
-        "Regular employees scheduled to work 20+ hours per week are offered: health, dental, and vision insurance; health savings accounts; a 401(k) savings plan; disability coverage; and life and accident insurance",
-        "We also have an employee assistance program, a legal plan, and other perks including discounts on things like home, auto, and pet insurance",
-        "Our leave programs include paid time off, paid holidays, as well as other types of leave, including paid parental, military, bereavement, and any applicable federal and state sick leave",
-        "Employees may participate in the company recognition program to receive monetary or non-monetary recognition awards",
-        "Other incentives may be available based on position level and/or job specifics"
-      ],
-      "Responsibilities": [
-        "This engineering position will report to the manager of RF Solutions, primarily support the Tactical Solutions business unit of BAE Systems SMS, and will have Radio Frequency (RF) engineering as its area of specialization with design and test of RF antennas, systems, and components as the focus",
-        "Be responsible for the hands-on design and realization of individual antennas, phased array antennas, RF circuits, passive RF components, and RF systems",
-        "Use computational electromagnetic analysis software to design and predict performance on various types of antennas and apertures (spiral, sinuous, Vivaldi, patch, slot, horn, etc.)",
-        "Design frequency-selective surfaces (FSSs) for use with various radiating apertures",
-        "Implement various design techniques (materials, shaping, etc.) for RCS mitigation where necessary",
-        "Collaborate with other engineers and technicians to realize RF designs",
-        "Participate and guide the testing of RF hardware for required performance metrics: VSWR, insertion loss, gain, polarization, radar cross section (RCS), etc",
-        "Antenna requirement evaluation, initial concept trade-off and development, in-house and customer presentations, travel, and technical proposal writing and cost/schedule estimating",
-        "Investigate new technologies and applications for radiating apertures, antennas, and RF systems",
-        "Mentor and guide more junior engineers and technicians in the design, build, and test phases of RF projects and programs",
-        "Provide technical solutions to a wide range of difficult problems involving antenna/sensor-based applications such as electronic warfare, electronic attack, electronic support measures, communications, geolocation, direction finding, etc",
-        "Frequent inter-organizational and outside customer contacts",
-        "Represents the organization in providing solutions to difficult technical issues associated with specific projects",
-        "Interface well with other people at all levels including customers, use initiative in applying solutions to assignments",
-        "Provide technical input and support to proposals and new business opportunities",
-        "Assist with the preparation and delivery of presentations",
-        "Maintain a regular and predictable work schedule",
-        "Establish and maintain effective working relationships within the department, the Strategic Business Units, Strategic Capabilities Units and the Company",
-        "Interact appropriately with others in order to maintain a positive and productive work environment",
-        "Perform other duties as necessary",
-        "On-Site Work Environment: This position requires regular in-person engagement by working on-site five days each normally scheduled week in the primary work location",
-        "Travel and local commute between company campuses and other possible non-company locations may be required",
-        "Work is performed in an office, laboratory, production floor, or cleanroom, outdoors or remote research environment",
-        "May occasionally work in production work centers where use of protective equipment and gear is required",
-        "May access other facilities in various weather conditions"
+        "Sprint phone is required",
+        "RF Design experience designing and deploying cell sites in the US",
+        "Strong RF design concepts including Model tuning, link budget, site placement / design, candidate reviews, deployment support and site turn up activities including reviewing / approving ATPs / Sweeps",
+        "3-5 yrs experience working on Design tools like Atoll, MapInfo, Google Earth, Planet",
+        "Familiar with Samsung / Nokia OEM and equipment config",
+        "Familiar with processes to create RFDS / CIQ",
+        "Strong communication skills required and ability to work as an IC with minimal supervision",
+        "Sprint phone is required",
+        "RF Design experience designing and deploying cell sites in the US",
+        "Sprint phone is required",
+        "RF Design experience designing and deploying cell sites in the US",
+        "Strong RF design concepts including Model tuning, link budget, site placement / design, candidate reviews, deployment support and site turn up activities including reviewing / approving ATPs / Sweeps",
+        "3-5 yrs experience working on Design tools like Atoll, MapInfo, Google Earth, Planet",
+        "Familiar with Samsung / Nokia OEM and equipment config",
+        "Familiar with processes to create RFDS / CIQ",
+        "Strong communication skills required and ability to work as an IC with minimal supervision",
+        "Sprint phone is required",
+        "RF Design experience designing and deploying cell sites in the US"
       ]
     },
     "job_onet_soc": "17207200",
     "job_onet_job_zone": "4",
-    "id": "jobs-baesystems-com-global-en-job-118929br-senior-principal-engineer-rf-antenna-design",
+    "id": "www-snagajob-com-jobs-1170512037",
     "_source": "new_jobs"
   }
 ]
