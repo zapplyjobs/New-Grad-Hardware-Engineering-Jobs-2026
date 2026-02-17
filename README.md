@@ -9,16 +9,16 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-7-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
-![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-5-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-6-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)
+![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-6-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 7+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 7+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 4+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 6+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,25 +69,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/hej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>⚡ <strong>Hardware Engineer</strong> (5 positions)</h3></summary>
+<summary><h3>⚡ <strong>Hardware Engineer</strong> (6 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Cisco** | ASIC Physical Design Engineer - ... | Maynard, Massachusetts | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/CISCISGLOBAL2008903EXTERNALENGLOBAL/ASIC-Physical-Design-Engineer-Maynard-MA-or-Austin-TX?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Amentum** | PCB Designer - NASA Avionics Sys... | Houston, Texas | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amentumcareers.com/jobs/pcb-designer-nasa-avionics-systems-houston-texas-united-states-e058a36b-1108-4b3d-85a9-e0ef305803d4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **VirtualVocations** | PCB Designer | Oxnard, California | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=a3e891463904&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Space Exploration Technologies** | PCB Designer | Redmond, Washington | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/fd94e652c6d25ebdcf378bc6728125ee?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Marotta Controls, Inc.** | ECAD Designer (PCB Designer) 🇺🇸 | Far Hills, New Jersey | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/far-hills-nj/ecad-designer-pcb-designer-336168/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-</details>
-
-<details>
-<summary><h3>🔲 <strong>FPGA/ASIC</strong> (2 positions)</h3></summary>
-
-| Company | Role | Location | Posted | Level | Apply |
-|---------|------|----------|--------|-------|-------|
-| 🚀 **Lockheed Martin** | Printed Circuit Board (PCB) Desi... 🏠 | Remote | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/printed-circuit-board-pcb-designer-iii-at-lockheed-martin-4372208404?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **General Dynamics Mission Systems** | Altium PCB Designer | Julian, North Carolina | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/julian-nc/altium-pcb-designer-021605/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🔶 **AMD** | Software Development Engineer - ... | US, CA | Recently | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/67191/login) |
+| 🏢 **AI Jobs** | Computer Vision Engineer | Boston, MA | Recently | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.aijobs.com/jobs/156873391-computer-vision-engineer) |
+| 🏢 **AI Jobs** | Mechanical Engineer - TeleOp | San Jose, CA | Recently | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.aijobs.com/jobs/158835765-mechanical-engineer-teleop) |
+| 🏢 **AI Jobs** | Computer Vision Engineer | Salt Lake City, UT | Recently | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.aijobs.com/jobs/156608307-computer-vision-engineer) |
+| 🏢 **GE Vernova** | Electronics Hardware Engineer | Niskayuna, New York | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.gevernova.com/electronics-hardware-engineer/job/R5030768?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **gpac** | Electrical Hardware Design Engineer | Oconomowoc, Wisconsin | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://lensa.com/job-v1/gpac/oconomowoc-wi/electrical-hardware-engineer/071cb4759c658dcff010c1fe4647d7ce?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -148,16 +139,24 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 0 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 0 positions
-- **🏢 Companies**: 7 companies
-- **🏷️ Top Category**: Software Engineering
+- **📁 Total Jobs**: 2 positions
+- **🏢 Companies**: 4 companies
+- **🏷️ Top Category**: Hardware Engineer
+
+<details>
+<summary><h3>⚡ <strong>Hardware Engineer</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+| ✈️ **Northrop Grumman** | Associate Engineer / Electronic ... | Xenia, Ohio | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://refresh.cv/jobs/northrop-grumman/41ba0167-8297-40ec-a788-57adbbd47367?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Teradyne** | Hardware Engineer (NEXTEST; Tual... | Tualatin, Oregon | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.teradyne.com/Teradyne/job/Tualatin-Hardware-Engineer-%28NEXTEST-Tualatin%2C-OR%29-OR/1331177300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+
 
 </details>
 
@@ -167,7 +166,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 7 current opportunities from 7 companies**
+**🎯 6 current opportunities from 4 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
