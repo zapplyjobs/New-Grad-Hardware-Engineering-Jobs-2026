@@ -647,7 +647,7 @@
     "job_title": "Firmware Engineering Intern",
     "employer_name": "dormakaba USA Inc.",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpIuUwOdwkS0zl3P3kJuJ-_beLvgFmUfL1t7bJ&s=0",
-    "employer_website": "https://www.dormakaba.com",
+    "employer_website": "https://go.dormakaba.com",
     "job_publisher": "Dormakaba International Holding AG",
     "job_employment_type": "Full-time",
     "job_employment_types": [
@@ -704,9 +704,9 @@
     "job_latitude": 38.0389091,
     "job_longitude": -84.5152662,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzOit6IhRGwX6YJEIAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -754,6 +754,162 @@
     "job_onet_soc": "15113300",
     "job_onet_job_zone": "4",
     "id": "jobs-dormakaba-com-job-lexington-firmware-engineering-intern-ky-40511-1291964101",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "57KU_YAOtqHUx-VgAAAAAA==",
+    "job_title": "Senior Firmware Engineer",
+    "employer_name": "Advanced Energy Industries, Inc",
+    "employer_logo": null,
+    "employer_website": "https://www.advancedenergy.com",
+    "job_publisher": "Advanced Energy Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.advanced-energy.com/job/Wilmington-Senior-Firmware-Engineer-MA-01887/1231614200/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Advanced Energy Careers",
+        "apply_link": "https://jobs.advanced-energy.com/job/Wilmington-Senior-Firmware-Engineer-MA-01887/1231614200/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=ff4cc4ce29aabfe5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/senior-firmware-engineer-wilmington-advanced-energy-722dd5dd45a875ce2ae3d7d65ecf0da8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/L5xTbQN61Xpt7CIw_NfOHYtCOfSZtee9CcSOR4TNecopMRFA-PElQA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/c7b34a138165f9144825cd915828f214?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/senior-firmware-engineer-advanced-energy-JV_IC1154726_KO0,24_KE25,40.htm?jl=1010019199633&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Hardware FYI",
+        "apply_link": "https://jobs.hardwarefyi.com/job/advanced-energy-senior-firmware-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "EarnBetter",
+        "apply_link": "https://earnbetter.com/app/job/01JM2QF5JPS9N41W3MHH1CY40W/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "ABOUT ADVANCED ENERGY\n\nAdvanced Energy (Nasdaq: AEIS) is a global leader in the design and manufacturing of highly engineered, precision power conversion, measurement and control solutions for mission-critical applications and processes. AE’s power solutions enable customer innovation in complex applications for a wide range of industries including semiconductor equipment, industrial, manufacturing, telecommunications, data center computing and healthcare. Advanced Energy has devoted four decades to perfecting power for its global customers and is headquartered in Denver, Colorado.\n\nPOSITION SUMMARY:\n\nA Firmware Engineer will design, modify, and evaluate embedded software, and/or programmable logic and/or electronic apparatus, components, or circuitry for use in electronic equipment and devices. You will perform engineering work in basic and applied research, development, and/or design of new products and/or sustaining of existing products. Future possibilities may include electrical design and FPGA work if there is talent and interest.\n\nRESPONSIBILITIES:\n• Participates in all phases of the Firmware development life cycle, including requirements analysis, design, implementation, integration, and test of all products.\n• Responsible for research, design, and development of computer software systems, in conjunction with hardware product development.\n• Applies computer science, engineering, and mathematical analysis concepts and principles in the development of software for the target application.\n• Demonstrates and applies comprehensive knowledge of power electronics and controls design to the successful completion of complex projects\n• Works closely with cross functional members of the engineering organization to develop and evaluate interfaces between hardware and software, and operational performance requirements and design of the overall system.\n• Develop software test procedures, software programs, and related documentation.\n• Contributes to determining, estimating, and validating the cost and scope of software efforts to ensure software performed meets program cost, schedule, and technical constraints.\n• Develop C++ Applications on embedded Systems including FPGAs and SOCs.\n• Implement assigned projects and project tasks to provide software engineering solutions including software design, documentation, verification and validation, used in evaluating, testing and processing high fidelity data acquisition systems.\n• Implement advanced software development techniques in compliance with technical reference architecture\n• Participate in on-going code reviews to improve software stability and maintainability of an aging code base\n• Perform technical review, design analysis, development and selection of hardware and mission critical computer software.\n\nWORK ENVIRONMENT:\n• Location: Wilmington, MA; Some domestic and international travel may be required  \n• Environment: Standard office environment, possible interaction through a production factory environment; uses electronic equipment and can work with high voltage    \n\nQUALIFICATIONS:\n• Demonstrates a sense of urgency and unmatched responsiveness to all work requests and customer deadlines.\n• Demonstrates a consistent, dependable work effort and accepts accountability for one’s actions\n• Completes assigned tasks within specified time limits.\n• Helps promote a cohesive and cooperative work group.\n• Understands safety regulations, takes proper care of equipment, and acts in a safe manner.\n• Strong communication skills, ability to present ideas in a clear and persuasive manner, both orally and in writing\n• Capability to respond quickly, decisively, and professionally to changing requirements\n• Excellent judgment and initiative, including the ability to effectively balance multiple priorities\n• Good analytical and problem-solving tools\n• Good interpersonal skills. Capable of team building (external & internal) to drive cross-functional collaboration\n• Strong priority setting skills, desire to meet project, tasks, and/or assignment deadlines\n• Can work with minimal supervision, with ability to multi-task in a dynamic environment\n\nEXPERIENCE:\n\nEssential\n• Proven working minimum 6 years of valid experience in embedded firmware/software engineering\n• Background in Power Electronics and/or Power Conversion disciplines\n• Experience in hands-on development and troubleshooting on embedded targets\n• Solid programming experience in C or C++\n• Proven experience in digital control of feedback systems\n• Proven experience in embedded systems design with preemptive, multitasking real-time algorithms and operating systems\n• Familiarity with software configuration management tools, defect tracking tools, unit code testing and peer review\n• Excellent knowledge of OS coding techniques, IP protocols, interfaces and hardware subsystems\n• Adequate knowledge of reading schematics and data sheets for components\n\nDesirable\n• Advanced Degree in Engineering or Physics\n• Knowledge of a scripting language (Python, Matlab)\n• Knowledge of RF Power Design\n• Knowledge of digital signal processing (DSP) and algorithm development experience. (Digital PLLs, Digital Filters, Array Processing, etc)\n• Programming experience in Visual Basic environment\n• Excellent mathematical and analytical skills\n• Ability to work well in a team environment\n• Experience in medical device firmware and/or designing in compliance with IEC 62304 an advantage\n• Experience in various forms of industrial communication protocols an advantage\n• VHDL and / or Verilog programming\n\nEDUCATION:\n• Bachelor’s Degree in Engineering or Computer Science\n\nCOMPENSATION:\n\nAs required by multiple state pay transparency laws, Advanced Energy provides a reasonable range of compensation for each job posting. Actual compensation is influenced by an array of factors including, but not limited to, skill set, level of experience, and specific office location. The range of starting pay for this role is $125,000 to $148,000 per year.\n\nBENEFITS:\n\nAs part of our total rewards philosophy, we believe in offering and maintaining competitive compensation and benefits programs for our employees to attract and retain a talented, highly engaged workforce. Our compensation programs are focused on equitable, fair pay practices including market-based base pay, an annual pay-for-performance incentive plan for eligible positions, and a discounted Employee Stock Purchase Plan.\n\nIn addition to our competitive compensation practices, we offer a strong benefits package in each of the countries in which we operate. In the U.S., we offer a rich benefits package that includes:\n• Medical - multiple medical plans are available to choose from\n• Short and long-term disability and life insurance\n• Health savings and flexible spending accounts\n• Generous time off policy starting with 3 weeks of paid vacation, 7 days of paid sick time, and 12 paid holidays\n• 8 hours of paid volunteer time off\n• 8 weeks of paid parental leave for both Moms and Dads\n• Company matched 401(k)\n• Tuition reimbursement\n• Expanded mental health coverage and employee assistance programs\n• Other voluntary benefits include critical illness, accident and hospital indemnity, pet insurance, identify theft, and legal assistance\n\nAdvanced Energy is committed to diversity in its workforce including Equal Opportunity Employment. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, and/or veteran status.\n\nAdvanced Energy is also committed to providing reasonable accommodations in our job application process/procedures for qualified individuals with disabilities. If you require assistance in completing an Advanced Energy application, please reach out to HumanResources@aei.com",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771200000,
+    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
+    "job_location": "Wilmington, MA",
+    "job_city": "Wilmington",
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.5481714,
+    "job_longitude": -71.1724467,
+    "job_benefits": [
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D57KU_YAOtqHUx-VgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Demonstrates a sense of urgency and unmatched responsiveness to all work requests and customer deadlines",
+        "Demonstrates a consistent, dependable work effort and accepts accountability for one’s actions",
+        "Understands safety regulations, takes proper care of equipment, and acts in a safe manner",
+        "Strong communication skills, ability to present ideas in a clear and persuasive manner, both orally and in writing",
+        "Capability to respond quickly, decisively, and professionally to changing requirements",
+        "Excellent judgment and initiative, including the ability to effectively balance multiple priorities",
+        "Good analytical and problem-solving tools",
+        "Good interpersonal skills",
+        "Capable of team building (external & internal) to drive cross-functional collaboration",
+        "Can work with minimal supervision, with ability to multi-task in a dynamic environment",
+        "Proven working minimum 6 years of valid experience in embedded firmware/software engineering",
+        "Background in Power Electronics and/or Power Conversion disciplines",
+        "Experience in hands-on development and troubleshooting on embedded targets",
+        "Solid programming experience in C or C++",
+        "Proven experience in digital control of feedback systems",
+        "Proven experience in embedded systems design with preemptive, multitasking real-time algorithms and operating systems",
+        "Familiarity with software configuration management tools, defect tracking tools, unit code testing and peer review",
+        "Excellent knowledge of OS coding techniques, IP protocols, interfaces and hardware subsystems",
+        "Adequate knowledge of reading schematics and data sheets for components",
+        "Advanced Degree in Engineering or Physics",
+        "Knowledge of a scripting language (Python, Matlab)",
+        "Knowledge of RF Power Design",
+        "Knowledge of digital signal processing (DSP) and algorithm development experience",
+        "(Digital PLLs, Digital Filters, Array Processing, etc)",
+        "Programming experience in Visual Basic environment",
+        "Excellent mathematical and analytical skills",
+        "Ability to work well in a team environment",
+        "Experience in medical device firmware and/or designing in compliance with IEC 62304 an advantage",
+        "Experience in various forms of industrial communication protocols an advantage",
+        "VHDL and / or Verilog programming",
+        "Bachelor’s Degree in Engineering or Computer Science"
+      ],
+      "Benefits": [
+        "As required by multiple state pay transparency laws, Advanced Energy provides a reasonable range of compensation for each job posting",
+        "Actual compensation is influenced by an array of factors including, but not limited to, skill set, level of experience, and specific office location",
+        "The range of starting pay for this role is $125,000 to $148,000 per year",
+        "As part of our total rewards philosophy, we believe in offering and maintaining competitive compensation and benefits programs for our employees to attract and retain a talented, highly engaged workforce",
+        "Our compensation programs are focused on equitable, fair pay practices including market-based base pay, an annual pay-for-performance incentive plan for eligible positions, and a discounted Employee Stock Purchase Plan",
+        "In addition to our competitive compensation practices, we offer a strong benefits package in each of the countries in which we operate",
+        "In the U.S., we offer a rich benefits package that includes:",
+        "Medical - multiple medical plans are available to choose from",
+        "Short and long-term disability and life insurance",
+        "Health savings and flexible spending accounts",
+        "Generous time off policy starting with 3 weeks of paid vacation, 7 days of paid sick time, and 12 paid holidays",
+        "8 hours of paid volunteer time off",
+        "8 weeks of paid parental leave for both Moms and Dads",
+        "Company matched 401(k)",
+        "Tuition reimbursement",
+        "Expanded mental health coverage and employee assistance programs",
+        "Other voluntary benefits include critical illness, accident and hospital indemnity, pet insurance, identify theft, and legal assistance"
+      ],
+      "Responsibilities": [
+        "A Firmware Engineer will design, modify, and evaluate embedded software, and/or programmable logic and/or electronic apparatus, components, or circuitry for use in electronic equipment and devices",
+        "You will perform engineering work in basic and applied research, development, and/or design of new products and/or sustaining of existing products",
+        "Future possibilities may include electrical design and FPGA work if there is talent and interest",
+        "Participates in all phases of the Firmware development life cycle, including requirements analysis, design, implementation, integration, and test of all products",
+        "Responsible for research, design, and development of computer software systems, in conjunction with hardware product development",
+        "Applies computer science, engineering, and mathematical analysis concepts and principles in the development of software for the target application",
+        "Demonstrates and applies comprehensive knowledge of power electronics and controls design to the successful completion of complex projects",
+        "Works closely with cross functional members of the engineering organization to develop and evaluate interfaces between hardware and software, and operational performance requirements and design of the overall system",
+        "Develop software test procedures, software programs, and related documentation",
+        "Contributes to determining, estimating, and validating the cost and scope of software efforts to ensure software performed meets program cost, schedule, and technical constraints",
+        "Develop C++ Applications on embedded Systems including FPGAs and SOCs",
+        "Implement assigned projects and project tasks to provide software engineering solutions including software design, documentation, verification and validation, used in evaluating, testing and processing high fidelity data acquisition systems",
+        "Implement advanced software development techniques in compliance with technical reference architecture",
+        "Participate in on-going code reviews to improve software stability and maintainability of an aging code base",
+        "Perform technical review, design analysis, development and selection of hardware and mission critical computer software",
+        "Location: Wilmington, MA; Some domestic and international travel may be required  ",
+        "Environment: Standard office environment, possible interaction through a production factory environment; uses electronic equipment and can work with high voltage    ",
+        "Completes assigned tasks within specified time limits",
+        "Helps promote a cohesive and cooperative work group",
+        "Strong priority setting skills, desire to meet project, tasks, and/or assignment deadlines"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "jobs-advanced-energy-com-job-wilmington-senior-firmware-engineer-ma-01887-1231614200",
     "_source": "new_jobs"
   },
   {
@@ -823,8 +979,8 @@
     "job_latitude": 41.058623399999995,
     "job_longitude": -74.7536066,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
+      "paid_time_off",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUUV847uJNFwzOD4fAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -985,162 +1141,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "57KU_YAOtqHUx-VgAAAAAA==",
-    "job_title": "Senior Firmware Engineer",
-    "employer_name": "Advanced Energy Industries, Inc",
-    "employer_logo": null,
-    "employer_website": "https://www.advancedenergy.com",
-    "job_publisher": "Advanced Energy Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.advanced-energy.com/job/Wilmington-Senior-Firmware-Engineer-MA-01887/1231614200/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Advanced Energy Careers",
-        "apply_link": "https://jobs.advanced-energy.com/job/Wilmington-Senior-Firmware-Engineer-MA-01887/1231614200/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=ff4cc4ce29aabfe5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Advanced-Energy/Job/Senior-Firmware-Engineer/-in-Wilmington,MA?jid=3460af3a43bcb983&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/senior-firmware-engineer-wilmington-advanced-energy-722dd5dd45a875ce2ae3d7d65ecf0da8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/c7b34a138165f9144825cd915828f214?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/senior-firmware-engineer-advanced-energy-JV_IC1154726_KO0,24_KE25,40.htm?jl=1010019199633&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Hardware FYI",
-        "apply_link": "https://jobs.hardwarefyi.com/job/advanced-energy-senior-firmware-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "EarnBetter",
-        "apply_link": "https://earnbetter.com/app/job/01JM2QF5JPS9N41W3MHH1CY40W/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "ABOUT ADVANCED ENERGY\n\nAdvanced Energy (Nasdaq: AEIS) is a global leader in the design and manufacturing of highly engineered, precision power conversion, measurement and control solutions for mission-critical applications and processes. AE’s power solutions enable customer innovation in complex applications for a wide range of industries including semiconductor equipment, industrial, manufacturing, telecommunications, data center computing and healthcare. Advanced Energy has devoted four decades to perfecting power for its global customers and is headquartered in Denver, Colorado.\n\nPOSITION SUMMARY:\n\nA Firmware Engineer will design, modify, and evaluate embedded software, and/or programmable logic and/or electronic apparatus, components, or circuitry for use in electronic equipment and devices. You will perform engineering work in basic and applied research, development, and/or design of new products and/or sustaining of existing products. Future possibilities may include electrical design and FPGA work if there is talent and interest.\n\nRESPONSIBILITIES:\n• Participates in all phases of the Firmware development life cycle, including requirements analysis, design, implementation, integration, and test of all products.\n• Responsible for research, design, and development of computer software systems, in conjunction with hardware product development.\n• Applies computer science, engineering, and mathematical analysis concepts and principles in the development of software for the target application.\n• Demonstrates and applies comprehensive knowledge of power electronics and controls design to the successful completion of complex projects\n• Works closely with cross functional members of the engineering organization to develop and evaluate interfaces between hardware and software, and operational performance requirements and design of the overall system.\n• Develop software test procedures, software programs, and related documentation.\n• Contributes to determining, estimating, and validating the cost and scope of software efforts to ensure software performed meets program cost, schedule, and technical constraints.\n• Develop C++ Applications on embedded Systems including FPGAs and SOCs.\n• Implement assigned projects and project tasks to provide software engineering solutions including software design, documentation, verification and validation, used in evaluating, testing and processing high fidelity data acquisition systems.\n• Implement advanced software development techniques in compliance with technical reference architecture\n• Participate in on-going code reviews to improve software stability and maintainability of an aging code base\n• Perform technical review, design analysis, development and selection of hardware and mission critical computer software.\n\nWORK ENVIRONMENT:\n• Location: Wilmington, MA; Some domestic and international travel may be required  \n• Environment: Standard office environment, possible interaction through a production factory environment; uses electronic equipment and can work with high voltage    \n\nQUALIFICATIONS:\n• Demonstrates a sense of urgency and unmatched responsiveness to all work requests and customer deadlines.\n• Demonstrates a consistent, dependable work effort and accepts accountability for one’s actions\n• Completes assigned tasks within specified time limits.\n• Helps promote a cohesive and cooperative work group.\n• Understands safety regulations, takes proper care of equipment, and acts in a safe manner.\n• Strong communication skills, ability to present ideas in a clear and persuasive manner, both orally and in writing\n• Capability to respond quickly, decisively, and professionally to changing requirements\n• Excellent judgment and initiative, including the ability to effectively balance multiple priorities\n• Good analytical and problem-solving tools\n• Good interpersonal skills. Capable of team building (external & internal) to drive cross-functional collaboration\n• Strong priority setting skills, desire to meet project, tasks, and/or assignment deadlines\n• Can work with minimal supervision, with ability to multi-task in a dynamic environment\n\nEXPERIENCE:\n\nEssential\n• Proven working minimum 6 years of valid experience in embedded firmware/software engineering\n• Background in Power Electronics and/or Power Conversion disciplines\n• Experience in hands-on development and troubleshooting on embedded targets\n• Solid programming experience in C or C++\n• Proven experience in digital control of feedback systems\n• Proven experience in embedded systems design with preemptive, multitasking real-time algorithms and operating systems\n• Familiarity with software configuration management tools, defect tracking tools, unit code testing and peer review\n• Excellent knowledge of OS coding techniques, IP protocols, interfaces and hardware subsystems\n• Adequate knowledge of reading schematics and data sheets for components\n\nDesirable\n• Advanced Degree in Engineering or Physics\n• Knowledge of a scripting language (Python, Matlab)\n• Knowledge of RF Power Design\n• Knowledge of digital signal processing (DSP) and algorithm development experience. (Digital PLLs, Digital Filters, Array Processing, etc)\n• Programming experience in Visual Basic environment\n• Excellent mathematical and analytical skills\n• Ability to work well in a team environment\n• Experience in medical device firmware and/or designing in compliance with IEC 62304 an advantage\n• Experience in various forms of industrial communication protocols an advantage\n• VHDL and / or Verilog programming\n\nEDUCATION:\n• Bachelor’s Degree in Engineering or Computer Science\n\nCOMPENSATION:\n\nAs required by multiple state pay transparency laws, Advanced Energy provides a reasonable range of compensation for each job posting. Actual compensation is influenced by an array of factors including, but not limited to, skill set, level of experience, and specific office location. The range of starting pay for this role is $125,000 to $148,000 per year.\n\nBENEFITS:\n\nAs part of our total rewards philosophy, we believe in offering and maintaining competitive compensation and benefits programs for our employees to attract and retain a talented, highly engaged workforce. Our compensation programs are focused on equitable, fair pay practices including market-based base pay, an annual pay-for-performance incentive plan for eligible positions, and a discounted Employee Stock Purchase Plan.\n\nIn addition to our competitive compensation practices, we offer a strong benefits package in each of the countries in which we operate. In the U.S., we offer a rich benefits package that includes:\n• Medical - multiple medical plans are available to choose from\n• Short and long-term disability and life insurance\n• Health savings and flexible spending accounts\n• Generous time off policy starting with 3 weeks of paid vacation, 7 days of paid sick time, and 12 paid holidays\n• 8 hours of paid volunteer time off\n• 8 weeks of paid parental leave for both Moms and Dads\n• Company matched 401(k)\n• Tuition reimbursement\n• Expanded mental health coverage and employee assistance programs\n• Other voluntary benefits include critical illness, accident and hospital indemnity, pet insurance, identify theft, and legal assistance\n\nAdvanced Energy is committed to diversity in its workforce including Equal Opportunity Employment. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, and/or veteran status.\n\nAdvanced Energy is also committed to providing reasonable accommodations in our job application process/procedures for qualified individuals with disabilities. If you require assistance in completing an Advanced Energy application, please reach out to HumanResources@aei.com",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771200000,
-    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
-    "job_location": "Wilmington, MA",
-    "job_city": "Wilmington",
-    "job_state": "Massachusetts",
-    "job_country": "US",
-    "job_latitude": 42.5481714,
-    "job_longitude": -71.1724467,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D57KU_YAOtqHUx-VgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Demonstrates a sense of urgency and unmatched responsiveness to all work requests and customer deadlines",
-        "Demonstrates a consistent, dependable work effort and accepts accountability for one’s actions",
-        "Understands safety regulations, takes proper care of equipment, and acts in a safe manner",
-        "Strong communication skills, ability to present ideas in a clear and persuasive manner, both orally and in writing",
-        "Capability to respond quickly, decisively, and professionally to changing requirements",
-        "Excellent judgment and initiative, including the ability to effectively balance multiple priorities",
-        "Good analytical and problem-solving tools",
-        "Good interpersonal skills",
-        "Capable of team building (external & internal) to drive cross-functional collaboration",
-        "Can work with minimal supervision, with ability to multi-task in a dynamic environment",
-        "Proven working minimum 6 years of valid experience in embedded firmware/software engineering",
-        "Background in Power Electronics and/or Power Conversion disciplines",
-        "Experience in hands-on development and troubleshooting on embedded targets",
-        "Solid programming experience in C or C++",
-        "Proven experience in digital control of feedback systems",
-        "Proven experience in embedded systems design with preemptive, multitasking real-time algorithms and operating systems",
-        "Familiarity with software configuration management tools, defect tracking tools, unit code testing and peer review",
-        "Excellent knowledge of OS coding techniques, IP protocols, interfaces and hardware subsystems",
-        "Adequate knowledge of reading schematics and data sheets for components",
-        "Advanced Degree in Engineering or Physics",
-        "Knowledge of a scripting language (Python, Matlab)",
-        "Knowledge of RF Power Design",
-        "Knowledge of digital signal processing (DSP) and algorithm development experience",
-        "(Digital PLLs, Digital Filters, Array Processing, etc)",
-        "Programming experience in Visual Basic environment",
-        "Excellent mathematical and analytical skills",
-        "Ability to work well in a team environment",
-        "Experience in medical device firmware and/or designing in compliance with IEC 62304 an advantage",
-        "Experience in various forms of industrial communication protocols an advantage",
-        "VHDL and / or Verilog programming",
-        "Bachelor’s Degree in Engineering or Computer Science"
-      ],
-      "Benefits": [
-        "As required by multiple state pay transparency laws, Advanced Energy provides a reasonable range of compensation for each job posting",
-        "Actual compensation is influenced by an array of factors including, but not limited to, skill set, level of experience, and specific office location",
-        "The range of starting pay for this role is $125,000 to $148,000 per year",
-        "As part of our total rewards philosophy, we believe in offering and maintaining competitive compensation and benefits programs for our employees to attract and retain a talented, highly engaged workforce",
-        "Our compensation programs are focused on equitable, fair pay practices including market-based base pay, an annual pay-for-performance incentive plan for eligible positions, and a discounted Employee Stock Purchase Plan",
-        "In addition to our competitive compensation practices, we offer a strong benefits package in each of the countries in which we operate",
-        "In the U.S., we offer a rich benefits package that includes:",
-        "Medical - multiple medical plans are available to choose from",
-        "Short and long-term disability and life insurance",
-        "Health savings and flexible spending accounts",
-        "Generous time off policy starting with 3 weeks of paid vacation, 7 days of paid sick time, and 12 paid holidays",
-        "8 hours of paid volunteer time off",
-        "8 weeks of paid parental leave for both Moms and Dads",
-        "Company matched 401(k)",
-        "Tuition reimbursement",
-        "Expanded mental health coverage and employee assistance programs",
-        "Other voluntary benefits include critical illness, accident and hospital indemnity, pet insurance, identify theft, and legal assistance"
-      ],
-      "Responsibilities": [
-        "A Firmware Engineer will design, modify, and evaluate embedded software, and/or programmable logic and/or electronic apparatus, components, or circuitry for use in electronic equipment and devices",
-        "You will perform engineering work in basic and applied research, development, and/or design of new products and/or sustaining of existing products",
-        "Future possibilities may include electrical design and FPGA work if there is talent and interest",
-        "Participates in all phases of the Firmware development life cycle, including requirements analysis, design, implementation, integration, and test of all products",
-        "Responsible for research, design, and development of computer software systems, in conjunction with hardware product development",
-        "Applies computer science, engineering, and mathematical analysis concepts and principles in the development of software for the target application",
-        "Demonstrates and applies comprehensive knowledge of power electronics and controls design to the successful completion of complex projects",
-        "Works closely with cross functional members of the engineering organization to develop and evaluate interfaces between hardware and software, and operational performance requirements and design of the overall system",
-        "Develop software test procedures, software programs, and related documentation",
-        "Contributes to determining, estimating, and validating the cost and scope of software efforts to ensure software performed meets program cost, schedule, and technical constraints",
-        "Develop C++ Applications on embedded Systems including FPGAs and SOCs",
-        "Implement assigned projects and project tasks to provide software engineering solutions including software design, documentation, verification and validation, used in evaluating, testing and processing high fidelity data acquisition systems",
-        "Implement advanced software development techniques in compliance with technical reference architecture",
-        "Participate in on-going code reviews to improve software stability and maintainability of an aging code base",
-        "Perform technical review, design analysis, development and selection of hardware and mission critical computer software",
-        "Location: Wilmington, MA; Some domestic and international travel may be required  ",
-        "Environment: Standard office environment, possible interaction through a production factory environment; uses electronic equipment and can work with high voltage    ",
-        "Completes assigned tasks within specified time limits",
-        "Helps promote a cohesive and cooperative work group",
-        "Strong priority setting skills, desire to meet project, tasks, and/or assignment deadlines"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "jobs-advanced-energy-com-job-wilmington-senior-firmware-engineer-ma-01887-1231614200",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "pEAvkJRoziOBTa8ZAAAAAA==",
     "job_title": "Firmware Engineer",
     "employer_name": "Vertiv Co",
@@ -1291,8 +1291,8 @@
     "job_latitude": 42.0816936,
     "job_longitude": -88.02899839999999,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
+      "paid_time_off",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DxJSISfLD_ZUzNcWkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1377,9 +1377,9 @@
     ],
     "job_description": "Description\n\nLooking for an opportunity to make an impact?\n\nAt Leidos, we deliver innovative solutions through the efforts of our diverse and talented people who are dedicated to our customers’ success. We empower our teams, contribute to our communities, and operate sustainable. Everything we do is built on a commitment to do the right thing for our customers, our people, and our community. Our Mission, Vision, and Values guide the way we do business.\n\nYour greatest work is ahead!\n\nLeidos Dynetics Defense Systems is seeking a Firmware Engineer to create unique solutions for complex problems. With offices across the United States engaging in the defense, space, cyber and commercial fields, Leidos Dynetics provides responsive, cost-effective engineering, scientific and IT solutions. This position affords new or experienced engineers continued opportunities to learn and grow in technical knowledge of sensor and radar systems. The department encourages and frequently incorporates new ideas from all employees into our many sensor projects which span the entire DoD ecosystem. Opportunities for advancement into senior technical roles, as well as project or personnel management are also available.\n\nIf this sounds like the kind of environment where you can thrive, keep reading!\n\nLeidos Defense Systems Sector provides a diverse portfolio of systems, solutions, and services covering land, sea, air, space, and cyberspace for customers worldwide. Solutions for Defense include enterprise and mission IT, large-scale intelligence systems, command and control, geospatial and data analytics, cybersecurity, logistics, training, and intelligence analysis and operations support. Our team is solving the world’s toughest security challenges for customers with “can’t fail” missions. To explore and learn more, click here!\n\nAre you ready to make an impact? Share your resume with us today!\n\nPrimary Responsibilities\n\nCandidate will support the design, implementation, and integration of advanced radar technologies into new and existing sensor programs. Firmware development and system integration activities include, but are not limited to, high-speed data acquisition, data distribution, real-time signal processing, integration of COTS and custom technologies into prototype sensor systems, field testing of RF sensors and systems, and CONUS/OCONUS deployment of advanced sensor systems.\n\nCandidate will be assigned a variety of tasks related to the design and implementation of real-time prototype sensors. You will be exposed to a wide range of firmware and computer engineering technologies and will have the opportunity to learn from working directly alongside experienced engineers and have direct influence on multiple projects.\n\nBasic Qualifications\n• Bachelor's degree in Electrical Engineering, Computer Engineering, or Computer Science from an ABET-accredited school. Plus 4-8 years of relevant experience or Masters with 2 – 6 years of prior relevant experience.\n• Candidate must possess excellent teamwork skills and demonstrate good fundamental knowledge of one or more of the following:\n• Embedded software experience (e.g. Zynq SoC, FreeRTOS, or Arduino)\n• Some VHDL and/or FPGA experience\n• Python experience\n• An interest in signal processing\n• Linux familiarity\n• Ability to create design documentation, requirements specifications, and other technical documentation\n• Highly organized, demonstrating the ability to work independently at times due to fast-paced and highly productive work environment\n• Must be a US citizen possess an active Top Secret security clearance or ability to obtain\n• Able to apply these skills to the areas of radar and electronic warfare system development, implementation of digital signal processing and tracking algorithms, and field testing of sensor systems.\n• Candidate must be a resident of the North Alabama area or willing to relocate to the Huntsville - North Alabama area.\n\nPreferred Qualifications\n• Master’s degree or higher in Electrical Engineering, Computer Engineering, or Computer Science from an ABET-accredited school.\n• Experience working on radar programs\n• Linux shell scripting\n• MATLAB familiarity\n\nIf you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo — because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 — and moving faster than anyone else dares.\n\nOriginal Posting:\nFebruary 17, 2026\n\nFor U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.\n\nPay Range:\nPay Range $87,100.00 - $157,450.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.\n\nAbout Leidos\n\nLeidos is an industry and technology leader serving government and commercial customers with smarter, more efficient digital and mission innovations. Headquartered in Reston, Virginia, with 47,000 global employees, Leidos reported annual revenues of approximately $16.7 billion for the fiscal year ended January 3, 2025. For more information, visit www.Leidos.com.\n\nPay and Benefits\n\nPay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available at www.leidos.com/careers/pay-benefits.\n\nSecuring Your Data\n\nBeware of fake employment opportunities using Leidos’ name. Leidos will never ask you to provide payment-related information during any part of the employment application process (i.e., ask you for money), nor will Leidos ever advance money as part of the hiring process (i.e., send you a check or money order before doing any work). Further, Leidos will only communicate with you through emails that are generated by the Leidos.com automated system – never from free commercial services (e.g., Gmail, Yahoo, Hotmail) or via WhatsApp, Telegram, etc. If you received an email purporting to be from Leidos that asks for payment-related information or any other personal information (e.g., about you or your previous employer), and you are concerned about its legitimacy, please make us aware immediately by emailing us at LeidosCareersFraud@leidos.com.\n\nIf you believe you are the victim of a scam, contact your local law enforcement and report the incident to the U.S. Federal Trade Commission.\n\nCommitment to Non-Discrimination\n\nAll qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.",
     "job_is_remote": false,
-    "job_posted_at": "9 hours ago",
-    "job_posted_at_timestamp": 1771354800,
-    "job_posted_at_datetime_utc": "2026-02-17T19:00:00.000Z",
+    "job_posted_at": "10 hours ago",
+    "job_posted_at_timestamp": 1771351200,
+    "job_posted_at_datetime_utc": "2026-02-17T18:00:00.000Z",
     "job_location": "Meridianville, AL",
     "job_city": "Meridianville",
     "job_state": "Alabama",
@@ -1537,127 +1537,252 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "lemM1TiYSDzfQa-2AAAAAA==",
-    "job_title": "Sr Firmware Engineer",
-    "employer_name": "Seagate Technology",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7x8v4l3h5VRl72Q5XdCWmSk0iXmzv3zUla_bF&s=0",
-    "employer_website": "https://www.seagate.com",
-    "job_publisher": "Indeed",
+    "job_id": "_Oc1J40ANFie-55XAAAAAA==",
+    "job_title": "Senior Firmware Engineer @ Eight Sleep | $180k - $210k + Equity",
+    "employer_name": "Blaze Talent",
+    "employer_logo": null,
+    "employer_website": "https://www.blazetalent.co.za",
+    "job_publisher": "Gem",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=d4439e4d5b9318e7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://jobs.gem.com/blazetalent/am9icG9zdDrNo9CnTyavqbcGfUpJJHPo?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=d4439e4d5b9318e7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Seagate Careers",
-        "apply_link": "https://seagatecareers.com/job/Longmont-Sr-Firmware-Engineer-CO-80501/1340880700/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Seagate-Technology/Job/Sr-Firmware-Engineer/-in-Longmont,CO?jid=f85253f0252c35bd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/sr-firmware-engineer-seagate-technology-JV_IC1148118_KO0,20_KE21,39.htm?jl=1010023200752&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Milwaukee Jobs",
-        "apply_link": "https://www.milwaukeejobs.com/j/t-Sr-Firmware-Engineer-e-Seagate-Technology-l-Longmont,-CO-jobs-j85409778.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/sr-firmware-engineer-at-seagate-technology-4337839885?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/sr-firmware-engineer-seagatetechnologyllc-longmont-co_84339861?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/13d9d0f55576b32193269e472a0741fc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Gem",
+        "apply_link": "https://jobs.gem.com/blazetalent/am9icG9zdDrNo9CnTyavqbcGfUpJJHPo?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "About our group:\n\nSeagate is the global leader in data storage solutions, creating innovative products for Enterprise and Cloud Computing, and Consumer Electronics applications. Our technologies empower people and businesses worldwide to create, share, and preserve their data. Seagate has been recognized among the Thomson Reuters Top 100 Global Innovators.\n\nOur team designs, develops, tests, and integrates firmware solutions for cutting-edge storage products. We collaborate across engineering disciplines to implement features and functions for next-generation technologies, including HAMR (Heat Assisted Magnetic Recording), and define hardware and firmware architectures for future platforms.\n\nWe are guided by a culture of:\n• Growth Mindset – Be insatiably curious\n• Customer Obsession – Innovate to meet customer needs\n• Open and Inclusive – Tap into the global talent pool\n• One Team – Connected by a shared mission\n\nAbout the role - you will:\n\nWe are seeking a highly motivated and innovative Firmware Engineer to join our team. This role is ideal for engineers with a strong foundation in embedded systems and a passion for solving complex, real-world engineering challenges.\n\nAs part of our Firmware and Software Engineering team, you will contribute to the development of next-generation storage solutions, working on firmware that powers Seagate’s industry-leading HDD and storage systems.\n\nYou will play a key role in shaping firmware strategies, optimizing performance, and ensuring reliability across enterprise and cloud storage platforms.\n\nKey Responsibilities:\n• Design, develop, debug, and validate embedded firmware for HDD storage devices.\n• Analyze (discover, document, communicate) hardware and firmware functionality.\n• Work on significant issues where analysis involves evaluation of complex events and use of emulators, logic analyzers, and other tools.\n• Collaborate with cross-functional teams to define firmware requirements and architecture.\n• Contribute to continuous improvement of development processes and tools.\n• Collaborate with cross-functional teams including hardware, software, and systems engineering.\n• Employ Software Engineering best practices\n• Mentor and guide less experienced engineers, fostering technical growth and best practices.\n• Drive innovation in firmware development processes, tools, and methodologies.\n• Analyze performance metrics and optimize firmware for scalability and efficiency.\n• Contribute to technical reviews, risk assessments, and product planning.\n\nAbout you:\n• 5+ years of experience in embedded firmware development.\n• Proficient in C/C++ with strong debugging and optimization skills.\n• Deep understanding of embedded systems and hardware-software integration.\n• Experience with secure coding practices and firmware reliability.\n• Strong analytical and problem-solving skills.\n• Excellent communication and collaboration abilities.\n• Ability to work on-site at our Longmont, CO facility, Monday-Friday\n• *Please note: Visa sponsorship is not available with this position\n\nYour experience includes:\n• Expertise in storage device architecture (HDD, SSD) and protocols (SATA, SAS, NVMe).\n• Familiarity with cloud storage systems, distributed storage architecture, and data center environments.\n• Experience with file systems, storage interfaces, and performance tuning.\n• Knowledge of AI/ML concepts and their application in intelligent storage.\n• Proficiency with data analysis and visualization\n• Experience with version control systems, CI/CD pipelines, and automated testing frameworks.\n• Experience with Agile development model\n• Bachelor's in Computer Science, Computer Engineering, Electrical Engineering with 5-8 years of experience OR a Master’s degree in computer science, Computer Engineering, Electrical Engineering with 3-5 years of experience.\n\nThe estimated base salary range for this position is $92,310.40 - $125,985.60. The individual salary is based on work location and additional factors, including job-related skills, experience, and relevant education or training.\n\nSeagate offers comprehensive benefits to its eligible employees, including, but not limited to, eligibility to participate in discretionary bonus program, medical, dental, vision, and life insurance, short-and long-term disability, 401(k), employee stock purchase plan, health savings account, dependent care, and healthcare spending accounts. Seagate also offers paid time off, including 12 holidays, flexible time off provided pursuant to Seagate policy, a minimum of 48 hours of paid sick leave, and 16 weeks of paid parental leave. The benefits for this position are based on a full-time schedule for a full calendar year and may differ depending on work location.\n\nLocation:\n\nOur Longmont product-design campus is nestled against the foothills with exceptional views of the Rocky Mountains. Here at work, you can grab breakfast and lunch in the on-site cafeteria or get an afternoon espresso, prepared by a professional barista. Our 1,500+ employees enjoy an active on-site experience from sporting activities (get in a few laps at lunch on our 1-mile walking path around campus, play ping-pong or volleyball, or stop in our 24- hour fitness center for a group or individual workout) to community service and many employee resource groups including Pride! Women’s Leadership Network and a Young Professionals Network.\n\nLocation: Longmont, United States\nTravel: None",
+    "job_description": "Join the Sleep Fitness Movement\nEight Sleep is the world’s first sleep fitness company. Our mission is to fuel human potential through optimal sleep. We use innovative technology, detailed design, and proven science and data to personalize and improve each night for everybody—changing the way people sleep forever and for the better.\nBacked by leading Silicon Valley investors, we have been recognized as one of Fast Company’s Most Innovative Companies in 2018, 2022, and 2023.\nOur temperature-regulated technology, the Pod, is an absolute game changer, improving people's health and happiness by changing the way they sleep. The Pod was also recognized two years in a row by TIME's “Best Inventions of the Year.” It is available for purchase in North America (the United States and Canada) and throughout the United Kingdom, Europe (Belgium, France, Germany, Italy, Netherlands, Spain, Sweden, Denmark), and Australia via eightsleep.com. We’re excited by the success of the Pod to date and still have a long way to go toward achieving our mission.\nJoin our team as a Sr Firmware Engineer to help us bring current and next generations of Pod hardware to life. You'll be a part of a small team designing and implementing solutions with high levels of autonomy to bring our members better sleep. Your work will go directly to our fleet of existing Pods with low friction and direct impact to the business. We are a fast moving and fast growing company, and we embrace individuals with a growth mindset and strong desire to help us achieve our mission: Improving people's lives through optimal sleep.\n\nHow you’ll contribute\n• Pioneer Cutting-Edge Technology: Bring-up and implement cutting edge sensor technologies, bringing them into our products to enable the future of health monitoring.\n• Ownership and Drive: Collaborate with hardware teams to guide prototyping, drive efficient designs, as well as implementation on production hardware.\n• Innovate and Elevate: Lead the transformation of our firmware development landscape, pioneering advanced standards and state-of-the-art tooling that revolutionize our testing and deployment processes.\n• Global Collaboration and Support: Work closely with our manufacturing team in China to develop tests and deliver high quality products on time.\n• Effective Remote Communication: Thrive in an in person and remote work environment, ensuring clear and impactful communication.\n\nWhat you need to succeed\n• Proven Expertise: 5+ years of software engineering experience, with a focus on firmware in C/C++ and client or test tooling in Python or NodeJS.\n• Advanced Technical Skills: Proficiency in developing for compute-constrained and low-memory environments. Skilled in creating peripheral drivers and communication protocols (UART, I2C, SPI, USB), and knowledgeable in DMA.\n• Shipping at Scale: Have launched and maintained large fleets of devices, with experience in monitoring telemetry, and OTA firmware updates.\n• Hardware Acumen: Ability to read and interpret data sheets and schematics for hardware bring-up and debugging. Familiarity with logic analyzers and oscilloscopes.\n• Adaptive Problem Solver: A fast-paced and iterative approach to tackling complex problems.\n• Travel Readiness: Willingness and ability to travel regularly to China for team support and collaboration.\n\nWhat Sets you apart\n• Proficient with bare metal systems, low level task management, and environments without traditional RTOS.\n• Expertise in wireless communication standards (e.g., Bluetooth, Wi-Fi).\n• Expertise in automated testing and observability.\n• Deep understanding of embedded security practices.\n\nWhy you’ll love Eight Sleep\nWe’re a tight-knit, passionate team that’s working to impact people’s lives by improving the way they sleep.\nLeadership is committed to employees’ wellness and career development.\n• You’ll get a better night's sleep every night; all full-time employees receive the Pod\n• Flexible PTO.\n• 100% employer contribution for medical/dental/vision insurance.\n• Fully distributed workforce.\n• Role ownership, and uncapped growth opportunities.",
     "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Longmont, CO",
-    "job_city": "Longmont",
-    "job_state": "Colorado",
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "United States",
+    "job_city": null,
+    "job_state": null,
     "job_country": "US",
-    "job_latitude": 40.167206799999995,
-    "job_longitude": -105.1019275,
+    "job_latitude": 38.794595199999996,
+    "job_longitude": -106.5348379,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlemM1TiYSDzfQa-2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 92310.4,
-    "job_max_salary": 125985.6,
-    "job_salary_period": "YEAR",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_Oc1J40ANFie-55XAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Customer Obsession – Innovate to meet customer needs",
-        "This role is ideal for engineers with a strong foundation in embedded systems and a passion for solving complex, real-world engineering challenges",
-        "5+ years of experience in embedded firmware development",
-        "Proficient in C/C++ with strong debugging and optimization skills",
-        "Deep understanding of embedded systems and hardware-software integration",
-        "Experience with secure coding practices and firmware reliability",
-        "Strong analytical and problem-solving skills",
-        "Excellent communication and collaboration abilities",
-        "Ability to work on-site at our Longmont, CO facility, Monday-Friday",
-        "Expertise in storage device architecture (HDD, SSD) and protocols (SATA, SAS, NVMe)",
-        "Familiarity with cloud storage systems, distributed storage architecture, and data center environments",
-        "Experience with file systems, storage interfaces, and performance tuning",
-        "Knowledge of AI/ML concepts and their application in intelligent storage",
-        "Proficiency with data analysis and visualization",
-        "Experience with version control systems, CI/CD pipelines, and automated testing frameworks",
-        "Experience with Agile development model",
-        "Bachelor's in Computer Science, Computer Engineering, Electrical Engineering with 5-8 years of experience OR a Master’s degree in computer science, Computer Engineering, Electrical Engineering with 3-5 years of experience"
+        "Proven Expertise: 5+ years of software engineering experience, with a focus on firmware in C/C++ and client or test tooling in Python or NodeJS",
+        "Advanced Technical Skills: Proficiency in developing for compute-constrained and low-memory environments",
+        "Skilled in creating peripheral drivers and communication protocols (UART, I2C, SPI, USB), and knowledgeable in DMA",
+        "Shipping at Scale: Have launched and maintained large fleets of devices, with experience in monitoring telemetry, and OTA firmware updates",
+        "Hardware Acumen: Ability to read and interpret data sheets and schematics for hardware bring-up and debugging",
+        "Familiarity with logic analyzers and oscilloscopes",
+        "Adaptive Problem Solver: A fast-paced and iterative approach to tackling complex problems",
+        "Travel Readiness: Willingness and ability to travel regularly to China for team support and collaboration",
+        "Proficient with bare metal systems, low level task management, and environments without traditional RTOS",
+        "Expertise in wireless communication standards (e.g., Bluetooth, Wi-Fi)",
+        "Expertise in automated testing and observability",
+        "Deep understanding of embedded security practices"
       ],
       "Benefits": [
-        "The estimated base salary range for this position is $92,310.40 - $125,985.60",
-        "The individual salary is based on work location and additional factors, including job-related skills, experience, and relevant education or training",
-        "Seagate offers comprehensive benefits to its eligible employees, including, but not limited to, eligibility to participate in discretionary bonus program, medical, dental, vision, and life insurance, short-and long-term disability, 401(k), employee stock purchase plan, health savings account, dependent care, and healthcare spending accounts",
-        "Seagate also offers paid time off, including 12 holidays, flexible time off provided pursuant to Seagate policy, a minimum of 48 hours of paid sick leave, and 16 weeks of paid parental leave",
-        "The benefits for this position are based on a full-time schedule for a full calendar year and may differ depending on work location"
+        "You’ll get a better night's sleep every night; all full-time employees receive the Pod",
+        "Flexible PTO",
+        "100% employer contribution for medical/dental/vision insurance",
+        "Fully distributed workforce",
+        "Role ownership, and uncapped growth opportunities"
       ],
       "Responsibilities": [
-        "Open and Inclusive – Tap into the global talent pool",
-        "As part of our Firmware and Software Engineering team, you will contribute to the development of next-generation storage solutions, working on firmware that powers Seagate’s industry-leading HDD and storage systems",
-        "You will play a key role in shaping firmware strategies, optimizing performance, and ensuring reliability across enterprise and cloud storage platforms",
-        "Design, develop, debug, and validate embedded firmware for HDD storage devices",
-        "Analyze (discover, document, communicate) hardware and firmware functionality",
-        "Work on significant issues where analysis involves evaluation of complex events and use of emulators, logic analyzers, and other tools",
-        "Collaborate with cross-functional teams to define firmware requirements and architecture",
-        "Contribute to continuous improvement of development processes and tools",
-        "Collaborate with cross-functional teams including hardware, software, and systems engineering",
-        "Employ Software Engineering best practices",
-        "Mentor and guide less experienced engineers, fostering technical growth and best practices",
-        "Drive innovation in firmware development processes, tools, and methodologies",
-        "Analyze performance metrics and optimize firmware for scalability and efficiency",
-        "Contribute to technical reviews, risk assessments, and product planning"
+        "You'll be a part of a small team designing and implementing solutions with high levels of autonomy to bring our members better sleep",
+        "Pioneer Cutting-Edge Technology: Bring-up and implement cutting edge sensor technologies, bringing them into our products to enable the future of health monitoring",
+        "Ownership and Drive: Collaborate with hardware teams to guide prototyping, drive efficient designs, as well as implementation on production hardware",
+        "Innovate and Elevate: Lead the transformation of our firmware development landscape, pioneering advanced standards and state-of-the-art tooling that revolutionize our testing and deployment processes",
+        "Global Collaboration and Support: Work closely with our manufacturing team in China to develop tests and deliver high quality products on time",
+        "Effective Remote Communication: Thrive in an in person and remote work environment, ensuring clear and impactful communication"
       ]
     },
     "job_onet_soc": "15113300",
     "job_onet_job_zone": "4",
-    "id": "www-indeed-com-viewjob",
+    "id": "jobs-gem-com-blazetalent-am9icg9zddrno9cntyavqbcgfupjjhpo",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "EKmRe2Z1ygKdjkQWAAAAAA==",
+    "job_title": "Embedded Firmware Engineer- Entry Level",
+    "employer_name": "Eaton Corporation",
+    "employer_logo": null,
+    "employer_website": "https://www.eaton.com",
+    "job_publisher": "Tallo",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://tallo.com/jobs/technology/computer-systems-engineer-architect/nc/wake/embedded-firmware-engineer-entry-level-dc4a069bf77b/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Tallo",
+        "apply_link": "https://tallo.com/jobs/technology/computer-systems-engineer-architect/nc/wake/embedded-firmware-engineer-entry-level-dc4a069bf77b/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "This job listing in Wake - NC has been recently added. Tallo will add a summary here for this job shortly.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "North Carolina",
+    "job_city": null,
+    "job_state": "North Carolina",
+    "job_country": "US",
+    "job_latitude": 35.7595731,
+    "job_longitude": -79.01929969999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEKmRe2Z1ygKdjkQWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "tallo-com-jobs-technology-computer-systems-engineer-architect-nc-wake-embedded-firmware-engineer-entry-level-dc4a069bf77b",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "cK7gPqp5WLDAqlykAAAAAA==",
+    "job_title": "Firmware Engineer I",
+    "employer_name": "Advanced Energy Industries, Inc",
+    "employer_logo": null,
+    "employer_website": "https://www.advancedenergy.com",
+    "job_publisher": "Advanced Energy Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.advanced-energy.com/job/Eden-Prairie-Firmware-Engineer-I-MN-55344/1362892300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Advanced Energy Careers",
+        "apply_link": "https://jobs.advanced-energy.com/job/Eden-Prairie-Firmware-Engineer-I-MN-55344/1362892300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/firmware-engineer-i-eden-prairie-advanced-energy-1ea3d9f76180a2571f5e14cd4b95f2e2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Advanced-Energy/Job/Firmware-Engineer-I/-in-Eden-Prairie,MN?jid=1aff4848c30fa09e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/0293f505-cb2a-4869-b414-aa18c4dda99c?q=PDM&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "IHireTechnology",
+        "apply_link": "https://www.ihiretechnology.com/jobs/view/509331820?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/firmware-engineer-i-at-advanced-energy-4369829505?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/f853df2f3e37b9eb75a4902305456aca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "ABOUT ADVANCED ENERGY\n\nAdvanced Energy (Nasdaq: AEIS) is a global leader in the design and manufacturing of highly engineered, precision power conversion, measurement and control solutions for mission-critical applications and processes. AE’s power solutions enable customer innovation in complex applications for a wide range of industries including semiconductor equipment, industrial, manufacturing, telecommunications, data center computing and healthcare. Advanced Energy has devoted four decades to perfecting power for its global customers and is headquartered in Denver, Colorado.\n\nWHY BE A PART OF ADVANCED ENERGY?\n\nSome people say it’s like working in the best of two worlds. We operate like an agile, growing, small company – you can see your work make a difference to the company every day. Things move quickly and you can see and feel it. At the same time, we’re a global company founded in 1981 and have been publicly traded for more than 28 years. We have a strong cash position, deep trust and partnership with leading customers, a global best-in-class operations capability, and a proven leadership team. We have a track record and resources to make things happen both organically and inorganically. Being part of a nimble company with a solid foundation attracts team members that are capable, driven and like a challenge. Our employees collaborate and know how to have fun inventing, working, building and winning together. At our core, we are Advanced Energy – powering the future, together.\n\nPOSITION SUMMARY:\n\nA Firmware Engineer will design, modify, and evaluate embedded software, and/or programmable logic and/or electronic apparatus, components, or circuitry for use in electronic equipment and devices. You will perform engineering work in basic and applied research, development, and/or design of new products and/or sustaining of existing products.\n\nRESPONSIBILITIES:\n\n• Utilize advanced level programming ability in C and assembly languages in an embedded environment, including bare-metal microcontrollers.\n\n• Apply working knowledge of microcontrollers, hardware circuit theory, software development tools, and knowledge of the architecture and electronic hardware encountered in Power Supply or ARM based microcontroller-based systems.\n\n• Troubleshoot and debug hardware and software systems issues.\n\n• Exercise engineering judgment to select and develop methods, techniques, and evaluation criteria to secure project success.\n\n• Work in a team environment with hardware engineers, electrical engineers, mechanical engineers, and program managers on product development of extensive scope.\n\n• Utilize strong communication and team skills. Persuade and gain agreement with cross functional teams (hardware) and the ability to effectively communicate with multiple levels of an organization.\n\n• Participate in the preparation of internal and external software documentation including, but not necessarily limited to: Requirements Specifications, Design Specifications and Test plans.\n\n• Responsible for broad technical knowledge of electronic apparatus, components, or circuitry for use in electronic equipment and devices, including but not limited to DC circuits, AC to DC converters, AC power factor correction, high power transistors and rectifiers, digital and analog loop stability, magnetic design, worse case component analysis, digital hardware, firmware, test and measurement systems, and electrical/safety regulatory compliance.\n\n• Responsible to diagnose issues of diverse scope with design, field performance, root cause/failure analysis, reliability and manufacturing test yields of existing power supply products using formal investigation methods and to recommend/implement corrective actions to address.\n\n• Implement advanced software development techniques in compliance with technical reference architecture.\n\n• Participate in on-going code reviews to improve software stability and maintainability of an aging code base.\n\n• Perform technical review, design analysis, development and selection of hardware and mission critical computer software\n\nWORK ENVIRONMENT:\n\n• Location: Eden Prairie, MN\n\n• Works in a noisy fast-paced power development lab and standard office environment\n\nQUALIFICATIONS:\n\n• Ability to follow standard practices and procedures in analyzing situations or data from which answers can be obtained.\n\n• Ability to learn and use professional concepts appropriate to engineering, including analytical methods, computer aided analysis and design tools, diagnostic instruments and test equipment, lab skills appropriate to design, selecting appropriate components and materials for designs.\n\n• Broad technical knowledge of electronic apparatus, components, or circuitry for use in electronic equipment and devices, including but not limited to RF circuits, AC to DC converters, AC power factor correction, high power transistors and rectifiers, digital and analog loop stability, magnetic design, and test/measurement systems.\n\n• Ability to apply company policies and procedures to solve routine to complex technical issues.\n\n• Highly organized and able to manage multiple tasks and projects simultaneously.\n\n• A genuine interest in electrical, embedded development.\n\n• Excellent problem solving, critical thinking, and communication skills.\n\n• Demonstrated knowledge and experience with object-oriented programming, system processes and scripting languages.\n\nEXPERIENCE:\n\n• Experience with embedded C programming and in-circuit debugging of performance\n\n• Experience with serial communication protocols such as UART, SPI and I2C.\n\n• Experience with power electronic concepts is desirable\n\n• Experience with basic circuit analysis and understanding circuit schematics\n\nEDUCATION:\n\n• Bachelor’s Degree in Computer Engineering, Electrical Engineering, Software Engineering\n\n• Excellent academics (cumulative GPA greater than or equal to 3.0)\n\nCOMPENSATION:\n\nAs required by multiple state pay transparency laws, Advanced Energy provides a reasonable range of compensation for each job posting. Actual compensation is influenced by an array of factors including, but not limited to, skill set, level of experience, and specific office location. The range of starting pay for this role is $75,000 - $105,000 per year.\n\nBENEFITS:\n\nAs part of our total rewards philosophy, we believe in offering and maintaining competitive compensation and benefits programs for our employees to attract and retain a talented, highly engaged workforce. Our compensation programs are focused on equitable, fair pay practices including market-based base pay, an annual pay-for-performance incentive plan, and discounted Employee Stock Purchase Plan. \n\nIn addition to our competitive compensation practices, we offer a strong benefits package in each of the countries in which we operate. In the U.S., we offer a rich benefits package that includes:\n• Medical - multiple medical plans are available to choose from\n• Short and long-term disability and life insurance\n• Health savings and flexible spending accounts\n• Generous time off policy starting with 3 weeks of paid vacation, 7 days of paid sick time, and 12 paid holidays\n• 8 hours of paid volunteer time off\n• 8 weeks of paid parental leave for both Moms and Dads\n• Company matched 401(k)\n• Tuition reimbursement\n• Expanded mental health coverage and employee assistance programs \n• Other voluntary benefits include critical illness, accident and hospital indemnity, pet insurance, identify theft, and legal assistance\n\nAdvanced Energy is committed to diversity in its workforce including Equal Employment Opportunity for Minorities, Females, Protected Veterans, and Individuals with Disabilities.\n\nAdvanced Energy is also committed to providing reasonable accommodations in our job application process/procedures for qualified individuals with disabilities. If you require assistance in completing an Advanced Energy application, please reach out to HumanResources@aei.com.",
+    "job_is_remote": false,
+    "job_posted_at": "12 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "Eden Prairie, MN",
+    "job_city": "Eden Prairie",
+    "job_state": "Minnesota",
+    "job_country": "US",
+    "job_latitude": 44.854685599999996,
+    "job_longitude": -93.47078599999999,
+    "job_benefits": [
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DcK7gPqp5WLDAqlykAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Ability to follow standard practices and procedures in analyzing situations or data from which answers can be obtained",
+        "Ability to learn and use professional concepts appropriate to engineering, including analytical methods, computer aided analysis and design tools, diagnostic instruments and test equipment, lab skills appropriate to design, selecting appropriate components and materials for designs",
+        "Broad technical knowledge of electronic apparatus, components, or circuitry for use in electronic equipment and devices, including but not limited to RF circuits, AC to DC converters, AC power factor correction, high power transistors and rectifiers, digital and analog loop stability, magnetic design, and test/measurement systems",
+        "Ability to apply company policies and procedures to solve routine to complex technical issues",
+        "Highly organized and able to manage multiple tasks and projects simultaneously",
+        "A genuine interest in electrical, embedded development",
+        "Excellent problem solving, critical thinking, and communication skills",
+        "Demonstrated knowledge and experience with object-oriented programming, system processes and scripting languages",
+        "Experience with embedded C programming and in-circuit debugging of performance",
+        "Experience with serial communication protocols such as UART, SPI and I2C",
+        "Experience with basic circuit analysis and understanding circuit schematics",
+        "Bachelor’s Degree in Computer Engineering, Electrical Engineering, Software Engineering",
+        "Excellent academics (cumulative GPA greater than or equal to 3.0)"
+      ],
+      "Benefits": [
+        "As required by multiple state pay transparency laws, Advanced Energy provides a reasonable range of compensation for each job posting",
+        "Actual compensation is influenced by an array of factors including, but not limited to, skill set, level of experience, and specific office location",
+        "The range of starting pay for this role is $75,000 - $105,000 per year",
+        "As part of our total rewards philosophy, we believe in offering and maintaining competitive compensation and benefits programs for our employees to attract and retain a talented, highly engaged workforce. Our compensation programs are focused on equitable, fair pay practices including market-based base pay, an annual pay-for-performance incentive plan, and discounted Employee Stock Purchase Plan. ",
+        "In addition to our competitive compensation practices, we offer a strong benefits package in each of the countries in which we operate",
+        "In the U.S., we offer a rich benefits package that includes:",
+        "Medical - multiple medical plans are available to choose from",
+        "Short and long-term disability and life insurance",
+        "Health savings and flexible spending accounts",
+        "Generous time off policy starting with 3 weeks of paid vacation, 7 days of paid sick time, and 12 paid holidays",
+        "8 hours of paid volunteer time off",
+        "8 weeks of paid parental leave for both Moms and Dads",
+        "Company matched 401(k)",
+        "Tuition reimbursement",
+        "Expanded mental health coverage and employee assistance programs ",
+        "Other voluntary benefits include critical illness, accident and hospital indemnity, pet insurance, identify theft, and legal assistance"
+      ],
+      "Responsibilities": [
+        "A Firmware Engineer will design, modify, and evaluate embedded software, and/or programmable logic and/or electronic apparatus, components, or circuitry for use in electronic equipment and devices",
+        "You will perform engineering work in basic and applied research, development, and/or design of new products and/or sustaining of existing products",
+        "Utilize advanced level programming ability in C and assembly languages in an embedded environment, including bare-metal microcontrollers",
+        "Apply working knowledge of microcontrollers, hardware circuit theory, software development tools, and knowledge of the architecture and electronic hardware encountered in Power Supply or ARM based microcontroller-based systems",
+        "Troubleshoot and debug hardware and software systems issues",
+        "Exercise engineering judgment to select and develop methods, techniques, and evaluation criteria to secure project success",
+        "Work in a team environment with hardware engineers, electrical engineers, mechanical engineers, and program managers on product development of extensive scope",
+        "Utilize strong communication and team skills",
+        "Persuade and gain agreement with cross functional teams (hardware) and the ability to effectively communicate with multiple levels of an organization",
+        "Participate in the preparation of internal and external software documentation including, but not necessarily limited to: Requirements Specifications, Design Specifications and Test plans",
+        "Responsible for broad technical knowledge of electronic apparatus, components, or circuitry for use in electronic equipment and devices, including but not limited to DC circuits, AC to DC converters, AC power factor correction, high power transistors and rectifiers, digital and analog loop stability, magnetic design, worse case component analysis, digital hardware, firmware, test and measurement systems, and electrical/safety regulatory compliance",
+        "Responsible to diagnose issues of diverse scope with design, field performance, root cause/failure analysis, reliability and manufacturing test yields of existing power supply products using formal investigation methods and to recommend/implement corrective actions to address",
+        "Implement advanced software development techniques in compliance with technical reference architecture",
+        "Participate in on-going code reviews to improve software stability and maintainability of an aging code base",
+        "Perform technical review, design analysis, development and selection of hardware and mission critical computer software",
+        "Location: Eden Prairie, MN",
+        "Works in a noisy fast-paced power development lab and standard office environment"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "jobs-advanced-energy-com-job-eden-prairie-firmware-engineer-i-mn-55344-1362892300",
     "_source": "new_jobs"
   },
   {
@@ -1665,7 +1790,7 @@
     "job_title": "Sr Firmware Engineer",
     "employer_name": "Indra Group USA",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzuflZcwGX8JuixZkvNy17gn_lW3WitKfSA8gt&s=0",
-    "employer_website": "https://www.indragroup.com",
+    "employer_website": "https://www.indragroup-usa.com",
     "job_publisher": "LinkedIn",
     "job_employment_type": "Full-time",
     "job_employment_types": [
@@ -1692,9 +1817,9 @@
     ],
     "job_description": "• *We are located in Overland Park, KS, but are moving to Olathe, KS within 2026 into a new facility**\n\nThe Sr. Firmware Engineer assists in the design & implementation of software and embedded firmware, used for Indra Navigational and Surveillance products.\n\nDUTIES & RESPONSIBILITIES:\n• Responsible for Embedded Software and Firmware development used for Ground-Based Radio Navigational Aids (NAVAIDS), Surveillance Radios (ADS-B/WAM), and other systems as assigned.\n• Support Embedded Software & Firmware development through activities including requirements gathering, design, coding, integration (software, firmware, and hardware), validation, troubleshooting, and maintenance.\n• Participate in design review process to ensure adherence to customer requirements and internal processes are being met.\n\nSoftware Development\n• Programming & Coding: C/C++, Python, MATLAB, Visual Studio\n• Ability to read schematics and use basic electronic trouble shooting tools (DMM)\n• Environments: Windows & Linux Environments\n\nReporting, Standards, & Compliance\n• Responsible for maintaining work on assigned schedules to enable tracking, reporting, and meeting development requirements.\n• Perform development in accordance with Indra internal processes, customer requirements and industry standards.\n\nEDUCATION & EXPERIENCE:\n• Bachelors or Masters from an ABET accredited College or University in Electrical Engineering, Computer Science, Computer Engineering, or another related technical discipline.\n• 5-7+ years of embedded software development, firmware, FPGA development\n\nREQUIREMENTS:\n• Must be able to pass a U.S. government background check investigation.\n• Proof of U.S. Citizenship or US Permanent Residency is a requirement for this position.\n• For successful performance of this job, an individual must be able to perform each essential duty satisfactorily. The requirements listed are representative of the general knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions\n\nEqual Opportunity Employer: Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, veteran’s status, age or disability, M/F/D/V. Drug-free work environment. Indra participates in E-Verify.\n• *NO AGENCIES PLEASE** Any Employment Agency, person or entity that submits an unsolicited resume to this site does so with the understanding that the applicant's resume will become the property of Indra. Indra will have the right to hire that applicant at its discretion and without any fee owed to the submitting Employment Agency, person or entity.",
     "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
     "job_location": "Overland Park, KS",
     "job_city": "Overland Park",
     "job_state": "Kansas",
@@ -1736,279 +1861,131 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "QP9jmCM_ggKgtYWLAAAAAA==",
-    "job_title": "Intern Firmware Engineer Spring 2026 (Wilmington, MA)",
-    "employer_name": "Advanced Energy",
-    "employer_logo": null,
-    "employer_website": "https://www.advancedenergy.com",
-    "job_publisher": "Talent.com",
+    "job_id": "MhMp7tKVOakeni3GAAAAAA==",
+    "job_title": "Senior Firmware Engineer",
+    "employer_name": "Progress Rail",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpuSV3RsDQqlFD7HgV7YfF6qHFgE8XXAixP3o&s=0",
+    "employer_website": "https://www.progressrail.com",
+    "job_publisher": "Glassdoor",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=0a1d0f28f8e6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.glassdoor.com/job-listing/senior-firmware-engineer-progress-rail-a-caterpillar-company-JV_IC1131039_KO0,24_KE25,60.htm?jl=1010031067171&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=0a1d0f28f8e6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/senior-firmware-engineer-progress-rail-a-caterpillar-company-JV_IC1131039_KO0,24_KE25,60.htm?jl=1010031067171&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
-      }
-    ],
-    "job_description": "ABOUT ADVANCED ENERGY\n\nAdvanced Energy (Nasdaq : AEIS) is a global leader in the design and manufacturing of highly engineered precision power conversion measurement and control solutions for mission-critical applications and power solutions enable customer innovation in complex applications for a wide range of industries including semiconductor equipment industrial manufacturing telecommunications data center computing and healthcare. Advanced Energy has devoted four decades to perfecting power for its global customers and is headquartered in Denver Colorado.\n\nPOSITION SUMMARY :\n\nAdvanced Energy is currently seeking Firmware / Software Design Engineering Interns and Co-Ops to support development activities across our North American design sites. Successful candidates will carry out their internships at Advanced Energys sites in Colorado Minnesota Massachusetts or California. They will work with an experienced engineering team closely collaborating on the development of high-performance precision efficient and cost-effective power conversion metrology or controls solutions. Only post-graduate candidates will be considered for summer and school-year internships. Candidates should be actively pursuing degree programs at one of the following institutions : University of Colorado Colorado State University University of Minnesota San Jose State University Massachusetts Institute of Technology Northeastern University or Stanford University.\n\n40 hours per week is preferred but reduced hours will be considered for those carrying a class load during school-year semesters.\n\nRESPONSIBILITIES :\n\nCandidates may perform and support design activities related to any of the following :\n• Development of embedded firmware for use in products\n• Development and implementation of control algorithms\n• Development of software for product interface in test and / or user environments\n• Active participation in a core team to meet schedule cost and customer satisfaction goals\n• Assist in development testing and de-bugging of prototype power supply units\n• Analyze test data and reports against functional and performance specifications\n• Interface with internal departments to ensure cost and schedule goals are met\n\nQUALIFICATIONS : Required :\n• Programming ability in high level languages such as Python HDL C C and / or assembly languages in embedded environment\n• Working knowledge of microcontrollers field-programmable gate arrays hardware circuit theory and / or software development tools\n• Demonstrated proficiency with Windows-based platforms and with computer-based design and analysis tools working knowledge of MS Office Suite\n• Ability to work in a lab environment debugging firmware software or embedded systems and evaluating product spec compliance\n• Ability to work independently and as part of a team\n• Ability to meet schedule requirements and define priorities without direct supervision\n\nPreferred :\n• Ability to work with embedded systems hardware and read schematics\n• Familiarity with communication protocols such as Ethercat Fieldbus SPI and I2C\n• Knowledgeable and / or experienced in emerging technologies including CyberSecurity and Machine Learning\n\nEDUCATION :\n• Candidates working towards MS or PhD degrees in Electrical Engineering Computer Engineering or Computer Science. Preference will be given to those with Embedded Systems and / or Controls focus. Other fields will be considered based on applicability\n• GPA >\n\n3.25\n\nCOMPENSATION :\n\nAs required by multiple state pay transparency laws Advanced Energy provides a reasonable range of compensation for each job posting. Actual compensation is influenced by an array of factors including but not limited to skill set level of experience and specific office location. The range of starting pay for this role is $28 to $38 per hour.\n\nAdvanced Energy is committed to diversity in its workforce including Equal Opportunity Employment. All qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin disability and / or veteran status.\n\nAdvanced Energy is also committed to providing reasonable accommodation in our job application process / procedures for qualified individuals with disabilities. If you require assistance in completing an Advanced Energy application please reach out to\n\nRequired Experience :\n\nIntern\n\nKey Skills\n\nEmbedded Software,Robotics,Arm,Firmware,Debugging,C / C++,Zigbee,OS Kernels,Signal Processing,Ethernet,Assembly,Internet Of Things\n\nEmployment Type : Intern\n\nExperience : years\n\nVacancy : 1\n\nHourly Salary Salary : 28 - 38",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Wilmington, DE",
-    "job_city": "Wilmington",
-    "job_state": "Delaware",
-    "job_country": "US",
-    "job_latitude": 39.744655,
-    "job_longitude": -75.5483909,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQP9jmCM_ggKgtYWLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Programming ability in high level languages such as Python HDL C C and / or assembly languages in embedded environment",
-        "Working knowledge of microcontrollers field-programmable gate arrays hardware circuit theory and / or software development tools",
-        "Demonstrated proficiency with Windows-based platforms and with computer-based design and analysis tools working knowledge of MS Office Suite",
-        "Ability to work in a lab environment debugging firmware software or embedded systems and evaluating product spec compliance",
-        "Ability to work independently and as part of a team",
-        "Ability to meet schedule requirements and define priorities without direct supervision",
-        "Candidates working towards MS or PhD degrees in Electrical Engineering Computer Engineering or Computer Science",
-        "Preference will be given to those with Embedded Systems and / or Controls focus",
-        "Other fields will be considered based on applicability",
-        "GPA >",
-        "Intern",
-        "Embedded Software,Robotics,Arm,Firmware,Debugging,C / C++,Zigbee,OS Kernels,Signal Processing,Ethernet,Assembly,Internet Of Things"
-      ],
-      "Benefits": [
-        "As required by multiple state pay transparency laws Advanced Energy provides a reasonable range of compensation for each job posting",
-        "Actual compensation is influenced by an array of factors including but not limited to skill set level of experience and specific office location",
-        "The range of starting pay for this role is $28 to $38 per hour",
-        "Hourly Salary Salary : 28 - 38"
-      ],
-      "Responsibilities": [
-        "40 hours per week is preferred but reduced hours will be considered for those carrying a class load during school-year semesters",
-        "Candidates may perform and support design activities related to any of the following :",
-        "Development of embedded firmware for use in products",
-        "Development and implementation of control algorithms",
-        "Development of software for product interface in test and / or user environments",
-        "Active participation in a core team to meet schedule cost and customer satisfaction goals",
-        "Assist in development testing and de-bugging of prototype power supply units",
-        "Analyze test data and reports against functional and performance specifications",
-        "Interface with internal departments to ensure cost and schedule goals are met"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "vjtQ5MskOU0ElfPKAAAAAA==",
-    "job_title": "Senior Firmware Engineer 2",
-    "employer_name": "Rocket Lab USA",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhmTPlXd3rAFz8wQmNX3kjLkTQgxnniu4bZ35V&s=0",
-    "employer_website": "https://rocketlabcorp.com",
-    "job_publisher": "Simplify",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://simplify.jobs/p/14c9ba5d-845a-49d1-b11d-1ad46bb1e442/Senior-Firmware-Engineer-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Simplify",
-        "apply_link": "https://simplify.jobs/p/14c9ba5d-845a-49d1-b11d-1ad46bb1e442/Senior-Firmware-Engineer-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "ABOUT ROCKET LAB\n\nRocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more – all with the goal of opening access space. The rockets and satellites we build, and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observation and missions to combat climate change, national security, and exciting new technology demonstrations.\n\nOur Electron rocket has become the second most frequently launched U.S. rocket annually and has delivered more than 230 satellites to orbit, all while we work to develop Neutron, our upcoming medium-lift, reusable launch vehicle for larger constellation deployment. Our Space Systems business designs and builds our extensive line of satellites, payloads, and their components, including spacecraft that have been selected to support NASA missions to the Moon and Mars and components used on the James Webb Space Telescope.\n\nSPACE SYSTEMS\n\nAt Rocket Lab, we’re not just launching rockets — we're building the future of space. Our Space Systems team builds everything from complete spacecraft, precision payloads to the components and subsystems that allow them to thrive in space, like solar panels, flight software, star trackers, optical systems, separation systems, radios, and more.\n\nOur Space Systems team has enabled more than 1,700 missions, ranging from interplanetary exploration, in-space manufacturing to national security and defense initiatives. The team has built spacecraft, payloads, and components for missions to the Moon and Mars, working with partners including NASA, the Space Development Agency, and the U.S. Space Force. Whether it’s a single high-performance spacecraft, constellation, or the vertically integrated components that help them get to space — our world class Space Systems team is empowering some of the boldest and most ambitious space missions.\n\nSENIOR FIRMWARE ENGINEER II\n\nRocket Lab’s Optical Systems division solves mission-critical space domain and Intelligence, Surveillance, and Reconnaissance (ISR) challenges for Department of Defense (DoD) and Intelligence Community (IC) customers. Our vision is to revolutionize the space-based payload market with innovative and novel designs for space, terrestrial, and airborne environments. Building on more than 20 years of electro-optical and infrared systems innovation from Geost, Optical Systems delivers solutions to the warfighter for responsive, scalable sensing solutions across all orbital domains.\n\nAs a Senior Firmware Engineer II based at our Optical Systems sites in Tucson, AZ, you will have the opportunity to support Tranche 3 of the U.S. Space Development Agency's (SDA) Proliferated Warfighter Space Architecture (PWSA) using the latest FPGA technologies including Xilinx to support advanced Electro-Optical (EO/IR) technology.\n\nWHAT YOU’LL GET TO DO\n• Work with the hardware design team on requirements.\n• Complete FPGA logic design, coding, simulation, and testing.\n• Support hardware and software development teams in bring-up and test of products.\n• Provide subject-matter expertise regarding design and automated test development procedures to customers and production support team.\n• Perform research and analysis of data, such as customer proposed specifications, datasheets, or manuals to determine design approach and/or feasibility.\n• Execute debugging of the design in the lab.\n• Perform synthesis, implementation, and timing analysis.\n\nYOU’LL BRING THESE QUALIFICATIONS AS SENIOR FIRMWARE ENGINEER II:\n• Bachelor’s degree in computer engineering or electrical engineering or equivalent discipline with 8-12 years of experience\n• Experience in FPGA firmware design with VHDL.\n• Ability to obtain and maintain an U.S. Government Security Clearance\n\nTHESE QUALIFICATIONS WOULD BE NICE TO HAVE:\n• Experience with Xilinx/AMD Versal architecture\n• Experience with FPGAs and embedded systems in a radiation environment, including SEU/SEL impact and mitigation.\n• Experience in FPGA- or ASIC-based image processing algorithms.\n• Experience in both creating IP from scratch in RTL and integrating existing IP into RTL and block designs.\n• Familiarity with C, Python or MATLAB and/or experience translating algorithms from a scripted language to HDL.\n• Experience with software interfaces including interrupts and DMA.\n• Experience with DDR4, Aurora, and high-speed transceiver design and verification.\n• Familiarity with AXI Stream and AXI Memory Mapped interfaces.\n• PCB design and schematic capture and layout with tools such as Altium Designer.\n• Active TS/SCI security clearance.\n\nADDITIONAL REQUIREMENTS:\n• Specific vision abilities required by this job include close vision, distance vision, peripheral vision, depth perception, and the ability to focus\n• Regularly required to sit, use hands and fingers, operate computer keyboard and controls, and communicate verbally and in writing\n• Must be physically able to commute to buildings\n\nWHAT TO EXPECT\n\nWe’re on a mission to unlock the potential of space to improve life on Earth, but that’s not an easy task. It takes hard work, determination, relentless innovation, teamwork, grit, and an unwavering commitment to achieving what others often deem impossible. Our people out-think, out-work and out-pace. We pride ourselves on having each other’s backs, checking our egos at the door, and rolling up our sleeves on all tasks big and small. We thrive under pressure, work to tight deadlines, and our focus is always on how we can deliver, rather than dwelling on the challenges that stand in the way.\n\nImportant information:\n\nFOR CANDIDATES SEEKING TO WORK IN US OFFICES ONLY:\n\nTo conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum, or be eligible to obtain the required authorizations from the U.S. Department of State and/or the U.S. Department of Commerce, as applicable. Learn more about ITAR here.\n\nRocket Lab provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment at Rocket Lab, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.\n\nApplicants requiring a reasonable accommodation for the application/interview process for a job in the United States should contact Giulia Johnson at g.biow@rocketlabusa.com.This dedicated resource is intended solely to assist job seekers with disabilities whose disability prevents them from being able to apply/interview. Only messages left for this purpose will be considered. A response to your request may take up to two business days.\n\nFOR CANDIDATES SEEKING TO WORK IN NEW ZEALAND OFFICES ONLY:\n\nFor security reasons background checks will be undertaken prior to any employment offers being made to an applicant. These checks will include nationality checks as it is a requirement of this position that you be eligible to access equipment and data regulated by the United States' International Traffic in Arms Regulations.\n\nUnder these Regulations, you may be ineligible for this role if you do not hold citizenship of Australia, Japan, New Zealand, Switzerland, the European Union or a country that is part of NATO, or if you hold ineligible dual citizenship or nationality. For more information on these Regulations, click here ITAR Regulations.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Tucson, AZ",
-    "job_city": "Tucson",
-    "job_state": "Arizona",
-    "job_country": "US",
-    "job_latitude": 32.2539787,
-    "job_longitude": -110.97417689999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DvjtQ5MskOU0ElfPKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor’s degree in computer engineering or electrical engineering or equivalent discipline with 8-12 years of experience",
-        "Experience in FPGA firmware design with VHDL",
-        "Ability to obtain and maintain an U.S. Government Security Clearance",
-        "Experience with Xilinx/AMD Versal architecture",
-        "Experience with FPGAs and embedded systems in a radiation environment, including SEU/SEL impact and mitigation",
-        "Experience in FPGA- or ASIC-based image processing algorithms",
-        "Experience in both creating IP from scratch in RTL and integrating existing IP into RTL and block designs",
-        "Familiarity with C, Python or MATLAB and/or experience translating algorithms from a scripted language to HDL",
-        "Experience with software interfaces including interrupts and DMA",
-        "Experience with DDR4, Aurora, and high-speed transceiver design and verification",
-        "Familiarity with AXI Stream and AXI Memory Mapped interfaces",
-        "PCB design and schematic capture and layout with tools such as Altium Designer",
-        "Active TS/SCI security clearance",
-        "Specific vision abilities required by this job include close vision, distance vision, peripheral vision, depth perception, and the ability to focus",
-        "Regularly required to sit, use hands and fingers, operate computer keyboard and controls, and communicate verbally and in writing",
-        "Must be physically able to commute to buildings",
-        "To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum, or be eligible to obtain the required authorizations from the U.S",
-        "These checks will include nationality checks as it is a requirement of this position that you be eligible to access equipment and data regulated by the United States' International Traffic in Arms Regulations",
-        "Under these Regulations, you may be ineligible for this role if you do not hold citizenship of Australia, Japan, New Zealand, Switzerland, the European Union or a country that is part of NATO, or if you hold ineligible dual citizenship or nationality"
-      ],
-      "Responsibilities": [
-        "Work with the hardware design team on requirements",
-        "Complete FPGA logic design, coding, simulation, and testing",
-        "Support hardware and software development teams in bring-up and test of products",
-        "Provide subject-matter expertise regarding design and automated test development procedures to customers and production support team",
-        "Perform research and analysis of data, such as customer proposed specifications, datasheets, or manuals to determine design approach and/or feasibility",
-        "Execute debugging of the design in the lab",
-        "Perform synthesis, implementation, and timing analysis"
-      ]
-    },
-    "job_onet_soc": "15113300",
-    "job_onet_job_zone": "4",
-    "id": "simplify-jobs-p-14c9ba5d-845a-49d1-b11d-1ad46bb1e442-senior-firmware-engineer-2",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "HSD7CUe76pPwxnqsAAAAAA==",
-    "job_title": "Lead Firmware Engineer",
-    "employer_name": "STR",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_VZCakyBfgbAVStrqZBeyQ78jkmcyW5WIAJAb&s=0",
-    "employer_website": null,
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/lead-firmware-engineer-at-str-4373896267?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
+      },
       {
         "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/lead-firmware-engineer-at-str-4373896267?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-firmware-engineer-at-progress-rail-a-caterpillar-company-4371372068?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/STR/Job/Lead-Firmware-Engineer/-in-Woburn,MA?jid=8c94a8bb4b25bc96&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Startup Jobs",
-        "apply_link": "https://startup.jobs/lead-firmware-engineer-str-7753337?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/632853abef97da39999b85e9cdf3b2f4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Security Clearance Jobs",
-        "apply_link": "https://www.clearancejobs.com/jobs/8757780/lead-firmware-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Tech HQ",
+        "apply_link": "https://jobs.techhq.com/job/senior-firmware-engineer-QbjwgIyB6y-at-progress-rail-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Built In",
-        "apply_link": "https://builtin.com/job/lead-firmware-engineer/8511287?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Built In Boston",
-        "apply_link": "https://www.builtinboston.com/job/lead-firmware-engineer/8511287?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Talents By Vaia",
-        "apply_link": "https://talents.vaia.com/companies/ziprecruiter/lead-firmware-engineer-32881904/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/fOCKz3SARed2OK1I2ickoHK_GVx8HW6zXQyx69Z7CjDk1v7cIQm_TA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Upskillist Careers",
+        "apply_link": "https://jobbio.upskillist.com/job/senior-firmware-engineer-QbjwgIyB6y-at-progress-rail-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "System Development Division (SDD) is focused on delivering National Defense capabilities by driving mission-focused strategies to develop advanced technology systems enabling enduring products and solutions focused on achieving the customer vision. Our programs deliver sustainable, reliable, and cost-efficient capabilities focused on end-customer needs that function in operationally relevant environments and timeframes. SDD considers the entire lifecycle of the solution, from conceptualization and architecting, through development to deployment, while leveraging novel technologies to deliver first-of-a-kind systems.\n\nSDD is seeking a Lead Firmware Engineer with a strong understanding of digital signal processing as applicable to radar to implement complex system algorithms and interfaces in FPGAs for Radar and EW systems. Applicable projects span all levels of maturity from initial concept generation through design, prototype, development, test, and transition to production. In this role, you will implement, test, and verify designs through simulation and lab test. These FPGA designs could include signal processing across very wide bands, high data rate interfaces, serial interfaces, and complex control logic.\n\nAdditionally, you will support the effort to evaluate current and future system capabilities, identify improved applications and techniques, and ultimately recommend solutions. This position requires skills in working with multidisciplinary teams, supporting development and test activities, as well as technical proficiency in relevant technologies. Strong interpersonal, communication, and technical skills are also required. Applicants are expected to be self-motivated, detail oriented and have a demonstrated ability to effectively communicate with all levels of management and individual contributors on the program team through strong written and verbal communication skills. \n\nWhat you will do:\n• Map system-level radar requirements and algorithms to efficient FPGA architectures\n• Design and implement radar signal processing algorithms in FPGAs (pulse compression, FFT processing, CFAR detection, beamforming, Doppler processing)\n• Develop high-throughput, low-latency processing architectures for real-time radar applications\n• Implement waveform generation, digital down-conversion, and channelization in FPGA fabric\n• Design and optimize pipelined arithmetic units and custom DSP blocks for radar processing\n• Interface FPGAs with high-speed ADCs/DACs for radar RF front-end integration\n• Validating designs with simulation and verification techniques before hardware integration\n• Participating in FPGA development process improvement\n• Supporting full life cycle of development and integration of FPGA firmware into hardware systems\n• Creating and maintaining design documentation and test plans\n• Delivering technical briefings to a range of internal and external stakeholders\n• Coordinating with program managers and technical leads to manage task schedules and budgets\n• Providing mentorship to more junior engineers to accelerate their technical and professional development\n• Building and maintaining high-performing and empowered technical teams\n\nWho you are:\n• This position requires the ability to obtain a Top Secret (TS) security clearance, for which U.S. citizenship is needed by U.S. Government\n• Bachelor’s degree and at least 7 years of applicable experience, a Master’s degree and at least 5 years of applicable experience, or PhD and at least 2 years of applicable experience. Equivalent experience will be considered.\n• Experience with FPGA and SoC design entry using Verilog or VHDL\n• Experience implementing digital signal processing techniques, filter design, FFT/DFT, fixed-point optimization\n• Experience with design flow for Xilinx and/or Intel FPGAs\n• Experience with simulation tools such as ModelSim/Questa, VCS, or Incisive\n• Demonstrated desire to successfully pursue new challenges, improve and broaden technical skills, seek greater responsibilities, and increase individual value to the organization\n• Capable of effectively working in a team environment, often under tight deadlines\n\nNice to Haves:\n• Active Security Clearance at the Secret or Top Secret level\n• Proficient with Xilinx or Altera SoC platforms\n• Proficient with FPGA or ASIC RTL design entry\n• Strong background and experience with industry best practices and version control\n• Proficient with complex timing closure\n• Experience with Matlab, Python, or C/C++\n• Experience with interfacing to high speed DACs and ADCs\n• Knowledge of pulse compression, Doppler processing, beamforming, detection algorithms\n• Previous experience with RFSoC or Analog Devices ADC/DAC\n• Understanding of RF Systems, specifically radar or EW\n\nPay Information\n\nFull-Time Salary Range: $157,000 - $224,000\n\nThe salary range listed is based on external market data. Final offers are based on factors, such as but not limited to, the candidate’s experience, education, training, key skills/critical skills, security clearances, and prevailing market and business conditions.\n\nSTR is a growing technology company with locations near Boston, MA, Arlington, VA, near Dayton, OH, Melbourne, FL, and Carlsbad, CA. We specialize in advanced research and development for defense, intelligence, and national security in: cyber; next generation sensors, radar, sonar, communications, and electronic warfare; and artificial intelligence algorithms and analytics to make sense of the complexity that is exploding around us.\n\nSTR is committed to creating a collaborative learning environment that supports deep technical understanding and recognizes the contributions and achievements of all team members. Our work is challenging, and we go home at night knowing that we pushed the envelope of technology and made the world safer.\n\nSTR is not just any company. Our people, culture, and attitude along with their unique set of skills, experiences, and perspectives put us on a trajectory to change the world. We can't do it alone, though - we need fellow trailblazers. If you are one, join our team and help to keep our society safe! Visit us at www.str.us for more info.\n\nSTR is an equal opportunity employer. We are fully dedicated to hiring the most qualified candidate regardless of race, color, religion, sex (including gender identity, sexual orientation and pregnancy), marital status, national origin, age, veteran status, disability, genetic information or any other characteristic protected by federal, state or local laws.\n\nIf you need a reasonable accommodation for any portion of the employment process, email us at appassist@str.us and provide your contact info.\n\nPursuant to applicable federal law and regulations, positions at STR require employees to obtain national security clearances and satisfy the requirements for compliance with export control and other applicable laws.",
+    "job_description": "Job Purpose\n\nProgress Rail Services Corporation, a Caterpillar Company and a leading provider of services to the Railroad industry in the US, Canada, Mexico, and Brazil, is seeking a highly motivated and experienced SENIOR FIRMWARE ENGINEER to join our team. This role performs the complete software lifecycle for company-developed embedded devices, including software design, implementation, maintenance and end-of-life management. This role is a senior, highly skilled and experienced member of the department and, as such, you’ll be expected to take on additional responsibilities beyond the scope of the immediate job. This position is in Independence, MO.\n\nReq ID\n\n11619BR\n\nWork Location Options\n\nGreater Kansas City Area\n\nCity\n\nIndependence\n\nState:\n\nMissouri\n\nCompany Description\n\nProgress Rail stands at the intersection of legacy and innovation—driving the future of rail with a pioneering spirit. Since its founding in 1983, the company has grown to become one of the world’s largest and most trusted providers of railroad products, services, and technologies. Today, Progress Rail delivers a comprehensive portfolio of cost-effective solutions to railway customers around the globe. From the rails themselves to the EMD® locomotives that ride them, the company’s products are in operation across more than 100 countries—powering progress and connecting communities. In 2006, Progress Rail joined Caterpillar Inc., further strengthening its ability to lead the rail industry with cutting-edge technology, unmatched expertise, and a commitment to excellence. At Progress Rail, the team is not just building the future of rail—they are making history every day.\n\nKey Job Elements\n• Familiarity with common Linux-based operating systems from available software frameworks;\n• Customizes operating systems for product-specific roles;\n• Provides evaluation of hardware for operating system utilization;\n• Provides customization of operating system for specific hardware utilization;\n• Designs software components in operating system specialization;\n• Implements software components in operating system specialization;\n• Maintains software components in operating system specialization, including testing and validation;\n• Performs other job-related duties as assigned.\n\nEducation / Training\n• Bachelor's degree in Electrical Engineering or Computer Science with functional cross-domain skills in working with hardware engineering.\n\nQualifications and Experience\n• Bachelor’s degree in electrical engineering or computer science with functional cross-domain skills in working with hardware engineering;\n• 5 -7+ years of solid embedded software and/or hardware driver development experience;\n• Capable of designing and implementing software, utilizing best practices;\n• Cross-discipline familiarity with embedded devices of different architectures and hardware specifics, ability to work with associated software and\n\nlab-based tools to facilitate completion of tasks;\n• Ability to work with hardware schematics and data sheets to understand impacts to software;\n• Ability to work with stakeholders on appropriate designs and implementation details;\n• Ability to read and modify code written by other people;\n• Proficiency in Microsoft Office (MS Word, PowerPoint and Excel).\n\nPreferred:\n• Software development proficiency in C, C++, C#, Python;\n• Experience with QNX;\n• Rust experience is a strong plus;\n• Full development life cycle from requirements, design, development, board bring-up, to product support;\n• Software engineering best practices for estimation, design, unit, and system testing;\n• Experience with container technologies (Docker, Containerd) or VM;\n• Experience with communication protocols such as TCP/IP, CAN, SPI;\n• Experience with secure protocols such as SSL, SSH;\n• Experience using Agile in a structured development environment such as DO 178C, ISO 26262 or IEC 61508;\n• Experience with Matroska library or Live555 library or another media container or RTP/RTSP library;\n• Excellent organizational, technical leadership and interpersonal skills;\n• Excellent written and oral communication skills; ability to communicate technical concepts and support assertions with data; ability to make\n\ndecisions based on facts;\n• Experience with AWS or other cloud services;\n• Understanding of secure coding concepts;\n• Self-motivated with a strong sense of team environment.\n\nEssential and Physical Activities Functions:\n• Strength - Position typically involves work in an office environment with frequent visits to manufacturing environment. Frequent/constant sitting. Occasional standing and walking. Occasional light- to medium- level lifting or carrying (up to 30 pounds);\n• Motion - Position regularly requires standard motions associated with working in an office environment;\n• Vision/Hearing Requirements - Frequent verbal communications, including both talking and hearing;\n• Work Environment- Position is typically located in an office environment with occasional visits to an industrial environment which may include a non-temperature-controlled environment, as well as exposure to noise (85+ decibels), occasional exposure to temperature changes, heavy machinery and other hazardous working conditions requiring the use of PPE;\n• Emotional Demands - Very high level of responsibility. Must be able to coordinate diverse aspects of a project. Requires significant interpersonal skills while sustaining very high standards. Domestic and international travel as required;\n• Safety - Position may occasionally require the use of Personal Protective Equipment during visits to industrial areas.\n\nThe preceding description is not designed to be a complete list of all duties and responsibilities required of a Senior Firmware Engineer.\n\nBenefits\n\nCompensation and benefits offered may vary depending on multiple individualized factors, job level, market location, job-related knowledge, skills, individual performance, and experience. Please note that salary is only one component of total compensation at Progress Rail.**\n• Competitive Salary\n• 401(k) plan with up to 6% company match (no waiting period with immediate vesting)\n• Medical/Dental/Vision/Life/Disability Insurance\n• Supplemental Accident, Critical Care, and Hospital Insurance available along with an HDHP and HSA with seed money\n• Flexible Spending Accounts\n• Paid Vacation\n• Paid Holidays\n• Paid Time-Off (PTO)\n• Employee Assistance Plan\n• Education Assistance Program\n• Employee Recognition Programs\n• Site specific Production and Incentive Plans\n• Site specific Step and Skill Level Wage Adjustment Plans\n• Site Specific Relocation and Sign-on Bonus Programs\n• Benefits eligibility varies by job position, full-time/part-time and regular/temporary status. The provisions of the plan documents control such benefits.\n• *Subject to position, eligibility, and plan guidelines.\n\nEEO\n\nProgress Rail is an Equal Opportunity Employer, including Veterans and Individuals with Disabilities.\n\nJob Category\n\nEngineering\n\nPRS Facility Location\n\nIndependence, MO PRIIS - 287",
     "job_is_remote": false,
-    "job_posted_at": "1 day ago",
-    "job_posted_at_timestamp": 1771286400,
-    "job_posted_at_datetime_utc": "2026-02-17T00:00:00.000Z",
-    "job_location": "Woburn, MA",
-    "job_city": "Woburn",
-    "job_state": "Massachusetts",
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Independence, MO",
+    "job_city": "Independence",
+    "job_state": "Missouri",
     "job_country": "US",
-    "job_latitude": 42.479261799999996,
-    "job_longitude": -71.1522765,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DHSD7CUe76pPwxnqsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 157000,
-    "job_max_salary": 224000,
-    "job_salary_period": "YEAR",
+    "job_latitude": 39.0911161,
+    "job_longitude": -94.41550679999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMhMp7tKVOakeni3GAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "This position requires skills in working with multidisciplinary teams, supporting development and test activities, as well as technical proficiency in relevant technologies",
-        "Strong interpersonal, communication, and technical skills are also required",
-        "Applicants are expected to be self-motivated, detail oriented and have a demonstrated ability to effectively communicate with all levels of management and individual contributors on the program team through strong written and verbal communication skills. ",
-        "This position requires the ability to obtain a Top Secret (TS) security clearance, for which U.S. citizenship is needed by U.S. Government",
-        "Bachelor’s degree and at least 7 years of applicable experience, a Master’s degree and at least 5 years of applicable experience, or PhD and at least 2 years of applicable experience",
-        "Equivalent experience will be considered",
-        "Experience with FPGA and SoC design entry using Verilog or VHDL",
-        "Experience implementing digital signal processing techniques, filter design, FFT/DFT, fixed-point optimization",
-        "Experience with design flow for Xilinx and/or Intel FPGAs",
-        "Experience with simulation tools such as ModelSim/Questa, VCS, or Incisive",
-        "Demonstrated desire to successfully pursue new challenges, improve and broaden technical skills, seek greater responsibilities, and increase individual value to the organization",
-        "Capable of effectively working in a team environment, often under tight deadlines",
-        "Active Security Clearance at the Secret or Top Secret level",
-        "Proficient with Xilinx or Altera SoC platforms",
-        "Proficient with FPGA or ASIC RTL design entry",
-        "Strong background and experience with industry best practices and version control",
-        "Proficient with complex timing closure",
-        "Experience with Matlab, Python, or C/C++",
-        "Experience with interfacing to high speed DACs and ADCs",
-        "Knowledge of pulse compression, Doppler processing, beamforming, detection algorithms",
-        "Previous experience with RFSoC or Analog Devices ADC/DAC",
-        "Understanding of RF Systems, specifically radar or EW"
+        "Bachelor's degree in Electrical Engineering or Computer Science with functional cross-domain skills in working with hardware engineering",
+        "Bachelor’s degree in electrical engineering or computer science with functional cross-domain skills in working with hardware engineering;",
+        "5 -7+ years of solid embedded software and/or hardware driver development experience;",
+        "Capable of designing and implementing software, utilizing best practices;",
+        "Cross-discipline familiarity with embedded devices of different architectures and hardware specifics, ability to work with associated software and",
+        "lab-based tools to facilitate completion of tasks;",
+        "Ability to read and modify code written by other people;",
+        "Proficiency in Microsoft Office (MS Word, PowerPoint and Excel)",
+        "decisions based on facts;",
+        "Experience with AWS or other cloud services;",
+        "Understanding of secure coding concepts;",
+        "Self-motivated with a strong sense of team environment",
+        "Frequent/constant sitting",
+        "Occasional light- to medium- level lifting or carrying (up to 30 pounds);",
+        "Must be able to coordinate diverse aspects of a project",
+        "Requires significant interpersonal skills while sustaining very high standards"
       ],
       "Benefits": [
-        "Full-Time Salary Range: $157,000 - $224,000",
-        "The salary range listed is based on external market data"
+        "Compensation and benefits offered may vary depending on multiple individualized factors, job level, market location, job-related knowledge, skills, individual performance, and experience",
+        "Competitive Salary",
+        "401(k) plan with up to 6% company match (no waiting period with immediate vesting)",
+        "Medical/Dental/Vision/Life/Disability Insurance",
+        "Supplemental Accident, Critical Care, and Hospital Insurance available along with an HDHP and HSA with seed money",
+        "Flexible Spending Accounts",
+        "Paid Vacation",
+        "Paid Holidays",
+        "Paid Time-Off (PTO)",
+        "Employee Assistance Plan",
+        "Education Assistance Program",
+        "Employee Recognition Programs",
+        "Site specific Production and Incentive Plans",
+        "Site specific Step and Skill Level Wage Adjustment Plans",
+        "Site Specific Relocation and Sign-on Bonus Programs",
+        "Benefits eligibility varies by job position, full-time/part-time and regular/temporary status",
+        "The provisions of the plan documents control such benefits",
+        "*Subject to position, eligibility, and plan guidelines"
       ],
       "Responsibilities": [
-        "SDD is seeking a Lead Firmware Engineer with a strong understanding of digital signal processing as applicable to radar to implement complex system algorithms and interfaces in FPGAs for Radar and EW systems",
-        "Applicable projects span all levels of maturity from initial concept generation through design, prototype, development, test, and transition to production",
-        "In this role, you will implement, test, and verify designs through simulation and lab test",
-        "These FPGA designs could include signal processing across very wide bands, high data rate interfaces, serial interfaces, and complex control logic",
-        "Additionally, you will support the effort to evaluate current and future system capabilities, identify improved applications and techniques, and ultimately recommend solutions",
-        "Map system-level radar requirements and algorithms to efficient FPGA architectures",
-        "Design and implement radar signal processing algorithms in FPGAs (pulse compression, FFT processing, CFAR detection, beamforming, Doppler processing)",
-        "Develop high-throughput, low-latency processing architectures for real-time radar applications",
-        "Implement waveform generation, digital down-conversion, and channelization in FPGA fabric",
-        "Design and optimize pipelined arithmetic units and custom DSP blocks for radar processing",
-        "Interface FPGAs with high-speed ADCs/DACs for radar RF front-end integration",
-        "Validating designs with simulation and verification techniques before hardware integration",
-        "Participating in FPGA development process improvement",
-        "Supporting full life cycle of development and integration of FPGA firmware into hardware systems",
-        "Creating and maintaining design documentation and test plans",
-        "Delivering technical briefings to a range of internal and external stakeholders",
-        "Coordinating with program managers and technical leads to manage task schedules and budgets",
-        "Providing mentorship to more junior engineers to accelerate their technical and professional development",
-        "Building and maintaining high-performing and empowered technical teams"
+        "This role performs the complete software lifecycle for company-developed embedded devices, including software design, implementation, maintenance and end-of-life management",
+        "This role is a senior, highly skilled and experienced member of the department and, as such, you’ll be expected to take on additional responsibilities beyond the scope of the immediate job",
+        "Familiarity with common Linux-based operating systems from available software frameworks;",
+        "Customizes operating systems for product-specific roles;",
+        "Provides evaluation of hardware for operating system utilization;",
+        "Provides customization of operating system for specific hardware utilization;",
+        "Designs software components in operating system specialization;",
+        "Implements software components in operating system specialization;",
+        "Maintains software components in operating system specialization, including testing and validation;",
+        "Performs other job-related duties as assigned",
+        "Ability to work with hardware schematics and data sheets to understand impacts to software;",
+        "Ability to work with stakeholders on appropriate designs and implementation details;",
+        "Strength - Position typically involves work in an office environment with frequent visits to manufacturing environment",
+        "Occasional standing and walking",
+        "Motion - Position regularly requires standard motions associated with working in an office environment;",
+        "Vision/Hearing Requirements - Frequent verbal communications, including both talking and hearing;",
+        "Work Environment- Position is typically located in an office environment with occasional visits to an industrial environment which may include a non-temperature-controlled environment, as well as exposure to noise (85+ decibels), occasional exposure to temperature changes, heavy machinery and other hazardous working conditions requiring the use of PPE;",
+        "Emotional Demands - Very high level of responsibility",
+        "Domestic and international travel as required;",
+        "Safety - Position may occasionally require the use of Personal Protective Equipment during visits to industrial areas"
       ]
     },
     "job_onet_soc": "15113300",
     "job_onet_job_zone": "4",
-    "id": "www-linkedin-com-jobs-view-lead-firmware-engineer-at-str-4373896267",
+    "id": "www-glassdoor-com-job-listing-senior-firmware-engineer-progress-rail-a-caterpillar-company-jv_ic1131039_ko0-24_ke25-60-htm",
     "_source": "new_jobs"
   },
   {
@@ -2100,6 +2077,80 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "vjtQ5MskOU0ElfPKAAAAAA==",
+    "job_title": "Senior Firmware Engineer 2",
+    "employer_name": "Rocket Lab USA",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhmTPlXd3rAFz8wQmNX3kjLkTQgxnniu4bZ35V&s=0",
+    "employer_website": "https://rocketlabcorp.com",
+    "job_publisher": "Simplify",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://simplify.jobs/p/14c9ba5d-845a-49d1-b11d-1ad46bb1e442/Senior-Firmware-Engineer-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Simplify",
+        "apply_link": "https://simplify.jobs/p/14c9ba5d-845a-49d1-b11d-1ad46bb1e442/Senior-Firmware-Engineer-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "ABOUT ROCKET LAB\n\nRocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more – all with the goal of opening access space. The rockets and satellites we build, and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observation and missions to combat climate change, national security, and exciting new technology demonstrations.\n\nOur Electron rocket has become the second most frequently launched U.S. rocket annually and has delivered more than 230 satellites to orbit, all while we work to develop Neutron, our upcoming medium-lift, reusable launch vehicle for larger constellation deployment. Our Space Systems business designs and builds our extensive line of satellites, payloads, and their components, including spacecraft that have been selected to support NASA missions to the Moon and Mars and components used on the James Webb Space Telescope.\n\nSPACE SYSTEMS\n\nAt Rocket Lab, we’re not just launching rockets — we're building the future of space. Our Space Systems team builds everything from complete spacecraft, precision payloads to the components and subsystems that allow them to thrive in space, like solar panels, flight software, star trackers, optical systems, separation systems, radios, and more.\n\nOur Space Systems team has enabled more than 1,700 missions, ranging from interplanetary exploration, in-space manufacturing to national security and defense initiatives. The team has built spacecraft, payloads, and components for missions to the Moon and Mars, working with partners including NASA, the Space Development Agency, and the U.S. Space Force. Whether it’s a single high-performance spacecraft, constellation, or the vertically integrated components that help them get to space — our world class Space Systems team is empowering some of the boldest and most ambitious space missions.\n\nSENIOR FIRMWARE ENGINEER II\n\nRocket Lab’s Optical Systems division solves mission-critical space domain and Intelligence, Surveillance, and Reconnaissance (ISR) challenges for Department of Defense (DoD) and Intelligence Community (IC) customers. Our vision is to revolutionize the space-based payload market with innovative and novel designs for space, terrestrial, and airborne environments. Building on more than 20 years of electro-optical and infrared systems innovation from Geost, Optical Systems delivers solutions to the warfighter for responsive, scalable sensing solutions across all orbital domains.\n\nAs a Senior Firmware Engineer II based at our Optical Systems sites in Tucson, AZ, you will have the opportunity to support Tranche 3 of the U.S. Space Development Agency's (SDA) Proliferated Warfighter Space Architecture (PWSA) using the latest FPGA technologies including Xilinx to support advanced Electro-Optical (EO/IR) technology.\n\nWHAT YOU’LL GET TO DO\n• Work with the hardware design team on requirements.\n• Complete FPGA logic design, coding, simulation, and testing.\n• Support hardware and software development teams in bring-up and test of products.\n• Provide subject-matter expertise regarding design and automated test development procedures to customers and production support team.\n• Perform research and analysis of data, such as customer proposed specifications, datasheets, or manuals to determine design approach and/or feasibility.\n• Execute debugging of the design in the lab.\n• Perform synthesis, implementation, and timing analysis.\n\nYOU’LL BRING THESE QUALIFICATIONS AS SENIOR FIRMWARE ENGINEER II:\n• Bachelor’s degree in computer engineering or electrical engineering or equivalent discipline with 8-12 years of experience\n• Experience in FPGA firmware design with VHDL.\n• Ability to obtain and maintain an U.S. Government Security Clearance\n\nTHESE QUALIFICATIONS WOULD BE NICE TO HAVE:\n• Experience with Xilinx/AMD Versal architecture\n• Experience with FPGAs and embedded systems in a radiation environment, including SEU/SEL impact and mitigation.\n• Experience in FPGA- or ASIC-based image processing algorithms.\n• Experience in both creating IP from scratch in RTL and integrating existing IP into RTL and block designs.\n• Familiarity with C, Python or MATLAB and/or experience translating algorithms from a scripted language to HDL.\n• Experience with software interfaces including interrupts and DMA.\n• Experience with DDR4, Aurora, and high-speed transceiver design and verification.\n• Familiarity with AXI Stream and AXI Memory Mapped interfaces.\n• PCB design and schematic capture and layout with tools such as Altium Designer.\n• Active TS/SCI security clearance.\n\nADDITIONAL REQUIREMENTS:\n• Specific vision abilities required by this job include close vision, distance vision, peripheral vision, depth perception, and the ability to focus\n• Regularly required to sit, use hands and fingers, operate computer keyboard and controls, and communicate verbally and in writing\n• Must be physically able to commute to buildings\n\nWHAT TO EXPECT\n\nWe’re on a mission to unlock the potential of space to improve life on Earth, but that’s not an easy task. It takes hard work, determination, relentless innovation, teamwork, grit, and an unwavering commitment to achieving what others often deem impossible. Our people out-think, out-work and out-pace. We pride ourselves on having each other’s backs, checking our egos at the door, and rolling up our sleeves on all tasks big and small. We thrive under pressure, work to tight deadlines, and our focus is always on how we can deliver, rather than dwelling on the challenges that stand in the way.\n\nImportant information:\n\nFOR CANDIDATES SEEKING TO WORK IN US OFFICES ONLY:\n\nTo conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum, or be eligible to obtain the required authorizations from the U.S. Department of State and/or the U.S. Department of Commerce, as applicable. Learn more about ITAR here.\n\nRocket Lab provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment at Rocket Lab, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.\n\nApplicants requiring a reasonable accommodation for the application/interview process for a job in the United States should contact Giulia Johnson at g.biow@rocketlabusa.com.This dedicated resource is intended solely to assist job seekers with disabilities whose disability prevents them from being able to apply/interview. Only messages left for this purpose will be considered. A response to your request may take up to two business days.\n\nFOR CANDIDATES SEEKING TO WORK IN NEW ZEALAND OFFICES ONLY:\n\nFor security reasons background checks will be undertaken prior to any employment offers being made to an applicant. These checks will include nationality checks as it is a requirement of this position that you be eligible to access equipment and data regulated by the United States' International Traffic in Arms Regulations.\n\nUnder these Regulations, you may be ineligible for this role if you do not hold citizenship of Australia, Japan, New Zealand, Switzerland, the European Union or a country that is part of NATO, or if you hold ineligible dual citizenship or nationality. For more information on these Regulations, click here ITAR Regulations.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Tucson, AZ",
+    "job_city": "Tucson",
+    "job_state": "Arizona",
+    "job_country": "US",
+    "job_latitude": 32.2539787,
+    "job_longitude": -110.97417689999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DvjtQ5MskOU0ElfPKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor’s degree in computer engineering or electrical engineering or equivalent discipline with 8-12 years of experience",
+        "Experience in FPGA firmware design with VHDL",
+        "Ability to obtain and maintain an U.S. Government Security Clearance",
+        "Experience with Xilinx/AMD Versal architecture",
+        "Experience with FPGAs and embedded systems in a radiation environment, including SEU/SEL impact and mitigation",
+        "Experience in FPGA- or ASIC-based image processing algorithms",
+        "Experience in both creating IP from scratch in RTL and integrating existing IP into RTL and block designs",
+        "Familiarity with C, Python or MATLAB and/or experience translating algorithms from a scripted language to HDL",
+        "Experience with software interfaces including interrupts and DMA",
+        "Experience with DDR4, Aurora, and high-speed transceiver design and verification",
+        "Familiarity with AXI Stream and AXI Memory Mapped interfaces",
+        "PCB design and schematic capture and layout with tools such as Altium Designer",
+        "Active TS/SCI security clearance",
+        "Specific vision abilities required by this job include close vision, distance vision, peripheral vision, depth perception, and the ability to focus",
+        "Regularly required to sit, use hands and fingers, operate computer keyboard and controls, and communicate verbally and in writing",
+        "Must be physically able to commute to buildings",
+        "To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum, or be eligible to obtain the required authorizations from the U.S",
+        "These checks will include nationality checks as it is a requirement of this position that you be eligible to access equipment and data regulated by the United States' International Traffic in Arms Regulations",
+        "Under these Regulations, you may be ineligible for this role if you do not hold citizenship of Australia, Japan, New Zealand, Switzerland, the European Union or a country that is part of NATO, or if you hold ineligible dual citizenship or nationality"
+      ],
+      "Responsibilities": [
+        "Work with the hardware design team on requirements",
+        "Complete FPGA logic design, coding, simulation, and testing",
+        "Support hardware and software development teams in bring-up and test of products",
+        "Provide subject-matter expertise regarding design and automated test development procedures to customers and production support team",
+        "Perform research and analysis of data, such as customer proposed specifications, datasheets, or manuals to determine design approach and/or feasibility",
+        "Execute debugging of the design in the lab",
+        "Perform synthesis, implementation, and timing analysis"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "simplify-jobs-p-14c9ba5d-845a-49d1-b11d-1ad46bb1e442-senior-firmware-engineer-2",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "VnbsfV60zmQjjfXXAAAAAA==",
     "job_title": "Firmware Engineer",
     "employer_name": "Globus Medical",
@@ -2131,9 +2182,9 @@
     ],
     "job_description": "At Globus Medical, we move with a sense of urgency to deliver innovations that improve the quality of life of patients with musculoskeletal disorders. Our team is inspired by the needs of these patients, and the surgeons and healthcare providers who treat them. We embrace a culture of exceptional response by partnering with researchers and educators to transform clinical insights into tangible solutions. Our solutions improve the techniques and outcomes of surgery so patients can resume their lives as quickly as possible.\n\nPosition Summary\n\nThe Firmware Engineer shall participate in research and product development activities ranging from product concept through transfer to manufacturing. This position will apply knowledge of engineering principles and practices for software development of implantable medical devices and accessories.\n\nEssential Functions\n• Develops embedded and PC-based software, which interacts with devices such as an implantable stimulator or wand. Development activities include definition of requirements, design and implementation, and verification and validation.\n• Debug and analyze device issues and field returns.\n• Develops software in a regulated environment in accordance with internal operating procedures and external standards and regulations. Conducts cross-functional reviews of software development at appropriate times in the development cycle.\n• Significantly self-directed. Determines and pursues courses of action necessary to obtain desired results. Proactively identifies areas of developmental risk and communicates these to management accordingly.\n• Responsible for planning, developing, coordinating, and directing significant engineering development or a number of small projects with many complex features, utilizing internal and external resources.\n• Guides the transition of advanced technologies into final products. Works closely with other product development team members to assure that their designs interface properly with other system components and to ensure that the overall system meets its performance requirements.\n• Assesses new technologies via reviews of the state of the art or by performing proof of concept work. The results of this assessment must be communicated to the software team or other members of the development organization.\n• Contributes to the intellectual property base of the Company via active communication of new concepts to Management.\n• Works in accordance with quality system procedures and actively enforces its objectives.\n• Adheres to the letter and spirit of the company Code of Conduct, the AdvaMed Code, MedTech Code, and all other company policies.\n• Ensures Compliance with applicable governmental laws, rules, and regulations, both in the United States and internationally, by completing introductory and annual training and maintaining knowledge of compliance as it applies to your role.\n• Represents the company in a professional manner and uphold the highest standards of ethical business practices and socially responsible conduct in all interactions with other employees, customers, suppliers, and other third parties.\n\nReasonable accommodations may be made to enable individuals with disabilities to perform these essential functions.\n\nQualifications\n• B.S. in Computer Engineering, Electrical Engineering, or similar degree.\n• Must have 3-5 experience in software design for embedded systems is required.\n• Knowledge of C and an understanding of embedded firmware are required.\n• Experience in working in a high-reliability field such as automotive, aeronautical or medical is highly preferred.\n• Hands-on experience with oscilloscopes, bus analyzers and logic analyzers is also required.\n• Knowledge of Assembly, C++, C# and other relevant development languages is also desired.\n• Hands on experience with ARM microcontrollers and wireless communication technology is preferred.\n• It is preferred that this candidate has experience in implantable medical device development.\n• Functional familiarity with the FDA Submission process, ISO Requirements and QSR requirements is also preferred.\n\nPhysical Demands\n\nThe physical demands listed here are representative of those that must be met by and employee to successfully perform the essential functions of this job.\n• Required to sit; climb or balance; and stoop, kneel, crouch or crawl\n• Required to regularly lift and/or move up to 10 pounds, and occasionally lift and/or move up to 25 pounds\n• Required to possess specific visons abilities, including: close vision, distance vision, color vision, peripheral vision, depth perception and capacity to adjust focus.\n\nOur Values\n\nOur Life Moves Us philosophy is built on four values: Passionate About Innovation, Customer Focused, Teamwork, and Driven.\n• Passionate about Innovation: Improving patient care by delivering advanced technology to our customers is at the core of what we do. We are passionate in our role in improving the lives of patients by continuously developing better solutions.\n• Customer Focused: We listen to our customers’ needs and respond with a sense of urgency.\n• Teamwork: Working together, anything is possible. We value every person on our team and treat each other with respect. We are accountable to one another and support each other. Together, we make each other stronger.\n• Driven: We pursue our mission with energy and passion. We are nimble, results-oriented and decisive. We overcome obstacles that arise in our quest to deliver solutions that will improve the lives of our customers and patients.\n\nEqual Employment Opportunity\n\nGlobus Medical is an equal opportunity employer. All applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, age, disability, marital status, pregnancy, national origin or citizenship. We are committed to a diverse workforce. We value all employees’ talents and support an environment that is inclusive and respectful.\n\nOther Duties\n\nPlease note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.",
     "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
     "job_location": "King of Prussia, PA",
     "job_city": "King of Prussia",
     "job_state": "Pennsylvania",
@@ -2187,6 +2238,81 @@
     "job_onet_soc": "15113300",
     "job_onet_job_zone": "4",
     "id": "www-linkedin-com-jobs-view-firmware-engineer-at-globus-medical-4356481809",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "QP9jmCM_ggKgtYWLAAAAAA==",
+    "job_title": "Intern Firmware Engineer Spring 2026 (Wilmington, MA)",
+    "employer_name": "Advanced Energy",
+    "employer_logo": null,
+    "employer_website": "https://www.advancedenergy.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=0a1d0f28f8e6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=0a1d0f28f8e6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "ABOUT ADVANCED ENERGY\n\nAdvanced Energy (Nasdaq : AEIS) is a global leader in the design and manufacturing of highly engineered precision power conversion measurement and control solutions for mission-critical applications and power solutions enable customer innovation in complex applications for a wide range of industries including semiconductor equipment industrial manufacturing telecommunications data center computing and healthcare. Advanced Energy has devoted four decades to perfecting power for its global customers and is headquartered in Denver Colorado.\n\nPOSITION SUMMARY :\n\nAdvanced Energy is currently seeking Firmware / Software Design Engineering Interns and Co-Ops to support development activities across our North American design sites. Successful candidates will carry out their internships at Advanced Energys sites in Colorado Minnesota Massachusetts or California. They will work with an experienced engineering team closely collaborating on the development of high-performance precision efficient and cost-effective power conversion metrology or controls solutions. Only post-graduate candidates will be considered for summer and school-year internships. Candidates should be actively pursuing degree programs at one of the following institutions : University of Colorado Colorado State University University of Minnesota San Jose State University Massachusetts Institute of Technology Northeastern University or Stanford University.\n\n40 hours per week is preferred but reduced hours will be considered for those carrying a class load during school-year semesters.\n\nRESPONSIBILITIES :\n\nCandidates may perform and support design activities related to any of the following :\n• Development of embedded firmware for use in products\n• Development and implementation of control algorithms\n• Development of software for product interface in test and / or user environments\n• Active participation in a core team to meet schedule cost and customer satisfaction goals\n• Assist in development testing and de-bugging of prototype power supply units\n• Analyze test data and reports against functional and performance specifications\n• Interface with internal departments to ensure cost and schedule goals are met\n\nQUALIFICATIONS : Required :\n• Programming ability in high level languages such as Python HDL C C and / or assembly languages in embedded environment\n• Working knowledge of microcontrollers field-programmable gate arrays hardware circuit theory and / or software development tools\n• Demonstrated proficiency with Windows-based platforms and with computer-based design and analysis tools working knowledge of MS Office Suite\n• Ability to work in a lab environment debugging firmware software or embedded systems and evaluating product spec compliance\n• Ability to work independently and as part of a team\n• Ability to meet schedule requirements and define priorities without direct supervision\n\nPreferred :\n• Ability to work with embedded systems hardware and read schematics\n• Familiarity with communication protocols such as Ethercat Fieldbus SPI and I2C\n• Knowledgeable and / or experienced in emerging technologies including CyberSecurity and Machine Learning\n\nEDUCATION :\n• Candidates working towards MS or PhD degrees in Electrical Engineering Computer Engineering or Computer Science. Preference will be given to those with Embedded Systems and / or Controls focus. Other fields will be considered based on applicability\n• GPA >\n\n3.25\n\nCOMPENSATION :\n\nAs required by multiple state pay transparency laws Advanced Energy provides a reasonable range of compensation for each job posting. Actual compensation is influenced by an array of factors including but not limited to skill set level of experience and specific office location. The range of starting pay for this role is $28 to $38 per hour.\n\nAdvanced Energy is committed to diversity in its workforce including Equal Opportunity Employment. All qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin disability and / or veteran status.\n\nAdvanced Energy is also committed to providing reasonable accommodation in our job application process / procedures for qualified individuals with disabilities. If you require assistance in completing an Advanced Energy application please reach out to\n\nRequired Experience :\n\nIntern\n\nKey Skills\n\nEmbedded Software,Robotics,Arm,Firmware,Debugging,C / C++,Zigbee,OS Kernels,Signal Processing,Ethernet,Assembly,Internet Of Things\n\nEmployment Type : Intern\n\nExperience : years\n\nVacancy : 1\n\nHourly Salary Salary : 28 - 38",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Wilmington, DE",
+    "job_city": "Wilmington",
+    "job_state": "Delaware",
+    "job_country": "US",
+    "job_latitude": 39.744655,
+    "job_longitude": -75.5483909,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQP9jmCM_ggKgtYWLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Programming ability in high level languages such as Python HDL C C and / or assembly languages in embedded environment",
+        "Working knowledge of microcontrollers field-programmable gate arrays hardware circuit theory and / or software development tools",
+        "Demonstrated proficiency with Windows-based platforms and with computer-based design and analysis tools working knowledge of MS Office Suite",
+        "Ability to work in a lab environment debugging firmware software or embedded systems and evaluating product spec compliance",
+        "Ability to work independently and as part of a team",
+        "Ability to meet schedule requirements and define priorities without direct supervision",
+        "Candidates working towards MS or PhD degrees in Electrical Engineering Computer Engineering or Computer Science",
+        "Preference will be given to those with Embedded Systems and / or Controls focus",
+        "Other fields will be considered based on applicability",
+        "GPA >",
+        "Intern",
+        "Embedded Software,Robotics,Arm,Firmware,Debugging,C / C++,Zigbee,OS Kernels,Signal Processing,Ethernet,Assembly,Internet Of Things"
+      ],
+      "Benefits": [
+        "As required by multiple state pay transparency laws Advanced Energy provides a reasonable range of compensation for each job posting",
+        "Actual compensation is influenced by an array of factors including but not limited to skill set level of experience and specific office location",
+        "The range of starting pay for this role is $28 to $38 per hour",
+        "Hourly Salary Salary : 28 - 38"
+      ],
+      "Responsibilities": [
+        "40 hours per week is preferred but reduced hours will be considered for those carrying a class load during school-year semesters",
+        "Candidates may perform and support design activities related to any of the following :",
+        "Development of embedded firmware for use in products",
+        "Development and implementation of control algorithms",
+        "Development of software for product interface in test and / or user environments",
+        "Active participation in a core team to meet schedule cost and customer satisfaction goals",
+        "Assist in development testing and de-bugging of prototype power supply units",
+        "Analyze test data and reports against functional and performance specifications",
+        "Interface with internal departments to ensure cost and schedule goals are met"
+      ]
+    },
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   }
 ]
