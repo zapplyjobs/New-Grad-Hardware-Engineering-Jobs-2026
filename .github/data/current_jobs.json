@@ -148,9 +148,9 @@
     "job_latitude": 43.156577899999995,
     "job_longitude": -77.6088465,
     "job_benefits": [
+      "health_insurance",
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DeunV6q7Z6HJj35ZeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -210,127 +210,6 @@
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
     "id": "careers-gevernova-com-lead-hardware-engineer-digital-design-industrialization-job-r5030236",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "zm4mFNDeB44pK_TYAAAAAA==",
-    "job_title": "Lead Design Engineer – Advanced Concepts & Prototypes – Aerospace Research",
-    "employer_name": "GE Aerospace",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3iRcWQHpHkwnn0LS0v9plLwDo5g4FP7sj86GA&s=0",
-    "employer_website": "https://www.geaerospace.com",
-    "job_publisher": "GE Aerospace Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.geaerospace.com/global/en/job/R5025320/Lead-Design-Engineer-Advanced-Concepts-Prototypes-Aerospace-Research?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "GE Aerospace Careers",
-        "apply_link": "https://careers.geaerospace.com/global/en/job/R5025320/Lead-Design-Engineer-Advanced-Concepts-Prototypes-Aerospace-Research?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Workday",
-        "apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Niskayuna/Lead-Design-Engineer---Advanced-Concepts---Prototypes---Aerospace-Research_R5025320-1/apply?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=4659a7b755a6620c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WIZBII Jobs",
-        "apply_link": "https://en.wizbii.com/company/general-electric/job/lead-design-engineer-advanced-concepts-prototypes-aerospace-research-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LocalJobs.com",
-        "apply_link": "https://www.localjobs.com/job/niskayuna-ny-lead-design-engineer-advanced-concepts-prototypes-aerospace-research-0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/AioTZ2xQHbyDN9SEOUiwhZhcEmdpJPFPHua7odlN70UcTqCfqeE80Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/lead-design-engineer-%E2%80%93-advanced-concepts-prototypes-%E2%80%93-aerospace-research-at-ge-aerospace-4366769280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Description Summary\nThe Lead Design Engineer – Advanced Concepts & Prototypes will turn the cutting-edge technology of GE Aerospace Research into the next generation of flight. Design, build, and test system prototypes that push new technologies to their limits to prove their capability. Execute mechanical design as a key member of a large multi-disciplinary team including technologists, engineers, and advanced manufacturing experts. Use system-level thinking to find the shortest path between idea and test. A successful applicant will have previous hands-on experience in mechanical design of turbomachinery, design for manufacturing, assembly, and test execution.\n\nJob Description\nEssential Responsibilities\n• Execute with guidance the mechanical design of complex test systems, prototypes, and technology demos incorporating a range of new technologies.\n• Collaborate with senior engineers, researchers, and facilities focals to turn high level system goals and test objectives into detailed design requirements.\n• Collaborate with a multidisciplinary team of designers, analysts, and researchers to complete design tasks in support of next generation rigs.\n• Use engineering judgement to identify key design features to meet the testing goals and simplify non-critical features to accelerate time to test.\n• Apply established design methodology as appropriate to create prototypes that properly model future products.\n• Assist in the creation of new design methodologies as required to reduce new technology to practice. Record lessons learned to inform future engineering teams.\n• Support manufacturing, assembly, and commissioning of prototypes and related test systems.\n• Mentor and guide those less experienced in applied mechanical design.\n\nRequired Qualifications\n• Bachelor’s degree in engineering from an accredited university or college.\n• Minimum of 5 years total experience in mechanical design\n• Detailed hardware design from concept to manufacturing drawing\n• Experience selecting and executing analysis methods ranging from hand calc to Finite Element Analysis\n• Design for manufacturing & assembly (DFMA)\n• Definition of component requirements for manufacturing teams and vendors\n• Proficiency in CAD\n• Minimum of 3 years experience as in turbomachinery mechanical design\n(Examples: High speed rotors, turbine engine structures, hot section components, etc))\n• Create detailed component-level requirements to meet overall system goals\n• Technical project planning for design of components & modules requiring coordination with multiple disciplines.\n• Integration of components into turbomachine system\n• Communication to working team & project leadership\n• Must be willing to work onsite in Niskayuna, NY\n• Due to the nature of the duties of this position, this role requires the individual to obtain and maintain US Government Security Clearance; prerequisite for a security clearance is U.S. citizenship.\n\nDesired Characteristics\n• Master’s degree in engineering from an accredited university or college\n• Experience in prototype creation & testing\n• Conceptual design of components outside industry experience\n• Design for test (prototype & test enabling hardware)\n• Test facility integration\n• Test plan creation\n• Test safety management\n• Instrumentation and measurement\n• Hands-on assembly\n• Test execution\n• Familiarity with preferred design and analysis tools\n• Siemens NX\n• ANSYS\n• Technical Communication\n• Generation and documentation of design processes\n• Communication across internal organizations & with external groups such as suppliers, partners, and/or customers\n• Coordination with on-site, remote, and global team members\n• Application of Lean principles in design process\n• Continual improvement\n• Iterative design process\n• Technology maturation process\n• Technology Readiness Level (TRL) & Tech mat planning\n• Root Cause Analysis (RCA) & Failure Modes and Effects Analysis (FMEA)\n\nThe base pay range for this position is $90,000 - $175,000 USD annually. The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set. This position is also eligible for an annual discretionary bonus based on a percentage of your base salary/ commission based on the plan. This posting is expected to close on April 30th 2026\n\nGE Aerospace offers comprehensive benefits and programs to support your health and, along with programs like HealthAhead, your physical, emotional, financial and social wellbeing. Healthcare benefits include medical, dental, vision, and prescription drug coverage; access to a Health Coach from GE Aerospace; and the Employee Assistance Program, which provides 24/7 confidential assessment, counseling and referral services. Retirement benefits include the GE Aerospace Retirement Savings Plan, a 401(k) savings plan with company matching contributions and company retirement contributions, as well as access to Fidelity resources and planning consultants. Other benefits include tuition assistance, adoption assistance, paid parental leave, disability insurance, life insurance, and paid time-off for vacation or illness. ​\n\nGE Aerospace (General Electric Company or the Company) and its affiliates each sponsor certain employee benefit plans or programs (i.e., is a “Sponsor”). Each Sponsor reserves the right to terminate, amend, suspend, replace or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a Sponsor’s welfare benefit plan or program. This document does not create a contract of employment with any individual.\n\n#LI-MH1\n\nThis role requires access to U.S. export-controlled information. Therefore, employment will be contingent upon the ability to prove that you meet the status of a U.S. Person as one of the following: U.S. lawful permanent resident, U.S. Citizen, have been granted asylee or refugee status (i.e., a protected individual under the Immigration and Naturalization Act, 8 U.S.C. 1324b(a)(3)).\n\nAdditional Information\n\nGE Aerospace offers a great work environment, professional development, challenging careers, and competitive compensation. GE Aerospace is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.\n\nGE Aerospace will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable).\n\nRelocation Assistance Provided: Yes",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Niskayuna",
-    "job_city": "Niskayuna",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 42.8000049,
-    "job_longitude": -73.89144069999999,
-    "job_benefits": [
-      "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dzm4mFNDeB44pK_TYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Use system-level thinking to find the shortest path between idea and test",
-        "A successful applicant will have previous hands-on experience in mechanical design of turbomachinery, design for manufacturing, assembly, and test execution",
-        "Mentor and guide those less experienced in applied mechanical design",
-        "Bachelor’s degree in engineering from an accredited university or college",
-        "Minimum of 5 years total experience in mechanical design",
-        "Detailed hardware design from concept to manufacturing drawing",
-        "Experience selecting and executing analysis methods ranging from hand calc to Finite Element Analysis",
-        "Design for manufacturing & assembly (DFMA)",
-        "Definition of component requirements for manufacturing teams and vendors",
-        "Proficiency in CAD",
-        "Minimum of 3 years experience as in turbomachinery mechanical design",
-        "(Examples: High speed rotors, turbine engine structures, hot section components, etc))",
-        "Communication to working team & project leadership",
-        "Must be willing to work onsite in Niskayuna, NY",
-        "Due to the nature of the duties of this position, this role requires the individual to obtain and maintain US Government Security Clearance; prerequisite for a security clearance is U.S. citizenship",
-        "Therefore, employment will be contingent upon the ability to prove that you meet the status of a U.S. Person as one of the following: U.S. lawful permanent resident, U.S. Citizen, have been granted asylee or refugee status (i.e., a protected individual under the Immigration and Naturalization Act, 8 U.S.C"
-      ],
-      "Benefits": [
-        "The base pay range for this position is $90,000 - $175,000 USD annually",
-        "The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set",
-        "This position is also eligible for an annual discretionary bonus based on a percentage of your base salary/ commission based on the plan",
-        "GE Aerospace offers comprehensive benefits and programs to support your health and, along with programs like HealthAhead, your physical, emotional, financial and social wellbeing",
-        "Healthcare benefits include medical, dental, vision, and prescription drug coverage; access to a Health Coach from GE Aerospace; and the Employee Assistance Program, which provides 24/7 confidential assessment, counseling and referral services",
-        "Retirement benefits include the GE Aerospace Retirement Savings Plan, a 401(k) savings plan with company matching contributions and company retirement contributions, as well as access to Fidelity resources and planning consultants",
-        "Other benefits include tuition assistance, adoption assistance, paid parental leave, disability insurance, life insurance, and paid time-off for vacation or illness",
-        "Each Sponsor reserves the right to terminate, amend, suspend, replace or modify its benefit plans and programs at any time and for any reason, in its sole discretion",
-        "No individual has a vested right to any benefit under a Sponsor’s welfare benefit plan or program"
-      ],
-      "Responsibilities": [
-        "Execute mechanical design as a key member of a large multi-disciplinary team including technologists, engineers, and advanced manufacturing experts",
-        "Execute with guidance the mechanical design of complex test systems, prototypes, and technology demos incorporating a range of new technologies",
-        "Collaborate with senior engineers, researchers, and facilities focals to turn high level system goals and test objectives into detailed design requirements",
-        "Collaborate with a multidisciplinary team of designers, analysts, and researchers to complete design tasks in support of next generation rigs",
-        "Use engineering judgement to identify key design features to meet the testing goals and simplify non-critical features to accelerate time to test",
-        "Apply established design methodology as appropriate to create prototypes that properly model future products",
-        "Assist in the creation of new design methodologies as required to reduce new technology to practice",
-        "Record lessons learned to inform future engineering teams",
-        "Support manufacturing, assembly, and commissioning of prototypes and related test systems",
-        "Create detailed component-level requirements to meet overall system goals",
-        "Technical project planning for design of components & modules requiring coordination with multiple disciplines",
-        "Integration of components into turbomachine system"
-      ]
-    },
-    "job_onet_soc": "17201100",
-    "job_onet_job_zone": "4",
-    "id": "careers-geaerospace-com-global-en-job-r5025320-lead-design-engineer-advanced-concepts-prototypes-aerospace-research",
     "_source": "new_jobs"
   },
   {
@@ -480,8 +359,8 @@
     "job_latitude": 30.267152999999997,
     "job_longitude": -97.7430608,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DhnNixE83KdCLyvNYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 142000,
@@ -709,9 +588,9 @@
     "job_latitude": 42.8000049,
     "job_longitude": -73.89144069999999,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzZOlaqKz-NKfXZOCAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -811,8 +690,8 @@
     "job_longitude": -72.6733723,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2TZ54nvQ33ZrcGF0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -864,6 +743,240 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "zm4mFNDeB44pK_TYAAAAAA==",
+    "job_title": "Lead Design Engineer – Advanced Concepts & Prototypes – Aerospace Research",
+    "employer_name": "GE Aerospace",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3iRcWQHpHkwnn0LS0v9plLwDo5g4FP7sj86GA&s=0",
+    "employer_website": "https://www.geaerospace.com",
+    "job_publisher": "GE Aerospace Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.geaerospace.com/global/en/job/R5025320/Lead-Design-Engineer-Advanced-Concepts-Prototypes-Aerospace-Research?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "GE Aerospace Careers",
+        "apply_link": "https://careers.geaerospace.com/global/en/job/R5025320/Lead-Design-Engineer-Advanced-Concepts-Prototypes-Aerospace-Research?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Workday",
+        "apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Niskayuna/Lead-Design-Engineer---Advanced-Concepts---Prototypes---Aerospace-Research_R5025320-1/apply?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=4659a7b755a6620c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WIZBII Jobs",
+        "apply_link": "https://en.wizbii.com/company/general-electric/job/lead-design-engineer-advanced-concepts-prototypes-aerospace-research-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LocalJobs.com",
+        "apply_link": "https://www.localjobs.com/job/niskayuna-ny-lead-design-engineer-advanced-concepts-prototypes-aerospace-research-0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/AioTZ2xQHbyDN9SEOUiwhZhcEmdpJPFPHua7odlN70UcTqCfqeE80Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/lead-design-engineer-%E2%80%93-advanced-concepts-prototypes-%E2%80%93-aerospace-research-at-ge-aerospace-4366769280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Description Summary\nThe Lead Design Engineer – Advanced Concepts & Prototypes will turn the cutting-edge technology of GE Aerospace Research into the next generation of flight. Design, build, and test system prototypes that push new technologies to their limits to prove their capability. Execute mechanical design as a key member of a large multi-disciplinary team including technologists, engineers, and advanced manufacturing experts. Use system-level thinking to find the shortest path between idea and test. A successful applicant will have previous hands-on experience in mechanical design of turbomachinery, design for manufacturing, assembly, and test execution.\n\nJob Description\nEssential Responsibilities\n• Execute with guidance the mechanical design of complex test systems, prototypes, and technology demos incorporating a range of new technologies.\n• Collaborate with senior engineers, researchers, and facilities focals to turn high level system goals and test objectives into detailed design requirements.\n• Collaborate with a multidisciplinary team of designers, analysts, and researchers to complete design tasks in support of next generation rigs.\n• Use engineering judgement to identify key design features to meet the testing goals and simplify non-critical features to accelerate time to test.\n• Apply established design methodology as appropriate to create prototypes that properly model future products.\n• Assist in the creation of new design methodologies as required to reduce new technology to practice. Record lessons learned to inform future engineering teams.\n• Support manufacturing, assembly, and commissioning of prototypes and related test systems.\n• Mentor and guide those less experienced in applied mechanical design.\n\nRequired Qualifications\n• Bachelor’s degree in engineering from an accredited university or college.\n• Minimum of 5 years total experience in mechanical design\n• Detailed hardware design from concept to manufacturing drawing\n• Experience selecting and executing analysis methods ranging from hand calc to Finite Element Analysis\n• Design for manufacturing & assembly (DFMA)\n• Definition of component requirements for manufacturing teams and vendors\n• Proficiency in CAD\n• Minimum of 3 years experience as in turbomachinery mechanical design\n(Examples: High speed rotors, turbine engine structures, hot section components, etc))\n• Create detailed component-level requirements to meet overall system goals\n• Technical project planning for design of components & modules requiring coordination with multiple disciplines.\n• Integration of components into turbomachine system\n• Communication to working team & project leadership\n• Must be willing to work onsite in Niskayuna, NY\n• Due to the nature of the duties of this position, this role requires the individual to obtain and maintain US Government Security Clearance; prerequisite for a security clearance is U.S. citizenship.\n\nDesired Characteristics\n• Master’s degree in engineering from an accredited university or college\n• Experience in prototype creation & testing\n• Conceptual design of components outside industry experience\n• Design for test (prototype & test enabling hardware)\n• Test facility integration\n• Test plan creation\n• Test safety management\n• Instrumentation and measurement\n• Hands-on assembly\n• Test execution\n• Familiarity with preferred design and analysis tools\n• Siemens NX\n• ANSYS\n• Technical Communication\n• Generation and documentation of design processes\n• Communication across internal organizations & with external groups such as suppliers, partners, and/or customers\n• Coordination with on-site, remote, and global team members\n• Application of Lean principles in design process\n• Continual improvement\n• Iterative design process\n• Technology maturation process\n• Technology Readiness Level (TRL) & Tech mat planning\n• Root Cause Analysis (RCA) & Failure Modes and Effects Analysis (FMEA)\n\nThe base pay range for this position is $90,000 - $175,000 USD annually. The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set. This position is also eligible for an annual discretionary bonus based on a percentage of your base salary/ commission based on the plan. This posting is expected to close on April 30th 2026\n\nGE Aerospace offers comprehensive benefits and programs to support your health and, along with programs like HealthAhead, your physical, emotional, financial and social wellbeing. Healthcare benefits include medical, dental, vision, and prescription drug coverage; access to a Health Coach from GE Aerospace; and the Employee Assistance Program, which provides 24/7 confidential assessment, counseling and referral services. Retirement benefits include the GE Aerospace Retirement Savings Plan, a 401(k) savings plan with company matching contributions and company retirement contributions, as well as access to Fidelity resources and planning consultants. Other benefits include tuition assistance, adoption assistance, paid parental leave, disability insurance, life insurance, and paid time-off for vacation or illness. ​\n\nGE Aerospace (General Electric Company or the Company) and its affiliates each sponsor certain employee benefit plans or programs (i.e., is a “Sponsor”). Each Sponsor reserves the right to terminate, amend, suspend, replace or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a Sponsor’s welfare benefit plan or program. This document does not create a contract of employment with any individual.\n\n#LI-MH1\n\nThis role requires access to U.S. export-controlled information. Therefore, employment will be contingent upon the ability to prove that you meet the status of a U.S. Person as one of the following: U.S. lawful permanent resident, U.S. Citizen, have been granted asylee or refugee status (i.e., a protected individual under the Immigration and Naturalization Act, 8 U.S.C. 1324b(a)(3)).\n\nAdditional Information\n\nGE Aerospace offers a great work environment, professional development, challenging careers, and competitive compensation. GE Aerospace is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.\n\nGE Aerospace will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable).\n\nRelocation Assistance Provided: Yes",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Niskayuna",
+    "job_city": "Niskayuna",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 42.8000049,
+    "job_longitude": -73.89144069999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dzm4mFNDeB44pK_TYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Use system-level thinking to find the shortest path between idea and test",
+        "A successful applicant will have previous hands-on experience in mechanical design of turbomachinery, design for manufacturing, assembly, and test execution",
+        "Mentor and guide those less experienced in applied mechanical design",
+        "Bachelor’s degree in engineering from an accredited university or college",
+        "Minimum of 5 years total experience in mechanical design",
+        "Detailed hardware design from concept to manufacturing drawing",
+        "Experience selecting and executing analysis methods ranging from hand calc to Finite Element Analysis",
+        "Design for manufacturing & assembly (DFMA)",
+        "Definition of component requirements for manufacturing teams and vendors",
+        "Proficiency in CAD",
+        "Minimum of 3 years experience as in turbomachinery mechanical design",
+        "(Examples: High speed rotors, turbine engine structures, hot section components, etc))",
+        "Communication to working team & project leadership",
+        "Must be willing to work onsite in Niskayuna, NY",
+        "Due to the nature of the duties of this position, this role requires the individual to obtain and maintain US Government Security Clearance; prerequisite for a security clearance is U.S. citizenship",
+        "Therefore, employment will be contingent upon the ability to prove that you meet the status of a U.S. Person as one of the following: U.S. lawful permanent resident, U.S. Citizen, have been granted asylee or refugee status (i.e., a protected individual under the Immigration and Naturalization Act, 8 U.S.C"
+      ],
+      "Benefits": [
+        "The base pay range for this position is $90,000 - $175,000 USD annually",
+        "The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set",
+        "This position is also eligible for an annual discretionary bonus based on a percentage of your base salary/ commission based on the plan",
+        "GE Aerospace offers comprehensive benefits and programs to support your health and, along with programs like HealthAhead, your physical, emotional, financial and social wellbeing",
+        "Healthcare benefits include medical, dental, vision, and prescription drug coverage; access to a Health Coach from GE Aerospace; and the Employee Assistance Program, which provides 24/7 confidential assessment, counseling and referral services",
+        "Retirement benefits include the GE Aerospace Retirement Savings Plan, a 401(k) savings plan with company matching contributions and company retirement contributions, as well as access to Fidelity resources and planning consultants",
+        "Other benefits include tuition assistance, adoption assistance, paid parental leave, disability insurance, life insurance, and paid time-off for vacation or illness",
+        "Each Sponsor reserves the right to terminate, amend, suspend, replace or modify its benefit plans and programs at any time and for any reason, in its sole discretion",
+        "No individual has a vested right to any benefit under a Sponsor’s welfare benefit plan or program"
+      ],
+      "Responsibilities": [
+        "Execute mechanical design as a key member of a large multi-disciplinary team including technologists, engineers, and advanced manufacturing experts",
+        "Execute with guidance the mechanical design of complex test systems, prototypes, and technology demos incorporating a range of new technologies",
+        "Collaborate with senior engineers, researchers, and facilities focals to turn high level system goals and test objectives into detailed design requirements",
+        "Collaborate with a multidisciplinary team of designers, analysts, and researchers to complete design tasks in support of next generation rigs",
+        "Use engineering judgement to identify key design features to meet the testing goals and simplify non-critical features to accelerate time to test",
+        "Apply established design methodology as appropriate to create prototypes that properly model future products",
+        "Assist in the creation of new design methodologies as required to reduce new technology to practice",
+        "Record lessons learned to inform future engineering teams",
+        "Support manufacturing, assembly, and commissioning of prototypes and related test systems",
+        "Create detailed component-level requirements to meet overall system goals",
+        "Technical project planning for design of components & modules requiring coordination with multiple disciplines",
+        "Integration of components into turbomachine system"
+      ]
+    },
+    "job_onet_soc": "17201100",
+    "job_onet_job_zone": "4",
+    "id": "careers-geaerospace-com-global-en-job-r5025320-lead-design-engineer-advanced-concepts-prototypes-aerospace-research",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "8irfUMEGy0Lsv7S_AAAAAA==",
+    "job_title": "I&C Design Engineer",
+    "employer_name": "Fluor Careers",
+    "employer_logo": null,
+    "employer_website": "http://careers.fluor.com",
+    "job_publisher": "Fluor Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://thrivecareers.fluor.com/job/Aiken-I&C-Design-Engineer-SC/1349714200/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Fluor Careers",
+        "apply_link": "https://thrivecareers.fluor.com/job/Aiken-I&C-Design-Engineer-SC/1349714200/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs | Fluor",
+        "apply_link": "https://fluor.jobs/aiken-sc/ic-design-engineer/F88B96E9013D4788AC32560D6D41AC62/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Fluor-Corporation/Job/I&C-Design-Engineer/-in-Aiken,SC?jid=7ff564452e5094ac&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/ic-design-engineer-fluor-federal-services-JV_IC1155044_KO0,18_KE19,41.htm?jl=1009969987117&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Monster",
+        "apply_link": "https://www.monster.com/job-openings/i-c-design-engineer-aiken-sc--b94be729-51b7-4564-8226-69683196f1ea?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/AlYLDgjUwlev7Q2aAExd9FcycPQhh_xxtt3pIOCyFNXBqmPRmB6c7g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/bfe7389db3d472a31154425c89cdd6f2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "National Labor Exchange",
+        "apply_link": "https://usnlx.com/aiken-sc/ic-design-engineer/F88B96E9013D4788AC32560D6D41AC62/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "At Fluor, we are proud to design and build projects and careers. We are committed to fostering a welcoming and collaborative work environment that encourages big-picture thinking, brings out the best in our employees, and helps us develop innovative solutions that contribute to building a better world together. If this sounds like a culture you would like to work in, you’re invited to apply for this role.\n\nFluor is a leading government contractor with a proven track record of delivering high‑value technical solutions around the world to U.S. government agencies such as the DOE, NNSA, the Department of Defense and the Intelligence Community.\nJob Description\n\n​​​​​​The purpose of this position is to provide the essential administrative processes, technical knowledge, and perform the work listed. This role has the responsibility to promote Fluor’s competitiveness within the global marketplace by delivering quality services of unmatched value and technical competence. This position serves as an Area Lead or Lead on assigned projects or performs moderately complex engineering assignments, evaluates, selects, and applies standard engineering techniques to a broad set of complex assignments.\n\n• Apply Cost Competitive Execution techniques to develop the most cost-effective total project solution for execution of the discipline engineering work\n\n• Develop and review specifications, including design criteria\n\n• Participate in activities associated with equipment and material procurement, permitting, and subcontracting\n\n• Perform and check calculations, specify equipment, and solve moderately complex engineering problems\n\n• Review vendor equipment documentation within the discipline and from other disciplines for compliance with project requirements, and actively seek discrepancy resolution\n\n• Analyze and make independent recommendations regarding solutions to problems with varying complexity in accordance with organization and/or project objectives and guidelines\n\n• Other duties as assigned\n\nBasic Job Requirements\n\n• Accredited four (4) year degree or global equivalent in engineering field of study and eight (8) years of work-related experience; a recognized professional certification or registration in the applicable field, if required; some locations may have additional or different qualifications in order to comply with local requirements\n\n• Ability to communicate effectively with audiences that include but are not limited to management, coworkers, clients, vendors, contractors, and visitors\n\n• Job related technical knowledge necessary to complete the job\n\n• Ability to learn and apply knowledge of applicable local, state/province, and federal/national statutes and guidelines\n\n• Ability to attend to detail and work in a time-conscious and time-effective manner\n\n• Professional registration and membership in technical society (preferred)\n\n• Advanced knowledge of discipline codes and standards, commercial availability and cost of materials\n\n• Effort-hour estimating and staff forecasting\n\n• Practical field experience\n\n• Intermediate computer and software skills to include the use of word processing, e-mail, spreadsheet and electronic presentation programs\n\nOther Job Requirements\n\n• Must be able to provide proof of U.S. citizenship\n\nPreferred Qualifications\n\n• Extensive knowledge in industrial controls, VFD's, Servos, Motors, and PLCs and Digital Control Systems to include design and integration of Industrial Networks and PIDs with programming or configuration of these devices\n\n• Familiar with Robotics, pneumatics, HVAC, Generator, Boiler Systems, and Mechatronics\n\n• A basic understanding of control systems for fluid control systems, CNC applications, and conveyor systems\n\n• A good comprehension of construction, project management, digital and analog controls\n\nWe are an equal opportunity employer. All qualified individuals will receive consideration for employment without regard to race, color, age, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, genetic information, or any other criteria protected by governing law.\n\nBenefits Statement: Fluor is proud to offer a comprehensive benefits package designed to promote employee health, wellness, and financial security. Our offerings include medical, dental and vision plans, EAP, disability coverage, life insurance, AD&D, voluntary benefit plans, 401(k) with a company match, paid time off (personal, bereavement, sick, holidays) for salaried employees, paid sick leave per state requirement for craft employees, parental leave, and training and development courses.\n\nMarket Rate Statement: The market rate for the role is typically at the mid-point of the salary range; however, variations in final salary are determined by additional factors such as the candidate’s qualifications, relevant years of experience, geographic location, internal pay equity, and prevailing market conditions for the specific role.\n\nNotice to Candidates: Background checks are carried out as part of any conditional offer made, including (but not limited to & role dependent) education, professional registration, employment, references, passport verifications and Global Watchlist screening.\n\nTo be Considered Candidates: Must be authorized to work in the country where the position is located.\n\nSalary Range: $102,000.00 - $184,000.00",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Aiken, SC",
+    "job_city": "Aiken",
+    "job_state": "South Carolina",
+    "job_country": "US",
+    "job_latitude": 33.5605335,
+    "job_longitude": -81.7194963,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D8irfUMEGy0Lsv7S_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Accredited four (4) year degree or global equivalent in engineering field of study and eight (8) years of work-related experience; a recognized professional certification or registration in the applicable field, if required; some locations may have additional or different qualifications in order to comply with local requirements",
+        "Ability to communicate effectively with audiences that include but are not limited to management, coworkers, clients, vendors, contractors, and visitors",
+        "Job related technical knowledge necessary to complete the job",
+        "Ability to learn and apply knowledge of applicable local, state/province, and federal/national statutes and guidelines",
+        "Ability to attend to detail and work in a time-conscious and time-effective manner",
+        "Advanced knowledge of discipline codes and standards, commercial availability and cost of materials",
+        "Effort-hour estimating and staff forecasting",
+        "Practical field experience",
+        "Intermediate computer and software skills to include the use of word processing, e-mail, spreadsheet and electronic presentation programs",
+        "Must be able to provide proof of U.S. citizenship"
+      ],
+      "Benefits": [
+        "Benefits Statement: Fluor is proud to offer a comprehensive benefits package designed to promote employee health, wellness, and financial security",
+        "Our offerings include medical, dental and vision plans, EAP, disability coverage, life insurance, AD&D, voluntary benefit plans, 401(k) with a company match, paid time off (personal, bereavement, sick, holidays) for salaried employees, paid sick leave per state requirement for craft employees, parental leave, and training and development courses",
+        "Market Rate Statement: The market rate for the role is typically at the mid-point of the salary range; however, variations in final salary are determined by additional factors such as the candidate’s qualifications, relevant years of experience, geographic location, internal pay equity, and prevailing market conditions for the specific role",
+        "Salary Range: $102,000.00 - $184,000.00"
+      ],
+      "Responsibilities": [
+        "​​​​​​The purpose of this position is to provide the essential administrative processes, technical knowledge, and perform the work listed",
+        "This role has the responsibility to promote Fluor’s competitiveness within the global marketplace by delivering quality services of unmatched value and technical competence",
+        "This position serves as an Area Lead or Lead on assigned projects or performs moderately complex engineering assignments, evaluates, selects, and applies standard engineering techniques to a broad set of complex assignments",
+        "Apply Cost Competitive Execution techniques to develop the most cost-effective total project solution for execution of the discipline engineering work",
+        "Develop and review specifications, including design criteria",
+        "Participate in activities associated with equipment and material procurement, permitting, and subcontracting",
+        "Perform and check calculations, specify equipment, and solve moderately complex engineering problems",
+        "Review vendor equipment documentation within the discipline and from other disciplines for compliance with project requirements, and actively seek discrepancy resolution",
+        "Analyze and make independent recommendations regarding solutions to problems with varying complexity in accordance with organization and/or project objectives and guidelines",
+        "Other duties as assigned"
+      ]
+    },
+    "job_onet_soc": "17207200",
+    "job_onet_job_zone": "4",
+    "id": "thrivecareers-fluor-com-job-aiken-i-c-design-engineer-sc-1349714200",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "82Uu69BjlwhV-_6uAAAAAA==",
     "job_title": "Electrical Design Engineer - Circuit Design",
     "employer_name": "CyberCoders",
@@ -895,8 +1008,8 @@
     "job_latitude": 40.769264899999996,
     "job_longitude": -73.1151117,
     "job_benefits": [
-      "dental_coverage",
       "paid_time_off",
+      "dental_coverage",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D82Uu69BjlwhV-_6uAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1055,183 +1168,466 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "DkumkiX6y8RRIk4yAAAAAA==",
-    "job_title": "Design Engineer 2 - Aftermarket",
-    "employer_name": "Safran Seats",
+    "job_id": "1tAP2RwZ1dMxeNC2AAAAAA==",
+    "job_title": "Sr Electronics Design Engineer",
+    "employer_name": "Leidos",
     "employer_logo": null,
-    "employer_website": "https://www.safran-group.com",
-    "job_publisher": "Safran",
+    "employer_website": "https://www.leidos.com",
+    "job_publisher": "Skill Drive Jobs - Trade Jobs Direct",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.safran-group.com/jobs/united-states/gainesville/design-engineer-2-aftermarket-170722?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://skilldrive.tradejobsdirect.com/listings/9ddsbo8b7ue1-a0b1a93eed-73c60b7c7dda74cf-af9e56?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Safran",
-        "apply_link": "https://www.safran-group.com/jobs/united-states/gainesville/design-engineer-2-aftermarket-170722?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5593118591?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Getro.org Job Board",
-        "apply_link": "https://www.getro.org/companies/safran-2-bec249ac-e943-4dae-b0cb-28049d6238ae/jobs/67170134-design-engineer-2-aftermarket?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Snagajob",
-        "apply_link": "https://www.snagajob.com/jobs/1217761906?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/engineering-design?id=2409093864&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Skill Drive Jobs - Trade Jobs Direct",
+        "apply_link": "https://skilldrive.tradejobsdirect.com/listings/9ddsbo8b7ue1-a0b1a93eed-73c60b7c7dda74cf-af9e56?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Powered by Team Work, Safran Seats is a global leader in passenger and technical aircraft seating. With over one million seats in the fleets of major airlines, we offer innovative and high-value solutions for passengers, crews, and helicopters. Our comprehensive range includes seats from economy to first class, as well as specialized designs for pilots and commercial air crews. Safran Seats combines quality, comfort, and innovation, backed by robust service contracts that include spare parts, component repairs, technical support, and customized assistance. Join us in shaping the future of aviation seating.\n\n1. Objective:\n\nUnder general supervision, this position performs design coordination of seats and seat components. Coordinates changes with other internal company departments, vendors, and customers.\n\n2. Main Function and Responsibilities:\n\nA) Reviews specification as related to assigned job.\nB) Prepares check list.\nC) Prepares lay-outs.\nD) Prepares structural sub-assemblies and drawings.\nE) Prepares sketches for details.\nF) Reviews drawing package to assure conformance to requirements.\nG) Submits completed drawings to project lead for approval and release.\nH) Liaison for assigned task.\nI) Performs other duties as assigned.",
+    "job_description": "Description\n\nThe National Airspace Systems Integration Support (NISC) program at Leidos is seeking Senior Electronics Design Engineers to provide support to the Federal Aviation Administration (FAA) Eastern Service Area - Engineering Services Groups located in:\n\nCollege Park, GA\n\nWashington, DC\n\nBurlington, MA\n\nNashua, NH\n\nThe ideal candidate will support the daily operations of the FAA’s Telecommunications Portfolio and the goal of converting and modernizing National Airspace Connectivity. The scope includes Small Tower Voice Switches, Telecommunications Infrastructure Replacement, Air to Ground Protocol Converters and NEXCOM Radios. This is a design centric position supporting modernization of Voice Switches for the Air Traffic Control System throughout the Eastern part of the United States.\n\nJob Duties Include:\n• Evaluate existing site surveys to develop scope of work for site preparation requirements\n• Conduct site surveys at remote sites for site preparation requirements\n• Draft site preparation scope of work for facilities based on site survey reports and facility data\n• Identify Contract Line-Item Numbers (CLINs) required to complete site preparation\n• Develop cost estimates for site preparation\n• Review contractor site prep proposals for accuracy and compliance with scope of work\n• Generate Operational Risk Management Pre-Requisite Programs for site preparation and installation of voice-switch equipment\n• Work with local stakeholders to implement risk mitigations for implementation\n• Coordinate and scheduled site preparation activities with stakeholders and contractor personnel\n• Oversee site prep and installation work performed by contractor\n• Generate periodic status reports\n• Update Corporate Work Plan (CWP) data\n• Update facility drawings (red lines) for drafting\n\nBasic Qualifications:\n• Electronics Engineering Degree (B.S.) with a minimum of 8 years’ experience.\n• Ability to travel > 50%.\n• Ability to obtain a Public Trust Suitability. (To be eligible for the FAA Public Trust you must be a US Citizen or a Green Card Holder who has resided in the US for the past 3 years).\n• Proficiency in MS Office Suites.\n• Design experience working with AutoCAD or similar tools.\n• Knowledge of National Electric Code (NEC), National Fire Protection Assoc (NFPA) standards, National Airspace System Equipment Tower\n• Knowledge of OSHA and general construction and electrical safety standards.\n\nDesired Qualifications:\n• Knowledge of National Air Space (NAS) facilities such as ASR, ATCT, VOR, ARSR, RCAG.\n• (NASET), National Airspace System Equipment Building (NASEB).\n• Knowledge of Corporate Work Plan (CWP) 4.1.12\n\nIf you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo — because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 — and moving faster than anyone else dares.\nOriginal Posting:\nNovember 14, 2025\n\nFor U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.\n\nPay Range:\nPay Range $107,900.00 - $195,050.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.\n\nAbout Leidos\n\nLeidos is an industry and technology leader serving government and commercial customers with smarter, more efficient digital and mission innovations. Headquartered in Reston, Virginia, with 47,000 global employees, Leidos reported annual revenues of approximately $16.7 billion for the fiscal year ended January 3, 2025. For more information, visit www.Leidos.com.\n\nPay and Benefits\n\nPay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available at www.leidos.com/careers/pay-benefits.\n\nSecuring Your Data\n\nBeware of fake employment opportunities using Leidos’ name. Leidos will never ask you to provide payment-related information during any part of the employment application process (i.e., ask you for money), nor will Leidos ever advance money as part of the hiring process (i.e., send you a check or money order before doing any work). Further, Leidos will only communicate with you through emails that are generated by the Leidos.com automated system – never from free commercial services (e.g., Gmail, Yahoo, Hotmail) or via WhatsApp, Telegram, etc. If you received an email purporting to be from Leidos that asks for payment-related information or any other personal information (e.g., about you or your previous employer), and you are concerned about its legitimacy, please make us aware immediately by emailing us at LeidosCareersFraud@leidos.com.\n\nIf you believe you are the victim of a scam, contact your local law enforcement and report the incident to the U.S. Federal Trade Commission.\n\nCommitment to Non-Discrimination\n\nAll qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.",
     "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Gainesville, TX",
-    "job_city": "Gainesville",
-    "job_state": "Texas",
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Newbury, MA",
+    "job_city": "Newbury",
+    "job_state": "Massachusetts",
     "job_country": "US",
-    "job_latitude": 33.625941399999995,
-    "job_longitude": -97.1333453,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDkumkiX6y8RRIk4yAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Responsibilities": [
-        "Under general supervision, this position performs design coordination of seats and seat components",
-        "Coordinates changes with other internal company departments, vendors, and customers",
-        "A) Reviews specification as related to assigned job",
-        "B) Prepares check list",
-        "C) Prepares lay-outs",
-        "D) Prepares structural sub-assemblies and drawings",
-        "E) Prepares sketches for details",
-        "F) Reviews drawing package to assure conformance to requirements",
-        "G) Submits completed drawings to project lead for approval and release",
-        "I) Performs other duties as assigned"
-      ]
-    },
-    "job_onet_soc": "17214100",
-    "job_onet_job_zone": "4",
-    "id": "www-safran-group-com-jobs-united-states-gainesville-design-engineer-2-aftermarket-170722",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "VWgeQJz6y_POeht4AAAAAA==",
-    "job_title": "Associate Structural & Payload Design Engineer",
-    "employer_name": "Boeing",
-    "employer_logo": null,
-    "employer_website": "https://www.boeing.com",
-    "job_publisher": "Boeing",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.boeing.com/job/long-beach/associate-structural-and-payload-design-engineer/185/91709625696?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Boeing",
-        "apply_link": "https://jobs.boeing.com/job/long-beach/associate-structural-and-payload-design-engineer/185/91709625696?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=7b528cd635793494&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobs.kxnet.com",
-        "apply_link": "https://jobs.kxnet.com/jobs/student-worker-associate-electrical-distribution-systems-design-engineer-long-beach-california/2582027410-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/a92e101d52243a00ad5cae07616583e4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/associate-structural-payload-design-engineer-at-boeing-4371900051?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JSfirm.com",
-        "apply_link": "https://www.jsfirm.com/job/Engineering-Associate-Structural-Payload-Design-Engineer/Long+Beach-California/jobID_1857822?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Built In LA",
-        "apply_link": "https://www.builtinla.com/job/associate-structural-payload-design-engineer/8501203?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Description\n\nAt Boeing, we innovate and collaborate to make the world a better place. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.\n\nWe are Boeing Global Services (BGS) Engineering team creating and implementing innovative technologies that make the impossible possible and enabling the future of aerospace. We provide engineering design and support, including aftermarket modifications, and are innovating to make product and services safety even stronger. Join us and put your passion, determination, and skill to work building the future! #TheFutureIsBuiltHere #ChangeTheWorld\n\nBGS is looking for Associate Structural Design Engineers to become part of the Structures Organizations in Long Beach, CA.\n\nAt the Southern California Design Center in Long Beach, we keep the world connected. We make the world a smaller place by bringing families, friends and loved ones together. Whether that is helping people fly with our work on Boeing’s incredible fleet of aircrafts or keeping them connected virtually with our work on satellites. Our team gives the opportunity to experience many facets of the Boeing Company in one place.\n\nOur Structures organization supporting Boeing Global Services (BGS) is seeking Structural Design Engineers with knowledge of design theory, engineering principles, and coordination skills.\n\nThis role may require some travel to support our customers and provide learning experiences to enhance your career.\n\nPosition Responsibilities:\n• Develops, integrates and documents structural and interior payload system requirements to establish the system design\n• Develops, maintains and modifies structural and interior payload system and component designs, using 3-D Computer Aided Design tools and/or other design methods, to provide product definition to other engineering groups, production operations, suppliers and external customers throughout the product lifecycle\n• Develops new design/analysis processes and tools to improve the effectiveness, quality and efficiency of the development effort\n• Investigates emerging technologies to develop concepts for future product designs to meet projected requirements\n• Works under general direction\n\nBasic Qualifications (Required Skills/Experience):\n• Bachelor's Degree or higher in Mechanical, Aerospace, or Civil Engineering\n• 3+ years' experience in aircraft structure, materials and properties, design criteria and release processes\n• 3+ years’ experience with aircraft primary structures such as design, strength, fatigue\n\nPreferred Qualifications (Desired Skills/Experience):\n• Experience with engineering tools such as CATIA, ENOVIA, and PDM\n• Experience with structural design principles for aircraft primary structures (e.g., fatigue, damage tolerance, corrosion, stress analysis, statics, materials strength, material characteristics, and repair techniques)\n• Experience in Airplane Design, Stress Analysis, Liaison Engineering, and Manufacturing Engineering strongly preferred\n• Experience with Boeing 7-Series Aircraft Primary Structures\n• Strong written, verbal communications and presentation skills\n\nConflict of Interest:\nSuccessful candidates for this job must satisfy the Company’s Conflict of Interest (COI) assessment process.\n\nDrug Free Workplace:\n\nBoeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.\n\nPay & Benefits:\n\nAt Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent. Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.\n\nThe Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.\n\nThe specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.\n\nPay is based upon candidate experience and qualifications, as well as market and business considerations.\n\nSummary pay range: $90,950 - $123,050\n\nApplications for this position will be accepted until Feb. 28, 2026\n\nExport Control Requirements:\n\nThis position must meet U.S. export control compliance requirements. To meet U.S. export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120.62 is required. “U.S. Person” includes U.S. Citizen, U.S. National, lawful permanent resident, refugee, or asylee.\n\nExport Control Details:\n\nUS based job, US Person required\n\nEducation\n\nBachelor's Degree or Equivalent Required\n\nRelocation\n\nThis position offers relocation based on candidate eligibility.\n\nVisa Sponsorship\n\nEmployer will not sponsor applicants for employment visa status.\n\nShift\n\nThis position is for 1st shift\n\nEqual Opportunity Employer:\n\nBoeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Long Beach, CA",
-    "job_city": "Long Beach",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 33.770050399999995,
-    "job_longitude": -118.19373949999999,
+    "job_latitude": 42.764949699999995,
+    "job_longitude": -70.8714528,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVWgeQJz6y_POeht4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1tAP2RwZ1dMxeNC2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Bachelor's Degree or higher in Mechanical, Aerospace, or Civil Engineering",
-        "3+ years' experience in aircraft structure, materials and properties, design criteria and release processes",
-        "3+ years’ experience with aircraft primary structures such as design, strength, fatigue",
-        "Successful candidates for this job must satisfy the Company’s Conflict of Interest (COI) assessment process",
-        "This position must meet U.S. export control compliance requirements",
-        "To meet U.S. export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120.62 is required",
-        "“U.S. Person” includes U.S. Citizen, U.S. National, lawful permanent resident, refugee, or asylee",
-        "US based job, US Person required",
-        "Bachelor's Degree or Equivalent Required"
+        "Electronics Engineering Degree (B.S.) with a minimum of 8 years’ experience",
+        "Ability to travel > 50%",
+        "Ability to obtain a Public Trust Suitability",
+        "(To be eligible for the FAA Public Trust you must be a US Citizen or a Green Card Holder who has resided in the US for the past 3 years)",
+        "Proficiency in MS Office Suites",
+        "Design experience working with AutoCAD or similar tools",
+        "Knowledge of National Electric Code (NEC), National Fire Protection Assoc (NFPA) standards, National Airspace System Equipment Tower",
+        "Knowledge of OSHA and general construction and electrical safety standards"
       ],
       "Benefits": [
-        "At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent",
-        "Elements of the Total Rewards package include competitive base pay and variable compensation opportunities",
-        "The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work",
-        "The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements",
-        "Pay is based upon candidate experience and qualifications, as well as market and business considerations",
-        "Summary pay range: $90,950 - $123,050"
+        "Pay Range $107,900.00 - $195,050.00",
+        "The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary",
+        "Pay and Benefits",
+        "Pay and benefits are fundamental to any career decision",
+        "That's why we craft compensation packages that reflect the importance of the work we do for our customers",
+        "Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement"
       ],
       "Responsibilities": [
-        "This role may require some travel to support our customers and provide learning experiences to enhance your career",
-        "Develops, integrates and documents structural and interior payload system requirements to establish the system design",
-        "Develops, maintains and modifies structural and interior payload system and component designs, using 3-D Computer Aided Design tools and/or other design methods, to provide product definition to other engineering groups, production operations, suppliers and external customers throughout the product lifecycle",
-        "Develops new design/analysis processes and tools to improve the effectiveness, quality and efficiency of the development effort",
-        "Investigates emerging technologies to develop concepts for future product designs to meet projected requirements",
-        "Works under general direction"
+        "The ideal candidate will support the daily operations of the FAA’s Telecommunications Portfolio and the goal of converting and modernizing National Airspace Connectivity",
+        "Evaluate existing site surveys to develop scope of work for site preparation requirements",
+        "Conduct site surveys at remote sites for site preparation requirements",
+        "Draft site preparation scope of work for facilities based on site survey reports and facility data",
+        "Identify Contract Line-Item Numbers (CLINs) required to complete site preparation",
+        "Develop cost estimates for site preparation",
+        "Review contractor site prep proposals for accuracy and compliance with scope of work",
+        "Generate Operational Risk Management Pre-Requisite Programs for site preparation and installation of voice-switch equipment",
+        "Work with local stakeholders to implement risk mitigations for implementation",
+        "Coordinate and scheduled site preparation activities with stakeholders and contractor personnel",
+        "Oversee site prep and installation work performed by contractor",
+        "Generate periodic status reports",
+        "Update Corporate Work Plan (CWP) data",
+        "Update facility drawings (red lines) for drafting"
       ]
     },
-    "job_onet_soc": "17205100",
+    "job_onet_soc": "17207200",
     "job_onet_job_zone": "4",
-    "id": "jobs-boeing-com-job-long-beach-associate-structural-and-payload-design-engineer-185-91709625696",
+    "id": "skilldrive-tradejobsdirect-com-listings-9ddsbo8b7ue1-a0b1a93eed-73c60b7c7dda74cf-af9e56",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "0hoR7-rLQfeWGBjvAAAAAA==",
+    "job_title": "Product Design Engineer",
+    "employer_name": "LHH Recruitment Solutions",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "Lensa",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://lensa.com/job-v1/lhh-recruitment-solutions/thomasville-nc/product-design-engineer/91d004eef8a373dfd0555f27639be629?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/lhh-recruitment-solutions/thomasville-nc/product-design-engineer/91d004eef8a373dfd0555f27639be629?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Location: Thomasville, NC\nSalary: $75,000\nWork Type: Onsite\nAbout the Role\n\nWe are recruiting on behalf of a familyowned, fastpaced manufacturing business seeking a handson Product Development Engineer who truly understands design for assembly and manufacturability. This role is ideal for a practical, mechanically minded engineer who enjoys being close to the build-supporting prototyping efforts, solving realworld design challenges, and seeing their ideas come to life.\n\nYou'll play a key role in developing furniture products from concept through production, working closely with prototypers, designers, and crossfunctional partners. While a degree is not required, strong engineering fundamentals and realworld experience are essential.\nKey Responsibilities\n• Design and develop furniture products from concept through final production release\n• Apply designformanufacture and designforassembly principles to all product designs\n• Create and maintain detailed CAD models and drawings using SolidWorks and AutoCAD\n• Work handson with prototypers to support builds, troubleshoot issues, and refine designs\n• Create accurate and detailed BOMs, and work with purchasing and operations on materials and components\n• Design structural components including wood frames, foam systems, and connectors\n• Collaborate with crossfunctional teams to ensure designs meet functional, aesthetic, and manufacturing requirements\n• Support prototype testing, iteration, and continuous product improvement\n• Adapt quickly to shifting priorities in a fastpaced, evolving environment\n\nQualifications\n• Proven experience in product development or mechanical design (degree not required)\n• Strong mechanical aptitude with a handson, buildoriented mindset\n• Proficiency in SolidWorks and AutoCAD\n• Experience designing for manufacturability and assembly\n• Comfortable working in a fastpaced environment where priorities change frequently\n\nBenefits include Med/Dent/Vis Healthcare coverage, PTO, paid holidays, and 401K eligibility after a year of employment.\n\nPay Details: $30.00 to $41.00 per hour\n\nSearch managed by: Chloe Parsons\n\nEqual Opportunity Employer/Veterans/Disabled\n\nMilitary connected talent encouraged to apply\n\nTo read our Candidate Privacy Information Statement, which explains how we will use your information, please navigate to https://www.lhh.com/us/en/candidate-privacy\n\nThe Company will consider qualified applicants with arrest and conviction records in accordance with federal, state, and local laws and/or security clearance requirements, including, as applicable:\n• The California Fair Chance Act\n• Los Angeles City Fair Chance Ordinance\n• Los Angeles County Fair Chance Ordinance for Employers\n• San Francisco Fair Chance Ordinance\n\nMassachusetts Candidates Only: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771113600,
+    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
+    "job_location": "Thomasville, NC",
+    "job_city": "Thomasville",
+    "job_state": "North Carolina",
+    "job_country": "US",
+    "job_latitude": 35.8826369,
+    "job_longitude": -80.0819879,
+    "job_benefits": [
+      "health_insurance",
+      "paid_time_off",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0hoR7-rLQfeWGBjvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "This role is ideal for a practical, mechanically minded engineer who enjoys being close to the build-supporting prototyping efforts, solving realworld design challenges, and seeing their ideas come to life",
+        "While a degree is not required, strong engineering fundamentals and realworld experience are essential",
+        "Proven experience in product development or mechanical design (degree not required)",
+        "Strong mechanical aptitude with a handson, buildoriented mindset",
+        "Proficiency in SolidWorks and AutoCAD",
+        "Experience designing for manufacturability and assembly",
+        "Comfortable working in a fastpaced environment where priorities change frequently"
+      ],
+      "Benefits": [
+        "Salary: $75,000",
+        "Benefits include Med/Dent/Vis Healthcare coverage, PTO, paid holidays, and 401K eligibility after a year of employment",
+        "Pay Details: $30.00 to $41.00 per hour"
+      ],
+      "Responsibilities": [
+        "You'll play a key role in developing furniture products from concept through production, working closely with prototypers, designers, and crossfunctional partners",
+        "Design and develop furniture products from concept through final production release",
+        "Apply designformanufacture and designforassembly principles to all product designs",
+        "Create and maintain detailed CAD models and drawings using SolidWorks and AutoCAD",
+        "Work handson with prototypers to support builds, troubleshoot issues, and refine designs",
+        "Create accurate and detailed BOMs, and work with purchasing and operations on materials and components",
+        "Design structural components including wood frames, foam systems, and connectors",
+        "Collaborate with crossfunctional teams to ensure designs meet functional, aesthetic, and manufacturing requirements",
+        "Support prototype testing, iteration, and continuous product improvement",
+        "Adapt quickly to shifting priorities in a fastpaced, evolving environment"
+      ]
+    },
+    "job_onet_soc": "27102100",
+    "job_onet_job_zone": "4",
+    "id": "lensa-com-job-v1-lhh-recruitment-solutions-thomasville-nc-product-design-engineer-91d004eef8a373dfd0555f27639be629",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "t9aEi4T9veYgYJflAAAAAA==",
+    "job_title": "Senior Design Engineer",
+    "employer_name": "TAD PGS, Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD70fpBNo08AfSoElFmRI0wEEN24Wj1PiKVpZm&s=0",
+    "employer_website": null,
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/senior-design-engineer-at-tad-pgs-inc-4370717703?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-design-engineer-at-tad-pgs-inc-4370717703?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/bbadcd6c596a2fec4421e508c9e327d8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Title: Senior Design Engineer\n\nJob Type: Direct Hire\n\nPay Range: 110,000-170,000 Base Salary\n\nLocation: Union City, CA\n\nBenefits: Medical, dental, vision, 401k and more\n\nOverview\n\nThe Lead Design Engineer leads the design, development, testing, and launch of medical device products and manufacturing processes. This role combines technical execution with team leadership while ensuring compliance with Quality Management System requirements, ISO 13485, and FDA 21 CFR Part 820 Quality Management System Regulation.\n\nResponsibilities\n\n• Lead product design and development through the full design control lifecycle\n\n• Perform and guide advanced engineering analysis including FEA, DFMA, FMEA, fatigue analysis, and DOE\n\n• Ensure regulatory and quality compliance across all development documentation\n\n• Support nonconformance reviews, Material Review Board activity, and root cause investigations\n\n• Maintain Design History File, Device Master Record, and engineering drawing standards\n\n• Drive continuous product improvement using field and reliability data\n\n• Lead, mentor, and provide technical direction to design engineering staff\n\n• Manage project timelines, technical risk, and engineering deliverables\n\n• Review and approve drawings, specifications, and validation documentation\n\nQualifications\n\n• Bachelor's degree in Mechanical, Biomedical, Materials Engineering, or related field\n\n• Five or more years of medical device product development experience\n\n• SolidWorks and CAD design capability required\n\n• Experience with prototyping, testing, and design validation\n\n• Strong mechanical design fundamentals including FEA and materials analysis\n\n• Experience working across full product lifecycle from concept through manufacturing transfer\n\n• Understanding of design controls, traceability, and risk analysis\n\nMilitary connected talent encouraged to apply.\n\nVEVRAA Federal Contractor / Request Priority Protected Veteran Referrals / Equal Opportunity Employer / Veterans / Disabled\n\nTo read our Candidate Privacy Information Statement, which explains how we will use your information, please visit http://www.tadpgs.com/candidate-privacy/ or https://pdsdefense.com/candidate-privacy/\n\nThe Company will consider qualified applicants with arrest and conviction records in accordance with federal, state, and local laws and/or security clearance requirements, including, as applicable:\n• The California Fair Chance Act\n• Los Angeles City Fair Chance Ordinance\n• Los Angeles County Fair Chance Ordinance for Employers\n• San Francisco Fair Chance Ordinance",
+    "job_is_remote": false,
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Union City, CA",
+    "job_city": "Union City",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.593356199999995,
+    "job_longitude": -122.0438609,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dt9aEi4T9veYgYJflAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 110000,
+    "job_max_salary": 170000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor's degree in Mechanical, Biomedical, Materials Engineering, or related field",
+        "Five or more years of medical device product development experience",
+        "SolidWorks and CAD design capability required",
+        "Experience with prototyping, testing, and design validation",
+        "Strong mechanical design fundamentals including FEA and materials analysis",
+        "Experience working across full product lifecycle from concept through manufacturing transfer",
+        "Understanding of design controls, traceability, and risk analysis",
+        "Military connected talent encouraged to apply"
+      ],
+      "Benefits": [
+        "Pay Range: 110,000-170,000 Base Salary",
+        "Benefits: Medical, dental, vision, 401k and more"
+      ],
+      "Responsibilities": [
+        "The Lead Design Engineer leads the design, development, testing, and launch of medical device products and manufacturing processes",
+        "This role combines technical execution with team leadership while ensuring compliance with Quality Management System requirements, ISO 13485, and FDA 21 CFR Part 820 Quality Management System Regulation",
+        "Lead product design and development through the full design control lifecycle",
+        "Perform and guide advanced engineering analysis including FEA, DFMA, FMEA, fatigue analysis, and DOE",
+        "Ensure regulatory and quality compliance across all development documentation",
+        "Support nonconformance reviews, Material Review Board activity, and root cause investigations",
+        "Maintain Design History File, Device Master Record, and engineering drawing standards",
+        "Drive continuous product improvement using field and reliability data",
+        "Lead, mentor, and provide technical direction to design engineering staff",
+        "Manage project timelines, technical risk, and engineering deliverables",
+        "Review and approve drawings, specifications, and validation documentation"
+      ]
+    },
+    "job_onet_soc": "17214100",
+    "job_onet_job_zone": "4",
+    "id": "www-linkedin-com-jobs-view-senior-design-engineer-at-tad-pgs-inc-4370717703",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "w3y-fEDtSTpOi9YFAAAAAA==",
+    "job_title": "Remote Senior Electro-Mechanical Engineer",
+    "employer_name": "Raytheon Technologies",
+    "employer_logo": null,
+    "employer_website": "https://www.raytheon.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Raytheon-Technologies/Job/Remote-Senior-Electro-Mechanical-Engineer/-in-Remote,OR?jid=af27cf78efbc75ec&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Raytheon-Technologies/Job/Remote-Senior-Electro-Mechanical-Engineer/-in-Remote,OR?jid=af27cf78efbc75ec&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-2850-3ca664248ccd8fd506b5a51410691ef7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Conform Inform By Arclin",
+        "apply_link": "https://conforminform.com/workspread/job/senior-aiml-engineer-remote-at-benetech-remote-e86cdc142e393a65jktk-Y29uZm9ybW?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Date Posted:\n2026-02-10\n\nCountry:\nUnited States of America\n\nLocation:\nUS-CA-REMOTE\n\nPosition Role Type:\nRemote\n\nU.S. Citizen, U.S. Person, or Immigration Status Requirements:\nU.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract.\n\nSecurity Clearance Type:\nNone/Not Required\n\nSecurity Clearance Status:\nNot Required\n\nAt Raytheon, the foundation of everything we do is rooted in our values and a higher calling - to help our nation and allies defend freedoms and deter aggression. We bring the strength of more than 100 years of experience and renowned engineering expertise to meet the needs of today's mission and stay ahead of tomorrow's threat. Our team solves tough, meaningful problems that create a safer, more secure world.\n\nRaytheon Space & Airborne Mechanical Systems is currently seeking a Senior Electro-Mechanical Engineer for the Advanced Microelectronics Packaging and Design organization in El Segundo, CA to develop leading-edge miniaturized 3DHI sensors and systems to enable future generation technologies across Raytheon.\n\nThis position offers the opportunity for remote work.\n\nWhat You Will Do:\n• Work with cross-functional hardware engineering teams to develop advanced microelectronics packages including 3DHI, 3D, and 2.5D (interposer + chiplets) and novel material and process solutions for RF, digital, mixed-signal, and photonics products.\n• Be involved in research efforts including initial concepts, advanced technology demonstrations, and will have the opportunity to follow product development from beginning to end, including documentation, fabrication, assembly, and test/delivery of a range of microelectronics products.\n• Follow established procedures in creation of technical data package work products, while working closely with program management and functional supervision to ensure the overall design objectives are met.\n• Ability to work independently and in a team environment, including as a leader of small teams semiconductor manufacturing processes and materials.\n\nQualifications You Must Have:\n\nTypically requires aBachelor's inScience, Technology, Engineering, or Mathematics (STEM)degreeora minimumof5years' prior relevant experience,to include any combination of the following:\n• Experience in circuit layout design using 2D CAD tools\n• Experience performing mechanical and electrical engineering design\n• Experience with semiconductor manufacturing processes and materials\n• Experience with high density microelectronic packaging designs including Interposers, organic substrates, wafer and chip bumping\n• Experience with electronic components / devices such as ASICs and FPGAs\n• Experience with the design of electronic packaging chassis and structures, interconnects (connectors/cables), and / or thermal management design of high-density electronic systems and electronic enclosures\n\nQualifications We Prefer:\n• RF circuit design, including 3D EM simulation in HFSS or similar tools\n• Circuit layout design experience using 2D and 3D CAD tools (Cadence Virtuoso and/or Allegro/APD+)\n• Experience and familiarity with selection and oversight for semiconductor wafer processing and finishing (plating, bumping, dicing)\n• Design experience with 3D and 2.5D packaging, complex CAD/EDA software design workflows, and RF/Thermal/Digital co-design\n• Experience qualifying and implementing cutting edge materials, fabrication techniques, and understanding of relevant materials used in semiconductor manufacturing and packaging\n• Strong background in development, documentation, fabrication, assembly, and test/delivery of military/defense and/or commercial state-of-the-art electronic products\n• Experience with designing electronics for extreme environmental requirements and design constraints\n• Proficiency with 3D Mechanical CAD modeling and analysis tools (e.g., Solidworks, Creo).\n• Experience in Geometric Dimensioning and Tolerance analysis for drawings\n• Possess an active security clearance\n\nWhat We Offer\n\nOur values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Trust, Respect, Accountability, Collaboration, and Innovation.\n\nThis position offers relocation based on candidate eligibility.\n\nLearn More & Apply Now!\n\nThis position requires a security clearance. DCSA Consolidated Adjudication Services (DCSA CAS), an agency of the Department of Defense, handles and adjudicates the security clearance process. More information about Security Clearances can be found on the US Department of State government website here: https://www.state.gov/m/ds/clearances/c10978.htm\n\nAs part of our commitment to maintaining a secure hiring process, candidates may be asked to attendselect steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote.\n\nThe salary range for this role is 86,800 USD - 165,200 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate's work experience, location, education/training, and key skills.\n\nHired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.\n\nHired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company's performance.\n\nThis role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.\n\nRTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.\n\nRTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans' Readjustment Assistance Act.\n\nPrivacy Policy and Terms:\n\nClick on this link to read the Policy and Terms",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Remote, OR",
+    "job_city": "Remote",
+    "job_state": "Oregon",
+    "job_country": "US",
+    "job_latitude": 43.005945499999996,
+    "job_longitude": -123.8925908,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dw3y-fEDtSTpOi9YFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "U.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract",
+        "Typically requires aBachelor's in",
+        "Science, Technology, Engineering, or Mathematics (STEM)degreeora minimumof5years' prior relevant experience,to include any combination of the following:",
+        "Experience in circuit layout design using 2D CAD tools",
+        "Experience performing mechanical and electrical engineering design",
+        "Experience with semiconductor manufacturing processes and materials",
+        "Experience with high density microelectronic packaging designs including Interposers, organic substrates, wafer and chip bumping",
+        "Experience with electronic components / devices such as ASICs and FPGAs",
+        "Experience with the design of electronic packaging chassis and structures, interconnects (connectors/cables), and / or thermal management design of high-density electronic systems and electronic enclosures",
+        "RF circuit design, including 3D EM simulation in HFSS or similar tools",
+        "Circuit layout design experience using 2D and 3D CAD tools (Cadence Virtuoso and/or Allegro/APD+)",
+        "Experience and familiarity with selection and oversight for semiconductor wafer processing and finishing (plating, bumping, dicing)",
+        "Design experience with 3D and 2.5D packaging, complex CAD/EDA software design workflows, and RF/Thermal/Digital co-design",
+        "Experience qualifying and implementing cutting edge materials, fabrication techniques, and understanding of relevant materials used in semiconductor manufacturing and packaging",
+        "Strong background in development, documentation, fabrication, assembly, and test/delivery of military/defense and/or commercial state-of-the-art electronic products",
+        "Experience with designing electronics for extreme environmental requirements and design constraints",
+        "Proficiency with 3D Mechanical CAD modeling and analysis tools (e.g., Solidworks, Creo)",
+        "Experience in Geometric Dimensioning and Tolerance analysis for drawings",
+        "Possess an active security clearance"
+      ],
+      "Benefits": [
+        "The salary range provided is a good faith estimate representative of all experience levels",
+        "Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays",
+        "Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement",
+        "Hired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement",
+        "Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company's performance"
+      ],
+      "Responsibilities": [
+        "Work with cross-functional hardware engineering teams to develop advanced microelectronics packages including 3DHI, 3D, and 2.5D (interposer + chiplets) and novel material and process solutions for RF, digital, mixed-signal, and photonics products",
+        "Be involved in research efforts including initial concepts, advanced technology demonstrations, and will have the opportunity to follow product development from beginning to end, including documentation, fabrication, assembly, and test/delivery of a range of microelectronics products",
+        "Follow established procedures in creation of technical data package work products, while working closely with program management and functional supervision to ensure the overall design objectives are met",
+        "Ability to work independently and in a team environment, including as a leader of small teams semiconductor manufacturing processes and materials"
+      ]
+    },
+    "job_onet_soc": "17214100",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-raytheon-technologies-job-remote-senior-electro-mechanical-engineer-in-remote-or",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "IXxi4suvwRo1-twtAAAAAA==",
+    "job_title": "Principal Hardware Design Engineer (Onsite)",
+    "employer_name": "RTX",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07Pszg4ykzzcAw_UvR1DUvJRFJlczRuZXiZQp&s=0",
+    "employer_website": null,
+    "job_publisher": "Careers At RTX",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.rtx.com/global/en/job/01808603/Principal-Hardware-Design-Engineer-Onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Careers At RTX",
+        "apply_link": "https://careers.rtx.com/global/en/job/01808603/Principal-Hardware-Design-Engineer-Onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "CareerOneStop",
+        "apply_link": "https://www.careeronestop.org/Toolkit/Jobs/find-jobs-details.aspx?keyword=Aircraft%2BService%2BAttendants&location=IA&radius=25&lang=en&fc=1&jvid=82b13b2a5bba45e29b818e9405366e118003&detailpage=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=cce8f07a931e800a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Raytheon-Technologies/Job/Principal-Hardware-Design-Engineer-(Onsite)/-in-Cedar-Rapids,IA?jid=d90693515e2e5043&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/principal-hardware-design-engineer-onsite-collins-aerospace-JV_IC1149160_KO0,41_KE42,59.htm?jl=1010003974822&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JSfirm.com",
+        "apply_link": "https://www.jsfirm.com/Engineering/Principal+Hardware+Design+Engineer+(Onsite)/CEDAR+RAPIDS-Iowa/jobID_1840637?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/principal-hardware-design-engineer-onsite-at-collins-aerospace-4338449450?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Date Posted:\n2025-11-21\n\nCountry:\nUnited States of America\n\nLocation:\nHIA32: Cedar Rapids, IA 400 Collins Rd NE , Cedar Rapids, IA, 52498-0505 USA\n\nPosition Role Type:\nOnsite\n\nU.S. Citizen, U.S. Person, or Immigration Status Requirements:\nU.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract.\n\nSecurity Clearance:\nNone/Not Required\n\nWe are seeking a highly motivated Principal Electrical Engineer to join the Computing Products Hardware Department within the Displays, Computing & Networking Directorate. Our team develops advanced hardware solutions for a wide range of military platforms, including tankers, transport aircraft, and helicopters. This role supports all phases of the hardware development lifecycle—program pursuit, requirements capture, design, integration, verification, and factory transition.\n\nThe selected candidate will collaborate closely with cross-functional partners, including Systems, Software, Mechanical, Environmental Effects, Manufacturing/Operations, and Design-to-Cost teams, to ensure all product requirements are successfully achieved. Strong expertise in high-speed digital circuit board design, EMI control, manufacturability, testability, and thermal management is essential.\n\nWhat You Will Do:\n\nThe development of product line technology includes:\n• Mission computers\n• Small form factor Multi-Function Displays\n• Data Transfer Units and Network Attached Storage\n• Processing resources (PowerPC, Intel, and ARM processors)\n• Avionics I/O (Ethernet, ARINC 429, MIL-STD 1553, PCIe)\n\nThe candidate is expected to contribute throughout the full product development cycle in the following areas:\n• Top level hardware product design and requirements capture\n• Development and verification of digital and mixed signal hardware designs\n• Oversight of Printed Wire Board (PWB) layout\n• Integration and design verification\n• Support to qualification and factory transition\n• 10% travel as needed.\n\nQualifications You Must Have:\n• Typically requires a degree in Science, Technology, Engineering or Mathematics (STEM) and minimum 8 years prior relevant experience or an Advanced Degree in a related field and minimum 5 years of experience.\n• Familiarity with standard lab equipment.\n• Experience with PWB layout.\n\nQualifications We Prefer:\n• Ability to work collaboratively with team members and independently on assigned tasks.\n• Ability to work with systems and subsystems groups to determine meaningful and testable requirements for the design.\n• PWB layout of PCI express\n• Processor board (PPC, Intel, and ARM) design\n• 2D and 3D graphics engines\n• Video interfaces (SMPTE, ARINC 818)\n• Lighting protection circuits and testing\n• Hardware and RTOS integration\n• Fiber optic transceivers\n• DO-160 or MIL-STD-810/MIL-STD-461 qualification\n• FPGA development\n\nWhat We Offer:\n\nBenefits:\n\nSome of our competitive benefits package includes: \n• Medical, dental, and vision insurance\n• Three weeks of vacation for newly hired employees\n• Generous 401(k) plan that includes employer matching funds and separate employer retirement contribution, including a Lifetime Income Strategy option\n• Tuition reimbursement program\n• Student Loan Repayment Program\n• Life insurance and disability coverage\n• Optional coverages you can buy pet insurance, home and auto insurance, additional life and accident insurance, critical illness insurance, group legal, ID theft protection\n• Birth, adoption, parental leave benefits\n• Ovia Health, fertility, and family planning\n• Adoption Assistance         \n• Autism Benefit\n• Employee Assistance Plan, including up to 10 free counseling sessions\n• Healthy You Incentives, wellness rewards program\n• Doctor on Demand, virtual doctor visits\n• Bright Horizons, child and elder care services\n• Teladoc Medical Experts, second opinion program\n•  And more! \n\nThis role may be eligible for relocation.\n\nAvionics delivers advanced cockpit displays, vision systems, and comprehensive digital solutions for global government, commercial and business aviation customers. We provide connectivity and managed data services to ensure safety and seamless communication for passengers, crews, and militaries, from aircraft and airports to air traffic management. Join us in creating solutions that connect the world, one flight at a time. Start your application today.\n\nOnsite: Employees who are working in Onsite roles will work primarily onsite. This includes all production and maintenance employees, as they are essential to the development of our products.\n\nAt Collins, the paths we pave together lead to limitless possibility. And the bonds we form – with our customers and with each other -- propel us all higher, again and again.\n\nApply now and be part of the team that’s redefining aerospace, every day.\n\nAs part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote.\n\nThe salary range for this role is 101,000 USD - 203,000 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.\n\nHired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.\n\nHired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.\n\nThis role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.\n\nRTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.\n\nRTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.\n\nPrivacy Policy and Terms:\n\nClick on this link to read the Policy and Terms",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771200000,
+    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
+    "job_location": "Cedar Rapids, IA",
+    "job_city": "Cedar Rapids",
+    "job_state": "Iowa",
+    "job_country": "US",
+    "job_latitude": 41.9778795,
+    "job_longitude": -91.6656232,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIXxi4suvwRo1-twtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "U.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract",
+        "We are seeking a highly motivated Principal Electrical Engineer to join the Computing Products Hardware Department within the Displays, Computing & Networking Directorate",
+        "Strong expertise in high-speed digital circuit board design, EMI control, manufacturability, testability, and thermal management is essential",
+        "Typically requires a degree in Science, Technology, Engineering or Mathematics (STEM) and minimum 8 years prior relevant experience or an Advanced Degree in a related field and minimum 5 years of experience",
+        "Familiarity with standard lab equipment",
+        "Experience with PWB layout",
+        "Ability to work collaboratively with team members and independently on assigned tasks",
+        "Ability to work with systems and subsystems groups to determine meaningful and testable requirements for the design",
+        "PWB layout of PCI express",
+        "Processor board (PPC, Intel, and ARM) design",
+        "2D and 3D graphics engines",
+        "Video interfaces (SMPTE, ARINC 818)",
+        "Lighting protection circuits and testing",
+        "Hardware and RTOS integration",
+        "Fiber optic transceivers",
+        "DO-160 or MIL-STD-810/MIL-STD-461 qualification",
+        "FPGA development"
+      ],
+      "Benefits": [
+        "Some of our competitive benefits package includes: ",
+        "Medical, dental, and vision insurance",
+        "Three weeks of vacation for newly hired employees",
+        "Generous 401(k) plan that includes employer matching funds and separate employer retirement contribution, including a Lifetime Income Strategy option",
+        "Tuition reimbursement program",
+        "Student Loan Repayment Program",
+        "Life insurance and disability coverage",
+        "Optional coverages you can buy pet insurance, home and auto insurance, additional life and accident insurance, critical illness insurance, group legal, ID theft protection",
+        "Birth, adoption, parental leave benefits",
+        "Ovia Health, fertility, and family planning",
+        "Adoption Assistance         ",
+        "Autism Benefit",
+        "Employee Assistance Plan, including up to 10 free counseling sessions",
+        "Healthy You Incentives, wellness rewards program",
+        "Doctor on Demand, virtual doctor visits",
+        "Bright Horizons, child and elder care services",
+        "Teladoc Medical Experts, second opinion program",
+        " And more! ",
+        "The salary range provided is a good faith estimate representative of all experience levels",
+        "Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays",
+        "Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement",
+        "Hired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement",
+        "Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance"
+      ],
+      "Responsibilities": [
+        "This role supports all phases of the hardware development lifecycle—program pursuit, requirements capture, design, integration, verification, and factory transition",
+        "The selected candidate will collaborate closely with cross-functional partners, including Systems, Software, Mechanical, Environmental Effects, Manufacturing/Operations, and Design-to-Cost teams, to ensure all product requirements are successfully achieved",
+        "Small form factor Multi-Function Displays",
+        "Data Transfer Units and Network Attached Storage",
+        "Processing resources (PowerPC, Intel, and ARM processors)",
+        "Avionics I/O (Ethernet, ARINC 429, MIL-STD 1553, PCIe)",
+        "The candidate is expected to contribute throughout the full product development cycle in the following areas:",
+        "Top level hardware product design and requirements capture",
+        "Development and verification of digital and mixed signal hardware designs",
+        "Oversight of Printed Wire Board (PWB) layout",
+        "Integration and design verification",
+        "Support to qualification and factory transition",
+        "10% travel as needed",
+        "Onsite: Employees who are working in Onsite roles will work primarily onsite",
+        "This includes all production and maintenance employees, as they are essential to the development of our products"
+      ]
+    },
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "careers-rtx-com-global-en-job-01808603-principal-hardware-design-engineer-onsite",
     "_source": "new_jobs"
   }
 ]
