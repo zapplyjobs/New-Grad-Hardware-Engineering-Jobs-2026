@@ -9,16 +9,16 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-5-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
-![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-4-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building)
+![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-2-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 5+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 5+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 3+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 3+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,14 +69,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/hej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>⚡ <strong>Hardware Engineer</strong> (4 positions)</h3></summary>
+<summary><h3>⚡ <strong>Hardware Engineer</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Abbott Laboratories** | Software Verification Engineer II | St Paul, Minnesota | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobs.abbott/global/fr/job/31140135/Software-Verification-Engineer-II?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **GE Vernova** | Electronics Hardware Engineer | Niskayuna, New York | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.gevernova.com/electronics-hardware-engineer/job/R5030768?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Leonardo DRS, Inc.** | Verification Engineering Intern ... | Huntsville, Alabama | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.leonardodrs.com/job/Huntsville-Verification-Engineering-Intern-%28Summer-2026%29-AL-35808/1354835900/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **gpac** | Electrical Hardware Design Engineer | Oconomowoc, Wisconsin | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://lensa.com/job-v1/gpac/oconomowoc-wi/electrical-hardware-engineer/071cb4759c658dcff010c1fe4647d7ce?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -150,7 +148,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 0 positions
-- **🏢 Companies**: 5 companies
+- **🏢 Companies**: 3 companies
 - **🏷️ Top Category**: Software Engineering
 
 | Company | Role | Location | Posted | Level | Apply |
@@ -165,7 +163,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 5 current opportunities from 5 companies**
+**🎯 3 current opportunities from 3 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
