@@ -66,9 +66,9 @@
     "job_latitude": 34.0549076,
     "job_longitude": -118.242643,
     "job_benefits": [
+      "health_insurance",
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DdHvgOEUDnysNg7QDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -388,9 +388,9 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Df-yCc_PkNwuklX8TAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -622,9 +622,9 @@
     "job_latitude": 45.486928299999995,
     "job_longitude": -122.80403199999999,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Do-ANwyY_UhA2qE-6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -921,9 +921,9 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
-      "dental_coverage",
+      "health_insurance",
       "paid_time_off",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLaKu8ZFOJQjz_RAkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1178,8 +1178,8 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "_2EHWsENDgxLQwaMAAAAAA==",
-    "job_title": "Mixed Signal IC Design Engineer",
+    "job_id": "7iQvjJmF_G8gIBBjAAAAAA==",
+    "job_title": "Mixed Signal IC Engineer",
     "employer_name": "Insight Global",
     "employer_logo": null,
     "employer_website": "https://insightglobal.com",
@@ -1188,37 +1188,32 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://us.bebee.com/job/8d1a94d991c9f877673b788b3012afc9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://us.bebee.com/job/2117d6dc905bfd4292cac5b52632dce8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/8d1a94d991c9f877673b788b3012afc9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/amp/job/us-delaware-wilmington-mixed-signal-ic-design-engineer-insight-global?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://us.bebee.com/job/2117d6dc905bfd4292cac5b52632dce8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Job description\nInsight Global is hiring a Staff Mixed Signal IC Design Engineer for the Hearables and Wearables Consumer Business Unit. The role involves analysis, research, design, simulation, characterization, and release-to-production of high-performance, ultra-low power integrated circuits.\n\nAs part of the hearables and wearables design team, you will create high-performance edge processing solutions that shape device operation, music enjoyment, and connectivity.\nThe rise of connected, voice-activated devices and wearable audio peripherals demands innovative solutions.\n\nThe successful candidate will join a team with a track record of producing breakthrough innovative architectures for audio DAC/ADC and ultra-low power circuits.\nThe successful candidate must have a strong, intuitive capability in solving complex challenges. The candidate will be self-motivated and be able to work effectively within a team.\n\nEducation and Experience Requirements:\nM.S. or Ph.\nD. in Electrical Engineering, 7+ years CMOS IC design experience\nFamiliar with high-gain amplifiers, switched-capacitor circuits, comparators, integrators, voltage references, LDOs\nExcellent written/verbal communication; strong cross-team collaboration\nManage layout and post-layout simulations\n\nPreferred Qualifications\nADC/DAC design experience\nAudio IC design background\nProficient in Cadence schematic capture and SPICE simulation\nSkilled with MATLAB or similar modeling tools\nKnowledgeable in digital signal processing concepts\nAnalog/digital behavioral modelling expertise\nTeam and project leadership experience\n\nCompensation:\n$150k-$175k\n\nExact compensation may vary based on several factors, including skills, experience, and education.\n\nEmployees in this role will enjoy a comprehensive benefits package starting on day one of employment, including options for medical, dental, and vision insurance.\nEligibility to enroll in the 401(k) retirement plan begins after 90 days of employment.\n\nAdditionally, employees in this role will have access to paid sick leave and other paid time off benefits as required under the applicable law of the worksite location.",
+    "job_description": "Analog Devices is hiring a Staff Mixed Signal IC Design Engineer for the Hearables and Wearables Consumer Business Unit. The role involves analysis, research, design, simulation, characterization, and release-to-production of high-performance, ultra-low power integrated circuits.\n\nAs part of the hearables and wearables design team, you will create high-performance edge processing solutions that shape device operation, music enjoyment, and connectivity.\n\nThe rise of connected, voice-activated devices and wearable audio peripherals demands innovative solutions.\n\nThe successful candidate will join a team with a track record of producing breakthrough innovative architectures for audio DAC/ADC and ultra-low power circuits.\n\nThe successful candidate must have a strong, intuitive capability in solving complex challenges. The candidate will be self-motivated and be able to work effectively within a team.\n\nWe are a company committed to creating diverse and inclusive environments where people can bring their full, authentic selves to work every day.\nWe are an equal opportunity/affirmative action employer that believes everyone matters.\n\nQualified candidates will receive consideration for employment regardless of their race, color, ethnicity, religion, sex (including pregnancy), sexual orientation, gender identity and expression, marital status, national origin, ancestry, genetic factors, age, disability, protected veteran status, military or uniformed service member status, or any other status or characteristic protected by applicable laws, regulations, and ordinances.\nIf you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please send a request to learn more about how we collect, keep, and process your private information, please review Insight Global's Workforce Privacy Policy:\n\nRequired Skills & Experience\nAnalog Devices is hiring a Staff Mixed Signal IC Design Engineer for the Hearables and Wearables Consumer Business Unit. The role involves analysis, research, design, simulation, characterization, and release-to-production of high-performance, ultra-low power integrated circuits.\n\nAs part of the hearables and wearables design team, you will create high-performance edge processing solutions that shape device operation, music enjoyment, and connectivity.\n\nThe rise of connected, voice-activated devices and wearable audio peripherals demands innovative solutions.\n\nThe successful candidate will join a team with a track record of producing breakthrough innovative architectures for audio DAC/ADC and ultra-low power circuits.\n\nThe successful candidate must have a strong, intuitive capability in solving complex challenges. The candidate will be self-motivated and be able to work effectively within a team.\nNice to Have Skills & Experience\n• ADC/DAC design experience\n• Audio IC design background\n• Proficient in Cadence schematic capture and SPICE simulation\n• Skilled with MATLAB or similar modeling tools\n• Knowledgeable in digital signal processing concepts\n• Analog/digital behavioral modelling expertise\n• Team and project leadership experience\n\nBenefit packages for this role will start on the 1st day of employment and include medical, dental, and vision insurance, as well as HSA, FSA, and DCFSA account options, and 401k retirement account access with employer matching.\n\nEmployees in this role are also entitled to paid sick leave and/or other paid time off as provided by applicable law.",
     "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Wilmington, DE",
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Wilmington, NC",
     "job_city": "Wilmington",
-    "job_state": "Delaware",
+    "job_state": "North Carolina",
     "job_country": "US",
-    "job_latitude": 39.744655,
-    "job_longitude": -75.5483909,
+    "job_latitude": 34.2103894,
+    "job_longitude": -77.8868117,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_2EHWsENDgxLQwaMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7iQvjJmF_G8gIBBjAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
@@ -1227,10 +1222,10 @@
       "Qualifications": [
         "The successful candidate must have a strong, intuitive capability in solving complex challenges",
         "The candidate will be self-motivated and be able to work effectively within a team",
-        "M.S. or Ph",
-        "in Electrical Engineering, 7+ years CMOS IC design experience",
-        "Familiar with high-gain amplifiers, switched-capacitor circuits, comparators, integrators, voltage references, LDOs",
-        "Excellent written/verbal communication; strong cross-team collaboration",
+        "Analog Devices is hiring a Staff Mixed Signal IC Design Engineer for the Hearables and Wearables Consumer Business Unit",
+        "The successful candidate must have a strong, intuitive capability in solving complex challenges",
+        "The candidate will be self-motivated and be able to work effectively within a team",
+        "Nice to Have Skills & Experience",
         "ADC/DAC design experience",
         "Audio IC design background",
         "Proficient in Cadence schematic capture and SPICE simulation",
@@ -1240,21 +1235,99 @@
         "Team and project leadership experience"
       ],
       "Benefits": [
-        "$150k-$175k",
-        "Exact compensation may vary based on several factors, including skills, experience, and education",
-        "Employees in this role will enjoy a comprehensive benefits package starting on day one of employment, including options for medical, dental, and vision insurance",
-        "Eligibility to enroll in the 401(k) retirement plan begins after 90 days of employment",
-        "Additionally, employees in this role will have access to paid sick leave and other paid time off benefits as required under the applicable law of the worksite location"
+        "Benefit packages for this role will start on the 1st day of employment and include medical, dental, and vision insurance, as well as HSA, FSA, and DCFSA account options, and 401k retirement account access with employer matching",
+        "Employees in this role are also entitled to paid sick leave and/or other paid time off as provided by applicable law"
       ],
       "Responsibilities": [
         "The role involves analysis, research, design, simulation, characterization, and release-to-production of high-performance, ultra-low power integrated circuits",
         "As part of the hearables and wearables design team, you will create high-performance edge processing solutions that shape device operation, music enjoyment, and connectivity",
-        "Manage layout and post-layout simulations"
+        "The role involves analysis, research, design, simulation, characterization, and release-to-production of high-performance, ultra-low power integrated circuits",
+        "As part of the hearables and wearables design team, you will create high-performance edge processing solutions that shape device operation, music enjoyment, and connectivity"
       ]
     },
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
-    "id": "us-bebee-com-job-8d1a94d991c9f877673b788b3012afc9",
+    "id": "us-bebee-com-job-2117d6dc905bfd4292cac5b52632dce8",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "35POewr3rxsn0kOUAAAAAA==",
+    "job_title": "Mixed Signal Design Engineer",
+    "employer_name": "CyberCoders",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7EfkXlgVv-zgqK75MkcGNvtZ5rIOcjLC1AH-2&s=0",
+    "employer_website": "https://hiring.cybercoders.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/mixed-signal-design-engineer-at-cybercoders-4353727099?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/mixed-signal-design-engineer-at-cybercoders-4353727099?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/4ec681a93f0dbafa81d4a3b01cb0354e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talents By Vaia",
+        "apply_link": "https://talents.vaia.com/companies/ztek-consulting/mixed-signal-design-engineer-31799589/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/696e83aedb26b6189511616c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "We are a leader in memory computing with solutions in AI memory computations to reduce power needed in advanced AI systems. We are looking to grow our team with an Mixed-Signal Analog Design Engineer. This person will have experience with CMOS and the design of analog circuits, amplifiers, data converters, voltage regulators and signal process circuits.\n\nKey Responsibilities:\n• Develop and design analog circuits and conduct detailed design simulations and verifications\n• Have experience in mixed-signal IC development in advanced CMOS processes and successful tape-outs\n• Have knowledge in circuits such as OpAmps, bandgap or voltage references\n• Be able to use EDA tools and CAD tools\n\nBenefits\n• Medical\n• Dental\n• Vision\n• PTO\n• 401k\n• Performance Based Bonus\n\nEmail Your Resume In Word To\nKatherine.Tempel@cybercoders.com\nLooking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply.\nPlease do NOT change the email subject line in any way. You must keep the JobID: linkedin : KT4-1871165 -- in the email subject line for your application to be considered.\nKatherine Tempel - Recruiting Manager\n\nFor this position, you must be currently authorized to work in the United States without the need for sponsorship for a non-immigrant visa.\n\nCyberCoders will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.\n\nThis job was first posted by CyberCoders on 07/21/2025 and applications will be accepted on an ongoing basis until the position is filled or closed.\n\nCyberCoders is proud to be an Equal Opportunity Employer\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, sexual orientation, gender identity or expression, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, status as a crime victim, disability, protected veteran status, or any other characteristic protected by law. CyberCoders will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable state and local law, including but not limited to the Los Angeles County Fair Chance Ordinance, the San Francisco Fair Chance Ordinance, and the California Fair Chance Act. CyberCoders is committed to working with and providing reasonable accommodation to individuals with physical and mental disabilities. Individuals needing special assistance or an accommodation while seeking employment can contact a member of our Human Resources team at Benefits@CyberCoders.com to make arrangements.\n\nCopyright 1999 - 2026. CyberCoders , Inc. All rights reserved.",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "San Jose, CA",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.33874,
+    "job_longitude": -121.88525249999999,
+    "job_benefits": [
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D35POewr3rxsn0kOUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Have knowledge in circuits such as OpAmps, bandgap or voltage references",
+        "Be able to use EDA tools and CAD tools",
+        "For this position, you must be currently authorized to work in the United States without the need for sponsorship for a non-immigrant visa",
+        "CyberCoders will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable state and local law, including but not limited to the Los Angeles County Fair Chance Ordinance, the San Francisco Fair Chance Ordinance, and the California Fair Chance Act"
+      ],
+      "Benefits": [
+        "Medical",
+        "Dental",
+        "Vision",
+        "PTO",
+        "401k",
+        "Performance Based Bonus"
+      ],
+      "Responsibilities": [
+        "This person will have experience with CMOS and the design of analog circuits, amplifiers, data converters, voltage regulators and signal process circuits",
+        "Develop and design analog circuits and conduct detailed design simulations and verifications",
+        "Have experience in mixed-signal IC development in advanced CMOS processes and successful tape-outs"
+      ]
+    },
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "www-linkedin-com-jobs-view-mixed-signal-design-engineer-at-cybercoders-4353727099",
     "_source": "new_jobs"
   }
 ]
