@@ -9,16 +9,16 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-1-blue?style=flat&logo=building)
-![FPGA/ASIC](https://img.shields.io/badge/FPGA/ASIC-1-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-0-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-0-blue?style=flat&logo=building)
+![Software Engine](https://img.shields.io/badge/Software_Engineering-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 1+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 1+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 0+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 0+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -68,16 +68,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/hej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-<details>
-<summary><h3>🔲 <strong>FPGA/ASIC</strong> (1 positions)</h3></summary>
-
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **MaximaTek** | Engineer I | Wyoming, Michigan | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/f216e0fa20764be1bc473403d44942b6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-</details>
-
-
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 
 
@@ -134,7 +127,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1 current opportunities from 1 companies**
+**🎯 0 current opportunities from 0 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
