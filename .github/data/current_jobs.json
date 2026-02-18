@@ -256,7 +256,7 @@
         "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
         "Additional paid time away may be requested to deal with critical or emergency issues for family members",
         "Optional 10 paid days per full calendar year to volunteer",
-        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
+        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco���s policies",
         "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
         "For quota-based incentive pay, Cisco typically pays as follows:",
         ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
@@ -319,8 +319,8 @@
     "job_latitude": 42.4303138,
     "job_longitude": -71.460433,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
+      "paid_time_off",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWCKq8jo9troUMF-DAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -685,6 +685,79 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "o_tEI4Bgh9YB7VnQAAAAAA==",
+    "job_title": "Physical Design Power Grid / IR / EM Engineer",
+    "employer_name": "Broadcom Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbZqXtcORKhT-0Lmd4uDM5ZmBYKzuGXe5EfnJY&s=0",
+    "employer_website": "https://www.broadcom.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=53f230bd29f7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=53f230bd29f7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Please Note\n\n1. If you are a first time user, please create your candidate login account before you apply for a job. (Click Sign In >\n\nCreate Account)\n\n2. If you already have a Candidate Account, please Sign-In before you apply.\n\nJob Description :\n\nAn ASIC IR / EM (Internal Resistance / Electromigration) Engineer focuses on the physical reliability and power integrity of advanced integrated circuits. This role typically owns flow / methodology and works closely with the Physical Design to ensure that high performance chips do not fail due to excessive voltage drop or wire burnout.\n\nKey Responsibilities :\n\nLead and execute power / EMIR methodology, implementation, and signoff\n\nDesign and optimize the power straps / mesh to balance IR drop performance with routing congestion and area\n\nWork closely with physical design implementationto ensure EMIR convergence at all stages\n\nApply PPA optimization techniques (performance / timing closure, power reduction, area efficiency) across block and full-chip hierarchies\n\nCollaborate with front-end design, architecture, and CAD / EDA tool teams to ensure physical design constraints, timing budgets, power budgets, and DFT criteria are met\n\nDevelop and enhance EMIR flows, methodologies, scripts, and automation frameworks (TCL, Python, Perl) to accelerate turnaround, improve QoR, and reduce manual intervention\n\nCollaborate with packaging teams to ensure designs are run with CPM models\n\nDebug design issues and work with CAD tool vendors to drive tool enhancements or implement workarounds\n\nMentor junior engineers, contribute to design reviews, document flows, and promote continuous process improvement\n\nMinimum experience :\n\nBachelor’s degree in Electrical Engineering, Computer Engineering, or a related technical field and 8+ years or Master’s degree in Electrical Engineering, Computer Engineering, or a related technical field and 6+ years of hands-on experience in IR / EM analysis,methodology, or physical design for multi-voltage and large SoCs\n\nGood understandingof UPF based power intent, power grid architecture, and EMIR analysis using the industry's most advanced toolsets (RedHawk, Voltus, etc.)\n\nAdvanced scripting abilities (Tcl, Python, Perl) for architecting resilient, automated flows\n\nProven impact delivering robust solutions on leading-edge FinFET nodes, across the complete RTL-to-GDSII lifecycle\n\nAdditional Job Description :\n\nCompensation and Benefits\n\nThe annual base salary range for this position is $120,000 - $192,000.\n\nThis position is also eligible for a discretionary annual bonus in accordance with relevant plan documents, and equity in accordance with equity plan documents and equity award agreements.\n\nBroadcom offers a competitive and comprehensive benefits package : Medical, dental and vision plans, 401(K) participation including company matching, Employee Stock Purchase Program (ESPP), Employee Assistance Program (EAP), company paid holidays, paid sick leave and vacation time. The company follows all applicable laws for Paid Family Leave and other leaves of absence.\n\nBroadcom is proud to be an equal opportunity employer. We will consider qualified applicants without regard to race, color, creed, religion, sex, sexual orientation, national origin, citizenship, disability status, medical condition, pregnancy, protected veteran status or any other characteristic protected by federal, state, or local law. We will also consider qualified applicants with arrest and conviction records consistent with local law.\n\nIf you are located outside USA, please be sure to fill out a home address as this will be used for future correspondence.",
+    "job_is_remote": false,
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "San Jose, CA",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.33874,
+    "job_longitude": -121.88525249999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Do_tEI4Bgh9YB7VnQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor’s degree in Electrical Engineering, Computer Engineering, or a related technical field and 8+ years or Master’s degree in Electrical Engineering, Computer Engineering, or a related technical field and 6+ years of hands-on experience in IR / EM analysis,methodology, or physical design for multi-voltage and large SoCs",
+        "Good understandingof UPF based power intent, power grid architecture, and EMIR analysis using the industry's most advanced toolsets (RedHawk, Voltus, etc.)",
+        "Advanced scripting abilities (Tcl, Python, Perl) for architecting resilient, automated flows",
+        "Proven impact delivering robust solutions on leading-edge FinFET nodes, across the complete RTL-to-GDSII lifecycle"
+      ],
+      "Benefits": [
+        "The annual base salary range for this position is $120,000 - $192,000",
+        "This position is also eligible for a discretionary annual bonus in accordance with relevant plan documents, and equity in accordance with equity plan documents and equity award agreements",
+        "Broadcom offers a competitive and comprehensive benefits package : Medical, dental and vision plans, 401(K) participation including company matching, Employee Stock Purchase Program (ESPP), Employee Assistance Program (EAP), company paid holidays, paid sick leave and vacation time",
+        "The company follows all applicable laws for Paid Family Leave and other leaves of absence"
+      ],
+      "Responsibilities": [
+        "An ASIC IR / EM (Internal Resistance / Electromigration) Engineer focuses on the physical reliability and power integrity of advanced integrated circuits",
+        "This role typically owns flow / methodology and works closely with the Physical Design to ensure that high performance chips do not fail due to excessive voltage drop or wire burnout",
+        "Lead and execute power / EMIR methodology, implementation, and signoff",
+        "Design and optimize the power straps / mesh to balance IR drop performance with routing congestion and area",
+        "Work closely with physical design implementationto ensure EMIR convergence at all stages",
+        "Apply PPA optimization techniques (performance / timing closure, power reduction, area efficiency) across block and full-chip hierarchies",
+        "Collaborate with front-end design, architecture, and CAD / EDA tool teams to ensure physical design constraints, timing budgets, power budgets, and DFT criteria are met",
+        "Develop and enhance EMIR flows, methodologies, scripts, and automation frameworks (TCL, Python, Perl) to accelerate turnaround, improve QoR, and reduce manual intervention",
+        "Collaborate with packaging teams to ensure designs are run with CPM models",
+        "Debug design issues and work with CAD tool vendors to drive tool enhancements or implement workarounds",
+        "Mentor junior engineers, contribute to design reviews, document flows, and promote continuous process improvement"
+      ]
+    },
+    "job_onet_soc": "17207100",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "xw1pA-R0tJ91C-g3AAAAAA==",
     "job_title": "Engineer I",
     "employer_name": "MaximaTek",
@@ -836,79 +909,6 @@
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-cybercoders-job-senior-asic-soc-physical-design-engineer-in-irvine-ca",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "o_tEI4Bgh9YB7VnQAAAAAA==",
-    "job_title": "Physical Design Power Grid / IR / EM Engineer",
-    "employer_name": "Broadcom Inc.",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbZqXtcORKhT-0Lmd4uDM5ZmBYKzuGXe5EfnJY&s=0",
-    "employer_website": "https://www.broadcom.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=53f230bd29f7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=53f230bd29f7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Please Note\n\n1. If you are a first time user, please create your candidate login account before you apply for a job. (Click Sign In >\n\nCreate Account)\n\n2. If you already have a Candidate Account, please Sign-In before you apply.\n\nJob Description :\n\nAn ASIC IR / EM (Internal Resistance / Electromigration) Engineer focuses on the physical reliability and power integrity of advanced integrated circuits. This role typically owns flow / methodology and works closely with the Physical Design to ensure that high performance chips do not fail due to excessive voltage drop or wire burnout.\n\nKey Responsibilities :\n\nLead and execute power / EMIR methodology, implementation, and signoff\n\nDesign and optimize the power straps / mesh to balance IR drop performance with routing congestion and area\n\nWork closely with physical design implementationto ensure EMIR convergence at all stages\n\nApply PPA optimization techniques (performance / timing closure, power reduction, area efficiency) across block and full-chip hierarchies\n\nCollaborate with front-end design, architecture, and CAD / EDA tool teams to ensure physical design constraints, timing budgets, power budgets, and DFT criteria are met\n\nDevelop and enhance EMIR flows, methodologies, scripts, and automation frameworks (TCL, Python, Perl) to accelerate turnaround, improve QoR, and reduce manual intervention\n\nCollaborate with packaging teams to ensure designs are run with CPM models\n\nDebug design issues and work with CAD tool vendors to drive tool enhancements or implement workarounds\n\nMentor junior engineers, contribute to design reviews, document flows, and promote continuous process improvement\n\nMinimum experience :\n\nBachelor’s degree in Electrical Engineering, Computer Engineering, or a related technical field and 8+ years or Master’s degree in Electrical Engineering, Computer Engineering, or a related technical field and 6+ years of hands-on experience in IR / EM analysis,methodology, or physical design for multi-voltage and large SoCs\n\nGood understandingof UPF based power intent, power grid architecture, and EMIR analysis using the industry's most advanced toolsets (RedHawk, Voltus, etc.)\n\nAdvanced scripting abilities (Tcl, Python, Perl) for architecting resilient, automated flows\n\nProven impact delivering robust solutions on leading-edge FinFET nodes, across the complete RTL-to-GDSII lifecycle\n\nAdditional Job Description :\n\nCompensation and Benefits\n\nThe annual base salary range for this position is $120,000 - $192,000.\n\nThis position is also eligible for a discretionary annual bonus in accordance with relevant plan documents, and equity in accordance with equity plan documents and equity award agreements.\n\nBroadcom offers a competitive and comprehensive benefits package : Medical, dental and vision plans, 401(K) participation including company matching, Employee Stock Purchase Program (ESPP), Employee Assistance Program (EAP), company paid holidays, paid sick leave and vacation time. The company follows all applicable laws for Paid Family Leave and other leaves of absence.\n\nBroadcom is proud to be an equal opportunity employer. We will consider qualified applicants without regard to race, color, creed, religion, sex, sexual orientation, national origin, citizenship, disability status, medical condition, pregnancy, protected veteran status or any other characteristic protected by federal, state, or local law. We will also consider qualified applicants with arrest and conviction records consistent with local law.\n\nIf you are located outside USA, please be sure to fill out a home address as this will be used for future correspondence.",
-    "job_is_remote": false,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "San Jose, CA",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.33874,
-    "job_longitude": -121.88525249999999,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Do_tEI4Bgh9YB7VnQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor’s degree in Electrical Engineering, Computer Engineering, or a related technical field and 8+ years or Master’s degree in Electrical Engineering, Computer Engineering, or a related technical field and 6+ years of hands-on experience in IR / EM analysis,methodology, or physical design for multi-voltage and large SoCs",
-        "Good understandingof UPF based power intent, power grid architecture, and EMIR analysis using the industry's most advanced toolsets (RedHawk, Voltus, etc.)",
-        "Advanced scripting abilities (Tcl, Python, Perl) for architecting resilient, automated flows",
-        "Proven impact delivering robust solutions on leading-edge FinFET nodes, across the complete RTL-to-GDSII lifecycle"
-      ],
-      "Benefits": [
-        "The annual base salary range for this position is $120,000 - $192,000",
-        "This position is also eligible for a discretionary annual bonus in accordance with relevant plan documents, and equity in accordance with equity plan documents and equity award agreements",
-        "Broadcom offers a competitive and comprehensive benefits package : Medical, dental and vision plans, 401(K) participation including company matching, Employee Stock Purchase Program (ESPP), Employee Assistance Program (EAP), company paid holidays, paid sick leave and vacation time",
-        "The company follows all applicable laws for Paid Family Leave and other leaves of absence"
-      ],
-      "Responsibilities": [
-        "An ASIC IR / EM (Internal Resistance / Electromigration) Engineer focuses on the physical reliability and power integrity of advanced integrated circuits",
-        "This role typically owns flow / methodology and works closely with the Physical Design to ensure that high performance chips do not fail due to excessive voltage drop or wire burnout",
-        "Lead and execute power / EMIR methodology, implementation, and signoff",
-        "Design and optimize the power straps / mesh to balance IR drop performance with routing congestion and area",
-        "Work closely with physical design implementationto ensure EMIR convergence at all stages",
-        "Apply PPA optimization techniques (performance / timing closure, power reduction, area efficiency) across block and full-chip hierarchies",
-        "Collaborate with front-end design, architecture, and CAD / EDA tool teams to ensure physical design constraints, timing budgets, power budgets, and DFT criteria are met",
-        "Develop and enhance EMIR flows, methodologies, scripts, and automation frameworks (TCL, Python, Perl) to accelerate turnaround, improve QoR, and reduce manual intervention",
-        "Collaborate with packaging teams to ensure designs are run with CPM models",
-        "Debug design issues and work with CAD tool vendors to drive tool enhancements or implement workarounds",
-        "Mentor junior engineers, contribute to design reviews, document flows, and promote continuous process improvement"
-      ]
-    },
-    "job_onet_soc": "17207100",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
