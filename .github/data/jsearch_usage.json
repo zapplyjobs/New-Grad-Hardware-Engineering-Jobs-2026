@@ -1,7 +1,7 @@
 {
   "date": "Wed Feb 18 2026",
-  "requests": 27,
-  "remaining": 3,
+  "requests": 28,
+  "remaining": 2,
   "queries_executed": [
     "hardware engineer",
     "electrical engineer",
@@ -29,6 +29,7 @@
     "mixed signal engineer",
     "power electronics engineer",
     "rf engineer",
-    "rf engineer"
+    "rf engineer",
+    "vlsi engineer"
   ]
 }
