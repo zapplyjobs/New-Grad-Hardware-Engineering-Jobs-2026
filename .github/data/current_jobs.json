@@ -148,9 +148,9 @@
     "job_latitude": 43.156577899999995,
     "job_longitude": -77.6088465,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DeunV6q7Z6HJj35ZeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -210,6 +210,127 @@
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
     "id": "careers-gevernova-com-lead-hardware-engineer-digital-design-industrialization-job-r5030236",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "zm4mFNDeB44pK_TYAAAAAA==",
+    "job_title": "Lead Design Engineer – Advanced Concepts & Prototypes – Aerospace Research",
+    "employer_name": "GE Aerospace",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3iRcWQHpHkwnn0LS0v9plLwDo5g4FP7sj86GA&s=0",
+    "employer_website": "https://www.geaerospace.com",
+    "job_publisher": "GE Aerospace Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.geaerospace.com/global/en/job/R5025320/Lead-Design-Engineer-Advanced-Concepts-Prototypes-Aerospace-Research?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "GE Aerospace Careers",
+        "apply_link": "https://careers.geaerospace.com/global/en/job/R5025320/Lead-Design-Engineer-Advanced-Concepts-Prototypes-Aerospace-Research?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Workday",
+        "apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Niskayuna/Lead-Design-Engineer---Advanced-Concepts---Prototypes---Aerospace-Research_R5025320-1/apply?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=4659a7b755a6620c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WIZBII Jobs",
+        "apply_link": "https://en.wizbii.com/company/general-electric/job/lead-design-engineer-advanced-concepts-prototypes-aerospace-research-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LocalJobs.com",
+        "apply_link": "https://www.localjobs.com/job/niskayuna-ny-lead-design-engineer-advanced-concepts-prototypes-aerospace-research-0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/AioTZ2xQHbyDN9SEOUiwhZhcEmdpJPFPHua7odlN70UcTqCfqeE80Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/lead-design-engineer-%E2%80%93-advanced-concepts-prototypes-%E2%80%93-aerospace-research-at-ge-aerospace-4366769280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Description Summary\nThe Lead Design Engineer – Advanced Concepts & Prototypes will turn the cutting-edge technology of GE Aerospace Research into the next generation of flight. Design, build, and test system prototypes that push new technologies to their limits to prove their capability. Execute mechanical design as a key member of a large multi-disciplinary team including technologists, engineers, and advanced manufacturing experts. Use system-level thinking to find the shortest path between idea and test. A successful applicant will have previous hands-on experience in mechanical design of turbomachinery, design for manufacturing, assembly, and test execution.\n\nJob Description\nEssential Responsibilities\n• Execute with guidance the mechanical design of complex test systems, prototypes, and technology demos incorporating a range of new technologies.\n• Collaborate with senior engineers, researchers, and facilities focals to turn high level system goals and test objectives into detailed design requirements.\n• Collaborate with a multidisciplinary team of designers, analysts, and researchers to complete design tasks in support of next generation rigs.\n• Use engineering judgement to identify key design features to meet the testing goals and simplify non-critical features to accelerate time to test.\n• Apply established design methodology as appropriate to create prototypes that properly model future products.\n• Assist in the creation of new design methodologies as required to reduce new technology to practice. Record lessons learned to inform future engineering teams.\n• Support manufacturing, assembly, and commissioning of prototypes and related test systems.\n• Mentor and guide those less experienced in applied mechanical design.\n\nRequired Qualifications\n• Bachelor’s degree in engineering from an accredited university or college.\n• Minimum of 5 years total experience in mechanical design\n• Detailed hardware design from concept to manufacturing drawing\n• Experience selecting and executing analysis methods ranging from hand calc to Finite Element Analysis\n• Design for manufacturing & assembly (DFMA)\n• Definition of component requirements for manufacturing teams and vendors\n• Proficiency in CAD\n• Minimum of 3 years experience as in turbomachinery mechanical design\n(Examples: High speed rotors, turbine engine structures, hot section components, etc))\n• Create detailed component-level requirements to meet overall system goals\n• Technical project planning for design of components & modules requiring coordination with multiple disciplines.\n• Integration of components into turbomachine system\n• Communication to working team & project leadership\n• Must be willing to work onsite in Niskayuna, NY\n• Due to the nature of the duties of this position, this role requires the individual to obtain and maintain US Government Security Clearance; prerequisite for a security clearance is U.S. citizenship.\n\nDesired Characteristics\n• Master’s degree in engineering from an accredited university or college\n• Experience in prototype creation & testing\n• Conceptual design of components outside industry experience\n• Design for test (prototype & test enabling hardware)\n• Test facility integration\n• Test plan creation\n• Test safety management\n• Instrumentation and measurement\n• Hands-on assembly\n• Test execution\n• Familiarity with preferred design and analysis tools\n• Siemens NX\n• ANSYS\n• Technical Communication\n• Generation and documentation of design processes\n• Communication across internal organizations & with external groups such as suppliers, partners, and/or customers\n• Coordination with on-site, remote, and global team members\n• Application of Lean principles in design process\n• Continual improvement\n• Iterative design process\n• Technology maturation process\n• Technology Readiness Level (TRL) & Tech mat planning\n• Root Cause Analysis (RCA) & Failure Modes and Effects Analysis (FMEA)\n\nThe base pay range for this position is $90,000 - $175,000 USD annually. The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set. This position is also eligible for an annual discretionary bonus based on a percentage of your base salary/ commission based on the plan. This posting is expected to close on April 30th 2026\n\nGE Aerospace offers comprehensive benefits and programs to support your health and, along with programs like HealthAhead, your physical, emotional, financial and social wellbeing. Healthcare benefits include medical, dental, vision, and prescription drug coverage; access to a Health Coach from GE Aerospace; and the Employee Assistance Program, which provides 24/7 confidential assessment, counseling and referral services. Retirement benefits include the GE Aerospace Retirement Savings Plan, a 401(k) savings plan with company matching contributions and company retirement contributions, as well as access to Fidelity resources and planning consultants. Other benefits include tuition assistance, adoption assistance, paid parental leave, disability insurance, life insurance, and paid time-off for vacation or illness. ​\n\nGE Aerospace (General Electric Company or the Company) and its affiliates each sponsor certain employee benefit plans or programs (i.e., is a “Sponsor”). Each Sponsor reserves the right to terminate, amend, suspend, replace or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a Sponsor’s welfare benefit plan or program. This document does not create a contract of employment with any individual.\n\n#LI-MH1\n\nThis role requires access to U.S. export-controlled information. Therefore, employment will be contingent upon the ability to prove that you meet the status of a U.S. Person as one of the following: U.S. lawful permanent resident, U.S. Citizen, have been granted asylee or refugee status (i.e., a protected individual under the Immigration and Naturalization Act, 8 U.S.C. 1324b(a)(3)).\n\nAdditional Information\n\nGE Aerospace offers a great work environment, professional development, challenging careers, and competitive compensation. GE Aerospace is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.\n\nGE Aerospace will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable).\n\nRelocation Assistance Provided: Yes",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Niskayuna",
+    "job_city": "Niskayuna",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 42.8000049,
+    "job_longitude": -73.89144069999999,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dzm4mFNDeB44pK_TYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Use system-level thinking to find the shortest path between idea and test",
+        "A successful applicant will have previous hands-on experience in mechanical design of turbomachinery, design for manufacturing, assembly, and test execution",
+        "Mentor and guide those less experienced in applied mechanical design",
+        "Bachelor’s degree in engineering from an accredited university or college",
+        "Minimum of 5 years total experience in mechanical design",
+        "Detailed hardware design from concept to manufacturing drawing",
+        "Experience selecting and executing analysis methods ranging from hand calc to Finite Element Analysis",
+        "Design for manufacturing & assembly (DFMA)",
+        "Definition of component requirements for manufacturing teams and vendors",
+        "Proficiency in CAD",
+        "Minimum of 3 years experience as in turbomachinery mechanical design",
+        "(Examples: High speed rotors, turbine engine structures, hot section components, etc))",
+        "Communication to working team & project leadership",
+        "Must be willing to work onsite in Niskayuna, NY",
+        "Due to the nature of the duties of this position, this role requires the individual to obtain and maintain US Government Security Clearance; prerequisite for a security clearance is U.S. citizenship",
+        "Therefore, employment will be contingent upon the ability to prove that you meet the status of a U.S. Person as one of the following: U.S. lawful permanent resident, U.S. Citizen, have been granted asylee or refugee status (i.e., a protected individual under the Immigration and Naturalization Act, 8 U.S.C"
+      ],
+      "Benefits": [
+        "The base pay range for this position is $90,000 - $175,000 USD annually",
+        "The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set",
+        "This position is also eligible for an annual discretionary bonus based on a percentage of your base salary/ commission based on the plan",
+        "GE Aerospace offers comprehensive benefits and programs to support your health and, along with programs like HealthAhead, your physical, emotional, financial and social wellbeing",
+        "Healthcare benefits include medical, dental, vision, and prescription drug coverage; access to a Health Coach from GE Aerospace; and the Employee Assistance Program, which provides 24/7 confidential assessment, counseling and referral services",
+        "Retirement benefits include the GE Aerospace Retirement Savings Plan, a 401(k) savings plan with company matching contributions and company retirement contributions, as well as access to Fidelity resources and planning consultants",
+        "Other benefits include tuition assistance, adoption assistance, paid parental leave, disability insurance, life insurance, and paid time-off for vacation or illness",
+        "Each Sponsor reserves the right to terminate, amend, suspend, replace or modify its benefit plans and programs at any time and for any reason, in its sole discretion",
+        "No individual has a vested right to any benefit under a Sponsor’s welfare benefit plan or program"
+      ],
+      "Responsibilities": [
+        "Execute mechanical design as a key member of a large multi-disciplinary team including technologists, engineers, and advanced manufacturing experts",
+        "Execute with guidance the mechanical design of complex test systems, prototypes, and technology demos incorporating a range of new technologies",
+        "Collaborate with senior engineers, researchers, and facilities focals to turn high level system goals and test objectives into detailed design requirements",
+        "Collaborate with a multidisciplinary team of designers, analysts, and researchers to complete design tasks in support of next generation rigs",
+        "Use engineering judgement to identify key design features to meet the testing goals and simplify non-critical features to accelerate time to test",
+        "Apply established design methodology as appropriate to create prototypes that properly model future products",
+        "Assist in the creation of new design methodologies as required to reduce new technology to practice",
+        "Record lessons learned to inform future engineering teams",
+        "Support manufacturing, assembly, and commissioning of prototypes and related test systems",
+        "Create detailed component-level requirements to meet overall system goals",
+        "Technical project planning for design of components & modules requiring coordination with multiple disciplines",
+        "Integration of components into turbomachine system"
+      ]
+    },
+    "job_onet_soc": "17201100",
+    "job_onet_job_zone": "4",
+    "id": "careers-geaerospace-com-global-en-job-r5025320-lead-design-engineer-advanced-concepts-prototypes-aerospace-research",
     "_source": "new_jobs"
   },
   {
@@ -359,8 +480,8 @@
     "job_latitude": 30.267152999999997,
     "job_longitude": -97.7430608,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DhnNixE83KdCLyvNYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 142000,
@@ -406,6 +527,124 @@
     "job_onet_soc": "17301200",
     "job_onet_job_zone": "3",
     "id": "www-indeed-com-viewjob",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "kMtNAZgfBqjJh6oXAAAAAA==",
+    "job_title": "Electrical Computer Aided Designer Engineer (ECAD)",
+    "employer_name": "RTX",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07Pszg4ykzzcAw_UvR1DUvJRFJlczRuZXiZQp&s=0",
+    "employer_website": null,
+    "job_publisher": "RTX - Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.rtx.com/global/en/job/01824219/Electrical-Computer-Aided-Designer-Engineer-ECAD?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "RTX - Careers",
+        "apply_link": "https://careers.rtx.com/global/en/job/01824219/Electrical-Computer-Aided-Designer-Engineer-ECAD?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Raytheon/Job/Electrical-Computer-Aided-Designer-Engineer-(ECAD)/-in-Tucson,AZ?jid=a752ffee2035a215&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/electrical-computer-aided-designer-engineer-ecad-at-raytheon-4372998036?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Diversity Jobs - AbilityJOBS",
+        "apply_link": "https://career.abilityjobs.com/job/electrical-computer-aided-designer-engineer-ecad/82519779/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "TD World Job Center",
+        "apply_link": "https://jobs.tdworld.com/job/84e5m8/electrical-computer-aided-designer-engineer-(ecad)/tucson/az?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "National Labor Exchange",
+        "apply_link": "https://usnlx.com/tucson-az/electrical-computer-aided-designer-engineer-ecad/AF52B0DE1443405F9C6C17F2B51E488D/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/9ff580f6efa6e7e4706417d6b6e2607c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Date Posted:\n2026-02-13\n\nCountry:\nUnited States of America\n\nLocation:\nUS-AZ-TUCSON-M10 3360 E Hemisphere Loop BLDG M10\n\nPosition Role Type:\nOnsite\n\nU.S. Citizen, U.S. Person, or Immigration Status Requirements:\nThe ability to obtain and maintain a U.S. government issued security clearance is required.​ U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance\n\nSecurity Clearance Type:\nDoD Clearance: Secret\n\nSecurity Clearance Status:\nActive and existing security clearance required after day 1\n\nAt Raytheon, the foundation of everything we do is rooted in our values and a higher calling – to help our nation and allies defend freedoms and deter aggression. We bring the strength of more than 100 years of experience and renowned engineering expertise to meet the needs of today’s mission and stay ahead of tomorrow’s threat. Our team solves tough, meaningful problems that create a safer, more secure world.\n\nThe Product Design and Packaging (PDP) Team at Raytheon is seeking a Electrical Engineer II to join our team as an Electrical Computer Aided Designer Engineer (ECAD).\n\nOur Mission is to develop best in industry technologies that align product capabilities to the needs of our customer. We will empower our people to leverage design commonality and innovation, balancing risk and rigor, to achieve predictable and affordable solutions. We are looking for candidates willing to collaborate, innovate, and team with our engineers to generate and utilize today’s cutting-edge technology.\n\nThis position is an onsite role, located in Tucson, AZ.\n\nWhat you will do\n• Responsible for Printed Circuit Board (PCB) designs from conception to manufacturing\n• Creation of the PCB, Circuit Card Assembly (CCA), and Schematic drawings for suppliers\n• Schematic Capture, Component Placement, Routing of Traces, Gerber/ODB++ file creation\n• Software utilizing Siemens: Xpedition Enterprise and DownStream Technologies: BluePrint-PCB\n• Design layouts include Rigid, Flex, and Rigid-Flex assemblies\n• Working designs include full designs, re-spins, drawing updates, change notices, copper changes, and process improvement projects within and outside own discipline\n• Daily interface with various engineering levels along with different engineering disciplines including, but not limited to Electrical, Mechanical, Components, Test, and Producibility Engineering disciplines to ensure that the overall design requirements are captured, keeping cost, cycle time, and producibility in mind\n\nQualifications You Must Have\n• Typically requires a Bachelor’s in Science, Technology, Engineering, or Mathematics (STEM) and a minimum of 2 years of prior relevant experience, or an Advanced Degree in a related field.\n• Experience to include at least one (1) of the following:\n• Previous work history with PCB manufacturing or CCA manufacturing principles that affect circuitry and component layout along with RF specific layout techniques\n• Experience with the electrical design process including RF layout\n• History with laying out Rigid, Flex, or Rigid-Flex boards\n• The ability to obtain and maintain a U.S. government issued security clearance is required. U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance.\n\nQualifications We Prefer\n• Working knowledge of Analog, Digital including DDR, RF, Power, and mixed technology, including multi-layer designs with High Density Interconnect (HDI) technology\n• Technical PCB design skills using the Siemens design toolset including, but not limited to the Xpedition Layout tool suite with working knowledge of schematic capture, placement, routing, use of the auto-router, constraint manager, and library tools, and use of BluePrint to create complex PCB and CCA drawings, Altium is not used, but transfers over well to the Siemens toolset\n• Export manufacturing data in both Gerber and ODB++ formats\n• Awareness of Valor NPI, Design for Manufacturing rule sets, other Design Rule Checking software\n• Understanding of drawings as they relate to PCB’s and CCA’s\n• Awareness of IPC 6012 & IPC 6013\n• Knowledge of military and commercial design standards, GD&T techniques, and overall producibility considerations related to electronic packaging\n• Ability to effectively multi-task and able to make improvements of processes, systems, or products to enhance performance of the work area\n• Must be able to assist in developing technical solutions to semi-complex problems through use of ingenuity and creativity with moderate supervision\n• Working knowledge of operating system concepts and implementations, network services as related to Microsoft Windows suites\n• Active Secret DoD security clearance\n\nWhat We Offer\nWhether you’re just starting out on your career journey or are an experienced professional, we offer a robust total rewards package that goes above and beyond with compensation; healthcare, wellness, retirement and work/life benefits; career development and recognition programs. Some of the superior benefits we offer include parental (including paternal) leave, flexible work schedules, achievement awards, educational assistance and child/adult backup care.\n\nThis position requires the eligibility to obtain a security clearance. The Defense Industrial Security Clearance Office (DISCO), an agency of the Department of Defense, handles and adjudicates the security clearance process. More information about Security Clearances can be found on the US Department of State government website here: https://www.state.gov/m/ds/clearances/c10978.htm\n\nCheck us out on YouTube! https://www.youtube.com/raytheontechnologies\n\n#LI-CV1\n\nAs part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote.\n\nThe salary range for this role is 68,900 USD - 131,100 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.\n\nHired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.\n\nHired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.\n\nThis role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.\n\nRTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.\n\nRTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.\n\nPrivacy Policy and Terms:\n\nClick on this link to read the Policy and Terms",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771113600,
+    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
+    "job_location": "Tucson, AZ",
+    "job_city": "Tucson",
+    "job_state": "Arizona",
+    "job_country": "US",
+    "job_latitude": 32.2539787,
+    "job_longitude": -110.97417689999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkMtNAZgfBqjJh6oXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ability to obtain and maintain a U.S. government issued security clearance is required.​ U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance",
+        "Active and existing security clearance required after day 1",
+        "Typically requires a Bachelor’s in Science, Technology, Engineering, or Mathematics (STEM) and a minimum of 2 years of prior relevant experience, or an Advanced Degree in a related field",
+        "Experience to include at least one (1) of the following:",
+        "Previous work history with PCB manufacturing or CCA manufacturing principles that affect circuitry and component layout along with RF specific layout techniques",
+        "Experience with the electrical design process including RF layout",
+        "History with laying out Rigid, Flex, or Rigid-Flex boards",
+        "The ability to obtain and maintain a U.S. government issued security clearance is required",
+        "U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance",
+        "Working knowledge of Analog, Digital including DDR, RF, Power, and mixed technology, including multi-layer designs with High Density Interconnect (HDI) technology",
+        "Technical PCB design skills using the Siemens design toolset including, but not limited to the Xpedition Layout tool suite with working knowledge of schematic capture, placement, routing, use of the auto-router, constraint manager, and library tools, and use of BluePrint to create complex PCB and CCA drawings, Altium is not used, but transfers over well to the Siemens toolset",
+        "Export manufacturing data in both Gerber and ODB++ formats",
+        "Awareness of Valor NPI, Design for Manufacturing rule sets, other Design Rule Checking software",
+        "Understanding of drawings as they relate to PCB’s and CCA’s",
+        "Awareness of IPC 6012 & IPC 6013",
+        "Knowledge of military and commercial design standards, GD&T techniques, and overall producibility considerations related to electronic packaging",
+        "Ability to effectively multi-task and able to make improvements of processes, systems, or products to enhance performance of the work area",
+        "Must be able to assist in developing technical solutions to semi-complex problems through use of ingenuity and creativity with moderate supervision",
+        "Working knowledge of operating system concepts and implementations, network services as related to Microsoft Windows suites",
+        "Active Secret DoD security clearance"
+      ],
+      "Benefits": [
+        "Whether you’re just starting out on your career journey or are an experienced professional, we offer a robust total rewards package that goes above and beyond with compensation; healthcare, wellness, retirement and work/life benefits; career development and recognition programs",
+        "Some of the superior benefits we offer include parental (including paternal) leave, flexible work schedules, achievement awards, educational assistance and child/adult backup care",
+        "The salary range provided is a good faith estimate representative of all experience levels",
+        "Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays",
+        "Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement",
+        "Hired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement",
+        "Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance"
+      ],
+      "Responsibilities": [
+        "Responsible for Printed Circuit Board (PCB) designs from conception to manufacturing",
+        "Creation of the PCB, Circuit Card Assembly (CCA), and Schematic drawings for suppliers",
+        "Schematic Capture, Component Placement, Routing of Traces, Gerber/ODB++ file creation",
+        "Software utilizing Siemens: Xpedition Enterprise and DownStream Technologies: BluePrint-PCB",
+        "Design layouts include Rigid, Flex, and Rigid-Flex assemblies",
+        "Working designs include full designs, re-spins, drawing updates, change notices, copper changes, and process improvement projects within and outside own discipline",
+        "Daily interface with various engineering levels along with different engineering disciplines including, but not limited to Electrical, Mechanical, Components, Test, and Producibility Engineering disciplines to ensure that the overall design requirements are captured, keeping cost, cycle time, and producibility in mind"
+      ]
+    },
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "careers-rtx-com-global-en-job-01824219-electrical-computer-aided-designer-engineer-ecad",
     "_source": "new_jobs"
   },
   {
@@ -471,8 +710,8 @@
     "job_longitude": -73.89144069999999,
     "job_benefits": [
       "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzZOlaqKz-NKfXZOCAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -571,9 +810,9 @@
     "job_latitude": 41.7658043,
     "job_longitude": -72.6733723,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2TZ54nvQ33ZrcGF0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -704,94 +943,115 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "THtn-MThrkudNKeYAAAAAA==",
-    "job_title": "ASIC Design Verfication Engineer II (Full Time) - United States",
-    "employer_name": "Cisco",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh1g8XJnbmCXXb2SnDnBBYbNHm-NdV1z99p6FX&s=0",
-    "employer_website": "https://www.cisco.com",
-    "job_publisher": "ZipRecruiter",
+    "job_id": "_suurIVYg45pri_TAAAAAA==",
+    "job_title": "Senior Analog IC Design Engineer or Analog IC Design Engineer",
+    "employer_name": "Mitutoyo Research & Development America (formerly Micro Encoder Inc.)",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUGSAEjbgzlaCN0GeUyHTiJCDRR1ELlpOf8vno&s=0",
+    "employer_website": null,
+    "job_publisher": "LinkedIn",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Cisco/Job/ASIC-Design-Verfication-Engineer-II-(Full-Time)-United-States/-in-Carlsbad,CA?jid=983d0d40411b62bb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
+    "job_apply_link": "https://www.linkedin.com/jobs/view/senior-analog-ic-design-engineer-or-analog-ic-design-engineer-at-mitutoyo-research-development-america-formerly-micro-encoder-inc-4363215217?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Cisco/Job/ASIC-Design-Verfication-Engineer-II-(Full-Time)-United-States/-in-Carlsbad,CA?jid=983d0d40411b62bb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-analog-ic-design-engineer-or-analog-ic-design-engineer-at-mitutoyo-research-development-america-formerly-micro-encoder-inc-4363215217?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
       },
       {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/asic-design-verfication-engineer-ii-full-carlsbad-cisco-systems-inc-cd2a274051c677ba3d903e52362740b2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/senior-analog-ic-design-engineer-or-analog-ic-design-engineer-hiremojo-JV_IC1150472_KO0,61_KE62,70.htm?jl=1010031297295&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Craigslist",
+        "apply_link": "https://seattle.craigslist.org/est/egr/d/kirkland-senior-analog-ic-design/7914379643.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/fdycoUSB4b686vqsb_yHphuXjrnOP4BF6zs2D77QCuUeSIK3ZTLihw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/698d81cef64d441a164f9aee?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/0f91119db2dba409f706d85b21154378?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/kirkland/washington/engineering/4874754639/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/amp/job/us-washington-kirkland-senior-analog-ic-design-engineer-mitutoyo-research?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
       }
     ],
-    "job_description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nApplications are accepted until further notice.\n\nMeet the Team\n\nThe ASIC Group works closely with other development teams within Cisco, including marketing, system hardware, software, product engineering, and manufacturing.\n\nThrough this collaboration, members of our group playa major rolein defining,developingand bringing new products to market across Cisco's product line. Open-minded, driven, diverse and deeply creative people at Cisco craft the hardware that makes the internet work. Bring your knowledge of computers and networking and take it to a new level in any one of the following product categories including: cloud, social, mobile/wireless, video, VoIP, collaboration, web, Internet of Things, routing, switching, IPv6, data center, HPC,TelePresenceand many more. Your work will affectbillionsglobally.\n\nYour Impact\n\nJoin our award-winning ASIC team, whereyou'llcollaborate with top industry talent to design and deliverground breakingcommunications and network processing silicon.You'llcontribute to system and processor architecture, high-speed logic design and verification, digital signal processing, memory and custom library development, physical design, DFT, signal integrity, and advanced packaging. Work with the latest VLSI techniques and deep submicron technologies, owning projects from concept to in-house physical implementation.\n\nMinimum Qualifications\n• Completion within the past 3 years, or current enrollment with expected completion within 12 months, Bachelors + 2 years of relevant experience or Masters + 0 years of relevant experience.\n• Familiarity with hardware description languages (HDLs), such as Verilog or VHDL.\n• Experience with RTL design and simulation tools (e.g., Synopsys, Cadence, Mentor Graphics).\n• Exposure toscripting languages (e.g., Python, Perl, TCL) for automation.\n• Familiarity with ASIC/SoC design flow including synthesis, place & route, and timing closure.\n\nPreferred Qualifications\n• Experience with ASIC verification methodologies (e.g., UVM,SystemVerilog)\n• Understanding of physical design and DFT (Design for Test) principles\n• Familiarity with Linux-based development environments\n• Ability to adapt tonew technologiesand problem-solve sophisticated engineering challenges\n• Excellent organizational, teamwork, and communication skills\n\nWhy Cisco?\n\nAt Cisco, we're revolutionizing how data and infrastructure connect and protect organizations in the AI era - and beyond. We've been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you'll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco's plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco's policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee's birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco's flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours ofunused sick timecarried forwardfrom one calendar yearto the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco's policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$123,600.00 - $200,100.00\n\nNon-Metro New York state & Washington state:\n$109,900.00 - $181,600.00\n• For quota-based sales roles on Cisco's sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+    "job_description": "Senior Analog IC Design Engineer or Analog IC Design Engineer\n\nKirkland, Washington - Full Time\n\nLooking for a dynamic role where you can leverage your expertise in analog IC design? Look no further. We're seeking a Senior Analog IC Design Engineer or an Analog IC Design Engineer who thrives on developing innovative solutions. At Mitutoyo Research & Development America, Inc. (MRDA), you'll be creating cutting-edge analog CMOS ASICs. Collaborating with a diverse team of IC designers and scientists, you'll tackle challenging product requirements using clever circuit design techniques.\n\nYou’ll also enjoy the flexibility of our hybrid work model. At MRDA, we prioritize your well-being and work-life balance.\n\nClick here for the detailed job description: https://www.mitutoyo-rda.com/s/2026-03-JD-Analog-IC-Design-Engineer.pdf\n\nTHE COOL THINGS YOU WILL BE DOING WITH YOUR TALENTS\n\nAs a talented Analog IC Design Engineer, you'll have the opportunity to work on exciting projects. You'll be designing, simulating, laying out, and testing Analog and Mixed Signal ICs that interface with imaging sensors, and capacitive and inductive transducers. Some of the circuits you and your team will be designing: signal conditioning, sensor excitation, analog-digital conversion (ADC, DAC), system on a chip (SoC), power management circuits.\n\nYou will also be working with scientists on the definition and system design of the next generation of metrology products.\n\nBut that's not all - you'll also have the chance to research and investigate new and innovative technologies, industry trends, and techniques to improve our products. This means you'll be at the forefront of innovation, pushing the boundaries of what's possible and driving our products forward.\n\nOccasional travel to Japan will offer you an opportunity to experience a different culture and learn from it.\n\nWHAT YOU NEED TO SUCCEED\n\nTo thrive in this role, you'll need an intuitive and analytical understanding of analog CMOS circuit design. Proficiency with EDA design tools is also essential. A successful track record of designing and debugging low power CMOS analog ICs is a must-have.\n\nIf you’re a Senior Analog IC Design Engineer with 12+ years of industry experience and architecture planning, system level design and modeling skills, this is the perfect fit. If you’re an Analog IC Design Engineer with 3+ years of industry experience and are eager to grow into a senior role, we also want to hear from you.\n\nGreat written and oral communication skills are also crucial, including the ability to clearly explain technology and document design concepts in detail. Finally, a willingness to learn new skills, work effectively independently or in a cross-functional team, and collaborate with diverse cultures and attitudes is essential for success in this role.\n\nAt MRDA, we value not just what you bring to the table today, but also your potential to shape tomorrow's innovations.\n\nFor a list of required and beneficial skills and experience, see the job description at https://www.mitutoyo-rda.com/2026-03.\n\nCOMPENSATION AND BENEFITS\n\nThe salary range is $120,000-$180,000 per year for the Senior Analog IC Design Engineer and $100,000-$140,000 per year for the Analog IC Design Engineer. The successful candidate’s salary will be determined based on job-related experience/ knowledge/ skills, education, and complexity and responsibility of the role. Benefits include 100% paid medical, dental, vision insurance (75% for dependents), 100% paid life and disability insurance, 6% matching 401k, 15 vacation days, 12 paid holidays, 10 paid sick days per year, and eligibility for performance based annual bonus. Additional benefits and details can be found at https://www.mitutoyo-rda.com/benefits.\n\nWHY YOU WILL LOVE WORKING HERE\n\nYour work here will help make a positive impact on society. You’ll enjoy working in our casual and friendly environment with very flexible hours and hybrid work model. You will get to work with a very intelligent group of people using our state-of-the-art facilities and equipment. We are highly stable and we’ll support your career development with training opportunities and our cultural focus on individual growth. You’ll love our excellent benefits package.\n\nTO APPLY, VISIT\n\nhttps://app.hiremojo.com/mojo/ce/508698359/Mitutoyo-Research--Development-America-Inc/Washington/Kirkland/Analog-IC-Design-Engineer\n\nOUR COMPANY\n\nMRDA, a wholly owned subsidiary of Mitutoyo Corporation, is at the forefront of developing state-of-the-art technologies and software that enhance lives through world-leading metrology solutions. Our products are integral in ensuring quality in industries such as automotive, aerospace, electronics, semiconductors, medical equipment, and machine tools.\n\nLocated in the beautiful Northwest in a modern, well-equipped facility, we offer a challenging, team-oriented, and casual work environment. We value work-life balance, offering great benefits and a fun, energetic atmosphere where we work hard, play hard, and enjoy life.\n\nFor more information about life at MRDA, check out https://www.mitutoyo-rda.com/life-at-mrda.\n\nMRDA is an equal opportunity employer. Applicants must be authorized to work for any employer in the U.S. MRDA participates in E-Verify. Detailed information: E-Verify (https://www.mitutoyo-rda.com/s/E-Verify_Participation_Poster.pdf) and Right to Work Statement (https://www.mitutoyo-rda.com/s/IER_RightToWorkPoster.pdf).\n\nSenior Analog IC Design Engineer, CMOS ASICs, Imaging sensors, mixed signal ASICs, EDA design tools, dimensional metrology, R&D, Electrical Engineer, LabVIEW, R, Matlab/Simulink, tcl, bash, ad Python, Application knowledge: Siemens/Tanner Tools/Mentor (S-Edit, L-Edit, Calibre, AFS, etc.), revision control software, Visio and RedHat Linux, #LI-JY1",
     "job_is_remote": false,
     "job_posted_at": "6 days ago",
     "job_posted_at_timestamp": 1770854400,
     "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Carlsbad, CA",
-    "job_city": "Carlsbad",
-    "job_state": "California",
+    "job_location": "Kirkland, WA",
+    "job_city": "Kirkland",
+    "job_state": "Washington",
     "job_country": "US",
-    "job_latitude": 33.1640648,
-    "job_longitude": -117.34108189999999,
+    "job_latitude": 47.676892699999996,
+    "job_longitude": -122.2059833,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DTHtn-MThrkudNKeYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_suurIVYg45pri_TAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 100000,
+    "job_max_salary": 180000,
+    "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "Open-minded, driven, diverse and deeply creative people at Cisco craft the hardware that makes the internet work",
-        "Bring your knowledge of computers and networking and take it to a new level in any one of the following product categories including: cloud, social, mobile/wireless, video, VoIP, collaboration, web, Internet of Things, routing, switching, IPv6, data center, HPC,TelePresenceand many more",
-        "Completion within the past 3 years, or current enrollment with expected completion within 12 months, Bachelors + 2 years of relevant experience or Masters + 0 years of relevant experience",
-        "Familiarity with hardware description languages (HDLs), such as Verilog or VHDL",
-        "Experience with RTL design and simulation tools (e.g., Synopsys, Cadence, Mentor Graphics)",
-        "Exposure toscripting languages (e.g., Python, Perl, TCL) for automation",
-        "Familiarity with ASIC/SoC design flow including synthesis, place & route, and timing closure"
+        "To thrive in this role, you'll need an intuitive and analytical understanding of analog CMOS circuit design",
+        "Proficiency with EDA design tools is also essential",
+        "A successful track record of designing and debugging low power CMOS analog ICs is a must-have",
+        "If you’re a Senior Analog IC Design Engineer with 12+ years of industry experience and architecture planning, system level design and modeling skills, this is the perfect fit",
+        "If you’re an Analog IC Design Engineer with 3+ years of industry experience and are eager to grow into a senior role, we also want to hear from you",
+        "Great written and oral communication skills are also crucial, including the ability to clearly explain technology and document design concepts in detail",
+        "Finally, a willingness to learn new skills, work effectively independently or in a cross-functional team, and collaborate with diverse cultures and attitudes is essential for success in this role",
+        "Applicants must be authorized to work for any employer in the U.S. MRDA participates in E-Verify",
+        "Senior Analog IC Design Engineer, CMOS ASICs, Imaging sensors, mixed signal ASICs, EDA design tools, dimensional metrology, R&D, Electrical Engineer, LabVIEW, R, Matlab/Simulink, tcl, bash, ad Python, Application knowledge: Siemens/Tanner Tools/Mentor (S-Edit, L-Edit, Calibre, AFS, etc.), revision control software, Visio and RedHat Linux, #LI-JY1"
       ],
       "Benefits": [
-        "The full salary range for certain locations is listed below",
-        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
-        "U.S. employees are offered benefits, subject to Cisco's plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
-        "Please see the Cisco careers site to discover more benefits and perks",
-        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
-        "U.S. employees are eligible for paid time away as described below, subject to Cisco's policies:",
-        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
-        "1 paid day off for employee's birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
-        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
-        "Exempt employees participate in Cisco's flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
-        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours ofunused sick timecarried forwardfrom one calendar yearto the next",
-        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
-        "Optional 10 paid days per full calendar year to volunteer",
-        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco's policies",
-        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
-        "For quota-based incentive pay, Cisco typically pays as follows:",
-        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
-        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
-        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
-        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
-        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
-        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
-        "For quota-based sales roles on Cisco's sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined",
-        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
+        "Occasional travel to Japan will offer you an opportunity to experience a different culture and learn from it",
+        "The salary range is $120,000-$180,000 per year for the Senior Analog IC Design Engineer and $100,000-$140,000 per year for the Analog IC Design Engineer",
+        "The successful candidate’s salary will be determined based on job-related experience/ knowledge/ skills, education, and complexity and responsibility of the role",
+        "Benefits include 100% paid medical, dental, vision insurance (75% for dependents), 100% paid life and disability insurance, 6% matching 401k, 15 vacation days, 12 paid holidays, 10 paid sick days per year, and eligibility for performance based annual bonus",
+        "Additional benefits and details can be found at https://www.mitutoyo-rda.com/benefits",
+        "You’ll enjoy working in our casual and friendly environment with very flexible hours and hybrid work model",
+        "You will get to work with a very intelligent group of people using our state-of-the-art facilities and equipment",
+        "We are highly stable and we’ll support your career development with training opportunities and our cultural focus on individual growth",
+        "You’ll love our excellent benefits package"
       ],
       "Responsibilities": [
-        "Work with the latest VLSI techniques and deep submicron technologies, owning projects from concept to in-house physical implementation"
+        "Collaborating with a diverse team of IC designers and scientists, you'll tackle challenging product requirements using clever circuit design techniques",
+        "As a talented Analog IC Design Engineer, you'll have the opportunity to work on exciting projects",
+        "You'll be designing, simulating, laying out, and testing Analog and Mixed Signal ICs that interface with imaging sensors, and capacitive and inductive transducers",
+        "Some of the circuits you and your team will be designing: signal conditioning, sensor excitation, analog-digital conversion (ADC, DAC), system on a chip (SoC), power management circuits",
+        "You will also be working with scientists on the definition and system design of the next generation of metrology products",
+        "This means you'll be at the forefront of innovation, pushing the boundaries of what's possible and driving our products forward"
       ]
     },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-cisco-job-asic-design-verfication-engineer-ii-full-time-united-states-in-carlsbad-ca",
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "www-linkedin-com-jobs-view-senior-analog-ic-design-engineer-or-analog-ic-design-engineer-at-mitutoyo-research-development-america-formerly-micro-encoder-inc-4363215217",
     "_source": "new_jobs"
   },
   {
@@ -871,115 +1131,107 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "_suurIVYg45pri_TAAAAAA==",
-    "job_title": "Senior Analog IC Design Engineer or Analog IC Design Engineer",
-    "employer_name": "Mitutoyo Research & Development America (formerly Micro Encoder Inc.)",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUGSAEjbgzlaCN0GeUyHTiJCDRR1ELlpOf8vno&s=0",
-    "employer_website": null,
-    "job_publisher": "LinkedIn",
+    "job_id": "VWgeQJz6y_POeht4AAAAAA==",
+    "job_title": "Associate Structural & Payload Design Engineer",
+    "employer_name": "Boeing",
+    "employer_logo": null,
+    "employer_website": "https://www.boeing.com",
+    "job_publisher": "Boeing",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/senior-analog-ic-design-engineer-or-analog-ic-design-engineer-at-mitutoyo-research-development-america-formerly-micro-encoder-inc-4363215217?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://jobs.boeing.com/job/long-beach/associate-structural-and-payload-design-engineer/185/91709625696?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/senior-analog-ic-design-engineer-or-analog-ic-design-engineer-at-mitutoyo-research-development-america-formerly-micro-encoder-inc-4363215217?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Boeing",
+        "apply_link": "https://jobs.boeing.com/job/long-beach/associate-structural-and-payload-design-engineer/185/91709625696?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/senior-analog-ic-design-engineer-or-analog-ic-design-engineer-hiremojo-JV_IC1150472_KO0,61_KE62,70.htm?jl=1010031297295&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=7b528cd635793494&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Craigslist",
-        "apply_link": "https://seattle.craigslist.org/est/egr/d/kirkland-senior-analog-ic-design/7914379643.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/fdycoUSB4b686vqsb_yHphuXjrnOP4BF6zs2D77QCuUeSIK3ZTLihw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698d81cef64d441a164f9aee?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Jobs.kxnet.com",
+        "apply_link": "https://jobs.kxnet.com/jobs/student-worker-associate-electrical-distribution-systems-design-engineer-long-beach-california/2582027410-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/0f91119db2dba409f706d85b21154378?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://us.bebee.com/job/a92e101d52243a00ad5cae07616583e4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/kirkland/washington/engineering/4874754639/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/associate-structural-payload-design-engineer-at-boeing-4371900051?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/amp/job/us-washington-kirkland-senior-analog-ic-design-engineer-mitutoyo-research?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "JSfirm.com",
+        "apply_link": "https://www.jsfirm.com/job/Engineering-Associate-Structural-Payload-Design-Engineer/Long+Beach-California/jobID_1857822?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Built In LA",
+        "apply_link": "https://www.builtinla.com/job/associate-structural-payload-design-engineer/8501203?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Senior Analog IC Design Engineer or Analog IC Design Engineer\n\nKirkland, Washington - Full Time\n\nLooking for a dynamic role where you can leverage your expertise in analog IC design? Look no further. We're seeking a Senior Analog IC Design Engineer or an Analog IC Design Engineer who thrives on developing innovative solutions. At Mitutoyo Research & Development America, Inc. (MRDA), you'll be creating cutting-edge analog CMOS ASICs. Collaborating with a diverse team of IC designers and scientists, you'll tackle challenging product requirements using clever circuit design techniques.\n\nYou’ll also enjoy the flexibility of our hybrid work model. At MRDA, we prioritize your well-being and work-life balance.\n\nClick here for the detailed job description: https://www.mitutoyo-rda.com/s/2026-03-JD-Analog-IC-Design-Engineer.pdf\n\nTHE COOL THINGS YOU WILL BE DOING WITH YOUR TALENTS\n\nAs a talented Analog IC Design Engineer, you'll have the opportunity to work on exciting projects. You'll be designing, simulating, laying out, and testing Analog and Mixed Signal ICs that interface with imaging sensors, and capacitive and inductive transducers. Some of the circuits you and your team will be designing: signal conditioning, sensor excitation, analog-digital conversion (ADC, DAC), system on a chip (SoC), power management circuits.\n\nYou will also be working with scientists on the definition and system design of the next generation of metrology products.\n\nBut that's not all - you'll also have the chance to research and investigate new and innovative technologies, industry trends, and techniques to improve our products. This means you'll be at the forefront of innovation, pushing the boundaries of what's possible and driving our products forward.\n\nOccasional travel to Japan will offer you an opportunity to experience a different culture and learn from it.\n\nWHAT YOU NEED TO SUCCEED\n\nTo thrive in this role, you'll need an intuitive and analytical understanding of analog CMOS circuit design. Proficiency with EDA design tools is also essential. A successful track record of designing and debugging low power CMOS analog ICs is a must-have.\n\nIf you’re a Senior Analog IC Design Engineer with 12+ years of industry experience and architecture planning, system level design and modeling skills, this is the perfect fit. If you’re an Analog IC Design Engineer with 3+ years of industry experience and are eager to grow into a senior role, we also want to hear from you.\n\nGreat written and oral communication skills are also crucial, including the ability to clearly explain technology and document design concepts in detail. Finally, a willingness to learn new skills, work effectively independently or in a cross-functional team, and collaborate with diverse cultures and attitudes is essential for success in this role.\n\nAt MRDA, we value not just what you bring to the table today, but also your potential to shape tomorrow's innovations.\n\nFor a list of required and beneficial skills and experience, see the job description at https://www.mitutoyo-rda.com/2026-03.\n\nCOMPENSATION AND BENEFITS\n\nThe salary range is $120,000-$180,000 per year for the Senior Analog IC Design Engineer and $100,000-$140,000 per year for the Analog IC Design Engineer. The successful candidate’s salary will be determined based on job-related experience/ knowledge/ skills, education, and complexity and responsibility of the role. Benefits include 100% paid medical, dental, vision insurance (75% for dependents), 100% paid life and disability insurance, 6% matching 401k, 15 vacation days, 12 paid holidays, 10 paid sick days per year, and eligibility for performance based annual bonus. Additional benefits and details can be found at https://www.mitutoyo-rda.com/benefits.\n\nWHY YOU WILL LOVE WORKING HERE\n\nYour work here will help make a positive impact on society. You’ll enjoy working in our casual and friendly environment with very flexible hours and hybrid work model. You will get to work with a very intelligent group of people using our state-of-the-art facilities and equipment. We are highly stable and we’ll support your career development with training opportunities and our cultural focus on individual growth. You’ll love our excellent benefits package.\n\nTO APPLY, VISIT\n\nhttps://app.hiremojo.com/mojo/ce/508698359/Mitutoyo-Research--Development-America-Inc/Washington/Kirkland/Analog-IC-Design-Engineer\n\nOUR COMPANY\n\nMRDA, a wholly owned subsidiary of Mitutoyo Corporation, is at the forefront of developing state-of-the-art technologies and software that enhance lives through world-leading metrology solutions. Our products are integral in ensuring quality in industries such as automotive, aerospace, electronics, semiconductors, medical equipment, and machine tools.\n\nLocated in the beautiful Northwest in a modern, well-equipped facility, we offer a challenging, team-oriented, and casual work environment. We value work-life balance, offering great benefits and a fun, energetic atmosphere where we work hard, play hard, and enjoy life.\n\nFor more information about life at MRDA, check out https://www.mitutoyo-rda.com/life-at-mrda.\n\nMRDA is an equal opportunity employer. Applicants must be authorized to work for any employer in the U.S. MRDA participates in E-Verify. Detailed information: E-Verify (https://www.mitutoyo-rda.com/s/E-Verify_Participation_Poster.pdf) and Right to Work Statement (https://www.mitutoyo-rda.com/s/IER_RightToWorkPoster.pdf).\n\nSenior Analog IC Design Engineer, CMOS ASICs, Imaging sensors, mixed signal ASICs, EDA design tools, dimensional metrology, R&D, Electrical Engineer, LabVIEW, R, Matlab/Simulink, tcl, bash, ad Python, Application knowledge: Siemens/Tanner Tools/Mentor (S-Edit, L-Edit, Calibre, AFS, etc.), revision control software, Visio and RedHat Linux, #LI-JY1",
+    "job_description": "Job Description\n\nAt Boeing, we innovate and collaborate to make the world a better place. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.\n\nWe are Boeing Global Services (BGS) Engineering team creating and implementing innovative technologies that make the impossible possible and enabling the future of aerospace. We provide engineering design and support, including aftermarket modifications, and are innovating to make product and services safety even stronger. Join us and put your passion, determination, and skill to work building the future! #TheFutureIsBuiltHere #ChangeTheWorld\n\nBGS is looking for Associate Structural Design Engineers to become part of the Structures Organizations in Long Beach, CA.\n\nAt the Southern California Design Center in Long Beach, we keep the world connected. We make the world a smaller place by bringing families, friends and loved ones together. Whether that is helping people fly with our work on Boeing’s incredible fleet of aircrafts or keeping them connected virtually with our work on satellites. Our team gives the opportunity to experience many facets of the Boeing Company in one place.\n\nOur Structures organization supporting Boeing Global Services (BGS) is seeking Structural Design Engineers with knowledge of design theory, engineering principles, and coordination skills.\n\nThis role may require some travel to support our customers and provide learning experiences to enhance your career.\n\nPosition Responsibilities:\n• Develops, integrates and documents structural and interior payload system requirements to establish the system design\n• Develops, maintains and modifies structural and interior payload system and component designs, using 3-D Computer Aided Design tools and/or other design methods, to provide product definition to other engineering groups, production operations, suppliers and external customers throughout the product lifecycle\n• Develops new design/analysis processes and tools to improve the effectiveness, quality and efficiency of the development effort\n• Investigates emerging technologies to develop concepts for future product designs to meet projected requirements\n• Works under general direction\n\nBasic Qualifications (Required Skills/Experience):\n• Bachelor's Degree or higher in Mechanical, Aerospace, or Civil Engineering\n• 3+ years' experience in aircraft structure, materials and properties, design criteria and release processes\n• 3+ years’ experience with aircraft primary structures such as design, strength, fatigue\n\nPreferred Qualifications (Desired Skills/Experience):\n• Experience with engineering tools such as CATIA, ENOVIA, and PDM\n• Experience with structural design principles for aircraft primary structures (e.g., fatigue, damage tolerance, corrosion, stress analysis, statics, materials strength, material characteristics, and repair techniques)\n• Experience in Airplane Design, Stress Analysis, Liaison Engineering, and Manufacturing Engineering strongly preferred\n• Experience with Boeing 7-Series Aircraft Primary Structures\n• Strong written, verbal communications and presentation skills\n\nConflict of Interest:\nSuccessful candidates for this job must satisfy the Company’s Conflict of Interest (COI) assessment process.\n\nDrug Free Workplace:\n\nBoeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.\n\nPay & Benefits:\n\nAt Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent. Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.\n\nThe Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.\n\nThe specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.\n\nPay is based upon candidate experience and qualifications, as well as market and business considerations.\n\nSummary pay range: $90,950 - $123,050\n\nApplications for this position will be accepted until Feb. 28, 2026\n\nExport Control Requirements:\n\nThis position must meet U.S. export control compliance requirements. To meet U.S. export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120.62 is required. “U.S. Person” includes U.S. Citizen, U.S. National, lawful permanent resident, refugee, or asylee.\n\nExport Control Details:\n\nUS based job, US Person required\n\nEducation\n\nBachelor's Degree or Equivalent Required\n\nRelocation\n\nThis position offers relocation based on candidate eligibility.\n\nVisa Sponsorship\n\nEmployer will not sponsor applicants for employment visa status.\n\nShift\n\nThis position is for 1st shift\n\nEqual Opportunity Employer:\n\nBoeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.",
     "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Kirkland, WA",
-    "job_city": "Kirkland",
-    "job_state": "Washington",
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Long Beach, CA",
+    "job_city": "Long Beach",
+    "job_state": "California",
     "job_country": "US",
-    "job_latitude": 47.676892699999996,
-    "job_longitude": -122.2059833,
+    "job_latitude": 33.770050399999995,
+    "job_longitude": -118.19373949999999,
     "job_benefits": [
       "dental_coverage",
-      "paid_time_off",
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_suurIVYg45pri_TAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 100000,
-    "job_max_salary": 180000,
-    "job_salary_period": "YEAR",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVWgeQJz6y_POeht4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "To thrive in this role, you'll need an intuitive and analytical understanding of analog CMOS circuit design",
-        "Proficiency with EDA design tools is also essential",
-        "A successful track record of designing and debugging low power CMOS analog ICs is a must-have",
-        "If you’re a Senior Analog IC Design Engineer with 12+ years of industry experience and architecture planning, system level design and modeling skills, this is the perfect fit",
-        "If you’re an Analog IC Design Engineer with 3+ years of industry experience and are eager to grow into a senior role, we also want to hear from you",
-        "Great written and oral communication skills are also crucial, including the ability to clearly explain technology and document design concepts in detail",
-        "Finally, a willingness to learn new skills, work effectively independently or in a cross-functional team, and collaborate with diverse cultures and attitudes is essential for success in this role",
-        "Applicants must be authorized to work for any employer in the U.S. MRDA participates in E-Verify",
-        "Senior Analog IC Design Engineer, CMOS ASICs, Imaging sensors, mixed signal ASICs, EDA design tools, dimensional metrology, R&D, Electrical Engineer, LabVIEW, R, Matlab/Simulink, tcl, bash, ad Python, Application knowledge: Siemens/Tanner Tools/Mentor (S-Edit, L-Edit, Calibre, AFS, etc.), revision control software, Visio and RedHat Linux, #LI-JY1"
+        "Bachelor's Degree or higher in Mechanical, Aerospace, or Civil Engineering",
+        "3+ years' experience in aircraft structure, materials and properties, design criteria and release processes",
+        "3+ years’ experience with aircraft primary structures such as design, strength, fatigue",
+        "Successful candidates for this job must satisfy the Company’s Conflict of Interest (COI) assessment process",
+        "This position must meet U.S. export control compliance requirements",
+        "To meet U.S. export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120.62 is required",
+        "“U.S. Person” includes U.S. Citizen, U.S. National, lawful permanent resident, refugee, or asylee",
+        "US based job, US Person required",
+        "Bachelor's Degree or Equivalent Required"
       ],
       "Benefits": [
-        "Occasional travel to Japan will offer you an opportunity to experience a different culture and learn from it",
-        "The salary range is $120,000-$180,000 per year for the Senior Analog IC Design Engineer and $100,000-$140,000 per year for the Analog IC Design Engineer",
-        "The successful candidate’s salary will be determined based on job-related experience/ knowledge/ skills, education, and complexity and responsibility of the role",
-        "Benefits include 100% paid medical, dental, vision insurance (75% for dependents), 100% paid life and disability insurance, 6% matching 401k, 15 vacation days, 12 paid holidays, 10 paid sick days per year, and eligibility for performance based annual bonus",
-        "Additional benefits and details can be found at https://www.mitutoyo-rda.com/benefits",
-        "You’ll enjoy working in our casual and friendly environment with very flexible hours and hybrid work model",
-        "You will get to work with a very intelligent group of people using our state-of-the-art facilities and equipment",
-        "We are highly stable and we’ll support your career development with training opportunities and our cultural focus on individual growth",
-        "You’ll love our excellent benefits package"
+        "At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent",
+        "Elements of the Total Rewards package include competitive base pay and variable compensation opportunities",
+        "The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work",
+        "The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements",
+        "Pay is based upon candidate experience and qualifications, as well as market and business considerations",
+        "Summary pay range: $90,950 - $123,050"
       ],
       "Responsibilities": [
-        "Collaborating with a diverse team of IC designers and scientists, you'll tackle challenging product requirements using clever circuit design techniques",
-        "As a talented Analog IC Design Engineer, you'll have the opportunity to work on exciting projects",
-        "You'll be designing, simulating, laying out, and testing Analog and Mixed Signal ICs that interface with imaging sensors, and capacitive and inductive transducers",
-        "Some of the circuits you and your team will be designing: signal conditioning, sensor excitation, analog-digital conversion (ADC, DAC), system on a chip (SoC), power management circuits",
-        "You will also be working with scientists on the definition and system design of the next generation of metrology products",
-        "This means you'll be at the forefront of innovation, pushing the boundaries of what's possible and driving our products forward"
+        "This role may require some travel to support our customers and provide learning experiences to enhance your career",
+        "Develops, integrates and documents structural and interior payload system requirements to establish the system design",
+        "Develops, maintains and modifies structural and interior payload system and component designs, using 3-D Computer Aided Design tools and/or other design methods, to provide product definition to other engineering groups, production operations, suppliers and external customers throughout the product lifecycle",
+        "Develops new design/analysis processes and tools to improve the effectiveness, quality and efficiency of the development effort",
+        "Investigates emerging technologies to develop concepts for future product designs to meet projected requirements",
+        "Works under general direction"
       ]
     },
-    "job_onet_soc": "17301200",
-    "job_onet_job_zone": "3",
-    "id": "www-linkedin-com-jobs-view-senior-analog-ic-design-engineer-or-analog-ic-design-engineer-at-mitutoyo-research-development-america-formerly-micro-encoder-inc-4363215217",
+    "job_onet_soc": "17205100",
+    "job_onet_job_zone": "4",
+    "id": "jobs-boeing-com-job-long-beach-associate-structural-and-payload-design-engineer-185-91709625696",
     "_source": "new_jobs"
   }
 ]
