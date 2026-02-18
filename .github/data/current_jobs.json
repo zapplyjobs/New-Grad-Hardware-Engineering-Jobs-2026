@@ -21,7 +21,7 @@
       "experience": "3_plus_years",
       "special": []
     },
-    "_source": "new_jobs",
+    "_source": "aggregator",
     "_original_source": "unknown",
     "job_posted_at": "2026-02-18T12:56:30-05:00"
   },
@@ -48,7 +48,7 @@
       "experience": "3_plus_years",
       "special": []
     },
-    "_source": "new_jobs",
+    "_source": "aggregator",
     "_original_source": "unknown",
     "job_posted_at": "2026-02-17T15:55:56-05:00"
   },
@@ -74,7 +74,7 @@
       "experience": "3_plus_years",
       "special": []
     },
-    "_source": "new_jobs",
+    "_source": "aggregator",
     "_original_source": "unknown",
     "job_posted_at": "2026-02-17T15:55:56-05:00"
   },
@@ -100,7 +100,7 @@
       "experience": "3_plus_years",
       "special": []
     },
-    "_source": "new_jobs",
+    "_source": "aggregator",
     "_original_source": "unknown",
     "job_posted_at": "2026-02-17T15:55:56-05:00"
   },
@@ -127,7 +127,7 @@
       "experience": "3_plus_years",
       "special": []
     },
-    "_source": "new_jobs",
+    "_source": "aggregator",
     "_original_source": "unknown",
     "job_posted_at": "2026-02-17T15:55:54-05:00"
   },
@@ -153,7 +153,7 @@
       "experience": "3_plus_years",
       "special": []
     },
-    "_source": "new_jobs",
+    "_source": "aggregator",
     "_original_source": "unknown",
     "job_posted_at": "2026-02-17T15:55:52-05:00"
   },
@@ -179,7 +179,7 @@
       "experience": "3_plus_years",
       "special": []
     },
-    "_source": "new_jobs",
+    "_source": "aggregator",
     "_original_source": "unknown",
     "job_posted_at": "2026-02-17T15:55:52-05:00"
   },
@@ -205,7 +205,7 @@
       "experience": "3_plus_years",
       "special": []
     },
-    "_source": "new_jobs",
+    "_source": "aggregator",
     "_original_source": "unknown",
     "job_posted_at": "2026-02-11T08:23:41-05:00"
   },
@@ -231,7 +231,7 @@
       "experience": "no_experience",
       "special": []
     },
-    "_source": "new_jobs",
+    "_source": "aggregator",
     "_original_source": "unknown",
     "job_posted_at": "2026-02-11T01:38:34-05:00"
   }
