@@ -159,6 +159,77 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "MuOn56vOIuCVJXcRAAAAAA==",
+    "job_title": "Senior Software Engineer, VLSI AI Agent 10",
+    "employer_name": "Nvidia",
+    "employer_logo": null,
+    "employer_website": "https://www.nvidia.com",
+    "job_publisher": "Jobilize",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.jobilize.com/job/us-fl-all-cities-senior-software-engineer-vlsi-ai-agent-10-nvidia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-fl-all-cities-senior-software-engineer-vlsi-ai-agent-10-nvidia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years.\nIt's a unique legacy of innovation that's fueled by great technology-and amazing people.\nToday, we're tapping into the unlimited potential of AI to define the next era of computing.\nAn era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world.\nDoing what's never been done before takes vision, innovation, and the world's best talent.\nAs an NVIDIAN, you'll be immersed in a diverse, supportive environment where everyone is inspired to do their best work.\nCome join the team and see how you can make a lasting impact on the world.\n\nWe are looking for talented Software Engineers to work on developing and deploying an AI agent that leverages machine learning models to solve complex problems in VLSI design.\nThe ideal candidate will have a strong background in computer science, electrical engineering, or a related field, with experience in machine learning, deep learning, and software development.\nThe successful candidate will work closely with our team of experts in VLSI design, machine learning, and software engineering to create and integrate machine learning-based solutions that enhance the efficiency, productivity, and quality of our VLSI design flows.\n\nWhat you will be doing:\n• Create and integrate AI agents to enhance the efficiency, productivity, and quality of VLSI design flows.\n• Collaborate on the design and implementation of algorithms and models that can optimize VLSI design processes.\n• Contribute to the development of software tools and frameworks that support the integration of AI in VLSI design.\n• Analyze and interpret data to identify patterns and insights that can inform the development of AI-driven design methodologies.\n• Stay ahead of the latest advancements in machine learning, deep learning, and VLSI build to continuously improve our solutions.\n\nWhat We Need to See:\n• BS/MS/PhD in Computer Science, Electrical/Computer Engineering, or a related field (or equivalent experience).\n• 6+ years of experience building AI-driven software systems, ideally applied to complex engineering workflows.\n• Strong programming skills in Python, with experience developing production-quality systems.\n• Demonstrated experience designing and applying AI agents or learning-based decision systems (e.g., RL, planning, LLM-based agents) to optimize processes.\n• Proficiency with modern ML frameworks (PyTorch, TensorFlow) and data-driven model development.\n• Strong problem-solving and collaboration skills, with the ability to translate complex design challenges into agent-driven solutions.\n\nWays to stand out from the crowd:\n• Experience with Large Language Models (LLMs) and their applications in software and AI development\n• Proficiency in standard methodologies for software development, including version control, testing, and CI/CD.\n• Deeply interested in learning disparate concepts and putting them together in innovative new ways\n\nWith competitive salaries and a generous benefits package, we are widely considered to be one of the technology world's most desirable employers.\nWe have some of the most forward-thinking and hardworking people in the world working for us and, due to unprecedented growth, our exclusive engineering teams are rapidly growing.\nIf you're a creative and autonomous engineer with a real passion for technology, we want to hear from you.\n\nYour base salary will be determined based on your location, experience, and the pay of employees in similar positions.\nThe base salary range is 184,000 USD - 287,500 USD for Level 4, and 224,000 USD - 356,500 USD for Level 5.\n\nYou will also be eligible for equity and benefits.\n\nApplications for this job will be accepted at least until February 14, 2026.\n\nThis posting is for an existing vacancy.\n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer.\nAs we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Florida",
+    "job_city": null,
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 27.6648274,
+    "job_longitude": -81.5157535,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMuOn56vOIuCVJXcRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate will have a strong background in computer science, electrical engineering, or a related field, with experience in machine learning, deep learning, and software development",
+        "BS/MS/PhD in Computer Science, Electrical/Computer Engineering, or a related field (or equivalent experience)",
+        "6+ years of experience building AI-driven software systems, ideally applied to complex engineering workflows",
+        "Strong programming skills in Python, with experience developing production-quality systems",
+        "Demonstrated experience designing and applying AI agents or learning-based decision systems (e.g., RL, planning, LLM-based agents) to optimize processes",
+        "Proficiency with modern ML frameworks (PyTorch, TensorFlow) and data-driven model development",
+        "Strong problem-solving and collaboration skills, with the ability to translate complex design challenges into agent-driven solutions",
+        "Experience with Large Language Models (LLMs) and their applications in software and AI development",
+        "Proficiency in standard methodologies for software development, including version control, testing, and CI/CD",
+        "Deeply interested in learning disparate concepts and putting them together in innovative new ways"
+      ],
+      "Benefits": [
+        "Your base salary will be determined based on your location, experience, and the pay of employees in similar positions",
+        "The base salary range is 184,000 USD - 287,500 USD for Level 4, and 224,000 USD - 356,500 USD for Level 5",
+        "You will also be eligible for equity and benefits"
+      ],
+      "Responsibilities": [
+        "The successful candidate will work closely with our team of experts in VLSI design, machine learning, and software engineering to create and integrate machine learning-based solutions that enhance the efficiency, productivity, and quality of our VLSI design flows",
+        "Create and integrate AI agents to enhance the efficiency, productivity, and quality of VLSI design flows",
+        "Collaborate on the design and implementation of algorithms and models that can optimize VLSI design processes",
+        "Contribute to the development of software tools and frameworks that support the integration of AI in VLSI design",
+        "Analyze and interpret data to identify patterns and insights that can inform the development of AI-driven design methodologies",
+        "Stay ahead of the latest advancements in machine learning, deep learning, and VLSI build to continuously improve our solutions"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-jobilize-com-job-us-fl-all-cities-senior-software-engineer-vlsi-ai-agent-10-nvidia",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "zlqgze9A0-uJUfX3AAAAAA==",
     "job_title": "Physcial Design Engineer I (Full Time) - United States",
     "employer_name": "Cisco",
@@ -225,9 +296,9 @@
     "job_latitude": 42.4303138,
     "job_longitude": -71.460433,
     "job_benefits": [
+      "health_insurance",
       "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dzlqgze9A0-uJUfX3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -256,7 +327,7 @@
         "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
         "Additional paid time away may be requested to deal with critical or emergency issues for family members",
         "Optional 10 paid days per full calendar year to volunteer",
-        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco���s policies",
+        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
         "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
         "For quota-based incentive pay, Cisco typically pays as follows:",
         ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
@@ -319,9 +390,9 @@
     "job_latitude": 42.4303138,
     "job_longitude": -71.460433,
     "job_benefits": [
-      "dental_coverage",
+      "health_insurance",
       "paid_time_off",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWCKq8jo9troUMF-DAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -534,77 +605,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "MuOn56vOIuCVJXcRAAAAAA==",
-    "job_title": "Senior Software Engineer, VLSI AI Agent 10",
-    "employer_name": "Nvidia",
-    "employer_logo": null,
-    "employer_website": "https://www.nvidia.com",
-    "job_publisher": "Jobilize",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.jobilize.com/job/us-fl-all-cities-senior-software-engineer-vlsi-ai-agent-10-nvidia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-fl-all-cities-senior-software-engineer-vlsi-ai-agent-10-nvidia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years.\nIt's a unique legacy of innovation that's fueled by great technology-and amazing people.\nToday, we're tapping into the unlimited potential of AI to define the next era of computing.\nAn era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world.\nDoing what's never been done before takes vision, innovation, and the world's best talent.\nAs an NVIDIAN, you'll be immersed in a diverse, supportive environment where everyone is inspired to do their best work.\nCome join the team and see how you can make a lasting impact on the world.\n\nWe are looking for talented Software Engineers to work on developing and deploying an AI agent that leverages machine learning models to solve complex problems in VLSI design.\nThe ideal candidate will have a strong background in computer science, electrical engineering, or a related field, with experience in machine learning, deep learning, and software development.\nThe successful candidate will work closely with our team of experts in VLSI design, machine learning, and software engineering to create and integrate machine learning-based solutions that enhance the efficiency, productivity, and quality of our VLSI design flows.\n\nWhat you will be doing:\n• Create and integrate AI agents to enhance the efficiency, productivity, and quality of VLSI design flows.\n• Collaborate on the design and implementation of algorithms and models that can optimize VLSI design processes.\n• Contribute to the development of software tools and frameworks that support the integration of AI in VLSI design.\n• Analyze and interpret data to identify patterns and insights that can inform the development of AI-driven design methodologies.\n• Stay ahead of the latest advancements in machine learning, deep learning, and VLSI build to continuously improve our solutions.\n\nWhat We Need to See:\n• BS/MS/PhD in Computer Science, Electrical/Computer Engineering, or a related field (or equivalent experience).\n• 6+ years of experience building AI-driven software systems, ideally applied to complex engineering workflows.\n• Strong programming skills in Python, with experience developing production-quality systems.\n• Demonstrated experience designing and applying AI agents or learning-based decision systems (e.g., RL, planning, LLM-based agents) to optimize processes.\n• Proficiency with modern ML frameworks (PyTorch, TensorFlow) and data-driven model development.\n• Strong problem-solving and collaboration skills, with the ability to translate complex design challenges into agent-driven solutions.\n\nWays to stand out from the crowd:\n• Experience with Large Language Models (LLMs) and their applications in software and AI development\n• Proficiency in standard methodologies for software development, including version control, testing, and CI/CD.\n• Deeply interested in learning disparate concepts and putting them together in innovative new ways\n\nWith competitive salaries and a generous benefits package, we are widely considered to be one of the technology world's most desirable employers.\nWe have some of the most forward-thinking and hardworking people in the world working for us and, due to unprecedented growth, our exclusive engineering teams are rapidly growing.\nIf you're a creative and autonomous engineer with a real passion for technology, we want to hear from you.\n\nYour base salary will be determined based on your location, experience, and the pay of employees in similar positions.\nThe base salary range is 184,000 USD - 287,500 USD for Level 4, and 224,000 USD - 356,500 USD for Level 5.\n\nYou will also be eligible for equity and benefits.\n\nApplications for this job will be accepted at least until February 14, 2026.\n\nThis posting is for an existing vacancy.\n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer.\nAs we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Florida",
-    "job_city": null,
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 27.6648274,
-    "job_longitude": -81.5157535,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMuOn56vOIuCVJXcRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "The ideal candidate will have a strong background in computer science, electrical engineering, or a related field, with experience in machine learning, deep learning, and software development",
-        "BS/MS/PhD in Computer Science, Electrical/Computer Engineering, or a related field (or equivalent experience)",
-        "6+ years of experience building AI-driven software systems, ideally applied to complex engineering workflows",
-        "Strong programming skills in Python, with experience developing production-quality systems",
-        "Demonstrated experience designing and applying AI agents or learning-based decision systems (e.g., RL, planning, LLM-based agents) to optimize processes",
-        "Proficiency with modern ML frameworks (PyTorch, TensorFlow) and data-driven model development",
-        "Strong problem-solving and collaboration skills, with the ability to translate complex design challenges into agent-driven solutions",
-        "Experience with Large Language Models (LLMs) and their applications in software and AI development",
-        "Proficiency in standard methodologies for software development, including version control, testing, and CI/CD",
-        "Deeply interested in learning disparate concepts and putting them together in innovative new ways"
-      ],
-      "Benefits": [
-        "Your base salary will be determined based on your location, experience, and the pay of employees in similar positions",
-        "The base salary range is 184,000 USD - 287,500 USD for Level 4, and 224,000 USD - 356,500 USD for Level 5",
-        "You will also be eligible for equity and benefits"
-      ],
-      "Responsibilities": [
-        "The successful candidate will work closely with our team of experts in VLSI design, machine learning, and software engineering to create and integrate machine learning-based solutions that enhance the efficiency, productivity, and quality of our VLSI design flows",
-        "Create and integrate AI agents to enhance the efficiency, productivity, and quality of VLSI design flows",
-        "Collaborate on the design and implementation of algorithms and models that can optimize VLSI design processes",
-        "Contribute to the development of software tools and frameworks that support the integration of AI in VLSI design",
-        "Analyze and interpret data to identify patterns and insights that can inform the development of AI-driven design methodologies",
-        "Stay ahead of the latest advancements in machine learning, deep learning, and VLSI build to continuously improve our solutions"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-jobilize-com-job-us-fl-all-cities-senior-software-engineer-vlsi-ai-agent-10-nvidia",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "zyC9df3eBtL-wyEXAAAAAA==",
     "job_title": "Business Development Manager- VLSI",
     "employer_name": "Tata Consultancy Service Limited",
@@ -717,8 +717,8 @@
     "job_longitude": -121.88525249999999,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Do_tEI4Bgh9YB7VnQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
