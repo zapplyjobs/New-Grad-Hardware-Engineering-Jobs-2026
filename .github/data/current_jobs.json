@@ -31,9 +31,9 @@
     "job_latitude": 38.9167802,
     "job_longitude": -75.93882669999999,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7KVeJy169jLmxfxSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": null,
@@ -94,8 +94,8 @@
     "job_latitude": 39.1731621,
     "job_longitude": -77.2716502,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Ds65OUraCvDMCG5okAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -537,8 +537,8 @@
     "job_latitude": 34.7295497,
     "job_longitude": -86.5853155,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3h_d1shxeTzn-HNdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -842,8 +842,8 @@
     "job_latitude": 47.676892699999996,
     "job_longitude": -122.2059833,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
+      "paid_time_off",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D88extADe8VRJMYHHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -996,8 +996,8 @@
     "job_latitude": 28.7030519,
     "job_longitude": -81.3384011,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
+      "paid_time_off",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKKYjMcbLI5mgKPHGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1171,6 +1171,91 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "3EEbHuwGuy5TqIR2AAAAAA==",
+    "job_title": "Embedded Software Engineer/Analog/Power Circuit Designer",
+    "employer_name": "Express Employment Professionals - Garden Grove",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "Monster",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.monster.com/job-openings/embedded-software-engineer-analog-power-circuit-designer-garden-grove-ca--1c2cab2b-4835-43c5-99ca-0a76f60df358?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Monster",
+        "apply_link": "https://www.monster.com/job-openings/embedded-software-engineer-analog-power-circuit-designer-garden-grove-ca--1c2cab2b-4835-43c5-99ca-0a76f60df358?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "FactoryFix",
+        "apply_link": "https://jobs.factoryfix.com/jobs/embedded-software-engineeranalogpower-circuit-designer--garden-grove--ca--3877688639--V2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Jobrapido",
+        "apply_link": "https://us.jobrapido.com/jobpreview/6370899153228136448?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LifeworQ",
+        "apply_link": "https://lifeworq.com/job/990dc002-7f87-4527-81d0-ec8187ffa214?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Embedded Software Engineer/Architech - Linux\n\n$160k/yr - $170k/yr\n\nCypress, CA\n\nMon-Fri 8 am - 5 pm\n\nKey Responsibilities\n\nDesign, develop, and optimize embedded software systems for SSPAs and BUCs that operate in ground-based, airborne, and space-based applications. You will be responsible for driving technical innovation in embedded software, implementing advanced control algorithms, and ensuring the delivery of cutting-edge software solutions that meet mission-critical requirements.\n\nSkills Required\n\nExtensive experience with embedded development tools, debuggers, and device driver development.\n\nKnowledge of communication protocols (SPI, I2C, UART, Ethernet, CAN, Modbus).\n\nExperience with software for power electronics, control systems & high-power RF\n\nExperience Required\n\n3+ years of experience in embedded software development and architecture.\n\nExperience with AI, GPUs, FPGAs, and NPUs preferred.\n\nExpert knowledge of Yocto Project and real-time operating systems (FreeRTOS, VxWorks, etc.).\n\nProficiency in C/C++ programming and assembly language for embedded systems.\n\nEducation required\n\nBachelor’s degree in Computer Engineering, Electrical Engineering, Computer Science, or related field.\n\nAnalog/Power Circuit Designer ($160K-$170K)\n\nCypress, CA\n\nKey Responsibilities\n• Design, development, and optimization of AC-DC and DC-DC converters, filters, distribution, and monitor/control (M&C) boards that power revolutionary Solid State Power Amplifiers and Block Upconverters.\n• Enable high-efficiency, high-power RF systems for ground-based, airborne, and space-based applications.\n• Knowledge of EMI/EMC design principles and aerospace regulatory compliance.\n• Expert-level knowledge of analog circuit design principles and power distribution architectures.\n\nQualification\n• 5+ years of experience in analog circuit design and power electronics development, with a strong track record of designing and producing power supplies.\n• Experience designing systems for aerospace, defense, or satellite communication applications.\n• Bachelor’s degree in Electrical Engineering, RF/Microwave Engineering, or a related field\n\nHow to Apply:\n\nChoose from one of the following application methods:\n• Email your resume to Jobs.Lakewood-CerritosCA@expresspros.com\n• Call our office at (866) 949-4894\n• Submit your online application at www.expresspros.com/lakewoodcerritosca/\n• Visit our office at 7077 Orangewood Ave., Suite 128, Garden Grove, CA 92841\n\nAbout Us:\n\nExpress works with job seekers to help find the right job for their skills and experience. As one of the leading staffing companies in North America, we’re ready to help you take the next step in your career. Whether you are ready for a full-time position, looking for part-time work, or want a more flexible schedule, Express has a wide range of jobs available including:\n• Administrative\n• Light Industrial\n• Skilled Trades\n• Professional positions\n\nWe are an equal opportunity employer and value diversity, fostering an inclusive workplace for all. Our hiring decisions are based on merit, and we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or genetic information.\n\n| || |\n\nAbout the Company:\nExpress Employment Professionals - Garden Grove",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Garden Grove, CA",
+    "job_city": "Garden Grove",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 33.7742692,
+    "job_longitude": -117.93799519999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3EEbHuwGuy5TqIR2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Extensive experience with embedded development tools, debuggers, and device driver development",
+        "Knowledge of communication protocols (SPI, I2C, UART, Ethernet, CAN, Modbus)",
+        "Experience with software for power electronics, control systems & high-power RF",
+        "Experience Required",
+        "3+ years of experience in embedded software development and architecture",
+        "Expert knowledge of Yocto Project and real-time operating systems (FreeRTOS, VxWorks, etc.)",
+        "Proficiency in C/C++ programming and assembly language for embedded systems",
+        "Bachelor’s degree in Computer Engineering, Electrical Engineering, Computer Science, or related field",
+        "Expert-level knowledge of analog circuit design principles and power distribution architectures",
+        "5+ years of experience in analog circuit design and power electronics development, with a strong track record of designing and producing power supplies",
+        "Experience designing systems for aerospace, defense, or satellite communication applications",
+        "Bachelor’s degree in Electrical Engineering, RF/Microwave Engineering, or a related field"
+      ],
+      "Benefits": [
+        "$160k/yr - $170k/yr"
+      ],
+      "Responsibilities": [
+        "Mon-Fri 8 am - 5 pm",
+        "Design, develop, and optimize embedded software systems for SSPAs and BUCs that operate in ground-based, airborne, and space-based applications",
+        "You will be responsible for driving technical innovation in embedded software, implementing advanced control algorithms, and ensuring the delivery of cutting-edge software solutions that meet mission-critical requirements",
+        "Design, development, and optimization of AC-DC and DC-DC converters, filters, distribution, and monitor/control (M&C) boards that power revolutionary Solid State Power Amplifiers and Block Upconverters",
+        "Enable high-efficiency, high-power RF systems for ground-based, airborne, and space-based applications",
+        "Knowledge of EMI/EMC design principles and aerospace regulatory compliance"
+      ]
+    },
+    "job_onet_soc": "17301200",
+    "job_onet_job_zone": "3",
+    "id": "www-monster-com-job-openings-embedded-software-engineer-analog-power-circuit-designer-garden-grove-ca-1c2cab2b-4835-43c5-99ca-0a76f60df358",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "rC8LIQq-ANIXat-_AAAAAA==",
     "job_title": "Principal Analog Layout Engineer",
     "employer_name": "UST",
@@ -1202,9 +1287,9 @@
     "job_latitude": 37.354107899999995,
     "job_longitude": -121.9552356,
     "job_benefits": [
+      "health_insurance",
       "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DrC8LIQq-ANIXat-_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 87000,
