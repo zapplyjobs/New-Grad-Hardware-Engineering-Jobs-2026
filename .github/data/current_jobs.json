@@ -184,9 +184,9 @@
     "job_latitude": 39.2905023,
     "job_longitude": -76.6104072,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVkHxnLlBDsotbGsRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -317,8 +317,8 @@
     "job_longitude": -105.0166498,
     "job_benefits": [
       "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4kSERLuv8xPWWKOgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -573,95 +573,6 @@
     "job_onet_soc": "17207200",
     "job_onet_job_zone": "4",
     "id": "jobs-baesystems-com-global-en-job-120927br-rf-engineering-technician",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "gt80mZbh59trJVnZAAAAAA==",
-    "job_title": "RF Engineering Intern - Marriottsville, MD",
-    "employer_name": "Mercury Systems",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDViCGYhzWHa827oJQQFPk2BaEBbk5A0ge6sf3&s=0",
-    "employer_website": null,
-    "job_publisher": "Local Job Network",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.localjobnetwork.com/job/detail/86137675/RF-Engineering-Intern-Marriottsville-MD?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Local Job Network",
-        "apply_link": "https://jobs.localjobnetwork.com/job/detail/86137675/RF-Engineering-Intern-Marriottsville-MD?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "<sdf-icon-button _ngcontent-ng-c4503598582405439=\"\" id=\"back-button\" emphasis=\"tertiary\" class=\"action-button hydrated\" shape=\"rounded\"><sdf-icon _ngcontent-ng-c4503598582405439=\"\" icon=\"nav-page-back\" aria-hidden=\"true\" role=\"presentation\" class=\"hydrated\"></sdf-icon>Back </sdf-icon-button>\n13d\n\nRF Engineering Intern\n#26-127\n<sdf-icon _ngcontent-ng-c4503598582405439=\"\" icon=\"location\" class=\"text-action-primary hydrated\" aria-hidden=\"true\" role=\"presentation\"></sdf-icon> Marriottsville, Maryland, United States\n<sdf-button _ngcontent-ng-c4503598582405439=\"\" emphasis=\"primary\" class=\"w-24 layout-inline size-sm variant-contained action-standard emphasis-primary supports-focus-visible hydrated\" type=\"button\" tabindex=\"0\" aria-label=\" Apply \" role=\"button\" button-title=\"\" busy-label=\"busy\" size=\"sm\" variant=\"contained\" action=\"standard\" toggled-item-added-pending=\"\"> Apply </sdf-button><cx-social-share _ngcontent-ng-c4503598582405439=\"\" class=\"mob-share cx-new-share-btn\" _nghost-ng-c4503597561641772=\"\"><sdf-action-menu _ngcontent-ng-c4503597561641772=\"\" icon=\"action-share\" icon-only=\"true\" type=\"button\" aria-label=\"Share Button\" size=\"sm\" class=\"hydrated\"><sdf-menu _ngcontent-ng-c4503597561641772=\"\" class=\"cx-share-buttons-list flex flex-column items-start p-5 hydrated\" role=\"menu\"><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"0\" role=\"menuitem\" class=\"hydrated\"><sdf-icon _ngcontent-ng-c4503597561641772=\"\" icon=\"brand-twitter\" aria-hidden=\"true\" role=\"presentation\" class=\"hydrated\"></sdf-icon> X </sdf-menu-item><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"-1\" role=\"menuitem\" class=\"hydrated\"><sdf-icon _ngcontent-ng-c4503597561641772=\"\" icon=\"brand-facebook\" aria-hidden=\"true\" role=\"presentation\" class=\"hydrated\"></sdf-icon> Facebook </sdf-menu-item><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"-1\" role=\"menuitem\" class=\"hydrated\"><sdf-icon _ngcontent-ng-c4503597561641772=\"\" icon=\"brand-linkedin\" aria-hidden=\"true\" role=\"presentation\" class=\"hydrated\"></sdf-icon> LinkedIn </sdf-menu-item><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"-1\" role=\"menuitem\" class=\"hydrated\"><sdf-icon _ngcontent-ng-c4503597561641772=\"\" icon=\"action-email\" aria-hidden=\"true\" role=\"presentation\" class=\"hydrated\"></sdf-icon> Email </sdf-menu-item><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"-1\" role=\"menuitem\" class=\"hydrated\"><sdf-icon _ngcontent-ng-c4503597561641772=\"\" icon=\"action-copy\" aria-hidden=\"true\" role=\"presentation\" class=\"hydrated\"></sdf-icon> Copy </sdf-menu-item></sdf-menu></sdf-action-menu>\n\n</cx-social-share>\n\n<cx-job-details-section _ngcontent-ng-c4503598582405439=\"\" _nghost-ng-c4503600040981107=\"\"> Job Description\n\nMercury Systems is seeking a motivated engineering intern to join our Marriottsville team. As an engineering intern, you will collaborate with senior engineers on the design and testing of RF components and integrated assemblies operating from 10 MHz to 40 GHz. You'll be part of a fast-paced, multidisciplinary team that delivers cutting-edge solutions to our customers while driving continuous improvement and pushing technical boundaries. The ideal intern will take ownership of small design projects supporting our RF MMIC product line, gaining hands-on experience in advanced RF and digital hardware design.\n\nJob Responsibilities:\n• Design RF and digital hardware solutions using MMIC components\n• Utilize CAD tools to design printed circuit boards and packaging for evaluation boards and modules\n• Develop embedded software & firmware for digital control of RF components\n• Conduct manual and automated performance tests to characterize RF semiconductor components\n• Provide engineering support for existing products under the guidance of senior design engineers\n\nRequired Qualifications:\n• Currently enrolled in a university program pursuing a Bachelor's degree in Electrical Engineering\n• A minimum GPA of 3.1 is required. You will be asked to submit your transcripts during the review process\n• Experience with board-level, mixed signal design\n• Familiarity with programmable digital logic devices (FPGAs, PLDs)\n• Experience with printed circuit board design using CAD tools (Altium, Cadence)\n• Ability to independently perform RF measurements using lab equipment such as Vector Network Analyzers, Spectrum Analyzers, and Signal Generators\n\n\"This position requires you to have or obtain a government security clearance. Security clearances may only be granted to U.S. citizens.\"\n\nPreferred Qualifications:\n• Master's degree in electrical engineering preferred\n• Strong knowledge of analog circuit fundamentals and design techniques\n• Self-motivated and eager to apply learning into practice\n• Eligibility to obtain DoD security clearance\n\n</cx-job-details-section>\n<cx-job-details-section _ngcontent-ng-c4503598582405439=\"\" _nghost-ng-c4503600040981107=\"\"> Pay Grade Range\nFulltime Equivalent Job Grade Salary Range for this position: $17.00 - 38.00/hour\n\n</cx-job-details-section>\n<cx-job-details-section _ngcontent-ng-c4503598582405439=\"\" _nghost-ng-c4503600040981107=\"\"> Additional Information\n\nMercury considers a variety of factors to determine individual base salary offers to candidates, including:\n• the role and related responsibilities;\n• prior work experience;\n• education, training, skills and certifications;\n• internal equity with others employed by Mercury in similar roles;\n• geographic location; and\n• alignment with market data.\n\nIn addition to base salary, Mercury provides a variety of benefits for team members including:\n• bonus opportunities (or special incentives for sales positions);\n• health, life and disability insurance;\n• company-paid holidays and time off;\n• 401(k) retirement plan;\n• discounted employee stock purchase plan;\n• tuition reimbursement; and\n• access to professional development and personal wellness platforms including LinkedIn Learning, Headspace, Aaptiv and Virgin Pulse.\n\nTeam members at the Director or Vice President level are also eligible to receive annual stock-based awards.\n\nMercury offers a 9/80 alternative work schedule that provides employees more opportunity for work/ life balance (available based off location)\n\n</cx-job-details-section>\n<cx-job-details-section _ngcontent-ng-c4503598582405439=\"\" _nghost-ng-c4503600040981107=\"\"> Why Mercury?\nWhy should you join Mercury Systems?\n\nMercury Systems is a technology company that makes the world a safer, more secure place. We push processing power to the tactical edge, making the latest commercial technologies profoundly more accessible for today's most challenging aerospace and defense missions. From silicon to system scale, Mercury enables customers to accelerate innovation and turn data into decision superiority. Headquartered in Andover, Massachusetts, Mercury employs more than 2,300 people in 24 locations worldwide. To learn more, visit mrcy.com\n\nOur Culture\n\nWe are committed to making Mercury a great place to work, no matter where our employees are located. We offer a casual and enjoyable atmosphere that allows employees to learn and grow. We help and care for one another and work as one to achieve results for us and for our customers. We value communication and transparency, and strive to foster two-way dialogue at all levels of the organization. We are committed to lifelong learning, offering comprehensive skills training and tuition reimbursement. Whether you're just starting out on your career journey or you are an experienced professional, it's important to us that you feel recognized and rewarded for your contributions.\n\nTo find out more about Why Mercury?, or visit the Mercury Community or find answers to general questions at Mercury FAQs\n\nMercury Systems is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex (including pregnancy), sexual orientation, gender identity, national origin, genetic information, creed, citizenship, disability, protected veteran or marital status.\n\nAs an equal opportunity employer, Mercury Systems is committed to a diverse workforce. In order to ensure reasonable accommodation for individuals protected by Section 503 of the Rehabilitation Act of 1973, the Vietnam Veterans' Readjustment Act of 1974, and Title I of the Americans with Disabilities Act of 1990, applicants that require accommodation in the job application process may contact the number below for assistance.\n\n(978) 256-1300\n\nClick here read about our recent press release.\n\n</cx-job-details-section>\n\nWe are proud to be an EOE of Minorities/Females/Vets/Disabilities. If you have a disability and need an accommodation to apply to any job opening please email hr@mrcy.com or call 978-967-1174",
-    "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Eldersburg, MD",
-    "job_city": "Eldersburg",
-    "job_state": "Maryland",
-    "job_country": "US",
-    "job_latitude": 39.403714699999995,
-    "job_longitude": -76.9502567,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dgt80mZbh59trJVnZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "<sdf-button _ngcontent-ng-c4503598582405439=\"\" emphasis=\"primary\" class=\"w-24 layout-inline size-sm variant-contained action-standard emphasis-primary supports-focus-visible hydrated\" type=\"button\" tabindex=\"0\" aria-label=\" Apply \" role=\"button\" button-title=\"\" busy-label=\"busy\" size=\"sm\" variant=\"contained\" action=\"standard\" toggled-item-added-pending=\"\"> Apply </sdf-button><cx-social-share _ngcontent-ng-c4503598582405439=\"\" class=\"mob-share cx-new-share-btn\" _nghost-ng-c4503597561641772=\"\"><sdf-action-menu _ngcontent-ng-c4503597561641772=\"\" icon=\"action-share\" icon-only=\"true\" type=\"button\" aria-label=\"Share Button\" size=\"sm\" class=\"hydrated\"><sdf-menu _ngcontent-ng-c4503597561641772=\"\" class=\"cx-share-buttons-list flex flex-column items-start p-5 hydrated\" role=\"menu\"><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"0\" role=\"menuitem\" class=\"hydrated\"><sdf-icon _ngcontent-ng-c4503597561641772=\"\" icon=\"brand-twitter\" aria-hidden=\"true\" role=\"presentation\" class=\"hydrated\"></sdf-icon> X </sdf-menu-item><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"-1\" role=\"menuitem\" class=\"hydrated\"><sdf-icon _ngcontent-ng-c4503597561641772=\"\" icon=\"brand-facebook\" aria-hidden=\"true\" role=\"presentation\" class=\"hydrated\"></sdf-icon> Facebook </sdf-menu-item><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"-1\" role=\"menuitem\" class=\"hydrated\"><sdf-icon _ngcontent-ng-c4503597561641772=\"\" icon=\"brand-linkedin\" aria-hidden=\"true\" role=\"presentation\" class=\"hydrated\"></sdf-icon> LinkedIn </sdf-menu-item><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"-1\" role=\"menuitem\" class=\"hydrated\"><sdf-icon _ngcontent-ng-c4503597561641772=\"\" icon=\"action-email\" aria-hidden=\"true\" role=\"presentation\" class=\"hydrated\"></sdf-icon> Email </sdf-menu-item><sdf-menu-item _ngcontent-ng-c4503597561641772=\"\" tabindex=\"-1\" role=\"menuitem\" class=\"hydrated\"><sdf-icon _ngcontent-ng-c4503597561641772=\"\" icon=\"action-copy\" aria-hidden=\"true\" role=\"presentation\" class=\"hydrated\"></sdf-icon> Copy </sdf-menu-item></sdf-menu></sdf-action-menu>",
-        "Currently enrolled in a university program pursuing a Bachelor's degree in Electrical Engineering",
-        "A minimum GPA of 3.1 is required",
-        "You will be asked to submit your transcripts during the review process",
-        "Familiarity with programmable digital logic devices (FPGAs, PLDs)",
-        "Experience with printed circuit board design using CAD tools (Altium, Cadence)",
-        "\"This position requires you to have or obtain a government security clearance",
-        "Security clearances may only be granted to U.S. citizens.\"",
-        "prior work experience;",
-        "education, training, skills and certifications;"
-      ],
-      "Benefits": [
-        "<cx-job-details-section _ngcontent-ng-c4503598582405439=\"\" _nghost-ng-c4503600040981107=\"\"> Pay Grade Range",
-        "Fulltime Equivalent Job Grade Salary Range for this position: $17.00 - 38.00/hour",
-        "internal equity with others employed by Mercury in similar roles;",
-        "alignment with market data",
-        "In addition to base salary, Mercury provides a variety of benefits for team members including:",
-        "bonus opportunities (or special incentives for sales positions);",
-        "health, life and disability insurance;",
-        "company-paid holidays and time off;",
-        "401(k) retirement plan;",
-        "discounted employee stock purchase plan;",
-        "tuition reimbursement; and",
-        "access to professional development and personal wellness platforms including LinkedIn Learning, Headspace, Aaptiv and Virgin Pulse",
-        "Team members at the Director or Vice President level are also eligible to receive annual stock-based awards",
-        "Mercury offers a 9/80 alternative work schedule that provides employees more opportunity for work/ life balance (available based off location)",
-        "We are committed to lifelong learning, offering comprehensive skills training and tuition reimbursement"
-      ],
-      "Responsibilities": [
-        "<sdf-icon-button _ngcontent-ng-c4503598582405439=\"\" id=\"back-button\" emphasis=\"tertiary\" class=\"action-button hydrated\" shape=\"rounded\"><sdf-icon _ngcontent-ng-c4503598582405439=\"\" icon=\"nav-page-back\" aria-hidden=\"true\" role=\"presentation\" class=\"hydrated\"></sdf-icon>Back </sdf-icon-button>",
-        "As an engineering intern, you will collaborate with senior engineers on the design and testing of RF components and integrated assemblies operating from 10 MHz to 40 GHz",
-        "You'll be part of a fast-paced, multidisciplinary team that delivers cutting-edge solutions to our customers while driving continuous improvement and pushing technical boundaries",
-        "The ideal intern will take ownership of small design projects supporting our RF MMIC product line, gaining hands-on experience in advanced RF and digital hardware design",
-        "Design RF and digital hardware solutions using MMIC components",
-        "Utilize CAD tools to design printed circuit boards and packaging for evaluation boards and modules",
-        "Develop embedded software & firmware for digital control of RF components",
-        "Conduct manual and automated performance tests to characterize RF semiconductor components",
-        "Provide engineering support for existing products under the guidance of senior design engineers",
-        "Experience with board-level, mixed signal design",
-        "Ability to independently perform RF measurements using lab equipment such as Vector Network Analyzers, Spectrum Analyzers, and Signal Generators"
-      ]
-    },
-    "job_onet_soc": "17207200",
-    "job_onet_job_zone": "4",
-    "id": "jobs-localjobnetwork-com-job-detail-86137675-rf-engineering-intern-marriottsville-md",
     "_source": "new_jobs"
   },
   {
@@ -1074,8 +985,8 @@
     "job_latitude": 38.8816208,
     "job_longitude": -77.09098089999999,
     "job_benefits": [
-      "dental_coverage",
       "paid_time_off",
+      "dental_coverage",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Do8mA1xjNkNVNo1PyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1363,89 +1274,111 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "EV15pyZzGo36q000AAAAAA==",
-    "job_title": "RF Engineer/ Senior",
-    "employer_name": "Zebra Technologies",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGq3vgV-LdHkk1cSFDvfWV7poZkESrVTy__IeK&s=0",
-    "employer_website": "https://www.zebra.com",
-    "job_publisher": "GrabJobs",
+    "job_id": "m8OzHMAKI2291nehAAAAAA==",
+    "job_title": "2026 Fulltime - Electrical Engineer II – RF/Microwave Design - Onsite",
+    "employer_name": "RTX",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07Pszg4ykzzcAw_UvR1DUvJRFJlczRuZXiZQp&s=0",
+    "employer_website": null,
+    "job_publisher": "Careers At RTX",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://grabjobs.co/us/job/full-time/others/rf-engineer-senior-152847292?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://careers.rtx.com/global/en/job/01818020/2026-Fulltime-Electrical-Engineer-II-RF-Microwave-Design-Onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "GrabJobs",
-        "apply_link": "https://grabjobs.co/us/job/full-time/others/rf-engineer-senior-152847292?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Careers At RTX",
+        "apply_link": "https://careers.rtx.com/global/en/job/01818020/2026-Fulltime-Electrical-Engineer-II-RF-Microwave-Design-Onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Raytheon/Job/2026-Fulltime-RF-Microwave-Engineer-II-Onsite/-in-Goleta,CA?jid=adc8ef78f3efc191&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "JSfirm.com",
+        "apply_link": "https://www.jsfirm.com/Engineering/2026+Fulltime+-+RF/Microwave+Engineer+II+-+Onsite/GOLETA-California/jobID_1830330?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/f1_2kGz_w1yH8oJgeKIhuvvPIuqFNH2O1kOSWsIn3JYWl_ebeSFiKg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/834914e609bf9f1a5e4b040d963770fe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Diversity Jobs - AbilityJOBS",
+        "apply_link": "https://career.abilityjobs.com/job/2026-fulltime-rfmicrowave-engineer-ii-onsite/82162604/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Clearance Jobs",
+        "apply_link": "https://www.clearancejobs.com/jobs/8745868/2026-fulltime-rfmicrowave-engineer-ii-onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Remote Work: No\n\nOverview:\nAt Zebra, we are a community of innovators who come together to create new ways of working. United by curiosity and a culture of caring, we develop smart solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n\nBeing a part of Zebra Nation means you are seen, heard, valued, and respected. Drawing from our unique perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries today to redefine the work of tomorrow for organizations, their employees, and those they serve.\n\nYou'll have opportunities to learn and lead in a forward-thinking environment, defining your path to a fulfilling career while channeling your skills toward causes you care about – locally and globally.\n\nCome make an impact every day at Zebra.\n\nThe Enterprise Mobile Computing (EMC) Handheld RF Development team is responsible for the design of next generation ruggedized wireless handheld products for Enterprise markets including Retail, Transport & Logistics, Industrial, Healthcare and Public Safety markets. Products incorporate multiple RF technologies including 4G/5G WWAN, Wi-Fi, BT/BLE, GPS, NFC and UHF RFID. Members of the RF hardware team are responsible to design and integrate complex multi-RAT systems into small, highly ruggedized form factors while meeting challenging Enterprise performance requirements for connectivity.\n\nThe Senior RF Design Engineer will be responsible to develop, design, model, and tests radio frequency transmitters and receiver circuit subsystems in the 700MHz – 10GHz range. The engineer will be responsible for developing products from concept phase to production release. A key responsibility of this senior role is also to proactively investigate, learn, and implement Artificial Intelligence (AI) solutions to innovate our engineering processes and drive significant gains in efficiency.\n\nThe candidate will work with other in-house RF, Antenna, Electrical, Mechanical, and Software Engineers as well as off-shore Joint-Development-Partners (JDMs) in the design and manufacture of these Mobile Computing Handheld products.\n\nThis role is a hybrid position based out of our Holtsville, NY office and requires a minimum of three days per week in the office. Zebra reserves the right to modify your work location based on business need.\n\nResponsibilities:\n• Establishes requirements for moderately complex RF design projects\n• Completes all phases of moderately complex RF design projects including system design/cascade and link budget analysis, circuit design, simulation, schematic, layout and RF validation\n• Proactively research, evaluate, and implement emerging Artificial Intelligence (AI) and Machine Learning (ML) techniques to continuously improve RF design, testing, and system optimization processes\n• Performs RF analysis and simulation for design, optimization and debug\n• Drives and/or Supports customer and cross-functional issue debug for system level issues\n• Drives EMI/EMC trouble shooting and validation\n• Works with internal cross-functional teams and external JDMs/CMs to successfully bring Handheld products to market\n• Drives RF lab capability development and works with Lab team on test strategy and new technology capability\n• Work with Antenna team members on system requirements, design, validation and debug\n• Works cross-functionally with Electrical engineering, Mechanical engineering, SW engineering and System Test on system design, test plan development and issue debug\n• Applies existing technology in new ways to improve performance and productivity\n• Consider latest technologies and new approaches to improve designs and implementation of the design\n• Reviews changes or upgrades to existing applications\n• Develops new technology to solve unique problems\n• May develop new tools and processes to aid in the analysis and solving of problems as well as efficiency improvement\n• Prioritizes quality and seeks out improvements in all aspects of RF projects\n\nQualifications:\n\nMinimum Qualifications:\n• Bachelors degree and 4+ year experience or Masters degree and 2+ year experience\n• Experienced board level RF circuit designer, RF Circuit tuning, troubleshooting and testing.\n• Must be familiar with VNA’s, Spectrum Analyzers, Oscilloscopes, RF Power Meters.\n\nPreferred Qualifications:\n• RF design experience in the 450MHz to 10GHz range\n• 5G WAN and/or Wi-Fi6/7 Experience highly preferred, GPS/BLE/RFID/UWB also a plus\n• RF aspects of a complete mobile product development lifecycle.\n• RF Design for FCC/ETSI/3GPP compliance & recent success cases.\n• Hands-on RF circuit/system testing experience including cabled and radiated methods.\n• Noise / RF interference mitigation and troubleshooting methods.\n• RF System integration (Radio/Antenna) optimization and debugging.\n• Project management of RF/Radio development and System integration.\n• Experience with ADS, CST, Cadence design tools\n\nZebra is an equal opportunity employer. All qualified candidates will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identify, national origin, disability, protected veteran status, or any other basis prohibited by law. If you are an individual with a disability and need assistance in applying for a position, please contact us at workplace.accommodations@zebra.com. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions, and to receive other benefits and privileges of employment.\n\nKnow Your Rights:\n\nhttps://www.eeoc.gov/sites/default/files/2022-10/EEOC_KnowYourRights_screen_reader_10_20.pdf\n\nConozca sus Derechos:\n\nhttps://www.eeoc.gov/sites/default/files/2022-10/22-088_EEOC_KnowYourRightsSp_10_20.pdf\n\nWe will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.\n\nZebra is a federal contractor and is committed to an alcohol and drug free workplace. As a result, all U.S. based employees are subject to the Drug and Alcohol Free Workplace Policy and Procedure.\n\nZebra Total Rewards includes more than just pay and is structured to meet the needs of our changing global business and evolving talent. We are committed to providing our employees with a benefits program that is comprehensive and competitive – including healthcare, wellness, inclusion networks, and continued learning and development offerings. We offer community service days, in addition to the traditional insurances, compensation, parental leave, employee assistance program and paid time off offerings depending on the country where you work.\n\nSalary: USD 96800.00 - USD 145200.00 Yearly\n\nSalary offered will vary depending on your location, job-related skills, knowledge, and experience.\nAdditionally, all Zebra roles are eligible for cash incentive programs. For example, sales roles have additional opportunity to earn substantial variable compensation tied to quota achievement. In most other roles, the Zebra annual cash incentive program links Company and individual performance together. Some roles may also be eligible for long-term incentive equity awards.\n\nTo protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system. Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department.\n\nZebra Technologies leverages AI technology to evaluate job applications using objective, job-relevant criteria. This approach enhances efficiency and promotes fairness in the hiring process. However, every decision regarding interviews and hiring is made by our dedicated team, because we believe people make the best decisions about people. For more on how we use technology in hiring and how we process applicant data, see our Zebra Privacy Policy.\n\nOriginal job RF Engineer/ Senior posted on GrabJobs ©. To flag any issues with this job please use the Report Job button on GrabJobs.",
+    "job_description": "Date Posted:\n2026-01-21\n\nCountry:\nUnited States of America\n\nLocation:\nUS-CA-GOLETA-H01 6380 Hollister Ave BLDG H01\n\nPosition Role Type:\nOnsite\n\nU.S. Citizen, U.S. Person, or Immigration Status Requirements:\nThe ability to obtain and maintain a U.S. government issued security clearance is required.​ U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance\n\nSecurity Clearance Type:\nDoD Clearance: Secret\n\nSecurity Clearance Status:\nActive and existing security clearance required after day 1\n\nAt Raytheon, the foundation of everything we do is rooted in our values and a higher calling – to help our nation and allies defend freedoms and deter aggression. We bring the strength of more than 100 years of experience and renowned engineering expertise to meet the needs of today’s mission and stay ahead of tomorrow’s threat. Our team solves tough, meaningful problems that create a safer, more secure world.\n\nThe Raytheon Electronic Warfare - Electrical and Electronics Engineering department in Goleta, California has an immediate opening for a highly motivated Electrical Engineer II – RF/Microwave design to work on Electronic Warfare (EW) and general electronics product development for defense applications.\n\nThe advanced RF hardware section is the focal point for cutting edge hardware. We have an opportunity for an Electrical Engineer who is seeking to advance their strong academic background and experience in digital and/or RF/Microwave systems. Occasional travel may be required to other Raytheon facilities and customer sites.\n\nWhat You Will Do\n• Participate in defining the signals between analog and digital interfaces.\n• Assist the team in design and hands-on testing of RF, microwave, digital, and power components, circuit boards and systems plus providing technical support to production activities.\n• Be a part of a multidisciplinary engineering team throughout the project lifecycle to meet project goals.\n• Receive Mentoring from experienced engineering staff who will guide you in your engineering tasks.\n• Some travel to integration sites, plus customer and subcontractor facilities, may be required.\n\nQualifications You Must Have\n• Masters degree in Science, Technology, Engineering or Mathematics (STEM).\n• This position requires 12 months or less of relevant professional work experience (excluding internships)\n• Experience with design, development, and production of electrical equipment and/or hardware.\n\nQualifications We Prefer\n• Experience with some design tools (SPICE, schematic/layout design software, MATLAB, ADS, HFSS, Hyperlynx, GeneSys as examples) and the ability and desire to learn new tools.\n• Experience with schematic capture, block diagrams, and parts lists for complex electronics.\n• Hands-on experience testing electronic products using bench power supplies, signal/waveform generators, high-speed oscilloscopes, spectrum analyzers or vector network analyzers.\n• Knowledge of mixed RF, Microwave, and mixed signal electronics.\n• Strong understanding of first principals and a love for Physics\n\nWhat We Offer:\n• Our values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Trust, Respect, Accountability, Collaboration, and Innovation.\n• Relocation Eligibility\n\nLearn More & Apply Now!\n• Please consider the following role type definition as you apply for this role.\n• Onsite: Employees who are working in Onsite roles will work primarily onsite. This includes all production and maintenance employees, as they are essential to the development of our products.\n• Please upload a copy of your most recent transcripts with your resume when applying to this requisition. Include your cumulative GPA and projected graduation date on your resume.\n\nAs part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote.\n\nThe salary range for this role is 75,800 USD - 144,200 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.\n\nHired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.\n\nHired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.\n\nThis role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.\n\nRTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.\n\nRTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.\n\nPrivacy Policy and Terms:\n\nClick on this link to read the Policy and Terms",
     "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771200000,
-    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
-    "job_location": "Holtsville, NY",
-    "job_city": "Holtsville",
-    "job_state": "New York",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771113600,
+    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
+    "job_location": "Goleta, CA",
+    "job_city": "Goleta",
+    "job_state": "California",
     "job_country": "US",
-    "job_latitude": 40.815376199999996,
-    "job_longitude": -73.0451085,
+    "job_latitude": 34.435829399999996,
+    "job_longitude": -119.8276389,
     "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEV15pyZzGo36q000AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dm8OzHMAKI2291nehAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Bachelors degree and 4+ year experience or Masters degree and 2+ year experience",
-        "Experienced board level RF circuit designer, RF Circuit tuning, troubleshooting and testing",
-        "Must be familiar with VNA’s, Spectrum Analyzers, Oscilloscopes, RF Power Meters"
+        "The ability to obtain and maintain a U.S. government issued security clearance is required.​ U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance",
+        "Active and existing security clearance required after day 1",
+        "We have an opportunity for an Electrical Engineer who is seeking to advance their strong academic background and experience in digital and/or RF/Microwave systems",
+        "Masters degree in Science, Technology, Engineering or Mathematics (STEM)",
+        "This position requires 12 months or less of relevant professional work experience (excluding internships)",
+        "Experience with design, development, and production of electrical equipment and/or hardware",
+        "Experience with some design tools (SPICE, schematic/layout design software, MATLAB, ADS, HFSS, Hyperlynx, GeneSys as examples) and the ability and desire to learn new tools",
+        "Experience with schematic capture, block diagrams, and parts lists for complex electronics",
+        "Hands-on experience testing electronic products using bench power supplies, signal/waveform generators, high-speed oscilloscopes, spectrum analyzers or vector network analyzers",
+        "Knowledge of mixed RF, Microwave, and mixed signal electronics",
+        "Strong understanding of first principals and a love for Physics"
       ],
       "Benefits": [
-        "We are committed to providing our employees with a benefits program that is comprehensive and competitive – including healthcare, wellness, inclusion networks, and continued learning and development offerings",
-        "We offer community service days, in addition to the traditional insurances, compensation, parental leave, employee assistance program and paid time off offerings depending on the country where you work",
-        "Salary: USD 96800.00 - USD 145200.00 Yearly",
-        "Salary offered will vary depending on your location, job-related skills, knowledge, and experience",
-        "Additionally, all Zebra roles are eligible for cash incentive programs",
-        "For example, sales roles have additional opportunity to earn substantial variable compensation tied to quota achievement",
-        "In most other roles, the Zebra annual cash incentive program links Company and individual performance together",
-        "Some roles may also be eligible for long-term incentive equity awards"
+        "The salary range provided is a good faith estimate representative of all experience levels",
+        "Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays",
+        "Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement",
+        "Hired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement",
+        "Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance"
       ],
       "Responsibilities": [
-        "Products incorporate multiple RF technologies including 4G/5G WWAN, Wi-Fi, BT/BLE, GPS, NFC and UHF RFID",
-        "Members of the RF hardware team are responsible to design and integrate complex multi-RAT systems into small, highly ruggedized form factors while meeting challenging Enterprise performance requirements for connectivity",
-        "The Senior RF Design Engineer will be responsible to develop, design, model, and tests radio frequency transmitters and receiver circuit subsystems in the 700MHz – 10GHz range",
-        "The engineer will be responsible for developing products from concept phase to production release",
-        "A key responsibility of this senior role is also to proactively investigate, learn, and implement Artificial Intelligence (AI) solutions to innovate our engineering processes and drive significant gains in efficiency",
-        "The candidate will work with other in-house RF, Antenna, Electrical, Mechanical, and Software Engineers as well as off-shore Joint-Development-Partners (JDMs) in the design and manufacture of these Mobile Computing Handheld products",
-        "Zebra reserves the right to modify your work location based on business need",
-        "Establishes requirements for moderately complex RF design projects",
-        "Completes all phases of moderately complex RF design projects including system design/cascade and link budget analysis, circuit design, simulation, schematic, layout and RF validation",
-        "Proactively research, evaluate, and implement emerging Artificial Intelligence (AI) and Machine Learning (ML) techniques to continuously improve RF design, testing, and system optimization processes",
-        "Performs RF analysis and simulation for design, optimization and debug",
-        "Drives and/or Supports customer and cross-functional issue debug for system level issues",
-        "Drives EMI/EMC trouble shooting and validation",
-        "Works with internal cross-functional teams and external JDMs/CMs to successfully bring Handheld products to market",
-        "Drives RF lab capability development and works with Lab team on test strategy and new technology capability",
-        "Work with Antenna team members on system requirements, design, validation and debug",
-        "Works cross-functionally with Electrical engineering, Mechanical engineering, SW engineering and System Test on system design, test plan development and issue debug",
-        "Applies existing technology in new ways to improve performance and productivity",
-        "Consider latest technologies and new approaches to improve designs and implementation of the design",
-        "Reviews changes or upgrades to existing applications",
-        "Develops new technology to solve unique problems",
-        "May develop new tools and processes to aid in the analysis and solving of problems as well as efficiency improvement",
-        "Prioritizes quality and seeks out improvements in all aspects of RF projects"
+        "Occasional travel may be required to other Raytheon facilities and customer sites",
+        "Participate in defining the signals between analog and digital interfaces",
+        "Assist the team in design and hands-on testing of RF, microwave, digital, and power components, circuit boards and systems plus providing technical support to production activities",
+        "Be a part of a multidisciplinary engineering team throughout the project lifecycle to meet project goals",
+        "Receive Mentoring from experienced engineering staff who will guide you in your engineering tasks",
+        "Some travel to integration sites, plus customer and subcontractor facilities, may be required",
+        "Onsite: Employees who are working in Onsite roles will work primarily onsite",
+        "This includes all production and maintenance employees, as they are essential to the development of our products"
       ]
     },
     "job_onet_soc": "17207200",
     "job_onet_job_zone": "4",
-    "id": "grabjobs-co-us-job-full-time-others-rf-engineer-senior-152847292",
+    "id": "careers-rtx-com-global-en-job-01818020-2026-fulltime-electrical-engineer-ii-rf-microwave-design-onsite",
     "_source": "new_jobs"
   },
   {
@@ -1515,8 +1448,8 @@
     "job_latitude": 39.2905023,
     "job_longitude": -76.6104072,
     "job_benefits": [
-      "dental_coverage",
       "paid_time_off",
+      "dental_coverage",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2JxSHggl9CkOB3CXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1559,6 +1492,136 @@
     "job_onet_soc": "17207200",
     "job_onet_job_zone": "4",
     "id": "jobs-northropgrumman-com-careers-job-1340070062955-sr-staff-rf-hardware-subsystem-integration-and-test-engineer-united-states-maryland-baltimore",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "Uo07DcOW4YX7ls4sAAAAAA==",
+    "job_title": "Radio Frequency Engineer",
+    "employer_name": "TEKsystems",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXsEN7UUtvSpIi0itdBndnljUWnfdCSoQtMsq&s=0",
+    "employer_website": "https://www.teksystems.com",
+    "job_publisher": "TEKsystems Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.teksystems.com/us/en/job/JP-005826452/Radio-Frequency-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "TEKsystems Careers",
+        "apply_link": "https://careers.teksystems.com/us/en/job/JP-005826452/Radio-Frequency-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/TEKsystems/Job/Radio-Frequency-Engineer/-in-Honolulu,HI?jid=ac12f905efa15e00&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/7bdb8ed9-359e-4c35-a241-9e6d5fc94a04?q=Network+Administration&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/radio-frequency-engineer-at-teksystems-4372117305?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Milwaukee Jobs",
+        "apply_link": "https://www.milwaukeejobs.com/job/detail/86263707/Radio-Frequency-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/9de3b71838e86cc49d7e8d2531907a49?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/69659b295ad3a93f8230f754?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5628805786?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "About the Role - Fully On Site in Honolulu, HI!\n\nWe are seeking a skilled RF/Microwave Engineer to design, develop, integrate, and test high‑frequency RF/microwave components and systems. This role supports both current and next‑generation telecommunications technologies—including microwave, PTP/PMP links, DAS, LMR, and more.\n\nYou will work closely with a Senior RF Engineer on projects vital to public safety and critical infrastructure, with strong long-term growth potential into a Senior engineering role.\nWhat You’ll Do\n• Design and develop RF/microwave systems including antennas, filters, amplifiers, combiners, couplers, and transceivers.\n• Perform RF analysis, propagation modeling, link budget calculations, and system-level performance evaluations.\n• Integrate and test RF systems in field and lab environments.\n• Utilize RF tools (EDX, Pathloss, etc.) for system design and optimization.\n• Conduct measurements using RF test equipment (spectrum/network analyzers, cable & antenna analyzers, etc.).\n• Troubleshoot RF performance issues such as interference, VSWR, return loss, and modulation‑related degradations.\n• Support network upgrades, new deployments, and optimization of existing systems.\n• Collaborate with engineering teams on system design, documentation, and project execution.\nRequired Skills & Experience\n• Bachelor’s degree in Electrical Engineering or related field (RF/Microwave concentration preferred).\n• 3+ years of hands-on RF or microwave engineering experience.\n• Proficiency with RF design tools: EDX, Pathloss, or similar.\n• Strong experience with RF test instruments:\n• Spectrum analyzers\n• Network analyzers\n• Cable/antenna analyzers\n• Deep understanding of:\n• Impedance matching (VSWR, return loss)\n• Link budgets\n• Modulation schemes\n• Antenna selection and system impacts\n• Interference mitigation\n• Ability to manage multiple projects in a fast-paced environment.\n• Strong communication skills—written, verbal, and cross-team collaboration.\n• Self‑starter who can work independently and as part of a team.\nNice-to-Have Experience\n• RF network integration for:\n• LTE / 5G\n• WiFi\n• Microwave PTP/PMP (licensed, unlicensed, mmWave)\n• Satellite or defense systems\n• Familiarity with FCC/NTIA regulations and RF exposure safety standards.\n• Experience with equipment from:\n• Nokia\n• Motorola\n• Cambium\n• Siklu\n• Commscope\n• Nextivity\n\nEmployee Value Proposition (EVP)\n• Work on high‑impact projects that support public safety, government, and critical infrastructure.\n• Join a collaborative, innovative engineering team.\n• Competitive salary + full benefits package.\n• Continuous opportunities for professional development and technical growth.\n• Clear pathway toward Senior engineering roles.\nJob Type & Location\n\nThis is a Permanent position based out of Honolulu, HI.\nPay and Benefits\n\nThe pay range for this position is $90000.00 - $110000.00/yr.\n\no Medical, dental, and vision insurance\no Paid time off and holidays\no 401(k) retirement plan with company contribution\nWorkplace Type\n\nThis is a fully onsite position in Honolulu,HI.\nApplication Deadline\n\nThis position is anticipated to close on Feb 26, 2026.\nh4>About TEKsystems:\n\nWe're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.\n\nThe company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.\n\nAbout TEKsystems and TEKsystems Global Services\n\nWe’re a leading provider of business and technology services. We accelerate business transformation for our customers. Our expertise in strategy, design, execution and operations unlocks business value through a range of solutions. We’re a team of 80,000 strong, working with over 6,000 customers, including 80% of the Fortune 500 across North America, Europe and Asia, who partner with us for our scale, full-stack capabilities and speed. We’re strategic thinkers, hands-on collaborators, helping customers capitalize on change and master the momentum of technology. We’re building tomorrow by delivering business outcomes and making positive impacts in our global communities. TEKsystems and TEKsystems Global Services are Allegis Group companies. Learn more at TEKsystems.com.\n\nThe company is an equal opportunity employer and will consider all applications without regard to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Honolulu, HI",
+    "job_city": "Honolulu",
+    "job_state": "Hawaii",
+    "job_country": "US",
+    "job_latitude": 21.3098845,
+    "job_longitude": -157.85814009999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUo07DcOW4YX7ls4sAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 90000,
+    "job_max_salary": 110000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "3+ years of hands-on RF or microwave engineering experience",
+        "Proficiency with RF design tools: EDX",
+        ", Pathloss, or similar",
+        "Strong experience with RF test instruments:",
+        "Strong communication skills—written, verbal, and cross-team collaboration",
+        "Self‑starter who can work independently and as part of a team",
+        "Nice-to-Have Experience",
+        "RF network integration for:",
+        "LTE / 5G",
+        "Microwave PTP/PMP (licensed, unlicensed, mmWave)",
+        "Satellite or defense systems",
+        "Familiarity with FCC/NTIA regulations and RF exposure safety standards",
+        "Experience with equipment from:",
+        "Nokia",
+        "Commscope"
+      ],
+      "Benefits": [
+        "Join a collaborative, innovative engineering team",
+        "Competitive salary + full benefits package",
+        "Continuous opportunities for professional development and technical growth",
+        "Clear pathway toward Senior engineering roles",
+        "The pay range for this position is $90000.00 - $110000.00/yr",
+        "Medical, dental, and vision insurance",
+        "Paid time off and holidays",
+        "401(k) retirement plan with company contribution"
+      ],
+      "Responsibilities": [
+        "You will work closely with a Senior RF Engineer on projects vital to public safety and critical infrastructure, with strong long-term growth potential into a Senior engineering role",
+        "Design and develop RF/microwave systems including antennas, filters, amplifiers, combiners, couplers, and transceivers",
+        "Perform RF analysis, propagation modeling, link budget calculations, and system-level performance evaluations",
+        "Integrate and test RF systems in field and lab environments",
+        "Utilize RF tools (EDX",
+        ", Pathloss, etc.) for system design and optimization",
+        "Conduct measurements using RF test equipment (spectrum/network analyzers, cable & antenna analyzers, etc.)",
+        "Troubleshoot RF performance issues such as interference, VSWR, return loss, and modulation‑related degradations",
+        "Support network upgrades, new deployments, and optimization of existing systems",
+        "Collaborate with engineering teams on system design, documentation, and project execution",
+        "Spectrum analyzers",
+        "Network analyzers",
+        "Cable/antenna analyzers",
+        "Impedance matching (VSWR, return loss)",
+        "Modulation schemes",
+        "Antenna selection and system impacts",
+        "Interference mitigation",
+        "Ability to manage multiple projects in a fast-paced environment",
+        "Work on high‑impact projects that support public safety, government, and critical infrastructure"
+      ]
+    },
+    "job_onet_soc": "17207200",
+    "job_onet_job_zone": "4",
+    "id": "careers-teksystems-com-us-en-job-jp-005826452-radio-frequency-engineer",
     "_source": "new_jobs"
   },
   {
@@ -1672,336 +1735,78 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "m8OzHMAKI2291nehAAAAAA==",
-    "job_title": "2026 Fulltime - Electrical Engineer II – RF/Microwave Design - Onsite",
-    "employer_name": "RTX",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07Pszg4ykzzcAw_UvR1DUvJRFJlczRuZXiZQp&s=0",
-    "employer_website": null,
-    "job_publisher": "Careers At RTX",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.rtx.com/global/en/job/01818020/2026-Fulltime-Electrical-Engineer-II-RF-Microwave-Design-Onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Careers At RTX",
-        "apply_link": "https://careers.rtx.com/global/en/job/01818020/2026-Fulltime-Electrical-Engineer-II-RF-Microwave-Design-Onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Raytheon/Job/2026-Fulltime-RF-Microwave-Engineer-II-Onsite/-in-Goleta,CA?jid=adc8ef78f3efc191&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "JSfirm.com",
-        "apply_link": "https://www.jsfirm.com/Engineering/2026+Fulltime+-+RF/Microwave+Engineer+II+-+Onsite/GOLETA-California/jobID_1830330?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/f1_2kGz_w1yH8oJgeKIhuvvPIuqFNH2O1kOSWsIn3JYWl_ebeSFiKg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/834914e609bf9f1a5e4b040d963770fe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Diversity Jobs - AbilityJOBS",
-        "apply_link": "https://career.abilityjobs.com/job/2026-fulltime-rfmicrowave-engineer-ii-onsite/82162604/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Clearance Jobs",
-        "apply_link": "https://www.clearancejobs.com/jobs/8745868/2026-fulltime-rfmicrowave-engineer-ii-onsite?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Date Posted:\n2026-01-21\n\nCountry:\nUnited States of America\n\nLocation:\nUS-CA-GOLETA-H01 6380 Hollister Ave BLDG H01\n\nPosition Role Type:\nOnsite\n\nU.S. Citizen, U.S. Person, or Immigration Status Requirements:\nThe ability to obtain and maintain a U.S. government issued security clearance is required.​ U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance\n\nSecurity Clearance Type:\nDoD Clearance: Secret\n\nSecurity Clearance Status:\nActive and existing security clearance required after day 1\n\nAt Raytheon, the foundation of everything we do is rooted in our values and a higher calling – to help our nation and allies defend freedoms and deter aggression. We bring the strength of more than 100 years of experience and renowned engineering expertise to meet the needs of today’s mission and stay ahead of tomorrow’s threat. Our team solves tough, meaningful problems that create a safer, more secure world.\n\nThe Raytheon Electronic Warfare - Electrical and Electronics Engineering department in Goleta, California has an immediate opening for a highly motivated Electrical Engineer II – RF/Microwave design to work on Electronic Warfare (EW) and general electronics product development for defense applications.\n\nThe advanced RF hardware section is the focal point for cutting edge hardware. We have an opportunity for an Electrical Engineer who is seeking to advance their strong academic background and experience in digital and/or RF/Microwave systems. Occasional travel may be required to other Raytheon facilities and customer sites.\n\nWhat You Will Do\n• Participate in defining the signals between analog and digital interfaces.\n• Assist the team in design and hands-on testing of RF, microwave, digital, and power components, circuit boards and systems plus providing technical support to production activities.\n• Be a part of a multidisciplinary engineering team throughout the project lifecycle to meet project goals.\n• Receive Mentoring from experienced engineering staff who will guide you in your engineering tasks.\n• Some travel to integration sites, plus customer and subcontractor facilities, may be required.\n\nQualifications You Must Have\n• Masters degree in Science, Technology, Engineering or Mathematics (STEM).\n• This position requires 12 months or less of relevant professional work experience (excluding internships)\n• Experience with design, development, and production of electrical equipment and/or hardware.\n\nQualifications We Prefer\n• Experience with some design tools (SPICE, schematic/layout design software, MATLAB, ADS, HFSS, Hyperlynx, GeneSys as examples) and the ability and desire to learn new tools.\n• Experience with schematic capture, block diagrams, and parts lists for complex electronics.\n• Hands-on experience testing electronic products using bench power supplies, signal/waveform generators, high-speed oscilloscopes, spectrum analyzers or vector network analyzers.\n• Knowledge of mixed RF, Microwave, and mixed signal electronics.\n• Strong understanding of first principals and a love for Physics\n\nWhat We Offer:\n• Our values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Trust, Respect, Accountability, Collaboration, and Innovation.\n• Relocation Eligibility\n\nLearn More & Apply Now!\n• Please consider the following role type definition as you apply for this role.\n• Onsite: Employees who are working in Onsite roles will work primarily onsite. This includes all production and maintenance employees, as they are essential to the development of our products.\n• Please upload a copy of your most recent transcripts with your resume when applying to this requisition. Include your cumulative GPA and projected graduation date on your resume.\n\nAs part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote.\n\nThe salary range for this role is 75,800 USD - 144,200 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.\n\nHired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.\n\nHired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.\n\nThis role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.\n\nRTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.\n\nRTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.\n\nPrivacy Policy and Terms:\n\nClick on this link to read the Policy and Terms",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771113600,
-    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
-    "job_location": "Goleta, CA",
-    "job_city": "Goleta",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 34.435829399999996,
-    "job_longitude": -119.8276389,
-    "job_benefits": [
-      "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dm8OzHMAKI2291nehAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "The ability to obtain and maintain a U.S. government issued security clearance is required.​ U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance",
-        "Active and existing security clearance required after day 1",
-        "We have an opportunity for an Electrical Engineer who is seeking to advance their strong academic background and experience in digital and/or RF/Microwave systems",
-        "Masters degree in Science, Technology, Engineering or Mathematics (STEM)",
-        "This position requires 12 months or less of relevant professional work experience (excluding internships)",
-        "Experience with design, development, and production of electrical equipment and/or hardware",
-        "Experience with some design tools (SPICE, schematic/layout design software, MATLAB, ADS, HFSS, Hyperlynx, GeneSys as examples) and the ability and desire to learn new tools",
-        "Experience with schematic capture, block diagrams, and parts lists for complex electronics",
-        "Hands-on experience testing electronic products using bench power supplies, signal/waveform generators, high-speed oscilloscopes, spectrum analyzers or vector network analyzers",
-        "Knowledge of mixed RF, Microwave, and mixed signal electronics",
-        "Strong understanding of first principals and a love for Physics"
-      ],
-      "Benefits": [
-        "The salary range provided is a good faith estimate representative of all experience levels",
-        "Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays",
-        "Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement",
-        "Hired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement",
-        "Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance"
-      ],
-      "Responsibilities": [
-        "Occasional travel may be required to other Raytheon facilities and customer sites",
-        "Participate in defining the signals between analog and digital interfaces",
-        "Assist the team in design and hands-on testing of RF, microwave, digital, and power components, circuit boards and systems plus providing technical support to production activities",
-        "Be a part of a multidisciplinary engineering team throughout the project lifecycle to meet project goals",
-        "Receive Mentoring from experienced engineering staff who will guide you in your engineering tasks",
-        "Some travel to integration sites, plus customer and subcontractor facilities, may be required",
-        "Onsite: Employees who are working in Onsite roles will work primarily onsite",
-        "This includes all production and maintenance employees, as they are essential to the development of our products"
-      ]
-    },
-    "job_onet_soc": "17207200",
-    "job_onet_job_zone": "4",
-    "id": "careers-rtx-com-global-en-job-01818020-2026-fulltime-electrical-engineer-ii-rf-microwave-design-onsite",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "Uo07DcOW4YX7ls4sAAAAAA==",
-    "job_title": "Radio Frequency Engineer",
-    "employer_name": "TEKsystems",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnXsEN7UUtvSpIi0itdBndnljUWnfdCSoQtMsq&s=0",
-    "employer_website": "https://www.teksystems.com",
-    "job_publisher": "TEKsystems Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.teksystems.com/us/en/job/JP-005826452/Radio-Frequency-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "TEKsystems Careers",
-        "apply_link": "https://careers.teksystems.com/us/en/job/JP-005826452/Radio-Frequency-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/TEKsystems/Job/Radio-Frequency-Engineer/-in-Honolulu,HI?jid=ac12f905efa15e00&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/7bdb8ed9-359e-4c35-a241-9e6d5fc94a04?q=Network+Administration&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/radio-frequency-engineer-at-teksystems-4372117305?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Milwaukee Jobs",
-        "apply_link": "https://www.milwaukeejobs.com/job/detail/86263707/Radio-Frequency-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/9de3b71838e86cc49d7e8d2531907a49?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/69659b295ad3a93f8230f754?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5628805786?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "About the Role - Fully On Site in Honolulu, HI!\n\nWe are seeking a skilled RF/Microwave Engineer to design, develop, integrate, and test high‑frequency RF/microwave components and systems. This role supports both current and next‑generation telecommunications technologies—including microwave, PTP/PMP links, DAS, LMR, and more.\n\nYou will work closely with a Senior RF Engineer on projects vital to public safety and critical infrastructure, with strong long-term growth potential into a Senior engineering role.\nWhat You’ll Do\n• Design and develop RF/microwave systems including antennas, filters, amplifiers, combiners, couplers, and transceivers.\n• Perform RF analysis, propagation modeling, link budget calculations, and system-level performance evaluations.\n• Integrate and test RF systems in field and lab environments.\n• Utilize RF tools (EDX, Pathloss, etc.) for system design and optimization.\n• Conduct measurements using RF test equipment (spectrum/network analyzers, cable & antenna analyzers, etc.).\n• Troubleshoot RF performance issues such as interference, VSWR, return loss, and modulation‑related degradations.\n• Support network upgrades, new deployments, and optimization of existing systems.\n• Collaborate with engineering teams on system design, documentation, and project execution.\nRequired Skills & Experience\n• Bachelor’s degree in Electrical Engineering or related field (RF/Microwave concentration preferred).\n• 3+ years of hands-on RF or microwave engineering experience.\n• Proficiency with RF design tools: EDX, Pathloss, or similar.\n• Strong experience with RF test instruments:\n• Spectrum analyzers\n• Network analyzers\n• Cable/antenna analyzers\n• Deep understanding of:\n• Impedance matching (VSWR, return loss)\n• Link budgets\n• Modulation schemes\n• Antenna selection and system impacts\n• Interference mitigation\n• Ability to manage multiple projects in a fast-paced environment.\n• Strong communication skills—written, verbal, and cross-team collaboration.\n• Self‑starter who can work independently and as part of a team.\nNice-to-Have Experience\n• RF network integration for:\n• LTE / 5G\n• WiFi\n• Microwave PTP/PMP (licensed, unlicensed, mmWave)\n• Satellite or defense systems\n• Familiarity with FCC/NTIA regulations and RF exposure safety standards.\n• Experience with equipment from:\n• Nokia\n• Motorola\n• Cambium\n• Siklu\n• Commscope\n• Nextivity\n\nEmployee Value Proposition (EVP)\n• Work on high‑impact projects that support public safety, government, and critical infrastructure.\n• Join a collaborative, innovative engineering team.\n• Competitive salary + full benefits package.\n• Continuous opportunities for professional development and technical growth.\n• Clear pathway toward Senior engineering roles.\nJob Type & Location\n\nThis is a Permanent position based out of Honolulu, HI.\nPay and Benefits\n\nThe pay range for this position is $90000.00 - $110000.00/yr.\n\no Medical, dental, and vision insurance\no Paid time off and holidays\no 401(k) retirement plan with company contribution\nWorkplace Type\n\nThis is a fully onsite position in Honolulu,HI.\nApplication Deadline\n\nThis position is anticipated to close on Feb 26, 2026.\nh4>About TEKsystems:\n\nWe're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.\n\nThe company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.\n\nAbout TEKsystems and TEKsystems Global Services\n\nWe’re a leading provider of business and technology services. We accelerate business transformation for our customers. Our expertise in strategy, design, execution and operations unlocks business value through a range of solutions. We’re a team of 80,000 strong, working with over 6,000 customers, including 80% of the Fortune 500 across North America, Europe and Asia, who partner with us for our scale, full-stack capabilities and speed. We’re strategic thinkers, hands-on collaborators, helping customers capitalize on change and master the momentum of technology. We’re building tomorrow by delivering business outcomes and making positive impacts in our global communities. TEKsystems and TEKsystems Global Services are Allegis Group companies. Learn more at TEKsystems.com.\n\nThe company is an equal opportunity employer and will consider all applications without regard to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Honolulu, HI",
-    "job_city": "Honolulu",
-    "job_state": "Hawaii",
-    "job_country": "US",
-    "job_latitude": 21.3098845,
-    "job_longitude": -157.85814009999999,
-    "job_benefits": [
-      "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUo07DcOW4YX7ls4sAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 90000,
-    "job_max_salary": 110000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "3+ years of hands-on RF or microwave engineering experience",
-        "Proficiency with RF design tools: EDX",
-        ", Pathloss, or similar",
-        "Strong experience with RF test instruments:",
-        "Strong communication skills—written, verbal, and cross-team collaboration",
-        "Self‑starter who can work independently and as part of a team",
-        "Nice-to-Have Experience",
-        "RF network integration for:",
-        "LTE / 5G",
-        "Microwave PTP/PMP (licensed, unlicensed, mmWave)",
-        "Satellite or defense systems",
-        "Familiarity with FCC/NTIA regulations and RF exposure safety standards",
-        "Experience with equipment from:",
-        "Nokia",
-        "Commscope"
-      ],
-      "Benefits": [
-        "Join a collaborative, innovative engineering team",
-        "Competitive salary + full benefits package",
-        "Continuous opportunities for professional development and technical growth",
-        "Clear pathway toward Senior engineering roles",
-        "The pay range for this position is $90000.00 - $110000.00/yr",
-        "Medical, dental, and vision insurance",
-        "Paid time off and holidays",
-        "401(k) retirement plan with company contribution"
-      ],
-      "Responsibilities": [
-        "You will work closely with a Senior RF Engineer on projects vital to public safety and critical infrastructure, with strong long-term growth potential into a Senior engineering role",
-        "Design and develop RF/microwave systems including antennas, filters, amplifiers, combiners, couplers, and transceivers",
-        "Perform RF analysis, propagation modeling, link budget calculations, and system-level performance evaluations",
-        "Integrate and test RF systems in field and lab environments",
-        "Utilize RF tools (EDX",
-        ", Pathloss, etc.) for system design and optimization",
-        "Conduct measurements using RF test equipment (spectrum/network analyzers, cable & antenna analyzers, etc.)",
-        "Troubleshoot RF performance issues such as interference, VSWR, return loss, and modulation‑related degradations",
-        "Support network upgrades, new deployments, and optimization of existing systems",
-        "Collaborate with engineering teams on system design, documentation, and project execution",
-        "Spectrum analyzers",
-        "Network analyzers",
-        "Cable/antenna analyzers",
-        "Impedance matching (VSWR, return loss)",
-        "Modulation schemes",
-        "Antenna selection and system impacts",
-        "Interference mitigation",
-        "Ability to manage multiple projects in a fast-paced environment",
-        "Work on high‑impact projects that support public safety, government, and critical infrastructure"
-      ]
-    },
-    "job_onet_soc": "17207200",
-    "job_onet_job_zone": "4",
-    "id": "careers-teksystems-com-us-en-job-jp-005826452-radio-frequency-engineer",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "N4b7F9dJq13lD2p3AAAAAA==",
-    "job_title": "RF Systems Engineer Sr - Orlando FL",
+    "job_id": "UEFeAioVVwu4GVEPAAAAAA==",
+    "job_title": "RF Engineer; Antenna Design - Intern Security Clearance",
     "employer_name": "Lockheed Martin",
     "employer_logo": null,
     "employer_website": "https://www.lockheedmartin.com",
-    "job_publisher": "Lockheed Martin Careers",
-    "job_employment_type": "Full-time",
+    "job_publisher": "Learn4Good",
+    "job_employment_type": "Full-time and Internship",
     "job_employment_types": [
-      "FULLTIME"
+      "FULLTIME",
+      "INTERN"
     ],
-    "job_apply_link": "https://www.lockheedmartinjobs.com/job/orlando/rf-systems-engineer-sr-orlando-fl/694/91834500784?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.learn4good.com/jobs/palmdale/california/engineering/4877794502/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Lockheed Martin Careers",
-        "apply_link": "https://www.lockheedmartinjobs.com/job/orlando/rf-systems-engineer-sr-orlando-fl/694/91834500784?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=67b354c779fba5e3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/fIWwC6SDkr-DexjEkzTJ2H1aqOpwolkVlBpp0TlSzOuT8FuAJOyAuA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/7422830239945850880?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/orlando/florida/engineering/4816046542/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.learn4good.com/jobs/palmdale/california/engineering/4877794502/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Description:Lockheed Martin is a global security and aerospace company that employs approximately 114,000 people worldwide and is principally engaged in the research, design, development, manufacture, integration, and sustainment of advanced technology systems, products, and services. Lockheed Martin Missiles and Fire Control (MFC) is one of four Lockheed Martin business areas.\n\nBy bringing together people that use their passion for purposeful innovation, at Lockheed Martin we keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work. With our employees as our priority, we provide diverse career opportunities designed to propel development and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. At Lockheed Martin, we place an emphasis on empowering our employees by fostering innovation, integrity, and exemplifying the epitome of corporate responsibility. Your Mission is Ours.\n\nLockheed Martin is seeking an RF Systems Engineer with RF design, analysis, and test experience.\n\nWhat You Will Be Doing\n\nThe RF Systems Engineer will generate modeling/simulations for advanced control systems, build and test prototype hardware in the lab, and collaborate with a larger team for flight hardware configurations. Specific duties may include assisting engineers with antenna modeling, RF System modeling and requirements development. The individual will work closely with systems and design engineers to identify key RF hardware requirements which meet mission needs and will construct models for simulation.\n\nThe RF Systems Engineer must be capable of utilizing a wide range of test equipment such as power supplies, DMMs, Oscilloscopes, RF Power Meters, Frequency Generators, Spectrum Analyzers, and Network Analyzers. Experience with MATLAB modeling is required.\n\nWhy Join Us\n\nWe are committed to supporting your work-life balance and overall well-being, offering flexible scheduling options Learn more about Lockheed Martin’s comprehensive benefits package here.\n\nFurther Information About This Opportunity:\n\nThis position is in Orlando. Discover more about our Orlando, Florida location.\nBasic Qualifications:\n• Ph.D. in Electrical Engineering, Microwave Engineering, or a closely related field with a focus on mm Wave antenna arrays or RF circuit design.\n• Ability to obtain and maintain a Secret Clearance, therefore you must be a US Citizen.\n\n• 3 + years of hands on experience with ANSYS HFSS and Keysight ADS for full wave and circuit level modeling of mm Wave structures.\n\n• Proven ability to design, fabricate, and test hardware up to 60 GHz (0402 soldering, V-band connector assembly, VNA, spectrum/signal analyzer, noise figure, and RCS measurements).\n\n• Strong proficiency in MATLAB and Python (or equivalent) for processing multidimensional complex data, automating beam steering algorithms, and generating technical reports/presentations.\n\n• Demonstrated experience leading or mentoring junior engineers (lab training, grad assistant, teaching labs).\n\n• Record of peer reviewed publications and conference presentations in the mm Wave/antenna domain (e.g., IEEE IWAT, AP S, SoutheastCon).\n\n• Experience with software defined radio (SDR) platforms\nDesired Skills:\n• Knowledge of link budget, system level RF analysis, and automated generation of PowerPoint or technical documentation via MATLAB scripts.\n\n• Proficiency in C/C++ (or C#) for low level firmware/driver development of RF transceivers.\n\n• Ability to work cross functionally with radar, IR, and communications teams to integrate antenna subsystems into mission critical prototypes.\n\n• Strong written communication skills (LaTeX) and the ability to produce clear, concise technical reports for both classified and unclassified audiences.\n• *Active Secret Clearance.\nSecurity Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration.\nClearance Level: Secret\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 4x10 hour day, 3 days off per week\nLockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nAt Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.\n\nWith our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.\n\nIf this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.\nExperience Level: Experienced Professional\nBusiness Unit: MISSILES AND FIRE CONTROL\nRelocation Available: Possible\nCareer Area: RF Engineering\nType: Full-Time\nShift: First",
+    "job_description": "Position: RF Engineer (Antenna Design) - Intern with Security Clearance\nJob Number 717598\n\nDescription:\n\nBy bringing together people that use their passion for purposeful innovation, at Lockheed Martin we keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work. With our employees as our priority, we provide diverse career opportunities designed to propel development and boost agility.\n\nOur flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. At Lockheed Martin, we place an emphasis on empowering our employees by fostering innovation, integrity, and exemplifying the epitome of corporate responsibility. Your Mission is Ours. Lockheed Martin Aeronautics is seeking a Summer 2026 Intern RF Engineer (Antenna Design).\n\nIn this role, you will conduct research and development efforts associated with antennas, radomes, frequency selective surface (FSS), and RF hardware integration. The successful candidate will have experience and/or knowledge of electromagnetic theory and in RF hardware prototyping/manufacturing. Must be a US Citizen; this position will require a government security clearance. This position is located at a facility that requires special access.\n\nBasic Qualifications:\n\n• Pursuing a Bachelor's degree in Electrical Engineering or related technical major\n• Coursework in Electromagnetic Theory\n• Must be a US Citizen; this position will require a\ngovernment security clearance. This position is located at a facility that requires special access\nDesired\n\nSkills:\n\n• Background in design of antennas and/or radomes\n• Basic knowledge of industry design and analysis tools such as HFSS, Microwave Studio, FEKO, Mat Lab, and Knowbell\n• Excellent written and verbal communication skills\n• Ability to work in a collaborative and team-based environment\n• Proficient with Microsoft Office\nSecurity Clearance Statement:\nThis position requires a government security clearance, you must be a US Citizen for consideration.\nClearance Level: Secret\nOther Important Information You Should Know\nExpression of Interest:\nBy applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time:\nThe work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules:\nLockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nPay Rate:\nThe annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $31,616 - $77,788. For states not referenced above, the salary range for this position will reflect the candidate's final work location. Please note that the salary information is a general guideline only.\n\nLockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered:\nMedical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays. (Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month;\n\naccrue up to 52 hours of…",
     "job_is_remote": false,
     "job_posted_at": "2 days ago",
     "job_posted_at_timestamp": 1771200000,
     "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
-    "job_location": "Orlando, FL",
-    "job_city": "Orlando",
-    "job_state": "Florida",
+    "job_location": "Palmdale, CA",
+    "job_city": "Palmdale",
+    "job_state": "California",
     "job_country": "US",
-    "job_latitude": 28.5383832,
-    "job_longitude": -81.3789269,
+    "job_latitude": 34.577677,
+    "job_longitude": -118.1158545,
     "job_benefits": [
+      "dental_coverage",
       "paid_time_off",
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DN4b7F9dJq13lD2p3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUEFeAioVVwu4GVEPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 31616,
+    "job_max_salary": 77788,
+    "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "The RF Systems Engineer must be capable of utilizing a wide range of test equipment such as power supplies, DMMs, Oscilloscopes, RF Power Meters, Frequency Generators, Spectrum Analyzers, and Network Analyzers",
-        "Experience with MATLAB modeling is required",
-        "Ph.D. in Electrical Engineering, Microwave Engineering, or a closely related field with a focus on mm Wave antenna arrays or RF circuit design",
-        "Ability to obtain and maintain a Secret Clearance, therefore you must be a US Citizen",
-        "3 + years of hands on experience with ANSYS HFSS and Keysight ADS for full wave and circuit level modeling of mm Wave structures",
-        "Proven ability to design, fabricate, and test hardware up to 60 GHz (0402 soldering, V-band connector assembly, VNA, spectrum/signal analyzer, noise figure, and RCS measurements)",
-        "Strong proficiency in MATLAB and Python (or equivalent) for processing multidimensional complex data, automating beam steering algorithms, and generating technical reports/presentations",
-        "Demonstrated experience leading or mentoring junior engineers (lab training, grad assistant, teaching labs)",
-        "Record of peer reviewed publications and conference presentations in the mm Wave/antenna domain (e.g., IEEE IWAT, AP S, SoutheastCon)",
-        "Experience with software defined radio (SDR) platforms",
-        "Security Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration",
-        "Experience Level: Experienced Professional",
-        "Business Unit: MISSILES AND FIRE CONTROL"
+        "The successful candidate will have experience and/or knowledge of electromagnetic theory and in RF hardware prototyping/manufacturing",
+        "Must be a US Citizen; this position will require a government security clearance",
+        "Pursuing a Bachelor's degree in Electrical Engineering or related technical major",
+        "Coursework in Electromagnetic Theory",
+        "Must be a US Citizen; this position will require a",
+        "government security clearance",
+        "Background in design of antennas and/or radomes",
+        "Basic knowledge of industry design and analysis tools such as HFSS, Microwave Studio, FEKO, Mat Lab, and Knowbell",
+        "Excellent written and verbal communication skills",
+        "Ability to work in a collaborative and team-based environment",
+        "Proficient with Microsoft Office",
+        "This position requires a government security clearance, you must be a US Citizen for consideration",
+        "Ability to Work Remotely: Onsite Full-time:"
       ],
       "Benefits": [
         "Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work",
-        "We are committed to supporting your work-life balance and overall well-being, offering flexible scheduling options Learn more about Lockheed Martin’s comprehensive benefits package here",
         "Schedules range from standard 40 hours over a five day work week while others may be condensed",
         "These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits",
-        "Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work",
-        "Relocation Available: Possible"
+        "The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $31,616 - $77,788",
+        "Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays",
+        "(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays",
+        "Represented full time employees accrue 6.67 hours of Vacation per month;"
       ],
       "Responsibilities": [
-        "The RF Systems Engineer will generate modeling/simulations for advanced control systems, build and test prototype hardware in the lab, and collaborate with a larger team for flight hardware configurations",
-        "Specific duties may include assisting engineers with antenna modeling, RF System modeling and requirements development",
-        "The individual will work closely with systems and design engineers to identify key RF hardware requirements which meet mission needs and will construct models for simulation"
+        "In this role, you will conduct research and development efforts associated with antennas, radomes, frequency selective surface (FSS), and RF hardware integration"
       ]
     },
     "job_onet_soc": "17207200",
     "job_onet_job_zone": "4",
-    "id": "www-lockheedmartinjobs-com-job-orlando-rf-systems-engineer-sr-orlando-fl-694-91834500784",
+    "id": "www-learn4good-com-jobs-palmdale-california-engineering-4877794502-e",
     "_source": "new_jobs"
   }
 ]
