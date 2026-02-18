@@ -173,125 +173,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "ZB-1SrnizaRgXtyiAAAAAA==",
-    "job_title": "Electronics Hardware Engineer",
-    "employer_name": "GE Vernova",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpGN-UL04guDxaKDmitRLx-yMPrA7ZpK-y_SGX&s=0",
-    "employer_website": "https://www.gevernova.com",
-    "job_publisher": "GE Vernova Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.gevernova.com/electronics-hardware-engineer/job/R5030768?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "GE Vernova Careers",
-        "apply_link": "https://careers.gevernova.com/electronics-hardware-engineer/job/R5030768?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Workday",
-        "apply_link": "https://gevernova.wd5.myworkdayjobs.com/en-US/Vernova_ExternalSite/job/Electronics-Hardware-Engineer_R5030768?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=97ac53268189f5b5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/GE-Vernova/Job/Electronics-Hardware-Engineer/-in-Niskayuna,NY?jid=2bfdfa856469d934&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/electronics-hardware-engineer-ge-vernova-JV_IC1158881_KO0,29_KE30,40.htm?jl=1010022259269&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WIZBII Jobs",
-        "apply_link": "https://en.wizbii.com/company/general-electric/job/electronics-hardware-engineer-15?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Built In",
-        "apply_link": "https://builtin.com/job/electronics-hardware-engineer/8453167?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Description Summary\nAs an Electronics Hardware Engineer for GE Vernova Advanced Research, you will work with and support engineers in executing various power electronics related projects for GE Vernova applications. You need to be comfortable with designing and populating printed circuits, populating wiring enclosures, fabricating inductors, and designing fixtures for evaluation of power conversion systems. You will design and validate advanced embedded systems and power electronics hardware, working across FPGA, MCU, DSP platforms, as well as different types of power devices at wide range of power levels. The role requires strong electrical engineering fundamentals, hands-on lab skills, and experience with high-speed board design.\n\nJob Description\n\nRoles and Responsibilities\n• Design and commission power and signal interface circuits and corresponding printed circuit boards (PCB) for controllers and instrumentations applied in power conversion systems.\n• Perform schematic capture and PCB layout for complex embedded and power electronics boards.\n• Procure, fabricate, and assemble electrical and mechanical components, subsystems and complete system assembly of engineering prototypes for research programs.\n• Design fixtures, electrical and electronic subsystems, instrumentation, data acquisition, mechanical and thermal subsystems, which facilitate the evaluation of electrical systems intended for a wide variety of applications.\n• Perform signal integrity, power integrity, and EMI/EMC analysis for high-speed and mixed-signal designs.\n• Collaborate with firmware, mechanical, and systems teams for end-to-end hardware integration.\n• Develop and implement test procedures for electrical systems and document performance characteristics.\n• Troubleshoot and solve electrical and mechanical problems where objectives are clearly defined but course of action must be considered and determined.\n• Be responsible for the maintenance of standard laboratory equipment and facilities including calibration of instruments and monitoring devices.\n• Perform all work in accordance with EHS guidelines and compliance policies.\n\nQualifications/Requirements:\n• Bachelors or Master’s degree in electrical engineering or related field with a minimum of 5 years (for Masters) or 8 years (For Bachelors) of experience after graduation, with a primary focus in technology applied to power electronics and/or embedded systems.\n• 5+ years of experience in designing and commissioning electrical/electronic circuits and printed circuit board (PCB) layout applied in power conversion systems with considerations on signal fidelity, noise, EMI/EMS, and thermal management.\n• 5+ years of substantial experience in the design of test fixtures, including electrical, thermal, mechanical, and instrumentation technologies. Proficiency with lab validation tools (oscilloscopes, logic analyzers, power analyzers).\n• 5+ years of working knowledge of low, medium & high voltage electrical distribution\n• 5+ years of experience working knowledge of the electrical codes and standards that apply to large scale energy systems.\n• 3+ years of experience documentation of test setup, major procedures, findings/results\n• 3+ years of experience with preliminary data processing skills and using MS Excel and writing reports in MS Word\n\nDesired Characteristics:\n• Familiarity with:\n• Software like:\n• PCB Design: Altium Designer, OrCAD, Cadence Allegro, KiCad, Mentor Graphics (Expedition, PADS)\n• Simulation & Analysis: LTspice, PSpice, MATLAB/Simulink, ANSYS SIwave, Keysight ADS, HyperLynx, PLECS\n• FPGA/Embedded: Xilinx Vivado, Intel Quartus, ModelSim, ARM/Keil MDK, IAR Embedded Workbench\n• Collaboration: Git, SVN, Jira, Confluence\n• Hardware/Laboratory equipment like:\n• Oscilloscopes (high bandwidth), logic analyzers, spectrum/network analyzers\n• Power analyzers, electronic loads, SMUs, thermal cameras\n• JTAG debuggers, in-circuit emulators, boundary scan tools\n• Soldering/rework stations (including BGA rework), multimeters, function generators.\n• High-voltage probes, isolated measurement gear, double-pulse test setups\n• Demonstrated successful track record of completing tasks and deliverables on schedule and on budget.\n• Safety First mindset – proactively keeps an eye out for safety issues with initiative to stop work as needed.\n• Familiarity with Lockout Tagout (LOTO) Safety Programs and LOTO Compliance.\n\nEligibility Requirements\n• Legal authorization to work in the U.S. is required.\n• Due to the nature of the duties of this position, this role requires the individual to have a current or active Secret Clearance with an ability to attain a Top-Secret Clearance; prerequisite for a security clearance is U.S. citizenship.\n• Must be willing to work out of an office located in Niskayuna, NY.\n\nThis role requires access to U.S. export-controlled information. If applicable, final offers will be contingent on ability to obtain authorization for access to U.S. export-controlled information from the U.S. Government.\n\nAdditional Information\n\nGE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.\n\nGE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable).\n\nRelocation Assistance Provided: Yes\n\nFor candidates applying to a U.S. based position, the pay range for this position is between $89,300.00 and $148,700.00. The Company pays a geographic differential of 110%, 120% or 130% of salary in certain areas. The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set.\n\nBonus eligibility: ineligible.\n\nThis posting is expected to remain open for at least seven days after it was posted on February 03, 2026.\n\nAvailable benefits include medical, dental, vision, and prescription drug coverage; access to Health Coach from GE Vernova, a 24/7 nurse-based resource; and access to the Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral services. Retirement benefits include the GE Vernova Retirement Savings Plan, a tax-advantaged 401(k) savings opportunity with company matching contributions and company retirement contributions, as well as access to Fidelity resources and financial planning consultants. Other benefits include tuition assistance, adoption assistance, paid parental leave, disability benefits, life insurance, 12 paid holidays, and permissive time off.\n\nGE Vernova Inc. or its affiliates (collectively or individually, “GE Vernova”) sponsor certain employee benefit plans or programs GE Vernova reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a GE Vernova welfare benefit plan or program. This document does not create a contract of employment with any individual.",
-    "job_is_remote": false,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Niskayuna",
-    "job_city": "Niskayuna",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 42.8000049,
-    "job_longitude": -73.89144069999999,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZB-1SrnizaRgXtyiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "The role requires strong electrical engineering fundamentals, hands-on lab skills, and experience with high-speed board design",
-        "Bachelors or Master’s degree in electrical engineering or related field with a minimum of 5 years (for Masters) or 8 years (For Bachelors) of experience after graduation, with a primary focus in technology applied to power electronics and/or embedded systems",
-        "5+ years of experience in designing and commissioning electrical/electronic circuits and printed circuit board (PCB) layout applied in power conversion systems with considerations on signal fidelity, noise, EMI/EMS, and thermal management",
-        "5+ years of substantial experience in the design of test fixtures, including electrical, thermal, mechanical, and instrumentation technologies",
-        "Proficiency with lab validation tools (oscilloscopes, logic analyzers, power analyzers)",
-        "5+ years of working knowledge of low, medium & high voltage electrical distribution",
-        "5+ years of experience working knowledge of the electrical codes and standards that apply to large scale energy systems",
-        "3+ years of experience documentation of test setup, major procedures, findings/results",
-        "3+ years of experience with preliminary data processing skills and using MS Excel and writing reports in MS Word",
-        "Legal authorization to work in the U.S. is required",
-        "Due to the nature of the duties of this position, this role requires the individual to have a current or active Secret Clearance with an ability to attain a Top-Secret Clearance; prerequisite for a security clearance is U.S. citizenship",
-        "Must be willing to work out of an office located in Niskayuna, NY",
-        "This role requires access to U.S. export-controlled information"
-      ],
-      "Benefits": [
-        "For candidates applying to a U.S. based position, the pay range for this position is between $89,300.00 and $148,700.00",
-        "The Company pays a geographic differential of 110%, 120% or 130% of salary in certain areas",
-        "The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set",
-        "Available benefits include medical, dental, vision, and prescription drug coverage; access to Health Coach from GE Vernova, a 24/7 nurse-based resource; and access to the Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral services",
-        "Retirement benefits include the GE Vernova Retirement Savings Plan, a tax-advantaged 401(k) savings opportunity with company matching contributions and company retirement contributions, as well as access to Fidelity resources and financial planning consultants",
-        "Other benefits include tuition assistance, adoption assistance, paid parental leave, disability benefits, life insurance, 12 paid holidays, and permissive time off",
-        "GE Vernova Inc. or its affiliates (collectively or individually, “GE Vernova”) sponsor certain employee benefit plans or programs GE Vernova reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion"
-      ],
-      "Responsibilities": [
-        "As an Electronics Hardware Engineer for GE Vernova Advanced Research, you will work with and support engineers in executing various power electronics related projects for GE Vernova applications",
-        "You need to be comfortable with designing and populating printed circuits, populating wiring enclosures, fabricating inductors, and designing fixtures for evaluation of power conversion systems",
-        "You will design and validate advanced embedded systems and power electronics hardware, working across FPGA, MCU, DSP platforms, as well as different types of power devices at wide range of power levels",
-        "Design and commission power and signal interface circuits and corresponding printed circuit boards (PCB)",
-        "for controllers and instrumentations applied in power conversion systems",
-        "Perform schematic capture and PCB layout for complex embedded and power electronics boards",
-        "Procure, fabricate, and assemble electrical and mechanical components, subsystems and complete system assembly of engineering prototypes for research programs",
-        "Design fixtures, electrical and electronic subsystems, instrumentation, data acquisition, mechanical and thermal subsystems, which facilitate the evaluation of electrical systems intended for a wide variety of applications",
-        "Perform signal integrity, power integrity, and EMI/EMC analysis for high-speed and mixed-signal designs",
-        "Collaborate with firmware, mechanical, and systems teams for end-to-end hardware integration",
-        "Develop and implement test procedures for electrical systems and document performance characteristics",
-        "Troubleshoot and solve electrical and mechanical problems where objectives are clearly defined but course of action must be considered and determined",
-        "Be responsible for the maintenance of standard laboratory equipment and facilities including calibration of instruments and monitoring devices",
-        "Perform all work in accordance with EHS guidelines and compliance policies",
-        "Soldering/rework stations (including BGA rework), multimeters, function generators"
-      ]
-    },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "careers-gevernova-com-electronics-hardware-engineer-job-r5030768",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "QggqHr8t0Qh-bHSJAAAAAA==",
     "job_title": "Digital Hardware Engineer",
     "employer_name": "BAE Systems",
@@ -402,6 +283,125 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "ZB-1SrnizaRgXtyiAAAAAA==",
+    "job_title": "Electronics Hardware Engineer",
+    "employer_name": "GE Vernova",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpGN-UL04guDxaKDmitRLx-yMPrA7ZpK-y_SGX&s=0",
+    "employer_website": "https://www.gevernova.com",
+    "job_publisher": "GE Vernova Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.gevernova.com/electronics-hardware-engineer/job/R5030768?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "GE Vernova Careers",
+        "apply_link": "https://careers.gevernova.com/electronics-hardware-engineer/job/R5030768?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Workday",
+        "apply_link": "https://gevernova.wd5.myworkdayjobs.com/en-US/Vernova_ExternalSite/job/Electronics-Hardware-Engineer_R5030768?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=97ac53268189f5b5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/GE-Vernova/Job/Electronics-Hardware-Engineer/-in-Niskayuna,NY?jid=2bfdfa856469d934&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/electronics-hardware-engineer-ge-vernova-JV_IC1158881_KO0,29_KE30,40.htm?jl=1010022259269&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WIZBII Jobs",
+        "apply_link": "https://en.wizbii.com/company/general-electric/job/electronics-hardware-engineer-15?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Built In",
+        "apply_link": "https://builtin.com/job/electronics-hardware-engineer/8453167?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Description Summary\nAs an Electronics Hardware Engineer for GE Vernova Advanced Research, you will work with and support engineers in executing various power electronics related projects for GE Vernova applications. You need to be comfortable with designing and populating printed circuits, populating wiring enclosures, fabricating inductors, and designing fixtures for evaluation of power conversion systems. You will design and validate advanced embedded systems and power electronics hardware, working across FPGA, MCU, DSP platforms, as well as different types of power devices at wide range of power levels. The role requires strong electrical engineering fundamentals, hands-on lab skills, and experience with high-speed board design.\n\nJob Description\n\nRoles and Responsibilities\n• Design and commission power and signal interface circuits and corresponding printed circuit boards (PCB) for controllers and instrumentations applied in power conversion systems.\n• Perform schematic capture and PCB layout for complex embedded and power electronics boards.\n• Procure, fabricate, and assemble electrical and mechanical components, subsystems and complete system assembly of engineering prototypes for research programs.\n• Design fixtures, electrical and electronic subsystems, instrumentation, data acquisition, mechanical and thermal subsystems, which facilitate the evaluation of electrical systems intended for a wide variety of applications.\n• Perform signal integrity, power integrity, and EMI/EMC analysis for high-speed and mixed-signal designs.\n• Collaborate with firmware, mechanical, and systems teams for end-to-end hardware integration.\n• Develop and implement test procedures for electrical systems and document performance characteristics.\n• Troubleshoot and solve electrical and mechanical problems where objectives are clearly defined but course of action must be considered and determined.\n• Be responsible for the maintenance of standard laboratory equipment and facilities including calibration of instruments and monitoring devices.\n• Perform all work in accordance with EHS guidelines and compliance policies.\n\nQualifications/Requirements:\n• Bachelors or Master’s degree in electrical engineering or related field with a minimum of 5 years (for Masters) or 8 years (For Bachelors) of experience after graduation, with a primary focus in technology applied to power electronics and/or embedded systems.\n• 5+ years of experience in designing and commissioning electrical/electronic circuits and printed circuit board (PCB) layout applied in power conversion systems with considerations on signal fidelity, noise, EMI/EMS, and thermal management.\n• 5+ years of substantial experience in the design of test fixtures, including electrical, thermal, mechanical, and instrumentation technologies. Proficiency with lab validation tools (oscilloscopes, logic analyzers, power analyzers).\n• 5+ years of working knowledge of low, medium & high voltage electrical distribution\n• 5+ years of experience working knowledge of the electrical codes and standards that apply to large scale energy systems.\n• 3+ years of experience documentation of test setup, major procedures, findings/results\n• 3+ years of experience with preliminary data processing skills and using MS Excel and writing reports in MS Word\n\nDesired Characteristics:\n• Familiarity with:\n• Software like:\n• PCB Design: Altium Designer, OrCAD, Cadence Allegro, KiCad, Mentor Graphics (Expedition, PADS)\n• Simulation & Analysis: LTspice, PSpice, MATLAB/Simulink, ANSYS SIwave, Keysight ADS, HyperLynx, PLECS\n• FPGA/Embedded: Xilinx Vivado, Intel Quartus, ModelSim, ARM/Keil MDK, IAR Embedded Workbench\n• Collaboration: Git, SVN, Jira, Confluence\n• Hardware/Laboratory equipment like:\n• Oscilloscopes (high bandwidth), logic analyzers, spectrum/network analyzers\n• Power analyzers, electronic loads, SMUs, thermal cameras\n• JTAG debuggers, in-circuit emulators, boundary scan tools\n• Soldering/rework stations (including BGA rework), multimeters, function generators.\n• High-voltage probes, isolated measurement gear, double-pulse test setups\n• Demonstrated successful track record of completing tasks and deliverables on schedule and on budget.\n• Safety First mindset – proactively keeps an eye out for safety issues with initiative to stop work as needed.\n• Familiarity with Lockout Tagout (LOTO) Safety Programs and LOTO Compliance.\n\nEligibility Requirements\n• Legal authorization to work in the U.S. is required.\n• Due to the nature of the duties of this position, this role requires the individual to have a current or active Secret Clearance with an ability to attain a Top-Secret Clearance; prerequisite for a security clearance is U.S. citizenship.\n• Must be willing to work out of an office located in Niskayuna, NY.\n\nThis role requires access to U.S. export-controlled information. If applicable, final offers will be contingent on ability to obtain authorization for access to U.S. export-controlled information from the U.S. Government.\n\nAdditional Information\n\nGE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.\n\nGE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable).\n\nRelocation Assistance Provided: Yes\n\nFor candidates applying to a U.S. based position, the pay range for this position is between $89,300.00 and $148,700.00. The Company pays a geographic differential of 110%, 120% or 130% of salary in certain areas. The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set.\n\nBonus eligibility: ineligible.\n\nThis posting is expected to remain open for at least seven days after it was posted on February 03, 2026.\n\nAvailable benefits include medical, dental, vision, and prescription drug coverage; access to Health Coach from GE Vernova, a 24/7 nurse-based resource; and access to the Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral services. Retirement benefits include the GE Vernova Retirement Savings Plan, a tax-advantaged 401(k) savings opportunity with company matching contributions and company retirement contributions, as well as access to Fidelity resources and financial planning consultants. Other benefits include tuition assistance, adoption assistance, paid parental leave, disability benefits, life insurance, 12 paid holidays, and permissive time off.\n\nGE Vernova Inc. or its affiliates (collectively or individually, “GE Vernova”) sponsor certain employee benefit plans or programs GE Vernova reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a GE Vernova welfare benefit plan or program. This document does not create a contract of employment with any individual.",
+    "job_is_remote": false,
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Niskayuna",
+    "job_city": "Niskayuna",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 42.8000049,
+    "job_longitude": -73.89144069999999,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZB-1SrnizaRgXtyiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The role requires strong electrical engineering fundamentals, hands-on lab skills, and experience with high-speed board design",
+        "Bachelors or Master’s degree in electrical engineering or related field with a minimum of 5 years (for Masters) or 8 years (For Bachelors) of experience after graduation, with a primary focus in technology applied to power electronics and/or embedded systems",
+        "5+ years of experience in designing and commissioning electrical/electronic circuits and printed circuit board (PCB) layout applied in power conversion systems with considerations on signal fidelity, noise, EMI/EMS, and thermal management",
+        "5+ years of substantial experience in the design of test fixtures, including electrical, thermal, mechanical, and instrumentation technologies",
+        "Proficiency with lab validation tools (oscilloscopes, logic analyzers, power analyzers)",
+        "5+ years of working knowledge of low, medium & high voltage electrical distribution",
+        "5+ years of experience working knowledge of the electrical codes and standards that apply to large scale energy systems",
+        "3+ years of experience documentation of test setup, major procedures, findings/results",
+        "3+ years of experience with preliminary data processing skills and using MS Excel and writing reports in MS Word",
+        "Legal authorization to work in the U.S. is required",
+        "Due to the nature of the duties of this position, this role requires the individual to have a current or active Secret Clearance with an ability to attain a Top-Secret Clearance; prerequisite for a security clearance is U.S. citizenship",
+        "Must be willing to work out of an office located in Niskayuna, NY",
+        "This role requires access to U.S. export-controlled information"
+      ],
+      "Benefits": [
+        "For candidates applying to a U.S. based position, the pay range for this position is between $89,300.00 and $148,700.00",
+        "The Company pays a geographic differential of 110%, 120% or 130% of salary in certain areas",
+        "The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set",
+        "Available benefits include medical, dental, vision, and prescription drug coverage; access to Health Coach from GE Vernova, a 24/7 nurse-based resource; and access to the Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral services",
+        "Retirement benefits include the GE Vernova Retirement Savings Plan, a tax-advantaged 401(k) savings opportunity with company matching contributions and company retirement contributions, as well as access to Fidelity resources and financial planning consultants",
+        "Other benefits include tuition assistance, adoption assistance, paid parental leave, disability benefits, life insurance, 12 paid holidays, and permissive time off",
+        "GE Vernova Inc. or its affiliates (collectively or individually, “GE Vernova”) sponsor certain employee benefit plans or programs GE Vernova reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion"
+      ],
+      "Responsibilities": [
+        "As an Electronics Hardware Engineer for GE Vernova Advanced Research, you will work with and support engineers in executing various power electronics related projects for GE Vernova applications",
+        "You need to be comfortable with designing and populating printed circuits, populating wiring enclosures, fabricating inductors, and designing fixtures for evaluation of power conversion systems",
+        "You will design and validate advanced embedded systems and power electronics hardware, working across FPGA, MCU, DSP platforms, as well as different types of power devices at wide range of power levels",
+        "Design and commission power and signal interface circuits and corresponding printed circuit boards (PCB)",
+        "for controllers and instrumentations applied in power conversion systems",
+        "Perform schematic capture and PCB layout for complex embedded and power electronics boards",
+        "Procure, fabricate, and assemble electrical and mechanical components, subsystems and complete system assembly of engineering prototypes for research programs",
+        "Design fixtures, electrical and electronic subsystems, instrumentation, data acquisition, mechanical and thermal subsystems, which facilitate the evaluation of electrical systems intended for a wide variety of applications",
+        "Perform signal integrity, power integrity, and EMI/EMC analysis for high-speed and mixed-signal designs",
+        "Collaborate with firmware, mechanical, and systems teams for end-to-end hardware integration",
+        "Develop and implement test procedures for electrical systems and document performance characteristics",
+        "Troubleshoot and solve electrical and mechanical problems where objectives are clearly defined but course of action must be considered and determined",
+        "Be responsible for the maintenance of standard laboratory equipment and facilities including calibration of instruments and monitoring devices",
+        "Perform all work in accordance with EHS guidelines and compliance policies",
+        "Soldering/rework stations (including BGA rework), multimeters, function generators"
+      ]
+    },
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "careers-gevernova-com-electronics-hardware-engineer-job-r5030768",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "IXxi4suvwRo1-twtAAAAAA==",
     "job_title": "Principal Hardware Design Engineer (Onsite)",
     "employer_name": "RTX",
@@ -463,9 +463,9 @@
     "job_latitude": 41.9778795,
     "job_longitude": -91.6656232,
     "job_benefits": [
-      "health_insurance",
       "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIXxi4suvwRo1-twtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -610,114 +610,6 @@
     "job_onet_soc": "17206100",
     "job_onet_job_zone": "4",
     "id": "www-linkedin-com-jobs-view-senior-embedded-fpga-design-engineer-at-blt-the-fpga-experts-4370145831",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "kQImm6qaplaz_3W1AAAAAA==",
-    "job_title": "FPGA Design Engineer -- Early-Career",
-    "employer_name": "Lockheed Martin",
-    "employer_logo": null,
-    "employer_website": "https://www.lockheedmartin.com",
-    "job_publisher": "Lockheed Martin Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.lockheedmartinjobs.com/job/colorado/fpga-design-engineer-early-career/694/91440228000?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Lockheed Martin Careers",
-        "apply_link": "https://www.lockheedmartinjobs.com/job/colorado/fpga-design-engineer-early-career/694/91440228000?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/fpga-design-engineer-early-career-lockheed-martin-JV_IC1164304_KO0,33_KE34,49.htm?jl=1010026337872&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=99a34ab5f76a3380&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/2b41b006-14da-405f-9d43-1176eafb7340?q=Satellite&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/UIx5t_9agSQXs5aHyoRh1w1Hj3agAzHMzF5fUgdpaVZvEvASowkU1Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JSfirm.com",
-        "apply_link": "https://www.jsfirm.com/job/Engineering-FPGA-Design-Engineer----Early-Career/Highlands+Ranch-Colorado/jobID_1850004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/electrical-design?id=2452056130&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Description:By bringing together people that use their\npassion for purposeful innovation, at\nLockheed Martin we keep people safe and\nsolve the world's most complex challenges.\nOur people are some of the greatest minds\nin the industry and truly make Lockheed\nMartin a great place to work.\n\nWith our employees as our priority, we\nprovide diverse career opportunities\ndesigned to propel development and boost\nagility. Our flexible schedules, competitive\npay, and comprehensive benefits enable\nour employees to live a healthy, fulfilling\nlife at and outside of work.\n\nAt Lockheed Martin, we place an emphasis\non empowering our employees by\nfostering innovation, integrity, and\nexemplifying the epitome of corporate\nresponsibility.\n\nYour Mission is Ours.\n\nThe Silicon Solutions team of Lockheed Martin Space is building the best ASIC/FPGA team in the world, and are seeking a highly talented and motivated ASIC & FPGA Engineers who has a passion for microchip design and space.\n\nJoin Our Team as an ASIC & FPGA Design Engineer where you will support over 50 different programs and research and development (R&D) efforts, affecting technology across military space, civil space, commercial space, missiles, missile defense platforms, satellite surveillance platforms, deep space exploration, and manned flight missions.\nBasic Qualifications:\nBachelor of Science or higher from an accredited college in Electrical Engineering or related discipline, from an accredited school.\nExperience or coursework in the design of FPGA and/or ASIC devices.\nHDL programming experience with VHDL, Verilog, and/or SystemVerilog.\nWilling and able to obtain and maintain a DoD Secret clearance, thus US Citizenship is required for this position.\nDesired Skills:\nExperience or coursework in the design of FPGA and/or ASIC devices.\nExperience in ASIC / FPGA life cycle (architecture, design, simulation, verification, validation, integration & test).\nKnowledge of digital design, development, and simulation.\nSecurity Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration.\nClearance Level: Secret\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 9x80 every other Friday off\nPay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $68,000 - $119,830. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\n(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.\nThis position is incentive plan eligible.\nLockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nAt Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.\n\nWith our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.\n\nIf this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.\nExperience Level: 4 yr and up College\nBusiness Unit: SPACE\nRelocation Available: Possible\nCareer Area: Electrical Engineering\nType: Full-Time\nShift: First",
-    "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770336000,
-    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "Highlands Ranch, CO",
-    "job_city": "Highlands Ranch",
-    "job_state": "Colorado",
-    "job_country": "US",
-    "job_latitude": 39.5480789,
-    "job_longitude": -104.9739333,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkQImm6qaplaz_3W1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor of Science or higher from an accredited college in Electrical Engineering or related discipline, from an accredited school",
-        "Experience or coursework in the design of FPGA and/or ASIC devices",
-        "HDL programming experience with VHDL, Verilog, and/or SystemVerilog",
-        "Willing and able to obtain and maintain a DoD Secret clearance, thus US Citizenship is required for this position",
-        "Experience or coursework in the design of FPGA and/or ASIC devices",
-        "Experience in ASIC / FPGA life cycle (architecture, design, simulation, verification, validation, integration & test)",
-        "Knowledge of digital design, development, and simulation",
-        "Security Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration",
-        "Experience Level: 4 yr and up College"
-      ],
-      "Benefits": [
-        "Our flexible schedules, competitive",
-        "pay, and comprehensive benefits enable",
-        "our employees to live a healthy, fulfilling",
-        "Schedules range from standard 40 hours over a five day work week while others may be condensed",
-        "These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits",
-        "Schedule for this Position: 9x80 every other Friday off",
-        "Pay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $68,000 - $119,830",
-        "Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays",
-        "(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays",
-        "Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays",
-        "PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year",
-        "This position is incentive plan eligible",
-        "Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work",
-        "Relocation Available: Possible"
-      ],
-      "Responsibilities": [
-        "designed to propel development and boost"
-      ]
-    },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "www-lockheedmartinjobs-com-job-colorado-fpga-design-engineer-early-career-694-91440228000",
     "_source": "new_jobs"
   },
   {
@@ -1020,6 +912,114 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "kQImm6qaplaz_3W1AAAAAA==",
+    "job_title": "FPGA Design Engineer -- Early-Career",
+    "employer_name": "Lockheed Martin",
+    "employer_logo": null,
+    "employer_website": "https://www.lockheedmartin.com",
+    "job_publisher": "Lockheed Martin Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.lockheedmartinjobs.com/job/colorado/fpga-design-engineer-early-career/694/91440228000?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Lockheed Martin Careers",
+        "apply_link": "https://www.lockheedmartinjobs.com/job/colorado/fpga-design-engineer-early-career/694/91440228000?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/fpga-design-engineer-early-career-lockheed-martin-JV_IC1164304_KO0,33_KE34,49.htm?jl=1010026337872&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=99a34ab5f76a3380&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/2b41b006-14da-405f-9d43-1176eafb7340?q=Satellite&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/UIx5t_9agSQXs5aHyoRh1w1Hj3agAzHMzF5fUgdpaVZvEvASowkU1Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JSfirm.com",
+        "apply_link": "https://www.jsfirm.com/job/Engineering-FPGA-Design-Engineer----Early-Career/Highlands+Ranch-Colorado/jobID_1850004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/electrical-design?id=2452056130&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Description:By bringing together people that use their\npassion for purposeful innovation, at\nLockheed Martin we keep people safe and\nsolve the world's most complex challenges.\nOur people are some of the greatest minds\nin the industry and truly make Lockheed\nMartin a great place to work.\n\nWith our employees as our priority, we\nprovide diverse career opportunities\ndesigned to propel development and boost\nagility. Our flexible schedules, competitive\npay, and comprehensive benefits enable\nour employees to live a healthy, fulfilling\nlife at and outside of work.\n\nAt Lockheed Martin, we place an emphasis\non empowering our employees by\nfostering innovation, integrity, and\nexemplifying the epitome of corporate\nresponsibility.\n\nYour Mission is Ours.\n\nThe Silicon Solutions team of Lockheed Martin Space is building the best ASIC/FPGA team in the world, and are seeking a highly talented and motivated ASIC & FPGA Engineers who has a passion for microchip design and space.\n\nJoin Our Team as an ASIC & FPGA Design Engineer where you will support over 50 different programs and research and development (R&D) efforts, affecting technology across military space, civil space, commercial space, missiles, missile defense platforms, satellite surveillance platforms, deep space exploration, and manned flight missions.\nBasic Qualifications:\nBachelor of Science or higher from an accredited college in Electrical Engineering or related discipline, from an accredited school.\nExperience or coursework in the design of FPGA and/or ASIC devices.\nHDL programming experience with VHDL, Verilog, and/or SystemVerilog.\nWilling and able to obtain and maintain a DoD Secret clearance, thus US Citizenship is required for this position.\nDesired Skills:\nExperience or coursework in the design of FPGA and/or ASIC devices.\nExperience in ASIC / FPGA life cycle (architecture, design, simulation, verification, validation, integration & test).\nKnowledge of digital design, development, and simulation.\nSecurity Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration.\nClearance Level: Secret\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 9x80 every other Friday off\nPay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $68,000 - $119,830. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\n(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.\nThis position is incentive plan eligible.\nLockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nAt Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.\n\nWith our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.\n\nIf this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.\nExperience Level: 4 yr and up College\nBusiness Unit: SPACE\nRelocation Available: Possible\nCareer Area: Electrical Engineering\nType: Full-Time\nShift: First",
+    "job_is_remote": false,
+    "job_posted_at": "12 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "Highlands Ranch, CO",
+    "job_city": "Highlands Ranch",
+    "job_state": "Colorado",
+    "job_country": "US",
+    "job_latitude": 39.5480789,
+    "job_longitude": -104.9739333,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkQImm6qaplaz_3W1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor of Science or higher from an accredited college in Electrical Engineering or related discipline, from an accredited school",
+        "Experience or coursework in the design of FPGA and/or ASIC devices",
+        "HDL programming experience with VHDL, Verilog, and/or SystemVerilog",
+        "Willing and able to obtain and maintain a DoD Secret clearance, thus US Citizenship is required for this position",
+        "Experience or coursework in the design of FPGA and/or ASIC devices",
+        "Experience in ASIC / FPGA life cycle (architecture, design, simulation, verification, validation, integration & test)",
+        "Knowledge of digital design, development, and simulation",
+        "Security Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration",
+        "Experience Level: 4 yr and up College"
+      ],
+      "Benefits": [
+        "Our flexible schedules, competitive",
+        "pay, and comprehensive benefits enable",
+        "our employees to live a healthy, fulfilling",
+        "Schedules range from standard 40 hours over a five day work week while others may be condensed",
+        "These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits",
+        "Schedule for this Position: 9x80 every other Friday off",
+        "Pay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $68,000 - $119,830",
+        "Benefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays",
+        "(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays",
+        "Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays",
+        "PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year",
+        "This position is incentive plan eligible",
+        "Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work",
+        "Relocation Available: Possible"
+      ],
+      "Responsibilities": [
+        "designed to propel development and boost"
+      ]
+    },
+    "job_onet_soc": "17206100",
+    "job_onet_job_zone": "4",
+    "id": "www-lockheedmartinjobs-com-job-colorado-fpga-design-engineer-early-career-694-91440228000",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "4mBiUiZa0WX-pXy1AAAAAA==",
     "job_title": "Sr. Electrical Hardware Design Engineer (Onsite)",
     "employer_name": "RTX",
@@ -1081,9 +1081,9 @@
     "job_latitude": 33.919179899999996,
     "job_longitude": -118.41646519999999,
     "job_benefits": [
+      "health_insurance",
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4mBiUiZa0WX-pXy1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1386,8 +1386,8 @@
     "job_latitude": 42.376435799999996,
     "job_longitude": -71.23575009999999,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D6Wm5qKjiKFliiFFEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 132000,
@@ -1611,118 +1611,6 @@
     "job_onet_soc": "17207100",
     "job_onet_job_zone": "4",
     "id": "lensa-com-job-v1-gpac-oconomowoc-wi-electrical-hardware-engineer-071cb4759c658dcff010c1fe4647d7ce",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "W4Qs2etTRQV6lT9SAAAAAA==",
-    "job_title": "Hardware Engineer",
-    "employer_name": "Actalent",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoSxJxYbmxN-G4xrVO8ggcCMX6SQ5wNhxEPnb&s=0",
-    "employer_website": "https://www.actalentservices.com",
-    "job_publisher": "Actalent Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.actalentservices.com/us/en/job/JP-005838400/Hardware-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Actalent Careers",
-        "apply_link": "https://careers.actalentservices.com/us/en/job/JP-005838400/Hardware-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Randstad USA",
-        "apply_link": "https://www.randstadusa.com/jobs/141/1106618/pcb-hardware-engineer_houston/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=9255afcd592fa678&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "CATS",
-        "apply_link": "https://vertucom.catsone.com/careers/65909-Associates-Systems-LLC/jobs/16727653-Mechancial-Hardware-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/AVTC-Group/Job/Mechancial-Hardware-Engineer/-in-Houston,TX?jid=d3567b303402fda9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Women In Tech Jobs - WeAreTechWomen",
-        "apply_link": "https://jobs.wearetechwomen.com/jobs/229425298-hpc-hardware-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/hpc-hardware-engineer-cgg-JV_IC1140171_KO0,21_KE22,25.htm?jl=1010011449328&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobs",
-        "apply_link": "https://jobs.ashbyhq.com/homebase/cd6cdd4d-cd44-49d9-a44f-ddf92c57926f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "I'm currently hiring for Hardware Engineer opportunity in Houston, TX!\n\nStep into a role where your engineering expertise helps power the next generation of aerospace and high‑technology energy systems. As a Hardware Engineer, you'll work hands‑on with cutting‑edge batteries and high‑performance products used across some of the most demanding industries in the world.\n\nThis is an opportunity to design, build, and validate mission‑critical hardware that keeps modern technology moving. If you love solving complex problems, pushing innovation, and seeing your designs come to life—you’ll thrive here.\n✨ What You’ll Do\n• Engineer next‑generation aerospace & high‑tech battery systems for industrial and advanced applications.\n• Design high‑performance hardware architectures that meet rigorous technical demands and environmental conditions.\n• Own the full lifecycle of hardware development—from concept, circuit design, and PCB layout to hands‑on testing and validation.\n• Bring your precision craft to the bench, performing soldering, assembly, and modifications to prototype and production hardware.\n• Collaborate across multidisciplinary engineering teams to ensure seamless system‑level integration.\n• Innovate and troubleshoot hardware designs to enhance reliability, efficiency, and manufacturability.\n\n🧩 What You Bring\n• 5 years of experience in hardware engineering, electronics, circuit design, or related fields.\n• Experience designing high‑technology batteries and battery management systems.\n• Strong PCB layout and schematic design capability.\n• Hands‑on expertise in circuit analysis, hardware bring‑up, and testing procedures.\n• Bachelor’s degree in Aerospace, Electrical, Electronics, or Mechanical Engineering.\n• Ability to work confidently in the lab, from test equipment use to precision soldering.\nJob Type & Location\n\nThis is a Permanent position based out of Houston, TX.\nPay and Benefits\n\nThe pay range for this position is $35.00 - $55.00/hr.\n\nEligibility requirements apply to some benefits and may depend on your job\nclassification and length of employment. Benefits are subject to change and may be\nsubject to specific elections, plan, or program terms. If eligible, the benefits\navailable for this temporary role may include the following:\n\n• Medical, dental & vision\n• Critical Illness, Accident, and Hospital\n• 401(k) Retirement Plan – Pre-tax and Roth post-tax contributions available\n• Life Insurance (Voluntary Life & AD&D for the employee and dependents)\n• Short and long-term disability\n• Health Spending Account (HSA)\n• Transportation benefits\n• Employee Assistance Program\n• Time Off/Leave (PTO, Vacation or Sick Leave)\nWorkplace Type\n\nThis is a fully onsite position in Houston,TX.\nApplication Deadline\n\nThis position is anticipated to close on Mar 3, 2026.\nAbout Actalent\n\nActalent is a global leader in engineering and sciences services and talent solutions. We help visionary companies advance their engineering and science initiatives through access to specialized experts who drive scale, innovation and speed to market. With a network of almost 30,000 consultants and more than 4,500 clients across the U.S., Canada, Asia and Europe, Actalent serves many of the Fortune 500.\n\nThe company is an equal opportunity employer and will consider all applications without regard to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.\n\nIf you would like to request a reasonable accommodation, such as the modification or adjustment of the job application process or interviewing due to a disability, please email actalentaccommodation@actalentservices.com for other accommodation options.",
-    "job_is_remote": false,
-    "job_posted_at": "1 day ago",
-    "job_posted_at_timestamp": 1771286400,
-    "job_posted_at_datetime_utc": "2026-02-17T00:00:00.000Z",
-    "job_location": "Houston, TX",
-    "job_city": "Houston",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 29.7600771,
-    "job_longitude": -95.37011079999999,
-    "job_benefits": [
-      "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DW4Qs2etTRQV6lT9SAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 35,
-    "job_max_salary": 55,
-    "job_salary_period": "HOUR",
-    "job_highlights": {
-      "Qualifications": [
-        "5 years of experience in hardware engineering, electronics, circuit design, or related fields",
-        "Experience designing high‑technology batteries and battery management systems",
-        "Strong PCB layout and schematic design capability",
-        "Hands‑on expertise in circuit analysis, hardware bring‑up, and testing procedures",
-        "Bachelor’s degree in Aerospace, Electrical, Electronics, or Mechanical Engineering",
-        "Ability to work confidently in the lab, from test equipment use to precision soldering"
-      ],
-      "Benefits": [
-        "The pay range for this position is $35.00 - $55.00/hr",
-        "subject to specific elections, plan, or program terms",
-        "Medical, dental & vision",
-        "Critical Illness, Accident, and Hospital",
-        "401(k) Retirement Plan – Pre-tax and Roth post-tax contributions available",
-        "Life Insurance (Voluntary Life & AD&D for the employee and dependents)",
-        "Short and long-term disability",
-        "Health Spending Account (HSA)",
-        "Transportation benefits",
-        "Employee Assistance Program",
-        "Time Off/Leave (PTO, Vacation or Sick Leave)"
-      ],
-      "Responsibilities": [
-        "Step into a role where your engineering expertise helps power the next generation of aerospace and high‑technology energy systems",
-        "Engineer next‑generation aerospace & high‑tech battery systems for industrial and advanced applications",
-        "Design high‑performance hardware architectures that meet rigorous technical demands and environmental conditions",
-        "Own the full lifecycle of hardware development—from concept, circuit design, and PCB layout to hands‑on testing and validation",
-        "Bring your precision craft to the bench, performing soldering, assembly, and modifications to prototype and production hardware",
-        "Collaborate across multidisciplinary engineering teams to ensure seamless system‑level integration",
-        "Innovate and troubleshoot hardware designs to enhance reliability, efficiency, and manufacturability"
-      ]
-    },
-    "job_onet_soc": "17206100",
-    "job_onet_job_zone": "4",
-    "id": "careers-actalentservices-com-us-en-job-jp-005838400-hardware-engineer",
     "_source": "new_jobs"
   }
 ]
