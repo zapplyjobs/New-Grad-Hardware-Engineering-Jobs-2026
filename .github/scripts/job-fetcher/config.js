@@ -22,8 +22,8 @@ module.exports = {
   tagline: '',  // No tagline for SEO repos
 
   // Description paragraphs (with template variables)
-  descriptionLine1: '🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from {totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with {currentJobs}+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.',
-  descriptionLine2: '🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.',
+  descriptionLine1: '🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from {totalCompanies}+ top companies like Samsara and Verkada. Updated every 15 minutes with {currentJobs}+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.',
+  descriptionLine2: '🎯 Includes roles across tech hardware companies, defense contractors, and engineering-first startups like Samsara and Verkada.',
 
   // Note box
   noteType: 'TIP',
