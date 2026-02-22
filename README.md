@@ -18,9 +18,9 @@
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 0+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 0+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 0+ top companies like Samsara and Verkada. Updated every 15 minutes with 0+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
-<p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
+<p align="center">🎯 Includes roles across tech hardware companies, defense contractors, and engineering-first startups like Samsara and Verkada.</p>
 
 > [!TIP]
 > 🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md).
@@ -66,7 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 ## Fresh Hardware Engineering Jobs 2026
 
-<img src="images/hej-listings.png" alt="Fresh 2026 job listings (under 14 days).">
+<img src="images/hej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -92,6 +92,8 @@ Check out our other repos for jobs and free resources:
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Nursing-Jobs-2026"><img src="images/repo-nsj.png" alt="Nursing Jobs" height="40"></a>
   &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/Remote-Jobs-2026"><img src="images/repo-rmj.png" alt="Remote Jobs" height="40"></a>
+  &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/resume-samples-2026"><img src="images/repo-rss.png" alt="Resume Samples" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/interview-handbook-2026"><img src="images/repo-ihb.png" alt="Interview Handbook" height="40"></a>
@@ -113,11 +115,11 @@ Check out our other repos for jobs and free resources:
 Add new jobs to our listings keeping in mind the following:
 
 - Located in the US.
-- Openings are currently accepting applications and not older than 14 days.
+- Openings are currently accepting applications and not older than 1 week.
 - Create a new issue to submit different job positions.
 - Update a job by submitting an issue with the job URL and required changes.
 
-Jobs are added automatically by our pipeline every 15 minutes.
+Our team reviews within 24-48 hours and approved jobs are added to the main list!
 
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
