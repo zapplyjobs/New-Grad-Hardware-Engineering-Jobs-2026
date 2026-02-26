@@ -9,9 +9,9 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-183-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)
-![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-159-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-186-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
+![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-162-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/hej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>⚡ <strong>Hardware Engineer</strong> (159 positions)</h3></summary>
+<summary><h3>⚡ <strong>Hardware Engineer</strong> (162 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -82,8 +82,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Electrical Engineer, Intelligence Systems | Reston | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4591126007?gh_jid=4591126007) |
 | 🏢 **Anduril** | Electro-Mechanical Engineer,  R&D | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4924593007?gh_jid=4924593007) |
 | 🏢 **Anduril** | Mechanical Engineer | Huntsville | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5011389007?gh_jid=5011389007) |
-| 🏢 **Anduril** | Mechanical Engineer | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4797917007?gh_jid=4797917007) |
 | 🏢 **Anduril** | Mechanical Engineer | Atlanta | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4945740007?gh_jid=4945740007) |
+| 🏢 **Anduril** | Mechanical Engineer | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4797917007?gh_jid=4797917007) |
 | 🏢 **Anduril** | Mechanical Engineer, Advanced Effects | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4788667007?gh_jid=4788667007) |
 | 🏢 **Anduril** | Mechanical Engineer, Connected Warfare  | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4649261007?gh_jid=4649261007) |
 | 🏢 **Anduril** | Mechanical Engineer, Drones | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5010190007?gh_jid=5010190007) |
@@ -96,11 +96,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Mechatronics Engineer, FW/MCUs/Controls | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4833640007?gh_jid=4833640007) |
 | 🏢 **Anduril** | PCB Engineer | Broomfield | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030375007?gh_jid=5030375007) |
 | 🏢 **Anduril** | Radar Electro-Mechanical Engineer | Fort Collins | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051373007?gh_jid=5051373007) |
-| 🏢 **Anduril** | Robotics Engineer, Maritime | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051580007?gh_jid=5051580007) |
 | 🏢 **Anduril** | Robotics Engineer, Maritime | Quincy | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5047315007?gh_jid=5047315007) |
-| 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy 🏠 | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4673939007?gh_jid=4673939007) |
+| 🏢 **Anduril** | Robotics Engineer, Maritime | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051580007?gh_jid=5051580007) |
 | 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy 🏠 | Seattle | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4674090007?gh_jid=4674090007) |
 | 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy 🏠 | Boston | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4674091007?gh_jid=4674091007) |
+| 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy 🏠 | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4673939007?gh_jid=4673939007) |
 | 🏢 **Anduril** | Robotics Software Engineer, GNSS Denied Sensor Integration  | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030281007?gh_jid=5030281007) |
 | 🏢 **Anduril** | Robotics Software Engineer, Path Planning  | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030896007?gh_jid=5030896007) |
 | 🏢 **Anduril** | Robotics Software Engineer, Vehicle Software 🏠 | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4672892007?gh_jid=4672892007) |
@@ -110,6 +110,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Verkada** | Hardware Engineer, New Grad 2025 | San Mateo, CA | 19h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5036396007) |
 | 🏢 **SpaceX** | Mechanical Engineer, Starship Launch Infrastructure (Gigabay) | Cape Canaveral, FL | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8169934002?gh_jid=8169934002) |
 | 🏢 **SpaceX** | Electrical Engineer, Power Systems (Starlink) 🏠 | Bastrop, TX | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8436568002?gh_jid=8436568002) |
+| 🏢 **Lockheed Martin** | RF Engineer ( Electrical Engineer ) 🇺🇸 🏠 | Owego | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.lockheedmartinjobs.com/job/owego/rf-engineer-electrical-engineer/694/92126665504) |
+| 🏢 **Blue Origin** | Electrical Engineer I – Early Career (2026 Starts) | Denver | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/electrical-engineer-i-%E2%80%93-early-career-2026-starts-at-blue-origin-4352433214) |
+| 🏢 **Shive Hattery Group, Inc.** | Electrical Engineer- Early Career | Iowa City | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://recruiting.paylocity.com/recruiting/jobs/Details/3897461/Shive-Hattery-Group-Inc/Electrical-Engineer--Early-Career?source=Indeed_Feed) |
 | 🏢 **SpaceX** | Avionics Systems Engineer (Dragon) | Hawthorne, CA | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8426407002?gh_jid=8426407002) |
 | 🏢 **SpaceX** | Mechanical Engineer, Aviation Hardware (Starlink) | Woodinville, WA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8425726002?gh_jid=8425726002) |
 | 🏢 **Scale AI** | ML Systems Engineer, Robotics | San Francisco, CA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4663053005) |
@@ -159,8 +162,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **SpaceX** | Manufacturing Engineering Specialist, PCBA (Starlink) | Bastrop, TX | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8318830002?gh_jid=8318830002) |
 | 🏢 **SpaceX** | Manufacturing Engineer, PCBA (Starlink) | Bastrop, TX | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8355918002?gh_jid=8355918002) |
 | 🏢 **SpaceX** | Manufacturing Engineer, Raptor Avionics | Hawthorne, CA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8236076002?gh_jid=8236076002) |
-| 🏢 **SpaceX** | Mechanical Engineer, Consumer Hardware (Starlink) 🏠 | Hawthorne, CA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8283612002?gh_jid=8283612002) |
 | 🏢 **SpaceX** | Mechanical Engineer, Consumer Hardware (Starlink) 🏠 | Bastrop, TX | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8202292002?gh_jid=8202292002) |
+| 🏢 **SpaceX** | Mechanical Engineer, Consumer Hardware (Starlink) 🏠 | Hawthorne, CA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8283612002?gh_jid=8283612002) |
 | 🏢 **SpaceX** | Mechanical Engineer (Direct To Cell) | Redmond, WA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8376521002?gh_jid=8376521002) |
 | 🏢 **SpaceX** | Mechanical Engineer (Dragon) 🏠 | Hawthorne, CA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8209000002?gh_jid=8209000002) |
 | 🏢 **SpaceX** | Mechanical Engineer, Electro-mechanical (Starlink)  | Redmond, WA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8341360002?gh_jid=8341360002) |
@@ -256,8 +259,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Embedded NixOS Engineer | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5043618007?gh_jid=5043618007) |
 | 🏢 **Anduril** | Flight Software Engineer, Embedded C/C++, Air Dominance & Strike | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007) |
 | 🏢 **Anduril** | Flight Software Engineer, Embedded C/C++, Air Dominance & Strike - Advanced Effects | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5035788007?gh_jid=5035788007) |
-| 🏢 **Anduril** | Software Engineer, Embedded C/C++ Flight Software | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5008374007?gh_jid=5008374007) |
 | 🏢 **Anduril** | Software Engineer, Embedded C/C++ Flight Software | Atlanta | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5009215007?gh_jid=5009215007) |
+| 🏢 **Anduril** | Software Engineer, Embedded C/C++ Flight Software | Costa Mesa | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5008374007?gh_jid=5008374007) |
 | 🏢 **Verkada** | Embedded Linux Software Engineer | San Mateo, CA | 19h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5043233007) |
 | 🏢 **Verkada** | Embedded Software Engineer - Access Control | San Mateo, CA | 19h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5032260007) |
 | 🏢 **Verkada** | Embedded UI Engineer | San Mateo, CA | 19h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5035823007) |
@@ -338,7 +341,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 183 current opportunities from 4 companies**
+**🎯 186 current opportunities from 7 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
