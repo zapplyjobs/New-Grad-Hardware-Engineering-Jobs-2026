@@ -9,7 +9,7 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-64-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-65-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-47-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -129,14 +129,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Anduril** | Firmware Engineer, Embedded Systems | Costa Mesa | 8h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5052359007?gh_jid=5052359007) |
-| 🏢 **IBM** | Entry-Level Firmware Engineer — Embedded Systems | Durham | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.trabajo.org/job-2283-ced4911122ced5196bf720cc0b8df4bf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Cosmoquick** | Fresher Firmware Engineer Jobs in Dallas | Dallas | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/dallas/firmware-engineer-jobs?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Cosmoquick** | Fresher Firmware Engineer in Boston | Boston | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/hire-freshers-in/boston/hire-fresher-firmware-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **IBM** | Entry-Level Firmware Engineer — Embedded Systems | Durham | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.trabajo.org/job-2283-ced4911122ced5196bf720cc0b8df4bf) |
+| 🏢 **Cosmoquick** | Fresher Firmware Engineer Jobs in Dallas | Dallas | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/dallas/firmware-engineer-jobs) |
+| 🏢 **Cosmoquick** | Fresher Firmware Engineer in Boston | Boston | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/hire-freshers-in/boston/hire-fresher-firmware-engineer) |
 
 </details>
 
 <details>
-<summary><h3>🔌 <strong>Embedded Systems</strong> (12 positions)</h3></summary>
+<summary><h3>🔌 <strong>Embedded Systems</strong> (13 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -144,13 +144,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Embedded NixOS Engineer | Costa Mesa | 8h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5043618007?gh_jid=5043618007) |
 | 🏢 **Anduril** | Flight Software Engineer, Embedded C/C++, Air Dominance & Strike | Costa Mesa | 8h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007) |
 | 🏢 **Anduril** | Flight Software Engineer, Embedded C/C++, Air Dominance & Strike - Advanced Effects | Costa Mesa | 8h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5035788007?gh_jid=5035788007) |
-| 🏢 **Anduril** | Software Engineer, Embedded C/C++ Flight Software | Costa Mesa | 8h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5008374007?gh_jid=5008374007) |
 | 🏢 **Anduril** | Software Engineer, Embedded C/C++ Flight Software | Atlanta | 8h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5009215007?gh_jid=5009215007) |
+| 🏢 **Anduril** | Software Engineer, Embedded C/C++ Flight Software | Costa Mesa | 8h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5008374007?gh_jid=5008374007) |
 | 🏢 **Verkada** | Embedded Linux Software Engineer | San Mateo, CA | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5043233007) |
 | 🏢 **Verkada** | Embedded Software Engineer - Access Control | San Mateo, CA | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5032260007) |
 | 🏢 **Verkada** | Embedded UI Engineer | San Mateo, CA | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5035823007) |
-| 🏢 **National Guard Employment Network** | Embedded Software Engineer Entry Level - Bloomington, MN | Minneapolis | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://lensa.com/job-v1/national-guard-employment-network/minneapolis-mn/embedded-software-engineer/ec3d2bfb16f09e1352c1d259bbd448bf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Cosmoquick** | Fresher Firmware Developer Jobs in Pittsburgh | Pittsburgh | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/pittsburgh/fresher-firmware-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **National Guard Employment Network** | Embedded Software Engineer Entry Level - Bloomington, MN | Minneapolis | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://lensa.com/job-v1/national-guard-employment-network/minneapolis-mn/embedded-software-engineer/ec3d2bfb16f09e1352c1d259bbd448bf) |
+| 🏢 **National Guard Employment Network** | Embedded Software Engineer Entry Level - Bloomington, MN | Minneapolis | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://lensa.com/job-v1/national-guard-employment-network/minneapolis-mn/embedded-software-engineer/ec3d2bfb16f09e1352c1d259bbd448bf) |
+| 🏢 **Cosmoquick** | Fresher Firmware Developer Jobs in Pittsburgh | Pittsburgh | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/pittsburgh/fresher-firmware-developer) |
 | 🏢 **Cosmoquick** | Fresher Firmware Developer in Houston | Houston | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/hire-freshers-in/houston/hire-fresher-firmware-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
@@ -219,7 +220,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 64 current opportunities from 9 companies**
+**🎯 65 current opportunities from 9 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
