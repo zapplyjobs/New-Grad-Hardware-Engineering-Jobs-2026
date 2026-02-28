@@ -8,7 +8,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/job/Mossville-Illinois/Embedded-SW-Engineering-Specialist-2---Display-Feature-Coordinator_R0000349415",
-    "job_posted_at_datetime_utc": "2026-02-28T23:15:01.891Z",
+    "job_posted_at_datetime_utc": "2026-02-28T23:28:17.443Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "aa44e13aaa73489a45f401838dd443af3153805d01543d8fc58c3099325ac4f1",
@@ -25,7 +25,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T23:15:01.891Z"
+    "job_posted_at": "2026-02-28T23:28:17.443Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026498362",
+    "job_title": "F-18 E/F Avionics Field Service Representative",
+    "employer_name": "Boeing",
+    "job_city": "Lemoore",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Lemoore-CA/F-18-E-F-Avionics-Field-Service-Representative_JR2026498362-1",
+    "job_posted_at_datetime_utc": "2026-02-28T23:26:08.328Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "460ac03f11951ec98251ca4edabe11b960bb85501393e0d5857d005a8aa9867a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-28T23:26:08.328Z"
   },
   {
     "job_id": "workday-boeing-JR2025489394",
@@ -36,7 +64,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Long-Beach-CA/Software-Engineer-Embedded--Embedded-_JR2025489394-1",
-    "job_posted_at_datetime_utc": "2026-02-28T23:12:48.746Z",
+    "job_posted_at_datetime_utc": "2026-02-28T23:26:08.327Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "1eb2df51f42ce821610a603a245145e456805b352be0af32e583c59d9d65488b",
@@ -54,35 +82,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T23:12:48.746Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026498362",
-    "job_title": "F-18 E/F Avionics Field Service Representative",
-    "employer_name": "Boeing",
-    "job_city": "Lemoore",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Lemoore-CA/F-18-E-F-Avionics-Field-Service-Representative_JR2026498362-1",
-    "job_posted_at_datetime_utc": "2026-02-28T23:12:48.746Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "460ac03f11951ec98251ca4edabe11b960bb85501393e0d5857d005a8aa9867a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-28T23:12:48.746Z"
+    "job_posted_at": "2026-02-28T23:26:08.327Z"
   },
   {
     "job_id": "workday-hpe-1203372",
@@ -93,7 +93,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/job/Spring-Texas-United-States-of-America/Embedded-Linux-Engineer_1203372",
-    "job_posted_at_datetime_utc": "2026-02-28T23:11:26.990Z",
+    "job_posted_at_datetime_utc": "2026-02-28T23:24:47.223Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "c59659ddbc43a169cdc33774dd1666f6fbb902c8402297a4057b48662bf51bc5",
@@ -110,35 +110,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T23:11:26.990Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00177038",
-    "job_title": "Mechanical Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Arlington-VA/Mechanical-Engineer_R-00177038",
-    "job_posted_at_datetime_utc": "2026-02-28T23:10:05.411Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "077de8823519630de9d238d1a1f88ae82340f4ef31bc59271f1370a43d81db5d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-28T23:10:05.411Z"
+    "job_posted_at": "2026-02-28T23:24:47.223Z"
   },
   {
     "job_id": "workday-leidos-R-00173585",
@@ -149,7 +121,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Huntsville-AL/Junior-Aviation-Embedded-Software-Engineer_R-00173585",
-    "job_posted_at_datetime_utc": "2026-02-28T23:10:05.410Z",
+    "job_posted_at_datetime_utc": "2026-02-28T23:23:26.992Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "cf13c9831e3870f82531df3d03747cc79274367a3c2c93f99d50a5259e1295d2",
@@ -167,7 +139,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T23:10:05.410Z"
+    "job_posted_at": "2026-02-28T23:23:26.992Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00177038",
+    "job_title": "Mechanical Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Arlington-VA/Mechanical-Engineer_R-00177038",
+    "job_posted_at_datetime_utc": "2026-02-28T23:23:26.992Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "077de8823519630de9d238d1a1f88ae82340f4ef31bc59271f1370a43d81db5d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-28T23:23:26.992Z"
   },
   {
     "job_id": "workday-rtx-01821446",
@@ -178,7 +178,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Prin-Mechanical-Engineer---ALE_01821446-1",
-    "job_posted_at_datetime_utc": "2026-02-28T23:09:36.417Z",
+    "job_posted_at_datetime_utc": "2026-02-28T23:22:58.170Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "d7b62fcbc3a20132fb20f1054c11d809fb56c8a8256231516c528c249b10bf8a",
@@ -195,7 +195,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T23:09:36.417Z"
+    "job_posted_at": "2026-02-28T23:22:58.170Z"
   },
   {
     "job_id": "workday-rtx-01827342",
@@ -206,7 +206,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/M-PE-Mechanical-Engineer-I_01827342",
-    "job_posted_at_datetime_utc": "2026-02-28T23:09:36.416Z",
+    "job_posted_at_datetime_utc": "2026-02-28T23:22:58.169Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "d5a1a94152904b674659ae038e1e0d45e03f09ab1c908f73044bfceb62c1a986",
@@ -223,7 +223,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T23:09:36.416Z"
+    "job_posted_at": "2026-02-28T23:22:58.169Z"
   },
   {
     "job_id": "workday-nvidia-JR2014185",
@@ -234,7 +234,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Software-Engineer--Robotics---Isaac-Lab---New-College-Grad-2026_JR2014185",
-    "job_posted_at_datetime_utc": "2026-02-28T23:08:25.291Z",
+    "job_posted_at_datetime_utc": "2026-02-28T23:21:49.701Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "99bebad0ef62375d92702c5edf588028e97be8741caf02d887fa5e0be021fbfc",
@@ -254,7 +254,36 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T23:08:25.291Z"
+    "job_posted_at": "2026-02-28T23:21:49.701Z"
+  },
+  {
+    "job_id": "js-confidential-nk0cocuxcwhkh_draaaaaa==",
+    "job_title": "Electrical Engineer (New Graduate)",
+    "employer_name": "Confidential",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Chicago,IL?jid=8e12adb9636caad3",
+    "job_posted_at_datetime_utc": "2026-02-28T12:00:00.000Z",
+    "job_description": "We're seeking a Electrical Engineer (New Graduate) who's ready to put your skills to work on projects that matter - and build a career with a company that's building North America.\n\nJob Title: Electrical Engineer (New Graduate) | Req ID: 15167 | HR Contact: Kyle Jon KEMPEN| Location: Joppa Cement Plant IL\n\nABOUT THE ROLE\n\nThe Electrical Engineer will be responsible for all electrical maintenance activities at the plant. They will ensure electrical project work is completed in a safe, efficient, and timely manner and in compliance with environmental requirements and to work cooperatively to plan, schedule, and execute all control system activities in the plant in order to maximize equipment utilization and reliability.\n\nThe Electrical Engineer, New Graduate will also be a part of the Amrize Build4Growth Program. This is an extensive, 14-month cement manufacturing learning and development program designed to provide new graduate engineers with foundational knowledge and experience on the main operational areas of our cement plants. This program is built on a blended learning approach including online learning, face-to-face sessions, on-the-job assignments, and projects.\n\nWHAT YOU'LL ACCOMPLISH\n• Responsible for supervising the electrical and instrumentation technicians in the execution of daily work orders and projects assigned by the maintenance coordinator. The engineer is responsible for assigning the work to his crew, insuring the work is performed both timely and correctly and the work history is recorded in SAP.\n• Electrical preventive and predictive maintenance programs. This includes conducting systematic inspections on all plant electrical equipment, collection of quantitative data, its organization and analysis using a variety of traditional as well as technically advanced diagnostic tools. The electrical engineer shall assess the condition of the process and machinery accurately, assess risk and identify the appropriate corrective actions based on technical analysis and risk management.\n• Responsible for the accurate documentation of electrical schematics and stores spare parts inventory.\n• Ensure all system programming meets with proper environmental compliance.\n• Maintain system documentation including but not limited to master equipment files, regulatory compliance files, equipment specifications, and repair history\n• Evaluate computer control equipment and their components to assure they meet the plant requirements.\n• Define, write and implement changes to existing process control programs.\n• Provide control system training and guidance for plant personnel.\n• Troubleshoot control system hardware and software problems.\n• Participates in defining, developing and executing equipment and process modifications to improve reliability, reduce costs and/or improve safety. Provide electrical knowledge and support for plant maintenance and PLC control projects\n• Demonstrate a commitment to communicating, improving and adhering to health, safety and environmental policies in all work environments and areas. Promote a culture of safety and exhibit these behaviors\n\nWHAT WE'RE LOOKING FOR\n\nEducation: Bachelor's degree or 3 years of equivalent experience.\n\nField of Study Preferred: Electrical Engineering.\n\nRequired Work Experience: 0-3 years\n\nRequired Computer and Software Skills: Microsoft Office (Word, Excel, PowerPoint, etc.)\n\nTravel Requirements: 5%\n\nAdditional Requirements:\n• Self-starter/ highly motivated team player\n• Successful candidates must adhere to all safety protocols and proper use of Amrize approved Personal Protection Equipment (\"PPE\"), including but not limited to respirators. Employees that are required to wear respirators must be clean shaven where the respirator seal meets the face in order to pass the qualitative and quantitative fit tests.\n\nWHAT WE OFFER\n• Competitive salary\n• Retirement Savings: Choose from 401(k) pre-tax and/or Roth after-tax savings\n• Medical, Dental, Disability and Life Insurance\n• Holistic Health & Well-being programs\n• Health Savings Accounts (HSAs) & Flexible Spending Accounts (FSAs) for health and dependent care\n• Vision and other Voluntary benefits and discounts\n• Paid time off & paid holidays\n• Paid Parental Leave (maternity & paternity)\n• Educational Assistance Program\n• Dress for your day\n\nAmrize is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.\n\nWe thank all applicants for their interest; however, only those selected for an interview will be contacted.\n\nBUILDING INCLUSIVE WORKSPACES\nAt Amrize, there is endless opportunity for you to play your part. Whether you're in a technical, managerial, or frontline role, you can shape a career that works for you. We're seeking builders, creative thinkers and innovators. Come put your expertise to work while developing the knowledge and skills to drive your career forward. With us you'll have the chance to build your ambition!\n\nAmrize North America Inc. takes pride in our hiring processes and our commitment that all qualified applicants will receive consideration for employment without regard to age, race, color, ethnicity, religion, creed, national origin, ancestry, gender, gender identity, gender expression, sex, sexual orientation, marital status, pregnancy, parental status, genetic information, citizenship, physical or mental disability, past, current, or prospective service in the uniformed services, or any other characteristic protected by applicable federal, state or local law. Amrize North America Inc, and its respective subsidiaries are Equal Opportunity Employers, deciding all employment on the basis of qualification, merit and business need. Amrize Canada Inc. is committed to the principles of employment equity and encourages the applications from women, visible minorities, and persons with disabilities.\n\nIn compliance with the ADA Amendments Act (ADAAA), if you have a disability and would like to request accommodation in order to apply for a position with us, please email recruiting-accommodations@amrize.com. This email address should only be used for accommodations and not general inquiries or resume submittals. In Ontario, our organization/business is committed to fulfilling our requirements under the Accessibility for Ontarians with Disabilities Act. Under the Act, accommodations are available on request for candidates taking part in all aspects of the selection process.\n\nWhile we sincerely appreciate all applications, only candidates selected for an interview will be contacted.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "14c8a6dd492a30a97ccdafb39429e57dc8d53a15fbf3029c42d48a0b47228edb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-28T12:00:00.000Z"
   },
   {
     "job_id": "lever-palantir-f1fdab97-ab1e-4c3d-82f2-4b70f12d249d",
@@ -311,35 +340,6 @@
     "_source": "aggregator",
     "_original_source": "lever",
     "job_posted_at": "2026-02-28T05:22:19.982Z"
-  },
-  {
-    "job_id": "js-confidential-nk0cocuxcwhkh_draaaaaa==",
-    "job_title": "Electrical Engineer (New Graduate)",
-    "employer_name": "Confidential",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Chicago,IL?jid=8e12adb9636caad3",
-    "job_posted_at_datetime_utc": "2026-02-28T04:00:00.000Z",
-    "job_description": "We're seeking a Electrical Engineer (New Graduate) who's ready to put your skills to work on projects that matter - and build a career with a company that's building North America.\n\nJob Title: Electrical Engineer (New Graduate) | Req ID: 15167 | HR Contact: Kyle Jon KEMPEN| Location: Joppa Cement Plant IL\n\nABOUT THE ROLE\n\nThe Electrical Engineer will be responsible for all electrical maintenance activities at the plant. They will ensure electrical project work is completed in a safe, efficient, and timely manner and in compliance with environmental requirements and to work cooperatively to plan, schedule, and execute all control system activities in the plant in order to maximize equipment utilization and reliability.\n\nThe Electrical Engineer, New Graduate will also be a part of the Amrize Build4Growth Program. This is an extensive, 14-month cement manufacturing learning and development program designed to provide new graduate engineers with foundational knowledge and experience on the main operational areas of our cement plants. This program is built on a blended learning approach including online learning, face-to-face sessions, on-the-job assignments, and projects.\n\nWHAT YOU'LL ACCOMPLISH\n• Responsible for supervising the electrical and instrumentation technicians in the execution of daily work orders and projects assigned by the maintenance coordinator. The engineer is responsible for assigning the work to his crew, insuring the work is performed both timely and correctly and the work history is recorded in SAP.\n• Electrical preventive and predictive maintenance programs. This includes conducting systematic inspections on all plant electrical equipment, collection of quantitative data, its organization and analysis using a variety of traditional as well as technically advanced diagnostic tools. The electrical engineer shall assess the condition of the process and machinery accurately, assess risk and identify the appropriate corrective actions based on technical analysis and risk management.\n• Responsible for the accurate documentation of electrical schematics and stores spare parts inventory.\n• Ensure all system programming meets with proper environmental compliance.\n• Maintain system documentation including but not limited to master equipment files, regulatory compliance files, equipment specifications, and repair history\n• Evaluate computer control equipment and their components to assure they meet the plant requirements.\n• Define, write and implement changes to existing process control programs.\n• Provide control system training and guidance for plant personnel.\n• Troubleshoot control system hardware and software problems.\n• Participates in defining, developing and executing equipment and process modifications to improve reliability, reduce costs and/or improve safety. Provide electrical knowledge and support for plant maintenance and PLC control projects\n• Demonstrate a commitment to communicating, improving and adhering to health, safety and environmental policies in all work environments and areas. Promote a culture of safety and exhibit these behaviors\n\nWHAT WE'RE LOOKING FOR\n\nEducation: Bachelor's degree or 3 years of equivalent experience.\n\nField of Study Preferred: Electrical Engineering.\n\nRequired Work Experience: 0-3 years\n\nRequired Computer and Software Skills: Microsoft Office (Word, Excel, PowerPoint, etc.)\n\nTravel Requirements: 5%\n\nAdditional Requirements:\n• Self-starter/ highly motivated team player\n• Successful candidates must adhere to all safety protocols and proper use of Amrize approved Personal Protection Equipment (\"PPE\"), including but not limited to respirators. Employees that are required to wear respirators must be clean shaven where the respirator seal meets the face in order to pass the qualitative and quantitative fit tests.\n\nWHAT WE OFFER\n• Competitive salary\n• Retirement Savings: Choose from 401(k) pre-tax and/or Roth after-tax savings\n• Medical, Dental, Disability and Life Insurance\n• Holistic Health & Well-being programs\n• Health Savings Accounts (HSAs) & Flexible Spending Accounts (FSAs) for health and dependent care\n• Vision and other Voluntary benefits and discounts\n• Paid time off & paid holidays\n• Paid Parental Leave (maternity & paternity)\n• Educational Assistance Program\n• Dress for your day\n\nAmrize is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.\n\nWe thank all applicants for their interest; however, only those selected for an interview will be contacted.\n\nBUILDING INCLUSIVE WORKSPACES\nAt Amrize, there is endless opportunity for you to play your part. Whether you're in a technical, managerial, or frontline role, you can shape a career that works for you. We're seeking builders, creative thinkers and innovators. Come put your expertise to work while developing the knowledge and skills to drive your career forward. With us you'll have the chance to build your ambition!\n\nAmrize North America Inc. takes pride in our hiring processes and our commitment that all qualified applicants will receive consideration for employment without regard to age, race, color, ethnicity, religion, creed, national origin, ancestry, gender, gender identity, gender expression, sex, sexual orientation, marital status, pregnancy, parental status, genetic information, citizenship, physical or mental disability, past, current, or prospective service in the uniformed services, or any other characteristic protected by applicable federal, state or local law. Amrize North America Inc, and its respective subsidiaries are Equal Opportunity Employers, deciding all employment on the basis of qualification, merit and business need. Amrize Canada Inc. is committed to the principles of employment equity and encourages the applications from women, visible minorities, and persons with disabilities.\n\nIn compliance with the ADA Amendments Act (ADAAA), if you have a disability and would like to request accommodation in order to apply for a position with us, please email recruiting-accommodations@amrize.com. This email address should only be used for accommodations and not general inquiries or resume submittals. In Ontario, our organization/business is committed to fulfilling our requirements under the Accessibility for Ontarians with Disabilities Act. Under the Act, accommodations are available on request for candidates taking part in all aspects of the selection process.\n\nWhile we sincerely appreciate all applications, only candidates selected for an interview will be contacted.",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "14c8a6dd492a30a97ccdafb39429e57dc8d53a15fbf3029c42d48a0b47228edb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-28T04:00:00.000Z"
   },
   {
     "job_id": "js-confidential-l4rloloeosxwtdmbaaaaaa==",
@@ -485,6 +485,35 @@
     "_source": "aggregator",
     "_original_source": "jsearch",
     "job_posted_at": "2026-02-28T03:00:00.000Z"
+  },
+  {
+    "job_id": "js-bae-systems-el9t33wlhd_6xaiyaaaaaa==",
+    "job_title": "Entry Level Mechanical Engineer (Hybrid)",
+    "employer_name": "BAE Systems",
+    "job_city": "Nashua",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/119745BR/Entry-Level-Mechanical-Engineer-Hybrid",
+    "job_posted_at_datetime_utc": "2026-02-28T00:00:00.000Z",
+    "job_description": "Job Description\n\nYou don’t see it, but it’s there. Our employees work on the world’s most advanced electronics – from saving emissions in the City of Lights to powering the Mars Rover to protecting the F-35 fighter jet. At Electronic Systems, you’ll be among the brightest minds, working on the aerospace and defense industry’s most difficult problems. Drawing strength from our differences, we’re innovating for the future. And you can, too.\n\nOur flexible work environment provides you a chance to change the world without giving up your personal life. We put our customers first – exemplified by our missions: “We Protect Those Who Protect Us®” and “We Innovate For Those Who Move The WorldTM.”\n\nSound like a team you want to be a part of? An exciting future at BAE Systems awaits and it starts with Year One— a unique experience to jumpstart your engineering career.\n\nWe are looking for entry level candidates to join our ES Defense Hardware Engineering Team here at BAE Systems, Inc. BAE Systems is seeking entry level mechanical engineers to fill a variety of mechanical engineering positions based on your background, skill set and interest level. Beyond exciting work, each hire in engineering will be part of our Year One program.\n\nIn this exciting role, you will enjoy opportunities to take on challenging work assignments, flexible scheduling with every other Friday off, an inviting and supportive culture, competitive compensation, and an excellent benefits package that includes tuition reimbursement for advanced degrees.\n\nAs part of the program, you explore different projects and technologies by participating in rotations. You also develop skills by receiving immediate mentorship from experienced managers and engineers, and participate in classes and workshops to expand your knowledge of yourself, technology and our company. Finally, you network and collaborate to make lasting connections with peers, co-workers and leadership.\n\nMechanical Engineering Job Description\n1. Support Product Design. Provide Mechanical Engineering support to the design, development and selection of basic hardware components utilizing fundamental mechanical engineering principles, theories and techniques. Assigned duties may include design and development of specific packaging modules, mechanisms or components to meet specified design requirements. May receive direction from senior engineering staff, and also may be responsible to provide direction to drafting.\n2. Perform Mechanical Analyses. Obtain working knowledge of company standard analysis tools. Perform basic static, dynamic and heat transfer analyses of mechanical structures. Compile data for investigation by senior mechanical engineering personnel.\n3. Support Verification/Validation of Design. Support the fabrication and environmental testing of design hardware. Assist in the design and fabrication of prototype hardware. Support the environmental testing of hardware including: vibration, shock, thermal, fatigue and others as required. Document results for review by senior engineering personnel.\n4. Prepare Documentation. Generate and review the technical content of drawings, engineering specifications, reports and other documentation associated with the mechanical design. Generate and present design review packages for internal and external audiences.\n5. Support Continuous Improvement. Acquire a working knowledge of ES Quality System and the Mechanical Design Process. Acquire up-to-date knowledge of developments in mechanical engineering disciplines.\n6. Support to Sustainment. Provide Mechanical Engineering support to products in production. Manage material issues, perform root cause assessments of discovered issues. perform analysis as required to verify validity of proposed solutions.\n• * Please note: Candidates for these positions will be considered for positions across the greater Nashua, NH area and various engineering hiring teams. **\n\nBecause this role involves a combination of collaborative/in-person and independent work, it will take the form of a hybrid work format, with time split between working onsite and remotely.\n\nRequired Education, Experience, & Skills • This position is open to applicants with varying levels of experience. To be considered for an Mechanical Engineer I, you must have at least a Bachelor’s degree. To be considered for a Mechanical Engineer II, you must have at least a Master’s degree.\n• Strong Mechanical Aptitude\n•Ability to support design and development of hardware to ensure requirements\ncompliance\n•Ability to read mechanical drawings and perform tolerance assessments\n•Ability to perform basic thermal / dynamic analysis to ensure good design\n\nPreferred Education, Experience, & Skills •Good communication skills and organizational skills\n\nPay Information\nFull-Time Salary Range: $63653 - $108210\n\nPlease note: This range is based on our market pay structures. However, individual salaries are determined by a variety of factors including, but not limited to: business considerations, local market conditions, and internal equity, as well as candidate qualifications, such as skills, education, and experience.\n\nEmployee Benefits: At BAE Systems, we support our employees in all aspects of their life, including their health and financial well-being. Regular employees scheduled to work 20+ hours per week are offered: health, dental, and vision insurance; health savings accounts; a 401(k) savings plan; disability coverage; and life and accident insurance. We also have an employee assistance program, a legal plan, and other perks including discounts on things like home, auto, and pet insurance. Our leave programs include paid time off, paid holidays, as well as other types of leave, including paid parental, military, bereavement, and any applicable federal and state sick leave. Employees may participate in the company recognition program to receive monetary or non-monetary recognition awards. Other incentives may be available based on position level and/or job specifics.\nAbout BAE Systems Electronic Systems BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services. Improving the future and protecting lives is an ambitious mission, but it’s what we do at BAE Systems. Working here means using your passion and ingenuity where it counts – defending national security with breakthrough technology, superior products, and intelligence solutions. As you develop the latest technology and defend national security, you will continually hone your skills on a team—making a big impact on a global scale. At BAE Systems, you’ll find a rewarding career that truly makes a difference. Electronic Systems (ES) is the global innovator behind BAE Systems’ game-changing defense and commercial electronics. Exploiting every electron, we push the limits of what is possible, giving our customers the edge and our employees opportunities to change the world. Our products and capabilities can be found everywhere – from the depths of the ocean to the far reaches of space. At our core are more than 14,000 highly talented Electronic Systems employees with the brightest minds in the industry, we make an impact – for our customers and the communities we serve.\n\nThis position will be posted for at least 5 calendar days. The posting will remain active until the position is filled, or a qualified pool of candidates is identified.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "c9064e77add343b68cad1c60d328e092778e912d016fab6095b75cf56aa868d8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-28T00:00:00.000Z"
   },
   {
     "job_id": "js-john-deere-company-tvr6cultbiicokouaaaaaa==",
@@ -1787,7 +1816,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/job/Huntsville-AL/Technician---Assembly---Integration--Avionics-1---B--Shift_R59337",
-    "job_posted_at_datetime_utc": "2026-02-26T23:13:09.577Z",
+    "job_posted_at_datetime_utc": "2026-02-26T23:26:28.517Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "497434a6176871fd5f2487ae9cb39e2c45a203667a2f6921c67bd41a4c3b80ac",
@@ -1804,7 +1833,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T23:13:09.577Z"
+    "job_posted_at": "2026-02-26T23:26:28.517Z"
   },
   {
     "job_id": "workday-boeing-JR2025483995",
@@ -1815,7 +1844,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Portland-OR/Mechatronics-Maintenance-Technician-87706_JR2025483995-1",
-    "job_posted_at_datetime_utc": "2026-02-26T23:12:48.747Z",
+    "job_posted_at_datetime_utc": "2026-02-26T23:26:08.328Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "8e45fe53f803e0c838c129a7824268849219448c8e0d42c25beb367ff23f5d4f",
@@ -1832,7 +1861,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T23:12:48.747Z"
+    "job_posted_at": "2026-02-26T23:26:08.328Z"
   },
   {
     "job_id": "workday-applied-materials-R2611881",
@@ -1843,7 +1872,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Opto-Mechanical-Engineer-IV--E4-_R2611881",
-    "job_posted_at_datetime_utc": "2026-02-26T23:10:58.432Z",
+    "job_posted_at_datetime_utc": "2026-02-26T23:24:18.942Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "acf6c998c3669ea744a9a9255207e828876495912c06667609add523bd617714",
@@ -1860,7 +1889,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T23:10:58.432Z"
+    "job_posted_at": "2026-02-26T23:24:18.942Z"
   },
   {
     "job_id": "workday-nvidia-JR2013215",
@@ -1871,7 +1900,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/MCU-Firmware-Engineer_JR2013215",
-    "job_posted_at_datetime_utc": "2026-02-26T23:08:25.292Z",
+    "job_posted_at_datetime_utc": "2026-02-26T23:21:49.701Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "0c37e502d0f8f139a92b4af4a1fb75a794a9c2f23ecec498b1afd02a545c10f3",
@@ -1890,7 +1919,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T23:08:25.292Z"
+    "job_posted_at": "2026-02-26T23:21:49.701Z"
   },
   {
     "job_id": "greenhouse-spacex-8440651002",
@@ -1949,35 +1978,6 @@
     "job_posted_at": "2026-02-26T13:26:13-05:00"
   },
   {
-    "job_id": "js-enercon-services-inc-fvumstnkcxwigmymaaaaaa==",
-    "job_title": "New Graduate (May/June 2026) - Electrical Engineer",
-    "employer_name": "Enercon Services, Inc.",
-    "job_city": "Chattanooga",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobright.ai/jobs/info/69699168639b452fb57f841b",
-    "job_posted_at_datetime_utc": "2026-02-26T00:00:00.000Z",
-    "job_description": "Enercon Services, Inc. is leading America's Energy Transition and shaping the future through innovative engineering solutions. They are seeking new graduates in Electrical Engineering to engage in various tasks crucial to project success, focusing on renewable energy projects and power grid modernization.\n\nResponsibilities\n• Learning and applying codes and standards for designing projects\n• Being organized and efficient\n• Having a positive attitude towards learning and feedback\n• Collaborating with senior engineers for field data collection\n• Adapting to new software systems\n• Asking questions and using available resources\n• Connecting classroom knowledge with practical industry work\n• Meeting deadlines and managing multiple tasks simultaneously\n\nSkills\n• Graduated or graduating with a bachelor's or master's degree from an ABET-accredited school in one of our listed preferred majors\n• Available to start between May 2026 and August 2026\n• A solid working foundation with your major's core concepts\n• Proficient in Microsoft Suite\n• Excellent writing, presentation, and communication skills\n• Ability to be an individual contributor and work effectively in teams\n• Ability to effectively problem solve\n• Must be able to climb stairs and ladders at client sites\n• Must be able to effectively navigate client sites to conduct walkdowns\n• Must be able to work outside\n• Ability and willingness to travel for client and company projects and/or meetings\n• Completion of pre-interview assessments\n• College transcript submitted for anyone under 1 year of experience post-graduation\n• Ability to pass pre-employment and random drug and alcohol screenings, ENERCON and client-specific background checks, and annual motor vehicle record (MVR) checks according to company and client policies\n• ENERCON does not provide sponsorship now or in the future\n• Applicants must be legally authorized to work in the U.S. without current or future employer sponsorship\n• Graduating May-June 2026 preferred\n• Preferred Courses: Circuit Analysis (could be called Circuits I, Circuits II, Intro to Circuits, etc.), Power Systems (could be called Electric Power, Electric Machines, Power Systems, Power Engineering, etc.), and Control Systems\n\nCompany Overview\n• ENERCON is a multi-discipline engineering and environmental engineering support services firm focused on delivering safe and efficient solutions for the power, data center and industrial sectors. It was founded in 1983, and is headquartered in Kennesaw, Georgia, USA, with a workforce of 1001-5000 employees. Its website is http://www.enercon.com.",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "839e9ed848f3f6450575bded50c4aaff979f6fca498dbcbbc6b1fb4a46c75950",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-26T00:00:00.000Z"
-  },
-  {
     "job_id": "workday-caterpillar-R0000353015",
     "job_title": "Embedded Software Engineer",
     "employer_name": "Caterpillar",
@@ -1986,7 +1986,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/job/Mossville-Illinois/Embedded-Software-Engineer_R0000353015",
-    "job_posted_at_datetime_utc": "2026-02-25T23:15:01.891Z",
+    "job_posted_at_datetime_utc": "2026-02-25T23:28:17.445Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "c6974a2296f03152308639131cb9aa0da1497afeea4489acd6246c7039b8546b",
@@ -2004,7 +2004,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T23:15:01.891Z"
+    "job_posted_at": "2026-02-25T23:28:17.445Z"
   },
   {
     "job_id": "workday-boeing-JR2026495940",
@@ -2015,7 +2015,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Long-Beach-CA/C-17-Avionics-Project-Engineer_JR2026495940-1",
-    "job_posted_at_datetime_utc": "2026-02-25T23:12:48.747Z",
+    "job_posted_at_datetime_utc": "2026-02-25T23:26:08.329Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "9ac2acc1c7a336a9f2a4b730f48589b36f9c9153c3710bf353cdcee36d944c14",
@@ -2032,7 +2032,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T23:12:48.747Z"
+    "job_posted_at": "2026-02-25T23:26:08.329Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0229178",
@@ -2043,7 +2043,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Washington-DC/Mechanical-Engineer_R0229178",
-    "job_posted_at_datetime_utc": "2026-02-25T23:10:31.250Z",
+    "job_posted_at_datetime_utc": "2026-02-25T23:23:52.691Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "e46819dc6793d7935f189b8c715a842467389e25fe613d186aab27d3c0e41724",
@@ -2060,7 +2060,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T23:10:31.250Z"
+    "job_posted_at": "2026-02-25T23:23:52.691Z"
   },
   {
     "job_id": "greenhouse-verkada-5043233007",
@@ -2235,6 +2235,35 @@
     "job_posted_at": "2026-02-25T10:10:57-05:00"
   },
   {
+    "job_id": "js-enercon-services-inc-fvumstnkcxwigmymaaaaaa==",
+    "job_title": "New Graduate (May/June 2026) - Electrical Engineer",
+    "employer_name": "Enercon Services, Inc.",
+    "job_city": "Chattanooga",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobright.ai/jobs/info/69699168639b452fb57f841b",
+    "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
+    "job_description": "Enercon Services, Inc. is leading America's Energy Transition and shaping the future through innovative engineering solutions. They are seeking new graduates in Electrical Engineering to engage in various tasks crucial to project success, focusing on renewable energy projects and power grid modernization.\n\nResponsibilities\n• Learning and applying codes and standards for designing projects\n• Being organized and efficient\n• Having a positive attitude towards learning and feedback\n• Collaborating with senior engineers for field data collection\n• Adapting to new software systems\n• Asking questions and using available resources\n• Connecting classroom knowledge with practical industry work\n• Meeting deadlines and managing multiple tasks simultaneously\n\nSkills\n• Graduated or graduating with a bachelor's or master's degree from an ABET-accredited school in one of our listed preferred majors\n• Available to start between May 2026 and August 2026\n• A solid working foundation with your major's core concepts\n• Proficient in Microsoft Suite\n• Excellent writing, presentation, and communication skills\n• Ability to be an individual contributor and work effectively in teams\n• Ability to effectively problem solve\n• Must be able to climb stairs and ladders at client sites\n• Must be able to effectively navigate client sites to conduct walkdowns\n• Must be able to work outside\n• Ability and willingness to travel for client and company projects and/or meetings\n• Completion of pre-interview assessments\n• College transcript submitted for anyone under 1 year of experience post-graduation\n• Ability to pass pre-employment and random drug and alcohol screenings, ENERCON and client-specific background checks, and annual motor vehicle record (MVR) checks according to company and client policies\n• ENERCON does not provide sponsorship now or in the future\n• Applicants must be legally authorized to work in the U.S. without current or future employer sponsorship\n• Graduating May-June 2026 preferred\n• Preferred Courses: Circuit Analysis (could be called Circuits I, Circuits II, Intro to Circuits, etc.), Power Systems (could be called Electric Power, Electric Machines, Power Systems, Power Engineering, etc.), and Control Systems\n\nCompany Overview\n• ENERCON is a multi-discipline engineering and environmental engineering support services firm focused on delivering safe and efficient solutions for the power, data center and industrial sectors. It was founded in 1983, and is headquartered in Kennesaw, Georgia, USA, with a workforce of 1001-5000 employees. Its website is http://www.enercon.com.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "839e9ed848f3f6450575bded50c4aaff979f6fca498dbcbbc6b1fb4a46c75950",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-25T00:00:00.000Z"
+  },
+  {
     "job_id": "workday-blue-origin-R60937",
     "job_title": "Mechanical Engineer (Mechanisms Design)",
     "employer_name": "Blue Origin",
@@ -2243,7 +2272,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/job/Longmont-CO/Mechanical-Engineer--Mechanisms-Design-_R60937",
-    "job_posted_at_datetime_utc": "2026-02-24T23:13:09.578Z",
+    "job_posted_at_datetime_utc": "2026-02-24T23:26:28.519Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "93bfa52d3c835b67559512f6ce7f31d82a66f75343f2756bbad507cf7f4dc0b9",
@@ -2260,35 +2289,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T23:13:09.578Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026490862",
-    "job_title": "F-15 Flight Line Avionics Technician - Qatar",
-    "employer_name": "Boeing",
-    "job_city": "Hazelwood",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/F-15-Flight-Line-Avionics-Technician---Qatar_JR2026490862-3",
-    "job_posted_at_datetime_utc": "2026-02-24T23:12:48.748Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "ff40f4bed3ff7fd3b4884884f38a09c7e03bfd79058f2ea14248bad4a97964ba",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T23:12:48.748Z"
+    "job_posted_at": "2026-02-24T23:26:28.519Z"
   },
   {
     "job_id": "workday-boeing-JR2025487812",
@@ -2299,7 +2300,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Experienced-Avionics-Hardware-Engineer---Fighters-Mission-Systems_JR2025487812-1",
-    "job_posted_at_datetime_utc": "2026-02-24T23:12:48.747Z",
+    "job_posted_at_datetime_utc": "2026-02-24T23:26:08.329Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "7130da339df1527c87c4f4e9a3c66499909edd4e664eea96d26348131d1d3b25",
@@ -2316,7 +2317,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T23:12:48.747Z"
+    "job_posted_at": "2026-02-24T23:26:08.329Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026490862",
+    "job_title": "F-15 Flight Line Avionics Technician - Qatar",
+    "employer_name": "Boeing",
+    "job_city": "Hazelwood",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/F-15-Flight-Line-Avionics-Technician---Qatar_JR2026490862-3",
+    "job_posted_at_datetime_utc": "2026-02-24T23:26:08.329Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "ff40f4bed3ff7fd3b4884884f38a09c7e03bfd79058f2ea14248bad4a97964ba",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T23:26:08.329Z"
   },
   {
     "job_id": "workday-applied-materials-R2612452",
@@ -2327,7 +2356,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Mechanical-Engineer-IV_R2612452",
-    "job_posted_at_datetime_utc": "2026-02-24T23:10:58.434Z",
+    "job_posted_at_datetime_utc": "2026-02-24T23:24:18.942Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "caf12fb08e419f595a51149d9c48227c2aab796b47192c524749901beeee5b79",
@@ -2344,7 +2373,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T23:10:58.434Z"
+    "job_posted_at": "2026-02-24T23:24:18.942Z"
   },
   {
     "job_id": "greenhouse-spacex-8436568002",
@@ -2373,6 +2402,35 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-24T18:07:28-05:00"
+  },
+  {
+    "job_id": "js-lockheed-martin-s0nhyrh8aa1spptfaaaaaa==",
+    "job_title": "RF Engineer ( Electrical Engineer )",
+    "employer_name": "Lockheed Martin",
+    "job_city": "Owego",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.lockheedmartinjobs.com/job/owego/rf-engineer-electrical-engineer/694/92126665504",
+    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
+    "job_description": "Description:What We’re Doing\nAt Lockheed Martin, we're at the forefront of cutting-edge technology and innovation. Our campus in Owego, New York is a hub for engineering excellence, where we tackle some of the world's most challenging engineering problems. We pride ourselves on our culture of creativity, excellence, and product innovation.\n\nWho we are\nLockheed Martin is a global leader in aerospace, defense, and technology solutions. Our Owego campus is a thriving center of engineering expertise, fostering a culture that encourages creativity, excellence, and the creation of exceptional products. Our team is made up of dedicated professionals who are passionate about pushing the boundaries of what's possible.\n\nLockheed Martin Rotary & Mission Systems is seeking a full-time Early Career RF Engineer. In this role, you will design, simulate, develop, and evaluate RF Circuit Card Assemblies; develop, release, and support Engineering Check-out and Evaluation activities; assist with antenna design and testing, and support production of Antenna and RF LRUs, SRAs, CCAs, Modules, etc. The successful candidate will have experience with electrical circuit design and testing, knowledge of RF / Electromagnetic principles, experience with laboratory equipment, and experience with MATLAB. Must be a US Citizen.; This position will require a government security clearance.\nBasic Qualifications:\n-Bachelor's degree in Electrical Engineering, Computer Engineering, or similar\n\n-1+ year experience / coursework related to RF Engineering\n\n-1+ year experience / coursework with MATLAB\n\n-1+ year experience / coursework troubleshooting electrical / electronics\n\n-Strong organizational and communication skills\n\n-Familiarity with MS Office applications\n\n- Must be a US Citizen.; This position will require a government security clearance\nDesired Skills:\nDesired skills :\nRF design, digital/analog circuit design, antenna and radome design, test equipment design and programming including coursework, projects, etc\n\nExperience with schematic capture and printed wiring board layout using industry tools (Xpedition, Zuken CR-8000, etc.)\n\nExperience with HFSS, ADS, Labview, etc\n\nExperience with testing and troubleshooting electronics / RF / Antenna equipment\n\nDemonstratable knowledge of RADAR / Electronic Support platforms\n\nRF Engineering concentration / specialization within an Electrical Engineering program\nSecurity Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration.\nClearance Level: Secret\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 4x10 hour day, 3 days off per week\nPay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $68,000 - $119,830. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\n(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.\nThis position is incentive plan eligible.\nPay Rate: The annual base salary range for this position in most major metropolitan areas in California, Massachusetts, and New York is $78,200 - $135,470. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\nThis position is incentive plan eligible.\nLockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nAt Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.\n\nWith our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.\n\nIf this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.\nExperience Level: Experienced Professional\nBusiness Unit: RMS\nRelocation Available: Possible\nCareer Area: RF Engineering\nType: Full-Time\nShift: First",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "7b4291982402ee028d6e545c4586d7a9b5352be9a14cc3e50ca5c99d4b3d78ca",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-24T00:00:00.000Z"
   },
   {
     "job_id": "js-national-guard-employment-network-apgmqf3dmblvlqcraaaaaa==",
@@ -2405,119 +2463,6 @@
     "job_posted_at": "2026-02-24T00:00:00.000Z"
   },
   {
-    "job_id": "js-lockheed-martin-s0nhyrh8aa1spptfaaaaaa==",
-    "job_title": "RF Engineer ( Electrical Engineer )",
-    "employer_name": "Lockheed Martin",
-    "job_city": "Owego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.lockheedmartinjobs.com/job/owego/rf-engineer-electrical-engineer/694/92126665504",
-    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
-    "job_description": "Description:What We’re Doing\nAt Lockheed Martin, we're at the forefront of cutting-edge technology and innovation. Our campus in Owego, New York is a hub for engineering excellence, where we tackle some of the world's most challenging engineering problems. We pride ourselves on our culture of creativity, excellence, and product innovation.\n\nWho we are\nLockheed Martin is a global leader in aerospace, defense, and technology solutions. Our Owego campus is a thriving center of engineering expertise, fostering a culture that encourages creativity, excellence, and the creation of exceptional products. Our team is made up of dedicated professionals who are passionate about pushing the boundaries of what's possible.\n\nLockheed Martin Rotary & Mission Systems is seeking a full-time Early Career RF Engineer. In this role, you will design, simulate, develop, and evaluate RF Circuit Card Assemblies; develop, release, and support Engineering Check-out and Evaluation activities; assist with antenna design and testing, and support production of Antenna and RF LRUs, SRAs, CCAs, Modules, etc. The successful candidate will have experience with electrical circuit design and testing, knowledge of RF / Electromagnetic principles, experience with laboratory equipment, and experience with MATLAB. Must be a US Citizen.; This position will require a government security clearance.\nBasic Qualifications:\n-Bachelor's degree in Electrical Engineering, Computer Engineering, or similar\n\n-1+ year experience / coursework related to RF Engineering\n\n-1+ year experience / coursework with MATLAB\n\n-1+ year experience / coursework troubleshooting electrical / electronics\n\n-Strong organizational and communication skills\n\n-Familiarity with MS Office applications\n\n- Must be a US Citizen.; This position will require a government security clearance\nDesired Skills:\nDesired skills :\nRF design, digital/analog circuit design, antenna and radome design, test equipment design and programming including coursework, projects, etc\n\nExperience with schematic capture and printed wiring board layout using industry tools (Xpedition, Zuken CR-8000, etc.)\n\nExperience with HFSS, ADS, Labview, etc\n\nExperience with testing and troubleshooting electronics / RF / Antenna equipment\n\nDemonstratable knowledge of RADAR / Electronic Support platforms\n\nRF Engineering concentration / specialization within an Electrical Engineering program\nSecurity Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration.\nClearance Level: Secret\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 4x10 hour day, 3 days off per week\nPay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $68,000 - $119,830. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\n(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.\nThis position is incentive plan eligible.\nPay Rate: The annual base salary range for this position in most major metropolitan areas in California, Massachusetts, and New York is $78,200 - $135,470. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\nThis position is incentive plan eligible.\nLockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nAt Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.\n\nWith our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.\n\nIf this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.\nExperience Level: Experienced Professional\nBusiness Unit: RMS\nRelocation Available: Possible\nCareer Area: RF Engineering\nType: Full-Time\nShift: First",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "7b4291982402ee028d6e545c4586d7a9b5352be9a14cc3e50ca5c99d4b3d78ca",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-24T00:00:00.000Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026493470",
-    "job_title": "Associate Avionics Technician - Executive Fleet (2742)",
-    "employer_name": "Boeing",
-    "job_city": "San Antonio",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---San-Antonio-TX/Associate-Avionics-Technician---Executive-Fleet--2742-_JR2026493470-1",
-    "job_posted_at_datetime_utc": "2026-02-23T23:12:48.751Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "ec2137bd0f8fa15bd9464dde90aec59f6d9ab479b89a9ce2bc371ba5fbee8b9a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T23:12:48.751Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026493416",
-    "job_title": "Experienced Avionics Technician - Executive Fleet (2742)",
-    "employer_name": "Boeing",
-    "job_city": "San Antonio",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---San-Antonio-TX/Experienced-Avionics-Technician---Executive-Fleet--2742-_JR2026493416-3",
-    "job_posted_at_datetime_utc": "2026-02-23T23:12:48.751Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "f06da40a44fb4d834ecf9d7808e8a632c8c09f47b0339d23f7b0e3ab6481b078",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T23:12:48.751Z"
-  },
-  {
-    "job_id": "workday-hpe-1201171",
-    "job_title": "Hardware Engineer - Coherent Optics",
-    "employer_name": "HPE",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/job/Sunnyvale-California-United-States-of-America/Hardware-Engineer---Coherent-Optics_1201171",
-    "job_posted_at_datetime_utc": "2026-02-23T23:11:26.995Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "43c21937b98821703a7d0d2a863fc2d35de5f4cebc31fb7b34e2441ca8b7bb52",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T23:11:26.995Z"
-  },
-  {
     "job_id": "workday-caterpillar-R0000349764",
     "job_title": "Embedded Software Engineering Specialist",
     "employer_name": "Caterpillar",
@@ -2526,7 +2471,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/job/Mossville-Illinois/Embedded-Software-Engineering-Specialist_R0000349764",
-    "job_posted_at_datetime_utc": "2026-02-23T23:01:31.290Z",
+    "job_posted_at_datetime_utc": "2026-02-23T23:28:17.446Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "0dbc9e2e2e1a0a04b4a38aab5d76e61d57559aabeb56893d4e5aa9ebcca6a07a",
@@ -2544,7 +2489,91 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T23:01:31.290Z"
+    "job_posted_at": "2026-02-23T23:28:17.446Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026493470",
+    "job_title": "Associate Avionics Technician - Executive Fleet (2742)",
+    "employer_name": "Boeing",
+    "job_city": "San Antonio",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---San-Antonio-TX/Associate-Avionics-Technician---Executive-Fleet--2742-_JR2026493470-1",
+    "job_posted_at_datetime_utc": "2026-02-23T23:26:08.331Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "ec2137bd0f8fa15bd9464dde90aec59f6d9ab479b89a9ce2bc371ba5fbee8b9a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T23:26:08.331Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026493416",
+    "job_title": "Experienced Avionics Technician - Executive Fleet (2742)",
+    "employer_name": "Boeing",
+    "job_city": "San Antonio",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---San-Antonio-TX/Experienced-Avionics-Technician---Executive-Fleet--2742-_JR2026493416-3",
+    "job_posted_at_datetime_utc": "2026-02-23T23:26:08.331Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "f06da40a44fb4d834ecf9d7808e8a632c8c09f47b0339d23f7b0e3ab6481b078",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T23:26:08.331Z"
+  },
+  {
+    "job_id": "workday-hpe-1201171",
+    "job_title": "Hardware Engineer - Coherent Optics",
+    "employer_name": "HPE",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/job/Sunnyvale-California-United-States-of-America/Hardware-Engineer---Coherent-Optics_1201171",
+    "job_posted_at_datetime_utc": "2026-02-23T23:24:47.225Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "43c21937b98821703a7d0d2a863fc2d35de5f4cebc31fb7b34e2441ca8b7bb52",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T23:24:47.225Z"
   },
   {
     "job_id": "js-ibm-ftqbo0b9xga52m5aaaaaaa==",
@@ -2932,7 +2961,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/job/Greater-Seattle-Area/New-Glenn-Avionics-Systems-Engineer_R60608-1",
-    "job_posted_at_datetime_utc": "2026-02-21T23:13:09.578Z",
+    "job_posted_at_datetime_utc": "2026-02-21T23:26:28.519Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2af6d2deac17ab223da7c7ad746db8272497f1cc6e5c0efd6dc7aac03d5dcc85",
@@ -2949,7 +2978,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-21T23:13:09.578Z"
+    "job_posted_at": "2026-02-21T23:26:28.519Z"
   },
   {
     "job_id": "js-beaconfire-inc-f0t8oyf4q7b98oh2aaaaaa==",
@@ -2989,7 +3018,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/job/Greater-Seattle-Area/Test-Engineer---Avionics--Instruments---GNC-I_R58094",
-    "job_posted_at_datetime_utc": "2026-02-20T23:13:09.578Z",
+    "job_posted_at_datetime_utc": "2026-02-20T23:26:28.519Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "d03fe4d8bb26c4bbc08db7d9df089bfeef9ecb625d617642c37ae7a6706c9b71",
@@ -3006,7 +3035,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T23:13:09.578Z"
+    "job_posted_at": "2026-02-20T23:26:28.519Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234038",
@@ -3017,7 +3046,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Beavercreek-OH/FPGA-Developer_R0234038",
-    "job_posted_at_datetime_utc": "2026-02-20T23:10:31.251Z",
+    "job_posted_at_datetime_utc": "2026-02-20T23:23:52.692Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "93ba3b4d5d46843aeee3d4589ff1a3d184225c09ecc5bae570a056b7ec5b6d8d",
@@ -3034,7 +3063,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T23:10:31.251Z"
+    "job_posted_at": "2026-02-20T23:23:52.692Z"
   },
   {
     "job_id": "js-shive-hattery-group-inc-ot8zfwr2z95pebyqaaaaaa==",
@@ -3074,7 +3103,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/job/San-Jose-California-United-States-of-America/Software-Engineer_1196199",
-    "job_posted_at_datetime_utc": "2026-02-19T23:11:26.996Z",
+    "job_posted_at_datetime_utc": "2026-02-19T23:24:47.226Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "859c77129be8bb27ecf76ae8e4c6b50d4f151ad33d1e474cca183d92b1b141e2",
@@ -3092,7 +3121,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-19T23:11:26.996Z"
+    "job_posted_at": "2026-02-19T23:24:47.226Z"
   },
   {
     "job_id": "workday-applied-materials-R2518858",
@@ -3103,7 +3132,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Electrical-Engineer-New-College-Grad---Bachelor-Degree--Santa-Clara--CA-_R2518858",
-    "job_posted_at_datetime_utc": "2026-02-19T23:10:58.434Z",
+    "job_posted_at_datetime_utc": "2026-02-19T23:24:18.943Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "19c19af686e01b0b68972d43ee1b5c4f95354558d0d3e3436b2b65d7a88e8c56",
@@ -3120,7 +3149,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-19T23:10:58.434Z"
+    "job_posted_at": "2026-02-19T23:24:18.943Z"
   },
   {
     "job_id": "workday-applied-materials-R2611145",
@@ -3131,7 +3160,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Mechanical-Engineer_R2611145",
-    "job_posted_at_datetime_utc": "2026-02-19T23:10:58.434Z",
+    "job_posted_at_datetime_utc": "2026-02-19T23:24:18.943Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "e76b5474fd571ff040de65715ac2aa5fa02831696fb595dd5d5a0f9603d1be52",
@@ -3148,7 +3177,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-19T23:10:58.434Z"
+    "job_posted_at": "2026-02-19T23:24:18.943Z"
   },
   {
     "job_id": "greenhouse-spacex-8426407002",
@@ -3187,7 +3216,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/FPGA-Design-Engineer_R2518920-1",
-    "job_posted_at_datetime_utc": "2026-02-18T23:10:58.434Z",
+    "job_posted_at_datetime_utc": "2026-02-18T23:24:18.943Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "3d3e08e66e43f621924678dbc6ec245f76df4cfebb077bb5635b6129038df5e3",
@@ -3204,7 +3233,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T23:10:58.434Z"
+    "job_posted_at": "2026-02-18T23:24:18.943Z"
   },
   {
     "job_id": "greenhouse-spacex-8425814002",
@@ -3293,34 +3322,6 @@
     "job_posted_at": "2026-02-17T19:47:19-05:00"
   },
   {
-    "job_id": "workday-applied-materials-R2612220",
-    "job_title": "Mechanical Engineer IV",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Mechanical-Engineer-IV_R2612220",
-    "job_posted_at_datetime_utc": "2026-02-17T23:10:58.435Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "caf12fb08e419f595a51149d9c48227c2aab796b47192c524749901beeee5b79",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-17T23:10:58.435Z"
-  },
-  {
     "job_id": "workday-applied-materials-R2612608",
     "job_title": "Automation Electrical Engineer, New College Grad- Bachelor's (Austin, TX)",
     "employer_name": "Applied Materials",
@@ -3329,7 +3330,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/AustinTX/Automation-Electrical-Engineer--New-College-Grad--Bachelor-s--Austin--TX-_R2612608",
-    "job_posted_at_datetime_utc": "2026-02-17T23:10:58.435Z",
+    "job_posted_at_datetime_utc": "2026-02-17T23:24:18.944Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2829dd68f050bf7150b81f1afb652adb2ea88db394d5b3f690316baed0c4e98e",
@@ -3346,7 +3347,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-17T23:10:58.435Z"
+    "job_posted_at": "2026-02-17T23:24:18.944Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2612220",
+    "job_title": "Mechanical Engineer IV",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Mechanical-Engineer-IV_R2612220",
+    "job_posted_at_datetime_utc": "2026-02-17T23:24:18.943Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "caf12fb08e419f595a51149d9c48227c2aab796b47192c524749901beeee5b79",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-17T23:24:18.943Z"
   },
   {
     "job_id": "greenhouse-spacex-8136339002",
@@ -3385,7 +3414,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/job/Greater-Seattle-Area/Prin-Supply-Chain-Engineer---Avionics-Design-Standardization---Commodity-Strategy_R60571",
-    "job_posted_at_datetime_utc": "2026-02-16T23:13:09.579Z",
+    "job_posted_at_datetime_utc": "2026-02-16T23:26:28.521Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "5bda4cdaca162f1000004f0f14088b4073c6a88aa427526012a7964e549382c9",
@@ -3402,7 +3431,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-16T23:13:09.579Z"
+    "job_posted_at": "2026-02-16T23:26:28.521Z"
   },
   {
     "job_id": "greenhouse-spacex-8411609002",

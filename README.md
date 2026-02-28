@@ -9,16 +9,16 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-120-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-24-blue?style=flat&logo=building)
-![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-79-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-121-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-25-blue?style=flat&logo=building)
+![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-80-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 24+ top companies like Samsara and Verkada. Updated every 15 minutes with 120+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 25+ top companies like Samsara and Verkada. Updated every 15 minutes with 121+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech hardware companies, defense contractors, and engineering-first startups like Samsara and Verkada.</p>
 
@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/hej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>⚡ <strong>Hardware Engineer</strong> (79 positions)</h3></summary>
+<summary><h3>⚡ <strong>Hardware Engineer</strong> (80 positions)</h3></summary>
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
@@ -78,12 +78,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **RTX** | Prin. Mechanical Engineer - ALE | AZ-TUCSON-928 ~ 1... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Prin-Mechanical-Engineer---ALE_01821446-1) |
 | 🏢 **RTX** | M&PE Mechanical Engineer I | AZ-TUCSON-M02 ~ 1... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/M-PE-Mechanical-Engineer-I_01827342) |
 | 🏢 **NVIDIA** | Software Engineer, Robotics - Isaac Lab - New College Grad 2026 | US, CA | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Software-Engineer--Robotics---Isaac-Lab---New-College-Grad-2026_JR2014185) |
-| 🏢 **Confidential** | Electrical Engineer (New Graduate) | Chicago | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Chicago,IL?jid=8e12adb9636caad3) |
+| 🏢 **Confidential** | Electrical Engineer (New Graduate) | Chicago | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Chicago,IL?jid=8e12adb9636caad3) |
 | 🏢 **Confidential** | Electrical Engineer, New Graduate | Columbia | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Columbia,SC?jid=60fc169ca0a5487e) |
 | 🏢 **Confidential** | Electrical Engineer, New Graduate | Eutawville | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Eutawville,SC?jid=c2fefccf5ddc16f3) |
 | 🏢 **Confidential** | Electrical Engineer (New Graduate) | Cypress | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Cypress,IL?jid=afe7a965018898cc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Confidential** | Electrical Engineer, New Graduate | Vance | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Vance,SC?jid=050cfbd7a73e4597&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Confidential** | Electrical Engineer (New Graduate) | Aurora | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Aurora,IL?jid=c69807d368eced0c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **BAE Systems** | Entry Level Mechanical Engineer (Hybrid) 🏠 | Nashua | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/119745BR/Entry-Level-Mechanical-Engineer-Hybrid) |
 | 🏢 **SpaceX** | New Graduate Engineer, Software (Starlink) | Bastrop, TX | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002) |
 | 🏢 **Anduril** | Electrical Engineer | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4999776007?gh_jid=4999776007) |
 | 🏢 **Anduril** | Electrical Engineer, Avionics Design | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5059872007?gh_jid=5059872007) |
@@ -124,15 +125,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Applied Materials** | Opto-Mechanical Engineer IV (E4) | Santa Clara, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Opto-Mechanical-Engineer-IV--E4-_R2611881) |
 | 🏢 **SpaceX** | Electrical Engineer, Energy Infrastructure & Generation 🏠 | Bastrop, TX | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8440651002?gh_jid=8440651002) |
 | 🏢 **SpaceX** | Machine Maintenance Technician, PCB (Starlink) | Bastrop, TX | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8355992002?gh_jid=8355992002) |
-| 🏢 **Enercon Services, Inc.** | New Graduate (May/June 2026) - Electrical Engineer | Chattanooga | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69699168639b452fb57f841b) |
 | 🏢 **Boeing** | C-17 Avionics Project Engineer | Long Beach, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/job/USA---Long-Beach-CA/C-17-Avionics-Project-Engineer_JR2026495940-1) |
 | 🏢 **Booz Allen Hamilton** | Mechanical Engineer | Washington, DC | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/job/Washington-DC/Mechanical-Engineer_R0229178) |
 | 🏢 **Verkada** | Hardware Engineer | San Mateo, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4288855007) |
 | 🏢 **Verkada** | Hardware Engineer, New Grad 2025 | San Mateo, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5036396007) |
 | 🏢 **SpaceX** | Mechanical Engineer, Starship Launch Infrastructure (Gigabay) | Cape Canaveral, FL | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8169934002?gh_jid=8169934002) |
+| 🏢 **Enercon Services, Inc.** | New Graduate (May/June 2026) - Electrical Engineer | Chattanooga | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69699168639b452fb57f841b) |
 | 🏢 **Blue Origin** | Mechanical Engineer (Mechanisms Design) | Longmont, CO | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/job/Longmont-CO/Mechanical-Engineer--Mechanisms-Design-_R60937) |
-| 🏢 **Boeing** | F-15 Flight Line Avionics Technician - Qatar | Hazelwood, MO | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/F-15-Flight-Line-Avionics-Technician---Qatar_JR2026490862-3) |
 | 🏢 **Boeing** | Experienced Avionics Hardware Engineer - Fighters Mission Systems | Berkeley, MO | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Experienced-Avionics-Hardware-Engineer---Fighters-Mission-Systems_JR2025487812-1) |
+| 🏢 **Boeing** | F-15 Flight Line Avionics Technician - Qatar | Hazelwood, MO | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/F-15-Flight-Line-Avionics-Technician---Qatar_JR2026490862-3) |
 | 🏢 **Applied Materials** | Mechanical Engineer IV | Santa Clara, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Mechanical-Engineer-IV_R2612452) |
 | 🏢 **SpaceX** | Electrical Engineer, Power Systems (Starlink) 🏠 | Bastrop, TX | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8436568002?gh_jid=8436568002) |
 | 🏢 **Lockheed Martin** | RF Engineer ( Electrical Engineer ) 🇺🇸 🏠 | Owego | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.lockheedmartinjobs.com/job/owego/rf-engineer-electrical-engineer/694/92126665504) |
@@ -147,8 +148,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **SpaceX** | Avionics Systems Engineer (Dragon) | Hawthorne, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8426407002?gh_jid=8426407002) |
 | 🏢 **SpaceX** | Mechanical Engineer, Aviation Hardware (Starlink) | Woodinville, WA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8425726002?gh_jid=8425726002) |
 | 🏢 **Scale AI** | ML Systems Engineer, Robotics | San Francisco, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4663053005) |
-| 🏢 **Applied Materials** | Mechanical Engineer IV | Santa Clara, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Mechanical-Engineer-IV_R2612220) |
 | 🏢 **Applied Materials** | Automation Electrical Engineer, New College Grad- Bachelor's (Austin, TX) | Austin, TX | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/job/AustinTX/Automation-Electrical-Engineer--New-College-Grad--Bachelor-s--Austin--TX-_R2612608) |
+| 🏢 **Applied Materials** | Mechanical Engineer IV | Santa Clara, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Mechanical-Engineer-IV_R2612220) |
 | 🏢 **SpaceX** | New Graduate Engineer, Electrical | Hawthorne, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8136339002?gh_jid=8136339002) |
 | 🏢 **Blue Origin** | Prin. Supply Chain Engineer - Avionics Design Standardization & Commodity Strategy | Greater Seattle Area | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/job/Greater-Seattle-Area/Prin-Supply-Chain-Engineer---Avionics-Design-Standardization---Commodity-Strategy_R60571) |
 | 🏢 **SpaceX** | Mechanical Design Specialist, PCBA Production - 1st Shift (Starlink) | Redmond, WA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8411609002?gh_jid=8411609002) |
@@ -278,7 +279,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 120 current opportunities from 24 companies**
+**🎯 121 current opportunities from 25 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
