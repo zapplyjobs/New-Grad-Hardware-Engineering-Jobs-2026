@@ -11,7 +11,7 @@
 
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-83-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-14-blue?style=flat&logo=building)
-![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-55-red?style=flat&logo=star)
+![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-56-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
@@ -69,65 +69,66 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/hej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>⚡ <strong>Hardware Engineer</strong> (55 positions)</h3></summary>
+<summary><h3>⚡ <strong>Hardware Engineer</strong> (56 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
-| 🏢 **Confidential** | Electrical Engineer, New Graduate | Eutawville | 10h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Eutawville,SC?jid=c2fefccf5ddc16f3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Confidential** | Electrical Engineer (New Graduate) | Cypress | 10h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Cypress,IL?jid=afe7a965018898cc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Confidential** | Electrical Engineer, New Graduate | Vance | 11h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Vance,SC?jid=050cfbd7a73e4597&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Confidential** | Electrical Engineer (New Graduate) | Aurora | 11h | [🔗 Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Aurora,IL?jid=c69807d368eced0c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **SpaceX** | New Graduate Engineer, Software (Starlink) | Bastrop, TX | 19h | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002) |
-| 🏢 **Anduril** | Electrical Engineer | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4999776007?gh_jid=4999776007) |
-| 🏢 **Anduril** | Electrical Engineer, Avionics Design | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5059872007?gh_jid=5059872007) |
-| 🏢 **Anduril** | Electrical Engineer, Connected Warfare Ground Vehicles | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4998977007?gh_jid=4998977007) |
-| 🏢 **Anduril** | Electrical Engineer, EagleEye | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5023558007?gh_jid=5023558007) |
-| 🏢 **Anduril** | Electrical Engineering Technician, Air Vehicles | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4940385007?gh_jid=4940385007) |
-| 🏢 **Anduril** | Electrical Engineering Technician, Connected Warfare | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4674022007?gh_jid=4674022007) |
-| 🏢 **Anduril** | Electrical Engineer, Intelligence Systems | Reston | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4591126007?gh_jid=4591126007) |
-| 🏢 **Anduril** | Electro-Mechanical Engineer,  R&D | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4924593007?gh_jid=4924593007) |
-| 🏢 **Anduril** | Mechanical Engineer | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4797917007?gh_jid=4797917007) |
-| 🏢 **Anduril** | Mechanical Engineer | Atlanta | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4945740007?gh_jid=4945740007) |
-| 🏢 **Anduril** | Mechanical Engineer | Huntsville | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5011389007?gh_jid=5011389007) |
-| 🏢 **Anduril** | Mechanical Engineer, Advanced Effects | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4788667007?gh_jid=4788667007) |
-| 🏢 **Anduril** | Mechanical Engineer, Connected Warfare | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4649261007?gh_jid=4649261007) |
-| 🏢 **Anduril** | Mechanical Engineer, Drones | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5010190007?gh_jid=5010190007) |
-| 🏢 **Anduril** | Mechanical Engineer, Imaging | Lexington | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5064569007?gh_jid=5064569007) |
-| 🏢 **Anduril** | Mechanical Engineer, Maritime | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5022553007?gh_jid=5022553007) |
-| 🏢 **Anduril** | Mechanical Engineer, Omen 🏠 | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4869028007?gh_jid=4869028007) |
-| 🏢 **Anduril** | Mechanical Engineer, Omen 🏠 | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4972115007?gh_jid=4972115007) |
-| 🏢 **Anduril** | Mechanical Engineer,  Roadrunner | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5026759007?gh_jid=5026759007) |
-| 🏢 **Anduril** | Mechanical Engineer, Space | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4834719007?gh_jid=4834719007) |
-| 🏢 **Anduril** | Mechatronics Engineer, FW/MCUs/Controls | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4833640007?gh_jid=4833640007) |
-| 🏢 **Anduril** | PCB Engineer | Broomfield | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5030375007?gh_jid=5030375007) |
-| 🏢 **Anduril** | Radar Electro-Mechanical Engineer | Fort Collins | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5051373007?gh_jid=5051373007) |
-| 🏢 **Anduril** | Robotics Engineer, Maritime | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5051580007?gh_jid=5051580007) |
-| 🏢 **Anduril** | Robotics Engineer, Maritime | Quincy | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5047315007?gh_jid=5047315007) |
-| 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy 🏠 | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4673939007?gh_jid=4673939007) |
-| 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy 🏠 | Boston | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4674091007?gh_jid=4674091007) |
-| 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy 🏠 | Seattle | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4674090007?gh_jid=4674090007) |
-| 🏢 **Anduril** | Robotics Software Engineer, GNSS Denied Sensor Integration | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5030281007?gh_jid=5030281007) |
-| 🏢 **Anduril** | Robotics Software Engineer, Path Planning | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5030896007?gh_jid=5030896007) |
-| 🏢 **Anduril** | Robotics Software Engineer, Vehicle Software 🏠 | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4672892007?gh_jid=4672892007) |
-| 🏢 **Anduril** | Software Engineer, Robotics 🏠 | Irvine | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4932360007?gh_jid=4932360007) |
-| 🏢 **Anduril** | Technician, Electrical/PCBAs | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5025544007?gh_jid=5025544007) |
-| 🏢 **SpaceX** | Mechanical Engineer (Components Build Engineer, Starship) | Hawthorne, CA | 1d | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8441132002?gh_jid=8441132002) |
-| 🏢 **SpaceX** | Electrical Engineer, Energy Infrastructure & Generation 🏠 | Bastrop, TX | 1d | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8440651002?gh_jid=8440651002) |
-| 🏢 **SpaceX** | Machine Maintenance Technician, PCB (Starlink) | Bastrop, TX | 1d | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8355992002?gh_jid=8355992002) |
-| 🏢 **Enercon Services, Inc.** | New Graduate (May/June 2026) - Electrical Engineer | Chattanooga | 2d | [🔗 Apply](https://jobright.ai/jobs/info/69699168639b452fb57f841b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Verkada** | Hardware Engineer | San Mateo, CA | 2d | [🔗 Apply](https://job-boards.greenhouse.io/verkada/jobs/4288855007) |
-| 🏢 **Verkada** | Hardware Engineer, New Grad 2025 | San Mateo, CA | 2d | [🔗 Apply](https://job-boards.greenhouse.io/verkada/jobs/5036396007) |
-| 🏢 **SpaceX** | Mechanical Engineer, Starship Launch Infrastructure (Gigabay) | Cape Canaveral, FL | 2d | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8169934002?gh_jid=8169934002) |
-| 🏢 **SpaceX** | Electrical Engineer, Power Systems (Starlink) 🏠 | Bastrop, TX | 3d | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8436568002?gh_jid=8436568002) |
-| 🏢 **Lockheed Martin** | RF Engineer ( Electrical Engineer ) 🇺🇸 🏠 | Owego | 4d | [🔗 Apply](https://www.lockheedmartinjobs.com/job/owego/rf-engineer-electrical-engineer/694/92126665504?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Enercon Services, Inc.** | New Graduate- Electrical Engineer- Nuclear Services Group (Dec 2024 New Graduates) at Enercon Services, Inc. Kennesaw, GA 🇺🇸 | Kennesaw | 4d | [🔗 Apply](https://manaslake.com/jobs/job/new-graduate-electrical-engineer-nuclear-services-group-dec-2024-new-graduates-at-enercon-services-inc-kennesaw-ga-MVBuWnVQSDlNOXhZMDhTMkxOaUJudkFjMWc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **BeaconFire Inc.** | Embedded Systems Engineer – Entry Level (Visa Sponsorship) | New York | 1w | [🔗 Apply](https://www.jobleads.com/us/job/embedded-systems-engineer-entry-level-visa-sponsorship--new-york--e6ab5620a5434058e22443b87c315e5a5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Shive Hattery Group, Inc.** | Electrical Engineer- Early Career | Iowa City | 1w | [🔗 Apply](https://recruiting.paylocity.com/recruiting/jobs/Details/3897461/Shive-Hattery-Group-Inc/Electrical-Engineer--Early-Career?source=Indeed_Feed&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **SpaceX** | Avionics Systems Engineer (Dragon) | Hawthorne, CA | 1w | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8426407002?gh_jid=8426407002) |
-| 🏢 **SpaceX** | Mechanical Engineer, Aviation Hardware (Starlink) | Woodinville, WA | 1w | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8425726002?gh_jid=8425726002) |
-| 🏢 **Scale AI** | ML Systems Engineer, Robotics | San Francisco, CA | 1w | [🔗 Apply](https://job-boards.greenhouse.io/scaleai/jobs/4663053005) |
-| 🏢 **SpaceX** | New Graduate Engineer, Electrical | Hawthorne, CA | 1w | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8136339002?gh_jid=8136339002) |
-| 🏢 **SpaceX** | Mechanical Design Specialist, PCBA Production - 1st Shift (Starlink) | Redmond, WA | 1w | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8411609002?gh_jid=8411609002) |
+| 🏢 **Confidential** | Electrical Engineer (New Graduate) | Chicago | 10h | [Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Chicago,IL?jid=8e12adb9636caad3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Confidential** | Electrical Engineer, New Graduate | Eutawville | 10h | [Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Eutawville,SC?jid=c2fefccf5ddc16f3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Confidential** | Electrical Engineer (New Graduate) | Cypress | 10h | [Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Cypress,IL?jid=afe7a965018898cc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Confidential** | Electrical Engineer, New Graduate | Vance | 11h | [Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Vance,SC?jid=050cfbd7a73e4597&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Confidential** | Electrical Engineer (New Graduate) | Aurora | 11h | [Apply](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Aurora,IL?jid=c69807d368eced0c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **SpaceX** | New Graduate Engineer, Software (Starlink) | Bastrop, TX | 19h | [Apply](https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002) |
+| 🏢 **Anduril** | Electrical Engineer | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4999776007?gh_jid=4999776007) |
+| 🏢 **Anduril** | Electrical Engineer, Avionics Design | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5059872007?gh_jid=5059872007) |
+| 🏢 **Anduril** | Electrical Engineer, Connected Warfare Ground Vehicles | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4998977007?gh_jid=4998977007) |
+| 🏢 **Anduril** | Electrical Engineer, EagleEye | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5023558007?gh_jid=5023558007) |
+| 🏢 **Anduril** | Electrical Engineering Technician, Air Vehicles | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4940385007?gh_jid=4940385007) |
+| 🏢 **Anduril** | Electrical Engineering Technician, Connected Warfare | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4674022007?gh_jid=4674022007) |
+| 🏢 **Anduril** | Electrical Engineer, Intelligence Systems | Reston | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4591126007?gh_jid=4591126007) |
+| 🏢 **Anduril** | Electro-Mechanical Engineer,  R&D | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4924593007?gh_jid=4924593007) |
+| 🏢 **Anduril** | Mechanical Engineer | Huntsville | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5011389007?gh_jid=5011389007) |
+| 🏢 **Anduril** | Mechanical Engineer | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4797917007?gh_jid=4797917007) |
+| 🏢 **Anduril** | Mechanical Engineer | Atlanta | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4945740007?gh_jid=4945740007) |
+| 🏢 **Anduril** | Mechanical Engineer, Advanced Effects | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4788667007?gh_jid=4788667007) |
+| 🏢 **Anduril** | Mechanical Engineer, Connected Warfare | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4649261007?gh_jid=4649261007) |
+| 🏢 **Anduril** | Mechanical Engineer, Drones | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5010190007?gh_jid=5010190007) |
+| 🏢 **Anduril** | Mechanical Engineer, Imaging | Lexington | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5064569007?gh_jid=5064569007) |
+| 🏢 **Anduril** | Mechanical Engineer, Maritime | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5022553007?gh_jid=5022553007) |
+| 🏢 **Anduril** | Mechanical Engineer, Omen 🏠 | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4869028007?gh_jid=4869028007) |
+| 🏢 **Anduril** | Mechanical Engineer, Omen 🏠 | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4972115007?gh_jid=4972115007) |
+| 🏢 **Anduril** | Mechanical Engineer,  Roadrunner | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5026759007?gh_jid=5026759007) |
+| 🏢 **Anduril** | Mechanical Engineer, Space | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4834719007?gh_jid=4834719007) |
+| 🏢 **Anduril** | Mechatronics Engineer, FW/MCUs/Controls | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4833640007?gh_jid=4833640007) |
+| 🏢 **Anduril** | PCB Engineer | Broomfield | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5030375007?gh_jid=5030375007) |
+| 🏢 **Anduril** | Radar Electro-Mechanical Engineer | Fort Collins | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5051373007?gh_jid=5051373007) |
+| 🏢 **Anduril** | Robotics Engineer, Maritime | Quincy | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5047315007?gh_jid=5047315007) |
+| 🏢 **Anduril** | Robotics Engineer, Maritime | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5051580007?gh_jid=5051580007) |
+| 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy 🏠 | Seattle | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4674090007?gh_jid=4674090007) |
+| 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy 🏠 | Boston | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4674091007?gh_jid=4674091007) |
+| 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy 🏠 | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4673939007?gh_jid=4673939007) |
+| 🏢 **Anduril** | Robotics Software Engineer, GNSS Denied Sensor Integration | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5030281007?gh_jid=5030281007) |
+| 🏢 **Anduril** | Robotics Software Engineer, Path Planning | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5030896007?gh_jid=5030896007) |
+| 🏢 **Anduril** | Robotics Software Engineer, Vehicle Software 🏠 | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4672892007?gh_jid=4672892007) |
+| 🏢 **Anduril** | Software Engineer, Robotics 🏠 | Irvine | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4932360007?gh_jid=4932360007) |
+| 🏢 **Anduril** | Technician, Electrical/PCBAs | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5025544007?gh_jid=5025544007) |
+| 🏢 **SpaceX** | Mechanical Engineer (Components Build Engineer, Starship) | Hawthorne, CA | 1d | [Apply](https://boards.greenhouse.io/spacex/jobs/8441132002?gh_jid=8441132002) |
+| 🏢 **SpaceX** | Electrical Engineer, Energy Infrastructure & Generation 🏠 | Bastrop, TX | 1d | [Apply](https://boards.greenhouse.io/spacex/jobs/8440651002?gh_jid=8440651002) |
+| 🏢 **SpaceX** | Machine Maintenance Technician, PCB (Starlink) | Bastrop, TX | 1d | [Apply](https://boards.greenhouse.io/spacex/jobs/8355992002?gh_jid=8355992002) |
+| 🏢 **Enercon Services, Inc.** | New Graduate (May/June 2026) - Electrical Engineer | Chattanooga | 2d | [Apply](https://jobright.ai/jobs/info/69699168639b452fb57f841b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Verkada** | Hardware Engineer | San Mateo, CA | 2d | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4288855007) |
+| 🏢 **Verkada** | Hardware Engineer, New Grad 2025 | San Mateo, CA | 2d | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5036396007) |
+| 🏢 **SpaceX** | Mechanical Engineer, Starship Launch Infrastructure (Gigabay) | Cape Canaveral, FL | 2d | [Apply](https://boards.greenhouse.io/spacex/jobs/8169934002?gh_jid=8169934002) |
+| 🏢 **SpaceX** | Electrical Engineer, Power Systems (Starlink) 🏠 | Bastrop, TX | 3d | [Apply](https://boards.greenhouse.io/spacex/jobs/8436568002?gh_jid=8436568002) |
+| 🏢 **Lockheed Martin** | RF Engineer ( Electrical Engineer ) 🇺🇸 🏠 | Owego | 4d | [Apply](https://www.lockheedmartinjobs.com/job/owego/rf-engineer-electrical-engineer/694/92126665504?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Enercon Services, Inc.** | New Graduate- Electrical Engineer- Nuclear Services Group (Dec 2024 New Graduates) at Enercon Services, Inc. Kennesaw, GA 🇺🇸 | Kennesaw | 5d | [Apply](https://manaslake.com/jobs/job/new-graduate-electrical-engineer-nuclear-services-group-dec-2024-new-graduates-at-enercon-services-inc-kennesaw-ga-MVBuWnVQSDlNOXhZMDhTMkxOaUJudkFjMWc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **BeaconFire Inc.** | Embedded Systems Engineer – Entry Level (Visa Sponsorship) | New York | 1w | [Apply](https://www.jobleads.com/us/job/embedded-systems-engineer-entry-level-visa-sponsorship--new-york--e6ab5620a5434058e22443b87c315e5a5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Shive Hattery Group, Inc.** | Electrical Engineer- Early Career | Iowa City | 1w | [Apply](https://recruiting.paylocity.com/recruiting/jobs/Details/3897461/Shive-Hattery-Group-Inc/Electrical-Engineer--Early-Career?source=Indeed_Feed&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **SpaceX** | Avionics Systems Engineer (Dragon) | Hawthorne, CA | 1w | [Apply](https://boards.greenhouse.io/spacex/jobs/8426407002?gh_jid=8426407002) |
+| 🏢 **SpaceX** | Mechanical Engineer, Aviation Hardware (Starlink) | Woodinville, WA | 1w | [Apply](https://boards.greenhouse.io/spacex/jobs/8425726002?gh_jid=8425726002) |
+| 🏢 **Scale AI** | ML Systems Engineer, Robotics | San Francisco, CA | 1w | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4663053005) |
+| 🏢 **SpaceX** | New Graduate Engineer, Electrical | Hawthorne, CA | 1w | [Apply](https://boards.greenhouse.io/spacex/jobs/8136339002?gh_jid=8136339002) |
+| 🏢 **SpaceX** | Mechanical Design Specialist, PCBA Production - 1st Shift (Starlink) | Redmond, WA | 1w | [Apply](https://boards.greenhouse.io/spacex/jobs/8411609002?gh_jid=8411609002) |
 
 </details>
 
@@ -136,41 +137,40 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
-| 🏢 **Anduril** | Firmware Engineer, Manufacturing Test | Costa Mesa | 20h | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4987908007?gh_jid=4987908007) |
-| 🏢 **Amazon Web Services (AWS)** | FPGA Development Engineer, Bespoke Solutions 🇺🇸 | Jessup | 1d | [🔗 Apply](https://www.linkedin.com/jobs/view/fpga-development-engineer-bespoke-solutions-at-amazon-web-services-aws-4346169981?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Anduril** | Firmware Engineer, Embedded Systems | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5052359007?gh_jid=5052359007) |
-| 🏢 **IBM** | Entry-Level Firmware Engineer — Embedded Systems | Durham | 4d | [🔗 Apply](https://us.trabajo.org/job-2283-ced4911122ced5196bf720cc0b8df4bf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Cosmoquick** | Fresher Firmware Engineer Jobs in Dallas | Dallas | 5d | [🔗 Apply](https://cosmoquick.com/fresher-jobs-in/dallas/firmware-engineer-jobs?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Cosmoquick** | Fresher Firmware Engineer Jobs in Memphis | Memphis | 5d | [🔗 Apply](https://cosmoquick.com/fresher-jobs-in/memphis/firmware-engineer-jobs?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Cosmoquick** | Fresher Firmware Engineer in Boston | Boston | 5d | [🔗 Apply](https://cosmoquick.com/hire-freshers-in/boston/hire-fresher-firmware-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Cosmoquick** | Fresher Firmware Engineer in Chicago | Chicago | 6d | [🔗 Apply](https://cosmoquick.com/hire-freshers-in/chicago/hire-fresher-firmware-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Cosmoquick** | Fresher Firmware Engineer Jobs in Reno | Reno | 6d | [🔗 Apply](https://cosmoquick.com/fresher-jobs-in/reno/fresher-firmware-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Anduril** | Firmware Engineer, Manufacturing Test | Costa Mesa | 21h | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4987908007?gh_jid=4987908007) |
+| 🏢 **Amazon Web Services (AWS)** | FPGA Development Engineer, Bespoke Solutions 🇺🇸 | Jessup | 1d | [Apply](https://www.linkedin.com/jobs/view/fpga-development-engineer-bespoke-solutions-at-amazon-web-services-aws-4346169981?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Anduril** | Firmware Engineer, Embedded Systems | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5052359007?gh_jid=5052359007) |
+| 🏢 **IBM** | Entry-Level Firmware Engineer — Embedded Systems | Durham | 4d | [Apply](https://us.trabajo.org/job-2283-ced4911122ced5196bf720cc0b8df4bf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Cosmoquick** | Fresher Firmware Engineer Jobs in Dallas | Dallas | 5d | [Apply](https://cosmoquick.com/fresher-jobs-in/dallas/firmware-engineer-jobs?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Cosmoquick** | Fresher Firmware Engineer Jobs in Memphis | Memphis | 5d | [Apply](https://cosmoquick.com/fresher-jobs-in/memphis/firmware-engineer-jobs?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Cosmoquick** | Fresher Firmware Engineer in Boston | Boston | 5d | [Apply](https://cosmoquick.com/hire-freshers-in/boston/hire-fresher-firmware-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Cosmoquick** | Fresher Firmware Engineer in Chicago | Chicago | 6d | [Apply](https://cosmoquick.com/hire-freshers-in/chicago/hire-fresher-firmware-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Cosmoquick** | Fresher Firmware Engineer Jobs in Reno | Reno | 6d | [Apply](https://cosmoquick.com/fresher-jobs-in/reno/fresher-firmware-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
 <details>
-<summary><h3>🔌 <strong>Embedded Systems</strong> (18 positions)</h3></summary>
+<summary><h3>🔌 <strong>Embedded Systems</strong> (17 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
-| 🏢 **Palantir** | Embedded People Engineer | New York, NY | 8h | [🔗 Apply](https://jobs.lever.co/palantir/f1fdab97-ab1e-4c3d-82f2-4b70f12d249d/apply) |
-| 🏢 **Palantir** | Embedded People Engineer | Washington | 8h | [🔗 Apply](https://jobs.lever.co/palantir/c620a2b0-fa5f-4a1d-999d-b1ec6f09a582/apply) |
-| 🏢 **Anduril** | Embedded Haskell Engineer | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5043620007?gh_jid=5043620007) |
-| 🏢 **Anduril** | Embedded NixOS Engineer | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5043618007?gh_jid=5043618007) |
-| 🏢 **Anduril** | Flight Software Engineer, Embedded C/C++, Air Dominance & Strike | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007) |
-| 🏢 **Anduril** | Flight Software Engineer, Embedded C/C++, Air Dominance & Strike - Advanced Effects | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5035788007?gh_jid=5035788007) |
-| 🏢 **Anduril** | Software Engineer, Embedded C/C++ Flight Software | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5008374007?gh_jid=5008374007) |
-| 🏢 **Anduril** | Software Engineer, Embedded C/C++ Flight Software | Atlanta | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5009215007?gh_jid=5009215007) |
-| 🏢 **Verkada** | Embedded Linux Software Engineer | San Mateo, CA | 2d | [🔗 Apply](https://job-boards.greenhouse.io/verkada/jobs/5043233007) |
-| 🏢 **Verkada** | Embedded Software Engineer - Access Control | San Mateo, CA | 2d | [🔗 Apply](https://job-boards.greenhouse.io/verkada/jobs/5032260007) |
-| 🏢 **Verkada** | Embedded UI Engineer | San Mateo, CA | 2d | [🔗 Apply](https://job-boards.greenhouse.io/verkada/jobs/5035823007) |
-| 🏢 **National Guard Employment Network** | Embedded Software Engineer Entry Level - Bloomington, MN | Minneapolis | 3d | [🔗 Apply](https://lensa.com/job-v1/national-guard-employment-network/minneapolis-mn/embedded-software-engineer/ec3d2bfb16f09e1352c1d259bbd448bf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **National Guard Employment Network** | Embedded Software Engineer Entry Level - Bloomington, MN | Minneapolis | 3d | [🔗 Apply](https://lensa.com/job-v1/national-guard-employment-network/minneapolis-mn/embedded-software-engineer/ec3d2bfb16f09e1352c1d259bbd448bf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Cosmoquick** | Fresher Firmware Developer Jobs in Denver | Denver | 5d | [🔗 Apply](https://cosmoquick.com/fresher-jobs-in/denver/firmware-developer-jobs?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Cosmoquick** | Fresher Firmware Developer Jobs in Charlotte | Charlotte | 5d | [🔗 Apply](https://cosmoquick.com/fresher-jobs-in/charlotte/fresher-firmware-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Cosmoquick** | Fresher Firmware Developer in Houston | Houston | 5d | [🔗 Apply](https://cosmoquick.com/hire-freshers-in/houston/hire-fresher-firmware-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Cosmoquick** | Fresher Firmware Developer Jobs in Dallas | Dallas | 5d | [🔗 Apply](https://cosmoquick.com/fresher-jobs-in/dallas/fresher-firmware-developer) |
-| 🏢 **Cosmoquick** | Fresher Firmware Developer Jobs in Pittsburgh | Pittsburgh | 5d | [🔗 Apply](https://cosmoquick.com/fresher-jobs-in/pittsburgh/fresher-firmware-developer) |
+| 🏢 **Palantir** | Embedded People Engineer | New York, NY | 9h | [Apply](https://jobs.lever.co/palantir/f1fdab97-ab1e-4c3d-82f2-4b70f12d249d/apply) |
+| 🏢 **Palantir** | Embedded People Engineer | Washington | 9h | [Apply](https://jobs.lever.co/palantir/c620a2b0-fa5f-4a1d-999d-b1ec6f09a582/apply) |
+| 🏢 **Anduril** | Embedded Haskell Engineer | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5043620007?gh_jid=5043620007) |
+| 🏢 **Anduril** | Embedded NixOS Engineer | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5043618007?gh_jid=5043618007) |
+| 🏢 **Anduril** | Flight Software Engineer, Embedded C/C++, Air Dominance & Strike | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007) |
+| 🏢 **Anduril** | Flight Software Engineer, Embedded C/C++, Air Dominance & Strike - Advanced Effects | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5035788007?gh_jid=5035788007) |
+| 🏢 **Anduril** | Software Engineer, Embedded C/C++ Flight Software | Atlanta | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5009215007?gh_jid=5009215007) |
+| 🏢 **Anduril** | Software Engineer, Embedded C/C++ Flight Software | Costa Mesa | 1d | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5008374007?gh_jid=5008374007) |
+| 🏢 **Verkada** | Embedded Linux Software Engineer | San Mateo, CA | 2d | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5043233007) |
+| 🏢 **Verkada** | Embedded Software Engineer - Access Control | San Mateo, CA | 2d | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5032260007) |
+| 🏢 **Verkada** | Embedded UI Engineer | San Mateo, CA | 2d | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5035823007) |
+| 🏢 **National Guard Employment Network** | Embedded Software Engineer Entry Level - Bloomington, MN | Minneapolis | 3d | [Apply](https://lensa.com/job-v1/national-guard-employment-network/minneapolis-mn/embedded-software-engineer/ec3d2bfb16f09e1352c1d259bbd448bf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Cosmoquick** | Fresher Firmware Developer Jobs in Denver | Denver | 5d | [Apply](https://cosmoquick.com/fresher-jobs-in/denver/firmware-developer-jobs?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Cosmoquick** | Fresher Firmware Developer Jobs in Charlotte | Charlotte | 5d | [Apply](https://cosmoquick.com/fresher-jobs-in/charlotte/fresher-firmware-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Cosmoquick** | Fresher Firmware Developer in Houston | Houston | 5d | [Apply](https://cosmoquick.com/hire-freshers-in/houston/hire-fresher-firmware-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Cosmoquick** | Fresher Firmware Developer Jobs in Dallas | Dallas | 5d | [Apply](https://cosmoquick.com/fresher-jobs-in/dallas/fresher-firmware-developer) |
+| 🏢 **Cosmoquick** | Fresher Firmware Developer Jobs in Pittsburgh | Pittsburgh | 5d | [Apply](https://cosmoquick.com/fresher-jobs-in/pittsburgh/fresher-firmware-developer) |
 
 </details>
 
@@ -179,7 +179,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
-| 🏢 **SpaceX** | Test Engineer (Avionics Test Lab) | Hawthorne, CA | 1w | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/8425814002?gh_jid=8425814002) |
+| 🏢 **SpaceX** | Test Engineer (Avionics Test Lab) | Hawthorne, CA | 1w | [Apply](https://boards.greenhouse.io/spacex/jobs/8425814002?gh_jid=8425814002) |
 
 </details>
 
