@@ -9,7 +9,7 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-82-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-83-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-14-blue?style=flat&logo=building)
 ![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-55-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -18,7 +18,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 14+ top companies like Samsara and Verkada. Updated every 15 minutes with 82+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 14+ top companies like Samsara and Verkada. Updated every 15 minutes with 83+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech hardware companies, defense contractors, and engineering-first startups like Samsara and Verkada.</p>
 
@@ -149,7 +149,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🔌 <strong>Embedded Systems</strong> (17 positions)</h3></summary>
+<summary><h3>🔌 <strong>Embedded Systems</strong> (18 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -164,6 +164,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Verkada** | Embedded Linux Software Engineer | San Mateo, CA | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5043233007) |
 | 🏢 **Verkada** | Embedded Software Engineer - Access Control | San Mateo, CA | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5032260007) |
 | 🏢 **Verkada** | Embedded UI Engineer | San Mateo, CA | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5035823007) |
+| 🏢 **National Guard Employment Network** | Embedded Software Engineer Entry Level - Bloomington, MN | Minneapolis | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://lensa.com/job-v1/national-guard-employment-network/minneapolis-mn/embedded-software-engineer/ec3d2bfb16f09e1352c1d259bbd448bf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **National Guard Employment Network** | Embedded Software Engineer Entry Level - Bloomington, MN | Minneapolis | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://lensa.com/job-v1/national-guard-employment-network/minneapolis-mn/embedded-software-engineer/ec3d2bfb16f09e1352c1d259bbd448bf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Cosmoquick** | Fresher Firmware Developer Jobs in Denver | Denver | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/denver/firmware-developer-jobs?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Cosmoquick** | Fresher Firmware Developer Jobs in Charlotte | Charlotte | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/charlotte/fresher-firmware-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -237,7 +238,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 82 current opportunities from 14 companies**
+**🎯 83 current opportunities from 14 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
