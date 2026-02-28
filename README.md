@@ -138,8 +138,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Anduril** | Firmware Engineer, Manufacturing Test | Costa Mesa | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4987908007?gh_jid=4987908007) |
-| 🏢 **Amazon Web Services (AWS)** | FPGA Development Engineer, Bespoke Solutions 🇺🇸 | Jessup | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/fpga-development-engineer-bespoke-solutions-at-amazon-web-services-aws-4346169981) |
 | 🏢 **Anduril** | Firmware Engineer, Embedded Systems | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5052359007?gh_jid=5052359007) |
+| 🏢 **Amazon Web Services (AWS)** | FPGA Development Engineer, Bespoke Solutions 🇺🇸 | Jessup | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/fpga-development-engineer-bespoke-solutions-at-amazon-web-services-aws-4346169981) |
 | 🏢 **IBM** | Entry-Level Firmware Engineer — Embedded Systems | Durham | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.trabajo.org/job-2283-ced4911122ced5196bf720cc0b8df4bf) |
 | 🏢 **Cosmoquick** | Fresher Firmware Engineer Jobs in Dallas | Dallas | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/dallas/firmware-engineer-jobs) |
 | 🏢 **Cosmoquick** | Fresher Firmware Engineer Jobs in Memphis | Memphis | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/memphis/firmware-engineer-jobs) |
@@ -196,6 +196,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 Check out our other repos for jobs and free resources:
 
+<p align="center">
+  <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2026"><img src="images/repo-ngj.png" alt="New Grad Jobs 2026" height="40"></a>
+</p>
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
   &nbsp;&nbsp;
