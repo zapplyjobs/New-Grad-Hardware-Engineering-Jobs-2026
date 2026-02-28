@@ -1605,6 +1605,36 @@
     "job_posted_at": "2026-02-25T00:00:00.000Z"
   },
   {
+    "job_id": "js-national-guard-employment-network-apgmqf3dmblvlqcraaaaaa==",
+    "job_title": "Embedded Software Engineer Entry Level - Bloomington, MN",
+    "employer_name": "National Guard Employment Network",
+    "job_city": "Minneapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://lensa.com/job-v1/national-guard-employment-network/minneapolis-mn/embedded-software-engineer/ec3d2bfb16f09e1352c1d259bbd448bf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
+    "job_description": "Software Engineer For Airborne Systems\n\nOur organization works with partner companies to source qualified talent for their open roles. The following position is available to Veterans, Transitioning Military, National Guard and Reserve Members, Military Spouses, Wounded Warriors, and their Caregivers.\n\nAs a Software Engineer for Airborne Systems, you'll be a member of a cross functional team responsible for airborne computers that process and display mission data in the cockpit, to crypto products for identifying friendly aircraft, and weapon control systems that enable the launch and control of precision guided weapons, we work to ensure the world's most advanced aircraft maintain air superiority and information dominance.\n\nWe encourage you to apply if you have any of these preferred skills or experiences:\n• Embedded software\n• Automated testing\n• Programming experience in C, C++, Python, and Rust\n• Knowledge and understanding of Linux\n\nWhat sets you apart:\n• Clear understanding of the software engineering concepts, principles, theories, software development process, and agile methodology\n• Clear understanding of the software development process, with agile experience\n• Ability to grasp and apply new information quickly and handle increasing responsibilities with growing complexity\n• Team player who thrives in collaborative environments and revels in team success\n• Commitment to ongoing professional development for yourself and others\n\nOur Commitment to You:\n• An exciting career path with opportunities for continuous learning and development\n• Research oriented work, alongside award winning teams developing practical solutions for our nation's security\n• Flexible schedules with every other Friday off work, if desired (9/80 schedule)\n• Competitive benefits, including 401k matching, flex time off, paid parental leave, healthcare benefits, health & wellness programs, employee resource and social groups, and more\n\nWorkplace Options:\n\nThis position will be fully on-site. While on-site, you will be a part of the GDMS Bloomington (MN) facility.\n\nTarget salary range: USD $77,843.00/Yr. - USD $86,358.00/Yr. This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "735b9aaaa4ca0883bda20687811118482c7beb45ad71a1a9dfb12f0e7f823f4a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-25T00:00:00.000Z"
+  },
+  {
     "job_id": "js-lockheed-martin-s0nhyrh8aa1spptfaaaaaa==",
     "job_title": "RF Engineer ( Electrical Engineer )",
     "employer_name": "Lockheed Martin",
@@ -1979,6 +2009,35 @@
     "_source": "aggregator",
     "_original_source": "jsearch",
     "job_posted_at": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-beaconfire-inc-f0t8oyf4q7b98oh2aaaaaa==",
+    "job_title": "Embedded Systems Engineer – Entry Level (Visa Sponsorship)",
+    "employer_name": "BeaconFire Inc.",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/embedded-systems-engineer-entry-level-visa-sponsorship--new-york--e6ab5620a5434058e22443b87c315e5a5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-22T00:00:00.000Z",
+    "job_description": "A technology consulting firm in New York is looking for a Technical Recruiter to join their team. This entry-level role involves writing maintainable code for client platforms and working with testers to resolve issues. The ideal candidate should have a Master's in Computer Science, along with basic programming skills, specifically in Java and familiarity with tools such as Spring and Maven. The position offers a salary between $65,000 and $80,000, along with various benefits including medical and vision insurance.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "23fab136b1e17bde95d7a258b9712a5d57b9124231ba146dc3521d375eb5aa99",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-22T00:00:00.000Z"
   },
   {
     "job_id": "js-cosmoquick-rg1tjfnepm7vqfclaaaaaa==",
