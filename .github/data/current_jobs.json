@@ -347,6 +347,34 @@
     "job_posted_at": "2026-02-28T00:00:00.000Z"
   },
   {
+    "job_id": "workday-caterpillar-R0000349415",
+    "job_title": "Embedded SW Engineering Specialist-2 - Display Feature Coordinator",
+    "employer_name": "Caterpillar",
+    "job_city": "Mossville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/job/Mossville-Illinois/Embedded-SW-Engineering-Specialist-2---Display-Feature-Coordinator_R0000349415",
+    "job_posted_at_datetime_utc": "2026-02-27T18:36:35.512Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "aa44e13aaa73489a45f401838dd443af3153805d01543d8fc58c3099325ac4f1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-27T18:36:35.512Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8399140002",
     "job_title": "New Graduate Engineer, Software (Starlink)",
     "employer_name": "SpaceX",
@@ -376,34 +404,6 @@
     "job_posted_at": "2026-02-27T13:35:26-05:00"
   },
   {
-    "job_id": "workday-caterpillar-R0000349415",
-    "job_title": "Embedded SW Engineering Specialist-2 - Display Feature Coordinator",
-    "employer_name": "Caterpillar",
-    "job_city": "Mossville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/job/Mossville-Illinois/Embedded-SW-Engineering-Specialist-2---Display-Feature-Coordinator_R0000349415",
-    "job_posted_at_datetime_utc": "2026-02-27T18:23:00.162Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "aa44e13aaa73489a45f401838dd443af3153805d01543d8fc58c3099325ac4f1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-27T18:23:00.162Z"
-  },
-  {
     "job_id": "workday-boeing-JR2025489394",
     "job_title": "Software Engineer–Embedded (Embedded)",
     "employer_name": "Boeing",
@@ -412,7 +412,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Long-Beach-CA/Software-Engineer-Embedded--Embedded-_JR2025489394-1",
-    "job_posted_at_datetime_utc": "2026-02-27T18:20:42.096Z",
+    "job_posted_at_datetime_utc": "2026-02-27T18:34:17.685Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "1eb2df51f42ce821610a603a245145e456805b352be0af32e583c59d9d65488b",
@@ -430,7 +430,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T18:20:42.096Z"
+    "job_posted_at": "2026-02-27T18:34:17.685Z"
   },
   {
     "job_id": "workday-boeing-JR2026498362",
@@ -441,7 +441,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Lemoore-CA/F-18-E-F-Avionics-Field-Service-Representative_JR2026498362-1",
-    "job_posted_at_datetime_utc": "2026-02-27T18:20:42.096Z",
+    "job_posted_at_datetime_utc": "2026-02-27T18:34:17.685Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "460ac03f11951ec98251ca4edabe11b960bb85501393e0d5857d005a8aa9867a",
@@ -458,7 +458,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T18:20:42.096Z"
+    "job_posted_at": "2026-02-27T18:34:17.685Z"
   },
   {
     "job_id": "workday-hpe-1203372",
@@ -469,7 +469,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/job/Spring-Texas-United-States-of-America/Embedded-Linux-Engineer_1203372",
-    "job_posted_at_datetime_utc": "2026-02-27T18:19:23.370Z",
+    "job_posted_at_datetime_utc": "2026-02-27T18:32:56.407Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "c59659ddbc43a169cdc33774dd1666f6fbb902c8402297a4057b48662bf51bc5",
@@ -486,7 +486,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T18:19:23.370Z"
+    "job_posted_at": "2026-02-27T18:32:56.407Z"
   },
   {
     "job_id": "workday-leidos-R-00177038",
@@ -497,7 +497,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Arlington-VA/Mechanical-Engineer_R-00177038",
-    "job_posted_at_datetime_utc": "2026-02-27T18:18:06.653Z",
+    "job_posted_at_datetime_utc": "2026-02-27T18:31:34.937Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "077de8823519630de9d238d1a1f88ae82340f4ef31bc59271f1370a43d81db5d",
@@ -514,7 +514,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T18:18:06.653Z"
+    "job_posted_at": "2026-02-27T18:31:34.937Z"
   },
   {
     "job_id": "workday-leidos-R-00173585",
@@ -525,7 +525,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Huntsville-AL/Junior-Aviation-Embedded-Software-Engineer_R-00173585",
-    "job_posted_at_datetime_utc": "2026-02-27T18:18:06.652Z",
+    "job_posted_at_datetime_utc": "2026-02-27T18:31:34.936Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "cf13c9831e3870f82531df3d03747cc79274367a3c2c93f99d50a5259e1295d2",
@@ -543,35 +543,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T18:18:06.652Z"
-  },
-  {
-    "job_id": "workday-rtx-01827342",
-    "job_title": "M&PE Mechanical Engineer I",
-    "employer_name": "RTX",
-    "job_city": "AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/M-PE-Mechanical-Engineer-I_01827342",
-    "job_posted_at_datetime_utc": "2026-02-27T18:17:35.343Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "d5a1a94152904b674659ae038e1e0d45e03f09ab1c908f73044bfceb62c1a986",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-27T18:17:35.343Z"
+    "job_posted_at": "2026-02-27T18:31:34.936Z"
   },
   {
     "job_id": "workday-rtx-01821446",
@@ -582,7 +554,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Prin-Mechanical-Engineer---ALE_01821446-1",
-    "job_posted_at_datetime_utc": "2026-02-27T18:17:35.343Z",
+    "job_posted_at_datetime_utc": "2026-02-27T18:31:04.577Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "d7b62fcbc3a20132fb20f1054c11d809fb56c8a8256231516c528c249b10bf8a",
@@ -599,7 +571,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T18:17:35.343Z"
+    "job_posted_at": "2026-02-27T18:31:04.577Z"
+  },
+  {
+    "job_id": "workday-rtx-01827342",
+    "job_title": "M&PE Mechanical Engineer I",
+    "employer_name": "RTX",
+    "job_city": "AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/M-PE-Mechanical-Engineer-I_01827342",
+    "job_posted_at_datetime_utc": "2026-02-27T18:31:04.576Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "d5a1a94152904b674659ae038e1e0d45e03f09ab1c908f73044bfceb62c1a986",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-27T18:31:04.576Z"
   },
   {
     "job_id": "workday-nvidia-JR2014185",
@@ -610,7 +610,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Software-Engineer--Robotics---Isaac-Lab---New-College-Grad-2026_JR2014185",
-    "job_posted_at_datetime_utc": "2026-02-27T18:16:16.084Z",
+    "job_posted_at_datetime_utc": "2026-02-27T18:29:48.234Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "99bebad0ef62375d92702c5edf588028e97be8741caf02d887fa5e0be021fbfc",
@@ -630,7 +630,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T18:16:16.084Z"
+    "job_posted_at": "2026-02-27T18:29:48.234Z"
   },
   {
     "job_id": "greenhouse-andurilindustries-4987908007",
@@ -1923,6 +1923,148 @@
     "job_posted_at": "2026-02-26T17:07:39-05:00"
   },
   {
+    "job_id": "workday-cadence-R52974",
+    "job_title": "Account Technical Executive for PCB and Electrical Systems",
+    "employer_name": "Cadence",
+    "job_city": "SAN JOSE",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Account-Technical-Executive---Systems-Division_R52974",
+    "job_posted_at_datetime_utc": "2026-02-26T18:35:01.341Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "a73e64603a88ecae2738c058d049bcf04aa5eafddfa569e0503ab1b4e0112c1c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T18:35:01.341Z"
+  },
+  {
+    "job_id": "workday-blue-origin-R59337",
+    "job_title": "Technician - Assembly & Integration  Avionics 1 ( B) Shift",
+    "employer_name": "Blue Origin",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/job/Huntsville-AL/Technician---Assembly---Integration--Avionics-1---B--Shift_R59337",
+    "job_posted_at_datetime_utc": "2026-02-26T18:34:39.845Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "497434a6176871fd5f2487ae9cb39e2c45a203667a2f6921c67bd41a4c3b80ac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T18:34:39.845Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2025483995",
+    "job_title": "Mechatronics Maintenance Technician 87706",
+    "employer_name": "Boeing",
+    "job_city": "Portland",
+    "job_state": "OR",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Portland-OR/Mechatronics-Maintenance-Technician-87706_JR2025483995-1",
+    "job_posted_at_datetime_utc": "2026-02-26T18:34:17.687Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "8e45fe53f803e0c838c129a7824268849219448c8e0d42c25beb367ff23f5d4f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T18:34:17.687Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2611881",
+    "job_title": "Opto-Mechanical Engineer IV (E4)",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Opto-Mechanical-Engineer-IV--E4-_R2611881",
+    "job_posted_at_datetime_utc": "2026-02-26T18:32:26.139Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "acf6c998c3669ea744a9a9255207e828876495912c06667609add523bd617714",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T18:32:26.139Z"
+  },
+  {
+    "job_id": "workday-nvidia-JR2013215",
+    "job_title": "MCU Firmware Engineer",
+    "employer_name": "NVIDIA",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/MCU-Firmware-Engineer_JR2013215",
+    "job_posted_at_datetime_utc": "2026-02-26T18:29:48.236Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "0c37e502d0f8f139a92b4af4a1fb75a794a9c2f23ecec498b1afd02a545c10f3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T18:29:48.236Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8355992002",
     "job_title": "Machine Maintenance Technician, PCB (Starlink)",
     "employer_name": "SpaceX",
@@ -1949,148 +2091,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-26T13:26:13-05:00"
-  },
-  {
-    "job_id": "workday-cadence-R52974",
-    "job_title": "Account Technical Executive for PCB and Electrical Systems",
-    "employer_name": "Cadence",
-    "job_city": "SAN JOSE",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/Account-Technical-Executive---Systems-Division_R52974",
-    "job_posted_at_datetime_utc": "2026-02-26T18:21:24.900Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "a73e64603a88ecae2738c058d049bcf04aa5eafddfa569e0503ab1b4e0112c1c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T18:21:24.900Z"
-  },
-  {
-    "job_id": "workday-blue-origin-R59337",
-    "job_title": "Technician - Assembly & Integration  Avionics 1 ( B) Shift",
-    "employer_name": "Blue Origin",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/job/Huntsville-AL/Technician---Assembly---Integration--Avionics-1---B--Shift_R59337",
-    "job_posted_at_datetime_utc": "2026-02-26T18:21:04.657Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "497434a6176871fd5f2487ae9cb39e2c45a203667a2f6921c67bd41a4c3b80ac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T18:21:04.657Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2025483995",
-    "job_title": "Mechatronics Maintenance Technician 87706",
-    "employer_name": "Boeing",
-    "job_city": "Portland",
-    "job_state": "OR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Portland-OR/Mechatronics-Maintenance-Technician-87706_JR2025483995-1",
-    "job_posted_at_datetime_utc": "2026-02-26T18:20:42.097Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "8e45fe53f803e0c838c129a7824268849219448c8e0d42c25beb367ff23f5d4f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T18:20:42.097Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2611881",
-    "job_title": "Opto-Mechanical Engineer IV (E4)",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Opto-Mechanical-Engineer-IV--E4-_R2611881",
-    "job_posted_at_datetime_utc": "2026-02-26T18:18:53.712Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "acf6c998c3669ea744a9a9255207e828876495912c06667609add523bd617714",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T18:18:53.712Z"
-  },
-  {
-    "job_id": "workday-nvidia-JR2013215",
-    "job_title": "MCU Firmware Engineer",
-    "employer_name": "NVIDIA",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/MCU-Firmware-Engineer_JR2013215",
-    "job_posted_at_datetime_utc": "2026-02-26T18:16:16.085Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "0c37e502d0f8f139a92b4af4a1fb75a794a9c2f23ecec498b1afd02a545c10f3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T18:16:16.085Z"
   },
   {
     "job_id": "js-enercon-services-inc-fvumstnkcxwigmymaaaaaa==",
@@ -2274,7 +2274,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/job/Mossville-Illinois/Embedded-Software-Engineer_R0000353015",
-    "job_posted_at_datetime_utc": "2026-02-25T18:23:00.163Z",
+    "job_posted_at_datetime_utc": "2026-02-25T18:36:35.513Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "c6974a2296f03152308639131cb9aa0da1497afeea4489acd6246c7039b8546b",
@@ -2292,7 +2292,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T18:23:00.163Z"
+    "job_posted_at": "2026-02-25T18:36:35.513Z"
   },
   {
     "job_id": "workday-boeing-JR2026495940",
@@ -2303,7 +2303,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Long-Beach-CA/C-17-Avionics-Project-Engineer_JR2026495940-1",
-    "job_posted_at_datetime_utc": "2026-02-25T18:20:42.097Z",
+    "job_posted_at_datetime_utc": "2026-02-25T18:34:17.688Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "9ac2acc1c7a336a9f2a4b730f48589b36f9c9153c3710bf353cdcee36d944c14",
@@ -2320,7 +2320,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T18:20:42.097Z"
+    "job_posted_at": "2026-02-25T18:34:17.688Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0229178",
@@ -2331,7 +2331,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Washington-DC/Mechanical-Engineer_R0229178",
-    "job_posted_at_datetime_utc": "2026-02-25T18:18:30.654Z",
+    "job_posted_at_datetime_utc": "2026-02-25T18:32:00.902Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "e46819dc6793d7935f189b8c715a842467389e25fe613d186aab27d3c0e41724",
@@ -2348,7 +2348,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T18:18:30.654Z"
+    "job_posted_at": "2026-02-25T18:32:00.902Z"
   },
   {
     "job_id": "greenhouse-spacex-8169934002",
@@ -2415,7 +2415,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/job/Longmont-CO/Mechanical-Engineer--Mechanisms-Design-_R60937",
-    "job_posted_at_datetime_utc": "2026-02-24T18:21:04.660Z",
+    "job_posted_at_datetime_utc": "2026-02-24T18:34:39.852Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "93bfa52d3c835b67559512f6ce7f31d82a66f75343f2756bbad507cf7f4dc0b9",
@@ -2432,35 +2432,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T18:21:04.660Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2025487812",
-    "job_title": "Experienced Avionics Hardware Engineer - Fighters Mission Systems",
-    "employer_name": "Boeing",
-    "job_city": "Berkeley",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Experienced-Avionics-Hardware-Engineer---Fighters-Mission-Systems_JR2025487812-1",
-    "job_posted_at_datetime_utc": "2026-02-24T18:20:42.099Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "7130da339df1527c87c4f4e9a3c66499909edd4e664eea96d26348131d1d3b25",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T18:20:42.099Z"
+    "job_posted_at": "2026-02-24T18:34:39.852Z"
   },
   {
     "job_id": "workday-boeing-JR2026490862",
@@ -2471,7 +2443,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/F-15-Flight-Line-Avionics-Technician---Qatar_JR2026490862-3",
-    "job_posted_at_datetime_utc": "2026-02-24T18:20:42.099Z",
+    "job_posted_at_datetime_utc": "2026-02-24T18:34:17.689Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "ff40f4bed3ff7fd3b4884884f38a09c7e03bfd79058f2ea14248bad4a97964ba",
@@ -2488,7 +2460,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T18:20:42.099Z"
+    "job_posted_at": "2026-02-24T18:34:17.689Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2025487812",
+    "job_title": "Experienced Avionics Hardware Engineer - Fighters Mission Systems",
+    "employer_name": "Boeing",
+    "job_city": "Berkeley",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Berkeley-MO/Experienced-Avionics-Hardware-Engineer---Fighters-Mission-Systems_JR2025487812-1",
+    "job_posted_at_datetime_utc": "2026-02-24T18:34:17.688Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "7130da339df1527c87c4f4e9a3c66499909edd4e664eea96d26348131d1d3b25",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T18:34:17.688Z"
   },
   {
     "job_id": "workday-applied-materials-R2612452",
@@ -2499,7 +2499,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Mechanical-Engineer-IV_R2612452",
-    "job_posted_at_datetime_utc": "2026-02-24T18:18:53.713Z",
+    "job_posted_at_datetime_utc": "2026-02-24T18:32:26.140Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "caf12fb08e419f595a51149d9c48227c2aab796b47192c524749901beeee5b79",
@@ -2516,36 +2516,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T18:18:53.713Z"
-  },
-  {
-    "job_id": "js-lockheed-martin-s0nhyrh8aa1spptfaaaaaa==",
-    "job_title": "RF Engineer ( Electrical Engineer )",
-    "employer_name": "Lockheed Martin",
-    "job_city": "Owego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.lockheedmartinjobs.com/job/owego/rf-engineer-electrical-engineer/694/92126665504",
-    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
-    "job_description": "Description:What We’re Doing\nAt Lockheed Martin, we're at the forefront of cutting-edge technology and innovation. Our campus in Owego, New York is a hub for engineering excellence, where we tackle some of the world's most challenging engineering problems. We pride ourselves on our culture of creativity, excellence, and product innovation.\n\nWho we are\nLockheed Martin is a global leader in aerospace, defense, and technology solutions. Our Owego campus is a thriving center of engineering expertise, fostering a culture that encourages creativity, excellence, and the creation of exceptional products. Our team is made up of dedicated professionals who are passionate about pushing the boundaries of what's possible.\n\nLockheed Martin Rotary & Mission Systems is seeking a full-time Early Career RF Engineer. In this role, you will design, simulate, develop, and evaluate RF Circuit Card Assemblies; develop, release, and support Engineering Check-out and Evaluation activities; assist with antenna design and testing, and support production of Antenna and RF LRUs, SRAs, CCAs, Modules, etc. The successful candidate will have experience with electrical circuit design and testing, knowledge of RF / Electromagnetic principles, experience with laboratory equipment, and experience with MATLAB. Must be a US Citizen.; This position will require a government security clearance.\nBasic Qualifications:\n-Bachelor's degree in Electrical Engineering, Computer Engineering, or similar\n\n-1+ year experience / coursework related to RF Engineering\n\n-1+ year experience / coursework with MATLAB\n\n-1+ year experience / coursework troubleshooting electrical / electronics\n\n-Strong organizational and communication skills\n\n-Familiarity with MS Office applications\n\n- Must be a US Citizen.; This position will require a government security clearance\nDesired Skills:\nDesired skills :\nRF design, digital/analog circuit design, antenna and radome design, test equipment design and programming including coursework, projects, etc\n\nExperience with schematic capture and printed wiring board layout using industry tools (Xpedition, Zuken CR-8000, etc.)\n\nExperience with HFSS, ADS, Labview, etc\n\nExperience with testing and troubleshooting electronics / RF / Antenna equipment\n\nDemonstratable knowledge of RADAR / Electronic Support platforms\n\nRF Engineering concentration / specialization within an Electrical Engineering program\nSecurity Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration.\nClearance Level: Secret\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 4x10 hour day, 3 days off per week\nPay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $68,000 - $119,830. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\n(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.\nThis position is incentive plan eligible.\nPay Rate: The annual base salary range for this position in most major metropolitan areas in California, Massachusetts, and New York is $78,200 - $135,470. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\nThis position is incentive plan eligible.\nLockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nAt Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.\n\nWith our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.\n\nIf this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.\nExperience Level: Experienced Professional\nBusiness Unit: RMS\nRelocation Available: Possible\nCareer Area: RF Engineering\nType: Full-Time\nShift: First",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "7b4291982402ee028d6e545c4586d7a9b5352be9a14cc3e50ca5c99d4b3d78ca",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-24T00:00:00.000Z"
+    "job_posted_at": "2026-02-24T18:32:26.140Z"
   },
   {
     "job_id": "js-ibm-ftqbo0b9xga52m5aaaaaaa==",
@@ -2570,6 +2541,35 @@
         "on_site"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-lockheed-martin-s0nhyrh8aa1spptfaaaaaa==",
+    "job_title": "RF Engineer ( Electrical Engineer )",
+    "employer_name": "Lockheed Martin",
+    "job_city": "Owego",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.lockheedmartinjobs.com/job/owego/rf-engineer-electrical-engineer/694/92126665504",
+    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
+    "job_description": "Description:What We’re Doing\nAt Lockheed Martin, we're at the forefront of cutting-edge technology and innovation. Our campus in Owego, New York is a hub for engineering excellence, where we tackle some of the world's most challenging engineering problems. We pride ourselves on our culture of creativity, excellence, and product innovation.\n\nWho we are\nLockheed Martin is a global leader in aerospace, defense, and technology solutions. Our Owego campus is a thriving center of engineering expertise, fostering a culture that encourages creativity, excellence, and the creation of exceptional products. Our team is made up of dedicated professionals who are passionate about pushing the boundaries of what's possible.\n\nLockheed Martin Rotary & Mission Systems is seeking a full-time Early Career RF Engineer. In this role, you will design, simulate, develop, and evaluate RF Circuit Card Assemblies; develop, release, and support Engineering Check-out and Evaluation activities; assist with antenna design and testing, and support production of Antenna and RF LRUs, SRAs, CCAs, Modules, etc. The successful candidate will have experience with electrical circuit design and testing, knowledge of RF / Electromagnetic principles, experience with laboratory equipment, and experience with MATLAB. Must be a US Citizen.; This position will require a government security clearance.\nBasic Qualifications:\n-Bachelor's degree in Electrical Engineering, Computer Engineering, or similar\n\n-1+ year experience / coursework related to RF Engineering\n\n-1+ year experience / coursework with MATLAB\n\n-1+ year experience / coursework troubleshooting electrical / electronics\n\n-Strong organizational and communication skills\n\n-Familiarity with MS Office applications\n\n- Must be a US Citizen.; This position will require a government security clearance\nDesired Skills:\nDesired skills :\nRF design, digital/analog circuit design, antenna and radome design, test equipment design and programming including coursework, projects, etc\n\nExperience with schematic capture and printed wiring board layout using industry tools (Xpedition, Zuken CR-8000, etc.)\n\nExperience with HFSS, ADS, Labview, etc\n\nExperience with testing and troubleshooting electronics / RF / Antenna equipment\n\nDemonstratable knowledge of RADAR / Electronic Support platforms\n\nRF Engineering concentration / specialization within an Electrical Engineering program\nSecurity Clearance Statement: This position requires a government security clearance, you must be a US Citizen for consideration.\nClearance Level: Secret\nOther Important Information You Should Know\nExpression of Interest: By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.\nAbility to Work Remotely: Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.\nWork Schedules: Lockheed Martin supports a variety of alternate work schedules that provide additional flexibility to our employees. Schedules range from standard 40 hours over a five day work week while others may be condensed. These condensed schedules provide employees with additional time away from the office and are in addition to our Paid Time off benefits.\nSchedule for this Position: 4x10 hour day, 3 days off per week\nPay Rate: The annual base salary range for this position in California, Massachusetts, and New York (excluding most major metropolitan areas), Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, Vermont, Washington or Washington DC is $68,000 - $119,830. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\n(Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.\nThis position is incentive plan eligible.\nPay Rate: The annual base salary range for this position in most major metropolitan areas in California, Massachusetts, and New York is $78,200 - $135,470. For states not referenced above, the salary range for this position will reflect the candidate’s final work location. Please note that the salary information is a general guideline only. Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market and business considerations when extending an offer.\nBenefits offered: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Education Assistance, Parental Leave, Paid time off, and Holidays.\nThis position is incentive plan eligible.\nLockheed Martin is an equal opportunity employer. Qualified candidates will be considered without regard to legally protected characteristics.\nThe application window will close in 90 days; applicants are encouraged to apply within 5 - 30 days of the requisition posting date in order to receive optimal consideration.\nAt Lockheed Martin, we use our passion for purposeful innovation to help keep people safe and solve the world's most complex challenges. Our people are some of the greatest minds in the industry and truly make Lockheed Martin a great place to work.\n\nWith our employees as our priority, we provide diverse career opportunities designed to propel, develop, and boost agility. Our flexible schedules, competitive pay, and comprehensive benefits enable our employees to live a healthy, fulfilling life at and outside of work. We place an emphasis on empowering our employees by fostering an inclusive environment built upon integrity and corporate responsibility.\n\nIf this sounds like a culture you connect with, you’re invited to apply for this role. Or, if you are unsure whether your experience aligns with the requirements of this position, we encourage you to search on Lockheed Martin Jobs, and apply for roles that align with your qualifications.\nExperience Level: Experienced Professional\nBusiness Unit: RMS\nRelocation Available: Possible\nCareer Area: RF Engineering\nType: Full-Time\nShift: First",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "7b4291982402ee028d6e545c4586d7a9b5352be9a14cc3e50ca5c99d4b3d78ca",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -2645,7 +2645,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/job/Mossville-Illinois/Embedded-Software-Engineering-Specialist_R0000349764",
-    "job_posted_at_datetime_utc": "2026-02-23T18:23:00.164Z",
+    "job_posted_at_datetime_utc": "2026-02-23T18:36:35.515Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "0dbc9e2e2e1a0a04b4a38aab5d76e61d57559aabeb56893d4e5aa9ebcca6a07a",
@@ -2663,7 +2663,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T18:23:00.164Z"
+    "job_posted_at": "2026-02-23T18:36:35.515Z"
   },
   {
     "job_id": "workday-boeing-JR2026493470",
@@ -2674,7 +2674,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---San-Antonio-TX/Associate-Avionics-Technician---Executive-Fleet--2742-_JR2026493470-1",
-    "job_posted_at_datetime_utc": "2026-02-23T18:20:42.099Z",
+    "job_posted_at_datetime_utc": "2026-02-23T18:34:17.689Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "ec2137bd0f8fa15bd9464dde90aec59f6d9ab479b89a9ce2bc371ba5fbee8b9a",
@@ -2691,7 +2691,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T18:20:42.099Z"
+    "job_posted_at": "2026-02-23T18:34:17.689Z"
   },
   {
     "job_id": "workday-boeing-JR2026493416",
@@ -2702,7 +2702,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---San-Antonio-TX/Experienced-Avionics-Technician---Executive-Fleet--2742-_JR2026493416-3",
-    "job_posted_at_datetime_utc": "2026-02-23T18:20:42.099Z",
+    "job_posted_at_datetime_utc": "2026-02-23T18:34:17.689Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "f06da40a44fb4d834ecf9d7808e8a632c8c09f47b0339d23f7b0e3ab6481b078",
@@ -2719,7 +2719,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T18:20:42.099Z"
+    "job_posted_at": "2026-02-23T18:34:17.689Z"
   },
   {
     "job_id": "workday-hpe-1201171",
@@ -2730,7 +2730,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/job/Sunnyvale-California-United-States-of-America/Hardware-Engineer---Coherent-Optics_1201171",
-    "job_posted_at_datetime_utc": "2026-02-23T18:19:23.373Z",
+    "job_posted_at_datetime_utc": "2026-02-23T18:32:56.410Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "43c21937b98821703a7d0d2a863fc2d35de5f4cebc31fb7b34e2441ca8b7bb52",
@@ -2747,7 +2747,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T18:19:23.373Z"
+    "job_posted_at": "2026-02-23T18:32:56.410Z"
   },
   {
     "job_id": "js-cosmoquick-fziwocdlabx-e0ltaaaaaa==",
@@ -2779,18 +2779,18 @@
     "job_posted_at": "2026-02-23T00:00:00.000Z"
   },
   {
-    "job_id": "js-cosmoquick-j85zl14xmik72f9zaaaaaa==",
-    "job_title": "Fresher Firmware Developer Jobs in Denver",
+    "job_id": "js-cosmoquick-4v5uy_6osf_jm_9raaaaaa==",
+    "job_title": "Fresher Firmware Developer Jobs in Austin",
     "employer_name": "Cosmoquick",
-    "job_city": "Denver",
+    "job_city": "Austin",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://cosmoquick.com/fresher-jobs-in/denver/firmware-developer-jobs",
+    "job_apply_link": "https://cosmoquick.com/fresher-jobs-in/austin/firmware-developer-jobs",
     "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
-    "job_description": "Find fresher Firmware Developer positions in Denver. Entry-level opportunities for recent graduates. Apply through Cosmoquick. Hire tech talent in Denver, Colorado. Pre-vetted professionals who value work-life balance and innovation.",
+    "job_description": "Find fresher Firmware Developer positions in Austin. Entry-level opportunities for recent graduates. Apply through Cosmoquick. Hire tech professionals in Austin, Texas. Connect with pre-vetted developers and marketers in one of America's fastest-growing tech hubs.",
     "job_employment_type": "FULL-TIME",
-    "fingerprint": "65c304ff0b5c713d15b3040a38451c7d2e575c4db4a1dc74b4603c57f8fffd28",
+    "fingerprint": "8b1d3aef7b5441e0e16303c126fa9fd495af3b8acdd02baeddfa89df1531ea60",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2866,18 +2866,18 @@
     "job_posted_at": "2026-02-23T00:00:00.000Z"
   },
   {
-    "job_id": "js-cosmoquick-ccvu8qsyry459hzjaaaaaa==",
-    "job_title": "Fresher Firmware Engineer in Chicago",
+    "job_id": "js-cosmoquick-j85zl14xmik72f9zaaaaaa==",
+    "job_title": "Fresher Firmware Developer Jobs in Denver",
     "employer_name": "Cosmoquick",
-    "job_city": "Chicago",
+    "job_city": "Denver",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://cosmoquick.com/hire-freshers-in/chicago/hire-fresher-firmware-engineer",
+    "job_apply_link": "https://cosmoquick.com/fresher-jobs-in/denver/firmware-developer-jobs",
     "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
-    "job_description": "Hire fresher Firmware Engineer candidates in Chicago. Entry-level positions.",
+    "job_description": "Find fresher Firmware Developer positions in Denver. Entry-level opportunities for recent graduates. Apply through Cosmoquick. Hire tech talent in Denver, Colorado. Pre-vetted professionals who value work-life balance and innovation.",
     "job_employment_type": "FULL-TIME",
-    "fingerprint": "fdd0ebeb97c43b12ce2ee6ce2819d66e761afff03142c126fd3e8f6543275369",
+    "fingerprint": "65c304ff0b5c713d15b3040a38451c7d2e575c4db4a1dc74b4603c57f8fffd28",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3098,6 +3098,35 @@
     "job_posted_at": "2026-02-23T00:00:00.000Z"
   },
   {
+    "job_id": "js-cosmoquick-ccvu8qsyry459hzjaaaaaa==",
+    "job_title": "Fresher Firmware Engineer in Chicago",
+    "employer_name": "Cosmoquick",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cosmoquick.com/hire-freshers-in/chicago/hire-fresher-firmware-engineer",
+    "job_posted_at_datetime_utc": "2026-02-22T00:00:00.000Z",
+    "job_description": "Hire fresher Firmware Engineer candidates in Chicago. Entry-level positions.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "fdd0ebeb97c43b12ce2ee6ce2819d66e761afff03142c126fd3e8f6543275369",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-22T00:00:00.000Z"
+  },
+  {
     "job_id": "js-cosmoquick-rg1tjfnepm7vqfclaaaaaa==",
     "job_title": "Fresher Firmware Engineer Jobs in Reno",
     "employer_name": "Cosmoquick",
@@ -3135,7 +3164,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/job/Greater-Seattle-Area/New-Glenn-Avionics-Systems-Engineer_R60608-1",
-    "job_posted_at_datetime_utc": "2026-02-21T18:21:04.660Z",
+    "job_posted_at_datetime_utc": "2026-02-21T18:34:39.853Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2af6d2deac17ab223da7c7ad746db8272497f1cc6e5c0efd6dc7aac03d5dcc85",
@@ -3152,7 +3181,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-21T18:21:04.660Z"
+    "job_posted_at": "2026-02-21T18:34:39.853Z"
   },
   {
     "job_id": "js-beaconfire-inc-f0t8oyf4q7b98oh2aaaaaa==",
@@ -3192,7 +3221,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/job/Greater-Seattle-Area/Test-Engineer---Avionics--Instruments---GNC-I_R58094",
-    "job_posted_at_datetime_utc": "2026-02-20T18:21:04.660Z",
+    "job_posted_at_datetime_utc": "2026-02-20T18:34:39.853Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "d03fe4d8bb26c4bbc08db7d9df089bfeef9ecb625d617642c37ae7a6706c9b71",
@@ -3209,7 +3238,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T18:21:04.660Z"
+    "job_posted_at": "2026-02-20T18:34:39.853Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234038",
@@ -3220,7 +3249,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Beavercreek-OH/FPGA-Developer_R0234038",
-    "job_posted_at_datetime_utc": "2026-02-20T18:18:30.655Z",
+    "job_posted_at_datetime_utc": "2026-02-20T18:32:00.903Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "93ba3b4d5d46843aeee3d4589ff1a3d184225c09ecc5bae570a056b7ec5b6d8d",
@@ -3237,7 +3266,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-20T18:18:30.655Z"
+    "job_posted_at": "2026-02-20T18:32:00.903Z"
   },
   {
     "job_id": "js-shive-hattery-group-inc-ot8zfwr2z95pebyqaaaaaa==",
@@ -3305,7 +3334,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/job/San-Jose-California-United-States-of-America/Software-Engineer_1196199",
-    "job_posted_at_datetime_utc": "2026-02-19T18:19:23.373Z",
+    "job_posted_at_datetime_utc": "2026-02-19T18:32:56.410Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "859c77129be8bb27ecf76ae8e4c6b50d4f151ad33d1e474cca183d92b1b141e2",
@@ -3323,7 +3352,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-19T18:19:23.373Z"
+    "job_posted_at": "2026-02-19T18:32:56.410Z"
   },
   {
     "job_id": "workday-applied-materials-R2518858",
@@ -3334,7 +3363,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Electrical-Engineer-New-College-Grad---Bachelor-Degree--Santa-Clara--CA-_R2518858",
-    "job_posted_at_datetime_utc": "2026-02-19T18:18:53.714Z",
+    "job_posted_at_datetime_utc": "2026-02-19T18:32:26.141Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "19c19af686e01b0b68972d43ee1b5c4f95354558d0d3e3436b2b65d7a88e8c56",
@@ -3351,7 +3380,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-19T18:18:53.714Z"
+    "job_posted_at": "2026-02-19T18:32:26.141Z"
   },
   {
     "job_id": "workday-applied-materials-R2611145",
@@ -3362,7 +3391,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Mechanical-Engineer_R2611145",
-    "job_posted_at_datetime_utc": "2026-02-19T18:18:53.714Z",
+    "job_posted_at_datetime_utc": "2026-02-19T18:32:26.141Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "e76b5474fd571ff040de65715ac2aa5fa02831696fb595dd5d5a0f9603d1be52",
@@ -3379,7 +3408,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-19T18:18:53.714Z"
+    "job_posted_at": "2026-02-19T18:32:26.141Z"
   },
   {
     "job_id": "greenhouse-spacex-8425814002",
@@ -3446,7 +3475,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/FPGA-Design-Engineer_R2518920-1",
-    "job_posted_at_datetime_utc": "2026-02-18T18:18:53.714Z",
+    "job_posted_at_datetime_utc": "2026-02-18T18:32:26.141Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "3d3e08e66e43f621924678dbc6ec245f76df4cfebb077bb5635b6129038df5e3",
@@ -3463,7 +3492,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T18:18:53.714Z"
+    "job_posted_at": "2026-02-18T18:32:26.141Z"
   },
   {
     "job_id": "greenhouse-scaleai-4663053005",
@@ -3504,7 +3533,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/Santa-ClaraCA/Mechanical-Engineer-IV_R2612220",
-    "job_posted_at_datetime_utc": "2026-02-17T18:18:53.715Z",
+    "job_posted_at_datetime_utc": "2026-02-17T18:32:26.142Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "caf12fb08e419f595a51149d9c48227c2aab796b47192c524749901beeee5b79",
@@ -3521,7 +3550,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-17T18:18:53.715Z"
+    "job_posted_at": "2026-02-17T18:32:26.142Z"
   },
   {
     "job_id": "workday-applied-materials-R2612608",
@@ -3532,7 +3561,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/job/AustinTX/Automation-Electrical-Engineer--New-College-Grad--Bachelor-s--Austin--TX-_R2612608",
-    "job_posted_at_datetime_utc": "2026-02-17T18:18:53.715Z",
+    "job_posted_at_datetime_utc": "2026-02-17T18:32:26.142Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2829dd68f050bf7150b81f1afb652adb2ea88db394d5b3f690316baed0c4e98e",
@@ -3549,7 +3578,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-17T18:18:53.715Z"
+    "job_posted_at": "2026-02-17T18:32:26.142Z"
   },
   {
     "job_id": "greenhouse-spacex-8136339002",
@@ -3616,7 +3645,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/job/Greater-Seattle-Area/Prin-Supply-Chain-Engineer---Avionics-Design-Standardization---Commodity-Strategy_R60571",
-    "job_posted_at_datetime_utc": "2026-02-16T18:21:04.660Z",
+    "job_posted_at_datetime_utc": "2026-02-16T18:34:39.856Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "5bda4cdaca162f1000004f0f14088b4073c6a88aa427526012a7964e549382c9",
@@ -3633,6 +3662,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-16T18:21:04.660Z"
+    "job_posted_at": "2026-02-16T18:34:39.856Z"
   }
 ]
