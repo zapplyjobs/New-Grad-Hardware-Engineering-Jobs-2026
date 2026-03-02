@@ -14,7 +14,7 @@
 ![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-149-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-> ⏱ Last updated: Mar 1, 6:15 PM CST
+> ⏱ Last updated: Mar 1, 6:30 PM CST
 
 
 
@@ -91,8 +91,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Boeing** | F-18 E/F Avionics Field Service Representative | Lemoore, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Lemoore-CA/F-18-E-F-Avionics-Field-Service-Representative_JR2026498362-1) |
 | 🏢 **Applied Materials** | Manufacturing Engineer | Austin, TX | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Engineer_R2611263) |
 | 🏢 **Leidos** | Mechanical Engineer | Arlington, VA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Mechanical-Engineer_R-00177038) |
-| 🏢 **RTX** | Prin. Mechanical Engineer - ALE | AZ-TUCSON-928 ~ 1... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Prin-Mechanical-Engineer---ALE_01821446-1) |
 | 🏢 **RTX** | M&PE Mechanical Engineer I | AZ-TUCSON-M02 ~ 1... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/M-PE-Mechanical-Engineer-I_01827342) |
+| 🏢 **RTX** | Prin. Mechanical Engineer - ALE | AZ-TUCSON-928 ~ 1... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Prin-Mechanical-Engineer---ALE_01821446-1) |
 | 🏢 **NVIDIA** | Software Engineer, Robotics - Isaac Lab - New College Grad 2026 | US, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Robotics---Isaac-Lab---New-College-Grad-2026_JR2014185) |
 | 🏢 **Anduril** | Manufacturing Engineer | McHenry | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5045804007?gh_jid=5045804007) |
 | 🏢 **SpaceX** | Automation & Controls Engineer, Insource Manufacturing (Starlink) | Bastrop, TX | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8362097002?gh_jid=8362097002) |
