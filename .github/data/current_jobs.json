@@ -6708,32 +6708,5 @@
     "_source": "aggregator",
     "_original_source": "amazon",
     "job_posted_at": "2026-02-17T00:00:00.000Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8424850002",
-    "job_title": "Materials Engineer, Propulsion Materials",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8424850002?gh_jid=8424850002",
-    "job_posted_at_datetime_utc": "2026-02-16T17:36:26-05:00",
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "97d8ec01384450ff29837381d0f20dc781753e0cf3b278f05e657553076c3d7c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-02-16T17:36:26-05:00"
   }
 ]
