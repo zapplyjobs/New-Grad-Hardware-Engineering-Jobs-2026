@@ -75,11 +75,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **IBM** | Entry-Level Hardware Engineer – Quantum & AI Platforms | Austin | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/EKD7tZnAywn2dr9Q9Wz3t) |
 | 🏢 **BAE Systems** | Entry Level Mechanical Engineer (Hybrid) | Nashua | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/119745BR/Entry-Level-Mechanical-Engineer-Hybrid) |
-| 🏢 **Anduril** | Robotics Software Engineer, Path Planning | Costa Mesa | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030896007?gh_jid=5030896007) |
-| 🏢 **xAI** | Electrical Engineer (EIT) | Memphis, TN | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4753835007) |
+| 🏢 **Anduril** | Robotics Software Engineer, Path Planning | Costa Mesa | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030896007?gh_jid=5030896007) |
+| 🏢 **xAI** | Electrical Engineer (EIT) | Memphis, TN | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4753835007) |
 | 🏢 **SpaceX** | Manufacturing Engineer (Composites) | Hawthorne, CA | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8303135002?gh_jid=8303135002) |
 | 🏢 **Anduril** | Mechanical Engineer, Imaging | Lexington | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5064569007?gh_jid=5064569007) |
-| 🏢 **SpaceX** | Supervisor, PCB Machine Maintenance – Night Shift | Bastrop, TX | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8439901002?gh_jid=8439901002) |
+| 🏢 **SpaceX** | Supervisor, PCB Machine Maintenance – Night Shift | Bastrop, TX | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8439901002?gh_jid=8439901002) |
 | 🏢 **Anduril** | Mechatronics Engineer, FW/MCUs/Controls | Costa Mesa | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4833640007?gh_jid=4833640007) |
 | 🏢 **Anduril** | Mechanical Engineer | Costa Mesa | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4797917007?gh_jid=4797917007) |
 | 🏢 **Anduril** | Technician, Electrical/PCBAs | Costa Mesa | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5025544007?gh_jid=5025544007) |
@@ -169,8 +169,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Applied Materials** | Opto-Mechanical Engineer IV (E4) | Santa Clara, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Opto-Mechanical-Engineer-IV--E4-_R2611881) |
 | 🏢 **Rocket Lab** | Automation & Controls Engineer | Stennis Space Cen... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7593333003) |
 | 🏢 **Boeing** | Manufacturing Engineer | Ridley Park, PA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Manufacturing-Engineer_JR2026493270-1) |
-| 🏢 **Amazon Data Services, Inc.** | Data Center Controls Engineer, Data Center Capacity Delivery - Controls, DCC Communities | Bristow, VA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3190769/data-center-controls-engineer-data-center-capacity-delivery-controls-dcc-communities) |
 | 🏢 **Amazon Data Services, Inc.** | Data Center Controls Engineer, Data Center Capacity Delivery - Controls, DCC Communities | Manassas, VA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3190817/data-center-controls-engineer-data-center-capacity-delivery-controls-dcc-communities) |
+| 🏢 **Amazon Data Services, Inc.** | Data Center Controls Engineer, Data Center Capacity Delivery - Controls, DCC Communities | Bristow, VA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3190769/data-center-controls-engineer-data-center-capacity-delivery-controls-dcc-communities) |
 | 🏢 **Amazon Data Services, Inc.** | Data Center Controls Engineer, Deployment | Fredericksburg, VA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3190773/data-center-controls-engineer-deployment) |
 | 🏢 **Amazon Data Services, Inc.** | Data Center Controls Engineer, Lubbock, Texas | Lubbock, TX | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3191053/data-center-controls-engineer-lubbock-texas) |
 
@@ -184,7 +184,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Samsara** | Hardware Solutions Firmware Engineer | San Francisco, CA | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7266419?gh_jid=7266419) |
+| 🏢 **Samsara** | Hardware Solutions Firmware Engineer | San Francisco, CA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7266419?gh_jid=7266419) |
 | 🏢 **Cosmoquick** | Fresher Firmware Engineer Jobs in Houston | Houston | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/houston/firmware-engineer-jobs) |
 | 🏢 **Cosmoquick** | Fresher Firmware Engineer Jobs in Memphis | Memphis | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/memphis/firmware-engineer-jobs) |
 | 🏢 **Cosmoquick** | Fresher Firmware Engineer in Pittsburgh | Pittsburgh | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/hire-freshers-in/pittsburgh/hire-fresher-firmware-engineer) |
