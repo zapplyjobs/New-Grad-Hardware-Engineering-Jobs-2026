@@ -6760,34 +6760,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-16T21:48:24-05:00"
-  },
-  {
-    "job_id": "amazon-e58e010f-4116-4a65-9f2a-73854516b459",
-    "job_title": "Mechanical Engineer Annapurna Labs , Annapurna Labs, Machine Learning Hardware",
-    "employer_name": "Annapurna Labs (U.S.) Inc.",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3183160/mechanical-engineer-annapurna-labs-annapurna-labs-machine-learning-hardware",
-    "job_posted_at_datetime_utc": "2026-02-17T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "60d694c135cfbc5983bd0be0648d6bbc3c72faa3ab201c06673ebc232ada1c2e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "job_posted_at": "2026-02-17T00:00:00.000Z"
   }
 ]
