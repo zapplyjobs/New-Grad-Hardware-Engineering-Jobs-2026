@@ -9,7 +9,7 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-232-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-233-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-54-blue?style=flat&logo=building)
 ![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-170-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -18,7 +18,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 54+ top companies like Samsara and Verkada. Updated every 15 minutes with 232+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 54+ top companies like Samsara and Verkada. Updated every 15 minutes with 233+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech hardware companies, defense contractors, and engineering-first startups like Samsara and Verkada.</p>
 
@@ -76,8 +76,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Intermountain Health** | HVAC Technician | Intermountain Hea... | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Park-City-Hospital/HVAC-Technician_R159021) |
 | 🏢 **Anduril** | Mechanical Engineer, Rocket Motor Systems | Huntsville | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5011389007?gh_jid=5011389007) |
 | 🏢 **Anduril** | Robotics Software Engineer, Path Planning | Costa Mesa | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030896007?gh_jid=5030896007) |
-| 🏢 **IBM** | Entry-Level Hardware Engineer – Quantum & AI Platforms | Austin | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/EKD7tZnAywn2dr9Q9Wz3t) |
-| 🏢 **BAE Systems** | Entry Level Mechanical Engineer (Hybrid) | Nashua | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/119745BR/Entry-Level-Mechanical-Engineer-Hybrid) |
+| 🏢 **IBM** | Entry-Level Hardware Engineer – Quantum & AI Platforms | Austin | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/EKD7tZnAywn2dr9Q9Wz3t) |
+| 🏢 **BAE Systems** | Entry Level Mechanical Engineer (Hybrid) | Nashua | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/119745BR/Entry-Level-Mechanical-Engineer-Hybrid) |
 | 🏢 **xAI** | Electrical Engineer (EIT) | Memphis, TN | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4753835007) |
 | 🏢 **SpaceX** | Manufacturing Engineer (Composites) | Hawthorne, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8303135002?gh_jid=8303135002) |
 | 🏢 **Anduril** | Mechanical Engineer, Imaging | Lexington | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5064569007?gh_jid=5064569007) |
@@ -91,8 +91,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Amazon.com Services LLC** | Hardware Support Engineer, Robotics Technical Services | Fontana, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3193481/hardware-support-engineer-robotics-technical-services) |
 | 🏢 **Amazon.com Services LLC** | Hardware Support Engineer, Robotics Technical Services | Arlington, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3193483/hardware-support-engineer-robotics-technical-services) |
 | 🏢 **BAE Systems, Inc.** | 2026 Entry Level Electrical Engineer (Hybrid) | Merrimack | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/2026-entry-level-electrical-engineer-hybrid/8166836) |
-| 🏢 **CACI** | Business Process Engineer 2 | CYC LINTHICUM HEI... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/CYC-LINTHICUM-HEIGHTS-MD/Business-Process-Engineer-2_321463) |
 | 🏢 **CACI** | Electrical Engineer (PLC / Ladder Logic / Controls) | 3 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Dahlgren/Electrical-Engineer--PLC---Ladder-Logic---Controls-_321937) |
+| 🏢 **CACI** | Business Process Engineer 2 | CYC LINTHICUM HEI... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/CYC-LINTHICUM-HEIGHTS-MD/Business-Process-Engineer-2_321463) |
 | 🏢 **CACI** | Electrical Engineer - Digital Design | US NY Rochester | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Electrical-Engineer---Digital-Design_322207-1) |
 | 🏢 **CACI** | Electrical Engineer – RF Design | US NY Rochester | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Electrical-Engineer---RF-Design_322211-1) |
 | 🏢 **CACI** | Master HVAC Technician | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/0MU-FORT-EISENHOWER-GA/Master-HVAC-Technician--TS-SCI_319724) |
@@ -133,22 +133,22 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Electrical Engineering Technician, Air Vehicles | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4940385007?gh_jid=4940385007) |
 | 🏢 **Anduril** | Electrical Engineer, Intelligence Systems | Reston | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4591126007?gh_jid=4591126007) |
 | 🏢 **Anduril** | Electro-Mechanical Engineer,  R&D | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4924593007?gh_jid=4924593007) |
-| 🏢 **Anduril** | Manufacturing Engineer | Quonset | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4728329007?gh_jid=4728329007) |
 | 🏢 **Anduril** | Manufacturing Engineer | Quincy | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5014966007?gh_jid=5014966007) |
 | 🏢 **Anduril** | Manufacturing Engineer | Atlanta | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5050375007?gh_jid=5050375007) |
+| 🏢 **Anduril** | Manufacturing Engineer | Quonset | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4728329007?gh_jid=4728329007) |
 | 🏢 **Anduril** | Manufacturing Engineer | Morrisville | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4854770007?gh_jid=4854770007) |
 | 🏢 **Anduril** | Mechanical Engineer | Atlanta | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4945740007?gh_jid=4945740007) |
 | 🏢 **Anduril** | Mechanical Engineer, Connected Warfare | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4649261007?gh_jid=4649261007) |
 | 🏢 **Anduril** | Mechanical Engineer, Maritime | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5022553007?gh_jid=5022553007) |
-| 🏢 **Anduril** | Mechanical Engineer, Omen | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4972115007?gh_jid=4972115007) |
+| 🏢 **Anduril** | Mechanical Engineer, Omen | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4869028007?gh_jid=4869028007) |
 | 🏢 **Anduril** | Mechanical Engineer,  Roadrunner | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5026759007?gh_jid=5026759007) |
 | 🏢 **Anduril** | Mechanical Engineer, Space | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4834719007?gh_jid=4834719007) |
 | 🏢 **Anduril** | PCB Engineer | Broomfield | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030375007?gh_jid=5030375007) |
 | 🏢 **Anduril** | Radar Electro-Mechanical Engineer | Fort Collins | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051373007?gh_jid=5051373007) |
 | 🏢 **Anduril** | Robotics Engineer, Maritime | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051580007?gh_jid=5051580007) |
 | 🏢 **Anduril** | Robotics Engineer, Maritime | Quincy | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5047315007?gh_jid=5047315007) |
-| 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy | Boston | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4674091007?gh_jid=4674091007) |
 | 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4673939007?gh_jid=4673939007) |
+| 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy | Boston | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4674091007?gh_jid=4674091007) |
 | 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy | Seattle | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4674090007?gh_jid=4674090007) |
 | 🏢 **Anduril** | Robotics Software Engineer, GNSS Denied Sensor Integration | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030281007?gh_jid=5030281007) |
 | 🏢 **Anduril** | Robotics Software Engineer, Vehicle Software | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4672892007?gh_jid=4672892007) |
@@ -165,13 +165,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Micron** | Wet Mechanical Engineer | Clay, NY | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Clay-NY/Wet-Mechanical-Engineer_JR88092) |
 | 🏢 **Saint Luke's Health System** | Building Automation Specialist | Kansas City, MO | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/saintlukeshealthcareers/job/Saint-Lukes-Hospital------4401-Wornall-Rd------Kansas-City------MO/Remote-Systems-Specialist_JobReq0055221) |
 | 🏢 **Boeing** | Mechatronics Maintenance Technician 87706 | Portland, OR | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Portland-OR/Mechatronics-Maintenance-Technician-87706_JR2025483995-1) |
-| 🏢 **Blue Origin** | Technician - Assembly & Integration  Avionics 1 ( B) Shift | Huntsville, AL | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/Technician---Assembly---Integration--Avionics-1---B--Shift_R59337) |
 | 🏢 **Cadence** | Account Technical Executive for PCB and Electrical Systems | SAN JOSE | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Account-Technical-Executive---Systems-Division_R52974) |
+| 🏢 **Blue Origin** | Technician - Assembly & Integration  Avionics 1 ( B) Shift | Huntsville, AL | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/Technician---Assembly---Integration--Avionics-1---B--Shift_R59337) |
 | 🏢 **Applied Materials** | Opto-Mechanical Engineer IV (E4) | Santa Clara, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Opto-Mechanical-Engineer-IV--E4-_R2611881) |
 | 🏢 **Rocket Lab** | Automation & Controls Engineer | Stennis Space Cen... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7593333003) |
 | 🏢 **Boeing** | Manufacturing Engineer | Ridley Park, PA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Manufacturing-Engineer_JR2026493270-1) |
-| 🏢 **Amazon Data Services, Inc.** | Data Center Controls Engineer, Data Center Capacity Delivery - Controls, DCC Communities | Bristow, VA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3190769/data-center-controls-engineer-data-center-capacity-delivery-controls-dcc-communities) |
 | 🏢 **Amazon Data Services, Inc.** | Data Center Controls Engineer, Data Center Capacity Delivery - Controls, DCC Communities | Manassas, VA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3190817/data-center-controls-engineer-data-center-capacity-delivery-controls-dcc-communities) |
+| 🏢 **Amazon Data Services, Inc.** | Data Center Controls Engineer, Data Center Capacity Delivery - Controls, DCC Communities | Bristow, VA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3190769/data-center-controls-engineer-data-center-capacity-delivery-controls-dcc-communities) |
 | 🏢 **Amazon Data Services, Inc.** | Data Center Controls Engineer, Deployment | Fredericksburg, VA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3190773/data-center-controls-engineer-deployment) |
 
 <p align="center">Apply for more jobs at</p>
@@ -331,7 +331,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 232 current opportunities from 54 companies**
+**🎯 233 current opportunities from 54 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
