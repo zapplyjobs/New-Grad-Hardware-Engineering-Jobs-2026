@@ -6873,32 +6873,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-18T17:35:53-05:00"
-  },
-  {
-    "job_id": "greenhouse-spacex-8425726002",
-    "job_title": "Mechanical Engineer, Aviation Hardware (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Woodinville",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8425726002?gh_jid=8425726002",
-    "job_posted_at_datetime_utc": "2026-02-18T16:12:51-05:00",
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "cdba6108d2ba5e3c181a4a8bb0a4e79a75badfa3490f04914264a8afaab61c05",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-02-18T16:12:51-05:00"
   }
 ]

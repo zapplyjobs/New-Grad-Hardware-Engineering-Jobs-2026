@@ -9,16 +9,16 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-249-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-248-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-59-blue?style=flat&logo=building)
-![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-184-red?style=flat&logo=star)
+![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-183-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 59+ top companies like Samsara and Verkada. Updated every 15 minutes with 249+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 59+ top companies like Samsara and Verkada. Updated every 15 minutes with 248+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech hardware companies, defense contractors, and engineering-first startups like Samsara and Verkada.</p>
 
@@ -73,13 +73,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Intel** | APTD Manufacturing Engineer | US | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/APTD-Manufacturing-Engineer_JR0281468) |
-| 🏢 **Caterpillar** | Summer Student Trainee – Manufacturing Process Engineering | Alpharetta | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Alpharetta-Georgia/Summer-Student-Trainee---Manufacturing-Process-Engineering_R0000349307) |
-| 🏢 **Caterpillar** | Paint Pre-Treat Process Technician - 2nd Shift | Sanfor | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Sanfor-North-Carolina/Paint-Pre-Treat-Process-Technician---2nd-Shift_R0000353990) |
-| 🏢 **Leidos** | Marine Mechanical and Electrical Engineer | Chesapeake, VA | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Marine-Mechanical-and-Electrical-Engineer_R-00174466) |
-| 🏢 **Booz Allen Hamilton** | Electrical Engineer | 2 Locations | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Electrical-Engineer_R0235084-1) |
-| 🏢 **Applied Materials** | Process Engineer IV | Santa Clara, CA | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-IV_R2614012) |
-| 🏢 **KBR** | Junior Mechanical Engineer | Huntsville | 54m | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Junior-Mechanical-Engineer_R2119360) |
+| 🏢 **Intel** | APTD Manufacturing Engineer | US | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/APTD-Manufacturing-Engineer_JR0281468) |
+| 🏢 **Caterpillar** | Summer Student Trainee – Manufacturing Process Engineering | Alpharetta | 25m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Alpharetta-Georgia/Summer-Student-Trainee---Manufacturing-Process-Engineering_R0000349307) |
+| 🏢 **Caterpillar** | Paint Pre-Treat Process Technician - 2nd Shift | Sanfor | 25m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Sanfor-North-Carolina/Paint-Pre-Treat-Process-Technician---2nd-Shift_R0000353990) |
+| 🏢 **Leidos** | Marine Mechanical and Electrical Engineer | Chesapeake, VA | 26m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Marine-Mechanical-and-Electrical-Engineer_R-00174466) |
+| 🏢 **Booz Allen Hamilton** | Electrical Engineer | 2 Locations | 26m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Electrical-Engineer_R0235084-1) |
+| 🏢 **Applied Materials** | Process Engineer IV | Santa Clara, CA | 26m | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-IV_R2614012) |
+| 🏢 **KBR** | Junior Mechanical Engineer | Huntsville | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Junior-Mechanical-Engineer_R2119360) |
 | 🏢 **Astranis** | Avionics Test Hardware Development Engineer | San Francisco | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4351178006) |
 | 🏢 **Astranis** | PCB Layout Engineer | San Francisco | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4602223006) |
 | 🏢 **Hermeus** | Fluids Manufacturing Engineer | Atlanta, GA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/202fb9e1-6ad6-4d91-bb72-3ef0e0463b5b/apply) |
@@ -89,7 +89,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **SpaceX** | Mechanical Engineer, Hardware Reliability (Starlink Product) | Bastrop, TX | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8364806002?gh_jid=8364806002) |
 | 🏢 **xAI** | Electrical Engineer (EIT) | Memphis, TN | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4753835007) |
 | 🏢 **Astranis** | Avionics Test Specialist | San Francisco | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4594819006) |
-| 🏢 **Anduril** | Robotics Software Engineer, GNSS Denied Sensor Integration | Costa Mesa | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030281007?gh_jid=5030281007) |
+| 🏢 **Anduril** | Robotics Software Engineer, GNSS Denied Sensor Integration | Costa Mesa | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030281007?gh_jid=5030281007) |
 | 🏢 **Amazon.com Services LLC** | Interdisciplinary Systems Engineer, WWGS Robotics & Automation Systems | Seattle, WA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3195874/interdisciplinary-systems-engineer-wwgs-robotics-automation-systems) |
 | 🏢 **BAE Systems** | Entry Level Mechanical Engineer (Hybrid) | Nashua | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/119745BR/Entry-Level-Mechanical-Engineer-Hybrid) |
 | 🏢 **DeepMind** | Research Scientist, Safety and Alignment for Humanoid Robotics | New York City, US | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7576917) |
@@ -184,8 +184,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Marvell** | Firmware Engineer -PCIe post silicon bring up, function validations, protocol | Santa Clara, CA | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer--PCIe-post-silicon-bring-up--function-validations--protocol_2600531) |
-| 🏢 **Boeing** | Assembly Manufacturing Engineers (Associate or Experienced) | Berkeley, MO | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Assembly-Manufacturing-Engineers--Associate-or-Experienced-_JR2025489424) |
+| 🏢 **Marvell** | Firmware Engineer -PCIe post silicon bring up, function validations, protocol | Santa Clara, CA | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer--PCIe-post-silicon-bring-up--function-validations--protocol_2600531) |
+| 🏢 **Boeing** | Assembly Manufacturing Engineers (Associate or Experienced) | Berkeley, MO | 26m | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Assembly-Manufacturing-Engineers--Associate-or-Experienced-_JR2025489424) |
 | 🏢 **Boeing** | Associate ASIC and/or FPGA Design and Verification Engineer | 3 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Associate-ASIC-and-or-FPGA-Design-and-Verification-Engineer_JR2026498770-1) |
 | 🏢 **Boeing** | F-15 Associate Manufacturing Engineer | Berkeley, MO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/F-15-Associate-Manufacturing-Engineer_JR2026498328) |
 | 🏢 **Samsara** | Hardware Solutions Firmware Engineer | San Francisco, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7266419?gh_jid=7266419) |
@@ -231,7 +231,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Palantir** | Embedded People Engineer | Washington | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/c620a2b0-fa5f-4a1d-999d-b1ec6f09a582/apply) |
 | 🏢 **Waymo** | Software Engineer, Embedded Systems / Robotics | Mountain View, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7429873) |
 | 🏢 **John Deere & Company** | Embedded Software Engineer - Entry level | Waterloo | 4d | [<img src="images/apply.png" width="75" alt="Apply">](http://rogercreale.com/work/job/embedded-software-engineer-entry-level-at-john-deere-company-waterloo-ia-6852446a6e793656617457574e63726456413d3d) |
-| 🏢 **Leidos** | Junior Aviation Embedded Software Engineer | Huntsville, AL | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Aviation-Embedded-Software-Engineer_R-00173585) |
+| 🏢 **Leidos** | Junior Aviation Embedded Software Engineer | Huntsville, AL | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Aviation-Embedded-Software-Engineer_R-00173585) |
 | 🏢 **Caterpillar** | Embedded SW Engineering Specialist-2 - Display Feature Coordinator | Mossville | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-SW-Engineering-Specialist-2---Display-Feature-Coordinator_R0000349415) |
 | 🏢 **HPE** | Embedded Linux Engineer | 2 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Embedded-Linux-Engineer_1203372) |
 | 🏢 **Astranis** | Embedded Software Engineer - Network Software | San Francisco | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4363202006) |
@@ -333,7 +333,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 249 current opportunities from 59 companies**
+**🎯 248 current opportunities from 59 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
