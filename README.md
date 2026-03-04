@@ -11,7 +11,7 @@
 
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-237-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-57-blue?style=flat&logo=building)
-![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-172-red?style=flat&logo=star)
+![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-173-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
@@ -73,7 +73,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Booz Allen Hamilton** | Electrical Engineer | 2 Locations | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Electrical-Engineer_R0235084-1) |
+| 🏢 **KBR** | Junior Mechanical Engineer | Huntsville | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Junior-Mechanical-Engineer_R2119360) |
+| 🏢 **Booz Allen Hamilton** | Electrical Engineer | 2 Locations | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Electrical-Engineer_R0235084-1) |
 | 🏢 **Astranis** | PCBA Technician | San Francisco | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4067218006) |
 | 🏢 **xAI** | Electrical Engineer (EIT) | Memphis, TN | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4753835007) |
 | 🏢 **Astranis** | Avionics Test Specialist | San Francisco | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4594819006) |
@@ -81,8 +82,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **BAE Systems** | Entry Level Mechanical Engineer (Hybrid) | Nashua | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/119745BR/Entry-Level-Mechanical-Engineer-Hybrid) |
 | 🏢 **Astranis** | Avionics Test Hardware Development Engineer | San Francisco | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4351178006) |
 | 🏢 **DeepMind** | Research Scientist, Safety and Alignment for Humanoid Robotics | New York City, US | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7576917) |
-| 🏢 **Relativity Space** | Avionics Manufacturing Technical Specialist I | Long Beach | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8324536002?gh_jid=8324536002) |
-| 🏢 **Relativity Space** | Manufacturing Engineer I, CNC Machining | Long Beach | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8399322002?gh_jid=8399322002) |
+| 🏢 **Relativity Space** | Avionics Manufacturing Technical Specialist I | Long Beach | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8324536002?gh_jid=8324536002) |
+| 🏢 **Relativity Space** | Manufacturing Engineer I, CNC Machining | Long Beach | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8399322002?gh_jid=8399322002) |
 | 🏢 **Anduril** | Mechanical Engineer, Rocket Motor Systems | Huntsville | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5011389007?gh_jid=5011389007) |
 | 🏢 **Amazon Data Services, Inc.** | Product Lifecycle Electrical Engineer, Data Center Electrical Products and Services | Austin, TX | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3195096/product-lifecycle-electrical-engineer-data-center-electrical-products-and-services) |
 | 🏢 **Bae Systems** | Entry Level Electrical Engineer | San Diego | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.zettlor.com/job-posts/8cc01147-56cd-4eb1-9378-7f36ba1a796e) |
@@ -91,11 +92,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Mechanical Engineer, Imaging | Lexington | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5064569007?gh_jid=5064569007) |
 | 🏢 **SpaceX** | Supervisor, PCB Machine Maintenance – Night Shift | Bastrop, TX | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8439901002?gh_jid=8439901002) |
 | 🏢 **GlobalFoundries** | ETCH Process Engineering Technician (Nights) | New York - Malta | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/ETCH-Process-Engineering-Technician--Nights-_JR-2600391) |
-| 🏢 **Boeing** | Electrical Engineer | Huntsville, AL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Electrical-Engineer_JR2025485504-2) |
 | 🏢 **Boeing** | Manufacturing Engineer (Manufacturing Engineer-General) | Berkeley, MO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Manufacturing-Engineer--Manufacturing-Engineer-General-_JR2026492491-1) |
 | 🏢 **Boeing** | C-17 Avionics Project Engineer | Long Beach, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/C-17-Avionics-Project-Engineer_JR2026495940-1) |
 | 🏢 **Boeing** | Experienced Level Manufacturing Engineer (Fabrication) | Seal Beach, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Experienced-Level-Manufacturing-Engineer--Fabrication-_JR2026497466-1) |
 | 🏢 **Boeing** | Manufacturing Engineer (Manufacturing Engineer-General) | Mascoutah, IL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mascoutah-IL/Manufacturing-Engineer--Manufacturing-Engineer-General-_JR2026492484) |
+| 🏢 **Boeing** | Electrical Engineer | Huntsville, AL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Electrical-Engineer_JR2025485504-2) |
 | 🏢 **Applied Materials** | BEOL Transfer Process Engineer | Santa Clara, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/BEOL-Transfer-Process-Engineer_R2518434) |
 | 🏢 **Booz Allen Hamilton** | Mechanical Engineer | Washington, DC | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Mechanical-Engineer_R0229178) |
 | 🏢 **RTX** | 2026 Fulltime Raytheon Mechanical Engineer I - Thermal Engineer | AZ-TUCSON-805 ~ 1... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Fulltime-Raytheon-Mechanical-Engineer-I---Thermal-Engineer_01827675) |
@@ -111,10 +112,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Amazon.com Services LLC** | Hardware Support Engineer, Robotics Technical Services | Arlington, WA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3193483/hardware-support-engineer-robotics-technical-services) |
 | 🏢 **BAE Systems, Inc.** | 2026 Entry Level Electrical Engineer - RF Specific (Hybrid) | Hudson | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/2026-entry-level-electrical-engineer-rf-specific-hybrid/8166843) |
 | 🏢 **BAE Systems, Inc.** | 2026 Entry Level Electrical Engineer (Hybrid) | Merrimack | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/2026-entry-level-electrical-engineer-hybrid/8166836) |
+| 🏢 **CACI** | Business Process Engineer 2 | CYC LINTHICUM HEI... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/CYC-LINTHICUM-HEIGHTS-MD/Business-Process-Engineer-2_321463) |
 | 🏢 **CACI** | Electrical Engineer (PLC / Ladder Logic / Controls) | 3 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Dahlgren/Electrical-Engineer--PLC---Ladder-Logic---Controls-_321937) |
 | 🏢 **CACI** | Electrical Engineer - Digital Design | US NY Rochester | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Electrical-Engineer---Digital-Design_322207-1) |
 | 🏢 **CACI** | Electrical Engineer – RF Design | US NY Rochester | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Electrical-Engineer---RF-Design_322211-1) |
-| 🏢 **CACI** | Business Process Engineer 2 | CYC LINTHICUM HEI... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/CYC-LINTHICUM-HEIGHTS-MD/Business-Process-Engineer-2_321463) |
 | 🏢 **CACI** | Master HVAC Technician | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/0MU-FORT-EISENHOWER-GA/Master-HVAC-Technician--TS-SCI_319724) |
 | 🏢 **Confidential** | Electrical Engineer (New Graduate) | Chicago | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Chicago,IL?jid=8e12adb9636caad3) |
 | 🏢 **Confidential** | Electrical Engineer, New Graduate | Columbia | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Amrize/Job/Electrical-Engineer/-in-Columbia,SC?jid=60fc169ca0a5487e) |
@@ -172,7 +173,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **IMC Trading** | Graduate Hardware Engineer | Chicago | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4580756101) |
 | 🏢 **IMC Trading** | Hardware Engineer, Early Career | Chicago | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4702682101) |
 | 🏢 **SpaceX** | Mechanical Engineer (Components Build Engineer, Starship) | Hawthorne, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8441132002?gh_jid=8441132002) |
-| 🏢 **Amazon Data Services, Inc.** | Data Center Controls Engineer, Data Center Capacity Delivery - Controls | New Albany, OH | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3191095/data-center-controls-engineer-data-center-capacity-delivery-controls) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -184,8 +184,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Marvell** | Firmware Engineer -PCIe post silicon bring up, function validations, protocol | Santa Clara, CA | 8m | [<img src="images/apply.png" width="75" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer--PCIe-post-silicon-bring-up--function-validations--protocol_2600531) |
-| 🏢 **Boeing** | Assembly Manufacturing Engineers (Associate or Experienced) | Berkeley, MO | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Assembly-Manufacturing-Engineers--Associate-or-Experienced-_JR2025489424) |
+| 🏢 **Marvell** | Firmware Engineer -PCIe post silicon bring up, function validations, protocol | Santa Clara, CA | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer--PCIe-post-silicon-bring-up--function-validations--protocol_2600531) |
+| 🏢 **Boeing** | Assembly Manufacturing Engineers (Associate or Experienced) | Berkeley, MO | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Assembly-Manufacturing-Engineers--Associate-or-Experienced-_JR2025489424) |
 | 🏢 **Samsara** | Hardware Solutions Firmware Engineer | San Francisco, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7266419?gh_jid=7266419) |
 | 🏢 **Boeing** | Associate ASIC and/or FPGA Design and Verification Engineer | 3 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Associate-ASIC-and-or-FPGA-Design-and-Verification-Engineer_JR2026498770-1) |
 | 🏢 **Boeing** | F-15 Associate Manufacturing Engineer | Berkeley, MO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/F-15-Associate-Manufacturing-Engineer_JR2026498328) |
