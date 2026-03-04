@@ -9,16 +9,16 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-250-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-252-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-57-blue?style=flat&logo=building)
-![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-181-red?style=flat&logo=star)
+![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-182-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 57+ top companies like Samsara and Verkada. Updated every 15 minutes with 250+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 57+ top companies like Samsara and Verkada. Updated every 15 minutes with 252+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech hardware companies, defense contractors, and engineering-first startups like Samsara and Verkada.</p>
 
@@ -84,13 +84,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Blue Origin** | GS2PA Quattro Avionics Systems Integrator | 2 Locations | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/GS2PA-Quattro-Avionics-Systems-Integrator_R61156-1) |
 | 🏢 **Blue Origin** | Manufacturing Engineer - Hardware-in-the-Loop - New Glenn IV | Greater Seattle Area | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Manufacturing-Engineer---Hardware-in-the-Loop---New-Glenn_R59441-1) |
 | 🏢 **Blue Origin** | Manufacturing Engineer - Lunar | Space Coast, FL | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Manufacturing-Engineer---Lunar_R60575) |
-| 🏢 **Blue Origin** | Technician - Assembly & Integration  Avionics 1 ( B) Shift | Huntsville, AL | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/Technician---Assembly---Integration--Avionics-1---B--Shift_R59337) |
 | 🏢 **Blue Origin** | Mechanical Engineer - Design & Analysis (Late Career) | Space Coast, FL | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Mechanical-Engineer---Design---Analysis_R58965) |
 | 🏢 **Blue Origin** | Manufacturing Engineer - All Levels - Off Shift | Space Coast, FL | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Manufacturing-Engineer---All-Levels---Off-Shift_R57580-1) |
 | 🏢 **Blue Origin** | Manufacturing Engineer - All Levels | Space Coast, FL | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Manufacturing-Engineer---All-Levels_R57581) |
 | 🏢 **Blue Origin** | Manufacturing Engineer - Lunar Systems (All Levels) | Space Coast, FL | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Manufacturing-Engineer---Lunar-Systems--All-Levels-_R58263) |
+| 🏢 **Blue Origin** | Technician - Assembly & Integration  Avionics 1 ( B) Shift | Huntsville, AL | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/Technician---Assembly---Integration--Avionics-1---B--Shift_R59337) |
 | 🏢 **Leidos** | Mechanical Engineer | Chesapeake, VA | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Mechanical-Engineer_R-00177367) |
 | 🏢 **Leidos** | Voice Systems/Hardware Engineer - TS/SCI with Poly | Cape Canaveral, FL | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Cape-Canaveral-FL/Voice-Systems-Hardware-Engineer---TS-SCI-with-Poly_R-00177398) |
+| 🏢 **Applied Materials** | Process Engineer IV | Santa Clara, CA | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-IV_R2613723) |
 | 🏢 **Applied Materials** | Mechanical Engineer I | Santa Clara, CA | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer-I_R2519592) |
 | 🏢 **Astranis** | PCBA Technician | San Francisco | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4067218006) |
 | 🏢 **xAI** | Electrical Engineer (EIT) | Memphis, TN | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4753835007) |
@@ -98,8 +99,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Robotics Software Engineer, GNSS Denied Sensor Integration | Costa Mesa | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030281007?gh_jid=5030281007) |
 | 🏢 **Astranis** | Avionics Test Hardware Development Engineer | San Francisco | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4351178006) |
 | 🏢 **DeepMind** | Research Scientist, Safety and Alignment for Humanoid Robotics | New York City, US | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7576917) |
-| 🏢 **Relativity Space** | Avionics Manufacturing Technical Specialist I | Long Beach | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8324536002?gh_jid=8324536002) |
-| 🏢 **Relativity Space** | Manufacturing Engineer I, CNC Machining | Long Beach | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8399322002?gh_jid=8399322002) |
+| 🏢 **Relativity Space** | Avionics Manufacturing Technical Specialist I | Long Beach | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8324536002?gh_jid=8324536002) |
+| 🏢 **Relativity Space** | Manufacturing Engineer I, CNC Machining | Long Beach | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8399322002?gh_jid=8399322002) |
 | 🏢 **Anduril** | Mechanical Engineer, Rocket Motor Systems | Huntsville | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5011389007?gh_jid=5011389007) |
 | 🏢 **Amazon Data Services, Inc.** | Product Lifecycle Electrical Engineer, Data Center Electrical Products and Services | Austin, TX | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3195096/product-lifecycle-electrical-engineer-data-center-electrical-products-and-services) |
 | 🏢 **IBM** | Entry-Level Hardware Engineer – Quantum & AI Platforms | Austin | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/EKD7tZnAywn2dr9Q9Wz3t) |
@@ -117,8 +118,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Amazon.com Services LLC** | Hardware Support Engineer, Robotics Technical Services | San Diego, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3193512/hardware-support-engineer-robotics-technical-services) |
 | 🏢 **Amazon.com Services LLC** | Hardware Support Engineer, Robotics Technical Services | Fontana, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3193481/hardware-support-engineer-robotics-technical-services) |
 | 🏢 **Amazon.com Services LLC** | Hardware Support Engineer, Robotics Technical Services | Arlington, WA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3193483/hardware-support-engineer-robotics-technical-services) |
-| 🏢 **CACI** | Electrical Engineer (PLC / Ladder Logic / Controls) | 3 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Dahlgren/Electrical-Engineer--PLC---Ladder-Logic---Controls-_321937) |
 | 🏢 **CACI** | Business Process Engineer 2 | CYC LINTHICUM HEI... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/CYC-LINTHICUM-HEIGHTS-MD/Business-Process-Engineer-2_321463) |
+| 🏢 **CACI** | Electrical Engineer (PLC / Ladder Logic / Controls) | 3 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Dahlgren/Electrical-Engineer--PLC---Ladder-Logic---Controls-_321937) |
 | 🏢 **CACI** | Electrical Engineer - Digital Design | US NY Rochester | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Electrical-Engineer---Digital-Design_322207-1) |
 | 🏢 **CACI** | Electrical Engineer – RF Design | US NY Rochester | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Electrical-Engineer---RF-Design_322211-1) |
 | 🏢 **CACI** | Master HVAC Technician | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/0MU-FORT-EISENHOWER-GA/Master-HVAC-Technician--TS-SCI_319724) |
@@ -156,9 +157,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Electrical Engineering Technician, Air Vehicles | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4940385007?gh_jid=4940385007) |
 | 🏢 **Anduril** | Electrical Engineer, Intelligence Systems | Reston | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4591126007?gh_jid=4591126007) |
 | 🏢 **Anduril** | Electro-Mechanical Engineer,  R&D | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4924593007?gh_jid=4924593007) |
-| 🏢 **Anduril** | Manufacturing Engineer | Quincy | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5014966007?gh_jid=5014966007) |
 | 🏢 **Anduril** | Manufacturing Engineer | Quonset | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4728329007?gh_jid=4728329007) |
 | 🏢 **Anduril** | Manufacturing Engineer | Atlanta | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5050375007?gh_jid=5050375007) |
+| 🏢 **Anduril** | Manufacturing Engineer | Quincy | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5014966007?gh_jid=5014966007) |
 | 🏢 **Anduril** | Manufacturing Engineer | Morrisville | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4854770007?gh_jid=4854770007) |
 | 🏢 **Anduril** | Mechanical Engineer | Atlanta | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4945740007?gh_jid=4945740007) |
 | 🏢 **Anduril** | Mechanical Engineer, Connected Warfare | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4649261007?gh_jid=4649261007) |
@@ -170,9 +171,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Radar Electro-Mechanical Engineer | Fort Collins | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051373007?gh_jid=5051373007) |
 | 🏢 **Anduril** | Robotics Engineer, Maritime | Quincy | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5047315007?gh_jid=5047315007) |
 | 🏢 **Anduril** | Robotics Engineer, Maritime | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051580007?gh_jid=5051580007) |
-| 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy | Seattle | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4674090007?gh_jid=4674090007) |
-| 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4673939007?gh_jid=4673939007) |
 | 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy | Boston | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4674091007?gh_jid=4674091007) |
+| 🏢 **Anduril** | Robotics Software Engineer, Air Vehicle Autonomy | Costa Mesa | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4673939007?gh_jid=4673939007) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -335,7 +335,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 250 current opportunities from 57 companies**
+**🎯 252 current opportunities from 57 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
