@@ -9,7 +9,7 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-261-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-259-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-61-blue?style=flat&logo=building)
 ![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-193-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -18,7 +18,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 61+ top companies like Samsara and Verkada. Updated every 15 minutes with 261+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 61+ top companies like Samsara and Verkada. Updated every 15 minutes with 259+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech hardware companies, defense contractors, and engineering-first startups like Samsara and Verkada.</p>
 
@@ -85,15 +85,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | Electrical Engineer | 2 Locations | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Electrical-Engineer_R0235084-1) |
 | 🏢 **RTX** | 2026 Fulltime - Mechanical Engineer I – Structural Analysis - Onsite | MA-MARLBOROUGH-MA... | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/XMLNAME-2026-Fulltime---Mechanical-Engineer-I---Structural-Analysis---Onsite_01828052) |
 | 🏢 **Verkada** | Hardware Engineer, New Grad 2025 | San Mateo, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5036396007) |
-| 🏢 **Handshake** | PCB Designer - AI Trainer | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/c07a289d-6a77-47c8-8ec1-487c87fbc8aa/application) |
+| 🏢 **Handshake** | PCB Designer - AI Trainer | Remote | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/c07a289d-6a77-47c8-8ec1-487c87fbc8aa/application) |
 | 🏢 **Handshake** | Mechanical Engineer - AI Trainer | Remote | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/c966fa72-d8c8-40ec-8688-4772ea56f0dd/application) |
-| 🏢 **Anduril** | Electrical Engineer | Costa Mesa | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5064471007?gh_jid=5064471007) |
-| 🏢 **Relativity Space** | Additive Manufacturing Engineer I | Long Beach | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8423422002?gh_jid=8423422002) |
-| 🏢 **Astranis** | Avionics Engineer | San Francisco | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4017414006) |
+| 🏢 **Anduril** | Electrical Engineer | Costa Mesa | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5064471007?gh_jid=5064471007) |
+| 🏢 **Relativity Space** | Additive Manufacturing Engineer I | Long Beach | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8423422002?gh_jid=8423422002) |
+| 🏢 **Astranis** | Avionics Engineer | San Francisco | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4017414006) |
 | 🏢 **Anduril** | Mechanical Engineer | Costa Mesa | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5064478007?gh_jid=5064478007) |
 | 🏢 **KBR** | Junior Mechanical Engineer | Huntsville | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Junior-Mechanical-Engineer_R2119360) |
-| 🏢 **Astranis** | Avionics Test Hardware Development Engineer | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4351178006) |
-| 🏢 **Astranis** | PCB Layout Engineer | San Francisco | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4602223006) |
+| 🏢 **Astranis** | Avionics Test Hardware Development Engineer | San Francisco | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4351178006) |
+| 🏢 **Astranis** | PCB Layout Engineer | San Francisco | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4602223006) |
 | 🏢 **Hermeus** | Fluids Manufacturing Engineer | Atlanta, GA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/202fb9e1-6ad6-4d91-bb72-3ef0e0463b5b/apply) |
 | 🏢 **Astranis** | PCBA Technician | San Francisco | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4067218006) |
 | 🏢 **Northwood Space** | RF Hardware Engineer (Early Career) | Torrance, CA | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/5d76a025-bb64-4ddd-8b97-8649c41d89ed/application) |
@@ -133,10 +133,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Amazon.com Services LLC** | Hardware Support Engineer, Robotics Technical Services | San Diego, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3193512/hardware-support-engineer-robotics-technical-services) |
 | 🏢 **Amazon.com Services LLC** | Hardware Support Engineer, Robotics Technical Services | Fontana, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3193481/hardware-support-engineer-robotics-technical-services) |
 | 🏢 **Amazon.com Services LLC** | Hardware Support Engineer, Robotics Technical Services | Arlington, WA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3193483/hardware-support-engineer-robotics-technical-services) |
+| 🏢 **CACI** | Business Process Engineer 2 | CYC LINTHICUM HEI... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/CYC-LINTHICUM-HEIGHTS-MD/Business-Process-Engineer-2_321463) |
 | 🏢 **CACI** | Electrical Engineer (PLC / Ladder Logic / Controls) | 3 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Dahlgren/Electrical-Engineer--PLC---Ladder-Logic---Controls-_321937) |
 | 🏢 **CACI** | Electrical Engineer - Digital Design | US NY Rochester | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Electrical-Engineer---Digital-Design_322207-1) |
 | 🏢 **CACI** | Electrical Engineer – RF Design | US NY Rochester | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Electrical-Engineer---RF-Design_322211-1) |
-| 🏢 **CACI** | Business Process Engineer 2 | CYC LINTHICUM HEI... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/CYC-LINTHICUM-HEIGHTS-MD/Business-Process-Engineer-2_321463) |
 | 🏢 **CACI** | Master HVAC Technician | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/0MU-FORT-EISENHOWER-GA/Master-HVAC-Technician--TS-SCI_319724) |
 | 🏢 **BAE Systems, Inc.** | 2026 Entry Level Electrical Engineer (Hybrid) | Hudson | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/2026-entry-level-electrical-engineer-hybrid/8166903) |
 | 🏢 **General Motors** | Entry-Level Mechanical Hardware Engineer | Milford | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/40vDW4dJv1Vww18nTcgFIk) |
@@ -334,7 +334,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 261 current opportunities from 61 companies**
+**🎯 259 current opportunities from 61 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
