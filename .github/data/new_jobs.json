@@ -8175,32 +8175,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-20T18:34:44-05:00"
-  },
-  {
-    "job_id": "greenhouse-figureai-4656559006",
-    "job_title": "Mechanical Engineer, Battery",
-    "employer_name": "Figure AI",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4656559006",
-    "job_posted_at_datetime_utc": "2026-02-20T16:16:17-05:00",
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "06016e0e7c630a1bdf3fae5192c678361778de07a665bae4de1d964c63a6435b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-02-20T16:16:17-05:00"
   }
 ]
