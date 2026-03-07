@@ -9,16 +9,16 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-297-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-296-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-62-blue?style=flat&logo=building)
-![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-221-red?style=flat&logo=star)
+![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-220-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 62+ top companies like Samsara and Verkada. Updated every 15 minutes with 297+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 62+ top companies like Samsara and Verkada. Updated every 15 minutes with 296+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech hardware companies, defense contractors, and engineering-first startups like Samsara and Verkada.</p>
 
@@ -73,14 +73,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Caterpillar** | 2026 Engineering Rotational Development Program- Materials Engineering | Mossville | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/XMLNAME-2026-Engineering-Rotational-Development-Program--Materials-Engineering_R0000320613) |
-| 🏢 **Caterpillar** | Career Pathways High School Program - Decatur - Manufacturing Engineering Assembly | Decatur | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Decatur-Illinois/Career-Pathways-High-School-Program---Decatur---Manufacturing-Engineering-Assembly_R0000355635) |
-| 🏢 **Caterpillar** | Career Pathways High School Program - Decatur - Manufacturing Engineering | Decatur | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Decatur-Illinois/Career-Pathways-High-School-Program---Decatur---Manufacturing-Engineering_R0000355633) |
+| 🏢 **Caterpillar** | 2026 Engineering Rotational Development Program- Materials Engineering | Mossville | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/XMLNAME-2026-Engineering-Rotational-Development-Program--Materials-Engineering_R0000320613) |
+| 🏢 **Caterpillar** | Career Pathways High School Program - Decatur - Manufacturing Engineering Assembly | Decatur | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Decatur-Illinois/Career-Pathways-High-School-Program---Decatur---Manufacturing-Engineering-Assembly_R0000355635) |
+| 🏢 **Caterpillar** | Career Pathways High School Program - Decatur - Manufacturing Engineering | Decatur | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Decatur-Illinois/Career-Pathways-High-School-Program---Decatur---Manufacturing-Engineering_R0000355633) |
 | 🏢 **Boeing** | Manufacturing Engineer | Sylmar, CA | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Sylmar-CA/Manufacturing-Engineer_JR2026499736-1) |
 | 🏢 **Blue Origin** | Mechanical Engineer - Design & Analysis | Space Coast, FL | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Mechanical-Engineer---Design---Analysis_R60400) |
 | 🏢 **Blue Origin** | Lunar Lander Production Manufacturing Engineer  (All levels, All shifts) | Space Coast, FL | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Lunar-Lander-Production-Manufacturing-Engineer---All-levels--All-shifts---Evergreen-_R55140) |
-| 🏢 **Applied Materials** | Mechanical Engineer - E4 | Santa Clara, CA | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer---E4_R2613699) |
-| 🏢 **Applied Materials** | Process Engineer IV | Santa Clara, CA | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-IV_R2613422) |
+| 🏢 **Applied Materials** | Mechanical Engineer - E4 | Santa Clara, CA | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer---E4_R2613699) |
+| 🏢 **Applied Materials** | Process Engineer IV | Santa Clara, CA | 12m | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-IV_R2613422) |
 | 🏢 **Anduril** | Electrical Engineering Technician | Huntsville | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5049191007?gh_jid=5049191007) |
 | 🏢 **Anduril** | Mechanical Engineer, Omen | Costa Mesa | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4972115007?gh_jid=4972115007) |
 | 🏢 **Anduril** | Radar Electro-Mechanical Engineer | Fort Collins | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051373007?gh_jid=5051373007) |
@@ -101,8 +101,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **KBR** | Electronic Warfare Electrical Engineer | Wright Patterson AFB | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Wright-Patterson-AFB-Ohio/Electronic-Warfare-Electrical-Engineer_R2119936) |
 | 🏢 **Blue Origin** | Manufacturing Engineer - Tooling and GSE - TeraWave | 3 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Manufacturing-Engineer---Tooling-and-GSE---TeraWave_R59816) |
 | 🏢 **Leidos** | Marine Mechanical and Electrical Engineer | Chesapeake, VA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Marine-Mechanical-and-Electrical-Engineer_R-00174466) |
-| 🏢 **Applied Materials** | Mechanical Engineer IV | Santa Clara, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer-IV_R2519052) |
 | 🏢 **Booz Allen Hamilton** | Electrical Engineer | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Electrical-Engineer_R0235084-1) |
+| 🏢 **Applied Materials** | Mechanical Engineer IV | Santa Clara, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer-IV_R2519052) |
 | 🏢 **RTX** | 2026 Fulltime - Mechanical Engineer I – Structural Analysis - Onsite | MA-MARLBOROUGH-MA... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/XMLNAME-2026-Fulltime---Mechanical-Engineer-I---Structural-Analysis---Onsite_01828052) |
 | 🏢 **Verkada** | Hardware Engineer, New Grad 2025 | San Mateo, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5036396007) |
 | 🏢 **Handshake** | PCB Designer - AI Trainer | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/c07a289d-6a77-47c8-8ec1-487c87fbc8aa/application) |
@@ -205,7 +205,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Caterpillar** | Embedded Software Engineer | Mossville | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Software-Engineer_R0000353015) |
+| 🏢 **Caterpillar** | Embedded Software Engineer | Mossville | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Software-Engineer_R0000353015) |
 | 🏢 **Boeing** | Experienced Embedded Software Engineer | 2 Locations | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Experienced-Embedded-Software-Engineer_JR2025485213-1) |
 | 🏢 **SpaceX** | Embedded Software Engineer (Starlink) | Hawthorne, CA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8379277002?gh_jid=8379277002) |
 | 🏢 **Anduril** | Embedded Haskell Engineer | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5043620007?gh_jid=5043620007) |
@@ -224,8 +224,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cosmoquick** | Fresher Firmware Developer Jobs in Minneapolis | Minneapolis | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/minneapolis/firmware-developer-jobs) |
 | 🏢 **Boeing** | Software Engineer–Embedded (Embedded) | Long Beach, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Software-Engineer-Embedded--Embedded-_JR2025489394-1) |
 | 🏢 **Caterpillar** | Embedded SW Engineering Specialist-2 - Display Feature Coordinator | Mossville | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-SW-Engineering-Specialist-2---Display-Feature-Coordinator_R0000349415) |
-| 🏢 **Palantir** | Embedded People Engineer | New York, NY | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/f1fdab97-ab1e-4c3d-82f2-4b70f12d249d/apply) |
-| 🏢 **Palantir** | Embedded People Engineer | Washington | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/c620a2b0-fa5f-4a1d-999d-b1ec6f09a582/apply) |
+| 🏢 **Palantir** | Embedded People Engineer | New York, NY | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/f1fdab97-ab1e-4c3d-82f2-4b70f12d249d/apply) |
+| 🏢 **Palantir** | Embedded People Engineer | Washington | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/c620a2b0-fa5f-4a1d-999d-b1ec6f09a582/apply) |
 | 🏢 **HPE** | Embedded Linux Engineer | 2 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Embedded-Linux-Engineer_1203372) |
 | 🏢 **Waymo** | Software Engineer, Embedded Systems / Robotics | Mountain View, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7429873) |
 | 🏢 **John Deere & Company** | Embedded Software Engineer - Entry level | Waterloo | 1w | [<img src="images/apply.png" width="75" alt="Apply">](http://rogercreale.com/work/job/embedded-software-engineer-entry-level-at-john-deere-company-waterloo-ia-6852446a6e793656617457574e63726456413d3d) |
@@ -313,7 +313,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 297 current opportunities from 62 companies**
+**🎯 296 current opportunities from 62 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
