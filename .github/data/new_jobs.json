@@ -4742,6 +4742,131 @@
     "job_posted_at": "2026-03-02T16:19:41.330Z"
   },
   {
+    "job_id": "amazon-f80ab9ea-abbd-40b0-9bde-668f6c7ad45a",
+    "job_title": "Data Center Controls Engineer, Data Center Capacity Delivery - Controls",
+    "employer_name": "Amazon Data Services, Inc.",
+    "job_city": "Jeffersonville",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3193574/data-center-controls-engineer-data-center-capacity-delivery-controls",
+    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8a4e6d2f9efb8ae5efccc31588906621fc3faecdcfb36644920b6d409872b5df",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-2116cdbc-ae28-4c63-bde8-630aae82745d",
+    "job_title": "Cloud Hardware Engineer, AWS Data Center",
+    "employer_name": "Amazon Data Services, Inc.",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3193179/cloud-hardware-engineer-aws-data-center",
+    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3a74fc5d1537eb1bb08b0c9d187dc3bcad9e10455c5306feb356fe1a6b497751",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-2116cdbc-ae28-4c63-bde8-630aae82745d",
+    "job_title": "Cloud Hardware Engineer, AWS Data Center",
+    "employer_name": "Amazon Data Services, Inc.",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3193179/cloud-hardware-engineer-aws-data-center",
+    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3a74fc5d1537eb1bb08b0c9d187dc3bcad9e10455c5306feb356fe1a6b497751",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-f53cd33f-ea83-4b45-941b-21dddf329f92",
+    "job_title": "Hardware Support Engineer, Robotics Technical Services",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3193512/hardware-support-engineer-robotics-technical-services",
+    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7726ba1b89dea520ebd987b19788b3ad133b8049cbbb5a45e78cd904693bbd27",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-03-02T00:00:00.000Z"
+  },
+  {
     "job_id": "js-cosmoquick-2srgiooz3awthcgcaaaaaa==",
     "job_title": "Fresher Firmware Engineer Jobs in Silver Bay",
     "employer_name": "Cosmoquick",
@@ -4913,131 +5038,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-03-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-f80ab9ea-abbd-40b0-9bde-668f6c7ad45a",
-    "job_title": "Data Center Controls Engineer, Data Center Capacity Delivery - Controls",
-    "employer_name": "Amazon Data Services, Inc.",
-    "job_city": "Jeffersonville",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3193574/data-center-controls-engineer-data-center-capacity-delivery-controls",
-    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8a4e6d2f9efb8ae5efccc31588906621fc3faecdcfb36644920b6d409872b5df",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "job_posted_at": "2026-03-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-2116cdbc-ae28-4c63-bde8-630aae82745d",
-    "job_title": "Cloud Hardware Engineer, AWS Data Center",
-    "employer_name": "Amazon Data Services, Inc.",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3193179/cloud-hardware-engineer-aws-data-center",
-    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3a74fc5d1537eb1bb08b0c9d187dc3bcad9e10455c5306feb356fe1a6b497751",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "job_posted_at": "2026-03-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-2116cdbc-ae28-4c63-bde8-630aae82745d",
-    "job_title": "Cloud Hardware Engineer, AWS Data Center",
-    "employer_name": "Amazon Data Services, Inc.",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3193179/cloud-hardware-engineer-aws-data-center",
-    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3a74fc5d1537eb1bb08b0c9d187dc3bcad9e10455c5306feb356fe1a6b497751",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "job_posted_at": "2026-03-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-f53cd33f-ea83-4b45-941b-21dddf329f92",
-    "job_title": "Hardware Support Engineer, Robotics Technical Services",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3193512/hardware-support-engineer-robotics-technical-services",
-    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7726ba1b89dea520ebd987b19788b3ad133b8049cbbb5a45e78cd904693bbd27",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
     "job_posted_at": "2026-03-02T00:00:00.000Z"
   },
   {
