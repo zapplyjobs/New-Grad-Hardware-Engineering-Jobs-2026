@@ -6946,18 +6946,18 @@
     "job_posted_at": "2026-02-26T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-b7b84215-4bb3-42e2-9785-7e2a6d81de39",
+    "job_id": "amazon-686f4f86-fc61-4b8b-ae5d-4f0ee56ff4b3",
     "job_title": "Data Center Controls Engineer, Data Center Capacity Delivery - Controls, DCC Communities",
     "employer_name": "Amazon Data Services, Inc.",
-    "job_city": "Manassas",
+    "job_city": "Bristow",
     "job_state": "VA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3190817/data-center-controls-engineer-data-center-capacity-delivery-controls-dcc-communities",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3190769/data-center-controls-engineer-data-center-capacity-delivery-controls-dcc-communities",
     "job_posted_at_datetime_utc": "2026-02-26T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d5b63f1e2da9452270c451d6b000b1ce56bb0d22a750d7b97aa44dcc8cb884af",
+    "fingerprint": "bc48b8235ca5f941596e84a4e63e6a2006ec3540074722ff846c301c05e6965f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6977,18 +6977,18 @@
     "job_posted_at": "2026-02-26T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-686f4f86-fc61-4b8b-ae5d-4f0ee56ff4b3",
+    "job_id": "amazon-b7b84215-4bb3-42e2-9785-7e2a6d81de39",
     "job_title": "Data Center Controls Engineer, Data Center Capacity Delivery - Controls, DCC Communities",
     "employer_name": "Amazon Data Services, Inc.",
-    "job_city": "Bristow",
+    "job_city": "Manassas",
     "job_state": "VA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3190769/data-center-controls-engineer-data-center-capacity-delivery-controls-dcc-communities",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3190817/data-center-controls-engineer-data-center-capacity-delivery-controls-dcc-communities",
     "job_posted_at_datetime_utc": "2026-02-26T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "bc48b8235ca5f941596e84a4e63e6a2006ec3540074722ff846c301c05e6965f",
+    "fingerprint": "d5b63f1e2da9452270c451d6b000b1ce56bb0d22a750d7b97aa44dcc8cb884af",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7756,14 +7756,14 @@
     "job_posted_at": "2026-02-24T00:18:10.953Z"
   },
   {
-    "job_id": "amazon-f32f3b69-ca87-4217-b0b8-357de7f3ab9c",
+    "job_id": "amazon-d71e6082-16a3-457d-a0c7-3772c70435b4",
     "job_title": "Controls Engineer, Deployment, Amazon Data Services, Inc, Controls Deployment Service",
     "employer_name": "Amazon Data Services, Inc.",
     "job_city": "New Florence",
     "job_state": "MO",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3188508/controls-engineer-deployment-amazon-data-services-inc-controls-deployment-service",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3188505/controls-engineer-deployment-amazon-data-services-inc-controls-deployment-service",
     "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -7787,14 +7787,14 @@
     "job_posted_at": "2026-02-24T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-d71e6082-16a3-457d-a0c7-3772c70435b4",
+    "job_id": "amazon-f32f3b69-ca87-4217-b0b8-357de7f3ab9c",
     "job_title": "Controls Engineer, Deployment, Amazon Data Services, Inc, Controls Deployment Service",
     "employer_name": "Amazon Data Services, Inc.",
     "job_city": "New Florence",
     "job_state": "MO",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3188505/controls-engineer-deployment-amazon-data-services-inc-controls-deployment-service",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3188508/controls-engineer-deployment-amazon-data-services-inc-controls-deployment-service",
     "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
