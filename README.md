@@ -10,7 +10,7 @@
 # Hardware Engineering Jobs 2026
 
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-307-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-64-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-65-blue?style=flat&logo=building)
 ![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-225-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -18,7 +18,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 64+ top companies like Samsara and Verkada. Updated every 15 minutes with 307+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 65+ top companies like Samsara and Verkada. Updated every 15 minutes with 307+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech hardware companies, defense contractors, and engineering-first startups like Samsara and Verkada.</p>
 
@@ -127,12 +127,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **BAE Systems** | Entry Level Mechanical Engineer (hybrid) with Security Clearance | Hudson | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobtrees.com/postid/80ccec6a-fe08-4d14-91a1-827e5a39b222) |
 | 🏢 **Bae Systems** | Entry Level Electrical Engineer | San Diego | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.zettlor.com/job-posts/8cc01147-56cd-4eb1-9378-7f36ba1a796e) |
 | 🏢 **Boeing** | Experienced Level Manufacturing Engineer (Fabrication) | Seal Beach, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Experienced-Level-Manufacturing-Engineer--Fabrication-_JR2026497466-1) |
-| 🏢 **Boeing** | Manufacturing Engineer (Manufacturing Engineer-General) | Mascoutah, IL | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mascoutah-IL/Manufacturing-Engineer--Manufacturing-Engineer-General-_JR2026492484) |
 | 🏢 **GlobalFoundries** | ETCH Process Engineering Technician (Nights) | New York - Malta | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/ETCH-Process-Engineering-Technician--Nights-_JR-2600391) |
+| 🏢 **Boeing** | Manufacturing Engineer (Manufacturing Engineer-General) | Mascoutah, IL | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mascoutah-IL/Manufacturing-Engineer--Manufacturing-Engineer-General-_JR2026492484) |
 | 🏢 **Booz Allen Hamilton** | Mechanical Engineer | Washington, DC | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Mechanical-Engineer_R0229178) |
-| 🏢 **General Dynamics** | New Grad Electrical Engineer: Build Next-Gen Submarines | Unknown | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobleads.com/us/job/new-grad-electrical-engineer-build-next-gen-submarines--groton--ea1bdcc351609e6c3e2fbbc4b6f421a16) |
-| 🏢 **Shive Hattery Group, Inc.** | Electrical Engineer- Early Career | Unknown | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://recruiting.paylocity.com/recruiting/jobs/Details/3897461/Shive-Hattery-Group-Inc/Electrical-Engineer--Early-Career?source=Indeed_Feed) |
 | 🏢 **IBM** | Entry-Level Hardware Engineer – Quantum & AI Platforms | Austin | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/EKD7tZnAywn2dr9Q9Wz3t) |
+| 🏢 **General Dynamics** | New Grad Electrical Engineer: Build Next-Gen Submarines | Groton | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobleads.com/us/job/new-grad-electrical-engineer-build-next-gen-submarines--groton--ea1bdcc351609e6c3e2fbbc4b6f421a16) |
+| 🏢 **Shive Hattery Group, Inc.** | Electrical Engineer- Early Career | Iowa City | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://recruiting.paylocity.com/recruiting/jobs/Details/3897461/Shive-Hattery-Group-Inc/Electrical-Engineer--Early-Career?source=Indeed_Feed) |
 | 🏢 **BAE Systems, Inc.** | 2026 Entry Level Electrical Engineer (Hybrid) | Manchester | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/2026-entry-level-electrical-engineer-hybrid/8166882) |
 | 🏢 **BAE Systems, Inc.** | 2026 Entry Level Electrical Engineer (Hybrid) | Merrimack | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/2026-entry-level-electrical-engineer-hybrid/8166836) |
 | 🏢 **BAE Systems, Inc.** | Entry Level Mechanical Engineer (Hybrid) | Hudson | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/entry-level-mechanical-engineer-hybrid/8166919) |
@@ -223,6 +223,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **KBR** | Embedded Software Developer | Bedford | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Bedford-Massachusetts/Embedded-Software-Developer_R2119114) |
 | 🏢 **KBR** | Firmware Developer | Bedford | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Bedford-Massachusetts/Firmware-Developer_R2119112) |
 | 🏢 **Motorola Solutions** | Embedded Software Engineer | Los Angeles, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Embedded-Software-Engineer_R60558) |
+| 🏢 **GD Mission Systems** | Embedded Software Engineer at GD Mission Systems Colorado | Unknown | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://tomberry.fr/gig/job/embedded-software-engineer-at-gd-mission-systems-colorado-MzQwWnI3UUN4ZUVzVmN0N2hoVENIbFhPUlE9PQ==) |
 | 🏢 **Cosmoquick** | Fresher Firmware Developer Jobs in Atlanta | Atlanta | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/atlanta/firmware-developer-jobs) |
 | 🏢 **Cosmoquick** | Fresher Firmware Developer Jobs in Fresno | Fresno | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/fresno/firmware-developer-jobs) |
 | 🏢 **Cosmoquick** | Fresher Firmware Developer Jobs in Minneapolis | Minneapolis | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/minneapolis/firmware-developer-jobs) |
@@ -317,7 +318,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 307 current opportunities from 64 companies**
+**🎯 307 current opportunities from 65 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
