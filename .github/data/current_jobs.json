@@ -1337,18 +1337,18 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5050375007",
+    "job_id": "greenhouse-andurilindustries-4728329007",
     "job_title": "Manufacturing Engineer",
     "employer_name": "Anduril",
-    "job_city": "Atlanta",
+    "job_city": "Quonset",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5050375007?gh_jid=5050375007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4728329007?gh_jid=4728329007",
     "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "803d7c6ca14c52d0c337a8877e6753c03adc487dd25275066de8e129162c5366",
+    "fingerprint": "099bb9b48aa2aeef11ee6a4a758b8a9551594efec885a41ca6fde47e1a2b2856",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1393,18 +1393,18 @@
     "job_posted_at": "2026-03-05T21:27:35-05:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4728329007",
+    "job_id": "greenhouse-andurilindustries-5050375007",
     "job_title": "Manufacturing Engineer",
     "employer_name": "Anduril",
-    "job_city": "Quonset",
+    "job_city": "Atlanta",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4728329007?gh_jid=4728329007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5050375007?gh_jid=5050375007",
     "job_posted_at_datetime_utc": "2026-03-05T21:27:35-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "099bb9b48aa2aeef11ee6a4a758b8a9551594efec885a41ca6fde47e1a2b2856",
+    "fingerprint": "803d7c6ca14c52d0c337a8877e6753c03adc487dd25275066de8e129162c5366",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3967,6 +3967,35 @@
     "job_posted_at": "2026-03-03T19:49:41-05:00"
   },
   {
+    "job_id": "js-bae-systems-x76qkh8uqjdeflhdaaaaaa==",
+    "job_title": "Entry Level Mechanical Engineer (hybrid) with Security Clearance",
+    "employer_name": "BAE Systems",
+    "job_city": "Hudson",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobtrees.com/postid/80ccec6a-fe08-4d14-91a1-827e5a39b222",
+    "job_posted_at_datetime_utc": "2026-03-04T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "9987552eff2643e60cfbef9d01ce80b02ee831fd71f00994b41b94295fd90160",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-04T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-fb80c96a-c022-4e6f-9e6a-7af7b4d9f913",
     "job_title": "Software Development Engineer - Embedded, Flight Computer Software",
     "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
@@ -4088,35 +4117,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "job_posted_at": "2026-03-04T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-bae-systems-x76qkh8uqjdeflhdaaaaaa==",
-    "job_title": "Entry Level Mechanical Engineer (hybrid) with Security Clearance",
-    "employer_name": "BAE Systems",
-    "job_city": "Hudson",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobtrees.com/postid/80ccec6a-fe08-4d14-91a1-827e5a39b222",
-    "job_posted_at_datetime_utc": "2026-03-04T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "9987552eff2643e60cfbef9d01ce80b02ee831fd71f00994b41b94295fd90160",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-03-04T00:00:00.000Z"
   },
   {
@@ -4372,6 +4372,35 @@
     "job_posted_at": "2026-03-03T06:48:18.892Z"
   },
   {
+    "job_id": "js-ibm-excvgyx49gpg7-mpaaaaaa==",
+    "job_title": "Entry-Level Hardware Engineer – Quantum & AI Platforms",
+    "employer_name": "IBM",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/EKD7tZnAywn2dr9Q9Wz3t",
+    "job_posted_at_datetime_utc": "2026-03-03T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "2192d8108c70cb5d927da0eadde7ceb2c0227b139c5d3807cce673caf0296300",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-03T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-fad8f479-ed27-492f-b994-257180812459",
     "job_title": "Product Lifecycle Electrical Engineer, Data Center Electrical Products and Services",
     "employer_name": "Amazon Data Services, Inc.",
@@ -4400,35 +4429,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "job_posted_at": "2026-03-03T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ibm-excvgyx49gpg7-mpaaaaaa==",
-    "job_title": "Entry-Level Hardware Engineer – Quantum & AI Platforms",
-    "employer_name": "IBM",
-    "job_city": "Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/EKD7tZnAywn2dr9Q9Wz3t",
-    "job_posted_at_datetime_utc": "2026-03-03T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "2192d8108c70cb5d927da0eadde7ceb2c0227b139c5d3807cce673caf0296300",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-03-03T00:00:00.000Z"
   },
   {
@@ -6946,18 +6946,18 @@
     "job_posted_at": "2026-02-26T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-686f4f86-fc61-4b8b-ae5d-4f0ee56ff4b3",
+    "job_id": "amazon-b7b84215-4bb3-42e2-9785-7e2a6d81de39",
     "job_title": "Data Center Controls Engineer, Data Center Capacity Delivery - Controls, DCC Communities",
     "employer_name": "Amazon Data Services, Inc.",
-    "job_city": "Bristow",
+    "job_city": "Manassas",
     "job_state": "VA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3190769/data-center-controls-engineer-data-center-capacity-delivery-controls-dcc-communities",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3190817/data-center-controls-engineer-data-center-capacity-delivery-controls-dcc-communities",
     "job_posted_at_datetime_utc": "2026-02-26T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "bc48b8235ca5f941596e84a4e63e6a2006ec3540074722ff846c301c05e6965f",
+    "fingerprint": "d5b63f1e2da9452270c451d6b000b1ce56bb0d22a750d7b97aa44dcc8cb884af",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6977,18 +6977,18 @@
     "job_posted_at": "2026-02-26T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-b7b84215-4bb3-42e2-9785-7e2a6d81de39",
+    "job_id": "amazon-686f4f86-fc61-4b8b-ae5d-4f0ee56ff4b3",
     "job_title": "Data Center Controls Engineer, Data Center Capacity Delivery - Controls, DCC Communities",
     "employer_name": "Amazon Data Services, Inc.",
-    "job_city": "Manassas",
+    "job_city": "Bristow",
     "job_state": "VA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3190817/data-center-controls-engineer-data-center-capacity-delivery-controls-dcc-communities",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3190769/data-center-controls-engineer-data-center-capacity-delivery-controls-dcc-communities",
     "job_posted_at_datetime_utc": "2026-02-26T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d5b63f1e2da9452270c451d6b000b1ce56bb0d22a750d7b97aa44dcc8cb884af",
+    "fingerprint": "bc48b8235ca5f941596e84a4e63e6a2006ec3540074722ff846c301c05e6965f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7756,14 +7756,14 @@
     "job_posted_at": "2026-02-24T00:18:10.953Z"
   },
   {
-    "job_id": "amazon-d71e6082-16a3-457d-a0c7-3772c70435b4",
+    "job_id": "amazon-f32f3b69-ca87-4217-b0b8-357de7f3ab9c",
     "job_title": "Controls Engineer, Deployment, Amazon Data Services, Inc, Controls Deployment Service",
     "employer_name": "Amazon Data Services, Inc.",
     "job_city": "New Florence",
     "job_state": "MO",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3188505/controls-engineer-deployment-amazon-data-services-inc-controls-deployment-service",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3188508/controls-engineer-deployment-amazon-data-services-inc-controls-deployment-service",
     "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -7787,14 +7787,14 @@
     "job_posted_at": "2026-02-24T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-f32f3b69-ca87-4217-b0b8-357de7f3ab9c",
+    "job_id": "amazon-d71e6082-16a3-457d-a0c7-3772c70435b4",
     "job_title": "Controls Engineer, Deployment, Amazon Data Services, Inc, Controls Deployment Service",
     "employer_name": "Amazon Data Services, Inc.",
     "job_city": "New Florence",
     "job_state": "MO",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3188508/controls-engineer-deployment-amazon-data-services-inc-controls-deployment-service",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3188505/controls-engineer-deployment-amazon-data-services-inc-controls-deployment-service",
     "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
