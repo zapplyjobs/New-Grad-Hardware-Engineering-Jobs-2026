@@ -3967,35 +3967,6 @@
     "job_posted_at": "2026-03-03T19:49:41-05:00"
   },
   {
-    "job_id": "js-bae-systems-x76qkh8uqjdeflhdaaaaaa==",
-    "job_title": "Entry Level Mechanical Engineer (hybrid) with Security Clearance",
-    "employer_name": "BAE Systems",
-    "job_city": "Hudson",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobtrees.com/postid/80ccec6a-fe08-4d14-91a1-827e5a39b222",
-    "job_posted_at_datetime_utc": "2026-03-04T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "9987552eff2643e60cfbef9d01ce80b02ee831fd71f00994b41b94295fd90160",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-04T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-fb80c96a-c022-4e6f-9e6a-7af7b4d9f913",
     "job_title": "Software Development Engineer - Embedded, Flight Computer Software",
     "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
@@ -4117,6 +4088,35 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-03-04T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-bae-systems-x76qkh8uqjdeflhdaaaaaa==",
+    "job_title": "Entry Level Mechanical Engineer (hybrid) with Security Clearance",
+    "employer_name": "BAE Systems",
+    "job_city": "Hudson",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobtrees.com/postid/80ccec6a-fe08-4d14-91a1-827e5a39b222",
+    "job_posted_at_datetime_utc": "2026-03-04T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "9987552eff2643e60cfbef9d01ce80b02ee831fd71f00994b41b94295fd90160",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-03-04T00:00:00.000Z"
   },
   {
@@ -4372,35 +4372,6 @@
     "job_posted_at": "2026-03-03T06:48:18.892Z"
   },
   {
-    "job_id": "js-ibm-excvgyx49gpg7-mpaaaaaa==",
-    "job_title": "Entry-Level Hardware Engineer – Quantum & AI Platforms",
-    "employer_name": "IBM",
-    "job_city": "Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/EKD7tZnAywn2dr9Q9Wz3t",
-    "job_posted_at_datetime_utc": "2026-03-03T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "2192d8108c70cb5d927da0eadde7ceb2c0227b139c5d3807cce673caf0296300",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-03T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-fad8f479-ed27-492f-b994-257180812459",
     "job_title": "Product Lifecycle Electrical Engineer, Data Center Electrical Products and Services",
     "employer_name": "Amazon Data Services, Inc.",
@@ -4429,6 +4400,35 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-03-03T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-ibm-excvgyx49gpg7-mpaaaaaa==",
+    "job_title": "Entry-Level Hardware Engineer – Quantum & AI Platforms",
+    "employer_name": "IBM",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/EKD7tZnAywn2dr9Q9Wz3t",
+    "job_posted_at_datetime_utc": "2026-03-03T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "2192d8108c70cb5d927da0eadde7ceb2c0227b139c5d3807cce673caf0296300",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-03-03T00:00:00.000Z"
   },
   {
@@ -4742,6 +4742,180 @@
     "job_posted_at": "2026-03-02T16:19:41.330Z"
   },
   {
+    "job_id": "js-cosmoquick-2srgiooz3awthcgcaaaaaa==",
+    "job_title": "Fresher Firmware Engineer Jobs in Silver Bay",
+    "employer_name": "Cosmoquick",
+    "job_city": "Silver Bay",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cosmoquick.com/fresher-jobs-in/silver-bay-250/fresher-firmware-engineer",
+    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "6cd1d098eaad0602cef146d417b777f80c25b2c2727046874c93659f817bdf7e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cosmoquick-ajcneoyiyhu1a3ejaaaaaa==",
+    "job_title": "Fresher Firmware Engineer Jobs in Houston",
+    "employer_name": "Cosmoquick",
+    "job_city": "Houston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cosmoquick.com/fresher-jobs-in/houston/firmware-engineer-jobs",
+    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "a38a52c6fb95f688006c650878c82616fdbb3223c06b53f32097fa4b25399acb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cosmoquick-laerhmtgbscquyuzaaaaaa==",
+    "job_title": "Fresher Firmware Engineer Jobs in Memphis",
+    "employer_name": "Cosmoquick",
+    "job_city": "Memphis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cosmoquick.com/fresher-jobs-in/memphis/firmware-engineer-jobs",
+    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "05821933577462a1a74798afe0c5eeadbb4845102b8206a02480ada5499d6e02",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cosmoquick-urlp-yjei-ybimxraaaaaa==",
+    "job_title": "Fresher Firmware Developer Jobs in Atlanta",
+    "employer_name": "Cosmoquick",
+    "job_city": "Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cosmoquick.com/fresher-jobs-in/atlanta/firmware-developer-jobs",
+    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "aeefdb8e941744127efd0a6a8f63c7288eb5540461256ba0efb0fbc05f9460e6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cosmoquick-bsi9x3agbw5onb-xaaaaaa==",
+    "job_title": "Fresher Firmware Engineer in Chicago",
+    "employer_name": "Cosmoquick",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cosmoquick.com/hire-freshers-in/chicago/hire-fresher-firmware-engineer",
+    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "fdd0ebeb97c43b12ce2ee6ce2819d66e761afff03142c126fd3e8f6543275369",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cosmoquick-v1gwv8-2tlxnruo2aaaaaa==",
+    "job_title": "Fresher Firmware Developer Jobs in Fresno",
+    "employer_name": "Cosmoquick",
+    "job_city": "Fresno",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cosmoquick.com/fresher-jobs-in/fresno/firmware-developer-jobs",
+    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "c4817a99ab6a27b004c62b4c33055faab070b4297aa02e0b3c9513cc70663ee1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-02T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-f80ab9ea-abbd-40b0-9bde-668f6c7ad45a",
     "job_title": "Data Center Controls Engineer, Data Center Capacity Delivery - Controls",
     "employer_name": "Amazon Data Services, Inc.",
@@ -4864,151 +5038,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "job_posted_at": "2026-03-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cosmoquick-2srgiooz3awthcgcaaaaaa==",
-    "job_title": "Fresher Firmware Engineer Jobs in Silver Bay",
-    "employer_name": "Cosmoquick",
-    "job_city": "Silver Bay",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cosmoquick.com/fresher-jobs-in/silver-bay-250/fresher-firmware-engineer",
-    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "6cd1d098eaad0602cef146d417b777f80c25b2c2727046874c93659f817bdf7e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cosmoquick-ajcneoyiyhu1a3ejaaaaaa==",
-    "job_title": "Fresher Firmware Engineer Jobs in Houston",
-    "employer_name": "Cosmoquick",
-    "job_city": "Houston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cosmoquick.com/fresher-jobs-in/houston/firmware-engineer-jobs",
-    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "a38a52c6fb95f688006c650878c82616fdbb3223c06b53f32097fa4b25399acb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cosmoquick-laerhmtgbscquyuzaaaaaa==",
-    "job_title": "Fresher Firmware Engineer Jobs in Memphis",
-    "employer_name": "Cosmoquick",
-    "job_city": "Memphis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cosmoquick.com/fresher-jobs-in/memphis/firmware-engineer-jobs",
-    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "05821933577462a1a74798afe0c5eeadbb4845102b8206a02480ada5499d6e02",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cosmoquick-urlp-yjei-ybimxraaaaaa==",
-    "job_title": "Fresher Firmware Developer Jobs in Atlanta",
-    "employer_name": "Cosmoquick",
-    "job_city": "Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cosmoquick.com/fresher-jobs-in/atlanta/firmware-developer-jobs",
-    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "aeefdb8e941744127efd0a6a8f63c7288eb5540461256ba0efb0fbc05f9460e6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cosmoquick-v1gwv8-2tlxnruo2aaaaaa==",
-    "job_title": "Fresher Firmware Developer Jobs in Fresno",
-    "employer_name": "Cosmoquick",
-    "job_city": "Fresno",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cosmoquick.com/fresher-jobs-in/fresno/firmware-developer-jobs",
-    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "c4817a99ab6a27b004c62b4c33055faab070b4297aa02e0b3c9513cc70663ee1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-03-02T00:00:00.000Z"
   },
   {
@@ -8453,35 +8482,6 @@
     "job_employment_type": "FULL-TIME",
     "salary": null,
     "fingerprint": "ef7a600f237cdfc362942df985423ab2c4ebf33b525ee8d26368ddf61b62fdf0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-22T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cosmoquick-ccvu8qsyry459hzjaaaaaa==",
-    "job_title": "Fresher Firmware Engineer in Chicago",
-    "employer_name": "Cosmoquick",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cosmoquick.com/hire-freshers-in/chicago/hire-fresher-firmware-engineer",
-    "job_posted_at_datetime_utc": "2026-02-22T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "fdd0ebeb97c43b12ce2ee6ce2819d66e761afff03142c126fd3e8f6543275369",
     "tags": {
       "employment": "entry_level",
       "domains": [
