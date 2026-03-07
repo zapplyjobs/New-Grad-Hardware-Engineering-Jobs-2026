@@ -11,7 +11,7 @@
 
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-307-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-64-blue?style=flat&logo=building)
-![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-225-red?style=flat&logo=star)
+![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-226-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
@@ -75,9 +75,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **Anduril** | Electrical Engineering Technician | Huntsville | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5049191007?gh_jid=5049191007) |
 | 🏢 **Anduril** | Mechanical Engineer, Omen | Costa Mesa | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4972115007?gh_jid=4972115007) |
-| 🏢 **Anduril** | Radar Electro-Mechanical Engineer | Fort Collins | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051373007?gh_jid=5051373007) |
+| 🏢 **Anduril** | Radar Electro-Mechanical Engineer | Fort Collins | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051373007?gh_jid=5051373007) |
 | 🏢 **xAI** | Electrical Engineer (EIT) | Memphis, TN | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4753835007) |
-| 🏢 **SpaceX** | New Graduate Engineer, Software (Starlink) | Sunnyvale, CA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
+| 🏢 **SpaceX** | New Graduate Engineer, Software (Starlink) | Sunnyvale, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
 | 🏢 **SpaceX** | Mechanical Engineer, Infrastructure | Starbase, TX | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8451034002?gh_jid=8451034002) |
 | 🏢 **Leidos** | PCBA Soldering Technician | Huntsville, AL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Soldering-Technician_R-00177673) |
 | 🏢 **IMC Trading** | Graduate Hardware Engineer | Chicago | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4580756101) |
@@ -119,8 +119,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Intermountain Health** | HVAC Technician | Intermountain Hea... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Park-City-Hospital/HVAC-Technician_R159021) |
 | 🏢 **Amazon.com Services LLC** | Interdisciplinary Systems Engineer, WWGS Robotics & Automation Systems | Seattle, WA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3195874/interdisciplinary-systems-engineer-wwgs-robotics-automation-systems) |
 | 🏢 **Amazon.com Services LLC** | Hardware Development Engineer, WWGS Robotics & Automation Systems | Seattle, WA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3196399/hardware-development-engineer-wwgs-robotics-automation-systems) |
-| 🏢 **Relativity Space** | Avionics Manufacturing Technical Specialist I | Long Beach | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8324536002?gh_jid=8324536002) |
-| 🏢 **Relativity Space** | Manufacturing Engineer I, CNC Machining | Long Beach | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8399322002?gh_jid=8399322002) |
+| 🏢 **Relativity Space** | Avionics Manufacturing Technical Specialist I | Long Beach | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8324536002?gh_jid=8324536002) |
+| 🏢 **Relativity Space** | Manufacturing Engineer I, CNC Machining | Long Beach | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8399322002?gh_jid=8399322002) |
 | 🏢 **KBR** | Electronic Warfare Electrical Engineer | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Wright-Patterson-AFB-Ohio/Electronic-Warfare-Electrical-Engineer_R2118387) |
 | 🏢 **Blue Origin** | New Glenn Avionics Systems Engineer | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/New-Glenn-Avionics-Systems-Engineer_R60608-1) |
 | 🏢 **RTX** | 2026 Fulltime Raytheon Mechanical Engineer I - Thermal Engineer | AZ-TUCSON-805 ~ 1... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Fulltime-Raytheon-Mechanical-Engineer-I---Thermal-Engineer_01827675) |
@@ -187,8 +187,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **NVIDIA** | Firmware Engineer, Memory Subsystem - New College Grad 2026 | US, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Firmware-Engineer--Memory-Subsystem---New-College-Grad-2026_JR2010096) |
 | 🏢 **Blue Origin** | Avionics FPGA Firmware Engineer | Greater Seattle Area | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-FPGA-Firmware-Engineer_R56325) |
 | 🏢 **Samsara** | Hardware Solutions Firmware Engineer | San Francisco, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7266419?gh_jid=7266419) |
-| 🏢 **Cosmoquick** | Fresher Firmware Engineer Jobs in Memphis | Memphis | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/memphis/firmware-engineer-jobs) |
 | 🏢 **Cosmoquick** | Fresher Firmware Engineer Jobs in Silver Bay | Silver Bay | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/silver-bay-250/fresher-firmware-engineer) |
+| 🏢 **Cosmoquick** | Fresher Firmware Engineer Jobs in Memphis | Memphis | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/memphis/firmware-engineer-jobs) |
 | 🏢 **Cosmoquick** | Fresher Firmware Engineer Jobs in Houston | Houston | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cosmoquick.com/fresher-jobs-in/houston/firmware-engineer-jobs) |
 | 🏢 **Astranis** | Mechanical Engineer Associate (Summer 2026) | San Francisco | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4603495006) |
 | 🏢 **Astranis** | Electrical Integration Associate - Avionics (Summer 2026) | San Francisco, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4648852006) |
