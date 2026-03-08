@@ -9,16 +9,16 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-303-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-305-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-65-blue?style=flat&logo=building)
-![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-223-red?style=flat&logo=star)
+![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-224-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 65+ top companies like Samsara and Verkada. Updated every 15 minutes with 303+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 65+ top companies like Samsara and Verkada. Updated every 15 minutes with 305+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech hardware companies, defense contractors, and engineering-first startups like Samsara and Verkada.</p>
 
@@ -133,8 +133,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Bae Systems** | Entry Level Electrical Engineer | San Diego | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.zettlor.com/job-posts/8cc01147-56cd-4eb1-9378-7f36ba1a796e) |
 | 🏢 **Boeing** | Experienced Level Manufacturing Engineer (Fabrication) | Seal Beach, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Experienced-Level-Manufacturing-Engineer--Fabrication-_JR2026497466-1) |
 | 🏢 **Boeing** | Manufacturing Engineer (Manufacturing Engineer-General) | Mascoutah, IL | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mascoutah-IL/Manufacturing-Engineer--Manufacturing-Engineer-General-_JR2026492484) |
-| 🏢 **CACI** | Business Process Engineer 2 | CYC LINTHICUM HEI... | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/CYC-LINTHICUM-HEIGHTS-MD/Business-Process-Engineer-2_321463) |
 | 🏢 **CACI** | Electrical Engineer - Digital Design | US NY Rochester | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Electrical-Engineer---Digital-Design_322207-1) |
+| 🏢 **CACI** | Electrical Engineer – RF Design | US NY Rochester | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Electrical-Engineer---RF-Design_322211-1) |
 | 🏢 **BAE Systems, Inc.** | 2026 Entry Level Electrical Engineer (Hybrid) | Manchester | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/2026-entry-level-electrical-engineer-hybrid/8166882) |
 | 🏢 **BAE Systems, Inc.** | 2026 Entry Level Electrical Engineer (Hybrid) | Merrimack | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/2026-entry-level-electrical-engineer-hybrid/8166836) |
 | 🏢 **BAE Systems, Inc.** | Entry Level Mechanical Engineer (Hybrid) | Hudson | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/entry-level-mechanical-engineer-hybrid/8166919) |
@@ -207,7 +207,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Caterpillar** | Embedded Software Engineer | Mossville | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Software-Engineer_R0000353015) |
+| 🏢 **Caterpillar** | Embedded Software Engineer | Mossville | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Software-Engineer_R0000353015) |
 | 🏢 **SpaceX** | Embedded Software Engineer (Starlink) | Hawthorne, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8379277002?gh_jid=8379277002) |
 | 🏢 **Caterpillar** | Embedded Software Engineering Specialist-2 | Mossville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Software-Engineering-Specialist-2_R0000336389) |
 | 🏢 **Leidos** | Embedded Software Engineer | San Diego, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Embedded-Software-Engineer_R-00177515) |
@@ -318,7 +318,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 303 current opportunities from 65 companies**
+**🎯 305 current opportunities from 65 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
