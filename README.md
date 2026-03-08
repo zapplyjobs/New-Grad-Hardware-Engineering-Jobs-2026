@@ -9,16 +9,16 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-317-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-67-blue?style=flat&logo=building)
-![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-232-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-318-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-68-blue?style=flat&logo=building)
+![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-233-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 67+ top companies like Samsara and Verkada. Updated every 15 minutes with 317+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 68+ top companies like Samsara and Verkada. Updated every 15 minutes with 318+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech hardware companies, defense contractors, and engineering-first startups like Samsara and Verkada.</p>
 
@@ -78,8 +78,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Electrical Engineering Technician | Huntsville | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5049191007?gh_jid=5049191007) |
 | 🏢 **Anduril** | Mechanical Engineer, Omen | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4972115007?gh_jid=4972115007) |
 | 🏢 **Anduril** | Radar Electro-Mechanical Engineer | Fort Collins | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051373007?gh_jid=5051373007) |
-| 🏢 **Amazon.com Services LLC** | Software Development Engineer - Robotics, Frontier AI Robotics | San Francisco, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3198929/software-development-engineer-robotics-frontier-ai-robotics) |
 | 🏢 **IBM** | Entry-Level Hardware Engineer – Quantum & AI Platforms | Austin | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/EKD7tZnAywn2dr9Q9Wz3t) |
+| 🏢 **Amazon.com Services LLC** | Software Development Engineer - Robotics, Frontier AI Robotics | San Francisco, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3198929/software-development-engineer-robotics-frontier-ai-robotics) |
 | 🏢 **xAI** | Electrical Engineer (EIT) | Memphis, TN | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4753835007) |
 | 🏢 **SpaceX** | New Graduate Engineer, Software (Starlink) | Sunnyvale, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
 | 🏢 **Leidos** | PCBA Soldering Technician | Huntsville, AL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Soldering-Technician_R-00177673) |
@@ -94,10 +94,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Applied Materials** | Process Engineer IV | Santa Clara, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-IV_R2613422) |
 | 🏢 **Applied Materials** | Mechanical Engineer - E4 | Santa Clara, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer---E4_R2613699) |
 | 🏢 **Rogers Freels & Associates Inc** | Embedded Systems Engineer: C/Simulink | Minnesota | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.6amcity.com/job/327243/embedded-systems-engineer-c-simulink/) |
+| 🏢 **Mesa Associates, Inc.** | Entry Level Electrical Engineer - Engineering Associate I at Mesa Associates, Inc. Knoxville, TN | Knoxville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://virginiacommons.com/samples/job/entry-level-electrical-engineer-engineering-associate-i-at-mesa-associates-inc-knoxville-tn-UXNicHE4REYvVzhWbzlsNTdQbXBpWW5Hbnc9PQ==) |
 | 🏢 **Amazon Data Services, Inc.** | Data Center Controls Engineer, Data Center Capacity Delivery - Controls | New Albany, OH | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3198626/data-center-controls-engineer-data-center-capacity-delivery-controls) |
 | 🏢 **Amazon Data Services, Inc.** | Critical Infrastructure Electrical Engineer, Data Center Field Engineering | Frederick, MD | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3198588/critical-infrastructure-electrical-engineer-data-center-field-engineering) |
 | 🏢 **Amazon Data Services, Inc.** | Manufacturing Engineer, Hardware Engineering - Manufacturing | Austin, TX | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3198560/manufacturing-engineer-hardware-engineering-manufacturing) |
-| 🏢 **Mesa Associates, Inc.** | Entry Level Electrical Engineer - Engineering Associate I at Mesa Associates, Inc. Knoxville, TN | Knoxville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://virginiacommons.com/samples/job/entry-level-electrical-engineer-engineering-associate-i-at-mesa-associates-inc-knoxville-tn-UXNicHE4REYvVzhWbzlsNTdQbXBpWW5Hbnc9PQ==) |
 | 🏢 **BAE Systems** | Entry Level Mechanical Engineer (Hybrid) | Nashua | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/119745BR/Entry-Level-Mechanical-Engineer-Hybrid) |
 | 🏢 **DeepMind** | Research Scientist, Safety and Alignment for Humanoid Robotics | New York City, US | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7576917) |
 | 🏢 **CACI** | NASA Spacecraft Embedded Flight Software Developer and Systems Engineer | US TX Houston | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Houston/NASA-Spacecraft-Embedded-Flight-Software-Developer-and-Systems-Engineer_322841) |
@@ -122,18 +122,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | Electrical Engineer | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Electrical-Engineer_R0235084-1) |
 | 🏢 **Leidos** | Marine Mechanical and Electrical Engineer | Chesapeake, VA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Marine-Mechanical-and-Electrical-Engineer_R-00174466) |
 | 🏢 **Intermountain Health** | HVAC Technician | Intermountain Hea... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Park-City-Hospital/HVAC-Technician_R159021) |
-| 🏢 **Amazon.com Services LLC** | Interdisciplinary Systems Engineer, WWGS Robotics & Automation Systems | Seattle, WA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3195874/interdisciplinary-systems-engineer-wwgs-robotics-automation-systems) |
 | 🏢 **BAE Systems** | Entry Level Mechanical Engineer (hybrid) with Security Clearance | Hudson | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobtrees.com/postid/80ccec6a-fe08-4d14-91a1-827e5a39b222) |
+| 🏢 **Domtar** | Electrical Engineer - Entry Level at Domtar Bennettsville, SC | Bennettsville | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://gestiopro.cl/office/job/electrical-engineer-entry-level-at-domtar-bennettsville-sc-YTJOcStFMFJUZzFhS1hwdGJEU1VuZUhPbkE9PQ==) |
+| 🏢 **Amazon.com Services LLC** | Interdisciplinary Systems Engineer, WWGS Robotics & Automation Systems | Seattle, WA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3195874/interdisciplinary-systems-engineer-wwgs-robotics-automation-systems) |
 | 🏢 **Relativity Space** | Avionics Manufacturing Technical Specialist I | Long Beach | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8324536002?gh_jid=8324536002) |
 | 🏢 **Relativity Space** | Manufacturing Engineer I, CNC Machining | Long Beach | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8399322002?gh_jid=8399322002) |
 | 🏢 **KBR** | Electronic Warfare Electrical Engineer | 2 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Wright-Patterson-AFB-Ohio/Electronic-Warfare-Electrical-Engineer_R2118387) |
 | 🏢 **RTX** | 2026 Fulltime Raytheon Mechanical Engineer I - Thermal Engineer | AZ-TUCSON-805 ~ 1... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Fulltime-Raytheon-Mechanical-Engineer-I---Thermal-Engineer_01827675) |
 | 🏢 **General Dynamics** | New Grad Electrical Engineer: Build Next-Gen Submarines | Groton | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobleads.com/us/job/new-grad-electrical-engineer-build-next-gen-submarines--groton--ea1bdcc351609e6c3e2fbbc4b6f421a16) |
-| 🏢 **Shive Hattery Group, Inc.** | Electrical Engineer- Early Career | Iowa City | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://recruiting.paylocity.com/recruiting/jobs/Details/3897461/Shive-Hattery-Group-Inc/Electrical-Engineer--Early-Career?source=Indeed_Feed) |
 | 🏢 **Bae Systems** | Entry Level Electrical Engineer | San Diego | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.zettlor.com/job-posts/8cc01147-56cd-4eb1-9378-7f36ba1a796e) |
 | 🏢 **Boeing** | Experienced Level Manufacturing Engineer (Fabrication) | Seal Beach, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Experienced-Level-Manufacturing-Engineer--Fabrication-_JR2026497466-1) |
 | 🏢 **GlobalFoundries** | ETCH Process Engineering Technician (Nights) | New York - Malta | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/ETCH-Process-Engineering-Technician--Nights-_JR-2600391) |
 | 🏢 **Booz Allen Hamilton** | Mechanical Engineer | Washington, DC | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Mechanical-Engineer_R0229178) |
+| 🏢 **Shive Hattery Group, Inc.** | Electrical Engineer- Early Career | Iowa City | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://recruiting.paylocity.com/recruiting/jobs/Details/3897461/Shive-Hattery-Group-Inc/Electrical-Engineer--Early-Career?source=Indeed_Feed) |
 | 🏢 **BAE Systems, Inc.** | 2026 Entry Level Electrical Engineer (Hybrid) | Manchester | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/2026-entry-level-electrical-engineer-hybrid/8166882) |
 | 🏢 **BAE Systems, Inc.** | 2026 Entry Level Electrical Engineer (Hybrid) | Merrimack | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/2026-entry-level-electrical-engineer-hybrid/8166836) |
 | 🏢 **BAE Systems, Inc.** | Entry Level Mechanical Engineer (Hybrid) | Hudson | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/entry-level-mechanical-engineer-hybrid/8166919) |
@@ -321,7 +322,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 317 current opportunities from 67 companies**
+**🎯 318 current opportunities from 68 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
