@@ -9,7 +9,7 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-303-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-304-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-65-blue?style=flat&logo=building)
 ![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-223-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -18,7 +18,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 65+ top companies like Samsara and Verkada. Updated every 15 minutes with 303+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 65+ top companies like Samsara and Verkada. Updated every 15 minutes with 304+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech hardware companies, defense contractors, and engineering-first startups like Samsara and Verkada.</p>
 
@@ -73,13 +73,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **SpaceX** | Materials Engineer, Propulsion Materials | Hawthorne, CA | 31m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8424850002?gh_jid=8424850002) |
-| 🏢 **SpaceX** | Materials Engineer, Metals | Hawthorne, CA | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8404949002?gh_jid=8404949002) |
+| 🏢 **SpaceX** | Materials Engineer, Propulsion Materials | Hawthorne, CA | 46m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8424850002?gh_jid=8424850002) |
+| 🏢 **SpaceX** | Materials Engineer, Metals | Hawthorne, CA | 48m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8404949002?gh_jid=8404949002) |
 | 🏢 **Anduril** | Electrical Engineering Technician | Huntsville | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5049191007?gh_jid=5049191007) |
 | 🏢 **Anduril** | Mechanical Engineer, Omen | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4972115007?gh_jid=4972115007) |
 | 🏢 **Anduril** | Radar Electro-Mechanical Engineer | Fort Collins | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051373007?gh_jid=5051373007) |
-| 🏢 **Amazon.com Services LLC** | Software Development Engineer - Robotics, Frontier AI Robotics | San Francisco, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3198929/software-development-engineer-robotics-frontier-ai-robotics) |
 | 🏢 **IBM** | Entry-Level Hardware Engineer – Quantum & AI Platforms | Austin | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/EKD7tZnAywn2dr9Q9Wz3t) |
+| 🏢 **Amazon.com Services LLC** | Software Development Engineer - Robotics, Frontier AI Robotics | San Francisco, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3198929/software-development-engineer-robotics-frontier-ai-robotics) |
 | 🏢 **xAI** | Electrical Engineer (EIT) | Memphis, TN | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4753835007) |
 | 🏢 **SpaceX** | New Graduate Engineer, Software (Starlink) | Sunnyvale, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
 | 🏢 **Leidos** | PCBA Soldering Technician | Huntsville, AL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Soldering-Technician_R-00177673) |
@@ -102,7 +102,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **RTX** | 2026 Fulltime - Mechanical Engineer I – Structural Analysis - Onsite | MA-MARLBOROUGH-MA... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/XMLNAME-2026-Fulltime---Mechanical-Engineer-I---Structural-Analysis---Onsite_01828052) |
 | 🏢 **Verkada** | Hardware Engineer, New Grad 2025 | San Mateo, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5036396007) |
 | 🏢 **Handshake** | PCB Designer - AI Trainer | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/c07a289d-6a77-47c8-8ec1-487c87fbc8aa/application) |
-| 🏢 **Handshake** | Mechanical Engineer - AI Trainer | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/c966fa72-d8c8-40ec-8688-4772ea56f0dd/application) |
+| 🏢 **Handshake** | Mechanical Engineer - AI Trainer | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/c966fa72-d8c8-40ec-8688-4772ea56f0dd/application) |
 | 🏢 **Intel** | APTD Manufacturing Engineer | US | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/APTD-Manufacturing-Engineer_JR0281468) |
 | 🏢 **KBR** | Electronic Warfare Electrical Engineer | Wright Patterson AFB | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Wright-Patterson-AFB-Ohio/Electronic-Warfare-Electrical-Engineer_R2119936) |
 | 🏢 **Caterpillar** | Paint Pre-Treat Process Technician - 2nd Shift | Sanfor | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Sanfor-North-Carolina/Paint-Pre-Treat-Process-Technician---2nd-Shift_R0000353990) |
@@ -119,10 +119,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Hermeus** | Fluids Manufacturing Engineer | Atlanta, GA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/202fb9e1-6ad6-4d91-bb72-3ef0e0463b5b/apply) |
 | 🏢 **Northwood Space** | RF Hardware Engineer (Early Career) | Torrance, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/5d76a025-bb64-4ddd-8b97-8649c41d89ed/application) |
 | 🏢 **Intermountain Health** | HVAC Technician | Intermountain Hea... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Park-City-Hospital/HVAC-Technician_R159021) |
-| 🏢 **KBR** | Electronic Warfare Electrical Engineer | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Wright-Patterson-AFB-Ohio/Electronic-Warfare-Electrical-Engineer_R2118387) |
+| 🏢 **KBR** | Electrical Engineer | Clearfield | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Clearfield-Utah/Electrical-Engineer_R2110796-1) |
 | 🏢 **Blue Origin** | New Glenn Avionics Systems Engineer | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/New-Glenn-Avionics-Systems-Engineer_R60608-1) |
-| 🏢 **Amazon.com Services LLC** | Interdisciplinary Systems Engineer, WWGS Robotics & Automation Systems | Seattle, WA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3195874/interdisciplinary-systems-engineer-wwgs-robotics-automation-systems) |
 | 🏢 **BAE Systems** | Entry Level Mechanical Engineer (hybrid) with Security Clearance | Hudson | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobtrees.com/postid/80ccec6a-fe08-4d14-91a1-827e5a39b222) |
+| 🏢 **Amazon.com Services LLC** | Interdisciplinary Systems Engineer, WWGS Robotics & Automation Systems | Seattle, WA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3195874/interdisciplinary-systems-engineer-wwgs-robotics-automation-systems) |
 | 🏢 **Relativity Space** | Avionics Manufacturing Technical Specialist I | Long Beach | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8324536002?gh_jid=8324536002) |
 | 🏢 **Relativity Space** | Manufacturing Engineer I, CNC Machining | Long Beach | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8399322002?gh_jid=8399322002) |
 | 🏢 **RTX** | 2026 Fulltime Raytheon Mechanical Engineer I - Thermal Engineer | AZ-TUCSON-805 ~ 1... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Fulltime-Raytheon-Mechanical-Engineer-I---Thermal-Engineer_01827675) |
@@ -318,7 +318,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 303 current opportunities from 65 companies**
+**🎯 304 current opportunities from 65 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
