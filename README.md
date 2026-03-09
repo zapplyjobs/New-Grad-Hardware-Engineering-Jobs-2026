@@ -11,7 +11,7 @@
 
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-307-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-68-blue?style=flat&logo=building)
-![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-228-red?style=flat&logo=star)
+![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-229-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
@@ -73,15 +73,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **HPE** | Hardware Electrical Engineer - Software | Spring | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Hardware-Electrical-Engineer---Software_1203621-2) |
+| 🏢 **HPE** | Hardware Electrical Engineer - Software | Spring | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Hardware-Electrical-Engineer---Software_1203621-2) |
+| 🏢 **Handshake** | Hardware Engineer - AI Trainer | Remote | 18m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/a2005298-96da-46f6-8809-231008720bd9/application) |
 | 🏢 **SpaceX** | Materials Engineer, Propulsion Materials | Hawthorne, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8424850002?gh_jid=8424850002) |
 | 🏢 **SpaceX** | Materials Engineer, Metals | Hawthorne, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8404949002?gh_jid=8404949002) |
 | 🏢 **Caterpillar** | 2026 Engineering Rotational Development Program- Materials Engineering | Mossville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/XMLNAME-2026-Engineering-Rotational-Development-Program--Materials-Engineering_R0000320613) |
 | 🏢 **Caterpillar** | Career Pathways High School Program - Decatur - Manufacturing Engineering Assembly | Decatur | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Decatur-Illinois/Career-Pathways-High-School-Program---Decatur---Manufacturing-Engineering-Assembly_R0000355635) |
 | 🏢 **Caterpillar** | Career Pathways High School Program - Decatur - Manufacturing Engineering | Decatur | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Decatur-Illinois/Career-Pathways-High-School-Program---Decatur---Manufacturing-Engineering_R0000355633) |
 | 🏢 **Boeing** | Manufacturing Engineer | Sylmar, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Sylmar-CA/Manufacturing-Engineer_JR2026499736-1) |
-| 🏢 **Blue Origin** | Lunar Lander Production Manufacturing Engineer  (All levels, All shifts) | Space Coast, FL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Lunar-Lander-Production-Manufacturing-Engineer---All-levels--All-shifts---Evergreen-_R55140) |
 | 🏢 **Blue Origin** | Mechanical Engineer - Design & Analysis | Space Coast, FL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Mechanical-Engineer---Design---Analysis_R60400) |
+| 🏢 **Blue Origin** | Lunar Lander Production Manufacturing Engineer  (All levels, All shifts) | Space Coast, FL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Lunar-Lander-Production-Manufacturing-Engineer---All-levels--All-shifts---Evergreen-_R55140) |
 | 🏢 **Applied Materials** | Process Engineer IV | Santa Clara, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-IV_R2613422) |
 | 🏢 **Applied Materials** | Mechanical Engineer - E4 | Santa Clara, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer---E4_R2613699) |
 | 🏢 **Anduril** | Electrical Engineering Technician | Huntsville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5049191007?gh_jid=5049191007) |
@@ -123,7 +124,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Hermeus** | Fluids Manufacturing Engineer | Atlanta, GA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/202fb9e1-6ad6-4d91-bb72-3ef0e0463b5b/apply) |
 | 🏢 **Northwood Space** | RF Hardware Engineer (Early Career) | Torrance, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/5d76a025-bb64-4ddd-8b97-8649c41d89ed/application) |
 | 🏢 **Intermountain Health** | HVAC Technician | Intermountain Hea... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Park-City-Hospital/HVAC-Technician_R159021) |
-| 🏢 **KBR** | Electronic Warfare Electrical Engineer | 2 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Wright-Patterson-AFB-Ohio/Electronic-Warfare-Electrical-Engineer_R2118387) |
+| 🏢 **KBR** | Electrical Engineer | Clearfield | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Clearfield-Utah/Electrical-Engineer_R2110796-1) |
 | 🏢 **Amazon.com Services LLC** | Interdisciplinary Systems Engineer, WWGS Robotics & Automation Systems | Seattle, WA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3195874/interdisciplinary-systems-engineer-wwgs-robotics-automation-systems) |
 | 🏢 **BAE Systems** | Entry Level Mechanical Engineer (hybrid) with Security Clearance | Hudson | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobtrees.com/postid/80ccec6a-fe08-4d14-91a1-827e5a39b222) |
 | 🏢 **Domtar** | Electrical Engineer - Entry Level at Domtar Bennettsville, SC | Bennettsville | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://gestiopro.cl/office/job/electrical-engineer-entry-level-at-domtar-bennettsville-sc-YTJOcStFMFJUZzFhS1hwdGJEU1VuZUhPbkE9PQ==) |
