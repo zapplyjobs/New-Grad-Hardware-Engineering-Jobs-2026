@@ -9,7 +9,7 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-308-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-309-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-69-blue?style=flat&logo=building)
 ![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-230-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -18,7 +18,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 69+ top companies like Samsara and Verkada. Updated every 15 minutes with 308+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 69+ top companies like Samsara and Verkada. Updated every 15 minutes with 309+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech hardware companies, defense contractors, and engineering-first startups like Samsara and Verkada.</p>
 
@@ -104,7 +104,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **CACI** | NASA Spacecraft Embedded Flight Software Developer and Systems Engineer | US TX Houston | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Houston/NASA-Spacecraft-Embedded-Flight-Software-Developer-and-Systems-Engineer_322841) |
 | 🏢 **Boeing** | Manufacturing Engineer (Manufacturing Engineer-General) | Berkeley, MO | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Manufacturing-Engineer--Manufacturing-Engineer-General-_JR2025486113) |
 | 🏢 **Blue Origin** | Machining Manufacturing Engineer | Greater Seattle Area | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Machining-Manufacturing-Engineer_R61370) |
-| 🏢 **Booz Allen Hamilton** | Electrical Engineer | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/North-Charleston-SC/Electrical-Engineer_R0235259) |
 | 🏢 **Applied Materials** | Mechanical Engineer V | Santa Clara, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer-V_R2614396) |
 | 🏢 **Leidos** | Marine Mechanical and Electrical Engineer | Philadelphia, PA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Philadelphia-PA/Marine-Mechanical-and-Electrical-Engineer_R-00177602-1) |
 | 🏢 **RTX** | 2026 Fulltime - Mechanical Engineer I – Structural Analysis - Onsite | MA-MARLBOROUGH-MA... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/XMLNAME-2026-Fulltime---Mechanical-Engineer-I---Structural-Analysis---Onsite_01828052) |
@@ -123,6 +122,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Northwood Space** | RF Hardware Engineer (Early Career) | Torrance, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/5d76a025-bb64-4ddd-8b97-8649c41d89ed/application) |
 | 🏢 **Intel** | APTD Manufacturing Engineer | US | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/APTD-Manufacturing-Engineer_JR0281468) |
 | 🏢 **KBR** | Electronic Warfare Electrical Engineer | Wright Patterson AFB | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Wright-Patterson-AFB-Ohio/Electronic-Warfare-Electrical-Engineer_R2119936) |
+| 🏢 **Booz Allen Hamilton** | Electrical Engineer | 2 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Electrical-Engineer_R0235084-1) |
 | 🏢 **Leidos** | Marine Mechanical and Electrical Engineer | Chesapeake, VA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Marine-Mechanical-and-Electrical-Engineer_R-00174466) |
 | 🏢 **Intermountain Health** | HVAC Technician | Intermountain Hea... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Park-City-Hospital/HVAC-Technician_R159021) |
 | 🏢 **Amazon.com Services LLC** | Interdisciplinary Systems Engineer, WWGS Robotics & Automation Systems | Seattle, WA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3195874/interdisciplinary-systems-engineer-wwgs-robotics-automation-systems) |
@@ -322,7 +322,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 308 current opportunities from 69 companies**
+**🎯 309 current opportunities from 69 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
