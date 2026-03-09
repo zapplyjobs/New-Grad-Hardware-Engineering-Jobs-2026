@@ -9,16 +9,16 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-311-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-310-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-68-blue?style=flat&logo=building)
-![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-233-red?style=flat&logo=star)
+![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-232-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 68+ top companies like Samsara and Verkada. Updated every 15 minutes with 311+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 68+ top companies like Samsara and Verkada. Updated every 15 minutes with 310+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech hardware companies, defense contractors, and engineering-first startups like Samsara and Verkada.</p>
 
@@ -73,7 +73,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **HPE** | Hardware Electrical Engineer - Software | Spring | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Hardware-Electrical-Engineer---Software_1203621-2) |
+| 🏢 **HPE** | Hardware Electrical Engineer - Software | Spring | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Hardware-Electrical-Engineer---Software_1203621-2) |
 | 🏢 **SpaceX** | Materials Engineer, Propulsion Materials | Hawthorne, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8424850002?gh_jid=8424850002) |
 | 🏢 **SpaceX** | Materials Engineer, Metals | Hawthorne, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8404949002?gh_jid=8404949002) |
 | 🏢 **Caterpillar** | 2026 Engineering Rotational Development Program- Materials Engineering | Mossville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/XMLNAME-2026-Engineering-Rotational-Development-Program--Materials-Engineering_R0000320613) |
@@ -98,7 +98,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **CACI** | NASA Spacecraft Embedded Flight Software Developer and Systems Engineer | US TX Houston | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Houston/NASA-Spacecraft-Embedded-Flight-Software-Developer-and-Systems-Engineer_322841) |
 | 🏢 **Boeing** | Manufacturing Engineer (Manufacturing Engineer-General) | Berkeley, MO | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Manufacturing-Engineer--Manufacturing-Engineer-General-_JR2025486113) |
 | 🏢 **Blue Origin** | Machining Manufacturing Engineer | Greater Seattle Area | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Machining-Manufacturing-Engineer_R61370) |
-| 🏢 **Booz Allen Hamilton** | Electrical Engineer | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/North-Charleston-SC/Electrical-Engineer_R0235259) |
 | 🏢 **Applied Materials** | Mechanical Engineer V | Santa Clara, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer-V_R2614396) |
 | 🏢 **Leidos** | Marine Mechanical and Electrical Engineer | Philadelphia, PA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Philadelphia-PA/Marine-Mechanical-and-Electrical-Engineer_R-00177602-1) |
 | 🏢 **Amazon Data Services, Inc.** | Data Center Controls Engineer, Data Center Capacity Delivery - Controls | New Albany, OH | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3198626/data-center-controls-engineer-data-center-capacity-delivery-controls) |
@@ -108,9 +107,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **DeepMind** | Research Scientist, Safety and Alignment for Humanoid Robotics | New York City, US | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7576917) |
 | 🏢 **RTX** | 2026 Fulltime - Mechanical Engineer I – Structural Analysis - Onsite | MA-MARLBOROUGH-MA... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/XMLNAME-2026-Fulltime---Mechanical-Engineer-I---Structural-Analysis---Onsite_01828052) |
 | 🏢 **Verkada** | Hardware Engineer, New Grad 2025 | San Mateo, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5036396007) |
-| 🏢 **Handshake** | PCB Designer - AI Trainer | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/c07a289d-6a77-47c8-8ec1-487c87fbc8aa/application) |
 | 🏢 **Intel** | APTD Manufacturing Engineer | US | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/APTD-Manufacturing-Engineer_JR0281468) |
 | 🏢 **KBR** | Electronic Warfare Electrical Engineer | Wright Patterson AFB | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Wright-Patterson-AFB-Ohio/Electronic-Warfare-Electrical-Engineer_R2119936) |
+| 🏢 **Booz Allen Hamilton** | Electrical Engineer | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Electrical-Engineer_R0235084-1) |
+| 🏢 **Handshake** | PCB Designer - AI Trainer | Remote | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/c07a289d-6a77-47c8-8ec1-487c87fbc8aa/application) |
 | 🏢 **Handshake** | Mechanical Engineer - AI Trainer | Remote | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/c966fa72-d8c8-40ec-8688-4772ea56f0dd/application) |
 | 🏢 **Leidos** | Marine Mechanical and Electrical Engineer | Chesapeake, VA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Marine-Mechanical-and-Electrical-Engineer_R-00174466) |
 | 🏢 **Relativity Space** | Additive Manufacturing Engineer I | Long Beach | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8423422002?gh_jid=8423422002) |
@@ -136,8 +136,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Shive Hattery Group, Inc.** | Electrical Engineer- Early Career | Iowa City | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://recruiting.paylocity.com/recruiting/jobs/Details/3897461/Shive-Hattery-Group-Inc/Electrical-Engineer--Early-Career?source=Indeed_Feed) |
 | 🏢 **Bae Systems** | Entry Level Electrical Engineer | San Diego | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.zettlor.com/job-posts/8cc01147-56cd-4eb1-9378-7f36ba1a796e) |
 | 🏢 **Boeing** | Experienced Level Manufacturing Engineer (Fabrication) | Seal Beach, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Experienced-Level-Manufacturing-Engineer--Fabrication-_JR2026497466-1) |
-| 🏢 **CACI** | Business Process Engineer 2 | CYC LINTHICUM HEI... | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/CYC-LINTHICUM-HEIGHTS-MD/Business-Process-Engineer-2_321463) |
 | 🏢 **CACI** | Electrical Engineer - Digital Design | US NY Rochester | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Electrical-Engineer---Digital-Design_322207-1) |
+| 🏢 **CACI** | Electrical Engineer – RF Design | US NY Rochester | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Electrical-Engineer---RF-Design_322211-1) |
 | 🏢 **BAE Systems, Inc.** | 2026 Entry Level Electrical Engineer (Hybrid) | Manchester | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/2026-entry-level-electrical-engineer-hybrid/8166882) |
 | 🏢 **BAE Systems, Inc.** | 2026 Entry Level Electrical Engineer (Hybrid) | Merrimack | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/2026-entry-level-electrical-engineer-hybrid/8166836) |
 | 🏢 **BAE Systems, Inc.** | Entry Level Mechanical Engineer (Hybrid) | Hudson | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/entry-level-mechanical-engineer-hybrid/8166919) |
@@ -179,11 +179,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **Boeing** | Associate Embedded Software Engineers | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Associate-Embedded-Software-Engineers_JR2025489635-1) |
 | 🏢 **IMC Trading** | 2026 ISFPGA Conference | United States | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4784514101) |
-| 🏢 **Anduril** | Firmware Engineer, Embedded Systems | Costa Mesa | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5052359007?gh_jid=5052359007) |
-| 🏢 **Anduril** | Firmware Engineer, Manufacturing Test | Costa Mesa | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4987908007?gh_jid=4987908007) |
 | 🏢 **CACI** | FPGA Engineer | US NY Rochester | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/FPGA-Engineer_322844) |
 | 🏢 **Boeing** | Associate Level Real Time Embedded Software Engineer-4 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Associate-Level-Real-Time-Embedded-Software-Engineer-4_JR2026498837-2) |
 | 🏢 **Boeing** | Associate Manufacturing Engineer – Electrical | El Segundo, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Associate-Manufacturing-Engineer---Electrical_JR2026499591-1) |
+| 🏢 **Anduril** | Firmware Engineer, Embedded Systems | Costa Mesa | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5052359007?gh_jid=5052359007) |
+| 🏢 **Anduril** | Firmware Engineer, Manufacturing Test | Costa Mesa | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4987908007?gh_jid=4987908007) |
 | 🏢 **Ferring Pharmaceuticals Inc.** | Associate Engineer, Industrial Automation | Parsippany-Troy H... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.careeronestop.org/Toolkit/Jobs/find-jobs-details.aspx?keyword=computer%2Bscience&sortcolumn=dateacquired&sortdirection=desc&curPage=1&pagesize=250&lang=en&fc=1&jvid=3a6027f4c1884363928a75c9f9dd4bad8003&detailpage=true) |
 | 🏢 **Marvell** | Firmware Engineer -PCIe post silicon bring up, function validations, protocol | Santa Clara, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer--PCIe-post-silicon-bring-up--function-validations--protocol_2600531) |
 | 🏢 **NVIDIA** | Firmware Engineer, Memory Subsystem - New College Grad 2026 | US, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Firmware-Engineer--Memory-Subsystem---New-College-Grad-2026_JR2010096) |
@@ -213,11 +213,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Caterpillar** | Embedded Software Engineer | Mossville | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Software-Engineer_R0000353015) |
 | 🏢 **Boeing** | Experienced Embedded Software Engineer | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Experienced-Embedded-Software-Engineer_JR2025485213-1) |
 | 🏢 **SpaceX** | Embedded Software Engineer (Starlink) | Hawthorne, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8379277002?gh_jid=8379277002) |
+| 🏢 **Caterpillar** | Embedded Software Engineering Specialist-2 | Mossville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Software-Engineering-Specialist-2_R0000336389) |
+| 🏢 **Leidos** | Embedded Software Engineer | San Diego, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Embedded-Software-Engineer_R-00177515) |
 | 🏢 **Anduril** | Embedded Haskell Engineer | Costa Mesa | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5043620007?gh_jid=5043620007) |
 | 🏢 **Anduril** | Embedded NixOS Engineer | Costa Mesa | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5043618007?gh_jid=5043618007) |
 | 🏢 **Anduril** | Flight Software Engineer, Embedded C/C++, Air Dominance & Strike | Costa Mesa | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007) |
-| 🏢 **Caterpillar** | Embedded Software Engineering Specialist-2 | Mossville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Software-Engineering-Specialist-2_R0000336389) |
-| 🏢 **Leidos** | Embedded Software Engineer | San Diego, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Embedded-Software-Engineer_R-00177515) |
 | 🏢 **Samsung Semiconductor** | Engineer, Firmware | San Jose | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7560642003) |
 | 🏢 **Verkada** | Embedded Linux Software Engineer | San Mateo, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5043233007) |
 | 🏢 **Verkada** | Embedded Software Engineer - Access Control | San Mateo, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5032260007) |
@@ -322,7 +322,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 311 current opportunities from 68 companies**
+**🎯 310 current opportunities from 68 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
