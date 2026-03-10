@@ -9365,33 +9365,5 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-02-24T19:07:00.159+00:00"
-  },
-  {
-    "job_id": "greenhouse-purestorage-7596268",
-    "job_title": "Hardware Engineer, Hyperscale Line of Business",
-    "employer_name": "Pure Storage",
-    "job_city": "Santa Clara",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/purestorage/jobs/7596268",
-    "job_posted_at_datetime_utc": "2026-02-24T13:29:15-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1da9e0228d0af100c964ae7a9ac2cc3905aaecaa4e7edc50112274950a0a8779",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-02-24T13:29:15-05:00"
   }
 ]
