@@ -9335,35 +9335,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-24T18:07:28-05:00"
-  },
-  {
-    "job_id": "ashby-crusoe-028b064e-2044-406d-bc90-2ab9bee731bd",
-    "job_title": "Mechanical Engineer",
-    "employer_name": "Crusoe",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/028b064e-2044-406d-bc90-2ab9bee731bd/application",
-    "job_posted_at_datetime_utc": "2026-02-24T19:07:00.159+00:00",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "55d332bf4198cdff9b6f4fa4c8ffd5b606243fd8c7b841134d7ee02350ca67fa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-02-24T19:07:00.159+00:00"
   }
 ]
