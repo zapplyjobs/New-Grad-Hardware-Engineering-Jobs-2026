@@ -8,7 +8,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Newark-Delaware/Mechanical-Engineer--LNG_R2113375",
-    "job_posted_at_datetime_utc": "2026-03-10T23:46:45.712Z",
+    "job_posted_at_datetime_utc": "2026-03-10T23:59:39.958Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1efe4f3da65251667a488ba5efa023a8943208dfde33b28eb560e94e31f431c4",
@@ -25,7 +25,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:46:45.712Z"
+    "job_posted_at": "2026-03-10T23:59:39.958Z"
   },
   {
     "job_id": "workday-cleveland-clinic-299748",
@@ -36,7 +36,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Mechanical-Engineer_299748",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:59.433Z",
+    "job_posted_at_datetime_utc": "2026-03-10T23:58:53.421Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "25e2a0384f05eed1d4f80637b31804b3e38ff5bea721232f51af72c85dad51bb",
@@ -53,36 +53,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:59.433Z"
-  },
-  {
-    "job_id": "workday-caterpillar-R0000349764",
-    "job_title": "Embedded Software Engineering Specialist",
-    "employer_name": "Caterpillar",
-    "job_city": "Mossville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Software-Engineering-Specialist_R0000349764",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:47.077Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0dbc9e2e2e1a0a04b4a38aab5d76e61d57559aabeb56893d4e5aa9ebcca6a07a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:47.077Z"
+    "job_posted_at": "2026-03-10T23:58:53.421Z"
   },
   {
     "job_id": "workday-caterpillar-R0000336388",
@@ -93,7 +64,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Software-Engineering-Specialist-1_R0000336388",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:47.076Z",
+    "job_posted_at_datetime_utc": "2026-03-10T23:58:42.100Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fc56c38e13776c90e72159e5aaa3398fa636f18e28ef75c20ea8c9f51e71b700",
@@ -111,7 +82,36 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:47.076Z"
+    "job_posted_at": "2026-03-10T23:58:42.100Z"
+  },
+  {
+    "job_id": "workday-caterpillar-R0000349764",
+    "job_title": "Embedded Software Engineering Specialist",
+    "employer_name": "Caterpillar",
+    "job_city": "Mossville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Software-Engineering-Specialist_R0000349764",
+    "job_posted_at_datetime_utc": "2026-03-10T23:58:42.100Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0dbc9e2e2e1a0a04b4a38aab5d76e61d57559aabeb56893d4e5aa9ebcca6a07a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-10T23:58:42.100Z"
   },
   {
     "job_id": "workday-boeing-JR2026493000",
@@ -122,7 +122,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Electrical-Hardware-Engineer_JR2026493000-1",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:26.026Z",
+    "job_posted_at_datetime_utc": "2026-03-10T23:58:21.976Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ea066e2e3c7aafd9cef97891631a34d3e4fa13a7114e8e7dc55bb673e86cd9c4",
@@ -139,91 +139,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:26.026Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026497037",
-    "job_title": "Associate Embedded Test and Evaluation Engineer",
-    "employer_name": "Boeing",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Associate-Embedded-Test-and-Evaluation-Engineer_JR2026497037-2",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:26.025Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f5e5199341c2b0d00cd10b562d2cabf6522c24a61228e54814555802bafd87c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:26.025Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026493470",
-    "job_title": "Associate Avionics Technician - Executive Fleet (2742)",
-    "employer_name": "Boeing",
-    "job_city": "San Antonio",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Associate-Avionics-Technician---Executive-Fleet--2742-_JR2026493470-1",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:26.025Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec2137bd0f8fa15bd9464dde90aec59f6d9ab479b89a9ce2bc371ba5fbee8b9a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:26.025Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026493416",
-    "job_title": "Experienced Avionics Technician - Executive Fleet (2742)",
-    "employer_name": "Boeing",
-    "job_city": "San Antonio",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Experienced-Avionics-Technician---Executive-Fleet--2742-_JR2026493416-3",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:26.025Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f06da40a44fb4d834ecf9d7808e8a632c8c09f47b0339d23f7b0e3ab6481b078",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:26.025Z"
+    "job_posted_at": "2026-03-10T23:58:21.976Z"
   },
   {
     "job_id": "workday-boeing-JR2026498770",
@@ -234,7 +150,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Associate-ASIC-and-or-FPGA-Design-and-Verification-Engineer_JR2026498770-1",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:26.025Z",
+    "job_posted_at_datetime_utc": "2026-03-10T23:58:21.974Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a0496081ff05eaafee4fb892f94cb74af52fc6c29523c8bea47569cea8822eab",
@@ -251,7 +167,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:26.025Z"
+    "job_posted_at": "2026-03-10T23:58:21.974Z"
   },
   {
     "job_id": "workday-boeing-JR2025489394",
@@ -262,7 +178,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Software-Engineer-Embedded--Embedded-_JR2025489394-1",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:26.025Z",
+    "job_posted_at_datetime_utc": "2026-03-10T23:58:21.974Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1eb2df51f42ce821610a603a245145e456805b352be0af32e583c59d9d65488b",
@@ -280,7 +196,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:26.025Z"
+    "job_posted_at": "2026-03-10T23:58:21.974Z"
   },
   {
     "job_id": "workday-boeing-JR2026499694",
@@ -291,7 +207,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Lemoore-CA/FA-18-Avionics-Field-Service-Representative---Defense_JR2026499694-3",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:26.025Z",
+    "job_posted_at_datetime_utc": "2026-03-10T23:58:21.974Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "37e4e3618d68b4b2124715a9cab3ee105cfc9568742ff34edde572e53b50b487",
@@ -308,7 +224,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:26.025Z"
+    "job_posted_at": "2026-03-10T23:58:21.974Z"
   },
   {
     "job_id": "workday-boeing-JR2026494660",
@@ -319,7 +235,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Software-Engineer-Embedded--Embedded-_JR2026494660",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:26.025Z",
+    "job_posted_at_datetime_utc": "2026-03-10T23:58:21.974Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1eb2df51f42ce821610a603a245145e456805b352be0af32e583c59d9d65488b",
@@ -337,7 +253,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:26.025Z"
+    "job_posted_at": "2026-03-10T23:58:21.974Z"
   },
   {
     "job_id": "workday-boeing-JR2025489388",
@@ -348,7 +264,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Software-Engineer-Embedded--Embedded-_JR2025489388-3",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:26.025Z",
+    "job_posted_at_datetime_utc": "2026-03-10T23:58:21.974Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1eb2df51f42ce821610a603a245145e456805b352be0af32e583c59d9d65488b",
@@ -366,7 +282,91 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:26.025Z"
+    "job_posted_at": "2026-03-10T23:58:21.974Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026497037",
+    "job_title": "Associate Embedded Test and Evaluation Engineer",
+    "employer_name": "Boeing",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Associate-Embedded-Test-and-Evaluation-Engineer_JR2026497037-2",
+    "job_posted_at_datetime_utc": "2026-03-10T23:58:21.973Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f5e5199341c2b0d00cd10b562d2cabf6522c24a61228e54814555802bafd87c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-10T23:58:21.973Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026493470",
+    "job_title": "Associate Avionics Technician - Executive Fleet (2742)",
+    "employer_name": "Boeing",
+    "job_city": "San Antonio",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Associate-Avionics-Technician---Executive-Fleet--2742-_JR2026493470-1",
+    "job_posted_at_datetime_utc": "2026-03-10T23:58:21.973Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec2137bd0f8fa15bd9464dde90aec59f6d9ab479b89a9ce2bc371ba5fbee8b9a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-10T23:58:21.973Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026493416",
+    "job_title": "Experienced Avionics Technician - Executive Fleet (2742)",
+    "employer_name": "Boeing",
+    "job_city": "San Antonio",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Experienced-Avionics-Technician---Executive-Fleet--2742-_JR2026493416-3",
+    "job_posted_at_datetime_utc": "2026-03-10T23:58:21.973Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f06da40a44fb4d834ecf9d7808e8a632c8c09f47b0339d23f7b0e3ab6481b078",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-10T23:58:21.973Z"
   },
   {
     "job_id": "workday-blue-origin-R59805",
@@ -377,7 +377,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Firmware---Software-Engineer---Optical-Communications---TeraWave_R59805-1",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:21.391Z",
+    "job_posted_at_datetime_utc": "2026-03-10T23:58:16.558Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "93ca681043d161da27a126bf73d9570dc9fd956ac5b3be9078486fe9c8af43a7",
@@ -395,7 +395,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:21.391Z"
+    "job_posted_at": "2026-03-10T23:58:16.558Z"
   },
   {
     "job_id": "workday-blue-origin-R59804",
@@ -406,7 +406,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Electrical-Engineer---TeraWave_R59804",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:21.391Z",
+    "job_posted_at_datetime_utc": "2026-03-10T23:58:16.558Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "28465d8ee059fd5ce81181dabf01e73708476df5b24b632161c0f131b574e3c5",
@@ -423,7 +423,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:21.391Z"
+    "job_posted_at": "2026-03-10T23:58:16.558Z"
   },
   {
     "job_id": "workday-blue-origin-R57230",
@@ -434,7 +434,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Mechanical-Engineer--Electronics-Packaging-_R57230",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:21.391Z",
+    "job_posted_at_datetime_utc": "2026-03-10T23:58:16.558Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7b89873d766ae44effe23d7882da9012a9954df6dbc5f20108b98c33db691eb6",
@@ -451,7 +451,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:21.391Z"
+    "job_posted_at": "2026-03-10T23:58:16.558Z"
   },
   {
     "job_id": "workday-blue-origin-R59816",
@@ -462,7 +462,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Manufacturing-Engineer---Tooling-and-GSE---TeraWave_R59816",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:21.390Z",
+    "job_posted_at_datetime_utc": "2026-03-10T23:58:16.555Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "07984f0f7d6ebae3aca215ceee1d5d3b1551db496d6df7c2d66716eff1283064",
@@ -479,7 +479,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:21.390Z"
+    "job_posted_at": "2026-03-10T23:58:16.555Z"
   },
   {
     "job_id": "workday-applied-materials-R2614388",
@@ -490,7 +490,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-E3_R2614388",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:01.078Z",
+    "job_posted_at_datetime_utc": "2026-03-10T23:57:53.950Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7ad650fad8741091a4a2024577587959fdb34dbc4af077d0286434a8e74ec44e",
@@ -507,7 +507,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:01.078Z"
+    "job_posted_at": "2026-03-10T23:57:53.950Z"
   },
   {
     "job_id": "workday-applied-materials-R2611494",
@@ -518,7 +518,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-engineer_R2611494",
-    "job_posted_at_datetime_utc": "2026-03-10T23:45:01.078Z",
+    "job_posted_at_datetime_utc": "2026-03-10T23:57:53.950Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7a46760b47016c8a7e88864ba528390e235fd8252a716d720cf37954cf5a71f7",
@@ -535,35 +535,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:45:01.078Z"
-  },
-  {
-    "job_id": "workday-rtx-01829174",
-    "job_title": "Hydromechanical Engineer - Fuel Systems",
-    "employer_name": "RTX",
-    "job_city": "BIR-BIRMINGHAM-001 ~ 1 Marston Green ~ GOODRICH CONTROL SYS",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GB-BIR-BIRMINGHAM-001--1-Marston-Green--GOODRICH-CONTROL-SYS/Hydromechanical-Engineer---Fuel-Systems_01829174",
-    "job_posted_at_datetime_utc": "2026-03-10T23:44:28.820Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cb6030d48015921b26da4f606eeb346d6ffe8ab7e5360bd5c00868ae5292f79f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:44:28.820Z"
+    "job_posted_at": "2026-03-10T23:57:53.950Z"
   },
   {
     "job_id": "workday-rtx-01825528",
@@ -574,7 +546,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AU-WA-HENDERSON-103-CUST--103-Quill-Way--QUILL-External-Site/Lead-Electrical-Engineer_01825528",
-    "job_posted_at_datetime_utc": "2026-03-10T23:44:28.820Z",
+    "job_posted_at_datetime_utc": "2026-03-10T23:57:23.869Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b21d10d51f8185a7488773832ce4d43168182cd88283114b2613f99bacfb12b2",
@@ -591,7 +563,119 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T23:44:28.820Z"
+    "job_posted_at": "2026-03-10T23:57:23.869Z"
+  },
+  {
+    "job_id": "workday-rtx-01829174",
+    "job_title": "Hydromechanical Engineer - Fuel Systems",
+    "employer_name": "RTX",
+    "job_city": "BIR-BIRMINGHAM-001 ~ 1 Marston Green ~ GOODRICH CONTROL SYS",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GB-BIR-BIRMINGHAM-001--1-Marston-Green--GOODRICH-CONTROL-SYS/Hydromechanical-Engineer---Fuel-Systems_01829174",
+    "job_posted_at_datetime_utc": "2026-03-10T23:57:23.868Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cb6030d48015921b26da4f606eeb346d6ffe8ab7e5360bd5c00868ae5292f79f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-10T23:57:23.868Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8368853002",
+    "job_title": "Manufacturing Engineer (Merlin Thrust Chamber Assemblies) - 2nd Shift",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8368853002?gh_jid=8368853002",
+    "job_posted_at_datetime_utc": "2026-03-10T19:50:28-04:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "37a387ea4b32008aa0094fda2ddabec87ccf9e5fd8a523a665f3e14f68d43cc3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-03-10T19:50:28-04:00"
+  },
+  {
+    "job_id": "greenhouse-spacex-8233140002",
+    "job_title": "Manufacturing Engineer (Merlin Thrust Chamber Assemblies)",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8233140002?gh_jid=8233140002",
+    "job_posted_at_datetime_utc": "2026-03-10T19:49:19-04:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6d1241d88a483773c5e2dc546b65acd9badc63b53fa64440374c903bd3a5d748",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-03-10T19:49:19-04:00"
+  },
+  {
+    "job_id": "greenhouse-spacex-8209000002",
+    "job_title": "Mechanical Engineer (Dragon)",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8209000002?gh_jid=8209000002",
+    "job_posted_at_datetime_utc": "2026-03-10T19:47:34-04:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "28fe95a9a27aa2fb6a9127e1cccbc3660475493ce738d7731338762b3dc09713",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-03-10T19:47:34-04:00"
   },
   {
     "job_id": "workday-rtx-01829725",
@@ -2281,7 +2365,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Hardware-Electrical-Engineer---Software_1203621-2",
-    "job_posted_at_datetime_utc": "2026-03-08T23:45:04.082Z",
+    "job_posted_at_datetime_utc": "2026-03-08T23:57:59.340Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5db185995c4e8a4a817c6beb48adb363928bfc6f11a06309a8b1a0b03a01d34a",
@@ -2298,35 +2382,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-08T23:45:04.082Z"
-  },
-  {
-    "job_id": "workday-hpe-1203621",
-    "job_title": "Hardware Electrical Engineer - Software",
-    "employer_name": "HPE",
-    "job_city": "Spring",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Hardware-Electrical-Engineer---Software_1203621-2",
-    "job_posted_at_datetime_utc": "2026-03-08T23:45:04.082Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5db185995c4e8a4a817c6beb48adb363928bfc6f11a06309a8b1a0b03a01d34a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-08T23:45:04.082Z"
+    "job_posted_at": "2026-03-08T23:57:59.340Z"
   },
   {
     "job_id": "greenhouse-spacex-8424850002",
@@ -2656,7 +2712,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/XMLNAME-2026-Engineering-Rotational-Development-Program--Materials-Engineering_R0000320613",
-    "job_posted_at_datetime_utc": "2026-03-06T23:45:47.078Z",
+    "job_posted_at_datetime_utc": "2026-03-06T23:58:42.103Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9efd61023a2da41f7fb9beec822664477a059bf508247b9e401ec03ae3c6fc18",
@@ -2673,7 +2729,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T23:45:47.078Z"
+    "job_posted_at": "2026-03-06T23:58:42.103Z"
   },
   {
     "job_id": "workday-caterpillar-R0000355635",
@@ -2684,7 +2740,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Decatur-Illinois/Career-Pathways-High-School-Program---Decatur---Manufacturing-Engineering-Assembly_R0000355635",
-    "job_posted_at_datetime_utc": "2026-03-06T23:45:47.078Z",
+    "job_posted_at_datetime_utc": "2026-03-06T23:58:42.103Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d76da0c5199460e845516ea593ba230e13f5eb40927329756f9814da78e8bfd8",
@@ -2701,7 +2757,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T23:45:47.078Z"
+    "job_posted_at": "2026-03-06T23:58:42.103Z"
   },
   {
     "job_id": "workday-caterpillar-R0000355633",
@@ -2712,7 +2768,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Decatur-Illinois/Career-Pathways-High-School-Program---Decatur---Manufacturing-Engineering_R0000355633",
-    "job_posted_at_datetime_utc": "2026-03-06T23:45:47.078Z",
+    "job_posted_at_datetime_utc": "2026-03-06T23:58:42.103Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ce5d03797dd5c08ddb1ba5e77251dda0715b8d422242e1cb6da689232010e12c",
@@ -2729,7 +2785,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T23:45:47.078Z"
+    "job_posted_at": "2026-03-06T23:58:42.103Z"
   },
   {
     "job_id": "workday-boeing-JR2026499736",
@@ -2740,7 +2796,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Sylmar-CA/Manufacturing-Engineer_JR2026499736-1",
-    "job_posted_at_datetime_utc": "2026-03-06T23:45:26.027Z",
+    "job_posted_at_datetime_utc": "2026-03-06T23:58:21.977Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b67cd65b30545006b5b192483a9502665e9a04c46a5b7edde790e6c69d9ed7fb",
@@ -2757,7 +2813,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T23:45:26.027Z"
+    "job_posted_at": "2026-03-06T23:58:21.977Z"
   },
   {
     "job_id": "workday-boeing-JR2025485213",
@@ -2768,7 +2824,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Experienced-Embedded-Software-Engineer_JR2025485213-1",
-    "job_posted_at_datetime_utc": "2026-03-06T23:45:26.027Z",
+    "job_posted_at_datetime_utc": "2026-03-06T23:58:21.977Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f263143c7fd060f0aabc8020db0d781d0488d9cf8fcf5bc2aaec8958c02ef6db",
@@ -2786,7 +2842,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T23:45:26.027Z"
+    "job_posted_at": "2026-03-06T23:58:21.977Z"
   },
   {
     "job_id": "workday-boeing-JR2025489635",
@@ -2797,7 +2853,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Associate-Embedded-Software-Engineers_JR2025489635-1",
-    "job_posted_at_datetime_utc": "2026-03-06T23:45:26.027Z",
+    "job_posted_at_datetime_utc": "2026-03-06T23:58:21.977Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ecf6461db17518f528f5c3314f30444944365092916990c8e800be06cd71711f",
@@ -2815,7 +2871,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T23:45:26.027Z"
+    "job_posted_at": "2026-03-06T23:58:21.977Z"
   },
   {
     "job_id": "workday-blue-origin-R60400",
@@ -2826,7 +2882,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Mechanical-Engineer---Design---Analysis_R60400",
-    "job_posted_at_datetime_utc": "2026-03-06T23:45:21.392Z",
+    "job_posted_at_datetime_utc": "2026-03-06T23:58:16.558Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b8ba473a894f2d4cc7072752b851164260f1dc43239c0cccca7bdc15cfc2ca8e",
@@ -2843,7 +2899,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T23:45:21.392Z"
+    "job_posted_at": "2026-03-06T23:58:16.558Z"
   },
   {
     "job_id": "workday-blue-origin-R55140",
@@ -2854,7 +2910,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Lunar-Lander-Production-Manufacturing-Engineer---All-levels--All-shifts---Evergreen-_R55140",
-    "job_posted_at_datetime_utc": "2026-03-06T23:45:21.392Z",
+    "job_posted_at_datetime_utc": "2026-03-06T23:58:16.558Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ce20edb66e4476807bc2be5ac0327865679c8ebc829b0d026f3860f4c2536db8",
@@ -2871,7 +2927,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T23:45:21.392Z"
+    "job_posted_at": "2026-03-06T23:58:16.558Z"
   },
   {
     "job_id": "workday-applied-materials-R2613699",
@@ -2882,7 +2938,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer---E4_R2613699",
-    "job_posted_at_datetime_utc": "2026-03-06T23:45:01.079Z",
+    "job_posted_at_datetime_utc": "2026-03-06T23:57:53.951Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "cc489fe2d5f947b5db250e3ca891f8ccfd819959568c1aa760bcd776ee158360",
@@ -2899,7 +2955,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T23:45:01.079Z"
+    "job_posted_at": "2026-03-06T23:57:53.951Z"
   },
   {
     "job_id": "workday-applied-materials-R2613422",
@@ -2910,7 +2966,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-IV_R2613422",
-    "job_posted_at_datetime_utc": "2026-03-06T23:45:01.079Z",
+    "job_posted_at_datetime_utc": "2026-03-06T23:57:53.951Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fe05eb1ad136f03c9b3c25dbeafebfa37139695981eaf4ff59160044cb678e58",
@@ -2927,7 +2983,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T23:45:01.079Z"
+    "job_posted_at": "2026-03-06T23:57:53.951Z"
   },
   {
     "job_id": "greenhouse-andurilindustries-5026759007",
@@ -4628,7 +4684,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/FPGA-Engineer_322844",
-    "job_posted_at_datetime_utc": "2026-03-05T23:46:37.212Z",
+    "job_posted_at_datetime_utc": "2026-03-05T23:59:31.904Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4cbbfa435740a3282eb48d1cea1d4fd74678baf8fd800853624fbedecef14910",
@@ -4645,7 +4701,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T23:46:37.212Z"
+    "job_posted_at": "2026-03-05T23:59:31.904Z"
   },
   {
     "job_id": "workday-caci-322841",
@@ -4656,7 +4712,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Houston/NASA-Spacecraft-Embedded-Flight-Software-Developer-and-Systems-Engineer_322841",
-    "job_posted_at_datetime_utc": "2026-03-05T23:46:37.212Z",
+    "job_posted_at_datetime_utc": "2026-03-05T23:59:31.904Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "071bfbd629c4d7b10dd73c9366445002b86f8d1c9f155c8ff8425c31f19b1714",
@@ -4674,7 +4730,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T23:46:37.212Z"
+    "job_posted_at": "2026-03-05T23:59:31.904Z"
   },
   {
     "job_id": "workday-caterpillar-R0000336389",
@@ -4685,7 +4741,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Software-Engineering-Specialist-2_R0000336389",
-    "job_posted_at_datetime_utc": "2026-03-05T23:45:47.080Z",
+    "job_posted_at_datetime_utc": "2026-03-05T23:58:42.103Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7dba420b7f7804a85c911f85751c9b1fd91ff37d219173bb087814376537ecaf",
@@ -4703,7 +4759,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T23:45:47.080Z"
+    "job_posted_at": "2026-03-05T23:58:42.103Z"
   },
   {
     "job_id": "workday-caterpillar-R0000355567",
@@ -4714,7 +4770,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Decatur-Illinois/Manufacturing-Engineer---Automation_R0000355567",
-    "job_posted_at_datetime_utc": "2026-03-05T23:45:47.080Z",
+    "job_posted_at_datetime_utc": "2026-03-05T23:58:42.103Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b5d2a272050c6c6bcd488f1dc543dbc4492dff25215eea6b3309ff3cbe40c222",
@@ -4731,7 +4787,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T23:45:47.080Z"
+    "job_posted_at": "2026-03-05T23:58:42.103Z"
   },
   {
     "job_id": "workday-boeing-JR2025486113",
@@ -4742,7 +4798,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Manufacturing-Engineer--Manufacturing-Engineer-General-_JR2025486113",
-    "job_posted_at_datetime_utc": "2026-03-05T23:45:26.028Z",
+    "job_posted_at_datetime_utc": "2026-03-05T23:58:21.978Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "db207ef72ec086ff84106d58133802c1a2e1217f5e94cc38ad171b8327c7a812",
@@ -4759,7 +4815,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T23:45:26.028Z"
+    "job_posted_at": "2026-03-05T23:58:21.978Z"
   },
   {
     "job_id": "workday-blue-origin-R61370",
@@ -4770,7 +4826,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Machining-Manufacturing-Engineer_R61370",
-    "job_posted_at_datetime_utc": "2026-03-05T23:45:21.391Z",
+    "job_posted_at_datetime_utc": "2026-03-05T23:58:16.555Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7025aaf4e369917a8702b7cd52659311724e1c87d81e09481bb9145f4b5b2d29",
@@ -4787,7 +4843,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T23:45:21.391Z"
+    "job_posted_at": "2026-03-05T23:58:16.555Z"
   },
   {
     "job_id": "workday-leidos-R-00177602",
@@ -4798,7 +4854,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Philadelphia-PA/Marine-Mechanical-and-Electrical-Engineer_R-00177602-1",
-    "job_posted_at_datetime_utc": "2026-03-05T23:45:04.096Z",
+    "job_posted_at_datetime_utc": "2026-03-05T23:57:59.535Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a1151f8400a872478074efa5031f53a59ebeae47eea4ae5f2f23f43eab45118c",
@@ -4815,7 +4871,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T23:45:04.096Z"
+    "job_posted_at": "2026-03-05T23:57:59.535Z"
   },
   {
     "job_id": "workday-leidos-R-00177515",
@@ -4826,7 +4882,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Embedded-Software-Engineer_R-00177515",
-    "job_posted_at_datetime_utc": "2026-03-05T23:45:04.096Z",
+    "job_posted_at_datetime_utc": "2026-03-05T23:57:59.535Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c41d66343f1999f73ab6368e358bc55083ce5cfe14a7b4c1e3883b9709c71f5a",
@@ -4844,119 +4900,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T23:45:04.096Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2611881",
-    "job_title": "Opto-Mechanical Engineer IV (E4)",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Opto-Mechanical-Engineer-IV--E4-_R2611881",
-    "job_posted_at_datetime_utc": "2026-03-05T23:45:01.080Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "acf6c998c3669ea744a9a9255207e828876495912c06667609add523bd617714",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T23:45:01.080Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2614396",
-    "job_title": "Mechanical Engineer V",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer-V_R2614396",
-    "job_posted_at_datetime_utc": "2026-03-05T23:45:01.079Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af8f29471e1ee8c15aeada036dbec8b84fa0285936b62b350dd672b1e24dd580",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T23:45:01.079Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2614398",
-    "job_title": "Mechanical Engineer V",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer-V_R2614398-1",
-    "job_posted_at_datetime_utc": "2026-03-05T23:45:01.079Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af8f29471e1ee8c15aeada036dbec8b84fa0285936b62b350dd672b1e24dd580",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T23:45:01.079Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2614373",
-    "job_title": "Process Engineer (V)",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer--V-_R2614373",
-    "job_posted_at_datetime_utc": "2026-03-05T23:45:01.079Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "726348453cbbb8f25142ea4b5da895e6492856cef8a9505d2f1489928a7ec77c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T23:45:01.079Z"
+    "job_posted_at": "2026-03-05T23:57:59.535Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0235259",
@@ -4967,7 +4911,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/North-Charleston-SC/Electrical-Engineer_R0235259",
-    "job_posted_at_datetime_utc": "2026-03-05T23:44:58.607Z",
+    "job_posted_at_datetime_utc": "2026-03-05T23:57:54.224Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "12a2cbe06bcf281ea11a8b2a801642ce5822cc2d09a0a23afa6e86507e5f50d2",
@@ -4984,7 +4928,119 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T23:44:58.607Z"
+    "job_posted_at": "2026-03-05T23:57:54.224Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2614373",
+    "job_title": "Process Engineer (V)",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer--V-_R2614373",
+    "job_posted_at_datetime_utc": "2026-03-05T23:57:53.952Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "726348453cbbb8f25142ea4b5da895e6492856cef8a9505d2f1489928a7ec77c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T23:57:53.952Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2611881",
+    "job_title": "Opto-Mechanical Engineer IV (E4)",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Opto-Mechanical-Engineer-IV--E4-_R2611881",
+    "job_posted_at_datetime_utc": "2026-03-05T23:57:53.952Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "acf6c998c3669ea744a9a9255207e828876495912c06667609add523bd617714",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T23:57:53.952Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2614396",
+    "job_title": "Mechanical Engineer V",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer-V_R2614396",
+    "job_posted_at_datetime_utc": "2026-03-05T23:57:53.951Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af8f29471e1ee8c15aeada036dbec8b84fa0285936b62b350dd672b1e24dd580",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T23:57:53.951Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2614398",
+    "job_title": "Mechanical Engineer V",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer-V_R2614398-1",
+    "job_posted_at_datetime_utc": "2026-03-05T23:57:53.951Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af8f29471e1ee8c15aeada036dbec8b84fa0285936b62b350dd672b1e24dd580",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T23:57:53.951Z"
   },
   {
     "job_id": "greenhouse-spacex-8450986002",
@@ -5130,6 +5186,34 @@
     "job_posted_at": "2026-03-05T02:12:58.210+00:00"
   },
   {
+    "job_id": "workday-intel-JR0281468",
+    "job_title": "APTD Manufacturing Engineer",
+    "employer_name": "Intel",
+    "job_city": "US",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/APTD-Manufacturing-Engineer_JR0281468",
+    "job_posted_at_datetime_utc": "2026-03-05T00:00:02.992Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "60067be603197c97679f15e558dabfb1b2cf9d633d06c7a62e3a11f56d8fd47d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T00:00:02.992Z"
+  },
+  {
     "job_id": "amazon-d0e28b6a-e89c-40cd-b7c8-4ce3ff9fb55c",
     "job_title": "Data Center Controls Engineer, Data Center Capacity Delivery - Controls",
     "employer_name": "Amazon Data Services, Inc.",
@@ -5254,34 +5338,6 @@
     "job_posted_at": "2026-03-05T00:00:00.000Z"
   },
   {
-    "job_id": "workday-intel-JR0281468",
-    "job_title": "APTD Manufacturing Engineer",
-    "employer_name": "Intel",
-    "job_city": "US",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/APTD-Manufacturing-Engineer_JR0281468",
-    "job_posted_at_datetime_utc": "2026-03-04T23:47:09.918Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "60067be603197c97679f15e558dabfb1b2cf9d633d06c7a62e3a11f56d8fd47d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T23:47:09.918Z"
-  },
-  {
     "job_id": "workday-marvell-2600531",
     "job_title": "Firmware Engineer -PCIe post silicon bring up, function validations, protocol",
     "employer_name": "Marvell",
@@ -5290,7 +5346,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer--PCIe-post-silicon-bring-up--function-validations--protocol_2600531",
-    "job_posted_at_datetime_utc": "2026-03-04T23:47:04.577Z",
+    "job_posted_at_datetime_utc": "2026-03-04T23:59:57.209Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "bc7b57174b07f1efc618bdd5d5a81cecfacc500f66d5642845a2d83e1920bc41",
@@ -5307,7 +5363,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T23:47:04.577Z"
+    "job_posted_at": "2026-03-04T23:59:57.209Z"
   },
   {
     "job_id": "workday-caterpillar-R0000353990",
@@ -5318,7 +5374,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Sanfor-North-Carolina/Paint-Pre-Treat-Process-Technician---2nd-Shift_R0000353990",
-    "job_posted_at_datetime_utc": "2026-03-04T23:45:47.081Z",
+    "job_posted_at_datetime_utc": "2026-03-04T23:58:42.104Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e3f50dbd962fe37f2a49b8abf17e3a59349d5302236157c97621c1bd2fa2cc05",
@@ -5335,7 +5391,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T23:45:47.081Z"
+    "job_posted_at": "2026-03-04T23:58:42.104Z"
   },
   {
     "job_id": "workday-caterpillar-R0000349307",
@@ -5346,7 +5402,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Alpharetta-Georgia/Summer-Student-Trainee---Manufacturing-Process-Engineering_R0000349307",
-    "job_posted_at_datetime_utc": "2026-03-04T23:45:47.081Z",
+    "job_posted_at_datetime_utc": "2026-03-04T23:58:42.104Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0fd5d05e31354a8b097f552a1d3ce17afe9569a23f5f29149a69c4b0ae1825ad",
@@ -5363,7 +5419,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T23:45:47.081Z"
+    "job_posted_at": "2026-03-04T23:58:42.104Z"
   },
   {
     "job_id": "workday-leidos-R-00174466",
@@ -5374,7 +5430,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Marine-Mechanical-and-Electrical-Engineer_R-00174466",
-    "job_posted_at_datetime_utc": "2026-03-04T23:45:04.096Z",
+    "job_posted_at_datetime_utc": "2026-03-04T23:57:59.536Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2651c466b7af3fa22bc09e440bf7cd0f34c49dd2a3f7fe06fdb3a38a9be3433e",
@@ -5391,119 +5447,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T23:45:04.096Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2519052",
-    "job_title": "Mechanical Engineer IV",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer-IV_R2519052",
-    "job_posted_at_datetime_utc": "2026-03-04T23:45:01.080Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "caf12fb08e419f595a51149d9c48227c2aab796b47192c524749901beeee5b79",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T23:45:01.080Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2614334",
-    "job_title": "Electrical Engineer V",
-    "employer_name": "Applied Materials",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Electrical-Engineer-V_R2614334",
-    "job_posted_at_datetime_utc": "2026-03-04T23:45:01.080Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ddf258c7e8b45638178c1cf0824ec7a09c879d9db7f571c240f1ee2f72f53832",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T23:45:01.080Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2614012",
-    "job_title": "Process Engineer IV",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-IV_R2614012",
-    "job_posted_at_datetime_utc": "2026-03-04T23:45:01.080Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe05eb1ad136f03c9b3c25dbeafebfa37139695981eaf4ff59160044cb678e58",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T23:45:01.080Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2614042",
-    "job_title": "Process Engineer IV",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-IV_R2614042",
-    "job_posted_at_datetime_utc": "2026-03-04T23:45:01.080Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe05eb1ad136f03c9b3c25dbeafebfa37139695981eaf4ff59160044cb678e58",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T23:45:01.080Z"
+    "job_posted_at": "2026-03-04T23:57:59.536Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0235084",
@@ -5514,7 +5458,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Electrical-Engineer_R0235084-1",
-    "job_posted_at_datetime_utc": "2026-03-04T23:44:58.607Z",
+    "job_posted_at_datetime_utc": "2026-03-04T23:57:54.228Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "12a2cbe06bcf281ea11a8b2a801642ce5822cc2d09a0a23afa6e86507e5f50d2",
@@ -5531,7 +5475,119 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T23:44:58.607Z"
+    "job_posted_at": "2026-03-04T23:57:54.228Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2519052",
+    "job_title": "Mechanical Engineer IV",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer-IV_R2519052",
+    "job_posted_at_datetime_utc": "2026-03-04T23:57:53.952Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "caf12fb08e419f595a51149d9c48227c2aab796b47192c524749901beeee5b79",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-04T23:57:53.952Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2614334",
+    "job_title": "Electrical Engineer V",
+    "employer_name": "Applied Materials",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Electrical-Engineer-V_R2614334",
+    "job_posted_at_datetime_utc": "2026-03-04T23:57:53.952Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ddf258c7e8b45638178c1cf0824ec7a09c879d9db7f571c240f1ee2f72f53832",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-04T23:57:53.952Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2614012",
+    "job_title": "Process Engineer IV",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-IV_R2614012",
+    "job_posted_at_datetime_utc": "2026-03-04T23:57:53.952Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fe05eb1ad136f03c9b3c25dbeafebfa37139695981eaf4ff59160044cb678e58",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-04T23:57:53.952Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2614042",
+    "job_title": "Process Engineer IV",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-IV_R2614042",
+    "job_posted_at_datetime_utc": "2026-03-04T23:57:53.952Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fe05eb1ad136f03c9b3c25dbeafebfa37139695981eaf4ff59160044cb678e58",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-04T23:57:53.952Z"
   },
   {
     "job_id": "workday-nvidia-JR2010096",
@@ -5542,7 +5598,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Firmware-Engineer--Memory-Subsystem---New-College-Grad-2026_JR2010096",
-    "job_posted_at_datetime_utc": "2026-03-04T23:44:38.735Z",
+    "job_posted_at_datetime_utc": "2026-03-04T23:57:34.768Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "483fcf10472b992168e0ab3f603a0783ca20adcb6c8e91618a5023fb333b89b0",
@@ -5561,7 +5617,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T23:44:38.735Z"
+    "job_posted_at": "2026-03-04T23:57:34.768Z"
   },
   {
     "job_id": "workday-kbr-R2119360",
@@ -5985,7 +6041,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Clearfield-Utah/Electrical-Engineer_R2110796-1",
-    "job_posted_at_datetime_utc": "2026-03-03T23:46:45.713Z",
+    "job_posted_at_datetime_utc": "2026-03-03T23:59:39.962Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5aed37d802f2a5b8ec6ef474268845e7e941ce881ed108482149fac122ba59ba",
@@ -6002,7 +6058,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T23:46:45.713Z"
+    "job_posted_at": "2026-03-03T23:59:39.962Z"
   },
   {
     "job_id": "workday-motorola-solutions-R60558",
@@ -6013,7 +6069,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Embedded-Software-Engineer_R60558",
-    "job_posted_at_datetime_utc": "2026-03-03T23:45:21.439Z",
+    "job_posted_at_datetime_utc": "2026-03-03T23:58:16.941Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "159629398258ea79b18ede3e5ad9c571d1eeb17e93488880f227920c257d97b3",
@@ -6031,119 +6087,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T23:45:21.439Z"
-  },
-  {
-    "job_id": "workday-blue-origin-R59441",
-    "job_title": "Manufacturing Engineer - Hardware-in-the-Loop - New Glenn IV",
-    "employer_name": "Blue Origin",
-    "job_city": "Greater Seattle Area",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Manufacturing-Engineer---Hardware-in-the-Loop---New-Glenn_R59441-1",
-    "job_posted_at_datetime_utc": "2026-03-03T23:45:21.395Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8a3a7e9ff92cdd183d5e19dafccb3664527bd3e799aef8b5b73a47f08fb74967",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T23:45:21.395Z"
-  },
-  {
-    "job_id": "workday-blue-origin-R60575",
-    "job_title": "Manufacturing Engineer - Lunar",
-    "employer_name": "Blue Origin",
-    "job_city": "Space Coast",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Manufacturing-Engineer---Lunar_R60575",
-    "job_posted_at_datetime_utc": "2026-03-03T23:45:21.395Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6811d27c2de4787f787ab5d855dfc2e3184c11f675ae73744c357fcc787fc545",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T23:45:21.395Z"
-  },
-  {
-    "job_id": "workday-blue-origin-R60608",
-    "job_title": "New Glenn Avionics Systems Engineer",
-    "employer_name": "Blue Origin",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/New-Glenn-Avionics-Systems-Engineer_R60608-1",
-    "job_posted_at_datetime_utc": "2026-03-03T23:45:21.395Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2af6d2deac17ab223da7c7ad746db8272497f1cc6e5c0efd6dc7aac03d5dcc85",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T23:45:21.395Z"
-  },
-  {
-    "job_id": "workday-blue-origin-R60443",
-    "job_title": "New Glenn C-shift Manufacturing Engineer",
-    "employer_name": "Blue Origin",
-    "job_city": "Greater Seattle Area",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/New-Glenn-C-shift-Manufacturing-Engineer_R60443",
-    "job_posted_at_datetime_utc": "2026-03-03T23:45:21.395Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "83c32a78aa858dab4b22b9bef92956f60ef05053795ad018869f1610ca216ca0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T23:45:21.395Z"
+    "job_posted_at": "2026-03-03T23:58:16.941Z"
   },
   {
     "job_id": "workday-blue-origin-R60571",
@@ -6154,7 +6098,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Prin-Supply-Chain-Engineer---Avionics-Design-Standardization---Commodity-Strategy_R60571",
-    "job_posted_at_datetime_utc": "2026-03-03T23:45:21.395Z",
+    "job_posted_at_datetime_utc": "2026-03-03T23:58:16.561Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5bda4cdaca162f1000004f0f14088b4073c6a88aa427526012a7964e549382c9",
@@ -6171,7 +6115,63 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T23:45:21.395Z"
+    "job_posted_at": "2026-03-03T23:58:16.561Z"
+  },
+  {
+    "job_id": "workday-blue-origin-R60608",
+    "job_title": "New Glenn Avionics Systems Engineer",
+    "employer_name": "Blue Origin",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/New-Glenn-Avionics-Systems-Engineer_R60608-1",
+    "job_posted_at_datetime_utc": "2026-03-03T23:58:16.560Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2af6d2deac17ab223da7c7ad746db8272497f1cc6e5c0efd6dc7aac03d5dcc85",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T23:58:16.560Z"
+  },
+  {
+    "job_id": "workday-blue-origin-R60443",
+    "job_title": "New Glenn C-shift Manufacturing Engineer",
+    "employer_name": "Blue Origin",
+    "job_city": "Greater Seattle Area",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/New-Glenn-C-shift-Manufacturing-Engineer_R60443",
+    "job_posted_at_datetime_utc": "2026-03-03T23:58:16.560Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "83c32a78aa858dab4b22b9bef92956f60ef05053795ad018869f1610ca216ca0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T23:58:16.560Z"
   },
   {
     "job_id": "workday-blue-origin-R61156",
@@ -6182,7 +6182,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/GS2PA-Quattro-Avionics-Systems-Integrator_R61156-1",
-    "job_posted_at_datetime_utc": "2026-03-03T23:45:21.394Z",
+    "job_posted_at_datetime_utc": "2026-03-03T23:58:16.559Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "86b373a8a967f32376345ccd1fce71f60208d20699901303cc98fe45e344a959",
@@ -6199,21 +6199,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T23:45:21.394Z"
+    "job_posted_at": "2026-03-03T23:58:16.559Z"
   },
   {
-    "job_id": "workday-blue-origin-R59337",
-    "job_title": "Technician - Assembly & Integration  Avionics 1 ( B) Shift",
+    "job_id": "workday-blue-origin-R59441",
+    "job_title": "Manufacturing Engineer - Hardware-in-the-Loop - New Glenn IV",
     "employer_name": "Blue Origin",
-    "job_city": "Huntsville",
-    "job_state": "AL",
+    "job_city": "Greater Seattle Area",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/Technician---Assembly---Integration--Avionics-1---B--Shift_R59337",
-    "job_posted_at_datetime_utc": "2026-03-03T23:45:21.391Z",
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Manufacturing-Engineer---Hardware-in-the-Loop---New-Glenn_R59441-1",
+    "job_posted_at_datetime_utc": "2026-03-03T23:58:16.559Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "497434a6176871fd5f2487ae9cb39e2c45a203667a2f6921c67bd41a4c3b80ac",
+    "fingerprint": "8a3a7e9ff92cdd183d5e19dafccb3664527bd3e799aef8b5b73a47f08fb74967",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6227,21 +6227,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T23:45:21.391Z"
+    "job_posted_at": "2026-03-03T23:58:16.559Z"
   },
   {
-    "job_id": "workday-blue-origin-R58965",
-    "job_title": "Mechanical Engineer - Design & Analysis (Late Career)",
+    "job_id": "workday-blue-origin-R60575",
+    "job_title": "Manufacturing Engineer - Lunar",
     "employer_name": "Blue Origin",
     "job_city": "Space Coast",
     "job_state": "FL",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Mechanical-Engineer---Design---Analysis_R58965",
-    "job_posted_at_datetime_utc": "2026-03-03T23:45:21.391Z",
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Manufacturing-Engineer---Lunar_R60575",
+    "job_posted_at_datetime_utc": "2026-03-03T23:58:16.559Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "b576d436aee69ec484e7e1afab392bb73867bf3fea6b792c1c09b0caf63f45dd",
+    "fingerprint": "6811d27c2de4787f787ab5d855dfc2e3184c11f675ae73744c357fcc787fc545",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6255,7 +6255,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T23:45:21.391Z"
+    "job_posted_at": "2026-03-03T23:58:16.559Z"
   },
   {
     "job_id": "workday-blue-origin-R56325",
@@ -6266,7 +6266,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-FPGA-Firmware-Engineer_R56325",
-    "job_posted_at_datetime_utc": "2026-03-03T23:45:21.391Z",
+    "job_posted_at_datetime_utc": "2026-03-03T23:58:16.558Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a840647bcc713fdf9459e8535e5fe52522c520bc30db1b0371c789dea701e57e",
@@ -6283,7 +6283,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T23:45:21.391Z"
+    "job_posted_at": "2026-03-03T23:58:16.558Z"
   },
   {
     "job_id": "workday-blue-origin-R57580",
@@ -6294,7 +6294,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Manufacturing-Engineer---All-Levels---Off-Shift_R57580-1",
-    "job_posted_at_datetime_utc": "2026-03-03T23:45:21.391Z",
+    "job_posted_at_datetime_utc": "2026-03-03T23:58:16.558Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ec08a2016eb36091a4ed2b1be2389ea781026d8409285e7cd2c3bcc7e906e1c5",
@@ -6311,7 +6311,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T23:45:21.391Z"
+    "job_posted_at": "2026-03-03T23:58:16.558Z"
   },
   {
     "job_id": "workday-blue-origin-R57581",
@@ -6322,7 +6322,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Manufacturing-Engineer---All-Levels_R57581",
-    "job_posted_at_datetime_utc": "2026-03-03T23:45:21.391Z",
+    "job_posted_at_datetime_utc": "2026-03-03T23:58:16.558Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8ce191413c323a5fad60edd44accee39b793cdb14ff00b8c6bcce8a3694d2d25",
@@ -6339,7 +6339,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T23:45:21.391Z"
+    "job_posted_at": "2026-03-03T23:58:16.558Z"
   },
   {
     "job_id": "workday-blue-origin-R58263",
@@ -6350,7 +6350,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Manufacturing-Engineer---Lunar-Systems--All-Levels-_R58263",
-    "job_posted_at_datetime_utc": "2026-03-03T23:45:21.391Z",
+    "job_posted_at_datetime_utc": "2026-03-03T23:58:16.558Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "eb8ab0736fc7af9ec5f0a21d2d31adc6a2e281606074f198bc6dc1d5f81f3833",
@@ -6367,7 +6367,63 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T23:45:21.391Z"
+    "job_posted_at": "2026-03-03T23:58:16.558Z"
+  },
+  {
+    "job_id": "workday-blue-origin-R58965",
+    "job_title": "Mechanical Engineer - Design & Analysis (Late Career)",
+    "employer_name": "Blue Origin",
+    "job_city": "Space Coast",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Mechanical-Engineer---Design---Analysis_R58965",
+    "job_posted_at_datetime_utc": "2026-03-03T23:58:16.556Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b576d436aee69ec484e7e1afab392bb73867bf3fea6b792c1c09b0caf63f45dd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T23:58:16.556Z"
+  },
+  {
+    "job_id": "workday-blue-origin-R59337",
+    "job_title": "Technician - Assembly & Integration  Avionics 1 ( B) Shift",
+    "employer_name": "Blue Origin",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/Technician---Assembly---Integration--Avionics-1---B--Shift_R59337",
+    "job_posted_at_datetime_utc": "2026-03-03T23:58:16.555Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "497434a6176871fd5f2487ae9cb39e2c45a203667a2f6921c67bd41a4c3b80ac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-03T23:58:16.555Z"
   },
   {
     "job_id": "workday-applied-materials-R2613723",
@@ -6378,7 +6434,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-IV_R2613723",
-    "job_posted_at_datetime_utc": "2026-03-03T23:45:01.081Z",
+    "job_posted_at_datetime_utc": "2026-03-03T23:57:53.955Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fe05eb1ad136f03c9b3c25dbeafebfa37139695981eaf4ff59160044cb678e58",
@@ -6395,7 +6451,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T23:45:01.081Z"
+    "job_posted_at": "2026-03-03T23:57:53.955Z"
   },
   {
     "job_id": "workday-nvidia-JR2014330",
@@ -6780,7 +6836,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/ETCH-Process-Engineering-Technician--Nights-_JR-2600391",
-    "job_posted_at_datetime_utc": "2026-03-02T23:47:05.480Z",
+    "job_posted_at_datetime_utc": "2026-03-02T23:59:58.421Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0f046f4decd406fdcce3b1266f4f8ed597dd0034154c98ca5665a44b8231cbe6",
@@ -6797,35 +6853,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T23:47:05.480Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2518434",
-    "job_title": "BEOL Transfer Process Engineer",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/BEOL-Transfer-Process-Engineer_R2518434",
-    "job_posted_at_datetime_utc": "2026-03-02T23:45:01.081Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dd4201f53036b4361986dcf3d592e27ef76ac8e38cb50bd8ce67453fef096c4e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-02T23:45:01.081Z"
+    "job_posted_at": "2026-03-02T23:59:58.421Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0229178",
@@ -6836,7 +6864,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Mechanical-Engineer_R0229178",
-    "job_posted_at_datetime_utc": "2026-03-02T23:44:58.608Z",
+    "job_posted_at_datetime_utc": "2026-03-02T23:57:54.229Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e46819dc6793d7935f189b8c715a842467389e25fe613d186aab27d3c0e41724",
@@ -6853,7 +6881,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T23:44:58.608Z"
+    "job_posted_at": "2026-03-02T23:57:54.229Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2518434",
+    "job_title": "BEOL Transfer Process Engineer",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/BEOL-Transfer-Process-Engineer_R2518434",
+    "job_posted_at_datetime_utc": "2026-03-02T23:57:53.955Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dd4201f53036b4361986dcf3d592e27ef76ac8e38cb50bd8ce67453fef096c4e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-02T23:57:53.955Z"
   },
   {
     "job_id": "workday-boeing-JR2026498328",
@@ -7800,7 +7856,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Electrical-Engineer---Digital-Design_322207-1",
-    "job_posted_at_datetime_utc": "2026-02-28T23:46:37.213Z",
+    "job_posted_at_datetime_utc": "2026-02-28T23:59:31.906Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9a648320cfbffa2e859e90463f3bdd5cf48007f38baad55d33d10b6b0f366428",
@@ -7817,7 +7873,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T23:46:37.213Z"
+    "job_posted_at": "2026-02-28T23:59:31.906Z"
   },
   {
     "job_id": "workday-caci-322211",
@@ -7828,7 +7884,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Electrical-Engineer---RF-Design_322211-1",
-    "job_posted_at_datetime_utc": "2026-02-28T23:46:37.213Z",
+    "job_posted_at_datetime_utc": "2026-02-28T23:59:31.906Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e20f4cd623a8ca022099cb8db914ce7bd3b48e436d7a33caf33b3fa93d3e889d",
@@ -7845,7 +7901,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T23:46:37.213Z"
+    "job_posted_at": "2026-02-28T23:59:31.906Z"
   },
   {
     "job_id": "workday-caci-319724",
@@ -7856,7 +7912,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/0MU-FORT-EISENHOWER-GA/Master-HVAC-Technician--TS-SCI_319724",
-    "job_posted_at_datetime_utc": "2026-02-28T23:46:37.211Z",
+    "job_posted_at_datetime_utc": "2026-02-28T23:59:31.903Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f796c80886e09c8b295a5b697a99aaca38597f1349a5df4b406115ba7c3b82ec",
@@ -7873,7 +7929,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T23:46:37.211Z"
+    "job_posted_at": "2026-02-28T23:59:31.903Z"
   },
   {
     "job_id": "workday-caci-321463",
@@ -8458,7 +8514,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Embedded-Linux-Engineer_1203372",
-    "job_posted_at_datetime_utc": "2026-02-27T23:45:04.092Z",
+    "job_posted_at_datetime_utc": "2026-02-27T23:57:59.343Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c59659ddbc43a169cdc33774dd1666f6fbb902c8402297a4057b48662bf51bc5",
@@ -8475,7 +8531,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T23:45:04.092Z"
+    "job_posted_at": "2026-02-27T23:57:59.343Z"
   },
   {
     "job_id": "workday-hpe-1203372",
@@ -8486,7 +8542,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Embedded-Linux-Engineer_1203372",
-    "job_posted_at_datetime_utc": "2026-02-27T23:45:04.092Z",
+    "job_posted_at_datetime_utc": "2026-02-27T23:57:59.342Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c59659ddbc43a169cdc33774dd1666f6fbb902c8402297a4057b48662bf51bc5",
@@ -8503,7 +8559,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T23:45:04.092Z"
+    "job_posted_at": "2026-02-27T23:57:59.342Z"
   },
   {
     "job_id": "workday-applied-materials-R2611263",
@@ -8514,7 +8570,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manufacturing-Engineer_R2611263",
-    "job_posted_at_datetime_utc": "2026-02-27T23:45:01.078Z",
+    "job_posted_at_datetime_utc": "2026-02-27T23:57:53.950Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9edba4f523d0e2d3439eccd4aea42dff678c4347873b22346c3540a7ea3890df",
@@ -8531,7 +8587,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T23:45:01.078Z"
+    "job_posted_at": "2026-02-27T23:57:53.950Z"
   },
   {
     "job_id": "greenhouse-astranis-4593638006",
@@ -8997,6 +9053,62 @@
     "job_posted_at": "2026-02-27T00:00:00.000Z"
   },
   {
+    "job_id": "workday-saint-luke's-health-system-JobReq0055221",
+    "job_title": "Building Automation Specialist",
+    "employer_name": "Saint Luke's Health System",
+    "job_city": "Kansas City",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://saintlukes.wd1.myworkdayjobs.com/saintlukeshealthcareers/job/Saint-Lukes-Hospital------4401-Wornall-Rd------Kansas-City------MO/Remote-Systems-Specialist_JobReq0055221",
+    "job_posted_at_datetime_utc": "2026-02-26T23:59:18.137Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3e5c0b85ea2fa02dbf53ab8d60f21910341450a6f0ea3db2626fc9acf939bc20",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T23:59:18.137Z"
+  },
+  {
+    "job_id": "workday-cadence-R52974",
+    "job_title": "Account Technical Executive for PCB and Electrical Systems",
+    "employer_name": "Cadence",
+    "job_city": "SAN JOSE",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Account-Technical-Executive---Systems-Division_R52974",
+    "job_posted_at_datetime_utc": "2026-02-26T23:58:16.465Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a73e64603a88ecae2738c058d049bcf04aa5eafddfa569e0503ab1b4e0112c1c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T23:58:16.465Z"
+  },
+  {
     "job_id": "workday-micron-JR88092",
     "job_title": "Wet Mechanical Engineer",
     "employer_name": "Micron",
@@ -9023,62 +9135,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-26T23:52:11.108Z"
-  },
-  {
-    "job_id": "workday-saint-luke's-health-system-JobReq0055221",
-    "job_title": "Building Automation Specialist",
-    "employer_name": "Saint Luke's Health System",
-    "job_city": "Kansas City",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://saintlukes.wd1.myworkdayjobs.com/saintlukeshealthcareers/job/Saint-Lukes-Hospital------4401-Wornall-Rd------Kansas-City------MO/Remote-Systems-Specialist_JobReq0055221",
-    "job_posted_at_datetime_utc": "2026-02-26T23:46:24.848Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3e5c0b85ea2fa02dbf53ab8d60f21910341450a6f0ea3db2626fc9acf939bc20",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T23:46:24.848Z"
-  },
-  {
-    "job_id": "workday-cadence-R52974",
-    "job_title": "Account Technical Executive for PCB and Electrical Systems",
-    "employer_name": "Cadence",
-    "job_city": "SAN JOSE",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Account-Technical-Executive---Systems-Division_R52974",
-    "job_posted_at_datetime_utc": "2026-02-26T23:45:20.607Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a73e64603a88ecae2738c058d049bcf04aa5eafddfa569e0503ab1b4e0112c1c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T23:45:20.607Z"
   },
   {
     "job_id": "greenhouse-spacex-8440651002",
@@ -9566,7 +9622,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Aurora/Manufacturing-Process-Engineer_R4036278-1",
-    "job_posted_at_datetime_utc": "2026-02-25T23:45:38.686Z",
+    "job_posted_at_datetime_utc": "2026-02-25T23:58:34.410Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a4fc4a57cd3d5f7ebed6bfdae4a49fe52fa5ceaa09504384295e7811796cd586",
@@ -9583,7 +9639,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T23:45:38.686Z"
+    "job_posted_at": "2026-02-25T23:58:34.410Z"
   },
   {
     "job_id": "greenhouse-verkada-4288855007",
