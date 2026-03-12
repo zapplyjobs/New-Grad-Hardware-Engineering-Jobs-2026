@@ -9,16 +9,16 @@
 
 # Hardware Engineering Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-813-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-814-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-100-blue?style=flat&logo=building)
-![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-554-red?style=flat&logo=star)
+![Hardware Engine](https://img.shields.io/badge/Hardware_Engineer-557-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 100+ top companies like Samsara and Verkada. Updated every 15 minutes with 813+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
+<p align="center">🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from 100+ top companies like Samsara and Verkada. Updated every 15 minutes with 814+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.</p>
 
 <p align="center">🎯 Includes roles across tech hardware companies, defense contractors, and engineering-first startups like Samsara and Verkada.</p>
 
@@ -73,9 +73,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **NXP** | Diffusion Equipment Engineer | Chandler | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/Diffusion-Equipment-Engineer_R-10062113) |
-| 🏢 **Leidos** | Site Reliability Engineer | 4 Locations | 26m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Site-Reliability-Engineer_R-00177768) |
-| 🏢 **Moog** | Apprentice Mechatronics-2 | Böblingen, DE | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Bblingen-DE/Apprentice-Mechatronics-2_R-26-16422) |
+| 🏢 **Moog** | Graphic Designer | Buffalo, NY | 19m | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Graphic-Designer_R-26-16435) |
+| 🏢 **NXP** | Diffusion Equipment Engineer | Chandler | 21m | [<img src="images/apply.png" width="75" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/Diffusion-Equipment-Engineer_R-10062113) |
+| 🏢 **Leidos** | Site Reliability Engineer | 4 Locations | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Site-Reliability-Engineer_R-00177768) |
+| 🏢 **Moog** | Apprentice Mechatronics-2 | Böblingen, DE | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Bblingen-DE/Apprentice-Mechatronics-2_R-26-16422) |
 | 🏢 **Leidos** | Site Reliability Engineer - Transport | 6 Locations | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Site-Reliability-Engineer---Transport_R-00177656) |
 | 🏢 **RTX** | Manufacturing Engineer | CA-GOLETA-B01 ~ 6... | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Manufacturing-Engineer_01829857) |
 | 🏢 **RTX** | Material and Process Engineering Tech | TX-MCKINNEY-513WZ... | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Material-and-Process-Engineering-Tech_01830106) |
@@ -85,13 +86,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **SpaceX** | Build Reliability Engineer (Raptor Avionics) | Hawthorne, CA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8460047002?gh_jid=8460047002) |
 | 🏢 **SpaceX** | Build Reliability Engineer (Raptor) | Hawthorne, CA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8342109002?gh_jid=8342109002) |
 | 🏢 **SpaceX** | Manufacturing Engineer (F9 Primary Structures/Integration) | Hawthorne, CA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8208806002?gh_jid=8208806002) |
-| 🏢 **Western Digital** | Technologist Mechanical Engineering | San Jose, CA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000114159927) |
+| 🏢 **Western Digital** | Technologist Mechanical Engineering | San Jose, CA | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000114159927) |
 | 🏢 **Anduril** | Mechanical Engineer, Omen | Costa Mesa | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4869028007?gh_jid=4869028007) |
 | 🏢 **AbbVie** | Manufacturing Process Engineer IV | Branchburg, NJ | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012094486) |
 | 🏢 **Scale AI** | ML Systems Engineer, Robotics | San Francisco, CA | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4663053005) |
 | 🏢 **Scale AI** | Robotics Engineer | San Francisco, CA | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4655744005) |
 | 🏢 **Scale AI** | Solutions Engineer, Robotics | San Francisco, CA | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4640096005) |
-| 🏢 **Anduril** | Project Coordinator, Manufacturing Automation | Costa Mesa | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4970062007?gh_jid=4970062007) |
+| 🏢 **Anduril** | Project Coordinator, Manufacturing Automation | Costa Mesa | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4970062007?gh_jid=4970062007) |
 | 🏢 **Anduril** | Mechanical Engineer | Costa Mesa | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4797917007?gh_jid=4797917007) |
 | 🏢 **Smiths Group** | Manufacturing Engineering Tech | 93 Lexington Drive | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000114106627) |
 | 🏢 **Relativity Space** | Instrumentation and Controls Engineer I (Operations) | Stennis Space Center | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8452900002?gh_jid=8452900002) |
@@ -122,15 +123,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **GlobalFoundries** | CPU Sub-system Design Verification Engineer | Santa Clara | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Santa-Clara/CPU-Sub-system-Design-Verification-Engineer_JR-2600664) |
 | 🏢 **KBR** | Mechanical Engineer, LNG | Newark | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Newark-Delaware/Mechanical-Engineer--LNG_R2113375) |
 | 🏢 **KBR** | Civil Structural Engineer | Richmond | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Richmond-Virginia/Civil-Structural-Architectural-Engineer_R2116182) |
+| 🏢 **CACI** | Systems Administration Design Engineer | US CO Colorado Sp... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Colorado-Springs/Systems-Administration-Design-Engineer_322999) |
 | 🏢 **Micron** | Manufacturing Engineer | Main Site, ID | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Manufacturing-Engineer_JR94352) |
 | 🏢 **Micron** | Equipment Engineer | Main Site, ID | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Equipment-Engineer_JR94366-1) |
 | 🏢 **Micron** | Design Engineer - Pathfinding Design | Folsom, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Design-Engineer---Pathfinding-Design_JR93200) |
-| 🏢 **CACI** | Systems Administration Design Engineer | US CO Colorado Sp... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Colorado-Springs/Systems-Administration-Design-Engineer_322999) |
 | 🏢 **Cleveland Clinic** | Mechanical Engineer | Cleveland Clinic ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Mechanical-Engineer_299748) |
 | 🏢 **Caterpillar** | Design Engineer | Mossville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Design-Engineer_R0000356589-1) |
 | 🏢 **Caterpillar** | Mechanical Design Engineer (Battery Packs) | Mossville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Mechanical-Design-Engineer--Battery-Packs-_R0000345006-1) |
 | 🏢 **Boeing** | Electrical Hardware Engineer | Huntsville, AL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Electrical-Hardware-Engineer_JR2026493000-1) |
-| 🏢 **Boeing** | Experienced Avionics Technician - Executive Fleet (2742) | San Antonio, TX | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Experienced-Avionics-Technician---Executive-Fleet--2742-_JR2026493416-3) |
 | 🏢 **Boeing** | Propulsion/Propellant Test and Servicing Technician B | Taft, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Taft-CA/Propulsion-Propellant-Test-and-Servicing-Technician-B_JR2026500234-2) |
 | 🏢 **Blue Origin** | Turbomachinery CFD Analyst | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Turbomachinery-CFD-Analyst_R59999-1) |
 | 🏢 **Blue Origin** | Electrical Engineer - TeraWave | Greater Seattle Area | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Electrical-Engineer---TeraWave_R59804) |
@@ -138,6 +138,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Leidos** | DevOps Engineer / Site Reliability Engineer | Morgantown, WV | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Morgantown-WV/Job-Posting-Title-DevOps-Engineer---Site-Reliability-Engineer_R-00177985) |
 | 🏢 **Applied Materials** | Process Engineer E3 | Santa Clara, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-E3_R2614388) |
 | 🏢 **NVIDIA** | Silicon Co-Design Engineer - New College Grad 2026 | US, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2014451) |
+| 🏢 **Boeing** | Experienced Avionics Technician - Executive Fleet (2742) | San Antonio, TX | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Experienced-Avionics-Technician---Executive-Fleet--2742-_JR2026493416-3) |
 | 🏢 **AT&T** | Cisco Collaboration Design Engineer -Junior (Government) | Springfield | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Springfield-Virginia/Cisco-Collaboration-Design-Engineer--Junior--Government-_R-93177) |
 | 🏢 **Booz Allen Hamilton** | Ground Systems Engineer | Colorado Springs, CO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Ground-Systems-Engineer_R0235509) |
 | 🏢 **Intermountain Health** | HVAC Technician | Intermountain Hea... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Park-City-Hospital/HVAC-Technician_R159021) |
@@ -178,7 +179,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Exact Sciences** | Equipment Engineer I | WI - Madison | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Instrument-Service-Tech-IV_R26-12573) |
 | 🏢 **Intel** | CPU Formal Verification Engineer | 5 Locations | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/CPU-Formal-Verification-Engineer_JR0281353) |
 | 🏢 **CACI** | Site Reliability Engineer / DevSecOps | US MD Aberdeen Pr... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Site-Reliability-Engineer---DevSecOps_322894) |
-| 🏢 **Caterpillar** | 2026 Engineering Rotational Development Program- Materials Engineering | Mossville | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/XMLNAME-2026-Engineering-Rotational-Development-Program--Materials-Engineering_R0000320613) |
+| 🏢 **Caterpillar** | Career Pathways High School Program - Decatur - Manufacturing Engineering Assembly | Decatur | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Decatur-Illinois/Career-Pathways-High-School-Program---Decatur---Manufacturing-Engineering-Assembly_R0000355635) |
 | 🏢 **Cadence** | Applied ML - Functional Verification Engineer | SAN JOSE | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Applied-ML---Functional-Verification-Engineer_R53565) |
 | 🏢 **Cadence** | Applied ML – Functional Verification Engineer | SAN JOSE | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Applied-ML---Functional-Verification-Engineer_R53573) |
 | 🏢 **Rogers Freels & Associates Inc** | Embedded Systems Engineer: C/Simulink | Minnesota | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.6amcity.com/job/327243/embedded-systems-engineer-c-simulink/) |
@@ -188,7 +189,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **DeepMind** | Research Scientist, Safety and Alignment for Humanoid Robotics | New York City, US | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7576917) |
 | 🏢 **Hitachi** | Field Service Engineer (Hillsboro, OR) | Hillsboro | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hillsboro-Oregon-United-States/Field-Service-Engineer--Hillsboro--OR-_R0121860) |
 | 🏢 **Cisco** | Hardware Engineer (High-speed IO/Testing) (Onsite) | San Jose, US | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer--High-speed-IO-Testing---Onsite-_2010317-1) |
-| 🏢 **Moog** | Avionics Systems Engineer | Mineral Wells, TX | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Avionics-Systems-Engineer_R-26-16298) |
 | 🏢 **Snap** | Electrical Engineering Lab Specialist | Los Angeles | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Los-Angeles-California/Electrical-Engineering-Lab-Specialist_R0044836-1) |
 | 🏢 **GlobalFoundries** | SMTS, Field Application Engineering | 2 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Santa-Clara/SMTS--Field-Application-Engineering_JR-2502054) |
 | 🏢 **HPE** | UI/UX Design Engineer | 2 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/UI-UX-Design-Engineer_1201814) |
@@ -319,18 +319,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **ASML** | Embedded Software Quality Engineer | San Diego, CA | 21m | [<img src="images/apply.png" width="75" alt="Apply">](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Embedded-Software-Quality-Engineer_J-00336332-1) |
+| 🏢 **ASML** | Embedded Software Quality Engineer | San Diego, CA | 19m | [<img src="images/apply.png" width="75" alt="Apply">](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Embedded-Software-Quality-Engineer_J-00336332-1) |
 | 🏢 **Waymo** | Software Engineer, Embedded Systems / Robotics | Mountain View, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7429873) |
-| 🏢 **SpaceX** | Software Engineer, Embedded Software (Starshield) | Hawthorne, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8436708002?gh_jid=8436708002) |
+| 🏢 **SpaceX** | Software Engineer, Embedded Software (Starshield) | Hawthorne, CA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8436708002?gh_jid=8436708002) |
 | 🏢 **Amazon.com Services LLC** | Embedded Software Development Engineer, Alexa Devices | Austin, TX | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3202834/embedded-software-development-engineer-alexa-devices) |
 | 🏢 **Western Digital** | Early Career Talent - Software Development Engineer (Firmware) | Irvine, CA | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000114153937) |
 | 🏢 **SpaceX** | Embedded Security Engineer (Starlink) | Redmond, WA | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8459556002?gh_jid=8459556002) |
 | 🏢 **SpaceX** | Embedded Security Engineer (Starlink) | Bastrop, TX | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8459579002?gh_jid=8459579002) |
-| 🏢 **Astranis** | Embedded Software Engineer - Network Software | San Francisco | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4363202006) |
+| 🏢 **Astranis** | Embedded Software Engineer - Network Software | San Francisco | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4363202006) |
 | 🏢 **John Deere & Company** | Embedded Software Engineer - Entry level | Waterloo | 1d | [<img src="images/apply.png" width="75" alt="Apply">](http://rogercreale.com/work/job/embedded-software-engineer-entry-level-at-john-deere-company-waterloo-ia-6852446a6e793656617457574e63726456413d3d) |
 | 🏢 **Northrop Grumman** | Weapons C++ Embedded Software Engineer Level 4 (AHT) | California-Northr... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Weapons-C---Embedded-Software-Engineer-Level-4--AHT-_R10225516) |
 | 🏢 **Caterpillar** | Embedded Software Engineering Specialist | Mossville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Embedded-Software-Engineering-Specialist_R0000349764) |
-| 🏢 **Boeing** | Software Engineer–Embedded (Embedded) | Long Beach, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Software-Engineer-Embedded--Embedded-_JR2025489394-1) |
+| 🏢 **Boeing** | Software Engineer–Embedded (Embedded) | Long Beach, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Software-Engineer-Embedded--Embedded-_JR2025489388-3) |
 | 🏢 **Blue Origin** | Firmware / Software Engineer - Optical Communications - TeraWave | Greater Seattle Area | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Firmware---Software-Engineer---Optical-Communications---TeraWave_R59805-1) |
 | 🏢 **Verkada** | Embedded Linux Software Engineer | San Mateo, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5043233007) |
 | 🏢 **Verkada** | Embedded UI Engineer | San Mateo, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5035823007) |
@@ -379,7 +379,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Electrical Systems Test Engineer, Air Dominance and Strike | Costa Mesa | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5043611007?gh_jid=5043611007) |
 | 🏢 **SpaceX** | Electrical Design Engineer (Starlink Mobile) | Redmond, WA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8370688002?gh_jid=8370688002) |
 | 🏢 **Anduril** | Manufacturing Test Engineer | Lexington | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5076226007?gh_jid=5076226007) |
-| 🏢 **Anduril** | Camera Test Engineer | Lexington | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5076205007?gh_jid=5076205007) |
+| 🏢 **Anduril** | Camera Test Engineer | Lexington | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5076205007?gh_jid=5076205007) |
 | 🏢 **IBM** | Infrastructure & Technology Entry Level Hardware Test Engineer | Austin | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/34LkvguUoLamoaWAC7HLHQ) |
 | 🏢 **SpaceX** | Components Build and Test Engineer (Falcon) | Hawthorne, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8208797002?gh_jid=8208797002) |
 | 🏢 **Neuralink** | Robot Reliability and Test Engineer | Austin | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7660771003?gh_jid=7660771003) |
@@ -403,8 +403,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Leidos** | Electronics Manufacturing Test Engineer | Huntsville, AL | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Manufacturing-Test-Engineer_R-00177765-1) |
 | 🏢 **HPE** | Cloud Firewall Networking Test Engineer (Automation - Playwright/Python) | Sunnyvale | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Cloud-Firewall-Networking-Test-Engineer--Automation---Playwright-Python-_1199280) |
 | 🏢 **NVIDIA** | Manufacturing Test Engineer | US, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Manufacturing-Test-Engineer_JR2014051) |
-| 🏢 **Intel** | Mixed Signal Design Verification Engineer | US | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Mixed-Signal-Design-Verification-Engineer_JR0281552) |
 | 🏢 **NXP** | Analog Mixed Signal Circuit Design | San Jose | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/San-Jose-Rose-Orchard/Analog-Mixed-Signal-Circuit-Design_R-10061418) |
+| 🏢 **Intel** | Mixed Signal Design Verification Engineer | US | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Mixed-Signal-Design-Verification-Engineer_JR0281552) |
 | 🏢 **KBR** | Operational Test Engineer | 2 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Dallas-Texas/Operational-Test-Engineer_R2119778) |
 | 🏢 **Booz Allen Hamilton** | Cybersecurity Test Engineer | Rome, NY | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/Cybersecurity-Test-Engineer--Junior_R0232713) |
 | 🏢 **NVIDIA** | ATE Test Engineer | US, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ATE-Test-Engineer_JR2005205-1) |
@@ -520,7 +520,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 813 current opportunities from 100 companies**
+**🎯 814 current opportunities from 100 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
