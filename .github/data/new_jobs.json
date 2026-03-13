@@ -25603,34 +25603,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-27T13:58:38-05:00"
-  },
-  {
-    "job_id": "greenhouse-spacex-8399140002",
-    "job_title": "New Graduate Engineer, Software (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Bastrop",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002",
-    "job_posted_at_datetime_utc": "2026-02-27T13:35:26-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1fb390c149578224d5af20600572f54fc6bea5236323fbc175c910aa47a94278",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-02-27T13:35:26-05:00"
   }
 ]
