@@ -25574,33 +25574,5 @@
     "_source": "aggregator",
     "_original_source": "jsearch",
     "job_posted_at": "2026-02-28T00:00:00.000Z"
-  },
-  {
-    "job_id": "greenhouse-axon-7633808003",
-    "job_title": "Manufacturing Engineer I (Onsite)",
-    "employer_name": "Axon",
-    "job_city": "Phoenix",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/axon/jobs/7633808003",
-    "job_posted_at_datetime_utc": "2026-02-27T18:44:02-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fd1bc6ddaf6d66ef83a9dc0b51b8737c6a97b184dfb524bb792a1bf7b69ca764",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-02-27T18:44:02-05:00"
   }
 ]
