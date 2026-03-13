@@ -73,8 +73,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **NXP** | CMP Equipment Engineer | 2 Locations | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/CMP-Equipment-Engineer_R-10062121) |
-| 🏢 **NXP** | Etch/Metals Process Engineer | Chandler | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/Etch-Metals-Process-Engineer_R-10062133) |
+| 🏢 **NXP** | CMP Equipment Engineer | 2 Locations | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/CMP-Equipment-Engineer_R-10062121) |
+| 🏢 **NXP** | Etch/Metals Process Engineer | Chandler | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/Etch-Metals-Process-Engineer_R-10062133) |
 | 🏢 **RTX** | Manufacturing Engineering I –2nd shift (Onsite) | IL-ROCKFORD-P6 ~ ... | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Manufacturing-Engineering-I--2nd-shift--Onsite-_01817382) |
 | 🏢 **RTX** | Manufacturing Mechanical Engineer I | AR-CAMDEN-H100 ~ ... | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AR-CAMDEN-H100--10-Wilson-Rd-E--BLDG-H100-Highland-Industrial-Park/Manufacturing-Mechanical-Engineer-I_01829962) |
 | 🏢 **Atomic Semi** | Hardware Design Engineer | San Francisco Office | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/atomicsemi/7b8a8ba1-4529-43e8-ad52-220f192378fb/application) |
