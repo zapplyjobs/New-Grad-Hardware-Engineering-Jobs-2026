@@ -85,34 +85,6 @@
     "job_posted_at": "2026-03-14T05:58:58.942Z"
   },
   {
-    "job_id": "workday-asml-J-00334353",
-    "job_title": "Field Applications Engineer",
-    "employer_name": "ASML",
-    "job_city": "Boise",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Boise-ID-USA/Field-Applications-Engineer_J-00334353-1",
-    "job_posted_at_datetime_utc": "2026-03-14T05:58:33.362Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2d4dff67bed5b68f6f869809166eba3585a9434b42bf1829f991bde82a3823ac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T05:58:33.362Z"
-  },
-  {
     "job_id": "workday-broadcom-R024930",
     "job_title": "Physical Design Engineer",
     "employer_name": "Broadcom",
@@ -335,34 +307,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-14T05:58:00.883Z"
-  },
-  {
-    "job_id": "workday-asml-J-00334353",
-    "job_title": "Field Applications Engineer",
-    "employer_name": "ASML",
-    "job_city": "Boise",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Boise-ID-USA/Field-Applications-Engineer_J-00334353-1",
-    "job_posted_at_datetime_utc": "2026-03-14T05:57:27.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2d4dff67bed5b68f6f869809166eba3585a9434b42bf1829f991bde82a3823ac",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T05:57:27.224Z"
   },
   {
     "job_id": "workday-broadcom-R024930",
@@ -588,62 +532,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-14T05:56:39.236Z"
-  },
-  {
-    "job_id": "workday-nxp-R-10062133",
-    "job_title": "Etch/Metals Process Engineer",
-    "employer_name": "NXP",
-    "job_city": "Chandler",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/Etch-Metals-Process-Engineer_R-10062133",
-    "job_posted_at_datetime_utc": "2026-03-14T05:56:39.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "59590425699dd828d0a58e138768cecd4860e0c8020ca9453fdd4c00937a14d9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T05:56:39.036Z"
-  },
-  {
-    "job_id": "workday-nxp-R-10062121",
-    "job_title": "CMP Equipment Engineer",
-    "employer_name": "NXP",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/CMP-Equipment-Engineer_R-10062121",
-    "job_posted_at_datetime_utc": "2026-03-14T05:56:39.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "949d7bc512261a374685f5ef3f3ba79f2cf86d5427d10821e3c52fe06033aad0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-14T05:56:39.036Z"
   },
   {
     "job_id": "workday-micron-JR94352",
@@ -6174,6 +6062,118 @@
     "job_posted_at": "2026-03-12T07:36:41.165Z"
   },
   {
+    "job_id": "workday-asml-J-00336332",
+    "job_title": "Embedded Software Quality Engineer",
+    "employer_name": "ASML",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Embedded-Software-Quality-Engineer_J-00336332-1",
+    "job_posted_at_datetime_utc": "2026-03-12T07:09:47.978Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d104b7afac12708f9a12d6f0018df1805e568acca68e6a9527045f1509d504c7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-12T07:09:47.978Z"
+  },
+  {
+    "job_id": "workday-asml-J-00336332",
+    "job_title": "Embedded Software Quality Engineer",
+    "employer_name": "ASML",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Embedded-Software-Quality-Engineer_J-00336332-1",
+    "job_posted_at_datetime_utc": "2026-03-12T07:09:32.564Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d104b7afac12708f9a12d6f0018df1805e568acca68e6a9527045f1509d504c7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-12T07:09:32.564Z"
+  },
+  {
+    "job_id": "workday-nxp-R-10062113",
+    "job_title": "Diffusion Equipment Engineer",
+    "employer_name": "NXP",
+    "job_city": "Chandler",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/Diffusion-Equipment-Engineer_R-10062113",
+    "job_posted_at_datetime_utc": "2026-03-12T07:09:15.409Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d152ade444290ae90a70d2363e891a3609bc5561a0c5bf94ec1747a7ac47aa55",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-12T07:09:15.409Z"
+  },
+  {
+    "job_id": "workday-intermountain-health-R159021",
+    "job_title": "HVAC Technician",
+    "employer_name": "Intermountain Health",
+    "job_city": "Intermountain Health Park City Hospital",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Park-City-Hospital/HVAC-Technician_R159021",
+    "job_posted_at_datetime_utc": "2026-03-12T07:08:25.925Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a209d25875ed861df1c926fedc5aff14ab3c37822cd96dbf6b90fb335c1b22c1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-12T07:08:25.925Z"
+  },
+  {
     "job_id": "workday-baker-hughes-R161821",
     "job_title": "R&D Electrical Engineering Technologist",
     "employer_name": "Baker Hughes",
@@ -6340,34 +6340,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-12T05:58:38.114Z"
-  },
-  {
-    "job_id": "workday-asml-J-00332713",
-    "job_title": "Manufacturing Engineer",
-    "employer_name": "ASML",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Manufacturing-Engineer_J-00332713-1",
-    "job_posted_at_datetime_utc": "2026-03-12T05:58:33.362Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e00d9e59527a88631caabb89f3fc803413c7af38bf22a8a04db8458d1f549927",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-12T05:58:33.362Z"
   },
   {
     "job_id": "workday-broadcom-R024830",
@@ -6592,34 +6564,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-12T05:57:30.968Z"
-  },
-  {
-    "job_id": "workday-asml-J-00332713",
-    "job_title": "Manufacturing Engineer",
-    "employer_name": "ASML",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Manufacturing-Engineer_J-00332713-1",
-    "job_posted_at_datetime_utc": "2026-03-12T05:57:27.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e00d9e59527a88631caabb89f3fc803413c7af38bf22a8a04db8458d1f549927",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-12T05:57:27.224Z"
   },
   {
     "job_id": "workday-broadcom-R024830",
@@ -8595,6 +8539,62 @@
     "job_posted_at": "2026-03-11T07:29:20.737Z"
   },
   {
+    "job_id": "workday-asml-J-00332713",
+    "job_title": "Manufacturing Engineer",
+    "employer_name": "ASML",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Manufacturing-Engineer_J-00332713-1",
+    "job_posted_at_datetime_utc": "2026-03-11T07:09:47.978Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e00d9e59527a88631caabb89f3fc803413c7af38bf22a8a04db8458d1f549927",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-11T07:09:47.978Z"
+  },
+  {
+    "job_id": "workday-asml-J-00332713",
+    "job_title": "Manufacturing Engineer",
+    "employer_name": "ASML",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Manufacturing-Engineer_J-00332713-1",
+    "job_posted_at_datetime_utc": "2026-03-11T07:09:32.564Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e00d9e59527a88631caabb89f3fc803413c7af38bf22a8a04db8458d1f549927",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-11T07:09:32.564Z"
+  },
+  {
     "job_id": "workday-northrop-grumman-R10225409",
     "job_title": "2026 Associate Manufacturing Engineer / Manufacturing Engineer",
     "employer_name": "Northrop Grumman",
@@ -9549,62 +9549,6 @@
     "job_posted_at": "2026-03-11T05:56:39.237Z"
   },
   {
-    "job_id": "workday-nxp-R-10061356",
-    "job_title": "UWB Wireless Application Engineer",
-    "employer_name": "NXP",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/San-Jose-Holger-Way/UWB-RF-Applications-Engineer---Customer-Applications-Support_R-10061356",
-    "job_posted_at_datetime_utc": "2026-03-11T05:56:39.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f38153c3a1c5f961719c7d131d6a66d45f005c73dcbc18da220259619434e0e4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-11T05:56:39.036Z"
-  },
-  {
-    "job_id": "workday-nxp-R-10060487",
-    "job_title": "Entry Level Test Engineer",
-    "employer_name": "NXP",
-    "job_city": "Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Oakhill-Office/Entry-Level-Test-Engineer_R-10060487",
-    "job_posted_at_datetime_utc": "2026-03-11T05:56:39.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "45040d39b0cd0fe9f62a1663a56f2723a9e62205792a27d32fb2d93c673df1aa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-11T05:56:39.036Z"
-  },
-  {
     "job_id": "workday-globalfoundries-JR-2600664",
     "job_title": "CPU Sub-system Design Verification Engineer",
     "employer_name": "GlobalFoundries",
@@ -10542,36 +10486,6 @@
     "job_posted_at": "2026-03-10T20:41:01-04:00"
   },
   {
-    "job_id": "js-redwire-space-o6dsrx_cgeg94secaaaaaa==",
-    "job_title": "Jr. Level. Embedded Software Engineer (Willing to consider all Jr. Levels))",
-    "employer_name": "Redwire Space",
-    "job_city": "Marlborough",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.rdw.com/jobs/jr-level-embedded-software-engineer-willing-to-consider-all-jr-levels-marlborough-massachusetts-united-states",
-    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "293eb74ab6627358eb1d25b509bc310bb314e4d961a909db3abb99e64e8b7fb2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-11T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-604c922c-105a-4a22-9505-d0ae4540c889",
     "job_title": "Mechanical Product Design Engineer, Data Center Eng, Mech Products and Services",
     "employer_name": "Amazon Data Services, Inc.",
@@ -10633,6 +10547,36 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-redwire-space-o6dsrx_cgeg94secaaaaaa==",
+    "job_title": "Jr. Level. Embedded Software Engineer (Willing to consider all Jr. Levels))",
+    "employer_name": "Redwire Space",
+    "job_city": "Marlborough",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.rdw.com/jobs/jr-level-embedded-software-engineer-willing-to-consider-all-jr-levels-marlborough-massachusetts-united-states",
+    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "293eb74ab6627358eb1d25b509bc310bb314e4d961a909db3abb99e64e8b7fb2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-03-11T00:00:00.000Z"
   },
   {
@@ -12317,6 +12261,62 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-10T07:29:20.737Z"
+  },
+  {
+    "job_id": "workday-nxp-R-10061356",
+    "job_title": "UWB Wireless Application Engineer",
+    "employer_name": "NXP",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/San-Jose-Holger-Way/UWB-RF-Applications-Engineer---Customer-Applications-Support_R-10061356",
+    "job_posted_at_datetime_utc": "2026-03-10T07:09:15.410Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f38153c3a1c5f961719c7d131d6a66d45f005c73dcbc18da220259619434e0e4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-10T07:09:15.410Z"
+  },
+  {
+    "job_id": "workday-nxp-R-10060487",
+    "job_title": "Entry Level Test Engineer",
+    "employer_name": "NXP",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Oakhill-Office/Entry-Level-Test-Engineer_R-10060487",
+    "job_posted_at_datetime_utc": "2026-03-10T07:09:15.410Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "45040d39b0cd0fe9f62a1663a56f2723a9e62205792a27d32fb2d93c673df1aa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-10T07:09:15.410Z"
   },
   {
     "job_id": "workday-hitachi-R0120855",
@@ -15307,34 +15307,6 @@
     "job_posted_at": "2026-03-07T05:59:23.622Z"
   },
   {
-    "job_id": "workday-asml-J-00333122",
-    "job_title": "Field Service Engineer",
-    "employer_name": "ASML",
-    "job_city": "Lehi",
-    "job_state": "UT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Lehi-UT-USA/Field-Service-Engineer_J-00333122-1",
-    "job_posted_at_datetime_utc": "2026-03-07T05:58:33.362Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5e0c5f88110b2006d05d2bdf646bc87c0224451d676bb597babb56046f08c842",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-07T05:58:33.362Z"
-  },
-  {
     "job_id": "workday-broadcom-R024620",
     "job_title": "Physical Design Timing Engineer (STA)",
     "employer_name": "Broadcom",
@@ -15389,34 +15361,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-07T05:58:32.595Z"
-  },
-  {
-    "job_id": "workday-asml-J-00333122",
-    "job_title": "Field Service Engineer",
-    "employer_name": "ASML",
-    "job_city": "Lehi",
-    "job_state": "UT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Lehi-UT-USA/Field-Service-Engineer_J-00333122-1",
-    "job_posted_at_datetime_utc": "2026-03-07T05:57:27.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5e0c5f88110b2006d05d2bdf646bc87c0224451d676bb597babb56046f08c842",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-07T05:57:27.224Z"
   },
   {
     "job_id": "workday-broadcom-R024620",
@@ -15557,34 +15501,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-07T05:56:39.237Z"
-  },
-  {
-    "job_id": "workday-nxp-R-10061418",
-    "job_title": "Analog Mixed Signal Circuit Design",
-    "employer_name": "NXP",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/San-Jose-Rose-Orchard/Analog-Mixed-Signal-Circuit-Design_R-10061418",
-    "job_posted_at_datetime_utc": "2026-03-07T05:56:39.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fa3afe71288cd752cdf720fff751ddc02dc95c3d49ac0181c716a268e6b9327d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-07T05:56:39.036Z"
   },
   {
     "job_id": "workday-marvell-2600513",
@@ -16843,6 +16759,90 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-06T08:45:50.283Z"
+  },
+  {
+    "job_id": "workday-asml-J-00333122",
+    "job_title": "Field Service Engineer",
+    "employer_name": "ASML",
+    "job_city": "Lehi",
+    "job_state": "UT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Lehi-UT-USA/Field-Service-Engineer_J-00333122-1",
+    "job_posted_at_datetime_utc": "2026-03-06T07:09:47.978Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5e0c5f88110b2006d05d2bdf646bc87c0224451d676bb597babb56046f08c842",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-06T07:09:47.978Z"
+  },
+  {
+    "job_id": "workday-asml-J-00333122",
+    "job_title": "Field Service Engineer",
+    "employer_name": "ASML",
+    "job_city": "Lehi",
+    "job_state": "UT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Lehi-UT-USA/Field-Service-Engineer_J-00333122-1",
+    "job_posted_at_datetime_utc": "2026-03-06T07:09:32.564Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5e0c5f88110b2006d05d2bdf646bc87c0224451d676bb597babb56046f08c842",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-06T07:09:32.564Z"
+  },
+  {
+    "job_id": "workday-nxp-R-10061418",
+    "job_title": "Analog Mixed Signal Circuit Design",
+    "employer_name": "NXP",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/San-Jose-Rose-Orchard/Analog-Mixed-Signal-Circuit-Design_R-10061418",
+    "job_posted_at_datetime_utc": "2026-03-06T07:09:15.410Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fa3afe71288cd752cdf720fff751ddc02dc95c3d49ac0181c716a268e6b9327d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-06T07:09:15.410Z"
   },
   {
     "job_id": "workday-boeing-JR2026499583",
