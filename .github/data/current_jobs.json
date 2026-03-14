@@ -20071,18 +20071,18 @@
     "job_posted_at": "2026-03-05T00:31:37.605Z"
   },
   {
-    "job_id": "amazon-d0e28b6a-e89c-40cd-b7c8-4ce3ff9fb55c",
+    "job_id": "amazon-824ca352-5561-4e9f-ac90-bc18889a61fe",
     "job_title": "Data Center Controls Engineer, Data Center Capacity Delivery - Controls",
     "employer_name": "Amazon Data Services, Inc.",
-    "job_city": "New Albany",
+    "job_city": "Trenton",
     "job_state": "OH",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3197321/data-center-controls-engineer-data-center-capacity-delivery-controls",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3197305/data-center-controls-engineer-data-center-capacity-delivery-controls",
     "job_posted_at_datetime_utc": "2026-03-05T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "16fe79e1bef43a7e205c402be686c0ee065c74ecdf22c1ace28bf77138bda39c",
+    "fingerprint": "cf84d2ef9cd6b18a601f2ed23319c0ce6c508edd3b3b73b12346fd6660eae122",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -20103,18 +20103,18 @@
     "job_posted_at": "2026-03-05T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-824ca352-5561-4e9f-ac90-bc18889a61fe",
+    "job_id": "amazon-d0e28b6a-e89c-40cd-b7c8-4ce3ff9fb55c",
     "job_title": "Data Center Controls Engineer, Data Center Capacity Delivery - Controls",
     "employer_name": "Amazon Data Services, Inc.",
-    "job_city": "Trenton",
+    "job_city": "New Albany",
     "job_state": "OH",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3197305/data-center-controls-engineer-data-center-capacity-delivery-controls",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3197321/data-center-controls-engineer-data-center-capacity-delivery-controls",
     "job_posted_at_datetime_utc": "2026-03-05T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "cf84d2ef9cd6b18a601f2ed23319c0ce6c508edd3b3b73b12346fd6660eae122",
+    "fingerprint": "16fe79e1bef43a7e205c402be686c0ee065c74ecdf22c1ace28bf77138bda39c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -23408,6 +23408,37 @@
     "job_posted_at": "2026-03-03T00:00:00.000Z"
   },
   {
+    "job_id": "amazon-b08b88a5-e989-4e7e-895a-feb15b098ac3",
+    "job_title": "Controls Integration Engineer, One MHS | Systems Integration and Flow",
+    "employer_name": "Amazon.com Services LLC - A57",
+    "job_city": "Cincinnati",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3194777/controls-integration-engineer-one-mhs-systems-integration-and-flow",
+    "job_posted_at_datetime_utc": "2026-03-03T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7a1f5eeb4642456a1230e607063daac63e13e73adcb8159858dfca91a18467ae",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-03-03T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-8bace5aa-384d-4e3b-9467-796a27335394",
     "job_title": "Controls Integration Engineer, One MHS | Systems Integration and Flow",
     "employer_name": "Amazon.com Services LLC - A57",
@@ -23540,37 +23571,6 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://www.amazon.jobs/en/jobs/3194772/controls-integration-engineer-one-mhs-systems-integration-and-flow",
-    "job_posted_at_datetime_utc": "2026-03-03T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7a1f5eeb4642456a1230e607063daac63e13e73adcb8159858dfca91a18467ae",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "job_posted_at": "2026-03-03T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-b08b88a5-e989-4e7e-895a-feb15b098ac3",
-    "job_title": "Controls Integration Engineer, One MHS | Systems Integration and Flow",
-    "employer_name": "Amazon.com Services LLC - A57",
-    "job_city": "Cincinnati",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3194777/controls-integration-engineer-one-mhs-systems-integration-and-flow",
     "job_posted_at_datetime_utc": "2026-03-03T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
