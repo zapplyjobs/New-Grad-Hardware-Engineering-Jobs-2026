@@ -31,15 +31,6 @@
 
 <img src="images/zapply.png" alt="Apply to jobs in seconds with Zapply.">
 
-Explore Zapply's website and check out:
-
-- Our chrome extension that auto-fills your job applications in seconds.
-- A dedicated job board with the latest jobs for various types of roles.
-- User account providing multiple profiles for different resume roles.
-- Job application tracking with streaks to unlock commitment awards.
-
-Experience an advanced career journey with us! 🚀
-
 <p align="center">
   <a href="https://zapply.jobs/?ref=github"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -191,7 +182,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cleveland Clinic** | Mechanical Engineer | Cleveland Clinic ... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Mechanical-Engineer_299748) |
 | 🏢 **Relativity Space** | Additive Manufacturing Engineer I | Long Beach | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8423422002?gh_jid=8423422002) |
 | 🏢 **Intuitive** | Robotics Software Engineer | Sunnyvale, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000113779523) |
-| 🏢 **Astranis** | PCB Librarian | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4351487006) |
+| 🏢 **Astranis** | PCB Librarian | San Francisco | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4351487006) |
 | 🏢 **FLIR Systems** | Field Applications Engineer | Englewood, CO, CO | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Englewood-CO-TDY/Field-Applications-Engineer_REQ32761) |
 | 🏢 **KLA** | System Design Engineer | Milpitas, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/System-Design-Engineer_2634905-1) |
 | 🏢 **Analog Devices** | Engineer, Design Verification Engineering | US, MA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Engineer--Design-Verification-Engineering_R260828) |
