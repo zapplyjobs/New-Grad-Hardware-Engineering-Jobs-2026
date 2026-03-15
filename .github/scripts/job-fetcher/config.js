@@ -22,8 +22,8 @@ module.exports = {
   tagline: '',  // No tagline for SEO repos
 
   // Description paragraphs (with template variables)
-  descriptionLine1: '🚀 Real-time hardware engineering, embedded systems, and electrical engineering jobs from {totalCompanies}+ top companies like Samsara and Verkada. Updated every 15 minutes with {currentJobs}+ fresh opportunities for new graduates, engineering students, and entry-level hardware engineers.',
-  descriptionLine2: '🎯 Includes roles across tech hardware companies, defense contractors, and engineering-first startups like Samsara and Verkada.',
+  descriptionLine1: '🚀 Hardware, embedded systems, and EE jobs for new graduates, updated in real time.',
+  descriptionLine2: '',
 
   // Note box
   noteType: 'TIP',
