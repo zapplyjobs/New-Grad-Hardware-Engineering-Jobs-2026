@@ -37695,33 +37695,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-03T06:48:18.892Z"
-  },
-  {
-    "job_id": "workday-ochsner-health-REQ_00253946",
-    "job_title": "Fitness Center Associate - Kidsports",
-    "employer_name": "Ochsner Health",
-    "job_city": "New Orleans Region - Louisiana",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Harahan---New-Orleans-Region---Louisiana/Fitness-Center-Associate_REQ_00253946",
-    "job_posted_at_datetime_utc": "2026-03-03T05:10:45.781Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "217b497797472fd97a9cda8488d124b4bc911ed4274fa2e2406f8401c8b02413",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-03T05:10:45.781Z"
   }
 ]
