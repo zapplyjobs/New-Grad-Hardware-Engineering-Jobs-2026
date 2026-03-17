@@ -35704,34 +35704,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-03T22:12:17.274Z"
-  },
-  {
-    "job_id": "sr-WesternDigital-744000112526651",
-    "job_title": "Technologist - Firmware Development",
-    "employer_name": "Western Digital",
-    "job_city": "Irvine",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/WesternDigital/744000112526651",
-    "job_posted_at_datetime_utc": "2026-03-03T21:39:54.348Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "3fc16006b54cbd441ec93063ceff6d8c78ebcc3cac7972571c070686503f8bb6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-03-03T21:39:54.348Z"
   }
 ]
