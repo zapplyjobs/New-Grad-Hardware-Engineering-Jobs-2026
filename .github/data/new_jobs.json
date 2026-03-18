@@ -37273,35 +37273,5 @@
     "_source": "aggregator",
     "_original_source": "jsearch",
     "job_posted_at": "2026-03-05T00:00:00.000Z"
-  },
-  {
-    "job_id": "sr-WellmarkInc-744000112788067",
-    "job_title": "Platform Engineer - Test Engineering",
-    "employer_name": "Wellmark, Inc.",
-    "job_city": "Des Moines",
-    "job_state": "IA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/WellmarkInc/744000112788067",
-    "job_posted_at_datetime_utc": "2026-03-04T22:06:25.204Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "6fe005414454b9589c2a3253049b8be3ebb0d6c583f83ba2db4289fc94b8c8a4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-03-04T22:06:25.204Z"
   }
 ]
