@@ -36951,33 +36951,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-05T20:20:32.777Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00177492",
-    "job_title": "Production Test Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Production-Test-Engineer_R-00177492-1",
-    "job_posted_at_datetime_utc": "2026-03-05T19:05:07.530Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fecfd22d0113681fd7c5ac990f7bc229a1dcf9c07c3005d09e0199909f9cd709",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T19:05:07.530Z"
   }
 ]
