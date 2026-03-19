@@ -340,7 +340,7 @@
 | 🏢 **Palantir** | Embedded People Engineer | Washington | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/c620a2b0-fa5f-4a1d-999d-b1ec6f09a582/apply) |
 | 🏢 **Palantir** | Embedded People Engineer | New York, NY | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/f1fdab97-ab1e-4c3d-82f2-4b70f12d249d/apply) |
 | 🏢 **Anduril** | Embedded Software Engineer, Maritime | Costa Mesa | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5082336007?gh_jid=5082336007) |
-| 🏢 **SpaceX** | Embedded Software Engineer, Satellite Antenna (Starlink) | Redmond, WA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8468958002?gh_jid=8468958002) |
+| 🏢 **SpaceX** | Embedded Software Engineer, Satellite Antenna (Starlink) | Redmond, WA | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8468958002?gh_jid=8468958002) |
 | 🏢 **SpaceX** | Embedded Security Engineer (Starlink) | Redmond, WA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8459556002?gh_jid=8459556002) |
 | 🏢 **SpaceX** | Software Engineer, Embedded Software (Starshield) | Hawthorne, CA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8436708002?gh_jid=8436708002) |
 | 🏢 **Waymo** | Software Engineer, Embedded Systems / Robotics | Mountain View, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7429873) |
@@ -490,9 +490,9 @@
 | 🏢 **Boeing** | Quality Engineer (Engr Process - Quality) | Oklahoma City, OK | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Quality-Engineer--Engr-Process---Quality-_JR2026500361-1) |
 | 🏢 **Shield AI** | Quality Engineering Technician (R4213) | Dallas | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/shieldai/07106459-8745-4a15-9dc3-f8a3eb81ab64/apply) |
 | 🏢 **Anduril** | Product Quality Engineer, ECC | Santa Ana | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5034291007?gh_jid=5034291007) |
-| 🏢 **Allen Control Systems** | Supplier Quality Engineer | Austin, TX | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5147659008) |
-| 🏢 **Allen Control Systems** | Quality Engineer - Weekend Shift | Austin, TX | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5155627008) |
-| 🏢 **Allen Control Systems** | Quality Engineer - 2nd Shift | Austin, TX | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5154287008) |
+| 🏢 **Allen Control Systems** | Supplier Quality Engineer | Austin, TX | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5147659008) |
+| 🏢 **Allen Control Systems** | Quality Engineer - Weekend Shift | Austin, TX | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5155627008) |
+| 🏢 **Allen Control Systems** | Quality Engineer - 2nd Shift | Austin, TX | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5154287008) |
 | 🏢 **Robinhood** | Quality Engineer, Options | Menlo Park, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/7580045?t=gh_src=&gh_jid=7580045) |
 | 🏢 **Intuitive** | Quality Engineer - Reprocessing Development | Sunnyvale, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000115442362) |
 | 🏢 **Anduril** | Product Quality Engineer | Irvine | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5034002007?gh_jid=5034002007) |
