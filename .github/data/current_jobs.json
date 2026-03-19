@@ -36906,34 +36906,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-05T16:01:21.054Z"
-  },
-  {
-    "job_id": "sr-Intuitive-744000112972505",
-    "job_title": "Continuous Improvement Quality Engineer (CIQE)",
-    "employer_name": "Intuitive",
-    "job_city": "Peachtree Corners",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/Intuitive/744000112972505",
-    "job_posted_at_datetime_utc": "2026-03-05T15:56:39.699Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "d3a3a2fcdaafa251df19f5c84d1d586bc1b50878a06964b05dc170be02be0605",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-03-05T15:56:39.699Z"
   }
 ]
