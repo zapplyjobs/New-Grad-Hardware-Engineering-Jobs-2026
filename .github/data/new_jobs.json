@@ -36189,33 +36189,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-06T19:36:11.141Z"
-  },
-  {
-    "job_id": "workday-jabil-J2442282",
-    "job_title": "Mold Design Engineer",
-    "employer_name": "Jabil",
-    "job_city": "Gurnee",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Gurnee-IL/Mold-Design-Engineer_J2442282",
-    "job_posted_at_datetime_utc": "2026-03-06T19:10:59.789Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5bea240e281cf78b87d30c0cf1d42edf7d7fcfae1f064ef0944a94767377fe6b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-06T19:10:59.789Z"
   }
 ]
