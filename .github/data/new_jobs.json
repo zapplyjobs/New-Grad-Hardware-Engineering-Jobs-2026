@@ -35847,34 +35847,5 @@
     "_source": "aggregator",
     "_original_source": "jsearch",
     "job_posted_at": "2026-03-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "sr-Sandisk-744000113285037",
-    "job_title": "Technologist, Firmware Engineering",
-    "employer_name": "Sandisk",
-    "job_city": "Irvine",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/Sandisk/744000113285037",
-    "job_posted_at_datetime_utc": "2026-03-06T23:45:06.499Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "73a365cdb19f6f7a318c21d04912379c064441371d59e024b4b3f411a1aa7bc2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-03-06T23:45:06.499Z"
   }
 ]
