@@ -36075,34 +36075,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-06T15:33:34-05:00"
-  },
-  {
-    "job_id": "sr-BoschGroup-744000113263597",
-    "job_title": "Manufacturing Engineer",
-    "employer_name": "Bosch Group",
-    "job_city": "Fort Lauderdale",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/BoschGroup/744000113263597",
-    "job_posted_at_datetime_utc": "2026-03-06T20:18:16.017Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "e4ee6f85e7af81a6f1a8c82575ef5307e156bf4491dffe66480569d42f0112d0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-03-06T20:18:16.017Z"
   }
 ]
