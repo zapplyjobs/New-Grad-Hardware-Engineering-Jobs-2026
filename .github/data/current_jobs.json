@@ -35876,33 +35876,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-06T23:45:06.499Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8452012002",
-    "job_title": "Propulsion Fluids Analyst (Raptor Chamber And Nozzle)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8452012002?gh_jid=8452012002",
-    "job_posted_at_datetime_utc": "2026-03-06T18:19:17-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b1f1fbcdd0ed17d15b8d2f61572cc99881b13d353d22b790e2be83a846252310",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-06T18:19:17-05:00"
   }
 ]
