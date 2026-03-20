@@ -36104,33 +36104,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-06T09:06:34.047Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026499736",
-    "job_title": "Manufacturing Engineer",
-    "employer_name": "Boeing",
-    "job_city": "Sylmar",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Sylmar-CA/Manufacturing-Engineer_JR2026499736-1",
-    "job_posted_at_datetime_utc": "2026-03-06T08:45:50.283Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b67cd65b30545006b5b192483a9502665e9a04c46a5b7edde790e6c69d9ed7fb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-06T08:45:50.283Z"
   }
 ]
