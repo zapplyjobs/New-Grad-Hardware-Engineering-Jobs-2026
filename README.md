@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1262-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1261-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-176-blue?style=flat&logo=building)
-![Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-912-red?style=flat&logo=star)
+![Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-911-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -129,10 +129,10 @@
 | 🏢 **Cartesia** | Design Engineer | *HQ - San Francis... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cartesia/30dd64e9-178e-43d8-afaa-13bb97baf45d/application) |
 | 🏢 **Baseten** | Site Reliability Engineer (SRE) | San Francisco Office | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392/application) |
 | 🏢 **Atomic Semi** | Mechanical Engineer | San Francisco Office | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/atomicsemi/5d687a8f-ed34-47de-9af7-6a66a69a2695/application) |
-| 🏢 **Intuitive** | Future Opportunity - Mechanical Engineer - Vision Equipment | Sunnyvale, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000115941936) |
+| 🏢 **Intuitive** | Future Opportunity - Mechanical Engineer - Vision Equipment | Sunnyvale, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000115941936) |
 | 🏢 **MongoDB** | Site Reliability Engineer 3 | New York City | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7145126) |
 | 🏢 **Intuitive** | Future Opportunity - Robotic Algorithms and Controls Engineer (Systems Analyst) | Sunnyvale, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000115933267) |
-| 🏢 **xAI** | Electrical Engineer (EIT) | Memphis, TN | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4753835007) |
+| 🏢 **xAI** | Electrical Engineer (EIT) | Memphis, TN | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4753835007) |
 | 🏢 **SpaceX** | Manufacturing Engineer, PCBA (Starlink) | Bastrop, TX | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8355918002?gh_jid=8355918002) |
 | 🏢 **Anduril** | Avionics Technician | Atlanta | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4961837007?gh_jid=4961837007) |
 | 🏢 **Anduril** | CAD Design Engineer, NX/Creo/Catia & Teamcenter/Winchill | Costa Mesa | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5029084007?gh_jid=5029084007) |
@@ -140,7 +140,7 @@
 | 🏢 **SpaceX** | HVAC Technician | Hawthorne, CA | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8357746002?gh_jid=8357746002) |
 | 🏢 **SpaceX** | HVAC Technician - 2nd Shift | Hawthorne, CA | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8471788002?gh_jid=8471788002) |
 | 🏢 **Anthropic** | Design Engineer, Web | San Francisco, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5116525008) |
-| 🏢 **Tenstorrent** | Field Application Engineer,  AI Systems & Solutions | Austin | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/4629571007) |
+| 🏢 **Tenstorrent** | Field Application Engineer,  AI Systems & Solutions | Austin | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/4629571007) |
 | 🏢 **Intuitive** | Field Service Engineer 2 - 2nd Shift | New Brunswick, NJ | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000115682015) |
 | 🏢 **Intel** | Process Integration and Yield Technician | US | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Technician_JR0281541) |
 | 🏢 **Formlabs** | Manufacturing Automation Engineer | Somerville, MA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.formlabs.com/job/7733349/apply/?gh_jid=7733349) |
@@ -611,7 +611,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1262 current opportunities from 176 companies**
+**🎯 1261 current opportunities from 176 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
