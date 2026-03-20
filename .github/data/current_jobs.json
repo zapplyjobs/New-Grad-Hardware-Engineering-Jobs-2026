@@ -36055,33 +36055,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-06T15:21:56.660Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00176377",
-    "job_title": "Mobile Radar Mechanical Design Engineer​",
-    "employer_name": "Leidos",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mobile-Radar-Mechanical-Design-Engineer-_R-00176377",
-    "job_posted_at_datetime_utc": "2026-03-06T14:41:18.838Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b10fdb81f545e169ebfb770a96e59d338e85b5609c3f02f71860b29b06d663f6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-06T14:41:18.838Z"
   }
 ]
