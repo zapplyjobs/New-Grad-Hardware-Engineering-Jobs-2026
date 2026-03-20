@@ -37303,34 +37303,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-05T19:46:28-05:00"
-  },
-  {
-    "job_id": "greenhouse-spacex-8136339002",
-    "job_title": "New Graduate Engineer, Electrical",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8136339002?gh_jid=8136339002",
-    "job_posted_at_datetime_utc": "2026-03-05T19:44:10-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4da259bc0760fc05b33290542d90636d78eefe75735e1f5bfb5c9cc2f560e24c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-05T19:44:10-05:00"
   }
 ]
