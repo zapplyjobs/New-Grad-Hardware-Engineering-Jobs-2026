@@ -36903,33 +36903,5 @@
     "_source": "aggregator",
     "_original_source": "jsearch",
     "job_posted_at": "2026-03-06T04:46:05.236Z"
-  },
-  {
-    "job_id": "workday-micron-JR93490",
-    "job_title": "ID1 IT Field Service Engineer",
-    "employer_name": "Micron",
-    "job_city": "ID1",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/ID1-IT-Field-Service_JR93490",
-    "job_posted_at_datetime_utc": "2026-03-06T04:33:21.187Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bf277c4929ec7884f383e03939d74c75450414ef316a22e0358c91dfb44cd8e5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-06T04:33:21.187Z"
   }
 ]
