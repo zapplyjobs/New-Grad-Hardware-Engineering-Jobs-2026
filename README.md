@@ -133,13 +133,13 @@
 | 🏢 **MongoDB** | Site Reliability Engineer 3 | New York City | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7145126) |
 | 🏢 **Intuitive** | Future Opportunity - Robotic Algorithms and Controls Engineer (Systems Analyst) | Sunnyvale, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000115933267) |
 | 🏢 **xAI** | Electrical Engineer (EIT) | Memphis, TN | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4753835007) |
-| 🏢 **SpaceX** | Manufacturing Engineer, PCBA (Starlink) | Bastrop, TX | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8355918002?gh_jid=8355918002) |
-| 🏢 **Anduril** | Avionics Technician | Atlanta | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4961837007?gh_jid=4961837007) |
-| 🏢 **Anduril** | CAD Design Engineer, NX/Creo/Catia & Teamcenter/Winchill | Costa Mesa | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5029084007?gh_jid=5029084007) |
-| 🏢 **Anduril** | Deployment Site Reliability Engineer, Connected Warfare | Costa Mesa | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4737196007?gh_jid=4737196007) |
+| 🏢 **SpaceX** | Manufacturing Engineer, PCBA (Starlink) | Bastrop, TX | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8355918002?gh_jid=8355918002) |
+| 🏢 **Anduril** | Avionics Technician | Atlanta | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4961837007?gh_jid=4961837007) |
+| 🏢 **Anduril** | CAD Design Engineer, NX/Creo/Catia & Teamcenter/Winchill | Costa Mesa | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5029084007?gh_jid=5029084007) |
+| 🏢 **Anduril** | Deployment Site Reliability Engineer, Connected Warfare | Costa Mesa | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4737196007?gh_jid=4737196007) |
 | 🏢 **SpaceX** | HVAC Technician | Hawthorne, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8357746002?gh_jid=8357746002) |
 | 🏢 **SpaceX** | HVAC Technician - 2nd Shift | Hawthorne, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8471788002?gh_jid=8471788002) |
-| 🏢 **Anthropic** | Design Engineer, Web | San Francisco, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5116525008) |
+| 🏢 **Anthropic** | Design Engineer, Web | San Francisco, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5116525008) |
 | 🏢 **Tenstorrent** | Field Application Engineer,  AI Systems & Solutions | Austin | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/4629571007) |
 | 🏢 **Intuitive** | Field Service Engineer 2 - 2nd Shift | New Brunswick, NJ | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000115682015) |
 | 🏢 **Intel** | Process Integration and Yield Technician | US | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Technician_JR0281541) |
@@ -276,8 +276,8 @@
 | 🏢 **OpenAI** | Camera Firmware Engineer, Consumer Devices | San Francisco | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/1dc05fc7-ceb7-4827-a905-9d1beb77a4a0/application) |
 | 🏢 **OpenAI** | Networking Operating System Firmware Engineer | San Francisco | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/582b878e-61bf-4be2-8b30-623434baf726/application) |
 | 🏢 **Etched** | Design Verification Engineer - SoC | San Jose | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/a99318bd-b433-44b7-9600-2ee9533c90a1/application) |
-| 🏢 **Anduril** | Firmware Engineer, Embedded Systems | Costa Mesa | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5052359007?gh_jid=5052359007) |
-| 🏢 **Anduril** | Firmware Engineer, Manufacturing Test | Costa Mesa | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4987908007?gh_jid=4987908007) |
+| 🏢 **Anduril** | Firmware Engineer, Embedded Systems | Costa Mesa | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5052359007?gh_jid=5052359007) |
+| 🏢 **Anduril** | Firmware Engineer, Manufacturing Test | Costa Mesa | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4987908007?gh_jid=4987908007) |
 | 🏢 **Waymo** | ASIC Design Verification Engineer | Mountain View, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7656843) |
 | 🏢 **Northrop Grumman** | 2026 Associate Manufacturing Engineer/Manufacturing Engineer | Utah-Clearfield | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2026-Associate-Manufacturing-Engineer-Manufacturing-Engineer_R10226507) |
 | 🏢 **KeyBank** | Equity Research Associate, Industrials/Basics | Cleveland, OH | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Equity-Research-Associate--Industrials---Basics_R-38571) |
@@ -339,9 +339,9 @@
 | 🏢 **Etched** | MTS - Firmware | San Jose | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/3b2b0704-c8fd-446e-90c3-af9de880cb28/application) |
 | 🏢 **Palantir** | Embedded People Engineer | Washington | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/c620a2b0-fa5f-4a1d-999d-b1ec6f09a582/apply) |
 | 🏢 **Palantir** | Embedded People Engineer | New York, NY | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/f1fdab97-ab1e-4c3d-82f2-4b70f12d249d/apply) |
-| 🏢 **Anduril** | Embedded Haskell Engineer | Costa Mesa | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5043620007?gh_jid=5043620007) |
-| 🏢 **Anduril** | Embedded NixOS Engineer | Costa Mesa | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5043618007?gh_jid=5043618007) |
-| 🏢 **Anduril** | Embedded Software Engineer, Maritime | Costa Mesa | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5082336007?gh_jid=5082336007) |
+| 🏢 **Anduril** | Embedded Haskell Engineer | Costa Mesa | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5043620007?gh_jid=5043620007) |
+| 🏢 **Anduril** | Embedded NixOS Engineer | Costa Mesa | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5043618007?gh_jid=5043618007) |
+| 🏢 **Anduril** | Embedded Software Engineer, Maritime | Costa Mesa | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5082336007?gh_jid=5082336007) |
 | 🏢 **Neuralink** | Embedded Software Engineer, Implant Embedded Systems | Austin | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/6550259003?gh_jid=6550259003) |
 | 🏢 **SpaceX** | Embedded Software Engineer, Satellite Antenna (Starlink) | Redmond, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8468958002?gh_jid=8468958002) |
 | 🏢 **SpaceX** | Embedded Security Engineer (Starlink) | Redmond, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8459556002?gh_jid=8459556002) |
@@ -415,9 +415,9 @@
 | 🏢 **Lumafield** | QA Test Engineer | San Francisco, CA | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/lumafield/cfbbe063-85a1-4e9e-9a9d-18062aca6760/apply) |
 | 🏢 **Handshake** | Analog Engineer - AI Trainer | Remote | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/385dcfca-d3c2-4638-bc4f-de7108ca1a17/application) |
 | 🏢 **CoBot** | Mechanical Hardware Test & Validation Engineer | Santa Clara | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cobot/5c1ef0db-f49b-4918-b7b8-4b7b26f4d612/application) |
-| 🏢 **Anduril** | Camera Test Engineer | Lexington | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5076205007?gh_jid=5076205007) |
-| 🏢 **Anduril** | Development Test Engineer | Costa Mesa | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4676612007?gh_jid=4676612007) |
-| 🏢 **Anduril** | Development Test Engineer, Space Vehicle | Costa Mesa | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5032033007?gh_jid=5032033007) |
+| 🏢 **Anduril** | Camera Test Engineer | Lexington | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5076205007?gh_jid=5076205007) |
+| 🏢 **Anduril** | Development Test Engineer | Costa Mesa | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4676612007?gh_jid=4676612007) |
+| 🏢 **Anduril** | Development Test Engineer, Space Vehicle | Costa Mesa | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5032033007?gh_jid=5032033007) |
 | 🏢 **SpaceX** | Integration & Test Engineer (Dragon) | Hawthorne, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8327920002?gh_jid=8327920002) |
 | 🏢 **SpaceX** | Integration & Test Engineer (Composites Test) | Hawthorne, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8306562002?gh_jid=8306562002) |
 | 🏢 **Shield AI** | Flight Test Engineer, VBAT Hivemind (R4009) | Dallas | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/shieldai/763700d9-d3f2-4f7e-87cf-ccab1e53b4e4/apply) |
@@ -493,10 +493,10 @@
 | 🏢 **Abbott** | Quality Engineer I | Minnesota - Plymouth | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Quality-Engineer-I_31143358-1) |
 | 🏢 **Shield AI** | Quality Engineering Technician (R4213) | Dallas | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/shieldai/07106459-8745-4a15-9dc3-f8a3eb81ab64/apply) |
 | 🏢 **Adobe** | Product Quality Engineer 3 — iOS | 2 Locations | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Product-Quality-Engineer-3---iOS_R165565) |
-| 🏢 **Astranis** | Production Quality Engineer | San Francisco | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4572174006) |
+| 🏢 **Astranis** | Production Quality Engineer | San Francisco | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4572174006) |
 | 🏢 **Anduril** | Quality Engineer, Analytics | Costa Mesa | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5034686007?gh_jid=5034686007) |
-| 🏢 **Anduril** | Product Quality Engineer | Irvine | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5034002007?gh_jid=5034002007) |
-| 🏢 **Anduril** | Product Quality Engineer, ECC | Santa Ana | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5034291007?gh_jid=5034291007) |
+| 🏢 **Anduril** | Product Quality Engineer | Irvine | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5034002007?gh_jid=5034002007) |
+| 🏢 **Anduril** | Product Quality Engineer, ECC | Santa Ana | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5034291007?gh_jid=5034291007) |
 | 🏢 **Walmart** | (USA) Quality Engineer | US PA TOBYHANNA 0... | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/US-PA-TOBYHANNA-06080-REGIONAL/XMLNAME--USA--Quality-Engineer_R-2452195) |
 | 🏢 **Allen Control Systems** | Supplier Quality Engineer | Austin, TX | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5147659008) |
 | 🏢 **Allen Control Systems** | Quality Engineer - Weekend Shift | Austin, TX | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5155627008) |
