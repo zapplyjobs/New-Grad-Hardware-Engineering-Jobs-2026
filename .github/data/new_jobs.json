@@ -1,124 +1,5 @@
 [
   {
-    "job_id": "ashby-snowflake-0fd8cb45-cc23-4632-ae02-32471f45bbc0",
-    "job_title": "Software Application Engineer - Migrations",
-    "employer_name": "Snowflake",
-    "job_city": "CR-San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/0fd8cb45-cc23-4632-ae02-32471f45bbc0/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:17:03.779Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "7666304f9f54951e9f4b1a55169b06e9eef71be8f7e6d5c4ef3fa7a13c498cdc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:17:03.779Z"
-  },
-  {
-    "job_id": "ashby-supabase-62eff9da-6c38-42e0-84cc-e82392415b52",
-    "job_title": "Data Platform Reliability Engineer - Postgres",
-    "employer_name": "Supabase",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/supabase/62eff9da-6c38-42e0-84cc-e82392415b52/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:57.701Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "13adf23d2f597a206c19d05d03f61714fbe5798d51db8e259b6ef13f32febf9a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:57.701Z"
-  },
-  {
-    "job_id": "ashby-rilla-29fbbb85-ed6c-4458-b076-8d20ae8210a4",
-    "job_title": "Brand/Graphic Designer",
-    "employer_name": "Rilla",
-    "job_city": "New York City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/rilla/29fbbb85-ed6c-4458-b076-8d20ae8210a4/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:56.926Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "e810923fda378dd7592f92acb7ffc61a10f77644d40019e5cbbdda10eea21dcd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:56.926Z"
-  },
-  {
-    "job_id": "ashby-replit-f6e6158e-eb89-4008-81ea-1b7512bc509d",
-    "job_title": "Site Reliability Engineer",
-    "employer_name": "Replit",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/replit/f6e6158e-eb89-4008-81ea-1b7512bc509d/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:56.633Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "605b0bf39972399bb826bba6088db29dddd8c26273d1b6412bd1dae46bc6c5b6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:56.633Z"
-  },
-  {
     "job_id": "lever-ivo-01d58618-688c-4a0f-8378-f51de2902d66",
     "job_title": "Design Engineer",
     "employer_name": "Ivo",
@@ -127,7 +8,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/ivo/01d58618-688c-4a0f-8378-f51de2902d66/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:56.016Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:32:26.829Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "59b6d59e8cfc9c2ad14b7a60e94e8c65b70e54bbe1f816077e307500d0fb0bbc",
@@ -144,417 +25,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:56.016Z"
-  },
-  {
-    "job_id": "ashby-ramp-6b9108d1-128d-4fd3-8465-fb514ea0e4c4",
-    "job_title": "Design Engineer, Design Systems",
-    "employer_name": "Ramp",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/ramp/6b9108d1-128d-4fd3-8465-fb514ea0e4c4/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:54.099Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "b87f97b548fa2b7aea933cf477aa33013a674e85ea7e560e185e4dcff8463787",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:54.099Z"
-  },
-  {
-    "job_id": "ashby-ramp-3d81a24f-cca4-4b2b-9478-cf422adc8237",
-    "job_title": "Design Engineer",
-    "employer_name": "Ramp",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/ramp/3d81a24f-cca4-4b2b-9478-cf422adc8237/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:54.099Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "82d8f2a7dad041f012abbf9d56c69429a2d406ed05a1ea35b58b4948c757401b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:54.099Z"
-  },
-  {
-    "job_id": "ashby-radiant-industries-c198ab42-b6ed-4f42-88c3-0f9f4f6ceaf5",
-    "job_title": "Mechanical Engineer - Turbomachinery",
-    "employer_name": "Radiant Industries",
-    "job_city": "El Segundo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/radiant-industries/c198ab42-b6ed-4f42-88c3-0f9f4f6ceaf5/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:53.845Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "1e111de02fe1f65fde3bb94ad4de871cd1ce2877316b635bd67496db8a639909",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:53.845Z"
-  },
-  {
-    "job_id": "ashby-radiant-industries-13d25280-e5c4-4401-a65d-c73859ade990",
-    "job_title": "Build Engineer, Turbomachinery",
-    "employer_name": "Radiant Industries",
-    "job_city": "El Segundo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/radiant-industries/13d25280-e5c4-4401-a65d-c73859ade990/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:53.845Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "7ce911560db624bfe5984ba12d965810ef4b4c147bd80d3ddbcc1a18fbabfe61",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:53.845Z"
-  },
-  {
-    "job_id": "ashby-pulse-ecc58086-0b32-4686-86ab-c8e30d619bed",
-    "job_title": "Design Engineer",
-    "employer_name": "Pulse",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/pulse/ecc58086-0b32-4686-86ab-c8e30d619bed/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:52.539Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "7ed399b5e524ce30dba4236dc7f01b54b2b49db1cba1a91b8b3f941fd124ed85",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:52.539Z"
-  },
-  {
-    "job_id": "ashby-openai-ad2cf782-15a4-48c7-9133-1788e3f33bbb",
-    "job_title": "Site Reliability Engineer, Frontier Systems Infrastructure",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/ad2cf782-15a4-48c7-9133-1788e3f33bbb/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:50.572Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "6dca7ad5f4b5002cb0549b5e18ea4e3b46deebc6e5207ddb6d96f18d07be8899",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:50.572Z"
-  },
-  {
-    "job_id": "ashby-openai-3a415c1d-4f66-4578-8eb3-8b15ef0ab52b",
-    "job_title": "Design Verification Engineer",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/3a415c1d-4f66-4578-8eb3-8b15ef0ab52b/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:50.572Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "b02d4d57804434f47c0e113690507b7f6040c06616f0bf0158cad19912a52047",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:50.572Z"
-  },
-  {
-    "job_id": "ashby-openai-582b878e-61bf-4be2-8b30-623434baf726",
-    "job_title": "Networking Operating System Firmware Engineer",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/582b878e-61bf-4be2-8b30-623434baf726/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:50.572Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "25ae26151efac9aee7b9e9ca3e5f2ea93ce89822605dea751960c419a64d2b08",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:50.572Z"
-  },
-  {
-    "job_id": "ashby-openai-5a265d2b-683f-4cea-9b69-8e137e704ab3",
-    "job_title": "Physical Design Engineer",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/5a265d2b-683f-4cea-9b69-8e137e704ab3/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:50.572Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "92cc4dc0ce4298932abd85e67d8a1da3957636c42901389a01cb01ebd63be178",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:50.572Z"
-  },
-  {
-    "job_id": "ashby-openai-31b998a9-f62a-439e-89e4-b51aea6311f7",
-    "job_title": "RTL & Codesign Engineer",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/31b998a9-f62a-439e-89e4-b51aea6311f7/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:50.572Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "881de7b4591199d28c420b3cccb03a4c0c24c716d229dc1d033df0b41e28561e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:50.572Z"
-  },
-  {
-    "job_id": "ashby-openai-1dc05fc7-ceb7-4827-a905-9d1beb77a4a0",
-    "job_title": "Camera Firmware Engineer, Consumer Devices",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/1dc05fc7-ceb7-4827-a905-9d1beb77a4a0/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:50.572Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "4745bbb2d984dc6128ff522956614215c02dd834a7081df43b432ab12d3e595c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:50.572Z"
-  },
-  {
-    "job_id": "ashby-openai-77b815de-b7c5-4b87-8582-e8c752aea849",
-    "job_title": "RTL & Co-design Engineer (junior)",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/77b815de-b7c5-4b87-8582-e8c752aea849/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:50.572Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "8db7fa9da237ebee5b6541f319aa69d272bf0c012ab8c661bfda73cc5d08528e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:50.572Z"
-  },
-  {
-    "job_id": "ashby-openai-cb9280db-df39-4c88-b411-5fdf149a6e52",
-    "job_title": "Product Manufacturing Engineer",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/cb9280db-df39-4c88-b411-5fdf149a6e52/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:50.571Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "7d9b4e23350f2c017f4bef30df6b6726396fa8f54affa82e34045eaaf0443860",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:50.571Z"
-  },
-  {
-    "job_id": "lever-tri-782ad423-a6a5-4807-89bf-cab539e69c3b",
-    "job_title": "Machine Learning Research Scientist - Robotics, Vision Language Action Foundation Models",
-    "employer_name": "Toyota Research Institute",
-    "job_city": "Los Altos",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/tri/782ad423-a6a5-4807-89bf-cab539e69c3b/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:49.134Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3162ee40d723364c92d925c59745fe32456e69a3caa115028f5e7f13374c9fa7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:49.134Z"
+    "job_posted_at": "2026-03-28T07:32:26.829Z"
   },
   {
     "job_id": "lever-tri-4cadccc5-8729-4ca9-91ab-d672d14694ac",
@@ -565,7 +36,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/tri/4cadccc5-8729-4ca9-91ab-d672d14694ac/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:49.133Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:32:05.813Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a5fc2e91b129a2c619ce9add900e064bcd188dd7c2fccb8efc9351a0860e1a3c",
@@ -584,7 +55,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:49.133Z"
+    "job_posted_at": "2026-03-28T07:32:05.813Z"
   },
   {
     "job_id": "lever-tri-e7ae7572-0cee-4c92-aaf1-ab9d3f8d692f",
@@ -595,7 +66,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/tri/e7ae7572-0cee-4c92-aaf1-ab9d3f8d692f/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:49.133Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:32:05.813Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5566ab6f17da3a00c90f1be301183034e5340da26cd5544e783b88f80a377328",
@@ -614,239 +85,37 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:49.133Z"
+    "job_posted_at": "2026-03-28T07:32:05.813Z"
   },
   {
-    "job_id": "ashby-northwoodspace-db35e4f0-291e-4a55-94a5-ea25a43172d3",
-    "job_title": "Mechanical Design Engineer",
-    "employer_name": "Northwood Space",
-    "job_city": "Torrance",
+    "job_id": "lever-tri-782ad423-a6a5-4807-89bf-cab539e69c3b",
+    "job_title": "Machine Learning Research Scientist - Robotics, Vision Language Action Foundation Models",
+    "employer_name": "Toyota Research Institute",
+    "job_city": "Los Altos",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/northwoodspace/db35e4f0-291e-4a55-94a5-ea25a43172d3/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:49.055Z",
-    "job_employment_type": "FullTime",
+    "job_apply_link": "https://jobs.lever.co/tri/782ad423-a6a5-4807-89bf-cab539e69c3b/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T07:32:05.813Z",
+    "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "0b593c417723be3b4d25f640bbad6d37f7363206563efedd1246370d5c4aa754",
+    "fingerprint": "3162ee40d723364c92d925c59745fe32456e69a3caa115028f5e7f13374c9fa7",
     "tags": {
       "employment": "entry_level",
       "domains": [
+        "ai",
+        "data_science",
         "hardware"
       ],
       "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:49.055Z"
-  },
-  {
-    "job_id": "ashby-northwoodspace-5d76a025-bb64-4ddd-8b97-8649c41d89ed",
-    "job_title": "RF Hardware Engineer (Early Career)",
-    "employer_name": "Northwood Space",
-    "job_city": "Torrance",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/northwoodspace/5d76a025-bb64-4ddd-8b97-8649c41d89ed/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:49.055Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "185edfaed918ef071fd1a7fded18972f745e35f944eb99f788749bcc9bf6bcaf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:49.055Z"
-  },
-  {
-    "job_id": "ashby-northwoodspace-af609880-1e6c-4f89-8594-3c593f6eba0f",
-    "job_title": "Electrical Engineer (Early Career)",
-    "employer_name": "Northwood Space",
-    "job_city": "Torrance",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/northwoodspace/af609880-1e6c-4f89-8594-3c593f6eba0f/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:49.055Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "2cd0aa7962c96566dba0d6a06e3423f7abc71866a2fed07513a0b847605070bb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:49.055Z"
-  },
-  {
-    "job_id": "ashby-northwoodspace-ac7e75bb-e6cb-4db5-9059-ea0a4f6b5440",
-    "job_title": "Manufacturing Engineer",
-    "employer_name": "Northwood Space",
-    "job_city": "Torrance",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/northwoodspace/ac7e75bb-e6cb-4db5-9059-ea0a4f6b5440/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:49.055Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "dedf1df0a1b155a72a832e502774991ea12b1e9e8e979e82daf373064acc0214",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:49.055Z"
-  },
-  {
-    "job_id": "ashby-northwoodspace-e153b809-8535-4d9d-b48c-c25acdeadae7",
-    "job_title": "Electronics Test Engineer (Early Career)",
-    "employer_name": "Northwood Space",
-    "job_city": "Torrance",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/northwoodspace/e153b809-8535-4d9d-b48c-c25acdeadae7/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:49.055Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "f15888f951571fcec17a7ac7f6d4afdc64f51330f28ec070a580e843149661a7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
+        "us"
       ],
       "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:49.055Z"
-  },
-  {
-    "job_id": "ashby-northwoodspace-10953bf0-b736-474a-be4c-dac556b81151",
-    "job_title": "Fleet Reliability Engineer",
-    "employer_name": "Northwood Space",
-    "job_city": "Torrance",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/northwoodspace/10953bf0-b736-474a-be4c-dac556b81151/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:49.055Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "7e498fa554130706a60aec7b77010ec45172edb1302600ca8a09425cbc384e49",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:49.055Z"
-  },
-  {
-    "job_id": "ashby-northwoodspace-b66a0bd5-846b-4858-8753-a6a8360248b9",
-    "job_title": "Fleet Reliability Engineer (Early Career)",
-    "employer_name": "Northwood Space",
-    "job_city": "Torrance",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/northwoodspace/b66a0bd5-846b-4858-8753-a6a8360248b9/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:49.055Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "d494ded92308ce8b09470eceb48ebd0042f8635d881f49ca35bdca7ab57a5355",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:49.055Z"
-  },
-  {
-    "job_id": "ashby-northwoodspace-965d06ea-9701-4b28-a87c-e44897136691",
-    "job_title": "DSP Engineer (Early Career)",
-    "employer_name": "Northwood Space",
-    "job_city": "Torrance",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/northwoodspace/965d06ea-9701-4b28-a87c-e44897136691/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:49.055Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "e45dde5835d1e8bf8337446f7f8dcf76290bc231f18d5f1bed7a54c23e7ca69c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:49.055Z"
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T07:32:05.813Z"
   },
   {
     "job_id": "lever-multiplylabs-70166cf4-e1dc-484d-9af3-787b1bc9a502",
@@ -857,7 +126,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/multiplylabs/70166cf4-e1dc-484d-9af3-787b1bc9a502/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:48.536Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:58.273Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 110000,
@@ -879,7 +148,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:48.536Z"
+    "job_posted_at": "2026-03-28T07:31:58.273Z"
   },
   {
     "job_id": "lever-multiplylabs-bc14e69c-f030-461c-9853-8305f4af203a",
@@ -890,7 +159,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/multiplylabs/bc14e69c-f030-461c-9853-8305f4af203a/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:48.536Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:58.273Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 125000,
@@ -912,7 +181,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:48.536Z"
+    "job_posted_at": "2026-03-28T07:31:58.273Z"
   },
   {
     "job_id": "lever-multiplylabs-3f3872d3-a781-42b9-9b37-62e4470e7f3c",
@@ -923,7 +192,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/multiplylabs/3f3872d3-a781-42b9-9b37-62e4470e7f3c/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:48.536Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:58.273Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 90000,
@@ -945,7 +214,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:48.536Z"
+    "job_posted_at": "2026-03-28T07:31:58.273Z"
   },
   {
     "job_id": "lever-multiplylabs-c9fe817b-745a-4c68-a157-1b2afdc09f9a",
@@ -956,7 +225,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/multiplylabs/c9fe817b-745a-4c68-a157-1b2afdc09f9a/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:48.536Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:58.273Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 90000,
@@ -978,21 +247,21 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:48.536Z"
+    "job_posted_at": "2026-03-28T07:31:58.273Z"
   },
   {
-    "job_id": "ashby-metalenz-6acea5e7-783e-4a3c-b7dd-8963d8bc4a1e",
-    "job_title": "Metasurface Design Engineer",
-    "employer_name": "Metalenz",
-    "job_city": "Boston",
-    "job_state": "MA",
+    "job_id": "ashby-snowflake-0fd8cb45-cc23-4632-ae02-32471f45bbc0",
+    "job_title": "Software Application Engineer - Migrations",
+    "employer_name": "Snowflake",
+    "job_city": "CR-San Jose",
+    "job_state": "",
     "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/metalenz/6acea5e7-783e-4a3c-b7dd-8963d8bc4a1e/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:48.047Z",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/0fd8cb45-cc23-4632-ae02-32471f45bbc0/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:41.180Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "b0abde6909733c9f38466826b1a9f5c42975c25cf96fa38e053518a7bd309902",
+    "fingerprint": "7666304f9f54951e9f4b1a55169b06e9eef71be8f7e6d5c4ef3fa7a13c498cdc",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1000,17 +269,249 @@
       ],
       "locations": [
         "us",
-        "remote",
-        "hybrid"
+        "on_site"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": [
-        "faang"
+        "unicorn"
       ]
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:48.047Z"
+    "job_posted_at": "2026-03-28T07:31:41.180Z"
+  },
+  {
+    "job_id": "ashby-supabase-62eff9da-6c38-42e0-84cc-e82392415b52",
+    "job_title": "Data Platform Reliability Engineer - Postgres",
+    "employer_name": "Supabase",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/supabase/62eff9da-6c38-42e0-84cc-e82392415b52/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:41.124Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "13adf23d2f597a206c19d05d03f61714fbe5798d51db8e259b6ef13f32febf9a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:41.124Z"
+  },
+  {
+    "job_id": "ashby-replit-f6e6158e-eb89-4008-81ea-1b7512bc509d",
+    "job_title": "Site Reliability Engineer",
+    "employer_name": "Replit",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/replit/f6e6158e-eb89-4008-81ea-1b7512bc509d/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:40.438Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "605b0bf39972399bb826bba6088db29dddd8c26273d1b6412bd1dae46bc6c5b6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:40.438Z"
+  },
+  {
+    "job_id": "ashby-rilla-29fbbb85-ed6c-4458-b076-8d20ae8210a4",
+    "job_title": "Brand/Graphic Designer",
+    "employer_name": "Rilla",
+    "job_city": "New York City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/rilla/29fbbb85-ed6c-4458-b076-8d20ae8210a4/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:40.130Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "e810923fda378dd7592f92acb7ffc61a10f77644d40019e5cbbdda10eea21dcd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:40.130Z"
+  },
+  {
+    "job_id": "lever-waabi-c45156f5-792e-459e-a312-435e66728733",
+    "job_title": "Systems Test Engineer - Platform Verification",
+    "employer_name": "Waabi",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/waabi/c45156f5-792e-459e-a312-435e66728733/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:38.131Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f9911629bfffc158462f1d353a630f957252b949134756fcdeb9008ec34ac13f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T07:31:38.131Z"
+  },
+  {
+    "job_id": "ashby-ramp-6b9108d1-128d-4fd3-8465-fb514ea0e4c4",
+    "job_title": "Design Engineer, Design Systems",
+    "employer_name": "Ramp",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/ramp/6b9108d1-128d-4fd3-8465-fb514ea0e4c4/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:37.799Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "b87f97b548fa2b7aea933cf477aa33013a674e85ea7e560e185e4dcff8463787",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:37.799Z"
+  },
+  {
+    "job_id": "ashby-ramp-3d81a24f-cca4-4b2b-9478-cf422adc8237",
+    "job_title": "Design Engineer",
+    "employer_name": "Ramp",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/ramp/3d81a24f-cca4-4b2b-9478-cf422adc8237/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:37.799Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "82d8f2a7dad041f012abbf9d56c69429a2d406ed05a1ea35b58b4948c757401b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:37.799Z"
+  },
+  {
+    "job_id": "ashby-radiant-industries-c198ab42-b6ed-4f42-88c3-0f9f4f6ceaf5",
+    "job_title": "Mechanical Engineer - Turbomachinery",
+    "employer_name": "Radiant Industries",
+    "job_city": "El Segundo",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/radiant-industries/c198ab42-b6ed-4f42-88c3-0f9f4f6ceaf5/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:37.592Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "1e111de02fe1f65fde3bb94ad4de871cd1ce2877316b635bd67496db8a639909",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:37.592Z"
+  },
+  {
+    "job_id": "ashby-radiant-industries-13d25280-e5c4-4401-a65d-c73859ade990",
+    "job_title": "Build Engineer, Turbomachinery",
+    "employer_name": "Radiant Industries",
+    "job_city": "El Segundo",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/radiant-industries/13d25280-e5c4-4401-a65d-c73859ade990/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:37.592Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "7ce911560db624bfe5984ba12d965810ef4b4c147bd80d3ddbcc1a18fbabfe61",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:37.592Z"
   },
   {
     "job_id": "lever-zoox-ec1de483-ebd5-4b87-96b7-d749f077aefb",
@@ -1021,7 +522,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/zoox/ec1de483-ebd5-4b87-96b7-d749f077aefb/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:47.336Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:36.574Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 150000,
@@ -1043,7 +544,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:47.336Z"
+    "job_posted_at": "2026-03-28T07:31:36.574Z"
   },
   {
     "job_id": "lever-zoox-60de3179-3ebf-48d1-8cf0-f3ce6722db52",
@@ -1054,7 +555,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/zoox/60de3179-3ebf-48d1-8cf0-f3ce6722db52/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:47.336Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:36.574Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 174000,
@@ -1076,7 +577,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:47.336Z"
+    "job_posted_at": "2026-03-28T07:31:36.574Z"
   },
   {
     "job_id": "lever-zoox-63829003-24ba-4169-96a6-a3349b68bf17",
@@ -1087,7 +588,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/zoox/63829003-24ba-4169-96a6-a3349b68bf17/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:47.335Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:36.573Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 164000,
@@ -1109,7 +610,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:47.335Z"
+    "job_posted_at": "2026-03-28T07:31:36.573Z"
   },
   {
     "job_id": "lever-zoox-31c14ea2-3273-4784-9d37-006f19f84781",
@@ -1120,7 +621,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/zoox/31c14ea2-3273-4784-9d37-006f19f84781/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:47.335Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:36.573Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 165000,
@@ -1143,7 +644,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:47.335Z"
+    "job_posted_at": "2026-03-28T07:31:36.573Z"
   },
   {
     "job_id": "lever-zoox-4b00bf61-6547-4c50-be83-5d659176090b",
@@ -1154,7 +655,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/zoox/4b00bf61-6547-4c50-be83-5d659176090b/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:47.335Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:36.573Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 155000,
@@ -1176,36 +677,36 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:47.335Z"
+    "job_posted_at": "2026-03-28T07:31:36.573Z"
   },
   {
-    "job_id": "lever-waabi-c45156f5-792e-459e-a312-435e66728733",
-    "job_title": "Systems Test Engineer - Platform Verification",
-    "employer_name": "Waabi",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
+    "job_id": "ashby-pulse-ecc58086-0b32-4686-86ab-c8e30d619bed",
+    "job_title": "Design Engineer",
+    "employer_name": "Pulse",
+    "job_city": "San Francisco",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/waabi/c45156f5-792e-459e-a312-435e66728733/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:47.006Z",
-    "job_employment_type": "FULLTIME",
+    "job_apply_link": "https://jobs.ashbyhq.com/pulse/ecc58086-0b32-4686-86ab-c8e30d619bed/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:36.184Z",
+    "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "f9911629bfffc158462f1d353a630f957252b949134756fcdeb9008ec34ac13f",
+    "fingerprint": "7ed399b5e524ce30dba4236dc7f01b54b2b49db1cba1a91b8b3f941fd124ed85",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "data_science",
         "hardware"
       ],
       "locations": [
-        "us"
+        "us",
+        "on_site"
       ],
       "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:47.006Z"
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:36.184Z"
   },
   {
     "job_id": "lever-weride-82955de9-485d-4db0-8fd9-1c018489fc8d",
@@ -1216,7 +717,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/weride/82955de9-485d-4db0-8fd9-1c018489fc8d/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:46.318Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:35.409Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 90000,
@@ -1238,195 +739,80 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:46.318Z"
+    "job_posted_at": "2026-03-28T07:31:35.409Z"
   },
   {
-    "job_id": "ashby-handshake-7e7702f6-750e-44e1-8f12-caf26fcc85f4",
-    "job_title": "Electrical Design Engineer - AI Trainer",
-    "employer_name": "Handshake",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/handshake/7e7702f6-750e-44e1-8f12-caf26fcc85f4/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:45.568Z",
-    "job_employment_type": "Contract",
-    "salary": null,
-    "fingerprint": "71e3f1ce4fb9a7aa297680042559f762756013f5a7367cac1c5f63c6dfc14381",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:45.568Z"
-  },
-  {
-    "job_id": "ashby-handshake-1c09f77c-f51f-43b2-913a-dc58d3aa68d8",
-    "job_title": "Graphic Designer - AI Trainer",
-    "employer_name": "Handshake",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/handshake/1c09f77c-f51f-43b2-913a-dc58d3aa68d8/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:45.567Z",
-    "job_employment_type": "Contract",
-    "salary": null,
-    "fingerprint": "a2f086c41b9e0247cc3d1207357fd646d70d6ad1d9040e4a2ebf8bd7d620c5e2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:45.567Z"
-  },
-  {
-    "job_id": "ashby-handshake-a2005298-96da-46f6-8809-231008720bd9",
-    "job_title": "Hardware Engineer - AI Trainer",
-    "employer_name": "Handshake",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/handshake/a2005298-96da-46f6-8809-231008720bd9/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:45.567Z",
-    "job_employment_type": "Contract",
-    "salary": null,
-    "fingerprint": "0d5cd493439b8af42a69d4f945c969fd70551abe059b1e3f09a48ebf307ed289",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:45.567Z"
-  },
-  {
-    "job_id": "ashby-handshake-c966fa72-d8c8-40ec-8688-4772ea56f0dd",
-    "job_title": "Mechanical Engineer - AI Trainer",
-    "employer_name": "Handshake",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/handshake/c966fa72-d8c8-40ec-8688-4772ea56f0dd/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:45.567Z",
-    "job_employment_type": "Contract",
-    "salary": null,
-    "fingerprint": "984d22e167ce0ca3e956fac8c42ec1ff41571d27aca17606a4b975fc688af5ee",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:45.567Z"
-  },
-  {
-    "job_id": "ashby-handshake-b416cb5d-661a-4793-8d5b-071e6ca4475b",
-    "job_title": "Structural Engineer - AI Trainer",
-    "employer_name": "Handshake",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/handshake/b416cb5d-661a-4793-8d5b-071e6ca4475b/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:45.567Z",
-    "job_employment_type": "Contract",
-    "salary": null,
-    "fingerprint": "baa285c1e524c49d3296691f1fcdc5c7399d8d73de0630694d5dccd641144e67",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:45.567Z"
-  },
-  {
-    "job_id": "ashby-handshake-385dcfca-d3c2-4638-bc4f-de7108ca1a17",
-    "job_title": "Analog Engineer - AI Trainer",
-    "employer_name": "Handshake",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/handshake/385dcfca-d3c2-4638-bc4f-de7108ca1a17/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:45.567Z",
-    "job_employment_type": "Contract",
-    "salary": null,
-    "fingerprint": "9ac1e4abedb0ce0f974382e8a376490a739aea6f4e31389303c347d88f94af10",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:45.567Z"
-  },
-  {
-    "job_id": "ashby-etched-7aeafe31-c2c6-43e0-bb31-01868dcfad39",
-    "job_title": "Design Verification Engineer - Internal IP",
-    "employer_name": "Etched",
-    "job_city": "San Jose",
+    "job_id": "ashby-openai-5a265d2b-683f-4cea-9b69-8e137e704ab3",
+    "job_title": "Physical Design Engineer",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/etched/7aeafe31-c2c6-43e0-bb31-01868dcfad39/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:42.103Z",
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/5a265d2b-683f-4cea-9b69-8e137e704ab3/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.982Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "dde08d0577cd8546e2e3a8bc4daf567016b383035e76ec97efadc84b6d39d4d7",
+    "fingerprint": "92cc4dc0ce4298932abd85e67d8a1da3957636c42901389a01cb01ebd63be178",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:34.982Z"
+  },
+  {
+    "job_id": "ashby-openai-31b998a9-f62a-439e-89e4-b51aea6311f7",
+    "job_title": "RTL & Codesign Engineer",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/31b998a9-f62a-439e-89e4-b51aea6311f7/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.982Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "881de7b4591199d28c420b3cccb03a4c0c24c716d229dc1d033df0b41e28561e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:34.982Z"
+  },
+  {
+    "job_id": "ashby-openai-1dc05fc7-ceb7-4827-a905-9d1beb77a4a0",
+    "job_title": "Camera Firmware Engineer, Consumer Devices",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/1dc05fc7-ceb7-4827-a905-9d1beb77a4a0/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.982Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "4745bbb2d984dc6128ff522956614215c02dd834a7081df43b432ab12d3e595c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1441,21 +827,51 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:42.103Z"
+    "job_posted_at": "2026-03-28T07:31:34.982Z"
   },
   {
-    "job_id": "ashby-etched-3b2b0704-c8fd-446e-90c3-af9de880cb28",
-    "job_title": "MTS - Firmware",
-    "employer_name": "Etched",
-    "job_city": "San Jose",
+    "job_id": "ashby-openai-77b815de-b7c5-4b87-8582-e8c752aea849",
+    "job_title": "RTL & Co-design Engineer (junior)",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/etched/3b2b0704-c8fd-446e-90c3-af9de880cb28/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:42.103Z",
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/77b815de-b7c5-4b87-8582-e8c752aea849/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.982Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "6a00d915d79eb8222ebccfba20dac31e1693e552e95a92f69f10df8a8fb51735",
+    "fingerprint": "8db7fa9da237ebee5b6541f319aa69d272bf0c012ab8c661bfda73cc5d08528e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:34.982Z"
+  },
+  {
+    "job_id": "ashby-openai-cb9280db-df39-4c88-b411-5fdf149a6e52",
+    "job_title": "Product Manufacturing Engineer",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/cb9280db-df39-4c88-b411-5fdf149a6e52/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.981Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "7d9b4e23350f2c017f4bef30df6b6726396fa8f54affa82e34045eaaf0443860",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1470,21 +886,80 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:42.103Z"
+    "job_posted_at": "2026-03-28T07:31:34.981Z"
   },
   {
-    "job_id": "ashby-etched-a99318bd-b433-44b7-9600-2ee9533c90a1",
-    "job_title": "Design Verification Engineer - SoC",
-    "employer_name": "Etched",
-    "job_city": "San Jose",
+    "job_id": "ashby-openai-ad2cf782-15a4-48c7-9133-1788e3f33bbb",
+    "job_title": "Site Reliability Engineer, Frontier Systems Infrastructure",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/etched/a99318bd-b433-44b7-9600-2ee9533c90a1/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:42.103Z",
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/ad2cf782-15a4-48c7-9133-1788e3f33bbb/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.981Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "6df1d50329271212ee4b44fbedc3ceed295ab1ec60593de30a1ef3191a4f23b1",
+    "fingerprint": "6dca7ad5f4b5002cb0549b5e18ea4e3b46deebc6e5207ddb6d96f18d07be8899",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:34.981Z"
+  },
+  {
+    "job_id": "ashby-openai-3a415c1d-4f66-4578-8eb3-8b15ef0ab52b",
+    "job_title": "Design Verification Engineer",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/3a415c1d-4f66-4578-8eb3-8b15ef0ab52b/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.981Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "b02d4d57804434f47c0e113690507b7f6040c06616f0bf0158cad19912a52047",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:34.981Z"
+  },
+  {
+    "job_id": "ashby-openai-582b878e-61bf-4be2-8b30-623434baf726",
+    "job_title": "Networking Operating System Firmware Engineer",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/582b878e-61bf-4be2-8b30-623434baf726/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.981Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "25ae26151efac9aee7b9e9ca3e5f2ea93ce89822605dea751960c419a64d2b08",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1499,7 +974,239 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:42.103Z"
+    "job_posted_at": "2026-03-28T07:31:34.981Z"
+  },
+  {
+    "job_id": "ashby-northwoodspace-e153b809-8535-4d9d-b48c-c25acdeadae7",
+    "job_title": "Electronics Test Engineer (Early Career)",
+    "employer_name": "Northwood Space",
+    "job_city": "Torrance",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/northwoodspace/e153b809-8535-4d9d-b48c-c25acdeadae7/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.790Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "f15888f951571fcec17a7ac7f6d4afdc64f51330f28ec070a580e843149661a7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:34.790Z"
+  },
+  {
+    "job_id": "ashby-northwoodspace-10953bf0-b736-474a-be4c-dac556b81151",
+    "job_title": "Fleet Reliability Engineer",
+    "employer_name": "Northwood Space",
+    "job_city": "Torrance",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/northwoodspace/10953bf0-b736-474a-be4c-dac556b81151/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.790Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "7e498fa554130706a60aec7b77010ec45172edb1302600ca8a09425cbc384e49",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:34.790Z"
+  },
+  {
+    "job_id": "ashby-northwoodspace-b66a0bd5-846b-4858-8753-a6a8360248b9",
+    "job_title": "Fleet Reliability Engineer (Early Career)",
+    "employer_name": "Northwood Space",
+    "job_city": "Torrance",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/northwoodspace/b66a0bd5-846b-4858-8753-a6a8360248b9/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.790Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "d494ded92308ce8b09470eceb48ebd0042f8635d881f49ca35bdca7ab57a5355",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:34.790Z"
+  },
+  {
+    "job_id": "ashby-northwoodspace-965d06ea-9701-4b28-a87c-e44897136691",
+    "job_title": "DSP Engineer (Early Career)",
+    "employer_name": "Northwood Space",
+    "job_city": "Torrance",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/northwoodspace/965d06ea-9701-4b28-a87c-e44897136691/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.790Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "e45dde5835d1e8bf8337446f7f8dcf76290bc231f18d5f1bed7a54c23e7ca69c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:34.790Z"
+  },
+  {
+    "job_id": "ashby-northwoodspace-db35e4f0-291e-4a55-94a5-ea25a43172d3",
+    "job_title": "Mechanical Design Engineer",
+    "employer_name": "Northwood Space",
+    "job_city": "Torrance",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/northwoodspace/db35e4f0-291e-4a55-94a5-ea25a43172d3/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.789Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "0b593c417723be3b4d25f640bbad6d37f7363206563efedd1246370d5c4aa754",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:34.789Z"
+  },
+  {
+    "job_id": "ashby-northwoodspace-5d76a025-bb64-4ddd-8b97-8649c41d89ed",
+    "job_title": "RF Hardware Engineer (Early Career)",
+    "employer_name": "Northwood Space",
+    "job_city": "Torrance",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/northwoodspace/5d76a025-bb64-4ddd-8b97-8649c41d89ed/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.789Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "185edfaed918ef071fd1a7fded18972f745e35f944eb99f788749bcc9bf6bcaf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:34.789Z"
+  },
+  {
+    "job_id": "ashby-northwoodspace-af609880-1e6c-4f89-8594-3c593f6eba0f",
+    "job_title": "Electrical Engineer (Early Career)",
+    "employer_name": "Northwood Space",
+    "job_city": "Torrance",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/northwoodspace/af609880-1e6c-4f89-8594-3c593f6eba0f/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.789Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "2cd0aa7962c96566dba0d6a06e3423f7abc71866a2fed07513a0b847605070bb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:34.789Z"
+  },
+  {
+    "job_id": "ashby-northwoodspace-ac7e75bb-e6cb-4db5-9059-ea0a4f6b5440",
+    "job_title": "Manufacturing Engineer",
+    "employer_name": "Northwood Space",
+    "job_city": "Torrance",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/northwoodspace/ac7e75bb-e6cb-4db5-9059-ea0a4f6b5440/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.789Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "dedf1df0a1b155a72a832e502774991ea12b1e9e8e979e82daf373064acc0214",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:34.789Z"
   },
   {
     "job_id": "lever-shieldai-cf0f2076-a481-4b1a-8a37-39979abb98e6",
@@ -1510,7 +1217,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/shieldai/cf0f2076-a481-4b1a-8a37-39979abb98e6/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:41.607Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.091Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 149565,
@@ -1532,7 +1239,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:41.607Z"
+    "job_posted_at": "2026-03-28T07:31:34.091Z"
   },
   {
     "job_id": "lever-shieldai-0af53b2b-e1ba-4e73-9e94-a4a689cabab9",
@@ -1543,7 +1250,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/shieldai/0af53b2b-e1ba-4e73-9e94-a4a689cabab9/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:41.606Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.090Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 81456,
@@ -1565,7 +1272,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:41.606Z"
+    "job_posted_at": "2026-03-28T07:31:34.090Z"
   },
   {
     "job_id": "lever-shieldai-37fa20c1-57dc-4aa1-9515-ecc87f22f31b",
@@ -1576,7 +1283,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/shieldai/37fa20c1-57dc-4aa1-9515-ecc87f22f31b/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:41.606Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.090Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 81456,
@@ -1598,7 +1305,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:41.606Z"
+    "job_posted_at": "2026-03-28T07:31:34.090Z"
   },
   {
     "job_id": "lever-shieldai-1b229cdc-9a0b-4704-b39b-b3b4c6e3fa89",
@@ -1609,7 +1316,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/shieldai/1b229cdc-9a0b-4704-b39b-b3b4c6e3fa89/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:41.606Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.090Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 81456,
@@ -1631,7 +1338,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:41.606Z"
+    "job_posted_at": "2026-03-28T07:31:34.090Z"
   },
   {
     "job_id": "lever-shieldai-c9321f8a-b367-4dcb-9308-bd64ae6bac1d",
@@ -1642,7 +1349,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/shieldai/c9321f8a-b367-4dcb-9308-bd64ae6bac1d/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:41.606Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.090Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 81456,
@@ -1664,7 +1371,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:41.606Z"
+    "job_posted_at": "2026-03-28T07:31:34.090Z"
   },
   {
     "job_id": "lever-shieldai-c7759763-15c1-447c-b9d9-6ebce48a6f69",
@@ -1675,7 +1382,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/shieldai/c7759763-15c1-447c-b9d9-6ebce48a6f69/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:41.606Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:34.090Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 81456,
@@ -1697,21 +1404,21 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:41.606Z"
+    "job_posted_at": "2026-03-28T07:31:34.090Z"
   },
   {
-    "job_id": "ashby-crusoe-8747a8c1-7004-4053-87b7-951a13d3fcb5",
-    "job_title": "Electrical Engineer",
-    "employer_name": "Crusoe",
-    "job_city": "Arvada",
-    "job_state": "CO",
+    "job_id": "ashby-metalenz-6acea5e7-783e-4a3c-b7dd-8963d8bc4a1e",
+    "job_title": "Metasurface Design Engineer",
+    "employer_name": "Metalenz",
+    "job_city": "Boston",
+    "job_state": "MA",
     "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/8747a8c1-7004-4053-87b7-951a13d3fcb5/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:39.687Z",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/metalenz/6acea5e7-783e-4a3c-b7dd-8963d8bc4a1e/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:33.825Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "5b8bd2a301e23c820c7d7432d57af829e46cb5adb28f06a576d78bee90eca908",
+    "fingerprint": "b0abde6909733c9f38466826b1a9f5c42975c25cf96fa38e053518a7bd309902",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1719,72 +1426,191 @@
       ],
       "locations": [
         "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:39.687Z"
-  },
-  {
-    "job_id": "ashby-crusoe-028b064e-2044-406d-bc90-2ab9bee731bd",
-    "job_title": "Mechanical Engineer",
-    "employer_name": "Crusoe",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/028b064e-2044-406d-bc90-2ab9bee731bd/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:39.687Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "55d332bf4198cdff9b6f4fa4c8ffd5b606243fd8c7b841134d7ee02350ca67fa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:39.687Z"
-  },
-  {
-    "job_id": "ashby-crusoe-c2b1a4bb-8942-4d56-afe0-9ec31a364f73",
-    "job_title": "Commissioning Engineer, Electrical",
-    "employer_name": "Crusoe",
-    "job_city": "Amarillo",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/c2b1a4bb-8942-4d56-afe0-9ec31a364f73/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:39.687Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "3daa739ed714c32bdf7f4839b2d2332b3fdd023e3c73fc252aa4b1575c2962b0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
+        "remote",
+        "hybrid"
       ],
       "experience": "unknown",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:33.825Z"
+  },
+  {
+    "job_id": "ashby-handshake-1c09f77c-f51f-43b2-913a-dc58d3aa68d8",
+    "job_title": "Graphic Designer - AI Trainer",
+    "employer_name": "Handshake",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/handshake/1c09f77c-f51f-43b2-913a-dc58d3aa68d8/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:31.730Z",
+    "job_employment_type": "Contract",
+    "salary": null,
+    "fingerprint": "a2f086c41b9e0247cc3d1207357fd646d70d6ad1d9040e4a2ebf8bd7d620c5e2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:39.687Z"
+    "job_posted_at": "2026-03-28T07:31:31.730Z"
+  },
+  {
+    "job_id": "ashby-handshake-a2005298-96da-46f6-8809-231008720bd9",
+    "job_title": "Hardware Engineer - AI Trainer",
+    "employer_name": "Handshake",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/handshake/a2005298-96da-46f6-8809-231008720bd9/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:31.730Z",
+    "job_employment_type": "Contract",
+    "salary": null,
+    "fingerprint": "0d5cd493439b8af42a69d4f945c969fd70551abe059b1e3f09a48ebf307ed289",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:31.730Z"
+  },
+  {
+    "job_id": "ashby-handshake-c966fa72-d8c8-40ec-8688-4772ea56f0dd",
+    "job_title": "Mechanical Engineer - AI Trainer",
+    "employer_name": "Handshake",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/handshake/c966fa72-d8c8-40ec-8688-4772ea56f0dd/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:31.730Z",
+    "job_employment_type": "Contract",
+    "salary": null,
+    "fingerprint": "984d22e167ce0ca3e956fac8c42ec1ff41571d27aca17606a4b975fc688af5ee",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:31.730Z"
+  },
+  {
+    "job_id": "ashby-handshake-b416cb5d-661a-4793-8d5b-071e6ca4475b",
+    "job_title": "Structural Engineer - AI Trainer",
+    "employer_name": "Handshake",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/handshake/b416cb5d-661a-4793-8d5b-071e6ca4475b/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:31.730Z",
+    "job_employment_type": "Contract",
+    "salary": null,
+    "fingerprint": "baa285c1e524c49d3296691f1fcdc5c7399d8d73de0630694d5dccd641144e67",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:31.730Z"
+  },
+  {
+    "job_id": "ashby-handshake-385dcfca-d3c2-4638-bc4f-de7108ca1a17",
+    "job_title": "Analog Engineer - AI Trainer",
+    "employer_name": "Handshake",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/handshake/385dcfca-d3c2-4638-bc4f-de7108ca1a17/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:31.730Z",
+    "job_employment_type": "Contract",
+    "salary": null,
+    "fingerprint": "9ac1e4abedb0ce0f974382e8a376490a739aea6f4e31389303c347d88f94af10",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:31.730Z"
+  },
+  {
+    "job_id": "ashby-handshake-7e7702f6-750e-44e1-8f12-caf26fcc85f4",
+    "job_title": "Electrical Design Engineer - AI Trainer",
+    "employer_name": "Handshake",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/handshake/7e7702f6-750e-44e1-8f12-caf26fcc85f4/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:31.730Z",
+    "job_employment_type": "Contract",
+    "salary": null,
+    "fingerprint": "71e3f1ce4fb9a7aa297680042559f762756013f5a7367cac1c5f63c6dfc14381",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:31.730Z"
   },
   {
     "job_id": "lever-ranger-38ef5184-0c8a-4980-836f-95e23e83ae7d",
@@ -1795,7 +1621,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/ranger/38ef5184-0c8a-4980-836f-95e23e83ae7d/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:38.730Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:30.604Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 80000,
@@ -1817,7 +1643,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:38.730Z"
+    "job_posted_at": "2026-03-28T07:31:30.604Z"
   },
   {
     "job_id": "lever-ranger-72f5d287-1f1d-4a9b-af35-65e6e19c1301",
@@ -1828,7 +1654,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/ranger/72f5d287-1f1d-4a9b-af35-65e6e19c1301/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:38.730Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:30.604Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 30,
@@ -1850,66 +1676,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:38.730Z"
-  },
-  {
-    "job_id": "ashby-dandy-13b34dc4-9f7e-4422-b8b7-7169b65509be",
-    "job_title": "Advanced Manufacturing Engineer",
-    "employer_name": "Dandy",
-    "job_city": "USA - Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/dandy/13b34dc4-9f7e-4422-b8b7-7169b65509be/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:37.181Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "e66074e73645acf9c1e8f2b11250bcacbe8dc3eb82d7644ea58e41ef91904aca",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:37.181Z"
-  },
-  {
-    "job_id": "ashby-dandy-329a0585-01b4-4c6b-bbb5-cd9c28fd29a8",
-    "job_title": "Advanced Manufacturing Engineer - Assembly",
-    "employer_name": "Dandy",
-    "job_city": "USA - Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/dandy/329a0585-01b4-4c6b-bbb5-cd9c28fd29a8/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:37.181Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "8ae0a8312bbb77f5e58e66f9892a999a928a0213e0c2bafdb39a9e2d55d9e72c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:37.181Z"
+    "job_posted_at": "2026-03-28T07:31:30.604Z"
   },
   {
     "job_id": "lever-lumafield-cfbbe063-85a1-4e9e-9a9d-18062aca6760",
@@ -1920,7 +1687,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/lumafield/cfbbe063-85a1-4e9e-9a9d-18062aca6760/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:36.385Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:28.628Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 80000,
@@ -1942,7 +1709,181 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:36.385Z"
+    "job_posted_at": "2026-03-28T07:31:28.628Z"
+  },
+  {
+    "job_id": "ashby-etched-7aeafe31-c2c6-43e0-bb31-01868dcfad39",
+    "job_title": "Design Verification Engineer - Internal IP",
+    "employer_name": "Etched",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/etched/7aeafe31-c2c6-43e0-bb31-01868dcfad39/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:26.184Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "dde08d0577cd8546e2e3a8bc4daf567016b383035e76ec97efadc84b6d39d4d7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:26.184Z"
+  },
+  {
+    "job_id": "ashby-etched-3b2b0704-c8fd-446e-90c3-af9de880cb28",
+    "job_title": "MTS - Firmware",
+    "employer_name": "Etched",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/etched/3b2b0704-c8fd-446e-90c3-af9de880cb28/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:26.184Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "6a00d915d79eb8222ebccfba20dac31e1693e552e95a92f69f10df8a8fb51735",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:26.184Z"
+  },
+  {
+    "job_id": "ashby-etched-a99318bd-b433-44b7-9600-2ee9533c90a1",
+    "job_title": "Design Verification Engineer - SoC",
+    "employer_name": "Etched",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/etched/a99318bd-b433-44b7-9600-2ee9533c90a1/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:26.184Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "6df1d50329271212ee4b44fbedc3ceed295ab1ec60593de30a1ef3191a4f23b1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:26.184Z"
+  },
+  {
+    "job_id": "ashby-crusoe-c2b1a4bb-8942-4d56-afe0-9ec31a364f73",
+    "job_title": "Commissioning Engineer, Electrical",
+    "employer_name": "Crusoe",
+    "job_city": "Amarillo",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/c2b1a4bb-8942-4d56-afe0-9ec31a364f73/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.988Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "3daa739ed714c32bdf7f4839b2d2332b3fdd023e3c73fc252aa4b1575c2962b0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:25.988Z"
+  },
+  {
+    "job_id": "ashby-crusoe-8747a8c1-7004-4053-87b7-951a13d3fcb5",
+    "job_title": "Electrical Engineer",
+    "employer_name": "Crusoe",
+    "job_city": "Arvada",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/8747a8c1-7004-4053-87b7-951a13d3fcb5/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.987Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "5b8bd2a301e23c820c7d7432d57af829e46cb5adb28f06a576d78bee90eca908",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:25.987Z"
+  },
+  {
+    "job_id": "ashby-crusoe-028b064e-2044-406d-bc90-2ab9bee731bd",
+    "job_title": "Mechanical Engineer",
+    "employer_name": "Crusoe",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/028b064e-2044-406d-bc90-2ab9bee731bd/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.987Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "55d332bf4198cdff9b6f4fa4c8ffd5b606243fd8c7b841134d7ee02350ca67fa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:25.987Z"
   },
   {
     "job_id": "lever-hermeus-1fc2f0fb-9961-49d2-93ab-59adc2a0ab9d",
@@ -1953,7 +1894,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/1fc2f0fb-9961-49d2-93ab-59adc2a0ab9d/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 91800,
@@ -1975,7 +1916,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-9ad6f012-cabb-439f-bd6c-fe967a278bed",
@@ -1986,7 +1927,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/9ad6f012-cabb-439f-bd6c-fe967a278bed/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 91800,
@@ -2008,7 +1949,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-5c38e554-b442-43ec-9e4e-122ec9e9b6bb",
@@ -2019,7 +1960,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/5c38e554-b442-43ec-9e4e-122ec9e9b6bb/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 128250,
@@ -2041,7 +1982,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-6a817380-3349-41ee-bcc7-6bca6c63648d",
@@ -2052,7 +1993,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/6a817380-3349-41ee-bcc7-6bca6c63648d/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 110000,
@@ -2074,7 +2015,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-7c5d348b-3b3f-4fc8-b9d1-0593fdd2f260",
@@ -2085,7 +2026,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/7c5d348b-3b3f-4fc8-b9d1-0593fdd2f260/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 90000,
@@ -2107,7 +2048,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-88bde014-bbf2-40d6-8c96-bada99d709c9",
@@ -2118,7 +2059,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/88bde014-bbf2-40d6-8c96-bada99d709c9/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 105750,
@@ -2140,7 +2081,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-202fb9e1-6ad6-4d91-bb72-3ef0e0463b5b",
@@ -2151,7 +2092,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/202fb9e1-6ad6-4d91-bb72-3ef0e0463b5b/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 85000,
@@ -2173,7 +2114,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-e7dfc67f-53cf-4ae1-a4d3-9695ab6b33a5",
@@ -2184,7 +2125,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/e7dfc67f-53cf-4ae1-a4d3-9695ab6b33a5/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 105750,
@@ -2206,7 +2147,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-10dfd3c6-544c-4742-9a66-e0ca7f45d4c3",
@@ -2217,7 +2158,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/10dfd3c6-544c-4742-9a66-e0ca7f45d4c3/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 138550,
@@ -2240,7 +2181,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-752b1855-d29b-4d53-bda5-05de9b6dcec2",
@@ -2251,7 +2192,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/752b1855-d29b-4d53-bda5-05de9b6dcec2/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 105750,
@@ -2274,7 +2215,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-30785b45-2bfe-4c3c-b31c-a7831e740566",
@@ -2285,7 +2226,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/30785b45-2bfe-4c3c-b31c-a7831e740566/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 90000,
@@ -2307,7 +2248,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-e4570a11-a4a5-4c11-a11e-71824647ebc5",
@@ -2318,7 +2259,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/e4570a11-a4a5-4c11-a11e-71824647ebc5/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 91800,
@@ -2340,7 +2281,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-66423e82-7ae6-463d-97f0-7eea5b421e80",
@@ -2351,7 +2292,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/66423e82-7ae6-463d-97f0-7eea5b421e80/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8c6fd94c46f08a5e8e1df4fd6795b5c9146d9e9f6f9f1f09d4739d1b263c9cf0",
@@ -2368,7 +2309,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-c8a56717-b584-4e1b-8698-9307f077aaaf",
@@ -2379,7 +2320,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/c8a56717-b584-4e1b-8698-9307f077aaaf/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 30,
@@ -2401,7 +2342,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-98e87664-fb70-4869-aa89-aef388a62385",
@@ -2412,7 +2353,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/98e87664-fb70-4869-aa89-aef388a62385/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 91800,
@@ -2434,7 +2375,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-79e7c701-41c6-45ba-948f-532787100a22",
@@ -2445,7 +2386,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/79e7c701-41c6-45ba-948f-532787100a22/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 91800,
@@ -2467,7 +2408,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-71f71b6f-bc10-48da-b289-ac74808a9a41",
@@ -2478,7 +2419,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/71f71b6f-bc10-48da-b289-ac74808a9a41/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "15fc4e5020e1c0ee3e480ac617f0ccbc21ee9f5a420a09983793e1407aa3ac10",
@@ -2495,7 +2436,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-d9c7ac78-7729-4522-88a2-e49f1b89f551",
@@ -2506,7 +2447,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/d9c7ac78-7729-4522-88a2-e49f1b89f551/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 110000,
@@ -2528,7 +2469,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-hermeus-d6e015a9-9ddd-400b-bb47-7bf1a142cd05",
@@ -2539,7 +2480,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/hermeus/d6e015a9-9ddd-400b-bb47-7bf1a142cd05/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:34.849Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:25.727Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 138550,
@@ -2561,7 +2502,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:34.849Z"
+    "job_posted_at": "2026-03-28T07:31:25.727Z"
   },
   {
     "job_id": "lever-cfsenergy-1bc25ab0-31c2-4673-a6b4-b8b538183a14",
@@ -2572,7 +2513,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/cfsenergy/1bc25ab0-31c2-4673-a6b4-b8b538183a14/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:32.887Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:24.760Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 45,
@@ -2595,7 +2536,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:32.887Z"
+    "job_posted_at": "2026-03-28T07:31:24.760Z"
   },
   {
     "job_id": "lever-cfsenergy-e4f64961-854e-4f17-93ce-aa296cadab4e",
@@ -2606,7 +2547,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/cfsenergy/e4f64961-854e-4f17-93ce-aa296cadab4e/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:32.887Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:24.760Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 90000,
@@ -2628,7 +2569,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:32.887Z"
+    "job_posted_at": "2026-03-28T07:31:24.760Z"
   },
   {
     "job_id": "lever-cfsenergy-d2e2abbd-2a70-422d-87cb-9092b99b75ff",
@@ -2639,7 +2580,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/cfsenergy/d2e2abbd-2a70-422d-87cb-9092b99b75ff/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:32.887Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:24.760Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 90000,
@@ -2661,21 +2602,21 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:32.887Z"
+    "job_posted_at": "2026-03-28T07:31:24.760Z"
   },
   {
-    "job_id": "ashby-cartesia-30dd64e9-178e-43d8-afaa-13bb97baf45d",
-    "job_title": "Design Engineer",
-    "employer_name": "Cartesia",
-    "job_city": "*HQ - San Francisco",
-    "job_state": "CA",
+    "job_id": "ashby-dandy-13b34dc4-9f7e-4422-b8b7-7169b65509be",
+    "job_title": "Advanced Manufacturing Engineer",
+    "employer_name": "Dandy",
+    "job_city": "USA - Remote",
+    "job_state": "",
     "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/cartesia/30dd64e9-178e-43d8-afaa-13bb97baf45d/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:32.718Z",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/dandy/13b34dc4-9f7e-4422-b8b7-7169b65509be/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:23.073Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "aa6c48d62f8a4a17abc32820decede97f42d0b75a4f00b01cdeb1564c1b8b35a",
+    "fingerprint": "e66074e73645acf9c1e8f2b11250bcacbe8dc3eb82d7644ea58e41ef91904aca",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2683,14 +2624,44 @@
       ],
       "locations": [
         "us",
-        "on_site"
+        "remote"
       ],
       "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:32.718Z"
+    "job_posted_at": "2026-03-28T07:31:23.073Z"
+  },
+  {
+    "job_id": "ashby-dandy-329a0585-01b4-4c6b-bbb5-cd9c28fd29a8",
+    "job_title": "Advanced Manufacturing Engineer - Assembly",
+    "employer_name": "Dandy",
+    "job_city": "USA - Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/dandy/329a0585-01b4-4c6b-bbb5-cd9c28fd29a8/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:23.073Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "8ae0a8312bbb77f5e58e66f9892a999a928a0213e0c2bafdb39a9e2d55d9e72c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:23.073Z"
   },
   {
     "job_id": "lever-dexterity-fa93eb17-30a6-444e-b8de-2fe2a9e288bf",
@@ -2701,7 +2672,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/dexterity/fa93eb17-30a6-444e-b8de-2fe2a9e288bf/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:32.677Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:21.309Z",
     "job_employment_type": "FULLTIME",
     "salary": {
       "min": 45,
@@ -2723,7 +2694,234 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:32.677Z"
+    "job_posted_at": "2026-03-28T07:31:21.309Z"
+  },
+  {
+    "job_id": "lever-palantir-c620a2b0-fa5f-4a1d-999d-b1ec6f09a582",
+    "job_title": "Embedded People Engineer",
+    "employer_name": "Palantir",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/c620a2b0-fa5f-4a1d-999d-b1ec6f09a582/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:20.923Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6f3d4f4f9ac349a2ea2e10411abacaabc872e8740f08f8b5f089d7e5f9e18dff",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T07:31:20.923Z"
+  },
+  {
+    "job_id": "lever-palantir-f1fdab97-ab1e-4c3d-82f2-4b70f12d249d",
+    "job_title": "Embedded People Engineer",
+    "employer_name": "Palantir",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/f1fdab97-ab1e-4c3d-82f2-4b70f12d249d/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:20.923Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a3efa6dac97949ceeda3d2f73111f4a2f55b4298234c4e2c153ddf68924fe47c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T07:31:20.923Z"
+  },
+  {
+    "job_id": "lever-palantir-689e6869-01bc-40f1-b580-adb33a020065",
+    "job_title": "Forward Deployed Reliability Engineer",
+    "employer_name": "Palantir",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/689e6869-01bc-40f1-b580-adb33a020065/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:20.923Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d6f15732a108683de28df599ad2966493e8472c6ab5b32152904474b97023906",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T07:31:20.923Z"
+  },
+  {
+    "job_id": "lever-palantir-250f623c-9afb-4c91-b0c0-25d4e83005ec",
+    "job_title": "Product Reliability Engineer - Defense",
+    "employer_name": "Palantir",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/250f623c-9afb-4c91-b0c0-25d4e83005ec/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:20.923Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f5441190dcd782cc92b2fbd5f3aa20ca02663c982141abdfdc7388ba7b7247c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T07:31:20.923Z"
+  },
+  {
+    "job_id": "lever-palantir-57699414-b373-4a5e-9be8-6fb7de41ea72",
+    "job_title": "Product Reliability Engineer - Defense",
+    "employer_name": "Palantir",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/57699414-b373-4a5e-9be8-6fb7de41ea72/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:20.923Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "47edffad46eb4f95199cfaceb77635cd20aed1b215888d510e1c346a239bdbd8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T07:31:20.923Z"
+  },
+  {
+    "job_id": "lever-spotify-ad5ef898-b800-4213-a63e-e39a97df9cfb",
+    "job_title": "Site Reliability Engineer - Backstage",
+    "employer_name": "Spotify",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/spotify/ad5ef898-b800-4213-a63e-e39a97df9cfb/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:20.814Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c2bad3c1615478456a8b791ebf68a43ced411fe7b7a0e78a9a4fbc8d066c81fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T07:31:20.814Z"
+  },
+  {
+    "job_id": "ashby-cartesia-30dd64e9-178e-43d8-afaa-13bb97baf45d",
+    "job_title": "Design Engineer",
+    "employer_name": "Cartesia",
+    "job_city": "*HQ - San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/cartesia/30dd64e9-178e-43d8-afaa-13bb97baf45d/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:18.883Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "aa6c48d62f8a4a17abc32820decede97f42d0b75a4f00b01cdeb1564c1b8b35a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:18.883Z"
+  },
+  {
+    "job_id": "ashby-atomicsemi-5d687a8f-ed34-47de-9af7-6a66a69a2695",
+    "job_title": "Mechanical Engineer",
+    "employer_name": "Atomic Semi",
+    "job_city": "San Francisco Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/atomicsemi/5d687a8f-ed34-47de-9af7-6a66a69a2695/application",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:18.005Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "4e3e897a0a50f9f17c29efce6241f19a3437a056f51b73a1c12c4389731b4a5a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T07:31:18.005Z"
   },
   {
     "job_id": "ashby-baseten-916e9d62-492a-4562-971f-3e97e3868392",
@@ -2734,7 +2932,7 @@
     "job_country": "United States",
     "job_is_remote": true,
     "job_apply_link": "https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:31.865Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:17.416Z",
     "job_employment_type": "FullTime",
     "salary": null,
     "fingerprint": "7ec32fa6f02ff716310e531c358ff1a26c46fa3dab88731c94f1fbbb2f49a062",
@@ -2754,205 +2952,7 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:31.865Z"
-  },
-  {
-    "job_id": "lever-palantir-c620a2b0-fa5f-4a1d-999d-b1ec6f09a582",
-    "job_title": "Embedded People Engineer",
-    "employer_name": "Palantir",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/c620a2b0-fa5f-4a1d-999d-b1ec6f09a582/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:30.830Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6f3d4f4f9ac349a2ea2e10411abacaabc872e8740f08f8b5f089d7e5f9e18dff",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:30.830Z"
-  },
-  {
-    "job_id": "lever-palantir-f1fdab97-ab1e-4c3d-82f2-4b70f12d249d",
-    "job_title": "Embedded People Engineer",
-    "employer_name": "Palantir",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/f1fdab97-ab1e-4c3d-82f2-4b70f12d249d/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:30.830Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a3efa6dac97949ceeda3d2f73111f4a2f55b4298234c4e2c153ddf68924fe47c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:30.830Z"
-  },
-  {
-    "job_id": "lever-palantir-689e6869-01bc-40f1-b580-adb33a020065",
-    "job_title": "Forward Deployed Reliability Engineer",
-    "employer_name": "Palantir",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/689e6869-01bc-40f1-b580-adb33a020065/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:30.830Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d6f15732a108683de28df599ad2966493e8472c6ab5b32152904474b97023906",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:30.830Z"
-  },
-  {
-    "job_id": "lever-palantir-250f623c-9afb-4c91-b0c0-25d4e83005ec",
-    "job_title": "Product Reliability Engineer - Defense",
-    "employer_name": "Palantir",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/250f623c-9afb-4c91-b0c0-25d4e83005ec/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:30.830Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f5441190dcd782cc92b2fbd5f3aa20ca02663c982141abdfdc7388ba7b7247c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:30.830Z"
-  },
-  {
-    "job_id": "lever-palantir-57699414-b373-4a5e-9be8-6fb7de41ea72",
-    "job_title": "Product Reliability Engineer - Defense",
-    "employer_name": "Palantir",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/57699414-b373-4a5e-9be8-6fb7de41ea72/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:30.830Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "47edffad46eb4f95199cfaceb77635cd20aed1b215888d510e1c346a239bdbd8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:30.830Z"
-  },
-  {
-    "job_id": "ashby-atomicsemi-5d687a8f-ed34-47de-9af7-6a66a69a2695",
-    "job_title": "Mechanical Engineer",
-    "employer_name": "Atomic Semi",
-    "job_city": "San Francisco Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/atomicsemi/5d687a8f-ed34-47de-9af7-6a66a69a2695/application",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:30.697Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "4e3e897a0a50f9f17c29efce6241f19a3437a056f51b73a1c12c4389731b4a5a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T07:16:30.697Z"
-  },
-  {
-    "job_id": "lever-spotify-ad5ef898-b800-4213-a63e-e39a97df9cfb",
-    "job_title": "Site Reliability Engineer - Backstage",
-    "employer_name": "Spotify",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/spotify/ad5ef898-b800-4213-a63e-e39a97df9cfb/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:30.131Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c2bad3c1615478456a8b791ebf68a43ced411fe7b7a0e78a9a4fbc8d066c81fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:30.131Z"
+    "job_posted_at": "2026-03-28T07:31:17.416Z"
   },
   {
     "job_id": "lever-arrivelogistics-0ad60ec2-781c-400f-89b2-b567db30ade9",
@@ -2963,7 +2963,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jobs.lever.co/arrivelogistics/0ad60ec2-781c-400f-89b2-b567db30ade9/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T07:16:29.696Z",
+    "job_posted_at_datetime_utc": "2026-03-28T07:31:16.816Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3a9415de19bbd2ca06d6f12d22839c1fadb3552aff1d6ceb810d8b7e5a0663e4",
@@ -2981,91 +2981,7 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "job_posted_at": "2026-03-28T07:16:29.696Z"
-  },
-  {
-    "job_id": "workday-philips-573555",
-    "job_title": "Software Development Test Engineer",
-    "employer_name": "Philips",
-    "job_city": "Cambridge (US)",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Software-Development-Test-Engineer_573555-1",
-    "job_posted_at_datetime_utc": "2026-03-28T06:04:54.027Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "179f3dd3b42a2284c3dfa83944ddd3006ff05f498303c4e3b7b8fe5ca144b89d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T06:04:54.027Z"
-  },
-  {
-    "job_id": "workday-philips-573072",
-    "job_title": "Product Safety Quality Engineer",
-    "employer_name": "Philips",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Product-Safety-Quality-Engineer_573072",
-    "job_posted_at_datetime_utc": "2026-03-28T06:04:54.027Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "302fbf0339cdebb2ea3c3cd0b01e619077e727799bbd2be7afff384abfd43279",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T06:04:54.027Z"
-  },
-  {
-    "job_id": "workday-philips-578336",
-    "job_title": "Systems Design Quality Engineer",
-    "employer_name": "Philips",
-    "job_city": "Cambridge (US)",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Systems-Design-Quality-Engineer_578336",
-    "job_posted_at_datetime_utc": "2026-03-28T06:04:54.027Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6a249b673e33a500f0c9f8e6370d03816905298737cfd8eea93e172d58f6b896",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T06:04:54.027Z"
+    "job_posted_at": "2026-03-28T07:31:16.816Z"
   },
   {
     "job_id": "workday-leidos-R-00179505",
@@ -5009,35 +4925,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-28T06:01:51.581Z"
-  },
-  {
-    "job_id": "workday-asml-J-00335601",
-    "job_title": "System Integration and Test Engineer Optics CWW Backend Nights",
-    "employer_name": "ASML",
-    "job_city": "Wilton",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/System-Integration-and-Test-Engineer-Optics_J-00335601",
-    "job_posted_at_datetime_utc": "2026-03-28T06:01:43.128Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3acf7b10b072731a0629d0b667967d134372c6f12c29261153dbde908d4a7e2c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T06:01:43.128Z"
   },
   {
     "job_id": "workday-accuray-3084",
@@ -17804,6 +17691,35 @@
     "job_posted_at": "2026-03-27T00:03:25.733Z"
   },
   {
+    "job_id": "js-bae-systems-inc-hunv_3lz77gki7ghaaaaaa==",
+    "job_title": "2026 Entry Level Electrical Engineer - RF Specific (Hybrid)",
+    "employer_name": "BAE Systems, Inc.",
+    "job_city": "Manchester",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://builtin.com/job/2026-entry-level-electrical-engineer-rf-specific-hybrid/8166849",
+    "job_posted_at_datetime_utc": "2026-03-27T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "4a4b7fcd984c358ec018229b921599e4e55e94dd4c5a277778cf499b9adfcc0f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-27T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-42187f0e-bd8d-4c45-94ba-acad98e67c9b",
     "job_title": "Retro Commissioning Engineer, Amazon Commissioning",
     "employer_name": "Amazon Data Services, Inc.",
@@ -17911,35 +17827,6 @@
     "job_employment_type": "FULL-TIME",
     "salary": null,
     "fingerprint": "cfd27be89b057f68403ffc3f16a953937d05f7ef291b9222a842e1bf40faacdb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-bae-systems-inc-hunv_3lz77gki7ghaaaaaa==",
-    "job_title": "2026 Entry Level Electrical Engineer - RF Specific (Hybrid)",
-    "employer_name": "BAE Systems, Inc.",
-    "job_city": "Manchester",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://builtin.com/job/2026-entry-level-electrical-engineer-rf-specific-hybrid/8166849",
-    "job_posted_at_datetime_utc": "2026-03-27T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "4a4b7fcd984c358ec018229b921599e4e55e94dd4c5a277778cf499b9adfcc0f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -18648,18 +18535,18 @@
     "job_posted_at": "2026-03-26T08:00:00.000Z"
   },
   {
-    "job_id": "workday-philips-578778",
-    "job_title": "Quality Engineer I",
+    "job_id": "workday-philips-578871",
+    "job_title": "Field Service Engineer - Image Guided Therapy (Field: Stamford, CT)",
     "employer_name": "Philips",
-    "job_city": "Plymouth",
+    "job_city": "Stamford",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Quality-Engineer-I_578778-1",
-    "job_posted_at_datetime_utc": "2026-03-26T06:04:54.028Z",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Stamford-Connecticut-United-States/Field-Service-Engineer---Image-Guided-Therapy--Field--Stamford--CT-_578871",
+    "job_posted_at_datetime_utc": "2026-03-26T07:32:36.937Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9b23013b9e0721a98349b1004cd8caca13e8fe2e2686054c7f6812d717bab1e1",
+    "fingerprint": "4b442bf2f23e9bd70aba6f0ee4b8b1bf32795861a035cef3a150c4ed33fef983",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -18673,21 +18560,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-26T06:04:54.028Z"
+    "job_posted_at": "2026-03-26T07:32:36.937Z"
   },
   {
-    "job_id": "workday-philips-573544",
-    "job_title": "Manufacturing Engineer",
+    "job_id": "workday-philips-573793",
+    "job_title": "Full Time - Field Engineer Program, Field Service Engineer - St. Louis, Missouri -July 2026",
     "employer_name": "Philips",
-    "job_city": "Latham",
+    "job_city": "St. Louis",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Manufacturing-Engineer_573544-1",
-    "job_posted_at_datetime_utc": "2026-03-26T06:04:54.028Z",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/St-Louis-Missouri-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---St-Louis--Missouri--July-2026_573793",
+    "job_posted_at_datetime_utc": "2026-03-26T07:32:36.937Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3fbcacf8320c57d018d87a5a3f739a6b3742f7ee7ebc95d733a889408e4107c4",
+    "fingerprint": "168905781de7257a2c784889b2d9311834549f01fbe4cae74e278d74b15377dd",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -18701,21 +18588,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-26T06:04:54.028Z"
+    "job_posted_at": "2026-03-26T07:32:36.937Z"
   },
   {
-    "job_id": "workday-philips-568107",
-    "job_title": "Process Quality Engineer (Onsite in Latham, New York)",
+    "job_id": "workday-philips-573773",
+    "job_title": "Full Time - Field Engineer Program, Field Service Engineer - Cincinnati, OH - July 2026",
     "employer_name": "Philips",
-    "job_city": "Latham",
+    "job_city": "Cincinnati",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Process-Quality-Engineer--Onsite-in-Latham--New-York-_568107",
-    "job_posted_at_datetime_utc": "2026-03-26T06:04:54.028Z",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cincinnati-Ohio-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Cincinnati--OH---July-2026_573773",
+    "job_posted_at_datetime_utc": "2026-03-26T07:32:36.937Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "7de90389bc0064fea0478769f5414a041803e851d4e0d863dd29e7a742d45db3",
+    "fingerprint": "8bbf8ce76854fa07aef8ceed88718a54408069952613a31b4315683cf6f3b197",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -18729,7 +18616,63 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-26T06:04:54.028Z"
+    "job_posted_at": "2026-03-26T07:32:36.937Z"
+  },
+  {
+    "job_id": "workday-philips-574028",
+    "job_title": "Full Time - Field Engineer Program, Field Service Engineer - Birmingham, AL - July 2026",
+    "employer_name": "Philips",
+    "job_city": "Birmingham (US)",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Birmingham-US-Alabama-United-States/Full-Time---Field-Engineer-Program--Field-Service-Engineer---Birmingham--AL---July-2026_574028",
+    "job_posted_at_datetime_utc": "2026-03-26T07:32:36.937Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0056dceb3f2c1a749cc4a9b6af4e4adfb42c3278ff94b34c72eb7cb57ec14aef",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:32:36.937Z"
+  },
+  {
+    "job_id": "workday-asml-J-00335088",
+    "job_title": "Process Engineer, CNC Automation",
+    "employer_name": "ASML",
+    "job_city": "Wilton",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/CNC-Automation-Process-Engineer_J-00335088-1",
+    "job_posted_at_datetime_utc": "2026-03-26T07:31:27.735Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "867757a00fb9128d2eaf9f8aad69e27ca7d131c9a1b2ee2aa6b6eab811cddc59",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T07:31:27.735Z"
   },
   {
     "job_id": "workday-northrop-grumman-R10225444",
@@ -21039,6 +20982,35 @@
     "job_posted_at": "2026-03-25T20:12:18-04:00"
   },
   {
+    "job_id": "js-lockheed-martin-ashero6u5lrrut1kaaaaaa==",
+    "job_title": "Delta Embedded S/W Engineer Asc- Early Career - Orlando, FL",
+    "employer_name": "Lockheed Martin",
+    "job_city": "Orlando",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.lockheedmartinjobs.com/job/orlando/delta-embedded-s-w-engineer-asc-early-career-orlando-fl/694/93230932576",
+    "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND PART-TIME",
+    "salary": null,
+    "fingerprint": "e21a5422aea19636febfa3dc9785fb494c4eab8fd53de8346fafcd2bf7291981",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-26T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-e9f35cd0-5835-4931-977d-d9ef65d31d6d",
     "job_title": "Mechanical Design Engineer, Data Center Design Engineering",
     "employer_name": "Amazon Data Services, Inc.",
@@ -21098,35 +21070,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "job_posted_at": "2026-03-26T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-lockheed-martin-ashero6u5lrrut1kaaaaaa==",
-    "job_title": "Delta Embedded S/W Engineer Asc- Early Career - Orlando, FL",
-    "employer_name": "Lockheed Martin",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.lockheedmartinjobs.com/job/orlando/delta-embedded-s-w-engineer-asc-early-career-orlando-fl/694/93230932576",
-    "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND PART-TIME",
-    "salary": null,
-    "fingerprint": "8b68528aa83da62ea7ebc1dadacf158c85e6b2b7648df87f6953078d5776336a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-03-26T00:00:00.000Z"
   },
   {
@@ -22181,18 +22124,18 @@
     "job_posted_at": "2026-03-25T08:54:22-04:00"
   },
   {
-    "job_id": "workday-philips-576952",
-    "job_title": "Field Service Engineer - Image Guided Therapy (Field: Seattle/Tacoma, WA)",
+    "job_id": "workday-philips-578778",
+    "job_title": "Quality Engineer I",
     "employer_name": "Philips",
-    "job_city": "2 Locations",
+    "job_city": "Plymouth",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Seattle-Washington-United-States/Field-Service-Engineer---Image-Guided-Therapy--Field--Seattle-Tacoma--WA-_576952-1",
-    "job_posted_at_datetime_utc": "2026-03-25T06:04:54.028Z",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Quality-Engineer-I_578778-1",
+    "job_posted_at_datetime_utc": "2026-03-25T07:32:36.940Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "38dd81f85fce779b91d7c02a0b4e910648cc97d69fa866a32a162fbc2c8b20f8",
+    "fingerprint": "9b23013b9e0721a98349b1004cd8caca13e8fe2e2686054c7f6812d717bab1e1",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -22206,7 +22149,63 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-25T06:04:54.028Z"
+    "job_posted_at": "2026-03-25T07:32:36.940Z"
+  },
+  {
+    "job_id": "workday-philips-573544",
+    "job_title": "Manufacturing Engineer",
+    "employer_name": "Philips",
+    "job_city": "Latham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Manufacturing-Engineer_573544-1",
+    "job_posted_at_datetime_utc": "2026-03-25T07:32:36.940Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3fbcacf8320c57d018d87a5a3f739a6b3742f7ee7ebc95d733a889408e4107c4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:32:36.940Z"
+  },
+  {
+    "job_id": "workday-philips-568107",
+    "job_title": "Process Quality Engineer (Onsite in Latham, New York)",
+    "employer_name": "Philips",
+    "job_city": "Latham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Process-Quality-Engineer--Onsite-in-Latham--New-York-_568107",
+    "job_posted_at_datetime_utc": "2026-03-25T07:32:36.940Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7de90389bc0064fea0478769f5414a041803e851d4e0d863dd29e7a742d45db3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:32:36.940Z"
   },
   {
     "job_id": "workday-northrop-grumman-R10227209",
@@ -23834,90 +23833,6 @@
     "job_posted_at": "2026-03-25T06:01:51.582Z"
   },
   {
-    "job_id": "workday-asml-J-00335508",
-    "job_title": "Field Service Engineer - EUV",
-    "employer_name": "ASML",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Field-Service-Engineer---EUV_J-00335508",
-    "job_posted_at_datetime_utc": "2026-03-25T06:01:43.128Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "126e732f600b8911bbbc957a95fcf188c68dc42384bb22acf0aef31857042e8d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T06:01:43.128Z"
-  },
-  {
-    "job_id": "workday-asml-J-00331688",
-    "job_title": "Field Service Engineer",
-    "employer_name": "ASML",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Dallas-TX-USA/Field-Service-Engineer_J-00331688",
-    "job_posted_at_datetime_utc": "2026-03-25T06:01:43.128Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7be47f17a0ec3810f571b22ae972badbd65652e0927b9dced340ce2f53f7d373",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T06:01:43.128Z"
-  },
-  {
-    "job_id": "workday-takeda-R0176372",
-    "job_title": "Process Engineer",
-    "employer_name": "Takeda",
-    "job_city": "CA - Thousand Oaks - Rancho Conejo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Thousand-Oaks---Rancho-Conejo/Process-Engineer_R0176372-1",
-    "job_posted_at_datetime_utc": "2026-03-25T05:50:35.276Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ffba8624a5051ff3c26b57bbaf541170824b9d5fabd78f4604ab2fd649227412",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T05:50:35.276Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01346350",
     "job_title": "Engineer I, Process Engineer",
     "employer_name": "Thermo Fisher Scientific",
@@ -24459,6 +24374,38 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-03-25T00:16:55.115Z"
+  },
+  {
+    "job_id": "js-tp-link-systems-inc-i5hpbmrnus5m--nraaaaaa==",
+    "job_title": "2026 Early Career Software Engineering (Mobile, BackEnd, Embedded, AI/ML)",
+    "employer_name": "TP-Link Systems Inc.",
+    "job_city": "Irvine",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.tealhq.com/job/early-career-software-engineering-mobile-backend-embedded-ai-ml_7ea1ae90c97ef494146cc50ebd26f0a2bafc5",
+    "job_posted_at_datetime_utc": "2026-03-25T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "5452c480cccdba3bdd528b8907f9d89d22604b0dd37520ed227e4e1240ea0cd8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-25T00:00:00.000Z"
   },
   {
     "job_id": "amazon-31377982-81c7-49b0-adef-0b77d7ad50c1",
@@ -25212,6 +25159,118 @@
     "job_posted_at": "2026-03-24T12:20:03.273Z"
   },
   {
+    "job_id": "workday-takeda-R0176372",
+    "job_title": "Process Engineer",
+    "employer_name": "Takeda",
+    "job_city": "CA - Thousand Oaks - Rancho Conejo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---CA---Thousand-Oaks---Rancho-Conejo/Process-Engineer_R0176372-1",
+    "job_posted_at_datetime_utc": "2026-03-24T07:33:26.876Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ffba8624a5051ff3c26b57bbaf541170824b9d5fabd78f4604ab2fd649227412",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-24T07:33:26.876Z"
+  },
+  {
+    "job_id": "workday-philips-576952",
+    "job_title": "Field Service Engineer - Image Guided Therapy (Field: Seattle/Tacoma, WA)",
+    "employer_name": "Philips",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Seattle-Washington-United-States/Field-Service-Engineer---Image-Guided-Therapy--Field--Seattle-Tacoma--WA-_576952-1",
+    "job_posted_at_datetime_utc": "2026-03-24T07:32:36.940Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "38dd81f85fce779b91d7c02a0b4e910648cc97d69fa866a32a162fbc2c8b20f8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-24T07:32:36.940Z"
+  },
+  {
+    "job_id": "workday-asml-J-00335508",
+    "job_title": "Field Service Engineer - EUV",
+    "employer_name": "ASML",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Field-Service-Engineer---EUV_J-00335508",
+    "job_posted_at_datetime_utc": "2026-03-24T07:31:27.735Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "126e732f600b8911bbbc957a95fcf188c68dc42384bb22acf0aef31857042e8d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-24T07:31:27.735Z"
+  },
+  {
+    "job_id": "workday-asml-J-00331688",
+    "job_title": "Field Service Engineer",
+    "employer_name": "ASML",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Dallas-TX-USA/Field-Service-Engineer_J-00331688",
+    "job_posted_at_datetime_utc": "2026-03-24T07:31:27.735Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7be47f17a0ec3810f571b22ae972badbd65652e0927b9dced340ce2f53f7d373",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-24T07:31:27.735Z"
+  },
+  {
     "job_id": "workday-boeing-JR2026496171",
     "job_title": "Hardware Engineer (Experienced)",
     "employer_name": "Boeing",
@@ -25266,34 +25325,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-24T06:34:38.241Z"
-  },
-  {
-    "job_id": "workday-philips-576682",
-    "job_title": "Manufacturing Engineer",
-    "employer_name": "Philips",
-    "job_city": "Bedford",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Manufacturing-Engineer_576682",
-    "job_posted_at_datetime_utc": "2026-03-24T06:04:54.028Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0dca9be0bde8cf54e7a20ce584eba0ad55c20e3fb0fe7cf9ed75efaecef879f8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-24T06:04:54.028Z"
   },
   {
     "job_id": "workday-northrop-grumman-R10226905",
@@ -26672,34 +26703,6 @@
     "job_posted_at": "2026-03-24T06:01:51.583Z"
   },
   {
-    "job_id": "workday-asml-J-00335084",
-    "job_title": "Field Service Engineer - DUV",
-    "employer_name": "ASML",
-    "job_city": "Hillsboro",
-    "job_state": "OR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/Field-Service-Engineer---DUV_J-00335084",
-    "job_posted_at_datetime_utc": "2026-03-24T06:01:43.128Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "adff5a1bb6bbc8a27dbf11571eec4f0ad6a4ac2bcf8ee6021929956cbdbcbdd2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-24T06:01:43.128Z"
-  },
-  {
     "job_id": "workday-snap-R0044892",
     "job_title": "Photolithography Process Engineer",
     "employer_name": "Snap",
@@ -27015,38 +27018,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "job_posted_at": "2026-03-24T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-tp-link-systems-inc-i5hpbmrnus5m--nraaaaaa==",
-    "job_title": "2026 Early Career Software Engineering (Mobile, BackEnd, Embedded, AI/ML)",
-    "employer_name": "TP-Link Systems Inc.",
-    "job_city": "Irvine",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.tealhq.com/job/early-career-software-engineering-mobile-backend-embedded-ai-ml_7ea1ae90c97ef494146cc50ebd26f0a2bafc5",
-    "job_posted_at_datetime_utc": "2026-03-24T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "5452c480cccdba3bdd528b8907f9d89d22604b0dd37520ed227e4e1240ea0cd8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-03-24T00:00:00.000Z"
   },
   {
@@ -28713,6 +28684,62 @@
     "job_posted_at": "2026-03-23T10:50:20.185Z"
   },
   {
+    "job_id": "workday-philips-576682",
+    "job_title": "Manufacturing Engineer",
+    "employer_name": "Philips",
+    "job_city": "Bedford",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Manufacturing-Engineer_576682",
+    "job_posted_at_datetime_utc": "2026-03-23T07:32:36.941Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0dca9be0bde8cf54e7a20ce584eba0ad55c20e3fb0fe7cf9ed75efaecef879f8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-23T07:32:36.941Z"
+  },
+  {
+    "job_id": "workday-asml-J-00335084",
+    "job_title": "Field Service Engineer - DUV",
+    "employer_name": "ASML",
+    "job_city": "Hillsboro",
+    "job_state": "OR",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/Field-Service-Engineer---DUV_J-00335084",
+    "job_posted_at_datetime_utc": "2026-03-23T07:31:27.735Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "adff5a1bb6bbc8a27dbf11571eec4f0ad6a4ac2bcf8ee6021929956cbdbcbdd2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-23T07:31:27.735Z"
+  },
+  {
     "job_id": "workday-northrop-grumman-R10226856",
     "job_title": "2026 Associate Mechanical Engineer/Mechanical Engineer - Sunnyvale CA",
     "employer_name": "Northrop Grumman",
@@ -29276,7 +29303,7 @@
     "job_id": "js-beaconfire-inc-f0t8oyf4q7b98oh2aaaaaa==",
     "job_title": "Embedded Systems Engineer – Entry Level (Visa Sponsorship)",
     "employer_name": "BeaconFire Inc.",
-    "job_city": "Unknown",
+    "job_city": "New York",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -29284,7 +29311,7 @@
     "job_posted_at_datetime_utc": "2026-03-22T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "58e976bfbe84e5fc4a3790e3e4b3b15530710e6b3ae8e7d85119a5372509a3f1",
+    "fingerprint": "23fab136b1e17bde95d7a258b9712a5d57b9124231ba146dc3521d375eb5aa99",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -29359,34 +29386,6 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-03-21T14:55:03.250Z"
-  },
-  {
-    "job_id": "workday-philips-576854",
-    "job_title": "Field Service Engineer, Medical Imaging (Travel: Cleveland, OH)",
-    "employer_name": "Philips",
-    "job_city": "Cleveland",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cleveland-Ohio-United-States/Field-Service-Engineer--Image-Guided-Therapy--Travel--Cleveland--OH-_576854",
-    "job_posted_at_datetime_utc": "2026-03-21T06:04:54.028Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bb386a4bc8658d1eb9e811a2d2a1e1708d6178ca6cfb1e569982c5e2cb5a83c7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-21T06:04:54.028Z"
   },
   {
     "job_id": "workday-medtronic-R60452",
@@ -31741,6 +31740,34 @@
     "job_posted_at": "2026-03-20T12:33:40.070Z"
   },
   {
+    "job_id": "workday-philips-576854",
+    "job_title": "Field Service Engineer, Medical Imaging (Travel: Cleveland, OH)",
+    "employer_name": "Philips",
+    "job_city": "Cleveland",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cleveland-Ohio-United-States/Field-Service-Engineer--Image-Guided-Therapy--Travel--Cleveland--OH-_576854",
+    "job_posted_at_datetime_utc": "2026-03-20T07:32:36.941Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bb386a4bc8658d1eb9e811a2d2a1e1708d6178ca6cfb1e569982c5e2cb5a83c7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-20T07:32:36.941Z"
+  },
+  {
     "job_id": "workday-rtx-01831067",
     "job_title": "Product Test Engineer I (2nd Shift)",
     "employer_name": "RTX",
@@ -33879,7 +33906,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Chatsworth-CA-United-States/Molding-Engineer--Manufacturing-Engineering--Onsite-_JR_049621",
-    "job_posted_at_datetime_utc": "2026-03-19T07:16:58.436Z",
+    "job_posted_at_datetime_utc": "2026-03-19T07:32:54.695Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "44fdd61e49329fad7a306e87cdb4a897a4333f20a1c4152eec451dc55ce9ce7f",
@@ -33896,7 +33923,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-19T07:16:58.436Z"
+    "job_posted_at": "2026-03-19T07:32:54.695Z"
   },
   {
     "job_id": "workday-marvell-2600835",
@@ -37261,34 +37288,6 @@
     "job_posted_at": "2026-03-18T06:02:08.863Z"
   },
   {
-    "job_id": "workday-philips-573091",
-    "job_title": "Design Quality Engineer, Software",
-    "employer_name": "Philips",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Software-Quality-Engineer_573091-1",
-    "job_posted_at_datetime_utc": "2026-03-18T05:49:46.694Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8c270686e7e539a3a2100480945dd72647d64071a3bfa811510c7ae7ef3a5ee",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-18T05:49:46.694Z"
-  },
-  {
     "job_id": "workday-nvidia-JR2014443",
     "job_title": "Software Verification Engineer - Air Platform Team",
     "employer_name": "NVIDIA",
@@ -38944,6 +38943,34 @@
     "job_posted_at": "2026-03-17T08:02:05.280Z"
   },
   {
+    "job_id": "workday-philips-573091",
+    "job_title": "Design Quality Engineer, Software",
+    "employer_name": "Philips",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Software-Quality-Engineer_573091-1",
+    "job_posted_at_datetime_utc": "2026-03-17T07:32:36.942Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f8c270686e7e539a3a2100480945dd72647d64071a3bfa811510c7ae7ef3a5ee",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-17T07:32:36.942Z"
+  },
+  {
     "job_id": "workday-rtx-01806682",
     "job_title": "2026 Fulltime- Raytheon EO Optical Engineer I- (Onsite)",
     "employer_name": "RTX",
@@ -39702,90 +39729,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-17T05:49:54.500Z"
-  },
-  {
-    "job_id": "workday-philips-576902",
-    "job_title": "Manufacturing Engineer",
-    "employer_name": "Philips",
-    "job_city": "Plymouth",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Manufacturing-Engineer_576902-1",
-    "job_posted_at_datetime_utc": "2026-03-17T05:49:46.694Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "90448dfc37dc933a84a7c01caa18e6012f6236ef5594f4e8eb5cf2cfd04c6178",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-17T05:49:46.694Z"
-  },
-  {
-    "job_id": "workday-philips-577707",
-    "job_title": "Quality Engineer",
-    "employer_name": "Philips",
-    "job_city": "Mount Pleasant",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Mount-Pleasant-Pennsylvania-United-States/Quality-Engineer_577707-1",
-    "job_posted_at_datetime_utc": "2026-03-17T05:49:46.694Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "55ca2949bd4ac6769ea83a4cf95e5bc50c9cf203ac1f5928d476f7226779ef98",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-17T05:49:46.694Z"
-  },
-  {
-    "job_id": "workday-philips-578571",
-    "job_title": "Field Service Engineer, Multimodality Imaging (Travel: Honolulu, HI)",
-    "employer_name": "Philips",
-    "job_city": "Honolulu",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Honolulu-Hawaii-United-States/Field-Service-Engineer--Multimodality-Imaging--Travel--Honolulu--HI-_578571-1",
-    "job_posted_at_datetime_utc": "2026-03-17T05:49:46.694Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d0364363d0cbea96bfe89a6f66b64c8c9cd163a2f2ccd067061f6bf165b368ea",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-17T05:49:46.694Z"
   },
   {
     "job_id": "workday-nvidia-JR2007200",
@@ -41386,6 +41329,90 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-16T07:46:52.202Z"
+  },
+  {
+    "job_id": "workday-philips-576902",
+    "job_title": "Manufacturing Engineer",
+    "employer_name": "Philips",
+    "job_city": "Plymouth",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Manufacturing-Engineer_576902-1",
+    "job_posted_at_datetime_utc": "2026-03-16T07:32:36.942Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "90448dfc37dc933a84a7c01caa18e6012f6236ef5594f4e8eb5cf2cfd04c6178",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-16T07:32:36.942Z"
+  },
+  {
+    "job_id": "workday-philips-577707",
+    "job_title": "Quality Engineer",
+    "employer_name": "Philips",
+    "job_city": "Mount Pleasant",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Mount-Pleasant-Pennsylvania-United-States/Quality-Engineer_577707-1",
+    "job_posted_at_datetime_utc": "2026-03-16T07:32:36.942Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "55ca2949bd4ac6769ea83a4cf95e5bc50c9cf203ac1f5928d476f7226779ef98",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-16T07:32:36.942Z"
+  },
+  {
+    "job_id": "workday-philips-578571",
+    "job_title": "Field Service Engineer, Multimodality Imaging (Travel: Honolulu, HI)",
+    "employer_name": "Philips",
+    "job_city": "Honolulu",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Honolulu-Hawaii-United-States/Field-Service-Engineer--Multimodality-Imaging--Travel--Honolulu--HI-_578571-1",
+    "job_posted_at_datetime_utc": "2026-03-16T07:32:36.942Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d0364363d0cbea96bfe89a6f66b64c8c9cd163a2f2ccd067061f6bf165b368ea",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-16T07:32:36.942Z"
   },
   {
     "job_id": "amazon-285df144-72da-4cdd-bc5e-e6cdfbccf418",
