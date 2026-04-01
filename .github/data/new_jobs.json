@@ -4977,6 +4977,38 @@
     "job_posted_at": "2026-04-01T00:00:00.000Z"
   },
   {
+    "job_id": "amazon-ecfc8db5-23fd-4ce6-8ff5-c6340e25e0c2",
+    "job_title": "Hardware Development Engineer, Thin Films, Fabrication, AWS CQC",
+    "employer_name": "Amazon Development Center U.S., Inc.",
+    "job_city": "Pasadena",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10381691/hardware-development-engineer-thin-films-fabrication-aws-cqc",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5687d3e0a1796843a354fbf53e2f5e216d6609db109ad6116679f384ad321b8b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-11305aab-0344-4c07-b73d-d18e18536dac",
     "job_title": "Service Engineer - Avionics, PSO, Amazon Prime Air",
     "employer_name": "Amazon.com Services LLC",
