@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1149-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1151-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-147-blue?style=flat&logo=building)
-![Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-933-red?style=flat&logo=star)
+![Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-935-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,10 +69,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Zoom** | Software Development Engineer, Asynchronous | San Jose | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Development-Engineer--Asynchronous_R18872-1) |
+| 🏢 **Zoom** | Software Development Engineer, Asynchronous | San Jose | 25m | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Development-Engineer--Asynchronous_R18872-1) |
+| 🏢 **Johnson Controls** | Entry Level Fire Sprinkler Installer | Florida-United St... | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Miramar-Florida-United-States-of-America/Entry-Level-Fire-Sprinkler-Installer_WD30265514) |
 | 🏢 **Johnson Controls** | Fire Alarm Installer | Tennessee-United ... | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Chattanooga-Tennessee-United-States-of-America/Fire-Alarm-Installer_WD30263780) |
 | 🏢 **Johnson Controls** | Fire Sprinkler Installer | Florida-United St... | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Miramar-Florida-United-States-of-America/Fire-Sprinkler-Installer_WD30265515) |
-| 🏢 **Johnson Controls** | Entry Level Fire Sprinkler Installer | Florida-United St... | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Miramar-Florida-United-States-of-America/Entry-Level-Fire-Sprinkler-Installer_WD30265514) |
 | 🏢 **Sony Interactive Entertainment** | Data Center Operations Engineer | United States, CA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5842551004) |
 | 🏢 **Hitachi** | Protection & Control (P&C) Commissiong Engineer | 2 Locations | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Protection---Control--P-C--Commissiong-Engineer_R0117458) |
 | 🏢 **FLIR Systems** | Field Service Engineer | 2 Locations | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Exton-PA/Field-Service-Engineer_REQ33320) |
@@ -88,7 +88,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Oshkosh Corporation** | Field Service Technician | Roy | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Roy-Utah-United-States/Field-Service-Technician_R45374) |
 | 🏢 **Oshkosh Corporation** | Field Service Technician | Remote | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Remote-Texas-United-States/Field-Service-Technician_R45494) |
 | 🏢 **Intel** | Process Integration and Yield Technician | US | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Technician_JR0282730) |
-| 🏢 **NVIDIA** | Powerpoint Presentation Graphic Designer | 2 Locations | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Powerpoint-Presentation-Graphic-Designer_JR2015572) |
+| 🏢 **NVIDIA** | Powerpoint Presentation Graphic Designer | 2 Locations | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Powerpoint-Presentation-Graphic-Designer_JR2015572) |
 | 🏢 **Western Digital** | Technologist, RFIC Design Engineer | San Jose, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000118659937) |
 | 🏢 **Baseten** | IT Support/Operations Engineer | San Francisco | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/baseten/c07eb44f-b5fa-4808-90b7-03b265d97836/application) |
 | 🏢 **Northrop Grumman** | Electronic Ground Support Equipment (EGSE) Engineer - Level 3/4 | Arizona-Gilbert | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Electronic-Ground-Support-Equipment--EGSE--Engineer---Level-3-4_R10228379) |
@@ -100,9 +100,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Arrow Electronics** | Field Applications Engineer | NC-North Carolina | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://arrow.wd1.myworkdayjobs.com/AC/job/US-NC-North-Carolina-Remote-Employees/Field-Applications-Engineer_R242612) |
 | 🏢 **Blue Origin** | Technician - Instrumentation & Controls | Space Coast, FL | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technician---Instrumentation---Controls_R63033) |
 | 🏢 **American Express** | Site Reliability Engineer - Global Commercial Services Tech | New York | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/40345281) |
-| 🏢 **Northrop Grumman** | Manufacturing Engineer (Level 2 or Level 3) | California-El Seg... | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Manufacturing-Engineer--Level-2-or-Level-3-_R10227254) |
-| 🏢 **Veolia Environnement SA** | Unrestricted Electrician | Alpharetta, GA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000118651997) |
-| 🏢 **Leidos** | Continuous Improvement Engineer | Huntsville, AL | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Continuous-Improvement-Engineer_R-00179975-1) |
+| 🏢 **Northrop Grumman** | Manufacturing Engineer (Level 2 or Level 3) | California-El Seg... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Manufacturing-Engineer--Level-2-or-Level-3-_R10227254) |
+| 🏢 **Veolia Environnement SA** | Unrestricted Electrician | Alpharetta, GA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000118651997) |
+| 🏢 **Leidos** | Continuous Improvement Engineer | Huntsville, AL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Continuous-Improvement-Engineer_R-00179975-1) |
 | 🏢 **SEL** | Process Engineering Technician | Moscow, ID | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Moscow/Process-Engineering-Technician_2026-20353) |
 | 🏢 **Leidos** | Mechanical Engineer | College Park, GA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/College-Park-GA/Mechanical-Engineer_R-00180008) |
 | 🏢 **Sierra Nevada Corporation** | Engineering Technician I | Sparks, NV | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Engineering-Technician-I_R0029625) |
@@ -205,9 +205,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **KBR** | Signal Processing Analyst | Lexington | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Massachusetts/Signal-Processing-Analyst_R2119110) |
 | 🏢 **KBR** | Electrical Engineer | Lexington | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Massachusetts/Electrical-Engineer_R2120512) |
 | 🏢 **KBR** | Device Emulation Engineer | Lexington | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Massachusetts/Device-Emulation-Engineer_R2120515) |
+| 🏢 **HPE (University)** | Engineering Technician 2 | Sunnyvale | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Engineering-Technician-2_1203691-2) |
 | 🏢 **HPE (University)** | Specialist Software Development Engineer in Test (SDET) | 4 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Specialist-Software-Development-Engineer-in-Test--SDET-_1201919-2) |
 | 🏢 **HPE (University)** | Expert Software Development Engineer in Test (SDET) | 4 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Expert-Software-Development-Engineer-in-Test--SDET-_1201926-3) |
-| 🏢 **HPE (University)** | Engineering Technician 2 | Sunnyvale | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Engineering-Technician-2_1203691-2) |
 | 🏢 **HPE** | Engineering Technician 2 | Sunnyvale | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Engineering-Technician-2_1203691) |
 | 🏢 **HPE** | Specialist Software Development Engineer in Test (SDET) | 4 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/Specialist-Software-Development-Engineer-in-Test--SDET-_1201919) |
 | 🏢 **HPE** | Expert Software Development Engineer in Test (SDET) | 4 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/Expert-Software-Development-Engineer-in-Test--SDET-_1201926-1) |
@@ -219,15 +219,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Generac** | Mechanical Engineer I | USA, NE | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Holdrege-NE---USA/Mechanical-Engineer-I_JR13408) |
 | 🏢 **Generac** | Applications Engineer - Data Centers | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Sussex-WI---USA/Applications-Engineer---Data-Centers_JR13330) |
 | 🏢 **GE Vernova** | Services Component Operation Manufacturing Engineer | Wilmington NC USA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/Services-Component-Operation-Manufacturing-Engineer_R5032626-3) |
-| 🏢 **Carrier Global** | Commercial HVAC Journeyman Service Technician – Union | New Castle, 276 Q... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAD03-CCS-New-Castle-276-Quigley-Boulevard-New-Castle-DE--19720-USA/Commercial-HVAC-Journeyman-Service-Technician---Union_30203134-2) |
+| 🏢 **Carrier Global** | HVAC Chiller Service Technician - Union | Ashburn, 21750 Re... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAV03-CCS-Ashburn-21750-Red-Rum-Drive-Ashburn-VA-20147-USA/HVAC-Chiller-Service-Technician---Union_30202830-1) |
 | 🏢 **Caterpillar** | Manufacturing Engineer | Griffin | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Griffin-Georgia/Manufacturing-Engineer_R0000354852) |
 | 🏢 **Cisco** | Mechanical Engineer | San Jose, US | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Mechanical-Engineer_2012086-1) |
 | 🏢 **Baker Hughes** | Specialized Application Engineer - Nuclear | TX-10575 Red Bluf... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-10575-Red-Bluff-Road/Specialized-Application-Engineer---Nuclear_R161769-1) |
 | 🏢 **Baker Hughes** | Systems and Instrumentation Field Engineer | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-CO-OTHER-COLORADO/Systems-and-Instrumentation-Field-Engineer_R162676) |
 | 🏢 **Abbott** | Product Performance Engineer | United States > T... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Temecula--41093-County-Center-Drive/Product-Performance-Engineer_31143799-1) |
 | 🏢 **Prudential Financial** | Specialist, Cyber Detection Engineer | Newark, NJ | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Specialist--Cyber-Detection-Engineer_R-123915-1) |
-| 🏢 **Moog** | Hardware Product Engineer | Phoenix, AZ | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Phoenix-AZ/Hardware-Product-Engineer_R-26-16658-1) |
 | 🏢 **Moog** | Offshore Manufacturing Engineer I | Blacksburg, VA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Offshore-Manufacturing-Engineer-I_R-26-17030-1) |
+| 🏢 **Moog** | Hardware Product Engineer | Phoenix, AZ | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Phoenix-AZ/Hardware-Product-Engineer_R-26-16658-1) |
 | 🏢 **GE Aerospace** | Process Engineer - Large Parts | Wilmington NC USA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Wilmington-NC-USA/Process-Engineer---Large-Parts_R5032212-1) |
 | 🏢 **Elanco** | HVAC Maintenance Technician | Clinton, IN | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/HVAC-Maintenance-Technician_R0025266) |
 | 🏢 **ResMed** | Engineering Technician | Lithia Springs, GA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Lithia-Springs-GA-United-States/Engineering-Technician_JR_050030) |
@@ -252,7 +252,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Crusoe** | Development Engineer | Denver, CO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/831a1577-bc19-47a3-aef2-c238bbeb2507/application) |
 | 🏢 **Crusoe** | Master Electrician - Field Services | Brighton, CO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/5f803496-8968-44bf-ae78-531567fbe2f9/application) |
 | 🏢 **WHOOP** | Graphic Designer | Boston, MA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/whoop/305273b5-1b74-4b2f-826b-8e23903f669e/apply) |
-| 🏢 **DoorDash** | Service Technician, Service Operations, Labs | Mesa, AZ | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/7491310) |
+| 🏢 **DoorDash** | Service Technician, Service Operations, Labs | Mesa, AZ | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/7491310) |
 | 🏢 **Vanta** | IT Operations Engineer, Corporate Engineering | San Francisco, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/vanta/543fac40-eb9e-48e6-b2e1-16fa6ced04b1/application) |
 | 🏢 **Intrinsic Robotics** | Automation and Controls Engineer | Mountain View | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/intrinsicrobotics/jobs/5843008004?gh_jid=5843008004) |
 | 🏢 **Suno** | Motion & Graphic Designer, Performance Marketing | Los Angeles | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/suno/777f2aa8-50fb-40ef-9dcf-9f8c0df2b03f/application) |
@@ -283,7 +283,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Boeing** | Associate Propulsion System Integration Engineer | North Charleston, SC | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate-Propulsion-System-Integration-Engineer_JR2026504400-1) |
 | 🏢 **Boeing** | Associate Aerodynamics Engineer (Aerodynamic Analysis) | North Charleston, SC | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate-Aerodynamics-Engineer--Aerodynamic-Analysis-_JR2026504399-1) |
 | 🏢 **NVIDIA** | Firmware Engineer - Memory Subsystem | US, CA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Firmware-Engineer---Memory-Subsystem_JR2010087) |
-| 🏢 **Boeing** | Associate Test Engineer | 2 Locations | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Smithfield-PA/Associate-Test-Engineer_JR2026503074-1) |
+| 🏢 **Boeing** | Associate Test Engineer | 2 Locations | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Smithfield-PA/Associate-Test-Engineer_JR2026503074-1) |
 | 🏢 **SEL** | Associate Test Engineer | Lewiston, ID | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Associate-Test-Engineer_2026-20411) |
 | 🏢 **Moog** | Associate Electronic Design Engineer | Buffalo, NY | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Electronic-Design-Engineer_R-26-16516-1) |
 | 🏢 **NVIDIA** | ASIC Verification Engineer - GPU | 2 Locations | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---GPU_JR1996527) |
@@ -456,7 +456,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **RTX** | Principle Software and Systems Quality Engineer (Onsite) | MA-MARLBOROUGH-MA... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Principle-Software-and-Systems-Quality-Engineer--Onsite-_01831602-1) |
 | 🏢 **RTX** | Quality Engineer (Onsite) | FL-MELBOURNE-311 ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Quality-Engineer--Onsite-_01835237) |
 | 🏢 **Zoox** | Quality Engineer, Receiving and Vehicle Quality | Hayward, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/82346558-eca6-4da3-8b5f-079a097abf78/apply) |
-| 🏢 **EVERSANA** | Quality Engineer | Overland Park, KS | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000118251807) |
+| 🏢 **EVERSANA** | Quality Engineer | Overland Park, KS | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000118251807) |
 | 🏢 **Philips** | Process Quality Engineer | Rancho Cordova | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Rancho-Cordova-California-United-States/Process-Quality-Engineer_578648-1) |
 | 🏢 **EVERSANA** | Quality Engineer | Chicago, IL | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000118226838) |
 | 🏢 **FLIR Systems** | Quality Engineer | Mountain View, CA... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Mountain-View-CA/Quality-Engineer_REQ22201-1) |
@@ -544,7 +544,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1149 current opportunities from 147 companies**
+**🎯 1151 current opportunities from 147 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
