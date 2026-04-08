@@ -7437,146 +7437,6 @@
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
-    "job_id": "workday-sel-2025-18351",
-    "job_title": "Associate Hardware Engineer",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Hardware-Engineer_2025-18351",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "173985d3ee9bab78db6e1179286a3004af69c39123ac403b1f8f43608a57c1c2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.545Z"
-  },
-  {
-    "job_id": "workday-sel-2025-18585",
-    "job_title": "Product Engineer (Power Engineer Focus)",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Product-Engineer_2025-18585",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "82a6faffdfe4822b79730bcf0677128f9ed9efae3035ebac285333b1eeaa75b1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.545Z"
-  },
-  {
-    "job_id": "workday-sel-2025-18736",
-    "job_title": "Software/Firmware Engineer – C/C++",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer_2025-18736",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2e21ef99232689817cfe29b5086d9b6976363d0988e0e06b3969dc820589eed3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.545Z"
-  },
-  {
-    "job_id": "workday-sel-2025-19057",
-    "job_title": "Firmware Engineer",
-    "employer_name": "SEL",
-    "job_city": "Boise",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Firmware-Engineer_2025-19057",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b9962d34b1557c01e56fdf454a948cb2e072e02479802983cd1dfda0b661105c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.545Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19660",
-    "job_title": "CAM Engineer",
-    "employer_name": "SEL",
-    "job_city": "Moscow",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Moscow/CAM-Engineer_2026-19660",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c3e5e696e3c2be53357f7e417f36bc80a78b56666ac5b59f2fe1f2a399081b72",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.545Z"
-  },
-  {
     "job_id": "workday-sel-2025-17015",
     "job_title": "Hardware Engineer",
     "employer_name": "SEL",
@@ -7829,102 +7689,18 @@
     "job_posted_at": "2026-04-06T23:45:18.545Z"
   },
   {
-    "job_id": "workday-sel-2025-18395",
-    "job_title": "Relay Technician",
-    "employer_name": "SEL",
-    "job_city": "6 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Kentucky---Louisville/Relay-Technician_2025-18395",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.544Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1a9aaa43bee7cf0c5826d41a2dbfd5987c20b0363ce8a9d76c5cb5386b6a6787",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.544Z"
-  },
-  {
-    "job_id": "workday-sel-2025-17807",
-    "job_title": "Power Systems Protection Engineer",
-    "employer_name": "SEL",
-    "job_city": "Lakewood",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Colorado---Lakewood/Power-Systems-Protection-Engineer_2025-17807",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.544Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1523d21c5e175dc65a0da4ea66a6ba1d8e8ac9913e2a7df68ec622249e786041",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.544Z"
-  },
-  {
-    "job_id": "workday-sel-2025-18064",
-    "job_title": "RTL Engineer",
+    "job_id": "workday-sel-2025-18351",
+    "job_title": "Associate Hardware Engineer",
     "employer_name": "SEL",
     "job_city": "Pullman",
     "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/RTL-Engineer_2025-18064",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.544Z",
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Hardware-Engineer_2025-18351",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3951a6d2f224134745b63f19614aaafc257698a4fc85f5859f2291392448f02c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.544Z"
-  },
-  {
-    "job_id": "workday-sel-2025-19166",
-    "job_title": "Designer I",
-    "employer_name": "SEL",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Designer-I_2025-19166",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.544Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b830b3a25541b99c0f2656efdc7dfff6904d168bc368207113ba24286e5d8934",
+    "fingerprint": "173985d3ee9bab78db6e1179286a3004af69c39123ac403b1f8f43608a57c1c2",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7938,21 +7714,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.544Z"
+    "job_posted_at": "2026-04-06T23:45:18.545Z"
   },
   {
-    "job_id": "workday-sel-2025-18874",
-    "job_title": "Electrical Substation Equipment Technician",
+    "job_id": "workday-sel-2025-18585",
+    "job_title": "Product Engineer (Power Engineer Focus)",
     "employer_name": "SEL",
-    "job_city": "2 Locations",
-    "job_state": "",
+    "job_city": "Pullman",
+    "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Kentucky---Louisville/Electrical-Substation-Equipment-Technician_2025-18874",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.544Z",
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Product-Engineer_2025-18585",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "30b27d589459ba51ab279976bb47a9510125bf81b7f72e5d0ff65d611a0a61e2",
+    "fingerprint": "82a6faffdfe4822b79730bcf0677128f9ed9efae3035ebac285333b1eeaa75b1",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7966,7 +7742,91 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.544Z"
+    "job_posted_at": "2026-04-06T23:45:18.545Z"
+  },
+  {
+    "job_id": "workday-sel-2025-18736",
+    "job_title": "Software/Firmware Engineer – C/C++",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer_2025-18736",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2e21ef99232689817cfe29b5086d9b6976363d0988e0e06b3969dc820589eed3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.545Z"
+  },
+  {
+    "job_id": "workday-sel-2025-19057",
+    "job_title": "Firmware Engineer",
+    "employer_name": "SEL",
+    "job_city": "Boise",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Firmware-Engineer_2025-19057",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b9962d34b1557c01e56fdf454a948cb2e072e02479802983cd1dfda0b661105c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.545Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19660",
+    "job_title": "CAM Engineer",
+    "employer_name": "SEL",
+    "job_city": "Moscow",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Moscow/CAM-Engineer_2026-19660",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c3e5e696e3c2be53357f7e417f36bc80a78b56666ac5b59f2fe1f2a399081b72",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.545Z"
   },
   {
     "job_id": "workday-sel-2025-18391",
@@ -8131,6 +7991,146 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.544Z"
+  },
+  {
+    "job_id": "workday-sel-2025-18395",
+    "job_title": "Relay Technician",
+    "employer_name": "SEL",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Kentucky---Louisville/Relay-Technician_2025-18395",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.544Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1a9aaa43bee7cf0c5826d41a2dbfd5987c20b0363ce8a9d76c5cb5386b6a6787",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.544Z"
+  },
+  {
+    "job_id": "workday-sel-2025-17807",
+    "job_title": "Power Systems Protection Engineer",
+    "employer_name": "SEL",
+    "job_city": "Lakewood",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Colorado---Lakewood/Power-Systems-Protection-Engineer_2025-17807",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.544Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1523d21c5e175dc65a0da4ea66a6ba1d8e8ac9913e2a7df68ec622249e786041",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.544Z"
+  },
+  {
+    "job_id": "workday-sel-2025-18064",
+    "job_title": "RTL Engineer",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/RTL-Engineer_2025-18064",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.544Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3951a6d2f224134745b63f19614aaafc257698a4fc85f5859f2291392448f02c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.544Z"
+  },
+  {
+    "job_id": "workday-sel-2025-19166",
+    "job_title": "Designer I",
+    "employer_name": "SEL",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Designer-I_2025-19166",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.544Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b830b3a25541b99c0f2656efdc7dfff6904d168bc368207113ba24286e5d8934",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.544Z"
+  },
+  {
+    "job_id": "workday-sel-2025-18874",
+    "job_title": "Electrical Substation Equipment Technician",
+    "employer_name": "SEL",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Kentucky---Louisville/Electrical-Substation-Equipment-Technician_2025-18874",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.544Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "30b27d589459ba51ab279976bb47a9510125bf81b7f72e5d0ff65d611a0a61e2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -14473,6 +14473,36 @@
     "job_posted_at": "2026-04-03T07:04:29.689Z"
   },
   {
+    "job_id": "workday-nvidia-JR1996527",
+    "job_title": "ASIC Verification Engineer - GPU",
+    "employer_name": "NVIDIA",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---GPU_JR1996527",
+    "job_posted_at_datetime_utc": "2026-04-03T07:04:00.596Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "32f2ea0b4c0cc9a61f8e6ac49b04d67e374e8761bb1389106600ee142cb5e30e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:04:00.596Z"
+  },
+  {
     "job_id": "workday-nvidia-JR2010087",
     "job_title": "Firmware Engineer - Memory Subsystem",
     "employer_name": "NVIDIA",
@@ -14554,36 +14584,6 @@
         "us"
       ],
       "experience": "senior_level",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:04:00.596Z"
-  },
-  {
-    "job_id": "workday-nvidia-JR1996527",
-    "job_title": "ASIC Verification Engineer - GPU",
-    "employer_name": "NVIDIA",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---GPU_JR1996527",
-    "job_posted_at_datetime_utc": "2026-04-03T07:04:00.596Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "32f2ea0b4c0cc9a61f8e6ac49b04d67e374e8761bb1389106600ee142cb5e30e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": [
         "faang"
       ]
@@ -15605,34 +15605,6 @@
     "job_posted_at": "2026-04-03T07:03:03.849Z"
   },
   {
-    "job_id": "workday-johnson-controls-WD30265265",
-    "job_title": "HVAC Truck Based Chiller Journeyman Mechanic (union)",
-    "employer_name": "Johnson Controls",
-    "job_city": "Washington-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Bothell-Washington-United-States-of-America/HVAC-Truck-Based-Chiller-Journeyman-Mechanic--union-_WD30265265-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:02:54.484Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7c039fbbd56ed9da05f9f2e03d025f100afb8a3ad4faf26c2cb7761dfa553c8b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:02:54.484Z"
-  },
-  {
     "job_id": "workday-johnson-controls-WD30265427",
     "job_title": "Embedded Software Test Engineer I",
     "employer_name": "Johnson Controls",
@@ -15928,6 +15900,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c62762ca58fed5c9d1f2bf61fcacde6d20c8bb82f8f364ffac09c11bf0fc7e67",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:02:54.484Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30265265",
+    "job_title": "HVAC Truck Based Chiller Journeyman Mechanic (union)",
+    "employer_name": "Johnson Controls",
+    "job_city": "Washington-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Bothell-Washington-United-States-of-America/HVAC-Truck-Based-Chiller-Journeyman-Mechanic--union-_WD30265265-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:02:54.484Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7c039fbbd56ed9da05f9f2e03d025f100afb8a3ad4faf26c2cb7761dfa553c8b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -16364,62 +16364,6 @@
     "job_posted_at": "2026-04-03T07:01:58.059Z"
   },
   {
-    "job_id": "workday-boeing-JR2026500021",
-    "job_title": "Equipment & Tool Designer (Asset Design)",
-    "employer_name": "Boeing",
-    "job_city": "Berkeley",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Equipment---Tool-Designer--Asset-Design-_JR2026500021",
-    "job_posted_at_datetime_utc": "2026-04-03T07:01:58.059Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2bed71938135258eca275b9490771661484770103cef8dc53b8b7693289546b8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:01:58.059Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026503074",
-    "job_title": "Associate Test Engineer",
-    "employer_name": "Boeing",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Smithfield-PA/Associate-Test-Engineer_JR2026503074-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:01:58.059Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f29c93771a144a69e11899dd4617cf6aedbf99a10c4ee90b22ce294b96c3984",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:01:58.059Z"
-  },
-  {
     "job_id": "workday-boeing-JR2026504279",
     "job_title": "Process Mechanic-Tube Bender",
     "employer_name": "Boeing",
@@ -16589,6 +16533,62 @@
     "job_posted_at": "2026-04-03T07:01:58.059Z"
   },
   {
+    "job_id": "workday-boeing-JR2026500021",
+    "job_title": "Equipment & Tool Designer (Asset Design)",
+    "employer_name": "Boeing",
+    "job_city": "Berkeley",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Equipment---Tool-Designer--Asset-Design-_JR2026500021",
+    "job_posted_at_datetime_utc": "2026-04-03T07:01:58.059Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2bed71938135258eca275b9490771661484770103cef8dc53b8b7693289546b8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:01:58.059Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026503074",
+    "job_title": "Associate Test Engineer",
+    "employer_name": "Boeing",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Smithfield-PA/Associate-Test-Engineer_JR2026503074-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:01:58.059Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f29c93771a144a69e11899dd4617cf6aedbf99a10c4ee90b22ce294b96c3984",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:01:58.059Z"
+  },
+  {
     "job_id": "workday-boeing-JR2026503359",
     "job_title": "Experienced Level Manufacturing Engineer  - Supply Recovery",
     "employer_name": "Boeing",
@@ -16615,6 +16615,34 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-03T07:01:58.059Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237039",
+    "job_title": "Textile Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Lorton",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lorton-VA/Textile-Engineer_R0237039-1",
+    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "393a9e4b00a1f1f4124745efc323cb83d3c41ab1fbe371c5a63014b1ee7d91ec",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:01:56.215Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0237129",
@@ -16667,34 +16695,6 @@
         "us"
       ],
       "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:01:56.215Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237039",
-    "job_title": "Textile Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Lorton",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lorton-VA/Textile-Engineer_R0237039-1",
-    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "393a9e4b00a1f1f4124745efc323cb83d3c41ab1fbe371c5a63014b1ee7d91ec",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -19012,6 +19012,34 @@
     "job_posted_at": "2026-04-02T07:04:28.362Z"
   },
   {
+    "job_id": "workday-northrop-grumman-R10228307",
+    "job_title": "Integration & Test Engineer - Level 3 or 4",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Colorado-Aurora",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Integration---Test-Engineer---Level-3-or-4_R10228307",
+    "job_posted_at_datetime_utc": "2026-04-02T07:03:53.673Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fd319214b7ad8fb1e2fd4d76a4e6f72dbe55f4beed0cddfa3a53321fbff4a3b1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:03:53.673Z"
+  },
+  {
     "job_id": "workday-northrop-grumman-R10228248",
     "job_title": "Electronic Warfare Engineer",
     "employer_name": "Northrop Grumman",
@@ -19124,18 +19152,18 @@
     "job_posted_at": "2026-04-02T07:03:53.673Z"
   },
   {
-    "job_id": "workday-northrop-grumman-R10228307",
-    "job_title": "Integration & Test Engineer - Level 3 or 4",
+    "job_id": "workday-northrop-grumman-R10224655",
+    "job_title": "GNC Engineer: Autopilot/Guidance (GPI Program) Level 2 or 3 (Chandler)",
     "employer_name": "Northrop Grumman",
-    "job_city": "Colorado-Aurora",
+    "job_city": "Arizona-Chandler",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Integration---Test-Engineer---Level-3-or-4_R10228307",
-    "job_posted_at_datetime_utc": "2026-04-02T07:03:53.673Z",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/GNC-Engineer--Autopilot-Guidance--GPI-Program--Level-2-or-3--Chandler-_R10224655",
+    "job_posted_at_datetime_utc": "2026-04-02T07:03:53.672Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "fd319214b7ad8fb1e2fd4d76a4e6f72dbe55f4beed0cddfa3a53321fbff4a3b1",
+    "fingerprint": "aeecedce5c04077b7d5db855f3d62e33589337a012929fe92c623a0e247894e4",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -19144,12 +19172,12 @@
       "locations": [
         "us"
       ],
-      "experience": "senior_level",
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-02T07:03:53.673Z"
+    "job_posted_at": "2026-04-02T07:03:53.672Z"
   },
   {
     "job_id": "workday-northrop-grumman-R10228098",
@@ -19264,62 +19292,6 @@
     "job_posted_at": "2026-04-02T07:03:53.672Z"
   },
   {
-    "job_id": "workday-northrop-grumman-R10224655",
-    "job_title": "GNC Engineer: Autopilot/Guidance (GPI Program) Level 2 or 3 (Chandler)",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Arizona-Chandler",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/GNC-Engineer--Autopilot-Guidance--GPI-Program--Level-2-or-3--Chandler-_R10224655",
-    "job_posted_at_datetime_utc": "2026-04-02T07:03:53.672Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aeecedce5c04077b7d5db855f3d62e33589337a012929fe92c623a0e247894e4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T07:03:53.672Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00179904",
-    "job_title": "Field Service Technician I",
-    "employer_name": "Leidos",
-    "job_city": "Honolulu",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Field-Service-Technician-I_R-00179904",
-    "job_posted_at_datetime_utc": "2026-04-02T07:03:32.341Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e3b78e70f35126317ea829d55d0ccb8de75d2331e17dd1e718b5dbe264048c5f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T07:03:32.341Z"
-  },
-  {
     "job_id": "workday-leidos-R-00179487",
     "job_title": "Civil Engineer - Part Time",
     "employer_name": "Leidos",
@@ -19388,6 +19360,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7d3a9b7f95c6f21e15bbf6c45f6fa65919bbbea1e4ad3e5c860123c0e5bd21be",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:03:32.341Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00179904",
+    "job_title": "Field Service Technician I",
+    "employer_name": "Leidos",
+    "job_city": "Honolulu",
+    "job_state": "HI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Field-Service-Technician-I_R-00179904",
+    "job_posted_at_datetime_utc": "2026-04-02T07:03:32.341Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e3b78e70f35126317ea829d55d0ccb8de75d2331e17dd1e718b5dbe264048c5f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -20956,6 +20956,34 @@
     "job_posted_at": "2026-04-02T07:02:54.485Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-063736",
+    "job_title": "Primary Development Engineer",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Cincinnati",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Primary-Development-Engineer_R-063736",
+    "job_posted_at_datetime_utc": "2026-04-02T07:02:53.298Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "91e862f2be99031db28819d36ca8f90b982816a47f2883e5f12e7a50a9b199fe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:02:53.298Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-067381",
     "job_title": "Failure Analysis Engineer",
     "employer_name": "Johnson & Johnson",
@@ -21005,34 +21033,6 @@
         "us"
       ],
       "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T07:02:53.298Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-063736",
-    "job_title": "Primary Development Engineer",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Cincinnati",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Primary-Development-Engineer_R-063736",
-    "job_posted_at_datetime_utc": "2026-04-02T07:02:53.298Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "91e862f2be99031db28819d36ca8f90b982816a47f2883e5f12e7a50a9b199fe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -21577,18 +21577,18 @@
     "job_posted_at": "2026-04-02T07:02:23.200Z"
   },
   {
-    "job_id": "workday-caterpillar-R0000354852",
-    "job_title": "Manufacturing Engineer",
+    "job_id": "workday-caterpillar-R0000361043",
+    "job_title": "Product Service Engineer",
     "employer_name": "Caterpillar",
-    "job_city": "Griffin",
+    "job_city": "Mossville",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Griffin-Georgia/Manufacturing-Engineer_R0000354852",
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Product-Service-Engineer_R0000361043",
     "job_posted_at_datetime_utc": "2026-04-02T07:02:17.067Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3fa03d76405af7eaa5a097d3d35b4c6ee7d337d542a729b9c8f22f04175a0e21",
+    "fingerprint": "7525d00eae2675914f95a840e56a2e2fbd6c4789c07bf3afcee308ad528b89a8",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -21605,18 +21605,18 @@
     "job_posted_at": "2026-04-02T07:02:17.067Z"
   },
   {
-    "job_id": "workday-caterpillar-R0000361043",
-    "job_title": "Product Service Engineer",
+    "job_id": "workday-caterpillar-R0000354852",
+    "job_title": "Manufacturing Engineer",
     "employer_name": "Caterpillar",
-    "job_city": "Mossville",
+    "job_city": "Griffin",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Product-Service-Engineer_R0000361043",
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Griffin-Georgia/Manufacturing-Engineer_R0000354852",
     "job_posted_at_datetime_utc": "2026-04-02T07:02:17.067Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "7525d00eae2675914f95a840e56a2e2fbd6c4789c07bf3afcee308ad528b89a8",
+    "fingerprint": "3fa03d76405af7eaa5a097d3d35b4c6ee7d337d542a729b9c8f22f04175a0e21",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -22478,6 +22478,34 @@
     "job_posted_at": "2026-04-02T07:01:53.668Z"
   },
   {
+    "job_id": "workday-caci-324262",
+    "job_title": "Power Generation Systems Technician",
+    "employer_name": "CACI",
+    "job_city": "BQY ALBUQUERQUE NM",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/BQY-ALBUQUERQUE-NM/Power-Generation-Systems-Technician_324262",
+    "job_posted_at_datetime_utc": "2026-04-02T07:01:50.330Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7fde843d3fbe4c9727170a76fd21bd2499baa6dfd1e4121c3d1dac5c767517eb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:01:50.330Z"
+  },
+  {
     "job_id": "workday-caci-323549",
     "job_title": "Electronics Technical Support",
     "employer_name": "CACI",
@@ -22526,34 +22554,6 @@
       "locations": [
         "us",
         "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T07:01:50.330Z"
-  },
-  {
-    "job_id": "workday-caci-324262",
-    "job_title": "Power Generation Systems Technician",
-    "employer_name": "CACI",
-    "job_city": "BQY ALBUQUERQUE NM",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/BQY-ALBUQUERQUE-NM/Power-Generation-Systems-Technician_324262",
-    "job_posted_at_datetime_utc": "2026-04-02T07:01:50.330Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7fde843d3fbe4c9727170a76fd21bd2499baa6dfd1e4121c3d1dac5c767517eb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
       ],
       "experience": "senior_level",
       "special": []
@@ -27244,34 +27244,6 @@
     "job_posted_at": "2026-04-01T07:03:22.981Z"
   },
   {
-    "job_id": "workday-micron-JR94966",
-    "job_title": "Industrial Engineer, DPAG",
-    "employer_name": "Micron",
-    "job_city": "Main Site",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DPAG-Industrial-Engineer_JR94966",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:22.106Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "63d2d810bd88ac7d6629c2f906a361fab764c40e98c347aadbc3b4653c982085",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:22.106Z"
-  },
-  {
     "job_id": "workday-micron-JR95386",
     "job_title": "Layout Engineer-DPG-LPDDR",
     "employer_name": "Micron",
@@ -27321,6 +27293,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:22.106Z"
+  },
+  {
+    "job_id": "workday-micron-JR94966",
+    "job_title": "Industrial Engineer, DPAG",
+    "employer_name": "Micron",
+    "job_city": "Main Site",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DPAG-Industrial-Engineer_JR94966",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:22.106Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "63d2d810bd88ac7d6629c2f906a361fab764c40e98c347aadbc3b4653c982085",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -27750,34 +27750,6 @@
     "job_posted_at": "2026-04-01T07:02:54.486Z"
   },
   {
-    "job_id": "workday-johnson-controls-WD30264724",
-    "job_title": "Fire Installer",
-    "employer_name": "Johnson Controls",
-    "job_city": "Georgia-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Roswell-Georgia-United-States-of-America/Fire-Installer_WD30264724",
-    "job_posted_at_datetime_utc": "2026-04-01T07:02:54.486Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "87396dddc3450c9711f6472b842536138f95fcb107592bc5e17f3a3c574062a2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:02:54.486Z"
-  },
-  {
     "job_id": "workday-johnson-controls-WD30265857",
     "job_title": "Building Automation Controls Designer",
     "employer_name": "Johnson Controls",
@@ -28115,6 +28087,34 @@
     "job_posted_at": "2026-04-01T07:02:54.486Z"
   },
   {
+    "job_id": "workday-johnson-controls-WD30264724",
+    "job_title": "Fire Installer",
+    "employer_name": "Johnson Controls",
+    "job_city": "Georgia-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Roswell-Georgia-United-States-of-America/Fire-Installer_WD30264724",
+    "job_posted_at_datetime_utc": "2026-04-01T07:02:54.486Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "87396dddc3450c9711f6472b842536138f95fcb107592bc5e17f3a3c574062a2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:02:54.486Z"
+  },
+  {
     "job_id": "workday-johnson-controls-WD30265660",
     "job_title": "Drafter - CAD Operator",
     "employer_name": "Johnson Controls",
@@ -28170,6 +28170,34 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-01T07:02:54.486Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30266000",
+    "job_title": "HVAC Controls Systems Technician",
+    "employer_name": "Johnson Controls",
+    "job_city": "Massachusetts-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Lynnfield-Massachusetts-United-States-of-America/HVAC-Controls-Systems-Technician_WD30266000",
+    "job_posted_at_datetime_utc": "2026-04-01T07:02:54.485Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c51cc566c0fa6b6adb0b72a6274f9305f47f79d9505bf3a0b1ba433e12ef43d0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:02:54.485Z"
   },
   {
     "job_id": "workday-johnson-controls-WD30266145",
@@ -28264,34 +28292,6 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Lynnfield-Massachusetts-United-States-of-America/HVAC-Controls-Systems-Technician_WD30266001",
-    "job_posted_at_datetime_utc": "2026-04-01T07:02:54.485Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c51cc566c0fa6b6adb0b72a6274f9305f47f79d9505bf3a0b1ba433e12ef43d0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:02:54.485Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30266000",
-    "job_title": "HVAC Controls Systems Technician",
-    "employer_name": "Johnson Controls",
-    "job_city": "Massachusetts-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Lynnfield-Massachusetts-United-States-of-America/HVAC-Controls-Systems-Technician_WD30266000",
     "job_posted_at_datetime_utc": "2026-04-01T07:02:54.485Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -29016,34 +29016,6 @@
     "job_posted_at": "2026-04-01T07:02:17.067Z"
   },
   {
-    "job_id": "workday-carrier-global-30202611",
-    "job_title": "Field Engineer - Automated Logic",
-    "employer_name": "Carrier Global",
-    "job_city": "Cleveland, 9800 Rockside Road, Valley View, OH, 44125 USA",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAO05-CCS-Cleveland-9800-Rockside-Road-Valley-View-OH-44125-USA/Field-Engineer---Automated-Logic_30202611",
-    "job_posted_at_datetime_utc": "2026-04-01T07:02:16.978Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7f403e2bddc91680ab5f519df7350f185e6f64765aa9b8fb1e99b6752092c3e2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:02:16.978Z"
-  },
-  {
     "job_id": "workday-carrier-global-30200171",
     "job_title": "Journeyman – Traveling HVAC Data Center Chiller Technician",
     "employer_name": "Carrier Global",
@@ -29124,6 +29096,34 @@
         "remote"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:02:16.978Z"
+  },
+  {
+    "job_id": "workday-carrier-global-30202611",
+    "job_title": "Field Engineer - Automated Logic",
+    "employer_name": "Carrier Global",
+    "job_city": "Cleveland, 9800 Rockside Road, Valley View, OH, 44125 USA",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAO05-CCS-Cleveland-9800-Rockside-Road-Valley-View-OH-44125-USA/Field-Engineer---Automated-Logic_30202611",
+    "job_posted_at_datetime_utc": "2026-04-01T07:02:16.978Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7f403e2bddc91680ab5f519df7350f185e6f64765aa9b8fb1e99b6752092c3e2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -29979,62 +29979,6 @@
     "job_posted_at": "2026-04-01T07:01:46.324Z"
   },
   {
-    "job_id": "workday-abbott-31145613",
-    "job_title": "Software Quality Engineer I",
-    "employer_name": "Abbott",
-    "job_city": "California - Sylmar",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sylmar/Software-Quality-Engineer-I_31145613-2",
-    "job_posted_at_datetime_utc": "2026-04-01T07:01:36.567Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bee2ba5fe65d0c3fb7bdffbb018ae0b19b0e5a521b1bb248825b83035e8de929",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:01:36.567Z"
-  },
-  {
-    "job_id": "workday-abbott-31145598",
-    "job_title": "Supplier Quality Engineer",
-    "employer_name": "Abbott",
-    "job_city": "Massachusetts - Westford",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Westford/Supplier-Quality-Engineer_31145598-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:01:36.567Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "151797cedb8fd88c775447cdfea9d6fdb70e7c7251b476415148ce35b996ef25",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:01:36.567Z"
-  },
-  {
     "job_id": "workday-abbott-31146324",
     "job_title": "Quality Engineer I",
     "employer_name": "Abbott",
@@ -30075,6 +30019,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3796752206f332b4ab3e7c4ef3c59125bf4cd59c3dfc5453d0374f33652797de",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:01:36.567Z"
+  },
+  {
+    "job_id": "workday-abbott-31145613",
+    "job_title": "Software Quality Engineer I",
+    "employer_name": "Abbott",
+    "job_city": "California - Sylmar",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sylmar/Software-Quality-Engineer-I_31145613-2",
+    "job_posted_at_datetime_utc": "2026-04-01T07:01:36.567Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bee2ba5fe65d0c3fb7bdffbb018ae0b19b0e5a521b1bb248825b83035e8de929",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:01:36.567Z"
+  },
+  {
+    "job_id": "workday-abbott-31145598",
+    "job_title": "Supplier Quality Engineer",
+    "employer_name": "Abbott",
+    "job_city": "Massachusetts - Westford",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Westford/Supplier-Quality-Engineer_31145598-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:01:36.567Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "151797cedb8fd88c775447cdfea9d6fdb70e7c7251b476415148ce35b996ef25",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -30597,89 +30597,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-31T23:01:30-04:00"
-  },
-  {
-    "job_id": "lever-waabi-57b4a051-c187-4f62-9c45-3b81249d337c",
-    "job_title": "Manufacturing Engineer (NPI)",
-    "employer_name": "Waabi",
-    "job_city": "Pittsburgh",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/waabi/57b4a051-c187-4f62-9c45-3b81249d337c/apply",
-    "job_posted_at_datetime_utc": "2026-04-01T01:58:26.274Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ff078db06b1e11731cd3b630a0a4715932862ec5808901e0d407bcc545d910cf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-01T01:58:26.274Z"
-  },
-  {
-    "job_id": "lever-waabi-8484a684-39b9-4ce9-9d23-2af71b6d6d62",
-    "job_title": "Product Quality Engineer",
-    "employer_name": "Waabi",
-    "job_city": "Pittsburgh",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/waabi/8484a684-39b9-4ce9-9d23-2af71b6d6d62/apply",
-    "job_posted_at_datetime_utc": "2026-04-01T01:55:23.221Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5aa7e7081957c07fac7709268d37530b8ad9057e5cabe442c3d40d6c02ddc310",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-01T01:55:23.221Z"
-  },
-  {
-    "job_id": "lever-waabi-b74a74fa-f419-4897-a3cd-c9cf7ca18dac",
-    "job_title": "Supplier Quality Engineer",
-    "employer_name": "Waabi",
-    "job_city": "Pittsburgh",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/waabi/b74a74fa-f419-4897-a3cd-c9cf7ca18dac/apply",
-    "job_posted_at_datetime_utc": "2026-04-01T01:52:18.995Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a373101bef7bd28c1f6712ab08c2d4fc8f1ef51bc7d0061846d85256ea7db85a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-01T01:52:18.995Z"
   }
 ]
