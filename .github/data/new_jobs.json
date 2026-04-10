@@ -29169,34 +29169,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-03T13:26:07-04:00"
-  },
-  {
-    "job_id": "sr-WesternDigital-744000118631336",
-    "job_title": "Technologist – Analog/Mixed Signal Design Engineer",
-    "employer_name": "Western Digital",
-    "job_city": "San Jose OR Irvine",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/WesternDigital/744000118631336",
-    "job_posted_at_datetime_utc": "2026-04-03T16:42:41.123Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "3930f834d06a3f938dc97907ed9d780fe185c63d2d657251a89dea748c64a72f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-04-03T16:42:41.123Z"
   }
 ]
