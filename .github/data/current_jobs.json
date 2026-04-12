@@ -44,6 +44,38 @@
     "job_posted_at": "2026-04-12T15:36:51.530Z"
   },
   {
+    "job_id": "amazon-adb8659e-d7eb-4df7-aecb-a60dd87c3cca",
+    "job_title": "Software Development Engineer, CreativeX",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10389196/software-development-engineer-creativex",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0e709304f0d9bb2da4390e0510902ea8a5d1a52ea19e1ca03ae20e5c276dfbf4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
     "job_id": "workday-philips-572368",
     "job_title": "Field Service Technician 40",
     "employer_name": "Philips",
@@ -1692,161 +1724,6 @@
     "job_posted_at": "2026-04-10T11:33:07.000Z"
   },
   {
-    "job_id": "workday-leidos-R-00180549",
-    "job_title": "Field Service Technician I",
-    "employer_name": "Leidos",
-    "job_city": "Columbia",
-    "job_state": "SC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-SC/Field-Service-Technician-I_R-00180549",
-    "job_posted_at_datetime_utc": "2026-04-10T07:44:02.894Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bd91135294d4519567cc289bb6d5b20d76626646772e7b3f9a96941b52fd459a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "crm",
-        "salesforce"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "The Security Enterprise Solutions (SES) Operation is the cornerstone of Leidos’ comprehensive suite of fully-integrated security solutions for aviation, ports, borders, and critical infrastructure cus…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:44:02.894Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180547",
-    "job_title": "Field Service Technician I",
-    "employer_name": "Leidos",
-    "job_city": "Orlando",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Field-Service-Technician-I_R-00180547",
-    "job_posted_at_datetime_utc": "2026-04-10T07:44:02.894Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8be8e54c1ff965d71ae02b173bd7bcdb4bb26412a002569eb6011d7c7154f22d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "crm",
-        "salesforce"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "The Security Enterprise Solutions (SES) Operation is the cornerstone of Leidos’ comprehensive suite of fully-integrated security solutions for aviation, ports, borders, and critical infrastructure cus…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:44:02.894Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180545",
-    "job_title": "Distribution Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Harrisburg",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Harrisburg-PA/Distribution-Engineer_R-00180545",
-    "job_posted_at_datetime_utc": "2026-04-10T07:44:02.894Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c97806fac59b072066794bf7f67adab93491f286ca73623ebaf5d4f8cf1b58e6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "project management",
-        "root cause analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "We challenge our staff with interesting assignments that provide them with an opportunity to thrive, professionally and personally.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:44:02.894Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180544",
-    "job_title": "Associate Distribution Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Harrisburg",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Harrisburg-PA/Associate-Distribution-Engineer_R-00180544",
-    "job_posted_at_datetime_utc": "2026-04-10T07:44:02.894Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec07060ac42e576874574845bcf565464eca396c98dda257985fad2f9ebee2ca",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "project management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "We challenge our staff with interesting assignments that provide them with an opportunity to thrive, professionally and personally.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:44:02.894Z"
-  },
-  {
     "job_id": "workday-leidos-R-00180517",
     "job_title": "Mechanical Design Engineer",
     "employer_name": "Leidos",
@@ -2050,6 +1927,161 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Job Description We are seeking a motivated and detail-oriented Jr.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:44:02.894Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180549",
+    "job_title": "Field Service Technician I",
+    "employer_name": "Leidos",
+    "job_city": "Columbia",
+    "job_state": "SC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-SC/Field-Service-Technician-I_R-00180549",
+    "job_posted_at_datetime_utc": "2026-04-10T07:44:02.894Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bd91135294d4519567cc289bb6d5b20d76626646772e7b3f9a96941b52fd459a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "crm",
+        "salesforce"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Security Enterprise Solutions (SES) Operation is the cornerstone of Leidos’ comprehensive suite of fully-integrated security solutions for aviation, ports, borders, and critical infrastructure cus…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:44:02.894Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180547",
+    "job_title": "Field Service Technician I",
+    "employer_name": "Leidos",
+    "job_city": "Orlando",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Field-Service-Technician-I_R-00180547",
+    "job_posted_at_datetime_utc": "2026-04-10T07:44:02.894Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8be8e54c1ff965d71ae02b173bd7bcdb4bb26412a002569eb6011d7c7154f22d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "crm",
+        "salesforce"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Security Enterprise Solutions (SES) Operation is the cornerstone of Leidos’ comprehensive suite of fully-integrated security solutions for aviation, ports, borders, and critical infrastructure cus…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:44:02.894Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180545",
+    "job_title": "Distribution Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Harrisburg",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Harrisburg-PA/Distribution-Engineer_R-00180545",
+    "job_posted_at_datetime_utc": "2026-04-10T07:44:02.894Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c97806fac59b072066794bf7f67adab93491f286ca73623ebaf5d4f8cf1b58e6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "project management",
+        "root cause analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "We challenge our staff with interesting assignments that provide them with an opportunity to thrive, professionally and personally.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:44:02.894Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180544",
+    "job_title": "Associate Distribution Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Harrisburg",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Harrisburg-PA/Associate-Distribution-Engineer_R-00180544",
+    "job_posted_at_datetime_utc": "2026-04-10T07:44:02.894Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec07060ac42e576874574845bcf565464eca396c98dda257985fad2f9ebee2ca",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "project management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "We challenge our staff with interesting assignments that provide them with an opportunity to thrive, professionally and personally.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:44:02.894Z"
@@ -2576,61 +2608,6 @@
     "job_posted_at": "2026-04-10T07:06:25.980Z"
   },
   {
-    "job_id": "workday-nvidia-JR2011168",
-    "job_title": "Site Reliability Engineer - Hardware Infrastructure",
-    "employer_name": "NVIDIA",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Site-Reliability-Engineer---Hardware-Infrastructure_JR2011168",
-    "job_posted_at_datetime_utc": "2026-04-10T07:05:57.042Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "77321ca1da940a141d7c9af947d049b44423003f0bfdc3148195cee5cc65877c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "devops",
-        "distributed systems",
-        "go",
-        "grafana",
-        "high availability",
-        "llm",
-        "observability",
-        "perl",
-        "prometheus",
-        "python",
-        "root cause analysis",
-        "ruby",
-        "site reliability engineering",
-        "sre"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "This demanding position merges software and systems engineering efforts to guarantee flawless service operation with consistent reliability and uptime.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:05:57.042Z"
-  },
-  {
     "job_id": "workday-nvidia-JR2011328",
     "job_title": "Quality Assurance Software Developer in Test Engineer",
     "employer_name": "NVIDIA",
@@ -2681,6 +2658,61 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Are you passionate about inspiring change, building data driven tools to improve software quality, and ensuring customers have the best experience?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:05:57.042Z"
+  },
+  {
+    "job_id": "workday-nvidia-JR2011168",
+    "job_title": "Site Reliability Engineer - Hardware Infrastructure",
+    "employer_name": "NVIDIA",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Site-Reliability-Engineer---Hardware-Infrastructure_JR2011168",
+    "job_posted_at_datetime_utc": "2026-04-10T07:05:57.042Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "77321ca1da940a141d7c9af947d049b44423003f0bfdc3148195cee5cc65877c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "devops",
+        "distributed systems",
+        "go",
+        "grafana",
+        "high availability",
+        "llm",
+        "observability",
+        "perl",
+        "prometheus",
+        "python",
+        "root cause analysis",
+        "ruby",
+        "site reliability engineering",
+        "sre"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "This demanding position merges software and systems engineering efforts to guarantee flawless service operation with consistent reliability and uptime.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:05:57.042Z"
@@ -5891,6 +5923,56 @@
     "job_posted_at": "2026-04-10T07:03:54.013Z"
   },
   {
+    "job_id": "workday-boeing-JR2026505242",
+    "job_title": "Embedded Software Engineer (Associate or Experienced)",
+    "employer_name": "Boeing",
+    "job_city": "Long Beach",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Embedded-Software-Engineer--Associate-or-Experienced-_JR2026505242-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:54.012Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f9300cb14b7d959461130266b1e2cb1845dedb6dd2be0bb065219cdee7b167fb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "assembly",
+        "c++",
+        "computer science",
+        "data science",
+        "embedded systems",
+        "git",
+        "jira",
+        "less",
+        "linux",
+        "unix",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Embedded Software Engineer (Associate or Experienced) Company: The Boeing Company The Boeing Company is currently seeking an Embedded Software Engineer (Associate or Experienced) to support our BGS C-…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:54.012Z"
+  },
+  {
     "job_id": "workday-boeing-JR2026505343",
     "job_title": "Airworthiness & Regulatory Engineer",
     "employer_name": "Boeing",
@@ -6327,56 +6409,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Wire Installation Engineer Company: The Boeing Company The Boeing Defense, Space & Security (BDS) Mobility & Surveillance (M&S) Division is seeking multiple Associate Wire Installation Engineers to su…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:54.012Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026505242",
-    "job_title": "Embedded Software Engineer (Associate or Experienced)",
-    "employer_name": "Boeing",
-    "job_city": "Long Beach",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Embedded-Software-Engineer--Associate-or-Experienced-_JR2026505242-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:54.012Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f9300cb14b7d959461130266b1e2cb1845dedb6dd2be0bb065219cdee7b167fb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "assembly",
-        "c++",
-        "computer science",
-        "data science",
-        "embedded systems",
-        "git",
-        "jira",
-        "less",
-        "linux",
-        "unix",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Embedded Software Engineer (Associate or Experienced) Company: The Boeing Company The Boeing Company is currently seeking an Embedded Software Engineer (Associate or Experienced) to support our BGS C-…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:03:54.012Z"
@@ -7342,45 +7374,6 @@
     "job_posted_at": "2026-04-10T02:24:41.164Z"
   },
   {
-    "job_id": "workday-boston-dynamics-R2468",
-    "job_title": "Field Service Engineer (Memphis, TN)",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Memphis",
-    "job_state": "TN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Memphis-TN/Field-Service-Engineer--Memphis--TN-_R2468",
-    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "906d6aae512bbbc1781ce8bb0f6e2d3ea649ff874689fd0cb8a91f0a249fcc08",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "crm",
-        "robotics"
-      ],
-      "sponsors_visa": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "As a Field Service Engineer (Memphis, TN), you will help to strengthen our world-class service and support efforts to meet the demands of our customers.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T00:47:02.392Z"
-  },
-  {
     "job_id": "workday-boston-dynamics-R2277",
     "job_title": "Robotics Technician V",
     "employer_name": "Boston Dynamics",
@@ -7424,6 +7417,45 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Boston Dynamics is seeking an R&D Robotics Technician .",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T00:47:02.392Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2468",
+    "job_title": "Field Service Engineer (Memphis, TN)",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Memphis",
+    "job_state": "TN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Memphis-TN/Field-Service-Engineer--Memphis--TN-_R2468",
+    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "906d6aae512bbbc1781ce8bb0f6e2d3ea649ff874689fd0cb8a91f0a249fcc08",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "crm",
+        "robotics"
+      ],
+      "sponsors_visa": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "As a Field Service Engineer (Memphis, TN), you will help to strengthen our world-class service and support efforts to meet the demands of our customers.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T00:47:02.392Z"
@@ -9827,84 +9859,6 @@
     "job_posted_at": "2026-04-09T09:33:46.115Z"
   },
   {
-    "job_id": "workday-leidos-R-00180343",
-    "job_title": "Long Haul Driver",
-    "employer_name": "Leidos",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Long-Haul-Driver_R-00180343",
-    "job_posted_at_datetime_utc": "2026-04-09T07:44:02.895Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0ba3be97b1ad6983db76dd41757846cf7ce03c6cdc9d36fc5cd05bc6f8dedaee",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "hydraulics",
-        "pneumatic"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Description We are seeking a highly organized and detail-oriented Long-Haul Driver who is responsible for providing secure, DOT-compliant transportation services involving classified materials, eq…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:44:02.895Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180344",
-    "job_title": "Long Haul Driver",
-    "employer_name": "Leidos",
-    "job_city": "Aurora",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Aurora-CO/Long-Haul-Driver_R-00180344-1",
-    "job_posted_at_datetime_utc": "2026-04-09T07:44:02.895Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f2f781453e5e0211a94909499ad2fad16d095e1cf69afae9492a2fcff6565e54",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "hydraulics",
-        "pneumatic"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Description We are seeking a highly organized and detail-oriented Long-Haul Driver who is responsible for providing secure, DOT-compliant transportation services involving classified materials, eq…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:44:02.895Z"
-  },
-  {
     "job_id": "workday-leidos-R-00180475",
     "job_title": "Systems and Reliability Engineer",
     "employer_name": "Leidos",
@@ -10364,6 +10318,84 @@
     "job_posted_at": "2026-04-09T07:44:02.895Z"
   },
   {
+    "job_id": "workday-leidos-R-00180343",
+    "job_title": "Long Haul Driver",
+    "employer_name": "Leidos",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Long-Haul-Driver_R-00180343",
+    "job_posted_at_datetime_utc": "2026-04-09T07:44:02.895Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0ba3be97b1ad6983db76dd41757846cf7ce03c6cdc9d36fc5cd05bc6f8dedaee",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "hydraulics",
+        "pneumatic"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description We are seeking a highly organized and detail-oriented Long-Haul Driver who is responsible for providing secure, DOT-compliant transportation services involving classified materials, eq…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:44:02.895Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180344",
+    "job_title": "Long Haul Driver",
+    "employer_name": "Leidos",
+    "job_city": "Aurora",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Aurora-CO/Long-Haul-Driver_R-00180344-1",
+    "job_posted_at_datetime_utc": "2026-04-09T07:44:02.895Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f2f781453e5e0211a94909499ad2fad16d095e1cf69afae9492a2fcff6565e54",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "hydraulics",
+        "pneumatic"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description We are seeking a highly organized and detail-oriented Long-Haul Driver who is responsible for providing secure, DOT-compliant transportation services involving classified materials, eq…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:44:02.895Z"
+  },
+  {
     "job_id": "workday-workday-inc-JR-0105089",
     "job_title": "Software Development Engineer (US Federal)",
     "employer_name": "Workday Inc",
@@ -10745,6 +10777,187 @@
     "job_posted_at": "2026-04-09T07:06:25.982Z"
   },
   {
+    "job_id": "workday-rtx-01836506",
+    "job_title": "Mechanical Engineer I",
+    "employer_name": "RTX",
+    "job_city": "AZ-TUCSON-928 ~ 1151 E Hermans Rd ~ MULTI PURPOSE FAC 928",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-I_01836506",
+    "job_posted_at_datetime_utc": "2026-04-09T07:06:25.981Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "54651f14b30fa06f286bc8ac12ac9c7e585f6ce6f96a963517e870806ad0f151",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "gd&t",
+        "geometric dimensioning",
+        "less",
+        "windchill"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-09 Country: United States of America Location: US-AZ-TUCSON-928 ~ 1151 E Hermans Rd ~ MULTI PURPOSE FAC 928 Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:06:25.981Z"
+  },
+  {
+    "job_id": "workday-rtx-01832092",
+    "job_title": "Grinding Process Engineer (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Grinding-Process-Engineer--Onsite-_01832092",
+    "job_posted_at_datetime_utc": "2026-04-09T07:06:25.981Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6d57130ea58f6dc0f45af13f0a62488bcf4805277121e88d96448c1b651426b8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "as9100",
+        "cam",
+        "gd&t",
+        "lean",
+        "lean manufacturing",
+        "nx",
+        "pfmea",
+        "process improvement",
+        "project management",
+        "ray",
+        "root cause analysis",
+        "siemens nx",
+        "six sigma",
+        "statistical analysis",
+        "statistical process control"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-09 Country: United States of America Location: US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:06:25.981Z"
+  },
+  {
+    "job_id": "workday-rtx-01835726",
+    "job_title": "Manufacturing Automation Technician (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Manufacturing-Automation-Technician--Onsite-_01835726",
+    "job_posted_at_datetime_utc": "2026-04-09T07:06:25.981Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cb83274d792021743e8d3b8391d4f30dead08cae5c83622f41cef93b0024f078",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "mes",
+        "microsoft office",
+        "plc",
+        "pneumatic",
+        "sap"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-09 Country: United States of America Location: US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:06:25.981Z"
+  },
+  {
+    "job_id": "workday-rtx-01831416",
+    "job_title": "Communication Systems Interface Engineer",
+    "employer_name": "RTX",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Communication-Systems-Interface-Engineer_01831416",
+    "job_posted_at_datetime_utc": "2026-04-09T07:06:25.981Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "60469fc993e73c770ade849b519c7d961289df798220d57ac78200b92e2f77fb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "jira",
+        "mil-std",
+        "oscilloscope",
+        "python",
+        "scrum",
+        "vba"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-03-26 Country: United States of America Location: US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6 Position Role Type: Hybrid U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:06:25.981Z"
+  },
+  {
     "job_id": "workday-rtx-01836729",
     "job_title": "HWIL Mechanical Engineer - P2",
     "employer_name": "RTX",
@@ -10962,187 +11175,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-09 Country: United States of America Location: US-AZ-TUCSON-9022 ~ 9022 S Rita Rd ~ BLDG 9022 Position Role Type: Onsite U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:06:25.981Z"
-  },
-  {
-    "job_id": "workday-rtx-01836506",
-    "job_title": "Mechanical Engineer I",
-    "employer_name": "RTX",
-    "job_city": "AZ-TUCSON-928 ~ 1151 E Hermans Rd ~ MULTI PURPOSE FAC 928",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-I_01836506",
-    "job_posted_at_datetime_utc": "2026-04-09T07:06:25.981Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "54651f14b30fa06f286bc8ac12ac9c7e585f6ce6f96a963517e870806ad0f151",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "gd&t",
-        "geometric dimensioning",
-        "less",
-        "windchill"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Date Posted: 2026-04-09 Country: United States of America Location: US-AZ-TUCSON-928 ~ 1151 E Hermans Rd ~ MULTI PURPOSE FAC 928 Position Role Type: Onsite U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:06:25.981Z"
-  },
-  {
-    "job_id": "workday-rtx-01832092",
-    "job_title": "Grinding Process Engineer (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Grinding-Process-Engineer--Onsite-_01832092",
-    "job_posted_at_datetime_utc": "2026-04-09T07:06:25.981Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6d57130ea58f6dc0f45af13f0a62488bcf4805277121e88d96448c1b651426b8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "as9100",
-        "cam",
-        "gd&t",
-        "lean",
-        "lean manufacturing",
-        "nx",
-        "pfmea",
-        "process improvement",
-        "project management",
-        "ray",
-        "root cause analysis",
-        "siemens nx",
-        "six sigma",
-        "statistical analysis",
-        "statistical process control"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Date Posted: 2026-04-09 Country: United States of America Location: US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC Position Role Type: Onsite U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:06:25.981Z"
-  },
-  {
-    "job_id": "workday-rtx-01835726",
-    "job_title": "Manufacturing Automation Technician (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Manufacturing-Automation-Technician--Onsite-_01835726",
-    "job_posted_at_datetime_utc": "2026-04-09T07:06:25.981Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cb83274d792021743e8d3b8391d4f30dead08cae5c83622f41cef93b0024f078",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "mes",
-        "microsoft office",
-        "plc",
-        "pneumatic",
-        "sap"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Date Posted: 2026-04-09 Country: United States of America Location: US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 Position Role Type: Onsite U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:06:25.981Z"
-  },
-  {
-    "job_id": "workday-rtx-01831416",
-    "job_title": "Communication Systems Interface Engineer",
-    "employer_name": "RTX",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Communication-Systems-Interface-Engineer_01831416",
-    "job_posted_at_datetime_utc": "2026-04-09T07:06:25.981Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "60469fc993e73c770ade849b519c7d961289df798220d57ac78200b92e2f77fb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "jira",
-        "mil-std",
-        "oscilloscope",
-        "python",
-        "scrum",
-        "vba"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Date Posted: 2026-03-26 Country: United States of America Location: US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6 Position Role Type: Hybrid U.S.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T07:06:25.981Z"
@@ -11541,6 +11573,47 @@
     "job_posted_at": "2026-04-09T07:05:51.551Z"
   },
   {
+    "job_id": "workday-northrop-grumman-R10220633",
+    "job_title": "Electrical Engineer 4",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Alabama-Marshall Space Flight Center",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Marshall-Space-Flight-Center/Electrical-Engineer-4_R10220633",
+    "job_posted_at_datetime_utc": "2026-04-09T07:05:45.918Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ed1e35b8788500e607f7a1e7598ebdbb124dd001160c150af669c8d8b5404486",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "http",
+        "https",
+        "mil-std",
+        "program management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "RELOCATION ASSISTANCE: Relocation assistance may be available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: None TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have inc…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:05:45.918Z"
+  },
+  {
     "job_id": "workday-northrop-grumman-R10229094",
     "job_title": "Engineering Technician 3",
     "employer_name": "Northrop Grumman",
@@ -11809,22 +11882,23 @@
     "job_posted_at": "2026-04-09T07:05:45.918Z"
   },
   {
-    "job_id": "workday-northrop-grumman-R10220633",
-    "job_title": "Electrical Engineer 4",
+    "job_id": "workday-northrop-grumman-R10228777",
+    "job_title": "Engineering Technician 2 / Engineering Tech 3",
     "employer_name": "Northrop Grumman",
-    "job_city": "Alabama-Marshall Space Flight Center",
+    "job_city": "2 Locations",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Marshall-Space-Flight-Center/Electrical-Engineer-4_R10220633",
-    "job_posted_at_datetime_utc": "2026-04-09T07:05:45.918Z",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Engineering-Technician-2---Engineering-Tech-3_R10228777",
+    "job_posted_at_datetime_utc": "2026-04-09T07:05:45.917Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "ed1e35b8788500e607f7a1e7598ebdbb124dd001160c150af669c8d8b5404486",
+    "fingerprint": "ee12c828f7871d4b12f77ee1cc3106e587f9187bb6348926f7a09053171b7ab2",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "hardware"
+        "hardware",
+        "manufacturing"
       ],
       "locations": [
         "us"
@@ -11836,18 +11910,18 @@
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [
+        "assembly",
         "http",
-        "https",
-        "mil-std",
-        "program management"
+        "linux",
+        "networking"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": "RELOCATION ASSISTANCE: Relocation assistance may be available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: None TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have inc…",
+      "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incre…",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-09T07:05:45.918Z"
+    "job_posted_at": "2026-04-09T07:05:45.917Z"
   },
   {
     "job_id": "workday-northrop-grumman-R10221628",
@@ -12060,48 +12134,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: None TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incredi…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:05:45.917Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10228777",
-    "job_title": "Engineering Technician 2 / Engineering Tech 3",
-    "employer_name": "Northrop Grumman",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Engineering-Technician-2---Engineering-Tech-3_R10228777",
-    "job_posted_at_datetime_utc": "2026-04-09T07:05:45.917Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ee12c828f7871d4b12f77ee1cc3106e587f9187bb6348926f7a09053171b7ab2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "http",
-        "linux",
-        "networking"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incre…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T07:05:45.917Z"
@@ -12353,129 +12385,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T07:05:19.142Z"
-  },
-  {
-    "job_id": "workday-micron-JR95038",
-    "job_title": "Package Design Engineer",
-    "employer_name": "Micron",
-    "job_city": "SIG Building",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/Package-Design-Engineer_JR95038",
-    "job_posted_at_datetime_utc": "2026-04-09T07:05:14.565Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ed171b5439f53534c134fa8aee4913472d900274623793bddd93552693d49c5f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "cad",
-        "cadence",
-        "routing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advanc…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:05:14.565Z"
-  },
-  {
-    "job_id": "workday-micron-JR95300",
-    "job_title": "Product Engineer, Embedded DEG",
-    "employer_name": "Micron",
-    "job_city": "Fab 6",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Product-Engineer--Embedded-DEG_JR95300",
-    "job_posted_at_datetime_utc": "2026-04-09T07:05:14.565Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4733c8fb8112c9422208912029ab93f9b8aaa48fb1ffaa54bc2e358ad56aaf36",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "failure mode",
-        "jmp",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advanc…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:05:14.565Z"
-  },
-  {
-    "job_id": "workday-micron-JR97625",
-    "job_title": "Change Management Technician",
-    "employer_name": "Micron",
-    "job_city": "Boise ID Main Site",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Change-Management-Technician_JR97625",
-    "job_posted_at_datetime_utc": "2026-04-09T07:05:14.565Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "41e84f3c119387fa75e8e6e385ee429971b342b7e3337d3b3cdd335ab3417c25",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "excel",
-        "microsoft office",
-        "spc",
-        "wafer"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advanc…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:05:14.565Z"
   },
   {
     "job_id": "workday-micron-JR91619",
@@ -12769,6 +12678,129 @@
         "data science",
         "excel",
         "finite element analysis",
+        "wafer"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advanc…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:05:14.565Z"
+  },
+  {
+    "job_id": "workday-micron-JR95038",
+    "job_title": "Package Design Engineer",
+    "employer_name": "Micron",
+    "job_city": "SIG Building",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/Package-Design-Engineer_JR95038",
+    "job_posted_at_datetime_utc": "2026-04-09T07:05:14.565Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ed171b5439f53534c134fa8aee4913472d900274623793bddd93552693d49c5f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad",
+        "cadence",
+        "routing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advanc…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:05:14.565Z"
+  },
+  {
+    "job_id": "workday-micron-JR95300",
+    "job_title": "Product Engineer, Embedded DEG",
+    "employer_name": "Micron",
+    "job_city": "Fab 6",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Product-Engineer--Embedded-DEG_JR95300",
+    "job_posted_at_datetime_utc": "2026-04-09T07:05:14.565Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4733c8fb8112c9422208912029ab93f9b8aaa48fb1ffaa54bc2e358ad56aaf36",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "failure mode",
+        "jmp",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advanc…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:05:14.565Z"
+  },
+  {
+    "job_id": "workday-micron-JR97625",
+    "job_title": "Change Management Technician",
+    "employer_name": "Micron",
+    "job_city": "Boise ID Main Site",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Change-Management-Technician_JR97625",
+    "job_posted_at_datetime_utc": "2026-04-09T07:05:14.565Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "41e84f3c119387fa75e8e6e385ee429971b342b7e3337d3b3cdd335ab3417c25",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "excel",
+        "microsoft office",
+        "spc",
         "wafer"
       ],
       "sponsors_visa": null,
@@ -13164,93 +13196,6 @@
     "job_posted_at": "2026-04-09T07:05:05.095Z"
   },
   {
-    "job_id": "workday-intel-JR0282795",
-    "job_title": "Process Integration and Development Engineer",
-    "employer_name": "Intel",
-    "job_city": "US",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Development-Engineer_JR0282795",
-    "job_posted_at_datetime_utc": "2026-04-09T07:05:01.880Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4719cba68a150815b40e0da97bc8d9de0fd9e4815c587e3de86569a544db42f5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "failure mode",
-        "fmea",
-        "jmp",
-        "minitab",
-        "python",
-        "spc",
-        "sql",
-        "statistical analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Details: Job Description: Join Intel and be part of a dynamic team that is shaping the future of semiconductor technology.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:05:01.880Z"
-  },
-  {
-    "job_id": "workday-intel-JR0281386",
-    "job_title": "Manufacturing Equipment Technician (MTE) - Night Shift 6",
-    "employer_name": "Intel",
-    "job_city": "US",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Manufacturing-Equipment-Technician--MTE----Night-Shift-6_JR0281386",
-    "job_posted_at_datetime_utc": "2026-04-09T07:05:01.880Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8d88aed39553f7ceb36643310a4a48ad1f59b367e390c02b05e50710acac95f7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cleanroom",
-        "data analysis",
-        "microsoft office",
-        "root cause analysis",
-        "wafer"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Details: Job Description: Join Intel's Advanced Packaging Technology Development - Substrate and Wafer Assembly (ATPD: SWA) team and help us fulfill our mission to be the supplier of choice for le…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:05:01.880Z"
-  },
-  {
     "job_id": "workday-intel-JR0282485",
     "job_title": "Cloud Application Development Engineer",
     "employer_name": "Intel",
@@ -13379,6 +13324,93 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: The primary responsibilities for this role will include, but are not limited to: Performs various administrative, organizational, financial, operational, and project rela…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:05:01.880Z"
+  },
+  {
+    "job_id": "workday-intel-JR0282795",
+    "job_title": "Process Integration and Development Engineer",
+    "employer_name": "Intel",
+    "job_city": "US",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Development-Engineer_JR0282795",
+    "job_posted_at_datetime_utc": "2026-04-09T07:05:01.880Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4719cba68a150815b40e0da97bc8d9de0fd9e4815c587e3de86569a544db42f5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "failure mode",
+        "fmea",
+        "jmp",
+        "minitab",
+        "python",
+        "spc",
+        "sql",
+        "statistical analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Details: Job Description: Join Intel and be part of a dynamic team that is shaping the future of semiconductor technology.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:05:01.880Z"
+  },
+  {
+    "job_id": "workday-intel-JR0281386",
+    "job_title": "Manufacturing Equipment Technician (MTE) - Night Shift 6",
+    "employer_name": "Intel",
+    "job_city": "US",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Manufacturing-Equipment-Technician--MTE----Night-Shift-6_JR0281386",
+    "job_posted_at_datetime_utc": "2026-04-09T07:05:01.880Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8d88aed39553f7ceb36643310a4a48ad1f59b367e390c02b05e50710acac95f7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cleanroom",
+        "data analysis",
+        "microsoft office",
+        "root cause analysis",
+        "wafer"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Details: Job Description: Join Intel's Advanced Packaging Technology Development - Substrate and Wafer Assembly (ATPD: SWA) team and help us fulfill our mission to be the supplier of choice for le…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T07:05:01.880Z"
@@ -18547,6 +18579,60 @@
     "job_posted_at": "2026-04-08T07:44:02.895Z"
   },
   {
+    "job_id": "workday-leidos-R-00180257",
+    "job_title": "Junior Manual Test Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Annapolis Junction",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Junior-Manual-Test-Engineer_R-00180257",
+    "job_posted_at_datetime_utc": "2026-04-08T07:10:51.210Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8e59d144953516eabff185981221c63edfe2d5c3f1fafe8e5e04ea7ae6553276",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "azure",
+        "azure devops",
+        "bdd",
+        "behavior driven development",
+        "computer science",
+        "devops",
+        "integration testing",
+        "java",
+        "jira",
+        "python",
+        "regression",
+        "reporting",
+        "shell",
+        "sql",
+        "statistics",
+        "tdd"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Junior Manual Test Engineer Leidos has a new and exciting opportunity for a Junior Manual Test Engineer .",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:10:51.210Z"
+  },
+  {
     "job_id": "workday-leidos-R-00180250",
     "job_title": "Substation Protection and Control Engineer",
     "employer_name": "Leidos",
@@ -18669,60 +18755,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Leidos’ Defense Systems - Sensor Research and Analysis Division is seeking a Senior RF Seeker Engineer to join our team.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:10:51.210Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180257",
-    "job_title": "Junior Manual Test Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Junior-Manual-Test-Engineer_R-00180257",
-    "job_posted_at_datetime_utc": "2026-04-08T07:10:51.210Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8e59d144953516eabff185981221c63edfe2d5c3f1fafe8e5e04ea7ae6553276",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "azure",
-        "azure devops",
-        "bdd",
-        "behavior driven development",
-        "computer science",
-        "devops",
-        "integration testing",
-        "java",
-        "jira",
-        "python",
-        "regression",
-        "reporting",
-        "shell",
-        "sql",
-        "statistics",
-        "tdd"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Junior Manual Test Engineer Leidos has a new and exciting opportunity for a Junior Manual Test Engineer .",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:10:51.210Z"
@@ -19697,125 +19729,6 @@
     "job_posted_at": "2026-04-08T07:05:12.778Z"
   },
   {
-    "job_id": "workday-kbr-R2116182",
-    "job_title": "Civil Structural Engineer",
-    "employer_name": "KBR",
-    "job_city": "Richmond",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Richmond-Virginia/Civil-Structural-Architectural-Engineer_R2116182",
-    "job_posted_at_datetime_utc": "2026-04-08T07:05:12.778Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9665e61f15879b90a13dfee61fa44cdb73c52505dd26bae146ce8267a7ff2155",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "less"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Title: Civil Structural Engineer KBR Sustainable Technology Solutions (STS) provides holistic and value-added solutions across the entire asset life cycle.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:05:12.778Z"
-  },
-  {
-    "job_id": "workday-kbr-R2121050",
-    "job_title": "Piping Designer",
-    "employer_name": "KBR",
-    "job_city": "Richmond",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Richmond-Virginia/Piping-Designer_R2121050",
-    "job_posted_at_datetime_utc": "2026-04-08T07:05:12.778Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0600fa2e6e68fb1951ff02319deac99fcb38b68824d06f740cd02f3b08ba8300",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "excel",
-        "less",
-        "microsoft office",
-        "routing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Title: Piping Designer KBR Sustainable Technology Solutions (STS) provides holistic and value-added solutions across the entire asset life cycle.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:05:12.778Z"
-  },
-  {
-    "job_id": "workday-kbr-R2120717",
-    "job_title": "Space Suit Design Engineer",
-    "employer_name": "KBR",
-    "job_city": "Webster",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Webster-Texas/Junior-Space-Suit-Design-Engineer_R2120717",
-    "job_posted_at_datetime_utc": "2026-04-08T07:05:12.778Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d0c42900ed1a7e6d854df3b3a85dd53a5fd2b71bb562162f80d972eae9c38efc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Title: Junior Space Suit Design Engineer Belong.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:05:12.778Z"
-  },
-  {
     "job_id": "workday-kbr-R2119366",
     "job_title": "Space Suit Program Support Technician",
     "employer_name": "KBR",
@@ -19972,6 +19885,125 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Title: Solid Handling Engineer – Pneumatic & Mechanical Conveying Systems KBR Sustainable Technology Solutions (STS) provides holistic and value-added solutions across the entire asset life cycle.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:05:12.778Z"
+  },
+  {
+    "job_id": "workday-kbr-R2116182",
+    "job_title": "Civil Structural Engineer",
+    "employer_name": "KBR",
+    "job_city": "Richmond",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Richmond-Virginia/Civil-Structural-Architectural-Engineer_R2116182",
+    "job_posted_at_datetime_utc": "2026-04-08T07:05:12.778Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9665e61f15879b90a13dfee61fa44cdb73c52505dd26bae146ce8267a7ff2155",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "less"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Title: Civil Structural Engineer KBR Sustainable Technology Solutions (STS) provides holistic and value-added solutions across the entire asset life cycle.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:05:12.778Z"
+  },
+  {
+    "job_id": "workday-kbr-R2121050",
+    "job_title": "Piping Designer",
+    "employer_name": "KBR",
+    "job_city": "Richmond",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Richmond-Virginia/Piping-Designer_R2121050",
+    "job_posted_at_datetime_utc": "2026-04-08T07:05:12.778Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0600fa2e6e68fb1951ff02319deac99fcb38b68824d06f740cd02f3b08ba8300",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "excel",
+        "less",
+        "microsoft office",
+        "routing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Title: Piping Designer KBR Sustainable Technology Solutions (STS) provides holistic and value-added solutions across the entire asset life cycle.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:05:12.778Z"
+  },
+  {
+    "job_id": "workday-kbr-R2120717",
+    "job_title": "Space Suit Design Engineer",
+    "employer_name": "KBR",
+    "job_city": "Webster",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Webster-Texas/Junior-Space-Suit-Design-Engineer_R2120717",
+    "job_posted_at_datetime_utc": "2026-04-08T07:05:12.778Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d0c42900ed1a7e6d854df3b3a85dd53a5fd2b71bb562162f80d972eae9c38efc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Title: Junior Space Suit Design Engineer Belong.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:05:12.778Z"
@@ -21156,95 +21188,6 @@
     "job_posted_at": "2026-04-08T07:04:54.020Z"
   },
   {
-    "job_id": "workday-general-motors-JR-202605546",
-    "job_title": "Hardware Development and Validation Engineer – Engine Lube/Vent",
-    "employer_name": "General Motors",
-    "job_city": "Pontiac",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Pontiac-Michigan-United-States-of-America/Hardware-Development-and-Validation-Engineer---Engine-Lube-Vent_JR-202605546",
-    "job_posted_at_datetime_utc": "2026-04-08T07:04:42.769Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b42542f1106c4f46eadabcc7aaa01c66d246a2bed002bc88a0f229649622a471",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data analysis",
-        "data quality",
-        "excel",
-        "matlab",
-        "move"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Description At General Motors, our product teams are redefining mobility.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:04:42.769Z"
-  },
-  {
-    "job_id": "workday-general-motors-JR-202606183",
-    "job_title": "Supplier Quality Engineer, Electrical",
-    "employer_name": "General Motors",
-    "job_city": "Warren",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Supplier-Quality-Engineer--Electrical_JR-202606183-1",
-    "job_posted_at_datetime_utc": "2026-04-08T07:04:42.769Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7a6cb2f8dde9c69755772b291741abb2786ede04279e3720ee9db2fc0302624f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "excel",
-        "gd&t",
-        "pcba",
-        "pfmea",
-        "ppap",
-        "root cause analysis",
-        "six sigma",
-        "spc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Description Hybrid: This role is categorized as hybrid.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:04:42.769Z"
-  },
-  {
     "job_id": "workday-general-motors-JR-202607560",
     "job_title": "Project Planning Engineer - Press Center",
     "employer_name": "General Motors",
@@ -21431,18 +21374,18 @@
     "job_posted_at": "2026-04-08T07:04:42.769Z"
   },
   {
-    "job_id": "workday-general-motors-JR-202607050",
-    "job_title": "Business Planner – Autonomous Robotics Center (ARC)",
+    "job_id": "workday-general-motors-JR-202605546",
+    "job_title": "Hardware Development and Validation Engineer – Engine Lube/Vent",
     "employer_name": "General Motors",
-    "job_city": "Warren",
+    "job_city": "Pontiac",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Business-Planner---Autonomous-Robotics-Center--ARC-_JR-202607050",
-    "job_posted_at_datetime_utc": "2026-04-08T07:04:42.768Z",
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Pontiac-Michigan-United-States-of-America/Hardware-Development-and-Validation-Engineer---Engine-Lube-Vent_JR-202605546",
+    "job_posted_at_datetime_utc": "2026-04-08T07:04:42.769Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "ec3b5c8e4c2319ee4a1f6cea440548125c096c5968d19359d86b80cc06af13ca",
+    "fingerprint": "b42542f1106c4f46eadabcc7aaa01c66d246a2bed002bc88a0f229649622a471",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -21458,19 +21401,66 @@
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [
-        "forecasting",
-        "process improvement",
-        "program management",
-        "project management",
-        "robotics"
+        "computer science",
+        "data analysis",
+        "data quality",
+        "excel",
+        "matlab",
+        "move"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": "Job Description The Autonomous Robotics Center (ARC) is looking for innovators who are passionate about tackling meaningful work that will shape the future of GM, Manufacturing and the automotive indu…",
+      "summary_line": "Job Description At General Motors, our product teams are redefining mobility.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-08T07:04:42.768Z"
+    "job_posted_at": "2026-04-08T07:04:42.769Z"
+  },
+  {
+    "job_id": "workday-general-motors-JR-202606183",
+    "job_title": "Supplier Quality Engineer, Electrical",
+    "employer_name": "General Motors",
+    "job_city": "Warren",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Supplier-Quality-Engineer--Electrical_JR-202606183-1",
+    "job_posted_at_datetime_utc": "2026-04-08T07:04:42.769Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7a6cb2f8dde9c69755772b291741abb2786ede04279e3720ee9db2fc0302624f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "excel",
+        "gd&t",
+        "pcba",
+        "pfmea",
+        "ppap",
+        "root cause analysis",
+        "six sigma",
+        "spc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description Hybrid: This role is categorized as hybrid.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:04:42.769Z"
   },
   {
     "job_id": "workday-general-motors-JR-202600657",
@@ -21510,6 +21500,48 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Job Description The Team: General Motors is at the forefront of the transformation in the automotive industry with the electrification of our portfolio and the development of industry-leading display…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:04:42.768Z"
+  },
+  {
+    "job_id": "workday-general-motors-JR-202607050",
+    "job_title": "Business Planner – Autonomous Robotics Center (ARC)",
+    "employer_name": "General Motors",
+    "job_city": "Warren",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Business-Planner---Autonomous-Robotics-Center--ARC-_JR-202607050",
+    "job_posted_at_datetime_utc": "2026-04-08T07:04:42.768Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec3b5c8e4c2319ee4a1f6cea440548125c096c5968d19359d86b80cc06af13ca",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "forecasting",
+        "process improvement",
+        "program management",
+        "project management",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description The Autonomous Robotics Center (ARC) is looking for innovators who are passionate about tackling meaningful work that will shape the future of GM, Manufacturing and the automotive indu…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:04:42.768Z"
@@ -21687,6 +21719,50 @@
     "job_posted_at": "2026-04-08T07:04:30.716Z"
   },
   {
+    "job_id": "workday-carrier-global-30203389",
+    "job_title": "Operations and Maintenance Specialist (NORESCO)",
+    "employer_name": "Carrier Global",
+    "job_city": "Florida US",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/Florida-US-Remote/Operations-and-Maintenance-Specialist--NORESCO-_30203389",
+    "job_posted_at_datetime_utc": "2026-04-08T07:04:16.513Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ce01f148c06692e0f12ad8846a26da04e2e963741b49b527086ddd4ee6ae4cfa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "commissioning",
+        "data analysis",
+        "excel",
+        "forecasting",
+        "hvac",
+        "plc",
+        "r"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "About Carrier Carrier Global Corporation, global leader in intelligent climate and energy solutions, is committed to creating innovations that bring comfort, safety and sustainability to life.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:04:16.513Z"
+  },
+  {
     "job_id": "workday-carrier-global-30203778",
     "job_title": "Commercial HVAC Journeyman Service Technician – Union",
     "employer_name": "Carrier Global",
@@ -21762,50 +21838,6 @@
       "is_simple_apply": false,
       "summary_line": "About Carrier Carrier Global Corporation, global leader in intelligent climate and energy solutions, is committed to creating innovations that bring comfort, safety and sustainability to life.",
       "is_remote": true
-    },
-    "job_posted_at": "2026-04-08T07:04:16.513Z"
-  },
-  {
-    "job_id": "workday-carrier-global-30203389",
-    "job_title": "Operations and Maintenance Specialist (NORESCO)",
-    "employer_name": "Carrier Global",
-    "job_city": "Florida US",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/Florida-US-Remote/Operations-and-Maintenance-Specialist--NORESCO-_30203389",
-    "job_posted_at_datetime_utc": "2026-04-08T07:04:16.513Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ce01f148c06692e0f12ad8846a26da04e2e963741b49b527086ddd4ee6ae4cfa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "commissioning",
-        "data analysis",
-        "excel",
-        "forecasting",
-        "hvac",
-        "plc",
-        "r"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "About Carrier Carrier Global Corporation, global leader in intelligent climate and energy solutions, is committed to creating innovations that bring comfort, safety and sustainability to life.",
-      "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:04:16.513Z"
   },
@@ -22948,45 +22980,6 @@
     "job_posted_at": "2026-04-08T07:03:43.577Z"
   },
   {
-    "job_id": "workday-broadcom-R025351",
-    "job_title": "Analog Layout Designer",
-    "employer_name": "Broadcom",
-    "job_city": "CA Irvine Alton Parkway Bldg 2",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/Analog-Layout-Designer_R025351",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:41.181Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a84090480baa86eecfcb7b1a0ee3d303573b29143e8b1c05fd116e1836680ff1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cadence",
-        "rf"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "If you are a first time user, please create your candidate login account before you apply for a job.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:41.181Z"
-  },
-  {
     "job_id": "workday-broadcom-R025017",
     "job_title": "Physical Design Engineer",
     "employer_name": "Broadcom",
@@ -23184,6 +23177,45 @@
       "required_skills": [
         "machine learning",
         "perl"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "If you are a first time user, please create your candidate login account before you apply for a job.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:03:41.181Z"
+  },
+  {
+    "job_id": "workday-broadcom-R025351",
+    "job_title": "Analog Layout Designer",
+    "employer_name": "Broadcom",
+    "job_city": "CA Irvine Alton Parkway Bldg 2",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/Analog-Layout-Designer_R025351",
+    "job_posted_at_datetime_utc": "2026-04-08T07:03:41.181Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a84090480baa86eecfcb7b1a0ee3d303573b29143e8b1c05fd116e1836680ff1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cadence",
+        "rf"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -23428,48 +23460,6 @@
     "job_posted_at": "2026-04-08T07:03:29.152Z"
   },
   {
-    "job_id": "workday-applied-materials-R2610242",
-    "job_title": "Process engineer - MicroLEDs",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-engineer-IV---MicroLEDs_R2610242",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:26.418Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9db35e8965101a9da330196dc63cd5686b2b3fc24759738d7ed2c22524cf80eb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "comsol",
-        "fiber",
-        "go",
-        "r",
-        "tolerance analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:26.418Z"
-  },
-  {
     "job_id": "workday-applied-materials-R2613729",
     "job_title": "Mechanical Engineer",
     "employer_name": "Applied Materials",
@@ -23543,6 +23533,48 @@
         "hydraulics",
         "multimeter",
         "pneumatic"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:03:26.418Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2610242",
+    "job_title": "Process engineer - MicroLEDs",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-engineer-IV---MicroLEDs_R2610242",
+    "job_posted_at_datetime_utc": "2026-04-08T07:03:26.418Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9db35e8965101a9da330196dc63cd5686b2b3fc24759738d7ed2c22524cf80eb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "comsol",
+        "fiber",
+        "go",
+        "r",
+        "tolerance analysis"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -23787,6 +23819,42 @@
     "job_posted_at": "2026-04-08T07:03:11.248Z"
   },
   {
+    "job_id": "workday-merck-&-co.-R393174",
+    "job_title": "Quality Control Technician",
+    "employer_name": "Merck & Co.",
+    "job_city": "Nebraska - Elkhorn",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Nebraska---Elkhorn/Quality-Control-Technician_R393174-1",
+    "job_posted_at_datetime_utc": "2026-04-08T07:02:16.743Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a3ca50b51a2dfdfbcb633cd36172cf314fa47b5c22d625b413439d707d271041",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description For over 130 years, we have pioneered groundbreaking science.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:02:16.743Z"
+  },
+  {
     "job_id": "workday-merck-&-co.-R391676",
     "job_title": "Specialist, Manufacturing Automation Engineer (Onsite)",
     "employer_name": "Merck & Co.",
@@ -23838,42 +23906,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Job Description Specialist – Manufacturing Automation Description The Enabling Facilities (EF) group within the Chemical Engineering Research & Development (CERD) Department is seeking a highly motiva…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:02:16.743Z"
-  },
-  {
-    "job_id": "workday-merck-&-co.-R393174",
-    "job_title": "Quality Control Technician",
-    "employer_name": "Merck & Co.",
-    "job_city": "Nebraska - Elkhorn",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Nebraska---Elkhorn/Quality-Control-Technician_R393174-1",
-    "job_posted_at_datetime_utc": "2026-04-08T07:02:16.743Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a3ca50b51a2dfdfbcb633cd36172cf314fa47b5c22d625b413439d707d271041",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Description For over 130 years, we have pioneered groundbreaking science.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:02:16.743Z"
@@ -24345,45 +24377,6 @@
     "job_posted_at": "2026-04-08T07:01:09.261Z"
   },
   {
-    "job_id": "workday-rtx-01836481",
-    "job_title": "Certification Engineer (onsite)",
-    "employer_name": "RTX",
-    "job_city": "KS-LENEXA-885 ~ 15701 W 95Th St ~ KIN01 W 95TH 885",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Certification-Engineer--onsite-_01836481",
-    "job_posted_at_datetime_utc": "2026-04-08T07:01:09.260Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4618a4863c888bb1430564a6911750db06b37b3d80b15f47b178f0171a981945",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "reporting",
-        "requirements management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Date Posted: 2026-04-08 Country: United States of America Location: US-KS-LENEXA-885 ~ 15701 W 95Th St ~ KIN01 W 95TH 885 Position Role Type: Onsite U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:01:09.260Z"
-  },
-  {
     "job_id": "workday-rtx-01836504",
     "job_title": "Mechanical Engineer I (Onsite)",
     "employer_name": "RTX",
@@ -24645,6 +24638,45 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-08 Country: United States of America Location: US-AZ-TUCSON-800 ~ 1151 E Hermans Rd ~ BLDG 800 Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:01:09.260Z"
+  },
+  {
+    "job_id": "workday-rtx-01836481",
+    "job_title": "Certification Engineer (onsite)",
+    "employer_name": "RTX",
+    "job_city": "KS-LENEXA-885 ~ 15701 W 95Th St ~ KIN01 W 95TH 885",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Certification-Engineer--onsite-_01836481",
+    "job_posted_at_datetime_utc": "2026-04-08T07:01:09.260Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4618a4863c888bb1430564a6911750db06b37b3d80b15f47b178f0171a981945",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "reporting",
+        "requirements management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-08 Country: United States of America Location: US-KS-LENEXA-885 ~ 15701 W 95Th St ~ KIN01 W 95TH 885 Position Role Type: Onsite U.S.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:01:09.260Z"
@@ -25742,173 +25774,6 @@
     "job_posted_at": "2026-04-08T01:54:46.000Z"
   },
   {
-    "job_id": "workday-sel-2025-15807",
-    "job_title": "Substation Designer",
-    "employer_name": "SEL",
-    "job_city": "Pennsylvania King of Prussia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Substation-Designer_2025-15807",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d08af32deb02cd977e816ddba2008d8ffbf76333fa984002329e47c1e05249db",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2025-18875",
-    "job_title": "Primary Equipment Technician",
-    "employer_name": "SEL",
-    "job_city": "Michigan Plymouth",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Michigan---Plymouth/Electrical-Substation-Equipment-Technician_2025-18875",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2ffc36a37d13049e039ae9cd0b892b4561d53b08398d53db2681498487fd59d2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2023-13348",
-    "job_title": "Civil Engineer",
-    "employer_name": "SEL",
-    "job_city": "Texas Houston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Civil-Engineer_2023-13348",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "be820d667dccf136ccf57dcfc7a1d9a45b3834817bd5f605b2c798f5c4f48331",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19274",
-    "job_title": "Power Systems Protection Engineer",
-    "employer_name": "SEL",
-    "job_city": "Houston",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Power-Systems-Protection-Engineer_2026-19274",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eac9c2c8cfc8115c7ee9695d1c2780899c8479b461e8b19043af15a4a9b0784b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "commissioning",
-        "project management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "We are seeking a skilled and dedicated Power System Protection Engineer to join our Engineering Services team.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2025-18499",
-    "job_title": "Associate Quality Engineer",
-    "employer_name": "SEL",
-    "job_city": "Lewiston",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Associate-Quality-Engineer_2025-18499-1",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "05afd6b70241b07c1391614be66a4522e14a6cd2df9f3ca2ce3bb282631b2248",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "fmea",
-        "iso 9001",
-        "less",
-        "process improvement",
-        "project management",
-        "spc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Schweitzer Engineering Laboratories (SEL) seeks a professional, innovative and detailed individual for our Associate Supplier Quality Engineer position.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
     "job_id": "workday-sel-2026-19992",
     "job_title": "Equipment Maintenance Specialist I - Weekend Swing Shift",
     "employer_name": "SEL",
@@ -26295,6 +26160,173 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Schweitzer Engineering Laboratories (SEL) is focused on making electric power safer, more reliable, and more economical.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2025-15807",
+    "job_title": "Substation Designer",
+    "employer_name": "SEL",
+    "job_city": "Pennsylvania King of Prussia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Substation-Designer_2025-15807",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d08af32deb02cd977e816ddba2008d8ffbf76333fa984002329e47c1e05249db",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2025-18875",
+    "job_title": "Primary Equipment Technician",
+    "employer_name": "SEL",
+    "job_city": "Michigan Plymouth",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Michigan---Plymouth/Electrical-Substation-Equipment-Technician_2025-18875",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2ffc36a37d13049e039ae9cd0b892b4561d53b08398d53db2681498487fd59d2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2023-13348",
+    "job_title": "Civil Engineer",
+    "employer_name": "SEL",
+    "job_city": "Texas Houston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Civil-Engineer_2023-13348",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "be820d667dccf136ccf57dcfc7a1d9a45b3834817bd5f605b2c798f5c4f48331",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19274",
+    "job_title": "Power Systems Protection Engineer",
+    "employer_name": "SEL",
+    "job_city": "Houston",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Power-Systems-Protection-Engineer_2026-19274",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eac9c2c8cfc8115c7ee9695d1c2780899c8479b461e8b19043af15a4a9b0784b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "commissioning",
+        "project management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "We are seeking a skilled and dedicated Power System Protection Engineer to join our Engineering Services team.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2025-18499",
+    "job_title": "Associate Quality Engineer",
+    "employer_name": "SEL",
+    "job_city": "Lewiston",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Associate-Quality-Engineer_2025-18499-1",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05afd6b70241b07c1391614be66a4522e14a6cd2df9f3ca2ce3bb282631b2248",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "fmea",
+        "iso 9001",
+        "less",
+        "process improvement",
+        "project management",
+        "spc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Schweitzer Engineering Laboratories (SEL) seeks a professional, innovative and detailed individual for our Associate Supplier Quality Engineer position.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T01:10:15.391Z"
@@ -30933,6 +30965,47 @@
     "job_posted_at": "2026-04-07T07:05:01.880Z"
   },
   {
+    "job_id": "workday-jabil-J2440381",
+    "job_title": "Industrial Engineer I",
+    "employer_name": "Jabil",
+    "job_city": "Auburn Hills",
+    "job_state": "MI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Auburn-Hills-MI/Industrial-Engineer-I_J2440381",
+    "job_posted_at_datetime_utc": "2026-04-07T07:04:55.150Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8b917272004e4c500163579e97ca3fdf827f5a08be7188d3e631a6d9568ae9b7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "forecasting",
+        "kaizen",
+        "lean manufacturing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:04:55.150Z"
+  },
+  {
     "job_id": "workday-jabil-J2445707",
     "job_title": "Mechanical Technician (404 Shift)",
     "employer_name": "Jabil",
@@ -31004,47 +31077,6 @@
         "analytics",
         "networking",
         "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:04:55.150Z"
-  },
-  {
-    "job_id": "workday-jabil-J2440381",
-    "job_title": "Industrial Engineer I",
-    "employer_name": "Jabil",
-    "job_city": "Auburn Hills",
-    "job_state": "MI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Auburn-Hills-MI/Industrial-Engineer-I_J2440381",
-    "job_posted_at_datetime_utc": "2026-04-07T07:04:55.150Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8b917272004e4c500163579e97ca3fdf827f5a08be7188d3e631a6d9568ae9b7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "forecasting",
-        "kaizen",
-        "lean manufacturing"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -32363,6 +32395,218 @@
     "job_posted_at": "2026-04-07T07:04:04.241Z"
   },
   {
+    "job_id": "workday-boeing-JR2026504718",
+    "job_title": "Non-Destructive Quality Test Specialist",
+    "employer_name": "Boeing",
+    "job_city": "North Charleston",
+    "job_state": "SC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Non-Destructive-Quality-Test-Specialist_JR2026504718-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:54.015Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5a031c9e820817cdcca1874e7c54642e10e4cf9e5b804e3af7a75520c8cd5742",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Non-Destructive Quality Test Specialist Company: The Boeing Company Boeing Commercial Airplanes (BCA) is seeking talented individuals for a Non-Destructive Test (NDT) Quality Specialist to support our…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:03:54.015Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026501045",
+    "job_title": "MP&P Engineer (Composite)",
+    "employer_name": "Boeing",
+    "job_city": "Mesa",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/MP-P-Engineer--Composite-_JR2026501045-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:54.015Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c1448bbe171fadd2bda298f2b98f5817e3c3101025cb5837cc9e8cc0b9f496db",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "excel",
+        "failure mode",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "MP&P Engineer (Composite) Company: The Boeing Company The Boeing Company is seeking a motivated collaborative M&P (Materials & Processes) Composites Engineer (Associate or Experienced) to join our Com…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:03:54.015Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026501053",
+    "job_title": "MP&P Engineer 2nd shift (Composite)",
+    "employer_name": "Boeing",
+    "job_city": "Mesa",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/MP-P-Engineer-2nd-shift--Composite-_JR2026501053-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:54.015Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4793aa75b78952bf7e319953d3041957f58db30bf4774b13023408abed601425",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "failure mode",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "MP&P Engineer 2nd shift (Composite) Company: The Boeing Company The Boeing Company is seeking a 2nd shift motivated collaborative associate or experienced Composites M&P (Materials and Processes​) Eng…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:03:54.015Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026503349",
+    "job_title": "Process Engineer (Associate or Experienced)",
+    "employer_name": "Boeing",
+    "job_city": "North Charleston",
+    "job_state": "SC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Process-Engineer--Associate-or-Experienced-_JR2026503349-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:54.015Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "30e2519359da59b66a4f59733f55035b8a680a976f797e4d79976ec0ccceb094",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "lean",
+        "process improvement",
+        "project management",
+        "six sigma"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Process Engineer (Associate or Experienced) Company: The Boeing Company Boeing South Carolina (BSC) is seeking a Process Engineer (Associate or Experienced) to join our Engineering Design Center team…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:03:54.015Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026502419",
+    "job_title": "Electromagnetic Effects Design and Analysis Engineer – Levels 2, 3 & 4",
+    "employer_name": "Boeing",
+    "job_city": "Oklahoma City",
+    "job_state": "OK",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Electromagnetic-Effects-Design-and-Analysis-Engineer---Levels-2--3---4_JR2026502419-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:54.015Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7fe018c06790187af0ff34dc111f074775c1e0957b2232eb1622438816e40b0d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "computer science",
+        "data science",
+        "electromagnetics",
+        "ltspice",
+        "matlab",
+        "mil-std",
+        "project management",
+        "pspice",
+        "reporting",
+        "rf",
+        "signal processing",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Electromagnetic Effects Design and Analysis Engineer – Levels 2, 3 & 4 Company: The Boeing Company The Boeing Electrical Engineering Core Group is seeking a broad range of or experience levels, includ…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:03:54.015Z"
+  },
+  {
     "job_id": "workday-boeing-JR2026491737",
     "job_title": "Associate Design & Analysis Engineer",
     "employer_name": "Boeing",
@@ -32575,18 +32819,18 @@
     "job_posted_at": "2026-04-07T07:03:54.015Z"
   },
   {
-    "job_id": "workday-boeing-JR2026504718",
-    "job_title": "Non-Destructive Quality Test Specialist",
+    "job_id": "workday-boeing-JR2026504235",
+    "job_title": "F/A-18 Automated Maintenance Environment (FAME) Field Service Representative",
     "employer_name": "Boeing",
-    "job_city": "North Charleston",
-    "job_state": "SC",
+    "job_city": "Lemoore",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Non-Destructive-Quality-Test-Specialist_JR2026504718-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:54.015Z",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Lemoore-CA/F-A-18-Automated-Maintenance-Environment--FAME--Field-Service-Representative_JR2026504235-2",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:54.014Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "5a031c9e820817cdcca1874e7c54642e10e4cf9e5b804e3af7a75520c8cd5742",
+    "fingerprint": "35fe3063000ffc0bd0c103b70146ec87f2a95cda794a3bb834257e0b6be0ed68",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -32595,196 +32839,22 @@
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Non-Destructive Quality Test Specialist Company: The Boeing Company Boeing Commercial Airplanes (BCA) is seeking talented individuals for a Non-Destructive Test (NDT) Quality Specialist to support our…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:03:54.015Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026501045",
-    "job_title": "MP&P Engineer (Composite)",
-    "employer_name": "Boeing",
-    "job_city": "Mesa",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/MP-P-Engineer--Composite-_JR2026501045-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:54.015Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c1448bbe171fadd2bda298f2b98f5817e3c3101025cb5837cc9e8cc0b9f496db",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [
-        "computer science",
-        "data science",
-        "excel",
-        "failure mode",
-        "microsoft office"
+        "program management"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": "MP&P Engineer (Composite) Company: The Boeing Company The Boeing Company is seeking a motivated collaborative M&P (Materials & Processes) Composites Engineer (Associate or Experienced) to join our Com…",
+      "summary_line": "F/A-18 Automated Maintenance Environment (FAME) Field Service Representative Company: Boeing Aerospace Operations Boeing Global Services (BGS) is seeking an Experienced Field Service Representative to…",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-07T07:03:54.015Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026501053",
-    "job_title": "MP&P Engineer 2nd shift (Composite)",
-    "employer_name": "Boeing",
-    "job_city": "Mesa",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/MP-P-Engineer-2nd-shift--Composite-_JR2026501053-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:54.015Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4793aa75b78952bf7e319953d3041957f58db30bf4774b13023408abed601425",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data science",
-        "failure mode",
-        "microsoft office"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "MP&P Engineer 2nd shift (Composite) Company: The Boeing Company The Boeing Company is seeking a 2nd shift motivated collaborative associate or experienced Composites M&P (Materials and Processes​) Eng…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:03:54.015Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026503349",
-    "job_title": "Process Engineer (Associate or Experienced)",
-    "employer_name": "Boeing",
-    "job_city": "North Charleston",
-    "job_state": "SC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Process-Engineer--Associate-or-Experienced-_JR2026503349-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:54.015Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "30e2519359da59b66a4f59733f55035b8a680a976f797e4d79976ec0ccceb094",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data science",
-        "lean",
-        "process improvement",
-        "project management",
-        "six sigma"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Process Engineer (Associate or Experienced) Company: The Boeing Company Boeing South Carolina (BSC) is seeking a Process Engineer (Associate or Experienced) to join our Engineering Design Center team…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:03:54.015Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026502419",
-    "job_title": "Electromagnetic Effects Design and Analysis Engineer – Levels 2, 3 & 4",
-    "employer_name": "Boeing",
-    "job_city": "Oklahoma City",
-    "job_state": "OK",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Electromagnetic-Effects-Design-and-Analysis-Engineer---Levels-2--3---4_JR2026502419-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:54.015Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7fe018c06790187af0ff34dc111f074775c1e0957b2232eb1622438816e40b0d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "computer science",
-        "data science",
-        "electromagnetics",
-        "ltspice",
-        "matlab",
-        "mil-std",
-        "project management",
-        "pspice",
-        "reporting",
-        "rf",
-        "signal processing",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Electromagnetic Effects Design and Analysis Engineer – Levels 2, 3 & 4 Company: The Boeing Company The Boeing Electrical Engineering Core Group is seeking a broad range of or experience levels, includ…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:03:54.015Z"
+    "job_posted_at": "2026-04-07T07:03:54.014Z"
   },
   {
     "job_id": "workday-boeing-JR2026499126",
@@ -33066,44 +33136,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Associate Quality Engineer Company: The Boeing Company Boeing Commercial Airplanes (BCA) is looking for Quality Engineers (Level 2) to support the Emergent Operations in Fabrication team based out of…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:03:54.014Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026504235",
-    "job_title": "F/A-18 Automated Maintenance Environment (FAME) Field Service Representative",
-    "employer_name": "Boeing",
-    "job_city": "Lemoore",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Lemoore-CA/F-A-18-Automated-Maintenance-Environment--FAME--Field-Service-Representative_JR2026504235-2",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:54.014Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "35fe3063000ffc0bd0c103b70146ec87f2a95cda794a3bb834257e0b6be0ed68",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "program management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "F/A-18 Automated Maintenance Environment (FAME) Field Service Representative Company: Boeing Aerospace Operations Boeing Global Services (BGS) is seeking an Experienced Field Service Representative to…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-07T07:03:54.014Z"
@@ -34221,6 +34253,44 @@
     "job_posted_at": "2026-04-07T07:01:09.262Z"
   },
   {
+    "job_id": "workday-philips-576955",
+    "job_title": "Field Service Engineer - MRI/CT (Travel: Orange County/South Bay, CA)",
+    "employer_name": "Philips",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-County-California-United-States/Field-Service-Engineer---MRI-CT--Travel--Orange-County-South-Bay--CA-_576955",
+    "job_posted_at_datetime_utc": "2026-04-07T07:00:56.711Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51e7b3e284b5c8a6a06b09bc7e50855eb6418184cd1b256f1944bed1ed572b27",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "networking"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title Field Service Engineer - MRI/CT (Travel: Orange County/South Bay, CA) Job Description Allow your passion for improving lives to shine in this role where you’ll be responsible for customer re…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:00:56.711Z"
+  },
+  {
     "job_id": "workday-philips-566761",
     "job_title": "Software Development Engineer-C#",
     "employer_name": "Philips",
@@ -34260,44 +34330,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Job Title Software Development Engineer /Medical Job Description Exciting opportunity as a SW Developer to join Disease Management Solutions (DMS), a business within Philips Clinical Informatics, to d…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:00:56.711Z"
-  },
-  {
-    "job_id": "workday-philips-576955",
-    "job_title": "Field Service Engineer - MRI/CT (Travel: Orange County/South Bay, CA)",
-    "employer_name": "Philips",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-County-California-United-States/Field-Service-Engineer---MRI-CT--Travel--Orange-County-South-Bay--CA-_576955",
-    "job_posted_at_datetime_utc": "2026-04-07T07:00:56.711Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51e7b3e284b5c8a6a06b09bc7e50855eb6418184cd1b256f1944bed1ed572b27",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "networking"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Title Field Service Engineer - MRI/CT (Travel: Orange County/South Bay, CA) Job Description Allow your passion for improving lives to shine in this role where you’ll be responsible for customer re…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-07T07:00:56.711Z"
@@ -34523,6 +34555,92 @@
     "job_posted_at": "2026-04-07T07:00:19.197Z"
   },
   {
+    "job_id": "workday-northrop-grumman-R10228704",
+    "job_title": "Embedded Software Engineer (Secret) - Level 2 (Chandler)",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Arizona-Chandler",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Embedded-Software-Engineer--Secret----Level-2--Chandler-_R10228704",
+    "job_posted_at_datetime_utc": "2026-04-07T07:00:17.786Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1cba3e902930a4325717a80f1e2b883fe8ff9b5d1b7e95a3c7902a79f1b8db9c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "arm",
+        "c++",
+        "ci/cd",
+        "http",
+        "https",
+        "jenkins",
+        "linux",
+        "risc-v",
+        "rtos"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: Yes CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incr…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:00:17.786Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10227517",
+    "job_title": "Laser Technician 1",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Florida-Apopka",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/Laser-Technician-1_R10227517",
+    "job_posted_at_datetime_utc": "2026-04-07T07:00:17.786Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "431af71de68cdbedf5331586d4b2f8aea2565759abfc36ac8a61b953e35dae1c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "http",
+        "photonics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: None TRAVEL: No Description At Northrop Grumman, our employees have incredible opportunities…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:00:17.786Z"
+  },
+  {
     "job_id": "workday-northrop-grumman-R10224638",
     "job_title": "Systems Safety Engineer  - Level 3/4",
     "employer_name": "Northrop Grumman",
@@ -34612,92 +34730,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "RELOCATION ASSISTANCE: Relocation assistance may be available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: Secret TRAVEL: Yes, 25% of the Time Description At Northrop Grumman, our employees have i…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:00:17.786Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10228704",
-    "job_title": "Embedded Software Engineer (Secret) - Level 2 (Chandler)",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Arizona-Chandler",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Embedded-Software-Engineer--Secret----Level-2--Chandler-_R10228704",
-    "job_posted_at_datetime_utc": "2026-04-07T07:00:17.786Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1cba3e902930a4325717a80f1e2b883fe8ff9b5d1b7e95a3c7902a79f1b8db9c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "arm",
-        "c++",
-        "ci/cd",
-        "http",
-        "https",
-        "jenkins",
-        "linux",
-        "risc-v",
-        "rtos"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: Yes CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incr…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:00:17.786Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10227517",
-    "job_title": "Laser Technician 1",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Florida-Apopka",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/Laser-Technician-1_R10227517",
-    "job_posted_at_datetime_utc": "2026-04-07T07:00:17.786Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "431af71de68cdbedf5331586d4b2f8aea2565759abfc36ac8a61b953e35dae1c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "http",
-        "photonics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: None TRAVEL: No Description At Northrop Grumman, our employees have incredible opportunities…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-07T07:00:17.786Z"
@@ -36347,6 +36379,46 @@
     "job_posted_at": "2026-04-06T23:45:18.545Z"
   },
   {
+    "job_id": "workday-sel-2025-18391",
+    "job_title": "Power Systems Designer",
+    "employer_name": "SEL",
+    "job_city": "Ohio Lewis Center",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Ohio---Lewis-Center/Power-Systems-Designer_2025-18391",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.544Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ea4e8ce76b75c8b22a0a33fbee3cb3d2cdc99ced29b52311afbe3387192a0ce6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad",
+        "cybersecurity"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The devices and software we make at SEL are embedded in the power grid.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T23:45:18.544Z"
+  },
+  {
     "job_id": "workday-sel-2025-18392",
     "job_title": "Power Systems Protection Engineer",
     "employer_name": "SEL",
@@ -36706,46 +36778,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "SEL ES is seeking a Primary Equipment Technician with mid to senior-level experience to support field commissioning and testing of primary equipment.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T23:45:18.544Z"
-  },
-  {
-    "job_id": "workday-sel-2025-18391",
-    "job_title": "Power Systems Designer",
-    "employer_name": "SEL",
-    "job_city": "Ohio Lewis Center",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Ohio---Lewis-Center/Power-Systems-Designer_2025-18391",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.544Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ea4e8ce76b75c8b22a0a33fbee3cb3d2cdc99ced29b52311afbe3387192a0ce6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "cad",
-        "cybersecurity"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "The devices and software we make at SEL are embedded in the power grid.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-06T23:45:18.544Z"
@@ -39759,45 +39791,6 @@
     "job_posted_at": "2026-04-06T07:05:19.143Z"
   },
   {
-    "job_id": "workday-micron-JR92891",
-    "job_title": "RTL Design Engineer - MTS",
-    "employer_name": "Micron",
-    "job_city": "Phoenix Aquila, India",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/RTL-Design-Engineer---MTS_JR92891",
-    "job_posted_at_datetime_utc": "2026-04-06T07:05:14.566Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a0db92a830768e89a52893dda07fb844c1467f70a73cac84fcd4b42297fd9580",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "verilog"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advanc…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T07:05:14.566Z"
-  },
-  {
     "job_id": "workday-micron-JR97284",
     "job_title": "New College Grad - Product Development Failure Analysis Engineer",
     "employer_name": "Micron",
@@ -40028,6 +40021,45 @@
         "process improvement",
         "spc",
         "statistical process control"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advanc…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T07:05:14.566Z"
+  },
+  {
+    "job_id": "workday-micron-JR92891",
+    "job_title": "RTL Design Engineer - MTS",
+    "employer_name": "Micron",
+    "job_city": "Phoenix Aquila, India",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/RTL-Design-Engineer---MTS_JR92891",
+    "job_posted_at_datetime_utc": "2026-04-06T07:05:14.566Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a0db92a830768e89a52893dda07fb844c1467f70a73cac84fcd4b42297fd9580",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "verilog"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -40471,7 +40503,7 @@
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": "Server Platform Integration Test Engineer This role has been designed as ‘’Onsite��� with an expectation that you will primarily work from an HPE office.",
+      "summary_line": "Server Platform Integration Test Engineer This role has been designed as ‘’Onsite’ with an expectation that you will primarily work from an HPE office.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-06T07:04:55.298Z"
@@ -40573,249 +40605,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-06T07:04:54.875Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30266056",
-    "job_title": "Controls Systems Technician",
-    "employer_name": "Johnson Controls",
-    "job_city": "South Dakota-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Sioux-Falls-South-Dakota-United-States-of-America/Controls-Systems-Technician_WD30266056",
-    "job_posted_at_datetime_utc": "2026-04-06T07:04:54.697Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cf615d7ac47844294600f8e248a4e0c42f42aa6dd14a2e18e0ffe12434ef8b8a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "commissioning",
-        "https",
-        "hvac",
-        "plc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Unleash your potential with the Johnson Controls team!",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T07:04:54.697Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30265220",
-    "job_title": "Fire Systems Installer",
-    "employer_name": "Johnson Controls",
-    "job_city": "Mississippi-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Richland-Mississippi-United-States-of-America/Fire-Detection-Systems-Technician_WD30265220",
-    "job_posted_at_datetime_utc": "2026-04-06T07:04:54.697Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0cbf1a767dd0d175e19744fbb7794960b1fc9062712c3d4b5479aac463946390",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "commissioning",
-        "computer science",
-        "https",
-        "plc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "We are one team, dedicated to working collaboratively to create the purposeful solutions that propel the world forward.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T07:04:54.697Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30265945",
-    "job_title": "HVAC Truck Based Chiller Journeyman Mechanic (union)",
-    "employer_name": "Johnson Controls",
-    "job_city": "Ohio-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Dublin-Ohio-United-States-of-America/HVAC-Truck-Based-Chiller-Journeyman-Mechanic--union-_WD30265945",
-    "job_posted_at_datetime_utc": "2026-04-06T07:04:54.697Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4624dda6e9a0d1fd7aed58238c78db922ba61210a5255cb4487b61866c44015",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "commissioning",
-        "hvac",
-        "plc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "What you will do Johnson Controls Inc.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T07:04:54.697Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30264741",
-    "job_title": "HVAC Controls Systems Technician",
-    "employer_name": "Johnson Controls",
-    "job_city": "California-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Folsom-California-United-States-of-America/HVAC-Controls-Systems-Technician_WD30264741",
-    "job_posted_at_datetime_utc": "2026-04-06T07:04:54.697Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "50e69dd375c0dca7bc8105accbbe79a5869f846858aed772f6a5d2b09a304554",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "commissioning",
-        "https",
-        "hvac",
-        "plc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "We are one team, dedicated to working collaboratively to create the purposeful solutions that propel the world forward.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T07:04:54.697Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30266272",
-    "job_title": "HVAC Data Center Mechanical Service Journeyman",
-    "employer_name": "Johnson Controls",
-    "job_city": "Georgia-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Roswell-Georgia-United-States-of-America/HVAC-Data-Center-Mechanical-Service-Journeyman_WD30266272",
-    "job_posted_at_datetime_utc": "2026-04-06T07:04:54.697Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4107947995c74af7e51f47a8a7921b0fbe670834d7a0787aa77d26bf12bee069",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "commissioning",
-        "hvac",
-        "plc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Unleash your potential with the Johnson Controls team!",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T07:04:54.697Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30266271",
-    "job_title": "HVAC Data Center Mechanical Service Journeyman",
-    "employer_name": "Johnson Controls",
-    "job_city": "Georgia-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Roswell-Georgia-United-States-of-America/HVAC-Data-Center-Mechanical-Service-Journeyman_WD30266271-1",
-    "job_posted_at_datetime_utc": "2026-04-06T07:04:54.697Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4107947995c74af7e51f47a8a7921b0fbe670834d7a0787aa77d26bf12bee069",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "commissioning",
-        "hvac",
-        "plc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Unleash your potential with the Johnson Controls team!",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T07:04:54.697Z"
   },
   {
     "job_id": "workday-johnson-controls-WD30266203",
@@ -41377,6 +41166,249 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "HVAC Service S r Controls Tech Build your best future with the Johnson Controls team As a global leader in smart, healthy and sustainable buildings, our mission is to reimagine the performance of buil…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T07:04:54.697Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30266056",
+    "job_title": "Controls Systems Technician",
+    "employer_name": "Johnson Controls",
+    "job_city": "South Dakota-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Sioux-Falls-South-Dakota-United-States-of-America/Controls-Systems-Technician_WD30266056",
+    "job_posted_at_datetime_utc": "2026-04-06T07:04:54.697Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cf615d7ac47844294600f8e248a4e0c42f42aa6dd14a2e18e0ffe12434ef8b8a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "commissioning",
+        "https",
+        "hvac",
+        "plc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Unleash your potential with the Johnson Controls team!",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T07:04:54.697Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30265220",
+    "job_title": "Fire Systems Installer",
+    "employer_name": "Johnson Controls",
+    "job_city": "Mississippi-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Richland-Mississippi-United-States-of-America/Fire-Detection-Systems-Technician_WD30265220",
+    "job_posted_at_datetime_utc": "2026-04-06T07:04:54.697Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0cbf1a767dd0d175e19744fbb7794960b1fc9062712c3d4b5479aac463946390",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "commissioning",
+        "computer science",
+        "https",
+        "plc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "We are one team, dedicated to working collaboratively to create the purposeful solutions that propel the world forward.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T07:04:54.697Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30265945",
+    "job_title": "HVAC Truck Based Chiller Journeyman Mechanic (union)",
+    "employer_name": "Johnson Controls",
+    "job_city": "Ohio-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Dublin-Ohio-United-States-of-America/HVAC-Truck-Based-Chiller-Journeyman-Mechanic--union-_WD30265945",
+    "job_posted_at_datetime_utc": "2026-04-06T07:04:54.697Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4624dda6e9a0d1fd7aed58238c78db922ba61210a5255cb4487b61866c44015",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "commissioning",
+        "hvac",
+        "plc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "What you will do Johnson Controls Inc.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T07:04:54.697Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30264741",
+    "job_title": "HVAC Controls Systems Technician",
+    "employer_name": "Johnson Controls",
+    "job_city": "California-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Folsom-California-United-States-of-America/HVAC-Controls-Systems-Technician_WD30264741",
+    "job_posted_at_datetime_utc": "2026-04-06T07:04:54.697Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "50e69dd375c0dca7bc8105accbbe79a5869f846858aed772f6a5d2b09a304554",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "commissioning",
+        "https",
+        "hvac",
+        "plc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "We are one team, dedicated to working collaboratively to create the purposeful solutions that propel the world forward.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T07:04:54.697Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30266272",
+    "job_title": "HVAC Data Center Mechanical Service Journeyman",
+    "employer_name": "Johnson Controls",
+    "job_city": "Georgia-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Roswell-Georgia-United-States-of-America/HVAC-Data-Center-Mechanical-Service-Journeyman_WD30266272",
+    "job_posted_at_datetime_utc": "2026-04-06T07:04:54.697Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4107947995c74af7e51f47a8a7921b0fbe670834d7a0787aa77d26bf12bee069",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "commissioning",
+        "hvac",
+        "plc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Unleash your potential with the Johnson Controls team!",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T07:04:54.697Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30266271",
+    "job_title": "HVAC Data Center Mechanical Service Journeyman",
+    "employer_name": "Johnson Controls",
+    "job_city": "Georgia-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Roswell-Georgia-United-States-of-America/HVAC-Data-Center-Mechanical-Service-Journeyman_WD30266271-1",
+    "job_posted_at_datetime_utc": "2026-04-06T07:04:54.697Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4107947995c74af7e51f47a8a7921b0fbe670834d7a0787aa77d26bf12bee069",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "commissioning",
+        "hvac",
+        "plc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Unleash your potential with the Johnson Controls team!",
       "is_remote": false
     },
     "job_posted_at": "2026-04-06T07:04:54.697Z"
@@ -43246,6 +43278,55 @@
     "job_posted_at": "2026-04-06T07:00:28.202Z"
   },
   {
+    "job_id": "workday-northrop-grumman-R10228629",
+    "job_title": "RF Microwave Design Engineer - Level 5",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Colorado-Englewood",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Englewood/RF-Microwave-Design-Engineer---Level-5_R10228629",
+    "job_posted_at_datetime_utc": "2026-04-06T07:00:17.789Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "858789add5ce55944b395ac1512c545411c30a6a763544407a5ed7498cf17271",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "fiber",
+        "http",
+        "jira",
+        "mbse",
+        "microwave",
+        "networking",
+        "project management",
+        "red hat",
+        "rf",
+        "sysml",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "RELOCATION ASSISTANCE: Relocation assistance may be available CLEARANCE REQUIRED FOR START: Yes CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T07:00:17.789Z"
+  },
+  {
     "job_id": "workday-northrop-grumman-R10228510",
     "job_title": "Sentinel - Nuclear Surety Systems Engineer 2/3 - 18404*",
     "employer_name": "Northrop Grumman",
@@ -43414,55 +43495,6 @@
         "sap",
         "system design",
         "teamcenter"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "RELOCATION ASSISTANCE: Relocation assistance may be available CLEARANCE REQUIRED FOR START: Yes CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T07:00:17.789Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10228629",
-    "job_title": "RF Microwave Design Engineer - Level 5",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Colorado-Englewood",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Englewood/RF-Microwave-Design-Engineer---Level-5_R10228629",
-    "job_posted_at_datetime_utc": "2026-04-06T07:00:17.789Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "858789add5ce55944b395ac1512c545411c30a6a763544407a5ed7498cf17271",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "fiber",
-        "http",
-        "jira",
-        "mbse",
-        "microwave",
-        "networking",
-        "project management",
-        "red hat",
-        "rf",
-        "sysml",
-        "windows"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
