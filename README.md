@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1019-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1018-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-127-blue?style=flat&logo=building)
-![Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-804-red?style=flat&logo=star)
+![Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-803-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -70,11 +70,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
 | 🏢 **Philips** | Field Service Technician 40 |  | Remote Based, Uni... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/Field-Service-Technician-40_572368) |
-| 🏢 **Caterpillar** | Product Service Engineer |  | Tucson | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Tucson-Arizona/Product-Service-Engineer_R0000362329) |
+| 🏢 **Caterpillar** | Product Service Engineer |  | Tucson | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Tucson-Arizona/Product-Service-Engineer_R0000362329) |
 | 🏢 **Caterpillar** | Technical Regulatory Compliance Engineering Specialist |  | Mossville Illinois | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Technical-Regulatory-Compliance-Engineering-Specialist_R0000357975) |
 | 🏢 **Entegris** | Process Technician |  | Bloomington, MN | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bloomington-MN/Process-Technician_REQ-11170) |
-| 🏢 **Zoom** | Site Reliability Engineer |  | San Jose + 1 more | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Site-Reliability-Engineer_R18679) |
-| 🏢 **Allegion** | Lister |  | Pico Rivera, CA | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Pico-Rivera-CA/Lister_JR35147) |
+| 🏢 **Zoom** | Site Reliability Engineer |  | San Jose + 1 more | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Site-Reliability-Engineer_R18679) |
+| 🏢 **Allegion** | Lister |  | Pico Rivera, CA | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Pico-Rivera-CA/Lister_JR35147) |
 | 🏢 **Trimble** | Software Development Engineer in Test |  | OR, Lake Oswego + 4 more | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Development-Engineer-in-Test_R54818-1) |
 | 🏢 **Trimble** | Site Reliability Engineer |  | US CO Westminster | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/FedRAMP-Site-Reliability-Engineer-II_R53064) |
 | 🏢 **SEL** | Welding Process Engineer |  | Pullman, WA | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Welding-Process-Engineer_2026-20544) |
@@ -90,9 +90,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Baker Hughes** | Field Service Engineer – Mechanical (Rotating Equipment) |  | 3 Locations | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Aero-Senior-Field-Service-Engineer_R161002) |
 | 🏢 **Arrow Electronics** | Hardware Engineer |  | Benton Harbor | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://arrow.wd1.myworkdayjobs.com/AC/job/Benton-Harbor-Michigan/Device-Engineer_R242718) |
 | 🏢 **Johnson Controls** | Fire Detection Service Technician |  | Virginia-United S... + 3 more | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Norfolk-Virginia-United-States-of-America/Fire-Detection-Service-Technician_WD30265418) |
-| 🏢 **Amazon Development Center U.S., Inc.** | Software Development Engineer, ElastiCache |  | Seattle, WA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10389123/software-development-engineer-elasticache) |
-| 🏢 **Amazon.com Services LLC** | Interdisciplinary Sys Engineer, GES NA Ops Engineering |  | Bellevue, WA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10389168/interdisciplinary-sys-engineer-ges-na-ops-engineering) |
-| 🏢 **Johnson & Johnson** | Mechanical Engineer - R&D Robotics |  | Santa Clara | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineer---R-D-Robotics_R-068317-2) |
+| 🏢 **Amazon Development Center U.S., Inc.** | Software Development Engineer, ElastiCache |  | Seattle, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10389123/software-development-engineer-elasticache) |
+| 🏢 **Amazon.com Services LLC** | Interdisciplinary Sys Engineer, GES NA Ops Engineering |  | Bellevue, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10389168/interdisciplinary-sys-engineer-ges-na-ops-engineering) |
+| 🏢 **Johnson & Johnson** | Mechanical Engineer - R&D Robotics |  | Santa Clara | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineer---R-D-Robotics_R-068317-2) |
 | 🏢 **SEL** | Mechanical Engineering Technician I |  | Lewiston, ID | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Mechanical-Engineering-Technician-I_2026-19639) |
 | 🏢 **Microchip Technology** | Engineer I-Design |  | Chandler | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://microchiphr.wd5.myworkdayjobs.com/External/job/AZ---Chandler/Engineer-I-Design_R2423-25) |
 | 🏢 **Applied Intuition** | Systems Engineer, Vehicle OS |  | Sunnyvale | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4684161005?gh_jid=4684161005) |
@@ -162,14 +162,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **PDT Partners** | Performance Engineer | ✅ Sponsor | New York, NY | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/pdtpartners/jobs/7807080) |
 | 🏢 **Zoom** | Software Development Engineer |  | San Jose | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Development-Engineer_R18969) |
 | 🏢 **Lambda** | Data Center Operations Systems Engineer (Dallas, TX) | ✅ Sponsor | Dallas, TX | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/lambda/e8e5e517-4813-40ce-934a-735dd9daa43a/application) |
-| 🏢 **Amentum** | Entry Level RF Survey Engineer with Security Clearance |  | Dahlgren | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobted.com/job/c3240e05fd277763fe884cbde5b805e4) |
-| 🏢 **Amazon Web Services, Inc. - A97** | Software Development Engineer, AWS OpenSearch |  | Austin, TX | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388836/software-development-engineer-aws-opensearch) |
-| 🏢 **Amazon.com Services LLC** | Software Development Engineer, Advertiser 1P Data |  | Palo Alto, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388872/software-development-engineer-advertiser-1p-data) |
-| 🏢 **Amazon Web Services, Inc.** | Software Development Engineer, AWS NAT Gateway |  | Seattle, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388667/software-development-engineer-aws-nat-gateway) |
-| 🏢 **Amazon Development Center U.S., Inc.** | Software Development Engineer, EC2 UltraServer Availability |  | Seattle, WA + 2 more | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388616/software-development-engineer-ec2-ultraserver-availability) |
-| 🏢 **Annapurna Labs (U.S.) Inc.** | Neuron Runtime Software Development Engineer , Neuron Runtime |  | Seattle, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388015/neuron-runtime-software-development-engineer-neuron-runtime) |
-| 🏢 **Amazon Data Services, Inc.** | Data Center Controls Engineer, AMER US West Controls |  | Boardman, OR | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388870/data-center-controls-engineer-amer-us-west-controls) |
-| 🏢 **Amazon.com Services LLC** | Robotics Systems Engineer I, Amazon Robotics Deployment Engineering |  | Seattle, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388636/robotics-systems-engineer-i-amazon-robotics-deployment-engineering) |
+| 🏢 **Amazon Web Services, Inc. - A97** | Software Development Engineer, AWS OpenSearch |  | Austin, TX | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388836/software-development-engineer-aws-opensearch) |
+| 🏢 **Amazon Development Center U.S., Inc.** | Software Development Engineer, EC2 UltraServer Availability |  | Seattle, WA + 1 more | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388616/software-development-engineer-ec2-ultraserver-availability) |
+| 🏢 **Amazon Web Services, Inc.** | Software Development Engineer, AWS NAT Gateway |  | Seattle, WA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388667/software-development-engineer-aws-nat-gateway) |
+| 🏢 **Amazon.com Services LLC** | Software Development Engineer, Advertiser 1P Data |  | Palo Alto, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388872/software-development-engineer-advertiser-1p-data) |
+| 🏢 **Annapurna Labs (U.S.) Inc.** | Neuron Runtime Software Development Engineer , Neuron Runtime |  | Seattle, WA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388015/neuron-runtime-software-development-engineer-neuron-runtime) |
+| 🏢 **Amazon Data Services, Inc.** | Data Center Controls Engineer, AMER US West Controls |  | Boardman, OR | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388870/data-center-controls-engineer-amer-us-west-controls) |
+| 🏢 **Amazon.com Services LLC** | Robotics Systems Engineer I, Amazon Robotics Deployment Engineering |  | Seattle, WA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388636/robotics-systems-engineer-i-amazon-robotics-deployment-engineering) |
+| 🏢 **Amentum** | Entry Level RF Survey Engineer with Security Clearance |  | Dahlgren | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobted.com/job/c3240e05fd277763fe884cbde5b805e4) |
 | 🏢 **SpaceX** | TIG Welder, Heatshield (Starship) |  | Starbase, TX | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8500921002?gh_jid=8500921002) |
 | 🏢 **Crusoe** | Journeyman Electrical Commissioning Technician | ✅ Sponsor | Brighton, CO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/5467b421-c662-464f-9df9-bbeed04f8c17/application) |
 | 🏢 **Warp** | Design Engineer | ✅ Sponsor | New York | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/warp/34541a68-50a9-44c2-9651-eb3ca4a39be4/application) |
@@ -206,7 +206,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **NVIDIA** | CAD Production Engineer, Library Builds |  | US CA Santa Clara | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/CAD-Production-Engineer--Library-Builds_JR2013748) |
 | 🏢 **Medtronic** | Regional AiBLE Robotics Program Development Specialist - Minneapolis, MN |  | Minneapolis | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Regional-AiBLE-Robotics-Program-Development-Specialist---Minneapolis--MN_R63833-1) |
 | 🏢 **Mastercard** | Enterprise Operations Engineer ll |  | New York City | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/New-York-City-New-York/Enterprise-Operations-Engineer-ll_R-272684-1) |
-| 🏢 **Micron** | ESD Engineer |  | Phoenix Aquila, I... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/ESD-Engineer_JR94723) |
+| 🏢 **Micron** | Package Design Engineer |  | SIG Building, ID | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/Package-Design-Engineer_JR95038) |
 | 🏢 **Moog** | FastWorks Engineer |  | Buffalo, NY | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Project-Engineer---FastWorks-Team_R-25-15398) |
 | 🏢 **FLIR Systems** | Process Engineer |  | Thousand Oaks, CA... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Thousand-Oaks-CA-TDY/Process-Engineer_REQ34185) |
 | 🏢 **FIS** | Site Reliability Engineer (CI/CD) |  | US FL JAX 347 | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Site-Reliability-Engineer--Mainframe-_JR0303518) |
@@ -219,11 +219,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Redis** | Site Reliability Engineer | ✅ Sponsor | United States | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/redis/45b1eedb-7301-4f7e-9bcb-77bfc949ac88/application) |
 | 🏢 **Red Hat** | Software Engineer - ROSA Backend Service Engineering |  | US, NC | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-US-NC/Software-Engineer---ROSA-Backend-Service-Engineering_R-055487) |
 | 🏢 **Zipline** | Service Engineer | ✅ Sponsor | South San Francisco | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.flyzipline.com/careers/open-roles?gh_jid=7693582003) |
-| 🏢 **Amazon Data Services, Inc.** | Software Development Engineer, Internet Monitoring |  | Santa Clara, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388005/software-development-engineer-internet-monitoring) |
-| 🏢 **Amazon Kuiper Manufacturing Enterprises LLC** | Software Development Engineer, Leo Payload Radio |  | Redmond, WA + 1 more | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388000/software-development-engineer-leo-payload-radio) |
-| 🏢 **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Distributed SQL |  | Seattle, WA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10387286/software-development-engineer-aws-distributed-sql) |
-| 🏢 **Amazon Data Services, Inc.** | Data Center Controls Engineer, North Carolina |  | Charlotte, NC | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10386829/data-center-controls-engineer-north-carolina) |
-| 🏢 **hiringremotejobs_net** | Security Embedded Systems Engineer; Remote |  | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://hiringremotejobs.net/job/1392009) |
+| 🏢 **Amazon Data Services, Inc.** | Software Development Engineer, Internet Monitoring |  | Santa Clara, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388005/software-development-engineer-internet-monitoring) |
+| 🏢 **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Distributed SQL |  | Seattle, WA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10387286/software-development-engineer-aws-distributed-sql) |
+| 🏢 **Amazon Kuiper Manufacturing Enterprises LLC** | Software Development Engineer, Leo Payload Radio |  | Redmond, WA + 1 more | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10388000/software-development-engineer-leo-payload-radio) |
+| 🏢 **Amazon Data Services, Inc.** | Data Center Controls Engineer, North Carolina |  | Charlotte, NC | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10386829/data-center-controls-engineer-north-carolina) |
+| 🏢 **hiringremotejobs_net** | Security Embedded Systems Engineer; Remote |  | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://hiringremotejobs.net/job/1392009) |
 | 🏢 **INFICON** | Field Service Representative I (Santa Clara, CA) |  | Santa Clara, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/INFICON2/744000119450620) |
 | 🏢 **Bosch Group** | Semi Fab Operator |  | Roseville, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000119445352) |
 | 🏢 **Western Digital** | Technologist, RFIC Design Engineer |  | San Jose, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000119437395) |
@@ -260,8 +260,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Freeform** | Process Engineer (Advanced R&D) |  | Los Angeles, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692973003) |
 | 🏢 **Freeform** | Mechanical Engineer (Complex Precision Systems) |  | Los Angeles, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692972003) |
 | 🏢 **Freeform** | Opto-Mechanical Build Engineer |  | Los Angeles, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692969003) |
-| 🏢 **Amazon Web Services, Inc.** | Software Development Engineer, Training & Certifications |  | Seattle, WA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10385710/software-development-engineer-training-certifications) |
-| 🏢 **The MITRE Corporation** | Internships in Systems, Mechanical, Aerospace Engineering or Physics |  | Unknown | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115474/Internships-in-Systems-Mechanical-Aerospace-Engineering-or-Physics) |
+| 🏢 **Amazon Web Services, Inc.** | Software Development Engineer, Training & Certifications |  | Seattle, WA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10385710/software-development-engineer-training-certifications) |
+| 🏢 **The MITRE Corporation** | Internships in Systems, Mechanical, Aerospace Engineering or Physics |  | Unknown | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115474/Internships-in-Systems-Mechanical-Aerospace-Engineering-or-Physics) |
 | 🏢 **Rocket Lab** | Spacecraft Thermal Engineer I |  | Long Beach, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7680839003) |
 | 🏢 **DoorDash** | Software Engineer, Routing - Autonomy & Robotics | ✅ Sponsor | San Francisco, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/6804376) |
 | 🏢 **Medtronic** | Prin. Manufacturing Engineer |  | Villalba | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Villalba-Puerto-Rico-United-States-of-America/Prin-Manufacturing-Engineer_R58446-1) |
@@ -416,8 +416,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Applied Materials** | Photonics Test Engineer |  | Santa Clara, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Sr-Photonics-Test-Engineer_R2516314) |
 | 🏢 **Micron** | Analog Layout Engineer |  | Phoenix Aquila, I... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Senior-Engineer-DEG---Analog-Layout_JR90723) |
 | 🏢 **Micron** | Analog Design Engineer |  | Phoenix Aquila, I... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Senior-Engineer--Analog-Design_JR90793-1) |
-| 🏢 **Annapurna Labs (U.S.) Inc.** | Post-Silicon Systems Software Validation Engineer, Annapurna Labs |  | Austin, TX | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10385290/post-silicon-systems-software-validation-engineer-annapurna-labs) |
-| 🏢 **SEL** | Power Engineer |  | Pullman, WA + 1 more | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Power-Engineer_2025-18131) |
+| 🏢 **Annapurna Labs (U.S.) Inc.** | Post-Silicon Systems Software Validation Engineer, Annapurna Labs |  | Austin, TX | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10385290/post-silicon-systems-software-validation-engineer-annapurna-labs) |
+| 🏢 **SEL** | Power Engineer |  | Charlotte, NC + 1 more | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Power-Engineer_2025-18932-1) |
 | 🏢 **SEL** | Product Engineer (Power Engineer Focus) |  | Pullman, WA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Product-Engineer_2025-18585) |
 | 🏢 **Applied Intuition** | Validation Engineer | ✅ Sponsor | Sunnyvale | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4491412005?gh_jid=4491412005) |
 | 🏢 **CACI** | Automation Test Engineer |  | Remote + 1 more | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Automation-Test-Engineer_323984) |
@@ -426,7 +426,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Broadcom** | Analog and Mixed-Signal IC Design Engineer |  | Colorado-Fort Col... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Analog-and-Mixed-Signal-IC-Design-Engineer_R024958) |
 | 🏢 **HPE (University)** | Server Platform Integration Test Engineer |  | Spring | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Server-Platform-Integration-Test-Engineer_1205462-3) |
 | 🏢 **HPE** | Server Platform Integration Test Engineer |  | Spring | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Server-Platform-Integration-Test-Engineer_1205462-1) |
-| 🏢 **Amazon Data Services, Inc.** | Electrical Design Engineer, Data Center Design Engineering |  | Seattle, WA + 1 more | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10384354/electrical-design-engineer-data-center-design-engineering) |
+| 🏢 **Amazon Data Services, Inc.** | Electrical Design Engineer, Data Center Design Engineering |  | Seattle, WA + 1 more | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10384354/electrical-design-engineer-data-center-design-engineering) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -530,7 +530,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1019 current opportunities from 127 companies**
+**🎯 1018 current opportunities from 127 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -538,6 +538,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: April 11, 2026
+**Last Updated**: April 12, 2026
 
 </div>
