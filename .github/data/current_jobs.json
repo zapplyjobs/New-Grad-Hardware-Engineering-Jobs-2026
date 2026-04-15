@@ -1,5 +1,63 @@
 [
   {
+    "job_id": "workday-blue-origin-R57396",
+    "job_title": "Software Development Engineer Sr",
+    "employer_name": "Blue Origin",
+    "job_city": "Greater Seattle Area",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-Sr_R57396",
+    "job_posted_at_datetime_utc": "2026-04-15T22:27:55.356Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "223b3e58a203f36a7505f6c22668cdebe74dcd4e9ad609bf271102e5839096eb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T22:27:55.356Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8506443002",
+    "job_title": "Automation & Controls Engineer (Starlink Production)",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8506443002?gh_jid=8506443002",
+    "job_posted_at_datetime_utc": "2026-04-15T22:23:06.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5126258690317336163189191ec09a6379ed62655130a0b652df6e8589d92571",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "manufacturing",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-15T22:23:06.000Z"
+  },
+  {
     "job_id": "workday-kbr-R2122081",
     "job_title": "Facilities Engineer",
     "employer_name": "KBR",
@@ -25,6 +83,17 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "hvac"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Title: Facilities Engineer Belong.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T22:18:53.629Z"
   },
   {
@@ -3061,97 +3130,6 @@
     "job_posted_at": "2026-04-15T17:55:27.159Z"
   },
   {
-    "job_id": "workday-sel-2026-20221",
-    "job_title": "Firmware Engineer - Protection Systems Platforms",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Firmware-Engineer---Protection-Systems-Platforms_2026-20221-1",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1fa0494716626b5923dba5f422dcc0bc6d2719e2cf9bc8be2d41fadbd999e3e6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c#",
-        "c++",
-        "computer science",
-        "embedded systems",
-        "firmware",
-        "java",
-        "less",
-        "linux",
-        "project management",
-        "python",
-        "signal processing",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "As a Firmware Engineer, a typical day might include the following: Participate in the design, implementation, and test of firmware/software systems.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19841",
-    "job_title": "Engineering Support Specialist I (Multiple Shifts)",
-    "employer_name": "SEL",
-    "job_city": "Moscow",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Moscow/Engineering-Support-Specialist-I--Multiple-Shifts-_2026-19841",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f18b54f9bf25d6fdf65ee5ac42234ed34ba4d370e310710c548a0b975afd36bd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "pcb",
-        "reverse osmosis",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The Lab and Water Engineering (LAW) Support Section is looking for members to be a part of our team at the Printed Circuit Board Factory at the Schwarz Campus in Moscow, Idaho.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
     "job_id": "workday-sel-2025-18996",
     "job_title": "Compliance Engineer - Product Homologation",
     "employer_name": "SEL",
@@ -4228,6 +4206,97 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "We are seeking a Mechanical Engineering Technician to join the Schweitzer Engineering Laboratories (SEL) Component Development team in Pullman, Washington.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20221",
+    "job_title": "Firmware Engineer - Protection Systems Platforms",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Firmware-Engineer---Protection-Systems-Platforms_2026-20221-1",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1fa0494716626b5923dba5f422dcc0bc6d2719e2cf9bc8be2d41fadbd999e3e6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c#",
+        "c++",
+        "computer science",
+        "embedded systems",
+        "firmware",
+        "java",
+        "less",
+        "linux",
+        "project management",
+        "python",
+        "signal processing",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "As a Firmware Engineer, a typical day might include the following: Participate in the design, implementation, and test of firmware/software systems.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19841",
+    "job_title": "Engineering Support Specialist I (Multiple Shifts)",
+    "employer_name": "SEL",
+    "job_city": "Moscow",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Moscow/Engineering-Support-Specialist-I--Multiple-Shifts-_2026-19841",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f18b54f9bf25d6fdf65ee5ac42234ed34ba4d370e310710c548a0b975afd36bd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "pcb",
+        "reverse osmosis",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The Lab and Water Engineering (LAW) Support Section is looking for members to be a part of our team at the Printed Circuit Board Factory at the Schwarz Campus in Moscow, Idaho.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-15T17:47:02.515Z"
@@ -16990,6 +17059,139 @@
     "job_posted_at": "2026-04-13T07:21:52.731Z"
   },
   {
+    "job_id": "workday-intel-JR0282780",
+    "job_title": "Environmental Health and Safety Engineer",
+    "employer_name": "Intel",
+    "job_city": "US",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Environmental-Health-and-Safety-Engineer_JR0282780",
+    "job_posted_at_datetime_utc": "2026-04-13T07:21:50.465Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c41553370dd9f13008dfd54c0dfa71ecf733652397317f233fb1b31d85ba8d3b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "root cause analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Details: Job Description: Note: This role requires regular onsite presence to fulfill essential job responsibilities.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:21:50.465Z"
+  },
+  {
+    "job_id": "workday-intel-JR0282670",
+    "job_title": "CPU Verification Engineer",
+    "employer_name": "Intel",
+    "job_city": "US",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Verification-Engineer_JR0282670",
+    "job_posted_at_datetime_utc": "2026-04-13T07:21:50.465Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c36467255d9317993e18f329fc5b9f73da0c8c9acded1adde89abc30da8cc815",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "c++",
+        "computer science",
+        "firmware",
+        "git",
+        "perl",
+        "python",
+        "root cause analysis",
+        "synopsys",
+        "systemverilog",
+        "verilog",
+        "vhdl"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Details: Job Description: Join Intel's Silicon Engineering Group as a CPU Design Verification Engineer and play a critical role in shaping the next generation of high-performance, power-efficient…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:21:50.465Z"
+  },
+  {
+    "job_id": "workday-intel-JR0279193",
+    "job_title": "Verification Engineer – AI SoC Development",
+    "employer_name": "Intel",
+    "job_city": "US California Folsom",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Verification-Engineer---AI-SoC-Development_JR0279193",
+    "job_posted_at_datetime_utc": "2026-04-13T07:21:50.465Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bb09ae70c8375822ba2f3730c54099d9fb69ce4f888deaa0943965e1b0fcb858",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "perl",
+        "python",
+        "regression",
+        "soc",
+        "systemverilog"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Details: Job Description: About the Role Intel's AI SoC organization develops cutting-edge products powering next-generation AI applications.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:21:50.465Z"
+  },
+  {
     "job_id": "workday-intel-JR0282843",
     "job_title": "CPU Verification Engineer",
     "employer_name": "Intel",
@@ -17299,139 +17501,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: The job Develops the logic design, register transfer level (RTL) coding, and simulation for graphics IPs (including graphics, compute, display, and media) required to gen…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:21:50.465Z"
-  },
-  {
-    "job_id": "workday-intel-JR0282780",
-    "job_title": "Environmental Health and Safety Engineer",
-    "employer_name": "Intel",
-    "job_city": "US",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Environmental-Health-and-Safety-Engineer_JR0282780",
-    "job_posted_at_datetime_utc": "2026-04-13T07:21:50.465Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c41553370dd9f13008dfd54c0dfa71ecf733652397317f233fb1b31d85ba8d3b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "root cause analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Details: Job Description: Note: This role requires regular onsite presence to fulfill essential job responsibilities.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:21:50.465Z"
-  },
-  {
-    "job_id": "workday-intel-JR0282670",
-    "job_title": "CPU Verification Engineer",
-    "employer_name": "Intel",
-    "job_city": "US",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Verification-Engineer_JR0282670",
-    "job_posted_at_datetime_utc": "2026-04-13T07:21:50.465Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c36467255d9317993e18f329fc5b9f73da0c8c9acded1adde89abc30da8cc815",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "c++",
-        "computer science",
-        "firmware",
-        "git",
-        "perl",
-        "python",
-        "root cause analysis",
-        "synopsys",
-        "systemverilog",
-        "verilog",
-        "vhdl"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Details: Job Description: Join Intel's Silicon Engineering Group as a CPU Design Verification Engineer and play a critical role in shaping the next generation of high-performance, power-efficient…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:21:50.465Z"
-  },
-  {
-    "job_id": "workday-intel-JR0279193",
-    "job_title": "Verification Engineer – AI SoC Development",
-    "employer_name": "Intel",
-    "job_city": "US California Folsom",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Verification-Engineer---AI-SoC-Development_JR0279193",
-    "job_posted_at_datetime_utc": "2026-04-13T07:21:50.465Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bb09ae70c8375822ba2f3730c54099d9fb69ce4f888deaa0943965e1b0fcb858",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "perl",
-        "python",
-        "regression",
-        "soc",
-        "systemverilog"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Details: Job Description: About the Role Intel's AI SoC organization develops cutting-edge products powering next-generation AI applications.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T07:21:50.465Z"
@@ -18513,6 +18582,215 @@
     "job_posted_at": "2026-04-13T07:20:39.998Z"
   },
   {
+    "job_id": "workday-boeing-JR2026505221",
+    "job_title": "Field Service Representative",
+    "employer_name": "Boeing",
+    "job_city": "Washington DC",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Washington-DC-DC/Field-Service-Representative_JR2026505221-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:20:39.486Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5285b48fcd57f523c465c49ddfe81cb54bc5aed78b17e98e4b16132aea1522b9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "business intelligence",
+        "cybersecurity",
+        "information security",
+        "linux",
+        "sql",
+        "windows",
+        "windows server"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Field Service Representative Company: Tapestry - G0G Tapestry Solutions, A Boeing Company, brings over 30 years of industry experience designing, implementing, training, and supporting high-quality, c…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:20:39.486Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026504684",
+    "job_title": "CH-47 Field Service Representative - Defense - India",
+    "employer_name": "Boeing",
+    "job_city": "Ridley Park",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/CH-47-Field-Service-Representative---Defense---India_JR2026504684-2",
+    "job_posted_at_datetime_utc": "2026-04-13T07:20:39.486Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "48105a974ea86f8ff2fe4327021869f289da0594525128a1fed6d14aaad159fb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "CH-47 Field Service Representative - Defense - India Company: Boeing Aerospace Operations Boeing Global Services (BGS) is seeking an Experienced Field Service Representative for technical field suppor…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:20:39.486Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026505425",
+    "job_title": "Hardware Emulation Engineer",
+    "employer_name": "Boeing",
+    "job_city": "El Segundo",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Hardware-Emulation-Engineer_JR2026505425",
+    "job_posted_at_datetime_utc": "2026-04-13T07:20:39.486Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dcdb3b39dbda9e86853d0c779f5c102586c2e56dd12dc3bb65037c53110ad9a6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "c++",
+        "firmware"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Hardware Emulation Engineer Company: The Boeing Company The product line simulation team requires a hardware emulation engineer to provide overall architecture definition and technology leadership for…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:20:39.486Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026503716",
+    "job_title": "Field Service Representative",
+    "employer_name": "Boeing",
+    "job_city": "Camp H.M. Smith",
+    "job_state": "HI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Camp-HM-Smith-HI/Field-Service-Representative_JR2026503716-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:20:39.486Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ed79f1686c651cffe0df7955a7656f41c5c2a8b7829e0ae595b5cc61323c1661",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "business intelligence",
+        "cybersecurity",
+        "information security",
+        "linux",
+        "sql",
+        "windows",
+        "windows server"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Field Service Representative Company: Tapestry - G0G Tapestry Solutions, A Boeing Company, brings over 30 years of industry experience designing, implementing, training, and supporting high-quality, c…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:20:39.486Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026497237",
+    "job_title": "Experienced Calibration Technician",
+    "employer_name": "Boeing",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Experienced-Calibration-Technician_JR2026497237-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:20:39.486Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02f89bf465e0d6f926ee3145f7c25be6b4a85c1423e861d72c52cac4989b294a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "routing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Experienced Calibration Technician Company: The Boeing Company The Boeing Metrology And Test Equipment Services (MATES) organization is looking for an Experienced Calibration Technician to join our Me…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:20:39.486Z"
+  },
+  {
     "job_id": "workday-boeing-JR2026502947",
     "job_title": "Experienced Avionics Hardware Engineer - Fighters Mission Systems",
     "employer_name": "Boeing",
@@ -18776,215 +19054,6 @@
     "job_posted_at": "2026-04-13T07:20:39.486Z"
   },
   {
-    "job_id": "workday-boeing-JR2026505221",
-    "job_title": "Field Service Representative",
-    "employer_name": "Boeing",
-    "job_city": "Washington DC",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Washington-DC-DC/Field-Service-Representative_JR2026505221-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:39.486Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5285b48fcd57f523c465c49ddfe81cb54bc5aed78b17e98e4b16132aea1522b9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "cybersecurity",
-        "information security",
-        "linux",
-        "sql",
-        "windows",
-        "windows server"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Field Service Representative Company: Tapestry - G0G Tapestry Solutions, A Boeing Company, brings over 30 years of industry experience designing, implementing, training, and supporting high-quality, c…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:20:39.486Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026504684",
-    "job_title": "CH-47 Field Service Representative - Defense - India",
-    "employer_name": "Boeing",
-    "job_city": "Ridley Park",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/CH-47-Field-Service-Representative---Defense---India_JR2026504684-2",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:39.486Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "48105a974ea86f8ff2fe4327021869f289da0594525128a1fed6d14aaad159fb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "CH-47 Field Service Representative - Defense - India Company: Boeing Aerospace Operations Boeing Global Services (BGS) is seeking an Experienced Field Service Representative for technical field suppor…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:20:39.486Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026505425",
-    "job_title": "Hardware Emulation Engineer",
-    "employer_name": "Boeing",
-    "job_city": "El Segundo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Hardware-Emulation-Engineer_JR2026505425",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:39.486Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dcdb3b39dbda9e86853d0c779f5c102586c2e56dd12dc3bb65037c53110ad9a6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "c++",
-        "firmware"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Hardware Emulation Engineer Company: The Boeing Company The product line simulation team requires a hardware emulation engineer to provide overall architecture definition and technology leadership for…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:20:39.486Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026503716",
-    "job_title": "Field Service Representative",
-    "employer_name": "Boeing",
-    "job_city": "Camp H.M. Smith",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Camp-HM-Smith-HI/Field-Service-Representative_JR2026503716-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:39.486Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ed79f1686c651cffe0df7955a7656f41c5c2a8b7829e0ae595b5cc61323c1661",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "cybersecurity",
-        "information security",
-        "linux",
-        "sql",
-        "windows",
-        "windows server"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Field Service Representative Company: Tapestry - G0G Tapestry Solutions, A Boeing Company, brings over 30 years of industry experience designing, implementing, training, and supporting high-quality, c…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:20:39.486Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026497237",
-    "job_title": "Experienced Calibration Technician",
-    "employer_name": "Boeing",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Experienced-Calibration-Technician_JR2026497237-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:39.486Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "02f89bf465e0d6f926ee3145f7c25be6b4a85c1423e861d72c52cac4989b294a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "routing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Experienced Calibration Technician Company: The Boeing Company The Boeing Metrology And Test Equipment Services (MATES) organization is looking for an Experienced Calibration Technician to join our Me…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:20:39.486Z"
-  },
-  {
     "job_id": "workday-boeing-JR2026501676",
     "job_title": "Experienced Lab Test Program Integrator",
     "employer_name": "Boeing",
@@ -19027,6 +19096,47 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T07:20:39.486Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026501557",
+    "job_title": "Electrical Cabin and Network System Design Engineer (Associate or Experienced)",
+    "employer_name": "Boeing",
+    "job_city": "Everett",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Electrical-Cabin-and-Network-System-Design-Engineer--Associate-or-Experienced-_JR2026501557-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:20:39.485Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9c8b70c9f956880075b9a8d0814f6ecca1c20a9f23db60bebf5233b2c1b32dc7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Electrical Cabin and Network System Design Engineer (Associate or Experienced) Company: The Boeing Company The Boeing Commercial Airplanes (BCA) is seeking multiple innovative and adaptable Electronic…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:20:39.485Z"
   },
   {
     "job_id": "workday-boeing-JR2026503674",
@@ -19244,47 +19354,6 @@
     "job_posted_at": "2026-04-13T07:20:39.485Z"
   },
   {
-    "job_id": "workday-boeing-JR2026501557",
-    "job_title": "Electrical Cabin and Network System Design Engineer (Associate or Experienced)",
-    "employer_name": "Boeing",
-    "job_city": "Everett",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Electrical-Cabin-and-Network-System-Design-Engineer--Associate-or-Experienced-_JR2026501557-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:39.485Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9c8b70c9f956880075b9a8d0814f6ecca1c20a9f23db60bebf5233b2c1b32dc7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data science",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Electrical Cabin and Network System Design Engineer (Associate or Experienced) Company: The Boeing Company The Boeing Commercial Airplanes (BCA) is seeking multiple innovative and adaptable Electronic…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:20:39.485Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0236556",
     "job_title": "Engineering Technician",
     "employer_name": "Booz Allen Hamilton",
@@ -19329,6 +19398,48 @@
     "job_posted_at": "2026-04-13T07:20:39.213Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0237253",
+    "job_title": "Graphic Designer, Junior",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Maxwell AFB",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Maxwell-AFB-AL/Graphic-Designer--Junior_R0237253",
+    "job_posted_at_datetime_utc": "2026-04-13T07:20:39.213Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "29c3a8b396461f799d4b46e1711dc557834cc6b2d11d357583521c587177ce63",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "adobe xd",
+        "after effects",
+        "illustrator",
+        "photoshop"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Graphic Designer, Junior The Opportunity: Provide graphics and web support to Air Force client.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:20:39.213Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237640",
     "job_title": "Electrical Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -19368,48 +19479,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Electrical Engineer The Opportunity: Are you looking for an opportunity to combine your technical skills with big picture thinking to make an impact in national security?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:20:39.213Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237253",
-    "job_title": "Graphic Designer, Junior",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Maxwell AFB",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Maxwell-AFB-AL/Graphic-Designer--Junior_R0237253",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:39.213Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "29c3a8b396461f799d4b46e1711dc557834cc6b2d11d357583521c587177ce63",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "adobe xd",
-        "after effects",
-        "illustrator",
-        "photoshop"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Graphic Designer, Junior The Opportunity: Provide graphics and web support to Air Force client.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T07:20:39.213Z"
@@ -20148,43 +20217,6 @@
     "job_posted_at": "2026-04-13T07:20:14.631Z"
   },
   {
-    "job_id": "workday-arrow-electronics-R240585",
-    "job_title": "Field Application Engineer - IP&E East Michigan",
-    "employer_name": "Arrow Electronics",
-    "job_city": "MI-Michigan",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://arrow.wd1.myworkdayjobs.com/AC/job/US-MI-Michigan-Remote-Employees/Field-Application-Engineer---IP-E-East-Michigan_R240585",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:14.631Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c6a12c61417e82004d3f089f85ce569df4443332c1db884ba57c523f2bd3854b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Position: Field Application Engineer - IP&E East Michigan Job Description: Arrow is looking for a Field Application Engineer to join our team in the East Michigan region.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:20:14.631Z"
-  },
-  {
     "job_id": "workday-arrow-electronics-R243002",
     "job_title": "Design Verification Engineer",
     "employer_name": "Arrow Electronics",
@@ -20267,6 +20299,43 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Position: Field Applications Engineer - Dallas Job Description: Are you a self-starter?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:20:14.631Z"
+  },
+  {
+    "job_id": "workday-arrow-electronics-R240585",
+    "job_title": "Field Application Engineer - IP&E East Michigan",
+    "employer_name": "Arrow Electronics",
+    "job_city": "MI-Michigan",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://arrow.wd1.myworkdayjobs.com/AC/job/US-MI-Michigan-Remote-Employees/Field-Application-Engineer---IP-E-East-Michigan_R240585",
+    "job_posted_at_datetime_utc": "2026-04-13T07:20:14.631Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c6a12c61417e82004d3f089f85ce569df4443332c1db884ba57c523f2bd3854b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Position: Field Application Engineer - IP&E East Michigan Job Description: Arrow is looking for a Field Application Engineer to join our team in the East Michigan region.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T07:20:14.631Z"
@@ -20923,56 +20992,6 @@
     "job_posted_at": "2026-04-13T07:01:28.839Z"
   },
   {
-    "job_id": "workday-rtx-01837823",
-    "job_title": "Radar & Signal Processing Engineering Specialist (Temp)",
-    "employer_name": "RTX",
-    "job_city": "MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Radar---Signal-Processing-Engineering-Specialist--Temp-_01837823",
-    "job_posted_at_datetime_utc": "2026-04-13T07:01:28.838Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "93c81fb6888fd2dced4038461f87a52bd0ac228bd2afb82ea7d6da52c1f4abd1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "bitbucket",
-        "c++",
-        "git",
-        "java",
-        "linux",
-        "matlab",
-        "oscilloscope",
-        "python",
-        "radar",
-        "rf",
-        "signal processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Date Posted: 2026-04-13 Country: United States of America Location: US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3 Position Role Type: Hybrid U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:01:28.838Z"
-  },
-  {
     "job_id": "workday-rtx-01835406",
     "job_title": "Design Engineer I - On site - Temporary",
     "employer_name": "RTX",
@@ -21055,6 +21074,56 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-13 Country: United States of America Location: US-TX-GRAND PRAIRIE-1177 ~ 1177 N Great SW Pkwy ~ 1177 GREAT SW Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:01:28.838Z"
+  },
+  {
+    "job_id": "workday-rtx-01837823",
+    "job_title": "Radar & Signal Processing Engineering Specialist (Temp)",
+    "employer_name": "RTX",
+    "job_city": "MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Radar---Signal-Processing-Engineering-Specialist--Temp-_01837823",
+    "job_posted_at_datetime_utc": "2026-04-13T07:01:28.838Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "93c81fb6888fd2dced4038461f87a52bd0ac228bd2afb82ea7d6da52c1f4abd1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "bitbucket",
+        "c++",
+        "git",
+        "java",
+        "linux",
+        "matlab",
+        "oscilloscope",
+        "python",
+        "radar",
+        "rf",
+        "signal processing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-13 Country: United States of America Location: US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3 Position Role Type: Hybrid U.S.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T07:01:28.838Z"
@@ -23238,43 +23307,6 @@
     "job_posted_at": "2026-04-11T07:51:11.893Z"
   },
   {
-    "job_id": "workday-sel-2026-20411",
-    "job_title": "Associate Test Engineer",
-    "employer_name": "SEL",
-    "job_city": "Lewiston",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Associate-Test-Engineer_2026-20411",
-    "job_posted_at_datetime_utc": "2026-04-11T07:39:07.442Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "60ac38847b607d6ef183c2d578a977a98e1e2b3baaf3bf9ba9a10e3b88fc531d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Essential Duties and Responsibilities 1.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-11T07:39:07.442Z"
-  },
-  {
     "job_id": "workday-sel-2026-20544",
     "job_title": "Welding Process Engineer",
     "employer_name": "SEL",
@@ -23307,6 +23339,43 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "We are seek ing a professional, innovative and detail-oriented individual for our Welding Process Engineer position within our Vertical Integration Division .",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-11T07:39:07.442Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20411",
+    "job_title": "Associate Test Engineer",
+    "employer_name": "SEL",
+    "job_city": "Lewiston",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Associate-Test-Engineer_2026-20411",
+    "job_posted_at_datetime_utc": "2026-04-11T07:39:07.442Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "60ac38847b607d6ef183c2d578a977a98e1e2b3baaf3bf9ba9a10e3b88fc531d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Essential Duties and Responsibilities 1.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-11T07:39:07.442Z"
@@ -23409,54 +23478,6 @@
     "job_posted_at": "2026-04-11T07:36:03.652Z"
   },
   {
-    "job_id": "workday-boston-dynamics-R2537",
-    "job_title": "Robotics Engineer- Stretch Perception",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Robotics-Engineer--Stretch-Perception_R2537",
-    "job_posted_at_datetime_utc": "2026-04-11T07:36:03.651Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "65e87cddbe6a22a6105474a9bc8e8f60c18887a670e837d28707f8382596c842",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "data analysis",
-        "lidar",
-        "move",
-        "multimodal",
-        "neural network",
-        "robotics",
-        "sensor fusion",
-        "unit testing"
-      ],
-      "sponsors_visa": true,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "We are looking for a motivated Perception Engineer to join the Stretch Perception Team.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-11T07:36:03.651Z"
-  },
-  {
     "job_id": "workday-boston-dynamics-R2538",
     "job_title": "Robotics Operations and Triage Engineer- Stretch",
     "employer_name": "Boston Dynamics",
@@ -23547,6 +23568,54 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Stretch is Boston Dynamics’ robot built to handle multiple applications in warehouse environments.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-11T07:36:03.651Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2537",
+    "job_title": "Robotics Engineer- Stretch Perception",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Robotics-Engineer--Stretch-Perception_R2537",
+    "job_posted_at_datetime_utc": "2026-04-11T07:36:03.651Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "65e87cddbe6a22a6105474a9bc8e8f60c18887a670e837d28707f8382596c842",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data analysis",
+        "lidar",
+        "move",
+        "multimodal",
+        "neural network",
+        "robotics",
+        "sensor fusion",
+        "unit testing"
+      ],
+      "sponsors_visa": true,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "We are looking for a motivated Perception Engineer to join the Stretch Perception Team.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-11T07:36:03.651Z"
@@ -26549,52 +26618,6 @@
     "job_posted_at": "2026-04-10T07:03:54.012Z"
   },
   {
-    "job_id": "workday-boeing-JR2026500059",
-    "job_title": "Wire Installation Engineer",
-    "employer_name": "Boeing",
-    "job_city": "Tukwila",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Wire-Installation-Engineer_JR2026500059-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:54.012Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "73c8347edc043ed529a3a94d3b38db028362f98c5bad4eed12f7a2ccfda8ba62",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "catia",
-        "less",
-        "nx",
-        "routing",
-        "siemens nx",
-        "solidworks",
-        "system design",
-        "value stream"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Wire Installation Engineer Company: The Boeing Company The Boeing Defense, Space & Security (BDS) Mobility & Surveillance (M&S) Division is seeking multiple Associate Wire Installation Engineers to su…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:54.012Z"
-  },
-  {
     "job_id": "workday-boeing-JR2026504165",
     "job_title": "Facilities Mechanical Engineer (Entry or Associate)",
     "employer_name": "Boeing",
@@ -26921,6 +26944,52 @@
     "job_posted_at": "2026-04-10T07:03:54.012Z"
   },
   {
+    "job_id": "workday-boeing-JR2026500059",
+    "job_title": "Wire Installation Engineer",
+    "employer_name": "Boeing",
+    "job_city": "Tukwila",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Wire-Installation-Engineer_JR2026500059-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:54.012Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "73c8347edc043ed529a3a94d3b38db028362f98c5bad4eed12f7a2ccfda8ba62",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "catia",
+        "less",
+        "nx",
+        "routing",
+        "siemens nx",
+        "solidworks",
+        "system design",
+        "value stream"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Wire Installation Engineer Company: The Boeing Company The Boeing Defense, Space & Security (BDS) Mobility & Surveillance (M&S) Division is seeking multiple Associate Wire Installation Engineers to su…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:54.012Z"
+  },
+  {
     "job_id": "workday-boeing-JR2026496079",
     "job_title": "Aircraft Environmental Control Systems(ECS) Design & Analysis Engineer (Associate and Experienced)",
     "employer_name": "Boeing",
@@ -27107,6 +27176,91 @@
     "job_posted_at": "2026-04-10T07:03:50.603Z"
   },
   {
+    "job_id": "workday-caci-324716",
+    "job_title": "OSINT Assessments and Analysis Specialist",
+    "employer_name": "CACI",
+    "job_city": "US FL Macdill AFB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-FL-Macdill-AFB/OSINT-Assessments-and-Analysis-Specialist_324716",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:43.576Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ac3cc2b2b29b15dd3cf6714768f27f962fbc7219072957ef04b61e9533f207e4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: OSINT Assessments and Analysis Specialist Job Category: Intelligence Time Type: Full time Minimum Clearance Required to Start: Secret Employee Type: Regular Percentage of Travel Required: N…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:43.576Z"
+  },
+  {
+    "job_id": "workday-caci-324758",
+    "job_title": "Mechanical Engineer Subject Matter Expert",
+    "employer_name": "CACI",
+    "job_city": "US CO Denver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Mechanical-Engineer-Subject-Matter-Expert_324758-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:43.576Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "509eb603a29c9bf9bff1fbe48d126587c63a3eb888469071614300e493c299c2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "matlab",
+        "microsoft office",
+        "python",
+        "solidworks",
+        "system design",
+        "visio"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Mechanical Engineer Subject Matter Expert Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of Trav…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:43.576Z"
+  },
+  {
     "job_id": "workday-caci-324754",
     "job_title": "Expert Graphic Designer",
     "employer_name": "CACI",
@@ -27274,91 +27428,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Title: NASA Artemis Next Generation Space Suit Embedded Controller Software Engineer Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: None Employee Type: Regular…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:43.576Z"
-  },
-  {
-    "job_id": "workday-caci-324716",
-    "job_title": "OSINT Assessments and Analysis Specialist",
-    "employer_name": "CACI",
-    "job_city": "US FL Macdill AFB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-FL-Macdill-AFB/OSINT-Assessments-and-Analysis-Specialist_324716",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:43.576Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ac3cc2b2b29b15dd3cf6714768f27f962fbc7219072957ef04b61e9533f207e4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "microsoft office"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: OSINT Assessments and Analysis Specialist Job Category: Intelligence Time Type: Full time Minimum Clearance Required to Start: Secret Employee Type: Regular Percentage of Travel Required: N…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:43.576Z"
-  },
-  {
-    "job_id": "workday-caci-324758",
-    "job_title": "Mechanical Engineer Subject Matter Expert",
-    "employer_name": "CACI",
-    "job_city": "US CO Denver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Mechanical-Engineer-Subject-Matter-Expert_324758-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:43.576Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "509eb603a29c9bf9bff1fbe48d126587c63a3eb888469071614300e493c299c2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "matlab",
-        "microsoft office",
-        "python",
-        "solidworks",
-        "system design",
-        "visio"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Mechanical Engineer Subject Matter Expert Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of Trav…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:03:43.576Z"
@@ -28071,6 +28140,57 @@
     "job_posted_at": "2026-04-10T07:00:58.576Z"
   },
   {
+    "job_id": "workday-trimble-R55596",
+    "job_title": "Vehicle Systems Test Engineer",
+    "employer_name": "Trimble",
+    "job_city": "CO, Westminster",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Vehicle-Systems-Test-Engineer_R55596",
+    "job_posted_at_datetime_utc": "2026-04-10T07:00:57.789Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "614bb9e9f952f6592745af3cd83413e7e6de52b8f036ddb4dfdd99bc03a9f3cc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data analysis",
+        "https",
+        "jira",
+        "less",
+        "matlab",
+        "mechatronics",
+        "multimeter",
+        "oscilloscope",
+        "python",
+        "regression",
+        "robotics",
+        "simulink"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Revolutionize the Future of Industrial Automation as our Next Control Systems Test Engineer!",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:00:57.789Z"
+  },
+  {
     "job_id": "workday-trimble-R55407",
     "job_title": "Product Engineer",
     "employer_name": "Trimble",
@@ -28289,57 +28409,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Elevate AI-Driven Software Quality as our next Quality Assurance Engineer III!",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:00:57.789Z"
-  },
-  {
-    "job_id": "workday-trimble-R55596",
-    "job_title": "Vehicle Systems Test Engineer",
-    "employer_name": "Trimble",
-    "job_city": "CO, Westminster",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Vehicle-Systems-Test-Engineer_R55596",
-    "job_posted_at_datetime_utc": "2026-04-10T07:00:57.789Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "614bb9e9f952f6592745af3cd83413e7e6de52b8f036ddb4dfdd99bc03a9f3cc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data analysis",
-        "https",
-        "jira",
-        "less",
-        "matlab",
-        "mechatronics",
-        "multimeter",
-        "oscilloscope",
-        "python",
-        "regression",
-        "robotics",
-        "simulink"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Revolutionize the Future of Industrial Automation as our Next Control Systems Test Engineer!",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:00:57.789Z"
@@ -29437,6 +29506,47 @@
     "job_posted_at": "2026-04-10T07:00:31.811Z"
   },
   {
+    "job_id": "workday-johnson-controls-WD30265418",
+    "job_title": "Fire Detection Service Technician",
+    "employer_name": "Johnson Controls",
+    "job_city": "Virginia-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Norfolk-Virginia-United-States-of-America/Fire-Detection-Service-Technician_WD30265418",
+    "job_posted_at_datetime_utc": "2026-04-10T07:00:31.811Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eb6353986595a9e80db90762e3d78e0e0f94e62a0f478e6f25329b9470f35bf2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "commissioning",
+        "https",
+        "plc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "We are one team, dedicated to working collaboratively to create the purposeful solutions that propel the world forward.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:00:31.811Z"
+  },
+  {
     "job_id": "workday-johnson-controls-WD30265889",
     "job_title": "Fire Alarm Installer",
     "employer_name": "Johnson Controls",
@@ -29605,90 +29715,6 @@
     "job_posted_at": "2026-04-10T07:00:31.811Z"
   },
   {
-    "job_id": "workday-johnson-controls-WD30266041",
-    "job_title": "Fire Alarm Installer",
-    "employer_name": "Johnson Controls",
-    "job_city": "North Carolina-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Asheville-North-Carolina-United-States-of-America/Fire-Alarm-Installer_WD30266041",
-    "job_posted_at_datetime_utc": "2026-04-10T07:00:31.811Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "30b3f0829f1e2dc2e80c7d20c284798228e63717b23e9926754ff6660b2e8fbd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "commissioning",
-        "computer science",
-        "https",
-        "plc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Unleash your potential with the Johnson Controls team!",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:00:31.811Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30266042",
-    "job_title": "Fire Alarm Installer",
-    "employer_name": "Johnson Controls",
-    "job_city": "North Carolina-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Asheville-North-Carolina-United-States-of-America/Fire-Alarm-Installer_WD30266042",
-    "job_posted_at_datetime_utc": "2026-04-10T07:00:31.811Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "30b3f0829f1e2dc2e80c7d20c284798228e63717b23e9926754ff6660b2e8fbd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "commissioning",
-        "computer science",
-        "https",
-        "plc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Unleash your potential with the Johnson Controls team!",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:00:31.811Z"
-  },
-  {
     "job_id": "workday-johnson-controls-WD30239142",
     "job_title": "HVAC Controls Integration Technician",
     "employer_name": "Johnson Controls",
@@ -29726,47 +29752,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Unleash your potential with the Johnson Controls team!",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:00:31.811Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30265418",
-    "job_title": "Fire Detection Service Technician",
-    "employer_name": "Johnson Controls",
-    "job_city": "Virginia-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Norfolk-Virginia-United-States-of-America/Fire-Detection-Service-Technician_WD30265418",
-    "job_posted_at_datetime_utc": "2026-04-10T07:00:31.811Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "eb6353986595a9e80db90762e3d78e0e0f94e62a0f478e6f25329b9470f35bf2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "commissioning",
-        "https",
-        "plc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "We are one team, dedicated to working collaboratively to create the purposeful solutions that propel the world forward.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:00:31.811Z"
@@ -32838,6 +32823,50 @@
     "job_posted_at": "2026-04-09T11:50:25-04:00"
   },
   {
+    "job_id": "workday-zoom-R17217",
+    "job_title": "Carrier Operations Engineer",
+    "employer_name": "Zoom",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Carrier-Operations-Engineer_R17217",
+    "job_posted_at_datetime_utc": "2026-04-09T15:37:00.783Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9b63e0e0c00bfc589f33d006b0d8f6278d02e1a61dfdd2d53faeb03e46c08096",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "grafana",
+        "jira",
+        "network engineering",
+        "networking",
+        "visio",
+        "zoom"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The purpose of the Carrier Operations Engineer is to provide technical evaluation as well as onboarding of services with potential or existing Telephony Carriers.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T15:37:00.783Z"
+  },
+  {
     "job_id": "workday-zoom-R18412",
     "job_title": "Site Reliability Engineer",
     "employer_name": "Zoom",
@@ -32896,50 +32925,6 @@
     "job_posted_at": "2026-04-09T15:37:00.783Z"
   },
   {
-    "job_id": "workday-zoom-R17217",
-    "job_title": "Carrier Operations Engineer",
-    "employer_name": "Zoom",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Carrier-Operations-Engineer_R17217",
-    "job_posted_at_datetime_utc": "2026-04-09T15:37:00.783Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9b63e0e0c00bfc589f33d006b0d8f6278d02e1a61dfdd2d53faeb03e46c08096",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "grafana",
-        "jira",
-        "network engineering",
-        "networking",
-        "visio",
-        "zoom"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The purpose of the Carrier Operations Engineer is to provide technical evaluation as well as onboarding of services with potential or existing Telephony Carriers.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T15:37:00.783Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8499650002",
     "job_title": "Automation & Controls Engineer, Asset Engineering (Starshield)",
     "employer_name": "SpaceX",
@@ -32980,43 +32965,6 @@
     "job_posted_at": "2026-04-09T15:37:00.000Z"
   },
   {
-    "job_id": "workday-applied-materials-R2616315",
-    "job_title": "Process Engineer",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-III_R2616315",
-    "job_posted_at_datetime_utc": "2026-04-09T15:31:45.248Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7a46760b47016c8a7e88864ba528390e235fd8252a716d720cf37954cf5a71f7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T15:31:45.248Z"
-  },
-  {
     "job_id": "workday-applied-materials-R2616505",
     "job_title": "Process Engineer",
     "employer_name": "Applied Materials",
@@ -33049,6 +32997,43 @@
         "r",
         "scalability"
       ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T15:31:45.248Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2616315",
+    "job_title": "Process Engineer",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-III_R2616315",
+    "job_posted_at_datetime_utc": "2026-04-09T15:31:45.248Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7a46760b47016c8a7e88864ba528390e235fd8252a716d720cf37954cf5a71f7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
@@ -36602,101 +36587,6 @@
     "job_posted_at": "2026-04-09T07:00:51.823Z"
   },
   {
-    "job_id": "workday-northrop-grumman-R10229129",
-    "job_title": "Sys Test Engineer 3 (26-004)",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Colorado-Schriever AFB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Sys-Test-Engineer-3--26-004-_R10229129",
-    "job_posted_at_datetime_utc": "2026-04-09T07:00:47.169Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4da2ba50ac495ac4c99848ed999afd6cc98008486fbc1d1fde01898c61c50593",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "bash",
-        "computer science",
-        "data analysis",
-        "http",
-        "https",
-        "java",
-        "less",
-        "linux",
-        "networking",
-        "python",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: Yes CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incr…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:00:47.169Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10229007",
-    "job_title": "Engineering Technician 2",
-    "employer_name": "Northrop Grumman",
-    "job_city": "California-San Diego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Engineering-Technician-2_R10229007",
-    "job_posted_at_datetime_utc": "2026-04-09T07:00:47.169Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "91c6077d211fc807eb2acb9667c321906960b86e64d82dbb4b6e0d53ab4d2111",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "as9100",
-        "assembly",
-        "excel",
-        "http",
-        "microsoft office",
-        "networking",
-        "soldering"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incre…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:00:47.169Z"
-  },
-  {
     "job_id": "workday-northrop-grumman-R10229186",
     "job_title": "Electronic Technician - Level 4 or Level 5",
     "employer_name": "Northrop Grumman",
@@ -36905,6 +36795,101 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "RELOCATION ASSISTANCE: Relocation assistance may be available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: None TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have inc…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:00:47.169Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10229129",
+    "job_title": "Sys Test Engineer 3 (26-004)",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Colorado-Schriever AFB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Sys-Test-Engineer-3--26-004-_R10229129",
+    "job_posted_at_datetime_utc": "2026-04-09T07:00:47.169Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4da2ba50ac495ac4c99848ed999afd6cc98008486fbc1d1fde01898c61c50593",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "bash",
+        "computer science",
+        "data analysis",
+        "http",
+        "https",
+        "java",
+        "less",
+        "linux",
+        "networking",
+        "python",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: Yes CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incr…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:00:47.169Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10229007",
+    "job_title": "Engineering Technician 2",
+    "employer_name": "Northrop Grumman",
+    "job_city": "California-San Diego",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Engineering-Technician-2_R10229007",
+    "job_posted_at_datetime_utc": "2026-04-09T07:00:47.169Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "91c6077d211fc807eb2acb9667c321906960b86e64d82dbb4b6e0d53ab4d2111",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "as9100",
+        "assembly",
+        "excel",
+        "http",
+        "microsoft office",
+        "networking",
+        "soldering"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: Secret TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incre…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T07:00:47.169Z"
@@ -37147,47 +37132,6 @@
     "job_posted_at": "2026-04-09T07:00:44.442Z"
   },
   {
-    "job_id": "workday-hitachi-R0112768",
-    "job_title": "Project Management Engineering, Construction & Commissioning Specialist",
-    "employer_name": "Hitachi",
-    "job_city": "Raleigh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Project-Management-Engineering--Construction---Commissioning-Specialist_R0112768",
-    "job_posted_at_datetime_utc": "2026-04-09T07:00:41.770Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b7d5dd19e5aad4f569583f2aac7c054fd13ee50acb46a85dd20d0be3022b8a7d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "commissioning",
-        "process improvement",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Location: Raleigh, North Carolina, United States Job ID: R0112768 Date Posted: 2025-11-21 Company Name: HITACHI ENERGY USA INC Profession (Job Category): Engineering & Science Job Schedule: Full time…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:00:41.770Z"
-  },
-  {
     "job_id": "workday-hitachi-R0116767",
     "job_title": "Quotation Engineer",
     "employer_name": "Hitachi",
@@ -37225,6 +37169,47 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Location: South Boston, Virginia, United States of America Job ID: R0116767 Date Posted: 2026-02-18 Company Name: HITACHI ENERGY USA INC Profession (Job Category): Engineering & Science Job Schedule:…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:00:41.770Z"
+  },
+  {
+    "job_id": "workday-hitachi-R0112768",
+    "job_title": "Project Management Engineering, Construction & Commissioning Specialist",
+    "employer_name": "Hitachi",
+    "job_city": "Raleigh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Project-Management-Engineering--Construction---Commissioning-Specialist_R0112768",
+    "job_posted_at_datetime_utc": "2026-04-09T07:00:41.770Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b7d5dd19e5aad4f569583f2aac7c054fd13ee50acb46a85dd20d0be3022b8a7d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "commissioning",
+        "process improvement",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Location: Raleigh, North Carolina, United States Job ID: R0112768 Date Posted: 2025-11-21 Company Name: HITACHI ENERGY USA INC Profession (Job Category): Engineering & Science Job Schedule: Full time…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T07:00:41.770Z"
@@ -38134,47 +38119,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "244388a6e530e30d8a349f013fd95895b3435d7f6d5cd4dd483ea965b0b28f5d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "commissioning",
-        "hvac",
-        "plc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "What you will do Johnson Controls Inc.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:00:31.812Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30266234",
-    "job_title": "HVAC Truck Based Chiller Journeyman Mechanic (union)",
-    "employer_name": "Johnson Controls",
-    "job_city": "Louisiana-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Metairie-Louisiana-United-States-of-America/HVAC-Truck-Based-Chiller-Journeyman-Mechanic--union-_WD30266234-1",
-    "job_posted_at_datetime_utc": "2026-04-09T07:00:31.812Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "102a17feb7754e7786f397051c87b64e114aa7bdd0e4eff86224b390c0fc0e5d",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -39503,46 +39447,6 @@
     "job_posted_at": "2026-04-09T07:00:22.928Z"
   },
   {
-    "job_id": "workday-general-motors-JR-202519162",
-    "job_title": "Off-Shift Quality Engineer - Saginaw",
-    "employer_name": "General Motors",
-    "job_city": "Saginaw",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Saginaw-Michigan-United-States-of-America/Off-Shift-Quality-Engineer---Saginaw_JR-202519162",
-    "job_posted_at_datetime_utc": "2026-04-09T07:00:19.469Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "19d7d87ba4eb3ad91d4eb0c10bc4135d6253a20f4635f0d4d31caf1f6e14e72f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "dfmea",
-        "failure mode"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Description GM DOES NOT PROVIDE IMMIGRATION-RELATED SPONSORSHIP FOR THIS ROLE.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:00:19.469Z"
-  },
-  {
     "job_id": "workday-general-motors-JR-202605871",
     "job_title": "Software Integration Quality Engineer",
     "employer_name": "General Motors",
@@ -39639,6 +39543,46 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Description The Team: GM’s Motorsports Software team analyzes, defines, and delivers next generation groundbreaking Motorsports IT software solutions.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:00:19.469Z"
+  },
+  {
+    "job_id": "workday-general-motors-JR-202519162",
+    "job_title": "Off-Shift Quality Engineer - Saginaw",
+    "employer_name": "General Motors",
+    "job_city": "Saginaw",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Saginaw-Michigan-United-States-of-America/Off-Shift-Quality-Engineer---Saginaw_JR-202519162",
+    "job_posted_at_datetime_utc": "2026-04-09T07:00:19.469Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "19d7d87ba4eb3ad91d4eb0c10bc4135d6253a20f4635f0d4d31caf1f6e14e72f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "dfmea",
+        "failure mode"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Description GM DOES NOT PROVIDE IMMIGRATION-RELATED SPONSORSHIP FOR THIS ROLE.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T07:00:19.469Z"
@@ -39892,6 +39836,89 @@
         "excel",
         "finite element analysis",
         "wafer"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advanc…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:00:10.955Z"
+  },
+  {
+    "job_id": "workday-micron-JR95038",
+    "job_title": "Package Design Engineer",
+    "employer_name": "Micron",
+    "job_city": "SIG Building",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/Package-Design-Engineer_JR95038",
+    "job_posted_at_datetime_utc": "2026-04-09T07:00:10.955Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ed171b5439f53534c134fa8aee4913472d900274623793bddd93552693d49c5f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad",
+        "cadence",
+        "routing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advanc…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:00:10.955Z"
+  },
+  {
+    "job_id": "workday-micron-JR95300",
+    "job_title": "Product Engineer, Embedded DEG",
+    "employer_name": "Micron",
+    "job_city": "Fab 6",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Product-Engineer--Embedded-DEG_JR95300",
+    "job_posted_at_datetime_utc": "2026-04-09T07:00:10.955Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4733c8fb8112c9422208912029ab93f9b8aaa48fb1ffaa54bc2e358ad56aaf36",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "failure mode",
+        "jmp",
+        "python"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -40158,89 +40185,6 @@
         "data analysis",
         "oscilloscope",
         "wafer"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advanc…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:00:10.955Z"
-  },
-  {
-    "job_id": "workday-micron-JR95038",
-    "job_title": "Package Design Engineer",
-    "employer_name": "Micron",
-    "job_city": "SIG Building",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/Package-Design-Engineer_JR95038",
-    "job_posted_at_datetime_utc": "2026-04-09T07:00:10.955Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ed171b5439f53534c134fa8aee4913472d900274623793bddd93552693d49c5f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "cad",
-        "cadence",
-        "routing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advanc…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:00:10.955Z"
-  },
-  {
-    "job_id": "workday-micron-JR95300",
-    "job_title": "Product Engineer, Embedded DEG",
-    "employer_name": "Micron",
-    "job_city": "Fab 6",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Product-Engineer--Embedded-DEG_JR95300",
-    "job_posted_at_datetime_utc": "2026-04-09T07:00:10.955Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4733c8fb8112c9422208912029ab93f9b8aaa48fb1ffaa54bc2e358ad56aaf36",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "failure mode",
-        "jmp",
-        "python"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
