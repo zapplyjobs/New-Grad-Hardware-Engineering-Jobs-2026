@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-946-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-945-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-120-blue?style=flat&logo=building)
-![Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-750-red?style=flat&logo=star)
+![Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-749-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -100,7 +100,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Carrier Global** | Sales Application Engineer | ✅ Sponsor | 7 Locations | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAFLO-Carrier-Home-Florida-Remote-Location-Remote-City-FL-33412-USA/Sales-Application-Engineer_30203401) |
 | 🏢 **Leidos** | Distribution Engineer | ✅ Sponsor | Hamilton, MI + 4 more | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Hamilton-MI/Distribution-Engineer_R-00180830) |
 | 🏢 **Allegion** | Maintenance Engineering Technician | ✅ Sponsor | West 350N, IN | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Greenfield-IN---West-350N/Maintenance-Engineering-Technician_JR35876) |
-| 🏢 **RTX** | Mechanical Design Engineering I (Onsite) | ✅ Sponsor | KY-LOUISVILLE-102 | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-KY-LOUISVILLE-102--6201-Strawberry-Ln--STRAWBERRY/Mechanical-Design-Engineering-I--Onsite-_01833223) |
+| 🏢 **RTX** | Mechanical Design Engineering I (Onsite) | ✅ Sponsor | KY-LOUISVILLE-102 | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-KY-LOUISVILLE-102--6201-Strawberry-Ln--STRAWBERRY/Mechanical-Design-Engineering-I--Onsite-_01833223) |
 | 🏢 **General Motors** | HVBD Calibration Engineering | ✅ Sponsor | Milford | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/HVBD-Calibration-Engineering_JR-202608149) |
 | 🏢 **Boeing** | Wire Design and Installation Engineer | ✅ Sponsor | Herndon, VA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Wire-Design-and-Installation-Engineer_JR2026503741-1) |
 | 🏢 **CoreWeave** | Hardware Engineer, GPU & PCIe | ✅ Sponsor | New York, NY | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://coreweave.com/careers/job?4671471006&board=coreweave&gh_jid=4671471006) |
@@ -115,8 +115,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Oshkosh Corporation** | Tool Designer | ✅ Sponsor | Appleton | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Tool-Designer_R45354) |
 | 🏢 **KLA** | Product Safety & Compliance Engineer | ✅ Sponsor | Milpitas, CA + 1 more | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Safety---Compliance-Engineer_2635478-1) |
 | 🏢 **Cadence** | Data Center Operations Engineer | ✅ Sponsor | SAN JOSE + 1 more | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Data-Center-Operations-Engineer_R54244) |
-| 🏢 **Aptiv** | Radar Engineer | ✅ Sponsor | USA, IN | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Carmel-IN---USA/Radar-Engineer_J000696782) |
-| 🏢 **Workday Inc** | Full Stack Development Engineer- US Federal (REACT/XO) | ✅ Sponsor | USA, GA | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Full-Stack-Development-Engineer--US-Federal--REACT-XO-_JR-0106446) |
+| 🏢 **Aptiv** | Radar Engineer | ✅ Sponsor | USA, IN | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Carmel-IN---USA/Radar-Engineer_J000696782) |
+| 🏢 **Workday Inc** | Full Stack Development Engineer- US Federal (REACT/XO) | ✅ Sponsor | USA, GA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Full-Stack-Development-Engineer--US-Federal--REACT-XO-_JR-0106446) |
 | 🏢 **CoreWeave** | Data Center Energy Analyst | ✅ Sponsor | Livingston, NJ | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://coreweave.com/careers/job?4649178006&board=coreweave&gh_jid=4649178006) |
 | 🏢 **Anduril** | Environmental, Health, and Safety Engineer | ✅ Sponsor | McHenry | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5015755007?gh_jid=5015755007) |
 | 🏢 **NVIDIA** | Compiler Verification Engineer, Compute Performance – GPU- New College Grad 2026 | ✅ Sponsor | TX Austin | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Austin/Compiler-Verification-Engineer--Compute-Performance---GPU--New-College-Grad-2026_JR2016459) |
@@ -208,9 +208,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Caterpillar** | Controls Engineering Specialist – EH Brake Systems | ✅ Sponsor | Mossville | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Controls-Engineering-Specialist---EH-Brake-Systems_R0000351310) |
 | 🏢 **Abbott** | Software Verification Engineer I | ✅ Sponsor | Minnesota - St. Paul | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/Software-Verification-Engineer-I_31147199-1) |
 | 🏢 **Moog** | Supplier Development Engineer |  | Bangalore, IN | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Bangalore-IN/Supplier-Development-Engineer_R-26-17185) |
+| 🏢 **Amentum** | Entry Level Electrical Engineer | ✅ Sponsor | Lexington Park | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amentumcareers.com/jobs/entry-level-electrical-engineer-lexington-park-maryland-united-states) |
 | 🏢 **Amazon Development Center U.S., Inc.** | Software Development Engineer - EC2, Outposts | ✅ Sponsor | Seattle, WA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10390540/software-development-engineer-ec2-outposts) |
 | 🏢 **Amazon Development Center U.S., Inc.** | Software Development Engineer, S3 Request Processing | ✅ Sponsor | Arlington, VA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10390242/software-development-engineer-s3-request-processing) |
-| 🏢 **Amentum** | Entry Level Electrical Engineer | ✅ Sponsor | Lexington Park | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amentumcareers.com/jobs/entry-level-electrical-engineer-lexington-park-maryland-united-states) |
 | 🏢 **Zoom** | Site Reliability Engineer |  | San Jose + 1 more | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Site-Reliability-Engineer_R18679) |
 | 🏢 **SEL** | Welding Process Engineer | ✅ Sponsor | Pullman, WA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Welding-Process-Engineer_2026-20544) |
 | 🏢 **SEL** | Process Engineering Technician | ✅ Sponsor | Moscow, ID | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Moscow/Process-Engineering-Technician_2026-20353) |
@@ -254,8 +254,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Microchip Technology** | Engineer I-Design | ✅ Sponsor | Chandler | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://microchiphr.wd5.myworkdayjobs.com/External/job/AZ---Chandler/Engineer-I-Design_R2423-25) |
 | 🏢 **KLA** | Mechanical Design Engineer – Process Media and Vacuum Systems (Pipe & Instrumentation Diagram) | ✅ Sponsor | Milpitas, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechanical-Design-Engineer---Process-Media-and-Vacuum-Systems_2635329) |
 | 🏢 **Marvell** | Package Design Engineer | ✅ Sponsor | Santa Clara, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Package-Design-Engineer_2600781) |
-| 🏢 **Trimble** | Site Reliability Engineer | ✅ Sponsor | CO Westminster | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/FedRAMP-Site-Reliability-Engineer-II_R53064) |
 | 🏢 **Trimble** | Product Engineer | ✅ Sponsor | CA, Sunnyvale | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CA-Sunnyvale/Product-Engineer_R55407) |
+| 🏢 **Trimble** | Site Reliability Engineer | ✅ Sponsor | CO Westminster | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/FedRAMP-Site-Reliability-Engineer-II_R53064) |
 | 🏢 **Moog** | Propulsion Test Software Engineer |  | Niagara Falls, NY | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Niagara-Falls-NY/Propulsion-Test-Software-Engineer_R-26-17136) |
 | 🏢 **Johnson & Johnson** | Mechanical Engineer - R&D Robotics | ✅ Sponsor | Santa Clara | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineer---R-D-Robotics_R-068317-2) |
 | 🏢 **Lambda** | Data Center Operations Systems Engineer (Dallas, TX) | ✅ Sponsor | Dallas, TX | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/lambda/e8e5e517-4813-40ce-934a-735dd9daa43a/application) |
@@ -280,7 +280,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Marvell** | Firmware Engineer - Early Career | ✅ Sponsor | Westlake Village, CA | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westlake-Village-CA/Firmware-Engineer_2601000-1) |
+| 🏢 **Marvell** | Firmware Engineer - Early Career | ✅ Sponsor | Westlake Village, CA | 42m | [<img src="images/apply.png" width="75" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westlake-Village-CA/Firmware-Engineer_2601000-1) |
 | 🏢 **Boeing** | Associate Embedded Systems Software Engineer | ✅ Sponsor | Tukwila, WA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Associate-Embedded-Systems-Software-Engineer_JR2026502739-1) |
 | 🏢 **Cisco** | ASIC Hardware Test Engineer - Hybrid | ✅ Sponsor | San Jose, US | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Hardware-Test-Engineer---Hybrid_2008298) |
 | 🏢 **Leidos** | Associate Distribution Engineer | ✅ Sponsor | Hamilton, MI + 1 more | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Hamilton-MI/Associate-Distribution-Engineer_R-00180858-1) |
@@ -331,7 +331,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Johnson Controls** | Fire Associate Project Manager | ✅ Sponsor | Tennessee-United ... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Chattanooga-Tennessee-United-States-of-America/Fire-Associate-Project-Manager_WD30266339) |
 | 🏢 **NVIDIA** | ASIC Design Engineer - New College Grad 2026 | ✅ Sponsor | US, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2016023) |
 | 🏢 **NVIDIA** | Custom SOC IP Verification Engineer | ✅ Sponsor | CA Santa Clara | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Custom-SOC-IP-Verification-Engineer_JR2013284) |
-| 🏢 **SEL** | Associate Quality Engineer | ✅ Sponsor | Lewiston, ID | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Associate-Quality-Engineer_2025-18499-1) |
+| 🏢 **SEL** | Firmware Engineer - Protection Systems Platforms | ✅ Sponsor | Pullman, WA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Firmware-Engineer---Protection-Systems-Platforms_2026-20221-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -343,11 +343,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Moog** | Embedded Flight Software Engineer |  | Torrance, CA | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Software-Engineer_R-26-16578) |
+| 🏢 **Moog** | Embedded Flight Software Engineer |  | Torrance, CA | 42m | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Software-Engineer_R-26-16578) |
 | 🏢 **HPE** | Embedded Software Developer - BIOS | ✅ Sponsor | 2 Locations | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Embedded-Software-Developer---BIOS_1200593-3) |
 | 🏢 **HPE (University)** | Embedded Software Developer - BIOS |  | 2 Locations | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Embedded-Software-Developer---BIOS_1200593-1) |
 | 🏢 **SharkNinja** | Embedded Software Engineering Opportunities at SharkNinja | ✅ Sponsor | Needham, MA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4603769006) |
-| 🏢 **Anduril** | Embedded Software QA Engineer | ✅ Sponsor | Lexington | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5107450007?gh_jid=5107450007) |
+| 🏢 **Anduril** | Embedded Software QA Engineer | ✅ Sponsor | Lexington | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5107450007?gh_jid=5107450007) |
 | 🏢 **RTX** | Embedded Real-time Software Engineer I | ✅ Sponsor | AZ-TUCSON-805 | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Embedded-Real-time-Software-Engineer-I_01823140) |
 | 🏢 **Brex** | Enterprise Account Executive I, Embedded Finance | ✅ Sponsor | New York | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8502529002?gh_jid=8502529002) |
 | 🏢 **NVIDIA** | Embedded Software Engineer - RISCV | ✅ Sponsor | US, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Embedded-Software-Engineer---RISCV_JR2012325) |
@@ -375,14 +375,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Hitachi** | Electrical Design Engineer | ✅ Sponsor | Crystal Springs + 1 more | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Crystal-Springs-Mississippi-United-States-of-America/Electrical-Design-Engineer_R0126004) |
+| 🏢 **Hitachi** | Electrical Design Engineer | ✅ Sponsor | Crystal Springs + 1 more | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Crystal-Springs-Mississippi-United-States-of-America/Electrical-Design-Engineer_R0126004) |
 | 🏢 **Boeing** | Harness Electrical Design Engineer | ✅ Sponsor | Seal Beach, CA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Harness-Electrical-Design-Engineer_JR2026503304-1) |
 | 🏢 **RTX** | Master Technician (T6) – Test Engineering – Onsite | ✅ Sponsor | MN-BURNSVILLE-WEST | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Master-Technician--T6----Test-Engineering---Onsite_01837375) |
 | 🏢 **SEL** | Electrical Test Engineering Technician | ✅ Sponsor | Lewiston, ID | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Electrical-Test-Engineering-Technician_2026-20609) |
 | 🏢 **SEL** | Electrical Test Engineer | ✅ Sponsor | Lewiston, ID | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Electrical-Test-Engineer_2026-20597) |
 | 🏢 **Leidos** | RF Test Engineer - Hypersonics | ✅ Sponsor | Huntsville, AL | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/RF-SME-Engineer---Hypersonics_R-00178504) |
 | 🏢 **Broadcom** | Digital Signal Processing and System Validation Engineer | ✅ Sponsor | California-San Jo... | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Digital-Signal-Processing-and-System-Validation-Engineer_R025724) |
-| 🏢 **Johnson & Johnson** | Reliability Test Engineer - Robotics | ✅ Sponsor | Santa Clara | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Reliability-Test-Engineer---Robotics_R-069397-1) |
+| 🏢 **Johnson & Johnson** | Reliability Test Engineer - Robotics | ✅ Sponsor | Santa Clara | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Reliability-Test-Engineer---Robotics_R-069397-1) |
 | 🏢 **Leidos** | Systems Integration and Test Engineer | ✅ Sponsor | Gaithersburg, MD | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Systems-Integration-and-Test-Engineer_R-00180807) |
 | 🏢 **KLA** | Electrical Design Engineer | ✅ Sponsor | Milpitas, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Electrical-Design-Engineer_2635639-1) |
 | 🏢 **Curtiss-Wright** | Electrical Test Engineer | ✅ Sponsor | OH-Cincinnati | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Cincinnati-Nuclear/Sr-Electrical-Test-Engineer_JR10434-1) |
@@ -521,7 +521,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 946 current opportunities from 120 companies**
+**🎯 945 current opportunities from 120 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
