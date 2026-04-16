@@ -8934,6 +8934,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "arm",
+        "cadence",
+        "linux",
+        "networking",
+        "python",
+        "soc",
+        "synopsys",
+        "verilog",
+        "vhdl"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "About Marvell Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T20:30:53.032Z"
   },
   {
@@ -39407,59 +39426,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T21:30:23.679Z"
-  },
-  {
-    "job_id": "workday-microchip-technology-R1912-25",
-    "job_title": "Engineer I - Software (FPGA Timing and Power)",
-    "employer_name": "Microchip Technology",
-    "job_city": "San Jose - 3850 N. First St",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://microchiphr.wd5.myworkdayjobs.com/External/job/CA---San-Jose---3850-N-First-St/Engineer-I---Software--FPGA-Timing-and-Power-_R1912-25",
-    "job_posted_at_datetime_utc": "2026-04-09T21:04:25.836Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "59fa743e6307b39fb449b5aff026e1fe9694517d7164b8b1ac6bc8cf515c54fb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "bash",
-        "c++",
-        "clearcase",
-        "computer science",
-        "fpga",
-        "git",
-        "linear",
-        "machine learning",
-        "perforce",
-        "perl",
-        "python",
-        "regression",
-        "shell",
-        "shell scripting",
-        "svn",
-        "unit testing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Are you looking for a unique opportunity to be a part of something great?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T21:04:25.836Z"
   }
 ]
