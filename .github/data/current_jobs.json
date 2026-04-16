@@ -26,6 +26,34 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "ansible",
+        "c++",
+        "cameo",
+        "ci/cd",
+        "computer science",
+        "data science",
+        "docker",
+        "embedded systems",
+        "git",
+        "gitlab",
+        "jira",
+        "kubernetes",
+        "linux",
+        "model-based systems engineering",
+        "project management",
+        "sap",
+        "sysml"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Associate Embedded Software Engineer Company: The Boeing Company The Boeing Company is looking for Associate Embedded Software Engineers to join our Government Vehicle Health Management Systems (GHVMS…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T21:48:45.381Z"
   },
   {
@@ -54,6 +82,18 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "go",
+        "root cause analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T21:48:33.868Z"
   },
   {
@@ -83,6 +123,31 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "computer science",
+        "continuous integration",
+        "design patterns",
+        "devops",
+        "express",
+        "grafana",
+        "java",
+        "javascript",
+        "jenkins",
+        "kubernetes",
+        "observability",
+        "python",
+        "splunk",
+        "unit testing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The Opportunity Adobe Experience Manager (AEM) as a Cloud Service enables our customers to focus on crafting exceptional customer experiences rather than planning for product updates.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T21:48:21.660Z"
   },
   {
@@ -7224,6 +7289,18 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "design patterns"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications: - 3+ years of non-internship professional software development experience - 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new an…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
   },
   {
@@ -7299,6 +7376,19 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "design patterns",
+        "https"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Want to build systems that enable Selling Partners to grow their business and delight Amazon customers?",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
   },
   {
@@ -7331,6 +7421,19 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "design patterns",
+        "https"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Want to build systems that enable Selling Partners to grow their business and delight Amazon customers?",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
   },
   {
@@ -7411,6 +7514,19 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "commissioning",
+        "excel",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications: - Bachelor's degree in Electrical Engineering or a related field - NETA or ASHRAE certification or commissioning specific education courses - Knowledge of critical data center me…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
   },
   {
@@ -39825,88 +39941,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T22:19:43.226Z"
-  },
-  {
-    "job_id": "greenhouse-figureai-4672013006",
-    "job_title": "Mechanical Engineer - Integration & Test",
-    "employer_name": "Figure AI",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4672013006",
-    "job_posted_at_datetime_utc": "2026-04-09T22:10:20.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "35a7a1830504eeeaebb4a16f9e0e30abd553d2ea6387c338b839b001a654ad8d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "mechatronics",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "2+ years of experience in mechanical engineering   Bachelor’s or Master’s Degree in Mechanical, Biomechanical, Robotics, Mechatronics, or similar field   Experience in using 3D CAD software to design ",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T22:10:20.000Z"
-  },
-  {
-    "job_id": "workday-hitachi-R0115881",
-    "job_title": "Mechanical Design Engineer - Transformers",
-    "employer_name": "Hitachi",
-    "job_city": "Raleigh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Mechanical-Design-Engineer---Transformers_R0115881",
-    "job_posted_at_datetime_utc": "2026-04-09T22:03:54.933Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d977041ba3b5ae35d3cdb9ae5742d3fd823fb824a67708615b51999289693f8b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "creo",
-        "finite element analysis",
-        "sap",
-        "transformers"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Location: Raleigh, North Carolina, United States Job ID: R0115881 Date Posted: 2025-12-19 Company Name: HITACHI ENERGY USA INC Profession (Job Category): Engineering & Science Job Schedule: Full time…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T22:03:54.933Z"
   }
 ]
