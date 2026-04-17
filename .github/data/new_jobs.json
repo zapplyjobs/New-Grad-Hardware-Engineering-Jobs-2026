@@ -40081,55 +40081,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T04:05:40.000Z"
-  },
-  {
-    "job_id": "ashby-lambda-e8e5e517-4813-40ce-934a-735dd9daa43a",
-    "job_title": "Data Center Operations Systems Engineer (Dallas, TX)",
-    "employer_name": "Lambda",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/lambda/e8e5e517-4813-40ce-934a-735dd9daa43a/application",
-    "job_posted_at_datetime_utc": "2026-04-10T02:24:41.164Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "068d5de78f4d201eefd1fb82dba7e0230a7147f195c51d7c6ded43ff1dd7b476",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations",
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "fiber",
-        "https",
-        "jira",
-        "lambda",
-        "linux",
-        "machine learning",
-        "networking",
-        "reporting",
-        "zendesk"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": true,
-      "summary_line": "Lambda, The Superintelligence Cloud, is a leader in AI cloud infrastructure serving tens of thousands of customers.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T02:24:41.164Z"
   }
 ]
