@@ -27,6 +27,20 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "html",
+        "http",
+        "soldering",
+        "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T05:30:42.578Z"
   },
   {
@@ -88704,48 +88718,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T06:17:03.945Z"
-  },
-  {
-    "job_id": "workday-moog-R-26-17185",
-    "job_title": "Supplier Development Engineer",
-    "employer_name": "Moog",
-    "job_city": "Bangalore",
-    "job_state": "IN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Bangalore-IN/Supplier-Development-Engineer_R-26-17185",
-    "job_posted_at_datetime_utc": "2026-04-13T06:04:09.460Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ebc8c6413596470772daa8149348a661a19a1555a1a5c9a94627a1aea5a1a327",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "erp",
-        "mechatronics",
-        "ppap",
-        "reporting",
-        "sap"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Moog is a performance culture that empowers people to achieve great things.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T06:04:09.460Z"
   }
 ]
