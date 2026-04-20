@@ -25,6 +25,17 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "soldering"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-03-30 Country: United States of America Location: US-FL-LARGO-382SS ~ 7887 Bryan Dairy Rd.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T14:06:28.325Z"
   },
   {
@@ -53,6 +64,15 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "We anticipate the application window for this opening will close on - 30 Sep 2026 At Medtronic you can begin a life-long career of exploration and innovation, while helping champion healthcare access…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T14:05:28.209Z"
   },
   {
@@ -81,6 +101,17 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "plc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Let's Build a better Tomorrow Together!",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T14:04:33.359Z"
   },
   {
@@ -109,6 +140,20 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "embedded systems",
+        "hmi",
+        "plc",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Description The Role: We are seeking a highly skilled and motivated Controls Engineer to join our innovative team at our Fairfax Stamping location.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T14:04:16.779Z"
   },
   {
@@ -137,6 +182,15 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "We are Energy Systems, the leader in industrial power solution sales, service, and rentals.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T14:04:05.155Z"
   },
   {
@@ -165,6 +219,15 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "We are Energy Systems, the leader in industrial power solution sales, service, and rentals.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T14:04:05.155Z"
   },
   {
