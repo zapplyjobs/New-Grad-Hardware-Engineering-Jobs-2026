@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-1975-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-1955-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-208-blue?style=flat&logo=building)
-![Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1625-red?style=flat&logo=star)
+![Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1609-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,16 +69,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Northrop Grumman** | U103 CALIBRATION TECH |  | California-Sunnyvale | 11m | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/U103-CALIBRATION-TECH_R10228978-1) |
-| 🏢 **Olsson** | Geotechnical Engineer - Rail | ✅ Sponsors Visa | Colorado Springs, CO | 57m | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5126221008) |
-| 🏢 **Etched** | Lab Engineering Technician |  | San Jose | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/591fce9d-1c8e-47d2-b5a8-d14817afb423/application) |
-| 🏢 **Snap** | Product Design Engineer | 🏢 Sponsor Employer | Los Angeles | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Los-Angeles-California/Product-Design-Engineer_R0042673-1) |
+| 🏢 **Baker Hughes** | Engineering Specialist - Applications and Software |  | Mh, IN | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Engineering-Specialist---Applications-and-Software_R160606) |
+| 🏢 **Northrop Grumman** | U103 CALIBRATION TECH |  | California-Sunnyvale | 27m | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/U103-CALIBRATION-TECH_R10228978-1) |
+| 🏢 **Olsson** | Geotechnical Engineer - Rail | ✅ Sponsors Visa | Colorado Springs, CO | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5126221008) |
+| 🏢 **Etched** | Lab Engineering Technician |  | San Jose | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/591fce9d-1c8e-47d2-b5a8-d14817afb423/application) |
+| 🏢 **Snap** | Product Design Engineer | 🏢 Sponsor Employer | Los Angeles | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Los-Angeles-California/Product-Design-Engineer_R0042673-1) |
 | 🏢 **Ivo** | Design Engineer |  | San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/ivo/01d58618-688c-4a0f-8378-f51de2902d66/apply) |
-| 🏢 **Zoox** | Software Development Engineer in Test, Platform Safety Assurance | ✅ Sponsors Visa | Foster City, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/8914da26-af12-40ce-8819-bfc9fbf98cf2/apply) |
 | 🏢 **Zoox** | Software Development Engineer in Test - Connectivity | ✅ Sponsors Visa | Foster City, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/8196eca7-1b41-496f-93c4-fc02a09ee00c/apply) |
+| 🏢 **Zoox** | Software Development Engineer in Test, Platform Safety Assurance | ✅ Sponsors Visa | Foster City, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/8914da26-af12-40ce-8819-bfc9fbf98cf2/apply) |
 | 🏢 **Zoox** | Compute Platform System Safety Engineer |  | Foster City, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/zoox/7ca52fd4-a683-4ba9-a635-5155f90be4f7/apply) |
-| 🏢 **Multiply Labs** | Mechanical Engineer - Consumables | 🏢 Sponsor Employer | San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/multiplylabs/bc14e69c-f030-461c-9853-8305f4af203a/apply) |
 | 🏢 **Multiply Labs** | Robotics Field Engineer | 🏢 Sponsor Employer | Los Angeles | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/multiplylabs/c9fe817b-745a-4c68-a157-1b2afdc09f9a/apply) |
+| 🏢 **Multiply Labs** | Mechanical Engineer - Consumables | 🏢 Sponsor Employer | San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/multiplylabs/bc14e69c-f030-461c-9853-8305f4af203a/apply) |
 | 🏢 **Waabi** | Autonomous Test Support Technician |  | Phoenix, AZ | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/waabi/6b8d705b-4ca3-49dc-b794-eaba1715ae3c/apply) |
 | 🏢 **Waabi** | Manufacturing Engineer (NPI) | 🏢 Sponsor Employer | Pittsburgh, PA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/waabi/57b4a051-c187-4f62-9c45-3b81249d337c/apply) |
 | 🏢 **Waabi** | Mechanical Engineer | 🏢 Sponsor Employer | Pittsburgh, PA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/waabi/548a93ba-52cb-4b21-a68a-70d812187e5b/apply) |
@@ -108,7 +109,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **xAI** | Data Center Operations Technician |  | Hillsboro, OR + 1 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5085890007) |
 | 🏢 **xAI** | Electrical Engineer (EIT) | ✅ Sponsors Visa | Memphis, TN | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4753835007) |
 | 🏢 **Pulse** | Design Engineer | ✅ Sponsors Visa | San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/pulse/ecc58086-0b32-4686-86ab-c8e30d619bed/application) |
-| 🏢 **Verkada** | Fulfillment Specialist (Remote) |  | Texas + 2 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5095211007) |
+| 🏢 **Verkada** | Fulfillment Specialist (Remote) |  | Denver, CO + 2 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5097450007) |
 | 🏢 **Verkada** | Site Reliability Engineer - Infrastructure | 🏢 Sponsor Employer | San Mateo, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4129338007) |
 | 🏢 **Waymo** | Signal Integrity Engineer | 🏢 Sponsor Employer | Mountain View, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7683884) |
 | 🏢 **Twitch** | Software Development Engineer, Onboarding/Payouts | ✅ Sponsors Visa | San Francisco, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8369609002) |
@@ -124,13 +125,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Trace3** | Computational Physicist/Scientist   Secret Clearance Required | ✅ Sponsors Visa | Colorado Springs, CO | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/7728833) |
 | 🏢 **Trace3** | System Test Analyst (26-004) | ✅ Sponsors Visa | Colorado Springs, CO | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/7600036) |
 | 🏢 **Tenstorrent** | Infrastructure and Platform Development Engineer | 🏢 Sponsor Employer | Austin | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5084998007) |
-| 🏢 **SpaceX** | Starlink Production Technician (PCBA) - Temporary |  | Redmond, WA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8457411002?gh_jid=8457411002) |
-| 🏢 **SpaceX** | Structural Engineer, Launch Pad (Starship) |  | Starbase, TX | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8295760002?gh_jid=8295760002) |
-| 🏢 **SpaceX** | Structural Engineer (Starlink) |  | Bastrop, TX | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8403828002?gh_jid=8403828002) |
+| 🏢 **SpaceX** | Technical Operations Engineer, Customer Success (Starlink) |  | Redmond, WA + 1 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8318355002?gh_jid=8318355002) |
+| 🏢 **SpaceX** | Telecommunications Engineer |  | Cape Canaveral, FL + 2 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8392961002?gh_jid=8392961002) |
+| 🏢 **SpaceX** | Thermal Development Technician, Robotic Welding (Starship) - Level 4/5 |  | Starbase, TX | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8393771002?gh_jid=8393771002) |
 | 🏢 **Metalenz** | Metasurface Design Engineer | ✅ Sponsors Visa | Boston, MA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/metalenz/6acea5e7-783e-4a3c-b7dd-8963d8bc4a1e/application) |
-| 🏢 **Northwood Space** | Global Sites Engineer (Early Career) |  | Torrance, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/baa85b78-5718-4e74-9b21-170776dc4185/application) |
-| 🏢 **Northwood Space** | Fleet Reliability Engineer | ✅ Sponsors Visa | Torrance, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/10953bf0-b736-474a-be4c-dac556b81151/application) |
-| 🏢 **Northwood Space** | Fleet Reliability Engineer (Early Career) | ✅ Sponsors Visa | Torrance, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/b66a0bd5-846b-4858-8753-a6a8360248b9/application) |
+| 🏢 **Northwood Space** | Mechanical Design Engineer | ✅ Sponsors Visa | Torrance, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/db35e4f0-291e-4a55-94a5-ea25a43172d3/application) |
+| 🏢 **Northwood Space** | RF Hardware Engineer (Early Career) | ✅ Sponsors Visa | Torrance, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/5d76a025-bb64-4ddd-8b97-8649c41d89ed/application) |
+| 🏢 **Northwood Space** | Electrical Engineer (Early Career) | ✅ Sponsors Visa | Torrance, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/af609880-1e6c-4f89-8594-3c593f6eba0f/application) |
 | 🏢 **Lambda** | Data Center Operations Systems Engineer (Kansas City, MO) | ✅ Sponsors Visa | Kansas City, MO | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/lambda/e971621e-2a3d-4359-b349-9493007d517c/application) |
 | 🏢 **Handshake** | Graphic Designer - AI Trainer | ✅ Sponsors Visa | Remote | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/1c09f77c-f51f-43b2-913a-dc58d3aa68d8/application) |
 | 🏢 **Handshake** | Geophysicist - AI Trainer | ✅ Sponsors Visa | Remote | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/7ee2585c-2aab-421a-aff3-29a85f83bd15/application) |
@@ -144,9 +145,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Gecko Robotics** | Robotics Technician | ✅ Sponsors Visa | Pittsburgh | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/gecko-robotics/35a806e0-6f1b-4f69-8ef9-41f696fc4884/application) |
 | 🏢 **Rocket Lab** | Ground Systems Engineer I, Electrical | 🏢 Sponsor Employer | Stennis Space | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7593331003) |
 | 🏢 **Rocket Lab** | Mechanical Technician - All Levels | 🏢 Sponsor Employer | Wallops Island, VA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7628725003) |
+| 🏢 **Relativity Space** | Weld Engineer I |  | Long Beach | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8453656002?gh_jid=8453656002) |
 | 🏢 **Relativity Space** | Instrumentation and Controls Engineer I (Operations) |  | Stennis Space | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8452900002?gh_jid=8452900002) |
 | 🏢 **Relativity Space** | Propulsion Test Responsible Engineer I |  | Long Beach | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8059060002?gh_jid=8059060002) |
-| 🏢 **Relativity Space** | Weld Engineer I |  | Long Beach | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8453656002?gh_jid=8453656002) |
 | 🏢 **Pure Storage** | Hardware Design Engineer, Systems Engineering | ✅ Sponsors Visa | Santa Clara | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7389787) |
 | 🏢 **Pure Storage** | Hardware Engineer, Hyperscale Line of Business | ✅ Sponsors Visa | Santa Clara | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7596268) |
 | 🏢 **EliseAI** | Design Engineer | ✅ Sponsors Visa | New York City | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/eliseai/4037dde9-a809-4635-805a-869d1d119bd1/application) |
@@ -155,9 +156,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **PDT Partners** | Performance Engineer | ✅ Sponsors Visa | New York, NY | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/pdtpartners/jobs/7807080) |
 | 🏢 **Hermeus** | Structures Integration Technician |  | Los Angeles, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/04c2ac34-c4e1-4d41-bb86-7a909d0f8d80/apply) |
 | 🏢 **Hermeus** | Structures Design Engineer | ✅ Sponsors Visa | Los Angeles, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/79e7c701-41c6-45ba-948f-532787100a22/apply) |
-| 🏢 **Hermeus** | Performance Engineer |  | Los Angeles, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/123f0458-1f08-41f7-adc7-5b4141a168bd/apply) |
-| 🏢 **Olsson** | Project Civil Engineer - Site Design | ✅ Sponsors Visa | Dallas, TX + 4 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5128646008) |
-| 🏢 **Olsson** | Project Mechanical Engineer | ✅ Sponsors Visa | Lincoln, NE | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5147524008) |
+| 🏢 **Hermeus** | Loads and Dynamics Engineer |  | Los Angeles, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/hermeus/030c518e-2799-4656-893a-4f74f95371dc/apply) |
+| 🏢 **Olsson** | Transportation Engineer - Traffic/Technology | ✅ Sponsors Visa | Des Moines, IA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/4991000008) |
+| 🏢 **Olsson** | Electrical Engineer - Building Design | ✅ Sponsors Visa | Lincoln, NE | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/4856925008) |
 | 🏢 **Nuro** | Mechanical Engineer, Autonomous Vehicle | ✅ Sponsors Visa | Mountain View | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://nuro.ai/careersitem?gh_jid=7161982) |
 | 🏢 **Nuro** | Operations Safety Engineer | ✅ Sponsors Visa | Mountain View | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://nuro.ai/careersitem?gh_jid=7482214) |
 | 🏢 **Nuro** | Software Reliability Engineer | ✅ Sponsors Visa | Mountain View | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://nuro.ai/careersitem?gh_jid=7284218) |
@@ -169,9 +170,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Muon Space** | Electrical Hardware Engineer |  | San Jose, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/muonspace/jobs/5099251007) |
 | 🏢 **Muon Space** | GNC Engineer | ✅ Sponsors Visa | San Jose, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/muonspace/jobs/4866902007) |
 | 🏢 **Muon Space** | Harness Designer - Electrical |  | San Jose, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/muonspace/jobs/4991958007) |
-| 🏢 **Neuralink** | Design Controls Engineer | ✅ Sponsors Visa | Austin | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7619154003?gh_jid=7619154003) |
 | 🏢 **Neuralink** | Electrical Engineer, Robotics | ✅ Sponsors Visa | Austin | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7641728003?gh_jid=7641728003) |
 | 🏢 **Neuralink** | Hardware/ Software Co-Design Engineer | ✅ Sponsors Visa | Austin | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7637700003?gh_jid=7637700003) |
+| 🏢 **Neuralink** | Manufacturing Engineer | ✅ Sponsors Visa | Austin + 1 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7668502003?gh_jid=7668502003) |
 | 🏢 **MongoDB** | Site Reliability Engineer 3 | ✅ Sponsors Visa | New York City | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7145126) |
 | 🏢 **MatX** | Bluespec Design Engineer |  | Mountain View, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/matx/jobs/5173649008) |
 | 🏢 **MatX** | Hardware System Engineer | ✅ Sponsors Visa | Mountain View, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/matx/jobs/4603753008) |
@@ -181,15 +182,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Lucid Motors** | Mobile Service Technician, Plainview | ✅ Sponsors Visa | Plainview, NY | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5072630007) |
 | 🏢 **LG Electronics** | Field Service Technician (Appliance Repair ) - Future Opportunities - Nationwide | ✅ Sponsors Visa | USA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5132663008) |
 | 🏢 **Latitude AI** | Hardware Engineer I | ✅ Sponsors Visa | Palo Alto, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/latitude/jobs/7611153) |
+| 🏢 **Jane Street** | Trading Desk Operations Engineer | 🏢 Sponsor Employer | New York | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8070515002) |
 | 🏢 **Jane Street** | IT Operations Engineer | 🏢 Sponsor Employer | New York + 1 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8018160002) |
 | 🏢 **Jane Street** | Machine Learning Performance Engineer | 🏢 Sponsor Employer | New York + 1 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/7449077002) |
-| 🏢 **Jane Street** | Production Engineer | 🏢 Sponsor Employer | New York | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/5108180002) |
 | 🏢 **Jump Trading** | Field Engineer/Microwave Tower Technician | ✅ Sponsors Visa | Sioux Falls, SD | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=6647764) |
 | 🏢 **Jump Trading** | HPC Operations Engineer | ✅ Sponsors Visa | Chicago | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=6615896) |
 | 🏢 **Etched** | Design Verification Engineer - Internal IP | 🏢 Sponsor Employer | San Jose + 1 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/7aeafe31-c2c6-43e0-bb31-01868dcfad39/application) |
 | 🏢 **Etched** | PCB Rework Technician | 🏢 Sponsor Employer | San Jose | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/fb1ccbb2-d9ed-48f5-a8e1-f3d5a12e461f/application) |
-| 🏢 **Intrinsic Robotics** | Robotics Software Engineer - Manufacturing Automation |  | Mountain View | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/intrinsicrobotics/jobs/5841400004?gh_jid=5841400004) |
 | 🏢 **Intrinsic Robotics** | Automation and Controls Engineer |  | Mountain View | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/intrinsicrobotics/jobs/5843008004?gh_jid=5843008004) |
+| 🏢 **Intrinsic Robotics** | Robotics Software Engineer - Manufacturing Automation |  | Mountain View | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/intrinsicrobotics/jobs/5841400004?gh_jid=5841400004) |
 | 🏢 **Crusoe** | Development Engineer | ✅ Sponsors Visa | Denver, CO | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/831a1577-bc19-47a3-aef2-c238bbeb2507/application) |
 | 🏢 **Crusoe** | Journeyman Electrical Commissioning Technician | ✅ Sponsors Visa | Brighton, CO | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/5467b421-c662-464f-9df9-bbeed04f8c17/application) |
 | 🏢 **Crusoe** | Commissioning Engineer, Mechanical | ✅ Sponsors Visa | Amarillo, TX | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/f2303c0a-bc8e-42a4-a95b-09b2ba8a8f9a/application) |
@@ -202,10 +203,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Formlabs** | Application Engineer |  | Somerville, MA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.formlabs.com/job/7678223/apply/?gh_jid=7678223) |
 | 🏢 **Zipline** | Service Engineer | ✅ Sponsors Visa | South San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.flyzipline.com/careers/open-roles?gh_jid=7693582003) |
 | 🏢 **Zipline** | Technical Sales - Ground Systems and Site Infrastructure | 🏢 Sponsor Employer | Phoenix | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.flyzipline.com/careers/open-roles?gh_jid=7540029003) |
-| 🏢 **Zipline** | Process Engineer, Service Tooling & Processes | ✅ Sponsors Visa | Esparto | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.flyzipline.com/careers/open-roles?gh_jid=7350124003) |
-| 🏢 **Freeform** | Additive Manufacturing Development Engineer |  | Los Angeles, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7653245003) |
+| 🏢 **Zipline** | Electrical Ground Systems Technician (Contract) | ✅ Sponsors Visa | Dallas-Fort Worth + 1 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.flyzipline.com/careers/open-roles?gh_jid=7645373003) |
 | 🏢 **Freeform** | Electrical Engineer (Hardware Design) |  | Los Angeles, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688763003) |
 | 🏢 **Freeform** | Mechanical Engineer (Complex Precision Systems) |  | Los Angeles, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692972003) |
+| 🏢 **Freeform** | Mechanical Engineer (Site Infrastructure) |  | Los Angeles, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692926003) |
 | 🏢 **Figure AI** | Mechanical Engineer - All Levels | 🏢 Sponsor Employer | San Jose, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4410831006) |
 | 🏢 **Figure AI** | Mechanical Engineer, Battery | 🏢 Sponsor Employer | San Jose, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4656559006) |
 | 🏢 **Figure AI** | Mechanical Engineer - Hands | 🏢 Sponsor Employer | San Jose, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4643612006) |
@@ -229,8 +230,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Axon** | Industrial Engineer I (Onsite) |  | Scottsdale | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7624218003) |
 | 🏢 **Aurora Innovation** | Systems and Safety Engineer, Autonomy Sensing | ✅ Sponsors Visa | Mountain View + 1 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://aurora.tech/jobs/8456963002?gh_jid=8456963002) |
 | 🏢 **Aurora Innovation** | Hardware Technician | ✅ Sponsors Visa | Pittsburgh | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://aurora.tech/jobs/8485377002?gh_jid=8485377002) |
-| 🏢 **Astranis** | Structural Analyst |  | San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4612921006) |
 | 🏢 **Astranis** | Thermal Engineer |  | San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4349267006) |
+| 🏢 **Astranis** | Structural Analyst |  | San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4612921006) |
 | 🏢 **Astranis** | Avionics Engineer |  | San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4017414006) |
 | 🏢 **Astera Labs** | Hardware Lab Technician | 🏢 Sponsor Employer | San Jose | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4674410005) |
 | 🏢 **Astera Labs** | Physical Design/CAD Engineer | 🏢 Sponsor Employer | San Jose | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4679751005) |
@@ -238,12 +239,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anthropic** | Performance Engineer, GPU | ✅ Sponsors Visa | San Francisco, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4926227008) |
 | 🏢 **Anthropic** | Design Engineer, Web | ✅ Sponsors Visa | San Francisco, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5116525008) |
 | 🏢 **Apptronik** | Electrical Engineer | 🏢 Sponsor Employer | Austin, TX | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/apptronik/jobs/5780398004?gh_jid=5780398004) |
-| 🏢 **Applied Intuition** | Application Engineer - Postsales | ✅ Sponsors Visa | Sunnyvale | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4479440005?gh_jid=4479440005) |
-| 🏢 **Applied Intuition** | Engineering Technician, Vehicle Operations | ✅ Sponsors Visa | Sunnyvale | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4284736005?gh_jid=4284736005) |
-| 🏢 **Applied Intuition** | Model Based Systems Engineer | ✅ Sponsors Visa | Sunnyvale | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4085454005?gh_jid=4085454005) |
+| 🏢 **Applied Intuition** | System Safety Engineer, Autonomy Trucking | ✅ Sponsors Visa | Sunnyvale | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4496715005?gh_jid=4496715005) |
+| 🏢 **Applied Intuition** | System Safety Engineer, Vehicle OS | ✅ Sponsors Visa | Sunnyvale | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4658288005?gh_jid=4658288005) |
+| 🏢 **Applied Intuition** | Systems Engineer, Perception - Autonomy Trucking | ✅ Sponsors Visa | Sunnyvale | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4519706005?gh_jid=4519706005) |
 | 🏢 **Anduril** | Wire Bonding Technician |  | Lexington | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5092604007?gh_jid=5092604007) |
-| 🏢 **Anduril** | Systems Engineer, Advanced Effects, Active Clearance | ✅ Sponsors Visa | Costa Mesa | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4657118007?gh_jid=4657118007) |
-| 🏢 **Anduril** | Systems Safety Engineer | ✅ Sponsors Visa | Broomfield | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4996159007?gh_jid=4996159007) |
+| 🏢 **Anduril** | Technical Recruiter, Production Engineering (Contract) | ✅ Sponsors Visa | Ashville | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4999312007?gh_jid=4999312007) |
+| 🏢 **Anduril** | Technician, Electrical/PCBAs | ✅ Sponsors Visa | Costa Mesa | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5025544007?gh_jid=5025544007) |
 | 🏢 **Decagon** | Field Engineer |  | New York City | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/decagon/9ffd6359-d0ff-4ab6-b210-0fb05d2c459c/application) |
 | 🏢 **Cartesia** | Design Engineer | ✅ Sponsors Visa | * | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cartesia/30dd64e9-178e-43d8-afaa-13bb97baf45d/application) |
 | 🏢 **Atomic Semi** | Mechanical Engineer | ✅ Sponsors Visa | San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/atomicsemi/5d687a8f-ed34-47de-9af7-6a66a69a2695/application) |
@@ -254,9 +255,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Palantir** | Site Reliability Engineer - US Government | ✅ Sponsors Visa | Washington | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/211f99dc-269e-4f25-84d3-d73dea782080/apply) |
 | 🏢 **Palantir** | Forward Deployed Reliability Engineer | ✅ Sponsors Visa | New York, NY | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/palantir/689e6869-01bc-40f1-b580-adb33a020065/apply) |
 | 🏢 **Spotify** | Site Reliability Engineer - Backstage | 🏢 Sponsor Employer | New York, NY | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/ad5ef898-b800-4213-a63e-e39a97df9cfb/apply) |
-| 🏢 **Allen Control Systems** | Robotics Software Test Technician | ✅ Sponsors Visa | Austin, TX | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5156507008) |
-| 🏢 **Allen Control Systems** | Technical Operations Engineer | ✅ Sponsors Visa | Austin, TX | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/4934011008) |
-| 🏢 **Allen Control Systems** | Unreal Systems Developer | ✅ Sponsors Visa | Austin, TX | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/4170009008) |
+| 🏢 **Allen Control Systems** | Controls Engineer | ✅ Sponsors Visa | Austin, TX | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/4780166008) |
+| 🏢 **Allen Control Systems** | Electrical Engineer | ✅ Sponsors Visa | Austin, TX | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/4641926008) |
+| 🏢 **Allen Control Systems** | Electronics Technician | ✅ Sponsors Visa | Austin, TX | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5158167008) |
 | 🏢 **Akuna Capital** | Performance Engineer | ✅ Sponsors Visa | Chicago, IL | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.akunacapital.com/careers/job/7496414/?gh_jid=7496414) |
 | 🏢 **Northrop Grumman** | Materials Engineer Level 5 |  | California-Sunnyvale | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Materials-Engineer-Level-5_R10230073) |
 | 🏢 **Amentum** | Entry Level RF Survey Engineer with Security Clearance | 🏢 Sponsor Employer | Dahlgren | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobted.com/job/c3240e05fd277763fe884cbde5b805e4) |
@@ -268,7 +269,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Boston Dynamics** | Robotics Engineer- Stretch Perception | ✅ Sponsors Visa | Waltham, MA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Robotics-Engineer--Stretch-Perception_R2537) |
 | 🏢 **Boston Dynamics** | Robotics Operations and Triage Engineer- Stretch | ✅ Sponsors Visa | Waltham, MA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Robotics-Operations-and-Triage-Engineer--Stretch_R2538-1) |
 | 🏢 **Boston Dynamics** | Robotics Software Engineer- Stretch | ✅ Sponsors Visa | Waltham, MA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-MA/Robotics-Software-Engineer--Stretch_R2545) |
-| 🏢 **Amazon.com Services LLC** | Software Development Engineer, Ads Payments | 🏢 Sponsor Employer | New York, NY + 1 more | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10395428/software-development-engineer-ads-payments) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -282,13 +282,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|------|----------|--------|----------|
 | 🏢 **Cursor** | Associate Field Engineer |  | New York | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cursor/01fdd3d5-be8c-47d5-a317-bfe797739670/application) |
 | 🏢 **Waymo** | ASIC Design Verification Engineer | 🏢 Sponsor Employer | Mountain View, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7656843) |
-| 🏢 **OpenAI** | Networking Operating System Firmware Engineer | ✅ Sponsors Visa | San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/582b878e-61bf-4be2-8b30-623434baf726/application) |
 | 🏢 **OpenAI** | Camera Firmware Engineer, Consumer Devices | ✅ Sponsors Visa | San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/1dc05fc7-ceb7-4827-a905-9d1beb77a4a0/application) |
-| 🏢 **Tenstorrent** | ASIC Networking Engineer | 🏢 Sponsor Employer | United States | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5062896007) |
+| 🏢 **OpenAI** | Networking Operating System Firmware Engineer | ✅ Sponsors Visa | San Francisco | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/582b878e-61bf-4be2-8b30-623434baf726/application) |
 | 🏢 **Tenstorrent** | SOC Emulation Engineer - Hardware Emulation Infrastructure | 🏢 Sponsor Employer | Austin | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5070207007) |
+| 🏢 **Tenstorrent** | ASIC Networking Engineer | 🏢 Sponsor Employer | United States | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5062896007) |
 | 🏢 **SpaceX** | Wireless Firmware Engineer (Direct To Cell) |  | Redmond, WA + 1 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8376486002?gh_jid=8376486002) |
-| 🏢 **SpaceX** | RTL Design Engineer (Silicon Engineering) |  | Irvine, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8466346002?gh_jid=8466346002) |
 | 🏢 **SpaceX** | SOC Design Verification Engineer (Silicon Engineering) |  | Irvine, CA + 1 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8358268002?gh_jid=8358268002) |
+| 🏢 **SpaceX** | RTL Design Engineer (Silicon Engineering) |  | Irvine, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8466346002?gh_jid=8466346002) |
 | 🏢 **Optiver** | FPGA Engineer | ✅ Sponsors Visa | Chicago | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/optiverprivate/jobs/8375608002) |
 | 🏢 **Olsson** | Associate Civil Engineer - Federal Engineering and Design Team | ✅ Sponsors Visa | Arizona - Remote;... | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5058841008) |
 | 🏢 **Olsson** | Associate Structural Engineer | ✅ Sponsors Visa | Arizona - Remote;... | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5082924008) |
@@ -298,8 +298,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **MatX** | ASIC/SOC Silicon Verification Engineer | ✅ Sponsors Visa | Mountain View, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/matx/jobs/4002906008) |
 | 🏢 **LG Electronics** | Production Engineering Associate | ✅ Sponsors Visa | Clarksville, TN | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/4994184008) |
 | 🏢 **LG Electronics** | R&D Engineer Associate | ✅ Sponsors Visa | Clarksville, TN | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5178005008) |
-| 🏢 **Jane Street** | FPGA Engineer | 🏢 Sponsor Employer | New York + 2 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8062455002) |
 | 🏢 **Jane Street** | ASIC Engineer | 🏢 Sponsor Employer | New York | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8213653002) |
+| 🏢 **Jane Street** | FPGA Engineer | 🏢 Sponsor Employer | New York + 2 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8062455002) |
 | 🏢 **Exegy** | Associate Site Reliability Engineer (SRE) | ✅ Sponsors Visa | St. Louis | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/exegy/3080c86a-0fc9-436c-8f47-b3bbe564a77f/application) |
 | 🏢 **Etched** | Design Verification Engineer - SoC | 🏢 Sponsor Employer | San Jose + 1 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/a99318bd-b433-44b7-9600-2ee9533c90a1/application) |
 | 🏢 **CoreWeave** | Firmware Engineer, SPX | ✅ Sponsors Visa | Livingston, NJ | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://coreweave.com/careers/job?4615564006&board=coreweave&gh_jid=4615564006) |
@@ -403,8 +403,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Allen Control Systems** | Embedded Engineer | ✅ Sponsors Visa | Austin, TX | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/4515650008) |
 | 🏢 **Allen Control Systems** | Embedded Software Engineer | ✅ Sponsors Visa | Austin, TX | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/4943808008) |
 | 🏢 **Boeing** | Entry-Level Missions Systems Software Engineers - Embedded | 🏢 Sponsor Employer | Berkeley, MO + 1 more | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Missions-Systems-Software-Engineers---Embedded_JR2026501664-1) |
+| 🏢 **Northrop Grumman** | Embedded Software Engineer |  | California-San Diego + 2 more | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Embedded-Software-Engineer_R10229935) |
 | 🏢 **Northrop Grumman** | Software Engineer: Embedded/Test Equipment (Secret) - Level 3 - Chandler |  | Arizona-Chandler | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Software-Engineer--Embedded-Test-Equipment--Secret----Level-3---Chandler_R10230012) |
-| 🏢 **Northrop Grumman** | Embedded Software Engineer |  | Illinois-Rolling ... + 2 more | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Embedded-Software-Engineer_R10229977) |
 | 🏢 **Caterpillar** | Full Stack Embedded Software Engineer | 🏢 Sponsor Employer | Mossville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Full-Stack-Embedded-Software-Engineer_R0000364365) |
 | 🏢 **Booz Allen Hamilton** | Electronic Warfare Embedded Engineer | 🏢 Sponsor Employer | Aberdeen Proving ... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Aberdeen-Proving-Ground-MD/Electronic-Warfare-Embedded-Engineer_R0238064) |
 | 🏢 **Western Digital** | Software Development Engineer (Firmware) | 🏢 Sponsor Employer | Irvine, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000121297497) |
@@ -435,8 +435,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Waymo** | Systems Test Engineer, Commercialization Test Automation | 🏢 Sponsor Employer | Mountain View, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7702392) |
 | 🏢 **Waymo** | Systems Test Engineer, Motion Control | 🏢 Sponsor Employer | Mountain View, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7355055) |
 | 🏢 **Torc Robotics** | System Test Engineer - Vehicle | ✅ Sponsors Visa | Ann Arbor, MI | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8471717002) |
-| 🏢 **SpaceX** | Starlink Integration & Test Engineer (Aviation) |  | Woodinville, WA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8470829002?gh_jid=8470829002) |
 | 🏢 **SpaceX** | Wireless Integration & Validation Engineer (Starlink Mobile) |  | Sunnyvale, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8456871002?gh_jid=8456871002) |
+| 🏢 **SpaceX** | Starlink Integration & Test Engineer (Aviation) |  | Woodinville, WA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8470829002?gh_jid=8470829002) |
 | 🏢 **SpaceX** | Radiation Effects Test Engineer |  | Winter Garden, FL | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8423966002?gh_jid=8423966002) |
 | 🏢 **Northwood Space** | Electronics Test Engineer (Early Career) | ✅ Sponsors Visa | Torrance, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/e153b809-8535-4d9d-b48c-c25acdeadae7/application) |
 | 🏢 **Handshake** | Electrical Design Engineer - AI Trainer | ✅ Sponsors Visa | Remote | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/7e7702f6-750e-44e1-8f12-caf26fcc85f4/application) |
@@ -455,9 +455,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Figure AI** | Reliability Test Engineer, Mechatronics (All Levels) | 🏢 Sponsor Employer | San Jose, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4655258006) |
 | 🏢 **Cloudflare** | Systems Test Engineer - Zero Trust Client | ✅ Sponsors Visa | Remote | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7090232?gh_jid=7090232) |
 | 🏢 **Aurora Innovation** | Software Test Engineer | ✅ Sponsors Visa | Pittsburgh | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://aurora.tech/jobs/8438840002?gh_jid=8438840002) |
-| 🏢 **Applied Intuition** | Sensor Validation Engineer | ✅ Sponsors Visa | Sunnyvale | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4652903005?gh_jid=4652903005) |
 | 🏢 **Applied Intuition** | Validation Engineer | ✅ Sponsors Visa | Sunnyvale | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4491412005?gh_jid=4491412005) |
 | 🏢 **Applied Intuition** | V&V Test Engineer | ✅ Sponsors Visa | Sunnyvale | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4683139005?gh_jid=4683139005) |
+| 🏢 **Applied Intuition** | Sensor Validation Engineer | ✅ Sponsors Visa | Sunnyvale | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4652903005?gh_jid=4652903005) |
 | 🏢 **Anduril** | Warhead Design & Test Engineer, Maritime | ✅ Sponsors Visa | Costa Mesa | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5086183007?gh_jid=5086183007) |
 | 🏢 **Anduril** | Warhead Design & Test Engineer – Modeling and Simulation | ✅ Sponsors Visa | Costa Mesa | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5033176007?gh_jid=5033176007) |
 | 🏢 **Anduril** | Systems Test Engineer, Space | ✅ Sponsors Visa | Costa Mesa | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4992181007?gh_jid=4992181007) |
@@ -490,7 +490,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Leidos** | MDS Systems Test Engineer | 🏢 Sponsor Employer | Washington, DC | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/MDS-Systems-Test-Engineer_R-00180971) |
 | 🏢 **Leidos** | Systems Integration & Test Engineer | 🏢 Sponsor Employer | Gaithersburg, MD | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Systems-Integration---Test-Engineer_R-00180990-1) |
 | 🏢 **SEL** | Electrical Test Engineering Technician | 🏢 Sponsor Employer | Lewiston, ID | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Electrical-Test-Engineering-Technician_2026-20609) |
-| 🏢 **Broadcom** | Digital Signal Processing and System Validation Engineer | 🏢 Sponsor Employer | California-San Jo... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Digital-Signal-Processing-and-System-Validation-Engineer_R025724) |
+| 🏢 **Broadcom** | Digital Signal Processing and System Validation Engineer | 🏢 Sponsor Employer | California-San Jo... | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Digital-Signal-Processing-and-System-Validation-Engineer_R025724) |
 | 🏢 **Curtiss-Wright** | Electrical Test Engineer | 🏢 Sponsor Employer | OH-Cincinnati | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Cincinnati-Nuclear/Sr-Electrical-Test-Engineer_JR10434-1) |
 | 🏢 **RTX** | Master Technician (T6) – Test Engineering – Onsite | 🏢 Sponsor Employer | MN-BURNSVILLE-WEST | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Master-Technician--T6----Test-Engineering---Onsite_01837375) |
 | 🏢 **Boeing** | Harness Electrical Design Engineer | 🏢 Sponsor Employer | Seal Beach, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Harness-Electrical-Design-Engineer_JR2026503304-1) |
@@ -513,7 +513,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Waabi** | Supplier Quality Engineer | 🏢 Sponsor Employer | Pittsburgh, PA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/waabi/b74a74fa-f419-4897-a3cd-c9cf7ca18dac/apply) |
 | 🏢 **SpaceX** | Software Engineer, Hardware Test & Automation (Optical Payloads) |  | Redmond, WA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8211187002?gh_jid=8211187002) |
 | 🏢 **SpaceX** | Software Engineer, Hardware Test & Automation (Starlink) |  | Redmond, WA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8316301002?gh_jid=8316301002) |
-| 🏢 **SpaceX** | Electrical Test Development Engineer, Customer Hardware (Starlink) |  | Bastrop, TX | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8470901002?gh_jid=8470901002) |
+| 🏢 **SpaceX** | Hardware Test Automation Engineer, Satellites (Starlink) |  | Redmond, WA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8440972002?gh_jid=8440972002) |
 | 🏢 **SharkNinja** | Quality Engineer - Indoor Heated | ✅ Sponsors Visa | United States | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4651235006) |
 | 🏢 **Roblox** | Quality Engineer, Game Engine | ✅ Sponsors Visa | San Mateo, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.roblox.com/jobs/7645318?gh_jid=7645318) |
 | 🏢 **Oklo** | Hardware Test Technician | ✅ Sponsors Visa | Idaho Falls, ID | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/5730933004) |
@@ -552,7 +552,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Medtronic** | Quality Engineer I | 🏢 Sponsor Employer | Lafayette | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Quality-Engineer-I_R63463) |
 | 🏢 **Jabil** | Quality Engineer - Nights | 🏢 Sponsor Employer | Florence, KY | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Quality-Engineer---Nights_J2442297-1) |
 | 🏢 **Intel** | CAD Engineer for CPU Logic Design and Validation | 🏢 Sponsor Employer | US | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CAD-Engineer-for-CPU-Logic-Design-and-Validation_JR0282920) |
-| 🏢 **Aptiv** | Validation EMC Technician | 🏢 Sponsor Employer | USA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Westfield-Indiana---USA/Validation-EMC-Technician_J000695649) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -608,7 +607,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1975 current opportunities from 208 companies**
+**🎯 1955 current opportunities from 208 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
