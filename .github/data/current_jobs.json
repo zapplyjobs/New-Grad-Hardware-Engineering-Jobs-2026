@@ -26,6 +26,20 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "jama",
+        "process improvement",
+        "requirements management",
+        "risk management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-20 Country: United States of America Location: US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112 Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T19:05:32.396Z"
   },
   {
@@ -54,6 +68,17 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "plc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "We are one team, dedicated to working collaboratively to create purposeful solutions that propel the world forward.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T19:03:47.285Z"
   },
   {
@@ -83,6 +108,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "api",
+        "ci/cd",
+        "computer science",
+        "design patterns",
+        "express",
+        "ios",
+        "java",
+        "jetpack compose",
+        "junit",
+        "kotlin",
+        "swift",
+        "swiftui",
+        "typescript"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "We give everyone—from emerging artists to global brands— everything they need to design and deliver exceptional digital experiences.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T19:02:09.322Z"
   },
   {
@@ -111,6 +160,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "fmea",
+        "mechatronics",
+        "nx",
+        "pfmea",
+        "root cause analysis",
+        "routing",
+        "sap",
+        "siemens nx",
+        "spc",
+        "statistical process control",
+        "statistics",
+        "teamcenter"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Mission The FLS PE is responsible for providing first-line troubleshooting support to ensure uninterrupted production output for EXE RS work center .",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T19:01:59.687Z"
   },
   {
@@ -6479,10 +6550,10 @@
     "enrichment": {
       "required_skills": [
         ".net",
+        "agentic",
         "c#",
         "computer science",
         "data migration",
-        "etl",
         "http",
         "react",
         "reporting",
@@ -6527,6 +6598,7 @@
     "_original_source": "ashby",
     "enrichment": {
       "required_skills": [
+        "agentic",
         "ansible",
         "ci/cd",
         "dashboards",
@@ -6539,7 +6611,6 @@
         "google cloud platform",
         "grafana",
         "high availability",
-        "https",
         "incident response",
         "infrastructure as code",
         "kubernetes",
@@ -6549,7 +6620,6 @@
         "python",
         "scalability",
         "site reliability engineering",
-        "sre",
         "terraform"
       ],
       "sponsors_visa": null,
@@ -86271,46 +86341,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T19:32:35.966Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180715",
-    "job_title": "PCBA Conformal Coating Technician-2nd shift",
-    "employer_name": "Leidos",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Conformal-Coating-Technician-2nd-shift_R-00180715",
-    "job_posted_at_datetime_utc": "2026-04-13T19:22:29.190Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4efaea9e0563052c7eacf7c8ed2941ed11ae2e29060182093c24a373b6a0d0c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "cybersecurity",
-        "ipc-a-610"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Leidos’ Defense Systems Electronic Manufacturing Facility is seeking a PCBA Conformal Coating Technician to join our team at our Electronics Manufacturing Facility (EMF).",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T19:22:29.190Z"
   }
 ]
