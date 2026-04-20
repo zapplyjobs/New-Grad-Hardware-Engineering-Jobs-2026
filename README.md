@@ -70,7 +70,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
 | 🏢 **Baker Hughes** | Engineering Specialist - Applications and Software | 🏢 Sponsor Employer | Mh, IN | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Engineering-Specialist---Applications-and-Software_R160606) |
-| 🏢 **Northrop Grumman** | U103 CALIBRATION TECH |  | California-Sunnyvale | 41m | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/U103-CALIBRATION-TECH_R10228978-1) |
+| 🏢 **Northrop Grumman** | U103 CALIBRATION TECH |  | California-Sunnyvale | 42m | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/U103-CALIBRATION-TECH_R10228978-1) |
 | 🏢 **Olsson** | Geotechnical Engineer - Rail | ✅ Sponsors Visa | Colorado Springs, CO | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5126221008) |
 | 🏢 **Etched** | Lab Engineering Technician |  | San Jose | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/etched/591fce9d-1c8e-47d2-b5a8-d14817afb423/application) |
 | 🏢 **Snap** | Product Design Engineer | 🏢 Sponsor Employer | Los Angeles | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Los-Angeles-California/Product-Design-Engineer_R0042673-1) |
