@@ -84178,50 +84178,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T14:32:58.475Z"
-  },
-  {
-    "job_id": "workday-caci-324822",
-    "job_title": "Cyber Security Compliance Engineer",
-    "employer_name": "CACI",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Cyber-Security-Compliance-Engineer_324822",
-    "job_posted_at_datetime_utc": "2026-04-14T14:06:38.986Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d2926a4d76178f6885c38cba0567c3792143b8cfc7750d63a4bbeca6c1579b3c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cyber security",
-        "cybersecurity",
-        "incident response",
-        "information security",
-        "nist"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Cyber Security Compliance Engineer Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: None Employee Type: Regular Percentage of Travel Required:…",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-14T14:06:38.986Z"
   }
 ]
