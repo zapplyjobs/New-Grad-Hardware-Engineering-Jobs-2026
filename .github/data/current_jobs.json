@@ -25,6 +25,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "data analysis",
+        "microwave",
+        "mil-std",
+        "process improvement",
+        "root cause analysis",
+        "spc",
+        "statistical process control"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-22 Country: United States of America Location: US-TX-MCKINNEY-513WZS ~ 2501 W University Dr ~ WZS BLDG Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T14:21:51.428Z"
   },
   {
@@ -53,6 +71,22 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "cad",
+        "mechatronics",
+        "robotics",
+        "routing",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "We empower employees to take on challenging assignments and roles with an elevated level of responsibility in our agile working environment.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T14:20:57.766Z"
   },
   {
@@ -81,6 +115,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "devops",
+        "git",
+        "gitlab",
+        "linux",
+        "matlab",
+        "python",
+        "radar",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Title: Radar Engineer Program Summary KBR’s Missile, Aviation, and Ground Systems (MAGS) division delivers mission engineering solutions for critical U.S.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T14:20:41.258Z"
   },
   {
@@ -109,6 +162,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "github",
+        "hfss",
+        "matlab",
+        "microwave",
+        "photonics",
+        "python",
+        "rf",
+        "signal processing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "RF Electrical Engineer The Opportunity: Are you passionate about investigating RF and microwave challenges and working with cross-functional teams to deliver mission-critical solutions?",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T14:18:58.599Z"
   },
   {
@@ -137,6 +208,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "c++",
+        "computer vision",
+        "devops",
+        "docker",
+        "embedded systems",
+        "linux",
+        "robotics",
+        "sensor fusion"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Robotics Engineer The Opportunity: C ond uct the research, development, integration, deployment, and evaluation of robotic and unmanned systems across multiple operational domains and DoD war fighter…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T14:18:58.599Z"
   },
   {
@@ -18887,7 +18977,7 @@
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
-      "is_simple_apply": true,
+      "is_simple_apply": false,
       "summary_line": null,
       "is_remote": false
     },
@@ -33385,18 +33475,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "cad",
-        "fea",
-        "finite element analysis",
-        "nx",
-        "teamcenter"
-      ],
-      "sponsors_visa": false,
+      "required_skills": [],
+      "sponsors_visa": null,
       "visa_question_present": false,
-      "possible_sponsor": null,
+      "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "Bachelor's degree in mechanical engineering, aerospace engineering, or other engineering discipline   1+ years of hands-on experience with mechanical systems (internship and project experience applies",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:44.292Z"
