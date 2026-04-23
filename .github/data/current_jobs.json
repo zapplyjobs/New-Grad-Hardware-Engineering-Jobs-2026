@@ -29778,7 +29778,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "Qualifications   - Proven experience leading development within the Linux kernel.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.459Z"
@@ -29824,7 +29824,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "The GTM (Go-To-Market) Innovation team is an internal powerhouse revolutionizing how we engage customers through groundbreaking applications of our technology.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.459Z"
@@ -29872,7 +29872,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "About the Team Training Runtime designs the core distributed machine-learning training runtime that powers everything from early research experiments to frontier-scale model runs.",
+      "summary_line": null,
       "is_remote": true
     },
     "job_posted_at": "2026-04-20T01:57:46.459Z"
@@ -29918,7 +29918,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "Qualifications   - Experience as an infrastructure, systems, or distributed systems engineer in large-scale or high-availability environments   - Strong knowledge of Kubernetes internals, cluster scal…",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.459Z"
@@ -29962,10 +29962,10 @@
         "system design"
       ],
       "sponsors_visa": null,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "OpenAI’s Hardware organization develops silicon and system-level solutions designed for the unique demands of advanced AI workloads.",
+      "is_simple_apply": false,
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.459Z"
@@ -30010,7 +30010,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "OpenAI’s Hardware organization develops silicon and system-level solutions designed for the unique demands of advanced AI workloads.",
+      "summary_line": null,
       "is_remote": true
     },
     "job_posted_at": "2026-04-20T01:57:46.459Z"
@@ -30064,7 +30064,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "OpenAI’s Hardware organization develops silicon and system-level solutions designed for the unique demands of advanced AI workloads.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.459Z"
@@ -30106,7 +30106,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "Qualifications:   - BS w/ 4+ or MS with 2+ years or PhD with 0-1 year(s) of relevant industry experience in physical design and methodology development   - Demonstrated success in taping out complex s…",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.459Z"
@@ -30149,7 +30149,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "OpenAI’s Hardware organization develops silicon and system-level solutions designed for the unique demands of advanced AI workloads.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.459Z"
@@ -30210,7 +30210,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "OpenAI’s Hardware organization develops silicon and system-level solutions designed for the unique demands of advanced AI workloads.",
+      "summary_line": null,
       "is_remote": true
     },
     "job_posted_at": "2026-04-20T01:57:46.459Z"
@@ -30257,7 +30257,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "The Consumer Products team at OpenAI builds end-to-end hardware and software systems that bring AI into the physical world.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.459Z"
@@ -30303,7 +30303,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "OpenAI’s Hardware organization develops silicon and system-level solutions designed for the unique demands of advanced AI workloads.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.459Z"
@@ -30390,7 +30390,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "SKILLS YOU’LL NEED TO BRING:   - 4-8 years of experience as a Software Engineer or Data Engineer (or equivalent), with a track record of building and operating production systems end-to-end across app…",
+      "summary_line": null,
       "is_remote": true
     },
     "job_posted_at": "2026-04-20T01:57:46.274Z"
@@ -30433,7 +30433,7 @@
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "3 years of direct engineering experience, including hands-on involvement in R&D or complex engineering projects       Strong understanding of classical mechanics, orbital mechanics, and applied mathem",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:45.735Z"
@@ -30477,7 +30477,7 @@
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "Trace3 is a leading Transformative IT Authority, providing unique technology solutions and consulting services to our clients.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:45.735Z"
