@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-2095-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-2102-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-205-blue?style=flat&logo=building)
-![Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1736-red?style=flat&logo=star)
+![Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1742-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,9 +69,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted |
 |---------|------|------|----------|--------|
-| 🏢 **Comcast** | [Residential Installation & Service Technician →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/AL---Florence-421-Gerrard-Dr/Residential-Installation---Service-Technician_R433202) |  | Florence, 421 Ger... + 12 more | 6m |
-| 🏢 **FLIR Systems** | [Process Technician →](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Goleta-CA/Process-Technician_REQ34373) |  | Goleta, CA, CA | 10m |
-| 🏢 **SpaceX** | [Materials Technician, Insource Manufacturing →](https://boards.greenhouse.io/spacex/jobs/8517667002?gh_jid=8517667002) |  | Bastrop, TX | 42m |
+| 🏢 **Blue Origin** | [Software Development Engineer Sr →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-Sr_R57396) |  | Greater Seattle Area | 13m |
+| 🏢 **Adobe** | [Software Development Engineer →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R152506) |  | San Jose + 8 more | 14m |
+| 🏢 **Aurora Innovation** | [Vehicle Platform Systems Engineer →](https://aurora.tech/jobs/8508606002?gh_jid=8508606002) |  | Dallas | 16m |
+| 🏢 **Comcast** | [Residential Installation & Service Technician →](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/AL---Florence-421-Gerrard-Dr/Residential-Installation---Service-Technician_R433202) | 🏢 Sponsor Employer | Florence, 421 Ger... + 12 more | 21m |
+| 🏢 **FLIR Systems** | [Process Technician →](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Goleta-CA/Process-Technician_REQ34373) | 🏢 Sponsor Employer | Goleta, CA, CA | 25m |
+| 🏢 **SpaceX** | [Materials Technician, Insource Manufacturing →](https://boards.greenhouse.io/spacex/jobs/8517667002?gh_jid=8517667002) |  | Bastrop, TX | 57m |
 | 🏢 **Anduril** | [Technician, Electrical/PCBAs →](https://boards.greenhouse.io/andurilindustries/jobs/5118161007?gh_jid=5118161007) | ✅ Sponsors Visa | Costa Mesa | 1h |
 | 🏢 **Anduril** | [Electrical Test Technician →](https://boards.greenhouse.io/andurilindustries/jobs/5118151007?gh_jid=5118151007) | ✅ Sponsors Visa | Costa Mesa | 1h |
 | 🏢 **Northrop Grumman** | [Electromechanical Engineer (Level 2 OR 3) →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Electromechanical-Engineer--Level-2-OR-3-_R10230488) |  | Colorado-Aurora | 2h |
@@ -98,70 +101,68 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **NVIDIA** | [Foundry Development Engineer →](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Foundry-Development-Engineer_JR2015115) | 🏢 Sponsor Employer | US, CA | 3h |
 | 🏢 **Abbott** | [Controls Engineer - Virginia Plant →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Virginia---Altavista/Controls-Engineer---Virginia-Plant_31143762-2) | 🏢 Sponsor Employer | Virginia - Altavista | 3h |
 | 🏢 **AES Corporation** | [Transmission Line Design Engineer →](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Transmission-Line-Design-Engineer_R1062943) | 🏢 Sponsor Employer | US, IN | 3h |
-| 🏢 **RTX** | [Manufacturing Mechanical Engineer I →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AR-CAMDEN-H100--10-Wilson-Rd-E--BLDG-H100-Highland-Industrial-Park/Manufacturing-Mechanical-Engineer-I_01829962) | 🏢 Sponsor Employer | AR-CAMDEN-H100 | 3h |
-| 🏢 **CACI** | [System Safety Engineer →](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Bethesda/System-Safety-Engineer_325242) | 🏢 Sponsor Employer | MD Bethesda | 3h |
+| 🏢 **RTX** | [Manufacturing Mechanical Engineer I →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AR-CAMDEN-H100--10-Wilson-Rd-E--BLDG-H100-Highland-Industrial-Park/Manufacturing-Mechanical-Engineer-I_01829962) | 🏢 Sponsor Employer | AR-CAMDEN-H100 | 4h |
+| 🏢 **CACI** | [System Safety Engineer →](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Bethesda/System-Safety-Engineer_325242) | 🏢 Sponsor Employer | MD Bethesda | 4h |
 | 🏢 **NVIDIA** | [System Level Product Development Engineer →](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Level-Product-Development-Engineer_JR2015801) | 🏢 Sponsor Employer | US, CA | 4h |
 | 🏢 **Intel** | [Physical Design Engineer - CPU Core →](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Physical-Design-Engineer---CPU-Core_JR0278541) | 🏢 Sponsor Employer | US | 4h |
 | 🏢 **LLNL** | [Microwave/RF Engineer →](https://jobs.smartrecruiters.com/llnl/3743990012778996) | 🏢 Sponsor Employer | Livermore, CA | 4h |
 | 🏢 **Micron** | [Implant Equipment Engineer →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Senior-Implant-Equipment-Engineer_JR97176) | 🏢 Sponsor Employer | Main Site, ID | 4h |
 | 🏢 **Micron** | [Diffusion Equipment Engineer →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Senior-Diffusion-Equipment-Engineer_JR84262-1) | 🏢 Sponsor Employer | Main Site, ID | 4h |
-| 🏢 **Abbott** | [Software Compliance Engineer →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Software-Compliance-Engineer_31145710-1) | 🏢 Sponsor Employer | California - Alameda | 4h |
-| 🏢 **Thermo Fisher Scientific** | [Field Service Engineer →](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Columbus-Ohio-USA/Field-Service-Engineer_R-01349397) |  | Columbus + 1 more | 4h |
+| 🏢 **Abbott** | [Software Compliance Engineer →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Software-Compliance-Engineer_31145710-1) | 🏢 Sponsor Employer | California - Alameda | 5h |
+| 🏢 **Thermo Fisher Scientific** | [Field Service Engineer →](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Columbus-Ohio-USA/Field-Service-Engineer_R-01349397) |  | Columbus + 1 more | 5h |
 | 🏢 **Polaris** | [Powertrain Development Technician I →](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Roseau-MN-USA/Powertrain-Development-Technician-I_R29414) | 🏢 Sponsor Employer | Roseau, MN | 5h |
 | 🏢 **GE Vernova** | [Experienced Hardware Engineer - (Circuit Design, Industrialization, Wireless, ECAD) Relocation Assistance →](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rochester/Hardware-Engineer_R5022726-2) | 🏢 Sponsor Employer | Rochester | 5h |
 | 🏢 **Baker Hughes** | [R&D Electrical Engineering Technologist →](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NY-SKANEATELES-721-VISIONS-DRIVE/R-D-Electrical-Engineering-Technologist_R163505) | 🏢 Sponsor Employer | NY-SKANEATELES-72... | 5h |
 | 🏢 **SpaceX** | [Mechanical Engineer, Space Lasers Manufacturing (Starlink) →](https://boards.greenhouse.io/spacex/jobs/8516943002?gh_jid=8516943002) |  | Redmond, WA | 5h |
 | 🏢 **Baker Hughes** | [Specialized Application Engineer - Nuclear →](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-10575-Red-Bluff-Road/Specialized-Application-Engineer---Nuclear_R158465-1) | 🏢 Sponsor Employer | TX-10575 Red Bluf... | 5h |
-| 🏢 **Micron** | [Equipment Engineer →](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Equipment-Engineer_JR99405) | 🏢 Sponsor Employer | Fab 6, VA | 5h |
-| 🏢 **Johnson Controls** | [Controls Application Engineer I →](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/Controls-Application-Engineer-I_WD30264505) | 🏢 Sponsor Employer | San Jose-Costa Rica | 5h |
-| 🏢 **General Motors** | [Process Engineer - Machining →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Spring-Hill-Tennessee-United-States-of-America/Process-Engineer---Machining_JR-202609058) | 🏢 Sponsor Employer | Spring Hill | 5h |
-| 🏢 **Baker Hughes** | [Field Service Engineer – Mechanical (Rotating Equipment) →](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Aero-Senior-Field-Service-Engineer_R161002) | 🏢 Sponsor Employer | 3 Locations | 5h |
-| 🏢 **Blue Origin** | [Electro-Optical Engineer - Optical Payload I&T - TeraWave →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Electro-Optical-Engineer---Optical-Payload-I-T---TeraWave_R59810-1) | 🏢 Sponsor Employer | Greater Seattle Area | 5h |
-| 🏢 **Blue Origin** | [Avionics Hardware Engineer - TeraWave →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Hardware-Engineer---TeraWave_R59821) | 🏢 Sponsor Employer | Greater Seattle Area | 5h |
-| 🏢 **Applied Materials** | [Mechanical Engineer →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer-III_R2614470) | 🏢 Sponsor Employer | Santa Clara, CA + 1 more | 5h |
+| 🏢 **Micron** | [Equipment Engineer →](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Equipment-Engineer_JR99405) | 🏢 Sponsor Employer | Fab 6, VA | 6h |
+| 🏢 **Johnson Controls** | [Controls Application Engineer I →](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/Controls-Application-Engineer-I_WD30264505) | 🏢 Sponsor Employer | San Jose-Costa Rica | 6h |
+| 🏢 **General Motors** | [Process Engineer - Machining →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Spring-Hill-Tennessee-United-States-of-America/Process-Engineer---Machining_JR-202609058) | 🏢 Sponsor Employer | Spring Hill | 6h |
+| 🏢 **Baker Hughes** | [Field Service Engineer – Mechanical (Rotating Equipment) →](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Aero-Senior-Field-Service-Engineer_R161002) | 🏢 Sponsor Employer | 3 Locations | 6h |
+| 🏢 **Blue Origin** | [Electro-Optical Engineer - Optical Payload I&T - TeraWave →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Electro-Optical-Engineer---Optical-Payload-I-T---TeraWave_R59810-1) | 🏢 Sponsor Employer | Greater Seattle Area | 6h |
+| 🏢 **Blue Origin** | [Avionics Hardware Engineer - TeraWave →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Hardware-Engineer---TeraWave_R59821) | 🏢 Sponsor Employer | Greater Seattle Area | 6h |
+| 🏢 **Applied Materials** | [Mechanical Engineer →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical-Engineer-III_R2614470) | 🏢 Sponsor Employer | Santa Clara, CA + 1 more | 6h |
 | 🏢 **IDEXX** | [Quality Control Specialist →](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Quality-Control-Specialist_J-052606) | 🏢 Sponsor Employer | Westbrook, ME | 6h |
 | 🏢 **Abbott** | [Field Service Engineer I- Minnesota, MN →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minneapolis/Field-Service-Engineer-I--Minnesota--MN_31148456-1) | 🏢 Sponsor Employer | Minnesota - Minne... | 6h |
 | 🏢 **Northrop Grumman** | [Facilities Engineer - Level 2 →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Charlotte/Facilities-Engineer---Level-2_R10230562) |  | North Carolina-Ch... | 6h |
 | 🏢 **Boeing** | [Laser Cutter Operator - 22908 →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Algona-WA/Laser-Cutter-Operator---22908_JR2026506627-1) | 🏢 Sponsor Employer | Algona, WA | 6h |
-| 🏢 **Captivation** | [Systems Engineer 1 (Travel Required)  - RF/Python →](https://job-boards.greenhouse.io/captivation/jobs/5196989008) | ✅ Sponsors Visa | Annapolis Junctio... | 6h |
-| 🏢 **Moog** | [Technical Business Development Engineer →](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Phoenix-AZ/Engineer-Systems_R-25-14206) |  | Phoenix, AZ | 6h |
-| 🏢 **Caterpillar** | [Mechanical Design Engineer →](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Electrical-Design-Engineer---Power-Conversion_R0000329095) | 🏢 Sponsor Employer | Mossville | 6h |
-| 🏢 **ASML** | [Advanced Processing Coating Process Engineer →](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Advanced-Processing-Coating-Process-Engineer_J-00339120-1) | 🏢 Sponsor Employer | Wilton, CT | 6h |
+| 🏢 **Captivation** | [Systems Engineer 1 (Travel Required)  - RF/Python →](https://job-boards.greenhouse.io/captivation/jobs/5196989008) | ✅ Sponsors Visa | Annapolis Junctio... | 7h |
+| 🏢 **Moog** | [Technical Business Development Engineer →](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Phoenix-AZ/Engineer-Systems_R-25-14206) |  | Phoenix, AZ | 7h |
+| 🏢 **Caterpillar** | [Mechanical Design Engineer →](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Electrical-Design-Engineer---Power-Conversion_R0000329095) | 🏢 Sponsor Employer | Mossville | 7h |
+| 🏢 **ASML** | [Advanced Processing Coating Process Engineer →](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Advanced-Processing-Coating-Process-Engineer_J-00339120-1) | 🏢 Sponsor Employer | Wilton, CT | 7h |
 | 🏢 **Olsson** | [Project Mechanical Engineer →](https://job-boards.greenhouse.io/olsson/jobs/5196941008) | ✅ Sponsors Visa | Lincoln, NE + 1 more | 7h |
 | 🏢 **CACI** | [Reliability and Maintenance Engineer - Navy Operations →](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Reliability-and-Maintenance-Engineer---Navy-Operations_325223) | 🏢 Sponsor Employer | Remote | 7h |
 | 🏢 **Olsson** | [Licensed Structural Engineer - Building Design →](https://job-boards.greenhouse.io/olsson/jobs/5196925008) | ✅ Sponsors Visa | Omaha, NE + 1 more | 7h |
 | 🏢 **Applied Materials** | [Electrical Engineer →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Electrical-Engineer_R2613607) | 🏢 Sponsor Employer | Santa Clara, CA | 7h |
-| 🏢 **Adobe** | [Software Development Engineer →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Software-Development-Engineer_R168044) | 🏢 Sponsor Employer | San Francisco + 5 more | 7h |
 | 🏢 **LLNL** | [Superintendent - Materials Engineering Division →](https://jobs.smartrecruiters.com/llnl/3743990012774016) | 🏢 Sponsor Employer | Livermore, CA | 7h |
 | 🏢 **Johnson Controls** | [Building Automation Controls Service Technician →](https://jci.wd5.myworkdayjobs.com/JCI/job/Columbia-South-Carolina-United-States-of-America/Building-Automation-Controls-Service-Technician_WD30267528) | 🏢 Sponsor Employer | South Carolina-Un... | 7h |
 | 🏢 **KBR** | [Engineering Technician →](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/San-Antonio-New-Mexico/Engineering-Technician_R2118324-1) | 🏢 Sponsor Employer | San Antonio | 7h |
-| 🏢 **KLA** | [Quality Chemical Engineer →](https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Quality-Chemical-Engineer_2635471) | 🏢 Sponsor Employer | Totowa, NJ | 7h |
-| 🏢 **Booz Allen Hamilton** | [UAS Robotics Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/UAS-Software-Engineer_R0237617) | 🏢 Sponsor Employer | Honolulu, HI | 7h |
+| 🏢 **KLA** | [Quality Chemical Engineer →](https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Quality-Chemical-Engineer_2635471) | 🏢 Sponsor Employer | Totowa, NJ | 8h |
+| 🏢 **Booz Allen Hamilton** | [UAS Robotics Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/UAS-Software-Engineer_R0237617) | 🏢 Sponsor Employer | Honolulu, HI | 8h |
 | 🏢 **NBCUniversal** | [Site Reliability Engineer - Nexthink →](https://jobs.smartrecruiters.com/NBCUniversal3/744000122298602) | 🏢 Sponsor Employer | New York | 8h |
 | 🏢 **Motorola Solutions** | [Customer Support & Field Engineer (Buenos Aires) →](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Buenos-Aires-Ar---bus-cntr-ZAR20/Customer-Support---Field-Engineer--Buenos-Aires-_R63672-1) | 🏢 Sponsor Employer | bus cntr | 8h |
 | 🏢 **Formlabs** | [Engineering Technician →](https://careers.formlabs.com/job/7818759/apply/?gh_jid=7818759) | ✅ Sponsors Visa | Somerville, MA + 1 more | 8h |
 | 🏢 **Anduril** | [Mission Operations Engineer →](https://boards.greenhouse.io/andurilindustries/jobs/5100663007?gh_jid=5100663007) | ✅ Sponsors Visa | Atlanta + 2 more | 8h |
 | 🏢 **Apptronik** | [Field Service Engineer →](https://boards.greenhouse.io/apptronik/jobs/5978913004?gh_jid=5978913004) | 🏢 Sponsor Employer | Mountain View, CA | 8h |
-| 🏢 **GlobalFoundries** | [Technology Development Engineer, Ultra-Low Power (ULP) CMOS →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Technology-Development-Engineer--Ultra-Low-Power--ULP--CMOS_JR-2601621) | 🏢 Sponsor Employer | New York - Malta + 1 more | 8h |
+| 🏢 **GlobalFoundries** | [Technology Development Engineer, Ultra-Low Power (ULP) CMOS →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Technology-Development-Engineer--Ultra-Low-Power--ULP--CMOS_JR-2601621) | 🏢 Sponsor Employer | New York - Malta + 1 more | 9h |
 | 🏢 **CoreWeave** | [Operations Engineer, HPC Networking →](https://coreweave.com/careers/job?4673462006&board=coreweave&gh_jid=4673462006) | ✅ Sponsors Visa | Livingston, NJ | 9h |
 | 🏢 **Johnson & Johnson** | [Reliability Technician, Utilities →](https://jj.wd5.myworkdayjobs.com/jj/job/Wilson-North-Carolina-United-States-of-America/Reliability-Technician--Utilities_R-039524) | 🏢 Sponsor Employer | Wilson | 9h |
 | 🏢 **Formlabs** | [Customer Support Field Engineer →](https://careers.formlabs.com/job/7818514/apply/?gh_jid=7818514) | ✅ Sponsors Visa | Atlanta, GA | 9h |
 | 🏢 **Formlabs** | [Field Service Technician - 3D Printers →](https://careers.formlabs.com/job/7818517/apply/?gh_jid=7818517) | ✅ Sponsors Visa | Atlanta, GA | 9h |
-| 🏢 **Blue Origin** | [EGSE Hardware Development Engineer - Lunar Permanence →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/EGSE-Hardware-Development-Engineer---Lunar-Permanence_R63305) | 🏢 Sponsor Employer | Space Coast, FL | 9h |
 | 🏢 **Intuitive** | [Field Service Engineer 2 →](https://jobs.smartrecruiters.com/Intuitive/744000122275487) | 🏢 Sponsor Employer | Lexington, KY | 10h |
 | 🏢 **Intuitive** | [Field Service Engineer 2 - 2nd Shift →](https://jobs.smartrecruiters.com/Intuitive/744000122274747) |  | Jackson, MS + 2 more | 10h |
 | 🏢 **Polaris** | [Electrical Systems Design Engineer →](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Electrical-Systems-Design-Engineer_R29482) | 🏢 Sponsor Employer | Wyoming, MN | 10h |
 | 🏢 **KBR** | [Radar Engineer →](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Radar-Engineer_R2120901) | 🏢 Sponsor Employer | Huntsville | 10h |
 | 🏢 **Booz Allen Hamilton** | [RF Electrical Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/RF-Electrical-Engineer_R0231433) | 🏢 Sponsor Employer | Colorado Springs, CO | 10h |
 | 🏢 **Booz Allen Hamilton** | [Robotics Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Robotics-Engineer_R0238340-1) | 🏢 Sponsor Employer | McLean, VA | 10h |
-| 🏢 **Carrier Global** | [Field Service Supervisor →](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAD03-CCS-New-Castle-276-Quigley-Boulevard-New-Castle-DE--19720-USA/Sr-Supv--Field-Svc_30194011) | 🏢 Sponsor Employer | New Castle, 276 Q... | 10h |
+| 🏢 **Carrier Global** | [Field Service Supervisor →](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAD03-CCS-New-Castle-276-Quigley-Boulevard-New-Castle-DE--19720-USA/Sr-Supv--Field-Svc_30194011) | 🏢 Sponsor Employer | New Castle, 276 Q... | 11h |
 | 🏢 **GE Vernova** | [Turbine Generator Service Technician (Winder) →](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Richmond-USA/Turbine-Generator-Service-Technician--Winder-_R5039298-2) | 🏢 Sponsor Employer | Richmond USA | 11h |
 | 🏢 **Carrier Global** | [Controls Field Service Engineer - Automated Logic →](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAM27-St-Paul-953-Westgate-Drive-Saint-Paul-MN-55114-USA/Controls-Field-Service-Engineer---Automated-Logic_30195859-2) | 🏢 Sponsor Employer | CAM27: St. Paul, MN | 11h |
 | 🏢 **Boeing** | [F-15 Flight Line Avionics Technician - Qatar →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/F-15-Flight-Line-Avionics-Technician---Qatar_JR2026502764-2) | 🏢 Sponsor Employer | Hazelwood, MO | 11h |
 | 🏢 **Boeing** | [F15 Flight Line Electrical-Environmental (E&E) Technician - Qatar →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/F15-Flight-Line-Electrical-Environmental--E-E--Technician---Qatar_JR2026502767-2) | 🏢 Sponsor Employer | Hazelwood, MO | 11h |
 | 🏢 **General Motors** | [Field Service Engineer →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---California/Field-Service-Engineer_JR-202606001) | 🏢 Sponsor Employer | California | 11h |
 | 🏢 **CACI** | [Biomedical Equipment Repair Technician →](https://caci.wd1.myworkdayjobs.com/External/job/US-GU-Tamuning/Biomedical-Equipment-Repair-Technician_324848) | 🏢 Sponsor Employer | GU Tamuning | 11h |
-| 🏢 **Applied Materials** | [AIx Field Service Engineer →](https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/AIx-Field-Service-Engineer_R2618305) | 🏢 Sponsor Employer | ChandlerAZ | 18h |
+| 🏢 **Applied Materials** | [AIx Field Service Engineer →](https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/AIx-Field-Service-Engineer_R2618305) | 🏢 Sponsor Employer | ChandlerAZ | 19h |
 | 🏢 **Morgan Stanley** | [Site Reliability Engineer (SRE) - AI Platform & Cloud →](https://ms.wd5.myworkdayjobs.com/External/job/Alpharetta-Georgia-United-States-of-America/Site-Reliability-Engineer--SRE----AI-Platform---Cloud_PT-JR034651) | 🏢 Sponsor Employer | Alpharetta | 21h |
 | 🏢 **Zipline** | [Electrical Ground Systems Technician (Contract) →](https://www.flyzipline.com/careers/open-roles?gh_jid=7709079003) | ✅ Sponsors Visa | Phoenix + 3 more | 22h |
 | 🏢 **Amazon Kuiper Manufacturing Enterprises LLC** | [Software Development Engineer, Leo Autopilot →](https://www.amazon.jobs/en/jobs/10399602/software-development-engineer-leo-autopilot) | 🏢 Sponsor Employer | Redmond, WA | 1d |
@@ -174,7 +175,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cisco** | [Package Mechanical Design Engineer →](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Package-Mechanical-Design-Engineer_2012566) | 🏢 Sponsor Employer | San Jose Californ... | 1d |
 | 🏢 **Lucid Motors** | [Service Technician, Los Angeles →](https://job-boards.greenhouse.io/lucidmotors/jobs/5101356007) | ✅ Sponsors Visa | Los Angeles, CA | 1d |
 | 🏢 **Lumafield** | [Hardware Systems Engineer →](https://jobs.lever.co/lumafield/0f3a5bc8-f285-4291-9e5b-3a1bd2d2f62e/apply) | ✅ Sponsors Visa | San Francisco, CA | 1d |
-| 🏢 **Etched** | [Performance Engineer →](https://jobs.ashbyhq.com/etched/69e75a95-6476-452d-bb41-86ac7ce52a98/application) |  | San Jose | 1d |
+| 🏢 **Etched** | [Performance Modeling Engineer →](https://jobs.ashbyhq.com/etched/69e75a95-6476-452d-bb41-86ac7ce52a98/application) |  | San Jose | 1d |
 | 🏢 **Broadcom** | [System Signal Integrity Engineer →](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/System-Signal-Integrity-Engineer_R024016) | 🏢 Sponsor Employer | CA San Jose Innov... | 1d |
 | 🏢 **Radiant Industries** | [Mechanical Engineer, Motor Design - 2026 New Graduate →](https://jobs.ashbyhq.com/radiant-industries/8fc45fdb-01bd-4201-b48b-096dd45616fc/application) | ✅ Sponsors Visa | El Segundo, CA | 1d |
 | 🏢 **Intrinsic Robotics** | [Backend Software Engineer (Robotics Systems) →](https://boards.greenhouse.io/intrinsicrobotics/jobs/5973679004?gh_jid=5973679004) | 🏢 Sponsor Employer | Mountain View | 1d |
@@ -268,7 +269,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Ivo** | [Design Engineer →](https://jobs.lever.co/ivo/01d58618-688c-4a0f-8378-f51de2902d66/apply) | 🏢 Sponsor Employer | San Francisco | 2d |
 | 🏢 **Zoox** | [Software Development Engineer in Test, Platform Safety Assurance →](https://jobs.lever.co/zoox/8914da26-af12-40ce-8819-bfc9fbf98cf2/apply) | ✅ Sponsors Visa | Foster City, CA | 2d |
 | 🏢 **Zoox** | [Software Development Engineer in Test - Connectivity →](https://jobs.lever.co/zoox/8196eca7-1b41-496f-93c4-fc02a09ee00c/apply) | 🏢 Sponsor Employer | Foster City, CA | 2d |
-| 🏢 **Multiply Labs** | [Mechanical Engineer - Consumables →](https://jobs.lever.co/multiplylabs/bc14e69c-f030-461c-9853-8305f4af203a/apply) | 🏢 Sponsor Employer | San Francisco | 2d |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -281,11 +281,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Visa | Location | Posted |
 |---------|------|------|----------|--------|
 | 🏢 **Boeing** | [Associate Structural Analysis Engineer →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Structural-Analysis-Engineer_JR2026507131-1) | 🏢 Sponsor Employer | Berkeley, MO | 2h |
-| 🏢 **Anduril** | [Firmware Engineer, Embedded Systems →](https://boards.greenhouse.io/andurilindustries/jobs/5118039007?gh_jid=5118039007) | ✅ Sponsors Visa | Costa Mesa | 2h |
-| 🏢 **Latitude AI** | [Bench Technician Associate - Pittsburgh, PA (Contract) →](https://job-boards.greenhouse.io/latitude/jobs/7816212) | ✅ Sponsors Visa | Pittsburgh, PA | 3h |
-| 🏢 **Boeing** | [Mission Systems Integration & Test Engineer - Entry and Associate Level →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/Mission-Systems-Integration---Test-Engineer---Entry-and-Associate-Level_JR2026505670-1) | 🏢 Sponsor Employer | Daytona Beach, FL | 5h |
-| 🏢 **Northrop Grumman** | [2026 Associate Structural Engineer/ Structural Engineer - Weekend Shift →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2026-Associate-Structural-Engineer--Structural-Engineer---Weekend-Shift_R10230523) |  | Mississippi-Iuka | 8h |
-| 🏢 **Northrop Grumman** | [2026 Associate Liaison/MRB Engineer/ Liaison/MRB Engineer - Weekend Shift →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2026-Associate-Liaison-MRB-Engineer--Liaison-MRB-Engineer---Weekend-Shift_R10230522) |  | Mississippi-Iuka | 8h |
+| 🏢 **Anduril** | [Firmware Engineer, Embedded Systems →](https://boards.greenhouse.io/andurilindustries/jobs/5118039007?gh_jid=5118039007) | ✅ Sponsors Visa | Costa Mesa | 3h |
+| 🏢 **Latitude AI** | [Bench Technician Associate - Pittsburgh, PA (Contract) →](https://job-boards.greenhouse.io/latitude/jobs/7816212) | ✅ Sponsors Visa | Pittsburgh, PA | 4h |
+| 🏢 **Boeing** | [Mission Systems Integration & Test Engineer - Entry and Associate Level →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/Mission-Systems-Integration---Test-Engineer---Entry-and-Associate-Level_JR2026505670-1) | 🏢 Sponsor Employer | Daytona Beach, FL | 6h |
+| 🏢 **Northrop Grumman** | [2026 Associate Structural Engineer/ Structural Engineer - Weekend Shift →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2026-Associate-Structural-Engineer--Structural-Engineer---Weekend-Shift_R10230523) |  | Mississippi-Iuka | 9h |
+| 🏢 **Northrop Grumman** | [2026 Associate Liaison/MRB Engineer/ Liaison/MRB Engineer - Weekend Shift →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2026-Associate-Liaison-MRB-Engineer--Liaison-MRB-Engineer---Weekend-Shift_R10230522) |  | Mississippi-Iuka | 9h |
 | 🏢 **Boeing** | [Associate Level Structures Design Engineers →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate-Level-Structures-Design-Engineers_JR2026501266-2) | 🏢 Sponsor Employer | North Charleston, SC | 9h |
 | 🏢 **Leidos** | [Associate Distribution Engineer →](https://leidos.wd5.myworkdayjobs.com/External/job/Framingham-MA/Associate-Distribution-Engineer_R-00181281) | 🏢 Sponsor Employer | Framingham, MA + 2 more | 11h |
 | 🏢 **Northrop Grumman** | [2026 Associate Structural Engineer/ Structural Engineer - Night Shift →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2026-Associate-Structural-Engineer--Structural-Engineer---Night-Shift_R10230450) |  | Mississippi-Iuka | 1d |
@@ -310,7 +310,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **OpenAI** | [Camera Firmware Engineer, Consumer Devices →](https://jobs.ashbyhq.com/openai/1dc05fc7-ceb7-4827-a905-9d1beb77a4a0/application) | ✅ Sponsors Visa | San Francisco | 2d |
 | 🏢 **Tenstorrent** | [ASIC Networking Engineer →](https://job-boards.greenhouse.io/tenstorrent/jobs/5062896007) | 🏢 Sponsor Employer | United States | 2d |
 | 🏢 **Tenstorrent** | [SOC Emulation Engineer - Hardware Emulation Infrastructure →](https://job-boards.greenhouse.io/tenstorrent/jobs/5070207007) | 🏢 Sponsor Employer | Austin | 2d |
-| 🏢 **SpaceX** | [Wireless Firmware Engineer (Direct To Cell) →](https://boards.greenhouse.io/spacex/jobs/8376504002?gh_jid=8376504002) |  | Sunnyvale, CA + 1 more | 2d |
+| 🏢 **SpaceX** | [Wireless Firmware Engineer (Direct To Cell) →](https://boards.greenhouse.io/spacex/jobs/8376486002?gh_jid=8376486002) |  | Redmond, WA + 1 more | 2d |
 | 🏢 **SpaceX** | [RTL Design Engineer (Silicon Engineering) →](https://boards.greenhouse.io/spacex/jobs/8466346002?gh_jid=8466346002) |  | Irvine, CA | 2d |
 | 🏢 **SpaceX** | [SOC Design Verification Engineer (Silicon Engineering) →](https://boards.greenhouse.io/spacex/jobs/8358340002?gh_jid=8358340002) |  | Sunnyvale, CA + 1 more | 2d |
 | 🏢 **Optiver** | [FPGA Engineer →](https://job-boards.greenhouse.io/optiverprivate/jobs/8375608002) | ✅ Sponsors Visa | Chicago | 2d |
@@ -322,8 +322,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **MatX** | [ASIC/SOC Silicon Verification Engineer →](https://job-boards.greenhouse.io/matx/jobs/4002906008) | ✅ Sponsors Visa | Mountain View, CA | 2d |
 | 🏢 **LG Electronics** | [Production Engineering Associate →](https://job-boards.greenhouse.io/lgelectronics/jobs/4994184008) | ✅ Sponsors Visa | Clarksville, TN | 2d |
 | 🏢 **LG Electronics** | [R&D Engineer Associate →](https://job-boards.greenhouse.io/lgelectronics/jobs/5178005008) | ✅ Sponsors Visa | Clarksville, TN | 2d |
+| 🏢 **Jane Street** | [FPGA Engineer →](https://job-boards.greenhouse.io/janestreet/jobs/8061011002) | 🏢 Sponsor Employer | New York + 1 more | 2d |
 | 🏢 **Jane Street** | [ASIC Engineer →](https://job-boards.greenhouse.io/janestreet/jobs/8213653002) | 🏢 Sponsor Employer | New York | 2d |
-| 🏢 **Jane Street** | [FPGA Engineer →](https://job-boards.greenhouse.io/janestreet/jobs/8062455002) | 🏢 Sponsor Employer | New York + 1 more | 2d |
 | 🏢 **Exegy** | [Associate Site Reliability Engineer (SRE) →](https://jobs.ashbyhq.com/exegy/3080c86a-0fc9-436c-8f47-b3bbe564a77f/application) |  | St. Louis | 2d |
 | 🏢 **Etched** | [Design Verification Engineer - SoC →](https://jobs.ashbyhq.com/etched/a99318bd-b433-44b7-9600-2ee9533c90a1/application) |  | San Jose + 1 more | 2d |
 | 🏢 **CoreWeave** | [Firmware Engineer, SPX →](https://coreweave.com/careers/job?4615564006&board=coreweave&gh_jid=4615564006) | ✅ Sponsors Visa | Livingston, NJ | 2d |
@@ -408,6 +408,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Northrop Grumman** | [Software Engineer: Embedded/Test Equipment (Secret) - Level 3 - Chandler →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Software-Engineer--Embedded-Test-Equipment--Secret----Level-3---Chandler_R10230012) |  | Arizona-Chandler | 5d |
 | 🏢 **Northrop Grumman** | [Embedded Software Engineer →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Embedded-Software-Engineer_R10229977) |  | Illinois-Rolling ... + 1 more | 5d |
 | 🏢 **Caterpillar** | [Full Stack Embedded Software Engineer →](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Full-Stack-Embedded-Software-Engineer_R0000364365) | 🏢 Sponsor Employer | Mossville | 5d |
+| 🏢 **Boeing** | [Entry-Level Missions Systems Software Engineers - Embedded →](https://jobs.boeing.com/job/berkeley/entry-level-missions-systems-software-engineers-embedded/185/92941166032) |  | Berkeley | 6d |
 | 🏢 **Western Digital** | [Software Development Engineer (Firmware) →](https://jobs.smartrecruiters.com/WesternDigital/744000121297497) | 🏢 Sponsor Employer | Irvine, CA | 6d |
 | 🏢 **RTX** | [Embedded Software Engineer →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Engineer_01817217) | 🏢 Sponsor Employer | CA-EL SEGUNDO-R01 | 6d |
 | 🏢 **Leidos** | [Embedded Software Engineer – EO/IR System Development →](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Software-Engineer---EO-IR-System-Development_R-00181019) | 🏢 Sponsor Employer | Huntsville, AL | 6d |
@@ -422,17 +423,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted |
 |---------|------|------|----------|--------|
-| 🏢 **Boeing** | [Flight Test Engineering Manger →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Flight-Test-Engineering-Manger_JR2026507096-1) | 🏢 Sponsor Employer | Seattle, WA | 4h |
-| 🏢 **Intel** | [CPU Circuit Design Engineer →](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Circuit-Design-Engineer_JR0283145) | 🏢 Sponsor Employer | US | 5h |
-| 🏢 **SpaceX** | [Mechanical Integration & Test Engineer, User Products (Starshield) →](https://boards.greenhouse.io/spacex/jobs/8508577002?gh_jid=8508577002) |  | Hawthorne, CA | 6h |
-| 🏢 **Intel** | [Analog Circuit Design Engineer →](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Analog-Circuit-Design-Engineer_JR0283018-1) | 🏢 Sponsor Employer | Oregon Hillsboro | 7h |
+| 🏢 **Boeing** | [Flight Test Engineering Manger →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Flight-Test-Engineering-Manger_JR2026507096-1) | 🏢 Sponsor Employer | Seattle, WA | 5h |
+| 🏢 **Intel** | [CPU Circuit Design Engineer →](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Circuit-Design-Engineer_JR0283145) | 🏢 Sponsor Employer | US | 6h |
+| 🏢 **SpaceX** | [Mechanical Integration & Test Engineer, User Products (Starshield) →](https://boards.greenhouse.io/spacex/jobs/8508577002?gh_jid=8508577002) |  | Hawthorne, CA | 7h |
+| 🏢 **Intel** | [Analog Circuit Design Engineer →](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Analog-Circuit-Design-Engineer_JR0283018-1) | 🏢 Sponsor Employer | Oregon Hillsboro | 8h |
 | 🏢 **Intel** | [GPU Validation Engineer →](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Validation-Engineer_JR0283114) | 🏢 Sponsor Employer | California Folsom + 1 more | 8h |
 | 🏢 **RTX** | [Software Test Engineer I →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Test-Engineer-I_01836991) | 🏢 Sponsor Employer | MA-TEWKSBURY-TB3 | 9h |
 | 🏢 **General Motors** | [ML Validation Engineer - Early Career →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769) | 🏢 Sponsor Employer | Sunnyvale | 9h |
-| 🏢 **RTX** | [2026 Full-time - Production Test Engineer I - Onsite (AZ) →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Full-time---Production-Test-Engineer-I---Onsite--AZ-_01840074) | 🏢 Sponsor Employer | AZ-TUCSON-801 | 9h |
-| 🏢 **Leidos** | [RADAR Integration and Test Engineer →](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/RADAR-Integration-and-Test-Engineer_R-00181414) | 🏢 Sponsor Employer | Huntsville, AL | 9h |
-| 🏢 **Boeing** | [Electrical Design Engineer →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Electrical-Design-Engineer_JR2025483796-1) | 🏢 Sponsor Employer | Huntsville, AL | 9h |
-| 🏢 **Boeing** | [Electrical Design and Test Engineer →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Electrical-Design-and-Test-Engineer_JR2026497560-1) | 🏢 Sponsor Employer | Huntsville, AL + 1 more | 9h |
+| 🏢 **RTX** | [2026 Full-time - Production Test Engineer I - Onsite (AZ) →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Full-time---Production-Test-Engineer-I---Onsite--AZ-_01840074) | 🏢 Sponsor Employer | AZ-TUCSON-801 | 10h |
+| 🏢 **Leidos** | [RADAR Integration and Test Engineer →](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/RADAR-Integration-and-Test-Engineer_R-00181414) | 🏢 Sponsor Employer | Huntsville, AL | 10h |
+| 🏢 **Boeing** | [Electrical Design Engineer →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Electrical-Design-Engineer_JR2025483796-1) | 🏢 Sponsor Employer | Huntsville, AL | 10h |
+| 🏢 **Boeing** | [Electrical Design and Test Engineer →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Electrical-Design-and-Test-Engineer_JR2026497560-1) | 🏢 Sponsor Employer | Huntsville, AL + 1 more | 10h |
 | 🏢 **Carrier Global** | [Electronic Manufacturing Test Engineer →](https://carrier.wd5.myworkdayjobs.com/jobs/job/GA18-1150-Roberts-Boulevard-Kennesaw-GA-30144-USA/Electronic-Manufacturing-Test-Engineer_30201677) | 🏢 Sponsor Employer | GA18: 1150 Robert... | 19h |
 | 🏢 **Anduril** | [Actuator Test Engineer →](https://boards.greenhouse.io/andurilindustries/jobs/5116721007?gh_jid=5116721007) | ✅ Sponsors Visa | Costa Mesa | 21h |
 | 🏢 **Anduril** | [Manufacturing Test Engineer, Roadrunner →](https://boards.greenhouse.io/andurilindustries/jobs/5116757007?gh_jid=5116757007) | ✅ Sponsors Visa | Ashville | 23h |
@@ -460,9 +461,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Northwood Space** | [Electronics Test Engineer (Early Career) →](https://jobs.ashbyhq.com/northwoodspace/e153b809-8535-4d9d-b48c-c25acdeadae7/application) | ✅ Sponsors Visa | Torrance, CA | 2d |
 | 🏢 **Handshake** | [Electrical Design Engineer - AI Trainer →](https://jobs.ashbyhq.com/handshake/7e7702f6-750e-44e1-8f12-caf26fcc85f4/application) | ✅ Sponsors Visa | Remote | 2d |
 | 🏢 **Handshake** | [Analog Engineer - AI Trainer →](https://jobs.ashbyhq.com/handshake/385dcfca-d3c2-4638-bc4f-de7108ca1a17/application) | ✅ Sponsors Visa | Remote | 2d |
+| 🏢 **Relativity Space** | [Vehicle Hardware Test Engineer I (Fluids) →](https://boards.greenhouse.io/relativity/jobs/8472053002?gh_jid=8472053002) |  | Long Beach | 2d |
 | 🏢 **Relativity Space** | [Manufacturing Test Engineer I, Pneumatic Mechanisms & Fluid Assemblies →](https://boards.greenhouse.io/relativity/jobs/8462778002?gh_jid=8462778002) |  | Long Beach | 2d |
 | 🏢 **Relativity Space** | [Propulsion Test Engineer I →](https://boards.greenhouse.io/relativity/jobs/8211256002?gh_jid=8211256002) |  | Stennis Space | 2d |
-| 🏢 **Relativity Space** | [Vehicle Hardware Test Engineer I (Fluids) →](https://boards.greenhouse.io/relativity/jobs/8472053002?gh_jid=8472053002) |  | Long Beach | 2d |
 | 🏢 **Pure Storage** | [Hardware Validation Engineer →](https://job-boards.greenhouse.io/purestorage/jobs/7572486) | ✅ Sponsors Visa | Santa Clara | 2d |
 | 🏢 **Neuralink** | [Robot Reliability and Test Engineer →](https://boards.greenhouse.io/neuralink/jobs/7660771003?gh_jid=7660771003) | ✅ Sponsors Visa | Austin | 2d |
 | 🏢 **Motional** | [AV Test Engineer →](https://motional.com/open-positions/?gh_jid=7694178003#/7694178003) | ✅ Sponsors Visa | Las Vegas | 2d |
@@ -487,9 +488,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Micron** | [Memory Circuit Design Engineer →](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Memory-Circuit-Design-Engineer_JR95388) | 🏢 Sponsor Employer | Phoenix Aquila, I... | 5d |
 | 🏢 **Caterpillar** | [Autonomy Validation Engineer →](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Green-Valley-Arizona/Autonomy-Validation-Engineer_R0000364225) | 🏢 Sponsor Employer | Green Valley | 5d |
 | 🏢 **Cisco** | [Software Development Test Engineer →](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Development-Test-Engineer_2012898) | 🏢 Sponsor Employer | RTP, US + 1 more | 5d |
-| 🏢 **Illumina** | [Electrical Test Engineer 1 →](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Electrical-Test-Engineer-1_42316-JOB) | 🏢 Sponsor Employer | California - San ... | 5d |
 | 🏢 **Illumina** | [Validation Engineer 1 →](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Validation-Engineer-1_42473-JOB) | 🏢 Sponsor Employer | California - San ... | 5d |
 | 🏢 **Illumina** | [Validation Engineer 2 →](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Validation-Engineer-2_42590-JOB-1) | 🏢 Sponsor Employer | California - San ... | 5d |
+| 🏢 **Illumina** | [Electrical Test Engineer 1 →](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Electrical-Test-Engineer-1_42316-JOB) | 🏢 Sponsor Employer | California - San ... | 5d |
 | 🏢 **Shield AI** | [Power Electronics - Thermal Engineer I (R4842) →](https://jobs.lever.co/shieldai/f6bbec19-f1c6-44ce-9af5-132b25b6e83a/apply) | ✅ Sponsors Visa | Dallas | 6d |
 | 🏢 **Booz Allen Hamilton** | [Ground Systems Test Engineer →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Aurora-CO/Ground-Systems-Test-Engineer_R0237922) | 🏢 Sponsor Employer | Aurora, CO | 6d |
 | 🏢 **Motorola Solutions** | [Radio Frequency (RF) Test Engineer →](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/San-Diego-CA/Radio-Frequency--RF--Test-Engineer_R63738) | 🏢 Sponsor Employer | San Diego, CA | 6d |
@@ -508,12 +509,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **RTX** | [Program Quality Engineer →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Program-Quality-Engineer_01840388) | 🏢 Sponsor Employer | AZ-TUCSON-801 | 2h |
 | 🏢 **Caterpillar** | [Quality Engineer →](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/East-Peoria-Illinois/Quality-Engineer_R0000365759) | 🏢 Sponsor Employer | East Peoria Illinois | 3h |
 | 🏢 **Abbott** | [Quality Engineer →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Temecula/Quality-Engineer_31144042-1) | 🏢 Sponsor Employer | California - Teme... + 2 more | 3h |
-| 🏢 **Smiths Group** | [Manufacturing Quality Engineer →](https://jobs.smartrecruiters.com/SmithsGroup2/744000122322095) | 🏢 Sponsor Employer | Irving, TX | 5h |
+| 🏢 **Smiths Group** | [Manufacturing Quality Engineer →](https://jobs.smartrecruiters.com/SmithsGroup2/744000122322095) | 🏢 Sponsor Employer | Irving, TX | 6h |
 | 🏢 **ASML** | [Quality Engineer →](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Senior-Quality-Engineer_J-00332524) | 🏢 Sponsor Employer | San Diego, CA | 8h |
 | 🏢 **Medtronic** | [Quality Engineer I - Plymouth, MN →](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Plymouth-Minnesota-United-States-of-America/Quality-Engineer-I---Plymouth--MN_R64759-1) | 🏢 Sponsor Employer | Plymouth | 9h |
 | 🏢 **FLIR Systems** | [Supplier Quality Engineer →](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Wilsonville-OR/Supplier-Quality-Engineer_REQ33957) | 🏢 Sponsor Employer | Wilsonville, OR, OR | 9h |
-| 🏢 **Leidos** | [Quality Engineer 2nd Shift →](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Quality-Engineer-2nd-Shift_R-00181463) | 🏢 Sponsor Employer | Huntsville, AL | 9h |
-| 🏢 **Jabil** | [Quality Engineer I - Day shift - Defense and Aerospace St. Petersburg Florida →](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Quality-Engineer-I---Day-shift---Defense-and-Aerospace-St-Petersburg-Florida_J2446144) |  | St. Petersburg/Ta... | 9h |
+| 🏢 **Leidos** | [Quality Engineer 2nd Shift →](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Quality-Engineer-2nd-Shift_R-00181463) | 🏢 Sponsor Employer | Huntsville, AL | 10h |
+| 🏢 **Jabil** | [Quality Engineer I - Day shift - Defense and Aerospace St. Petersburg Florida →](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Quality-Engineer-I---Day-shift---Defense-and-Aerospace-St-Petersburg-Florida_J2446144) |  | St. Petersburg/Ta... | 10h |
 | 🏢 **Thermo Fisher Scientific** | [Data Integrity Quality Engineer →](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/St-Louis-Missouri-USA/Data-Integrity-Quality-Engineer_R-01349204-1) |  | St. Louis | 11h |
 | 🏢 **Anduril** | [Product Quality Engineer, Roadrunner →](https://boards.greenhouse.io/andurilindustries/jobs/5116826007?gh_jid=5116826007) | ✅ Sponsors Visa | Ashville | 23h |
 | 🏢 **FLIR Systems** | [Quality Engineer →](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lewisburg-TN/Quality-Engineer_REQ30970-1) | 🏢 Sponsor Employer | Lewisburg, TN, TN | 1d |
@@ -526,8 +527,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Caterpillar** | [Autonomy Validation Specialist →](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Green-Valley-Arizona/Autonomy-Validation-Specialist_R0000365066) | 🏢 Sponsor Employer | Green Valley Arizona | 2d |
 | 🏢 **Cisco** | [Optical - Hardware Test Development Engineer →](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Optical---Hardware-Test-Development-Engineer_2008040) | 🏢 Sponsor Employer | San Jose Californ... | 2d |
 | 🏢 **Boeing** | [Quality Engineer (Engineer Supplier Quality) →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Quality-Engineer--Engineer-Supplier-Quality-_JR2026505032-1) | 🏢 Sponsor Employer | Hazelwood, MO | 2d |
-| 🏢 **Hitachi** | [Quality Engineer →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hunker-Pennsylvania-United-States-of-America/Quality-Engineer_R0118130) | 🏢 Sponsor Employer | Hunker | 2d |
 | 🏢 **Hitachi** | [Customer Quality Engineer →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hunker-Pennsylvania-United-States-of-America/Customer-Quality-Engineer_R0118129) | 🏢 Sponsor Employer | Hunker | 2d |
+| 🏢 **Hitachi** | [Quality Engineer →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hunker-Pennsylvania-United-States-of-America/Quality-Engineer_R0118130) | 🏢 Sponsor Employer | Hunker | 2d |
 | 🏢 **Zoox** | [Quality Engineer, Receiving and Vehicle Quality →](https://jobs.lever.co/zoox/82346558-eca6-4da3-8b5f-079a097abf78/apply) | ✅ Sponsors Visa | Hayward, CA | 2d |
 | 🏢 **Waabi** | [Product Quality Engineer →](https://jobs.lever.co/waabi/8484a684-39b9-4ce9-9d23-2af71b6d6d62/apply) | 🏢 Sponsor Employer | Pittsburgh, PA | 2d |
 | 🏢 **Waabi** | [Supplier Quality Engineer →](https://jobs.lever.co/waabi/b74a74fa-f419-4897-a3cd-c9cf7ca18dac/apply) | 🏢 Sponsor Employer | Pittsburgh, PA | 2d |
@@ -540,10 +541,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Figure AI** | [Supplier Quality Engineer, BotQ →](https://job-boards.greenhouse.io/figureai/jobs/4660300006) | 🏢 Sponsor Employer | San Jose, CA | 2d |
 | 🏢 **Astranis** | [Production Quality Engineer →](https://job-boards.greenhouse.io/astranis/jobs/4572174006) |  | San Francisco | 2d |
 | 🏢 **Anduril** | [Supplier Quality Engineer, Intelligence Systems →](https://boards.greenhouse.io/andurilindustries/jobs/4997868007?gh_jid=4997868007) | ✅ Sponsors Visa | Santa Ana | 2d |
-| 🏢 **Anduril** | [Quality Engineer →](https://boards.greenhouse.io/andurilindustries/jobs/5030676007?gh_jid=5030676007) | ✅ Sponsors Visa | Fort Collins | 2d |
-| 🏢 **Allen Control Systems** | [Supplier Quality Engineer →](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5147659008) | ✅ Sponsors Visa | Austin, TX | 2d |
+| 🏢 **Anduril** | [Product Quality Engineer ( Second Shift), RoadRunner →](https://boards.greenhouse.io/andurilindustries/jobs/5034101007?gh_jid=5034101007) | ✅ Sponsors Visa | Costa Mesa | 2d |
 | 🏢 **Allen Control Systems** | [Quality Engineer - 2nd Shift →](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5154287008) | ✅ Sponsors Visa | Austin, TX | 2d |
 | 🏢 **Allen Control Systems** | [Quality Engineer - Weekend Shift →](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5155627008) | ✅ Sponsors Visa | Austin, TX | 2d |
+| 🏢 **Allen Control Systems** | [Supplier Quality Engineer →](https://job-boards.greenhouse.io/allencontrolsystems/jobs/5147659008) | ✅ Sponsors Visa | Austin, TX | 2d |
 | 🏢 **Moog** | [Quality Engineer →](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Quality-Engineer_R-25-15466) |  | Buffalo, NY | 5d |
 | 🏢 **Boeing** | [Quality Engineer →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Quality-Engineer_JR2026496090-1) | 🏢 Sponsor Employer | Everett, WA + 1 more | 5d |
 | 🏢 **Abbott** | [Supplier Quality Engineer →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Pomona/Supplier-Quality-Engineer_31141501-1) | 🏢 Sponsor Employer | California - Pomona | 5d |
@@ -610,7 +611,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2095 current opportunities from 205 companies**
+**🎯 2102 current opportunities from 205 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
