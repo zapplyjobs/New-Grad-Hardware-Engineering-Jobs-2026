@@ -75240,18 +75240,18 @@
     "job_posted_at": "2026-04-20T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-9c97937b-572f-40ce-bdd1-332d7b592a0e",
+    "job_id": "amazon-7201ebf5-59b4-4616-b6b5-6d1b94edca03",
     "job_title": "Software Development Engineer, Applied AI Solutions",
     "employer_name": "Amazon Development Center U.S., Inc.",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "job_city": "Seattle",
+    "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10396342/software-development-engineer-applied-ai-solutions",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10396346/software-development-engineer-applied-ai-solutions",
     "job_posted_at_datetime_utc": "2026-04-20T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e108be24c69d22a6a50e645aa61d4e44701d7e0e74b11f6c6c9d85dc02decf2a",
+    "fingerprint": "91acd2e307cb2eeceade26c1fdc2f1355a4f729a5bdc17e9e494e412ffde5ae9",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -75289,18 +75289,18 @@
     "job_posted_at": "2026-04-20T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-7201ebf5-59b4-4616-b6b5-6d1b94edca03",
+    "job_id": "amazon-9c97937b-572f-40ce-bdd1-332d7b592a0e",
     "job_title": "Software Development Engineer, Applied AI Solutions",
     "employer_name": "Amazon Development Center U.S., Inc.",
-    "job_city": "Seattle",
-    "job_state": "WA",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10396346/software-development-engineer-applied-ai-solutions",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10396342/software-development-engineer-applied-ai-solutions",
     "job_posted_at_datetime_utc": "2026-04-20T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "91acd2e307cb2eeceade26c1fdc2f1355a4f729a5bdc17e9e494e412ffde5ae9",
+    "fingerprint": "e108be24c69d22a6a50e645aa61d4e44701d7e0e74b11f6c6c9d85dc02decf2a",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -75530,14 +75530,14 @@
     "job_posted_at": "2026-04-20T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-c7a463ae-2070-4b86-809d-1b4c1e92d401",
+    "job_id": "amazon-2bc1a286-d04f-46ba-929a-02fb2e78d0d4",
     "job_title": "Software Dev Engineer, AWS Hardware Engineering",
     "employer_name": "Amazon Development Center U.S., Inc.",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10396839/software-dev-engineer-aws-hardware-engineering",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10396841/software-dev-engineer-aws-hardware-engineering",
     "job_posted_at_datetime_utc": "2026-04-20T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -75577,14 +75577,14 @@
     "job_posted_at": "2026-04-20T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-2bc1a286-d04f-46ba-929a-02fb2e78d0d4",
+    "job_id": "amazon-c7a463ae-2070-4b86-809d-1b4c1e92d401",
     "job_title": "Software Dev Engineer, AWS Hardware Engineering",
     "employer_name": "Amazon Development Center U.S., Inc.",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10396841/software-dev-engineer-aws-hardware-engineering",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10396839/software-dev-engineer-aws-hardware-engineering",
     "job_posted_at_datetime_utc": "2026-04-20T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
