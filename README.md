@@ -69,19 +69,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Moog** | Electronics Engineering Technician | Buffalo, NY | 23m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Electronics-Engineering-Technician_R-26-16959) |
-| 🏢 **Leidos** | PCBA Conformal Coating Technician | Huntsville, AL | 23m | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Conformal-Coating-Technician_R-00180607) |
-| 🏢 **Leidos** | Field Service Technician | Bowie, MD + 3 more | 23m | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Field-Service-Technician_R-00177129) |
-| 🏢 **Bosch Group** | Laboratory Engineer | Lincolnshire, IL | 31m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000123200150) |
-| 🏢 **Boeing** | Electrical Hardware Engineer | Huntsville, AL | 53m | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Electrical-Hardware-Engineer_JR2026493000-1) |
+| 🏢 **Moog** | Electronics Engineering Technician | Buffalo, NY | 38m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Electronics-Engineering-Technician_R-26-16959) |
+| 🏢 **Leidos** | PCBA Conformal Coating Technician | Huntsville, AL | 38m | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Conformal-Coating-Technician_R-00180607) |
+| 🏢 **Leidos** | Field Service Technician | Bowie, MD + 3 more | 38m | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Field-Service-Technician_R-00177129) |
+| 🏢 **Bosch Group** | Laboratory Engineer | Lincolnshire, IL | 46m | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000123200150) |
+| 🏢 **Boeing** | Electrical Hardware Engineer | Huntsville, AL | 1h | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Electrical-Hardware-Engineer_JR2026493000-1) |
 | 🏢 **Veolia Environnement SA** | Production Engineer | Beaumont, TX | 1h | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000123187479) |
-| 🏢 **Oklo** | Materials Engineer | Santa Clara, CA | 1h | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/5972118004) |
+| 🏢 **Oklo** | Materials Engineer | Santa Clara, CA | 2h | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/5972118004) |
 | 🏢 **ASML** | Advanced Processing - Bonding & Contacting Production Engineer | Wilton, CT | 3h | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Advanced-Processing---Bonding---Contacting-Production-Engineer_J-00338532) |
 | 🏢 **Oshkosh Corporation** | Reliability Engineer | WI-Oshkosh-Harris... | 3h | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/US-WI-Oshkosh-Harrison-Plant/Reliability-Engineer_R45657) |
 | 🏢 **Supabase** | AI Tooling Engineer | Remote | 5h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/supabase/14a99b8b-444b-4d28-b4fd-6fa8e71bcb4e/application) |
 | 🏢 **Olsson** | Geotechnical Engineer - Rail | Colorado Springs, CO | 7h | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5126221008) |
 | 🏢 **Olsson** | Experienced Civil Engineer - Data Center | Denver, CO | 7h | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5183029008) |
-| 🏢 **KLA** | Product development engineer | Milpitas, CA | 7h | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-development-engineer_2636373) |
+| 🏢 **KLA** | Product development engineer | Milpitas, CA | 8h | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-development-engineer_2636373) |
 | 🏢 **Micron** | Process Development Engineer, Advanced DRAM CMP | Main Site, ID | 8h | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Process-Development-Engineer--Advanced-DRAM-CMP_JR98174) |
 | 🏢 **General Motors** | Controls Engineer | Wentzville + 1 more | 8h | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Wentzville-Missouri-United-States-of-America/Controls-Engineer_JR-202608529-1) |
 | 🏢 **Cursor** | Field Engineering | San Francisco | 10h | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cursor/64a6cb18-493b-4d18-9f22-c661ae533bfa/application) |
@@ -493,8 +493,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Bosch Group** | Supplier Quality Engineer | Lincolnshire, IL | 27m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000123200720) |
-| 🏢 **Casca** | Quality Engineer | San Francisco | 6h | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/casca/260da0f5-bfe3-406f-a77a-df82f7ae07b9/application) |
+| 🏢 **Bosch Group** | Supplier Quality Engineer | Lincolnshire, IL | 42m | LCA | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000123200720) |
+| 🏢 **Casca** | Quality Engineer | San Francisco | 7h | Yes | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/casca/260da0f5-bfe3-406f-a77a-df82f7ae07b9/application) |
 | 🏢 **SpaceX** | Hardware Test Automation Engineer, Satellites (Starlink) | Redmond, WA | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8440972002?gh_jid=8440972002) |
 | 🏢 **SpaceX** | Hardware Test Specialist, Failure Analysis (Gateway) | Redmond, WA | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8420958002?gh_jid=8420958002) |
 | 🏢 **SpaceX** | Electrical Test Development Engineer, Customer Hardware (Starlink) | Bastrop, TX | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8470901002?gh_jid=8470901002) |
