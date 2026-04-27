@@ -100196,46 +100196,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T15:10:33.327Z"
-  },
-  {
-    "job_id": "sr-NBCUniversal3-744000121804995",
-    "job_title": "Graphic Design & Creative Internships – Academic Year",
-    "employer_name": "NBCUniversal",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121804995",
-    "job_posted_at_datetime_utc": "2026-04-20T14:56:58.326Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "17efab6d22af5b8d16e7b93a42275846fddbc828da59ae59b884a0f4d3177b11",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "cyber security",
-        "networking"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T14:56:58.326Z"
   }
 ]
