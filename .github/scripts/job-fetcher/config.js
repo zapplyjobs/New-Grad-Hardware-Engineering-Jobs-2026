@@ -20,6 +20,7 @@ module.exports = {
   // Branding text
   title: 'Hardware Engineering Jobs 2026',
   tagline: '',  // No tagline for SEO repos
+  jobCountBadgeLabel: 'Hardware Jobs',
 
   // Description paragraphs (with template variables)
   descriptionLine1: '🚀 Hardware, embedded systems, and EE jobs for new graduates, updated in real time.',
