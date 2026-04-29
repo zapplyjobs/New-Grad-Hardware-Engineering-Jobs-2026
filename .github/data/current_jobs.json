@@ -27,6 +27,17 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "reporting",
+        "soldering"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-29T19:29:27.989Z"
   },
   {
@@ -56,6 +67,18 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "plc",
+        "visio"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-29T19:29:20.350Z"
   },
   {
@@ -85,6 +108,16 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "soc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-29T19:29:00.399Z"
   },
   {
@@ -114,6 +147,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "matlab",
+        "project management",
+        "python",
+        "robotics",
+        "spc",
+        "statistical process control"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-29T19:29:00.399Z"
   },
   {
@@ -143,6 +191,20 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "allegro",
+        "cadence",
+        "cisco",
+        "networking",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-29T19:27:58.502Z"
   },
   {
@@ -173,6 +235,25 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "bert",
+        "firmware",
+        "html",
+        "ips",
+        "linux",
+        "python",
+        "regression",
+        "reporting",
+        "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-29T19:27:30.789Z"
   },
   {
@@ -202,6 +283,16 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-29T19:27:00.595Z"
   },
   {
@@ -251,92 +342,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-29T19:14:23.274Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026505294",
-    "job_title": "Interiors Certification Engineer (Mid-Level or Senior)",
-    "employer_name": "Boeing",
-    "job_city": "Renton",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Renton, WA",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Interiors-Certification-Engineer--Mid-Level-or-Senior-_JR2026505294-2",
-    "job_posted_at_datetime_utc": "2026-04-29T19:14:03.150Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f93ad85d19d0d22903099387b46c24317c397ddcca8a78d2ec05d6606b60b257",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "project management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T19:14:03.150Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2025458128",
-    "job_title": "Electrical Equipment Design and Installation Engineer (Experienced or Senior)",
-    "employer_name": "Boeing",
-    "job_city": "North Charleston",
-    "job_state": "SC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - North Charleston, SC",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Electrical-Equipment-Design-and-Installation-Engineer--Experienced-or-Senior-_JR2025458128-1",
-    "job_posted_at_datetime_utc": "2026-04-29T19:14:03.149Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ff79d71447e08f91f68ab74eac31a72500c4f78beb76ab2671f3c098cf80bdf1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "catia",
-        "computer science",
-        "data science",
-        "excel",
-        "microsoft office",
-        "nx",
-        "routing",
-        "solidworks"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T19:14:03.149Z"
   },
   {
     "job_id": "workday-blue-origin-R57230",
@@ -4385,46 +4390,6 @@
         "cam",
         "catia",
         "mentor graphics",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T15:18:21.618Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026499365",
-    "job_title": "Structures & Payload Design Engineer (Payload Systems Design) - Experienced or Senior",
-    "employer_name": "Boeing",
-    "job_city": "North Charleston",
-    "job_state": "SC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - North Charleston, SC",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Structures---Payload-Design-Engineer--Payload-Systems-Design----Experienced-or-Senior_JR2026499365-1",
-    "job_posted_at_datetime_utc": "2026-04-29T15:18:21.618Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8b318def71d00d4ad72e34f0579fcf873e34c006c986b4161dab874ba5bc422",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "project management",
         "system design"
       ],
       "sponsors_visa": null,
@@ -10957,85 +10922,6 @@
         "computer science",
         "program management",
         "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T22:05:45.897Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026502915",
-    "job_title": "Manufacturing Technology Analyst (Experienced or Lead)",
-    "employer_name": "Boeing",
-    "job_city": "Oklahoma City",
-    "job_state": "OK",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Oklahoma City, OK",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Manufacturing-Technology-Analyst--Experienced-or-Lead-_JR2026502915-1",
-    "job_posted_at_datetime_utc": "2026-04-28T22:05:45.897Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "900ea37d9c2b976256f6dd9929a44a77f08b477ab106245472657686007986ef",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "assembly"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T22:05:45.897Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026508050",
-    "job_title": "Facilities Plant Civil Engineer (Experienced or Senior)",
-    "employer_name": "Boeing",
-    "job_city": "Renton",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Renton, WA + 1 more",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Facilities-Plant-Civil-Engineer--Experienced-or-Senior-_JR2026508050-2",
-    "job_posted_at_datetime_utc": "2026-04-28T22:05:45.897Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c31ebf20089c8ab2f338ef6e97dfed22c8b97f621037f393bac9722f6e8da8ca",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "project management"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -17724,6 +17610,372 @@
     "job_posted_at": "2026-04-28T13:51:04.464Z"
   },
   {
+    "job_id": "google-107223359208465094",
+    "job_title": "System Validation Engineer, Pixel Watch",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/107223359208465094",
+    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9fc517f7e8e86a29b625ea602a1fed507e78f53d4b4903186afade4831c06ed1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-28T13:44:22.037Z"
+  },
+  {
+    "job_id": "google-74515093747835590",
+    "job_title": "Manufacturing Test Development Engineer",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74515093747835590",
+    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "493eb36e8f81a03f92e5ab1659d9594e9a6c705edc95f4dc6d38e3c0f3865b07",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-28T13:44:22.037Z"
+  },
+  {
+    "job_id": "google-137323933127844550",
+    "job_title": "Hardware Reliability Engineer, Global Hardware Reliability Engineering",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/137323933127844550",
+    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ef129b0b93c420bfd111f47977194f08611ee8bebd6e41091f8931430e6e7882",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-28T13:44:22.037Z"
+  },
+  {
+    "job_id": "google-119363823004984006",
+    "job_title": "TPU PCIe RTL Design Engineer",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/119363823004984006",
+    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "81ec0e46ae148f3175d2a6bc4dfbf73257e1e7908b46f1f30511dcc20a89e682",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-28T13:44:22.037Z"
+  },
+  {
+    "job_id": "google-124740939523465926",
+    "job_title": "Site Reliability Engineer, Google Cloud Engine AI SRE",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/124740939523465926",
+    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d90de1b9a47ba6d710d15443f25afb25bb8611545fcf29ba23e35b5671451a67",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-28T13:44:22.037Z"
+  },
+  {
+    "job_id": "google-101127290397565638",
+    "job_title": "Power Engineer, Platforms Engineering, PhD, University Graduate",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/101127290397565638",
+    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cc9fa8fce0bb92d3a63cec97567f1ddbcb029dc34938d37e3728b10e6d83f696",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-28T13:44:22.037Z"
+  },
+  {
+    "job_id": "google-142748636273353414",
+    "job_title": "ASIC Design Verification Engineer, Platforms and Devices",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/142748636273353414",
+    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ba5a60b12540c85b9a97a6b670664e8cd261553968e025815cf70a5f0268152b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "ips",
+        "systemverilog"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-28T13:44:22.037Z"
+  },
+  {
+    "job_id": "google-140346027273003718",
+    "job_title": "RTL Design Engineer, Multimedia and Machine Learning Accelerators",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/140346027273003718",
+    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a854a5a8899fccd7ae8ea91da6bea141baba1ec17ade587f5134472b297b0e20",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "fpga",
+        "systemverilog",
+        "verilog"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-28T13:44:22.037Z"
+  },
+  {
+    "job_id": "google-119519945066193606",
+    "job_title": "Product Safety Test Engineer, Platforms",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/119519945066193606",
+    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "acafb579c9bdd7b70ac3298191884a36e1730ad6493f4df7a46190d3fc4eee12",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "bash",
+        "networking",
+        "python",
+        "root cause analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-28T13:44:22.037Z"
+  },
+  {
     "job_id": "google-106267759855182534",
     "job_title": "ASIC Design Verification Engineer, AI and Infrastructure",
     "employer_name": "Google",
@@ -18980,372 +19232,6 @@
     "enrichment": {
       "required_skills": [
         "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T13:44:22.037Z"
-  },
-  {
-    "job_id": "google-107223359208465094",
-    "job_title": "System Validation Engineer, Pixel Watch",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/107223359208465094",
-    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9fc517f7e8e86a29b625ea602a1fed507e78f53d4b4903186afade4831c06ed1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T13:44:22.037Z"
-  },
-  {
-    "job_id": "google-74515093747835590",
-    "job_title": "Manufacturing Test Development Engineer",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74515093747835590",
-    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "493eb36e8f81a03f92e5ab1659d9594e9a6c705edc95f4dc6d38e3c0f3865b07",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T13:44:22.037Z"
-  },
-  {
-    "job_id": "google-137323933127844550",
-    "job_title": "Hardware Reliability Engineer, Global Hardware Reliability Engineering",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/137323933127844550",
-    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ef129b0b93c420bfd111f47977194f08611ee8bebd6e41091f8931430e6e7882",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T13:44:22.037Z"
-  },
-  {
-    "job_id": "google-119363823004984006",
-    "job_title": "TPU PCIe RTL Design Engineer",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/119363823004984006",
-    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "81ec0e46ae148f3175d2a6bc4dfbf73257e1e7908b46f1f30511dcc20a89e682",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T13:44:22.037Z"
-  },
-  {
-    "job_id": "google-124740939523465926",
-    "job_title": "Site Reliability Engineer, Google Cloud Engine AI SRE",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/124740939523465926",
-    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d90de1b9a47ba6d710d15443f25afb25bb8611545fcf29ba23e35b5671451a67",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T13:44:22.037Z"
-  },
-  {
-    "job_id": "google-101127290397565638",
-    "job_title": "Power Engineer, Platforms Engineering, PhD, University Graduate",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/101127290397565638",
-    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cc9fa8fce0bb92d3a63cec97567f1ddbcb029dc34938d37e3728b10e6d83f696",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T13:44:22.037Z"
-  },
-  {
-    "job_id": "google-142748636273353414",
-    "job_title": "ASIC Design Verification Engineer, Platforms and Devices",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/142748636273353414",
-    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ba5a60b12540c85b9a97a6b670664e8cd261553968e025815cf70a5f0268152b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [
-        "ips",
-        "systemverilog"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T13:44:22.037Z"
-  },
-  {
-    "job_id": "google-140346027273003718",
-    "job_title": "RTL Design Engineer, Multimedia and Machine Learning Accelerators",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/140346027273003718",
-    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a854a5a8899fccd7ae8ea91da6bea141baba1ec17ade587f5134472b297b0e20",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [
-        "fpga",
-        "systemverilog",
-        "verilog"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T13:44:22.037Z"
-  },
-  {
-    "job_id": "google-119519945066193606",
-    "job_title": "Product Safety Test Engineer, Platforms",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/119519945066193606",
-    "job_posted_at_datetime_utc": "2026-04-28T13:44:22.037Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "acafb579c9bdd7b70ac3298191884a36e1730ad6493f4df7a46190d3fc4eee12",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [
-        "bash",
-        "networking",
-        "python",
-        "root cause analysis"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -21830,7 +21716,7 @@
     "job_posted_at": "2026-04-28T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-497cea29-3160-471e-8629-5b79935e6f07",
+    "job_id": "amazon-3e29bc52-4780-40b4-b9af-c6c45d94fa25",
     "job_title": "HW Dev Engineer-Payload, LEO",
     "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
     "job_city": "Redmond",
@@ -21838,7 +21724,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Redmond, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10406205/hw-dev-engineer-payload-leo",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10406208/hw-dev-engineer-payload-leo",
     "job_posted_at_datetime_utc": "2026-04-28T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -21875,7 +21761,7 @@
     "job_posted_at": "2026-04-28T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-3e29bc52-4780-40b4-b9af-c6c45d94fa25",
+    "job_id": "amazon-497cea29-3160-471e-8629-5b79935e6f07",
     "job_title": "HW Dev Engineer-Payload, LEO",
     "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
     "job_city": "Redmond",
@@ -21883,7 +21769,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Redmond, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10406208/hw-dev-engineer-payload-leo",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10406205/hw-dev-engineer-payload-leo",
     "job_posted_at_datetime_utc": "2026-04-28T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -23400,223 +23286,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-27T19:23:32.491Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026501395",
-    "job_title": "ASIC/FPGA Verification Engineer (Experienced, Lead, or Senior)",
-    "employer_name": "Boeing",
-    "job_city": "El Segundo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "El Segundo, CA + 2 more",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/ASIC-FPGA-Verification-Engineer--Experienced--Lead--or-Senior-_JR2026501395-1",
-    "job_posted_at_datetime_utc": "2026-04-27T19:14:03.152Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "413c7b895586648af650a9950888a7c77f4b3ac9d9ac57677e2a518ce706830d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "arm",
-        "computer science",
-        "data science",
-        "fpga",
-        "git",
-        "linux",
-        "networking",
-        "perl",
-        "python",
-        "regression",
-        "svn",
-        "systemverilog",
-        "verilog"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T19:14:03.152Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026496189",
-    "job_title": "Process Engineer (Mid-Level or Senior)",
-    "employer_name": "Boeing",
-    "job_city": "Everett",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Everett, WA",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Process-Engineer--Mid-Level-or-Senior-_JR2026496189-1",
-    "job_posted_at_datetime_utc": "2026-04-27T19:14:03.151Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "408bdbdff5aa0f0fb70b4a4343e27e021381e9a7572651a919cd54097c132862",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "classification",
-        "computer science",
-        "data governance",
-        "data modeling",
-        "data quality",
-        "data science",
-        "project management",
-        "requirements traceability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T19:14:03.151Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026506918",
-    "job_title": "Facilities Controls Engineer (Experienced or Senior)",
-    "employer_name": "Boeing",
-    "job_city": "Hazelwood",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Hazelwood, MO",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Facilities-Controls-Engineer--Experienced-or-Senior-_JR2026506918",
-    "job_posted_at_datetime_utc": "2026-04-27T19:14:03.151Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2f3255128985480b8978e69f164aa28f3eda0e1a731629af5c09e13d09f5cfe4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "autocad",
-        "computer science",
-        "plc",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T19:14:03.151Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026496538",
-    "job_title": "Structural Analysis Engineer (Experienced or Senior)",
-    "employer_name": "Boeing",
-    "job_city": "Seal Beach",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Seal Beach, CA",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Structural-Analysis-Engineer--Experienced-or-Senior-_JR2026496538",
-    "job_posted_at_datetime_utc": "2026-04-27T19:14:03.151Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "14528ee078833078e56ba53ab2811feab90e2c4f4dc51e68d75f8d2ba2ed678f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T19:14:03.151Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026496348",
-    "job_title": "Product Review Engineer - Service Engineer (Experienced or Senior)",
-    "employer_name": "Boeing",
-    "job_city": "Seal Beach",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Seal Beach, CA",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Product-Review-Engineer---Service-Engineer--Experienced-or-Senior-_JR2026496348-1",
-    "job_posted_at_datetime_utc": "2026-04-27T19:14:03.151Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f7caa51cb60a609e10679abd3fca9ebe9ce392cedf9ffc438af99bcf4927496c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "root cause analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T19:14:03.151Z"
   },
   {
     "job_id": "sr-Intuitive-744000123278526",
@@ -88296,94 +87965,6 @@
     "job_posted_at": "2026-04-24T19:16:59.473Z"
   },
   {
-    "job_id": "workday-boeing-JR2026500709",
-    "job_title": "Optical Design and Analysis Engineer (Experienced or Lead)",
-    "employer_name": "Boeing",
-    "job_city": "Albuquerque",
-    "job_state": "NM",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Albuquerque, NM",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Albuquerque-NM/Optical-Design-and-Analysis-Engineer--Experienced-or-Lead-_JR2026500709-1",
-    "job_posted_at_datetime_utc": "2026-04-24T19:14:03.152Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ed9f83248f47716971b5777fd642e1c6e76c153e23c52054f52cf8be21f27d2b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data analysis",
-        "data science",
-        "matlab",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-24T19:14:03.152Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2025477493",
-    "job_title": "Lab Test Systems Safety Engineer - (Mid-Level  or Senior)",
-    "employer_name": "Boeing",
-    "job_city": "Berkeley",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Berkeley, MO",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Lab-Test-Systems-Safety-Engineer----Mid-Level--or-Senior-_JR2025477493",
-    "job_posted_at_datetime_utc": "2026-04-24T19:14:03.152Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "60160b52e53a90b17b663421038423d391b02533b21dc7aeb96bf1dcec256bf5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data science",
-        "excel",
-        "microsoft office",
-        "program management",
-        "risk management",
-        "safety analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-24T19:14:03.152Z"
-  },
-  {
     "job_id": "greenhouse-intrinsicrobotics-5973136004",
     "job_title": "Application Engineer",
     "employer_name": "Intrinsic Robotics",
@@ -107358,9 +106939,7 @@
     "_source": "aggregator",
     "_original_source": "apple",
     "enrichment": {
-      "required_skills": [
-        "program management"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
