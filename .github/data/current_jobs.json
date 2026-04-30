@@ -26,6 +26,18 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "excel",
+        "routing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-30T21:20:50.732Z"
   },
   {
@@ -55,6 +67,17 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-30T21:20:19.855Z"
   },
   {
@@ -84,6 +107,17 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "networking",
+        "tcp/ip"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-30T21:19:27.163Z"
   },
   {
@@ -114,6 +148,44 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "amazon web services",
+        "ansible",
+        "aws",
+        "bash",
+        "cloudformation",
+        "cybersecurity",
+        "devops",
+        "docker",
+        "eks",
+        "elasticsearch",
+        "git",
+        "github",
+        "gitlab",
+        "grafana",
+        "groovy",
+        "infrastructure as code",
+        "jenkins",
+        "kibana",
+        "kubernetes",
+        "network engineering",
+        "observability",
+        "powershell",
+        "prometheus",
+        "python",
+        "rest",
+        "ruby",
+        "sre",
+        "terraform"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-30T21:19:04.032Z"
   },
   {
@@ -144,6 +216,39 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "amazon web services",
+        "ansible",
+        "aws",
+        "bash",
+        "cloudformation",
+        "cybersecurity",
+        "devops",
+        "docker",
+        "eks",
+        "git",
+        "github",
+        "gitlab",
+        "groovy",
+        "infrastructure as code",
+        "jenkins",
+        "kubernetes",
+        "network engineering",
+        "powershell",
+        "python",
+        "rest",
+        "ruby",
+        "sre",
+        "terraform"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-30T21:19:04.032Z"
   },
   {
@@ -174,6 +279,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "computer science",
+        "data science",
+        "fiber",
+        "project management",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-30T21:19:02.061Z"
   },
   {
@@ -204,6 +324,19 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "failure mode",
+        "pfmea",
+        "root cause analysis",
+        "statistical process control"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-30T21:11:38.000Z"
   },
   {
@@ -236,6 +369,17 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "root cause analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-30T21:04:50.100Z"
   },
   {
@@ -268,6 +412,14 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-30T21:02:43.326Z"
   },
   {
@@ -297,6 +449,17 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "firmware",
+        "pcb design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-30T21:01:46.000Z"
   },
   {
@@ -330,6 +493,16 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [
+        "firmware"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-30T21:00:14.842Z"
   },
   {
@@ -359,6 +532,17 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "iso 9001",
+        "soldering"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-30T20:57:26.000Z"
   },
   {
@@ -433,6 +617,18 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ansys",
+        "matlab",
+        "python"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-30T20:55:08.000Z"
   },
   {
@@ -105221,47 +105417,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-23T21:47:07.994Z"
-  },
-  {
-    "job_id": "sr-NBCUniversal3-744000122550809",
-    "job_title": "Photographer/Graphic Designer, NBC News Commerce Studios",
-    "employer_name": "NBCUniversal",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, NEW YORK",
-    "job_apply_link": "https://jobs.smartrecruiters.com/NBCUniversal3/744000122550809",
-    "job_posted_at_datetime_utc": "2026-04-23T21:40:45.336Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "de4e290c8d4fb6f208509bbf1cc5e713a7dbbb0fb940b1b7b6601629e2cbf0c6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "marketing"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "adobe photoshop",
-        "photoshop"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-23T21:40:45.336Z"
   }
 ]
