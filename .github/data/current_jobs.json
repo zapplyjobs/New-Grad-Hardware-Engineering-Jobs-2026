@@ -103286,46 +103286,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-24T17:46:53.931Z"
-  },
-  {
-    "job_id": "greenhouse-trueanomalyinc-5120414007",
-    "job_title": "Mechanical CAD Drafter",
-    "employer_name": "True Anomaly",
-    "job_city": "Denver",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Denver, CO or Long Beach, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5120414007",
-    "job_posted_at_datetime_utc": "2026-04-24T17:31:49.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aab1cb59919e990fad842b961ee082177413b2832ba695410b5cda6afce64cdc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "gd&t",
-        "nx",
-        "solidworks"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-24T17:31:49.000Z"
   }
 ]
