@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2337-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2334-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-224-blue?style=flat&logo=building)
-![Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1909-red?style=flat&logo=star)
+![Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1906-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -92,8 +92,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **AMD** | Silicon Design Engineer - Memory/PHY (DDR/PHY) | Austin, TX, Unite... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/85584/login) |
 | 🏢 **Leidos** | Electrical Engineer | Huntsville, AL | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Engineer_R-00182138) |
 | 🏢 **Johnson Controls** | Fire Detection Service Technician | Iowa | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Des-Moines-Iowa-United-States-of-America/Fire-Service-Technician_WD30261527) |
-| 🏢 **Unisys** | Field Engineer Technician - Sioux Falls SD | Sioux Falls, SD, ... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://unisys.wd5.myworkdayjobs.com/External/job/Sioux-Falls-SD-United-States-of-America/Sr-Tech-Field-Eng-CAN-US---Sioux-Falls--SD_REQ572091) |
-| 🏢 **Medtronic** | EP Mapping Specialist, CAS I In Training - Duluth, MN | Duluth, Minnesota... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Duluth-Minnesota-United-States-of-America/EP-Mapping-Specialist--CAS-I-In-Training---Duluth--MN_R65692-1) |
+| 🏢 **Unisys** | Field Engineer Technician - Sioux Falls SD | Sioux Falls, SD, ... | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://unisys.wd5.myworkdayjobs.com/External/job/Sioux-Falls-SD-United-States-of-America/Sr-Tech-Field-Eng-CAN-US---Sioux-Falls--SD_REQ572091) |
+| 🏢 **Medtronic** | EP Mapping Specialist, CAS I In Training - Duluth, MN | Duluth, Minnesota... | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Duluth-Minnesota-United-States-of-America/EP-Mapping-Specialist--CAS-I-In-Training---Duluth--MN_R65692-1) |
 | 🏢 **Applied Materials** | EHS/Product Safety Engineer - New College Grad (Bachelors - Multiple Locations) | Austin,TX | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/EHS-Product-Safety-Engineer---New-College-Grad--Bachelors---Multiple-Locations-_R2517821) |
 | 🏢 **Micron** | Process Integration Engineer - DRAM, DMTS | Boise, ID - Main ... | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DMTS-Process-Engineer--DRAM-PI_JR87299) |
 | 🏢 **Johnson & Johnson** | Development Engineer | Warsaw, Indiana, ... | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Warsaw-Indiana-United-States-of-America/Development-Engineer_R-070752-1) |
@@ -104,15 +104,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Abbott** | Metrologist, Calibration | Minnesota | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Metrologist--Calibration_31146698-1) |
 | 🏢 **CACI** | Mechanical Engineer | VA Fairfax | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Fairfax/Mechanical-Engineer_325582) |
 | 🏢 **Apple** | Wireless Systems Engineer | Cupertino | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200660862/wireless-systems-engineer) |
-| 🏢 **Apple** | System Test Lab Technician | Sunnyvale | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200660860/system-test-lab-technician) |
-| 🏢 **Sierra Nevada Corporation** | Mechanical Engineer I | Dayton, OH | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Mechanical-Engineer-I_R0029829) |
-| 🏢 **Anduril** | Flight Test & Integration Specialist | Costa Mesa, Calif... | 21h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5032414007?gh_jid=5032414007) |
+| 🏢 **Apple** | System Test Lab Technician | Sunnyvale | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200660860/system-test-lab-technician) |
+| 🏢 **Sierra Nevada Corporation** | Mechanical Engineer I | Dayton, OH | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Mechanical-Engineer-I_R0029829) |
+| 🏢 **Anduril** | Flight Test & Integration Specialist | Costa Mesa, Calif... | 22h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5032414007?gh_jid=5032414007) |
 | 🏢 **Boeing** | Process Mechanic-Tube Bender | Berkeley, MO + 1 ... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Process-Mechanic-Tube-Bender_JR2026504279) |
 | 🏢 **AMD** | Silicon Design - Lab Engineer | Austin, TX, Unite... | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/85875/login) |
-| 🏢 **AbbVie** | Packaging Engineer | North Chicago, IL | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012925485) |
-| 🏢 **AbbVie** | Development Engineer | Tempe, AZ | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012922184) |
-| 🏢 **AbbVie** | GMP Utility Engineer | Worcester, MA | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012923713) |
-| 🏢 **Philips** | Electrical Engineer | Orlando, Florida,... | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orlando-Florida-United-States/Sr-R-D-Electrical-Engineer--Orlando--FL-_573079) |
+| 🏢 **AbbVie** | Packaging Engineer | North Chicago, IL | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012925485) |
+| 🏢 **AbbVie** | Development Engineer | Tempe, AZ | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012922184) |
+| 🏢 **AbbVie** | GMP Utility Engineer | Worcester, MA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012923713) |
+| 🏢 **Philips** | Electrical Engineer | Orlando, Florida,... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orlando-Florida-United-States/Sr-R-D-Electrical-Engineer--Orlando--FL-_573079) |
 | 🏢 **KBR** | Sustainment Test & Evaluation Engineer | Colorado Springs,... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Sustainment-Test---Evaluation-Engineer_R2122959) |
 | 🏢 **Neuralink** | Signal Processing Engineer | Austin, Texas, Un... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/6681863003?gh_jid=6681863003) |
 | 🏢 **RTX** | Planning and Production Control Analyst - Second Shift | Tucson, AZ | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Planning-and-Production-Control-Analyst---Second-Shift_01838466) |
@@ -281,10 +281,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Boeing** | Associate Propulsion System Integration Engineer | North Charleston, SC | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate-Propulsion-System-Integration-Engineer_JR2026504400-1) |
-| 🏢 **Boeing** | Associate or Mid-Level Industrial Engineer | North Charleston, SC | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate-or-Mid-Level-Industrial-Engineer_JR2026498882-1) |
+| 🏢 **Boeing** | Associate or Mid-Level Industrial Engineer | North Charleston, SC | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate-or-Mid-Level-Industrial-Engineer_JR2026498882-1) |
 | 🏢 **Globus Medical** | Associate Quality Engineer | Eagleville, PA | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Eagleville-PA/Associate-Quality-Engineer_JR106621) |
 | 🏢 **Northrop Grumman** | 2026 Associate Supplier Quality Engineer - Rolling Meadows IL | Illinois | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2026-Associate-Supplier-Quality-Engineer---Rolling-Meadows-IL_R10231590) |
-| 🏢 **Intel** | SOC Design Verification Engineer | US, Colorado, For... | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Colorado-Fort-Collins/SOC-Design-Verification-Engineer_JR0280834) |
+| 🏢 **Intel** | SOC Design Verification Engineer | US, Colorado, For... | 12h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Colorado-Fort-Collins/SOC-Design-Verification-Engineer_JR0280834) |
 | 🏢 **Etched** | ASIC Technical Program Manager | San Jose | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/etched/bdec1a6d-300b-47fc-a551-3c937d76fee0/application) |
 | 🏢 **NVIDIA** | ASIC Clocks Verification Engineer - New College Grad 2026 | US, CA, Santa Clara | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2013336) |
 | 🏢 **AMD** | RTL Design Engineer | San Jose, CA, Uni... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/84769/login) |
@@ -423,9 +423,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **AMD** | Systems Memory Validation Engineer | Austin, TX, Unite... | 12h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/85838/login) |
-| 🏢 **NVIDIA** | ATE Test Engineer | US, CA, Santa Clara | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ATE-Test-Engineer_JR2008144) |
-| 🏢 **True Anomaly** | Hardware and Environments Test Engineer | Long Beach, CA | 21h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5023898007) |
+| 🏢 **AMD** | Systems Memory Validation Engineer | Austin, TX, Unite... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/85838/login) |
+| 🏢 **NVIDIA** | ATE Test Engineer | US, CA, Santa Clara | 17h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ATE-Test-Engineer_JR2008144) |
+| 🏢 **True Anomaly** | Hardware and Environments Test Engineer | Long Beach, CA | 22h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5023898007) |
 | 🏢 **True Anomaly** | Propulsion and Fluids Test Engineer | Long Beach, CA | 22h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5125944007) |
 | 🏢 **AbbVie** | Validation Engineer | Waco, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012911987) |
 | 🏢 **SpaceX** | Electrical Test Engineer, PCB (Starlink) | Bastrop, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8532471002?gh_jid=8532471002) |
@@ -526,13 +526,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Micron** | Design Verification Quality Engineer | Boise, ID - Main ... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Verification-Methodology-Engineer---DRAM-Design_JR97973) |
+| 🏢 **Micron** | Design Verification Quality Engineer | Boise, ID - Main ... | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Verification-Methodology-Engineer---DRAM-Design_JR97973) |
 | 🏢 **Walmart** | (USA) Quality Engineer | New Braunfels, TX | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/New-Braunfels-TX/XMLNAME--USA--Quality-Engineer_R-2495533) |
 | 🏢 **Abbott** | Quality Engineer I | Minnesota | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/Quality-Engineer-I_31144817) |
 | 🏢 **RTX** | Quality Engineer (MRO) | North Berwick, ME | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Quality-Engineer--MRO-_01838217) |
 | 🏢 **RTX** | Program Quality Engineer | Tucson, AZ | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-807--1151-E-Hermans-Rd--BLDG-807/Program-Quality-Engineer_01842615) |
 | 🏢 **Allison Transmission** | Supplier Quality Engineer | Indianapolis, IN | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Supplier-Quality-Engineer_R007627) |
-| 🏢 **AbbVie** | Quality Engineer | Tempe, AZ | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012919753) |
+| 🏢 **AbbVie** | Quality Engineer | Tempe, AZ | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012919753) |
 | 🏢 **Abbott** | Quality Engineer I | Minnesota | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Quality-Engineer-I_31146716-2) |
 | 🏢 **RTX** | Field Supplier Quality Engineer - onsite Camden, AR | Camden, AR | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AR-CAMDEN-181-CUST--181-Bear-Rd--BEAR-Highland-Industrial-Park-External-Site/Field-Supplier-Quality-Engineer---onsite-Camden--AR_01841850) |
 | 🏢 **Philips** | Repair Quality Engineer | Lockbourne, Ohio,... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Lockbourne-Ohio-United-States/Repair-Quality-Engineer_579238-1) |
@@ -653,7 +653,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2337 current opportunities from 224 companies**
+**🎯 2334 current opportunities from 224 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
