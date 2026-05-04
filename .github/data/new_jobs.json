@@ -27,6 +27,17 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "project management",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-04T13:33:14.320Z"
   },
   {
@@ -60,6 +71,14 @@
     },
     "_source": "aggregator",
     "_original_source": "microsoft",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-04T13:20:39.000Z"
   },
   {
@@ -5557,6 +5576,14 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-01T19:29:10.000Z"
   },
   {
@@ -54251,99 +54278,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-27T14:16:23.000Z"
-  },
-  {
-    "job_id": "workday-medtronic-R65212",
-    "job_title": "Reliability Engineer I -CS",
-    "employer_name": "Medtronic",
-    "job_city": "Minneapolis",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Minneapolis, Minnesota, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Reliability-Engineer-I--CS_R65212",
-    "job_posted_at_datetime_utc": "2026-04-27T13:51:42.741Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a02d069d2d31c3f3ed44dd6eacb418270d4318f6469fb5399855c01900dc81ad",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cfr",
-        "cgmp",
-        "excel",
-        "fda",
-        "iso 13485",
-        "microsoft office",
-        "risk management",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T13:51:42.741Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-063761",
-    "job_title": "Design Quality Engineer",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Danvers",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Danvers, Massachusetts, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Design-Quality-Engineer_R-063761",
-    "job_posted_at_datetime_utc": "2026-04-27T13:50:35.565Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ff0f981167ae2cac8e74066bd2bf7dd13fc6a45f1b2fbdb582e1d1e1ee8cffae",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cfr",
-        "excel",
-        "failure mode",
-        "gd&t",
-        "iso 13485",
-        "minitab",
-        "risk management",
-        "statistical analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T13:50:35.565Z"
   }
 ]
