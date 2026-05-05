@@ -27,6 +27,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "dashboards",
+        "data analysis",
+        "dmaic",
+        "jmp",
+        "matlab",
+        "mes",
+        "python",
+        "reporting",
+        "spc",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T17:47:50.290Z"
   },
   {
@@ -57,6 +76,18 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "plc",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T17:47:43.733Z"
   },
   {
@@ -87,6 +118,22 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "finite element analysis",
+        "geometric dimensioning",
+        "linear",
+        "nx",
+        "robotics",
+        "siemens nx"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T17:47:27.574Z"
   },
   {
@@ -118,6 +165,18 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "lean",
+        "lean manufacturing",
+        "six sigma"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T17:46:29.000Z"
   },
   {
@@ -149,6 +208,22 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "concurrency",
+        "linux",
+        "project management",
+        "robotics",
+        "rust"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T17:37:42.000Z"
   },
   {
@@ -4622,6 +4697,18 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [
+        "firmware",
+        "machine learning",
+        "signal processing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
@@ -4656,6 +4743,16 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [
+        "performance testing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
@@ -49706,50 +49803,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-28T18:23:53.361Z"
-  },
-  {
-    "job_id": "apple-200660231",
-    "job_title": "Wireless RF PHY Firmware Engineer",
-    "employer_name": "Apple",
-    "job_city": "Irvine",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Irvine",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200660231/wireless-rf-phy-firmware-engineer",
-    "job_posted_at_datetime_utc": "2026-04-28T18:01:25.318Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a57ac05675aac4e0efe4b38935108d84e4f1fbbed31b26df3f3d75ca237282cc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "firmware",
-        "rf",
-        "soc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T18:01:25.318Z"
   }
 ]
