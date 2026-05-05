@@ -28,6 +28,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "assembly",
+        "autocad",
+        "cad",
+        "excel",
+        "nx",
+        "project management",
+        "sap",
+        "siemens nx",
+        "spring",
+        "system design",
+        "teamcenter",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T16:05:19.987Z"
   },
   {
@@ -59,6 +81,18 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "project management",
+        "react"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:54:54.932Z"
   },
   {
@@ -89,6 +123,19 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad",
+        "excel",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:52:46.012Z"
   },
   {
@@ -120,6 +167,16 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "cad"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:52:08.330Z"
   },
   {
@@ -150,6 +207,21 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "change management",
+        "lean manufacturing",
+        "reporting",
+        "root cause analysis",
+        "scalability",
+        "vendor management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:37:13.000Z"
   },
   {
@@ -181,6 +253,17 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "excel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T15:35:33.022Z"
   },
   {
@@ -49347,85 +49430,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-28T16:36:02.000Z"
-  },
-  {
-    "job_id": "greenhouse-olsson-5203365008",
-    "job_title": "Transportation Engineer (EIT) - Roadway",
-    "employer_name": "Olsson",
-    "job_city": "Springfield",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Springfield, MO",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5203365008",
-    "job_posted_at_datetime_utc": "2026-04-28T16:27:08.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8e0404cb4cb9eca3064c5250e4506f6c42fc1179c130b79e96357ca3fb47039b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "autocad"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T16:27:08.000Z"
-  },
-  {
-    "job_id": "greenhouse-olsson-5203343008",
-    "job_title": "Bridge Engineer",
-    "employer_name": "Olsson",
-    "job_city": "Fayetteville",
-    "job_state": "AR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fayetteville, AR; Little Rock, AR",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5203343008",
-    "job_posted_at_datetime_utc": "2026-04-28T16:18:20.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3200be79b5a38c9cdec2244f24df99393575f216c06577f67d6ccc8f8cbde539",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "project management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T16:18:20.000Z"
   }
 ]
