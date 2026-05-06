@@ -27,6 +27,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c#",
+        "c++",
+        "computer science",
+        "firmware",
+        "i2c",
+        "java",
+        "javascript",
+        "python",
+        "soc",
+        "spi",
+        "uart",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-06T07:31:57.027Z"
   },
   {
@@ -763,6 +784,46 @@
     "job_posted_at": "2026-05-05T23:32:32.335Z"
   },
   {
+    "job_id": "workday-broadcom-R024691",
+    "job_title": "Equipment Engineer",
+    "employer_name": "Broadcom",
+    "job_city": "North Carolina-Charlotte-9815 David Taylor Dr",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA-North Carolina-Charlotte-9815 David Taylor Dr",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-North-Carolina-Charlotte-9815-David-Taylor-Dr/Equipment-Engineer_R024691",
+    "job_posted_at_datetime_utc": "2026-05-05T23:32:02.941Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "da57c0f09efb3a21da8eca6a461e9044eb72847dcf26a4cd6fac15437049d3a9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "spc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T23:32:02.941Z"
+  },
+  {
     "job_id": "workday-broadcom-R024259",
     "job_title": "ASIC Floor Plan Automation Engineer",
     "employer_name": "Broadcom",
@@ -797,46 +858,6 @@
         "computer science",
         "linux",
         "ruby"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T23:32:02.941Z"
-  },
-  {
-    "job_id": "workday-broadcom-R024691",
-    "job_title": "Equipment Engineer",
-    "employer_name": "Broadcom",
-    "job_city": "North Carolina-Charlotte-9815 David Taylor Dr",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA-North Carolina-Charlotte-9815 David Taylor Dr",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-North-Carolina-Charlotte-9815-David-Taylor-Dr/Equipment-Engineer_R024691",
-    "job_posted_at_datetime_utc": "2026-05-05T23:32:02.941Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "da57c0f09efb3a21da8eca6a461e9044eb72847dcf26a4cd6fac15437049d3a9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "spc"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -8342,7 +8363,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863752",
     "job_posted_at_datetime_utc": "2026-05-05T12:57:48.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "172ba110541125d4b63bc2096452e5f26da937aab5d8376213770ac7a45d77e3",
     "tags": {
@@ -11168,57 +11189,6 @@
     "job_posted_at": "2026-05-04T18:39:37.013Z"
   },
   {
-    "job_id": "workday-cadence-R54244",
-    "job_title": "Data Center Operations Engineer",
-    "employer_name": "Cadence",
-    "job_city": "SAN JOSE",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "SAN JOSE",
-    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Data-Center-Operations-Engineer_R54244",
-    "job_posted_at_datetime_utc": "2026-05-04T18:38:26.234Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "69af21fe59390441aab6227d2fb0f4f94ee2f66fa12a27f3091c51773c9d368f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "bash",
-        "cadence",
-        "computer science",
-        "fiber",
-        "ftp",
-        "linux",
-        "networking",
-        "process improvement",
-        "shell",
-        "shell scripting",
-        "tcp/ip",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-04T18:38:26.234Z"
-  },
-  {
     "job_id": "workday-leidos-R-00182413",
     "job_title": "Mechanical Engineering Branch Manager",
     "employer_name": "Leidos",
@@ -12863,7 +12833,7 @@
     "job_location": "Chicago, Illinois, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556623149",
     "job_posted_at_datetime_utc": "2026-05-04T13:20:39.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "baf8dfe6ba09dfedbd16a8ccc23b1d88445b557a957bd9f76676d25ceee34911",
     "tags": {
@@ -13147,6 +13117,57 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-04T08:06:03.990Z"
+  },
+  {
+    "job_id": "workday-cadence-R54244",
+    "job_title": "Data Center Operations Engineer",
+    "employer_name": "Cadence",
+    "job_city": "SAN JOSE",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "SAN JOSE",
+    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Data-Center-Operations-Engineer_R54244",
+    "job_posted_at_datetime_utc": "2026-05-04T07:47:05.041Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "69af21fe59390441aab6227d2fb0f4f94ee2f66fa12a27f3091c51773c9d368f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "bash",
+        "cadence",
+        "computer science",
+        "fiber",
+        "ftp",
+        "linux",
+        "networking",
+        "process improvement",
+        "shell",
+        "shell scripting",
+        "tcp/ip",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-04T07:47:05.041Z"
   },
   {
     "job_id": "workday-kbr-R2122916",
@@ -18318,47 +18339,6 @@
     "job_posted_at": "2026-05-02T13:31:00.054Z"
   },
   {
-    "job_id": "greenhouse-spacex-8523874002",
-    "job_title": "Harnessing Design Engineer, Satellites (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8523874002?gh_jid=8523874002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.053Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "05848bb88d9c90296c9a2c3238a5809508bcd58665500be7c485698ff176dc84",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "nx"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:00.053Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8501065002",
     "job_title": "Device Physics Engineer, Solar Cells (Starlink)",
     "employer_name": "SpaceX",
@@ -18395,6 +18375,47 @@
         "r",
         "spc",
         "sql"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:00.053Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8523874002",
+    "job_title": "Harnessing Design Engineer, Satellites (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8523874002?gh_jid=8523874002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.053Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05848bb88d9c90296c9a2c3238a5809508bcd58665500be7c485698ff176dc84",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "nx"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
@@ -24963,6 +24984,49 @@
     "job_posted_at": "2026-05-01T07:02:36.674Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-071856",
+    "job_title": "Process Engineer – Service (DePuy Synthes)   Palm Beach Gardens, FL",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Palm Beach Gardens",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Palm Beach Gardens, Florida, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Palm-Beach-Gardens-Florida-United-States-of-America/Process-Engineer---Service--DePuy-Synthes----Palm-Beach-Gardens--FL_R-071856-2",
+    "job_posted_at_datetime_utc": "2026-05-01T07:02:34.559Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7993ac0db1a82acde1fae42887c451cbcede4d994e104ddc73968c9732734f13",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "kaizen",
+        "robotics",
+        "solidworks"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-01T07:02:34.559Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-070752",
     "job_title": "Development Engineer",
     "employer_name": "Johnson & Johnson",
@@ -25002,49 +25066,6 @@
         "robotics",
         "sap",
         "tolerance analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T07:02:34.559Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-071856",
-    "job_title": "Process Engineer – Service (DePuy Synthes)   Palm Beach Gardens, FL",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Palm Beach Gardens",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Palm Beach Gardens, Florida, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Palm-Beach-Gardens-Florida-United-States-of-America/Process-Engineer---Service--DePuy-Synthes----Palm-Beach-Gardens--FL_R-071856-2",
-    "job_posted_at_datetime_utc": "2026-05-01T07:02:34.559Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7993ac0db1a82acde1fae42887c451cbcede4d994e104ddc73968c9732734f13",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "kaizen",
-        "robotics",
-        "solidworks"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -26404,47 +26425,6 @@
     "job_posted_at": "2026-05-01T07:02:23.587Z"
   },
   {
-    "job_id": "workday-caterpillar-R0000365736",
-    "job_title": "Mechanical Design Engineer",
-    "employer_name": "Caterpillar",
-    "job_city": "Mossville",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Mossville, Illinois",
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Mechanical-Design-Engineer_R0000365736",
-    "job_posted_at_datetime_utc": "2026-05-01T07:02:21.522Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7511b05076b2b1202db53be445a64289acdf0e6cfd8c36e185408e0b17feca11",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "process improvement"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T07:02:21.522Z"
-  },
-  {
     "job_id": "workday-caterpillar-R0000367207",
     "job_title": "Electrical Design Engineer",
     "employer_name": "Caterpillar",
@@ -26478,6 +26458,47 @@
         "cad",
         "erp",
         "plc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-01T07:02:21.522Z"
+  },
+  {
+    "job_id": "workday-caterpillar-R0000365736",
+    "job_title": "Mechanical Design Engineer",
+    "employer_name": "Caterpillar",
+    "job_city": "Mossville",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Mossville, Illinois",
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Mechanical-Design-Engineer_R0000365736",
+    "job_posted_at_datetime_utc": "2026-05-01T07:02:21.522Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7511b05076b2b1202db53be445a64289acdf0e6cfd8c36e185408e0b17feca11",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "process improvement"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -32201,7 +32222,7 @@
     "job_location": "Mount Pleasant, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556857490",
     "job_posted_at_datetime_utc": "2026-04-30T13:49:00.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "0d5b1416607d4dda078548c3dedc61cf80f5c25d7b927956b4aac311b02bdec8",
     "tags": {
@@ -35711,128 +35732,6 @@
     "job_posted_at": "2026-04-30T07:02:59.266Z"
   },
   {
-    "job_id": "workday-carrier-global-30204070",
-    "job_title": "Project Manager - Automated Logic (Waco, TX)",
-    "employer_name": "Carrier Global",
-    "job_city": "Dallas, 1901 N. Glenville Drive, Richardson, TX, 75081 USA",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "CAT16: CCS-Dallas, 1901 N. Glenville Drive, Richardson, TX, 75081 USA",
-    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAT16-CCS-Dallas-1901-N-Glenville-Drive-Richardson-TX-75081-USA/Project-Manager---Automated-Logic--Waco--TX-_30204070",
-    "job_posted_at_datetime_utc": "2026-04-30T07:02:59.064Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "57afb06a42edabb09bcee98401af6b27dcdba77b5424e30c489037d57fa08823",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "forecasting",
-        "microsoft office",
-        "project management",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:02:59.064Z"
-  },
-  {
-    "job_id": "workday-carrier-global-30204069",
-    "job_title": "Field Supervisor - Automated Logic (Waco, TX)",
-    "employer_name": "Carrier Global",
-    "job_city": "Dallas, 1901 N. Glenville Drive, Richardson, TX, 75081 USA",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "CAT16: CCS-Dallas, 1901 N. Glenville Drive, Richardson, TX, 75081 USA",
-    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAT16-CCS-Dallas-1901-N-Glenville-Drive-Richardson-TX-75081-USA/Field-Supervisor---Automated-Logic--Waco--TX-_30204069",
-    "job_posted_at_datetime_utc": "2026-04-30T07:02:59.064Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dbad9437d3ac925d23cffd0848744bb655e0eaa2ad7f403b234c3e3092bb5f26",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "microsoft office",
-        "project management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:02:59.064Z"
-  },
-  {
-    "job_id": "workday-carrier-global-30203765",
-    "job_title": "Field Engineer - Automated Logic",
-    "employer_name": "Carrier Global",
-    "job_city": "Harrisburg, 6345 Flank Drive, Harrisburg, PA, 17112 USA",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "CAP27: ALC- Harrisburg, 6345 Flank Drive, Harrisburg, PA, 17112 USA",
-    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAP27-ALC--Harrisburg-6345-Flank-Drive-Harrisburg-PA-17112-USA/Field-Engineer---Automated-Logic_30203765",
-    "job_posted_at_datetime_utc": "2026-04-30T07:02:59.064Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "41cb8b858a69f169243f0cce551bc63bb23552b47bc6f89ad3fadfdbe808095d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:02:59.064Z"
-  },
-  {
     "job_id": "workday-carrier-global-30203392",
     "job_title": "Field Supervisor - Automated Logic (Waco, TX)",
     "employer_name": "Carrier Global",
@@ -35990,6 +35889,128 @@
         "erp",
         "reporting"
       ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:02:59.064Z"
+  },
+  {
+    "job_id": "workday-carrier-global-30204070",
+    "job_title": "Project Manager - Automated Logic (Waco, TX)",
+    "employer_name": "Carrier Global",
+    "job_city": "Dallas, 1901 N. Glenville Drive, Richardson, TX, 75081 USA",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "CAT16: CCS-Dallas, 1901 N. Glenville Drive, Richardson, TX, 75081 USA",
+    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAT16-CCS-Dallas-1901-N-Glenville-Drive-Richardson-TX-75081-USA/Project-Manager---Automated-Logic--Waco--TX-_30204070",
+    "job_posted_at_datetime_utc": "2026-04-30T07:02:59.064Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "57afb06a42edabb09bcee98401af6b27dcdba77b5424e30c489037d57fa08823",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "forecasting",
+        "microsoft office",
+        "project management",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:02:59.064Z"
+  },
+  {
+    "job_id": "workday-carrier-global-30204069",
+    "job_title": "Field Supervisor - Automated Logic (Waco, TX)",
+    "employer_name": "Carrier Global",
+    "job_city": "Dallas, 1901 N. Glenville Drive, Richardson, TX, 75081 USA",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "CAT16: CCS-Dallas, 1901 N. Glenville Drive, Richardson, TX, 75081 USA",
+    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAT16-CCS-Dallas-1901-N-Glenville-Drive-Richardson-TX-75081-USA/Field-Supervisor---Automated-Logic--Waco--TX-_30204069",
+    "job_posted_at_datetime_utc": "2026-04-30T07:02:59.064Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dbad9437d3ac925d23cffd0848744bb655e0eaa2ad7f403b234c3e3092bb5f26",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "microsoft office",
+        "project management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:02:59.064Z"
+  },
+  {
+    "job_id": "workday-carrier-global-30203765",
+    "job_title": "Field Engineer - Automated Logic",
+    "employer_name": "Carrier Global",
+    "job_city": "Harrisburg, 6345 Flank Drive, Harrisburg, PA, 17112 USA",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "CAP27: ALC- Harrisburg, 6345 Flank Drive, Harrisburg, PA, 17112 USA",
+    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAP27-ALC--Harrisburg-6345-Flank-Drive-Harrisburg-PA-17112-USA/Field-Engineer---Automated-Logic_30203765",
+    "job_posted_at_datetime_utc": "2026-04-30T07:02:59.064Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "41cb8b858a69f169243f0cce551bc63bb23552b47bc6f89ad3fadfdbe808095d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
@@ -40530,6 +40551,47 @@
     "job_posted_at": "2026-04-30T04:17:05.897Z"
   },
   {
+    "job_id": "greenhouse-olsson-5188306008",
+    "job_title": "Electrical Designer - Data Centers",
+    "employer_name": "Olsson",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dallas, TX; Fayetteville, AR; Fort Worth, TX; Lincoln, NE; North Kansas City, MO; Omaha, NE; Overland Park, KS",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5188306008",
+    "job_posted_at_datetime_utc": "2026-04-30T04:17:03.548Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1e1322041b0e4661e17b8743804555754eeeeef4c1e5c2566ae4cc978c18895b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "excel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T04:17:03.548Z"
+  },
+  {
     "job_id": "greenhouse-olsson-5188263008",
     "job_title": "Licensed Mechanical Engineer - Data Center",
     "employer_name": "Olsson",
@@ -40599,47 +40661,6 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T04:17:03.548Z"
-  },
-  {
-    "job_id": "greenhouse-olsson-5188306008",
-    "job_title": "Electrical Designer - Data Centers",
-    "employer_name": "Olsson",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dallas, TX; Fayetteville, AR; Fort Worth, TX; Lincoln, NE; North Kansas City, MO; Omaha, NE; Overland Park, KS",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5188306008",
-    "job_posted_at_datetime_utc": "2026-04-30T04:17:03.548Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1e1322041b0e4661e17b8743804555754eeeeef4c1e5c2566ae4cc978c18895b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "excel"
-      ],
       "sponsors_visa": null,
       "visa_question_present": true,
       "is_simple_apply": false,
@@ -40852,36 +40873,6 @@
     "job_posted_at": "2026-04-30T03:45:26.891Z"
   },
   {
-    "job_id": "simplify-affa385b-6046-497d-90a0-f489e33e318e",
-    "job_title": "Graduate Design Verification Engineer - Video Silicon IP",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7551554573577750802/detail",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e356b15600a367758fd86e84b008607eac0d48dedfeceebe597b0da44ef59ce5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
     "job_id": "simplify-acf957e2-2c86-4d2a-aa7f-70355baafefb",
     "job_title": "Engineering Technician - Engineering Technician - 03428 WRD RFFE - NE",
     "employer_name": "Qualcomm",
@@ -40900,6 +40891,36 @@
       "domains": [
         "hardware",
         "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-affa385b-6046-497d-90a0-f489e33e318e",
+    "job_title": "Graduate Design Verification Engineer - Video Silicon IP",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7551554573577750802/detail",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e356b15600a367758fd86e84b008607eac0d48dedfeceebe597b0da44ef59ce5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
       ],
       "locations": [
         "us"
@@ -44114,7 +44135,7 @@
     "job_location": "Richmond, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556853492",
     "job_posted_at_datetime_utc": "2026-04-29T17:28:23.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "4dd918a4ff59aade4eeed9f122535013230d194438a509de87686e57ffef5900",
     "tags": {
@@ -44126,7 +44147,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": [
         "faang"
       ],
