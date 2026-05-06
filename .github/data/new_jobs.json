@@ -6145,6 +6145,34 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "argocd",
+        "aws",
+        "azure",
+        "bash",
+        "dashboards",
+        "distributed systems",
+        "go",
+        "grafana",
+        "helm",
+        "kubernetes",
+        "networking",
+        "observability",
+        "prometheus",
+        "python",
+        "root cause analysis",
+        "scrum",
+        "terraform",
+        "vmware"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-05T17:18:25.369Z"
   },
   {
@@ -44307,86 +44335,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-29T18:18:47.661Z"
-  },
-  {
-    "job_id": "sr-BoschGroup-744000123757849",
-    "job_title": "DSP Team Lead (1st Shift)",
-    "employer_name": "Bosch Group",
-    "job_city": "West Memphis",
-    "job_state": "AR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "West Memphis, AR",
-    "job_apply_link": "https://jobs.smartrecruiters.com/BoschGroup/744000123757849",
-    "job_posted_at_datetime_utc": "2026-04-29T18:14:29.483Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "cf73782f8aefe38388350f2b9a09922f6b1b3f8bad08f959aab6b7b0b96f0ce4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "dsp"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T18:14:29.483Z"
-  },
-  {
-    "job_id": "greenhouse-samsungsemiconductor-7713569003",
-    "job_title": "Thermal Engineer",
-    "employer_name": "Samsung Semiconductor",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, California, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7713569003",
-    "job_posted_at_datetime_utc": "2026-04-29T18:06:18.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7bb094110421fd2b8d43594d2b802c7e9f2d20cda19ec9115742723c981c2619",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cfd"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T18:06:18.000Z"
   }
 ]
