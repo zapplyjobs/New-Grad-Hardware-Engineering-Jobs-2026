@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "workday-medtronic-R65905",
+    "job_title": "EP Mapping Specialist - CAS Nashville, TN",
+    "employer_name": "Medtronic",
+    "job_city": "Nashville",
+    "job_state": "TN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Nashville, Tennessee, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nashville-Tennessee-United-States-of-America/EP-Mapping-Specialist---CAS-Nashville--TN_R65905-1",
+    "job_posted_at_datetime_utc": "2026-05-06T03:47:32.101Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ecbd560b98a2e1a7f8516164312b8fdd7785c0f09e5fcaa3fd90ab6ca16c82ce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T03:47:32.101Z"
+  },
+  {
     "job_id": "workday-leidos-R-00182609",
     "job_title": "RADAR Integration and Test Engineer",
     "employer_name": "Leidos",
@@ -2708,44 +2738,6 @@
     "job_posted_at": "2026-05-05T20:13:51.456Z"
   },
   {
-    "job_id": "workday-medtronic-R65973",
-    "job_title": "EP Mapping Specialist, CAS - Westchester",
-    "employer_name": "Medtronic",
-    "job_city": "Westchester",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Westchester, New York, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Westchester-New-York-United-States-of-America/EP-Mapping-Specialist--CAS---Westchester_R65973-1",
-    "job_posted_at_datetime_utc": "2026-05-05T20:02:53.888Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "87e09cb96ae6811beb8e8d5898be8ddc7af7a9e2216bd5d85ed9e91d229d06e0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T20:02:53.888Z"
-  },
-  {
     "job_id": "workday-medtronic-R65974",
     "job_title": "EP Mapping Specialist, CAS - NYC",
     "employer_name": "Medtronic",
@@ -2797,6 +2789,44 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "62efb3d7fc1783001f4979cba5e18e1528f23d8faf3b698f53429da2cfbb4b26",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T20:02:53.888Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65973",
+    "job_title": "EP Mapping Specialist, CAS - Westchester",
+    "employer_name": "Medtronic",
+    "job_city": "Westchester",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Westchester, New York, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Westchester-New-York-United-States-of-America/EP-Mapping-Specialist--CAS---Westchester_R65973-1",
+    "job_posted_at_datetime_utc": "2026-05-05T20:02:53.888Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "87e09cb96ae6811beb8e8d5898be8ddc7af7a9e2216bd5d85ed9e91d229d06e0",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4349,7 +4379,7 @@
     "job_location": "Santa Clara, California, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556628561",
     "job_posted_at_datetime_utc": "2026-05-05T18:46:34.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "3cfbaab5e99a26096f4e7fda0010865c48dd1a153f613bc3bf81273c1767558a",
     "tags": {
@@ -8227,7 +8257,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863752",
     "job_posted_at_datetime_utc": "2026-05-05T12:57:48.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "172ba110541125d4b63bc2096452e5f26da937aab5d8376213770ac7a45d77e3",
     "tags": {
@@ -17856,59 +17886,6 @@
     "job_posted_at": "2026-05-02T13:31:00.058Z"
   },
   {
-    "job_id": "greenhouse-spacex-8406964002",
-    "job_title": "Operations Development Engineer (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8406964002?gh_jid=8406964002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dfe4bffda9b9e8a6f80339a2956e6a72f51e36ed17d7fee0b4421d831379b372",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "dashboards",
-        "data analysis",
-        "data visualization",
-        "grafana",
-        "jupyter",
-        "networking",
-        "postgresql",
-        "prometheus",
-        "python",
-        "reporting",
-        "spark",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:00.055Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8522688002",
     "job_title": "Product Development Engineer (Starlink)",
     "employer_name": "SpaceX",
@@ -18023,6 +18000,59 @@
     "enrichment": {
       "required_skills": [
         "project management"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:00.055Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8406964002",
+    "job_title": "Operations Development Engineer (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8406964002?gh_jid=8406964002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dfe4bffda9b9e8a6f80339a2956e6a72f51e36ed17d7fee0b4421d831379b372",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "dashboards",
+        "data analysis",
+        "data visualization",
+        "grafana",
+        "jupyter",
+        "networking",
+        "postgresql",
+        "prometheus",
+        "python",
+        "reporting",
+        "spark",
+        "sql",
+        "statistics"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
@@ -24854,6 +24884,47 @@
     "job_posted_at": "2026-05-01T07:03:12.438Z"
   },
   {
+    "job_id": "workday-caterpillar-R0000365736",
+    "job_title": "Mechanical Design Engineer",
+    "employer_name": "Caterpillar",
+    "job_city": "Mossville",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Mossville, Illinois",
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Mechanical-Design-Engineer_R0000365736",
+    "job_posted_at_datetime_utc": "2026-05-01T07:02:56.168Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7511b05076b2b1202db53be445a64289acdf0e6cfd8c36e185408e0b17feca11",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "process improvement"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-01T07:02:56.168Z"
+  },
+  {
     "job_id": "workday-caterpillar-R0000367207",
     "job_title": "Electrical Design Engineer",
     "employer_name": "Caterpillar",
@@ -24887,47 +24958,6 @@
         "cad",
         "erp",
         "plc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T07:02:56.168Z"
-  },
-  {
-    "job_id": "workday-caterpillar-R0000365736",
-    "job_title": "Mechanical Design Engineer",
-    "employer_name": "Caterpillar",
-    "job_city": "Mossville",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Mossville, Illinois",
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Mechanical-Design-Engineer_R0000365736",
-    "job_posted_at_datetime_utc": "2026-05-01T07:02:56.168Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7511b05076b2b1202db53be445a64289acdf0e6cfd8c36e185408e0b17feca11",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "process improvement"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -36394,6 +36424,47 @@
     "job_posted_at": "2026-04-30T07:02:59.064Z"
   },
   {
+    "job_id": "workday-carrier-global-30205344",
+    "job_title": "Associate Field Engineer",
+    "employer_name": "Carrier Global",
+    "job_city": "Brown Deer, 1501 Paramount Drive, Waukesha, WI, 53186 USA",
+    "job_state": "WI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "CAW11: ALC-Brown Deer, 1501 Paramount Drive, Waukesha, WI, 53186 USA",
+    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAW11-ALC-Brown-Deer-1501-Paramount-Drive-Waukesha-WI-53186-USA/Associate-Field-Engineer_30205344-2",
+    "job_posted_at_datetime_utc": "2026-04-30T07:02:59.063Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0687185e3cefe623e4ff91034c71a3abbc8a42cbb6728f7b9f16d429a3cd323a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "networking",
+        "tcp/ip"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:02:59.063Z"
+  },
+  {
     "job_id": "workday-carrier-global-30204998",
     "job_title": "Building Automation Field Supervisor",
     "employer_name": "Carrier Global",
@@ -36514,129 +36585,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-30T07:02:59.063Z"
-  },
-  {
-    "job_id": "workday-carrier-global-30205344",
-    "job_title": "Associate Field Engineer",
-    "employer_name": "Carrier Global",
-    "job_city": "Brown Deer, 1501 Paramount Drive, Waukesha, WI, 53186 USA",
-    "job_state": "WI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "CAW11: ALC-Brown Deer, 1501 Paramount Drive, Waukesha, WI, 53186 USA",
-    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAW11-ALC-Brown-Deer-1501-Paramount-Drive-Waukesha-WI-53186-USA/Associate-Field-Engineer_30205344-2",
-    "job_posted_at_datetime_utc": "2026-04-30T07:02:59.063Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0687185e3cefe623e4ff91034c71a3abbc8a42cbb6728f7b9f16d429a3cd323a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "networking",
-        "tcp/ip"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:02:59.063Z"
-  },
-  {
-    "job_id": "workday-caterpillar-R0000347665",
-    "job_title": "Autonomy Engineering Specialist",
-    "employer_name": "Caterpillar",
-    "job_city": "Mossville",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Mossville, Illinois",
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Autonomy-Engineering-Specialist_R0000347665",
-    "job_posted_at_datetime_utc": "2026-04-30T07:02:56.169Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7513853658f004f696564a5411c08251e5bc99da12cdb76137f52b5add8ca0d0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:02:56.169Z"
-  },
-  {
-    "job_id": "workday-caterpillar-R0000362976",
-    "job_title": "Project Air Tester B-2",
-    "employer_name": "Caterpillar",
-    "job_city": "Channelview",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Channelview, Texas",
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Channelview-Texas/Project-Air-Tester-B-2_R0000362976-1",
-    "job_posted_at_datetime_utc": "2026-04-30T07:02:56.169Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "66eaba47721500d9f76fb7601c98e147fc48a21f7d434d6b979577c9635a05e1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "html"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:02:56.169Z"
   },
   {
     "job_id": "workday-caterpillar-R0000367477",
@@ -36799,6 +36747,88 @@
         "hmi",
         "plc",
         "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:02:56.169Z"
+  },
+  {
+    "job_id": "workday-caterpillar-R0000347665",
+    "job_title": "Autonomy Engineering Specialist",
+    "employer_name": "Caterpillar",
+    "job_city": "Mossville",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Mossville, Illinois",
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Autonomy-Engineering-Specialist_R0000347665",
+    "job_posted_at_datetime_utc": "2026-04-30T07:02:56.169Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7513853658f004f696564a5411c08251e5bc99da12cdb76137f52b5add8ca0d0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:02:56.169Z"
+  },
+  {
+    "job_id": "workday-caterpillar-R0000362976",
+    "job_title": "Project Air Tester B-2",
+    "employer_name": "Caterpillar",
+    "job_city": "Channelview",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Channelview, Texas",
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Channelview-Texas/Project-Air-Tester-B-2_R0000362976-1",
+    "job_posted_at_datetime_utc": "2026-04-30T07:02:56.169Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "66eaba47721500d9f76fb7601c98e147fc48a21f7d434d6b979577c9635a05e1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "html"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -40415,6 +40445,47 @@
     "job_posted_at": "2026-04-30T04:17:05.897Z"
   },
   {
+    "job_id": "greenhouse-olsson-5188306008",
+    "job_title": "Electrical Designer - Data Centers",
+    "employer_name": "Olsson",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dallas, TX; Fayetteville, AR; Fort Worth, TX; Lincoln, NE; North Kansas City, MO; Omaha, NE; Overland Park, KS",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5188306008",
+    "job_posted_at_datetime_utc": "2026-04-30T04:17:03.548Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1e1322041b0e4661e17b8743804555754eeeeef4c1e5c2566ae4cc978c18895b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "excel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T04:17:03.548Z"
+  },
+  {
     "job_id": "greenhouse-olsson-5188263008",
     "job_title": "Licensed Mechanical Engineer - Data Center",
     "employer_name": "Olsson",
@@ -40484,47 +40555,6 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T04:17:03.548Z"
-  },
-  {
-    "job_id": "greenhouse-olsson-5188306008",
-    "job_title": "Electrical Designer - Data Centers",
-    "employer_name": "Olsson",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dallas, TX; Fayetteville, AR; Fort Worth, TX; Lincoln, NE; North Kansas City, MO; Omaha, NE; Overland Park, KS",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5188306008",
-    "job_posted_at_datetime_utc": "2026-04-30T04:17:03.548Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1e1322041b0e4661e17b8743804555754eeeeef4c1e5c2566ae4cc978c18895b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "excel"
-      ],
       "sponsors_visa": null,
       "visa_question_present": true,
       "is_simple_apply": false,
@@ -40737,6 +40767,36 @@
     "job_posted_at": "2026-04-30T03:45:26.891Z"
   },
   {
+    "job_id": "simplify-affa385b-6046-497d-90a0-f489e33e318e",
+    "job_title": "Graduate Design Verification Engineer - Video Silicon IP",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7551554573577750802/detail",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e356b15600a367758fd86e84b008607eac0d48dedfeceebe597b0da44ef59ce5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
     "job_id": "simplify-acf957e2-2c86-4d2a-aa7f-70355baafefb",
     "job_title": "Engineering Technician - Engineering Technician - 03428 WRD RFFE - NE",
     "employer_name": "Qualcomm",
@@ -40755,36 +40815,6 @@
       "domains": [
         "hardware",
         "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
-    "job_id": "simplify-affa385b-6046-497d-90a0-f489e33e318e",
-    "job_title": "Graduate Design Verification Engineer - Video Silicon IP",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7551554573577750802/detail",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e356b15600a367758fd86e84b008607eac0d48dedfeceebe597b0da44ef59ce5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us"
@@ -43999,7 +44029,7 @@
     "job_location": "Richmond, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556853492",
     "job_posted_at_datetime_utc": "2026-04-29T17:28:23.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "4dd918a4ff59aade4eeed9f122535013230d194438a509de87686e57ffef5900",
     "tags": {
