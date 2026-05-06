@@ -1,125 +1,5 @@
 [
   {
-    "job_id": "workday-boeing-JR2026498438",
-    "job_title": "777X Structural Analysis Engineer (Experienced, Senior and Lead)",
-    "employer_name": "Boeing",
-    "job_city": "Berkeley",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Berkeley, MO",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/XMLNAME-777X-Structural-Analysis-Engineer--Experienced--Senior-and-Lead-_JR2026498438-1",
-    "job_posted_at_datetime_utc": "2026-05-06T08:17:05.147Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c09c908086cb4f2cde9cfc79627d4b3cc14dfa5596a5e9d54da3d627f2239b40",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T08:17:05.147Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026506066",
-    "job_title": "Mission Systems Computing Hardware Engineer (Mid-Level, Lead or Senior)",
-    "employer_name": "Boeing",
-    "job_city": "Tukwila",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Tukwila, WA",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Mission-Systems-Computing-Hardware-Engineer--Mid-Level--Lead-or-Senior-_JR2026506066-1",
-    "job_posted_at_datetime_utc": "2026-05-06T08:17:05.146Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c0c75ec14c84e96c34a80fed3c6590c458d17707990ba80ae474b5ec69d68815",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T08:17:05.146Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026509093",
-    "job_title": "Facilities Controls Engineer (Experienced or Senior)",
-    "employer_name": "Boeing",
-    "job_city": "Hazelwood",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Hazelwood, MO",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Facilities-Controls-Engineer--Experienced-or-Senior-_JR2026509093-1",
-    "job_posted_at_datetime_utc": "2026-05-06T08:17:05.146Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2f3255128985480b8978e69f164aa28f3eda0e1a731629af5c09e13d09f5cfe4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T08:17:05.146Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026505045",
-    "job_title": "Structural Facilities Engineer (Experienced or Senior)",
-    "employer_name": "Boeing",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Huntsville, AL",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Structural-Facilities-Engineer--Experienced-or-Senior-_JR2026505045-1",
-    "job_posted_at_datetime_utc": "2026-05-06T08:17:05.146Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8690c2f55a7f842e1ad714cc1cd1b24dfa6b8071344234fd28f062c69916712",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T08:17:05.146Z"
-  },
-  {
     "job_id": "workday-arrow-electronics-R244275",
     "job_title": "Embedded Engineer-UEFI (eInfochips)",
     "employer_name": "Arrow Electronics",
@@ -10552,49 +10432,6 @@
     "job_posted_at": "2026-05-04T21:09:23.000Z"
   },
   {
-    "job_id": "workday-asml-J-00337889",
-    "job_title": "NXE First line support production engineer TM FASY/MAQ CWWN2",
-    "employer_name": "ASML",
-    "job_city": "Wilton",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Wilton, CT, USA",
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/NXE-First-line-support-production-engineer-TM-FASY-MAQ-CWWN2_J-00337889",
-    "job_posted_at_datetime_utc": "2026-05-04T20:47:37.929Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5a8398c6475b030909e0e8b16e5ab28f80c18d60529a6285dcada8139da61414",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "mechatronics",
-        "process improvement",
-        "spc",
-        "statistical process control"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-04T20:47:37.929Z"
-  },
-  {
     "job_id": "apple-200620776",
     "job_title": "Product Design Engineer - Softgoods",
     "employer_name": "Apple",
@@ -12812,50 +12649,6 @@
     "job_posted_at": "2026-05-04T14:02:00.000Z"
   },
   {
-    "job_id": "workday-asml-J-00340880",
-    "job_title": "Upgrade Install and Relocation Engineer – EUV",
-    "employer_name": "ASML",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin, TX, USA",
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Upgrade-Install-and-Relocation-Engineer---EUV_J-00340880-1",
-    "job_posted_at_datetime_utc": "2026-05-04T13:47:24.565Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2820965434ad60a6f611acec764b1b1217c4a6ffc698868c63e41318f0745224",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "mechatronics",
-        "reporting",
-        "semiconductors",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-04T13:47:24.565Z"
-  },
-  {
     "job_id": "greenhouse-motional-7721475003",
     "job_title": "Senior Engineer Team Lead",
     "employer_name": "Motional",
@@ -13160,19 +12953,19 @@
     "job_posted_at": "2026-05-04T10:49:10.736Z"
   },
   {
-    "job_id": "workday-boeing-JR2026508920",
-    "job_title": "Mechanical Subsystem and Payload Integration Design Engineer, Experienced or Senior Level",
-    "employer_name": "Boeing",
-    "job_city": "Kennedy Space Center",
-    "job_state": "FL",
+    "job_id": "workday-asml-J-00337889",
+    "job_title": "NXE First line support production engineer TM FASY/MAQ CWWN2",
+    "employer_name": "ASML",
+    "job_city": "Wilton",
+    "job_state": "CT",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Kennedy Space Center, FL + 1 more",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kennedy-Space-Center-FL/Mechanical-Subsystem-and-Payload-Integration-Design-Engineer--Experienced-or-Senior-Level_JR2026508920-1",
-    "job_posted_at_datetime_utc": "2026-05-04T08:17:05.147Z",
+    "job_location": "Wilton, CT, USA",
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/NXE-First-line-support-production-engineer-TM-FASY-MAQ-CWWN2_J-00337889",
+    "job_posted_at_datetime_utc": "2026-05-04T08:31:53.889Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "85de34647fab711c6009ab08867468e08f6b5d19a9ef163bdd8b2393ecb50654",
+    "fingerprint": "5a8398c6475b030909e0e8b16e5ab28f80c18d60529a6285dcada8139da61414",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -13187,22 +12980,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-04T08:17:05.147Z"
+    "enrichment": {
+      "required_skills": [
+        "mechatronics",
+        "process improvement",
+        "spc",
+        "statistical process control"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-04T08:31:53.889Z"
   },
   {
-    "job_id": "workday-boeing-JR2026499066",
-    "job_title": "Experienced or Senior Level Software Certification Engineer (Systems) – Commercial Modification",
-    "employer_name": "Boeing",
-    "job_city": "Long Beach",
-    "job_state": "CA",
+    "job_id": "workday-asml-J-00340880",
+    "job_title": "Upgrade Install and Relocation Engineer – EUV",
+    "employer_name": "ASML",
+    "job_city": "Austin",
+    "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "USA - Long Beach, CA",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Experienced-or-Senior-Level-Software-Certification-Engineer--Systems----Commercial-Modification_JR2026499066-1",
-    "job_posted_at_datetime_utc": "2026-05-04T08:17:05.147Z",
+    "job_location": "Austin, TX, USA",
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Upgrade-Install-and-Relocation-Engineer---EUV_J-00340880-1",
+    "job_posted_at_datetime_utc": "2026-05-04T08:31:53.889Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "edb9893e6839ec57ffe71f6d3bd37fd6443f921cef0810477dc5485fd9a6d554",
+    "fingerprint": "2820965434ad60a6f611acec764b1b1217c4a6ffc698868c63e41318f0745224",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -13217,68 +13023,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-04T08:17:05.147Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026496601",
-    "job_title": "Environmental Control Systems (ECS) Design and Analysis Engineer (Experienced, Senior or Principal)",
-    "employer_name": "Boeing",
-    "job_city": "Seal Beach",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Seal Beach, CA",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Environmental-Control-Systems--ECS--Design-and-Analysis-Engineer--Experienced--Senior-or-Principal-_JR2026496601-1",
-    "job_posted_at_datetime_utc": "2026-05-04T08:17:05.147Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "85a98a069ca33504080f996b8f5f477a293d44e74c40815e08f21e306e193891",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "mechatronics",
+        "reporting",
+        "semiconductors",
+        "windows"
       ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
     },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T08:17:05.147Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026508891",
-    "job_title": "Electromagnetic Effects Research Engineer (Mid-Level, Senior)",
-    "employer_name": "Boeing",
-    "job_city": "Tukwila",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Tukwila, WA",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Electromagnetic-Effects-Research-Engineer--Mid-Level--Senior-_JR2026508891-1",
-    "job_posted_at_datetime_utc": "2026-05-04T08:17:05.147Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3902de37ff81fc35e70e3c38adc84e2fed3a27a227879293658bc90a5f1ca2c6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T08:17:05.147Z"
+    "job_posted_at": "2026-05-04T08:31:53.889Z"
   },
   {
     "job_id": "workday-target-R0000437391",
@@ -13452,51 +13211,6 @@
     "job_posted_at": "2026-05-04T07:32:15.367Z"
   },
   {
-    "job_id": "workday-philips-580033",
-    "job_title": "Process Quality Engineer (Onsite in Latham, New York)",
-    "employer_name": "Philips",
-    "job_city": "Latham",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Latham, New York, United States",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Process-Quality-Engineer--Onsite-in-Latham--New-York-_580033-1",
-    "job_posted_at_datetime_utc": "2026-05-04T07:17:53.778Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7de90389bc0064fea0478769f5414a041803e851d4e0d863dd29e7a742d45db3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "change management",
-        "iso 13485",
-        "lean six sigma",
-        "mes",
-        "pfmea",
-        "six sigma"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-04T07:17:53.778Z"
-  },
-  {
     "job_id": "workday-philips-577017",
     "job_title": "Mechanical Design Engineer (Latham, NY)",
     "employer_name": "Philips",
@@ -13566,6 +13280,51 @@
       "required_skills": [
         "geometric dimensioning",
         "project management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-04T07:17:53.778Z"
+  },
+  {
+    "job_id": "workday-philips-580033",
+    "job_title": "Process Quality Engineer (Onsite in Latham, New York)",
+    "employer_name": "Philips",
+    "job_city": "Latham",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Latham, New York, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Process-Quality-Engineer--Onsite-in-Latham--New-York-_580033-1",
+    "job_posted_at_datetime_utc": "2026-05-04T07:17:53.778Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7de90389bc0064fea0478769f5414a041803e851d4e0d863dd29e7a742d45db3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "change management",
+        "iso 13485",
+        "lean six sigma",
+        "mes",
+        "pfmea",
+        "six sigma"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -13653,6 +13412,44 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-04T07:17:02.186Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2616186",
+    "job_title": "Engineer, Electrical or Mechanical",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Clara,CA",
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Engineer--Electrical-or-Mechanical_R2616186-1",
+    "job_posted_at_datetime_utc": "2026-05-04T07:17:01.485Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bd0187d5bb1deecd7f8d2e73ad170b73a19380f35b8fec165f368ead2754be2a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-04T07:17:01.485Z"
   },
   {
     "job_id": "workday-applied-materials-R2618872",
@@ -13810,44 +13607,6 @@
         "data analysis",
         "ray"
       ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-04T07:17:01.485Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2616186",
-    "job_title": "Engineer, Electrical or Mechanical",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Santa Clara,CA",
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Engineer--Electrical-or-Mechanical_R2616186-1",
-    "job_posted_at_datetime_utc": "2026-05-04T07:17:01.485Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bd0187d5bb1deecd7f8d2e73ad170b73a19380f35b8fec165f368ead2754be2a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
@@ -16423,6 +16182,50 @@
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
   {
+    "job_id": "workday-broadcom-R024894",
+    "job_title": "R&D Engineer IC Design",
+    "employer_name": "Broadcom",
+    "job_city": "CA San Jose Innovation Drive",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA-CA San Jose Innovation Drive",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-IC-Design_R024894",
+    "job_posted_at_datetime_utc": "2026-05-04T07:02:15.487Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "77ff56b5e1a10d713d344ea62ddeacbb1c92ea41b253931ba0c0fdf3535d2017",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "networking",
+        "switching",
+        "systemverilog",
+        "verilog"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-04T07:02:15.487Z"
+  },
+  {
     "job_id": "workday-broadcom-R024221",
     "job_title": "R&D Engineer IC Design",
     "employer_name": "Broadcom",
@@ -16458,50 +16261,6 @@
         "routing",
         "switching",
         "synopsys"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-04T07:02:15.487Z"
-  },
-  {
-    "job_id": "workday-broadcom-R024894",
-    "job_title": "R&D Engineer IC Design",
-    "employer_name": "Broadcom",
-    "job_city": "CA San Jose Innovation Drive",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA-CA San Jose Innovation Drive",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-IC-Design_R024894",
-    "job_posted_at_datetime_utc": "2026-05-04T07:02:15.487Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "77ff56b5e1a10d713d344ea62ddeacbb1c92ea41b253931ba0c0fdf3535d2017",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "networking",
-        "switching",
-        "systemverilog",
-        "verilog"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -18233,49 +17992,6 @@
     "job_posted_at": "2026-05-02T13:31:00.058Z"
   },
   {
-    "job_id": "greenhouse-spacex-8522688002",
-    "job_title": "Product Development Engineer (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Bastrop",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bastrop, TX",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8522688002?gh_jid=8522688002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7f96bee7e63c67488ca8c2cefcdbe74a88343c05ac937561e195bde657d43bc5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "program management",
-        "project management",
-        "risk management"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:00.055Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8511177002",
     "job_title": "Propulsion Engineer, Combustion Devices Manufacturing (Raptor)",
     "employer_name": "SpaceX",
@@ -18400,6 +18116,49 @@
         "spark",
         "sql",
         "statistics"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:00.055Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8522688002",
+    "job_title": "Product Development Engineer (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8522688002?gh_jid=8522688002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7f96bee7e63c67488ca8c2cefcdbe74a88343c05ac937561e195bde657d43bc5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "program management",
+        "project management",
+        "risk management"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
@@ -22569,66 +22328,6 @@
     "job_posted_at": "2026-05-01T11:06:00.000Z"
   },
   {
-    "job_id": "workday-boeing-JR2026506477",
-    "job_title": "Mid-Level or Senior Aerospace Systems Safety Engineer (Systems Safety & Mission Assurance)",
-    "employer_name": "Boeing",
-    "job_city": "Hazelwood",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Hazelwood, MO",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Mid-Level-or-Senior-Aerospace-Systems-Safety-Engineer--Systems-Safety---Mission-Assurance-_JR2026506477-1",
-    "job_posted_at_datetime_utc": "2026-05-01T08:17:05.148Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a1ff0f245d7f8478dc43e86a0628b361a6c113fe67c8bea7e77215e4904ad789",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T08:17:05.148Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026499075",
-    "job_title": "Experienced or Senior Airworthiness & Regulatory Engineer",
-    "employer_name": "Boeing",
-    "job_city": "Everett",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Everett, WA",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Experienced-or-Senior-Airworthiness---Regulatory-Engineer_JR2026499075-2",
-    "job_posted_at_datetime_utc": "2026-05-01T08:17:05.148Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "606182b0d6980c3524847220abc22652fce1624d410d7830cc460f41974a3193",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-01T08:17:05.148Z"
-  },
-  {
     "job_id": "workday-trimble-R55532",
     "job_title": "Systems & Firmware Validation Engineer",
     "employer_name": "Trimble",
@@ -23951,6 +23650,44 @@
     "job_posted_at": "2026-05-01T07:03:05.416Z"
   },
   {
+    "job_id": "workday-medtronic-R65793",
+    "job_title": "Affera Mapping Specialist - CAS,  Florida",
+    "employer_name": "Medtronic",
+    "job_city": "Miami",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Miami, Florida, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Miami-Florida-United-States-of-America/Affera-Mapping-Specialist---CAS---Florida_R65793-1",
+    "job_posted_at_datetime_utc": "2026-05-01T07:02:59.266Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fcef177bcf8d4b48f47e7d6b49d856f74d4c2b023533bf67308904346fc8ccdc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-01T07:02:59.266Z"
+  },
+  {
     "job_id": "workday-medtronic-R59654",
     "job_title": "Cardiac Rhythm Management Technical Field Engineer - Houston, TX",
     "employer_name": "Medtronic",
@@ -24224,44 +23961,6 @@
     "job_posted_at": "2026-05-01T07:02:59.266Z"
   },
   {
-    "job_id": "workday-medtronic-R65793",
-    "job_title": "Affera Mapping Specialist - CAS,  Florida",
-    "employer_name": "Medtronic",
-    "job_city": "Miami",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Miami, Florida, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Miami-Florida-United-States-of-America/Affera-Mapping-Specialist---CAS---Florida_R65793-1",
-    "job_posted_at_datetime_utc": "2026-05-01T07:02:59.266Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fcef177bcf8d4b48f47e7d6b49d856f74d4c2b023533bf67308904346fc8ccdc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T07:02:59.266Z"
-  },
-  {
     "job_id": "workday-curtiss-wright-JR10871",
     "job_title": "Quality Specialist- 2nd Shift 2:00 p.m. to 10:30 p.m. - Defense Electronics",
     "employer_name": "Curtiss-Wright",
@@ -24451,86 +24150,6 @@
     "job_posted_at": "2026-05-01T07:02:39.255Z"
   },
   {
-    "job_id": "workday-johnson-controls-WD30268475",
-    "job_title": "HVAC Controls Systems FLY Team",
-    "employer_name": "Johnson Controls",
-    "job_city": "Indiana-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Indianapolis-Indiana-United States of America",
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Indianapolis-Indiana-United-States-of-America/HVAC-Controls-Systems-FLY-Team_WD30268475",
-    "job_posted_at_datetime_utc": "2026-05-01T07:02:37.479Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "66dfeedde4bd51875eb39fa7a8d238b6368a7601cc43687009efd31da0e470c8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "plc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T07:02:37.479Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30268473",
-    "job_title": "HVAC Controls Systems FLY Team",
-    "employer_name": "Johnson Controls",
-    "job_city": "Texas-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Houston-Texas-United States of America",
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Houston-Texas-United-States-of-America/HVAC-Controls-Systems-FLY-Team_WD30268473",
-    "job_posted_at_datetime_utc": "2026-05-01T07:02:37.479Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a0e795dda0d63f09d72be9f05c0e7213fb90a004fcd6d2e76f7153610cef23aa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "plc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T07:02:37.479Z"
-  },
-  {
     "job_id": "workday-johnson-controls-WD30268514",
     "job_title": "HVAC Controls Systems FLY Team",
     "employer_name": "Johnson Controls",
@@ -24715,6 +24334,86 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "plc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-01T07:02:37.479Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30268475",
+    "job_title": "HVAC Controls Systems FLY Team",
+    "employer_name": "Johnson Controls",
+    "job_city": "Indiana-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Indianapolis-Indiana-United States of America",
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Indianapolis-Indiana-United-States-of-America/HVAC-Controls-Systems-FLY-Team_WD30268475",
+    "job_posted_at_datetime_utc": "2026-05-01T07:02:37.479Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "66dfeedde4bd51875eb39fa7a8d238b6368a7601cc43687009efd31da0e470c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "plc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-01T07:02:37.479Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30268473",
+    "job_title": "HVAC Controls Systems FLY Team",
+    "employer_name": "Johnson Controls",
+    "job_city": "Texas-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Houston-Texas-United States of America",
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Houston-Texas-United-States-of-America/HVAC-Controls-Systems-FLY-Team_WD30268473",
+    "job_posted_at_datetime_utc": "2026-05-01T07:02:37.479Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a0e795dda0d63f09d72be9f05c0e7213fb90a004fcd6d2e76f7153610cef23aa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": [],
       "tag_engine_version": 3
     },
@@ -32847,67 +32546,6 @@
     "job_posted_at": "2026-04-30T09:06:39.071Z"
   },
   {
-    "job_id": "workday-boeing-JR2026494975",
-    "job_title": "Ground Systems Integration Engineer (Experienced or Senior Level)",
-    "employer_name": "Boeing",
-    "job_city": "Berkeley",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Berkeley, MO",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Ground-Systems-Integration-Engineer--Experienced-or-Senior-Level-_JR2026494975-1",
-    "job_posted_at_datetime_utc": "2026-04-30T08:17:05.149Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "526dd096c0dab51a19424d6655613652bd61cc7d649c399fcd007e1df8ddcde0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T08:17:05.149Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026500798",
-    "job_title": "Mechanical Systems Design & Analysis Engineer (Experienced or Senior)",
-    "employer_name": "Boeing",
-    "job_city": "North Charleston",
-    "job_state": "SC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - North Charleston, SC",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Mechanical-Systems-Design---Analysis-Engineer--Experienced-or-Senior-_JR2026500798-1",
-    "job_posted_at_datetime_utc": "2026-04-30T08:17:05.148Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d005161eb86bc363b8485691be3fabf3632877b89ce3159f22a566cab9538899",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T08:17:05.148Z"
-  },
-  {
     "job_id": "greenhouse-redwoodmaterials-5894704004",
     "job_title": "Abuse Test Engineer, Energy Storage",
     "employer_name": "Redwood Materials",
@@ -36382,6 +36020,87 @@
     "job_posted_at": "2026-04-30T07:02:59.064Z"
   },
   {
+    "job_id": "workday-carrier-global-30204998",
+    "job_title": "Building Automation Field Supervisor",
+    "employer_name": "Carrier Global",
+    "job_city": "Brown Deer, 1501 Paramount Drive, Waukesha, WI, 53186 USA",
+    "job_state": "WI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "CAW11: ALC-Brown Deer, 1501 Paramount Drive, Waukesha, WI, 53186 USA",
+    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAW11-ALC-Brown-Deer-1501-Paramount-Drive-Waukesha-WI-53186-USA/Building-Automation-Field-Supervisor_30204998-2",
+    "job_posted_at_datetime_utc": "2026-04-30T07:02:59.063Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f0970f16c0a2af84cc1daa156ac5430daaac368c819f78e267718d8b37b642c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "project management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:02:59.063Z"
+  },
+  {
+    "job_id": "workday-carrier-global-30204650",
+    "job_title": "Associate Field Engineer - Automated Logic (Waco, TX)",
+    "employer_name": "Carrier Global",
+    "job_city": "Dallas, 1901 N. Glenville Drive, Richardson, TX, 75081 USA",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "CAT16: CCS-Dallas, 1901 N. Glenville Drive, Richardson, TX, 75081 USA",
+    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAT16-CCS-Dallas-1901-N-Glenville-Drive-Richardson-TX-75081-USA/Associate-Field-Engineer-Automated-Logic_30204650",
+    "job_posted_at_datetime_utc": "2026-04-30T07:02:59.063Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d6e922080ba2f7ebb71b340bc05d59c3193c0dfb25438cd4b05615651de334ac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "networking",
+        "tcp/ip"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:02:59.063Z"
+  },
+  {
     "job_id": "workday-carrier-global-30203491",
     "job_title": "Operations Manager - Automated Logic(Waco, TX)",
     "employer_name": "Carrier Global",
@@ -36436,87 +36155,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0687185e3cefe623e4ff91034c71a3abbc8a42cbb6728f7b9f16d429a3cd323a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "networking",
-        "tcp/ip"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:02:59.063Z"
-  },
-  {
-    "job_id": "workday-carrier-global-30204998",
-    "job_title": "Building Automation Field Supervisor",
-    "employer_name": "Carrier Global",
-    "job_city": "Brown Deer, 1501 Paramount Drive, Waukesha, WI, 53186 USA",
-    "job_state": "WI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "CAW11: ALC-Brown Deer, 1501 Paramount Drive, Waukesha, WI, 53186 USA",
-    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAW11-ALC-Brown-Deer-1501-Paramount-Drive-Waukesha-WI-53186-USA/Building-Automation-Field-Supervisor_30204998-2",
-    "job_posted_at_datetime_utc": "2026-04-30T07:02:59.063Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f0970f16c0a2af84cc1daa156ac5430daaac368c819f78e267718d8b37b642c8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "project management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:02:59.063Z"
-  },
-  {
-    "job_id": "workday-carrier-global-30204650",
-    "job_title": "Associate Field Engineer - Automated Logic (Waco, TX)",
-    "employer_name": "Carrier Global",
-    "job_city": "Dallas, 1901 N. Glenville Drive, Richardson, TX, 75081 USA",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "CAT16: CCS-Dallas, 1901 N. Glenville Drive, Richardson, TX, 75081 USA",
-    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAT16-CCS-Dallas-1901-N-Glenville-Drive-Richardson-TX-75081-USA/Associate-Field-Engineer-Automated-Logic_30204650",
-    "job_posted_at_datetime_utc": "2026-04-30T07:02:59.063Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d6e922080ba2f7ebb71b340bc05d59c3193c0dfb25438cd4b05615651de334ac",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -41235,36 +40873,6 @@
     "job_posted_at": "2026-04-30T03:45:26.891Z"
   },
   {
-    "job_id": "simplify-affa385b-6046-497d-90a0-f489e33e318e",
-    "job_title": "Graduate Design Verification Engineer - Video Silicon IP",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7551554573577750802/detail",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e356b15600a367758fd86e84b008607eac0d48dedfeceebe597b0da44ef59ce5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
     "job_id": "simplify-acf957e2-2c86-4d2a-aa7f-70355baafefb",
     "job_title": "Engineering Technician - Engineering Technician - 03428 WRD RFFE - NE",
     "employer_name": "Qualcomm",
@@ -41283,6 +40891,36 @@
       "domains": [
         "hardware",
         "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-affa385b-6046-497d-90a0-f489e33e318e",
+    "job_title": "Graduate Design Verification Engineer - Video Silicon IP",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7551554573577750802/detail",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e356b15600a367758fd86e84b008607eac0d48dedfeceebe597b0da44ef59ce5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
       ],
       "locations": [
         "us"
