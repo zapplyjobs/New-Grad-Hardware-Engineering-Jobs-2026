@@ -1,5 +1,37 @@
 [
   {
+    "job_id": "sr-SmithsGroup2-744000124929759",
+    "job_title": "Customer Reliability Engineer or Technical Specialist",
+    "employer_name": "Smiths Group",
+    "job_city": "Tyler",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Tyler, TX",
+    "job_apply_link": "https://jobs.smartrecruiters.com/SmithsGroup2/744000124929759",
+    "job_posted_at_datetime_utc": "2026-05-06T15:01:02.574Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "55e2b6e9500713b2f95d953c7601dd77d8fc03a40826abf8eb1fc42847e950f4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "sales",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-05-06T15:01:02.574Z"
+  },
+  {
     "job_id": "google-98776179665707718",
     "job_title": "Hardware Validation Engineer, Networking and Signal Integrity, Platforms",
     "employer_name": "Google",
@@ -472,6 +504,44 @@
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
+    "job_id": "simplify-5e20afd1-9124-42ba-a6dc-0b14490579ef",
+    "job_title": "Entry Level Electrical RF Engineer",
+    "employer_name": "Amentum",
+    "job_city": "Dahlgren",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dahlgren, VA",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Electrica-RF-Engineer_R0150759",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "48eab5f3af6dfdb1ee56a33785f8a7386fde00164834ce034b8fe96587bc6c56",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
     "job_id": "simplify-1064dbd3-b67e-47fc-8613-6b693569d9ba",
     "job_title": "Associate – Test Methods Engineer - Camden - NJ",
     "employer_name": "L3Harris Technologies",
@@ -528,44 +598,6 @@
       "domains": [
         "hardware",
         "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-5e20afd1-9124-42ba-a6dc-0b14490579ef",
-    "job_title": "Entry Level Electrical RF Engineer",
-    "employer_name": "Amentum",
-    "job_city": "Dahlgren",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dahlgren, VA",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Electrica-RF-Engineer_R0150759",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "48eab5f3af6dfdb1ee56a33785f8a7386fde00164834ce034b8fe96587bc6c56",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us"
@@ -5031,7 +5063,7 @@
     "job_location": "Santa Clara, California, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556628561",
     "job_posted_at_datetime_utc": "2026-05-05T18:46:34.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3cfbaab5e99a26096f4e7fda0010865c48dd1a153f613bc3bf81273c1767558a",
     "tags": {
@@ -5042,7 +5074,7 @@
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -11539,95 +11571,6 @@
     "job_posted_at": "2026-05-04T18:10:47.879Z"
   },
   {
-    "job_id": "google-96386562941428422",
-    "job_title": "Network Test Engineer",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/96386562941428422",
-    "job_posted_at_datetime_utc": "2026-05-04T17:43:31.262Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cf46b7314db81adae7f7b7be7ffec711f7bb4c7b6ec24d5e936f67d0b5a7e87a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "end-to-end testing",
-        "networking",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-04T17:43:31.262Z"
-  },
-  {
-    "job_id": "google-74009302292931270",
-    "job_title": "Network Test Engineer",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74009302292931270",
-    "job_posted_at_datetime_utc": "2026-05-04T17:43:31.262Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cf46b7314db81adae7f7b7be7ffec711f7bb4c7b6ec24d5e936f67d0b5a7e87a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [
-        "end-to-end testing",
-        "networking",
-        "regression"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-04T17:43:31.262Z"
-  },
-  {
     "job_id": "google-136511590529671878",
     "job_title": "Silicon Product Engineer",
     "employer_name": "Google",
@@ -11741,6 +11684,95 @@
     "_original_source": "google",
     "enrichment": {
       "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-04T17:43:31.262Z"
+  },
+  {
+    "job_id": "google-96386562941428422",
+    "job_title": "Network Test Engineer",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/96386562941428422",
+    "job_posted_at_datetime_utc": "2026-05-04T17:43:31.262Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cf46b7314db81adae7f7b7be7ffec711f7bb4c7b6ec24d5e936f67d0b5a7e87a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "end-to-end testing",
+        "networking",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-04T17:43:31.262Z"
+  },
+  {
+    "job_id": "google-74009302292931270",
+    "job_title": "Network Test Engineer",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74009302292931270",
+    "job_posted_at_datetime_utc": "2026-05-04T17:43:31.262Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cf46b7314db81adae7f7b7be7ffec711f7bb4c7b6ec24d5e936f67d0b5a7e87a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "end-to-end testing",
+        "networking",
+        "regression"
+      ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
@@ -12650,7 +12682,7 @@
     "job_location": "Chicago, Illinois, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556623149",
     "job_posted_at_datetime_utc": "2026-05-04T13:20:39.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "baf8dfe6ba09dfedbd16a8ccc23b1d88445b557a957bd9f76676d25ceee34911",
     "tags": {
@@ -16979,19 +17011,19 @@
     "job_posted_at": "2026-05-04T00:09:03.021Z"
   },
   {
-    "job_id": "amazon-632c364b-e9ee-4358-8f9a-55255e1ffe63",
-    "job_title": "Robotics Systems Engineer , Tech Deployment",
+    "job_id": "amazon-38b0cbb2-b1a7-4113-911e-a39792748ab9",
+    "job_title": "Robotics Systems Engineer, Tech Deployment",
     "employer_name": "Amazon.com Services LLC",
     "job_city": "Austin",
     "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Austin, TX",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410371/robotics-systems-engineer-tech-deployment",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410369/robotics-systems-engineer-tech-deployment",
     "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "dac5cfaad2f6c1849804eeefb31dda47b9f0f2f27a5c1a83a46dfedd30f6fc76",
+    "fingerprint": "a086d7dff93fd627ce499ff4d1213b3125a82f6a3d53531dab049721803f35ce",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -17024,19 +17056,19 @@
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-38b0cbb2-b1a7-4113-911e-a39792748ab9",
-    "job_title": "Robotics Systems Engineer, Tech Deployment",
+    "job_id": "amazon-632c364b-e9ee-4358-8f9a-55255e1ffe63",
+    "job_title": "Robotics Systems Engineer , Tech Deployment",
     "employer_name": "Amazon.com Services LLC",
     "job_city": "Austin",
     "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Austin, TX",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410369/robotics-systems-engineer-tech-deployment",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410371/robotics-systems-engineer-tech-deployment",
     "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a086d7dff93fd627ce499ff4d1213b3125a82f6a3d53531dab049721803f35ce",
+    "fingerprint": "dac5cfaad2f6c1849804eeefb31dda47b9f0f2f27a5c1a83a46dfedd30f6fc76",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -17305,6 +17337,47 @@
     "job_posted_at": "2026-05-03T20:51:58.000Z"
   },
   {
+    "job_id": "apple-200606146",
+    "job_title": "Product Design, Mechanical Engineering and Materials Internships",
+    "employer_name": "Apple",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200606146/product-design-mechanical-engineering-and-materials-internships",
+    "job_posted_at_datetime_utc": "2026-05-03T13:38:58.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4f03acfc9edf3e458305116a7351ab9308debdab68f52a88ae924aa19b54d6e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-03T13:38:58.097Z"
+  },
+  {
     "job_id": "apple-200606475",
     "job_title": "Hardware Engineering Internships",
     "employer_name": "Apple",
@@ -17340,47 +17413,6 @@
       "required_skills": [
         "system design"
       ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-03T13:38:58.097Z"
-  },
-  {
-    "job_id": "apple-200606146",
-    "job_title": "Product Design, Mechanical Engineering and Materials Internships",
-    "employer_name": "Apple",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200606146/product-design-mechanical-engineering-and-materials-internships",
-    "job_posted_at_datetime_utc": "2026-05-03T13:38:58.097Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4f03acfc9edf3e458305116a7351ab9308debdab68f52a88ae924aa19b54d6e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
@@ -18729,6 +18761,46 @@
     "job_posted_at": "2026-05-02T13:31:00.055Z"
   },
   {
+    "job_id": "greenhouse-spacex-8511462002",
+    "job_title": "Mechanical Engineer (Starship)",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8511462002?gh_jid=8511462002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1d1e18f27cdaeaedab4cca3f4cc7fa56b9bc908a14b7e6057464405847e6e2f9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "robotics"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:00.054Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8506546002",
     "job_title": "Manufacturing Engineer, PCBA (Starlink)",
     "employer_name": "SpaceX",
@@ -18849,46 +18921,6 @@
         "python",
         "rf",
         "sql"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:00.054Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8511462002",
-    "job_title": "Mechanical Engineer (Starship)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8511462002?gh_jid=8511462002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1d1e18f27cdaeaedab4cca3f4cc7fa56b9bc908a14b7e6057464405847e6e2f9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "robotics"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
@@ -21645,7 +21677,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556862358",
     "job_posted_at_datetime_utc": "2026-05-01T20:03:04.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "c0a37a088ed1e370e93e868b080d1898eb3c4a63ffb9504a3c8a8e5f29f5a805",
     "tags": {
@@ -21657,7 +21689,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "senior_level",
       "special": [
         "faang"
       ],
@@ -32771,7 +32803,7 @@
     "job_location": "Mount Pleasant, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556857490",
     "job_posted_at_datetime_utc": "2026-04-30T13:49:00.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "0d5b1416607d4dda078548c3dedc61cf80f5c25d7b927956b4aac311b02bdec8",
     "tags": {
@@ -41100,44 +41132,6 @@
     "job_posted_at": "2026-04-30T04:17:05.897Z"
   },
   {
-    "job_id": "greenhouse-olsson-5189556008",
-    "job_title": "Mechanical Revit Designer - Data Centers",
-    "employer_name": "Olsson",
-    "job_city": "Fort Worth",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fort Worth, TX; Kansas City, MO; Lincoln, NE; Omaha, NE; Tulsa, OK",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5189556008",
-    "job_posted_at_datetime_utc": "2026-04-30T04:17:03.548Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "207cf61f2c045d07448376133bc371f69ed031d6360e05de5e3f8d2c5707510f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T04:17:03.548Z"
-  },
-  {
     "job_id": "greenhouse-olsson-5188306008",
     "job_title": "Electrical Designer - Data Centers",
     "employer_name": "Olsson",
@@ -41210,6 +41204,44 @@
       "required_skills": [
         "autocad"
       ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T04:17:03.548Z"
+  },
+  {
+    "job_id": "greenhouse-olsson-5189556008",
+    "job_title": "Mechanical Revit Designer - Data Centers",
+    "employer_name": "Olsson",
+    "job_city": "Fort Worth",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fort Worth, TX; Kansas City, MO; Lincoln, NE; Omaha, NE; Tulsa, OK",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5189556008",
+    "job_posted_at_datetime_utc": "2026-04-30T04:17:03.548Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "207cf61f2c045d07448376133bc371f69ed031d6360e05de5e3f8d2c5707510f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "is_simple_apply": false,
@@ -44351,44 +44383,6 @@
     "job_posted_at": "2026-04-29T17:52:12.992Z"
   },
   {
-    "job_id": "greenhouse-olsson-5196947008",
-    "job_title": "Project Mechanical Engineer - Healthcare Buildings",
-    "employer_name": "Olsson",
-    "job_city": "Omaha",
-    "job_state": "NE",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Omaha, NE",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5196947008",
-    "job_posted_at_datetime_utc": "2026-04-29T17:51:00.432Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dadb910f085fac11f35767fab2487bb814b94c4ba33e820d561de8d83e0fa2d2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T17:51:00.432Z"
-  },
-  {
     "job_id": "greenhouse-olsson-5196941008",
     "job_title": "Project Mechanical Engineer",
     "employer_name": "Olsson",
@@ -44420,6 +44414,44 @@
       "required_skills": [
         "autocad"
       ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-29T17:51:00.432Z"
+  },
+  {
+    "job_id": "greenhouse-olsson-5196947008",
+    "job_title": "Project Mechanical Engineer - Healthcare Buildings",
+    "employer_name": "Olsson",
+    "job_city": "Omaha",
+    "job_state": "NE",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Omaha, NE",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5196947008",
+    "job_posted_at_datetime_utc": "2026-04-29T17:51:00.432Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dadb910f085fac11f35767fab2487bb814b94c4ba33e820d561de8d83e0fa2d2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "is_simple_apply": false,
