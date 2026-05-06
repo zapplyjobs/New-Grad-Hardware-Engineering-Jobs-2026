@@ -1,5 +1,37 @@
 [
   {
+    "job_id": "google-98776179665707718",
+    "job_title": "Hardware Validation Engineer, Networking and Signal Integrity, Platforms",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/98776179665707718",
+    "job_posted_at_datetime_utc": "2026-05-06T14:32:11.106Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9507abf503cf4ee78cba297ed953dbc9621db6a3e543365debcac0069dc50eb4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "job_posted_at": "2026-05-06T14:32:11.106Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8533943002",
     "job_title": "Supplier Development Engineer, Mechanical Metrology (Starlink)",
     "employer_name": "SpaceX",
@@ -12607,7 +12639,7 @@
     "job_location": "Chicago, Illinois, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556623149",
     "job_posted_at_datetime_utc": "2026-05-04T13:20:39.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "baf8dfe6ba09dfedbd16a8ccc23b1d88445b557a957bd9f76676d25ceee34911",
     "tags": {
@@ -18509,59 +18541,6 @@
     "job_posted_at": "2026-05-02T13:31:00.058Z"
   },
   {
-    "job_id": "greenhouse-spacex-8406964002",
-    "job_title": "Operations Development Engineer (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8406964002?gh_jid=8406964002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dfe4bffda9b9e8a6f80339a2956e6a72f51e36ed17d7fee0b4421d831379b372",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "dashboards",
-        "data analysis",
-        "data visualization",
-        "grafana",
-        "jupyter",
-        "networking",
-        "postgresql",
-        "prometheus",
-        "python",
-        "reporting",
-        "spark",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:00.055Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8522688002",
     "job_title": "Product Development Engineer (Starlink)",
     "employer_name": "SpaceX",
@@ -18676,6 +18655,59 @@
     "enrichment": {
       "required_skills": [
         "project management"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:00.055Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8406964002",
+    "job_title": "Operations Development Engineer (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8406964002?gh_jid=8406964002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dfe4bffda9b9e8a6f80339a2956e6a72f51e36ed17d7fee0b4421d831379b372",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "dashboards",
+        "data analysis",
+        "data visualization",
+        "grafana",
+        "jupyter",
+        "networking",
+        "postgresql",
+        "prometheus",
+        "python",
+        "reporting",
+        "spark",
+        "sql",
+        "statistics"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
@@ -18943,6 +18975,49 @@
     "job_posted_at": "2026-05-02T13:31:00.053Z"
   },
   {
+    "job_id": "greenhouse-spacex-8506464002",
+    "job_title": "Automation & Controls Specialist (Starlink Production)",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8506464002?gh_jid=8506464002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.052Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4f40504a2e519c085ca1c5a945f96d725d962b23f7c4c9c653b3e7953fe2f8c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "manufacturing",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "hmi",
+        "plc"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:00.052Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8511245002",
     "job_title": "Antenna Engineer (Starshield)",
     "employer_name": "SpaceX",
@@ -18982,49 +19057,6 @@
         "python",
         "radar",
         "rf"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:00.052Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8506464002",
-    "job_title": "Automation & Controls Specialist (Starlink Production)",
-    "employer_name": "SpaceX",
-    "job_city": "Bastrop",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bastrop, TX",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8506464002?gh_jid=8506464002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.052Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4f40504a2e519c085ca1c5a945f96d725d962b23f7c4c9c653b3e7953fe2f8c8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "manufacturing",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "hmi",
-        "plc"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
@@ -19957,53 +19989,6 @@
     "job_posted_at": "2026-05-02T13:30:42.489Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5119126007",
-    "job_title": "Quality Specialist, Intelligence Systems (Secret Clearance)",
-    "employer_name": "Anduril",
-    "job_city": "Santa Ana",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Santa Ana, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5119126007?gh_jid=5119126007",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:42.484Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "84394e7f6c0089be5e526775b96bbd5fcbb3dea8b8a13d3a171b0b0c898dba86",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "arm",
-        "as9100",
-        "cad",
-        "erp",
-        "gd&t",
-        "geometric dimensioning",
-        "mes",
-        "ray"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:42.484Z"
-  },
-  {
     "job_id": "greenhouse-andurilindustries-5120620007",
     "job_title": "Quality Specialist, Intelligence Systems",
     "employer_name": "Anduril",
@@ -20107,6 +20092,53 @@
     "job_is_remote": false,
     "job_location": "Santa Ana, California, United States",
     "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5120533007?gh_jid=5120533007",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:42.484Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "84394e7f6c0089be5e526775b96bbd5fcbb3dea8b8a13d3a171b0b0c898dba86",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "arm",
+        "as9100",
+        "cad",
+        "erp",
+        "gd&t",
+        "geometric dimensioning",
+        "mes",
+        "ray"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:30:42.484Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5119126007",
+    "job_title": "Quality Specialist, Intelligence Systems (Secret Clearance)",
+    "employer_name": "Anduril",
+    "job_city": "Santa Ana",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Ana, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5119126007?gh_jid=5119126007",
     "job_posted_at_datetime_utc": "2026-05-02T13:30:42.484Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -33052,131 +33084,6 @@
     "job_posted_at": "2026-04-30T09:06:39.071Z"
   },
   {
-    "job_id": "greenhouse-redwoodmaterials-5894704004",
-    "job_title": "Abuse Test Engineer, Energy Storage",
-    "employer_name": "Redwood Materials",
-    "job_city": "McCarran",
-    "job_state": "NV",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McCarran, NV",
-    "job_apply_link": "https://boards.greenhouse.io/redwoodmaterials/jobs/5894704004?gh_jid=5894704004",
-    "job_posted_at_datetime_utc": "2026-04-30T07:49:51.826Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d857c8972369387758e4978a7540ecfd3d46a2bbc9bfe022a74e5def7c29f956",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "matlab",
-        "minitab",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:49:51.826Z"
-  },
-  {
-    "job_id": "greenhouse-redwoodmaterials-5820263004",
-    "job_title": "Development Engineering Technician",
-    "employer_name": "Redwood Materials",
-    "job_city": "Carson City",
-    "job_state": "NV",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Carson City, NV",
-    "job_apply_link": "https://boards.greenhouse.io/redwoodmaterials/jobs/5820263004?gh_jid=5820263004",
-    "job_posted_at_datetime_utc": "2026-04-30T07:49:51.826Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "339e648e9aa835be1cf084ba041122639f8737c305130bbf2e3278634c303cdf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:49:51.826Z"
-  },
-  {
-    "job_id": "greenhouse-redwoodmaterials-5838271004",
-    "job_title": "Engineering Technician, Energy Storage",
-    "employer_name": "Redwood Materials",
-    "job_city": "Carson City",
-    "job_state": "NV",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Carson City, NV",
-    "job_apply_link": "https://boards.greenhouse.io/redwoodmaterials/jobs/5838271004?gh_jid=5838271004",
-    "job_posted_at_datetime_utc": "2026-04-30T07:49:51.826Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "013e56f35dfc8341ab91ddd3a5a54bcfa3b32d8fb2b719d02cafe3ced663bca9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "mechatronics",
-        "python",
-        "soldering"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:49:51.826Z"
-  },
-  {
     "job_id": "greenhouse-redwoodmaterials-5835775004",
     "job_title": "Manufacturing Quality Engineer, Energy Storage",
     "employer_name": "Redwood Materials",
@@ -33346,6 +33253,131 @@
         "ray",
         "root cause analysis",
         "statistical analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:49:51.826Z"
+  },
+  {
+    "job_id": "greenhouse-redwoodmaterials-5894704004",
+    "job_title": "Abuse Test Engineer, Energy Storage",
+    "employer_name": "Redwood Materials",
+    "job_city": "McCarran",
+    "job_state": "NV",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McCarran, NV",
+    "job_apply_link": "https://boards.greenhouse.io/redwoodmaterials/jobs/5894704004?gh_jid=5894704004",
+    "job_posted_at_datetime_utc": "2026-04-30T07:49:51.826Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d857c8972369387758e4978a7540ecfd3d46a2bbc9bfe022a74e5def7c29f956",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "matlab",
+        "minitab",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:49:51.826Z"
+  },
+  {
+    "job_id": "greenhouse-redwoodmaterials-5820263004",
+    "job_title": "Development Engineering Technician",
+    "employer_name": "Redwood Materials",
+    "job_city": "Carson City",
+    "job_state": "NV",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Carson City, NV",
+    "job_apply_link": "https://boards.greenhouse.io/redwoodmaterials/jobs/5820263004?gh_jid=5820263004",
+    "job_posted_at_datetime_utc": "2026-04-30T07:49:51.826Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "339e648e9aa835be1cf084ba041122639f8737c305130bbf2e3278634c303cdf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:49:51.826Z"
+  },
+  {
+    "job_id": "greenhouse-redwoodmaterials-5838271004",
+    "job_title": "Engineering Technician, Energy Storage",
+    "employer_name": "Redwood Materials",
+    "job_city": "Carson City",
+    "job_state": "NV",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Carson City, NV",
+    "job_apply_link": "https://boards.greenhouse.io/redwoodmaterials/jobs/5838271004?gh_jid=5838271004",
+    "job_posted_at_datetime_utc": "2026-04-30T07:49:51.826Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "013e56f35dfc8341ab91ddd3a5a54bcfa3b32d8fb2b719d02cafe3ced663bca9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "mechatronics",
+        "python",
+        "soldering"
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
@@ -41057,44 +41089,6 @@
     "job_posted_at": "2026-04-30T04:17:05.897Z"
   },
   {
-    "job_id": "greenhouse-olsson-5189556008",
-    "job_title": "Mechanical Revit Designer - Data Centers",
-    "employer_name": "Olsson",
-    "job_city": "Fort Worth",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fort Worth, TX; Kansas City, MO; Lincoln, NE; Omaha, NE; Tulsa, OK",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5189556008",
-    "job_posted_at_datetime_utc": "2026-04-30T04:17:03.548Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "207cf61f2c045d07448376133bc371f69ed031d6360e05de5e3f8d2c5707510f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T04:17:03.548Z"
-  },
-  {
     "job_id": "greenhouse-olsson-5188306008",
     "job_title": "Electrical Designer - Data Centers",
     "employer_name": "Olsson",
@@ -41167,6 +41161,44 @@
       "required_skills": [
         "autocad"
       ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T04:17:03.548Z"
+  },
+  {
+    "job_id": "greenhouse-olsson-5189556008",
+    "job_title": "Mechanical Revit Designer - Data Centers",
+    "employer_name": "Olsson",
+    "job_city": "Fort Worth",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fort Worth, TX; Kansas City, MO; Lincoln, NE; Omaha, NE; Tulsa, OK",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5189556008",
+    "job_posted_at_datetime_utc": "2026-04-30T04:17:03.548Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "207cf61f2c045d07448376133bc371f69ed031d6360e05de5e3f8d2c5707510f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "is_simple_apply": false,
@@ -41379,36 +41411,6 @@
     "job_posted_at": "2026-04-30T03:45:26.891Z"
   },
   {
-    "job_id": "simplify-affa385b-6046-497d-90a0-f489e33e318e",
-    "job_title": "Graduate Design Verification Engineer - Video Silicon IP",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7551554573577750802/detail",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e356b15600a367758fd86e84b008607eac0d48dedfeceebe597b0da44ef59ce5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
     "job_id": "simplify-acf957e2-2c86-4d2a-aa7f-70355baafefb",
     "job_title": "Engineering Technician - Engineering Technician - 03428 WRD RFFE - NE",
     "employer_name": "Qualcomm",
@@ -41427,6 +41429,36 @@
       "domains": [
         "hardware",
         "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-affa385b-6046-497d-90a0-f489e33e318e",
+    "job_title": "Graduate Design Verification Engineer - Video Silicon IP",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7551554573577750802/detail",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e356b15600a367758fd86e84b008607eac0d48dedfeceebe597b0da44ef59ce5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
       ],
       "locations": [
         "us"
@@ -45019,19 +45051,19 @@
     "job_posted_at": "2026-04-29T16:40:01.698Z"
   },
   {
-    "job_id": "greenhouse-formlabs-7818763",
+    "job_id": "greenhouse-formlabs-7818759",
     "job_title": "Engineering Technician",
     "employer_name": "Formlabs",
-    "job_city": "Boston",
+    "job_city": "Somerville",
     "job_state": "MA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Boston, MA",
-    "job_apply_link": "https://careers.formlabs.com/job/7818763/apply/?gh_jid=7818763",
+    "job_location": "Somerville, MA",
+    "job_apply_link": "https://careers.formlabs.com/job/7818759/apply/?gh_jid=7818759",
     "job_posted_at_datetime_utc": "2026-04-29T16:38:49.243Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "649640fe49107a13ef1b4aae80ee5bbd8c746ae4054e72252f8ccd57753fed99",
+    "fingerprint": "83b32a1190e585b6cfd4fc8920942c67cafc7742df2c393048ffaf8227d32447",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -45060,19 +45092,19 @@
     "job_posted_at": "2026-04-29T16:38:49.243Z"
   },
   {
-    "job_id": "greenhouse-formlabs-7818759",
+    "job_id": "greenhouse-formlabs-7818763",
     "job_title": "Engineering Technician",
     "employer_name": "Formlabs",
-    "job_city": "Somerville",
+    "job_city": "Boston",
     "job_state": "MA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Somerville, MA",
-    "job_apply_link": "https://careers.formlabs.com/job/7818759/apply/?gh_jid=7818759",
+    "job_location": "Boston, MA",
+    "job_apply_link": "https://careers.formlabs.com/job/7818763/apply/?gh_jid=7818763",
     "job_posted_at_datetime_utc": "2026-04-29T16:38:49.243Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "83b32a1190e585b6cfd4fc8920942c67cafc7742df2c393048ffaf8227d32447",
+    "fingerprint": "649640fe49107a13ef1b4aae80ee5bbd8c746ae4054e72252f8ccd57753fed99",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -45565,45 +45597,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-29T14:49:34.976Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8529553002",
-    "job_title": "Civil Engineer, Land Development (Starship Infrastructure)",
-    "employer_name": "SpaceX",
-    "job_city": "Cape Canaveral",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cape Canaveral, FL",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8529553002?gh_jid=8529553002",
-    "job_posted_at_datetime_utc": "2026-04-29T14:32:46.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe3779a3ee1fc72bc34e4efa74a15092a2902b3f602f108d2a6a077e6642fd1d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "project management"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T14:32:46.000Z"
   }
 ]
