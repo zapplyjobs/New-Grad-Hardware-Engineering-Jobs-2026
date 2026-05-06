@@ -28,6 +28,18 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "bash",
+        "linux",
+        "python"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-06T16:31:18.477Z"
   },
   {
@@ -509,6 +521,44 @@
     "job_posted_at": "2026-05-06T11:47:15.586Z"
   },
   {
+    "job_id": "simplify-268d86ce-2c85-4367-be0d-ade61073f4c9",
+    "job_title": "Entry Level Optical Engineer",
+    "employer_name": "Amentum",
+    "job_city": "Bedford",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bedford, IN",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Odon/Entry-Level-Optical-Engineer_R0160011",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c20275184728af070503aa6e4bfa7532bfe0ce5f11a9996afccf1a3f84f9c756",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
     "job_id": "simplify-87ec1fd4-2c88-4310-a038-06095c2fa7e6",
     "job_title": "Engineering Technician A",
     "employer_name": "L3Harris Technologies",
@@ -587,19 +637,19 @@
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
-    "job_id": "simplify-268d86ce-2c85-4367-be0d-ade61073f4c9",
-    "job_title": "Entry Level Optical Engineer",
+    "job_id": "simplify-5e20afd1-9124-42ba-a6dc-0b14490579ef",
+    "job_title": "Entry Level Electrical RF Engineer",
     "employer_name": "Amentum",
-    "job_city": "Bedford",
-    "job_state": "IN",
+    "job_city": "Dahlgren",
+    "job_state": "VA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Bedford, IN",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Odon/Entry-Level-Optical-Engineer_R0160011",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_location": "Dahlgren, VA",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Electrica-RF-Engineer_R0150759",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c20275184728af070503aa6e4bfa7532bfe0ce5f11a9996afccf1a3f84f9c756",
+    "fingerprint": "48eab5f3af6dfdb1ee56a33785f8a7386fde00164834ce034b8fe96587bc6c56",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -622,7 +672,7 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-05-06T11:31:20.571Z"
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
   {
     "job_id": "simplify-1064dbd3-b67e-47fc-8613-6b693569d9ba",
@@ -681,44 +731,6 @@
       "domains": [
         "hardware",
         "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-5e20afd1-9124-42ba-a6dc-0b14490579ef",
-    "job_title": "Entry Level Electrical RF Engineer",
-    "employer_name": "Amentum",
-    "job_city": "Dahlgren",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dahlgren, VA",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Electrica-RF-Engineer_R0150759",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "48eab5f3af6dfdb1ee56a33785f8a7386fde00164834ce034b8fe96587bc6c56",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us"
@@ -9062,7 +9074,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863752",
     "job_posted_at_datetime_utc": "2026-05-05T12:57:48.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "172ba110541125d4b63bc2096452e5f26da937aab5d8376213770ac7a45d77e3",
     "tags": {
@@ -11341,7 +11353,7 @@
     "job_location": "Boydton, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556813763",
     "job_posted_at_datetime_utc": "2026-05-04T19:36:33.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "f59e0212d07938df773e5e17ae4687412a2bc1dcc6511b69baaf28686349641f",
     "tags": {
@@ -11352,7 +11364,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "entry_level",
       "special": [
         "faang"
       ],
@@ -12803,7 +12815,7 @@
     "job_location": "Chicago, Illinois, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556623149",
     "job_posted_at_datetime_utc": "2026-05-04T13:20:39.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "baf8dfe6ba09dfedbd16a8ccc23b1d88445b557a957bd9f76676d25ceee34911",
     "tags": {
@@ -17132,19 +17144,19 @@
     "job_posted_at": "2026-05-04T00:09:03.021Z"
   },
   {
-    "job_id": "amazon-632c364b-e9ee-4358-8f9a-55255e1ffe63",
-    "job_title": "Robotics Systems Engineer , Tech Deployment",
+    "job_id": "amazon-38b0cbb2-b1a7-4113-911e-a39792748ab9",
+    "job_title": "Robotics Systems Engineer, Tech Deployment",
     "employer_name": "Amazon.com Services LLC",
     "job_city": "Austin",
     "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Austin, TX",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410371/robotics-systems-engineer-tech-deployment",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410369/robotics-systems-engineer-tech-deployment",
     "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "dac5cfaad2f6c1849804eeefb31dda47b9f0f2f27a5c1a83a46dfedd30f6fc76",
+    "fingerprint": "a086d7dff93fd627ce499ff4d1213b3125a82f6a3d53531dab049721803f35ce",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -17177,19 +17189,19 @@
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-38b0cbb2-b1a7-4113-911e-a39792748ab9",
-    "job_title": "Robotics Systems Engineer, Tech Deployment",
+    "job_id": "amazon-632c364b-e9ee-4358-8f9a-55255e1ffe63",
+    "job_title": "Robotics Systems Engineer , Tech Deployment",
     "employer_name": "Amazon.com Services LLC",
     "job_city": "Austin",
     "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Austin, TX",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410369/robotics-systems-engineer-tech-deployment",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410371/robotics-systems-engineer-tech-deployment",
     "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a086d7dff93fd627ce499ff4d1213b3125a82f6a3d53531dab049721803f35ce",
+    "fingerprint": "dac5cfaad2f6c1849804eeefb31dda47b9f0f2f27a5c1a83a46dfedd30f6fc76",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -17458,47 +17470,6 @@
     "job_posted_at": "2026-05-03T20:51:58.000Z"
   },
   {
-    "job_id": "apple-200606146",
-    "job_title": "Product Design, Mechanical Engineering and Materials Internships",
-    "employer_name": "Apple",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200606146/product-design-mechanical-engineering-and-materials-internships",
-    "job_posted_at_datetime_utc": "2026-05-03T13:38:58.097Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4f03acfc9edf3e458305116a7351ab9308debdab68f52a88ae924aa19b54d6e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-03T13:38:58.097Z"
-  },
-  {
     "job_id": "apple-200606475",
     "job_title": "Hardware Engineering Internships",
     "employer_name": "Apple",
@@ -17534,6 +17505,47 @@
       "required_skills": [
         "system design"
       ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-03T13:38:58.097Z"
+  },
+  {
+    "job_id": "apple-200606146",
+    "job_title": "Product Design, Mechanical Engineering and Materials Internships",
+    "employer_name": "Apple",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200606146/product-design-mechanical-engineering-and-materials-internships",
+    "job_posted_at_datetime_utc": "2026-05-03T13:38:58.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4f03acfc9edf3e458305116a7351ab9308debdab68f52a88ae924aa19b54d6e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
@@ -18705,6 +18717,59 @@
     "job_posted_at": "2026-05-02T13:31:00.058Z"
   },
   {
+    "job_id": "greenhouse-spacex-8406964002",
+    "job_title": "Operations Development Engineer (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8406964002?gh_jid=8406964002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dfe4bffda9b9e8a6f80339a2956e6a72f51e36ed17d7fee0b4421d831379b372",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "dashboards",
+        "data analysis",
+        "data visualization",
+        "grafana",
+        "jupyter",
+        "networking",
+        "postgresql",
+        "prometheus",
+        "python",
+        "reporting",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:00.055Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8522688002",
     "job_title": "Product Development Engineer (Starlink)",
     "employer_name": "SpaceX",
@@ -18819,59 +18884,6 @@
     "enrichment": {
       "required_skills": [
         "project management"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:00.055Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8406964002",
-    "job_title": "Operations Development Engineer (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8406964002?gh_jid=8406964002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dfe4bffda9b9e8a6f80339a2956e6a72f51e36ed17d7fee0b4421d831379b372",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "dashboards",
-        "data analysis",
-        "data visualization",
-        "grafana",
-        "jupyter",
-        "networking",
-        "postgresql",
-        "prometheus",
-        "python",
-        "reporting",
-        "spark",
-        "sql",
-        "statistics"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
@@ -19052,47 +19064,6 @@
     "job_posted_at": "2026-05-02T13:31:00.054Z"
   },
   {
-    "job_id": "greenhouse-spacex-8523874002",
-    "job_title": "Harnessing Design Engineer, Satellites (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8523874002?gh_jid=8523874002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.053Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "05848bb88d9c90296c9a2c3238a5809508bcd58665500be7c485698ff176dc84",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "nx"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:00.053Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8501065002",
     "job_title": "Device Physics Engineer, Solar Cells (Starlink)",
     "employer_name": "SpaceX",
@@ -19129,6 +19100,47 @@
         "r",
         "spc",
         "sql"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:00.053Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8523874002",
+    "job_title": "Harnessing Design Engineer, Satellites (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8523874002?gh_jid=8523874002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.053Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05848bb88d9c90296c9a2c3238a5809508bcd58665500be7c485698ff176dc84",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "nx"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
@@ -22649,16 +22661,16 @@
     "job_id": "apple-200661076",
     "job_title": "Software Engineer",
     "employer_name": "Apple",
-    "job_city": "Santa Clara",
+    "job_city": "Cupertino",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Santa Clara",
+    "job_location": "Cupertino",
     "job_apply_link": "https://jobs.apple.com/en-us/details/200661076/software-engineer",
     "job_posted_at_datetime_utc": "2026-05-01T16:31:48.800Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "6193fc6488dd96434659446f02bb3a9308ae142d29c249092bdf30453727e2e4",
+    "fingerprint": "75af3ac7f080716b6b5812cdd6843e0f955f496ee0c7d85a12f001662db077ce",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -32924,7 +32936,7 @@
     "job_location": "Mount Pleasant, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556857490",
     "job_posted_at_datetime_utc": "2026-04-30T13:49:00.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "0d5b1416607d4dda078548c3dedc61cf80f5c25d7b927956b4aac311b02bdec8",
     "tags": {
@@ -41439,8 +41451,8 @@
     "enrichment": {
       "required_skills": [],
       "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
       "summary_line": null,
       "is_remote": false
     },
@@ -41571,36 +41583,6 @@
     "job_posted_at": "2026-04-30T03:45:26.891Z"
   },
   {
-    "job_id": "simplify-affa385b-6046-497d-90a0-f489e33e318e",
-    "job_title": "Graduate Design Verification Engineer - Video Silicon IP",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7551554573577750802/detail",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e356b15600a367758fd86e84b008607eac0d48dedfeceebe597b0da44ef59ce5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
     "job_id": "simplify-acf957e2-2c86-4d2a-aa7f-70355baafefb",
     "job_title": "Engineering Technician - Engineering Technician - 03428 WRD RFFE - NE",
     "employer_name": "Qualcomm",
@@ -41619,6 +41601,36 @@
       "domains": [
         "hardware",
         "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-affa385b-6046-497d-90a0-f489e33e318e",
+    "job_title": "Graduate Design Verification Engineer - Video Silicon IP",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7551554573577750802/detail",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e356b15600a367758fd86e84b008607eac0d48dedfeceebe597b0da44ef59ce5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
       ],
       "locations": [
         "us"
@@ -41843,7 +41855,7 @@
     "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Dallas, TX; Fort Worth, TX; Kansas City, MO; North Kansas City, MO; Oklahoma City, OK; Tulsa, OK",
+    "job_location": "Dallas, TX; Fayetteville, AR; Fort Worth, TX; Kansas City, MO; North Kansas City, MO; Oklahoma City, OK; Tulsa, OK",
     "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5205775008",
     "job_posted_at_datetime_utc": "2026-04-30T01:23:08.000Z",
     "job_employment_type": "FULLTIME",
@@ -41881,7 +41893,7 @@
     "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Dallas, TX; Fort Worth, TX; Kansas City, MO; North Kansas City, MO; Oklahoma City, OK; Tulsa, OK",
+    "job_location": "Dallas, TX; Fayetteville, AR; Fort Worth, TX; Kansas City, MO; North Kansas City, MO; Oklahoma City, OK; Tulsa, OK",
     "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5205769008",
     "job_posted_at_datetime_utc": "2026-04-30T01:16:55.000Z",
     "job_employment_type": "FULLTIME",
@@ -42301,59 +42313,6 @@
     "job_posted_at": "2026-04-30T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-df7d11d5-fea2-4c79-ace1-d0444aec5263",
-    "job_title": "Systems Development Engineer - Ground Infrastructure, Amazon Leo",
-    "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bellevue, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10408114/systems-development-engineer-ground-infrastructure-amazon-leo",
-    "job_posted_at_datetime_utc": "2026-04-30T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1785e0756f33b217800b50951bf6f4525a8c3afcf254ecd74b920a5b639e8119",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c#",
-        "c++",
-        "ci/cd",
-        "golang",
-        "java",
-        "linux",
-        "python",
-        "ruby",
-        "rust",
-        "unix"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-b6817c59-658e-4a46-a30a-58c0b259615b",
     "job_title": "Systems Development Engineer,  Tech Deployment & Field Support",
     "employer_name": "Amazon.com Services LLC",
@@ -42403,6 +42362,59 @@
         "rust",
         "s3",
         "sqs",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-df7d11d5-fea2-4c79-ace1-d0444aec5263",
+    "job_title": "Systems Development Engineer - Ground Infrastructure, Amazon Leo",
+    "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bellevue, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10408114/systems-development-engineer-ground-infrastructure-amazon-leo",
+    "job_posted_at_datetime_utc": "2026-04-30T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1785e0756f33b217800b50951bf6f4525a8c3afcf254ecd74b920a5b639e8119",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c#",
+        "c++",
+        "ci/cd",
+        "golang",
+        "java",
+        "linux",
+        "python",
+        "ruby",
+        "rust",
         "unix"
       ],
       "sponsors_visa": null,
@@ -45044,125 +45056,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-29T17:01:49.758Z"
-  },
-  {
-    "job_id": "workday-sel-2025-18351",
-    "job_title": "Associate Hardware Engineer",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Washington - Pullman",
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Hardware-Engineer_2025-18351",
-    "job_posted_at_datetime_utc": "2026-04-29T16:55:42.585Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "173985d3ee9bab78db6e1179286a3004af69c39123ac403b1f8f43608a57c1c2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fiber",
-        "fpga",
-        "microprocessor",
-        "switching",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T16:55:42.585Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0238960",
-    "job_title": "Robotics Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Shaw AFB",
-    "job_state": "SC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Shaw AFB, SC",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Shaw-AFB-SC/Robotics-Engineer_R0238960",
-    "job_posted_at_datetime_utc": "2026-04-29T16:53:06.854Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "60594784b50e56e76b0371cd5619fa4b5dd920386d1c61c069e0889fbda61a62",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "cad",
-        "cam",
-        "ci/cd",
-        "linux",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T16:53:06.854Z"
-  },
-  {
-    "job_id": "amd-85784",
-    "job_title": "AI Systems Lab- Test Engineering Technician",
-    "employer_name": "AMD",
-    "job_city": "Secaucus",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Secaucus, NJ, United States",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/85784/login",
-    "job_posted_at_datetime_utc": "2026-04-29T16:51:00.000Z",
-    "job_employment_type": "part_time",
-    "salary": null,
-    "fingerprint": "feaccae76d7efcdd949c05ecda62e41312a811863be3056944413b025b057a66",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amd",
-    "job_posted_at": "2026-04-29T16:51:00.000Z"
   }
 ]
