@@ -1,5 +1,71 @@
 [
   {
+    "job_id": "lever-shieldai-37f1de6d-d17b-437b-af16-d8ce8d7d0782",
+    "job_title": "Engineer I, Electromechanical (R4951)",
+    "employer_name": "Shield AI",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://jobs.lever.co/shieldai/37f1de6d-d17b-437b-af16-d8ce8d7d0782/apply",
+    "job_posted_at_datetime_utc": "2026-05-07T22:44:24.268Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 76000,
+      "max": 110000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "fingerprint": "989a46657a59cddb4ecf081db7811fff2a0ff50b577cd2e0920e15a7915535ab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-07T22:44:24.268Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5132335007",
+    "job_title": "Marine Operations Engineer, Surface Maritime",
+    "employer_name": "Anduril",
+    "job_city": "Costa Mesa",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Costa Mesa, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5132335007?gh_jid=5132335007",
+    "job_posted_at_datetime_utc": "2026-05-07T22:32:59.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "366d31a178d15eb65c3dc423b28668b6552f86c2166911dd8a3ddfca92479898",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-07T22:32:59.000Z"
+  },
+  {
     "job_id": "greenhouse-andurilindustries-5129776007",
     "job_title": "Loads and Dynamics Engineer, Air Vehicles",
     "employer_name": "Anduril",
@@ -27,6 +93,18 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "finite element analysis",
+        "matlab",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-07T22:27:48.000Z"
   },
   {
@@ -924,7 +1002,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863829",
     "job_posted_at_datetime_utc": "2026-05-07T19:02:24.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -8756,7 +8834,7 @@
     "job_location": "Santa Clara, California, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556628561",
     "job_posted_at_datetime_utc": "2026-05-05T18:46:34.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3cfbaab5e99a26096f4e7fda0010865c48dd1a153f613bc3bf81273c1767558a",
     "tags": {
@@ -13477,7 +13555,7 @@
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-7f656325-906f-42f3-bea9-df4e8a6bbb43",
+    "job_id": "amazon-2e4164db-8ac9-44ee-9a8e-0b79dfdfc18a",
     "job_title": "Systems Development Engineer, OISL Test Automation",
     "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
     "job_city": "Redmond",
@@ -13485,7 +13563,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Redmond, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10411667/systems-development-engineer-oisl-test-automation",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10411666/systems-development-engineer-oisl-test-automation",
     "job_posted_at_datetime_utc": "2026-05-05T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -13529,7 +13607,7 @@
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-2e4164db-8ac9-44ee-9a8e-0b79dfdfc18a",
+    "job_id": "amazon-7f656325-906f-42f3-bea9-df4e8a6bbb43",
     "job_title": "Systems Development Engineer, OISL Test Automation",
     "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
     "job_city": "Redmond",
@@ -13537,7 +13615,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Redmond, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10411666/systems-development-engineer-oisl-test-automation",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10411667/systems-development-engineer-oisl-test-automation",
     "job_posted_at_datetime_utc": "2026-05-05T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -25333,7 +25411,7 @@
     "job_location": "San Antonio, Texas, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556814102",
     "job_posted_at_datetime_utc": "2026-05-01T20:49:53.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "59eb2c6139d3ea6ae2001280ee99da03b6568fc095586954a455dcc9b72652f5",
     "tags": {
@@ -25502,7 +25580,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556862358",
     "job_posted_at_datetime_utc": "2026-05-01T20:03:04.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c0a37a088ed1e370e93e868b080d1898eb3c4a63ffb9504a3c8a8e5f29f5a805",
     "tags": {
@@ -33153,48 +33231,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-30T23:08:16.449Z"
-  },
-  {
-    "job_id": "greenhouse-andurilindustries-5009261007",
-    "job_title": "Project Manager, Industrial Engineering",
-    "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Costa Mesa, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5009261007?gh_jid=5009261007",
-    "job_posted_at_datetime_utc": "2026-04-30T22:48:15.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "030dbbbeb493e15c711f81d2d9ae0eaca348531d62e4f4eec0e42848d57c14a7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "manufacturing",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "process improvement"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T22:48:15.000Z"
   }
 ]
