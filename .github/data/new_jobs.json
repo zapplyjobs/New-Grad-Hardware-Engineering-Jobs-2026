@@ -1805,6 +1805,44 @@
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
+    "job_id": "simplify-1064dbd3-b67e-47fc-8613-6b693569d9ba",
+    "job_title": "Associate – Test Methods Engineer - Camden - NJ",
+    "employer_name": "L3Harris Technologies",
+    "job_city": "Philadelphia",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Philadelphia, PA",
+    "job_apply_link": "https://jobs.l3harris.com/job/Camden-Associate,-Test-Methods-Engineer-(Camden,-NJ)-NJ-08103/1320119500/?ats=successfactors",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b71fdc346a2cba70a4d53bed44ab9b9fcf5ae64890dff43a23447f15c72d2627",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
     "job_id": "simplify-f0726504-db62-485e-bada-8c18a1e5693d",
     "job_title": "Engineering Technician",
     "employer_name": "Amentum",
@@ -1857,44 +1895,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "48eab5f3af6dfdb1ee56a33785f8a7386fde00164834ce034b8fe96587bc6c56",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-1064dbd3-b67e-47fc-8613-6b693569d9ba",
-    "job_title": "Associate – Test Methods Engineer - Camden - NJ",
-    "employer_name": "L3Harris Technologies",
-    "job_city": "Philadelphia",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Philadelphia, PA",
-    "job_apply_link": "https://jobs.l3harris.com/job/Camden-Associate,-Test-Methods-Engineer-(Camden,-NJ)-NJ-08103/1320119500/?ats=successfactors",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b71fdc346a2cba70a4d53bed44ab9b9fcf5ae64890dff43a23447f15c72d2627",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -20387,6 +20387,47 @@
     "job_posted_at": "2026-05-02T13:31:00.054Z"
   },
   {
+    "job_id": "greenhouse-spacex-8523874002",
+    "job_title": "Harnessing Design Engineer, Satellites (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8523874002?gh_jid=8523874002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.053Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05848bb88d9c90296c9a2c3238a5809508bcd58665500be7c485698ff176dc84",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "nx"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:00.053Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8501065002",
     "job_title": "Device Physics Engineer, Solar Cells (Starlink)",
     "employer_name": "SpaceX",
@@ -20423,47 +20464,6 @@
         "r",
         "spc",
         "sql"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:00.053Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8523874002",
-    "job_title": "Harnessing Design Engineer, Satellites (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8523874002?gh_jid=8523874002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.053Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "05848bb88d9c90296c9a2c3238a5809508bcd58665500be7c485698ff176dc84",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "nx"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
@@ -23133,7 +23133,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556862358",
     "job_posted_at_datetime_utc": "2026-05-01T20:03:04.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "c0a37a088ed1e370e93e868b080d1898eb3c4a63ffb9504a3c8a8e5f29f5a805",
     "tags": {
@@ -23145,7 +23145,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "senior_level",
       "special": [
         "faang"
       ],
