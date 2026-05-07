@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-785-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-786-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-128-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -73,28 +73,28 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Pure Storage** | Security Operations Engineer | Lehi, Utah | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7902355) |
 | 🏢 **Pure Storage** | Security Operations Engineer | Santa Clara, Cali... | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7872199) |
 | 🏢 **Astera Labs** | Physical Design Engineer (Place & Route) | San Jose, Califor... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4691424005) |
-| 🏢 **Relativity Space** | PBF Manufacturing Process Engineer I | Long Beach, Calif... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8374896002?gh_jid=8374896002) |
+| 🏢 **Relativity Space** | PBF Manufacturing Process Engineer I | Long Beach, Calif... | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8374896002?gh_jid=8374896002) |
 | 🏢 **Truveta** | Academic Research Support Specialist | Seattle, WA | 9h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5978345004) |
 | 🏢 **Apple** | Data Scientist | San Diego | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661978/data-scientist) |
-| 🏢 **Applied Intuition** | Process Engineer | Sunnyvale, Califo... | 10h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4690727005?gh_jid=4690727005) |
+| 🏢 **Applied Intuition** | Process Engineer | Sunnyvale, Califo... | 11h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4690727005?gh_jid=4690727005) |
 | 🏢 **Olsson** | Assistant Geotechnical Engineer | La Vista, NE; Lin... | 11h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5212297008) |
 | 🏢 **OpenAI** | Advanced Packaging Multi-Physics Modeling Engineer | San Francisco | 12h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/c4d36b49-a51d-41c3-83f4-f9e7caca556f/application) |
-| 🏢 **SpaceX** | Mechanical Engineer, Propellant Generation (Starship) | Cape Canaveral, FL | 12h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8535169002?gh_jid=8535169002) |
+| 🏢 **SpaceX** | Mechanical Engineer, Propellant Generation (Starship) | Cape Canaveral, FL | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8535169002?gh_jid=8535169002) |
 | 🏢 **Hudl** | Sourcing Manager | Lincoln, NE, Unit... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/hudl/jobs/7868482) |
 | 🏢 **Figure AI** | Mechanical Engineer, Structures - Robot Hands | San Jose, CA | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4679601006) |
 | 🏢 **Redwood Materials** | Controls Technician | McCarran, NV | 14h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/5748763004?gh_jid=5748763004) |
 | 🏢 **Neuralink** | Materials Engineer | Fremont, Californ... | 14h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7726414003?gh_jid=7726414003) |
-| 🏢 **Parallel Wireless** | 5G/LTE Network Engineer I | New Hampshire | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/parallelwireless/312ac1c6-035e-4585-abfd-a1d5865bc9f7/apply) |
+| 🏢 **Parallel Wireless** | 5G/LTE Network Engineer I | New Hampshire | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/parallelwireless/312ac1c6-035e-4585-abfd-a1d5865bc9f7/apply) |
 | 🏢 **Robinhood** | Salesforce Applications Engineer | Menlo Park, CA | 17h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/7896256?t=gh_src=&gh_jid=7896256) |
 | 🏢 **Smiths Group** | Customer Reliability Engineer or Technical Specialist | Tyler, TX | 17h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000124929759) |
-| 🏢 **SpaceX** | Supplier Development Engineer, Mechanical Metrology (Starlink) | Bastrop, TX | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8533943002?gh_jid=8533943002) |
-| 🏢 **SpaceX** | Supplier Development Engineer, Cables (Starlink) | Bastrop, TX | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8533945002?gh_jid=8533945002) |
+| 🏢 **SpaceX** | Supplier Development Engineer, Mechanical Metrology (Starlink) | Bastrop, TX | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8533943002?gh_jid=8533943002) |
+| 🏢 **SpaceX** | Supplier Development Engineer, Cables (Starlink) | Bastrop, TX | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8533945002?gh_jid=8533945002) |
 | 🏢 **Google** | Data Center Facilities Technician, Mechanical | United States | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91967326135427782) |
-| 🏢 **L3Harris Technologies** | Engineering Technician A | Salt Lake City, UT | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1381287700/?ats=successfactors) |
-| 🏢 **L3Harris Technologies** | Engineering Technician A | Salt Lake City, UT | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1381287400/?ats=successfactors) |
-| 🏢 **Amentum** | Entry Level Optical Engineer | Bedford, IN | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Odon/Entry-Level-Optical-Engineer_R0160011) |
-| 🏢 **Amentum** | Engineering Technician | United States | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Kennedy-Space-Center/Engineering-Technician_R0157372) |
-| 🏢 **Amentum** | Entry Level Electrical RF Engineer | Dahlgren, VA | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Electrica-RF-Engineer_R0150759) |
+| 🏢 **L3Harris Technologies** | Engineering Technician A | Salt Lake City, UT | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1381287700/?ats=successfactors) |
+| 🏢 **L3Harris Technologies** | Engineering Technician A | Salt Lake City, UT | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1381287400/?ats=successfactors) |
+| 🏢 **Amentum** | Entry Level Optical Engineer | Bedford, IN | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Odon/Entry-Level-Optical-Engineer_R0160011) |
+| 🏢 **Amentum** | Engineering Technician | United States | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Kennedy-Space-Center/Engineering-Technician_R0157372) |
+| 🏢 **Amentum** | Entry Level Electrical RF Engineer | Dahlgren, VA | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Electrica-RF-Engineer_R0150759) |
 | 🏢 **Cisco** | Site Reliability Engineer - FedRAMP | San Francisco Cal... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Site-Reliability-Engineer---FedRAMP_2010472) |
 | 🏢 **Medtronic** | EP Mapping Specialist - CAS Nashville, TN | Nashville, Tennes... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nashville-Tennessee-United-States-of-America/EP-Mapping-Specialist---CAS-Nashville--TN_R65905-1) |
 | 🏢 **NXP** | USB & USB PD System and Application Engineer | Chandler + 2 more | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/USB---USB-PD-System-and-Application-Engineer_R-10063205) |
@@ -180,8 +180,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Apple** | FPGA Design Engineer - Instrument Engineering | San Diego | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661639/fpga-design-engineer-instrument-engineering) |
-| 🏢 **AMD** | Technical Manager, Server SOC Platform Emulation | Austin, TX, Unite... | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/85921/login) |
-| 🏢 **L3Harris Technologies** | Associate – Test Methods Engineer - Camden - NJ | Philadelphia, PA | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.l3harris.com/job/Camden-Associate,-Test-Methods-Engineer-(Camden,-NJ)-NJ-08103/1320119500/?ats=successfactors) |
+| 🏢 **AMD** | Technical Manager, Server SOC Platform Emulation | Austin, TX, Unite... | 12h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/85921/login) |
+| 🏢 **L3Harris Technologies** | Associate – Test Methods Engineer - Camden - NJ | Philadelphia, PA | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.l3harris.com/job/Camden-Associate,-Test-Methods-Engineer-(Camden,-NJ)-NJ-08103/1320119500/?ats=successfactors) |
 | 🏢 **OpenAI** | Networking Operating System Firmware Engineer | San Francisco | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/f6b9903c-9034-436b-a4ec-4c8643a6d0dd/application) |
 | 🏢 **Broadcom** | ASIC Floor Plan Automation Engineer | Colorado | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/ASIC-Floor-Plan-Automation-Engineer_R024259) |
 | 🏢 **BlackRock** | Application Engineer (ETF)-Java Backend -Associate | Atlanta, GA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Atlanta-GA/Application-Engineer--ETF--Java-Backend--Associate_R260497) |
@@ -251,11 +251,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| 🏢 **Google** | Optical Validation Engineer, Google Cloud | United States | 13m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143702138877289158) |
 | 🏢 **Apple** | SerDes System Validation Engineer | Austin Metro Area | 5h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662028/serdes-system-validation-engineer) |
 | 🏢 **Apple** | Analog Mixed Signal IP Post Silicon Validation | San Francisco Bay... | 5h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662038/analog-mixed-signal-ip-post-silicon-validation) |
 | 🏢 **Apple** | Silicon Validation Engineer | San Francisco Bay... | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662042/silicon-validation-engineer) |
 | 🏢 **LG Electronics** | Validation Engineer I | Aliso Viejo, CA | 16h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5211579008) |
-| 🏢 **Google** | Hardware Validation Engineer, Networking and Signal Integrity, Platforms | United States | 17h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98776179665707718) |
+| 🏢 **Google** | Hardware Validation Engineer, Networking and Signal Integrity, Platforms | United States | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98776179665707718) |
 | 🏢 **Google** | Hardware Validation Engineer, Cloud Platforms | United States | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135325114404086470) |
 | 🏢 **Leidos** | RADAR Integration and Test Engineer | Huntsville, AL | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/RADAR-Integration-and-Test-Engineer_R-00182609) |
 | 🏢 **Caterpillar** | Electrical Design Engineer - Electric Power | Griffin, Georgia | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Griffin-Georgia/Electrical-Design-Engineer---Electric-Power_R0000367352-1) |
@@ -275,7 +276,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Zoox** | Autonomy System Test Engineer | Foster City, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/zoox/f4746da4-8eb8-43e2-b7ce-bf3c7cf9640d/apply) |
 | 🏢 **Blue Origin** | Space Optical Payload Test Engineer - Terawave | Greater Seattle Area | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Test-and-Automation-Engineer---Lasercom-Systems----TeraWave_R59818) |
 | 🏢 **Anduril** | EMC System Test Engineer | Costa Mesa, Calif... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5094721007?gh_jid=5094721007) |
-| 🏢 **Google** | Network Test Engineer | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96386562941428422) |
 | 🏢 **Astranis** | Power Electronics Test Engineer | San Francisco | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4349361006) |
 | 🏢 **Leidos** | TPS Systems Test Engineer | Washington, DC | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/TPS-Systems-Test-Engineer_R-00178723) |
 | 🏢 **RTX** | Environmental Test Engineer I | Tucson, AZ | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-930--1151-E-Hermans-Rd--ETF-930/Environmental-Test-Engineer-I_01842591) |
@@ -397,7 +397,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 785 current opportunities from 128 companies**
+**🎯 786 current opportunities from 128 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
