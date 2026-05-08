@@ -1,5 +1,216 @@
 [
   {
+    "job_id": "sr-NBCUniversal3-744000125377110",
+    "job_title": "Graphic Design & Creative Internships – Academic Year",
+    "employer_name": "NBCUniversal",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, NY",
+    "job_apply_link": "https://jobs.smartrecruiters.com/NBCUniversal3/744000125377110",
+    "job_posted_at_datetime_utc": "2026-05-08T16:45:33.218Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "17efab6d22af5b8d16e7b93a42275846fddbc828da59ae59b884a0f4d3177b11",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-05-08T16:45:33.218Z"
+  },
+  {
+    "job_id": "amd-85798",
+    "job_title": "Systems Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, TX, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85798/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:41:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "819099a5680d36f533189457e2fb2d3f8f5577f1a7e0332042068b3e2f6da964",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:41:00.000Z"
+  },
+  {
+    "job_id": "amd-85793",
+    "job_title": "MTS Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, TX, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85793/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:40:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "a36fc905029acb42e8e3606e58d33fb9d1620353382782f6006dde5631edbf81",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:40:00.000Z"
+  },
+  {
+    "job_id": "amd-85794",
+    "job_title": "SMTS Quality Engineer",
+    "employer_name": "AMD",
+    "job_city": "Secaucus",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Secaucus, NJ, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85794/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:40:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "c3df1b7c4d9ba4b24cece2b95fcf0423d770d9763ad16a459710523bab77ef1f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:40:00.000Z"
+  },
+  {
+    "job_id": "amd-85634",
+    "job_title": "Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85634/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:39:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "bc79ca22ce14e05484b3e25eb334f847a42cc8a172e44b09c8daff310854aedc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:39:00.000Z"
+  },
+  {
+    "job_id": "amd-85631",
+    "job_title": "Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85631/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:38:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "bc79ca22ce14e05484b3e25eb334f847a42cc8a172e44b09c8daff310854aedc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:38:00.000Z"
+  },
+  {
+    "job_id": "amd-85629",
+    "job_title": "SMTS Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, TX, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85629/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:37:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "cf19336d8e05fc2d50aab2f7d6d52e218361e23d97ed89232fb2b9812d1dc9d4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:37:00.000Z"
+  },
+  {
     "job_id": "greenhouse-purestorage-7901626",
     "job_title": "SSD Qualification Engineer - PCIe Validation",
     "employer_name": "Pure Storage",
@@ -27,6 +238,21 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "git",
+        "jenkins",
+        "linux",
+        "python",
+        "regression",
+        "ssd"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T16:31:28.000Z"
   },
   {
@@ -58,7 +284,52 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "altium",
+        "assembly",
+        "project management",
+        "radar",
+        "rf",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T16:26:16.944Z"
+  },
+  {
+    "job_id": "amd-85628",
+    "job_title": "MTS Hardware Development Engineer",
+    "employer_name": "AMD",
+    "job_city": "Secaucus",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Secaucus, NJ, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85628/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:21:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "abe634e2c3008196c6ec32a5095291a96fc9098b6899fea72a99637f835f3551",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:21:00.000Z"
   },
   {
     "job_id": "amd-85600",
@@ -88,6 +359,24 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "computer science",
+        "confluence",
+        "dashboards",
+        "embedded systems",
+        "firmware",
+        "jira",
+        "project management",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T16:19:00.000Z"
   },
   {
@@ -118,6 +407,18 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data analysis",
+        "embedded systems"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T16:19:00.000Z"
   },
   {
@@ -148,6 +449,23 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "data analysis",
+        "embedded systems",
+        "jmp",
+        "linux",
+        "python",
+        "soc",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T16:18:00.000Z"
   },
   {
@@ -178,6 +496,23 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "embedded systems",
+        "linux",
+        "python",
+        "soc",
+        "unix",
+        "verilog",
+        "vhdl"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T16:18:00.000Z"
   },
   {
@@ -208,6 +543,23 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "embedded systems",
+        "kubernetes",
+        "linux",
+        "networking",
+        "system design",
+        "tcp/ip",
+        "tls"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T16:18:00.000Z"
   },
   {
@@ -238,6 +590,20 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "bash",
+        "c++",
+        "embedded systems",
+        "perl",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T16:17:00.000Z"
   },
   {
@@ -268,6 +634,23 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "android",
+        "arm",
+        "c++",
+        "embedded systems",
+        "linux",
+        "python",
+        "shell",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T16:17:00.000Z"
   },
   {
@@ -298,6 +681,20 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "perl",
+        "python",
+        "semiconductors",
+        "verilog"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T16:17:00.000Z"
   },
   {
@@ -328,6 +725,18 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "embedded systems",
+        "soc",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T16:15:00.000Z"
   },
   {
@@ -2982,7 +3391,7 @@
     "job_location": "Dallas, Texas, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863801",
     "job_posted_at_datetime_utc": "2026-05-07T23:29:33.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "026c46879cad4b974b6345a45f4f1b1be714c7f8d1875198d15748a4393969d2",
     "tags": {
@@ -4002,7 +4411,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863833",
     "job_posted_at_datetime_utc": "2026-05-07T19:33:41.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "94d39ede1d4c28ea25b075671e4ea91361ffd00181280b9f5d3213caec5716eb",
     "tags": {
@@ -7291,44 +7700,6 @@
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
-    "job_id": "simplify-5e20afd1-9124-42ba-a6dc-0b14490579ef",
-    "job_title": "Entry Level Electrical RF Engineer",
-    "employer_name": "Amentum",
-    "job_city": "Dahlgren",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dahlgren, VA",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Electrica-RF-Engineer_R0150759",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "48eab5f3af6dfdb1ee56a33785f8a7386fde00164834ce034b8fe96587bc6c56",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
     "job_id": "simplify-1064dbd3-b67e-47fc-8613-6b693569d9ba",
     "job_title": "Associate – Test Methods Engineer - Camden - NJ",
     "employer_name": "L3Harris Technologies",
@@ -7385,6 +7756,44 @@
       "domains": [
         "hardware",
         "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-5e20afd1-9124-42ba-a6dc-0b14490579ef",
+    "job_title": "Entry Level Electrical RF Engineer",
+    "employer_name": "Amentum",
+    "job_city": "Dahlgren",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dahlgren, VA",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Electrica-RF-Engineer_R0150759",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "48eab5f3af6dfdb1ee56a33785f8a7386fde00164834ce034b8fe96587bc6c56",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
       ],
       "locations": [
         "us"
@@ -18061,7 +18470,7 @@
     "job_location": "Boydton, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556813763",
     "job_posted_at_datetime_utc": "2026-05-04T19:36:33.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "f59e0212d07938df773e5e17ae4687412a2bc1dcc6511b69baaf28686349641f",
     "tags": {
@@ -19523,7 +19932,7 @@
     "job_location": "Chicago, Illinois, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556623149",
     "job_posted_at_datetime_utc": "2026-05-04T13:20:39.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "baf8dfe6ba09dfedbd16a8ccc23b1d88445b557a957bd9f76676d25ceee34911",
     "tags": {
@@ -29289,49 +29698,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-01T17:27:19.000Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026504400",
-    "job_title": "Associate Propulsion System Integration Engineer",
-    "employer_name": "Boeing",
-    "job_city": "North Charleston",
-    "job_state": "SC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - North Charleston, SC",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate-Propulsion-System-Integration-Engineer_JR2026504400-1",
-    "job_posted_at_datetime_utc": "2026-05-01T16:56:16.928Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e66b434e8bfff2c21062d594e1c68fb9af9027ce0d869c7a4e49344729333f38",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "catia",
-        "computer science",
-        "data science"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T16:56:16.928Z"
   }
 ]
