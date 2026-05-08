@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "workday-medtronic-R66534",
+    "job_title": "Field Service Engineer (4+ years)",
+    "employer_name": "Medtronic",
+    "job_city": "13 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "13 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Seattle-Washington-United-States-of-America/Field-Service-Engineer--4--years-_R66534-2",
+    "job_posted_at_datetime_utc": "2026-05-08T22:33:05.319Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d426653df52e7c8c4a833936ec197a829e8c9ef7e7e8521d0833b4d456d948a5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T22:33:05.319Z"
+  },
+  {
     "job_id": "workday-boeing-JR2026507788",
     "job_title": "Wire Design Engineer (Experienced, Senior or Principal)",
     "employer_name": "Boeing",
@@ -27,6 +57,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "catia",
+        "computer science",
+        "data science",
+        "oop"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T22:17:19.208Z"
   },
   {
@@ -57,6 +106,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "catia",
+        "computer science",
+        "data science",
+        "oop",
+        "routing"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T22:17:19.208Z"
   },
   {
@@ -87,6 +157,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "fault tree",
+        "fault tree analysis",
+        "oop",
+        "safety analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T22:17:19.208Z"
   },
   {
@@ -117,6 +208,26 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data analysis",
+        "data science",
+        "matlab",
+        "python"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T22:17:19.207Z"
   },
   {
@@ -147,6 +258,29 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "cam",
+        "catia",
+        "computer science",
+        "data science",
+        "mastercam",
+        "process improvement",
+        "system design"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T22:17:19.206Z"
   },
   {
@@ -177,6 +311,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "allegro",
+        "cadence",
+        "cisco",
+        "ltspice"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T22:17:09.033Z"
   },
   {
@@ -618,52 +771,6 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-08T21:47:34.824Z"
-  },
-  {
-    "job_id": "workday-caterpillar-R0000367218",
-    "job_title": "Engineering Team Leader - Power Conversion & e-Powertrain Systems Validation",
-    "employer_name": "Caterpillar",
-    "job_city": "Mossville",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Mossville, Illinois",
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Engineering-Team-Leader---Power-Conversion---e-Powertrain-Systems-Validation_R0000367218",
-    "job_posted_at_datetime_utc": "2026-05-08T21:47:16.472Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "58eeb00ce2da3b23768d31245443fbfb77b952dc22d5f4e5932dc1d8a82f22e1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fmea"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T21:47:16.472Z"
   },
   {
     "job_id": "apple-200658965",
@@ -2293,7 +2400,7 @@
     "job_location": "Charlotte, North Carolina, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556755330",
     "job_posted_at_datetime_utc": "2026-05-08T20:08:38.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "e33ed941a3b8125ca2f76761de277dfe1eca1d09ea20ee406dd874d9144dacfc",
     "tags": {
@@ -6385,291 +6492,6 @@
     "job_posted_at": "2026-05-08T20:07:01.395Z"
   },
   {
-    "job_id": "workday-johnson-controls-WD30261756",
-    "job_title": "Controls Electrical Installer",
-    "employer_name": "Johnson Controls",
-    "job_city": "South Carolina-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "N Charleston-South Carolina-United States of America",
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/N-Charleston-South-Carolina-United-States-of-America/Controls-Electrical-Installer_WD30261756",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:54.795Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "576f1bedf0ca8f6ad5914c282e5a616ec66b7629103527f8c5392f24f3a63825",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "plc"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:06:54.795Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30268690",
-    "job_title": "HVAC Controls Systems Engineer",
-    "employer_name": "Johnson Controls",
-    "job_city": "Arizona-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tempe-Arizona-United States of America",
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Tempe-Arizona-United-States-of-America/HVAC-Controls-Systems-Engineer_WD30268690",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:54.795Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6325acbcd99c70ff5fdf1823ae8a0bf39704b7d3067a0de7859628eb3a1703bc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "networking",
-        "plc",
-        "visio"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:06:54.795Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30268266",
-    "job_title": "Design Drafter",
-    "employer_name": "Johnson Controls",
-    "job_city": "Pennsylvania-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New Freedom-Pennsylvania-United States of America",
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Design-Drafter_WD30268266-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:54.795Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9464844214a7704256aeb1c1b27763c246012cadb8652b0bb606dffb2a8bc599",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "creo",
-        "excel",
-        "plc",
-        "sap",
-        "sketch",
-        "tolerance analysis",
-        "windchill"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:06:54.795Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30268913",
-    "job_title": "Fire Alarm Installer",
-    "employer_name": "Johnson Controls",
-    "job_city": "Tennessee-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Johnson City-Tennessee-United States of America",
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Johnson-City-Tennessee-United-States-of-America/Fire-Alarm-Installer_WD30268913",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:54.795Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "adb0d1cf8eca13611fc5084dd8a3fb0af8ff43af88ff903fe8a9a5062be48e1f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "plc"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:06:54.795Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30268707",
-    "job_title": "Fire Alarm Installer",
-    "employer_name": "Johnson Controls",
-    "job_city": "Kentucky-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Lexington-Kentucky-United States of America",
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Lexington-Kentucky-United-States-of-America/Fire-Alarm-Installer_WD30268707",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:54.795Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0c80df5ae7077e3a61c6c01492ab480e92633133c570f16821897565c3e102b4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "plc"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:06:54.795Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30268708",
-    "job_title": "Fire Alarm Installer",
-    "employer_name": "Johnson Controls",
-    "job_city": "Kentucky-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Lexington-Kentucky-United States of America",
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Lexington-Kentucky-United-States-of-America/Fire-Alarm-Installer_WD30268708",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:54.795Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0c80df5ae7077e3a61c6c01492ab480e92633133c570f16821897565c3e102b4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "plc"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:06:54.795Z"
-  },
-  {
     "job_id": "workday-johnson-controls-WD30265278",
     "job_title": "Controls system Technician 4",
     "employer_name": "Johnson Controls",
@@ -6999,6 +6821,291 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:06:54.795Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30261756",
+    "job_title": "Controls Electrical Installer",
+    "employer_name": "Johnson Controls",
+    "job_city": "South Carolina-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "N Charleston-South Carolina-United States of America",
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/N-Charleston-South-Carolina-United-States-of-America/Controls-Electrical-Installer_WD30261756",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:54.795Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "576f1bedf0ca8f6ad5914c282e5a616ec66b7629103527f8c5392f24f3a63825",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "plc"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:06:54.795Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30268690",
+    "job_title": "HVAC Controls Systems Engineer",
+    "employer_name": "Johnson Controls",
+    "job_city": "Arizona-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Tempe-Arizona-United States of America",
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Tempe-Arizona-United-States-of-America/HVAC-Controls-Systems-Engineer_WD30268690",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:54.795Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6325acbcd99c70ff5fdf1823ae8a0bf39704b7d3067a0de7859628eb3a1703bc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "networking",
+        "plc",
+        "visio"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:06:54.795Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30268266",
+    "job_title": "Design Drafter",
+    "employer_name": "Johnson Controls",
+    "job_city": "Pennsylvania-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New Freedom-Pennsylvania-United States of America",
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Design-Drafter_WD30268266-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:54.795Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9464844214a7704256aeb1c1b27763c246012cadb8652b0bb606dffb2a8bc599",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "creo",
+        "excel",
+        "plc",
+        "sap",
+        "sketch",
+        "tolerance analysis",
+        "windchill"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:06:54.795Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30268913",
+    "job_title": "Fire Alarm Installer",
+    "employer_name": "Johnson Controls",
+    "job_city": "Tennessee-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Johnson City-Tennessee-United States of America",
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Johnson-City-Tennessee-United-States-of-America/Fire-Alarm-Installer_WD30268913",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:54.795Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "adb0d1cf8eca13611fc5084dd8a3fb0af8ff43af88ff903fe8a9a5062be48e1f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "plc"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:06:54.795Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30268707",
+    "job_title": "Fire Alarm Installer",
+    "employer_name": "Johnson Controls",
+    "job_city": "Kentucky-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Lexington-Kentucky-United States of America",
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Lexington-Kentucky-United-States-of-America/Fire-Alarm-Installer_WD30268707",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:54.795Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0c80df5ae7077e3a61c6c01492ab480e92633133c570f16821897565c3e102b4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "plc"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:06:54.795Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30268708",
+    "job_title": "Fire Alarm Installer",
+    "employer_name": "Johnson Controls",
+    "job_city": "Kentucky-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Lexington-Kentucky-United States of America",
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Lexington-Kentucky-United-States-of-America/Fire-Alarm-Installer_WD30268708",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:54.795Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0c80df5ae7077e3a61c6c01492ab480e92633133c570f16821897565c3e102b4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "plc"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
       "experience_level_from_desc": null,
       "question_count": null,
       "summary_line": null
@@ -8179,6 +8286,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "illustrator",
+        "ips",
+        "photoshop"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T20:06:05.106Z"
   },
   {
@@ -8209,6 +8335,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "ansible",
+        "cisco",
+        "esxi",
+        "firmware",
+        "git",
+        "networking",
+        "routing",
+        "ssd",
+        "switching",
+        "terraform",
+        "vmware",
+        "vpn",
+        "vsphere",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T20:06:00.130Z"
   },
   {
@@ -8287,6 +8442,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cisco",
+        "i2c",
+        "networking",
+        "spi"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T20:06:00.130Z"
   },
   {
@@ -8317,6 +8491,44 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "agents",
+        "aws",
+        "azure",
+        "ci/cd",
+        "cisco",
+        "computer science",
+        "cybersecurity",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "excel",
+        "gcp",
+        "lean six sigma",
+        "llm",
+        "machine learning",
+        "networking",
+        "process improvement",
+        "python",
+        "routing",
+        "scalability",
+        "six sigma",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T20:06:00.130Z"
   },
   {
@@ -8347,6 +8559,26 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cisco",
+        "data analysis",
+        "jmp",
+        "jtag",
+        "soc"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T20:06:00.130Z"
   },
   {
@@ -8488,200 +8720,29 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "allegro",
+        "cad",
+        "cisco",
+        "ltspice",
+        "oscilloscope",
+        "pcb design",
+        "routing"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T20:06:00.130Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026508575",
-    "job_title": "Associate Mechanical System Design & Analysis Engineer",
-    "employer_name": "Boeing",
-    "job_city": "Berkeley",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Berkeley, MO",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Mechanical-System-Design---Analysis-Engineer_JR2026508575-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.184Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f5742daeae26c80fd8f38f883d45506607f4abb4ccaf36f936b6844a9036d1d3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:05:49.184Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026506588",
-    "job_title": "Design and Analysis Engineer (Associate or Mid-Level)",
-    "employer_name": "Boeing",
-    "job_city": "Hazelwood",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hazelwood, MO + 1 more",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Design-and-Analysis-Engineer--Associate-or-Mid-Level-_JR2026506588",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.184Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5a7fe62736c0ce887b073bbf5ee08717b84cfc51dc6dc20f7ef15c96f9143499",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:05:49.184Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026497320",
-    "job_title": "Electrical Engineer",
-    "employer_name": "Boeing",
-    "job_city": "Tukwila",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Tukwila, WA",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Electrical-Engineer_JR2026497320-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.184Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9813c7844f21fc404a51bbba31ea50f5b00b18f22669a13af95c1b47399f7711",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cameo",
-        "computer science",
-        "dashboards",
-        "data science",
-        "model-based systems engineering",
-        "program management",
-        "requirements management",
-        "root cause analysis",
-        "sysml"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:49.184Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026502940",
-    "job_title": "Experimental Radio Frequency (RF) & Microwave Technician",
-    "employer_name": "Boeing",
-    "job_city": "Tukwila",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Tukwila, WA",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Experimental-Radio-Frequency--RF----Microwave-Technician_JR2026502940-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.184Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "702a84cd692729ee997faf0cfdda43a910b44125600990cb35a1f8adb31e15b8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "iam",
-        "microwave",
-        "radar",
-        "rf"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:49.184Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026507753",
-    "job_title": "Quality Engineer & Program Manager",
-    "employer_name": "Boeing",
-    "job_city": "Mesa",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Mesa, AZ",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Quality-Engineer---Program-Manager_JR2026507753-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.184Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "379fe4aa16ff92ef7dc89e5711a33d2089ce2d89bcdc47e0b17d49e80d3dfa89",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:05:49.184Z"
   },
   {
     "job_id": "workday-boeing-JR2026497848",
@@ -8711,6 +8772,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "fiber",
+        "linux",
+        "mil-std",
+        "project management",
+        "radar",
+        "rf",
+        "unix"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T20:05:49.184Z"
   },
   {
@@ -8741,6 +8826,29 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "fiber",
+        "linux",
+        "mil-std",
+        "project management",
+        "radar",
+        "rf",
+        "unix"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T20:05:49.184Z"
   },
   {
@@ -8935,78 +9043,15 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:05:49.184Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026507481",
-    "job_title": "Occupational Health and Safety Specialist (Associate)",
-    "employer_name": "Boeing",
-    "job_city": "North Charleston",
-    "job_state": "SC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - North Charleston, SC",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Occupational-Health-and-Safety-Specialist--Associate-_JR2026507481-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.183Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "61e705dfc085104b1019e35c6737aab485854e0a392d2c7f359cdb828a716ede",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:05:49.183Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026502195",
-    "job_title": "Systems Engineer - Digital Signal Processing (Associate or Mid-level)",
-    "employer_name": "Boeing",
-    "job_city": "El Segundo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - El Segundo, CA",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Systems-Engineer---Digital-Signal-Processing--Associate-or-Mid-level-_JR2026502195-2",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.183Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5286840083fff884d97ddc7a43d6c51ebf11ab06cfb73364b0b58c33948498c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "enrichment": {
       "required_skills": [
-        "c++",
+        "airflow",
         "computer science",
+        "data analysis",
         "data science",
-        "fpga",
-        "program management",
-        "python",
-        "rf",
-        "signal processing",
-        "simulink",
+        "fiber",
+        "flutter",
+        "mil-std",
         "system design"
       ],
       "nice_to_have_skills": [],
@@ -9021,7 +9066,261 @@
       "question_count": null,
       "summary_line": null
     },
-    "job_posted_at": "2026-05-08T20:05:49.183Z"
+    "job_posted_at": "2026-05-08T20:05:49.184Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026508575",
+    "job_title": "Associate Mechanical System Design & Analysis Engineer",
+    "employer_name": "Boeing",
+    "job_city": "Berkeley",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Berkeley, MO",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Mechanical-System-Design---Analysis-Engineer_JR2026508575-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.184Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f5742daeae26c80fd8f38f883d45506607f4abb4ccaf36f936b6844a9036d1d3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "nx",
+        "siemens nx",
+        "system design"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:05:49.184Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026506588",
+    "job_title": "Design and Analysis Engineer (Associate or Mid-Level)",
+    "employer_name": "Boeing",
+    "job_city": "Hazelwood",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hazelwood, MO + 1 more",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Design-and-Analysis-Engineer--Associate-or-Mid-Level-_JR2026506588",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.184Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5a7fe62736c0ce887b073bbf5ee08717b84cfc51dc6dc20f7ef15c96f9143499",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cam",
+        "computer science",
+        "data science",
+        "radar",
+        "reporting"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:05:49.184Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026497320",
+    "job_title": "Electrical Engineer",
+    "employer_name": "Boeing",
+    "job_city": "Tukwila",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Tukwila, WA",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Electrical-Engineer_JR2026497320-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.184Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9813c7844f21fc404a51bbba31ea50f5b00b18f22669a13af95c1b47399f7711",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cameo",
+        "computer science",
+        "dashboards",
+        "data science",
+        "model-based systems engineering",
+        "program management",
+        "requirements management",
+        "root cause analysis",
+        "sysml"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:05:49.184Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026502940",
+    "job_title": "Experimental Radio Frequency (RF) & Microwave Technician",
+    "employer_name": "Boeing",
+    "job_city": "Tukwila",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Tukwila, WA",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Experimental-Radio-Frequency--RF----Microwave-Technician_JR2026502940-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.184Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "702a84cd692729ee997faf0cfdda43a910b44125600990cb35a1f8adb31e15b8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "iam",
+        "microwave",
+        "radar",
+        "rf"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:05:49.184Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026507753",
+    "job_title": "Quality Engineer & Program Manager",
+    "employer_name": "Boeing",
+    "job_city": "Mesa",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Mesa, AZ",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Quality-Engineer---Program-Manager_JR2026507753-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.184Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "379fe4aa16ff92ef7dc89e5711a33d2089ce2d89bcdc47e0b17d49e80d3dfa89",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "apache",
+        "as9100",
+        "computer science",
+        "data science",
+        "program management",
+        "six sigma",
+        "statistical analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:05:49.184Z"
   },
   {
     "job_id": "workday-boeing-JR2025487163",
@@ -9126,19 +9425,119 @@
     "job_posted_at": "2026-05-08T20:05:49.183Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0239442",
-    "job_title": "Nuclear Surety Mechanical Engineer",
+    "job_id": "workday-boeing-JR2026507481",
+    "job_title": "Occupational Health and Safety Specialist (Associate)",
+    "employer_name": "Boeing",
+    "job_city": "North Charleston",
+    "job_state": "SC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - North Charleston, SC",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Occupational-Health-and-Safety-Specialist--Associate-_JR2026507481-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.183Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "61e705dfc085104b1019e35c6737aab485854e0a392d2c7f359cdb828a716ede",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:05:49.183Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026502195",
+    "job_title": "Systems Engineer - Digital Signal Processing (Associate or Mid-level)",
+    "employer_name": "Boeing",
+    "job_city": "El Segundo",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - El Segundo, CA",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Systems-Engineer---Digital-Signal-Processing--Associate-or-Mid-level-_JR2026502195-2",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.183Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5286840083fff884d97ddc7a43d6c51ebf11ab06cfb73364b0b58c33948498c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data science",
+        "fpga",
+        "program management",
+        "python",
+        "rf",
+        "signal processing",
+        "simulink",
+        "system design"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:05:49.183Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239658",
+    "job_title": "Nuclear Surety Electrical Engineer",
     "employer_name": "Booz Allen Hamilton",
     "job_city": "Kirtland AFB",
     "job_state": "NM",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Kirtland AFB, NM + 1 more",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Kirtland-AFB-NM/Nuclear-Surety-Mechanical-Engineer_R0239442",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Kirtland-AFB-NM/Nuclear-Surety-Electrical-Engineer_R0239658",
     "job_posted_at_datetime_utc": "2026-05-08T20:05:48.507Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "af891e0a9f851082f235206407f14ead1675fb8503ef2b6f1d7476a3e85373a0",
+    "fingerprint": "e029118e7609e3829280339a4dfb438197c6e861bd518aa5a219338943dc9dbf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9156,19 +9555,19 @@
     "job_posted_at": "2026-05-08T20:05:48.507Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0239658",
-    "job_title": "Nuclear Surety Electrical Engineer",
+    "job_id": "workday-booz-allen-hamilton-R0239442",
+    "job_title": "Nuclear Surety Mechanical Engineer",
     "employer_name": "Booz Allen Hamilton",
     "job_city": "Kirtland AFB",
     "job_state": "NM",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Kirtland AFB, NM + 1 more",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Kirtland-AFB-NM/Nuclear-Surety-Electrical-Engineer_R0239658",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Kirtland-AFB-NM/Nuclear-Surety-Mechanical-Engineer_R0239442",
     "job_posted_at_datetime_utc": "2026-05-08T20:05:48.507Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e029118e7609e3829280339a4dfb438197c6e861bd518aa5a219338943dc9dbf",
+    "fingerprint": "af891e0a9f851082f235206407f14ead1675fb8503ef2b6f1d7476a3e85373a0",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -15230,7 +15629,7 @@
     "job_location": "Dallas, Texas, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863801",
     "job_posted_at_datetime_utc": "2026-05-07T23:29:33.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "026c46879cad4b974b6345a45f4f1b1be714c7f8d1875198d15748a4393969d2",
     "tags": {
@@ -16411,7 +16810,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863833",
     "job_posted_at_datetime_utc": "2026-05-07T19:33:41.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "94d39ede1d4c28ea25b075671e4ea91361ffd00181280b9f5d3213caec5716eb",
     "tags": {
@@ -16511,7 +16910,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863830",
     "job_posted_at_datetime_utc": "2026-05-07T19:04:18.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -21634,59 +22033,6 @@
     "job_posted_at": "2026-05-06T20:06:59.272Z"
   },
   {
-    "job_id": "workday-johnson-controls-WD30263133",
-    "job_title": "Controls Systems Engineer I",
-    "employer_name": "Johnson Controls",
-    "job_city": "Pennsylvania-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New Freedom-Pennsylvania-United States of America",
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Senior-Controls---Systems-Engineer--onsite-_WD30263133",
-    "job_posted_at_datetime_utc": "2026-05-06T20:06:54.796Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b4f6a1e5eaaf95e0d0681a7eda1ed3c0bf4b07a2d1fadfb2ba2a4fe891acea3f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "data analysis",
-        "embedded systems",
-        "matlab",
-        "plc",
-        "python",
-        "simulink"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:06:54.796Z"
-  },
-  {
     "job_id": "workday-johnson-controls-WD30267915",
     "job_title": "Controls Systems Designer",
     "employer_name": "Johnson Controls",
@@ -21744,6 +22090,59 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:06:54.796Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30263133",
+    "job_title": "Controls Systems Engineer I",
+    "employer_name": "Johnson Controls",
+    "job_city": "Pennsylvania-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New Freedom-Pennsylvania-United States of America",
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Senior-Controls---Systems-Engineer--onsite-_WD30263133",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:54.796Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b4f6a1e5eaaf95e0d0681a7eda1ed3c0bf4b07a2d1fadfb2ba2a4fe891acea3f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "data analysis",
+        "embedded systems",
+        "matlab",
+        "plc",
+        "python",
+        "simulink"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T20:06:54.796Z"
   },
   {
@@ -25490,37 +25889,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-05T22:17:19.211Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026506066",
-    "job_title": "Mission Systems Computing Hardware Engineer (Mid-Level, Lead or Senior)",
-    "employer_name": "Boeing",
-    "job_city": "Tukwila",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Tukwila, WA",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Mission-Systems-Computing-Hardware-Engineer--Mid-Level--Lead-or-Senior-_JR2026506066-1",
-    "job_posted_at_datetime_utc": "2026-05-05T22:17:19.210Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c0c75ec14c84e96c34a80fed3c6590c458d17707990ba80ae474b5ec69d68815",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
+    "enrichment": {
+      "required_skills": [
+        "catia",
+        "system design",
+        "tolerance analysis"
       ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T22:17:19.210Z"
+    "job_posted_at": "2026-05-05T22:17:19.211Z"
   },
   {
     "job_id": "workday-boeing-JR2026509093",
@@ -25550,6 +25937,26 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "autocad",
+        "computer science",
+        "plc",
+        "robotics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-05T22:17:19.210Z"
   },
   {
@@ -25580,6 +25987,72 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad",
+        "excel",
+        "microsoft office"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T22:17:19.210Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026506066",
+    "job_title": "Mission Systems Computing Hardware Engineer (Mid-Level, Lead or Senior)",
+    "employer_name": "Boeing",
+    "job_city": "Tukwila",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Tukwila, WA",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Mission-Systems-Computing-Hardware-Engineer--Mid-Level--Lead-or-Senior-_JR2026506066-1",
+    "job_posted_at_datetime_utc": "2026-05-05T22:17:19.210Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c0c75ec14c84e96c34a80fed3c6590c458d17707990ba80ae474b5ec69d68815",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-05T22:17:19.210Z"
   },
   {
@@ -29890,7 +30363,7 @@
     "job_location": "Santa Clara, California, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556628561",
     "job_posted_at_datetime_utc": "2026-05-05T18:46:34.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "3cfbaab5e99a26096f4e7fda0010865c48dd1a153f613bc3bf81273c1767558a",
     "tags": {
@@ -36130,6 +36603,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "catia",
+        "creo",
+        "nx",
+        "solidworks",
+        "teamcenter"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-04T22:17:19.211Z"
   },
   {
@@ -36160,6 +36654,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "computer science",
+        "data science",
+        "git",
+        "gitlab",
+        "jira"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-04T22:17:19.211Z"
   },
   {
@@ -36190,6 +36705,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "ecs",
+        "fault tree",
+        "fault tree analysis",
+        "oop",
+        "requirements traceability",
+        "safety analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-04T22:17:19.211Z"
   },
   {
@@ -36221,6 +36758,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "project management"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-04T22:17:19.211Z"
   },
   {
@@ -45312,6 +45867,65 @@
     "job_posted_at": "2026-05-02T13:31:00.058Z"
   },
   {
+    "job_id": "greenhouse-spacex-8406964002",
+    "job_title": "Operations Development Engineer (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8406964002?gh_jid=8406964002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dfe4bffda9b9e8a6f80339a2956e6a72f51e36ed17d7fee0b4421d831379b372",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "dashboards",
+        "data analysis",
+        "data visualization",
+        "grafana",
+        "jupyter",
+        "networking",
+        "postgresql",
+        "prometheus",
+        "python",
+        "reporting",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 22,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-02T13:31:00.055Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8522688002",
     "job_title": "Product Development Engineer (Starlink)",
     "employer_name": "SpaceX",
@@ -45456,19 +46070,19 @@
     "job_posted_at": "2026-05-02T13:31:00.055Z"
   },
   {
-    "job_id": "greenhouse-spacex-8406964002",
-    "job_title": "Operations Development Engineer (Starlink)",
+    "job_id": "greenhouse-spacex-8511462002",
+    "job_title": "Mechanical Engineer (Starship)",
     "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8406964002?gh_jid=8406964002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8511462002?gh_jid=8511462002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "dfe4bffda9b9e8a6f80339a2956e6a72f51e36ed17d7fee0b4421d831379b372",
+    "fingerprint": "1d1e18f27cdaeaedab4cca3f4cc7fa56b9bc908a14b7e6057464405847e6e2f9",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -45477,7 +46091,7 @@
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "entry_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -45485,20 +46099,7 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
-        "airflow",
-        "dashboards",
-        "data analysis",
-        "data visualization",
-        "grafana",
-        "jupyter",
-        "networking",
-        "postgresql",
-        "prometheus",
-        "python",
-        "reporting",
-        "spark",
-        "sql",
-        "statistics"
+        "robotics"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": false,
@@ -45512,7 +46113,58 @@
       "question_count": 22,
       "summary_line": null
     },
-    "job_posted_at": "2026-05-02T13:31:00.055Z"
+    "job_posted_at": "2026-05-02T13:31:00.054Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8506546002",
+    "job_title": "Manufacturing Engineer, PCBA (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8506546002?gh_jid=8506546002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "50f7ef87c18d8e1b194e4d8e6aeb7f62ac6fdbdc90e09e46ef575f2844327294",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "manufacturing",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "python",
+        "r",
+        "ray",
+        "six sigma",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 22,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-02T13:31:00.054Z"
   },
   {
     "job_id": "greenhouse-spacex-8521859002",
@@ -45606,103 +46258,6 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": 22,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T13:31:00.054Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8511462002",
-    "job_title": "Mechanical Engineer (Starship)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8511462002?gh_jid=8511462002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1d1e18f27cdaeaedab4cca3f4cc7fa56b9bc908a14b7e6057464405847e6e2f9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "robotics"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 22,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T13:31:00.054Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8506546002",
-    "job_title": "Manufacturing Engineer, PCBA (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Bastrop",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bastrop, TX",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8506546002?gh_jid=8506546002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "50f7ef87c18d8e1b194e4d8e6aeb7f62ac6fdbdc90e09e46ef575f2844327294",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "manufacturing",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "python",
-        "r",
-        "ray",
-        "six sigma",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
       "question_count": 22,
       "summary_line": null
     },
@@ -48334,199 +48889,5 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-01T22:48:01.264Z"
-  },
-  {
-    "job_id": "apple-200661101",
-    "job_title": "Baseband Hardware Design Engineer",
-    "employer_name": "Apple",
-    "job_city": "Waltham",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Waltham",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200661101/baseband-hardware-design-engineer",
-    "job_posted_at_datetime_utc": "2026-05-01T22:46:12.464Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "20d97dd267b49ab88b7bbd81f81889376bc7af751d74b37de19ec335077628fd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-01T22:46:12.464Z"
-  },
-  {
-    "job_id": "apple-200661100",
-    "job_title": "Cellular RF Hardware Design Engineer",
-    "employer_name": "Apple",
-    "job_city": "Sunnyvale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Sunnyvale",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200661100/cellular-rf-hardware-design-engineer",
-    "job_posted_at_datetime_utc": "2026-05-01T22:45:36.168Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7fa3af3ee37212d70ffe6bfbd06df285de8bac01250442a92f2c09c4d9be7f85",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "rf"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-01T22:45:36.168Z"
-  },
-  {
-    "job_id": "apple-200661099",
-    "job_title": "Cellular RF Hardware Design Engineer",
-    "employer_name": "Apple",
-    "job_city": "Sunnyvale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Sunnyvale",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200661099/cellular-rf-hardware-design-engineer",
-    "job_posted_at_datetime_utc": "2026-05-01T22:43:53.210Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7fa3af3ee37212d70ffe6bfbd06df285de8bac01250442a92f2c09c4d9be7f85",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "rf"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-01T22:43:53.210Z"
-  },
-  {
-    "job_id": "apple-200661098",
-    "job_title": "RFIC Layout Engineer",
-    "employer_name": "Apple",
-    "job_city": "Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200661098/rfic-layout-engineer",
-    "job_posted_at_datetime_utc": "2026-05-01T22:42:17.263Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86e439b45eae46cae7f6db171620f8f94401834b8d6dbc08ee06730f64315e6f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "rf"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-01T22:42:17.263Z"
   }
 ]
