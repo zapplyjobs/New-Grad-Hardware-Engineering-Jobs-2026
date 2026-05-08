@@ -1,5 +1,279 @@
 [
   {
+    "job_id": "amd-85394",
+    "job_title": "SMTS Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, TX, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85394/login",
+    "job_posted_at_datetime_utc": "2026-05-08T15:00:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "cf19336d8e05fc2d50aab2f7d6d52e218361e23d97ed89232fb2b9812d1dc9d4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T15:00:00.000Z"
+  },
+  {
+    "job_id": "amd-85356",
+    "job_title": "PMTS Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, TX, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85356/login",
+    "job_posted_at_datetime_utc": "2026-05-08T15:00:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "7ddd447979661fd35959b9df3d66c27f11d79d2511783bd16b21f5d8eeb393df",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T15:00:00.000Z"
+  },
+  {
+    "job_id": "amd-85354",
+    "job_title": "SMTS Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85354/login",
+    "job_posted_at_datetime_utc": "2026-05-08T14:59:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "8996cfd63cf6190d2728120194cb8c15c1d6ee6207ee2c32031e288f0eaa0072",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T14:59:00.000Z"
+  },
+  {
+    "job_id": "amd-85352",
+    "job_title": "SMTS Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, TX, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85352/login",
+    "job_posted_at_datetime_utc": "2026-05-08T14:57:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "cf19336d8e05fc2d50aab2f7d6d52e218361e23d97ed89232fb2b9812d1dc9d4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T14:57:00.000Z"
+  },
+  {
+    "job_id": "amd-85348",
+    "job_title": "MTS Systems Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Folsom",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Folsom, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85348/login",
+    "job_posted_at_datetime_utc": "2026-05-08T14:57:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "67e350487a5a13fc784997d28818f88967f5ec4cb6aeb6501573c8598a4dbf36",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T14:57:00.000Z"
+  },
+  {
+    "job_id": "amd-85347",
+    "job_title": "MTS Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Clara, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85347/login",
+    "job_posted_at_datetime_utc": "2026-05-08T14:57:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "de40c4b95e3410c405faf40c372c242bb7db50677a459079d61dec17aabd5ced",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T14:57:00.000Z"
+  },
+  {
+    "job_id": "amd-85344",
+    "job_title": "MTS Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Fishkill",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fishkill, NY, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85344/login",
+    "job_posted_at_datetime_utc": "2026-05-08T14:57:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "e0599958c59ae7a33c4d3d7477bfb0581567bcff567a966d384287b91c9457ba",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T14:57:00.000Z"
+  },
+  {
+    "job_id": "apple-200662225",
+    "job_title": "Hardware Engineering Program Manager- Home",
+    "employer_name": "Apple",
+    "job_city": "Cupertino",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200662225/hardware-engineering-program-manager-home",
+    "job_posted_at_datetime_utc": "2026-05-08T14:47:10.091Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cdf110646c5ada14cf2b0746411d86a76a5a342662a044b3922e9d8baaaa7dc6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "apple",
+    "job_posted_at": "2026-05-08T14:47:10.091Z"
+  },
+  {
+    "job_id": "amd-85839",
+    "job_title": "RTL Power Management Engineer",
+    "employer_name": "AMD",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85839/login",
+    "job_posted_at_datetime_utc": "2026-05-08T14:46:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "270d46962e160bd41286b2806b1413d97710913a36a772b45de79b993f0751d9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T14:46:00.000Z"
+  },
+  {
     "job_id": "apple-200662221",
     "job_title": "Product Design Engineering Program Manager- Home",
     "employer_name": "Apple",
@@ -31,6 +305,16 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [
+        "program management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T14:44:34.394Z"
   },
   {
@@ -218,7 +502,7 @@
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -1573,7 +1857,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863833",
     "job_posted_at_datetime_utc": "2026-05-07T19:33:41.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "94d39ede1d4c28ea25b075671e4ea91361ffd00181280b9f5d3213caec5716eb",
     "tags": {
@@ -1584,7 +1868,7 @@
       "locations": [
         "us"
       ],
-      "experience": "entry_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -1706,7 +1990,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863829",
     "job_posted_at_datetime_utc": "2026-05-07T19:02:24.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -4862,6 +5146,45 @@
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
+    "job_id": "simplify-f0726504-db62-485e-bada-8c18a1e5693d",
+    "job_title": "Engineering Technician",
+    "employer_name": "Amentum",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Kennedy-Space-Center/Engineering-Technician_R0157372",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cef0186690267a95f31e360916b5d65ee0e719c37047412827492561623aba31",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
     "job_id": "simplify-5e20afd1-9124-42ba-a6dc-0b14490579ef",
     "job_title": "Entry Level Electrical RF Engineer",
     "employer_name": "Amentum",
@@ -4917,45 +5240,6 @@
       "employment": "entry_level",
       "domains": [
         "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-f0726504-db62-485e-bada-8c18a1e5693d",
-    "job_title": "Engineering Technician",
-    "employer_name": "Amentum",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Kennedy-Space-Center/Engineering-Technician_R0157372",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cef0186690267a95f31e360916b5d65ee0e719c37047412827492561623aba31",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
       ],
       "locations": [
         "us"
@@ -9437,7 +9721,7 @@
     "job_location": "Santa Clara, California, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556628561",
     "job_posted_at_datetime_utc": "2026-05-05T18:46:34.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3cfbaab5e99a26096f4e7fda0010865c48dd1a153f613bc3bf81273c1767558a",
     "tags": {
@@ -9448,7 +9732,7 @@
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -15632,7 +15916,7 @@
     "job_location": "Boydton, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556813763",
     "job_posted_at_datetime_utc": "2026-05-04T19:36:33.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "f59e0212d07938df773e5e17ae4687412a2bc1dcc6511b69baaf28686349641f",
     "tags": {
@@ -15643,7 +15927,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "entry_level",
       "special": [
         "faang"
       ],
@@ -17106,7 +17390,7 @@
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -22998,6 +23282,59 @@
     "job_posted_at": "2026-05-02T13:31:00.058Z"
   },
   {
+    "job_id": "greenhouse-spacex-8406964002",
+    "job_title": "Operations Development Engineer (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8406964002?gh_jid=8406964002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dfe4bffda9b9e8a6f80339a2956e6a72f51e36ed17d7fee0b4421d831379b372",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "dashboards",
+        "data analysis",
+        "data visualization",
+        "grafana",
+        "jupyter",
+        "networking",
+        "postgresql",
+        "prometheus",
+        "python",
+        "reporting",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:00.055Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8522688002",
     "job_title": "Product Development Engineer (Starlink)",
     "employer_name": "SpaceX",
@@ -23122,19 +23459,19 @@
     "job_posted_at": "2026-05-02T13:31:00.055Z"
   },
   {
-    "job_id": "greenhouse-spacex-8406964002",
-    "job_title": "Operations Development Engineer (Starlink)",
+    "job_id": "greenhouse-spacex-8511462002",
+    "job_title": "Mechanical Engineer (Starship)",
     "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8406964002?gh_jid=8406964002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8511462002?gh_jid=8511462002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "dfe4bffda9b9e8a6f80339a2956e6a72f51e36ed17d7fee0b4421d831379b372",
+    "fingerprint": "1d1e18f27cdaeaedab4cca3f4cc7fa56b9bc908a14b7e6057464405847e6e2f9",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -23143,7 +23480,7 @@
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "entry_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -23151,20 +23488,7 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
-        "airflow",
-        "dashboards",
-        "data analysis",
-        "data visualization",
-        "grafana",
-        "jupyter",
-        "networking",
-        "postgresql",
-        "prometheus",
-        "python",
-        "reporting",
-        "spark",
-        "sql",
-        "statistics"
+        "robotics"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
@@ -23172,7 +23496,7 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-05-02T13:31:00.055Z"
+    "job_posted_at": "2026-05-02T13:31:00.054Z"
   },
   {
     "job_id": "greenhouse-spacex-8506546002",
@@ -23295,46 +23619,6 @@
         "python",
         "rf",
         "sql"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:00.054Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8511462002",
-    "job_title": "Mechanical Engineer (Starship)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8511462002?gh_jid=8511462002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1d1e18f27cdaeaedab4cca3f4cc7fa56b9bc908a14b7e6057464405847e6e2f9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "robotics"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
