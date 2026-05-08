@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "greenhouse-spacex-8535055002",
+    "job_title": "Build Reliability Engineer (Starship)",
+    "employer_name": "SpaceX",
+    "job_city": "Westminster",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Westminster, MD",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8535055002?gh_jid=8535055002",
+    "job_posted_at_datetime_utc": "2026-05-07T23:36:55.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5c286fc0841fa7de09a39db7c0ca1736ab4081e24bf83a7061aa575223ea886a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-07T23:36:55.000Z"
+  },
+  {
     "job_id": "greenhouse-relativity-8537933002",
     "job_title": "Stage Development Engineer I",
     "employer_name": "Relativity Space",
@@ -27,7 +57,52 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "erp",
+        "excel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-07T23:31:00.000Z"
+  },
+  {
+    "job_id": "microsoft-200036781",
+    "job_title": "Critical Environment Field Service Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Dallas",
+    "job_state": "Texas",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dallas, Texas, United States",
+    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863801",
+    "job_posted_at_datetime_utc": "2026-05-07T23:29:33.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "026c46879cad4b974b6345a45f4f1b1be714c7f8d1875198d15748a4393969d2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "microsoft",
+    "job_posted_at": "2026-05-07T23:29:33.000Z"
   },
   {
     "job_id": "greenhouse-andurilindustries-5132439007",
@@ -57,6 +132,23 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "arm",
+        "embedded systems",
+        "firmware",
+        "i2c",
+        "jtag",
+        "microcontroller",
+        "rtos",
+        "spi"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-07T23:19:44.000Z"
   },
   {
@@ -87,6 +179,17 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "firmware",
+        "pcb design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-07T23:16:45.000Z"
   },
   {
@@ -989,7 +1092,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863833",
     "job_posted_at_datetime_utc": "2026-05-07T19:33:41.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "94d39ede1d4c28ea25b075671e4ea91361ffd00181280b9f5d3213caec5716eb",
     "tags": {
@@ -1077,7 +1180,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863830",
     "job_posted_at_datetime_utc": "2026-05-07T19:04:18.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -1122,7 +1225,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863829",
     "job_posted_at_datetime_utc": "2026-05-07T19:02:24.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -13675,7 +13778,7 @@
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-7f656325-906f-42f3-bea9-df4e8a6bbb43",
+    "job_id": "amazon-2e4164db-8ac9-44ee-9a8e-0b79dfdfc18a",
     "job_title": "Systems Development Engineer, OISL Test Automation",
     "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
     "job_city": "Redmond",
@@ -13683,7 +13786,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Redmond, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10411667/systems-development-engineer-oisl-test-automation",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10411666/systems-development-engineer-oisl-test-automation",
     "job_posted_at_datetime_utc": "2026-05-05T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -13727,7 +13830,7 @@
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-2e4164db-8ac9-44ee-9a8e-0b79dfdfc18a",
+    "job_id": "amazon-7f656325-906f-42f3-bea9-df4e8a6bbb43",
     "job_title": "Systems Development Engineer, OISL Test Automation",
     "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
     "job_city": "Redmond",
@@ -13735,7 +13838,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Redmond, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10411666/systems-development-engineer-oisl-test-automation",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10411667/systems-development-engineer-oisl-test-automation",
     "job_posted_at_datetime_utc": "2026-05-05T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -22692,89 +22795,6 @@
     "job_posted_at": "2026-05-02T13:31:00.055Z"
   },
   {
-    "job_id": "greenhouse-spacex-8521383002",
-    "job_title": "Mechanical Engineer, Hardware Reliability (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Bastrop",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bastrop, TX",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8521383002?gh_jid=8521383002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b5fd835f4333d3590b9be068896056c2eb9154f21fefbc97dc2e0e99868fe1b2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "python",
-        "rf",
-        "sql"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:00.054Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8511462002",
-    "job_title": "Mechanical Engineer (Starship)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8511462002?gh_jid=8511462002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1d1e18f27cdaeaedab4cca3f4cc7fa56b9bc908a14b7e6057464405847e6e2f9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "robotics"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:00.054Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8506546002",
     "job_title": "Manufacturing Engineer, PCBA (Starlink)",
     "employer_name": "SpaceX",
@@ -22852,6 +22872,89 @@
         "excel",
         "jira",
         "microsoft office"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:00.054Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8521383002",
+    "job_title": "Mechanical Engineer, Hardware Reliability (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8521383002?gh_jid=8521383002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b5fd835f4333d3590b9be068896056c2eb9154f21fefbc97dc2e0e99868fe1b2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "python",
+        "rf",
+        "sql"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:00.054Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8511462002",
+    "job_title": "Mechanical Engineer (Starship)",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8511462002?gh_jid=8511462002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1d1e18f27cdaeaedab4cca3f4cc7fa56b9bc908a14b7e6057464405847e6e2f9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "robotics"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
@@ -32792,422 +32895,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-01T00:02:49.915Z"
-  },
-  {
-    "job_id": "amazon-c676cd57-6702-4fe8-a6e8-d14b9d9b0947",
-    "job_title": "Hardware Development Engineer , Amazon Leo",
-    "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10409345/hardware-development-engineer-amazon-leo",
-    "job_posted_at_datetime_utc": "2026-05-01T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3175697810b7f8d8aea614181cb5483f6c7ef591057ea4c5fbfadf8928da4f42",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "real-time systems"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-1e2ffb7d-9399-4ba3-9075-1272aee39229",
-    "job_title": "Power Test Engineer, Satellite Power Hardware-In-The-Loop, Amazon Leo",
-    "employer_name": "Amazon Kuiper Manufacturing Enterprises LLC",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10408964/power-test-engineer-satellite-power-hardware-in-the-loop-amazon-leo",
-    "job_posted_at_datetime_utc": "2026-05-01T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "42f96a8ba1089a2bfbed31e792173629883dc072a275856b330ad75be6771b88",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "oracle-331082",
-    "job_title": "AI Platform Reliability Engineer",
-    "employer_name": "Oracle",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/331082",
-    "job_posted_at_datetime_utc": "2026-05-01T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e56a8f4e4965f5780e5efa95707a52d1dde318501ad4e1c8c65ed16c65fa8bbe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "oracle",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "analytics",
-        "observability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012916542",
-    "job_title": "Mechanical Engineer",
-    "employer_name": "AbbVie",
-    "job_city": "Tempe",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tempe, AZ",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012916542",
-    "job_posted_at_datetime_utc": "2026-04-30T23:59:24.349Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "798c7c126906de0c05c13ec130e999b4e06925e96237888f4063c1efd1d659a1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T23:59:24.349Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012911713",
-    "job_title": "Preventative Maintenance Engineer",
-    "employer_name": "AbbVie",
-    "job_city": "Tempe",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tempe, AZ",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012911713",
-    "job_posted_at_datetime_utc": "2026-04-30T23:54:07.680Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "e0eee8fe6bae036d018c1bf211a5a2f8ee52ee75e4633a713a32bd5d49084777",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "cgmp",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T23:54:07.680Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012911987",
-    "job_title": "Validation Engineer",
-    "employer_name": "AbbVie",
-    "job_city": "Waco",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Waco, TX",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012911987",
-    "job_posted_at_datetime_utc": "2026-04-30T23:53:14.257Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "e4b4782205824eb4689d919e9b04de20f15d37ea92eee9efad302fdaf4656961",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "cgmp"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T23:53:14.257Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012911642",
-    "job_title": "Scientist I Medical Device Mechanical Engineer",
-    "employer_name": "AbbVie",
-    "job_city": "North Chicago",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "North Chicago, IL",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012911642",
-    "job_posted_at_datetime_utc": "2026-04-30T23:53:10.886Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "ffda9c2cea3ab4865a4fd588c5ce1074cf37362431a6a133a26a6255b28298cc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "cfr",
-        "data analysis",
-        "gd&t",
-        "iso 13485",
-        "statistical analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T23:53:10.886Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012907764",
-    "job_title": "Service Engineer, Analytical Instrumentation",
-    "employer_name": "AbbVie",
-    "job_city": "North Chicago",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "North Chicago, IL",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012907764",
-    "job_posted_at_datetime_utc": "2026-04-30T23:51:54.823Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "4d1b715ba538024f4815a94aed541d7cf6a6f8b0b93c7660c98519774288ca8b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T23:51:54.823Z"
-  },
-  {
-    "job_id": "greenhouse-neuralink-6681863003",
-    "job_title": "Signal Processing Engineer",
-    "employer_name": "Neuralink",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin, Texas, United States; Fremont, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/neuralink/jobs/6681863003?gh_jid=6681863003",
-    "job_posted_at_datetime_utc": "2026-04-30T23:48:24.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7ab22312647e3ab87ae69c478e15cb377d4d33f5ba951782c01cb90ea14baadf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "python",
-        "signal processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T23:48:24.000Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012906514",
-    "job_title": "Global Process Engineer (Aseptic)",
-    "employer_name": "AbbVie",
-    "job_city": "North Chicago",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "North Chicago, IL",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012906514",
-    "job_posted_at_datetime_utc": "2026-04-30T23:45:54.743Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "fd4cce476a18e7646a850442bb7ecc6d486457b2354ce90a655fe555bebbbedb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T23:45:54.743Z"
   }
 ]
