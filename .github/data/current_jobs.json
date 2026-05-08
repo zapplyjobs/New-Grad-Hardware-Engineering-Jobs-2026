@@ -1,5 +1,515 @@
 [
   {
+    "job_id": "amd-85579",
+    "job_title": "SMTS Firmware Engineer",
+    "employer_name": "AMD",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, TX, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85579/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:14:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "9b660f84b2256d78d2b0aa295922475b834d7158de32aeafbe7d93fd60b6edf1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:14:00.000Z"
+  },
+  {
+    "job_id": "amd-85576",
+    "job_title": "Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, TX, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85576/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:14:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "215855767d0b3815cfe73bf830a289ba6a5f7bd93e7f3bc23884e8284f2ab172",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:14:00.000Z"
+  },
+  {
+    "job_id": "amd-85577",
+    "job_title": "SMTS Systems Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Clara, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85577/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:14:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "ed002ed1a424bb502b7e9d8c232f10196747760eb0cdafae5f2cfc7509176b9a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:14:00.000Z"
+  },
+  {
+    "job_id": "amd-85568",
+    "job_title": "MTS Network Engineer",
+    "employer_name": "AMD",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85568/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:12:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "211fa2d3233002b66f64908a8bba10d8c929c3ee891f04b55ff25413abb5d82b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:12:00.000Z"
+  },
+  {
+    "job_id": "amd-85562",
+    "job_title": "Product Development Engineer",
+    "employer_name": "AMD",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, TX, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85562/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:11:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "726c36b211af4a6e8290e560c16d72f5310b46beb851dd790e73f6526ed38888",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:11:00.000Z"
+  },
+  {
+    "job_id": "amd-85560",
+    "job_title": "Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, TX, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85560/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:10:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "215855767d0b3815cfe73bf830a289ba6a5f7bd93e7f3bc23884e8284f2ab172",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:10:00.000Z"
+  },
+  {
+    "job_id": "amd-85558",
+    "job_title": "MTS Packaging Engineer",
+    "employer_name": "AMD",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, TX, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85558/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:10:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "2e1e18b252c4ef0dc3d3e4dc3afd00488e0e1c7596d73a4b12090a6b9abb7c19",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:10:00.000Z"
+  },
+  {
+    "job_id": "amd-85551",
+    "job_title": "MTS Systems Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Folsom",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Folsom, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85551/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:09:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "67e350487a5a13fc784997d28818f88967f5ec4cb6aeb6501573c8598a4dbf36",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:09:00.000Z"
+  },
+  {
+    "job_id": "amd-85550",
+    "job_title": "MTS Firmware Engineer",
+    "employer_name": "AMD",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, TX, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85550/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:08:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "6e0d7b0be58bf5f21a4c09d13effb1bfdfee726aceb11a1b93c5833bef10b8dd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:08:00.000Z"
+  },
+  {
+    "job_id": "amd-85544",
+    "job_title": "MTS Software System Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Clara, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85544/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:07:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "06ee576300f3263e5a7401fbd9868e5ef7d6ce607e715c9eae713645d1310fcc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:07:00.000Z"
+  },
+  {
+    "job_id": "amd-85505",
+    "job_title": "Program Manager",
+    "employer_name": "AMD",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, TX, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85505/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:06:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "5bb8beb25c76d866ac84e4d9cb4f8b8df8807b886561cae0719d34b4a4041f8a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:06:00.000Z"
+  },
+  {
+    "job_id": "amd-85506",
+    "job_title": "Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85506/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:06:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "bc79ca22ce14e05484b3e25eb334f847a42cc8a172e44b09c8daff310854aedc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:06:00.000Z"
+  },
+  {
+    "job_id": "amd-85503",
+    "job_title": "MTS Hardware Development Engineer",
+    "employer_name": "AMD",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, TX, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85503/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:05:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "dbc5e96ca33ee18695d455ea65925b376ad05811c9edd0188c474d8fdd2b6233",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:05:00.000Z"
+  },
+  {
+    "job_id": "amd-85500",
+    "job_title": "MTS Firmware Engineer",
+    "employer_name": "AMD",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Clara, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85500/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:05:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "388c0feafc93385fdfbe989db847b9eb35c92f9f07ca23caf6c0a9127ab64f55",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:05:00.000Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8541119002",
+    "job_title": "Chiller Specialist (Chilled Water/Data Center) - Level 4/5",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8541119002?gh_jid=8541119002",
+    "job_posted_at_datetime_utc": "2026-05-08T16:04:20.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6f46ae643221653176d1a2d1a04cf96ab42843fc796c52f71bf725591cfd2bcf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-08T16:04:20.000Z"
+  },
+  {
+    "job_id": "amd-85496",
+    "job_title": "MTS Product Development Engineer",
+    "employer_name": "AMD",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, TX, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85496/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:04:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "39ec0a4bb5ccf53357a7bc8bd59fb071fe22cc2caea783a6e3736d3ad7ef2b14",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:04:00.000Z"
+  },
+  {
+    "job_id": "amd-85497",
+    "job_title": "Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Clara, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85497/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:04:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "8e53ed164aa18422e2edacd80b65fd805e37b2836bdafd1ab9263c242d85be23",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:04:00.000Z"
+  },
+  {
     "job_id": "google-131007280702202566",
     "job_title": "Optical Network Engineer, Google Global Networking",
     "employer_name": "Google",
@@ -29,6 +539,14 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T16:02:34.154Z"
   },
   {
@@ -59,7 +577,108 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "project management"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T16:01:57.000Z"
+  },
+  {
+    "job_id": "amd-85487",
+    "job_title": "MTS Analog Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Folsom",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Folsom, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85487/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:01:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "1a12426f6f00a780c4bcb2b6b943646e4baa97f07fb4bae362e6446f10be499b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:01:00.000Z"
+  },
+  {
+    "job_id": "amd-85485",
+    "job_title": "MTS Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85485/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:01:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "9270a1a3a7baabe1859dd8aeda3e9f53730fc5e1b5dc3afa54ae86efd9d73df3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:01:00.000Z"
+  },
+  {
+    "job_id": "amd-85482",
+    "job_title": "MTS Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85482/login",
+    "job_posted_at_datetime_utc": "2026-05-08T16:00:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "9270a1a3a7baabe1859dd8aeda3e9f53730fc5e1b5dc3afa54ae86efd9d73df3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T16:00:00.000Z"
   },
   {
     "job_id": "amd-85437",
@@ -89,6 +708,23 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "linux",
+        "microprocessor",
+        "python",
+        "soc",
+        "unix",
+        "verilog",
+        "vhdl"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T15:59:00.000Z"
   },
   {
@@ -119,6 +755,24 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "computer science",
+        "confluence",
+        "dashboards",
+        "jira",
+        "microsoft office",
+        "program management",
+        "project management",
+        "waterfall"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T15:59:00.000Z"
   },
   {
@@ -149,6 +803,20 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "cadence",
+        "perl",
+        "python",
+        "synopsys"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T15:58:00.000Z"
   },
   {
@@ -179,6 +847,19 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "perl",
+        "python",
+        "verilog",
+        "vhdl"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T15:58:00.000Z"
   },
   {
@@ -209,6 +890,18 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "systemverilog",
+        "verilog",
+        "vhdl"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T15:57:00.000Z"
   },
   {
@@ -239,6 +932,28 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "PostgreSQL",
+        "analytics",
+        "c++",
+        "computer science",
+        "databricks",
+        "embedded systems",
+        "etl",
+        "git",
+        "jmp",
+        "python",
+        "snowflake",
+        "sql",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T15:56:00.000Z"
   },
   {
@@ -269,6 +984,21 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "dashboards",
+        "program management",
+        "project management",
+        "risk management",
+        "stakeholder management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T15:56:00.000Z"
   },
   {
@@ -299,6 +1029,25 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "ansible",
+        "bgp",
+        "dhcp",
+        "dns",
+        "linux",
+        "networking",
+        "ospf",
+        "python",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T15:52:00.000Z"
   },
   {
@@ -329,6 +1078,22 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "embedded systems",
+        "jupyter",
+        "machine learning",
+        "python",
+        "rag"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T15:52:00.000Z"
   },
   {
@@ -359,6 +1124,19 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "firmware",
+        "python",
+        "soc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T15:45:00.000Z"
   },
   {
@@ -1552,7 +2330,7 @@
     "job_location": "Dallas, Texas, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863801",
     "job_posted_at_datetime_utc": "2026-05-07T23:29:33.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "026c46879cad4b974b6345a45f4f1b1be714c7f8d1875198d15748a4393969d2",
     "tags": {
@@ -3946,19 +4724,19 @@
     "job_posted_at": "2026-05-07T01:26:07.462Z"
   },
   {
-    "job_id": "greenhouse-purestorage-7872199",
+    "job_id": "greenhouse-purestorage-7902355",
     "job_title": "Security Operations Engineer",
     "employer_name": "Pure Storage",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_city": "Lehi",
+    "job_state": "UT",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Santa Clara, California",
-    "job_apply_link": "https://job-boards.greenhouse.io/purestorage/jobs/7872199",
+    "job_location": "Lehi, Utah",
+    "job_apply_link": "https://job-boards.greenhouse.io/purestorage/jobs/7902355",
     "job_posted_at_datetime_utc": "2026-05-07T01:21:43.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "b081b356bee998bbdd106d562f57bb41bc406a026ce3297f8834ceea1e8b6740",
+    "fingerprint": "93f68c03851348e4cf635c37456d258731492f1a758180e578a1d7176be8ff3f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3997,19 +4775,19 @@
     "job_posted_at": "2026-05-07T01:21:43.000Z"
   },
   {
-    "job_id": "greenhouse-purestorage-7902355",
+    "job_id": "greenhouse-purestorage-7872199",
     "job_title": "Security Operations Engineer",
     "employer_name": "Pure Storage",
-    "job_city": "Lehi",
-    "job_state": "UT",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Lehi, Utah",
-    "job_apply_link": "https://job-boards.greenhouse.io/purestorage/jobs/7902355",
+    "job_location": "Santa Clara, California",
+    "job_apply_link": "https://job-boards.greenhouse.io/purestorage/jobs/7872199",
     "job_posted_at_datetime_utc": "2026-05-07T01:21:43.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "93f68c03851348e4cf635c37456d258731492f1a758180e578a1d7176be8ff3f",
+    "fingerprint": "b081b356bee998bbdd106d562f57bb41bc406a026ce3297f8834ceea1e8b6740",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -14342,7 +15120,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863752",
     "job_posted_at_datetime_utc": "2026-05-05T12:57:48.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "172ba110541125d4b63bc2096452e5f26da937aab5d8376213770ac7a45d77e3",
     "tags": {
@@ -23997,6 +24775,59 @@
     "job_posted_at": "2026-05-02T13:31:00.058Z"
   },
   {
+    "job_id": "greenhouse-spacex-8406964002",
+    "job_title": "Operations Development Engineer (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8406964002?gh_jid=8406964002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dfe4bffda9b9e8a6f80339a2956e6a72f51e36ed17d7fee0b4421d831379b372",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "dashboards",
+        "data analysis",
+        "data visualization",
+        "grafana",
+        "jupyter",
+        "networking",
+        "postgresql",
+        "prometheus",
+        "python",
+        "reporting",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:00.055Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8522688002",
     "job_title": "Product Development Engineer (Starlink)",
     "employer_name": "SpaceX",
@@ -24111,59 +24942,6 @@
     "enrichment": {
       "required_skills": [
         "project management"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:00.055Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8406964002",
-    "job_title": "Operations Development Engineer (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8406964002?gh_jid=8406964002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dfe4bffda9b9e8a6f80339a2956e6a72f51e36ed17d7fee0b4421d831379b372",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "dashboards",
-        "data analysis",
-        "data visualization",
-        "grafana",
-        "jupyter",
-        "networking",
-        "postgresql",
-        "prometheus",
-        "python",
-        "reporting",
-        "spark",
-        "sql",
-        "statistics"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
@@ -24431,49 +25209,6 @@
     "job_posted_at": "2026-05-02T13:31:00.053Z"
   },
   {
-    "job_id": "greenhouse-spacex-8506464002",
-    "job_title": "Automation & Controls Specialist (Starlink Production)",
-    "employer_name": "SpaceX",
-    "job_city": "Bastrop",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bastrop, TX",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8506464002?gh_jid=8506464002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.052Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4f40504a2e519c085ca1c5a945f96d725d962b23f7c4c9c653b3e7953fe2f8c8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "manufacturing",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "hmi",
-        "plc"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:00.052Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8511245002",
     "job_title": "Antenna Engineer (Starshield)",
     "employer_name": "SpaceX",
@@ -24513,6 +25248,49 @@
         "python",
         "radar",
         "rf"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:00.052Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8506464002",
+    "job_title": "Automation & Controls Specialist (Starlink Production)",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8506464002?gh_jid=8506464002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.052Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4f40504a2e519c085ca1c5a945f96d725d962b23f7c4c9c653b3e7953fe2f8c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "manufacturing",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "hmi",
+        "plc"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
@@ -28070,47 +28848,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-01T16:31:48.800Z"
-  },
-  {
-    "job_id": "workday-sel-2026-21073",
-    "job_title": "Mechanical Designer",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Washington - Pullman",
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Mechanical-Designer_2026-21073",
-    "job_posted_at_datetime_utc": "2026-05-01T16:21:40.480Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "46cf2f57a9d9d5fdd320dadc8165bc400ce76a6391e1c6e32400c18b1102c400",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "jira",
-        "solidworks"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T16:21:40.480Z"
   }
 ]
