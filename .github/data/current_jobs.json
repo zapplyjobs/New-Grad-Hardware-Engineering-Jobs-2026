@@ -542,6 +542,38 @@
     "job_posted_at": "2026-05-08T20:08:38.175Z"
   },
   {
+    "job_id": "microsoft-200027812",
+    "job_title": "Critical Environment Mechanical Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Charlotte",
+    "job_state": "North Carolina",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Charlotte, North Carolina, United States",
+    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556755330",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "e33ed941a3b8125ca2f76761de277dfe1eca1d09ea20ee406dd874d9144dacfc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "microsoft",
+    "job_posted_at": "2026-05-08T20:08:38.000Z"
+  },
+  {
     "job_id": "workday-sel-2026-20292",
     "job_title": "Process Engineering Technician I",
     "employer_name": "SEL",
@@ -783,6 +815,157 @@
     "job_posted_at": "2026-05-08T20:08:03.839Z"
   },
   {
+    "job_id": "workday-northrop-grumman-R10232140",
+    "job_title": "Mechanical Engineer - Level 4",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Alabama-Huntsville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-Alabama-Huntsville",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Mechanical-Engineer---Level-4_R10232140",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:01.898Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cf5d0ee86f7069d28ea3e067df3d66b47d79353807eeaf2d3dcdcf9b6db99b92",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:01.898Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10232127",
+    "job_title": "Mechanical Engineer - Level 3",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Alabama-Huntsville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-Alabama-Huntsville",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Mechanical-Engineer---Level-3_R10232127-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:01.898Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e2e7616abffb99c8d61cc9eee32f44e21ee83eb47c0858d48e03886e9e64a88e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:01.898Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10229212",
+    "job_title": "Engineering Technician 2/3",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Utah-Corinne",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-Utah-Corinne",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Engineering-Technician-2-3_R10229212",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:01.898Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e9310108ca63a176fcd135fa0186d4f0a2c533bfbfd4978ad6b4f778f4a99da4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:01.898Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10232147",
+    "job_title": "Electrical Engineer - Level 3",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Alabama-Huntsville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-Alabama-Huntsville",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Electrical-Engineer---Level-3_R10232147",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:01.898Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a02f3c300182adc575efe11dfa25f836060ffb5f2ae3bebc6ae266d6a6ea0b04",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:01.898Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10231324",
+    "job_title": "Quality Engineer",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Virginia-Radford",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-Virginia-Radford",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Radford/Quality-Engineer_R10231324",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:01.898Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2cf3e5cb2b315e2fdfea3173a8c457cb0ffc3fa2497a268baa004352542d7fc4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:01.898Z"
+  },
+  {
     "job_id": "workday-northrop-grumman-R10232218",
     "job_title": "Electromechanical Engineer (Level 1 OR 2)",
     "employer_name": "Northrop Grumman",
@@ -1010,157 +1193,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "918c930a08c2ef4fd869056b56102da33c2543dcfae29ee210fef8f14779cd8f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:01.898Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10232140",
-    "job_title": "Mechanical Engineer - Level 4",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Alabama-Huntsville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-Alabama-Huntsville",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Mechanical-Engineer---Level-4_R10232140",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:01.898Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cf5d0ee86f7069d28ea3e067df3d66b47d79353807eeaf2d3dcdcf9b6db99b92",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:01.898Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10232127",
-    "job_title": "Mechanical Engineer - Level 3",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Alabama-Huntsville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-Alabama-Huntsville",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Mechanical-Engineer---Level-3_R10232127-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:01.898Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e2e7616abffb99c8d61cc9eee32f44e21ee83eb47c0858d48e03886e9e64a88e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:01.898Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10229212",
-    "job_title": "Engineering Technician 2/3",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Utah-Corinne",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-Utah-Corinne",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Engineering-Technician-2-3_R10229212",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:01.898Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e9310108ca63a176fcd135fa0186d4f0a2c533bfbfd4978ad6b4f778f4a99da4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:01.898Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10232147",
-    "job_title": "Electrical Engineer - Level 3",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Alabama-Huntsville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-Alabama-Huntsville",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Electrical-Engineer---Level-3_R10232147",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:01.898Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a02f3c300182adc575efe11dfa25f836060ffb5f2ae3bebc6ae266d6a6ea0b04",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:01.898Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10231324",
-    "job_title": "Quality Engineer",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Virginia-Radford",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-Virginia-Radford",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Radford/Quality-Engineer_R10231324",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:01.898Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2cf3e5cb2b315e2fdfea3173a8c457cb0ffc3fa2497a268baa004352542d7fc4",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1570,127 +1602,6 @@
     "job_posted_at": "2026-05-08T20:07:39.278Z"
   },
   {
-    "job_id": "workday-leidos-R-00182741",
-    "job_title": "Mechanical Engineer, Marine Small Craft",
-    "employer_name": "Leidos",
-    "job_city": "Chesapeake",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chesapeake, VA",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Mechanical-Engineer--Marine-Small-Craft_R-00182741",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fd59e32794311b0c26df7c6222c7b9373c2f9f82ecac336aabf621a73f38f821",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:07:39.277Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00182737",
-    "job_title": "Junior Mechanical Engineer, Marine Small Craft",
-    "employer_name": "Leidos",
-    "job_city": "Chesapeake",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chesapeake, VA",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Junior-Mechanical-Engineer--Marine-Small-Craft_R-00182737",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4261e361093fc2ab137a6cf94cdfdb66d4c96217536503150d914397be18326b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:07:39.277Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00182750",
-    "job_title": "Engineering Technician",
-    "employer_name": "Leidos",
-    "job_city": "St. Petersburg",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "St. Petersburg, FL",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Petersburg-FL/Engineering-Technician_R-00182750",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "31d73245eb8bd286c9d80251ba2c1a24a8d4bde475f5fca973c018d4e7cd9cfa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:07:39.277Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00182671",
-    "job_title": "Electronics Technologist",
-    "employer_name": "Leidos",
-    "job_city": "Lynnwood",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Lynnwood, WA",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Lynnwood-WA/Electronics-Technologist_R-00182671",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a08bc8ec731e77ee8ae586d1dc9fcfeda44d5cc9db557435139cc6fe6c23b7c5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:07:39.277Z"
-  },
-  {
     "job_id": "workday-leidos-R-00182761",
     "job_title": "Mechanical Engineering Branch Manager",
     "employer_name": "Leidos",
@@ -2005,6 +1916,127 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ca45c643c38511e656d8184cf11a9e324df2cc0edff280ac0d6bc1fda180f00c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:07:39.277Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00182741",
+    "job_title": "Mechanical Engineer, Marine Small Craft",
+    "employer_name": "Leidos",
+    "job_city": "Chesapeake",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chesapeake, VA",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Mechanical-Engineer--Marine-Small-Craft_R-00182741",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fd59e32794311b0c26df7c6222c7b9373c2f9f82ecac336aabf621a73f38f821",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:07:39.277Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00182737",
+    "job_title": "Junior Mechanical Engineer, Marine Small Craft",
+    "employer_name": "Leidos",
+    "job_city": "Chesapeake",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chesapeake, VA",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Junior-Mechanical-Engineer--Marine-Small-Craft_R-00182737",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4261e361093fc2ab137a6cf94cdfdb66d4c96217536503150d914397be18326b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:07:39.277Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00182750",
+    "job_title": "Engineering Technician",
+    "employer_name": "Leidos",
+    "job_city": "St. Petersburg",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "St. Petersburg, FL",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Petersburg-FL/Engineering-Technician_R-00182750",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "31d73245eb8bd286c9d80251ba2c1a24a8d4bde475f5fca973c018d4e7cd9cfa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:07:39.277Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00182671",
+    "job_title": "Electronics Technologist",
+    "employer_name": "Leidos",
+    "job_city": "Lynnwood",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Lynnwood, WA",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Lynnwood-WA/Electronics-Technologist_R-00182671",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a08bc8ec731e77ee8ae586d1dc9fcfeda44d5cc9db557435139cc6fe6c23b7c5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4368,6 +4400,66 @@
     "job_posted_at": "2026-05-08T20:06:00.130Z"
   },
   {
+    "job_id": "workday-boeing-JR2026502940",
+    "job_title": "Experimental Radio Frequency (RF) & Microwave Technician",
+    "employer_name": "Boeing",
+    "job_city": "Tukwila",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Tukwila, WA",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Experimental-Radio-Frequency--RF----Microwave-Technician_JR2026502940-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.184Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "702a84cd692729ee997faf0cfdda43a910b44125600990cb35a1f8adb31e15b8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:49.184Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026507753",
+    "job_title": "Quality Engineer & Program Manager",
+    "employer_name": "Boeing",
+    "job_city": "Mesa",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Mesa, AZ",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Quality-Engineer---Program-Manager_JR2026507753-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.184Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "379fe4aa16ff92ef7dc89e5711a33d2089ce2d89bcdc47e0b17d49e80d3dfa89",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:49.184Z"
+  },
+  {
     "job_id": "workday-boeing-JR2026500709",
     "job_title": "Optical Design and Analysis Engineer (Experienced or Lead)",
     "employer_name": "Boeing",
@@ -4750,66 +4842,6 @@
         "us"
       ],
       "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:05:49.184Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026502940",
-    "job_title": "Experimental Radio Frequency (RF) & Microwave Technician",
-    "employer_name": "Boeing",
-    "job_city": "Tukwila",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Tukwila, WA",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Experimental-Radio-Frequency--RF----Microwave-Technician_JR2026502940-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.184Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "702a84cd692729ee997faf0cfdda43a910b44125600990cb35a1f8adb31e15b8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:05:49.184Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026507753",
-    "job_title": "Quality Engineer & Program Manager",
-    "employer_name": "Boeing",
-    "job_city": "Mesa",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Mesa, AZ",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Quality-Engineer---Program-Manager_JR2026507753-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.184Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "379fe4aa16ff92ef7dc89e5711a33d2089ce2d89bcdc47e0b17d49e80d3dfa89",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": [],
       "tag_engine_version": 3
     },
@@ -6082,6 +6114,38 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-08T20:05:00.237Z"
+  },
+  {
+    "job_id": "microsoft-200027811",
+    "job_title": "Critical Environment Electrical Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Charlotte",
+    "job_state": "North Carolina",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Charlotte, North Carolina, United States",
+    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556755329",
+    "job_posted_at_datetime_utc": "2026-05-08T19:54:14.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "00036d233ef12738513efde1fed9d9220a8791f9d20f9d93d8f5f98ae413902e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "microsoft",
+    "job_posted_at": "2026-05-08T19:54:14.000Z"
   },
   {
     "job_id": "sr-AbbVie-3743990013049247",
@@ -10185,7 +10249,7 @@
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -11204,7 +11268,7 @@
       "locations": [
         "us"
       ],
-      "experience": "entry_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -11281,7 +11345,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863830",
     "job_posted_at_datetime_utc": "2026-05-07T19:04:18.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -14318,7 +14382,7 @@
   },
   {
     "job_id": "workday-northrop-grumman-R10230514",
-    "job_title": "GNC Engineer ��� Level 2 (Space Systems) Chandler",
+    "job_title": "GNC Engineer – Level 2 (Space Systems) Chandler",
     "employer_name": "Northrop Grumman",
     "job_city": "Arizona-Chandler",
     "job_state": "",
@@ -15737,36 +15801,6 @@
     "job_posted_at": "2026-05-06T20:06:54.796Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-071473",
-    "job_title": "Failure Analysis Engineer I",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Danvers",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Danvers, Massachusetts, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Failure-Analysis-Engineer-I_R-071473",
-    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a602c2e73d0a67c4a3219f16dcabb17aabcc0196c629c3072596fcc1b2a96ed5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:06:53.750Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-073798",
     "job_title": "Product Development Engineer",
     "employer_name": "Johnson & Johnson",
@@ -15870,6 +15904,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "99338f3a227aa93b35a491a42864a8d53441d0ca9784a71f9f970e2c2a151e03",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:06:53.750Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-071473",
+    "job_title": "Failure Analysis Engineer I",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Danvers",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Danvers, Massachusetts, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Failure-Analysis-Engineer-I_R-071473",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a602c2e73d0a67c4a3219f16dcabb17aabcc0196c629c3072596fcc1b2a96ed5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -16037,6 +16101,36 @@
     "job_posted_at": "2026-05-06T20:06:27.945Z"
   },
   {
+    "job_id": "workday-caterpillar-R0000366525",
+    "job_title": "Quality Engineer",
+    "employer_name": "Caterpillar",
+    "job_city": "Brooklyn Park",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Brooklyn Park, Minnesota",
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Brooklyn-Park-Minnesota/Quality-Engineer_R0000366525",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:13.162Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6fd33efc049c9cb1afb4ec7cf0f73243ce0d33542dba41bc487b2a3fdbc87235",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:06:13.162Z"
+  },
+  {
     "job_id": "workday-caterpillar-R0000367387",
     "job_title": "Embedded Product Analytics Engineer",
     "employer_name": "Caterpillar",
@@ -16112,36 +16206,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d2e1b27dc257a73e0290e40b6e6d1a90c58002b430a4f372b0ec474d48da3ca6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:06:13.162Z"
-  },
-  {
-    "job_id": "workday-caterpillar-R0000366525",
-    "job_title": "Quality Engineer",
-    "employer_name": "Caterpillar",
-    "job_city": "Brooklyn Park",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Brooklyn Park, Minnesota",
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Brooklyn-Park-Minnesota/Quality-Engineer_R0000366525",
-    "job_posted_at_datetime_utc": "2026-05-06T20:06:13.162Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6fd33efc049c9cb1afb4ec7cf0f73243ce0d33542dba41bc487b2a3fdbc87235",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -18248,6 +18312,44 @@
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
+    "job_id": "simplify-5e20afd1-9124-42ba-a6dc-0b14490579ef",
+    "job_title": "Entry Level Electrical RF Engineer",
+    "employer_name": "Amentum",
+    "job_city": "Dahlgren",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dahlgren, VA",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Electrica-RF-Engineer_R0150759",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "48eab5f3af6dfdb1ee56a33785f8a7386fde00164834ce034b8fe96587bc6c56",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
     "job_id": "simplify-1064dbd3-b67e-47fc-8613-6b693569d9ba",
     "job_title": "Associate – Test Methods Engineer - Camden - NJ",
     "employer_name": "L3Harris Technologies",
@@ -18304,44 +18406,6 @@
       "domains": [
         "hardware",
         "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-5e20afd1-9124-42ba-a6dc-0b14490579ef",
-    "job_title": "Entry Level Electrical RF Engineer",
-    "employer_name": "Amentum",
-    "job_city": "Dahlgren",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dahlgren, VA",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Electrica-RF-Engineer_R0150759",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "48eab5f3af6dfdb1ee56a33785f8a7386fde00164834ce034b8fe96587bc6c56",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us"
@@ -23912,48 +23976,6 @@
     "job_posted_at": "2026-05-05T17:17:30.895Z"
   },
   {
-    "job_id": "workday-boeing-JR2026509016",
-    "job_title": "Electrical Engineering Technical Designer (Entry Level)",
-    "employer_name": "Boeing",
-    "job_city": "Hazelwood",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Hazelwood, MO",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Electrical-Engineering-Technical-Designer--Entry-Level-_JR2026509016-1",
-    "job_posted_at_datetime_utc": "2026-05-05T17:17:28.696Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e5c92e2f870d2d55c4be0248419d70819011409d42ef6266988ae303c950d475",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "risk management",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T17:17:28.696Z"
-  },
-  {
     "job_id": "workday-boeing-JR2025484428",
     "job_title": "Electrical Design and Test Engineer",
     "employer_name": "Boeing",
@@ -23990,6 +24012,48 @@
         "creo",
         "data science",
         "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T17:17:28.696Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026509016",
+    "job_title": "Electrical Engineering Technical Designer (Entry Level)",
+    "employer_name": "Boeing",
+    "job_city": "Hazelwood",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Hazelwood, MO",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Electrical-Engineering-Technical-Designer--Entry-Level-_JR2026509016-1",
+    "job_posted_at_datetime_utc": "2026-05-05T17:17:28.696Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e5c92e2f870d2d55c4be0248419d70819011409d42ef6266988ae303c950d475",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "risk management",
+        "system design"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -26794,7 +26858,7 @@
       "locations": [
         "us"
       ],
-      "experience": "entry_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -29193,7 +29257,7 @@
     "job_location": "Boydton, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556813763",
     "job_posted_at_datetime_utc": "2026-05-04T19:36:33.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f59e0212d07938df773e5e17ae4687412a2bc1dcc6511b69baaf28686349641f",
     "tags": {
@@ -29204,7 +29268,7 @@
       "locations": [
         "us"
       ],
-      "experience": "entry_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -30608,7 +30672,7 @@
     "job_location": "Chicago, Illinois, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556623149",
     "job_posted_at_datetime_utc": "2026-05-04T13:20:39.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "baf8dfe6ba09dfedbd16a8ccc23b1d88445b557a957bd9f76676d25ceee34911",
     "tags": {
@@ -30813,6 +30877,92 @@
     "job_posted_at": "2026-05-04T10:49:10.736Z"
   },
   {
+    "job_id": "workday-general-motors-JR-202606959",
+    "job_title": "Facilities Engineer",
+    "employer_name": "General Motors",
+    "job_city": "Defiance",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Defiance, Ohio, United States of America",
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Defiance-Ohio-United-States-of-America/Facilities-Engineer_JR-202606959",
+    "job_posted_at_datetime_utc": "2026-05-04T09:17:10.934Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fbfe35ee534ff7c90ee06dcbc66633dc1b9c12fb6906aa384898f15323ef4d1f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "plc",
+        "sap",
+        "switching"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-04T09:17:10.934Z"
+  },
+  {
+    "job_id": "workday-general-motors-JR-202607483",
+    "job_title": "Vehicle Energy Model and Toolchain Development Engineer",
+    "employer_name": "General Motors",
+    "job_city": "Warren",
+    "job_state": "MI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Warren, Michigan, United States of America",
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Vehicle-Energy-Model-and-Toolchain-Development-Engineer_JR-202607483",
+    "job_posted_at_datetime_utc": "2026-05-04T09:17:10.934Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7a20b0c64ae97023369d1d07e626e7204e260a1c39eb72d93e1ce587d78dc1d6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "machine learning",
+        "matlab",
+        "simulink"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-04T09:17:10.934Z"
+  },
+  {
     "job_id": "workday-general-motors-JR-202608859",
     "job_title": "Calibration Engineer - High Voltage Battery Systems",
     "employer_name": "General Motors",
@@ -30892,92 +31042,6 @@
         "lean manufacturing",
         "microsoft office",
         "project management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-04T09:17:10.934Z"
-  },
-  {
-    "job_id": "workday-general-motors-JR-202606959",
-    "job_title": "Facilities Engineer",
-    "employer_name": "General Motors",
-    "job_city": "Defiance",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Defiance, Ohio, United States of America",
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Defiance-Ohio-United-States-of-America/Facilities-Engineer_JR-202606959",
-    "job_posted_at_datetime_utc": "2026-05-04T09:17:10.934Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fbfe35ee534ff7c90ee06dcbc66633dc1b9c12fb6906aa384898f15323ef4d1f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "plc",
-        "sap",
-        "switching"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-04T09:17:10.934Z"
-  },
-  {
-    "job_id": "workday-general-motors-JR-202607483",
-    "job_title": "Vehicle Energy Model and Toolchain Development Engineer",
-    "employer_name": "General Motors",
-    "job_city": "Warren",
-    "job_state": "MI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Warren, Michigan, United States of America",
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Vehicle-Energy-Model-and-Toolchain-Development-Engineer_JR-202607483",
-    "job_posted_at_datetime_utc": "2026-05-04T09:17:10.934Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7a20b0c64ae97023369d1d07e626e7204e260a1c39eb72d93e1ce587d78dc1d6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "machine learning",
-        "matlab",
-        "simulink"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -36416,49 +36480,6 @@
     "job_posted_at": "2026-05-02T13:31:00.058Z"
   },
   {
-    "job_id": "greenhouse-spacex-8522688002",
-    "job_title": "Product Development Engineer (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Bastrop",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bastrop, TX",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8522688002?gh_jid=8522688002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7f96bee7e63c67488ca8c2cefcdbe74a88343c05ac937561e195bde657d43bc5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "program management",
-        "project management",
-        "risk management"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:00.055Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8511177002",
     "job_title": "Propulsion Engineer, Combustion Devices Manufacturing (Raptor)",
     "employer_name": "SpaceX",
@@ -36583,6 +36604,49 @@
         "spark",
         "sql",
         "statistics"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:00.055Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8522688002",
+    "job_title": "Product Development Engineer (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8522688002?gh_jid=8522688002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7f96bee7e63c67488ca8c2cefcdbe74a88343c05ac937561e195bde657d43bc5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "program management",
+        "project management",
+        "risk management"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
@@ -36763,47 +36827,6 @@
     "job_posted_at": "2026-05-02T13:31:00.054Z"
   },
   {
-    "job_id": "greenhouse-spacex-8523874002",
-    "job_title": "Harnessing Design Engineer, Satellites (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8523874002?gh_jid=8523874002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.053Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "05848bb88d9c90296c9a2c3238a5809508bcd58665500be7c485698ff176dc84",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "nx"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:31:00.053Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8501065002",
     "job_title": "Device Physics Engineer, Solar Cells (Starlink)",
     "employer_name": "SpaceX",
@@ -36850,29 +36873,28 @@
     "job_posted_at": "2026-05-02T13:31:00.053Z"
   },
   {
-    "job_id": "greenhouse-spacex-8506464002",
-    "job_title": "Automation & Controls Specialist (Starlink Production)",
+    "job_id": "greenhouse-spacex-8523874002",
+    "job_title": "Harnessing Design Engineer, Satellites (Starlink)",
     "employer_name": "SpaceX",
-    "job_city": "Bastrop",
-    "job_state": "TX",
+    "job_city": "Redmond",
+    "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Bastrop, TX",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8506464002?gh_jid=8506464002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.052Z",
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8523874002?gh_jid=8523874002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.053Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4f40504a2e519c085ca1c5a945f96d725d962b23f7c4c9c653b3e7953fe2f8c8",
+    "fingerprint": "05848bb88d9c90296c9a2c3238a5809508bcd58665500be7c485698ff176dc84",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "manufacturing",
         "hardware"
       ],
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "entry_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -36880,9 +36902,8 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
-        "excel",
-        "hmi",
-        "plc"
+        "cad",
+        "nx"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
@@ -36890,7 +36911,7 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-05-02T13:31:00.052Z"
+    "job_posted_at": "2026-05-02T13:31:00.053Z"
   },
   {
     "job_id": "greenhouse-spacex-8511245002",
@@ -36932,6 +36953,49 @@
         "python",
         "radar",
         "rf"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T13:31:00.052Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8506464002",
+    "job_title": "Automation & Controls Specialist (Starlink Production)",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8506464002?gh_jid=8506464002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.052Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4f40504a2e519c085ca1c5a945f96d725d962b23f7c4c9c653b3e7953fe2f8c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "manufacturing",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "hmi",
+        "plc"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
@@ -39465,49 +39529,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-01T20:49:53.000Z"
-  },
-  {
-    "job_id": "apple-200631237",
-    "job_title": "SerDes System Validation Engineer",
-    "employer_name": "Apple",
-    "job_city": "Cupertino",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200631237/serdes-system-validation-engineer",
-    "job_posted_at_datetime_utc": "2026-05-01T20:17:19.819Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f0befdeb8a0bc0a08a4f1808075ed5fb05a3d8ddd0a5c1e346f33cb227598d05",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "ips",
-        "soc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T20:17:19.819Z"
   }
 ]
