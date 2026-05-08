@@ -1,5 +1,38 @@
 [
   {
+    "job_id": "apple-200648442",
+    "job_title": "Reliability Test Engineer",
+    "employer_name": "Apple",
+    "job_city": "Cupertino",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200648442/reliability-test-engineer",
+    "job_posted_at_datetime_utc": "2026-05-08T18:26:14.024Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8433557baec047e332316e650273d7f3ffd3b55b49ac49efbbe4fd5b6d882ee2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "apple",
+    "job_posted_at": "2026-05-08T18:26:14.024Z"
+  },
+  {
     "job_id": "google-84063837912736454",
     "job_title": "CPU Commodity Manager",
     "employer_name": "Google",
@@ -29,6 +62,14 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T18:18:04.791Z"
   },
   {
@@ -60,6 +101,23 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "centos",
+        "firmware",
+        "linux",
+        "reporting",
+        "rhel",
+        "system design",
+        "ubuntu",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T18:07:20.512Z"
   },
   {
@@ -2256,6 +2314,36 @@
     "job_posted_at": "2026-05-08T15:58:00.000Z"
   },
   {
+    "job_id": "amd-85432",
+    "job_title": "MTS Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Clara, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85432/login",
+    "job_posted_at_datetime_utc": "2026-05-08T15:58:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "de40c4b95e3410c405faf40c372c242bb7db50677a459079d61dec17aabd5ced",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
+    "job_posted_at": "2026-05-08T15:58:00.000Z"
+  },
+  {
     "job_id": "amd-85428",
     "job_title": "MTS Silicon Design Engineer",
     "employer_name": "AMD",
@@ -2574,6 +2662,36 @@
       "summary_line": null,
       "is_remote": false
     },
+    "job_posted_at": "2026-05-08T15:44:00.000Z"
+  },
+  {
+    "job_id": "amd-85409",
+    "job_title": "Silicon Design Engineer",
+    "employer_name": "AMD",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Clara, CA, United States",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/85409/login",
+    "job_posted_at_datetime_utc": "2026-05-08T15:44:00.000Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "8e53ed164aa18422e2edacd80b65fd805e37b2836bdafd1ab9263c242d85be23",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amd",
     "job_posted_at": "2026-05-08T15:44:00.000Z"
   },
   {
@@ -3329,7 +3447,7 @@
     "job_location": "Fayetteville, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556856338",
     "job_posted_at_datetime_utc": "2026-05-08T12:38:59.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d4dc6630d27857619fb69c8104ec51c84845891340054b3c3a141f984b7b4102",
     "tags": {
@@ -4696,7 +4814,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863833",
     "job_posted_at_datetime_utc": "2026-05-07T19:33:41.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "94d39ede1d4c28ea25b075671e4ea91361ffd00181280b9f5d3213caec5716eb",
     "tags": {
@@ -4784,7 +4902,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863830",
     "job_posted_at_datetime_utc": "2026-05-07T19:04:18.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -4829,7 +4947,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863829",
     "job_posted_at_datetime_utc": "2026-05-07T19:02:24.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -16466,7 +16584,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863752",
     "job_posted_at_datetime_utc": "2026-05-05T12:57:48.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "172ba110541125d4b63bc2096452e5f26da937aab5d8376213770ac7a45d77e3",
     "tags": {
@@ -29137,7 +29255,7 @@
     "job_location": "San Antonio, Texas, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556814102",
     "job_posted_at_datetime_utc": "2026-05-01T20:49:53.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "59eb2c6139d3ea6ae2001280ee99da03b6568fc095586954a455dcc9b72652f5",
     "tags": {
