@@ -3123,100 +3123,6 @@
     "job_posted_at": "2026-05-08T20:08:27.105Z"
   },
   {
-    "job_id": "workday-philips-576952",
-    "job_title": "Field Service Engineer - Image Guided Therapy (Field: Seattle/Tacoma, WA)",
-    "employer_name": "Philips",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Seattle-Washington-United-States/Field-Service-Engineer---Image-Guided-Therapy--Field--Seattle-Tacoma--WA-_576952-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:27.105Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "38dd81f85fce779b91d7c02a0b4e910648cc97d69fa866a32a162fbc2c8b20f8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "networking"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:08:27.105Z"
-  },
-  {
-    "job_id": "workday-philips-576033",
-    "job_title": "Product Industrialization Test Engineer",
-    "employer_name": "Philips",
-    "job_city": "Reedsville",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Reedsville, Pennsylvania, United States",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Product-Industrialization-Test-Engineer_576033",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:27.105Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "175e139f4f6b9a64abe97e807d0853f32e7b4a92506ed941e253152109852c66",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "lean manufacturing",
-        "mechatronics",
-        "reporting"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:08:27.105Z"
-  },
-  {
     "job_id": "workday-oshkosh-corporation-R46443",
     "job_title": "Quality Engineer",
     "employer_name": "Oshkosh Corporation",
@@ -11497,171 +11403,6 @@
     "job_posted_at": "2026-05-08T20:05:13.748Z"
   },
   {
-    "job_id": "workday-asml-J-00339706",
-    "job_title": "FLS Production Engineer – Mechatronics & Test Competency (CWW – N1)",
-    "employer_name": "ASML",
-    "job_city": "Wilton",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Wilton, CT, USA",
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/FLS-Production-Engineer---Mechatronics---Test-Competency--CWW---N1-_J-00339706",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:13.748Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "41461fffa00cb1a3e76007a5180ef566f71661ad5e1955608526fd6092d20a3f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "fmea",
-        "labview",
-        "lean manufacturing",
-        "linux",
-        "matlab",
-        "mechatronics",
-        "nx",
-        "pfmea",
-        "python",
-        "root cause analysis",
-        "sap",
-        "statistical process control",
-        "statistics",
-        "teamcenter",
-        "unix"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:13.748Z"
-  },
-  {
-    "job_id": "workday-asml-J-00339613",
-    "job_title": "FLS Production Engineer - Optical Alignment & Metrology Competency (CWW – N2)",
-    "employer_name": "ASML",
-    "job_city": "Wilton",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Wilton, CT, USA",
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/FLS-Production-Engineer---Optical-Alignment---Metrology-Competency--CWW---N2-_J-00339613",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:13.748Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fb7518fb9ec441f969647fce38aa2bf53e64c6553cb123b914a45a50e8328549",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fmea",
-        "labview",
-        "lean manufacturing",
-        "matlab",
-        "nx",
-        "pfmea",
-        "python",
-        "root cause analysis",
-        "sap",
-        "statistical process control",
-        "statistics",
-        "teamcenter"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:13.748Z"
-  },
-  {
-    "job_id": "workday-asml-J-00339203",
-    "job_title": "Field Service Engineer - DUV",
-    "employer_name": "ASML",
-    "job_city": "N Phoenix",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "N Phoenix, AZ, USA",
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/N-Phoenix-AZ-USA/Field-Service-Engineer---DUV_J-00339203-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:13.748Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0c6c7a48d19e699728e61af502b57b3103e23601ce124b438e0d8753773580ca",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "mechatronics"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:13.748Z"
-  },
-  {
     "job_id": "workday-aes-corporation-R1063324",
     "job_title": "Substation Design Engineer",
     "employer_name": "AES Corporation",
@@ -17746,7 +17487,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863830",
     "job_posted_at_datetime_utc": "2026-05-07T19:04:18.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -17797,7 +17538,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863829",
     "job_posted_at_datetime_utc": "2026-05-07T19:02:24.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -18948,6 +18689,265 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-07T08:32:25.474Z"
+  },
+  {
+    "job_id": "workday-philips-576952",
+    "job_title": "Field Service Engineer - Image Guided Therapy (Field: Seattle/Tacoma, WA)",
+    "employer_name": "Philips",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Seattle-Washington-United-States/Field-Service-Engineer---Image-Guided-Therapy--Field--Seattle-Tacoma--WA-_576952-1",
+    "job_posted_at_datetime_utc": "2026-05-07T07:31:53.973Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "38dd81f85fce779b91d7c02a0b4e910648cc97d69fa866a32a162fbc2c8b20f8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "networking"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T07:31:53.973Z"
+  },
+  {
+    "job_id": "workday-philips-576033",
+    "job_title": "Product Industrialization Test Engineer",
+    "employer_name": "Philips",
+    "job_city": "Reedsville",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Reedsville, Pennsylvania, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Product-Industrialization-Test-Engineer_576033",
+    "job_posted_at_datetime_utc": "2026-05-07T07:31:53.973Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "175e139f4f6b9a64abe97e807d0853f32e7b4a92506ed941e253152109852c66",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "lean manufacturing",
+        "mechatronics",
+        "reporting"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T07:31:53.973Z"
+  },
+  {
+    "job_id": "workday-asml-J-00339706",
+    "job_title": "FLS Production Engineer – Mechatronics & Test Competency (CWW – N1)",
+    "employer_name": "ASML",
+    "job_city": "Wilton",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Wilton, CT, USA",
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/FLS-Production-Engineer---Mechatronics---Test-Competency--CWW---N1-_J-00339706",
+    "job_posted_at_datetime_utc": "2026-05-07T07:31:02.887Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "41461fffa00cb1a3e76007a5180ef566f71661ad5e1955608526fd6092d20a3f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "fmea",
+        "labview",
+        "lean manufacturing",
+        "linux",
+        "matlab",
+        "mechatronics",
+        "nx",
+        "pfmea",
+        "python",
+        "root cause analysis",
+        "sap",
+        "statistical process control",
+        "statistics",
+        "teamcenter",
+        "unix"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T07:31:02.887Z"
+  },
+  {
+    "job_id": "workday-asml-J-00339613",
+    "job_title": "FLS Production Engineer - Optical Alignment & Metrology Competency (CWW – N2)",
+    "employer_name": "ASML",
+    "job_city": "Wilton",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Wilton, CT, USA",
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/FLS-Production-Engineer---Optical-Alignment---Metrology-Competency--CWW---N2-_J-00339613",
+    "job_posted_at_datetime_utc": "2026-05-07T07:31:02.887Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fb7518fb9ec441f969647fce38aa2bf53e64c6553cb123b914a45a50e8328549",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "fmea",
+        "labview",
+        "lean manufacturing",
+        "matlab",
+        "nx",
+        "pfmea",
+        "python",
+        "root cause analysis",
+        "sap",
+        "statistical process control",
+        "statistics",
+        "teamcenter"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T07:31:02.887Z"
+  },
+  {
+    "job_id": "workday-asml-J-00339203",
+    "job_title": "Field Service Engineer - DUV",
+    "employer_name": "ASML",
+    "job_city": "N Phoenix",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "N Phoenix, AZ, USA",
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/N-Phoenix-AZ-USA/Field-Service-Engineer---DUV_J-00339203-1",
+    "job_posted_at_datetime_utc": "2026-05-07T07:31:02.887Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0c6c7a48d19e699728e61af502b57b3103e23601ce124b438e0d8753773580ca",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "mechatronics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T07:31:02.887Z"
   },
   {
     "job_id": "apple-200649978",
@@ -21361,55 +21361,6 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-06T20:08:30.040Z"
-  },
-  {
-    "job_id": "workday-philips-575452",
-    "job_title": "Hardware Development Engineer - PCB Design (Bothell, WA)",
-    "employer_name": "Philips",
-    "job_city": "Bothell",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bothell, Washington, United States",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Hardware-Development-Engineer---PCB-Design--Bothell--WA-_575452",
-    "job_posted_at_datetime_utc": "2026-05-06T20:08:27.105Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f2ed3f893fe6157b2efb059f0de6819127f807f96780233f59199c1021efe8ff",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "altium",
-        "cadence",
-        "mentor graphics",
-        "pcb design"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:08:27.105Z"
   },
   {
     "job_id": "workday-motorola-solutions-R62760",
@@ -28022,6 +27973,55 @@
     "job_posted_at": "2026-05-06T07:31:57.027Z"
   },
   {
+    "job_id": "workday-philips-575452",
+    "job_title": "Hardware Development Engineer - PCB Design (Bothell, WA)",
+    "employer_name": "Philips",
+    "job_city": "Bothell",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bothell, Washington, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Hardware-Development-Engineer---PCB-Design--Bothell--WA-_575452",
+    "job_posted_at_datetime_utc": "2026-05-06T07:31:53.973Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f2ed3f893fe6157b2efb059f0de6819127f807f96780233f59199c1021efe8ff",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "altium",
+        "cadence",
+        "mentor graphics",
+        "pcb design"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T07:31:53.973Z"
+  },
+  {
     "job_id": "ashby-openai-f6b9903c-9034-436b-a4ec-4c8643a6d0dd",
     "job_title": "Networking Operating System Firmware Engineer",
     "employer_name": "OpenAI",
@@ -29525,106 +29525,6 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:13:51.456Z"
-  },
-  {
-    "job_id": "workday-philips-573072",
-    "job_title": "Product Safety Quality Engineer",
-    "employer_name": "Philips",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "3 Locations",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Product-Safety-Quality-Engineer_573072",
-    "job_posted_at_datetime_utc": "2026-05-05T20:08:27.106Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "81ed3b514805fd4810953f393b757e8c6e3b8d3ac6ade400d5dbd65e80fd50a1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "dfmea",
-        "failure mode",
-        "fault tree",
-        "fault tree analysis",
-        "fmea",
-        "iec 62304",
-        "iso 13485",
-        "risk management",
-        "root cause analysis"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T20:08:27.106Z"
-  },
-  {
-    "job_id": "workday-nxp-R-10063205",
-    "job_title": "USB & USB PD System and Application Engineer",
-    "employer_name": "NXP",
-    "job_city": "Chandler",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chandler + 2 more",
-    "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/USB---USB-PD-System-and-Application-Engineer_R-10063205",
-    "job_posted_at_datetime_utc": "2026-05-05T20:08:06.470Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e5c311c52eccfb0b7f933a0072e072a6aaa1a9234d91c42e22e7e02a28b07f5f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "firmware"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T20:08:06.470Z"
   },
   {
     "job_id": "workday-northrop-grumman-R10232042",
@@ -37432,7 +37332,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863752",
     "job_posted_at_datetime_utc": "2026-05-05T12:57:48.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "172ba110541125d4b63bc2096452e5f26da937aab5d8376213770ac7a45d77e3",
     "tags": {
@@ -37443,7 +37343,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "entry_level",
       "special": [
         "faang"
       ],
@@ -37668,108 +37568,6 @@
     "job_posted_at": "2026-05-05T12:03:16.749Z"
   },
   {
-    "job_id": "workday-asml-J-00336983",
-    "job_title": "Field Service Engineer - HMI SBI",
-    "employer_name": "ASML",
-    "job_city": "Hillsboro",
-    "job_state": "OR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hillsboro, OR, USA",
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/Field-Service-Engineer---HMI-SBI_J-00336983-1",
-    "job_posted_at_datetime_utc": "2026-05-05T12:01:46.697Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4734b3547d7621028f6d9944d0a5d792915164ac940d210d2960aaec61f0339f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "hmi",
-        "matlab",
-        "python",
-        "sql",
-        "vba"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T12:01:46.697Z"
-  },
-  {
-    "job_id": "workday-asml-J-00337530",
-    "job_title": "Field Service Engineer - Swing Shift",
-    "employer_name": "ASML",
-    "job_city": "Hillsboro",
-    "job_state": "OR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hillsboro, OR, USA",
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/Field-Service-Engineer---Swing-Shift_J-00337530-1",
-    "job_posted_at_datetime_utc": "2026-05-05T12:01:46.697Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1f7486ba3f96261e048cc414e86a3b8b60e44d9c0c48c615297f1fa4f823f5fc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "hmi",
-        "matlab",
-        "python",
-        "sql",
-        "vba"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T12:01:46.697Z"
-  },
-  {
     "job_id": "sr-BoschGroup-744000124626181",
     "job_title": "Laser Operator - Weekend Shift",
     "employer_name": "Bosch Group",
@@ -37957,6 +37755,208 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-05T11:18:21.343Z"
+  },
+  {
+    "job_id": "workday-philips-573072",
+    "job_title": "Product Safety Quality Engineer",
+    "employer_name": "Philips",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "3 Locations",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Product-Safety-Quality-Engineer_573072",
+    "job_posted_at_datetime_utc": "2026-05-05T07:31:53.974Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "81ed3b514805fd4810953f393b757e8c6e3b8d3ac6ade400d5dbd65e80fd50a1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "dfmea",
+        "failure mode",
+        "fault tree",
+        "fault tree analysis",
+        "fmea",
+        "iec 62304",
+        "iso 13485",
+        "risk management",
+        "root cause analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T07:31:53.974Z"
+  },
+  {
+    "job_id": "workday-nxp-R-10063205",
+    "job_title": "USB & USB PD System and Application Engineer",
+    "employer_name": "NXP",
+    "job_city": "Chandler",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chandler + 2 more",
+    "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/USB---USB-PD-System-and-Application-Engineer_R-10063205",
+    "job_posted_at_datetime_utc": "2026-05-05T07:31:33.650Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e5c311c52eccfb0b7f933a0072e072a6aaa1a9234d91c42e22e7e02a28b07f5f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "firmware"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T07:31:33.650Z"
+  },
+  {
+    "job_id": "workday-asml-J-00336983",
+    "job_title": "Field Service Engineer - HMI SBI",
+    "employer_name": "ASML",
+    "job_city": "Hillsboro",
+    "job_state": "OR",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hillsboro, OR, USA",
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/Field-Service-Engineer---HMI-SBI_J-00336983-1",
+    "job_posted_at_datetime_utc": "2026-05-05T07:31:02.887Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4734b3547d7621028f6d9944d0a5d792915164ac940d210d2960aaec61f0339f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "hmi",
+        "matlab",
+        "python",
+        "sql",
+        "vba"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T07:31:02.887Z"
+  },
+  {
+    "job_id": "workday-asml-J-00337530",
+    "job_title": "Field Service Engineer - Swing Shift",
+    "employer_name": "ASML",
+    "job_city": "Hillsboro",
+    "job_state": "OR",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hillsboro, OR, USA",
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/Field-Service-Engineer---Swing-Shift_J-00337530-1",
+    "job_posted_at_datetime_utc": "2026-05-05T07:31:02.887Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1f7486ba3f96261e048cc414e86a3b8b60e44d9c0c48c615297f1fa4f823f5fc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "hmi",
+        "matlab",
+        "python",
+        "sql",
+        "vba"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T07:31:02.887Z"
   },
   {
     "job_id": "workday-baker-hughes-R161223",
@@ -40059,7 +40059,7 @@
     "job_location": "Boydton, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556813763",
     "job_posted_at_datetime_utc": "2026-05-04T19:36:33.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f59e0212d07938df773e5e17ae4687412a2bc1dcc6511b69baaf28686349641f",
     "tags": {
@@ -41666,7 +41666,7 @@
     "job_location": "Chicago, Illinois, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556623149",
     "job_posted_at_datetime_utc": "2026-05-04T13:20:39.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "baf8dfe6ba09dfedbd16a8ccc23b1d88445b557a957bd9f76676d25ceee34911",
     "tags": {
@@ -42534,151 +42534,6 @@
     "job_posted_at": "2026-05-04T08:47:38.289Z"
   },
   {
-    "job_id": "workday-nxp-R-10062990",
-    "job_title": "Photolithography Equipment Engineer - TEL Tracks/Spinners",
-    "employer_name": "NXP",
-    "job_city": "Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin",
-    "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Ed-Bluestein-Office/Photolithography-Equipment-Engineer---TEL-Tracks-Spinners_R-10062990",
-    "job_posted_at_datetime_utc": "2026-05-04T08:47:30.931Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af3255c1d17b1a48b86d4acb8ea84fa435e0bed7b658cd96a04e9818e6629162",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "spc"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-04T08:47:30.931Z"
-  },
-  {
-    "job_id": "workday-asml-J-00337889",
-    "job_title": "NXE First line support production engineer TM FASY/MAQ CWWN2",
-    "employer_name": "ASML",
-    "job_city": "Wilton",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Wilton, CT, USA",
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/NXE-First-line-support-production-engineer-TM-FASY-MAQ-CWWN2_J-00337889",
-    "job_posted_at_datetime_utc": "2026-05-04T08:31:53.889Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5a8398c6475b030909e0e8b16e5ab28f80c18d60529a6285dcada8139da61414",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "mechatronics",
-        "process improvement",
-        "spc",
-        "statistical process control"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-04T08:31:53.889Z"
-  },
-  {
-    "job_id": "workday-asml-J-00340880",
-    "job_title": "Upgrade Install and Relocation Engineer – EUV",
-    "employer_name": "ASML",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin, TX, USA",
-    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Upgrade-Install-and-Relocation-Engineer---EUV_J-00340880-1",
-    "job_posted_at_datetime_utc": "2026-05-04T08:31:53.889Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2820965434ad60a6f611acec764b1b1217c4a6ffc698868c63e41318f0745224",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "mechatronics",
-        "reporting",
-        "semiconductors",
-        "windows"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-04T08:31:53.889Z"
-  },
-  {
     "job_id": "workday-target-R0000437391",
     "job_title": "Deli Production Expert",
     "employer_name": "Target",
@@ -42872,6 +42727,151 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:32:15.367Z"
+  },
+  {
+    "job_id": "workday-nxp-R-10062990",
+    "job_title": "Photolithography Equipment Engineer - TEL Tracks/Spinners",
+    "employer_name": "NXP",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin",
+    "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Ed-Bluestein-Office/Photolithography-Equipment-Engineer---TEL-Tracks-Spinners_R-10062990",
+    "job_posted_at_datetime_utc": "2026-05-04T07:31:33.650Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af3255c1d17b1a48b86d4acb8ea84fa435e0bed7b658cd96a04e9818e6629162",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "spc"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-04T07:31:33.650Z"
+  },
+  {
+    "job_id": "workday-asml-J-00337889",
+    "job_title": "NXE First line support production engineer TM FASY/MAQ CWWN2",
+    "employer_name": "ASML",
+    "job_city": "Wilton",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Wilton, CT, USA",
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/NXE-First-line-support-production-engineer-TM-FASY-MAQ-CWWN2_J-00337889",
+    "job_posted_at_datetime_utc": "2026-05-04T07:31:02.887Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5a8398c6475b030909e0e8b16e5ab28f80c18d60529a6285dcada8139da61414",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "mechatronics",
+        "process improvement",
+        "spc",
+        "statistical process control"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-04T07:31:02.887Z"
+  },
+  {
+    "job_id": "workday-asml-J-00340880",
+    "job_title": "Upgrade Install and Relocation Engineer – EUV",
+    "employer_name": "ASML",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, TX, USA",
+    "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Upgrade-Install-and-Relocation-Engineer---EUV_J-00340880-1",
+    "job_posted_at_datetime_utc": "2026-05-04T07:31:02.887Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2820965434ad60a6f611acec764b1b1217c4a6ffc698868c63e41318f0745224",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "mechatronics",
+        "reporting",
+        "semiconductors",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-04T07:31:02.887Z"
   },
   {
     "job_id": "workday-philips-580033",
