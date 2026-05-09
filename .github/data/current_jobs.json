@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "workday-caterpillar-R0000367218",
+    "job_title": "Engineering Team Leader - Power Conversion & e-Powertrain Systems Validation",
+    "employer_name": "Caterpillar",
+    "job_city": "Mossville",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Mossville, Illinois",
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Engineering-Team-Leader---Power-Conversion---e-Powertrain-Systems-Validation_R0000367218",
+    "job_posted_at_datetime_utc": "2026-05-09T14:01:19.731Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "58eeb00ce2da3b23768d31245443fbfb77b952dc22d5f4e5932dc1d8a82f22e1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-09T14:01:19.731Z"
+  },
+  {
     "job_id": "workday-medtronic-R66046",
     "job_title": "EP Mapping Specialist, CAS- Wilmington/ Myrtle Beach",
     "employer_name": "Medtronic",
@@ -2704,7 +2734,7 @@
     "job_location": "Charlotte, North Carolina, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556755330",
     "job_posted_at_datetime_utc": "2026-05-08T20:08:38.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e33ed941a3b8125ca2f76761de277dfe1eca1d09ea20ee406dd874d9144dacfc",
     "tags": {
@@ -9943,7 +9973,7 @@
     "job_location": "Dallas, Texas, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863801",
     "job_posted_at_datetime_utc": "2026-05-07T23:29:33.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "026c46879cad4b974b6345a45f4f1b1be714c7f8d1875198d15748a4393969d2",
     "tags": {
@@ -11124,7 +11154,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863833",
     "job_posted_at_datetime_utc": "2026-05-07T19:33:41.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "94d39ede1d4c28ea25b075671e4ea91361ffd00181280b9f5d3213caec5716eb",
     "tags": {
@@ -11224,7 +11254,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863830",
     "job_posted_at_datetime_utc": "2026-05-07T19:04:18.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -11275,7 +11305,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863829",
     "job_posted_at_datetime_utc": "2026-05-07T19:02:24.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -11286,7 +11316,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "entry_level",
       "special": [
         "faang"
       ],
@@ -16465,6 +16495,229 @@
     "job_posted_at": "2026-05-07T07:48:50.273Z"
   },
   {
+    "job_id": "workday-leidos-R-00182658",
+    "job_title": "Network Operations Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Greenbelt",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Greenbelt, MD",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Greenbelt-MD/Subject-Matter-Expert_R-00182658",
+    "job_posted_at_datetime_utc": "2026-05-07T07:48:50.272Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "df7e3bc57aed8325bcbdcc6325dad3032075931177213186dcd9a425977a7f4f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "change management",
+        "cisco",
+        "cybersecurity",
+        "excel",
+        "firewall",
+        "juniper",
+        "microsoft office",
+        "networking",
+        "routing",
+        "tcp/ip",
+        "visio"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "none",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T07:48:50.272Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00175899",
+    "job_title": "Electrical System Design Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Huntsville, AL",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-System-Design-Engineer_R-00175899",
+    "job_posted_at_datetime_utc": "2026-05-07T07:48:50.272Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "08728b87548baa1f2836b6e34c6e83f303b0226d92fac71750915baefdc3d4d8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "creo",
+        "cybersecurity",
+        "root cause analysis",
+        "solidworks",
+        "system design",
+        "transformers",
+        "visio"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T07:48:50.272Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00181803",
+    "job_title": "Electrical Design Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Huntsville, AL",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineer_R-00181803",
+    "job_posted_at_datetime_utc": "2026-05-07T07:48:50.272Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a1d657efdf143021a2838519ac18fd5bc8d6ee65f2a5e529a64fd6175a85423d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "altium",
+        "analytics",
+        "autocad",
+        "cad",
+        "cybersecurity",
+        "fiber",
+        "mentor graphics",
+        "orcad",
+        "rf",
+        "solidworks",
+        "system design",
+        "visio"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T07:48:50.272Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00182732",
+    "job_title": "Electrical Design Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Huntsville, AL",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineer_R-00182732",
+    "job_posted_at_datetime_utc": "2026-05-07T07:48:50.272Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a1d657efdf143021a2838519ac18fd5bc8d6ee65f2a5e529a64fd6175a85423d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "altium",
+        "analytics",
+        "autocad",
+        "cad",
+        "cybersecurity",
+        "fiber",
+        "mentor graphics",
+        "orcad",
+        "rf",
+        "solidworks",
+        "system design",
+        "visio"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T07:48:50.272Z"
+  },
+  {
     "job_id": "workday-leidos-R-00182671",
     "job_title": "Electronics Technologist",
     "employer_name": "Leidos",
@@ -16840,229 +17093,6 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-07T07:48:50.272Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00182658",
-    "job_title": "Network Operations Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Greenbelt",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Greenbelt, MD",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Greenbelt-MD/Subject-Matter-Expert_R-00182658",
-    "job_posted_at_datetime_utc": "2026-05-07T07:48:50.272Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "df7e3bc57aed8325bcbdcc6325dad3032075931177213186dcd9a425977a7f4f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "change management",
-        "cisco",
-        "cybersecurity",
-        "excel",
-        "firewall",
-        "juniper",
-        "microsoft office",
-        "networking",
-        "routing",
-        "tcp/ip",
-        "visio"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "none",
-      "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-07T07:48:50.272Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00175899",
-    "job_title": "Electrical System Design Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Huntsville, AL",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-System-Design-Engineer_R-00175899",
-    "job_posted_at_datetime_utc": "2026-05-07T07:48:50.272Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "08728b87548baa1f2836b6e34c6e83f303b0226d92fac71750915baefdc3d4d8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "creo",
-        "cybersecurity",
-        "root cause analysis",
-        "solidworks",
-        "system design",
-        "transformers",
-        "visio"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-07T07:48:50.272Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00181803",
-    "job_title": "Electrical Design Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Huntsville, AL",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineer_R-00181803",
-    "job_posted_at_datetime_utc": "2026-05-07T07:48:50.272Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a1d657efdf143021a2838519ac18fd5bc8d6ee65f2a5e529a64fd6175a85423d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "altium",
-        "analytics",
-        "autocad",
-        "cad",
-        "cybersecurity",
-        "fiber",
-        "mentor graphics",
-        "orcad",
-        "rf",
-        "solidworks",
-        "system design",
-        "visio"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-07T07:48:50.272Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00182732",
-    "job_title": "Electrical Design Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Huntsville, AL",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineer_R-00182732",
-    "job_posted_at_datetime_utc": "2026-05-07T07:48:50.272Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a1d657efdf143021a2838519ac18fd5bc8d6ee65f2a5e529a64fd6175a85423d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "altium",
-        "analytics",
-        "autocad",
-        "cad",
-        "cybersecurity",
-        "fiber",
-        "mentor graphics",
-        "orcad",
-        "rf",
-        "solidworks",
-        "system design",
-        "visio"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
       "question_count": null,
       "summary_line": null
     },
@@ -18818,62 +18848,6 @@
     "job_posted_at": "2026-05-07T07:46:53.043Z"
   },
   {
-    "job_id": "workday-caterpillar-R0000368817",
-    "job_title": "Manufacturing Engineering Technician I - 2nd Shift",
-    "employer_name": "Caterpillar",
-    "job_city": "San Antonio",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Antonio, Texas",
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/San-Antonio-Texas/Manufacturing-Engineering-Technician-I---2nd-Shift_R0000368817",
-    "job_posted_at_datetime_utc": "2026-05-07T07:46:51.094Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "885a5d34774a6896ad937fdaae7988d83c4475506b626ad93e5850748e4d929b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "cnc",
-        "data analysis",
-        "erp",
-        "excel",
-        "gd&t",
-        "lean manufacturing",
-        "pfmea",
-        "process improvement",
-        "teamcenter"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-07T07:46:51.094Z"
-  },
-  {
     "job_id": "workday-caterpillar-R0000351140",
     "job_title": "Controls Engineering Specialist – EH Brake‑by‑Wire Systems",
     "employer_name": "Caterpillar",
@@ -18953,6 +18927,62 @@
     "enrichment": {
       "required_skills": [
         "lean manufacturing"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T07:46:51.094Z"
+  },
+  {
+    "job_id": "workday-caterpillar-R0000368817",
+    "job_title": "Manufacturing Engineering Technician I - 2nd Shift",
+    "employer_name": "Caterpillar",
+    "job_city": "San Antonio",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Antonio, Texas",
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/San-Antonio-Texas/Manufacturing-Engineering-Technician-I---2nd-Shift_R0000368817",
+    "job_posted_at_datetime_utc": "2026-05-07T07:46:51.094Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "885a5d34774a6896ad937fdaae7988d83c4475506b626ad93e5850748e4d929b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "cnc",
+        "data analysis",
+        "erp",
+        "excel",
+        "gd&t",
+        "lean manufacturing",
+        "pfmea",
+        "process improvement",
+        "teamcenter"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
@@ -32455,7 +32485,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863752",
     "job_posted_at_datetime_utc": "2026-05-05T12:57:48.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "172ba110541125d4b63bc2096452e5f26da937aab5d8376213770ac7a45d77e3",
     "tags": {
@@ -38247,54 +38277,6 @@
     "job_posted_at": "2026-05-05T07:46:53.045Z"
   },
   {
-    "job_id": "workday-caterpillar-R0000367632",
-    "job_title": "Marine Field Follow / Validation Engineer",
-    "employer_name": "Caterpillar",
-    "job_city": "Virginia Beach Virginia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Virginia Beach Virginia + 1 more",
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Virginia-Beach-Virginia/Marine-Field-Follow---Validation-Engineer_R0000367632",
-    "job_posted_at_datetime_utc": "2026-05-05T07:46:51.096Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4492a5b351f367773d7bc32dcf68ad57af9ac103f15b3d276860abd7e8580416",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data analysis",
-        "workday"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T07:46:51.096Z"
-  },
-  {
     "job_id": "workday-caterpillar-R0000368143",
     "job_title": "Product Service Engineer-Hydraulic Mining Shovel",
     "employer_name": "Caterpillar",
@@ -38376,6 +38358,54 @@
         "computer science",
         "erp",
         "plc"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T07:46:51.096Z"
+  },
+  {
+    "job_id": "workday-caterpillar-R0000367632",
+    "job_title": "Marine Field Follow / Validation Engineer",
+    "employer_name": "Caterpillar",
+    "job_city": "Virginia Beach Virginia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Virginia Beach Virginia + 1 more",
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Virginia-Beach-Virginia/Marine-Field-Follow---Validation-Engineer_R0000367632",
+    "job_posted_at_datetime_utc": "2026-05-05T07:46:51.096Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4492a5b351f367773d7bc32dcf68ad57af9ac103f15b3d276860abd7e8580416",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data analysis",
+        "workday"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
@@ -46546,54 +46576,6 @@
     "job_posted_at": "2026-05-04T07:02:23.586Z"
   },
   {
-    "job_id": "workday-caterpillar-R0000339664",
-    "job_title": "Maint. Electronic/Electrician",
-    "employer_name": "Caterpillar",
-    "job_city": "South Milwaukee",
-    "job_state": "WI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "South Milwaukee, Wisconsin",
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/South-Milwaukee-Wisconsin/Maint-Electronic-Electrician_R0000339664",
-    "job_posted_at_datetime_utc": "2026-05-04T07:02:21.522Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2f4f13ffe25f57b6ada10cd70f65cd4390cfbe76598dd5124073473b1ed77f96",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cnc",
-        "networking",
-        "plc"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-04T07:02:21.522Z"
-  },
-  {
     "job_id": "workday-caterpillar-R0000367270",
     "job_title": "Packaging Engineer",
     "employer_name": "Caterpillar",
@@ -46726,6 +46708,54 @@
       "required_skills": [
         "computer science",
         "robotics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-04T07:02:21.522Z"
+  },
+  {
+    "job_id": "workday-caterpillar-R0000339664",
+    "job_title": "Maint. Electronic/Electrician",
+    "employer_name": "Caterpillar",
+    "job_city": "South Milwaukee",
+    "job_state": "WI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "South Milwaukee, Wisconsin",
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/South-Milwaukee-Wisconsin/Maint-Electronic-Electrician_R0000339664",
+    "job_posted_at_datetime_utc": "2026-05-04T07:02:21.522Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2f4f13ffe25f57b6ada10cd70f65cd4390cfbe76598dd5124073473b1ed77f96",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cnc",
+        "networking",
+        "plc"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
