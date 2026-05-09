@@ -27,6 +27,26 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "jmp",
+        "linux",
+        "python",
+        "verilog"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-09T01:16:29.016Z"
   },
   {
@@ -1965,6 +1985,55 @@
     "job_posted_at": "2026-05-08T20:08:38.177Z"
   },
   {
+    "job_id": "workday-rtx-01843411",
+    "job_title": "Engineer I: Associate Production Engineering (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "OK-TINKER-AFB-CUST ~ 3001 Staff Dr ~ TINKER AFB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-OK-TINKER-AFB-CUST ~ 3001 Staff Dr ~ TINKER AFB",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OK-TINKER-AFB-CUST--3001-Staff-Dr--TINKER-AFB-External-Site/Engineer-I--Associate-Production-Engineering--Onsite-_01843411",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1232d98a19cb53b2a503532fd8a8ddcfba965985d023cfe8c11427e7536cc45d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "microsoft office",
+        "sap",
+        "visio"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:08:38.176Z"
+  },
+  {
     "job_id": "workday-rtx-01843529",
     "job_title": "Principal Systems Engineer - Coyote Block 2 Cross Product Team Lead (CPTL) (Onsite)",
     "employer_name": "RTX",
@@ -2052,85 +2121,6 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:08:38.176Z"
-  },
-  {
-    "job_id": "workday-rtx-01843393",
-    "job_title": "2026 Full-time - Industrial Engineer I - Onsite (AR)",
-    "employer_name": "RTX",
-    "job_city": "AR-CAMDEN-181-CUST ~ 181 Bear Rd ~ BEAR, Highland Industrial Park",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-AR-CAMDEN-181-CUST ~ 181 Bear Rd ~ BEAR, Highland Industrial Park",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AR-CAMDEN-181-CUST--181-Bear-Rd--BEAR-Highland-Industrial-Park-External-Site/XMLNAME-2026-Full-time---Industrial-Engineer-I---Onsite--AR-_01843393",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "50c755b718b318840ba3410978202d79f8c7be345e9f6eb11987f856d52b68c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:38.176Z"
-  },
-  {
-    "job_id": "workday-rtx-01843411",
-    "job_title": "Engineer I: Associate Production Engineering (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "OK-TINKER-AFB-CUST ~ 3001 Staff Dr ~ TINKER AFB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-OK-TINKER-AFB-CUST ~ 3001 Staff Dr ~ TINKER AFB",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OK-TINKER-AFB-CUST--3001-Staff-Dr--TINKER-AFB-External-Site/Engineer-I--Associate-Production-Engineering--Onsite-_01843411",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1232d98a19cb53b2a503532fd8a8ddcfba965985d023cfe8c11427e7536cc45d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "microsoft office",
-        "sap",
-        "visio"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
       "question_count": null,
       "summary_line": null
     },
@@ -2439,6 +2429,36 @@
       "question_count": null,
       "summary_line": null
     },
+    "job_posted_at": "2026-05-08T20:08:38.176Z"
+  },
+  {
+    "job_id": "workday-rtx-01843393",
+    "job_title": "2026 Full-time - Industrial Engineer I - Onsite (AR)",
+    "employer_name": "RTX",
+    "job_city": "AR-CAMDEN-181-CUST ~ 181 Bear Rd ~ BEAR, Highland Industrial Park",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-AR-CAMDEN-181-CUST ~ 181 Bear Rd ~ BEAR, Highland Industrial Park",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AR-CAMDEN-181-CUST--181-Bear-Rd--BEAR-Highland-Industrial-Park-External-Site/XMLNAME-2026-Full-time---Industrial-Engineer-I---Onsite--AR-_01843393",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "50c755b718b318840ba3410978202d79f8c7be345e9f6eb11987f856d52b68c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
     "job_posted_at": "2026-05-08T20:08:38.176Z"
   },
   {
@@ -2809,57 +2829,6 @@
     "job_posted_at": "2026-05-08T20:08:32.603Z"
   },
   {
-    "job_id": "workday-philips-571718",
-    "job_title": "Thermal-Fluids/Cryogenic Design Engineer",
-    "employer_name": "Philips",
-    "job_city": "Latham",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Latham, New York, United States",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Thermal-Fluids-Cryogenic-Design-Engineer_571718",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:27.105Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "05e3ce27ce7153a1e580a6e5b27576c13e6853d6ac24d1b1e0740e49e280f385",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cfd",
-        "fea",
-        "finite element analysis",
-        "fmea",
-        "requirements management",
-        "tolerance analysis"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:08:27.105Z"
-  },
-  {
     "job_id": "workday-philips-576952",
     "job_title": "Field Service Engineer - Image Guided Therapy (Field: Seattle/Tacoma, WA)",
     "employer_name": "Philips",
@@ -2948,6 +2917,57 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:08:27.105Z"
+  },
+  {
+    "job_id": "workday-philips-571718",
+    "job_title": "Thermal-Fluids/Cryogenic Design Engineer",
+    "employer_name": "Philips",
+    "job_city": "Latham",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Latham, New York, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Thermal-Fluids-Cryogenic-Design-Engineer_571718",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:27.105Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05e3ce27ce7153a1e580a6e5b27576c13e6853d6ac24d1b1e0740e49e280f385",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cfd",
+        "fea",
+        "finite element analysis",
+        "fmea",
+        "requirements management",
+        "tolerance analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
       "question_count": null,
       "summary_line": null
     },
@@ -16350,7 +16370,7 @@
     "job_location": "Dallas, Texas, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863801",
     "job_posted_at_datetime_utc": "2026-05-07T23:29:33.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "026c46879cad4b974b6345a45f4f1b1be714c7f8d1875198d15748a4393969d2",
     "tags": {
@@ -17631,7 +17651,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863830",
     "job_posted_at_datetime_utc": "2026-05-07T19:04:18.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -23983,6 +24003,53 @@
     "job_posted_at": "2026-05-06T20:06:54.796Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-069690",
+    "job_title": "Mgr. Service Quality Engineering",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/Mgr-Service-Quality-Engineering_R-069690-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "99338f3a227aa93b35a491a42864a8d53441d0ca9784a71f9f970e2c2a151e03",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "iso 9001",
+        "risk management"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T20:06:53.750Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-071473",
     "job_title": "Failure Analysis Engineer I",
     "employer_name": "Johnson & Johnson",
@@ -24185,53 +24252,6 @@
       "has_description": true,
       "min_degree": "associates",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:06:53.750Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-069690",
-    "job_title": "Mgr. Service Quality Engineering",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/Mgr-Service-Quality-Engineering_R-069690-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "99338f3a227aa93b35a491a42864a8d53441d0ca9784a71f9f970e2c2a151e03",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "iso 9001",
-        "risk management"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
       "question_count": null,
       "summary_line": null
     },
@@ -27771,51 +27791,6 @@
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
-    "job_id": "simplify-f0726504-db62-485e-bada-8c18a1e5693d",
-    "job_title": "Engineering Technician",
-    "employer_name": "Amentum",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Kennedy-Space-Center/Engineering-Technician_R0157372",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cef0186690267a95f31e360916b5d65ee0e719c37047412827492561623aba31",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
     "job_id": "simplify-5e20afd1-9124-42ba-a6dc-0b14490579ef",
     "job_title": "Entry Level Electrical RF Engineer",
     "employer_name": "Amentum",
@@ -27897,6 +27872,51 @@
       "is_remote": false,
       "has_description": false,
       "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-f0726504-db62-485e-bada-8c18a1e5693d",
+    "job_title": "Engineering Technician",
+    "employer_name": "Amentum",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Kennedy-Space-Center/Engineering-Technician_R0157372",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cef0186690267a95f31e360916b5d65ee0e719c37047412827492561623aba31",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "associates",
       "experience_level_from_desc": null,
       "question_count": null,
       "summary_line": null
@@ -30344,6 +30364,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "as9100",
+        "autocad",
+        "microsoft office"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-05T20:06:37.834Z"
   },
   {
@@ -33011,7 +33049,7 @@
     "job_location": "Santa Clara, California, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556628561",
     "job_posted_at_datetime_utc": "2026-05-05T18:46:34.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "3cfbaab5e99a26096f4e7fda0010865c48dd1a153f613bc3bf81273c1767558a",
     "tags": {
@@ -41637,7 +41675,7 @@
     "job_location": "Chicago, Illinois, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556623149",
     "job_posted_at_datetime_utc": "2026-05-04T13:20:39.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "baf8dfe6ba09dfedbd16a8ccc23b1d88445b557a957bd9f76676d25ceee34911",
     "tags": {
@@ -48312,6 +48350,101 @@
     "job_posted_at": "2026-05-02T13:31:00.058Z"
   },
   {
+    "job_id": "greenhouse-spacex-8511177002",
+    "job_title": "Propulsion Engineer, Combustion Devices Manufacturing (Raptor)",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8511177002?gh_jid=8511177002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "34a12a0ecdb2cc275e4fa3ef64d8319e18e47fc0820c276e0674a2a7d184d114",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "system design"
+      ],
+      "nice_to_have_skills": [
+        "brazing"
+      ],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 22,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-02T13:31:00.055Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8521981002",
+    "job_title": "Propulsion Engineer, Valves (Raptor Components)",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8521981002?gh_jid=8521981002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f8a204d5fbdf7c3024e9cc760d07407204c0de1adf52fb8346a8e9ff1eeebc22",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "project management"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 22,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-02T13:31:00.055Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8406964002",
     "job_title": "Operations Development Engineer (Starlink)",
     "employer_name": "SpaceX",
@@ -48420,19 +48553,19 @@
     "job_posted_at": "2026-05-02T13:31:00.055Z"
   },
   {
-    "job_id": "greenhouse-spacex-8511177002",
-    "job_title": "Propulsion Engineer, Combustion Devices Manufacturing (Raptor)",
+    "job_id": "greenhouse-spacex-8521383002",
+    "job_title": "Mechanical Engineer, Hardware Reliability (Starlink)",
     "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
+    "job_city": "Bastrop",
+    "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8511177002?gh_jid=8511177002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8521383002?gh_jid=8521383002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "34a12a0ecdb2cc275e4fa3ef64d8319e18e47fc0820c276e0674a2a7d184d114",
+    "fingerprint": "b5fd835f4333d3590b9be068896056c2eb9154f21fefbc97dc2e0e99868fe1b2",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -48449,12 +48582,12 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
-        "assembly",
-        "system design"
+        "data analysis",
+        "python",
+        "rf",
+        "sql"
       ],
-      "nice_to_have_skills": [
-        "brazing"
-      ],
+      "nice_to_have_skills": [],
       "sponsors_visa": false,
       "possible_sponsor": null,
       "visa_question_present": false,
@@ -48466,53 +48599,7 @@
       "question_count": 22,
       "summary_line": null
     },
-    "job_posted_at": "2026-05-02T13:31:00.055Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8521981002",
-    "job_title": "Propulsion Engineer, Valves (Raptor Components)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8521981002?gh_jid=8521981002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8a204d5fbdf7c3024e9cc760d07407204c0de1adf52fb8346a8e9ff1eeebc22",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "project management"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 22,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T13:31:00.055Z"
+    "job_posted_at": "2026-05-02T13:31:00.054Z"
   },
   {
     "job_id": "greenhouse-spacex-8511462002",
@@ -48655,55 +48742,6 @@
       "min_degree": "none",
       "experience_level_from_desc": null,
       "question_count": 17,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T13:31:00.054Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8521383002",
-    "job_title": "Mechanical Engineer, Hardware Reliability (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Bastrop",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bastrop, TX",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8521383002?gh_jid=8521383002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b5fd835f4333d3590b9be068896056c2eb9154f21fefbc97dc2e0e99868fe1b2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "python",
-        "rf",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": 22,
       "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:31:00.054Z"
@@ -50603,248 +50641,5 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-02T04:01:58.172Z"
-  },
-  {
-    "job_id": "apple-200661256",
-    "job_title": "Optical Science Engineer, Exploratory Design Engineering",
-    "employer_name": "Apple",
-    "job_city": "Cupertino",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200661256/optical-science-engineer-exploratory-design-engineering",
-    "job_posted_at_datetime_utc": "2026-05-02T01:43:57.017Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6ab723be85c85dbb2beb95cfac121c4256792b95fff1c95b0a712c21be1c3fd8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T01:43:57.017Z"
-  },
-  {
-    "job_id": "apple-200658845",
-    "job_title": "Embedded Software Engineer - Biophotonics",
-    "employer_name": "Apple",
-    "job_city": "Cupertino",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200658845/embedded-software-engineer-biophotonics",
-    "job_posted_at_datetime_utc": "2026-05-02T01:43:27.272Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "30526626fa941578f735181870402c271e89a690ce7b9dc09ac9767da57f7a25",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "firmware"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T01:43:27.272Z"
-  },
-  {
-    "job_id": "apple-200658874",
-    "job_title": "Embedded Software Engineer - Biophotonics",
-    "employer_name": "Apple",
-    "job_city": "Cupertino",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200658874/embedded-software-engineer-biophotonics",
-    "job_posted_at_datetime_utc": "2026-05-02T01:43:12.250Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "30526626fa941578f735181870402c271e89a690ce7b9dc09ac9767da57f7a25",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "firmware"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T01:43:12.250Z"
-  },
-  {
-    "job_id": "apple-200658921",
-    "job_title": "Hardware Modeling & Simulation Engineer - Biophotonics",
-    "employer_name": "Apple",
-    "job_city": "Cupertino",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200658921/hardware-modeling-simulation-engineer-biophotonics",
-    "job_posted_at_datetime_utc": "2026-05-02T01:42:57.747Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b757af76039b208397eed26a9f6b75676eb834872af34c07cf88452634c1ea96",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T01:42:57.747Z"
-  },
-  {
-    "job_id": "apple-200658924",
-    "job_title": "Hardware Modeling & Simulation Engineer - Biophotonics",
-    "employer_name": "Apple",
-    "job_city": "Cupertino",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200658924/hardware-modeling-simulation-engineer-biophotonics",
-    "job_posted_at_datetime_utc": "2026-05-02T01:42:41.216Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b757af76039b208397eed26a9f6b75676eb834872af34c07cf88452634c1ea96",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T01:42:41.216Z"
   }
 ]
