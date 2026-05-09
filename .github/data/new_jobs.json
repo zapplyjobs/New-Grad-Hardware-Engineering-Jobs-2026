@@ -1,5 +1,39 @@
 [
   {
+    "job_id": "apple-200662418",
+    "job_title": "Engineering Program Manager (ANE/ML/AI), Video Engineering",
+    "employer_name": "Apple",
+    "job_city": "Sunnyvale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200662418/engineering-program-manager-ane-ml-ai-video-engineering",
+    "job_posted_at_datetime_utc": "2026-05-09T01:56:34.943Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6b88b8c5c5fe21e52db1aaa8840383e2560aaebea6102beef64b7bb6ea53c229",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "apple",
+    "job_posted_at": "2026-05-09T01:56:34.943Z"
+  },
+  {
     "job_id": "workday-micron-JR100526",
     "job_title": "HIG Product Engineer - Media Health",
     "employer_name": "Micron",
@@ -4020,50 +4054,6 @@
     "job_posted_at": "2026-05-08T20:07:46.549Z"
   },
   {
-    "job_id": "workday-medtronic-R66181",
-    "job_title": "Associate Mapping Specialist CAS",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Eugene-Oregon-United-States-of-America/Associate-Mapping-Specialist-CAS_R66181-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:46.549Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e051e670f0c872577cab4685f438684a493cdab1a790a2e856077c2a212b38cd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:07:46.549Z"
-  },
-  {
     "job_id": "workday-medtronic-R66282",
     "job_title": "EP Mapping Specialist, CAS- Roanoke",
     "employer_name": "Medtronic",
@@ -4101,6 +4091,50 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:07:46.549Z"
+  },
+  {
+    "job_id": "workday-medtronic-R66181",
+    "job_title": "Associate Mapping Specialist CAS",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Eugene-Oregon-United-States-of-America/Associate-Mapping-Specialist-CAS_R66181-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:46.549Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e051e670f0c872577cab4685f438684a493cdab1a790a2e856077c2a212b38cd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
       "experience_level_from_desc": null,
       "question_count": null,
       "summary_line": null
@@ -11626,7 +11660,7 @@
     "job_location": "Charlotte, North Carolina, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556755329",
     "job_posted_at_datetime_utc": "2026-05-08T19:54:14.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "00036d233ef12738513efde1fed9d9220a8791f9d20f9d93d8f5f98ae413902e",
     "tags": {
@@ -17551,7 +17585,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863833",
     "job_posted_at_datetime_utc": "2026-05-07T19:33:41.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "94d39ede1d4c28ea25b075671e4ea91361ffd00181280b9f5d3213caec5716eb",
     "tags": {
@@ -17702,7 +17736,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863829",
     "job_posted_at_datetime_utc": "2026-05-07T19:02:24.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -21939,6 +21973,94 @@
     "job_posted_at": "2026-05-06T20:07:55.123Z"
   },
   {
+    "job_id": "workday-medtronic-R65688",
+    "job_title": "EP Mapping Specialist - CAS - Amarillo, TX",
+    "employer_name": "Medtronic",
+    "job_city": "Amarillo",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Amarillo, Texas, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Amarillo-Texas-United-States-of-America/EP-Mapping-Specialist---CAS---Amarillo--TX_R65688-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:07:46.550Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "631a591d386493afb34ba29e4ff6e29c9bde0fbc294505232b6ea9d666e52f09",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T20:07:46.550Z"
+  },
+  {
+    "job_id": "workday-medtronic-R66072",
+    "job_title": "Affera Mapping Specialist - CAS",
+    "employer_name": "Medtronic",
+    "job_city": "13 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "13 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Affera-Mapping-Specialist---CAS_R66072-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:07:46.550Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7ebc60f6b164dacf80df5b955adc4bb3245ae00d95cd863cedcb53d916429bfb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T20:07:46.550Z"
+  },
+  {
     "job_id": "workday-medtronic-R60451",
     "job_title": "Field Service Engineer (2+ years)",
     "employer_name": "Medtronic",
@@ -22069,94 +22191,6 @@
       "has_description": true,
       "min_degree": "associates",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:07:46.550Z"
-  },
-  {
-    "job_id": "workday-medtronic-R65688",
-    "job_title": "EP Mapping Specialist - CAS - Amarillo, TX",
-    "employer_name": "Medtronic",
-    "job_city": "Amarillo",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Amarillo, Texas, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Amarillo-Texas-United-States-of-America/EP-Mapping-Specialist---CAS---Amarillo--TX_R65688-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:07:46.550Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "631a591d386493afb34ba29e4ff6e29c9bde0fbc294505232b6ea9d666e52f09",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:07:46.550Z"
-  },
-  {
-    "job_id": "workday-medtronic-R66072",
-    "job_title": "Affera Mapping Specialist - CAS",
-    "employer_name": "Medtronic",
-    "job_city": "13 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "13 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Affera-Mapping-Specialist---CAS_R66072-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:07:46.550Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7ebc60f6b164dacf80df5b955adc4bb3245ae00d95cd863cedcb53d916429bfb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
       "question_count": null,
       "summary_line": null
     },
@@ -33049,7 +33083,7 @@
     "job_location": "Santa Clara, California, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556628561",
     "job_posted_at_datetime_utc": "2026-05-05T18:46:34.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3cfbaab5e99a26096f4e7fda0010865c48dd1a153f613bc3bf81273c1767558a",
     "tags": {
@@ -48350,65 +48384,6 @@
     "job_posted_at": "2026-05-02T13:31:00.058Z"
   },
   {
-    "job_id": "greenhouse-spacex-8406964002",
-    "job_title": "Operations Development Engineer (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8406964002?gh_jid=8406964002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dfe4bffda9b9e8a6f80339a2956e6a72f51e36ed17d7fee0b4421d831379b372",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "dashboards",
-        "data analysis",
-        "data visualization",
-        "grafana",
-        "jupyter",
-        "networking",
-        "postgresql",
-        "prometheus",
-        "python",
-        "reporting",
-        "spark",
-        "sql",
-        "statistics"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 22,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T13:31:00.055Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8522688002",
     "job_title": "Product Development Engineer (Starlink)",
     "employer_name": "SpaceX",
@@ -48553,19 +48528,19 @@
     "job_posted_at": "2026-05-02T13:31:00.055Z"
   },
   {
-    "job_id": "greenhouse-spacex-8511462002",
-    "job_title": "Mechanical Engineer (Starship)",
+    "job_id": "greenhouse-spacex-8406964002",
+    "job_title": "Operations Development Engineer (Starlink)",
     "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
+    "job_city": "Redmond",
+    "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8511462002?gh_jid=8511462002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8406964002?gh_jid=8406964002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "1d1e18f27cdaeaedab4cca3f4cc7fa56b9bc908a14b7e6057464405847e6e2f9",
+    "fingerprint": "dfe4bffda9b9e8a6f80339a2956e6a72f51e36ed17d7fee0b4421d831379b372",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -48574,7 +48549,7 @@
       "locations": [
         "us"
       ],
-      "experience": "entry_level",
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -48582,7 +48557,20 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
-        "robotics"
+        "airflow",
+        "dashboards",
+        "data analysis",
+        "data visualization",
+        "grafana",
+        "jupyter",
+        "networking",
+        "postgresql",
+        "prometheus",
+        "python",
+        "reporting",
+        "spark",
+        "sql",
+        "statistics"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": false,
@@ -48596,7 +48584,7 @@
       "question_count": 22,
       "summary_line": null
     },
-    "job_posted_at": "2026-05-02T13:31:00.054Z"
+    "job_posted_at": "2026-05-02T13:31:00.055Z"
   },
   {
     "job_id": "greenhouse-spacex-8506546002",
@@ -48741,6 +48729,52 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
+      "question_count": 22,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-02T13:31:00.054Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8511462002",
+    "job_title": "Mechanical Engineer (Starship)",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8511462002?gh_jid=8511462002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1d1e18f27cdaeaedab4cca3f4cc7fa56b9bc908a14b7e6057464405847e6e2f9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "robotics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
       "question_count": 22,
       "summary_line": null
     },
