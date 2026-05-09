@@ -9494,7 +9494,7 @@
     "job_location": "Fayetteville, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556856338",
     "job_posted_at_datetime_utc": "2026-05-08T12:38:59.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d4dc6630d27857619fb69c8104ec51c84845891340054b3c3a141f984b7b4102",
     "tags": {
@@ -11182,6 +11182,38 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-07T19:04:46.387Z"
+  },
+  {
+    "job_id": "microsoft-200036800",
+    "job_title": "Critical Environment Electrical Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Milwaukee",
+    "job_state": "Wisconsin",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Milwaukee, Wisconsin, United States",
+    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863830",
+    "job_posted_at_datetime_utc": "2026-05-07T19:04:18.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "microsoft",
+    "job_posted_at": "2026-05-07T19:04:18.000Z"
   },
   {
     "job_id": "microsoft-200036799",
@@ -26933,6 +26965,103 @@
     "job_posted_at": "2026-05-06T07:48:03.619Z"
   },
   {
+    "job_id": "workday-general-motors-JR-202609940",
+    "job_title": "Design Release Engineer, Connectivity Hardware",
+    "employer_name": "General Motors",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer--Connectivity-Hardware_JR-202609940-1",
+    "job_posted_at_datetime_utc": "2026-05-06T07:47:51.421Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fb2c6f75bae706b62bcd5e351883a9c9ada68474b3aab49edd319c00551036e0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "change management",
+        "cybersecurity",
+        "dfmea",
+        "pfmea"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:47:51.421Z"
+  },
+  {
+    "job_id": "workday-general-motors-JR-202610151",
+    "job_title": "Executive Assistant - Embedded Platform Systems & Infrastructure",
+    "employer_name": "General Motors",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Executive-Assistant---Embedded-Platform-Systems---Infrastructure_JR-202610151",
+    "job_posted_at_datetime_utc": "2026-05-06T07:47:51.421Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b11fc58e732c91e7b62463574be2d894e94213fe548ed65ecb52b84288fe57d4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "microsoft office",
+        "process improvement",
+        "project management"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:47:51.421Z"
+  },
+  {
     "job_id": "workday-general-motors-JR-202607439",
     "job_title": "Assistant Electrical Integration Manager",
     "employer_name": "General Motors",
@@ -27203,103 +27332,6 @@
         "airflow",
         "plc",
         "rtos"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T07:47:51.421Z"
-  },
-  {
-    "job_id": "workday-general-motors-JR-202609940",
-    "job_title": "Design Release Engineer, Connectivity Hardware",
-    "employer_name": "General Motors",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer--Connectivity-Hardware_JR-202609940-1",
-    "job_posted_at_datetime_utc": "2026-05-06T07:47:51.421Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fb2c6f75bae706b62bcd5e351883a9c9ada68474b3aab49edd319c00551036e0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "change management",
-        "cybersecurity",
-        "dfmea",
-        "pfmea"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T07:47:51.421Z"
-  },
-  {
-    "job_id": "workday-general-motors-JR-202610151",
-    "job_title": "Executive Assistant - Embedded Platform Systems & Infrastructure",
-    "employer_name": "General Motors",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Executive-Assistant---Embedded-Platform-Systems---Infrastructure_JR-202610151",
-    "job_posted_at_datetime_utc": "2026-05-06T07:47:51.421Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b11fc58e732c91e7b62463574be2d894e94213fe548ed65ecb52b84288fe57d4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "microsoft office",
-        "process improvement",
-        "project management"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
@@ -29210,7 +29242,7 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
-      "experience_level_from_desc": null,
+      "experience_level_from_desc": "mid_level",
       "question_count": 12
     },
     "job_posted_at": "2026-05-05T21:50:32.464Z"
@@ -30309,22 +30341,15 @@
     "_source": "aggregator",
     "_original_source": "microsoft",
     "enrichment": {
-      "required_skills": [
-        "arm",
-        "assembly",
-        "c++",
-        "perl",
-        "risc-v",
-        "systemverilog"
-      ],
+      "required_skills": [],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
       "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
       "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
+      "has_description": false,
+      "min_degree": null,
       "experience_level_from_desc": null,
       "question_count": null
     },
@@ -31221,7 +31246,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 16
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T15:37:13.000Z"
   },
@@ -31696,7 +31721,7 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
-      "experience_level_from_desc": null,
+      "experience_level_from_desc": "entry_level",
       "question_count": 15
     },
     "job_posted_at": "2026-05-05T14:17:56.000Z"
@@ -31955,7 +31980,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863752",
     "job_posted_at_datetime_utc": "2026-05-05T12:57:48.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "172ba110541125d4b63bc2096452e5f26da937aab5d8376213770ac7a45d77e3",
     "tags": {
@@ -31966,7 +31991,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "entry_level",
       "special": [
         "faang"
       ],
@@ -31975,21 +32000,14 @@
     "_source": "aggregator",
     "_original_source": "microsoft",
     "enrichment": {
-      "required_skills": [
-        "azure",
-        "microsoft azure",
-        "react",
-        "reporting",
-        "root cause analysis",
-        "statistical analysis"
-      ],
+      "required_skills": [],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
       "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
       "is_remote": false,
-      "has_description": true,
+      "has_description": false,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
       "question_count": null
@@ -39921,7 +39939,7 @@
     "job_location": "Boydton, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556813763",
     "job_posted_at_datetime_utc": "2026-05-04T19:36:33.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "f59e0212d07938df773e5e17ae4687412a2bc1dcc6511b69baaf28686349641f",
     "tags": {
@@ -39932,7 +39950,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "entry_level",
       "special": [
         "faang"
       ],
@@ -42240,6 +42258,54 @@
     "job_posted_at": "2026-05-04T07:48:50.278Z"
   },
   {
+    "job_id": "workday-general-motors-JR-202606959",
+    "job_title": "Facilities Engineer",
+    "employer_name": "General Motors",
+    "job_city": "Defiance",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Defiance, Ohio, United States of America",
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Defiance-Ohio-United-States-of-America/Facilities-Engineer_JR-202606959",
+    "job_posted_at_datetime_utc": "2026-05-04T07:47:51.422Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fbfe35ee534ff7c90ee06dcbc66633dc1b9c12fb6906aa384898f15323ef4d1f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "plc",
+        "sap",
+        "switching"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-04T07:47:51.422Z"
+  },
+  {
     "job_id": "workday-general-motors-JR-202607483",
     "job_title": "Vehicle Energy Model and Toolchain Development Engineer",
     "employer_name": "General Motors",
@@ -42372,54 +42438,6 @@
         "lean manufacturing",
         "microsoft office",
         "project management"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-04T07:47:51.422Z"
-  },
-  {
-    "job_id": "workday-general-motors-JR-202606959",
-    "job_title": "Facilities Engineer",
-    "employer_name": "General Motors",
-    "job_city": "Defiance",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Defiance, Ohio, United States of America",
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Defiance-Ohio-United-States-of-America/Facilities-Engineer_JR-202606959",
-    "job_posted_at_datetime_utc": "2026-05-04T07:47:51.422Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fbfe35ee534ff7c90ee06dcbc66633dc1b9c12fb6906aa384898f15323ef4d1f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "plc",
-        "sap",
-        "switching"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
