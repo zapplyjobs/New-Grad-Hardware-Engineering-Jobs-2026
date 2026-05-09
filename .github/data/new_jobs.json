@@ -9987,7 +9987,7 @@
     "job_location": "Dallas, Texas, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863801",
     "job_posted_at_datetime_utc": "2026-05-07T23:29:33.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "026c46879cad4b974b6345a45f4f1b1be714c7f8d1875198d15748a4393969d2",
     "tags": {
@@ -9999,7 +9999,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": [
         "faang"
       ],
@@ -11144,7 +11144,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863833",
     "job_posted_at_datetime_utc": "2026-05-07T19:33:41.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "94d39ede1d4c28ea25b075671e4ea91361ffd00181280b9f5d3213caec5716eb",
     "tags": {
@@ -11242,7 +11242,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863830",
     "job_posted_at_datetime_utc": "2026-05-07T19:04:18.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -11253,7 +11253,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "entry_level",
       "special": [
         "faang"
       ],
@@ -15707,52 +15707,6 @@
     "job_posted_at": "2026-05-07T08:01:12.284Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01351857",
-    "job_title": "Facilities and Engineering Technician",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Ward Hill",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ward Hill, Massachusetts, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Ward-Hill-Massachusetts-USA/Facilities-and-Engineering-Technician_R-01351857",
-    "job_posted_at_datetime_utc": "2026-05-07T07:50:02.461Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1aeabf2863463d0e2df4b6ad0ea1769a376c992b95345ff0256f4ae231187e2a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "gmp"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T07:50:02.461Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01347903",
     "job_title": "Electrical Engineer",
     "employer_name": "Thermo Fisher Scientific",
@@ -15805,23 +15759,24 @@
     "job_posted_at": "2026-05-07T07:50:02.461Z"
   },
   {
-    "job_id": "workday-rtx-01842461",
-    "job_title": "Principle HWIL Electrical Engineer",
-    "employer_name": "RTX",
-    "job_city": "AL-HUNTSVILLE-315 ~ 315 Bob Heath Dr ~ BOB HEATH",
-    "job_state": "",
+    "job_id": "workday-thermo-fisher-scientific-R-01351857",
+    "job_title": "Facilities and Engineering Technician",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Ward Hill",
+    "job_state": "MA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "US-AL-HUNTSVILLE-315 ~ 315 Bob Heath Dr ~ BOB HEATH",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Principle-HWIL-Electrical-Engineer_01842461",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
+    "job_location": "Ward Hill, Massachusetts, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Ward-Hill-Massachusetts-USA/Facilities-and-Engineering-Technician_R-01351857",
+    "job_posted_at_datetime_utc": "2026-05-07T07:50:02.461Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c04a39e4eac52a976fec095fbfa582a4de6b793a080ce5b2f5572015f374fc3f",
+    "fingerprint": "1aeabf2863463d0e2df4b6ad0ea1769a376c992b95345ff0256f4ae231187e2a",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "hardware"
+        "hardware",
+        "manufacturing"
       ],
       "locations": [
         "us"
@@ -15834,10 +15789,7 @@
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [
-        "altium",
-        "creo",
-        "project management",
-        "vivado"
+        "gmp"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
@@ -15847,10 +15799,10 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
+      "experience_level_from_desc": "entry_level",
       "question_count": null
     },
-    "job_posted_at": "2026-05-07T07:49:28.227Z"
+    "job_posted_at": "2026-05-07T07:50:02.461Z"
   },
   {
     "job_id": "workday-rtx-01843529",
@@ -15929,6 +15881,54 @@
         "microwave",
         "reporting",
         "rf"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:49:28.227Z"
+  },
+  {
+    "job_id": "workday-rtx-01842461",
+    "job_title": "Principle HWIL Electrical Engineer",
+    "employer_name": "RTX",
+    "job_city": "AL-HUNTSVILLE-315 ~ 315 Bob Heath Dr ~ BOB HEATH",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-AL-HUNTSVILLE-315 ~ 315 Bob Heath Dr ~ BOB HEATH",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Principle-HWIL-Electrical-Engineer_01842461",
+    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c04a39e4eac52a976fec095fbfa582a4de6b793a080ce5b2f5572015f374fc3f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "altium",
+        "creo",
+        "project management",
+        "vivado"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
@@ -18510,52 +18510,6 @@
     "job_posted_at": "2026-05-07T07:47:02.537Z"
   },
   {
-    "job_id": "workday-carrier-global-30204236",
-    "job_title": "Applications Engineer- DDC",
-    "employer_name": "Carrier Global",
-    "job_city": "CAT78: Pasadena",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "CAT78: Pasadena, 290 Beltway Green Boulevard, Pasadena, TX, 77503 USA",
-    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAT78-Pasadena-290-Beltway-Green-Boulevard-Pasadena-TX-77503-USA/Applications-Engineer--DDC_30204236",
-    "job_posted_at_datetime_utc": "2026-05-07T07:46:53.044Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f41b1cf644c4efac490de946b1f9958f36445a46b3f9dea7d546dba3db487373",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "project management",
-        "system design"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T07:46:53.044Z"
-  },
-  {
     "job_id": "workday-carrier-global-30202339",
     "job_title": "Electrical Engineer",
     "employer_name": "Carrier Global",
@@ -18646,6 +18600,52 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:46:53.044Z"
+  },
+  {
+    "job_id": "workday-carrier-global-30204236",
+    "job_title": "Applications Engineer- DDC",
+    "employer_name": "Carrier Global",
+    "job_city": "CAT78: Pasadena",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "CAT78: Pasadena, 290 Beltway Green Boulevard, Pasadena, TX, 77503 USA",
+    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAT78-Pasadena-290-Beltway-Green-Boulevard-Pasadena-TX-77503-USA/Applications-Engineer--DDC_30204236",
+    "job_posted_at_datetime_utc": "2026-05-07T07:46:53.044Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f41b1cf644c4efac490de946b1f9958f36445a46b3f9dea7d546dba3db487373",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "project management",
+        "system design"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
       "question_count": null
     },
     "job_posted_at": "2026-05-07T07:46:53.044Z"
@@ -26801,54 +26801,6 @@
     "job_posted_at": "2026-05-06T07:48:06.428Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-071473",
-    "job_title": "Failure Analysis Engineer I",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Danvers",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Danvers, Massachusetts, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Failure-Analysis-Engineer-I_R-071473",
-    "job_posted_at_datetime_utc": "2026-05-06T07:48:03.619Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a602c2e73d0a67c4a3219f16dcabb17aabcc0196c629c3072596fcc1b2a96ed5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda",
-        "project management",
-        "risk management",
-        "root cause analysis"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T07:48:03.619Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-073798",
     "job_title": "Product Development Engineer",
     "employer_name": "Johnson & Johnson",
@@ -27046,6 +26998,54 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:48:03.619Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-071473",
+    "job_title": "Failure Analysis Engineer I",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Danvers",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Danvers, Massachusetts, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Failure-Analysis-Engineer-I_R-071473",
+    "job_posted_at_datetime_utc": "2026-05-06T07:48:03.619Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a602c2e73d0a67c4a3219f16dcabb17aabcc0196c629c3072596fcc1b2a96ed5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "fda",
+        "project management",
+        "risk management",
+        "root cause analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
       "question_count": null
     },
     "job_posted_at": "2026-05-06T07:48:03.619Z"
@@ -30407,7 +30407,7 @@
     "job_location": "Santa Clara, California, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556628561",
     "job_posted_at_datetime_utc": "2026-05-05T18:46:34.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3cfbaab5e99a26096f4e7fda0010865c48dd1a153f613bc3bf81273c1767558a",
     "tags": {
@@ -40039,7 +40039,7 @@
     "job_location": "Boydton, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556813763",
     "job_posted_at_datetime_utc": "2026-05-04T19:36:33.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f59e0212d07938df773e5e17ae4687412a2bc1dcc6511b69baaf28686349641f",
     "tags": {
