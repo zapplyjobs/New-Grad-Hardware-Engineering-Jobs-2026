@@ -11214,14 +11214,19 @@
     "_source": "aggregator",
     "_original_source": "microsoft",
     "enrichment": {
-      "required_skills": [],
+      "required_skills": [
+        "azure",
+        "dashboards",
+        "microsoft azure",
+        "reporting"
+      ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
       "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
       "is_remote": false,
-      "has_description": false,
+      "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
       "question_count": null
@@ -13339,6 +13344,250 @@
     "job_posted_at": "2026-05-07T08:16:23.064Z"
   },
   {
+    "job_id": "workday-northrop-grumman-R10229212",
+    "job_title": "Engineering Technician 2/3",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Utah-Corinne",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-Utah-Corinne",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Engineering-Technician-2-3_R10229212",
+    "job_posted_at_datetime_utc": "2026-05-07T08:02:38.790Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e9310108ca63a176fcd135fa0186d4f0a2c533bfbfd4978ad6b4f778f4a99da4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "lean manufacturing"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T08:02:38.790Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10232147",
+    "job_title": "Electrical Engineer - Level 3",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Alabama-Huntsville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-Alabama-Huntsville",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Electrical-Engineer---Level-3_R10232147",
+    "job_posted_at_datetime_utc": "2026-05-07T08:02:38.790Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a02f3c300182adc575efe11dfa25f836060ffb5f2ae3bebc6ae266d6a6ea0b04",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "autocad",
+        "cad",
+        "cameo",
+        "creo",
+        "dashboards",
+        "excel",
+        "mil-std",
+        "nx",
+        "requirements management",
+        "sap",
+        "solidworks",
+        "system design",
+        "teamcenter",
+        "visio"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T08:02:38.790Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10231324",
+    "job_title": "Quality Engineer",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Virginia-Radford",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-Virginia-Radford",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Radford/Quality-Engineer_R10231324",
+    "job_posted_at_datetime_utc": "2026-05-07T08:02:38.790Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2cf3e5cb2b315e2fdfea3173a8c457cb0ffc3fa2497a268baa004352542d7fc4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "statistical analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T08:02:38.790Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10232218",
+    "job_title": "Electromechanical Engineer (Level 1 OR 2)",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Colorado-Aurora",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-Colorado-Aurora",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Electromechanical-Engineer--Level-1-OR-2-_R10232218",
+    "job_posted_at_datetime_utc": "2026-05-07T08:02:38.790Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a76178745ded8f6fd43a900c7000b057f97ded8dcb7105d586068ab788c61bd2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "fiber",
+        "rf"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T08:02:38.790Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10232352",
+    "job_title": "Engineering Technician - Level 3 or Level 4",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Florida-Kennedy Space Center",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-Florida-Kennedy Space Center",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Kennedy-Space-Center/Engineering-Technician---Level-3-or-Level-4_R10232352",
+    "job_posted_at_datetime_utc": "2026-05-07T08:02:38.790Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9d758cd6a04501fe79fa4a174b67f7df9186b863ada6edebe888805634390d47",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "microsoft office",
+        "oscilloscope"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T08:02:38.790Z"
+  },
+  {
     "job_id": "workday-northrop-grumman-R10232359",
     "job_title": "Engineering Technician  – Level 2 or Level 3",
     "employer_name": "Northrop Grumman",
@@ -13749,250 +13998,6 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T08:02:38.790Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10229212",
-    "job_title": "Engineering Technician 2/3",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Utah-Corinne",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-Utah-Corinne",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Engineering-Technician-2-3_R10229212",
-    "job_posted_at_datetime_utc": "2026-05-07T08:02:38.790Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e9310108ca63a176fcd135fa0186d4f0a2c533bfbfd4978ad6b4f778f4a99da4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "lean manufacturing"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T08:02:38.790Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10232147",
-    "job_title": "Electrical Engineer - Level 3",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Alabama-Huntsville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-Alabama-Huntsville",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Electrical-Engineer---Level-3_R10232147",
-    "job_posted_at_datetime_utc": "2026-05-07T08:02:38.790Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a02f3c300182adc575efe11dfa25f836060ffb5f2ae3bebc6ae266d6a6ea0b04",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "autocad",
-        "cad",
-        "cameo",
-        "creo",
-        "dashboards",
-        "excel",
-        "mil-std",
-        "nx",
-        "requirements management",
-        "sap",
-        "solidworks",
-        "system design",
-        "teamcenter",
-        "visio"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T08:02:38.790Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10231324",
-    "job_title": "Quality Engineer",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Virginia-Radford",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-Virginia-Radford",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Radford/Quality-Engineer_R10231324",
-    "job_posted_at_datetime_utc": "2026-05-07T08:02:38.790Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2cf3e5cb2b315e2fdfea3173a8c457cb0ffc3fa2497a268baa004352542d7fc4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "statistical analysis"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T08:02:38.790Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10232218",
-    "job_title": "Electromechanical Engineer (Level 1 OR 2)",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Colorado-Aurora",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-Colorado-Aurora",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Electromechanical-Engineer--Level-1-OR-2-_R10232218",
-    "job_posted_at_datetime_utc": "2026-05-07T08:02:38.790Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a76178745ded8f6fd43a900c7000b057f97ded8dcb7105d586068ab788c61bd2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fiber",
-        "rf"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T08:02:38.790Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10232352",
-    "job_title": "Engineering Technician - Level 3 or Level 4",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Florida-Kennedy Space Center",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-Florida-Kennedy Space Center",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Kennedy-Space-Center/Engineering-Technician---Level-3-or-Level-4_R10232352",
-    "job_posted_at_datetime_utc": "2026-05-07T08:02:38.790Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9d758cd6a04501fe79fa4a174b67f7df9186b863ada6edebe888805634390d47",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "microsoft office",
-        "oscilloscope"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
       "question_count": null
     },
     "job_posted_at": "2026-05-07T08:02:38.790Z"
@@ -23133,6 +23138,60 @@
     "job_posted_at": "2026-05-06T08:02:40.046Z"
   },
   {
+    "job_id": "workday-northrop-grumman-R10231492",
+    "job_title": "Industrial Engineer 2/3",
+    "employer_name": "Northrop Grumman",
+    "job_city": "West Virginia-Rocket Center",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-West Virginia-Rocket Center",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Industrial-Engineer-2-3_R10231492",
+    "job_posted_at_datetime_utc": "2026-05-06T08:02:38.791Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05ee014727bc6a3c59d76c10eeaed6120808680d6f324e7cf2be4ce7679f1c6c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "data analysis",
+        "data visualization",
+        "excel",
+        "kanban",
+        "mes",
+        "microsoft office",
+        "pivot tables",
+        "tableau",
+        "value stream"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T08:02:38.791Z"
+  },
+  {
     "job_id": "workday-northrop-grumman-R10230523",
     "job_title": "2026 Associate Structural Engineer/ Structural Engineer - Weekend Shift",
     "employer_name": "Northrop Grumman",
@@ -23411,106 +23470,6 @@
     "job_posted_at": "2026-05-06T08:02:38.791Z"
   },
   {
-    "job_id": "workday-northrop-grumman-R10231492",
-    "job_title": "Industrial Engineer 2/3",
-    "employer_name": "Northrop Grumman",
-    "job_city": "West Virginia-Rocket Center",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-West Virginia-Rocket Center",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Industrial-Engineer-2-3_R10231492",
-    "job_posted_at_datetime_utc": "2026-05-06T08:02:38.791Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "05ee014727bc6a3c59d76c10eeaed6120808680d6f324e7cf2be4ce7679f1c6c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "data analysis",
-        "data visualization",
-        "excel",
-        "kanban",
-        "mes",
-        "microsoft office",
-        "pivot tables",
-        "tableau",
-        "value stream"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T08:02:38.791Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10232151",
-    "job_title": "2026 Associate Structural Stress Analysis Engineer/ Structural Stress Analysis Engineer",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Utah-Layton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-Utah-Layton",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Layton/XMLNAME-2026-Associate-Structural-Stress-Analysis-Engineer--Structural-Stress-Analysis-Engineer_R10232151",
-    "job_posted_at_datetime_utc": "2026-05-06T08:02:38.790Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6e683ec4ce1972ab756a43e0fbce46c0333e42d2b2960c8df8216cbeec73eeb9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "nx",
-        "teamcenter"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T08:02:38.790Z"
-  },
-  {
     "job_id": "workday-northrop-grumman-R10228039",
     "job_title": "Associate Engineer Electronics",
     "employer_name": "Northrop Grumman",
@@ -23645,6 +23604,52 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T08:02:38.790Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10232151",
+    "job_title": "2026 Associate Structural Stress Analysis Engineer/ Structural Stress Analysis Engineer",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Utah-Layton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-Utah-Layton",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Layton/XMLNAME-2026-Associate-Structural-Stress-Analysis-Engineer--Structural-Stress-Analysis-Engineer_R10232151",
+    "job_posted_at_datetime_utc": "2026-05-06T08:02:38.790Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6e683ec4ce1972ab756a43e0fbce46c0333e42d2b2960c8df8216cbeec73eeb9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "nx",
+        "teamcenter"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
       "question_count": null
     },
     "job_posted_at": "2026-05-06T08:02:38.790Z"
@@ -33573,110 +33578,6 @@
     "job_posted_at": "2026-05-05T08:02:38.792Z"
   },
   {
-    "job_id": "workday-northrop-grumman-R10231928",
-    "job_title": "Mechanical Design Engineer Level 2/3",
-    "employer_name": "Northrop Grumman",
-    "job_city": "California-Sunnyvale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-California-Sunnyvale",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Mechanical-Design-Engineer-Level-2-3_R10231928",
-    "job_posted_at_datetime_utc": "2026-05-05T08:02:38.791Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7462f2dfd5cbb2e442c1203b4c0aec5ba9770e7fc8c14dabeb90046c82c23ce5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "creo",
-        "gd&t",
-        "nx",
-        "solidworks"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T08:02:38.791Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10231964",
-    "job_title": "RF Microwave Design Engineer - Level 5",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Colorado-Boulder",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-Colorado-Boulder",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/RF-Microwave-Design-Engineer---Level-5_R10231964-1",
-    "job_posted_at_datetime_utc": "2026-05-05T08:02:38.791Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c142043c92dffb8f8a22e7e2d5c910780db29c0ea3b31e97fee5a4da5182e768",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "fiber",
-        "jira",
-        "mbse",
-        "microwave",
-        "networking",
-        "project management",
-        "red hat",
-        "rf",
-        "sysml",
-        "windows"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T08:02:38.791Z"
-  },
-  {
     "job_id": "workday-northrop-grumman-R10232042",
     "job_title": "Field Engineer Level 2 or 3",
     "employer_name": "Northrop Grumman",
@@ -33785,6 +33686,110 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T08:02:38.791Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10231928",
+    "job_title": "Mechanical Design Engineer Level 2/3",
+    "employer_name": "Northrop Grumman",
+    "job_city": "California-Sunnyvale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-California-Sunnyvale",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Mechanical-Design-Engineer-Level-2-3_R10231928",
+    "job_posted_at_datetime_utc": "2026-05-05T08:02:38.791Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7462f2dfd5cbb2e442c1203b4c0aec5ba9770e7fc8c14dabeb90046c82c23ce5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "creo",
+        "gd&t",
+        "nx",
+        "solidworks"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T08:02:38.791Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10231964",
+    "job_title": "RF Microwave Design Engineer - Level 5",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Colorado-Boulder",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-Colorado-Boulder",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/RF-Microwave-Design-Engineer---Level-5_R10231964-1",
+    "job_posted_at_datetime_utc": "2026-05-05T08:02:38.791Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c142043c92dffb8f8a22e7e2d5c910780db29c0ea3b31e97fee5a4da5182e768",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "fiber",
+        "jira",
+        "mbse",
+        "microwave",
+        "networking",
+        "project management",
+        "red hat",
+        "rf",
+        "sysml",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
       "question_count": null
     },
     "job_posted_at": "2026-05-05T08:02:38.791Z"
@@ -43321,52 +43326,6 @@
     "job_posted_at": "2026-05-04T07:16:52.256Z"
   },
   {
-    "job_id": "workday-northrop-grumman-R10231901",
-    "job_title": "Engineering Technician – Communications (Level 2 or 3)",
-    "employer_name": "Northrop Grumman",
-    "job_city": "California-Palmdale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States-California-Palmdale",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineering-Technician---Communications--Level-2-or-3-_R10231901",
-    "job_posted_at_datetime_utc": "2026-05-04T07:03:16.732Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7496feb2be894a448911ae019af569886164b2ea8e7fc0df024edee95b9fba3e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "sap"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-04T07:03:16.732Z"
-  },
-  {
     "job_id": "workday-northrop-grumman-R10231743",
     "job_title": "Guidance Navigation Control Engineer  Level 2 or Level 3",
     "employer_name": "Northrop Grumman",
@@ -43647,6 +43606,52 @@
       "has_description": true,
       "min_degree": "associates",
       "experience_level_from_desc": "entry_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-04T07:03:16.732Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10231901",
+    "job_title": "Engineering Technician – Communications (Level 2 or 3)",
+    "employer_name": "Northrop Grumman",
+    "job_city": "California-Palmdale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States-California-Palmdale",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineering-Technician---Communications--Level-2-or-3-_R10231901",
+    "job_posted_at_datetime_utc": "2026-05-04T07:03:16.732Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7496feb2be894a448911ae019af569886164b2ea8e7fc0df024edee95b9fba3e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "sap"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
       "question_count": null
     },
     "job_posted_at": "2026-05-04T07:03:16.732Z"
@@ -46724,52 +46729,6 @@
     "job_posted_at": "2026-05-03T20:51:58.000Z"
   },
   {
-    "job_id": "apple-200606146",
-    "job_title": "Product Design, Mechanical Engineering and Materials Internships",
-    "employer_name": "Apple",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200606146/product-design-mechanical-engineering-and-materials-internships",
-    "job_posted_at_datetime_utc": "2026-05-03T13:38:58.097Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4f03acfc9edf3e458305116a7351ab9308debdab68f52a88ae924aa19b54d6e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": null,
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-03T13:38:58.097Z"
-  },
-  {
     "job_id": "apple-200606475",
     "job_title": "Hardware Engineering Internships",
     "employer_name": "Apple",
@@ -46813,6 +46772,52 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-03T13:38:58.097Z"
+  },
+  {
+    "job_id": "apple-200606146",
+    "job_title": "Product Design, Mechanical Engineering and Materials Internships",
+    "employer_name": "Apple",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200606146/product-design-mechanical-engineering-and-materials-internships",
+    "job_posted_at_datetime_utc": "2026-05-03T13:38:58.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4f03acfc9edf3e458305116a7351ab9308debdab68f52a88ae924aa19b54d6e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
       "experience_level_from_desc": null,
       "question_count": null
     },
