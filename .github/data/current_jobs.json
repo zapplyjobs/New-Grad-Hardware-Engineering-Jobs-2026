@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "workday-caterpillar-R0000367218",
+    "job_title": "Engineering Team Leader - Power Conversion & e-Powertrain Systems Validation",
+    "employer_name": "Caterpillar",
+    "job_city": "Mossville",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Mossville, Illinois",
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Engineering-Team-Leader---Power-Conversion---e-Powertrain-Systems-Validation_R0000367218",
+    "job_posted_at_datetime_utc": "2026-05-09T17:01:17.712Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "58eeb00ce2da3b23768d31245443fbfb77b952dc22d5f4e5932dc1d8a82f22e1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-09T17:01:17.712Z"
+  },
+  {
     "job_id": "greenhouse-verkada-5112051007",
     "job_title": "Associate Recruiter",
     "employer_name": "Verkada",
@@ -95,54 +125,6 @@
     "job_posted_at": "2026-05-09T15:00:59.472Z"
   },
   {
-    "job_id": "greenhouse-spacex-8512813002",
-    "job_title": "Propulsion Engineer, Components Manufacturing (Raptor)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002",
-    "job_posted_at_datetime_utc": "2026-05-09T15:00:57.223Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "be663b25c4c40f1ad7936f7019e6ca0b2a4c539f68fd5bd1c7f8206d351813af",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "system design"
-      ],
-      "nice_to_have_skills": [
-        "project management"
-      ],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": 22
-    },
-    "job_posted_at": "2026-05-09T15:00:57.223Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8513119002",
     "job_title": "Operations Engineer, Spaceport Operations",
     "employer_name": "SpaceX",
@@ -181,6 +163,54 @@
         "tableau"
       ],
       "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 22
+    },
+    "job_posted_at": "2026-05-09T15:00:57.223Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8512813002",
+    "job_title": "Propulsion Engineer, Components Manufacturing (Raptor)",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002",
+    "job_posted_at_datetime_utc": "2026-05-09T15:00:57.223Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "be663b25c4c40f1ad7936f7019e6ca0b2a4c539f68fd5bd1c7f8206d351813af",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "system design"
+      ],
+      "nice_to_have_skills": [
+        "project management"
+      ],
       "sponsors_visa": false,
       "possible_sponsor": null,
       "visa_question_present": false,
@@ -5288,7 +5318,7 @@
     "job_location": "Charlotte, North Carolina, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556755329",
     "job_posted_at_datetime_utc": "2026-05-08T19:54:14.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "00036d233ef12738513efde1fed9d9220a8791f9d20f9d93d8f5f98ae413902e",
     "tags": {
@@ -11096,7 +11126,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863833",
     "job_posted_at_datetime_utc": "2026-05-07T19:33:41.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "94d39ede1d4c28ea25b075671e4ea91361ffd00181280b9f5d3213caec5716eb",
     "tags": {
@@ -11239,7 +11269,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863829",
     "job_posted_at_datetime_utc": "2026-05-07T19:02:24.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -18633,61 +18663,6 @@
     "job_posted_at": "2026-05-07T07:46:53.043Z"
   },
   {
-    "job_id": "workday-caterpillar-R0000368817",
-    "job_title": "Manufacturing Engineering Technician I - 2nd Shift",
-    "employer_name": "Caterpillar",
-    "job_city": "San Antonio",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Antonio, Texas",
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/San-Antonio-Texas/Manufacturing-Engineering-Technician-I---2nd-Shift_R0000368817",
-    "job_posted_at_datetime_utc": "2026-05-07T07:46:51.094Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "885a5d34774a6896ad937fdaae7988d83c4475506b626ad93e5850748e4d929b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "cnc",
-        "data analysis",
-        "erp",
-        "excel",
-        "gd&t",
-        "lean manufacturing",
-        "pfmea",
-        "process improvement",
-        "teamcenter"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T07:46:51.094Z"
-  },
-  {
     "job_id": "workday-caterpillar-R0000351140",
     "job_title": "Controls Engineering Specialist – EH Brake‑by‑Wire Systems",
     "employer_name": "Caterpillar",
@@ -18766,6 +18741,61 @@
     "enrichment": {
       "required_skills": [
         "lean manufacturing"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:46:51.094Z"
+  },
+  {
+    "job_id": "workday-caterpillar-R0000368817",
+    "job_title": "Manufacturing Engineering Technician I - 2nd Shift",
+    "employer_name": "Caterpillar",
+    "job_city": "San Antonio",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Antonio, Texas",
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/San-Antonio-Texas/Manufacturing-Engineering-Technician-I---2nd-Shift_R0000368817",
+    "job_posted_at_datetime_utc": "2026-05-07T07:46:51.094Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "885a5d34774a6896ad937fdaae7988d83c4475506b626ad93e5850748e4d929b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "cnc",
+        "data analysis",
+        "erp",
+        "excel",
+        "gd&t",
+        "lean manufacturing",
+        "pfmea",
+        "process improvement",
+        "teamcenter"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
@@ -21905,6 +21935,49 @@
     "job_posted_at": "2026-05-06T11:47:15.586Z"
   },
   {
+    "job_id": "simplify-268d86ce-2c85-4367-be0d-ade61073f4c9",
+    "job_title": "Entry Level Optical Engineer",
+    "employer_name": "Amentum",
+    "job_city": "Bedford",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bedford, IN",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Odon/Entry-Level-Optical-Engineer_R0160011",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c20275184728af070503aa6e4bfa7532bfe0ce5f11a9996afccf1a3f84f9c756",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
     "job_id": "simplify-87ec1fd4-2c88-4310-a038-06095c2fa7e6",
     "job_title": "Engineering Technician A",
     "employer_name": "L3Harris Technologies",
@@ -21987,49 +22060,6 @@
       "is_remote": false,
       "has_description": false,
       "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.571Z"
-  },
-  {
-    "job_id": "simplify-268d86ce-2c85-4367-be0d-ade61073f4c9",
-    "job_title": "Entry Level Optical Engineer",
-    "employer_name": "Amentum",
-    "job_city": "Bedford",
-    "job_state": "IN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bedford, IN",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Odon/Entry-Level-Optical-Engineer_R0160011",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c20275184728af070503aa6e4bfa7532bfe0ce5f11a9996afccf1a3f84f9c756",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": "bachelors",
       "experience_level_from_desc": null,
       "question_count": null
     },
@@ -27967,6 +27997,61 @@
     "job_posted_at": "2026-05-06T07:46:53.044Z"
   },
   {
+    "job_id": "workday-caterpillar-R0000366525",
+    "job_title": "Quality Engineer",
+    "employer_name": "Caterpillar",
+    "job_city": "Brooklyn Park",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Brooklyn Park, Minnesota",
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Brooklyn-Park-Minnesota/Quality-Engineer_R0000366525",
+    "job_posted_at_datetime_utc": "2026-05-06T07:46:51.095Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6fd33efc049c9cb1afb4ec7cf0f73243ce0d33542dba41bc487b2a3fdbc87235",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dashboards",
+        "lean",
+        "lean manufacturing",
+        "microsoft office",
+        "power bi",
+        "project management",
+        "reporting",
+        "root cause analysis",
+        "sap",
+        "six sigma"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:46:51.095Z"
+  },
+  {
     "job_id": "workday-caterpillar-R0000367387",
     "job_title": "Embedded Product Analytics Engineer",
     "employer_name": "Caterpillar",
@@ -28093,61 +28178,6 @@
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T07:46:51.095Z"
-  },
-  {
-    "job_id": "workday-caterpillar-R0000366525",
-    "job_title": "Quality Engineer",
-    "employer_name": "Caterpillar",
-    "job_city": "Brooklyn Park",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Brooklyn Park, Minnesota",
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Brooklyn-Park-Minnesota/Quality-Engineer_R0000366525",
-    "job_posted_at_datetime_utc": "2026-05-06T07:46:51.095Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6fd33efc049c9cb1afb4ec7cf0f73243ce0d33542dba41bc487b2a3fdbc87235",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "dashboards",
-        "lean",
-        "lean manufacturing",
-        "microsoft office",
-        "power bi",
-        "project management",
-        "reporting",
-        "root cause analysis",
-        "sap",
-        "six sigma"
-      ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
       "possible_sponsor": true,
@@ -31993,7 +32023,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863752",
     "job_posted_at_datetime_utc": "2026-05-05T12:57:48.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "172ba110541125d4b63bc2096452e5f26da937aab5d8376213770ac7a45d77e3",
     "tags": {
@@ -37670,6 +37700,53 @@
     "job_posted_at": "2026-05-05T07:46:53.045Z"
   },
   {
+    "job_id": "workday-caterpillar-R0000367632",
+    "job_title": "Marine Field Follow / Validation Engineer",
+    "employer_name": "Caterpillar",
+    "job_city": "Virginia Beach Virginia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Virginia Beach Virginia + 1 more",
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Virginia-Beach-Virginia/Marine-Field-Follow---Validation-Engineer_R0000367632",
+    "job_posted_at_datetime_utc": "2026-05-05T07:46:51.096Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4492a5b351f367773d7bc32dcf68ad57af9ac103f15b3d276860abd7e8580416",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data analysis",
+        "workday"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:46:51.096Z"
+  },
+  {
     "job_id": "workday-caterpillar-R0000368143",
     "job_title": "Product Service Engineer-Hydraulic Mining Shovel",
     "employer_name": "Caterpillar",
@@ -37750,53 +37827,6 @@
         "computer science",
         "erp",
         "plc"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T07:46:51.096Z"
-  },
-  {
-    "job_id": "workday-caterpillar-R0000367632",
-    "job_title": "Marine Field Follow / Validation Engineer",
-    "employer_name": "Caterpillar",
-    "job_city": "Virginia Beach Virginia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Virginia Beach Virginia + 1 more",
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Virginia-Beach-Virginia/Marine-Field-Follow---Validation-Engineer_R0000367632",
-    "job_posted_at_datetime_utc": "2026-05-05T07:46:51.096Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4492a5b351f367773d7bc32dcf68ad57af9ac103f15b3d276860abd7e8580416",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data analysis",
-        "workday"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
@@ -41306,7 +41336,7 @@
     "job_location": "Chicago, Illinois, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556623149",
     "job_posted_at_datetime_utc": "2026-05-04T13:20:39.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "baf8dfe6ba09dfedbd16a8ccc23b1d88445b557a957bd9f76676d25ceee34911",
     "tags": {
@@ -41318,7 +41348,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": [
         "faang"
       ],
@@ -46379,7 +46409,7 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
-      "experience_level_from_desc": null,
+      "experience_level_from_desc": "entry_level",
       "question_count": null
     },
     "job_posted_at": "2026-05-04T00:00:00.000Z"
@@ -46438,7 +46468,7 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
-      "experience_level_from_desc": null,
+      "experience_level_from_desc": "entry_level",
       "question_count": null
     },
     "job_posted_at": "2026-05-04T00:00:00.000Z"
@@ -46496,7 +46526,7 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
-      "experience_level_from_desc": null,
+      "experience_level_from_desc": "entry_level",
       "question_count": null
     },
     "job_posted_at": "2026-05-04T00:00:00.000Z"
@@ -46715,7 +46745,7 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
-      "experience_level_from_desc": null,
+      "experience_level_from_desc": "mid_level",
       "question_count": 15
     },
     "job_posted_at": "2026-05-03T20:51:58.000Z"
