@@ -2462,6 +2462,53 @@
     "job_posted_at": "2026-05-08T20:08:38.176Z"
   },
   {
+    "job_id": "workday-rtx-01843883",
+    "job_title": "Industrial Engineer - Level 2",
+    "employer_name": "RTX",
+    "job_city": "NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Industrial-Engineer---Level-2_01843883-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.175Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "995950f3d56e7b70fa7afde3c3ecbab4166efb00778e2c7a6839ef0b4e9ce3c2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "lean manufacturing"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:08:38.175Z"
+  },
+  {
     "job_id": "workday-rtx-01844139",
     "job_title": "24K Customer Technical Service Engineer - Onsite",
     "employer_name": "RTX",
@@ -2547,53 +2594,6 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:08:38.175Z"
-  },
-  {
-    "job_id": "workday-rtx-01843883",
-    "job_title": "Industrial Engineer - Level 2",
-    "employer_name": "RTX",
-    "job_city": "NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Industrial-Engineer---Level-2_01843883-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.175Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "995950f3d56e7b70fa7afde3c3ecbab4166efb00778e2c7a6839ef0b4e9ce3c2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "lean manufacturing"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
       "question_count": null,
       "summary_line": null
     },
@@ -3798,140 +3798,6 @@
     "job_posted_at": "2026-05-08T20:07:55.123Z"
   },
   {
-    "job_id": "workday-medtronic-R65426",
-    "job_title": "Packaging Engineer - Cardiac Rhythm Management",
-    "employer_name": "Medtronic",
-    "job_city": "Mounds View",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Mounds View, Minnesota, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Packaging-Engineer---Cardiac-Rhythm-Management_R65426",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:46.549Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b9ca7214fe49b042a1f0371d9e007dc899d210e0f78cd393594271682088ced0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "excel"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:07:46.549Z"
-  },
-  {
-    "job_id": "workday-medtronic-R66138",
-    "job_title": "EP Mapping Specialist, CAS - New Jersey",
-    "employer_name": "Medtronic",
-    "job_city": "State of New Jersey",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "State of New Jersey, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-New-Jersey-United-States-of-America/EP-Mapping-Specialist--CAS---New-Jersey_R66138-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:46.549Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c689308468fcdf2386d637af028df416f2656970e68a7fc6adaf25e21538b48f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:07:46.549Z"
-  },
-  {
-    "job_id": "workday-medtronic-R66282",
-    "job_title": "EP Mapping Specialist, CAS- Roanoke",
-    "employer_name": "Medtronic",
-    "job_city": "Roanoke",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Roanoke, Virginia, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Roanoke-Virginia-United-States-of-America/EP-Mapping-Specialist--CAS--Roanoke_R66282-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:46.549Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "109b7386cc6df17fc5029e0fdb851a5d397226c9753e455e9c283d92c12f507e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:07:46.549Z"
-  },
-  {
     "job_id": "workday-medtronic-R66191",
     "job_title": "Mapping Specialist   In Training",
     "employer_name": "Medtronic",
@@ -4064,6 +3930,96 @@
     "job_posted_at": "2026-05-08T20:07:46.549Z"
   },
   {
+    "job_id": "workday-medtronic-R65426",
+    "job_title": "Packaging Engineer - Cardiac Rhythm Management",
+    "employer_name": "Medtronic",
+    "job_city": "Mounds View",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Mounds View, Minnesota, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Packaging-Engineer---Cardiac-Rhythm-Management_R65426",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:46.549Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b9ca7214fe49b042a1f0371d9e007dc899d210e0f78cd393594271682088ced0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "excel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:07:46.549Z"
+  },
+  {
+    "job_id": "workday-medtronic-R66138",
+    "job_title": "EP Mapping Specialist, CAS - New Jersey",
+    "employer_name": "Medtronic",
+    "job_city": "State of New Jersey",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "State of New Jersey, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-New-Jersey-United-States-of-America/EP-Mapping-Specialist--CAS---New-Jersey_R66138-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:46.549Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c689308468fcdf2386d637af028df416f2656970e68a7fc6adaf25e21538b48f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:07:46.549Z"
+  },
+  {
     "job_id": "workday-medtronic-R66181",
     "job_title": "Associate Mapping Specialist CAS",
     "employer_name": "Medtronic",
@@ -4101,6 +4057,50 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:07:46.549Z"
+  },
+  {
+    "job_id": "workday-medtronic-R66282",
+    "job_title": "EP Mapping Specialist, CAS- Roanoke",
+    "employer_name": "Medtronic",
+    "job_city": "Roanoke",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Roanoke, Virginia, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Roanoke-Virginia-United-States-of-America/EP-Mapping-Specialist--CAS--Roanoke_R66282-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:46.549Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "109b7386cc6df17fc5029e0fdb851a5d397226c9753e455e9c283d92c12f507e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
       "experience_level_from_desc": null,
       "question_count": null,
       "summary_line": null
@@ -6702,54 +6702,6 @@
     "job_posted_at": "2026-05-08T20:07:01.395Z"
   },
   {
-    "job_id": "workday-johnson-controls-WD30265879",
-    "job_title": "Building Automation Controls Designer",
-    "employer_name": "Johnson Controls",
-    "job_city": "California-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Livermore-California-United States of America",
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Livermore-California-United-States-of-America/Building-Automation-Controls-Systems-Designer_WD30265879-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:54.795Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fed327dc5e956fd7c65afac13d86c0f90582c3209c185cb1b112b7219b8287e2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "plc",
-        "visio"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:06:54.795Z"
-  },
-  {
     "job_id": "workday-johnson-controls-WD30261756",
     "job_title": "Controls Electrical Installer",
     "employer_name": "Johnson Controls",
@@ -7162,6 +7114,54 @@
         "plc",
         "project management",
         "system design"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:06:54.795Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30265879",
+    "job_title": "Building Automation Controls Designer",
+    "employer_name": "Johnson Controls",
+    "job_city": "California-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Livermore-California-United States of America",
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Livermore-California-United-States-of-America/Building-Automation-Controls-Systems-Designer_WD30265879-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:54.795Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fed327dc5e956fd7c65afac13d86c0f90582c3209c185cb1b112b7219b8287e2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "plc",
+        "visio"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
@@ -15916,7 +15916,7 @@
     "job_location": "Fayetteville, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556856338",
     "job_posted_at_datetime_utc": "2026-05-08T12:38:59.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d4dc6630d27857619fb69c8104ec51c84845891340054b3c3a141f984b7b4102",
     "tags": {
@@ -17551,7 +17551,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863833",
     "job_posted_at_datetime_utc": "2026-05-07T19:33:41.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "94d39ede1d4c28ea25b075671e4ea91361ffd00181280b9f5d3213caec5716eb",
     "tags": {
@@ -21939,94 +21939,6 @@
     "job_posted_at": "2026-05-06T20:07:55.123Z"
   },
   {
-    "job_id": "workday-medtronic-R65688",
-    "job_title": "EP Mapping Specialist - CAS - Amarillo, TX",
-    "employer_name": "Medtronic",
-    "job_city": "Amarillo",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Amarillo, Texas, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Amarillo-Texas-United-States-of-America/EP-Mapping-Specialist---CAS---Amarillo--TX_R65688-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:07:46.550Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "631a591d386493afb34ba29e4ff6e29c9bde0fbc294505232b6ea9d666e52f09",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:07:46.550Z"
-  },
-  {
-    "job_id": "workday-medtronic-R66072",
-    "job_title": "Affera Mapping Specialist - CAS",
-    "employer_name": "Medtronic",
-    "job_city": "13 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "13 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Affera-Mapping-Specialist---CAS_R66072-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:07:46.550Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7ebc60f6b164dacf80df5b955adc4bb3245ae00d95cd863cedcb53d916429bfb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:07:46.550Z"
-  },
-  {
     "job_id": "workday-medtronic-R60451",
     "job_title": "Field Service Engineer (2+ years)",
     "employer_name": "Medtronic",
@@ -22157,6 +22069,94 @@
       "has_description": true,
       "min_degree": "associates",
       "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T20:07:46.550Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65688",
+    "job_title": "EP Mapping Specialist - CAS - Amarillo, TX",
+    "employer_name": "Medtronic",
+    "job_city": "Amarillo",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Amarillo, Texas, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Amarillo-Texas-United-States-of-America/EP-Mapping-Specialist---CAS---Amarillo--TX_R65688-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:07:46.550Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "631a591d386493afb34ba29e4ff6e29c9bde0fbc294505232b6ea9d666e52f09",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T20:07:46.550Z"
+  },
+  {
+    "job_id": "workday-medtronic-R66072",
+    "job_title": "Affera Mapping Specialist - CAS",
+    "employer_name": "Medtronic",
+    "job_city": "13 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "13 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Affera-Mapping-Specialist---CAS_R66072-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:07:46.550Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7ebc60f6b164dacf80df5b955adc4bb3245ae00d95cd863cedcb53d916429bfb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
       "question_count": null,
       "summary_line": null
     },
@@ -23855,54 +23855,6 @@
     "job_posted_at": "2026-05-06T20:06:59.272Z"
   },
   {
-    "job_id": "workday-johnson-controls-WD30263433",
-    "job_title": "CNC Laser Operator 1st Shift",
-    "employer_name": "Johnson Controls",
-    "job_city": "Arizona-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Gilbert-Arizona-United States of America",
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Gilbert-Arizona-United-States-of-America/CNC-Laser-Operator-1st-Shift_WD30263433",
-    "job_posted_at_datetime_utc": "2026-05-06T20:06:54.796Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a5f0c9af1989b765227af7ef8a71ca1c9da968298f4c6d5e16a3aac8644b1f72",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cnc",
-        "g-code",
-        "plc"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:06:54.796Z"
-  },
-  {
     "job_id": "workday-johnson-controls-WD30263133",
     "job_title": "Controls Systems Engineer I",
     "employer_name": "Johnson Controls",
@@ -24003,19 +23955,19 @@
     "job_posted_at": "2026-05-06T20:06:54.796Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-069690",
-    "job_title": "Mgr. Service Quality Engineering",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
+    "job_id": "workday-johnson-controls-WD30263433",
+    "job_title": "CNC Laser Operator 1st Shift",
+    "employer_name": "Johnson Controls",
+    "job_city": "Arizona-United States of America",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/Mgr-Service-Quality-Engineering_R-069690-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
+    "job_location": "Gilbert-Arizona-United States of America",
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Gilbert-Arizona-United-States-of-America/CNC-Laser-Operator-1st-Shift_WD30263433",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:54.796Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "99338f3a227aa93b35a491a42864a8d53441d0ca9784a71f9f970e2c2a151e03",
+    "fingerprint": "a5f0c9af1989b765227af7ef8a71ca1c9da968298f4c6d5e16a3aac8644b1f72",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -24032,8 +23984,9 @@
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [
-        "iso 9001",
-        "risk management"
+        "cnc",
+        "g-code",
+        "plc"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
@@ -24042,61 +23995,12 @@
       "is_simple_apply": false,
       "is_remote": false,
       "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:06:53.750Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-071473",
-    "job_title": "Failure Analysis Engineer I",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Danvers",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Danvers, Massachusetts, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Failure-Analysis-Engineer-I_R-071473",
-    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a602c2e73d0a67c4a3219f16dcabb17aabcc0196c629c3072596fcc1b2a96ed5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda",
-        "project management",
-        "risk management",
-        "root cause analysis"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
+      "min_degree": "associates",
       "experience_level_from_desc": null,
       "question_count": null,
       "summary_line": null
     },
-    "job_posted_at": "2026-05-06T20:06:53.750Z"
+    "job_posted_at": "2026-05-06T20:06:54.796Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-073798",
@@ -24252,6 +24156,102 @@
       "has_description": true,
       "min_degree": "associates",
       "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T20:06:53.750Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-069690",
+    "job_title": "Mgr. Service Quality Engineering",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/Mgr-Service-Quality-Engineering_R-069690-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "99338f3a227aa93b35a491a42864a8d53441d0ca9784a71f9f970e2c2a151e03",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "iso 9001",
+        "risk management"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T20:06:53.750Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-071473",
+    "job_title": "Failure Analysis Engineer I",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Danvers",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Danvers, Massachusetts, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Failure-Analysis-Engineer-I_R-071473",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a602c2e73d0a67c4a3219f16dcabb17aabcc0196c629c3072596fcc1b2a96ed5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "fda",
+        "project management",
+        "risk management",
+        "root cause analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
       "question_count": null,
       "summary_line": null
     },
@@ -27791,6 +27791,51 @@
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
+    "job_id": "simplify-f0726504-db62-485e-bada-8c18a1e5693d",
+    "job_title": "Engineering Technician",
+    "employer_name": "Amentum",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Kennedy-Space-Center/Engineering-Technician_R0157372",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cef0186690267a95f31e360916b5d65ee0e719c37047412827492561623aba31",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
     "job_id": "simplify-5e20afd1-9124-42ba-a6dc-0b14490579ef",
     "job_title": "Entry Level Electrical RF Engineer",
     "employer_name": "Amentum",
@@ -27872,51 +27917,6 @@
       "is_remote": false,
       "has_description": false,
       "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-f0726504-db62-485e-bada-8c18a1e5693d",
-    "job_title": "Engineering Technician",
-    "employer_name": "Amentum",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Kennedy-Space-Center/Engineering-Technician_R0157372",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cef0186690267a95f31e360916b5d65ee0e719c37047412827492561623aba31",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": "associates",
       "experience_level_from_desc": null,
       "question_count": null,
       "summary_line": null
@@ -48350,101 +48350,6 @@
     "job_posted_at": "2026-05-02T13:31:00.058Z"
   },
   {
-    "job_id": "greenhouse-spacex-8511177002",
-    "job_title": "Propulsion Engineer, Combustion Devices Manufacturing (Raptor)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8511177002?gh_jid=8511177002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "34a12a0ecdb2cc275e4fa3ef64d8319e18e47fc0820c276e0674a2a7d184d114",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "system design"
-      ],
-      "nice_to_have_skills": [
-        "brazing"
-      ],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": 22,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T13:31:00.055Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8521981002",
-    "job_title": "Propulsion Engineer, Valves (Raptor Components)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8521981002?gh_jid=8521981002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8a204d5fbdf7c3024e9cc760d07407204c0de1adf52fb8346a8e9ff1eeebc22",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "project management"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 22,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T13:31:00.055Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8406964002",
     "job_title": "Operations Development Engineer (Starlink)",
     "employer_name": "SpaceX",
@@ -48553,19 +48458,19 @@
     "job_posted_at": "2026-05-02T13:31:00.055Z"
   },
   {
-    "job_id": "greenhouse-spacex-8521383002",
-    "job_title": "Mechanical Engineer, Hardware Reliability (Starlink)",
+    "job_id": "greenhouse-spacex-8511177002",
+    "job_title": "Propulsion Engineer, Combustion Devices Manufacturing (Raptor)",
     "employer_name": "SpaceX",
-    "job_city": "Bastrop",
-    "job_state": "TX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Bastrop, TX",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8521383002?gh_jid=8521383002",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8511177002?gh_jid=8511177002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "b5fd835f4333d3590b9be068896056c2eb9154f21fefbc97dc2e0e99868fe1b2",
+    "fingerprint": "34a12a0ecdb2cc275e4fa3ef64d8319e18e47fc0820c276e0674a2a7d184d114",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -48582,12 +48487,12 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
-        "data analysis",
-        "python",
-        "rf",
-        "sql"
+        "assembly",
+        "system design"
       ],
-      "nice_to_have_skills": [],
+      "nice_to_have_skills": [
+        "brazing"
+      ],
       "sponsors_visa": false,
       "possible_sponsor": null,
       "visa_question_present": false,
@@ -48599,7 +48504,53 @@
       "question_count": 22,
       "summary_line": null
     },
-    "job_posted_at": "2026-05-02T13:31:00.054Z"
+    "job_posted_at": "2026-05-02T13:31:00.055Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8521981002",
+    "job_title": "Propulsion Engineer, Valves (Raptor Components)",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8521981002?gh_jid=8521981002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.055Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f8a204d5fbdf7c3024e9cc760d07407204c0de1adf52fb8346a8e9ff1eeebc22",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "project management"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 22,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-02T13:31:00.055Z"
   },
   {
     "job_id": "greenhouse-spacex-8511462002",
@@ -48742,6 +48693,55 @@
       "min_degree": "none",
       "experience_level_from_desc": null,
       "question_count": 17,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-02T13:31:00.054Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8521383002",
+    "job_title": "Mechanical Engineer, Hardware Reliability (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8521383002?gh_jid=8521383002",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:00.054Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b5fd835f4333d3590b9be068896056c2eb9154f21fefbc97dc2e0e99868fe1b2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "python",
+        "rf",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 22,
       "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:31:00.054Z"
