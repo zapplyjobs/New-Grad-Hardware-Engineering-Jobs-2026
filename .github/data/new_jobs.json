@@ -1,5 +1,296 @@
 [
   {
+    "job_id": "google-77148734407746246",
+    "job_title": "SAP Application Engineer, Supply Chain Logistics",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/77148734407746246",
+    "job_posted_at_datetime_utc": "2026-05-10T06:32:13.008Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1d695598b9e2c0c915784ef2ca5d64a05f605d5dee3eb821066ac416adb45357",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "job_posted_at": "2026-05-10T06:32:13.008Z"
+  },
+  {
+    "job_id": "google-84953531798168262",
+    "job_title": "Research Scientist, Robotics, DeepMind",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/84953531798168262",
+    "job_posted_at_datetime_utc": "2026-05-10T06:32:13.008Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "843696382486932ca35a2fed6852ce9d97cae5e5d6da78e66015a56eae383c3f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "job_posted_at": "2026-05-10T06:32:13.008Z"
+  },
+  {
+    "job_id": "google-118574175014003398",
+    "job_title": "Product Engineer, ARM Servers, Storage and ML Systems",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/118574175014003398",
+    "job_posted_at_datetime_utc": "2026-05-10T06:32:13.008Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a73f38a2d77fd35242793d55fb85fb94d28fc0810565f1b83ae6eb757ee3e303",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "job_posted_at": "2026-05-10T06:32:13.008Z"
+  },
+  {
+    "job_id": "google-103071284400661190",
+    "job_title": "Product Engineer, Servers and Storage Systems",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/103071284400661190",
+    "job_posted_at_datetime_utc": "2026-05-10T06:32:13.008Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "82d5f0349aaf7a81c6df3c2eac8cfc291b73ab22590fd7506a817ef34bcf8c9b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "job_posted_at": "2026-05-10T06:32:13.008Z"
+  },
+  {
+    "job_id": "google-90876807095427782",
+    "job_title": "Data Center Mechanical Engineer",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/90876807095427782",
+    "job_posted_at_datetime_utc": "2026-05-10T06:32:13.008Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b284e78dc7a5391db4966945333410be3fe459ecfbe875c24db0c0b54ad72867",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "job_posted_at": "2026-05-10T06:32:13.008Z"
+  },
+  {
+    "job_id": "google-136654423962067654",
+    "job_title": "Data Center Mechanical Engineer",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/136654423962067654",
+    "job_posted_at_datetime_utc": "2026-05-10T06:32:13.008Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b284e78dc7a5391db4966945333410be3fe459ecfbe875c24db0c0b54ad72867",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "job_posted_at": "2026-05-10T06:32:13.008Z"
+  },
+  {
+    "job_id": "google-87070022962160326",
+    "job_title": "Data Center Electrical Engineer, Data Center Services",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/87070022962160326",
+    "job_posted_at_datetime_utc": "2026-05-10T06:32:13.008Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "818813c2b2e3f978665498f715ecc15c19359038e6914ede318a41d9ec40d05f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "job_posted_at": "2026-05-10T06:32:13.008Z"
+  },
+  {
+    "job_id": "google-132232531792536262",
+    "job_title": "Power Protection Controls Engineer",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/132232531792536262",
+    "job_posted_at_datetime_utc": "2026-05-10T06:32:13.008Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eb8e3414bbc85d06a24ae8823c540b398bda4e53030bbbb55ad0d3ea604903a4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "job_posted_at": "2026-05-10T06:32:13.008Z"
+  },
+  {
+    "job_id": "google-126758939571167942",
+    "job_title": "Research Scientist, System Qubit Calibration, Benchmarking, Modeling, Quantum",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/126758939571167942",
+    "job_posted_at_datetime_utc": "2026-05-10T06:32:13.008Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f663385b542d3cc896d71d3e66f34a9052b2c927f7ba6acdee3510d02c9a335",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "job_posted_at": "2026-05-10T06:32:13.008Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8542284002",
     "job_title": "Equipment Maintenance & Reliability Engineer (Starlink PCB)",
     "employer_name": "SpaceX",
@@ -3127,49 +3418,6 @@
     "job_posted_at": "2026-05-08T20:07:59.263Z"
   },
   {
-    "job_id": "workday-medtronic-R66181",
-    "job_title": "Associate Mapping Specialist CAS",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Eugene-Oregon-United-States-of-America/Associate-Mapping-Specialist-CAS_R66181-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:46.549Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e051e670f0c872577cab4685f438684a493cdab1a790a2e856077c2a212b38cd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:07:46.549Z"
-  },
-  {
     "job_id": "workday-medtronic-R66282",
     "job_title": "EP Mapping Specialist, CAS- Roanoke",
     "employer_name": "Medtronic",
@@ -3207,6 +3455,49 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T20:07:46.549Z"
+  },
+  {
+    "job_id": "workday-medtronic-R66181",
+    "job_title": "Associate Mapping Specialist CAS",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Eugene-Oregon-United-States-of-America/Associate-Mapping-Specialist-CAS_R66181-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:46.549Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e051e670f0c872577cab4685f438684a493cdab1a790a2e856077c2a212b38cd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
       "experience_level_from_desc": null,
       "question_count": null
     },
@@ -12422,92 +12713,6 @@
     "job_posted_at": "2026-05-07T08:32:25.474Z"
   },
   {
-    "job_id": "workday-medtronic-R66191",
-    "job_title": "Mapping Specialist   In Training",
-    "employer_name": "Medtronic",
-    "job_city": "11 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "11 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Irvine-California-United-States-of-America/Mapping-Specialist---In-Training_R66191-1",
-    "job_posted_at_datetime_utc": "2026-05-07T08:16:45.074Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ef0e906283d86158563e68dc43333226b0c590c60d45561a8f7bd9d0d537fbcc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": "senior",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T08:16:45.074Z"
-  },
-  {
-    "job_id": "workday-medtronic-R66180",
-    "job_title": "Associate Mapping Specialist I In Training",
-    "employer_name": "Medtronic",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "2 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Eugene-Oregon-United-States-of-America/Associate-Mapping-Specialist-I-In-Training_R66180-2",
-    "job_posted_at_datetime_utc": "2026-05-07T08:16:45.074Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "75b2a606683c22fcddec876592f162daf30e678383442e3a93c6b18a60798d72",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T08:16:45.074Z"
-  },
-  {
     "job_id": "workday-medtronic-R66193",
     "job_title": "Affera Mapping Specialist - CAS",
     "employer_name": "Medtronic",
@@ -12609,6 +12814,92 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c689308468fcdf2386d637af028df416f2656970e68a7fc6adaf25e21538b48f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T08:16:45.074Z"
+  },
+  {
+    "job_id": "workday-medtronic-R66191",
+    "job_title": "Mapping Specialist   In Training",
+    "employer_name": "Medtronic",
+    "job_city": "11 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "11 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Irvine-California-United-States-of-America/Mapping-Specialist---In-Training_R66191-1",
+    "job_posted_at_datetime_utc": "2026-05-07T08:16:45.074Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ef0e906283d86158563e68dc43333226b0c590c60d45561a8f7bd9d0d537fbcc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": "senior",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T08:16:45.074Z"
+  },
+  {
+    "job_id": "workday-medtronic-R66180",
+    "job_title": "Associate Mapping Specialist I In Training",
+    "employer_name": "Medtronic",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "2 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Eugene-Oregon-United-States-of-America/Associate-Mapping-Specialist-I-In-Training_R66180-2",
+    "job_posted_at_datetime_utc": "2026-05-07T08:16:45.074Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "75b2a606683c22fcddec876592f162daf30e678383442e3a93c6b18a60798d72",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -21978,49 +22269,6 @@
     "job_posted_at": "2026-05-06T11:47:15.586Z"
   },
   {
-    "job_id": "simplify-268d86ce-2c85-4367-be0d-ade61073f4c9",
-    "job_title": "Entry Level Optical Engineer",
-    "employer_name": "Amentum",
-    "job_city": "Bedford",
-    "job_state": "IN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bedford, IN",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Odon/Entry-Level-Optical-Engineer_R0160011",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c20275184728af070503aa6e4bfa7532bfe0ce5f11a9996afccf1a3f84f9c756",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.571Z"
-  },
-  {
     "job_id": "simplify-87ec1fd4-2c88-4310-a038-06095c2fa7e6",
     "job_title": "Engineering Technician A",
     "employer_name": "L3Harris Technologies",
@@ -22103,6 +22351,49 @@
       "is_remote": false,
       "has_description": false,
       "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
+    "job_id": "simplify-268d86ce-2c85-4367-be0d-ade61073f4c9",
+    "job_title": "Entry Level Optical Engineer",
+    "employer_name": "Amentum",
+    "job_city": "Bedford",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bedford, IN",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Odon/Entry-Level-Optical-Engineer_R0160011",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c20275184728af070503aa6e4bfa7532bfe0ce5f11a9996afccf1a3f84f9c756",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
       "experience_level_from_desc": null,
       "question_count": null
     },
@@ -22239,6 +22530,96 @@
     "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
   {
+    "job_id": "workday-medtronic-R60451",
+    "job_title": "Field Service Engineer (2+ years)",
+    "employer_name": "Medtronic",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "5 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Columbus-Ohio-United-States-of-America/Field-Service-Engineer--2--years-_R60451-1",
+    "job_posted_at_datetime_utc": "2026-05-06T08:16:45.074Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d350a8b044f0e6e6a6557a4dc800389a1c13de58de4abef2bc470fb0620f912b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "robotics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T08:16:45.074Z"
+  },
+  {
+    "job_id": "workday-medtronic-R62842",
+    "job_title": "Field Service Engineer (2+ years)",
+    "employer_name": "Medtronic",
+    "job_city": "12 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "12 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Seattle-Washington-United-States-of-America/Field-Service-Engineer--2--years-_R62842-1",
+    "job_posted_at_datetime_utc": "2026-05-06T08:16:45.074Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1437597211411cbede42c5528d95cd68dc45868eb7f6a3dd506faad1bace8a7a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "robotics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T08:16:45.074Z"
+  },
+  {
     "job_id": "workday-medtronic-R66112",
     "job_title": "Mapping Specialist   In Training - Philly",
     "employer_name": "Medtronic",
@@ -22362,96 +22743,6 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T08:16:45.074Z"
-  },
-  {
-    "job_id": "workday-medtronic-R60451",
-    "job_title": "Field Service Engineer (2+ years)",
-    "employer_name": "Medtronic",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "5 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Columbus-Ohio-United-States-of-America/Field-Service-Engineer--2--years-_R60451-1",
-    "job_posted_at_datetime_utc": "2026-05-06T08:16:45.074Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d350a8b044f0e6e6a6557a4dc800389a1c13de58de4abef2bc470fb0620f912b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "robotics"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T08:16:45.074Z"
-  },
-  {
-    "job_id": "workday-medtronic-R62842",
-    "job_title": "Field Service Engineer (2+ years)",
-    "employer_name": "Medtronic",
-    "job_city": "12 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "12 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Seattle-Washington-United-States-of-America/Field-Service-Engineer--2--years-_R62842-1",
-    "job_posted_at_datetime_utc": "2026-05-06T08:16:45.074Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1437597211411cbede42c5528d95cd68dc45868eb7f6a3dd506faad1bace8a7a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "robotics"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
       "experience_level_from_desc": null,
       "question_count": null
     },
@@ -32073,7 +32364,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863752",
     "job_posted_at_datetime_utc": "2026-05-05T12:57:48.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "172ba110541125d4b63bc2096452e5f26da937aab5d8376213770ac7a45d77e3",
     "tags": {
@@ -32421,6 +32712,49 @@
     "job_posted_at": "2026-05-05T11:16:23.022Z"
   },
   {
+    "job_id": "workday-medtronic-R65960",
+    "job_title": "Affera EP Mapping Specialist CAS - FL",
+    "employer_name": "Medtronic",
+    "job_city": "Miami",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Miami, Florida, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Miami-Florida-United-States-of-America/Affera-EP-Mapping-Specialist-CAS---FL_R65960-1",
+    "job_posted_at_datetime_utc": "2026-05-05T08:16:45.075Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4ee0e34926dfe390d5d870a35b822a7306adac5494c6c2dae5285e0f3d8d1aca",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": "senior",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T08:16:45.075Z"
+  },
+  {
     "job_id": "workday-medtronic-R65905",
     "job_title": "EP Mapping Specialist - CAS Nashville, TN",
     "employer_name": "Medtronic",
@@ -32760,49 +33094,6 @@
       "has_description": true,
       "min_degree": "associates",
       "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T08:16:45.075Z"
-  },
-  {
-    "job_id": "workday-medtronic-R65960",
-    "job_title": "Affera EP Mapping Specialist CAS - FL",
-    "employer_name": "Medtronic",
-    "job_city": "Miami",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Miami, Florida, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Miami-Florida-United-States-of-America/Affera-EP-Mapping-Specialist-CAS---FL_R65960-1",
-    "job_posted_at_datetime_utc": "2026-05-05T08:16:45.075Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4ee0e34926dfe390d5d870a35b822a7306adac5494c6c2dae5285e0f3d8d1aca",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": "senior",
       "question_count": null
     },
     "job_posted_at": "2026-05-05T08:16:45.075Z"
@@ -40386,6 +40677,105 @@
     "job_posted_at": "2026-05-04T18:10:47.879Z"
   },
   {
+    "job_id": "google-96386562941428422",
+    "job_title": "Network Test Engineer",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/96386562941428422",
+    "job_posted_at_datetime_utc": "2026-05-04T17:43:31.262Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cf46b7314db81adae7f7b7be7ffec711f7bb4c7b6ec24d5e936f67d0b5a7e87a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "end-to-end testing",
+        "networking",
+        "python"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-04T17:43:31.262Z"
+  },
+  {
+    "job_id": "google-74009302292931270",
+    "job_title": "Network Test Engineer",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74009302292931270",
+    "job_posted_at_datetime_utc": "2026-05-04T17:43:31.262Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cf46b7314db81adae7f7b7be7ffec711f7bb4c7b6ec24d5e936f67d0b5a7e87a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "end-to-end testing",
+        "networking",
+        "regression"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-04T17:43:31.262Z"
+  },
+  {
     "job_id": "google-136511590529671878",
     "job_title": "Silicon Product Engineer",
     "employer_name": "Google",
@@ -40509,105 +40899,6 @@
     "_original_source": "google",
     "enrichment": {
       "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-04T17:43:31.262Z"
-  },
-  {
-    "job_id": "google-96386562941428422",
-    "job_title": "Network Test Engineer",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/96386562941428422",
-    "job_posted_at_datetime_utc": "2026-05-04T17:43:31.262Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cf46b7314db81adae7f7b7be7ffec711f7bb4c7b6ec24d5e936f67d0b5a7e87a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "end-to-end testing",
-        "networking",
-        "python"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-04T17:43:31.262Z"
-  },
-  {
-    "job_id": "google-74009302292931270",
-    "job_title": "Network Test Engineer",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74009302292931270",
-    "job_posted_at_datetime_utc": "2026-05-04T17:43:31.262Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cf46b7314db81adae7f7b7be7ffec711f7bb4c7b6ec24d5e936f67d0b5a7e87a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [
-        "end-to-end testing",
-        "networking",
-        "regression"
-      ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
       "possible_sponsor": true,
@@ -41441,7 +41732,7 @@
     "job_location": "Chicago, Illinois, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556623149",
     "job_posted_at_datetime_utc": "2026-05-04T13:20:39.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "baf8dfe6ba09dfedbd16a8ccc23b1d88445b557a957bd9f76676d25ceee34911",
     "tags": {
@@ -44271,19 +44562,19 @@
     "job_posted_at": "2026-05-04T07:03:07.216Z"
   },
   {
-    "job_id": "workday-medtronic-R65765",
-    "job_title": "EP Mapping Specialist, CAS- Columbia",
+    "job_id": "workday-medtronic-R65873",
+    "job_title": "EP Mapping Specialist, CAS- Augusta",
     "employer_name": "Medtronic",
-    "job_city": "Columbia",
-    "job_state": "SC",
+    "job_city": "Augusta",
+    "job_state": "GA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Columbia, South Carolina, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Columbia-South-Carolina-United-States-of-America/EP-Mapping-Specialist--CAS--Columbia_R65765-1",
+    "job_location": "Augusta, Georgia, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Augusta-Georgia-United-States-of-America/EP-Mapping-Specialist--CAS--Augusta_R65873-2",
     "job_posted_at_datetime_utc": "2026-05-04T07:02:59.266Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "81a171afbb02da45d2f5f80095d2578e65a02a5eb56d9f274d2eaf130d926a82",
+    "fingerprint": "4b14f5f7427cc149223224cba4f7283af426fc4fab0d833ff956cdd5c559a429",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -44314,19 +44605,19 @@
     "job_posted_at": "2026-05-04T07:02:59.266Z"
   },
   {
-    "job_id": "workday-medtronic-R65873",
-    "job_title": "EP Mapping Specialist, CAS- Augusta",
+    "job_id": "workday-medtronic-R65765",
+    "job_title": "EP Mapping Specialist, CAS- Columbia",
     "employer_name": "Medtronic",
-    "job_city": "Augusta",
-    "job_state": "GA",
+    "job_city": "Columbia",
+    "job_state": "SC",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Augusta, Georgia, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Augusta-Georgia-United-States-of-America/EP-Mapping-Specialist--CAS--Augusta_R65873-2",
+    "job_location": "Columbia, South Carolina, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Columbia-South-Carolina-United-States-of-America/EP-Mapping-Specialist--CAS--Columbia_R65765-1",
     "job_posted_at_datetime_utc": "2026-05-04T07:02:59.266Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4b14f5f7427cc149223224cba4f7283af426fc4fab0d833ff956cdd5c559a429",
+    "fingerprint": "81a171afbb02da45d2f5f80095d2578e65a02a5eb56d9f274d2eaf130d926a82",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -46999,53 +47290,6 @@
     "job_posted_at": "2026-05-03T11:34:56.972Z"
   },
   {
-    "job_id": "google-112638792203936454",
-    "job_title": "Data Center Controls Engineer, Advanced Technology Innovation",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/112638792203936454",
-    "job_posted_at_datetime_utc": "2026-05-03T09:11:43.838Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8214eb86085c6581af74871a0c799484a809cb229af15e569d08c925afdbb746",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [
-        "root cause analysis"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-03T09:11:43.838Z"
-  },
-  {
     "job_id": "google-95024393662407366",
     "job_title": "Systems Development Engineer",
     "employer_name": "Google",
@@ -47063,51 +47307,6 @@
       "employment": "entry_level",
       "domains": [
         "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-03T09:11:43.838Z"
-  },
-  {
-    "job_id": "google-142871093844026054",
-    "job_title": "Mechanical Test Engineer, Platforms Infrastructure",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/142871093844026054",
-    "job_posted_at_datetime_utc": "2026-05-03T09:11:43.838Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a88d67f03748e3548034b9353f9de6d23f1f2cb0fb4ffffcd64b77cd56de4472",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
         "hardware"
       ],
       "locations": [
@@ -47183,19 +47382,19 @@
     "job_posted_at": "2026-05-03T09:11:43.838Z"
   },
   {
-    "job_id": "google-85202269460406982",
-    "job_title": "Product Design Engineer, Buds",
+    "job_id": "google-112638792203936454",
+    "job_title": "Data Center Controls Engineer, Advanced Technology Innovation",
     "employer_name": "Google",
     "job_city": "United States",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/85202269460406982",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/112638792203936454",
     "job_posted_at_datetime_utc": "2026-05-03T09:11:43.838Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "842f8bfd054c32eba019520c798d5a2ee1ac82ad81b6329decd7f3f78a41b053",
+    "fingerprint": "8214eb86085c6581af74871a0c799484a809cb229af15e569d08c925afdbb746",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -47213,14 +47412,16 @@
     "_source": "aggregator",
     "_original_source": "google",
     "enrichment": {
-      "required_skills": [],
+      "required_skills": [
+        "root cause analysis"
+      ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
       "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
       "is_remote": false,
-      "has_description": false,
+      "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
       "question_count": null
@@ -47408,52 +47609,6 @@
     "job_posted_at": "2026-05-03T09:11:43.838Z"
   },
   {
-    "job_id": "google-138423803385389766",
-    "job_title": "Hardware Testing and Manufacturing Engineer",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/138423803385389766",
-    "job_posted_at_datetime_utc": "2026-05-03T09:11:43.838Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "121a84caf0d81897dce19df708c0f06619d4daf1c1d3892694d6dcef6954187b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-03T09:11:43.838Z"
-  },
-  {
     "job_id": "google-133411200741319366",
     "job_title": "Data Center Operations Manager, Global Server Operations",
     "employer_name": "Google",
@@ -47544,19 +47699,19 @@
     "job_posted_at": "2026-05-03T09:11:43.838Z"
   },
   {
-    "job_id": "google-86049157554283206",
-    "job_title": "Data Center Operations Manager, Third Party Data Centers",
+    "job_id": "google-83506693681357510",
+    "job_title": "Data Center Operations Manager, Global Server Operations",
     "employer_name": "Google",
     "job_city": "United States",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/86049157554283206",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/83506693681357510",
     "job_posted_at_datetime_utc": "2026-05-03T09:11:43.838Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e2f1524f603d8c6457932dcf1933c2b610117f0629d5e67e6e62bb13e6586f6e",
+    "fingerprint": "775207cdb8a7cf1927deeca4a6f8628317f00413aabd621b7ee25e11315d65ac",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -47589,19 +47744,155 @@
     "job_posted_at": "2026-05-03T09:11:43.838Z"
   },
   {
-    "job_id": "google-83506693681357510",
-    "job_title": "Data Center Operations Manager, Global Server Operations",
+    "job_id": "google-142871093844026054",
+    "job_title": "Mechanical Test Engineer, Platforms Infrastructure",
     "employer_name": "Google",
     "job_city": "United States",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/83506693681357510",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/142871093844026054",
     "job_posted_at_datetime_utc": "2026-05-03T09:11:43.838Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "775207cdb8a7cf1927deeca4a6f8628317f00413aabd621b7ee25e11315d65ac",
+    "fingerprint": "a88d67f03748e3548034b9353f9de6d23f1f2cb0fb4ffffcd64b77cd56de4472",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-03T09:11:43.838Z"
+  },
+  {
+    "job_id": "google-85202269460406982",
+    "job_title": "Product Design Engineer, Buds",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/85202269460406982",
+    "job_posted_at_datetime_utc": "2026-05-03T09:11:43.838Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "842f8bfd054c32eba019520c798d5a2ee1ac82ad81b6329decd7f3f78a41b053",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-03T09:11:43.838Z"
+  },
+  {
+    "job_id": "google-138423803385389766",
+    "job_title": "Hardware Testing and Manufacturing Engineer",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/138423803385389766",
+    "job_posted_at_datetime_utc": "2026-05-03T09:11:43.838Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "121a84caf0d81897dce19df708c0f06619d4daf1c1d3892694d6dcef6954187b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-03T09:11:43.838Z"
+  },
+  {
+    "job_id": "google-86049157554283206",
+    "job_title": "Data Center Operations Manager, Third Party Data Centers",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/86049157554283206",
+    "job_posted_at_datetime_utc": "2026-05-03T09:11:43.838Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e2f1524f603d8c6457932dcf1933c2b610117f0629d5e67e6e62bb13e6586f6e",
     "tags": {
       "employment": "entry_level",
       "domains": [
