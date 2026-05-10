@@ -30,6 +30,21 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "business intelligence"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
     "job_posted_at": "2026-05-10T06:32:13.008Z"
   },
   {
@@ -63,6 +78,23 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "reinforcement learning",
+        "transformers"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
     "job_posted_at": "2026-05-10T06:32:13.008Z"
   },
   {
@@ -95,6 +127,19 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
     "job_posted_at": "2026-05-10T06:32:13.008Z"
   },
   {
@@ -127,6 +172,19 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
     "job_posted_at": "2026-05-10T06:32:13.008Z"
   },
   {
@@ -159,6 +217,21 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "system design"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
     "job_posted_at": "2026-05-10T06:32:13.008Z"
   },
   {
@@ -191,6 +264,21 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "system design"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
     "job_posted_at": "2026-05-10T06:32:13.008Z"
   },
   {
@@ -223,6 +311,19 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
     "job_posted_at": "2026-05-10T06:32:13.008Z"
   },
   {
@@ -255,6 +356,19 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
     "job_posted_at": "2026-05-10T06:32:13.008Z"
   },
   {
@@ -288,6 +402,21 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "python"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
     "job_posted_at": "2026-05-10T06:32:13.008Z"
   },
   {
@@ -434,6 +563,54 @@
     "job_posted_at": "2026-05-09T15:00:59.472Z"
   },
   {
+    "job_id": "greenhouse-spacex-8512813002",
+    "job_title": "Propulsion Engineer, Components Manufacturing (Raptor)",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002",
+    "job_posted_at_datetime_utc": "2026-05-09T15:00:57.223Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "be663b25c4c40f1ad7936f7019e6ca0b2a4c539f68fd5bd1c7f8206d351813af",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "system design"
+      ],
+      "nice_to_have_skills": [
+        "project management"
+      ],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 22
+    },
+    "job_posted_at": "2026-05-09T15:00:57.223Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8513119002",
     "job_title": "Operations Engineer, Spaceport Operations",
     "employer_name": "SpaceX",
@@ -472,54 +649,6 @@
         "tableau"
       ],
       "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": 22
-    },
-    "job_posted_at": "2026-05-09T15:00:57.223Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8512813002",
-    "job_title": "Propulsion Engineer, Components Manufacturing (Raptor)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002",
-    "job_posted_at_datetime_utc": "2026-05-09T15:00:57.223Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "be663b25c4c40f1ad7936f7019e6ca0b2a4c539f68fd5bd1c7f8206d351813af",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "system design"
-      ],
-      "nice_to_have_skills": [
-        "project management"
-      ],
       "sponsors_visa": false,
       "possible_sponsor": null,
       "visa_question_present": false,
@@ -5627,7 +5756,7 @@
     "job_location": "Charlotte, North Carolina, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556755329",
     "job_posted_at_datetime_utc": "2026-05-08T19:54:14.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "00036d233ef12738513efde1fed9d9220a8791f9d20f9d93d8f5f98ae413902e",
     "tags": {
@@ -5638,7 +5767,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": [
         "faang"
       ],
@@ -10278,7 +10407,7 @@
     "job_location": "Dallas, Texas, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863801",
     "job_posted_at_datetime_utc": "2026-05-07T23:29:33.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "026c46879cad4b974b6345a45f4f1b1be714c7f8d1875198d15748a4393969d2",
     "tags": {
@@ -10290,7 +10419,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": [
         "faang"
       ],
@@ -11533,7 +11662,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863830",
     "job_posted_at_datetime_utc": "2026-05-07T19:04:18.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -11544,7 +11673,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "entry_level",
       "special": [
         "faang"
       ],
@@ -30698,7 +30827,7 @@
     "job_location": "Santa Clara, California, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556628561",
     "job_posted_at_datetime_utc": "2026-05-05T18:46:34.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "3cfbaab5e99a26096f4e7fda0010865c48dd1a153f613bc3bf81273c1767558a",
     "tags": {
@@ -30709,7 +30838,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": [
         "faang"
       ],
@@ -32364,7 +32493,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863752",
     "job_posted_at_datetime_utc": "2026-05-05T12:57:48.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "172ba110541125d4b63bc2096452e5f26da937aab5d8376213770ac7a45d77e3",
     "tags": {
@@ -40385,7 +40514,7 @@
     "job_location": "Boydton, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556813763",
     "job_posted_at_datetime_utc": "2026-05-04T19:36:33.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "f59e0212d07938df773e5e17ae4687412a2bc1dcc6511b69baaf28686349641f",
     "tags": {
@@ -40396,7 +40525,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "entry_level",
       "special": [
         "faang"
       ],
@@ -44852,6 +44981,105 @@
     "job_posted_at": "2026-05-04T07:02:47.276Z"
   },
   {
+    "job_id": "workday-intel-JR0283250",
+    "job_title": "Thermal Analysis Engineer",
+    "employer_name": "Intel",
+    "job_city": "US",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US, Arizona, Phoenix",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Thermal-Analysis-Engineer_JR0283250-1",
+    "job_posted_at_datetime_utc": "2026-05-04T07:02:44.775Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cf4f68a149814db6407028e95863153e9891333d2c5a6baefbf1bcce39786d50",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cfd",
+        "fea",
+        "statistical analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-04T07:02:44.775Z"
+  },
+  {
+    "job_id": "workday-intel-JR0283557",
+    "job_title": "APTD Substrate Quality Engineer",
+    "employer_name": "Intel",
+    "job_city": "US",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US, Arizona, Phoenix",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/APTD-Substrate-Quality-Engineer_JR0283557",
+    "job_posted_at_datetime_utc": "2026-05-04T07:02:44.775Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3397911593d72c97cf556c01d6b0425e082b0332689328c5b48ed55250fe9357",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "java",
+        "power bi",
+        "program management",
+        "python",
+        "reporting",
+        "six sigma",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-04T07:02:44.775Z"
+  },
+  {
     "job_id": "workday-intel-JR0279514",
     "job_title": "TD Media and Collaterals Development Engineer",
     "employer_name": "Intel",
@@ -44954,105 +45182,6 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-04T07:02:44.775Z"
-  },
-  {
-    "job_id": "workday-intel-JR0283250",
-    "job_title": "Thermal Analysis Engineer",
-    "employer_name": "Intel",
-    "job_city": "US",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US, Arizona, Phoenix",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Thermal-Analysis-Engineer_JR0283250-1",
-    "job_posted_at_datetime_utc": "2026-05-04T07:02:44.775Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cf4f68a149814db6407028e95863153e9891333d2c5a6baefbf1bcce39786d50",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cfd",
-        "fea",
-        "statistical analysis"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-04T07:02:44.775Z"
-  },
-  {
-    "job_id": "workday-intel-JR0283557",
-    "job_title": "APTD Substrate Quality Engineer",
-    "employer_name": "Intel",
-    "job_city": "US",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US, Arizona, Phoenix",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/APTD-Substrate-Quality-Engineer_JR0283557",
-    "job_posted_at_datetime_utc": "2026-05-04T07:02:44.775Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3397911593d72c97cf556c01d6b0425e082b0332689328c5b48ed55250fe9357",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "java",
-        "power bi",
-        "program management",
-        "python",
-        "reporting",
-        "six sigma",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
       "question_count": null
     },
     "job_posted_at": "2026-05-04T07:02:44.775Z"
