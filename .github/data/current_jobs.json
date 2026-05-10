@@ -143,6 +143,54 @@
     "job_posted_at": "2026-05-09T15:00:59.472Z"
   },
   {
+    "job_id": "greenhouse-spacex-8512813002",
+    "job_title": "Propulsion Engineer, Components Manufacturing (Raptor)",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002",
+    "job_posted_at_datetime_utc": "2026-05-09T15:00:57.223Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "be663b25c4c40f1ad7936f7019e6ca0b2a4c539f68fd5bd1c7f8206d351813af",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "system design"
+      ],
+      "nice_to_have_skills": [
+        "project management"
+      ],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 22
+    },
+    "job_posted_at": "2026-05-09T15:00:57.223Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8513119002",
     "job_title": "Operations Engineer, Spaceport Operations",
     "employer_name": "SpaceX",
@@ -181,54 +229,6 @@
         "tableau"
       ],
       "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": 22
-    },
-    "job_posted_at": "2026-05-09T15:00:57.223Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8512813002",
-    "job_title": "Propulsion Engineer, Components Manufacturing (Raptor)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002",
-    "job_posted_at_datetime_utc": "2026-05-09T15:00:57.223Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "be663b25c4c40f1ad7936f7019e6ca0b2a4c539f68fd5bd1c7f8206d351813af",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "system design"
-      ],
-      "nice_to_have_skills": [
-        "project management"
-      ],
       "sponsors_visa": false,
       "possible_sponsor": null,
       "visa_question_present": false,
@@ -11242,7 +11242,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863830",
     "job_posted_at_datetime_utc": "2026-05-07T19:04:18.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -22109,49 +22109,6 @@
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
-    "job_id": "simplify-5e20afd1-9124-42ba-a6dc-0b14490579ef",
-    "job_title": "Entry Level Electrical RF Engineer",
-    "employer_name": "Amentum",
-    "job_city": "Dahlgren",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dahlgren, VA",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Electrica-RF-Engineer_R0150759",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "48eab5f3af6dfdb1ee56a33785f8a7386fde00164834ce034b8fe96587bc6c56",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
     "job_id": "simplify-1064dbd3-b67e-47fc-8613-6b693569d9ba",
     "job_title": "Associate – Test Methods Engineer - Camden - NJ",
     "employer_name": "L3Harris Technologies",
@@ -22184,6 +22141,49 @@
       "nice_to_have_skills": [],
       "sponsors_visa": null,
       "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-5e20afd1-9124-42ba-a6dc-0b14490579ef",
+    "job_title": "Entry Level Electrical RF Engineer",
+    "employer_name": "Amentum",
+    "job_city": "Dahlgren",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dahlgren, VA",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Electrica-RF-Engineer_R0150759",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "48eab5f3af6dfdb1ee56a33785f8a7386fde00164834ce034b8fe96587bc6c56",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
       "is_remote": false,
@@ -40094,7 +40094,7 @@
     "job_location": "Boydton, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556813763",
     "job_posted_at_datetime_utc": "2026-05-04T19:36:33.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "f59e0212d07938df773e5e17ae4687412a2bc1dcc6511b69baaf28686349641f",
     "tags": {
@@ -46859,52 +46859,6 @@
     "job_posted_at": "2026-05-03T20:51:58.000Z"
   },
   {
-    "job_id": "apple-200606146",
-    "job_title": "Product Design, Mechanical Engineering and Materials Internships",
-    "employer_name": "Apple",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200606146/product-design-mechanical-engineering-and-materials-internships",
-    "job_posted_at_datetime_utc": "2026-05-03T13:38:58.097Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4f03acfc9edf3e458305116a7351ab9308debdab68f52a88ae924aa19b54d6e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": null,
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-03T13:38:58.097Z"
-  },
-  {
     "job_id": "apple-200606475",
     "job_title": "Hardware Engineering Internships",
     "employer_name": "Apple",
@@ -46948,6 +46902,52 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-03T13:38:58.097Z"
+  },
+  {
+    "job_id": "apple-200606146",
+    "job_title": "Product Design, Mechanical Engineering and Materials Internships",
+    "employer_name": "Apple",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200606146/product-design-mechanical-engineering-and-materials-internships",
+    "job_posted_at_datetime_utc": "2026-05-03T13:38:58.097Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4f03acfc9edf3e458305116a7351ab9308debdab68f52a88ae924aa19b54d6e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
       "experience_level_from_desc": null,
       "question_count": null
     },
