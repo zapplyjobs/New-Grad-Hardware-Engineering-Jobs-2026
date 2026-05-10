@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-946-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-944-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-122-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -70,9 +70,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🏢 **Zoom** | Carrier Operations Engineer | San Jose | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Carrier-Operations-Engineer_R17217) |
 | 🏢 **Zoom** | Site Reliability Engineer | San Jose | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Site-Reliability-Engineer_R18412) |
-| 🏢 **Google** | SAP Application Engineer, Supply Chain Logistics | United States | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/77148734407746246) |
-| 🏢 **Google** | Research Scientist, Robotics, DeepMind | United States | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/84953531798168262) |
-| 🏢 **Google** | Product Engineer, ARM Servers, Storage and ML Systems | United States | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/118574175014003398) |
+| 🏢 **Google** | SAP Application Engineer, Supply Chain Logistics | United States | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/77148734407746246) |
+| 🏢 **Google** | Research Scientist, Robotics, DeepMind | United States | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/84953531798168262) |
+| 🏢 **Google** | Product Engineer, ARM Servers, Storage and ML Systems | United States | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/118574175014003398) |
 | 🏢 **SpaceX** | Equipment Maintenance & Reliability Engineer (Starlink PCB) | Bastrop, TX | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8542284002?gh_jid=8542284002) |
 | 🏢 **SpaceX** | Propulsion Engineer, Components Manufacturing (Raptor) | Hawthorne, CA | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002) |
 | 🏢 **SpaceX** | Operations Engineer, Spaceport Operations | Starbase, TX | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8513119002?gh_jid=8513119002) |
@@ -193,7 +193,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Boeing** | Systems Integration, Verification & Validation Engineer (Associate or Experienced) | Oklahoma City, OK | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Systems-Integration--Verification---Validation-Engineer--Associate-or-Experienced-_JR2026508843-2) |
 | 🏢 **Broadcom** | Digital Design Engineer | TX Austin River P... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Austin---River-Place-B7/High-Speed-Serdes-System-Design-Engineer_R024804) |
 | 🏢 **Anduril** | Firmware Engineer, Counter Intrusion | Irvine, Californi... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5132439007?gh_jid=5132439007) |
-| 🏢 **Bosch Group** | Associate Vehicle Test Specialist | Owatonna, MN | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000125142738) |
+| 🏢 **Bosch Group** | Associate Vehicle Test Specialist | Owatonna, MN | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000125142738) |
 | 🏢 **Anduril** | Firmware Engineer | Lexington, Massac... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5100716007?gh_jid=5100716007) |
 | 🏢 **Intel** | SoC Logic Design Engineer | California Santa ... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Logic-Design-Engineer_JR0283109-1) |
 | 🏢 **NVIDIA** | ASIC Floorplan Design Engineer - New College Grad 2026 | US, CA, Santa Clara | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2012971) |
@@ -219,7 +219,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Northrop Grumman** | 2026 Associate Structural Engineer/ Structural Engineer - Weekend Shift | Mississippi | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2026-Associate-Structural-Engineer--Structural-Engineer---Weekend-Shift_R10230523) |
 | 🏢 **RTX** | 2026 Fulltime - Raytheon RF Digital Design Integration & Test Engineer I (Onsite) | Mckinney, TX | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Fulltime---Raytheon-RF-Digital-Design-Integration---Test-Engineer-I--Onsite-_01842192) |
 | 🏢 **OpenAI** | Networking Operating System Firmware Engineer | San Francisco | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/f6b9903c-9034-436b-a4ec-4c8643a6d0dd/application) |
-| 🏢 **RTX** | Raytheon Full Time 2026 - Multi Product Power & Digital FPGA Engineer I | Mckinney, TX | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Raytheon-Full-Time-2026---Multi-Product-Power---Digital-FPGA-Engineer-I_01842702) |
+| 🏢 **RTX** | Raytheon Full Time 2026 - Multi Product Power & Digital FPGA Engineer I | Mckinney, TX | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Raytheon-Full-Time-2026---Multi-Product-Power---Digital-FPGA-Engineer-I_01842702) |
 | 🏢 **Guidehouse** | Technical Associate - Platforms, Technology - Campus 2026 (San Antonio) | TX, San Antonio | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Technical-Associate---Platforms--Technology---Campus-2026_36081) |
 | 🏢 **Analog Devices** | Digital Design Engineer - Automotive | 4 Locations | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CO-Colorado-Springs-Centennial/Digital-Design-Engineer---Automotive_R258787) |
 | 🏢 **BlackRock** | Application Engineer (ETF)-Java Backend -Associate | Atlanta, GA | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Atlanta-GA/Application-Engineer--ETF--Java-Backend--Associate_R260497) |
@@ -429,7 +429,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 946 current opportunities from 122 companies**
+**🎯 944 current opportunities from 122 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
