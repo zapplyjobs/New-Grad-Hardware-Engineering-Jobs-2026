@@ -68,14 +68,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Zoom** | Carrier Operations Engineer | San Jose | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Carrier-Operations-Engineer_R17217) |
-| 🏢 **Zoom** | Site Reliability Engineer | San Jose | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Site-Reliability-Engineer_R18412) |
+| 🏢 **Zoom** | Carrier Operations Engineer | San Jose | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Carrier-Operations-Engineer_R17217) |
+| 🏢 **Zoom** | Site Reliability Engineer | San Jose | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Site-Reliability-Engineer_R18412) |
 | 🏢 **Google** | SAP Application Engineer, Supply Chain Logistics | United States | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/77148734407746246) |
 | 🏢 **Google** | Research Scientist, Robotics, DeepMind | United States | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/84953531798168262) |
 | 🏢 **Google** | Product Engineer, ARM Servers, Storage and ML Systems | United States | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/118574175014003398) |
 | 🏢 **SpaceX** | Equipment Maintenance & Reliability Engineer (Starlink PCB) | Bastrop, TX | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8542284002?gh_jid=8542284002) |
-| 🏢 **SpaceX** | Propulsion Engineer, Components Manufacturing (Raptor) | Hawthorne, CA | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002) |
-| 🏢 **SpaceX** | Operations Engineer, Spaceport Operations | Starbase, TX | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8513119002?gh_jid=8513119002) |
+| 🏢 **SpaceX** | Propulsion Engineer, Components Manufacturing (Raptor) | Hawthorne, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002) |
+| 🏢 **SpaceX** | Operations Engineer, Spaceport Operations | Starbase, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8513119002?gh_jid=8513119002) |
 | 🏢 **Medtronic** | EP Mapping Specialist, CAS- Wilmington/ Myrtle Beach | 2 Locations | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Wilmington-North-Carolina-United-States-of-America/EP-Mapping-Specialist--CAS--Wilmington--Myrtle-Beach_R66046-1) |
 | 🏢 **NVIDIA** | Verification Engineer - Compilers C++ | CA Santa Clara + ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Verification-Engineer---Compilers-C--_JR2017805-1) |
 | 🏢 **Abbott** | R&D Product Development Engineer | United States > A... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Atlanta--387-Technology-Circle-NW-Suite-500/R-D-Product-Development-Engineer_31149936-1) |
@@ -179,7 +179,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Verkada** | Associate Recruiter | San Mateo, CA Uni... | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5112051007) |
+| 🏢 **Verkada** | Associate Recruiter | San Mateo, CA Uni... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5112051007) |
 | 🏢 **AMD** | Interconnect Firmware Engineer | Austin, TX, Unite... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/86125/login) |
 | 🏢 **Abbott** | Associate Design Quality Engineer | California | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Temecula/Associate-Design-Quality-Engineer_31148929-1) |
 | 🏢 **AbbVie** | Associate Shift Technical Engineer (rotating shifts) | North Chicago, IL | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013049247) |
@@ -261,14 +261,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Waymo** | Systems Test Engineer, Weather and Special Projects | Mountain View, CA... | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7822860) |
+| 🏢 **Waymo** | Systems Test Engineer, Weather and Special Projects | Mountain View, CA... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7822860) |
 | 🏢 **Apple** | Reliability Test Engineer | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200648442/reliability-test-engineer) |
 | 🏢 **AMD** | MTS Analog Design Engineer | Folsom, CA, Unite... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/85487/login) |
 | 🏢 **Google** | Hardware Validation Engineer, Engineering Labs | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/79587519917630150) |
 | 🏢 **Western Digital** | Cloud Storage Test Engineer | Rochester, MN | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000125222606) |
 | 🏢 **Apple** | Operations Test Engineer - Display | Cupertino | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200656704/operations-test-engineer-display) |
 | 🏢 **Verkada** | Eng Manager, Quality & Test Engineering, Cameras | San Mateo, CA Uni... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5131729007) |
-| 🏢 **SpaceX** | Power Electronics Engineer, Satellites (Starlink) | Redmond, WA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8534757002?gh_jid=8534757002) |
+| 🏢 **SpaceX** | Power Electronics Engineer, Satellites (Starlink) | Redmond, WA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8534757002?gh_jid=8534757002) |
 | 🏢 **Google** | Optical Validation Engineer, Google Cloud | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143702138877289158) |
 | 🏢 **CACI** | Systems Test Engineer | Aurora, CO | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Aurora/Systems-Test-Engineer_325792) |
 | 🏢 **CACI** | Automation Test Engineer | Remote | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Automation-Test-Engineer_323984) |
@@ -292,7 +292,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Broadcom** | Analog and Mixed Signal IC Design Engineer | CA Irvine Alton P... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-1/Analog-and-Mixed-Signal-IC-Design-Engineer_R026004) |
 | 🏢 **RTX** | Technician - Avionics Test Engineering | Cedar Rapids, IA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Technician---Avionics-Test-Engineering_01842867) |
 | 🏢 **Oklo** | Thermal Hydraulic Test Engineer | Idaho Falls, ID | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/5710536004) |
-| 🏢 **AMD** | Validation Engineer | Austin, TX, Unite... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/85803/login) |
+| 🏢 **AMD** | Validation Engineer | Austin, TX, Unite... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/85803/login) |
 | 🏢 **Apptronik** | Robotics Test Engineer | Austin, TX | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/apptronik/jobs/5988482004?gh_jid=5988482004) |
 | 🏢 **Johnson & Johnson** | Manager Computer System Validation Engineer (CSV) | Wilson, North Car... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Wilson-North-Carolina-United-States-of-America/Manager-Computer-System-Validation-Engineer--CSV-_R-064493-1) |
 | 🏢 **Caterpillar** | Marine Field Follow / Validation Engineer | Virginia Beach Vi... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Virginia-Beach-Virginia/Marine-Field-Follow---Validation-Engineer_R0000367632) |
