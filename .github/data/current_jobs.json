@@ -2878,52 +2878,6 @@
     "job_posted_at": "2026-05-08T20:07:39.277Z"
   },
   {
-    "job_id": "workday-kla-2636498",
-    "job_title": "Product Engineer  Simulation/High Vacuum",
-    "employer_name": "KLA",
-    "job_city": "Milpitas",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Milpitas, CA",
-    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Engineer--Simulation-High-Vacuum_2636498-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:34.488Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "188a905b76d5f7c123450c5e3e7e48e9237bf8d8b6f1857648a9ffad2395b8de",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "excel"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:07:34.488Z"
-  },
-  {
     "job_id": "workday-general-motors-JR-202609841",
     "job_title": "ADAS Fusion Performance Engineer",
     "employer_name": "General Motors",
@@ -8664,6 +8618,52 @@
     "job_posted_at": "2026-05-08T07:46:52.304Z"
   },
   {
+    "job_id": "workday-kla-2636498",
+    "job_title": "Product Engineer  Simulation/High Vacuum",
+    "employer_name": "KLA",
+    "job_city": "Milpitas",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Milpitas, CA",
+    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Engineer--Simulation-High-Vacuum_2636498-1",
+    "job_posted_at_datetime_utc": "2026-05-08T07:46:35.107Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "188a905b76d5f7c123450c5e3e7e48e9237bf8d8b6f1857648a9ffad2395b8de",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "excel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T07:46:35.107Z"
+  },
+  {
     "job_id": "workday-medtronic-R66181",
     "job_title": "Associate Mapping Specialist CAS",
     "employer_name": "Medtronic",
@@ -13200,183 +13200,6 @@
     "job_posted_at": "2026-05-07T08:16:34.480Z"
   },
   {
-    "job_id": "workday-kla-2636390",
-    "job_title": "Opto-Mechanical Design Engineer",
-    "employer_name": "KLA",
-    "job_city": "Milpitas",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Milpitas, CA",
-    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Opto-Mechanical-Design-Engineer_2636390",
-    "job_posted_at_datetime_utc": "2026-05-07T08:16:31.109Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7a6f66b23c6de7b49636bb1058cae6277a5d1e549563866d9ffd2e097dffca1e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "ansys",
-        "cad",
-        "creo",
-        "tolerance analysis"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T08:16:31.109Z"
-  },
-  {
-    "job_id": "workday-kla-2636110",
-    "job_title": "Product Installation Engineer BBP - Extensive 90% + Travel Required",
-    "employer_name": "KLA",
-    "job_city": "Chandler",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chandler, AZ",
-    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Installation-Engineer-BBP---Extensive-90----Travel-Required_2636110",
-    "job_posted_at_datetime_utc": "2026-05-07T08:16:31.109Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d4c97a7e335f7ec004c4cf11e86c22ae9ad8619ec5497556159596607f023858",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T08:16:31.109Z"
-  },
-  {
-    "job_id": "workday-kla-2636109",
-    "job_title": "Product Installation Engineer BBP - Extensive 90% + Travel Required",
-    "employer_name": "KLA",
-    "job_city": "OR Hillsboro Beaverton KLA",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "OR Hillsboro Beaverton KLA + 1 more",
-    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/USA-OR-Hillsboro-Beaverton-KLA/Product-Installation-Engineer-BBP---Extensive-90----Travel-Required_2636109",
-    "job_posted_at_datetime_utc": "2026-05-07T08:16:31.109Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cf8dd39bd92c81bb09b553774c055260345d128534a7188ac5b048c75d4daeb3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T08:16:31.109Z"
-  },
-  {
-    "job_id": "workday-kla-2636108",
-    "job_title": "Product Installation Engineer BBP - Extensive 90% + Travel Required",
-    "employer_name": "KLA",
-    "job_city": "Chandler",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chandler, AZ + 1 more",
-    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Installation-Engineer-BBP---Extensive-90----Travel-Required_2636108-1",
-    "job_posted_at_datetime_utc": "2026-05-07T08:16:31.109Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d4c97a7e335f7ec004c4cf11e86c22ae9ad8619ec5497556159596607f023858",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T08:16:31.109Z"
-  },
-  {
     "job_id": "workday-guidehouse-39020",
     "job_title": "Financial Management and Internal Controls Specialist",
     "employer_name": "Guidehouse",
@@ -16659,6 +16482,183 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-07T07:46:51.094Z"
+  },
+  {
+    "job_id": "workday-kla-2636390",
+    "job_title": "Opto-Mechanical Design Engineer",
+    "employer_name": "KLA",
+    "job_city": "Milpitas",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Milpitas, CA",
+    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Opto-Mechanical-Design-Engineer_2636390",
+    "job_posted_at_datetime_utc": "2026-05-07T07:46:35.107Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7a6f66b23c6de7b49636bb1058cae6277a5d1e549563866d9ffd2e097dffca1e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "ansys",
+        "cad",
+        "creo",
+        "tolerance analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:46:35.107Z"
+  },
+  {
+    "job_id": "workday-kla-2636110",
+    "job_title": "Product Installation Engineer BBP - Extensive 90% + Travel Required",
+    "employer_name": "KLA",
+    "job_city": "Chandler",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chandler, AZ",
+    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Installation-Engineer-BBP---Extensive-90----Travel-Required_2636110",
+    "job_posted_at_datetime_utc": "2026-05-07T07:46:35.107Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d4c97a7e335f7ec004c4cf11e86c22ae9ad8619ec5497556159596607f023858",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:46:35.107Z"
+  },
+  {
+    "job_id": "workday-kla-2636109",
+    "job_title": "Product Installation Engineer BBP - Extensive 90% + Travel Required",
+    "employer_name": "KLA",
+    "job_city": "OR Hillsboro Beaverton KLA",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "OR Hillsboro Beaverton KLA + 1 more",
+    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/USA-OR-Hillsboro-Beaverton-KLA/Product-Installation-Engineer-BBP---Extensive-90----Travel-Required_2636109",
+    "job_posted_at_datetime_utc": "2026-05-07T07:46:35.107Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cf8dd39bd92c81bb09b553774c055260345d128534a7188ac5b048c75d4daeb3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:46:35.107Z"
+  },
+  {
+    "job_id": "workday-kla-2636108",
+    "job_title": "Product Installation Engineer BBP - Extensive 90% + Travel Required",
+    "employer_name": "KLA",
+    "job_city": "Chandler",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chandler, AZ + 1 more",
+    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Installation-Engineer-BBP---Extensive-90----Travel-Required_2636108-1",
+    "job_posted_at_datetime_utc": "2026-05-07T07:46:35.107Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d4c97a7e335f7ec004c4cf11e86c22ae9ad8619ec5497556159596607f023858",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:46:35.107Z"
   },
   {
     "job_id": "workday-philips-576952",
@@ -23172,105 +23172,6 @@
     "job_posted_at": "2026-05-06T08:16:34.479Z"
   },
   {
-    "job_id": "workday-kla-2635501",
-    "job_title": "Product Engineer",
-    "employer_name": "KLA",
-    "job_city": "Milpitas",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Milpitas, CA",
-    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Engineer_2635501",
-    "job_posted_at_datetime_utc": "2026-05-06T08:16:31.110Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "526250422a3995b3d1b070e543016ef489a81b270bbb54e6c78c09e6ff0c4bc0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "forecasting",
-        "plc"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T08:16:31.110Z"
-  },
-  {
-    "job_id": "workday-kla-2636064",
-    "job_title": "Product Engineer Reticle Experience",
-    "employer_name": "KLA",
-    "job_city": "Milpitas",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Milpitas, CA",
-    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Engineer-Reticle-Experience_2636064",
-    "job_posted_at_datetime_utc": "2026-05-06T08:16:31.110Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a78068021bf633213dcb8faeb050575cfe8e3e481f96d78157ecd2e54e4dfba4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "crm",
-        "data analysis",
-        "erp",
-        "excel",
-        "power bi",
-        "project management",
-        "python",
-        "sql",
-        "sql server"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T08:16:31.110Z"
-  },
-  {
     "job_id": "workday-guidehouse-39214",
     "job_title": "Cardiovascular Catheter Development Engineer",
     "employer_name": "Guidehouse",
@@ -25031,408 +24932,6 @@
     "job_posted_at": "2026-05-06T07:48:30.176Z"
   },
   {
-    "job_id": "workday-hpe-1206366",
-    "job_title": "Hardware Engineering Program Manager 2",
-    "employer_name": "HPE",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Sunnyvale, California, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Program-Manager-2_1206366-1",
-    "job_posted_at_datetime_utc": "2026-05-06T07:48:20.464Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f2c612f2b81ddc444049b58117f356afc43aef77baf86bdf95d773562439eacc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "forecasting",
-        "html",
-        "microsoft office",
-        "networking",
-        "program management",
-        "reporting",
-        "routing",
-        "switching"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T07:48:20.464Z"
-  },
-  {
-    "job_id": "workday-hpe-1206509",
-    "job_title": "Hardware Engineering Program Manager 3",
-    "employer_name": "HPE",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Sunnyvale, California, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Program-Manager-3_1206509",
-    "job_posted_at_datetime_utc": "2026-05-06T07:48:20.464Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "776dcbbc66daa39eb89fb362eea75c11f392a1415e13c7ab6896cf6c3f989f23",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "forecasting",
-        "html",
-        "microsoft office",
-        "networking",
-        "program management",
-        "reporting",
-        "routing",
-        "switching"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T07:48:20.464Z"
-  },
-  {
-    "job_id": "workday-hpe-1203621",
-    "job_title": "Hardware Electrical Engineer - Software",
-    "employer_name": "HPE",
-    "job_city": "Spring",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Spring, Texas, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Hardware-Electrical-Engineer---Software_1203621-2",
-    "job_posted_at_datetime_utc": "2026-05-06T07:48:20.464Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5db185995c4e8a4a817c6beb48adb363928bfc6f11a06309a8b1a0b03a01d34a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "data analysis",
-        "html",
-        "scrum"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T07:48:20.464Z"
-  },
-  {
-    "job_id": "workday-hpe-1206515",
-    "job_title": "ASIC Verification Engineer",
-    "employer_name": "HPE",
-    "job_city": "Durham",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Durham, North Carolina, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Durham-North-Carolina-United-States-of-America/ASIC-Verification-Engineer_1206515",
-    "job_posted_at_datetime_utc": "2026-05-06T07:48:20.462Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c0f180033cc9468b97d4ea1cf33e180be9d61ba98e83495d648a724beff22a64",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fpga",
-        "html",
-        "verilog"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T07:48:20.462Z"
-  },
-  {
-    "job_id": "workday-hpe-(university)-1206515",
-    "job_title": "ASIC Verification Engineer",
-    "employer_name": "HPE (University)",
-    "job_city": "Durham",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Durham, North Carolina, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/ASIC-Verification-Engineer_1206515-2",
-    "job_posted_at_datetime_utc": "2026-05-06T07:48:19.517Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7e13cd2d240aa5b761a9f8bff0a2763368ca777a2e0963977f05d2cc5513da2b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fpga",
-        "html",
-        "verilog"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T07:48:19.517Z"
-  },
-  {
-    "job_id": "workday-hpe-(university)-1206366",
-    "job_title": "Hardware Engineering Program Manager 2",
-    "employer_name": "HPE (University)",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Sunnyvale, California, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Program-Manager-2_1206366-3",
-    "job_posted_at_datetime_utc": "2026-05-06T07:48:19.517Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9950485cb0dc70edc3051948dc4ca28d050e93ec7a2bdc4eae2c55e142cbf4ee",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "forecasting",
-        "html",
-        "microsoft office",
-        "networking",
-        "program management",
-        "reporting",
-        "routing",
-        "switching"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T07:48:19.517Z"
-  },
-  {
-    "job_id": "workday-hpe-(university)-1206509",
-    "job_title": "Hardware Engineering Program Manager 3",
-    "employer_name": "HPE (University)",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Sunnyvale, California, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Program-Manager-3_1206509-2",
-    "job_posted_at_datetime_utc": "2026-05-06T07:48:19.517Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4dd337dd4c4e976d123204aee409e09b6d2ab116cc5eb4125268967eec553359",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "forecasting",
-        "html",
-        "microsoft office",
-        "networking",
-        "program management",
-        "reporting",
-        "routing",
-        "switching"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T07:48:19.517Z"
-  },
-  {
-    "job_id": "workday-hpe-(university)-1203621",
-    "job_title": "Hardware Electrical Engineer - Software",
-    "employer_name": "HPE (University)",
-    "job_city": "Spring",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Spring, Texas, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Electrical-Engineer---Software_1203621",
-    "job_posted_at_datetime_utc": "2026-05-06T07:48:19.517Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f6e4b0e38a7557d7389eae8ead3adbf0adeb79979736c31544f651d858331bf9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "data analysis",
-        "html",
-        "scrum"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T07:48:19.517Z"
-  },
-  {
     "job_id": "workday-kbr-R2121445",
     "job_title": "Mechanical Engineer",
     "employer_name": "KBR",
@@ -26753,6 +26252,507 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-06T07:46:51.095Z"
+  },
+  {
+    "job_id": "workday-hpe-(university)-1206515",
+    "job_title": "ASIC Verification Engineer",
+    "employer_name": "HPE (University)",
+    "job_city": "Durham",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Durham, North Carolina, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/ASIC-Verification-Engineer_1206515-2",
+    "job_posted_at_datetime_utc": "2026-05-06T07:46:43.903Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7e13cd2d240aa5b761a9f8bff0a2763368ca777a2e0963977f05d2cc5513da2b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "fpga",
+        "html",
+        "verilog"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:46:43.903Z"
+  },
+  {
+    "job_id": "workday-hpe-(university)-1206366",
+    "job_title": "Hardware Engineering Program Manager 2",
+    "employer_name": "HPE (University)",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Sunnyvale, California, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Program-Manager-2_1206366-3",
+    "job_posted_at_datetime_utc": "2026-05-06T07:46:43.903Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9950485cb0dc70edc3051948dc4ca28d050e93ec7a2bdc4eae2c55e142cbf4ee",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "forecasting",
+        "html",
+        "microsoft office",
+        "networking",
+        "program management",
+        "reporting",
+        "routing",
+        "switching"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:46:43.903Z"
+  },
+  {
+    "job_id": "workday-hpe-(university)-1206509",
+    "job_title": "Hardware Engineering Program Manager 3",
+    "employer_name": "HPE (University)",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Sunnyvale, California, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Program-Manager-3_1206509-2",
+    "job_posted_at_datetime_utc": "2026-05-06T07:46:43.903Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4dd337dd4c4e976d123204aee409e09b6d2ab116cc5eb4125268967eec553359",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "forecasting",
+        "html",
+        "microsoft office",
+        "networking",
+        "program management",
+        "reporting",
+        "routing",
+        "switching"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:46:43.903Z"
+  },
+  {
+    "job_id": "workday-hpe-(university)-1203621",
+    "job_title": "Hardware Electrical Engineer - Software",
+    "employer_name": "HPE (University)",
+    "job_city": "Spring",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Spring, Texas, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Electrical-Engineer---Software_1203621",
+    "job_posted_at_datetime_utc": "2026-05-06T07:46:43.903Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f6e4b0e38a7557d7389eae8ead3adbf0adeb79979736c31544f651d858331bf9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "data analysis",
+        "html",
+        "scrum"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:46:43.903Z"
+  },
+  {
+    "job_id": "workday-hpe-1206515",
+    "job_title": "ASIC Verification Engineer",
+    "employer_name": "HPE",
+    "job_city": "Durham",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Durham, North Carolina, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Durham-North-Carolina-United-States-of-America/ASIC-Verification-Engineer_1206515",
+    "job_posted_at_datetime_utc": "2026-05-06T07:46:42.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c0f180033cc9468b97d4ea1cf33e180be9d61ba98e83495d648a724beff22a64",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "fpga",
+        "html",
+        "verilog"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:46:42.515Z"
+  },
+  {
+    "job_id": "workday-hpe-1206366",
+    "job_title": "Hardware Engineering Program Manager 2",
+    "employer_name": "HPE",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Sunnyvale, California, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Program-Manager-2_1206366-1",
+    "job_posted_at_datetime_utc": "2026-05-06T07:46:42.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f2c612f2b81ddc444049b58117f356afc43aef77baf86bdf95d773562439eacc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "forecasting",
+        "html",
+        "microsoft office",
+        "networking",
+        "program management",
+        "reporting",
+        "routing",
+        "switching"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:46:42.515Z"
+  },
+  {
+    "job_id": "workday-hpe-1206509",
+    "job_title": "Hardware Engineering Program Manager 3",
+    "employer_name": "HPE",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Sunnyvale, California, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Program-Manager-3_1206509",
+    "job_posted_at_datetime_utc": "2026-05-06T07:46:42.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "776dcbbc66daa39eb89fb362eea75c11f392a1415e13c7ab6896cf6c3f989f23",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "forecasting",
+        "html",
+        "microsoft office",
+        "networking",
+        "program management",
+        "reporting",
+        "routing",
+        "switching"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:46:42.515Z"
+  },
+  {
+    "job_id": "workday-hpe-1203621",
+    "job_title": "Hardware Electrical Engineer - Software",
+    "employer_name": "HPE",
+    "job_city": "Spring",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Spring, Texas, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Hardware-Electrical-Engineer---Software_1203621-2",
+    "job_posted_at_datetime_utc": "2026-05-06T07:46:42.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5db185995c4e8a4a817c6beb48adb363928bfc6f11a06309a8b1a0b03a01d34a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "data analysis",
+        "html",
+        "scrum"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:46:42.515Z"
+  },
+  {
+    "job_id": "workday-kla-2635501",
+    "job_title": "Product Engineer",
+    "employer_name": "KLA",
+    "job_city": "Milpitas",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Milpitas, CA",
+    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Engineer_2635501",
+    "job_posted_at_datetime_utc": "2026-05-06T07:46:35.108Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "526250422a3995b3d1b070e543016ef489a81b270bbb54e6c78c09e6ff0c4bc0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "forecasting",
+        "plc"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:46:35.108Z"
+  },
+  {
+    "job_id": "workday-kla-2636064",
+    "job_title": "Product Engineer Reticle Experience",
+    "employer_name": "KLA",
+    "job_city": "Milpitas",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Milpitas, CA",
+    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Engineer-Reticle-Experience_2636064",
+    "job_posted_at_datetime_utc": "2026-05-06T07:46:35.108Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a78068021bf633213dcb8faeb050575cfe8e3e481f96d78157ecd2e54e4dfba4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "crm",
+        "data analysis",
+        "erp",
+        "excel",
+        "power bi",
+        "project management",
+        "python",
+        "sql",
+        "sql server"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:46:35.108Z"
   },
   {
     "job_id": "workday-aptiv-J000697938",
@@ -33136,95 +33136,6 @@
     "job_posted_at": "2026-05-05T08:16:34.480Z"
   },
   {
-    "job_id": "workday-kla-2636602",
-    "job_title": "System Design Engineer (E)",
-    "employer_name": "KLA",
-    "job_city": "Milpitas",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Milpitas, CA",
-    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/System-Design-Engineer--E-_2636602-1",
-    "job_posted_at_datetime_utc": "2026-05-05T08:16:31.110Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c530fdd327a8e15f46f1740dd6caff5193936bec7b2ee89e1ca8197b93f0ca8e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "system design"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T08:16:31.110Z"
-  },
-  {
-    "job_id": "workday-kla-2635671",
-    "job_title": "Customer Engagement Applications Engineer",
-    "employer_name": "KLA",
-    "job_city": "Hillsboro",
-    "job_state": "OR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hillsboro, OR",
-    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Customer-Engagement-Applications-Engineer_2635671",
-    "job_posted_at_datetime_utc": "2026-05-05T08:16:31.110Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1697131f34ba58191e3249debae18cae155ae317ba9916d216d218e01282c2d6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T08:16:31.110Z"
-  },
-  {
     "job_id": "workday-guidehouse-36081",
     "job_title": "Technical Associate - Platforms, Technology - Campus 2026 (San Antonio)",
     "employer_name": "Guidehouse",
@@ -34545,475 +34456,6 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-05T07:48:30.176Z"
-  },
-  {
-    "job_id": "workday-hpe-1206501",
-    "job_title": "Signal Integrity Engineer",
-    "employer_name": "HPE",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Sunnyvale, California, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Signal-Integrity-Engineer_1206501",
-    "job_posted_at_datetime_utc": "2026-05-05T07:48:20.464Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3a756d07117a7243f6b8c226a5472a3679ac4dd36a3fdc7ae7f35e264bc3e00b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "allegro",
-        "ansys",
-        "cad",
-        "hfss",
-        "html",
-        "matlab",
-        "microwave",
-        "networking",
-        "pcb design",
-        "rf"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T07:48:20.464Z"
-  },
-  {
-    "job_id": "workday-hpe-1206371",
-    "job_title": "Signal Integrity Engineer",
-    "employer_name": "HPE",
-    "job_city": "Spring",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Spring, Texas, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Signal-Integrity-Engineer_1206371-1",
-    "job_posted_at_datetime_utc": "2026-05-05T07:48:20.464Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "055e7fccc5a47033e8738e0c10dad4831b4e28b2dae1411f5a4b3bf14fbff552",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "ansys",
-        "cadence",
-        "hfss",
-        "html",
-        "networking",
-        "pcb design",
-        "routing"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T07:48:20.464Z"
-  },
-  {
-    "job_id": "workday-hpe-1206688",
-    "job_title": "Master Compliance Engineer- EMC Regulatory and Energy Test Engineer",
-    "employer_name": "HPE",
-    "job_city": "Houston",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Houston, Texas, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Houston-Texas-United-States-of-America/Master-Compliance-Engineer--EMC-Regulatory-and-Energy-Test-Engineer_1206688-2",
-    "job_posted_at_datetime_utc": "2026-05-05T07:48:20.464Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7c5368cd26232f2ddd1d92f742830b864005ec140e84122c4d5ec9cf4e827997",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "html",
-        "reporting"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T07:48:20.464Z"
-  },
-  {
-    "job_id": "workday-hpe-(university)-1206501",
-    "job_title": "Signal Integrity Engineer",
-    "employer_name": "HPE (University)",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Sunnyvale, California, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Signal-Integrity-Engineer_1206501-2",
-    "job_posted_at_datetime_utc": "2026-05-05T07:48:19.519Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dd31d3249649337368f9390f11e204f5d7ce82052f36f674b0b6de0d29335096",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "allegro",
-        "ansys",
-        "cad",
-        "hfss",
-        "html",
-        "matlab",
-        "microwave",
-        "networking",
-        "pcb design",
-        "rf"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T07:48:19.519Z"
-  },
-  {
-    "job_id": "workday-hpe-(university)-1206371",
-    "job_title": "Signal Integrity Engineer",
-    "employer_name": "HPE (University)",
-    "job_city": "Spring",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Spring, Texas, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Signal-Integrity-Engineer_1206371-3",
-    "job_posted_at_datetime_utc": "2026-05-05T07:48:19.519Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7a2d139cdb43feba87ae1a950d7156b10e90901c5b479032a6284cc72fb0204d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "ansys",
-        "cadence",
-        "hfss",
-        "html",
-        "networking",
-        "pcb design",
-        "routing"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T07:48:19.519Z"
-  },
-  {
-    "job_id": "workday-hpe-(university)-1206688",
-    "job_title": "Master Compliance Engineer- EMC Regulatory and Energy Test Engineer",
-    "employer_name": "HPE (University)",
-    "job_city": "Houston",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Houston, Texas, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/Master-Compliance-Engineer--EMC-Regulatory-and-Energy-Test-Engineer_1206688",
-    "job_posted_at_datetime_utc": "2026-05-05T07:48:19.519Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "26031b9ea6efb1d95dee7d9a6ef43b99078b7911951d60dfd38b2b308faa75df",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "html",
-        "reporting"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T07:48:19.519Z"
-  },
-  {
-    "job_id": "workday-hpe-(university)-1204155",
-    "job_title": "Resident Engineer – Service Provider Routing and Switching Design Consultant (Mt Laurel, NJ)",
-    "employer_name": "HPE (University)",
-    "job_city": "All",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "All, New Jersey, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-New-Jersey-United-States-of-America/Resident-Engineer---Service-Provider-Routing-and-Switching-Design-Consultant--Mt-Laurel--NJ-_1204155",
-    "job_posted_at_datetime_utc": "2026-05-05T07:48:19.519Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6f4ce2bb18cbb182cd2e22d8d324b127ffa634d8a57da40da5b0da8baa0a0d10",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "ansible",
-        "bgp",
-        "html",
-        "juniper",
-        "ospf",
-        "python",
-        "routing",
-        "switching",
-        "tcp/ip",
-        "windows"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T07:48:19.519Z"
-  },
-  {
-    "job_id": "workday-hpe-(university)-1203264",
-    "job_title": "Resident Engineer",
-    "employer_name": "HPE (University)",
-    "job_city": "Charlotte",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Charlotte, North Carolina, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Charlotte-North-Carolina-United-States-of-America/Resident-Engineer_1203264-3",
-    "job_posted_at_datetime_utc": "2026-05-05T07:48:19.519Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "814c0f781dea3f7de2315a1fa4d3caf202d636732a75769095c2c71a3ded1076",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "bgp",
-        "high availability",
-        "html",
-        "juniper",
-        "network engineering",
-        "networking",
-        "ospf",
-        "python",
-        "root cause analysis",
-        "routing",
-        "scalability",
-        "switching",
-        "tcp/ip",
-        "vpn",
-        "windows"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T07:48:19.519Z"
-  },
-  {
-    "job_id": "workday-hpe-(university)-1204124",
-    "job_title": "Resident Engineer – Service Provider Routing and Switching",
-    "employer_name": "HPE (University)",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Atlanta, Georgia, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Atlanta-Georgia-United-States-of-America/Resident-Engineer---Service-Provider-Routing-and-Switching_1204124-3",
-    "job_posted_at_datetime_utc": "2026-05-05T07:48:19.519Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "748505c8e0040b7dfa6ce18583271ed0ccf5fd73aad2e71c4002d055ec477eaf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "ansible",
-        "bgp",
-        "html",
-        "juniper",
-        "ospf",
-        "python",
-        "routing",
-        "switching",
-        "tcp/ip",
-        "windows"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T07:48:19.519Z"
   },
   {
     "job_id": "workday-jabil-J2449125",
@@ -36417,6 +35859,654 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-05T07:46:51.095Z"
+  },
+  {
+    "job_id": "workday-hpe-(university)-1206501",
+    "job_title": "Signal Integrity Engineer",
+    "employer_name": "HPE (University)",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Sunnyvale, California, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Signal-Integrity-Engineer_1206501-2",
+    "job_posted_at_datetime_utc": "2026-05-05T07:46:43.904Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dd31d3249649337368f9390f11e204f5d7ce82052f36f674b0b6de0d29335096",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "allegro",
+        "ansys",
+        "cad",
+        "hfss",
+        "html",
+        "matlab",
+        "microwave",
+        "networking",
+        "pcb design",
+        "rf"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:46:43.904Z"
+  },
+  {
+    "job_id": "workday-hpe-(university)-1206371",
+    "job_title": "Signal Integrity Engineer",
+    "employer_name": "HPE (University)",
+    "job_city": "Spring",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Spring, Texas, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Signal-Integrity-Engineer_1206371-3",
+    "job_posted_at_datetime_utc": "2026-05-05T07:46:43.904Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7a2d139cdb43feba87ae1a950d7156b10e90901c5b479032a6284cc72fb0204d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "ansys",
+        "cadence",
+        "hfss",
+        "html",
+        "networking",
+        "pcb design",
+        "routing"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:46:43.904Z"
+  },
+  {
+    "job_id": "workday-hpe-(university)-1206688",
+    "job_title": "Master Compliance Engineer- EMC Regulatory and Energy Test Engineer",
+    "employer_name": "HPE (University)",
+    "job_city": "Houston",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Houston, Texas, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/Master-Compliance-Engineer--EMC-Regulatory-and-Energy-Test-Engineer_1206688",
+    "job_posted_at_datetime_utc": "2026-05-05T07:46:43.904Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "26031b9ea6efb1d95dee7d9a6ef43b99078b7911951d60dfd38b2b308faa75df",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "html",
+        "reporting"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:46:43.904Z"
+  },
+  {
+    "job_id": "workday-hpe-(university)-1204155",
+    "job_title": "Resident Engineer – Service Provider Routing and Switching Design Consultant (Mt Laurel, NJ)",
+    "employer_name": "HPE (University)",
+    "job_city": "All",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "All, New Jersey, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-New-Jersey-United-States-of-America/Resident-Engineer---Service-Provider-Routing-and-Switching-Design-Consultant--Mt-Laurel--NJ-_1204155",
+    "job_posted_at_datetime_utc": "2026-05-05T07:46:43.904Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6f4ce2bb18cbb182cd2e22d8d324b127ffa634d8a57da40da5b0da8baa0a0d10",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "ansible",
+        "bgp",
+        "html",
+        "juniper",
+        "ospf",
+        "python",
+        "routing",
+        "switching",
+        "tcp/ip",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:46:43.904Z"
+  },
+  {
+    "job_id": "workday-hpe-(university)-1203264",
+    "job_title": "Resident Engineer",
+    "employer_name": "HPE (University)",
+    "job_city": "Charlotte",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Charlotte, North Carolina, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Charlotte-North-Carolina-United-States-of-America/Resident-Engineer_1203264-3",
+    "job_posted_at_datetime_utc": "2026-05-05T07:46:43.904Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "814c0f781dea3f7de2315a1fa4d3caf202d636732a75769095c2c71a3ded1076",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "bgp",
+        "high availability",
+        "html",
+        "juniper",
+        "network engineering",
+        "networking",
+        "ospf",
+        "python",
+        "root cause analysis",
+        "routing",
+        "scalability",
+        "switching",
+        "tcp/ip",
+        "vpn",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:46:43.904Z"
+  },
+  {
+    "job_id": "workday-hpe-(university)-1204124",
+    "job_title": "Resident Engineer – Service Provider Routing and Switching",
+    "employer_name": "HPE (University)",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Atlanta, Georgia, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Atlanta-Georgia-United-States-of-America/Resident-Engineer---Service-Provider-Routing-and-Switching_1204124-3",
+    "job_posted_at_datetime_utc": "2026-05-05T07:46:43.904Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "748505c8e0040b7dfa6ce18583271ed0ccf5fd73aad2e71c4002d055ec477eaf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "ansible",
+        "bgp",
+        "html",
+        "juniper",
+        "ospf",
+        "python",
+        "routing",
+        "switching",
+        "tcp/ip",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:46:43.904Z"
+  },
+  {
+    "job_id": "workday-hpe-1206501",
+    "job_title": "Signal Integrity Engineer",
+    "employer_name": "HPE",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Sunnyvale, California, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Signal-Integrity-Engineer_1206501",
+    "job_posted_at_datetime_utc": "2026-05-05T07:46:42.516Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3a756d07117a7243f6b8c226a5472a3679ac4dd36a3fdc7ae7f35e264bc3e00b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "allegro",
+        "ansys",
+        "cad",
+        "hfss",
+        "html",
+        "matlab",
+        "microwave",
+        "networking",
+        "pcb design",
+        "rf"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:46:42.516Z"
+  },
+  {
+    "job_id": "workday-hpe-1206371",
+    "job_title": "Signal Integrity Engineer",
+    "employer_name": "HPE",
+    "job_city": "Spring",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Spring, Texas, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Signal-Integrity-Engineer_1206371-1",
+    "job_posted_at_datetime_utc": "2026-05-05T07:46:42.516Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "055e7fccc5a47033e8738e0c10dad4831b4e28b2dae1411f5a4b3bf14fbff552",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "ansys",
+        "cadence",
+        "hfss",
+        "html",
+        "networking",
+        "pcb design",
+        "routing"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:46:42.516Z"
+  },
+  {
+    "job_id": "workday-hpe-1206688",
+    "job_title": "Master Compliance Engineer- EMC Regulatory and Energy Test Engineer",
+    "employer_name": "HPE",
+    "job_city": "Houston",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Houston, Texas, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Houston-Texas-United-States-of-America/Master-Compliance-Engineer--EMC-Regulatory-and-Energy-Test-Engineer_1206688-2",
+    "job_posted_at_datetime_utc": "2026-05-05T07:46:42.516Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7c5368cd26232f2ddd1d92f742830b864005ec140e84122c4d5ec9cf4e827997",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "html",
+        "reporting"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:46:42.516Z"
+  },
+  {
+    "job_id": "workday-hpe-1204155",
+    "job_title": "Resident Engineer – Service Provider Routing and Switching Design Consultant (Mt Laurel, NJ)",
+    "employer_name": "HPE",
+    "job_city": "All",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "All, New Jersey, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-New-Jersey-United-States-of-America/Resident-Engineer---Service-Provider-Routing-and-Switching-Design-Consultant_1204155",
+    "job_posted_at_datetime_utc": "2026-05-05T07:46:42.516Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cfcf4de73d89a4a86dc4123db9ee2b2279e0b800dc911374a32d91fbe68f3943",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T07:46:42.516Z"
+  },
+  {
+    "job_id": "workday-hpe-1203264",
+    "job_title": "Resident Engineer",
+    "employer_name": "HPE",
+    "job_city": "Charlotte",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Charlotte, North Carolina, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Charlotte-North-Carolina-United-States-of-America/Resident-Engineer_1203264",
+    "job_posted_at_datetime_utc": "2026-05-05T07:46:42.516Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e6fb2cc40ecb0d39f9b145673de4f30592f2cdf97a8d2091143d69de430da846",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T07:46:42.516Z"
+  },
+  {
+    "job_id": "workday-hpe-1204124",
+    "job_title": "Resident Engineer – Service Provider Routing and Switching",
+    "employer_name": "HPE",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Atlanta, Georgia, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Atlanta-Georgia-United-States-of-America/Resident-Engineer---Service-Provider-Routing-and-Switching_1204124",
+    "job_posted_at_datetime_utc": "2026-05-05T07:46:42.516Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b05697f3aa340ce4d4d7478b3e47aaf1f390168976c1984add95493b0463f1b4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T07:46:42.516Z"
+  },
+  {
+    "job_id": "workday-kla-2636602",
+    "job_title": "System Design Engineer (E)",
+    "employer_name": "KLA",
+    "job_city": "Milpitas",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Milpitas, CA",
+    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/System-Design-Engineer--E-_2636602-1",
+    "job_posted_at_datetime_utc": "2026-05-05T07:46:35.108Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c530fdd327a8e15f46f1740dd6caff5193936bec7b2ee89e1ca8197b93f0ca8e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "system design"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:46:35.108Z"
+  },
+  {
+    "job_id": "workday-kla-2635671",
+    "job_title": "Customer Engagement Applications Engineer",
+    "employer_name": "KLA",
+    "job_city": "Hillsboro",
+    "job_state": "OR",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hillsboro, OR",
+    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Customer-Engagement-Applications-Engineer_2635671",
+    "job_posted_at_datetime_utc": "2026-05-05T07:46:35.108Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1697131f34ba58191e3249debae18cae155ae317ba9916d216d218e01282c2d6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:46:35.108Z"
   },
   {
     "job_id": "workday-philips-573072",
@@ -47860,7 +47950,7 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "is_remote": false,
-      "has_description": false,
+      "has_description": true,
       "min_degree": null,
       "experience_level_from_desc": null,
       "question_count": null
@@ -47905,7 +47995,7 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "is_remote": false,
-      "has_description": false,
+      "has_description": true,
       "min_degree": null,
       "experience_level_from_desc": null,
       "question_count": null
@@ -47950,7 +48040,7 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "is_remote": false,
-      "has_description": false,
+      "has_description": true,
       "min_degree": null,
       "experience_level_from_desc": null,
       "question_count": null
@@ -47995,7 +48085,7 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "is_remote": false,
-      "has_description": false,
+      "has_description": true,
       "min_degree": null,
       "experience_level_from_desc": null,
       "question_count": null
@@ -48272,53 +48362,5 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-03T09:11:43.838Z"
-  },
-  {
-    "job_id": "workday-jabil-J2447491",
-    "job_title": "Industrial Engineer Tech I: Sun.-Tues./Sun.-Wed. 6am-6pm (CVG 200)",
-    "employer_name": "Jabil",
-    "job_city": "Florence",
-    "job_state": "KY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Florence, KY",
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Industrial-Engineer-Tech-I--Sun-Tues-Sun-Wed-6am-6pm--CVG-200-_J2447491",
-    "job_posted_at_datetime_utc": "2026-05-03T07:48:16.169Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9f77c72f5d9d62665f66feb7c730b90d4451d36d63b6631875f747c15a5876f4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "microsoft office",
-        "process improvement",
-        "visio"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-03T07:48:16.169Z"
   }
 ]
