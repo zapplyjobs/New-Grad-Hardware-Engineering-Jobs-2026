@@ -68,8 +68,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Zoom** | Carrier Operations Engineer | San Jose | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Carrier-Operations-Engineer_R17217) |
-| 🏢 **Zoom** | Site Reliability Engineer | San Jose | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Site-Reliability-Engineer_R18412) |
+| 🏢 **Zoom** | Carrier Operations Engineer | San Jose | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Carrier-Operations-Engineer_R17217) |
+| 🏢 **Zoom** | Site Reliability Engineer | San Jose | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Site-Reliability-Engineer_R18412) |
 | 🏢 **Google** | SAP Application Engineer, Supply Chain Logistics | United States | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/77148734407746246) |
 | 🏢 **Google** | Research Scientist, Robotics, DeepMind | United States | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/84953531798168262) |
 | 🏢 **Google** | Product Engineer, ARM Servers, Storage and ML Systems | United States | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/118574175014003398) |
@@ -118,7 +118,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **CACI** | Hydro Mechanical Engineer | Memphis, TN | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-TN-Memphis/Hydro-Mechanical-Engineer_323915) |
 | 🏢 **Abbott** | Header Process Engineer | South Carolina | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---South-Carolina---Liberty/Header-Process-Engineer_31149871-1) |
 | 🏢 **Microsoft** | Critical Environment Electrical Engineer | Charlotte, North ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556755329) |
-| 🏢 **Sandisk** | Technician 3 – System Design Verification Engineering | Milpitas, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000125388729) |
+| 🏢 **Sandisk** | Technician 3 – System Design Verification Engineering | Milpitas, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000125388729) |
 | 🏢 **LLNL** | Autonomous Sensors Mechanical Engineer | Livermore, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013045656) |
 | 🏢 **Vultr** | Graphic Designer | United States | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/Vultr/a5f6400a-b567-4872-befd-f621b9c9a3c2/application) |
 | 🏢 **NBCUniversal** | Graphic Design & Creative Internships – Academic Year | New York, NY | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000125377110) |
@@ -166,7 +166,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Relativity Space** | Marine Systems Design Engineer I - Transport and Recovery | Cape Canaveral, F... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8538327002?gh_jid=8538327002) |
 | 🏢 **Olsson** | Associate Electrical Engineer – Transmission and Distribution | Dallas, TX; Fort ... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5213529008) |
 | 🏢 **Western Digital** | EDA- CAD Engineer | San Jose, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000125205772) |
-| 🏢 **Graphcore** | Electrical Engineer | Austin, Texas, Un... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8539920002) |
+| 🏢 **Graphcore** | Electrical Engineer | Austin, Texas, Un... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8539920002) |
 | 🏢 **Smiths Group** | Depot Service Engineer | Edgewood, MD | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000125196499) |
 
 <p align="center">Apply for more jobs at</p>
