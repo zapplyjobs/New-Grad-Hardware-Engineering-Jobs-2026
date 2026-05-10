@@ -119,7 +119,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Abbott** | Header Process Engineer | South Carolina | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---South-Carolina---Liberty/Header-Process-Engineer_31149871-1) |
 | 🏢 **Microsoft** | Critical Environment Electrical Engineer | Charlotte, North ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556755329) |
 | 🏢 **Sandisk** | Technician 3 – System Design Verification Engineering | Milpitas, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000125388729) |
-| 🏢 **LLNL** | Autonomous Sensors Mechanical Engineer | Livermore, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013045656) |
+| 🏢 **LLNL** | Autonomous Sensors Mechanical Engineer | Livermore, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013045656) |
 | 🏢 **Vultr** | Graphic Designer | United States | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/Vultr/a5f6400a-b567-4872-befd-f621b9c9a3c2/application) |
 | 🏢 **NBCUniversal** | Graphic Design & Creative Internships – Academic Year | New York, NY | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000125377110) |
 | 🏢 **AMD** | Systems Design Engineer | Austin, TX, Unite... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/85798/login) |
