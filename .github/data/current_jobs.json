@@ -2448,7 +2448,7 @@
     "job_location": "Charlotte, North Carolina, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556755330",
     "job_posted_at_datetime_utc": "2026-05-08T20:08:38.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "e33ed941a3b8125ca2f76761de277dfe1eca1d09ea20ee406dd874d9144dacfc",
     "tags": {
@@ -2681,149 +2681,6 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-08T20:07:59.263Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00182750",
-    "job_title": "Engineering Technician",
-    "employer_name": "Leidos",
-    "job_city": "St. Petersburg",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "St. Petersburg, FL",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Petersburg-FL/Engineering-Technician_R-00182750",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "31d73245eb8bd286c9d80251ba2c1a24a8d4bde475f5fca973c018d4e7cd9cfa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "microwave",
-        "rf"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:07:39.277Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00182741",
-    "job_title": "Mechanical Engineer, Marine Small Craft",
-    "employer_name": "Leidos",
-    "job_city": "Chesapeake",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chesapeake, VA",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Mechanical-Engineer--Marine-Small-Craft_R-00182741",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fd59e32794311b0c26df7c6222c7b9373c2f9f82ecac336aabf621a73f38f821",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "cad",
-        "excel",
-        "express"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:07:39.277Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00182737",
-    "job_title": "Junior Mechanical Engineer, Marine Small Craft",
-    "employer_name": "Leidos",
-    "job_city": "Chesapeake",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chesapeake, VA",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Junior-Mechanical-Engineer--Marine-Small-Craft_R-00182737",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4261e361093fc2ab137a6cf94cdfdb66d4c96217536503150d914397be18326b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "cad",
-        "excel",
-        "express"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:07:39.277Z"
   },
   {
     "job_id": "workday-general-motors-JR-202609841",
@@ -4287,7 +4144,7 @@
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -8521,6 +8378,149 @@
     "job_posted_at": "2026-05-08T12:38:59.000Z"
   },
   {
+    "job_id": "workday-leidos-R-00182741",
+    "job_title": "Mechanical Engineer, Marine Small Craft",
+    "employer_name": "Leidos",
+    "job_city": "Chesapeake",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chesapeake, VA",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Mechanical-Engineer--Marine-Small-Craft_R-00182741",
+    "job_posted_at_datetime_utc": "2026-05-08T08:16:42.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fd59e32794311b0c26df7c6222c7b9373c2f9f82ecac336aabf621a73f38f821",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad",
+        "excel",
+        "express"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T08:16:42.000Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00182737",
+    "job_title": "Junior Mechanical Engineer, Marine Small Craft",
+    "employer_name": "Leidos",
+    "job_city": "Chesapeake",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chesapeake, VA",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Chesapeake-VA/Junior-Mechanical-Engineer--Marine-Small-Craft_R-00182737",
+    "job_posted_at_datetime_utc": "2026-05-08T08:16:42.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4261e361093fc2ab137a6cf94cdfdb66d4c96217536503150d914397be18326b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad",
+        "excel",
+        "express"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T08:16:42.000Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00182750",
+    "job_title": "Engineering Technician",
+    "employer_name": "Leidos",
+    "job_city": "St. Petersburg",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "St. Petersburg, FL",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Petersburg-FL/Engineering-Technician_R-00182750",
+    "job_posted_at_datetime_utc": "2026-05-08T08:16:42.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "31d73245eb8bd286c9d80251ba2c1a24a8d4bde475f5fca973c018d4e7cd9cfa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "microwave",
+        "rf"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T08:16:42.000Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01351690",
     "job_title": "Product Development Engineer",
     "employer_name": "Thermo Fisher Scientific",
@@ -8662,49 +8662,6 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-08T07:46:35.107Z"
-  },
-  {
-    "job_id": "workday-medtronic-R66405",
-    "job_title": "EP Mapping Specialist, CAS- DC/ Northern VA",
-    "employer_name": "Medtronic",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "3 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Washington-District-of-Columbia-United-States-of-America/EP-Mapping-Specialist--CAS--DC--Northern-VA_R66405-1",
-    "job_posted_at_datetime_utc": "2026-05-08T07:01:44.881Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6faaec09c90989dbe819658e332ed246e99f49433a48b698838cc2605451b081",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T07:01:44.881Z"
   },
   {
     "job_id": "workday-medtronic-R66282",
@@ -8894,6 +8851,49 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1d517af40ab06f1559e877c916a027691f5383aca8c318d4226139ec4ec9108e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T07:01:44.881Z"
+  },
+  {
+    "job_id": "workday-medtronic-R66405",
+    "job_title": "EP Mapping Specialist, CAS- DC/ Northern VA",
+    "employer_name": "Medtronic",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "3 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Washington-District-of-Columbia-United-States-of-America/EP-Mapping-Specialist--CAS--DC--Northern-VA_R66405-1",
+    "job_posted_at_datetime_utc": "2026-05-08T07:01:44.881Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6faaec09c90989dbe819658e332ed246e99f49433a48b698838cc2605451b081",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10532,7 +10532,7 @@
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -11677,7 +11677,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863833",
     "job_posted_at_datetime_utc": "2026-05-07T19:33:41.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "94d39ede1d4c28ea25b075671e4ea91361ffd00181280b9f5d3213caec5716eb",
     "tags": {
@@ -11775,7 +11775,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863830",
     "job_posted_at_datetime_utc": "2026-05-07T19:04:18.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -11825,7 +11825,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863829",
     "job_posted_at_datetime_utc": "2026-05-07T19:02:24.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -11836,7 +11836,7 @@
       "locations": [
         "us"
       ],
-      "experience": "entry_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -13991,52 +13991,6 @@
     "job_posted_at": "2026-05-07T08:01:31.805Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01351857",
-    "job_title": "Facilities and Engineering Technician",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Ward Hill",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ward Hill, Massachusetts, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Ward-Hill-Massachusetts-USA/Facilities-and-Engineering-Technician_R-01351857",
-    "job_posted_at_datetime_utc": "2026-05-07T07:50:02.461Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1aeabf2863463d0e2df4b6ad0ea1769a376c992b95345ff0256f4ae231187e2a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "gmp"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T07:50:02.461Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01347903",
     "job_title": "Electrical Engineer",
     "employer_name": "Thermo Fisher Scientific",
@@ -14084,6 +14038,52 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:50:02.461Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01351857",
+    "job_title": "Facilities and Engineering Technician",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Ward Hill",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ward Hill, Massachusetts, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Ward-Hill-Massachusetts-USA/Facilities-and-Engineering-Technician_R-01351857",
+    "job_posted_at_datetime_utc": "2026-05-07T07:50:02.461Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1aeabf2863463d0e2df4b6ad0ea1769a376c992b95345ff0256f4ae231187e2a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "gmp"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
       "question_count": null
     },
     "job_posted_at": "2026-05-07T07:50:02.461Z"
@@ -17056,94 +17056,6 @@
     "job_posted_at": "2026-05-07T07:01:50.057Z"
   },
   {
-    "job_id": "workday-medtronic-R65426",
-    "job_title": "Packaging Engineer - Cardiac Rhythm Management",
-    "employer_name": "Medtronic",
-    "job_city": "Mounds View",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Mounds View, Minnesota, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Packaging-Engineer---Cardiac-Rhythm-Management_R65426",
-    "job_posted_at_datetime_utc": "2026-05-07T07:01:44.882Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b9ca7214fe49b042a1f0371d9e007dc899d210e0f78cd393594271682088ced0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "excel"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T07:01:44.882Z"
-  },
-  {
-    "job_id": "workday-medtronic-R66138",
-    "job_title": "EP Mapping Specialist, CAS - New Jersey",
-    "employer_name": "Medtronic",
-    "job_city": "State of New Jersey",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "State of New Jersey, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-New-Jersey-United-States-of-America/EP-Mapping-Specialist--CAS---New-Jersey_R66138-1",
-    "job_posted_at_datetime_utc": "2026-05-07T07:01:44.882Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c689308468fcdf2386d637af028df416f2656970e68a7fc6adaf25e21538b48f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T07:01:44.882Z"
-  },
-  {
     "job_id": "workday-medtronic-R66191",
     "job_title": "Mapping Specialist   In Training",
     "employer_name": "Medtronic",
@@ -17243,6 +17155,94 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "485b00c3b489cded9280eb4ce562d27e868dad51c414a51a339f5218c37ad361",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:01:44.882Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65426",
+    "job_title": "Packaging Engineer - Cardiac Rhythm Management",
+    "employer_name": "Medtronic",
+    "job_city": "Mounds View",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Mounds View, Minnesota, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Packaging-Engineer---Cardiac-Rhythm-Management_R65426",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:44.882Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b9ca7214fe49b042a1f0371d9e007dc899d210e0f78cd393594271682088ced0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "excel"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:01:44.882Z"
+  },
+  {
+    "job_id": "workday-medtronic-R66138",
+    "job_title": "EP Mapping Specialist, CAS - New Jersey",
+    "employer_name": "Medtronic",
+    "job_city": "State of New Jersey",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "State of New Jersey, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/State-of-New-Jersey-United-States-of-America/EP-Mapping-Specialist--CAS---New-Jersey_R66138-1",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:44.882Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c689308468fcdf2386d637af028df416f2656970e68a7fc6adaf25e21538b48f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -22642,49 +22642,6 @@
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
-    "job_id": "simplify-1064dbd3-b67e-47fc-8613-6b693569d9ba",
-    "job_title": "Associate – Test Methods Engineer - Camden - NJ",
-    "employer_name": "L3Harris Technologies",
-    "job_city": "Philadelphia",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Philadelphia, PA",
-    "job_apply_link": "https://jobs.l3harris.com/job/Camden-Associate,-Test-Methods-Engineer-(Camden,-NJ)-NJ-08103/1320119500/?ats=successfactors",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b71fdc346a2cba70a4d53bed44ab9b9fcf5ae64890dff43a23447f15c72d2627",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
     "job_id": "simplify-5e20afd1-9124-42ba-a6dc-0b14490579ef",
     "job_title": "Entry Level Electrical RF Engineer",
     "employer_name": "Amentum",
@@ -22717,6 +22674,49 @@
       "nice_to_have_skills": [],
       "sponsors_visa": null,
       "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-1064dbd3-b67e-47fc-8613-6b693569d9ba",
+    "job_title": "Associate – Test Methods Engineer - Camden - NJ",
+    "employer_name": "L3Harris Technologies",
+    "job_city": "Philadelphia",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Philadelphia, PA",
+    "job_apply_link": "https://jobs.l3harris.com/job/Camden-Associate,-Test-Methods-Engineer-(Camden,-NJ)-NJ-08103/1320119500/?ats=successfactors",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b71fdc346a2cba70a4d53bed44ab9b9fcf5ae64890dff43a23447f15c72d2627",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
       "is_remote": false,
@@ -27119,49 +27119,6 @@
     "job_posted_at": "2026-05-06T07:01:50.057Z"
   },
   {
-    "job_id": "workday-medtronic-R66072",
-    "job_title": "Affera Mapping Specialist - CAS",
-    "employer_name": "Medtronic",
-    "job_city": "13 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "13 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Affera-Mapping-Specialist---CAS_R66072-1",
-    "job_posted_at_datetime_utc": "2026-05-06T07:01:44.883Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7ebc60f6b164dacf80df5b955adc4bb3245ae00d95cd863cedcb53d916429bfb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T07:01:44.883Z"
-  },
-  {
     "job_id": "workday-medtronic-R60451",
     "job_title": "Field Service Engineer (2+ years)",
     "employer_name": "Medtronic",
@@ -27290,6 +27247,49 @@
       "has_description": true,
       "min_degree": "associates",
       "experience_level_from_desc": "senior",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:01:44.883Z"
+  },
+  {
+    "job_id": "workday-medtronic-R66072",
+    "job_title": "Affera Mapping Specialist - CAS",
+    "employer_name": "Medtronic",
+    "job_city": "13 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "13 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Francisco-California-United-States-of-America/Affera-Mapping-Specialist---CAS_R66072-1",
+    "job_posted_at_datetime_utc": "2026-05-06T07:01:44.883Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7ebc60f6b164dacf80df5b955adc4bb3245ae00d95cd863cedcb53d916429bfb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
       "question_count": null
     },
     "job_posted_at": "2026-05-06T07:01:44.883Z"
@@ -30940,7 +30940,7 @@
     "job_location": "Santa Clara, California, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556628561",
     "job_posted_at_datetime_utc": "2026-05-05T18:46:34.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3cfbaab5e99a26096f4e7fda0010865c48dd1a153f613bc3bf81273c1767558a",
     "tags": {
@@ -30951,7 +30951,7 @@
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -32606,7 +32606,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863752",
     "job_posted_at_datetime_utc": "2026-05-05T12:57:48.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "172ba110541125d4b63bc2096452e5f26da937aab5d8376213770ac7a45d77e3",
     "tags": {
@@ -32617,7 +32617,7 @@
       "locations": [
         "us"
       ],
-      "experience": "entry_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -36784,6 +36784,178 @@
     "job_posted_at": "2026-05-05T07:31:02.887Z"
   },
   {
+    "job_id": "workday-medtronic-R65905",
+    "job_title": "EP Mapping Specialist - CAS Nashville, TN",
+    "employer_name": "Medtronic",
+    "job_city": "Nashville",
+    "job_state": "TN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Nashville, Tennessee, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nashville-Tennessee-United-States-of-America/EP-Mapping-Specialist---CAS-Nashville--TN_R65905-1",
+    "job_posted_at_datetime_utc": "2026-05-05T07:01:44.883Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ecbd560b98a2e1a7f8516164312b8fdd7785c0f09e5fcaa3fd90ab6ca16c82ce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:01:44.883Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65973",
+    "job_title": "EP Mapping Specialist, CAS - Westchester",
+    "employer_name": "Medtronic",
+    "job_city": "Westchester",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Westchester, New York, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Westchester-New-York-United-States-of-America/EP-Mapping-Specialist--CAS---Westchester_R65973-1",
+    "job_posted_at_datetime_utc": "2026-05-05T07:01:44.883Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "87e09cb96ae6811beb8e8d5898be8ddc7af7a9e2216bd5d85ed9e91d229d06e0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:01:44.883Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65974",
+    "job_title": "EP Mapping Specialist, CAS - NYC",
+    "employer_name": "Medtronic",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "5 Locations",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Manhattan-New-York-United-States-of-America/EP-Mapping-Specialist--CAS---NYC_R65974",
+    "job_posted_at_datetime_utc": "2026-05-05T07:01:44.883Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fe2be209dad2f5a9866a3081074895eed4398872962880763e65a486257da7dc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:01:44.883Z"
+  },
+  {
+    "job_id": "workday-medtronic-R65972",
+    "job_title": "EP Mapping Specialist, CAS - Long Island",
+    "employer_name": "Medtronic",
+    "job_city": "Long Island",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Long Island, New York, United States of America",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Long-Island-New-York-United-States-of-America/EP-Mapping-Specialist--CAS---Long-Island_R65972-2",
+    "job_posted_at_datetime_utc": "2026-05-05T07:01:44.883Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "62efb3d7fc1783001f4979cba5e18e1528f23d8faf3b698f53429da2cfbb4b26",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:01:44.883Z"
+  },
+  {
     "job_id": "workday-medtronic-R65978",
     "job_title": "EP Mapping Specialist, CAS- Raleigh/Durham",
     "employer_name": "Medtronic",
@@ -36994,178 +37166,6 @@
       "has_description": true,
       "min_degree": "associates",
       "experience_level_from_desc": "senior",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T07:01:44.883Z"
-  },
-  {
-    "job_id": "workday-medtronic-R65905",
-    "job_title": "EP Mapping Specialist - CAS Nashville, TN",
-    "employer_name": "Medtronic",
-    "job_city": "Nashville",
-    "job_state": "TN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Nashville, Tennessee, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nashville-Tennessee-United-States-of-America/EP-Mapping-Specialist---CAS-Nashville--TN_R65905-1",
-    "job_posted_at_datetime_utc": "2026-05-05T07:01:44.883Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ecbd560b98a2e1a7f8516164312b8fdd7785c0f09e5fcaa3fd90ab6ca16c82ce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T07:01:44.883Z"
-  },
-  {
-    "job_id": "workday-medtronic-R65973",
-    "job_title": "EP Mapping Specialist, CAS - Westchester",
-    "employer_name": "Medtronic",
-    "job_city": "Westchester",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Westchester, New York, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Westchester-New-York-United-States-of-America/EP-Mapping-Specialist--CAS---Westchester_R65973-1",
-    "job_posted_at_datetime_utc": "2026-05-05T07:01:44.883Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "87e09cb96ae6811beb8e8d5898be8ddc7af7a9e2216bd5d85ed9e91d229d06e0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T07:01:44.883Z"
-  },
-  {
-    "job_id": "workday-medtronic-R65974",
-    "job_title": "EP Mapping Specialist, CAS - NYC",
-    "employer_name": "Medtronic",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "5 Locations",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Manhattan-New-York-United-States-of-America/EP-Mapping-Specialist--CAS---NYC_R65974",
-    "job_posted_at_datetime_utc": "2026-05-05T07:01:44.883Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe2be209dad2f5a9866a3081074895eed4398872962880763e65a486257da7dc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T07:01:44.883Z"
-  },
-  {
-    "job_id": "workday-medtronic-R65972",
-    "job_title": "EP Mapping Specialist, CAS - Long Island",
-    "employer_name": "Medtronic",
-    "job_city": "Long Island",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Long Island, New York, United States of America",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Long-Island-New-York-United-States-of-America/EP-Mapping-Specialist--CAS---Long-Island_R65972-2",
-    "job_posted_at_datetime_utc": "2026-05-05T07:01:44.883Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "62efb3d7fc1783001f4979cba5e18e1528f23d8faf3b698f53429da2cfbb4b26",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
       "question_count": null
     },
     "job_posted_at": "2026-05-05T07:01:44.883Z"
@@ -40794,7 +40794,7 @@
     "job_location": "Boydton, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556813763",
     "job_posted_at_datetime_utc": "2026-05-04T19:36:33.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f59e0212d07938df773e5e17ae4687412a2bc1dcc6511b69baaf28686349641f",
     "tags": {
@@ -40805,7 +40805,7 @@
       "locations": [
         "us"
       ],
-      "experience": "entry_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -42141,7 +42141,7 @@
     "job_location": "Chicago, Illinois, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556623149",
     "job_posted_at_datetime_utc": "2026-05-04T13:20:39.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "baf8dfe6ba09dfedbd16a8ccc23b1d88445b557a957bd9f76676d25ceee34911",
     "tags": {
@@ -42973,6 +42973,57 @@
     "job_posted_at": "2026-05-04T07:49:49.788Z"
   },
   {
+    "job_id": "workday-leidos-R-00182500",
+    "job_title": "Mechanical Engineer",
+    "employer_name": "Leidos",
+    "job_city": "6314 RemoteTeleworker US",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "6314 RemoteTeleworker US + 2 more",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Mechanical-Engineer_R-00182500",
+    "job_posted_at_datetime_utc": "2026-05-04T07:48:50.278Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "10f50c63ca925ece575b60e7b8cb5610b1b3cc671175e9742d5eae84291e6de5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "data analysis",
+        "excel",
+        "project management",
+        "risk management",
+        "zoom"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-04T07:48:50.278Z"
+  },
+  {
     "job_id": "workday-leidos-R-00179816",
     "job_title": "Manager of Transmission Line Engineering",
     "employer_name": "Leidos",
@@ -43057,57 +43108,6 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-04T07:48:50.278Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00182500",
-    "job_title": "Mechanical Engineer",
-    "employer_name": "Leidos",
-    "job_city": "6314 RemoteTeleworker US",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "6314 RemoteTeleworker US + 2 more",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Mechanical-Engineer_R-00182500",
-    "job_posted_at_datetime_utc": "2026-05-04T07:48:50.278Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "10f50c63ca925ece575b60e7b8cb5610b1b3cc671175e9742d5eae84291e6de5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "data analysis",
-        "excel",
-        "project management",
-        "risk management",
-        "zoom"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": true,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
       "question_count": null
     },
     "job_posted_at": "2026-05-04T07:48:50.278Z"
