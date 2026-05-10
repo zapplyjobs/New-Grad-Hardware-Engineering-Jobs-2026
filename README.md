@@ -68,12 +68,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **SpaceX** | Equipment Maintenance & Reliability Engineer (Starlink PCB) | Bastrop, TX | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8542284002?gh_jid=8542284002) |
-| 🏢 **SpaceX** | Operations Engineer, Spaceport Operations | Starbase, TX | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8513119002?gh_jid=8513119002) |
-| 🏢 **SpaceX** | Propulsion Engineer, Components Manufacturing (Raptor) | Hawthorne, CA | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002) |
-| 🏢 **Medtronic** | EP Mapping Specialist, CAS- Wilmington/ Myrtle Beach | 2 Locations | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Wilmington-North-Carolina-United-States-of-America/EP-Mapping-Specialist--CAS--Wilmington--Myrtle-Beach_R66046-1) |
-| 🏢 **NVIDIA** | Verification Engineer - Compilers C++ | CA Santa Clara + ... | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Verification-Engineer---Compilers-C--_JR2017805-1) |
-| 🏢 **Abbott** | R&D Product Development Engineer | United States > A... | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Atlanta--387-Technology-Circle-NW-Suite-500/R-D-Product-Development-Engineer_31149936-1) |
+| 🏢 **SpaceX** | Equipment Maintenance & Reliability Engineer (Starlink PCB) | Bastrop, TX | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8542284002?gh_jid=8542284002) |
+| 🏢 **SpaceX** | Operations Engineer, Spaceport Operations | Starbase, TX | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8513119002?gh_jid=8513119002) |
+| 🏢 **SpaceX** | Propulsion Engineer, Components Manufacturing (Raptor) | Hawthorne, CA | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002) |
+| 🏢 **Medtronic** | EP Mapping Specialist, CAS- Wilmington/ Myrtle Beach | 2 Locations | 17h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Wilmington-North-Carolina-United-States-of-America/EP-Mapping-Specialist--CAS--Wilmington--Myrtle-Beach_R66046-1) |
+| 🏢 **NVIDIA** | Verification Engineer - Compilers C++ | CA Santa Clara + ... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Verification-Engineer---Compilers-C--_JR2017805-1) |
+| 🏢 **Abbott** | R&D Product Development Engineer | United States > A... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Atlanta--387-Technology-Circle-NW-Suite-500/R-D-Product-Development-Engineer_31149936-1) |
 | 🏢 **Apple** | Hardware Reliability Engineer - Watch System Reliability | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662033/hardware-reliability-engineer-watch-system-reliability) |
 | 🏢 **Apple** | Software Engineering Systems Engineer | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662186/software-engineering-systems-engineer) |
 | 🏢 **Baker Hughes** | R&D Optical Engineer | Skaneateles, NY | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NY-SKANEATELES-721-VISIONS-DRIVE/R-D-Optical-Engineer_R161823-1) |
@@ -179,8 +179,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Verkada** | Associate Recruiter | San Mateo, CA Uni... | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5112051007) |
-| 🏢 **Broadcom** | Digital Design Engineer | TX Austin River P... | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Austin---River-Place-B7/High-Speed-Serdes-System-Design-Engineer_R024804) |
+| 🏢 **Verkada** | Associate Recruiter | San Mateo, CA Uni... | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5112051007) |
+| 🏢 **Broadcom** | Digital Design Engineer | TX Austin River P... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Austin---River-Place-B7/High-Speed-Serdes-System-Design-Engineer_R024804) |
 | 🏢 **Boeing** | Systems Integration, Verification & Validation Engineer (Associate or Experienced) | Oklahoma City, OK | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Systems-Integration--Verification---Validation-Engineer--Associate-or-Experienced-_JR2026508843-2) |
 | 🏢 **AMD** | Interconnect Firmware Engineer | Austin, TX, Unite... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/86125/login) |
 | 🏢 **Medtronic** | Associate Mapping Specialist CAS | 2 Locations | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Eugene-Oregon-United-States-of-America/Associate-Mapping-Specialist-CAS_R66181-1) |
@@ -261,7 +261,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Waymo** | Systems Test Engineer, Weather and Special Projects | Mountain View, CA... | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7822860) |
+| 🏢 **Waymo** | Systems Test Engineer, Weather and Special Projects | Mountain View, CA... | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7822860) |
 | 🏢 **Apple** | Reliability Test Engineer | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200648442/reliability-test-engineer) |
 | 🏢 **AMD** | MTS Analog Design Engineer | Folsom, CA, Unite... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/85487/login) |
 | 🏢 **Google** | Hardware Validation Engineer, Engineering Labs | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/79587519917630150) |
@@ -322,7 +322,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Cisco** | Supplier Quality Engineer | San Jose, Califor... | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Supplier-Quality-Engineer_2008320) |
+| 🏢 **Cisco** | Supplier Quality Engineer | San Jose, Califor... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Supplier-Quality-Engineer_2008320) |
 | 🏢 **RTX** | Quality Engineer/Quality Review Coordinator (QRC) 2nd Shift (Onsite) | Holt, MI | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MI-HOLT-PLANT-5--1781-Holloway-Dr--PLANT-5/Quality-Engineer-Quality-Review-Coordinator--QRC--2nd-Shift--Onsite-_01843799-1) |
 | 🏢 **Anduril** | Product Quality Engineer, Intelligence Systems | Ashville, Ohio, U... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5034688007?gh_jid=5034688007) |
 | 🏢 **FLIR Systems** | Quality Engineer | Torrance, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Torrance-CA/Quality-Engineer_REQ34404-1) |
@@ -366,7 +366,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Micron** | Design Validation Product Engineer, DEG Technology | Boise, ID - Main ... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Design-Validation-Product-Engineer--DEG-Technology_JR100261) |
 | 🏢 **Jabil** | Quality Engineer | Memphis, TN | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Quality-Engineer_J2439636) |
 | 🏢 **Philips** | Product Safety Quality Engineer | 3 Locations | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Product-Safety-Quality-Engineer_573072) |
-| 🏢 **Baker Hughes** | Supplier Quality Engineer - Casting & Machining | Mh, IN | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Sourcing-Specialist---Supplier-Quality-Engineering_R161223) |
+| 🏢 **Baker Hughes** | Supplier Quality Engineer - Casting & Machining | Mh, IN | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Sourcing-Specialist---Supplier-Quality-Engineering_R161223) |
 | 🏢 **Apple** | Health Systems Data Quality Engineer | Sunnyvale | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200648750/health-systems-data-quality-engineer) |
 | 🏢 **Pure Storage** | Product Quality Engineer | Houston, Texas | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7891159) |
 | 🏢 **Intuitive** | Quality Engineer 3 | Sunnyvale, CA | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000124449114) |
