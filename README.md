@@ -73,7 +73,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Google** | SAP Application Engineer, Supply Chain Logistics | United States | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/77148734407746246) |
 | 🏢 **Google** | Research Scientist, Robotics, DeepMind | United States | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/84953531798168262) |
 | 🏢 **Google** | Product Engineer, ARM Servers, Storage and ML Systems | United States | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/118574175014003398) |
-| 🏢 **SpaceX** | Equipment Maintenance & Reliability Engineer (Starlink PCB) | Bastrop, TX | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8542284002?gh_jid=8542284002) |
+| 🏢 **SpaceX** | Equipment Maintenance & Reliability Engineer (Starlink PCB) | Bastrop, TX | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8542284002?gh_jid=8542284002) |
 | 🏢 **SpaceX** | Propulsion Engineer, Components Manufacturing (Raptor) | Hawthorne, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002) |
 | 🏢 **SpaceX** | Operations Engineer, Spaceport Operations | Starbase, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8513119002?gh_jid=8513119002) |
 | 🏢 **Medtronic** | EP Mapping Specialist, CAS- Wilmington/ Myrtle Beach | 2 Locations | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Wilmington-North-Carolina-United-States-of-America/EP-Mapping-Specialist--CAS--Wilmington--Myrtle-Beach_R66046-1) |
@@ -167,7 +167,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Olsson** | Associate Electrical Engineer – Transmission and Distribution | Dallas, TX; Fort ... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5213529008) |
 | 🏢 **Western Digital** | EDA- CAD Engineer | San Jose, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000125205772) |
 | 🏢 **Graphcore** | Electrical Engineer | Austin, Texas, Un... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8539920002) |
-| 🏢 **Smiths Group** | Depot Service Engineer | Edgewood, MD | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000125196499) |
+| 🏢 **Smiths Group** | Depot Service Engineer | Edgewood, MD | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000125196499) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
