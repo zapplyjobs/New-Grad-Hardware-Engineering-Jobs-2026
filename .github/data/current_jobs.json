@@ -1,5 +1,305 @@
 [
   {
+    "job_id": "greenhouse-spacex-8383450002",
+    "job_title": "Process Controls Engineer, Solar Cell Factory (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8383450002?gh_jid=8383450002",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.992Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fa3f4e2a3e9020dace05d57045e8864e11e03319b2afbec8d9d7a0a90ad24633",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-10T21:17:13.992Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8383510002",
+    "job_title": "Mechanical Engineer, Solar Cell Factory (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8383510002?gh_jid=8383510002",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.991Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "34deaa2206f2af0c9d328ccb00bc40dd2f7721784bcc87bc5d6cdba2653eb54c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-10T21:17:13.991Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8524791002",
+    "job_title": "Facilities Engineer, Solar Cell Factory (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8524791002?gh_jid=8524791002",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.990Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22ea6eb7756cfb5c0fd2301f56d0c5bc81e36f69fa84be8542e1eb02c6ae05ab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-10T21:17:13.990Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8348825002",
+    "job_title": "Global Sourcing Manager, Custom Silicon and Semiconductor (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8348825002?gh_jid=8348825002",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.990Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fc384108bd26343b5d2a448a0ba7168bc5a4fcbed61dca58cf6f831eea8df57c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-10T21:17:13.990Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8418457002",
+    "job_title": "Instrumentation & Controls Engineer, Solar Cell Factory (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8418457002?gh_jid=8418457002",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.990Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86e77407a914a782a1d7e5f725b1ca27146b76c85a3f16e549ba979eaaac7d4b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-10T21:17:13.990Z"
+  },
+  {
+    "job_id": "greenhouse-scaleai-4518690005",
+    "job_title": "Field Engineer, Public Sector",
+    "employer_name": "Scale AI",
+    "job_city": "Baltimore",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Baltimore, MD; Colorado Springs, CO; Hampton Roads, VA; Tampa, FL; Tucson,AZ; San Francisco, CA; New York, NY; Honolulu, Hawaii, St. Louis, MO; Washington, DC",
+    "job_apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4518690005",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:12.019Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bb86d3f4328c8ece739b3b5ab2c071c3d1c058e5940433f9bf5007518817e2d2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-10T21:17:12.019Z"
+  },
+  {
+    "job_id": "greenhouse-redwoodmaterials-5804094004",
+    "job_title": "Systems Design Engineer, Factory Systems Modeling",
+    "employer_name": "Redwood Materials",
+    "job_city": "McCarran",
+    "job_state": "NV",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McCarran, NV",
+    "job_apply_link": "https://boards.greenhouse.io/redwoodmaterials/jobs/5804094004?gh_jid=5804094004",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:10.498Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c175522942f55add49004daff957d64a0e2a2913920988b8c8b075870ad1f84e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-10T21:17:10.498Z"
+  },
+  {
+    "job_id": "greenhouse-arcinstitute-5765058004",
+    "job_title": "Postdoctoral Researcher, Horns Lab",
+    "employer_name": "Arc Institute",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Palo Alto, CA",
+    "job_apply_link": "https://job-boards.greenhouse.io/arcinstitute/jobs/5765058004",
+    "job_posted_at_datetime_utc": "2026-05-10T21:16:50.384Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "582814574dccd4c3d3bd2e17cbb0d9d0b42eff5e2467bf343ee9a8ca86b1fc3d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-10T21:16:50.384Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5035761007",
+    "job_title": "Quality Inspector",
+    "employer_name": "Anduril",
+    "job_city": "Santa Ana",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Ana, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5035761007?gh_jid=5035761007",
+    "job_posted_at_datetime_utc": "2026-05-10T21:16:49.687Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cb51d5a567ac5a6f6b9f8d22cc37360cfb3d0faa575851434b88339b0a2eebb9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-10T21:16:49.687Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5123459007",
+    "job_title": "Quality Inspector (Second shift), Intelligence Systems",
+    "employer_name": "Anduril",
+    "job_city": "Santa Ana",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Ana, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5123459007?gh_jid=5123459007",
+    "job_posted_at_datetime_utc": "2026-05-10T21:16:49.687Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "94fe82e16116e21048ccfa090feebbd48cebb9eb3860b9c0624892f76da8e40d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-10T21:16:49.687Z"
+  },
+  {
     "job_id": "workday-zoom-R17217",
     "job_title": "Carrier Operations Engineer",
     "employer_name": "Zoom",
@@ -676,6 +976,54 @@
     "job_posted_at": "2026-05-09T15:00:59.472Z"
   },
   {
+    "job_id": "greenhouse-spacex-8512813002",
+    "job_title": "Propulsion Engineer, Components Manufacturing (Raptor)",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002",
+    "job_posted_at_datetime_utc": "2026-05-09T15:00:57.223Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "be663b25c4c40f1ad7936f7019e6ca0b2a4c539f68fd5bd1c7f8206d351813af",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "system design"
+      ],
+      "nice_to_have_skills": [
+        "project management"
+      ],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 22
+    },
+    "job_posted_at": "2026-05-09T15:00:57.223Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8513119002",
     "job_title": "Operations Engineer, Spaceport Operations",
     "employer_name": "SpaceX",
@@ -714,54 +1062,6 @@
         "tableau"
       ],
       "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": 22
-    },
-    "job_posted_at": "2026-05-09T15:00:57.223Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8512813002",
-    "job_title": "Propulsion Engineer, Components Manufacturing (Raptor)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002",
-    "job_posted_at_datetime_utc": "2026-05-09T15:00:57.223Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "be663b25c4c40f1ad7936f7019e6ca0b2a4c539f68fd5bd1c7f8206d351813af",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "system design"
-      ],
-      "nice_to_have_skills": [
-        "project management"
-      ],
       "sponsors_visa": false,
       "possible_sponsor": null,
       "visa_question_present": false,
@@ -2007,6 +2307,37 @@
       "question_count": 12
     },
     "job_posted_at": "2026-05-08T21:03:26.319Z"
+  },
+  {
+    "job_id": "sr-Intuitive-744000125409529",
+    "job_title": "Human Factors Design Engineer",
+    "employer_name": "Intuitive",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Sunnyvale, CA",
+    "job_apply_link": "https://jobs.smartrecruiters.com/Intuitive/744000125409529",
+    "job_posted_at_datetime_utc": "2026-05-08T20:48:51.830Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "c22755658027e7de256c93bb38814c98b4eb565dd500a08925c234065301b5fb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-05-08T20:48:51.830Z"
   },
   {
     "job_id": "amd-81017",
@@ -4733,6 +5064,38 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-08T16:37:00.000Z"
+  },
+  {
+    "job_id": "ashby-radiant-industries-3d7b9506-25a5-4e40-b63e-8a54acc6c961",
+    "job_title": "Reactor Operations Training Specialist",
+    "employer_name": "Radiant Industries",
+    "job_city": "El Segundo",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "El Segundo, CA",
+    "job_apply_link": "https://jobs.ashbyhq.com/radiant-industries/3d7b9506-25a5-4e40-b63e-8a54acc6c961/application",
+    "job_posted_at_datetime_utc": "2026-05-08T16:34:07.491Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "75a2161cedb8960f10a388a3248defcaf53f1e502f4e2a9f5346cc2a9e675a9b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "hr"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-05-08T16:34:07.491Z"
   },
   {
     "job_id": "greenhouse-purestorage-7901626",
@@ -10316,6 +10679,78 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "lever-shieldai-20635327-92b0-496f-8777-25b1f7e3b5ee",
+    "job_title": "Quality Engineering Inspector 3 (R4977)",
+    "employer_name": "Shield AI",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dallas, Texas",
+    "job_apply_link": "https://jobs.lever.co/shieldai/20635327-92b0-496f-8777-25b1f7e3b5ee/apply",
+    "job_posted_at_datetime_utc": "2026-05-07T23:50:26.921Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 37,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "bae82922d4a283fb722b7b87e98bfbf8d9094622c97115bfa6a62179d00004ed",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "manufacturing",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-07T23:50:26.921Z"
+  },
+  {
+    "job_id": "lever-shieldai-2483c413-dd31-41d6-841b-bf07a9b6d22f",
+    "job_title": "Quality Engineering Inspector 2 (R4976)",
+    "employer_name": "Shield AI",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dallas, Texas",
+    "job_apply_link": "https://jobs.lever.co/shieldai/2483c413-dd31-41d6-841b-bf07a9b6d22f/apply",
+    "job_posted_at_datetime_utc": "2026-05-07T23:45:04.235Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 22,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "d10268ea4c2c38abfa52da0483a9e402b4f40549295ff5e1674240d7668071b8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "manufacturing",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-07T23:45:04.235Z"
   },
   {
     "job_id": "greenhouse-spacex-8535055002",
@@ -21832,6 +22267,36 @@
     "job_posted_at": "2026-05-06T16:31:18.477Z"
   },
   {
+    "job_id": "greenhouse-lgelectronics-5211621008",
+    "job_title": "Validation Engineer I - CONTRACTOR",
+    "employer_name": "LG Electronics",
+    "job_city": "Aliso Viejo",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Aliso Viejo, CA ",
+    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5211621008",
+    "job_posted_at_datetime_utc": "2026-05-06T16:21:04.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fbbe7be7b0c7caa0e3fb1e8c4d44c2bacc5cda6c901bd3883b56bf369477f2b5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-06T16:21:04.000Z"
+  },
+  {
     "job_id": "greenhouse-lgelectronics-5211579008",
     "job_title": "Validation Engineer I",
     "employer_name": "LG Electronics",
@@ -32077,6 +32542,36 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-05T13:49:10.963Z"
+  },
+  {
+    "job_id": "greenhouse-lgelectronics-5210196008",
+    "job_title": "Validation Engineer - CONTRACTOR",
+    "employer_name": "LG Electronics",
+    "job_city": "Troy",
+    "job_state": "MI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Troy, MI",
+    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5210196008",
+    "job_posted_at_datetime_utc": "2026-05-05T13:47:34.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ecd4f1424ec8c604919d89b1c3d0cc46bf401a7f1fd4b3ce700d53590a1289fd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-05T13:47:34.000Z"
   },
   {
     "job_id": "workday-rtx-01842702",
