@@ -2052,52 +2052,6 @@
     "job_posted_at": "2026-05-08T21:03:26.319Z"
   },
   {
-    "job_id": "workday-applied-materials-R2618070",
-    "job_title": "Process Engineer",
-    "employer_name": "Applied Materials",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Phoenix,AZ",
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/PhoenixAZ/Process-Engineer_R2618070-1",
-    "job_posted_at_datetime_utc": "2026-05-08T21:02:28.951Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "996998e8e2e116734e5c7f3307209b61e8ef8d13e856e09bcd868a7cc8a7e125",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "go",
-        "root cause analysis"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T21:02:28.951Z"
-  },
-  {
     "job_id": "amd-81017",
     "job_title": "Virtual Software Modeling Engineer",
     "employer_name": "AMD",
@@ -2448,7 +2402,7 @@
     "job_location": "Charlotte, North Carolina, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556755330",
     "job_posted_at_datetime_utc": "2026-05-08T20:08:38.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e33ed941a3b8125ca2f76761de277dfe1eca1d09ea20ee406dd874d9144dacfc",
     "tags": {
@@ -3873,147 +3827,6 @@
     "job_posted_at": "2026-05-08T20:05:25.554Z"
   },
   {
-    "job_id": "workday-applied-materials-R2618649",
-    "job_title": "Process Integration & Yield Engineer",
-    "employer_name": "Applied Materials",
-    "job_city": "ChandlerAZ",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "ChandlerAZ + 1 more",
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Process-Integration---Yield-Engineer_R2618649",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:20.743Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7906f32e7d8846a9f2832ed9ac043c8443a74f1cad8abb8b74160d2c44ef516a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "jmp",
-        "python",
-        "regression",
-        "root cause analysis",
-        "spc",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:05:20.743Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2619388",
-    "job_title": "Process Engineer – High Purity Rare Earth Oxide Powder Purification & Manufacturing",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Santa Clara,CA",
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer---High-Purity-Rare-Earth-Oxide-Powder-Purification---Manufacturing_R2619388",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:20.743Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f2cb43b7830738a60590263282cdb265d4b62a086741571e8e57c2ef5f90b8ee",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "go",
-        "spc",
-        "statistical process control",
-        "windows"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:05:20.743Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2615309",
-    "job_title": "Operations and Customer Quality Engineer",
-    "employer_name": "Applied Materials",
-    "job_city": "Gloucester",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Gloucester,MA",
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/Operations-and-Customer-Quality-Engineer_R2615309",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:20.743Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "09ca6f9385f8cb3b622bef690b09410c6d95dbe2d97f2725227786211455d011",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:05:20.743Z"
-  },
-  {
     "job_id": "workday-analog-devices-R258575",
     "job_title": "Engineer, Semi Packaging Engineering",
     "employer_name": "Analog Devices",
@@ -4133,7 +3946,7 @@
     "job_location": "Charlotte, North Carolina, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556755329",
     "job_posted_at_datetime_utc": "2026-05-08T19:54:14.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "00036d233ef12738513efde1fed9d9220a8791f9d20f9d93d8f5f98ae413902e",
     "tags": {
@@ -8339,7 +8152,7 @@
     "job_location": "Fayetteville, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556856338",
     "job_posted_at_datetime_utc": "2026-05-08T12:38:59.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d4dc6630d27857619fb69c8104ec51c84845891340054b3c3a141f984b7b4102",
     "tags": {
@@ -8376,6 +8189,193 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-08T12:38:59.000Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2618070",
+    "job_title": "Process Engineer",
+    "employer_name": "Applied Materials",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Phoenix,AZ",
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/PhoenixAZ/Process-Engineer_R2618070-1",
+    "job_posted_at_datetime_utc": "2026-05-08T08:46:30.247Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "996998e8e2e116734e5c7f3307209b61e8ef8d13e856e09bcd868a7cc8a7e125",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "go",
+        "root cause analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T08:46:30.247Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2618649",
+    "job_title": "Process Integration & Yield Engineer",
+    "employer_name": "Applied Materials",
+    "job_city": "ChandlerAZ",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "ChandlerAZ + 1 more",
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Process-Integration---Yield-Engineer_R2618649",
+    "job_posted_at_datetime_utc": "2026-05-08T08:46:30.247Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7906f32e7d8846a9f2832ed9ac043c8443a74f1cad8abb8b74160d2c44ef516a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "jmp",
+        "python",
+        "regression",
+        "root cause analysis",
+        "spc",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T08:46:30.247Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2619388",
+    "job_title": "Process Engineer – High Purity Rare Earth Oxide Powder Purification & Manufacturing",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Clara,CA",
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer---High-Purity-Rare-Earth-Oxide-Powder-Purification---Manufacturing_R2619388",
+    "job_posted_at_datetime_utc": "2026-05-08T08:46:30.247Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f2cb43b7830738a60590263282cdb265d4b62a086741571e8e57c2ef5f90b8ee",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "go",
+        "spc",
+        "statistical process control",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T08:46:30.247Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2615309",
+    "job_title": "Operations and Customer Quality Engineer",
+    "employer_name": "Applied Materials",
+    "job_city": "Gloucester",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Gloucester,MA",
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/Operations-and-Customer-Quality-Engineer_R2615309",
+    "job_posted_at_datetime_utc": "2026-05-08T08:46:30.247Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "09ca6f9385f8cb3b622bef690b09410c6d95dbe2d97f2725227786211455d011",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T08:46:30.247Z"
   },
   {
     "job_id": "workday-leidos-R-00182741",
@@ -11677,7 +11677,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863833",
     "job_posted_at_datetime_utc": "2026-05-07T19:33:41.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "94d39ede1d4c28ea25b075671e4ea91361ffd00181280b9f5d3213caec5716eb",
     "tags": {
@@ -11775,7 +11775,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863830",
     "job_posted_at_datetime_utc": "2026-05-07T19:04:18.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -22511,49 +22511,6 @@
     "job_posted_at": "2026-05-06T11:47:15.586Z"
   },
   {
-    "job_id": "simplify-268d86ce-2c85-4367-be0d-ade61073f4c9",
-    "job_title": "Entry Level Optical Engineer",
-    "employer_name": "Amentum",
-    "job_city": "Bedford",
-    "job_state": "IN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bedford, IN",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Odon/Entry-Level-Optical-Engineer_R0160011",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c20275184728af070503aa6e4bfa7532bfe0ce5f11a9996afccf1a3f84f9c756",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.571Z"
-  },
-  {
     "job_id": "simplify-87ec1fd4-2c88-4310-a038-06095c2fa7e6",
     "job_title": "Engineering Technician A",
     "employer_name": "L3Harris Technologies",
@@ -22636,6 +22593,49 @@
       "is_remote": false,
       "has_description": false,
       "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
+    "job_id": "simplify-268d86ce-2c85-4367-be0d-ade61073f4c9",
+    "job_title": "Entry Level Optical Engineer",
+    "employer_name": "Amentum",
+    "job_city": "Bedford",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bedford, IN",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Odon/Entry-Level-Optical-Engineer_R0160011",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c20275184728af070503aa6e4bfa7532bfe0ce5f11a9996afccf1a3f84f9c756",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
       "experience_level_from_desc": null,
       "question_count": null
     },
@@ -32606,7 +32606,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863752",
     "job_posted_at_datetime_utc": "2026-05-05T12:57:48.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "172ba110541125d4b63bc2096452e5f26da937aab5d8376213770ac7a45d77e3",
     "tags": {
