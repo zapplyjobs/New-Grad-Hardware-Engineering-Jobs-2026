@@ -1,5 +1,36 @@
 [
   {
+    "job_id": "sr-Intuitive-744000125632085",
+    "job_title": "Mechanical Design Engineer - Mechatronics",
+    "employer_name": "Intuitive",
+    "job_city": "Blacksburg",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Blacksburg, VA",
+    "job_apply_link": "https://jobs.smartrecruiters.com/Intuitive/744000125632085",
+    "job_posted_at_datetime_utc": "2026-05-11T01:31:11.636Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "07eda28e04b76cd683c035bd9a535d5d3903f6526fe00d3b76abb830c2f099f3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-05-11T01:31:11.636Z"
+  },
+  {
     "job_id": "ashby-vanta-b9e2eb5b-5944-4843-9a61-b832013cc795",
     "job_title": "Salesforce Quality Engineer",
     "employer_name": "Vanta",
@@ -615,60 +646,6 @@
     "job_posted_at": "2026-05-11T01:19:43.332Z"
   },
   {
-    "job_id": "greenhouse-waymo-7484598",
-    "job_title": "Electrical Design Validation Engineer",
-    "employer_name": "Waymo",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Mountain View, CA, USA",
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7484598",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:43.331Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "705c97da27e0c953a7ddca12c26735852dfc5ee178d15ba29cf9fd62a6e56bc3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "bash",
-        "bert",
-        "firmware",
-        "i2c",
-        "linux",
-        "matlab",
-        "project management",
-        "python",
-        "scalability",
-        "spi"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 16
-    },
-    "job_posted_at": "2026-05-11T01:19:43.331Z"
-  },
-  {
     "job_id": "greenhouse-waymo-7808260",
     "job_title": "Hardware Engineer, LIDAR Performance Validation",
     "employer_name": "Waymo",
@@ -764,6 +741,60 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
+      "question_count": 16
+    },
+    "job_posted_at": "2026-05-11T01:19:43.331Z"
+  },
+  {
+    "job_id": "greenhouse-waymo-7484598",
+    "job_title": "Electrical Design Validation Engineer",
+    "employer_name": "Waymo",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Mountain View, CA, USA",
+    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7484598",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:43.331Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "705c97da27e0c953a7ddca12c26735852dfc5ee178d15ba29cf9fd62a6e56bc3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "bash",
+        "bert",
+        "firmware",
+        "i2c",
+        "linux",
+        "matlab",
+        "project management",
+        "python",
+        "scalability",
+        "spi"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
       "question_count": 16
     },
     "job_posted_at": "2026-05-11T01:19:43.331Z"
@@ -961,6 +992,52 @@
     "job_posted_at": "2026-05-11T01:19:42.373Z"
   },
   {
+    "job_id": "greenhouse-tenstorrent-5091260007",
+    "job_title": "Signal Integrity Engineer",
+    "employer_name": "Tenstorrent",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
+    "job_apply_link": "https://job-boards.greenhouse.io/tenstorrent/jobs/5091260007",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:41.398Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2760b197b7d6726573d3753028a465a44370de4b9f83a68a32b6ce52d5ca9dc4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "allegro",
+        "cadence"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 9
+    },
+    "job_posted_at": "2026-05-11T01:19:41.398Z"
+  },
+  {
     "job_id": "greenhouse-tenstorrent-4834388007",
     "job_title": "Formal Verification Engineer",
     "employer_name": "Tenstorrent",
@@ -1099,52 +1176,6 @@
     "job_posted_at": "2026-05-11T01:19:41.398Z"
   },
   {
-    "job_id": "greenhouse-tenstorrent-5091260007",
-    "job_title": "Signal Integrity Engineer",
-    "employer_name": "Tenstorrent",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
-    "job_apply_link": "https://job-boards.greenhouse.io/tenstorrent/jobs/5091260007",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:41.398Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2760b197b7d6726573d3753028a465a44370de4b9f83a68a32b6ce52d5ca9dc4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "allegro",
-        "cadence"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 9
-    },
-    "job_posted_at": "2026-05-11T01:19:41.398Z"
-  },
-  {
     "job_id": "greenhouse-tenstorrent-5098932007",
     "job_title": "AI/ML Physical Design Flow Engineer",
     "employer_name": "Tenstorrent",
@@ -1193,6 +1224,102 @@
       "question_count": 9
     },
     "job_posted_at": "2026-05-11T01:19:41.397Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8335230002",
+    "job_title": "Thermal Hardware Specialist, Casting & Leaching (Starship)",
+    "employer_name": "SpaceX",
+    "job_city": "Cape Canaveral",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cape Canaveral, FL",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8335230002?gh_jid=8335230002",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:40.809Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8b37919eb673fb25f3c108999e97058da71aa6a3d16d985e35a3f04d0283c58c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "microsoft office",
+        "root cause analysis",
+        "sql",
+        "statistical process control"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "none",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 17
+    },
+    "job_posted_at": "2026-05-11T01:19:40.809Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8474671002",
+    "job_title": "Welder (Starship Launch Hardware) - Level 4/5",
+    "employer_name": "SpaceX",
+    "job_city": "Cape Canaveral",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cape Canaveral, FL",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8474671002?gh_jid=8474671002",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:40.809Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f7578c58ce67ee3a2f3265d9078bec79e263b1cb581b49678a7c490fff94f3c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "flux"
+      ],
+      "nice_to_have_skills": [
+        "aws"
+      ],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "none",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
+    "job_posted_at": "2026-05-11T01:19:40.809Z"
   },
   {
     "job_id": "greenhouse-spacex-8377059002",
@@ -1323,102 +1450,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "flux"
-      ],
-      "nice_to_have_skills": [
-        "aws"
-      ],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "none",
-      "experience_level_from_desc": "mid_level",
-      "question_count": 22
-    },
-    "job_posted_at": "2026-05-11T01:19:40.809Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8335230002",
-    "job_title": "Thermal Hardware Specialist, Casting & Leaching (Starship)",
-    "employer_name": "SpaceX",
-    "job_city": "Cape Canaveral",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cape Canaveral, FL",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8335230002?gh_jid=8335230002",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:40.809Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8b37919eb673fb25f3c108999e97058da71aa6a3d16d985e35a3f04d0283c58c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "microsoft office",
-        "root cause analysis",
-        "sql",
-        "statistical process control"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "none",
-      "experience_level_from_desc": "mid_level",
-      "question_count": 17
-    },
-    "job_posted_at": "2026-05-11T01:19:40.809Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8474671002",
-    "job_title": "Welder (Starship Launch Hardware) - Level 4/5",
-    "employer_name": "SpaceX",
-    "job_city": "Cape Canaveral",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cape Canaveral, FL",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8474671002?gh_jid=8474671002",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:40.809Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f7578c58ce67ee3a2f3265d9078bec79e263b1cb581b49678a7c490fff94f3c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -2800,97 +2831,6 @@
     "job_posted_at": "2026-05-11T01:19:34.362Z"
   },
   {
-    "job_id": "greenhouse-olsson-5062100008",
-    "job_title": "BMS Design Engineer - Data Center (Remote)",
-    "employer_name": "Olsson",
-    "job_city": "Arizona - Remote; Arkansas - Remote; Colorado - Remote; Florida - Remote; Georgia - Remote; Idaho - Remote; Illinois - Remote; Indiana - Remote; Iowa - Remote; Kansas - Remote; Kentucky - Remote; Louisiana - Remote; Michigan - Remote; Minnesota - Remote; Mississippi - Remote; Missouri - Remote; Montana - Remote; Nebraska - Remote; Nevada - Remote; New Mexico - Remote; North Carolina - Remote; North Dakota - Remote; Ohio - Remote; Oklahoma - Remote; Oregon - Remote; Pennsylvania - Remote; South Carolina - Remote; South Dakota - Remote; Tennessee - Remote; Texas - Remote; Utah - Remote; Virginia - Remote; Washington - Remote; West Virginia - Remote; Wisconsin - Remote; Wyoming - Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Arizona - Remote; Arkansas - Remote; Colorado - Remote; Florida - Remote; Georgia - Remote; Idaho - Remote; Illinois - Remote; Indiana - Remote; Iowa - Remote; Kansas - Remote; Kentucky - Remote; Louisiana - Remote; Michigan - Remote; Minnesota - Remote; Mississippi - Remote; Missouri - Remote; Montana - Remote; Nebraska - Remote; Nevada - Remote; New Mexico - Remote; North Carolina - Remote; North Dakota - Remote; Ohio - Remote; Oklahoma - Remote; Oregon - Remote; Pennsylvania - Remote; South Carolina - Remote; South Dakota - Remote; Tennessee - Remote; Texas - Remote; Utah - Remote; Virginia - Remote; Washington - Remote; West Virginia - Remote; Wisconsin - Remote; Wyoming - Remote",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5062100008",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:34.361Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f9155882098d8a78ebe8d3d3d66cbca8d6b17c3aa04f8a774931f5dca9d2a39",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:34.361Z"
-  },
-  {
-    "job_id": "greenhouse-olsson-5151996008",
-    "job_title": "Commissioning Technical Manager – Substation & Power Generation",
-    "employer_name": "Olsson",
-    "job_city": "North Kansas City",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "North Kansas City, MO",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5151996008",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:34.361Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cc82a002b2b64ea6aac1204f6a341365a5fc9315736350a272c369011a47a77a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:34.361Z"
-  },
-  {
-    "job_id": "greenhouse-olsson-4720826008",
-    "job_title": "Electrical Engineer - Industrial Market",
-    "employer_name": "Olsson",
-    "job_city": "Kansas - Remote; Lincoln",
-    "job_state": "NE",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Kansas - Remote; Lincoln, NE; Nebraska - Remote; Omaha, NE; Overland Park, KS; Texas - Remote; Wyoming - Remote",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/4720826008",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:34.361Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4fdd5de010e1a554ea118e7b8fa2fe884a5978fb2688fac8256d1dc87ccfd882",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:34.361Z"
-  },
-  {
     "job_id": "greenhouse-olsson-4631573008",
     "job_title": "Instrumentation and Controls Design Engineer - Industrial",
     "employer_name": "Olsson",
@@ -3035,6 +2975,97 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T01:19:34.361Z"
+  },
+  {
+    "job_id": "greenhouse-olsson-5062100008",
+    "job_title": "BMS Design Engineer - Data Center (Remote)",
+    "employer_name": "Olsson",
+    "job_city": "Arizona - Remote; Arkansas - Remote; Colorado - Remote; Florida - Remote; Georgia - Remote; Idaho - Remote; Illinois - Remote; Indiana - Remote; Iowa - Remote; Kansas - Remote; Kentucky - Remote; Louisiana - Remote; Michigan - Remote; Minnesota - Remote; Mississippi - Remote; Missouri - Remote; Montana - Remote; Nebraska - Remote; Nevada - Remote; New Mexico - Remote; North Carolina - Remote; North Dakota - Remote; Ohio - Remote; Oklahoma - Remote; Oregon - Remote; Pennsylvania - Remote; South Carolina - Remote; South Dakota - Remote; Tennessee - Remote; Texas - Remote; Utah - Remote; Virginia - Remote; Washington - Remote; West Virginia - Remote; Wisconsin - Remote; Wyoming - Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Arizona - Remote; Arkansas - Remote; Colorado - Remote; Florida - Remote; Georgia - Remote; Idaho - Remote; Illinois - Remote; Indiana - Remote; Iowa - Remote; Kansas - Remote; Kentucky - Remote; Louisiana - Remote; Michigan - Remote; Minnesota - Remote; Mississippi - Remote; Missouri - Remote; Montana - Remote; Nebraska - Remote; Nevada - Remote; New Mexico - Remote; North Carolina - Remote; North Dakota - Remote; Ohio - Remote; Oklahoma - Remote; Oregon - Remote; Pennsylvania - Remote; South Carolina - Remote; South Dakota - Remote; Tennessee - Remote; Texas - Remote; Utah - Remote; Virginia - Remote; Washington - Remote; West Virginia - Remote; Wisconsin - Remote; Wyoming - Remote",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5062100008",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:34.361Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f9155882098d8a78ebe8d3d3d66cbca8d6b17c3aa04f8a774931f5dca9d2a39",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T01:19:34.361Z"
+  },
+  {
+    "job_id": "greenhouse-olsson-5151996008",
+    "job_title": "Commissioning Technical Manager – Substation & Power Generation",
+    "employer_name": "Olsson",
+    "job_city": "North Kansas City",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "North Kansas City, MO",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5151996008",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:34.361Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cc82a002b2b64ea6aac1204f6a341365a5fc9315736350a272c369011a47a77a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T01:19:34.361Z"
+  },
+  {
+    "job_id": "greenhouse-olsson-4720826008",
+    "job_title": "Electrical Engineer - Industrial Market",
+    "employer_name": "Olsson",
+    "job_city": "Kansas - Remote; Lincoln",
+    "job_state": "NE",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Kansas - Remote; Lincoln, NE; Nebraska - Remote; Omaha, NE; Overland Park, KS; Texas - Remote; Wyoming - Remote",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/4720826008",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:34.361Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4fdd5de010e1a554ea118e7b8fa2fe884a5978fb2688fac8256d1dc87ccfd882",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -4051,37 +4082,6 @@
     "job_posted_at": "2026-05-11T01:19:23.279Z"
   },
   {
-    "job_id": "ashby-crusoe-73f476c9-1613-452f-83a3-e79002bcaa11",
-    "job_title": "Manager, Electrical Engineering",
-    "employer_name": "Crusoe",
-    "job_city": "Tulsa",
-    "job_state": "OK",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tulsa, OK - US (1)",
-    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/73f476c9-1613-452f-83a3-e79002bcaa11/application",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:22.373Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "2b41f19da9b96cdae19ded155ee5e69f266e179137404b8aff19564e7c9d520e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-05-11T01:19:22.373Z"
-  },
-  {
     "job_id": "ashby-crusoe-95347434-cb96-426e-b1d7-b15bb327c4fd",
     "job_title": "Electrical Field Engineer - Data Center",
     "employer_name": "Crusoe",
@@ -4103,6 +4103,37 @@
       "locations": [
         "us",
         "remote"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-05-11T01:19:22.373Z"
+  },
+  {
+    "job_id": "ashby-crusoe-73f476c9-1613-452f-83a3-e79002bcaa11",
+    "job_title": "Manager, Electrical Engineering",
+    "employer_name": "Crusoe",
+    "job_city": "Tulsa",
+    "job_state": "OK",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Tulsa, OK - US (1)",
+    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/73f476c9-1613-452f-83a3-e79002bcaa11/application",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:22.373Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "2b41f19da9b96cdae19ded155ee5e69f266e179137404b8aff19564e7c9d520e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
       ],
       "experience": "senior_level",
       "special": [],
@@ -4996,66 +5027,6 @@
     "job_posted_at": "2026-05-11T01:19:14.237Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4710007007",
-    "job_title": "Structures Engineer, Air Vehicles",
-    "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Costa Mesa, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4710007007?gh_jid=4710007007",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.236Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "19d36fb90a32aaf36e29f0bacaeffd7230986e8557bb1110a651c06129853cc6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:14.236Z"
-  },
-  {
-    "job_id": "greenhouse-andurilindustries-5055631007",
-    "job_title": "Structures Engineer, Hypersonic Air Vehicles",
-    "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Costa Mesa, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5055631007?gh_jid=5055631007",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.236Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "afde168acff3b9e92fdcb02e33fe7e13faeb99f3404cf6d4cb901228291b795f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:14.236Z"
-  },
-  {
     "job_id": "greenhouse-andurilindustries-5041084007",
     "job_title": "Sustainment Engineer",
     "employer_name": "Anduril",
@@ -5104,6 +5075,66 @@
       "domains": [
         "hardware",
         "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T01:19:14.236Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-4710007007",
+    "job_title": "Structures Engineer, Air Vehicles",
+    "employer_name": "Anduril",
+    "job_city": "Costa Mesa",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Costa Mesa, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4710007007?gh_jid=4710007007",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.236Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "19d36fb90a32aaf36e29f0bacaeffd7230986e8557bb1110a651c06129853cc6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T01:19:14.236Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5055631007",
+    "job_title": "Structures Engineer, Hypersonic Air Vehicles",
+    "employer_name": "Anduril",
+    "job_city": "Costa Mesa",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Costa Mesa, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5055631007?gh_jid=5055631007",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.236Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "afde168acff3b9e92fdcb02e33fe7e13faeb99f3404cf6d4cb901228291b795f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
       ],
       "locations": [
         "us"
@@ -7009,37 +7040,6 @@
     "job_posted_at": "2026-05-11T01:19:13.623Z"
   },
   {
-    "job_id": "ashby-Vultr-a681d3cb-9b05-4dc1-8d54-5b2d5bd48ac8",
-    "job_title": "Storage Operations Engineer - Multiple Openings",
-    "employer_name": "Vultr",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote - United States",
-    "job_apply_link": "https://jobs.ashbyhq.com/Vultr/a681d3cb-9b05-4dc1-8d54-5b2d5bd48ac8/application",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:13.048Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "873bbf1b48252a327b6c38414025c8886559fb9ec014cbac1088ba43b5c805db",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-05-11T01:19:13.048Z"
-  },
-  {
     "job_id": "ashby-Vultr-e1e2aaef-109a-4a13-9d7a-e956b60044c1",
     "job_title": "Storage Performance Engineer",
     "employer_name": "Vultr",
@@ -7063,6 +7063,37 @@
         "remote"
       ],
       "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-05-11T01:19:13.048Z"
+  },
+  {
+    "job_id": "ashby-Vultr-a681d3cb-9b05-4dc1-8d54-5b2d5bd48ac8",
+    "job_title": "Storage Operations Engineer - Multiple Openings",
+    "employer_name": "Vultr",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote - United States",
+    "job_apply_link": "https://jobs.ashbyhq.com/Vultr/a681d3cb-9b05-4dc1-8d54-5b2d5bd48ac8/application",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:13.048Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "873bbf1b48252a327b6c38414025c8886559fb9ec014cbac1088ba43b5c805db",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -7436,19 +7467,19 @@
     "job_posted_at": "2026-05-11T00:48:34.599Z"
   },
   {
-    "job_id": "greenhouse-olsson-5188591008",
-    "job_title": "Electrical Field Engineer",
+    "job_id": "greenhouse-olsson-5188580008",
+    "job_title": "Mechanical Field Engineer",
     "employer_name": "Olsson",
     "job_city": "Kansas City",
     "job_state": "MO",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Kansas City, MO; North Kansas City, MO",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5188591008",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5188580008",
     "job_posted_at_datetime_utc": "2026-05-11T00:48:30.045Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e7f83782aa645af3bd516954e8031519ca63eda2beba9d6e82d7f34bd26db34c",
+    "fingerprint": "6c423ae633210a38b6f86a6e78766f2990674bfd380c4b4e194835009f9c5dbf",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7479,19 +7510,19 @@
     "job_posted_at": "2026-05-11T00:48:30.045Z"
   },
   {
-    "job_id": "greenhouse-olsson-5188580008",
-    "job_title": "Mechanical Field Engineer",
+    "job_id": "greenhouse-olsson-5188591008",
+    "job_title": "Electrical Field Engineer",
     "employer_name": "Olsson",
     "job_city": "Kansas City",
     "job_state": "MO",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Kansas City, MO; North Kansas City, MO",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5188580008",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5188591008",
     "job_posted_at_datetime_utc": "2026-05-11T00:48:30.045Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "6c423ae633210a38b6f86a6e78766f2990674bfd380c4b4e194835009f9c5dbf",
+    "fingerprint": "e7f83782aa645af3bd516954e8031519ca63eda2beba9d6e82d7f34bd26db34c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -10962,7 +10993,7 @@
     "job_location": "Charlotte, North Carolina, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556755330",
     "job_posted_at_datetime_utc": "2026-05-08T20:08:38.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e33ed941a3b8125ca2f76761de277dfe1eca1d09ea20ee406dd874d9144dacfc",
     "tags": {
@@ -11728,7 +11759,7 @@
     "job_location": "Charlotte, North Carolina, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556755329",
     "job_posted_at_datetime_utc": "2026-05-08T19:54:14.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "00036d233ef12738513efde1fed9d9220a8791f9d20f9d93d8f5f98ae413902e",
     "tags": {
@@ -20442,7 +20473,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863833",
     "job_posted_at_datetime_utc": "2026-05-07T19:33:41.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "94d39ede1d4c28ea25b075671e4ea91361ffd00181280b9f5d3213caec5716eb",
     "tags": {
@@ -20540,7 +20571,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863830",
     "job_posted_at_datetime_utc": "2026-05-07T19:04:18.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -20590,7 +20621,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863829",
     "job_posted_at_datetime_utc": "2026-05-07T19:02:24.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -41182,7 +41213,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863752",
     "job_posted_at_datetime_utc": "2026-05-05T12:57:48.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "172ba110541125d4b63bc2096452e5f26da937aab5d8376213770ac7a45d77e3",
     "tags": {
@@ -49169,7 +49200,7 @@
     "job_location": "Boydton, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556813763",
     "job_posted_at_datetime_utc": "2026-05-04T19:36:33.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f59e0212d07938df773e5e17ae4687412a2bc1dcc6511b69baaf28686349641f",
     "tags": {
@@ -50516,7 +50547,7 @@
     "job_location": "Chicago, Illinois, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556623149",
     "job_posted_at_datetime_utc": "2026-05-04T13:20:39.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "baf8dfe6ba09dfedbd16a8ccc23b1d88445b557a957bd9f76676d25ceee34911",
     "tags": {
