@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1896-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1897-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-190-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -68,23 +68,24 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Olsson** | Licensed Civil Engineer - Data Center | Colorado Springs | 5h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5156952008) |
+| 🏢 **Oklo** | Materials Engineer | Santa Clara, CA o... | 12m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/5972118004) |
 | 🏢 **Olsson** | Geotechnical Engineer - Rail | Colorado Springs,... | 5h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5126221008) |
+| 🏢 **Olsson** | Licensed Civil Engineer - Data Center | Colorado Springs | 5h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5156952008) |
 | 🏢 **Olsson** | Project Civil Engineer - Data Center | Colorado Springs | 5h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5183054008) |
 | 🏢 **Voyant Photonics** | Photonic Layout Engineer | New York | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/db8c5a4e-7047-4f41-8c11-f763cd65a431/application) |
 | 🏢 **Warp** | Design Engineer | New York | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/warp/34541a68-50a9-44c2-9651-eb3ca4a39be4/application) |
 | 🏢 **Rilla** | Brand/Graphic Designer | New York City | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/rilla/29fbbb85-ed6c-4458-b076-8d20ae8210a4/application) |
+| 🏢 **Radiant Industries** | Loads & Dynamics Engineer | El Segundo, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/33d01323-5293-40d7-9d5c-03ae2faa143d/application) |
 | 🏢 **Radiant Industries** | Nuclear Engineer, Core Physics | El Segundo, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/075847f3-3d0a-4a52-97cb-f3cf5d818b4e/application) |
 | 🏢 **Radiant Industries** | Electrical Technician | El Segundo, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/ba299065-a32a-4bec-b085-be8203a78bdf/application) |
-| 🏢 **Radiant Industries** | Loads & Dynamics Engineer | El Segundo, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/radiant-industries/33d01323-5293-40d7-9d5c-03ae2faa143d/application) |
 | 🏢 **Ramp** | Design Engineer | New York, NY ( | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/ramp/3d81a24f-cca4-4b2b-9478-cf422adc8237/application) |
 | 🏢 **Pulse** | Design Engineer | San Francisco | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/pulse/ecc58086-0b32-4686-86ab-c8e30d619bed/application) |
 | 🏢 **Northwood Space** | RF Hardware Engineer (Early Career) | Torrance, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/5d76a025-bb64-4ddd-8b97-8649c41d89ed/application) |
 | 🏢 **Northwood Space** | Electrical Engineer (Early Career) | Torrance, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/af609880-1e6c-4f89-8594-3c593f6eba0f/application) |
 | 🏢 **Northwood Space** | DSP Engineer (Early Career) | Torrance, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/965d06ea-9701-4b28-a87c-e44897136691/application) |
+| 🏢 **OpenAI** | Hardware Tools Engineer | San Francisco | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/467cbfac-3e7d-4cc6-a131-2b26617afa02/application) |
+| 🏢 **OpenAI** | Hardware / Software CoDesign Engineer  - 3P | San Francisco | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/bdbb2292-ecb3-42dc-ba89-65edf397d8f8/application) |
 | 🏢 **OpenAI** | Optical Network Engineer | San Francisco | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/1c92378f-c553-4711-8d06-00c9f834c699/application) |
-| 🏢 **OpenAI** | ML Research Engineer - Hardware Codesign | San Francisco | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/5931abef-191b-417e-89f1-1d06f00e908c/application) |
-| 🏢 **OpenAI** | RTL & Co-design Engineer (junior) | San Francisco | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/77b815de-b7c5-4b87-8582-e8c752aea849/application) |
 | 🏢 **Notion** | AI Applications Engineer | San Francisco, Ca... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/notion/bc9a9573-e963-48a7-b7b9-a32017f28916/application) |
 | 🏢 **Metalenz** | Metasurface Design Engineer | Boston, MA (Hybrid) | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/metalenz/6acea5e7-783e-4a3c-b7dd-8963d8bc4a1e/application) |
 | 🏢 **Lambda** | Data Center Operations Systems Engineer (Kansas City, MO) | Kansas City, MO -... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/lambda/e971621e-2a3d-4359-b349-9493007d517c/application) |
@@ -103,26 +104,26 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Xometry** | Supplier Development Engineer | Gaithersburg, MD | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5015568007) |
 | 🏢 **xAI** | Site Reliability Engineer - Cybersecurity | Palo Alto, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4803447007) |
 | 🏢 **xAI** | Electrical Engineer (EIT) | Memphis, TN | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4753835007) |
-| 🏢 **Verkada** | Fulfillment Specialist (Remote) | Denver, CO United... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5097450007) |
 | 🏢 **Verkada** | Site Reliability Engineer - Infrastructure | San Mateo, CA Uni... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4129338007) |
+| 🏢 **Verkada** | Fulfillment Specialist (Remote) | Denver, CO United... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5097450007) |
 | 🏢 **Verkada** | Fulfillment Specialist (Remote) | Texas, United States | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5095211007) |
-| 🏢 **True Anomaly** | Propulsion and Fluids Production Engineer | Long Beach, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5104217007) |
-| 🏢 **True Anomaly** | Spacecraft Mechanical Production Engineer | Long Beach, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5104245007) |
 | 🏢 **True Anomaly** | Autonomy Engineer | Denver, CO or Lon... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091417007) |
+| 🏢 **True Anomaly** | Avionics Production Engineer | Long Beach, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5104248007) |
+| 🏢 **True Anomaly** | Electrical Engineer (Early Career), Harness | Denver, CO or Lon... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5002226007) |
 | 🏢 **Torc Robotics** | Hardware Engineer I - Sensors | Ann Arbor, MI | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8469836002) |
 | 🏢 **Tenstorrent** | Infrastructure and Platform Development Engineer | Austin, Texas, Un... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5084998007) |
+| 🏢 **SpaceX** | Yield Engineer, RF Final Test Integration (Starlink/Akoustis) | Bastrop, TX | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8375300002?gh_jid=8375300002) |
+| 🏢 **SpaceX** | Yield Engineer (Starlink/Akoustis) | Canandaigua, NY | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8302408002?gh_jid=8302408002) |
 | 🏢 **SpaceX** | TIG Welder, Heatshield (Starship) | Starbase, TX | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8500921002?gh_jid=8500921002) |
-| 🏢 **SpaceX** | Tool & Die Specialist | Hawthorne, CA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8423470002?gh_jid=8423470002) |
-| 🏢 **SpaceX** | Tool & Die Specialist - 2nd Shift | Bastrop, TX | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8362153002?gh_jid=8362153002) |
 | 🏢 **Sony Interactive Entertainment** | Audio Test Analyst | CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5531221004) |
 | 🏢 **Sony Interactive Entertainment** | Data Center Operations Engineer | CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5842551004) |
 | 🏢 **Sony Interactive Entertainment** | Data Center Operations Engineer | VA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5829868004) |
 | 🏢 **Scale AI** | ML Systems Engineer, Robotics | San Francisco, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4663053005) |
 | 🏢 **Scale AI** | Solutions Engineer, Robotics | San Francisco, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4640096005) |
 | 🏢 **Rocket Lab** | Mechanical Technician - All Levels | Wallops Island, VA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7628725003) |
+| 🏢 **Crusoe** | Electrical Engineer | Arvada, CO - US | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/crusoe/8747a8c1-7004-4053-87b7-951a13d3fcb5/application) |
+| 🏢 **Crusoe** | Atlassian Cloud Engineer | San Francisco, CA... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/crusoe/06d1fdc2-215b-47ea-acac-37ec9fa9a86d/application) |
 | 🏢 **Crusoe** | Mechanical Engineer | San Francisco, CA... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/crusoe/028b064e-2044-406d-bc90-2ab9bee731bd/application) |
-| 🏢 **Crusoe** | Power Development Engineer | Denver, CO - US | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/crusoe/831a1577-bc19-47a3-aef2-c238bbeb2507/application) |
-| 🏢 **Crusoe** | Journeyman Electrical Commissioning Technician | Brighton, CO - US | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/crusoe/5467b421-c662-464f-9df9-bbeed04f8c17/application) |
 | 🏢 **Relativity Space** | Propulsion Test Responsible Engineer I | Long Beach, Calif... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8059060002?gh_jid=8059060002) |
 | 🏢 **Relativity Space** | Avionics Production Supervisor | Long Beach, Calif... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8490576002?gh_jid=8490576002) |
 | 🏢 **PDT Partners** | Performance Engineer | New York, NY | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/pdtpartners/jobs/7807080) |
@@ -130,7 +131,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **OpenEye Scientific** | Service Reliability Engineer | Liberty Lake, Was... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/openeye/jobs/8468938002) |
 | 🏢 **Oklo** | Engineering Technician | Santa Clara, CA o... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/5705506004) |
 | 🏢 **Oklo** | Fuel Performance Engineer | Santa Clara, CA o... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/4638962004) |
-| 🏢 **Oklo** | General Application - Nuclear Fuel Recycling | Santa Clara, CA o... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/5065038004) |
 | 🏢 **Neuralink** | Design Controls Engineer | Austin, Texas, Un... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7619154003?gh_jid=7619154003) |
 | 🏢 **Neuralink** | Electrical Engineer, Robotics | Austin, Texas, Un... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7641728003?gh_jid=7641728003) |
 | 🏢 **Neuralink** | Facilities Technician - Electrician | Fremont, Californ... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/6613706003?gh_jid=6613706003) |
@@ -146,12 +146,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Multiply Labs** | Robotics Field Engineer | Los Angeles | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/multiplylabs/c9fe817b-745a-4c68-a157-1b2afdc09f9a/apply) |
 | 🏢 **WHOOP** | Graphic Designer | Boston, MA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/whoop/305273b5-1b74-4b2f-826b-8e23903f669e/apply) |
 | 🏢 **WeRide** | Application Engineer | San Jose, CA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/weride/82955de9-485d-4db0-8fd9-1c018489fc8d/apply) |
-| 🏢 **Waabi** | Manufacturing Engineer (NPI) | Pittsburgh, PA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/waabi/57b4a051-c187-4f62-9c45-3b81249d337c/apply) |
-| 🏢 **Waabi** | Mechanical Engineer | Pittsburgh, PA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/waabi/548a93ba-52cb-4b21-a68a-70d812187e5b/apply) |
-| 🏢 **Waabi** | Platform Systems Engineer; Motion Planning and Control | Phoenix, AZ | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/waabi/5fcde68c-577a-4fed-b532-793fec8de175/apply) |
+| 🏢 **Waabi** | Safety Engineer, Collision Risk | San Francisco, CA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/waabi/e5808322-48cf-45f8-856b-2e260968d8b0/apply) |
+| 🏢 **Waabi** | Systems Engineer -  Test Platform Verification | Phoenix, AZ | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/waabi/c45156f5-792e-459e-a312-435e66728733/apply) |
+| 🏢 **Waabi** | Systems Engineer, Platform Requirements and Verification | Remote US | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/waabi/bfe20894-5899-41b5-8cf7-c9f1469d18b7/apply) |
 | 🏢 **Shield AI** | Supplier Development Engineer - Electronics (R4560) | Dallas, Texas | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/shieldai/cf0f2076-a481-4b1a-8a37-39979abb98e6/apply) |
 | 🏢 **Shield AI** | Supplier Development Engineer - Mechanical (R4561) | Dallas, Texas | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/shieldai/9f1c3c6f-6807-4cd4-bbb1-d9914841c23e/apply) |
-| 🏢 **Shield AI** | Electrical Engineer I (BOS) | Boston, MA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/shieldai/37fa20c1-57dc-4aa1-9515-ecc87f22f31b/apply) |
+| 🏢 **Shield AI** | Hardware Test - Electrical Engineer (R4000) | Dallas, Texas | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/shieldai/c7759763-15c1-447c-b9d9-6ebce48a6f69/apply) |
 | 🏢 **Cartesia** | Design Engineer | * | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cartesia/30dd64e9-178e-43d8-afaa-13bb97baf45d/application) |
 | 🏢 **Jump Trading** | Field Engineer/Microwave Tower Technician | Sioux Falls, SD o... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=6647764) |
 | 🏢 **Atomic Semi** | Mechanical Engineer | Austin | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/atomicsemi/5d687a8f-ed34-47de-9af7-6a66a69a2695/application) |
@@ -160,12 +160,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Jane Street** | Windows Engineer | New York, New Yor... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/4276263002) |
 | 🏢 **Jane Street** | IT Operations Engineer | New York, New Yor... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8018160002) |
 | 🏢 **IMC Trading** | ASPLOS Conference | United States | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4809645101) |
-| 🏢 **Graphcore** | Silicon Physical Design Engineer | Bristol, UK; Camb... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8383084002) |
-| 🏢 **Graphcore** | Silicon Verification Engineer | Bristol, UK; Camb... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8383035002) |
 | 🏢 **Graphcore** | AI Performance Engineer | Milpitas | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8471683002) |
-| 🏢 **Formlabs** | SLS Materials Scientist | Somerville, MA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7752849/apply/?gh_jid=7752849) |
-| 🏢 **Formlabs** | SLS Materials Scientist | Boston, MA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7752848/apply/?gh_jid=7752848) |
-| 🏢 **Formlabs** | Temp Assembly Technician | Somerville, MA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7731658/apply/?gh_jid=7731658) |
+| 🏢 **Graphcore** | DFT Engineer | Bristol, UK; Camb... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8383085002) |
+| 🏢 **Graphcore** | Graduate Electrical Engineer | Milpitas | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8386144002) |
+| 🏢 **Formlabs** | Materials Scientist | Boston, MA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7739640/apply/?gh_jid=7739640) |
+| 🏢 **Formlabs** | Materials Scientist | Somerville, MA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7739638/apply/?gh_jid=7739638) |
+| 🏢 **Formlabs** | Materials Scientist - Photopolymer Development | Boston, MA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7739644/apply/?gh_jid=7739644) |
 | 🏢 **Freeform** | Additive Manufacturing Development Engineer | Los Angeles, CA (... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7653245003) |
 | 🏢 **Freeform** | Electrical Engineer (Hardware Design) | Los Angeles, CA (... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7688763003) |
 
@@ -185,7 +185,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Tenstorrent** | SOC Emulation Engineer - Hardware Emulation Infrastructure | Austin, Texas, Un... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5070207007) |
 | 🏢 **SpaceX** | Wireless Firmware Engineer (Direct To Cell) | Sunnyvale, CA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8376504002?gh_jid=8376504002) |
 | 🏢 **SpaceX** | Wireless Firmware Engineer (Direct To Cell) | Redmond, WA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8376486002?gh_jid=8376486002) |
-| 🏢 **SpaceX** | SOC Design Verification Engineer (Silicon Engineering) | Irvine, CA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8358268002?gh_jid=8358268002) |
+| 🏢 **SpaceX** | RTL Design Engineer (Silicon Engineering) | Irvine, CA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8466346002?gh_jid=8466346002) |
 | 🏢 **Optiver** | FPGA Engineer | Chicago, Illinois... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/optiverprivate/jobs/8375608002) |
 | 🏢 **Olsson** | Associate Civil Engineer - Federal Engineering and Design Team | Remote; Arkansas | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5058841008) |
 | 🏢 **Olsson** | Associate Structural Engineer | Remote; Arkansas | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5082924008) |
@@ -261,8 +261,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🏢 **Etched** | MTS - Firmware | San Jose | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/etched/3b2b0704-c8fd-446e-90c3-af9de880cb28/application) |
 | 🏢 **SpaceX** | Embedded Security Engineer (Starlink) | Bastrop, TX | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8479264002?gh_jid=8479264002) |
-| 🏢 **SpaceX** | Embedded Security Engineer (Starlink) | Hawthorne, CA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8459609002?gh_jid=8459609002) |
 | 🏢 **SpaceX** | Embedded Security Engineer (Starlink) | Redmond, WA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8459556002?gh_jid=8459556002) |
+| 🏢 **SpaceX** | Embedded Security Engineer (Starlink) | Hawthorne, CA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8459609002?gh_jid=8459609002) |
 | 🏢 **Samsung Semiconductor** | Engineer, Firmware | San Jose, Califor... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7560642003) |
 | 🏢 **Neuralink** | Embedded Software Engineer, Implant Embedded Systems | Austin, Texas, Un... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/6550259003?gh_jid=6550259003) |
 | 🏢 **Zoox** | Firmware Validation Engineer | Foster City, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/zoox/4b00bf61-6547-4c50-be83-5d659176090b/apply) |
@@ -270,8 +270,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Discord** | Embedded Data Specialist | San Francisco Bay... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8485778002) |
 | 🏢 **Aurora Innovation** | Embedded Software Engineer, Vehicle Controls | Pittsburgh, Penns... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://aurora.tech/jobs/7822890002?gh_jid=7822890002) |
 | 🏢 **Applied Intuition** | Embedded AI Engineer – Android Automotive (On-Device Intelligence) | Sunnyvale, Califo... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4676438005?gh_jid=4676438005) |
-| 🏢 **Anduril** | Embedded Haskell Engineer, EW | Costa Mesa, Calif... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5095380007?gh_jid=5095380007) |
 | 🏢 **Anduril** | Embedded NixOS Engineer | Costa Mesa, Calif... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5043618007?gh_jid=5043618007) |
+| 🏢 **Anduril** | Embedded Haskell Engineer, EW | Costa Mesa, Calif... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5095380007?gh_jid=5095380007) |
 | 🏢 **Allen Control Systems** | Embedded Engineer | Austin, TX | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/allencontrolsystems/jobs/4515650008) |
 | 🏢 **Applied Intuition** | Embedded Security Engineer | Sunnyvale, Califo... | 10h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/appliedintuition/jobs/4434973005?gh_jid=4434973005) |
 | 🏢 **Apple** | Embedded Software Engineer | Cupertino | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662204/embedded-software-engineer) |
@@ -302,7 +302,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Torc Robotics** | System Test Engineer - Vehicle | Ann Arbor, MI, Re... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8471717002) |
 | 🏢 **SpaceX** | Starlink Integration & Test Engineer (Aviation) | Woodinville, WA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8470829002?gh_jid=8470829002) |
 | 🏢 **SpaceX** | Software Test Engineer, HIL (Starlink) | Redmond, WA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8459808002?gh_jid=8459808002) |
-| 🏢 **SpaceX** | Power Electronics Engineer, Satellites (Starlink) | Redmond, WA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8387955002?gh_jid=8387955002) |
+| 🏢 **SpaceX** | RF Test Engineer (Starlink/Akoustis) | Canandaigua, NY | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8398929002?gh_jid=8398929002) |
 | 🏢 **Rocket Lab** | Avionics Test Engineer I | Long Beach, CA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7607971003) |
 | 🏢 **Relativity Space** | Vehicle Hardware Test Engineer I (Fluids) | Long Beach, Calif... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8472053002?gh_jid=8472053002) |
 | 🏢 **Relativity Space** | Manufacturing Test Engineer I, Pneumatic Mechanisms & Fluid Assemblies | Long Beach, Calif... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8462778002?gh_jid=8462778002) |
@@ -388,8 +388,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **SpaceX** | Hardware Test Specialist, Failure Analysis (Gateway) | Redmond, WA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8420958002?gh_jid=8420958002) |
 | 🏢 **SpaceX** | Electrical Test Development Engineer, Customer Hardware (Starlink) | Bastrop, TX | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8470901002?gh_jid=8470901002) |
 | 🏢 **Roblox** | Quality Engineer, Game Engine | San Mateo, CA, Un... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.roblox.com/jobs/7645318?gh_jid=7645318) |
-| 🏢 **Waabi** | Product Quality Engineer | Pittsburgh, PA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/waabi/8484a684-39b9-4ce9-9d23-2af71b6d6d62/apply) |
 | 🏢 **Waabi** | Supplier Quality Engineer | Pittsburgh, PA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/waabi/b74a74fa-f419-4897-a3cd-c9cf7ca18dac/apply) |
+| 🏢 **Waabi** | Product Quality Engineer | Pittsburgh, PA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/waabi/8484a684-39b9-4ce9-9d23-2af71b6d6d62/apply) |
 | 🏢 **Figure AI** | Supplier Quality Engineer, BotQ | San Jose, CA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4660300006) |
 | 🏢 **Astranis** | Production Quality Engineer | San Francisco | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4572174006) |
 | 🏢 **Anduril** | Supplier Quality Engineer, Intelligence Systems | Santa Ana, Califo... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4997868007?gh_jid=4997868007) |
@@ -510,7 +510,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1896 current opportunities from 190 companies**
+**🎯 1897 current opportunities from 190 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
