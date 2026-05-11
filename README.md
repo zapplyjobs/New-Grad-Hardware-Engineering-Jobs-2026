@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-959-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-125-blue?style=flat&logo=building)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-953-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-124-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -70,7 +70,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🏢 **SpaceX** | Process Controls Engineer, Solar Cell Factory (Starlink) | Bastrop, TX | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8383450002?gh_jid=8383450002) |
 | 🏢 **SpaceX** | Mechanical Engineer, Solar Cell Factory (Starlink) | Bastrop, TX | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8383510002?gh_jid=8383510002) |
-| 🏢 **SpaceX** | Facilities Engineer, Solar Cell Factory (Starlink) | Bastrop, TX | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8524791002?gh_jid=8524791002) |
+| 🏢 **SpaceX** | Instrumentation & Controls Engineer, Solar Cell Factory (Starlink) | Bastrop, TX | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8418457002?gh_jid=8418457002) |
 | 🏢 **Scale AI** | Field Engineer, Public Sector | Baltimore, MD; Co... | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4518690005) |
 | 🏢 **Redwood Materials** | Systems Design Engineer, Factory Systems Modeling | McCarran, NV | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/5804094004?gh_jid=5804094004) |
 | 🏢 **Arc Institute** | Postdoctoral Researcher, Horns Lab | Palo Alto, CA | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/5765058004) |
@@ -87,7 +87,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Apple** | Hardware Reliability Engineer - Watch System Reliability | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662033/hardware-reliability-engineer-watch-system-reliability) |
 | 🏢 **Apple** | Software Engineering Systems Engineer | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662186/software-engineering-systems-engineer) |
 | 🏢 **Apple** | Engineering Program Manager (ANE/ML/AI), Video Engineering | Sunnyvale | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662418/engineering-program-manager-ane-ml-ai-video-engineering) |
-| 🏢 **Anduril** | Quality Control Supervisor (Second Shift) | Costa Mesa, Calif... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5123455007?gh_jid=5123455007) |
+| 🏢 **Anduril** | Quality Control Supervisor (Second Shift) | Costa Mesa, Calif... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5123455007?gh_jid=5123455007) |
 | 🏢 **Hitachi** | GIS Field Service Engineering Site Manager | Houston Texas Uni... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Houston-Texas-United-States/GIS-Field-Service-Engineering-Site-Manager_R0115379-1) |
 | 🏢 **Hitachi** | Application Engineer - FACTS | Raleigh, North Ca... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Application-Engineer---FACTS_R0072103-1) |
 | 🏢 **Hitachi** | Field Service Engineer – Gas Insulated Switchgear (GIS) | 2 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/South-Brunswick-New-Jersey-United-States-of-America/Job-Posting-Title-Field-Service-Engineer---Gas-Insulated-Switchgear--GIS-_R0127656) |
@@ -162,7 +162,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Micron** | New College Grad - Memory Design Engineer, DRAM | Boise, ID - Main ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Memory-Design-Engineer--DRAM_JR87546-1) |
 | 🏢 **Micron** | Systems Performance Engineer | Austin, TX | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Austin-TX/Systems-Performance-Engineer_JR99311) |
 | 🏢 **CoreWeave** | Assistant Project Controls Engineer | Livingston, NJ | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://coreweave.com/careers/job?4677604006&board=coreweave&gh_jid=4677604006) |
-| 🏢 **Amazon.com Services LLC** | Hardware FA Engineer, FQSE | Hawthorne, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10414931/hardware-fa-engineer-fqse) |
+| 🏢 **Amazon.com Services LLC** | Hardware FA Engineer, FQSE | Hawthorne, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10414931/hardware-fa-engineer-fqse) |
 | 🏢 **Relativity Space** | Stage Development Engineer I | Long Beach, Calif... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8537933002?gh_jid=8537933002) |
 | 🏢 **Shield AI** | Engineer I, Electromechanical (R4951) | United States | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/shieldai/37f1de6d-d17b-437b-af16-d8ce8d7d0782/apply) |
 | 🏢 **Intuitive** | Manager, Mechanical Engineering, Instruments & Accessories | San Francisco, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000125224829) |
@@ -280,7 +280,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Northrop Grumman** | Antenna Test Engineer | Maryland | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Antenna-Test-Engineer_R10232105) |
 | 🏢 **Broadcom** | Analog Layout Designer | CA Irvine Alton P... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/Analog-Layout-Designer_R025809) |
 | 🏢 **Apple** | SerDes System Validation Engineer | Austin Metro Area | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662028/serdes-system-validation-engineer) |
-| 🏢 **Amazon Data Services, Inc.** | Power Engineer, Rack Power | Seattle, WA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10413772/power-engineer-rack-power) |
+| 🏢 **Amazon Data Services, Inc.** | Power Engineer, Rack Power | Seattle, WA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10413772/power-engineer-rack-power) |
 | 🏢 **LG Electronics** | Validation Engineer I - CONTRACTOR | Aliso Viejo, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5211621008) |
 | 🏢 **LG Electronics** | Validation Engineer I | Aliso Viejo, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5211579008) |
 | 🏢 **Google** | Hardware Validation Engineer, Networking and Signal Integrity, Platforms | United States | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98776179665707718) |
@@ -339,7 +339,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Applied Materials** | Operations and Customer Quality Engineer | Gloucester,MA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/Operations-and-Customer-Quality-Engineer_R2615309) |
 | 🏢 **RTX** | Quality Engineer/Quality Review Coordinator (QRC) 2nd Shift (Onsite) | Holt, MI | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MI-HOLT-PLANT-5--1781-Holloway-Dr--PLANT-5/Quality-Engineer-Quality-Review-Coordinator--QRC--2nd-Shift--Onsite-_01843799-1) |
 | 🏢 **RTX** | Program Quality Engineer | Tucson, AZ | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M09--3350-E-Hemisphere-Loop--BLDG-M09/Program-Quality-Engineer_01844071) |
-| 🏢 **Shield AI** | Quality Engineering Inspector 3 (R4977) | Dallas, Texas | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/shieldai/20635327-92b0-496f-8777-25b1f7e3b5ee/apply) |
+| 🏢 **Shield AI** | Quality Engineering Inspector 3 (R4977) | Dallas, Texas | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/shieldai/20635327-92b0-496f-8777-25b1f7e3b5ee/apply) |
 | 🏢 **Shield AI** | Quality Engineering Inspector 2 (R4976) | Dallas, Texas | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/shieldai/2483c413-dd31-41d6-841b-bf07a9b6d22f/apply) |
 | 🏢 **LLNL** | Quality Engineer/Weapon Production Quality | Livermore, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013032596) |
 | 🏢 **Apple** | Quality Engineer | San Diego | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661245/quality-engineer) |
@@ -371,7 +371,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Adobe** | Quality Engineer, Nextcam | San Jose | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Quality-Engineer--Nextcam_R167732) |
 | 🏢 **Micron** | Design Validation Product Engineer, DEG Technology | Boise, ID - Main ... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Design-Validation-Product-Engineer--DEG-Technology_JR100261) |
 | 🏢 **Baker Hughes** | Supplier Quality Engineer - Casting & Machining | Mh, IN | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Sourcing-Specialist---Supplier-Quality-Engineering_R161223) |
-| 🏢 **Apple** | Health Systems Data Quality Engineer | Sunnyvale | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200648750/health-systems-data-quality-engineer) |
+| 🏢 **Apple** | Health Systems Data Quality Engineer | Sunnyvale | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200648750/health-systems-data-quality-engineer) |
 | 🏢 **Pure Storage** | Product Quality Engineer | Houston, Texas | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7891159) |
 | 🏢 **Intuitive** | Quality Engineer 3 | Sunnyvale, CA | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000124449114) |
 | 🏢 **Moog** | Quality Engineer | Bangalore, IN | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Bangalore-IN/Quality-Engineer_R-26-16968-1) |
@@ -433,7 +433,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 959 current opportunities from 125 companies**
+**🎯 953 current opportunities from 124 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -441,6 +441,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: May 10, 2026
+**Last Updated**: May 11, 2026
 
 </div>
