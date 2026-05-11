@@ -551,6 +551,53 @@
     "job_posted_at": "2026-05-11T01:19:44.099Z"
   },
   {
+    "job_id": "greenhouse-waymo-7584109",
+    "job_title": "Vehicle Quality Engineer",
+    "employer_name": "Waymo",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Phoenix, Arizona, USA",
+    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7584109",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:43.332Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fa54e8f21dc01470e2aa0cb53c45d1dfa5e96564be254c01e8a15d115ec14899",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "gd&t",
+        "root cause analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": 16
+    },
+    "job_posted_at": "2026-05-11T01:19:43.332Z"
+  },
+  {
     "job_id": "greenhouse-waymo-7773691",
     "job_title": "Systems Test Engineer, Pipeline and Test Health",
     "employer_name": "Waymo",
@@ -595,53 +642,6 @@
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
       "question_count": 17
-    },
-    "job_posted_at": "2026-05-11T01:19:43.332Z"
-  },
-  {
-    "job_id": "greenhouse-waymo-7584109",
-    "job_title": "Vehicle Quality Engineer",
-    "employer_name": "Waymo",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Phoenix, Arizona, USA",
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7584109",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:43.332Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fa54e8f21dc01470e2aa0cb53c45d1dfa5e96564be254c01e8a15d115ec14899",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "gd&t",
-        "root cause analysis"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": 16
     },
     "job_posted_at": "2026-05-11T01:19:43.332Z"
   },
@@ -1226,60 +1226,6 @@
     "job_posted_at": "2026-05-11T01:19:41.397Z"
   },
   {
-    "job_id": "greenhouse-spacex-8377059002",
-    "job_title": "Supervisor, IT Network Infrastructure",
-    "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8377059002?gh_jid=8377059002",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:40.809Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e5818e5b897e753d7ffcc679f5e71309d2cbbd6c1bb16bd5f38e77e0ceffc7d6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "excel",
-        "fiber",
-        "network security",
-        "networking",
-        "rf",
-        "routing",
-        "soldering",
-        "tcp/ip",
-        "visio"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "masters",
-      "experience_level_from_desc": null,
-      "question_count": 22
-    },
-    "job_posted_at": "2026-05-11T01:19:40.809Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8461272002",
     "job_title": "Supervisor, Wastewater Treatment (Starlink PCB)",
     "employer_name": "SpaceX",
@@ -1470,6 +1416,60 @@
       "has_description": true,
       "min_degree": "none",
       "experience_level_from_desc": "mid_level",
+      "question_count": 22
+    },
+    "job_posted_at": "2026-05-11T01:19:40.809Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8377059002",
+    "job_title": "Supervisor, IT Network Infrastructure",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8377059002?gh_jid=8377059002",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:40.809Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e5818e5b897e753d7ffcc679f5e71309d2cbbd6c1bb16bd5f38e77e0ceffc7d6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "excel",
+        "fiber",
+        "network security",
+        "networking",
+        "rf",
+        "routing",
+        "soldering",
+        "tcp/ip",
+        "visio"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
       "question_count": 22
     },
     "job_posted_at": "2026-05-11T01:19:40.809Z"
@@ -1947,6 +1947,52 @@
     "job_posted_at": "2026-05-11T01:19:40.802Z"
   },
   {
+    "job_id": "greenhouse-spacex-8335226002",
+    "job_title": "EEE Parts Lab Specialist (Starlink Satellite PCB Engineering)",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8335226002?gh_jid=8335226002",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:40.801Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "17eb4d4f3817d702c2299c73caafd2581ecdf4bf3d4474c71172f4636ff67f76",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "ray"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "none",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 17
+    },
+    "job_posted_at": "2026-05-11T01:19:40.801Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8385187002",
     "job_title": "Environmental Health & Safety Engineer",
     "employer_name": "SpaceX",
@@ -2069,52 +2115,6 @@
       "required_skills": [
         "autocad",
         "project management"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "none",
-      "experience_level_from_desc": "mid_level",
-      "question_count": 17
-    },
-    "job_posted_at": "2026-05-11T01:19:40.801Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8335226002",
-    "job_title": "EEE Parts Lab Specialist (Starlink Satellite PCB Engineering)",
-    "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8335226002?gh_jid=8335226002",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:40.801Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "17eb4d4f3817d702c2299c73caafd2581ecdf4bf3d4474c71172f4636ff67f76",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "ray"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": false,
@@ -2382,56 +2382,6 @@
     "job_posted_at": "2026-05-11T01:19:37.514Z"
   },
   {
-    "job_id": "greenhouse-relativity-8467177002",
-    "job_title": "Manager, Avionics Manufacturing",
-    "employer_name": "Relativity Space",
-    "job_city": "Long Beach",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Long Beach, California",
-    "job_apply_link": "https://boards.greenhouse.io/relativity/jobs/8467177002?gh_jid=8467177002",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:36.616Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a615a4daf00c03c191cba18fb4a654dd815c9cd20994be8f2b9366db5820a446",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "manufacturing",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "as9100",
-        "lean",
-        "lean manufacturing",
-        "pcb design",
-        "rf"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": 9
-    },
-    "job_posted_at": "2026-05-11T01:19:36.616Z"
-  },
-  {
     "job_id": "greenhouse-relativity-8476778002",
     "job_title": "Production Manager, Avionics Manufacturing",
     "employer_name": "Relativity Space",
@@ -2478,6 +2428,56 @@
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
       "question_count": 12
+    },
+    "job_posted_at": "2026-05-11T01:19:36.616Z"
+  },
+  {
+    "job_id": "greenhouse-relativity-8467177002",
+    "job_title": "Manager, Avionics Manufacturing",
+    "employer_name": "Relativity Space",
+    "job_city": "Long Beach",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Long Beach, California",
+    "job_apply_link": "https://boards.greenhouse.io/relativity/jobs/8467177002?gh_jid=8467177002",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:36.616Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a615a4daf00c03c191cba18fb4a654dd815c9cd20994be8f2b9366db5820a446",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "manufacturing",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "as9100",
+        "lean",
+        "lean manufacturing",
+        "pcb design",
+        "rf"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": 9
     },
     "job_posted_at": "2026-05-11T01:19:36.616Z"
   },
@@ -2831,6 +2831,127 @@
     "job_posted_at": "2026-05-11T01:19:34.362Z"
   },
   {
+    "job_id": "greenhouse-olsson-4886884008",
+    "job_title": "Project Civil Engineer – Federal Engineering and Design",
+    "employer_name": "Olsson",
+    "job_city": "Arkansas - Remote; Georgia - Remote; Missouri - Remote; Nebraska - Remote; North Carolina - Remote; South Carolina - Remote; Texas - Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Arkansas - Remote; Georgia - Remote; Missouri - Remote; Nebraska - Remote; North Carolina - Remote; South Carolina - Remote; Texas - Remote",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/4886884008",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:34.361Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0954713dab103bd3d5fd17101779fb6588d28bf64a657fda3cc7e338a362802d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T01:19:34.361Z"
+  },
+  {
+    "job_id": "greenhouse-olsson-4934763008",
+    "job_title": "Project Civil Engineer - Site Design",
+    "employer_name": "Olsson",
+    "job_city": "Fayetteville",
+    "job_state": "AR",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fayetteville, AR; Little Rock, AR",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/4934763008",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:34.361Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "906adeb28285b4269093ff0272243e08b4efc9c044801860da3a3a2be2e9b4b9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T01:19:34.361Z"
+  },
+  {
+    "job_id": "greenhouse-olsson-5128668008",
+    "job_title": "Project Civil Engineer - Site Design",
+    "employer_name": "Olsson",
+    "job_city": "Springfield",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Springfield, MO",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5128668008",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:34.361Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b18818a79cdc17600448b9672615d5562e9e16955c1ed8aad2f1b29125555b51",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T01:19:34.361Z"
+  },
+  {
+    "job_id": "greenhouse-olsson-5062100008",
+    "job_title": "BMS Design Engineer - Data Center (Remote)",
+    "employer_name": "Olsson",
+    "job_city": "Arizona - Remote; Arkansas - Remote; Colorado - Remote; Florida - Remote; Georgia - Remote; Idaho - Remote; Illinois - Remote; Indiana - Remote; Iowa - Remote; Kansas - Remote; Kentucky - Remote; Louisiana - Remote; Michigan - Remote; Minnesota - Remote; Mississippi - Remote; Missouri - Remote; Montana - Remote; Nebraska - Remote; Nevada - Remote; New Mexico - Remote; North Carolina - Remote; North Dakota - Remote; Ohio - Remote; Oklahoma - Remote; Oregon - Remote; Pennsylvania - Remote; South Carolina - Remote; South Dakota - Remote; Tennessee - Remote; Texas - Remote; Utah - Remote; Virginia - Remote; Washington - Remote; West Virginia - Remote; Wisconsin - Remote; Wyoming - Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Arizona - Remote; Arkansas - Remote; Colorado - Remote; Florida - Remote; Georgia - Remote; Idaho - Remote; Illinois - Remote; Indiana - Remote; Iowa - Remote; Kansas - Remote; Kentucky - Remote; Louisiana - Remote; Michigan - Remote; Minnesota - Remote; Mississippi - Remote; Missouri - Remote; Montana - Remote; Nebraska - Remote; Nevada - Remote; New Mexico - Remote; North Carolina - Remote; North Dakota - Remote; Ohio - Remote; Oklahoma - Remote; Oregon - Remote; Pennsylvania - Remote; South Carolina - Remote; South Dakota - Remote; Tennessee - Remote; Texas - Remote; Utah - Remote; Virginia - Remote; Washington - Remote; West Virginia - Remote; Wisconsin - Remote; Wyoming - Remote",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5062100008",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:34.361Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f9155882098d8a78ebe8d3d3d66cbca8d6b17c3aa04f8a774931f5dca9d2a39",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T01:19:34.361Z"
+  },
+  {
     "job_id": "greenhouse-olsson-5151996008",
     "job_title": "Commissioning Technical Manager – Substation & Power Generation",
     "employer_name": "Olsson",
@@ -2936,127 +3057,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3c1d80e01b152b62639ad34f2a34772b096198be50f24f23e74274d034827e57",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:34.361Z"
-  },
-  {
-    "job_id": "greenhouse-olsson-4886884008",
-    "job_title": "Project Civil Engineer – Federal Engineering and Design",
-    "employer_name": "Olsson",
-    "job_city": "Arkansas - Remote; Georgia - Remote; Missouri - Remote; Nebraska - Remote; North Carolina - Remote; South Carolina - Remote; Texas - Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Arkansas - Remote; Georgia - Remote; Missouri - Remote; Nebraska - Remote; North Carolina - Remote; South Carolina - Remote; Texas - Remote",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/4886884008",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:34.361Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0954713dab103bd3d5fd17101779fb6588d28bf64a657fda3cc7e338a362802d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:34.361Z"
-  },
-  {
-    "job_id": "greenhouse-olsson-4934763008",
-    "job_title": "Project Civil Engineer - Site Design",
-    "employer_name": "Olsson",
-    "job_city": "Fayetteville",
-    "job_state": "AR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fayetteville, AR; Little Rock, AR",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/4934763008",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:34.361Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "906adeb28285b4269093ff0272243e08b4efc9c044801860da3a3a2be2e9b4b9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:34.361Z"
-  },
-  {
-    "job_id": "greenhouse-olsson-5128668008",
-    "job_title": "Project Civil Engineer - Site Design",
-    "employer_name": "Olsson",
-    "job_city": "Springfield",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Springfield, MO",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5128668008",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:34.361Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b18818a79cdc17600448b9672615d5562e9e16955c1ed8aad2f1b29125555b51",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:34.361Z"
-  },
-  {
-    "job_id": "greenhouse-olsson-5062100008",
-    "job_title": "BMS Design Engineer - Data Center (Remote)",
-    "employer_name": "Olsson",
-    "job_city": "Arizona - Remote; Arkansas - Remote; Colorado - Remote; Florida - Remote; Georgia - Remote; Idaho - Remote; Illinois - Remote; Indiana - Remote; Iowa - Remote; Kansas - Remote; Kentucky - Remote; Louisiana - Remote; Michigan - Remote; Minnesota - Remote; Mississippi - Remote; Missouri - Remote; Montana - Remote; Nebraska - Remote; Nevada - Remote; New Mexico - Remote; North Carolina - Remote; North Dakota - Remote; Ohio - Remote; Oklahoma - Remote; Oregon - Remote; Pennsylvania - Remote; South Carolina - Remote; South Dakota - Remote; Tennessee - Remote; Texas - Remote; Utah - Remote; Virginia - Remote; Washington - Remote; West Virginia - Remote; Wisconsin - Remote; Wyoming - Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Arizona - Remote; Arkansas - Remote; Colorado - Remote; Florida - Remote; Georgia - Remote; Idaho - Remote; Illinois - Remote; Indiana - Remote; Iowa - Remote; Kansas - Remote; Kentucky - Remote; Louisiana - Remote; Michigan - Remote; Minnesota - Remote; Mississippi - Remote; Missouri - Remote; Montana - Remote; Nebraska - Remote; Nevada - Remote; New Mexico - Remote; North Carolina - Remote; North Dakota - Remote; Ohio - Remote; Oklahoma - Remote; Oregon - Remote; Pennsylvania - Remote; South Carolina - Remote; South Dakota - Remote; Tennessee - Remote; Texas - Remote; Utah - Remote; Virginia - Remote; Washington - Remote; West Virginia - Remote; Wisconsin - Remote; Wyoming - Remote",
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5062100008",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:34.361Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f9155882098d8a78ebe8d3d3d66cbca8d6b17c3aa04f8a774931f5dca9d2a39",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3377,6 +3377,68 @@
     "job_posted_at": "2026-05-11T01:19:33.627Z"
   },
   {
+    "job_id": "ashby-etched-241124b7-6031-4ef1-80ad-25ee8b4224e2",
+    "job_title": "Component Engineer",
+    "employer_name": "Etched",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose",
+    "job_apply_link": "https://jobs.ashbyhq.com/etched/241124b7-6031-4ef1-80ad-25ee8b4224e2/application",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:30.710Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "e03a50ad421696f0389529f4eb1c6abe70809e9bfc4347229d1b0ab23d14de6e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-05-11T01:19:30.710Z"
+  },
+  {
+    "job_id": "ashby-etched-6f4df530-6d67-4df9-903c-645c20e84845",
+    "job_title": "Design Verification Engineer - Interface IP",
+    "employer_name": "Etched",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin",
+    "job_apply_link": "https://jobs.ashbyhq.com/etched/6f4df530-6d67-4df9-903c-645c20e84845/application",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:30.710Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "7c14841d2a1ffe59aef290cdf7a1df9e9599c4c1ce3cc698b97339d62f62e344",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-05-11T01:19:30.710Z"
+  },
+  {
     "job_id": "ashby-etched-61860739-5aa9-4f64-920d-f4c1cca71af8",
     "job_title": "Electrical Engineer, Hardware Systems",
     "employer_name": "Etched",
@@ -3515,68 +3577,6 @@
     "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "1f880b83396bf1f44821fb7b64c30d4fac1f3d277b3d25a20faee483ee269e9a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-05-11T01:19:30.710Z"
-  },
-  {
-    "job_id": "ashby-etched-241124b7-6031-4ef1-80ad-25ee8b4224e2",
-    "job_title": "Component Engineer",
-    "employer_name": "Etched",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose",
-    "job_apply_link": "https://jobs.ashbyhq.com/etched/241124b7-6031-4ef1-80ad-25ee8b4224e2/application",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:30.710Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "e03a50ad421696f0389529f4eb1c6abe70809e9bfc4347229d1b0ab23d14de6e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-05-11T01:19:30.710Z"
-  },
-  {
-    "job_id": "ashby-etched-6f4df530-6d67-4df9-903c-645c20e84845",
-    "job_title": "Design Verification Engineer - Interface IP",
-    "employer_name": "Etched",
-    "job_city": "Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin",
-    "job_apply_link": "https://jobs.ashbyhq.com/etched/6f4df530-6d67-4df9-903c-645c20e84845/application",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:30.710Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "7c14841d2a1ffe59aef290cdf7a1df9e9599c4c1ce3cc698b97339d62f62e344",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4270,38 +4270,6 @@
     "job_posted_at": "2026-05-11T01:19:22.332Z"
   },
   {
-    "job_id": "greenhouse-doordashusa-7798895",
-    "job_title": "Controls Engineer",
-    "employer_name": "DoorDash",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7798895",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:22.331Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "678ac0d2656389a0e91c5bbdd8e2b4b6e69776f6ee48fb3948d8f5cc92ad60df",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [
-        "unicorn"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:22.331Z"
-  },
-  {
     "job_id": "greenhouse-doordashusa-7272947",
     "job_title": "Hardware Prototype Engineering Technician",
     "employer_name": "DoorDash",
@@ -4321,6 +4289,38 @@
         "operations",
         "hardware",
         "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [
+        "unicorn"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T01:19:22.331Z"
+  },
+  {
+    "job_id": "greenhouse-doordashusa-7798895",
+    "job_title": "Controls Engineer",
+    "employer_name": "DoorDash",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, CA",
+    "job_apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7798895",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:22.331Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "678ac0d2656389a0e91c5bbdd8e2b4b6e69776f6ee48fb3948d8f5cc92ad60df",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
       ],
       "locations": [
         "us"
@@ -5241,36 +5241,6 @@
     "job_posted_at": "2026-05-11T01:19:14.234Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5034295007",
-    "job_title": "Quality Specialist",
-    "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Costa Mesa, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5034295007?gh_jid=5034295007",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.227Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1d1ce8a975ccc3c48adfcca47d11deadfb16c359e2bf7f0c9782b40c15fef8bd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:14.227Z"
-  },
-  {
     "job_id": "greenhouse-andurilindustries-5029462007",
     "job_title": "Reliability Engineer",
     "employer_name": "Anduril",
@@ -5288,6 +5258,66 @@
       "employment": "entry_level",
       "domains": [
         "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T01:19:14.227Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5101334007",
+    "job_title": "Prototype Laser & Sheet Metal Tech",
+    "employer_name": "Anduril",
+    "job_city": "Costa Mesa",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Costa Mesa, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5101334007?gh_jid=5101334007",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.227Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3729f0bafdbc7d109a0ba74f475f02ae97c9557b4449969abe75e835d5c2bc6d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T01:19:14.227Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5034295007",
+    "job_title": "Quality Specialist",
+    "employer_name": "Anduril",
+    "job_city": "Costa Mesa",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Costa Mesa, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5034295007?gh_jid=5034295007",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.227Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1d1ce8a975ccc3c48adfcca47d11deadfb16c359e2bf7f0c9782b40c15fef8bd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
         "hardware"
       ],
       "locations": [
@@ -5363,19 +5393,19 @@
     "job_posted_at": "2026-05-11T01:19:14.227Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5101334007",
-    "job_title": "Prototype Laser & Sheet Metal Tech",
+    "job_id": "greenhouse-andurilindustries-4246155007",
+    "job_title": "Mechanical Engineer, Air Vehicles",
     "employer_name": "Anduril",
     "job_city": "Costa Mesa",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Costa Mesa, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5101334007?gh_jid=5101334007",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.227Z",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4246155007?gh_jid=4246155007",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.225Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3729f0bafdbc7d109a0ba74f475f02ae97c9557b4449969abe75e835d5c2bc6d",
+    "fingerprint": "4143efce88efcfbe5aa80b7538997f3aee409e46d4b7433d548cdbfa8b904396",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5384,13 +5414,134 @@
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "senior_level",
       "special": [],
       "tag_engine_version": 3
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:14.227Z"
+    "job_posted_at": "2026-05-11T01:19:14.225Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5010389007",
+    "job_title": "Mechanical Engineer, Drones",
+    "employer_name": "Anduril",
+    "job_city": "Costa Mesa",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Costa Mesa, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5010389007?gh_jid=5010389007",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.225Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d68086aee719ca97ee467b104dc9659e6b3b43b016b477b1863c079137103670",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T01:19:14.225Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5032457007",
+    "job_title": "Mechanical Engineer, High Speed Missiles",
+    "employer_name": "Anduril",
+    "job_city": "Costa Mesa",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Costa Mesa, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5032457007?gh_jid=5032457007",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.225Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b06a63f6454e704e2a02428261617d270c6c91d322c2259bfe68d3562348e430",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T01:19:14.225Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-4988675007",
+    "job_title": "Mechanical Engineer, Manufacturing Test",
+    "employer_name": "Anduril",
+    "job_city": "Costa Mesa",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Costa Mesa, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4988675007?gh_jid=4988675007",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.225Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bb8963140772ea28d64c2c024ca34084e3dffa6c5a1fa7fa417b09c747a57907",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "manufacturing",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T01:19:14.225Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5056328007",
+    "job_title": "Mission Operations Engineer",
+    "employer_name": "Anduril",
+    "job_city": "Broomfield",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Broomfield, Colorado, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5056328007?gh_jid=5056328007",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.225Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e99d8fab56da826a5dcf8f772fa5b379b0231cf7ac9e4a5fb9c1b649cc48ab0a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T01:19:14.225Z"
   },
   {
     "job_id": "greenhouse-andurilindustries-5063282007",
@@ -5578,23 +5729,24 @@
     "job_posted_at": "2026-05-11T01:19:14.225Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4246155007",
-    "job_title": "Mechanical Engineer, Air Vehicles",
+    "job_id": "greenhouse-andurilindustries-5093473007",
+    "job_title": "Instructional Designer",
     "employer_name": "Anduril",
     "job_city": "Costa Mesa",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Costa Mesa, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4246155007?gh_jid=4246155007",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.225Z",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5093473007?gh_jid=5093473007",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.224Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4143efce88efcfbe5aa80b7538997f3aee409e46d4b7433d548cdbfa8b904396",
+    "fingerprint": "56603cd615ef83947039b41096cbf8044867e44b334252d214ef500e8a9dc1ad",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "hardware"
+        "hardware",
+        "hr"
       ],
       "locations": [
         "us"
@@ -5605,26 +5757,27 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:14.225Z"
+    "job_posted_at": "2026-05-11T01:19:14.224Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5010389007",
-    "job_title": "Mechanical Engineer, Drones",
+    "job_id": "greenhouse-andurilindustries-5006275007",
+    "job_title": "Integration & Test Technician, Omen",
     "employer_name": "Anduril",
     "job_city": "Costa Mesa",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Costa Mesa, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5010389007?gh_jid=5010389007",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.225Z",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5006275007?gh_jid=5006275007",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.224Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d68086aee719ca97ee467b104dc9659e6b3b43b016b477b1863c079137103670",
+    "fingerprint": "38d13cf368488009df096c17b9c9fe4bd935732bbe026dc208d9509dce8dd788",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "hardware"
+        "hardware",
+        "manufacturing"
       ],
       "locations": [
         "us"
@@ -5635,98 +5788,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:14.225Z"
-  },
-  {
-    "job_id": "greenhouse-andurilindustries-5032457007",
-    "job_title": "Mechanical Engineer, High Speed Missiles",
-    "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Costa Mesa, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5032457007?gh_jid=5032457007",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.225Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b06a63f6454e704e2a02428261617d270c6c91d322c2259bfe68d3562348e430",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:14.225Z"
-  },
-  {
-    "job_id": "greenhouse-andurilindustries-4988675007",
-    "job_title": "Mechanical Engineer, Manufacturing Test",
-    "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Costa Mesa, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4988675007?gh_jid=4988675007",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.225Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bb8963140772ea28d64c2c024ca34084e3dffa6c5a1fa7fa417b09c747a57907",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "manufacturing",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:14.225Z"
-  },
-  {
-    "job_id": "greenhouse-andurilindustries-5056328007",
-    "job_title": "Mission Operations Engineer",
-    "employer_name": "Anduril",
-    "job_city": "Broomfield",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Broomfield, Colorado, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5056328007?gh_jid=5056328007",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.225Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e99d8fab56da826a5dcf8f772fa5b379b0231cf7ac9e4a5fb9c1b649cc48ab0a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:14.225Z"
+    "job_posted_at": "2026-05-11T01:19:14.224Z"
   },
   {
     "job_id": "greenhouse-andurilindustries-5105788007",
@@ -5822,24 +5884,24 @@
     "job_posted_at": "2026-05-11T01:19:14.224Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5093473007",
-    "job_title": "Instructional Designer",
+    "job_id": "greenhouse-andurilindustries-4954307007",
+    "job_title": "Fuel Systems Engineer, Air Vehicles",
     "employer_name": "Anduril",
     "job_city": "Costa Mesa",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Costa Mesa, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5093473007?gh_jid=5093473007",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.224Z",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4954307007?gh_jid=4954307007",
+    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.223Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "56603cd615ef83947039b41096cbf8044867e44b334252d214ef500e8a9dc1ad",
+    "fingerprint": "6fd6194f04ace63fd348011a66ca35e94e3a99e62ac83236f15603cfa6e32105",
     "tags": {
       "employment": "entry_level",
       "domains": [
         "hardware",
-        "hr"
+        "software"
       ],
       "locations": [
         "us"
@@ -5850,38 +5912,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:14.224Z"
-  },
-  {
-    "job_id": "greenhouse-andurilindustries-5006275007",
-    "job_title": "Integration & Test Technician, Omen",
-    "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Costa Mesa, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5006275007?gh_jid=5006275007",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "38d13cf368488009df096c17b9c9fe4bd935732bbe026dc208d9509dce8dd788",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:14.224Z"
+    "job_posted_at": "2026-05-11T01:19:14.223Z"
   },
   {
     "job_id": "greenhouse-andurilindustries-5063419007",
@@ -6203,37 +6234,6 @@
       "employment": "entry_level",
       "domains": [
         "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T01:19:14.223Z"
-  },
-  {
-    "job_id": "greenhouse-andurilindustries-4954307007",
-    "job_title": "Fuel Systems Engineer, Air Vehicles",
-    "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Costa Mesa, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4954307007?gh_jid=4954307007",
-    "job_posted_at_datetime_utc": "2026-05-11T01:19:14.223Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6fd6194f04ace63fd348011a66ca35e94e3a99e62ac83236f15603cfa6e32105",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware",
-        "software"
       ],
       "locations": [
         "us"
@@ -8045,56 +8045,6 @@
     "job_posted_at": "2026-05-11T00:48:13.224Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5103943007",
-    "job_title": "Flight Test Integrations and Operations Manager - Mission Autonomy",
-    "employer_name": "Anduril",
-    "job_city": "San Clemente",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Clemente, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5103943007?gh_jid=5103943007",
-    "job_posted_at_datetime_utc": "2026-05-11T00:48:13.223Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cba8f2635ea5d9bdd2f21587744530432990b616fce2d586ef97999601c9b272",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "linux",
-        "networking"
-      ],
-      "nice_to_have_skills": [
-        "data analysis",
-        "embedded systems",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 20
-    },
-    "job_posted_at": "2026-05-11T00:48:13.223Z"
-  },
-  {
     "job_id": "greenhouse-andurilindustries-5055958007",
     "job_title": "Formulations Manager, Rocket Motor Systems",
     "employer_name": "Anduril",
@@ -8183,6 +8133,56 @@
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
       "question_count": 18
+    },
+    "job_posted_at": "2026-05-11T00:48:13.223Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5103943007",
+    "job_title": "Flight Test Integrations and Operations Manager - Mission Autonomy",
+    "employer_name": "Anduril",
+    "job_city": "San Clemente",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Clemente, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5103943007?gh_jid=5103943007",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:13.223Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cba8f2635ea5d9bdd2f21587744530432990b616fce2d586ef97999601c9b272",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "linux",
+        "networking"
+      ],
+      "nice_to_have_skills": [
+        "data analysis",
+        "embedded systems",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 20
     },
     "job_posted_at": "2026-05-11T00:48:13.223Z"
   },
@@ -8285,6 +8285,52 @@
     "job_posted_at": "2026-05-10T21:17:13.991Z"
   },
   {
+    "job_id": "greenhouse-spacex-8348825002",
+    "job_title": "Global Sourcing Manager, Custom Silicon and Semiconductor (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8348825002?gh_jid=8348825002",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.990Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fc384108bd26343b5d2a448a0ba7168bc5a4fcbed61dca58cf6f831eea8df57c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "erp",
+        "rf"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": 22
+    },
+    "job_posted_at": "2026-05-10T21:17:13.990Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8418457002",
     "job_title": "Instrumentation & Controls Engineer, Solar Cell Factory (Starlink)",
     "employer_name": "SpaceX",
@@ -8376,52 +8422,6 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": 22
-    },
-    "job_posted_at": "2026-05-10T21:17:13.990Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8348825002",
-    "job_title": "Global Sourcing Manager, Custom Silicon and Semiconductor (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8348825002?gh_jid=8348825002",
-    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.990Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fc384108bd26343b5d2a448a0ba7168bc5a4fcbed61dca58cf6f831eea8df57c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "erp",
-        "rf"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
       "question_count": 22
     },
     "job_posted_at": "2026-05-10T21:17:13.990Z"
@@ -9363,54 +9363,6 @@
     "job_posted_at": "2026-05-09T15:00:59.472Z"
   },
   {
-    "job_id": "greenhouse-spacex-8512813002",
-    "job_title": "Propulsion Engineer, Components Manufacturing (Raptor)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002",
-    "job_posted_at_datetime_utc": "2026-05-09T15:00:57.223Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "be663b25c4c40f1ad7936f7019e6ca0b2a4c539f68fd5bd1c7f8206d351813af",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "system design"
-      ],
-      "nice_to_have_skills": [
-        "project management"
-      ],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": 22
-    },
-    "job_posted_at": "2026-05-09T15:00:57.223Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8513119002",
     "job_title": "Operations Engineer, Spaceport Operations",
     "employer_name": "SpaceX",
@@ -9449,6 +9401,54 @@
         "tableau"
       ],
       "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 22
+    },
+    "job_posted_at": "2026-05-09T15:00:57.223Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8512813002",
+    "job_title": "Propulsion Engineer, Components Manufacturing (Raptor)",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002",
+    "job_posted_at_datetime_utc": "2026-05-09T15:00:57.223Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "be663b25c4c40f1ad7936f7019e6ca0b2a4c539f68fd5bd1c7f8206d351813af",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "system design"
+      ],
+      "nice_to_have_skills": [
+        "project management"
+      ],
       "sponsors_visa": false,
       "possible_sponsor": null,
       "visa_question_present": false,
@@ -11759,7 +11759,7 @@
     "job_location": "Charlotte, North Carolina, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556755329",
     "job_posted_at_datetime_utc": "2026-05-08T19:54:14.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "00036d233ef12738513efde1fed9d9220a8791f9d20f9d93d8f5f98ae413902e",
     "tags": {
@@ -16681,7 +16681,7 @@
     "job_location": "Fayetteville, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556856338",
     "job_posted_at_datetime_utc": "2026-05-08T12:38:59.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d4dc6630d27857619fb69c8104ec51c84845891340054b3c3a141f984b7b4102",
     "tags": {
@@ -20621,7 +20621,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863829",
     "job_posted_at_datetime_utc": "2026-05-07T19:02:24.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -39597,7 +39597,7 @@
     "job_location": "Santa Clara, California, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556628561",
     "job_posted_at_datetime_utc": "2026-05-05T18:46:34.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3cfbaab5e99a26096f4e7fda0010865c48dd1a153f613bc3bf81273c1767558a",
     "tags": {
@@ -41213,7 +41213,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863752",
     "job_posted_at_datetime_utc": "2026-05-05T12:57:48.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "172ba110541125d4b63bc2096452e5f26da937aab5d8376213770ac7a45d77e3",
     "tags": {
@@ -49492,6 +49492,96 @@
     "job_posted_at": "2026-05-04T18:10:47.879Z"
   },
   {
+    "job_id": "google-116138189822796486",
+    "job_title": "Mechanical Engineer",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/116138189822796486",
+    "job_posted_at_datetime_utc": "2026-05-04T17:43:31.262Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6d6470c1fd26d4ea4236f679157fb619cc36c9ecc3b8102d5c7d4ba12aed906a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-04T17:43:31.262Z"
+  },
+  {
+    "job_id": "google-109035344707363526",
+    "job_title": "Hardware Engineer",
+    "employer_name": "Google",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/109035344707363526",
+    "job_posted_at_datetime_utc": "2026-05-04T17:43:31.262Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a106a42bab04763a1737cc69e0af22eef25048fa90b1bf12b7dab9f461fddce1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "google",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-04T17:43:31.262Z"
+  },
+  {
     "job_id": "google-96386562941428422",
     "job_title": "Network Test Engineer",
     "employer_name": "Google",
@@ -49624,96 +49714,6 @@
       "required_skills": [
         "soc"
       ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-04T17:43:31.262Z"
-  },
-  {
-    "job_id": "google-116138189822796486",
-    "job_title": "Mechanical Engineer",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/116138189822796486",
-    "job_posted_at_datetime_utc": "2026-05-04T17:43:31.262Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6d6470c1fd26d4ea4236f679157fb619cc36c9ecc3b8102d5c7d4ba12aed906a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-04T17:43:31.262Z"
-  },
-  {
-    "job_id": "google-109035344707363526",
-    "job_title": "Hardware Engineer",
-    "employer_name": "Google",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/109035344707363526",
-    "job_posted_at_datetime_utc": "2026-05-04T17:43:31.262Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a106a42bab04763a1737cc69e0af22eef25048fa90b1bf12b7dab9f461fddce1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
       "possible_sponsor": true,
