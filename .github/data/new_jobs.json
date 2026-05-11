@@ -1,5 +1,682 @@
 [
   {
+    "job_id": "greenhouse-verkada-4207342007",
+    "job_title": "Hardware Engineering Program Manager",
+    "employer_name": "Verkada",
+    "job_city": "San Mateo",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Mateo, CA United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/4207342007",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:38.782Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7341192e447f82023cd0423977de931c783a04f4c88a0894085c8ab0908b1d9f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:38.782Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8250059002",
+    "job_title": "Sourcing Manager, Indirect Procurement (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8250059002?gh_jid=8250059002",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:36.408Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7cd809c47ad67ff3e2db262d01a62bd6524d25dc2fd21cc6928eda54e9d937c6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:36.408Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8461194002",
+    "job_title": "Manager, Printed Circuit Board (PCB) Production (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8461194002?gh_jid=8461194002",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:36.406Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f0cc5043772a402e534bf224875633f9abe30a9b2f79b5b97227c73447bfe2e4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "manufacturing",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:36.406Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8283936002",
+    "job_title": "Manager, Starship Build",
+    "employer_name": "SpaceX",
+    "job_city": "Starbase",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Starbase, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8283936002?gh_jid=8283936002",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:36.406Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6a9e81c978c818052a8cb927e3f189c45b6fc35e1495bc608ac6d017f5c0be24",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:36.406Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8492506002",
+    "job_title": "Construction Project Manager, MEP",
+    "employer_name": "SpaceX",
+    "job_city": "McGregor",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McGregor, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8492506002?gh_jid=8492506002",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:36.404Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "96e3ee0392617568abe82d31443e88a217913a26f2f05d49f3dc6e6219f38e55",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:36.404Z"
+  },
+  {
+    "job_id": "greenhouse-sonyinteractiveentertainmentglobal-5843866004",
+    "job_title": "Manager, Service Reliability Engineering",
+    "employer_name": "Sony Interactive Entertainment",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States, Aliso Viejo, CA",
+    "job_apply_link": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5843866004",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:35.771Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "911e513730ebf4985f6756e9c1fd78c2965d2fe1433fc7b8ccc67af147e600cb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:35.771Z"
+  },
+  {
+    "job_id": "greenhouse-scaleai-4663997005",
+    "job_title": "Technical Program Manager, Robotics Data",
+    "employer_name": "Scale AI",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, CA",
+    "job_apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4663997005",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:34.599Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "acc17022ce74b8baf2564bf50058c7a6db9cc355ccfe40f0e0c940deb7af5cdd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations",
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:34.599Z"
+  },
+  {
+    "job_id": "greenhouse-olsson-5188591008",
+    "job_title": "Electrical Field Engineer",
+    "employer_name": "Olsson",
+    "job_city": "Kansas City",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Kansas City, MO; North Kansas City, MO",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5188591008",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e7f83782aa645af3bd516954e8031519ca63eda2beba9d6e82d7f34bd26db34c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:30.045Z"
+  },
+  {
+    "job_id": "greenhouse-olsson-5188580008",
+    "job_title": "Mechanical Field Engineer",
+    "employer_name": "Olsson",
+    "job_city": "Kansas City",
+    "job_state": "MO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Kansas City, MO; North Kansas City, MO",
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5188580008",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:30.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6c423ae633210a38b6f86a6e78766f2990674bfd380c4b4e194835009f9c5dbf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:30.045Z"
+  },
+  {
+    "job_id": "greenhouse-neuralink-6819467003",
+    "job_title": "Engineering Lab Manager",
+    "employer_name": "Neuralink",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, Texas, United States",
+    "job_apply_link": "https://boards.greenhouse.io/neuralink/jobs/6819467003?gh_jid=6819467003",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:29.701Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "378672b6f99de6adceee0634fb4426e91add6f91c6f124246eaf47ef7d6900b5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:29.701Z"
+  },
+  {
+    "job_id": "greenhouse-neuralink-7493547003",
+    "job_title": "Prototyping Lab Engineer & Manager",
+    "employer_name": "Neuralink",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin, Texas, United States",
+    "job_apply_link": "https://boards.greenhouse.io/neuralink/jobs/7493547003?gh_jid=7493547003",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:29.701Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4a5fee73ae002b775b9c5e86ada95f56c21d500b63af43235d76560aba9d0d89",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:29.701Z"
+  },
+  {
+    "job_id": "greenhouse-formlabs-7657605",
+    "job_title": "Technical Program Manager",
+    "employer_name": "Formlabs",
+    "job_city": "Somerville",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Somerville, MA",
+    "job_apply_link": "https://careers.formlabs.com/job/7657605/apply/?gh_jid=7657605",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:21.059Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3c66964cff232bbcc6a9bd12273a181406c9f20f5e3881b2466820e28e535393",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:21.059Z"
+  },
+  {
+    "job_id": "greenhouse-formlabs-7657610",
+    "job_title": "Technical Program Manager",
+    "employer_name": "Formlabs",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boston, MA",
+    "job_apply_link": "https://careers.formlabs.com/job/7657610/apply/?gh_jid=7657610",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:21.059Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51605a578f505e92444214df83d6458c0025768dabf04f04b48b8273bf1a07a1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:21.059Z"
+  },
+  {
+    "job_id": "greenhouse-formlabs-7737076",
+    "job_title": "Robotic Systems Integration Manager",
+    "employer_name": "Formlabs",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boston, MA",
+    "job_apply_link": "https://careers.formlabs.com/job/7737076/apply/?gh_jid=7737076",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:21.058Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "79324a663ecc48a75803d7f2a6850594c1bfefec1a78d9d3b486470cc3437f0c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:21.058Z"
+  },
+  {
+    "job_id": "greenhouse-formlabs-7736963",
+    "job_title": "Robotic Systems Integration Manager",
+    "employer_name": "Formlabs",
+    "job_city": "Somerville",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Somerville, MA",
+    "job_apply_link": "https://careers.formlabs.com/job/7736963/apply/?gh_jid=7736963",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:21.058Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d134f5e5a34f5e475b558904a9eaa15e99f56dcc95e03b2933a2de748ad493bd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:21.058Z"
+  },
+  {
+    "job_id": "greenhouse-databricks-8458032002",
+    "job_title": "Manager, Field Engineering - Strategic Digital Native Business",
+    "employer_name": "Databricks",
+    "job_city": "California; Remote - Colorado; Remote - Oregon; Remote - Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote - California; Remote - Colorado; Remote - Oregon; Remote - Washington",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8458032002",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:18.845Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "433715b271baaf84b0b4abba2a48cbbeb9690bee02145cd0a696ac59af62fe3c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "unicorn"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:18.845Z"
+  },
+  {
+    "job_id": "greenhouse-aurorainnovation-8343467002",
+    "job_title": "Technical Program Manager - Hardware Product Engineering",
+    "employer_name": "Aurora Innovation",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Mountain View, California",
+    "job_apply_link": "https://aurora.tech/jobs/8343467002?gh_jid=8343467002",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:14.491Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "23c19c03d70578e76a3be9a5d7c9230c82387ac95d91b87e871e582c9386727d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:14.491Z"
+  },
+  {
+    "job_id": "lever-hermeus-5ffd7b96-64f2-4038-8abf-ae908117b9be",
+    "job_title": "Avionics Shop Manager",
+    "employer_name": "Hermeus",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Los Angeles, CA",
+    "job_apply_link": "https://jobs.lever.co/hermeus/5ffd7b96-64f2-4038-8abf-ae908117b9be/apply",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:13.419Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 138125,
+      "max": 230000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "fingerprint": "4487bee8f5fa9678504f2ed8aae772171e56884624c85fbfef0af4b427d6c60e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-11T00:48:13.419Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-4791848007",
+    "job_title": "Manager - Test Automation Engineering",
+    "employer_name": "Anduril",
+    "job_city": "Costa Mesa",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Costa Mesa, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4791848007?gh_jid=4791848007",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:13.224Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b846e53a31878d440228826ba238cd1e9026c5f6fdd689743da6db94658303e7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware",
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:13.224Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5103943007",
+    "job_title": "Flight Test Integrations and Operations Manager - Mission Autonomy",
+    "employer_name": "Anduril",
+    "job_city": "San Clemente",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Clemente, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5103943007?gh_jid=5103943007",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:13.223Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cba8f2635ea5d9bdd2f21587744530432990b616fce2d586ef97999601c9b272",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:13.223Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5055958007",
+    "job_title": "Formulations Manager, Rocket Motor Systems",
+    "employer_name": "Anduril",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Huntsville, Alabama, United States; McHenry, Mississippi, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5055958007?gh_jid=5055958007",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:13.223Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c129d61114fbdec13bb00cb77ce29e3345df0d82cb5a0d31de7e7876ee45ae89",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:13.223Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-5014302007",
+    "job_title": "Global Sourcing Manager, PCB/PCBA",
+    "employer_name": "Anduril",
+    "job_city": "Costa Mesa",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Costa Mesa, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5014302007?gh_jid=5014302007",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:13.223Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3ec69e7f25a588daf8ec63deaf53e6219c7c0b3dab829706ba982cd2460d4e6b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:13.223Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8383450002",
     "job_title": "Process Controls Engineer, Solar Cell Factory (Starlink)",
     "employer_name": "SpaceX",
@@ -98,6 +775,55 @@
     "job_posted_at": "2026-05-10T21:17:13.991Z"
   },
   {
+    "job_id": "greenhouse-spacex-8418457002",
+    "job_title": "Instrumentation & Controls Engineer, Solar Cell Factory (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Bastrop",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bastrop, TX",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8418457002?gh_jid=8418457002",
+    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.990Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86e77407a914a782a1d7e5f725b1ca27146b76c85a3f16e549ba979eaaac7d4b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "hmi",
+        "networking",
+        "plc",
+        "robotics",
+        "scada"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 22
+    },
+    "job_posted_at": "2026-05-10T21:17:13.990Z"
+  },
+  {
     "job_id": "greenhouse-spacex-8524791002",
     "job_title": "Facilities Engineer, Solar Cell Factory (Starlink)",
     "employer_name": "SpaceX",
@@ -186,55 +912,6 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": 22
-    },
-    "job_posted_at": "2026-05-10T21:17:13.990Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8418457002",
-    "job_title": "Instrumentation & Controls Engineer, Solar Cell Factory (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Bastrop",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bastrop, TX",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8418457002?gh_jid=8418457002",
-    "job_posted_at_datetime_utc": "2026-05-10T21:17:13.990Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86e77407a914a782a1d7e5f725b1ca27146b76c85a3f16e549ba979eaaac7d4b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "hmi",
-        "networking",
-        "plc",
-        "robotics",
-        "scada"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
       "question_count": 22
     },
     "job_posted_at": "2026-05-10T21:17:13.990Z"
@@ -1176,54 +1853,6 @@
     "job_posted_at": "2026-05-09T15:00:59.472Z"
   },
   {
-    "job_id": "greenhouse-spacex-8512813002",
-    "job_title": "Propulsion Engineer, Components Manufacturing (Raptor)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hawthorne, CA",
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002",
-    "job_posted_at_datetime_utc": "2026-05-09T15:00:57.223Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "be663b25c4c40f1ad7936f7019e6ca0b2a4c539f68fd5bd1c7f8206d351813af",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "system design"
-      ],
-      "nice_to_have_skills": [
-        "project management"
-      ],
-      "sponsors_visa": false,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": 22
-    },
-    "job_posted_at": "2026-05-09T15:00:57.223Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8513119002",
     "job_title": "Operations Engineer, Spaceport Operations",
     "employer_name": "SpaceX",
@@ -1262,6 +1891,54 @@
         "tableau"
       ],
       "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 22
+    },
+    "job_posted_at": "2026-05-09T15:00:57.223Z"
+  },
+  {
+    "job_id": "greenhouse-spacex-8512813002",
+    "job_title": "Propulsion Engineer, Components Manufacturing (Raptor)",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hawthorne, CA",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8512813002?gh_jid=8512813002",
+    "job_posted_at_datetime_utc": "2026-05-09T15:00:57.223Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "be663b25c4c40f1ad7936f7019e6ca0b2a4c539f68fd5bd1c7f8206d351813af",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "system design"
+      ],
+      "nice_to_have_skills": [
+        "project management"
+      ],
       "sponsors_visa": false,
       "possible_sponsor": null,
       "visa_question_present": false,
@@ -12384,7 +13061,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863830",
     "job_posted_at_datetime_utc": "2026-05-07T19:04:18.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -12434,7 +13111,7 @@
     "job_location": "Milwaukee, Wisconsin, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863829",
     "job_posted_at_datetime_utc": "2026-05-07T19:02:24.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "93fcce00b0b517bc486bd8c62cbb01162a1fb9a3b4d93a1ba90377fa7d613ad4",
     "tags": {
@@ -33026,7 +33703,7 @@
     "job_location": "Atlanta, Georgia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863752",
     "job_posted_at_datetime_utc": "2026-05-05T12:57:48.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "172ba110541125d4b63bc2096452e5f26da937aab5d8376213770ac7a45d77e3",
     "tags": {
@@ -41013,7 +41690,7 @@
     "job_location": "Boydton, Virginia, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556813763",
     "job_posted_at_datetime_utc": "2026-05-04T19:36:33.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "f59e0212d07938df773e5e17ae4687412a2bc1dcc6511b69baaf28686349641f",
     "tags": {
@@ -42360,7 +43037,7 @@
     "job_location": "Chicago, Illinois, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556623149",
     "job_posted_at_datetime_utc": "2026-05-04T13:20:39.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "baf8dfe6ba09dfedbd16a8ccc23b1d88445b557a957bd9f76676d25ceee34911",
     "tags": {
