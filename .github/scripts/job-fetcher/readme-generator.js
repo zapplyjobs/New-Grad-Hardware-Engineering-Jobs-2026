@@ -16,7 +16,7 @@ const jobCategories = require(path.join(process.cwd(), '.github/scripts/job-fetc
 
 
 // Import shared readme generator
-const { createReadmeGenerator } = require(path.join(__dirname, '../shared/lib/readme-generator.js'));
+const { createReadmeGenerator } = require(path.join(__dirname, '../consumer/lib/readme-generator.js'));
 
 // Create and export readme generator with repo-specific config
 module.exports = createReadmeGenerator(config, jobCategories, process.cwd());
