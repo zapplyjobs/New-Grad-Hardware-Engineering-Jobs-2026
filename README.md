@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2098-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2096-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-230-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -259,7 +259,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **HPE** | ASIC Design Engineer lll | Sunnyvale, Califo... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/ASIC-Design-Engineer-lll_1201839-3) |
 | 🏢 **HPE (University)** | ASIC Design Engineer lll | Sunnyvale, Califo... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Design-Engineer-lll_1201839-1) |
 | 🏢 **Verkada** | Associate Recruiter | San Mateo, CA Uni... | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5112051007) |
-| 🏢 **AbbVie** | Associate Shift Technical Engineer (rotating shifts) | North Chicago, IL | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013049247) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -323,7 +322,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Redwood Materials** | Power Electronics Engineer, Energy Storage | San Francisco, Ca... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/5737886004?gh_jid=5737886004) |
 | 🏢 **Intel** | CPU Circuit Design Engineer | US, Texas, Austin | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Circuit-Design-Engineer_JR0283836) |
 | 🏢 **Anduril** | Camera Test Engineer | Lexington, Massac... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5137179007?gh_jid=5137179007) |
-| 🏢 **Etched** | PCIe Validation Engineer | San Jose | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/etched/55ebeffd-3e22-4b7d-b848-48736e5f1c1d/application) |
+| 🏢 **Etched** | PCIe Validation Engineer | San Jose | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/etched/55ebeffd-3e22-4b7d-b848-48736e5f1c1d/application) |
 | 🏢 **Leidos** | Combat Systems Test Engineer | Arlington, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Combat-Systems-Test-Engineer_R-00183156) |
 | 🏢 **KBR** | Fiber Test Engineer | Lexington, Massac... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Massachusetts/Fiber-Test-Engineer_R2123637) |
 | 🏢 **SpaceX** | Mechanical Integration & Test Engineer, User Products (Starshield) | Hawthorne, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8508577002?gh_jid=8508577002) |
@@ -415,7 +414,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Supplier Quality Engineer | Quonset, Rhode Is... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5095099007?gh_jid=5095099007) |
 | 🏢 **Apple** | Software Quality Engineer | Sunnyvale | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200663097/software-quality-engineer) |
 | 🏢 **Astera Labs** | Product Quality Engineer (NCG) | San Jose, Califor... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4695147005) |
-| 🏢 **RTX** | Advanced Sensors Program Quality Engineer | Mckinney, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Advanced-Sensors-Program-Quality-Engineer_01843873) |
+| 🏢 **RTX** | Advanced Sensors Program Quality Engineer | Mckinney, TX | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Advanced-Sensors-Program-Quality-Engineer_01843873) |
 | 🏢 **Micron** | Engineer - HIG HBM PSE - Design Validation | Richardson, TX | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Engineer---HIG-HBM-PSE---Design-Validation_JR91608) |
 | 🏢 **Philips** | Quality Engineer | Murrysville, Penn... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Quality-Engineer_583234-1) |
 | 🏢 **Apple** | Applied Networking Quality Engineer | Cupertino | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662980/applied-networking-quality-engineer) |
@@ -428,8 +427,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Medtronic** | Quality Engineer I - Plymouth, MN | Plymouth, Minneso... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Plymouth-Minnesota-United-States-of-America/Quality-Engineer-I---Plymouth--MN_R66677-1) |
 | 🏢 **Apple** | Mac System Validation EPM (Engineering Project Manager) | Cupertino | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662741/mac-system-validation-epm-engineering-project-manager) |
 | 🏢 **Nokia** | Photonic Circuit Test Development Engineer | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29176) |
-| 🏢 **Arrive Logistics** | Quality Engineer | Chicago, IL | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/arrivelogistics/196aa237-4da4-4f14-8ab4-b1a26af1fc7d/apply) |
-| 🏢 **SharkNinja** | Quality Engineer - Coffee | Needham, MA, Unit... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4671451006) |
+| 🏢 **Arrive Logistics** | Quality Engineer | Chicago, IL | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/arrivelogistics/196aa237-4da4-4f14-8ab4-b1a26af1fc7d/apply) |
+| 🏢 **SharkNinja** | Quality Engineer - Coffee | Needham, MA, Unit... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4671451006) |
 | 🏢 **Anduril** | Quality Engineer | Fort Collins, Col... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5134497007?gh_jid=5134497007) |
 | 🏢 **Arrive Logistics** | Quality Engineer | Austin, TX | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/arrivelogistics/79065612-bc7e-4c74-afd9-8ed5c4bf02ba/apply) |
 | 🏢 **Alarm.com** | Quality Engineer | Tysons, Virginia | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8533264002) |
@@ -518,7 +517,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2098 current opportunities from 230 companies**
+**🎯 2096 current opportunities from 230 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
