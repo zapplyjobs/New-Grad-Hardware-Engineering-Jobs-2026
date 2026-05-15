@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2103-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2100-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-230-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -260,7 +260,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **HPE (University)** | ASIC Design Engineer lll | Sunnyvale, Califo... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Design-Engineer-lll_1201839-1) |
 | 🏢 **Verkada** | Associate Recruiter | San Mateo, CA Uni... | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5112051007) |
 | 🏢 **AbbVie** | Associate Shift Technical Engineer (rotating shifts) | North Chicago, IL | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013049247) |
-| 🏢 **Apple** | ASIC Design Engineer - Pixel IP DMA | Cupertino | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200660772/asic-design-engineer-pixel-ip-dma) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -345,7 +344,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Apple** | SerDes Circuit Design Engineer | Cupertino | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662975/serdes-circuit-design-engineer) |
 | 🏢 **Astranis** | Radiation Test Engineer | San Francisco | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4681164006) |
 | 🏢 **Oklo** | Hardware Test Engineer | Idaho Falls, ID | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/oklo/jobs/5544852004) |
-| 🏢 **Neuralink** | Analog IC Layout Engineer | Fremont, Californ... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7718856003?gh_jid=7718856003) |
+| 🏢 **Neuralink** | Analog IC Layout Engineer | Fremont, Californ... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7718856003?gh_jid=7718856003) |
 | 🏢 **OpenAI** | Manufacturing Test Engineer, AI Compute Infrastructure - Stargate | US | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/8a950265-0527-48f8-be3c-2923d7d96940/application) |
 | 🏢 **FLIR Systems** | Analog Design Engineer | Goleta, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Goleta-CA/Analog-Design-Engineer_REQ34534) |
 | 🏢 **Generac** | Field Power Electronics Technician - UPS and Battery | Marlborough, MA -... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Marlborough-MA---USA/Field-Power-Electronics-Technician---UPS-and-Battery_JR14223) |
@@ -519,7 +518,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2103 current opportunities from 230 companies**
+**🎯 2100 current opportunities from 230 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
