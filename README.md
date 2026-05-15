@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2074-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2073-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-230-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -208,7 +208,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Boeing** | Occupational Health and Safety Specialist (Associate or Mid-Level) | San Antonio, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Occupational-Health-and-Safety-Specialist--Associate-or-Mid-Level-_JR2026506045-1) |
 | 🏢 **Latitude AI** | Bench Technician Associate - Pittsburgh, PA (Contract) | Pittsburgh, PA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/latitude/jobs/7816212) |
 | 🏢 **Anduril** | Firmware Engineer, Embedded Systems | Costa Mesa, Calif... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5118039007?gh_jid=5118039007) |
-| 🏢 **SEL** | Associate Process Engineer | Pullman | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Process-Engineer_2026-20593) |
+| 🏢 **SEL** | Associate Process Engineer | Pullman | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Process-Engineer_2026-20593) |
 | 🏢 **Sandisk** | Security Firmware Engineer | Irvine, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000126380058) |
 | 🏢 **Broadcom** | Firmware Engineer | California | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Firmware-Engineer_R024775) |
 | 🏢 **AES Corporation** | Associate Transmission Planning Engineer | Indianapolis, IN ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Associate-Transmission-Planning-Engineer_R1063213-1) |
@@ -517,7 +517,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2074 current opportunities from 230 companies**
+**🎯 2073 current opportunities from 230 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
