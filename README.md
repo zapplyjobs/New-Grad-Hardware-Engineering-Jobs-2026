@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2106-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2103-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-230-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -327,7 +327,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Etched** | PCIe Validation Engineer | San Jose | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/etched/55ebeffd-3e22-4b7d-b848-48736e5f1c1d/application) |
 | 🏢 **Leidos** | Combat Systems Test Engineer | Arlington, VA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Combat-Systems-Test-Engineer_R-00183156) |
 | 🏢 **KBR** | Fiber Test Engineer | Lexington, Massac... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Massachusetts/Fiber-Test-Engineer_R2123637) |
-| 🏢 **SpaceX** | Mechanical Integration & Test Engineer, User Products (Starshield) | Hawthorne, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8508577002?gh_jid=8508577002) |
+| 🏢 **SpaceX** | Mechanical Integration & Test Engineer, User Products (Starshield) | Hawthorne, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8508577002?gh_jid=8508577002) |
 | 🏢 **Western Digital** | Cloud Storage Test Engineer | Rochester, MN | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000126375711) |
 | 🏢 **SpaceX** | Wireless Integration & Validation Engineer (Starlink Mobile) | Sunnyvale, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8546676002?gh_jid=8546676002) |
 | 🏢 **KBR** | Systems Integration and Test Engineer | El Segundo, Calif... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/Systems-Integration-and-Test-Engineer_R2123351) |
@@ -432,7 +432,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Arrive Logistics** | Quality Engineer | Chicago, IL | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/arrivelogistics/196aa237-4da4-4f14-8ab4-b1a26af1fc7d/apply) |
 | 🏢 **SharkNinja** | Quality Engineer - Coffee | Needham, MA, Unit... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4671451006) |
 | 🏢 **Anduril** | Quality Engineer | Fort Collins, Col... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5134497007?gh_jid=5134497007) |
-| 🏢 **Arrive Logistics** | Quality Engineer | Austin, TX | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/arrivelogistics/79065612-bc7e-4c74-afd9-8ed5c4bf02ba/apply) |
+| 🏢 **Arrive Logistics** | Quality Engineer | Austin, TX | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/arrivelogistics/79065612-bc7e-4c74-afd9-8ed5c4bf02ba/apply) |
 | 🏢 **Alarm.com** | Quality Engineer | Tysons, Virginia | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8533264002) |
 | 🏢 **Medtronic** | Quality Engineer I | Plymouth, Minneso... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Plymouth-Minnesota-United-States-of-America/Quality-Engineer-I_R66487-2) |
 | 🏢 **iRhythm** | Product Quality Engineering Technician | Orange County, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/Orange-County-CA/Product-Quality-Engineering-Technician_JR1385) |
@@ -519,7 +519,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2106 current opportunities from 230 companies**
+**🎯 2103 current opportunities from 230 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
