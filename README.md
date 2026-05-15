@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2162-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2159-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-230-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -76,12 +76,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Baker Hughes** | Machinery Diagnostics Field Engineer | VA OTHER VIRGINIA... | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-VA-OTHER-VIRGINIA/Machinery-Diagnostics-Field-Engineer_R162484) |
 | 🏢 **SpaceX** | Mechanical Design Engineer, Production (Starlink) | Redmond, WA | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8362950002?gh_jid=8362950002) |
 | 🏢 **Olsson** | Project Traffic Engineer | Des Moines, IA | 21h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5206630008) |
-| 🏢 **Formlabs** | Electrical Engineer | Somerville, MA | 21h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7926665/apply/?gh_jid=7926665) |
-| 🏢 **SpaceX** | RCDD / ICT Design Engineer | Cape Canaveral, FL | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8510436002?gh_jid=8510436002) |
-| 🏢 **Lucid Motors** | ADAS/AD Functional Safety Testing Manager | Newark, CA | 21h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5122791007) |
-| 🏢 **Anduril** | Mechanical Engineer | Lexington, Massac... | 21h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5118997007?gh_jid=5118997007) |
-| 🏢 **Intuitive** | Machine Learning Robotics Engineer | Sunnyvale, CA | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126558575) |
-| 🏢 **LLNL** | Mechanical Engineer – Pulsed Power Systems | Livermore, CA | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013136206) |
+| 🏢 **Formlabs** | Electrical Engineer | Somerville, MA | 22h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7926665/apply/?gh_jid=7926665) |
+| 🏢 **SpaceX** | RCDD / ICT Design Engineer | Cape Canaveral, FL | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8510436002?gh_jid=8510436002) |
+| 🏢 **Lucid Motors** | ADAS/AD Functional Safety Testing Manager | Newark, CA | 22h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5122791007) |
+| 🏢 **Anduril** | Mechanical Engineer | Lexington, Massac... | 22h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5118997007?gh_jid=5118997007) |
+| 🏢 **Intuitive** | Machine Learning Robotics Engineer | Sunnyvale, CA | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126558575) |
+| 🏢 **LLNL** | Mechanical Engineer – Pulsed Power Systems | Livermore, CA | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013136206) |
 | 🏢 **Apple** | Phone System Design Engineer - Power Modeling | Cupertino | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200663346/phone-system-design-engineer-power-modeling) |
 | 🏢 **General Motors** | System Safety Engineer | 2 Locations | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/System-Safety-Engineer_JR-202609269-1) |
 | 🏢 **SpaceX** | Launch Engineer, Fluid Systems (Launch Pad) | Vandenberg, CA | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8525848002?gh_jid=8525848002) |
@@ -94,20 +94,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **KLA** | Technical Instructor (BBP) | Phoenix, AZ | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Technical-Instructor--BBP-_2636625-1) |
 | 🏢 **Northrop Grumman** | Dynamic & Structural Engineer Level 3/4 (AHT) | California | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Dynamic---Structural-Engineer-Level-3-4--AHT-_R10232976-1) |
 | 🏢 **Olsson** | Civil CAD Technician - Federal Engineering and Design Team | Remote; Arkansas | 22h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5058915008) |
-| 🏢 **Graphcore** | Power Integrity Engineer | Bristol, UK; Camb... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8549419002) |
-| 🏢 **Redis** | Site Reliability Engineer | United States | 22h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/redis/c8e09742-d080-46b2-88af-a6bbc1b8947a/application) |
-| 🏢 **Graphcore** | Signal Integrity Engineer | Bristol, UK; Camb... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8549391002) |
+| 🏢 **Graphcore** | Power Integrity Engineer | Bristol, UK; Camb... | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8549419002) |
+| 🏢 **Redis** | Site Reliability Engineer | United States | 23h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/redis/c8e09742-d080-46b2-88af-a6bbc1b8947a/application) |
+| 🏢 **Graphcore** | Signal Integrity Engineer | Bristol, UK; Camb... | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8549391002) |
 | 🏢 **Snowflake** | AI System Research and Development Engineer - Optimization | Menlo Park, CA | 23h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/snowflake/b8b30900-135e-4937-91b4-cec38d7901fd/application) |
 | 🏢 **CACI** | Graphic Designer-Bilingual | Homestead Arb, FL | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-FL-Homestead-ARB/GRAPHIC-DESIGNER_326131) |
 | 🏢 **CACI** | Electronics Technician | Lexington Park, MD | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Lexington-Park/Electronics-Technician_326137) |
 | 🏢 **CFS Energy** | Mechanical Engineer – Cable Magnets | Devens, MA | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/cfsenergy/334fab5a-f6b7-41a1-ad46-e521a471977d/apply) |
 | 🏢 **FLIR Systems** | Wafer Backside Processing Technician | Goleta, CA | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Goleta-CA/Clean-Room-Mfg-Tech_REQ29131-1) |
 | 🏢 **Applied Materials** | Administrative Support | Austin,TX | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Administrative-Support_R2619521) |
-| 🏢 **Formlabs** | 3D Print Optimization Engineer | Somerville, MA | 23h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7926271/apply/?gh_jid=7926271) |
-| 🏢 **Formlabs** | 3D Print Optimization Engineer | Boston, MA | 23h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7926267/apply/?gh_jid=7926267) |
-| 🏢 **Medtronic** | EP Mapping Specialist, CAS - NYC | 5 Locations | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Manhattan-New-York-United-States-of-America/EP-Mapping-Specialist--CAS---NYC_R67097-1) |
-| 🏢 **Johnson & Johnson** | R&D Engineer 2 - Electrophysiology | Irvine, Californi... | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/R-D-Engineer-2---Electrophysiology_R-065375) |
-| 🏢 **Boeing** | Industrial Engineer (Entry level) | Everett, WA + 4 more | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Industrial-Engineer--Entry-level-_JR2026508577-1) |
+| 🏢 **Formlabs** | 3D Print Optimization Engineer | Somerville, MA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7926271/apply/?gh_jid=7926271) |
+| 🏢 **Formlabs** | 3D Print Optimization Engineer | Boston, MA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7926267/apply/?gh_jid=7926267) |
+| 🏢 **Medtronic** | EP Mapping Specialist, CAS - NYC | 5 Locations | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Manhattan-New-York-United-States-of-America/EP-Mapping-Specialist--CAS---NYC_R67097-1) |
+| 🏢 **Johnson & Johnson** | R&D Engineer 2 - Electrophysiology | Irvine, Californi... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Irvine-California-United-States-of-America/R-D-Engineer-2---Electrophysiology_R-065375) |
+| 🏢 **Boeing** | Industrial Engineer (Entry level) | Everett, WA + 4 more | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Industrial-Engineer--Entry-level-_JR2026508577-1) |
 | 🏢 **AMD** | System Failure Analysis Engineer (GPU Servers / Data Center) | Austin, TX, Unite... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-amd.icims.com/jobs/86061/login) |
 | 🏢 **General Motors** | RF Antenna Engineer | 2 Locations | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/RF-Antenna-Engineer_JR-202610007) |
 | 🏢 **Apple** | Mechanical Systems Design Engineer | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200648232/mechanical-systems-design-engineer) |
@@ -272,7 +272,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Anduril** | Embedded Linux Engineer | Costa Mesa, Calif... | 21h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5100784007?gh_jid=5100784007) |
+| 🏢 **Anduril** | Embedded Linux Engineer | Costa Mesa, Calif... | 22h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5100784007?gh_jid=5100784007) |
 | 🏢 **Apple** | Embedded Software Engineer | Austin | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662979/embedded-software-engineer) |
 | 🏢 **Western Digital** | Technologist - Firmware Development | Irvine, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000126378039) |
 | 🏢 **Apple** | Camera Embedded Software Engineer | Cupertino | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662403/camera-embedded-software-engineer) |
@@ -523,7 +523,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2162 current opportunities from 230 companies**
+**🎯 2159 current opportunities from 230 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
