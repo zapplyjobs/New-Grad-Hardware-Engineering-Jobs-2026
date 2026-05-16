@@ -271,7 +271,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Anduril** | Embedded Linux Engineer | Costa Mesa, Calif... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5100784007?gh_jid=5100784007) |
-| 🏢 **Apple** | Embedded Software Engineer | Austin | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662979/embedded-software-engineer) |
+| 🏢 **Apple** | Embedded Software Engineer | Austin | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662979/embedded-software-engineer) |
 | 🏢 **Western Digital** | Technologist - Firmware Development | Irvine, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000126378039) |
 | 🏢 **Apple** | Camera Embedded Software Engineer | Cupertino | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662403/camera-embedded-software-engineer) |
 | 🏢 **Honeywell** | Embedded Engineer 1 New Grad | St. Charles, IL | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140055) |
