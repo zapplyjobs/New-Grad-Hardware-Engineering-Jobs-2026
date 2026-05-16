@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2068-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2067-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-230-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -199,8 +199,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Google** | RTL Design Engineer, Machine Learning Accelerators | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122119136867164870) |
 | 🏢 **Zoox** | Part-Time Student Worker – Firmware Engineer (FW Thermal/Body) | Foster City, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/zoox/07f0834f-06ec-44c7-a24b-3efa08589d38/apply) |
 | 🏢 **Etched** | Design Verification Engineer - SoC | Austin | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/etched/33adf31c-e0ad-4080-bb83-1b3859f95d35/application) |
-| 🏢 **HPE (University)** | VLSI Design Verification Manager - Slingshot ASIC Team | 3 Locations | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Manager---Slingshot-ASIC-Team_1206816-2) |
-| 🏢 **HPE** | VLSI Design Verification Manager - Slingshot ASIC Team | 3 Locations | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Manager---Slingshot-ASIC-Team_1206816) |
+| 🏢 **HPE (University)** | VLSI Design Verification Manager - Slingshot ASIC Team | 3 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Manager---Slingshot-ASIC-Team_1206816-2) |
+| 🏢 **HPE** | VLSI Design Verification Manager - Slingshot ASIC Team | 3 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Manager---Slingshot-ASIC-Team_1206816) |
 | 🏢 **TikTok** | Graduate Machine Learning Engineer - TikTok Data Search Basic Ranking | San Jose, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7639440318003300613) |
 | 🏢 **Northrop Grumman** | 2026 Associate Liaison/MRB Engineer/ Liaison/MRB Engineer - Weekend Shift | Mississippi | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2026-Associate-Liaison-MRB-Engineer--Liaison-MRB-Engineer---Weekend-Shift_R10230522) |
 | 🏢 **Northrop Grumman** | 2026 Associate Structural Engineer/ Structural Engineer - Night Shift | Mississippi | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2026-Associate-Structural-Engineer--Structural-Engineer---Night-Shift_R10230450) |
@@ -336,7 +336,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Actuator Test Engineer | Costa Mesa, Calif... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5116721007?gh_jid=5116721007) |
 | 🏢 **Astranis** | Electronics Test Engineer | San Francisco, Ca... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4681219006) |
 | 🏢 **True Anomaly** | Avionics System Integration & Test Engineer | Long Beach, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5123514007) |
-| 🏢 **Anduril** | Manufacturing Test Engineer, Roadrunner | Ashville, Ohio, U... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5116757007?gh_jid=5116757007) |
+| 🏢 **Anduril** | Manufacturing Test Engineer, Roadrunner | Ashville, Ohio, U... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5116757007?gh_jid=5116757007) |
 | 🏢 **Google** | Hardware Validation Engineer, Networking and Signal Integrity, Platforms | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98776179665707718) |
 | 🏢 **Google** | Hardware Power Test Engineer, Platforms | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91641527096222406) |
 | 🏢 **SpaceX** | Integration & Test Engineer (Starlink) | Redmond, WA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8527331002?gh_jid=8527331002) |
@@ -418,7 +418,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Micron** | Engineer - HIG HBM PSE - Design Validation | Richardson, TX | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Engineer---HIG-HBM-PSE---Design-Validation_JR91608) |
 | 🏢 **Philips** | Quality Engineer | Murrysville, Penn... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Quality-Engineer_583234-1) |
 | 🏢 **Apple** | Applied Networking Quality Engineer | Cupertino | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662980/applied-networking-quality-engineer) |
-| 🏢 **Anduril** | Product Quality Engineer, Roadrunner | Ashville, Ohio, U... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5116826007?gh_jid=5116826007) |
+| 🏢 **Anduril** | Product Quality Engineer, Roadrunner | Ashville, Ohio, U... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5116826007?gh_jid=5116826007) |
 | 🏢 **Google** | Manufacturing Test Development Engineer, AI and Infrastructure | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/88650553747219142) |
 | 🏢 **Google** | Manufacturing Test Development Engineer | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143972481298768582) |
 | 🏢 **Google** | Supplier Quality Engineer, Thermals | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135177686430425798) |
@@ -517,7 +517,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2068 current opportunities from 230 companies**
+**🎯 2067 current opportunities from 230 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
