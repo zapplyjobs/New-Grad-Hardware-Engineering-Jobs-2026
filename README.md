@@ -166,7 +166,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Texas Instruments** | Engineering Specialist - Test Lab | Abbotsford, WI | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/251001) |
 | 🏢 **ByteDance** | Graduate Design Verification Engineer - Video Silicon IP | San Jose, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.bytedance.com/en/position/7551554573577750802/detail) |
 | 🏢 **Qualcomm** | Engineering Technician - Engineering Technician - 03428 WRD RFFE - NE | Boxborough, MA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://qualcomm.eightfold.ai/careers/job/446707211359) |
-| 🏢 **Intel** | Packaging Module Development Engineer | US, Arizona, Phoenix | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0283827) |
+| 🏢 **Intel** | Packaging Module Development Engineer | US, Arizona, Phoenix | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0283827) |
 | 🏢 **FLIR Systems** | Reliability Engineer | Goleta, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Goleta-CA/Reliability-Engineer_REQ33885) |
 
 <p align="center">Apply for more jobs at</p>
