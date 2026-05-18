@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1547-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1546-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-172-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -323,8 +323,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Blue Origin** | Integrated Test Engineer I - New Glen... | Space Coast, FL | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Integrated-Test-Engineer-II---New-Glenn--Mech-Systems_R59455-1) |
 | **HP Inc** | Page Wide Press Test Engineer | Corvallis, Oregon... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Page-Wide-Press-Test-Engineer_3162173-1) |
 | **Astranis** | Electronics Test Engineer | San Francisco, Ca... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4681219006) |
-| **Google** | Hardware Validation Engineer, Network... | United States | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98776179665707718) |
-| **Google** | Hardware Power Test Engineer, Platforms | United States | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91641527096222406) |
+| **Google** | Hardware Validation Engineer, Network... | United States | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98776179665707718) |
+| **Google** | Hardware Power Test Engineer, Platforms | United States | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91641527096222406) |
 | **Anduril** | Manufacturing Test Engineer, Intellig... | Santa Ana, Califo... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5135616007?gh_jid=5135616007) |
 | **Carrier Global** | Electronic Manufacturing Test Engineer | GA18: 1150 Robert... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/GA18-1150-Roberts-Boulevard-Kennesaw-GA-30144-USA/Electronic-Manufacturing-Test-Engineer_30201677) |
 | **Apple** | SerDes Circuit Design Engineer | Cupertino | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200662975/serdes-circuit-design-engineer) |
@@ -359,7 +359,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Nokia** | Photonic Circuit Test Development Eng... | United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29176) |
-| **Applied Materials** | NPI Quality Engineer - E3 | Austin,TX | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/NPI-Quality-Engineer---E3_R2619837) |
+| **Applied Materials** | NPI Quality Engineer - E3 | Austin,TX | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/NPI-Quality-Engineer---E3_R2619837) |
 | **Medtronic** | Quality Engineer I | North Haven, Conn... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Quality-Engineer-I_R67150-1) |
 | **Magna** | Supplier Quality Engineer | Troy, Michigan, US | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/Supplier-Quality-Engineer_R00240987-1) |
 | **Shield AI** | Technician 4, Quality Engineering (R4... | Dallas, Texas | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shieldai/8f00a36b-02b5-4800-b55b-2c9d29c6dd62/apply) |
@@ -383,8 +383,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Philips** | Quality Engineer | Murrysville, Penn... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Quality-Engineer_583234-1) |
 | **Micron** | Engineer - HIG HBM PSE - Design Valid... | Richardson, TX | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Engineer---HIG-HBM-PSE---Design-Validation_JR91608) |
 | **Apple** | Applied Networking Quality Engineer | Cupertino | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200662980/applied-networking-quality-engineer) |
-| **Google** | Manufacturing Test Development Engine... | United States | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/88650553747219142) |
-| **Google** | Manufacturing Test Development Engineer | United States | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143972481298768582) |
+| **Google** | Manufacturing Test Development Engine... | United States | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/88650553747219142) |
+| **Google** | Manufacturing Test Development Engineer | United States | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/143972481298768582) |
 | **Texas Instruments** | Customer Quality Engineer (Sensing) | Dallas, TX, Unite... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010533) |
 | **Medtronic** | Quality Engineer I - Plymouth, MN | Plymouth, Minneso... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Plymouth-Minnesota-United-States-of-America/Quality-Engineer-I---Plymouth--MN_R66677-1) |
 | **Google** | Supplier Quality Engineer, Thermals | United States | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135177686430425798) |
@@ -459,7 +459,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1547 current opportunities from 172 companies**
+**🎯 1546 current opportunities from 172 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
