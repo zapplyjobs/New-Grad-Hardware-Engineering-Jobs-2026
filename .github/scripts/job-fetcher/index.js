@@ -27,7 +27,7 @@ async function main() {
 
     // Fetch hardware engineering jobs from aggregator
     const consumer = createAggregatorConsumer({
-      filters: { domains: ['hardware'], employment: 'entry_level', locations: ['us'] },
+      filters: { domains: ['hardware'], locations: ['us'] },
       verbose: true
     });
 
