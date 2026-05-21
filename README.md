@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2367-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2364-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-266-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -302,7 +302,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **FLIR Systems** | Cyber Software Engineer (Embedded) | Stillwater, OK | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Stillwater-OK/Senior-Cyber-Software-Engineer--Embedded-_REQ33323) |
 | **Bose** | Embedded Software Engineer | US, MA - Framingham | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer_R28615) |
 | **Northrop Grumman** | Embedded Software Engineer (San Diego) | California | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Embedded-Software-Engineer--San-Diego-_R10233070) |
-| **SpaceX** | Embedded Security Engineer (Starlink) | Redmond, WA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8543670002?gh_jid=8543670002) |
 | **Micron** | Intern - SSD Firmware | San Jose, CA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---SSD-Firmware_JR83017) |
 | **Bosch Group** | Engine / Vehicle Embedded Controls In... | Farmington Hills, MI | 2w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000124682895) |
 | **Draper** | Embedded Quality & Fielded Systems In... | Cambridge, MA | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002501) |
@@ -380,7 +379,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Data Services, Inc.** | Electrical Design Engineer, Data Cent... | Seattle, WA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10423008/electrical-design-engineer-data-center-design-engineering) |
 | **NXP** | HW Validation Engineer | Austin | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Oakhill-Office/HW-Validation-Engineer_R-10063521) |
 | **NVIDIA** | Manager, Manufacturing Test Engineering | US, CA, Santa Clara | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Manager--Manufacturing-Test-Engineering_JR2017693) |
-| **Apptronik** | Hardware Test Engineer – Dexterity | Austin, TX | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/apptronik/jobs/5997414004?gh_jid=5997414004) |
+| **Apptronik** | Hardware Test Engineer – Dexterity | Austin, TX | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/apptronik/jobs/5997414004?gh_jid=5997414004) |
 | **NXP** | High Speed Analog Design Engineer | Chandler | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/High-Speed-Analog-Design-Engineer_R-10062964) |
 | **Marvell** | Hardware & Silicon Validation Enginee... | Westlake Village, CA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westlake-Village-CA/Hardware---Silicon-Validation-Engineer---Early-Career_2601748) |
 | **General Motors** | Occupant Positioning System Calibrati... | Warren, Michigan,... | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Occupant-Positioning-System-Calibration-and-Test-Engineer_JR-202609533) |
@@ -540,7 +539,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2367 current opportunities from 266 companies**
+**🎯 2364 current opportunities from 266 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
