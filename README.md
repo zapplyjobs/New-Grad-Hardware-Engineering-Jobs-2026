@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2320-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2319-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-260-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -533,7 +533,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2320 current opportunities from 260 companies**
+**🎯 2319 current opportunities from 260 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
