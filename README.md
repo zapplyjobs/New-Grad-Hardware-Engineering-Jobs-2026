@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2325-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-262-blue?style=flat&logo=building)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-2323-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -206,8 +206,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BlackRock** | Artificial Intelligence & Machine Lea... | New York, NY | 9h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Artificial-Intelligence---Machine-Learning-Engineer--Associate_R261707) |
 | **BlackRock** | Associate, Financial Platform Enginee... | Wilmington, DE | 9h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Wilmington-DE/Associate--Financial-Platform-Engineer--Java----Wilmington--DE_R264440) |
 | **Aerospace Corporation** | Field-Programmable Gate Array (FPGA) ... | El Segundo, CA + ... | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/Field-Programmable-Gate-Array--FPGA--Firmware-Design-Engineer_R015471) |
-| **Moog** | Associate Manufacturing Engineer | Buffalo, NY | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Manufacturing-Engineer_R-26-17327) |
-| **SpaceX** | FPGA/ASIC Design Engineer (Silicon En... | Redmond, WA | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8560022002?gh_jid=8560022002) |
+| **Moog** | Associate Manufacturing Engineer | Buffalo, NY | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Manufacturing-Engineer_R-26-17327) |
+| **SpaceX** | FPGA/ASIC Design Engineer (Silicon En... | Redmond, WA | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8560022002?gh_jid=8560022002) |
 | **Ambarella** | ASIC Design Engineer | United States | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer_JR100053-1) |
 | **NVIDIA** | ASIC Verification Engineer | US, TX, Austin | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Austin/ASIC-Verification-Engineer_JR2015873) |
 | **NVIDIA** | SOC Design Engineer, ASIC Tools and M... | US, TX, Austin | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Austin/ASIC-Design-Engineer--Hardware-Tools-and-Methodology-Development_JR2008177) |
@@ -534,7 +534,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2325 current opportunities from 262 companies**
+**🎯 2323 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
