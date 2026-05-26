@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1885-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1884-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-224-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -243,7 +243,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Eversource Energy** | Associate Engineer (Civil), Transmiss... | Hartford, CT | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Associate-Engineer--Civil---Transmission-Line-Engineering--Hybrid-Schedule-_R-029529) |
 | **Blue Origin** | Materials Management Associate II | Van Horn, TX | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Van-Horn-TX/Materials-Management-Associate-II_R64688) |
 | **RTX** | Full Time Raytheon 2026 - Multi-Produ... | Mckinney, TX | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Full-Time-Raytheon-2026---Multi-Product-Power---Digital-FPGA-Engineer-II_01845082) |
-| **AMD** | FPGA Prototyping and Emulation Engineer | San Jose, CA, Uni... | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/84564/login) |
 | **Ciena** | FPGA Development Intern (Fall 2026 - ... | Atlanta | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/FPGA-Development-Intern--Fall-2026---4-8-months-_R030894) |
 | **Trimble** | Firmware Engineer Intern | CA, Sunnyvale | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CA-Sunnyvale/Firmware-Engineer-Intern_R56042) |
 | **Astranis** | Reliability Design Associate (Summer ... | San Francisco | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4681415006) |
@@ -496,7 +495,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1885 current opportunities from 224 companies**
+**🎯 1884 current opportunities from 224 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
