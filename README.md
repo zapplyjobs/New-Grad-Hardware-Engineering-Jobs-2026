@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1850-brightgreen?style=flat&logo=briefcase)
+![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1849-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-222-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -217,7 +217,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LLNL** | Engineering Design Associate | Livermore, CA | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013263886) |
 | **LLNL** | Engineering Technical Associate | Livermore, CA | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013263855) |
 | **ALTEN Technology** | FPGA Firmware Engineer | San Diego, Califo... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5144662007) |
-| **Archer** | Associate Survivability and Operation... | Remote; San Jose,... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/archer56/jobs/7719738003) |
+| **Archer** | Associate Survivability and Operation... | Remote; San Jose,... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/archer56/jobs/7719738003) |
 | **True Anomaly** | Associate Ground & Flight Test Engine... | Denver, CO or Lon... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5143241007) |
 | **SpaceX** | FPGA/ASIC Design Engineer (Silicon En... | Redmond, WA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8560022002?gh_jid=8560022002) |
 | **NVIDIA** | ASIC Design Efficiency Engineer | CA Santa Clara + ... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Design-Efficiency-Engineer_JR1998928) |
@@ -427,7 +427,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Assistant Vice President Nuclear Labo... | Atlanta, GA, Unit... | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87500) |
 | **FLIR Systems** | Quality Engineer | Lincoln, UK | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Lincoln/Quality-Engineer_REQ34480) |
 | **Wellmark, Inc.** | Quality Engineer III | Des Moines, IA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000127291889) |
-| **Axon** | Product Quality Engineer II (Onsite) | Scottsdale, Arizo... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7732642003) |
 | **Johnson & Johnson** | QSDS Quality Engineer Co-Op | Cincinnati, Ohio,... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Quality-Systems-and-Digital-Services-Quality-Engineer-Co-Op---Fall-2026_R-071416) |
 | **Moog** | Intern, Quality Engineering | Buffalo, NY | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Quality-Engineering_R-26-17816) |
 | **Johnson & Johnson** | Quality Engineering Co-Op - Fall 2026 | Danvers, Massachu... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Quality-Engineering-Co-Op---Fall-2026_R-057076) |
@@ -492,7 +491,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1850 current opportunities from 222 companies**
+**🎯 1849 current opportunities from 222 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
