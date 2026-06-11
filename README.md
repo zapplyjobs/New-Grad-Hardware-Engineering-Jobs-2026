@@ -18,8 +18,8 @@
 <div align="center">
 
 ![Hardware Jobs](https://img.shields.io/badge/Hardware_Jobs-1917-brightgreen?style=flat&logo=briefcase)
-![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1609-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-259-blue?style=flat&logo=building)
+![Top: Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-1609-purple?style=flat&logo=tag)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
