@@ -40,5 +40,8 @@ module.exports = {
   },
 
   // Job categorization
-  defaultCategory: 'hardware_engineer'
+  defaultCategory: 'hardware_engineer',
+
+  // Job filter (single source of truth — used by both index.js and update-readme-only.js)
+  filters: { domains: ['hardware'], locations: ['us'] }
 };
